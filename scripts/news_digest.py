@@ -50,7 +50,7 @@ def summarize_news(news_items, api_key):
     news_text = "\n".join(f"- {item['title']}" for item in news_items)
     links_text = "\n".join(f"- [{item['title']}]({item['link']})" for item in news_items)
 
-    system_prompt = "用中文总结以下新闻，按主题分类，每类1-2句话。直接输出，不要推理过程。"
+    system_prompt = "用中文总结以下新闻，按主题分类，每类1-2句话。直接输出摘要，不要链接，不要推理过程。"
 
     try:
         resp = requests.post(
@@ -101,17 +101,17 @@ def main():
     news = unique[:MAX_TOTAL]
     log(f"[INFO] 去重后共 {len(news)} 条")
 
+    links = "\n".join(f"- [{item['title']}]({item['link']})" for item in news)
+
     if news:
         log(f"[INFO] 调用 AI 总结 API ...")
         summary = summarize_news(news, API_KEY)
         if not summary:
             log(f"[INFO] API 返回为空，使用原始列表")
-            summary = "今日新闻列表：\n\n"
-            for item in news:
-                summary += f"- [{item['title']}]({item['link']})\n"
+            summary = ""
     else:
         log(f"[INFO] 无新闻数据，生成空页面")
-        summary = "暂无新闻数据。"
+        summary = "暂无新闻数据。\n"
 
     page = f"""---
 layout: default
@@ -125,6 +125,12 @@ title: 新闻摘要
 ---
 
 {summary}
+
+---
+
+## 原文链接
+
+{links}
 
 ---
 
