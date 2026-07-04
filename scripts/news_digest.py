@@ -8,11 +8,12 @@ import sys
 import requests
 from datetime import datetime
 
+UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
+
 RSS_FEEDS = [
-    {"url": "https://rsshub.app/36kr/news/latest", "name": "36氪"},
-    {"url": "https://rsshub.app/thepaper/latest", "name": "澎湃新闻"},
-    {"url": "https://rsshub.app/zhihu/daily", "name": "知乎日报"},
-    {"url": "https://rsshub.app/huxiu/article", "name": "虎嗅"},
+    {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻"},
+    {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
+    {"url": "https://hnrss.org/frontpage", "name": "Hacker News"},
 ]
 
 API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
@@ -24,7 +25,9 @@ MAX_TOTAL = 20
 
 def fetch_rss(url, timeout=20):
     try:
-        feed = feedparser.parse(url)
+        r = requests.get(url, timeout=timeout, headers={"User-Agent": UA})
+        r.raise_for_status()
+        feed = feedparser.parse(r.content)
         entries = []
         for entry in feed.entries[:MAX_ARTICLES_PER_FEED]:
             title = entry.get("title", "").strip()
@@ -45,7 +48,7 @@ def summarize_news(news_items, api_key):
     news_text = "\n".join(f"- {item['title']}" for item in news_items)
     links_text = "\n".join(f"- [{item['title']}]({item['link']})" for item in news_items)
 
-    system_prompt = "你是一个新闻编辑。请用中文总结以下新闻，按主题分类（如科技、财经、时政），每类1-2句话，Markdown格式，保持客观简洁。最后附上原始链接列表。"
+    system_prompt = "你是一个新闻编辑。请用中文总结以下新闻，按主题分类（如科技、财经、时政、国际），每类1-2句话，Markdown格式（### 分类标题），保持客观简洁。如有英文内容请翻译为中文。最后附上原始链接列表。"
 
     try:
         resp = requests.post(
@@ -116,6 +119,7 @@ title: 新闻摘要
 ---
 
 *生成时间: {date_str}*
+*数据来源: Google 新闻、BBC 中文、Hacker News*
 """
 
     with open("news.md", "w", encoding="utf-8") as f:
