@@ -3,8 +3,8 @@
 
 import feedparser
 import os
-import sys
 import requests
+import re
 from datetime import datetime
 
 log = lambda msg: print(msg, flush=True)
@@ -12,8 +12,8 @@ log = lambda msg: print(msg, flush=True)
 UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
-    {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻"},
-    {"url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRDZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 科技"},
+    {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(时政)"},
+    {"url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRDZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(科技)"},
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
     {"url": "https://36kr.com/feed", "name": "36氪"},
     {"url": "https://www.solidot.org/index.rss", "name": "Solidot"},
@@ -25,11 +25,22 @@ RSS_FEEDS = [
 API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
 API_KEY = os.environ.get("OPENCODE_GO_API_KEY")
 MODEL = "deepseek-v4-flash"
-MAX_ARTICLES_PER_FEED = 8
-MAX_TOTAL = 40
+MAX_ARTICLES_PER_FEED = 6
+MAX_TOTAL = 30
 
 
-def fetch_rss(url, timeout=20):
+def parse_publisher(title):
+    """从标题末尾提取来源，如 '标题 - 人民日报' → ('标题', '人民日报')"""
+    m = re.search(r'\s*[-–—]\s*(.+)$', title)
+    if m:
+        pub = m.group(1).strip()
+        t = title[:m.start()].strip()
+        if len(pub) < 20 and not pub.startswith("http"):
+            return t, pub
+    return title, ""
+
+
+def fetch_rss(url, source_name, timeout=20):
     try:
         r = requests.get(url, timeout=timeout, headers={"User-Agent": UA})
         r.raise_for_status()
@@ -39,13 +50,14 @@ def fetch_rss(url, timeout=20):
             title = entry.get("title", "").strip()
             link = entry.get("link", "")
             published = entry.get("published", entry.get("updated", ""))
-            desc = entry.get("summary", entry.get("description", ""))
             if title and link:
+                clean_title, publisher = parse_publisher(title)
+                src = publisher if publisher else source_name
                 entries.append({
-                    "title": title,
+                    "title": clean_title,
                     "link": link,
                     "date": published[:10] if published else "",
-                    "desc": desc[:300].strip()
+                    "source": src
                 })
         return entries
     except Exception as e:
@@ -60,22 +72,25 @@ def summarize_news(news_items, api_key):
 
     lines = []
     for item in news_items:
-        date = item["date"] or "待查"
-        desc = item["desc"] or "暂无摘要"
-        lines.append(f"- [{date}] {item['title']} | {desc}")
+        lines.append(f"[{item['date'] or '?'}] [{item['source']}] {item['title']}")
     news_text = "\n".join(lines)
 
-    system_prompt = """你是新闻编辑。将以下新闻按主题分类（时政、科技AI、电脑硬件、财经、国际、社会等），每类精选最多5条最有价值的新闻。
+    system_prompt = """你是资深新闻编辑。任务：整理以下新闻。
 
-对每条新闻输出格式：
+步骤1：审查内容 — 优先采用权威媒体（新华社、人民日报、央视、BBC等），剔除明显不实信息。
+步骤2：按主题分类（时政、科技AI、电脑硬件、财经、国际、社会），每类精选最多5条。
+步骤3：输出以下格式，每篇末尾标注来源。
+
+格式：
 ### 分类名
-- **日期** | **标题** | 内容摘要
+- **日期** | **标题** | 内容摘要 [来源: XXX]
 
 要求：
-- 每类不超过5条
-- 日期格式 YYYY-MM-DD
-- 直接用中文总结内容摘要，50-100字
-- 不要链接，不要推理过程，不要Markdown链接语法"""
+- 每类≤5条
+- 日期 YYYY-MM-DD
+- 摘要40-60字，概括核心内容
+- 末尾 [来源: XXX] 标明出处
+- 不要链接，不要推理过程"""
 
     try:
         resp = requests.post(
@@ -85,7 +100,7 @@ def summarize_news(news_items, api_key):
                 "model": MODEL,
                 "messages": [
                     {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": f"请整理以下新闻：\n\n{news_text}"}
+                    {"role": "user", "content": news_text}
                 ],
                 "max_tokens": 16384,
                 "temperature": 0.3
@@ -110,7 +125,7 @@ def main():
     all_news = []
     for feed in RSS_FEEDS:
         log(f"[INFO] 抓取: {feed['name']}...")
-        entries = fetch_rss(feed["url"])
+        entries = fetch_rss(feed["url"], feed["name"])
         log(f"  获取 {len(entries)} 条")
         all_news.extend(entries)
 
@@ -141,7 +156,7 @@ title: 新闻摘要
 
 # 今日热点摘要
 
-> 自动抓取 · AI 精选 · 每日更新
+> AI 精选 · 来源可溯 · 每日更新
 
 ---
 
@@ -150,7 +165,6 @@ title: 新闻摘要
 ---
 
 *生成时间: {date_str}*
-*数据来源: Google 新闻、BBC 中文、36氪、Solidot、Ars Technica、The Verge、TechCrunch*
 """
 
     with open("news.md", "w", encoding="utf-8") as f:
