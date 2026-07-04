@@ -14,15 +14,20 @@ UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
     {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻"},
+    {"url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRDZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 科技"},
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
-    {"url": "https://hnrss.org/frontpage", "name": "Hacker News"},
+    {"url": "https://36kr.com/feed", "name": "36氪"},
+    {"url": "https://www.solidot.org/index.rss", "name": "Solidot"},
+    {"url": "https://feeds.arstechnica.com/arstechnica/index", "name": "Ars Technica"},
+    {"url": "https://www.theverge.com/rss/index.xml", "name": "The Verge"},
+    {"url": "https://techcrunch.com/feed/", "name": "TechCrunch"},
 ]
 
 API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
 API_KEY = os.environ.get("OPENCODE_GO_API_KEY")
 MODEL = "deepseek-v4-flash"
-MAX_ARTICLES_PER_FEED = 5
-MAX_TOTAL = 20
+MAX_ARTICLES_PER_FEED = 8
+MAX_TOTAL = 30
 
 
 def fetch_rss(url, timeout=20):
@@ -50,7 +55,7 @@ def summarize_news(news_items, api_key):
     news_text = "\n".join(f"- {item['title']}" for item in news_items)
     links_text = "\n".join(f"- [{item['title']}]({item['link']})" for item in news_items)
 
-    system_prompt = "用中文总结以下新闻，按主题分类，每类1-2句话。直接输出摘要，不要链接，不要推理过程。"
+    system_prompt = "用中文总结以下新闻，按主题分类（时政、科技AI、电脑硬件、财经、国际、社会等），每类2-3句话。直接输出摘要，不要链接，不要推理过程。"
 
     try:
         resp = requests.post(
@@ -62,7 +67,7 @@ def summarize_news(news_items, api_key):
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": f"总结以下今日新闻：\n\n{news_text}\n\n原始链接：\n{links_text}"}
                 ],
-                "max_tokens": 8192,
+                "max_tokens": 16384,
                 "temperature": 0.3
             },
             timeout=120
@@ -135,7 +140,7 @@ title: 新闻摘要
 ---
 
 *生成时间: {date_str}*
-*数据来源: Google 新闻、BBC 中文、Hacker News*
+*数据来源: Google 新闻、BBC 中文、36氪、Solidot、Ars Technica、The Verge、TechCrunch*
 """
 
     with open("news.md", "w", encoding="utf-8") as f:
