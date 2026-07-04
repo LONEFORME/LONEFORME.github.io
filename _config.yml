@@ -1,13 +1,4 @@
 title: LONEFORME
 description: 嵌入式开发 / ROS2 / 激光雷达 SLAM
-theme: jekyll-theme-cayman
 url: https://loneforme.github.io
 repository: LONEFORME/LONEFORME.github.io
-
-nav:
-  - title: 首页
-    url: /
-  - title: 项目
-    url: /projects
-  - title: 文档
-    url: /docs

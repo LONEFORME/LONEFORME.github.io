@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <div class="wrapper">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+        <p class="site-desc">{{ site.description }}</p>
+      </div>
+      <nav class="sidebar-nav">
+        <a href="{{ "/" | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">🏠 首页</a>
+        <a href="{{ "/projects" | relative_url }}" class="nav-link {% if page.url contains '/projects' %}active{% endif %}">📂 项目</a>
+        <a href="{{ "/docs" | relative_url }}" class="nav-link {% if page.url contains '/docs' %}active{% endif %}">📖 文档</a>
+        <a href="{{ "/news" | relative_url }}" class="nav-link {% if page.url contains '/news' %}active{% endif %}">📰 热点</a>
+      </nav>
+      <div class="sidebar-footer">
+        <a href="https://github.com/LONEFORME" target="_blank">GitHub →</a>
+      </div>
+    </aside>
+    <main class="content">
+      <div class="content-inner">
+        {{ content }}
+      </div>
+      <footer class="site-footer">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
