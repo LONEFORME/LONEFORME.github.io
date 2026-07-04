@@ -2,7 +2,6 @@
 """News Digest - 抓取 RSS 新闻并用 AI 总结，生成网站页面"""
 
 import feedparser
-import json
 import os
 import sys
 import requests
@@ -27,7 +26,7 @@ API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
 API_KEY = os.environ.get("OPENCODE_GO_API_KEY")
 MODEL = "deepseek-v4-flash"
 MAX_ARTICLES_PER_FEED = 8
-MAX_TOTAL = 30
+MAX_TOTAL = 40
 
 
 def fetch_rss(url, timeout=20):
@@ -39,8 +38,15 @@ def fetch_rss(url, timeout=20):
         for entry in feed.entries[:MAX_ARTICLES_PER_FEED]:
             title = entry.get("title", "").strip()
             link = entry.get("link", "")
+            published = entry.get("published", entry.get("updated", ""))
+            desc = entry.get("summary", entry.get("description", ""))
             if title and link:
-                entries.append({"title": title, "link": link})
+                entries.append({
+                    "title": title,
+                    "link": link,
+                    "date": published[:10] if published else "",
+                    "desc": desc[:300].strip()
+                })
         return entries
     except Exception as e:
         log(f"  [ERROR] 抓取失败: {e}")
@@ -52,10 +58,24 @@ def summarize_news(news_items, api_key):
         log("[ERROR] OPENCODE_GO_API_KEY 未设置")
         return None
 
-    news_text = "\n".join(f"- {item['title']}" for item in news_items)
-    links_text = "\n".join(f"- [{item['title']}]({item['link']})" for item in news_items)
+    lines = []
+    for item in news_items:
+        date = item["date"] or "待查"
+        desc = item["desc"] or "暂无摘要"
+        lines.append(f"- [{date}] {item['title']} | {desc}")
+    news_text = "\n".join(lines)
 
-    system_prompt = "用中文总结以下新闻，按主题分类（时政、科技AI、电脑硬件、财经、国际、社会等），每类2-3句话。直接输出摘要，不要链接，不要推理过程。"
+    system_prompt = """你是新闻编辑。将以下新闻按主题分类（时政、科技AI、电脑硬件、财经、国际、社会等），每类精选最多5条最有价值的新闻。
+
+对每条新闻输出格式：
+### 分类名
+- **日期** | **标题** | 内容摘要
+
+要求：
+- 每类不超过5条
+- 日期格式 YYYY-MM-DD
+- 直接用中文总结内容摘要，50-100字
+- 不要链接，不要推理过程，不要Markdown链接语法"""
 
     try:
         resp = requests.post(
@@ -65,7 +85,7 @@ def summarize_news(news_items, api_key):
                 "model": MODEL,
                 "messages": [
                     {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": f"总结以下今日新闻：\n\n{news_text}\n\n原始链接：\n{links_text}"}
+                    {"role": "user", "content": f"请整理以下新闻：\n\n{news_text}"}
                 ],
                 "max_tokens": 16384,
                 "temperature": 0.3
@@ -80,7 +100,6 @@ def summarize_news(news_items, api_key):
         log(f"[ERROR] API 调用失败: {e}")
         if "resp" in dir():
             log(f"  Status: {resp.status_code}")
-            log(f"  Body: {resp.text[:500]}")
         return None
 
 
@@ -106,16 +125,13 @@ def main():
     news = unique[:MAX_TOTAL]
     log(f"[INFO] 去重后共 {len(news)} 条")
 
-    links = "\n".join(f"- [{item['title']}]({item['link']})" for item in news)
-
     if news:
         log(f"[INFO] 调用 AI 总结 API ...")
         summary = summarize_news(news, API_KEY)
         if not summary:
-            log(f"[INFO] API 返回为空，使用原始列表")
-            summary = ""
+            log(f"[INFO] API 返回为空")
+            summary = "暂无摘要。"
     else:
-        log(f"[INFO] 无新闻数据，生成空页面")
         summary = "暂无新闻数据。\n"
 
     page = f"""---
@@ -125,17 +141,11 @@ title: 新闻摘要
 
 # 今日热点摘要
 
-> 自动抓取 · AI 摘要 · 每日更新
+> 自动抓取 · AI 精选 · 每日更新
 
 ---
 
 {summary}
-
----
-
-## 原文链接
-
-{links}
 
 ---
 
