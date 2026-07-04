@@ -50,10 +50,9 @@ def summarize_news(news_items, api_key):
     news_text = "\n".join(f"- {item['title']}" for item in news_items)
     links_text = "\n".join(f"- [{item['title']}]({item['link']})" for item in news_items)
 
-    system_prompt = "你是一个新闻编辑。请用中文总结以下新闻，按主题分类（如科技、财经、时政、国际），每类1-2句话，Markdown格式（### 分类标题），保持客观简洁。如有英文内容请翻译为中文。最后附上原始链接列表。"
+    system_prompt = "用中文总结以下新闻，按主题分类，每类1-2句话。直接输出，不要推理过程。"
 
     try:
-        log("[INFO] 发送 API 请求...")
         resp = requests.post(
             API_URL,
             headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
@@ -63,27 +62,14 @@ def summarize_news(news_items, api_key):
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": f"总结以下今日新闻：\n\n{news_text}\n\n原始链接：\n{links_text}"}
                 ],
-                "max_tokens": 3000,
+                "max_tokens": 8192,
                 "temperature": 0.3
             },
             timeout=120
         )
-        log(f"[INFO] API 响应状态: {resp.status_code}")
         resp.raise_for_status()
         data = resp.json()
-        log(f"[INFO] API 响应 keys: {list(data.keys())}")
-        log(f"[INFO] 完整响应: {json.dumps(data, ensure_ascii=False)[:1000]}")
-        if "choices" in data and len(data["choices"]) > 0:
-            choice = data["choices"][0]
-            log(f"[INFO] choice keys: {list(choice.keys())}")
-            log(f"[INFO] finish_reason: {choice.get('finish_reason', 'N/A')}")
-            msg = choice.get("message", {})
-            content = msg.get("content", "")
-            log(f"[INFO] 摘要长度: {len(content)} 字符")
-            log(f"[INFO] 摘要前50字: {content[:50]}")
-        else:
-            content = ""
-            log(f"[INFO] 响应中没有 choices")
+        content = data["choices"][0]["message"]["content"]
         return content if content.strip() else None
     except Exception as e:
         log(f"[ERROR] API 调用失败: {e}")
@@ -96,9 +82,6 @@ def summarize_news(news_items, api_key):
 def main():
     date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     log(f"[INFO] 开始抓取新闻 - {date_str}")
-    log(f"[INFO] API_KEY 是否存在: {'是' if API_KEY else '否'}")
-    log(f"[INFO] API_URL: {API_URL}")
-    log(f"[INFO] MODEL: {MODEL}")
 
     all_news = []
     for feed in RSS_FEEDS:
