@@ -24,7 +24,7 @@ RSS_FEEDS = [
 
 API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
 API_KEY = os.environ.get("OPENCODE_GO_API_KEY")
-MODEL = "deepseek-v4-flash"
+MODEL = "qwen3.7-plus"
 MAX_ARTICLES_PER_FEED = 6
 MAX_TOTAL = 30
 
