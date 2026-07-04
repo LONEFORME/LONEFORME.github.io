@@ -24,6 +24,11 @@ title: 首页
 - [镭神 M10P/N10P ROS2 驱动](https://github.com/LONEFORME/N100) — Leishen 单线激光雷达 ROS2 驱动与 SLAM
 - [FAST-LIO2 宇树适配](https://github.com/LONEFORME/N100) — Unitree 激光雷达 + FAST-LIO2 实时 SLAM
 
+## 📰 每日热点
+
+每日自动聚合新闻摘要，AI 总结要点：
+- [今日热点摘要 →](/news)
+
 ## 联系方式
 
 - **GitHub**: [github.com/LONEFORME](https://github.com/LONEFORME)
