@@ -28,4 +28,6 @@ title: 首页
 
 ### 联系方式
 
+- **QQ**: 2641881852
+- **Email**: lonefasf@qq.com
 - **GitHub**: [github.com/LONEFORME](https://github.com/LONEFORME)
