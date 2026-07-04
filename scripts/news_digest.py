@@ -72,14 +72,18 @@ def summarize_news(news_items, api_key):
         resp.raise_for_status()
         data = resp.json()
         log(f"[INFO] API 响应 keys: {list(data.keys())}")
+        log(f"[INFO] 完整响应: {json.dumps(data, ensure_ascii=False)[:1000]}")
         if "choices" in data and len(data["choices"]) > 0:
-            msg = data["choices"][0].get("message", {})
+            choice = data["choices"][0]
+            log(f"[INFO] choice keys: {list(choice.keys())}")
+            log(f"[INFO] finish_reason: {choice.get('finish_reason', 'N/A')}")
+            msg = choice.get("message", {})
             content = msg.get("content", "")
             log(f"[INFO] 摘要长度: {len(content)} 字符")
             log(f"[INFO] 摘要前50字: {content[:50]}")
         else:
             content = ""
-            log(f"[INFO] 响应中没有 choices: {json.dumps(data, ensure_ascii=False)[:500]}")
+            log(f"[INFO] 响应中没有 choices")
         return content if content.strip() else None
     except Exception as e:
         log(f"[ERROR] API 调用失败: {e}")
