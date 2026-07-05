@@ -51,23 +51,11 @@ title: 首页
   <h2>最新文档</h2>
 </div>
 
-<a href="/docs/unitree_l1" class="card-mini">
-  <div class="card-mini-title">
-    <span>📡</span>
-    <span>宇树 L1 + FAST-LIO2 建图方案</span>
-    <span class="card-mini-arrow">→</span>
-  </div>
-  <div class="card-mini-desc">实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图</div>
-</a>
+<div id="card-mini-container"></div>
 
-<a href="/docs/leishen_n10p" class="card-mini">
-  <div class="card-mini-title">
-    <span>🔭</span>
-    <span>镭神 N10P + SLAM Toolbox 方案</span>
-    <span class="card-mini-arrow">→</span>
-  </div>
-  <div class="card-mini-desc">2D 激光雷达 SLAM 方案 · 室内导航与避障</div>
-</a>
+<script>
+document.getElementById('card-mini-container').innerHTML = '<a href="/docs/unitree_l1" class="card-mini"><div class="card-mini-title"><span>📡</span><span>宇树 L1 + FAST-LIO2 建图方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图</div></a><a href="/docs/leishen_n10p" class="card-mini"><div class="card-mini-title"><span>🔭</span><span>镭神 N10P + SLAM Toolbox 方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">2D 激光雷达 SLAM 方案 · 室内导航与避障</div></a>';
+</script>
 
 <div class="section-title">
   <span class="section-icon">📬</span>
