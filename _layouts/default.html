@@ -33,6 +33,10 @@
         <a href="{{ "/news" | relative_url }}" class="nav-link {% if page.url contains '/news' %}active{% endif %}">📰 热点</a>
       </nav>
       <div class="sidebar-footer">
+        <div class="theme-toggle" onclick="toggleTheme()" title="切换主题">
+          <span class="theme-icon" id="themeIcon">🌙</span>
+          <span class="theme-label" id="themeLabel">暗色模式</span>
+        </div>
         <div class="contact-info">
           <div class="contact-row"><span>✉️</span> lonefasf@qq.com</div>
           <div class="contact-row"><span>💬</span> 2641881852</div>
@@ -50,5 +54,31 @@
       </footer>
     </main>
   </div>
+  <script>
+    (function() {
+      var saved = localStorage.getItem('theme');
+      if (saved === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+        document.getElementById('themeIcon').textContent = '☀️';
+        document.getElementById('themeLabel').textContent = '亮色模式';
+      }
+    })();
+    function toggleTheme() {
+      var html = document.documentElement;
+      var icon = document.getElementById('themeIcon');
+      var label = document.getElementById('themeLabel');
+      if (html.getAttribute('data-theme') === 'light') {
+        html.removeAttribute('data-theme');
+        localStorage.setItem('theme', 'dark');
+        icon.textContent = '🌙';
+        label.textContent = '暗色模式';
+      } else {
+        html.setAttribute('data-theme', 'light');
+        localStorage.setItem('theme', 'light');
+        icon.textContent = '☀️';
+        label.textContent = '亮色模式';
+      }
+    }
+  </script>
 </body>
 </html>
