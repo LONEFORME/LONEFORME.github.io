@@ -89,13 +89,13 @@ def summarize_news(news_items, api_key):
 
 格式：
 ### 分类名
-- **日期** | **标题** | 内容摘要 [来源: XXX]
+- **日期** | **标题** | 详细内容 [来源: XXX]
 
 要求：
 - 分类名请从（时政、科技AI、国际、社会、财经、体育、军事、其他）中选
 - 每类≤5条
 - 日期 YYYY-MM-DD
-- 摘要40-60字，概括核心内容
+- 详细内容必须不少于400字，包含：事件背景、核心内容、相关数据、影响分析、专家观点等
 - 末尾 [来源: XXX] 标明出处
 - 不要链接，不要推理过程"""
 
@@ -187,15 +187,19 @@ def item_to_html(line):
     if m:
         date = m.group(1).strip()
         title = m.group(2).strip()
-        summary = m.group(3).strip()
+        detail = m.group(3).strip()
         source = m.group(4).strip() if m.group(4) else ""
         
-        html = f'              <div class="news-card">\n'
-        html += f'                <span class="news-date-badge">{date}</span>\n'
+        # Escape HTML entities for data attribute
+        detail_escaped = detail.replace('"', '&quot;').replace("'", '&#39;')
+        
+        html = f'              <div class="news-card" onclick="showNewsDetail(this)" data-detail="{detail_escaped}" data-title="{title}" data-date="{date}" data-source="{source}">\n'
+        html += f'                <div class="news-date-badge">{date}</div>\n'
         html += f'                <div class="news-card-title">{title}</div>\n'
-        html += f'                <div class="news-card-summary">{summary}</div>\n'
+        html += f'                <div class="news-card-summary">{detail[:80]}...</div>\n'
         if source:
-            html += f'                <span class="news-card-source">{source}</span>\n'
+            html += f'                <div class="news-card-source">{source}</div>\n'
+        html += f'                <div class="news-card-more">点击查看详情 →</div>\n'
         html += f'              </div>\n'
         return html
     
@@ -267,7 +271,7 @@ def generate_tabbed_html(categories, date_str):
 
     html += '</div>\n'
 
-    # JavaScript for prev/next navigation
+    # JavaScript for prev/next navigation and modal
     # Build the comma-separated list of tab IDs
     tab_ids = ", ".join('"' + t[0] + '"' for t in tabs)
     html += '''
@@ -294,7 +298,7 @@ def generate_tabbed_html(categories, date_str):
     const label = document.querySelector("label[for='tab-" + id + "']");
     if (label && indicator) {
       let text = label.textContent.trim();
-      text = text.replace(/\s*\d+\s*$/, "").trim();
+      text = text.replace(/\\s*\\d+\\s*$/, "").trim();
       indicator.textContent = text;
     }
   }
@@ -318,11 +322,59 @@ def generate_tabbed_html(categories, date_str):
   document.addEventListener("keydown", function(e) {
     if (e.key === "ArrowLeft") { switchTab(-1); e.preventDefault(); }
     if (e.key === "ArrowRight") { switchTab(1); e.preventDefault(); }
+    if (e.key === "Escape") { closeNewsModal(); }
   });
 
   updateIndicator();
 })();
 </script>
+
+<script>
+function showNewsDetail(card) {
+  const detail = card.getAttribute("data-detail");
+  const title = card.getAttribute("data-title");
+  const date = card.getAttribute("data-date");
+  const source = card.getAttribute("data-source");
+  
+  const modal = document.getElementById("newsModal");
+  const modalTitle = document.getElementById("modalTitle");
+  const modalDate = document.getElementById("modalDate");
+  const modalSource = document.getElementById("modalSource");
+  const modalContent = document.getElementById("modalContent");
+  
+  modalTitle.textContent = title;
+  modalDate.textContent = date;
+  modalSource.textContent = source || "";
+  modalContent.textContent = detail;
+  
+  modal.classList.add("active");
+  document.body.style.overflow = "hidden";
+}
+
+function closeNewsModal() {
+  const modal = document.getElementById("newsModal");
+  modal.classList.remove("active");
+  document.body.style.overflow = "";
+}
+
+document.addEventListener("click", function(e) {
+  if (e.target.classList.contains("news-modal-overlay")) {
+    closeNewsModal();
+  }
+});
+</script>
+
+<div id="newsModal" class="news-modal-overlay">
+  <div class="news-modal">
+    <button class="news-modal-close" onclick="closeNewsModal()">✕</button>
+    <div class="news-modal-header">
+      <span class="news-modal-date" id="modalDate"></span>
+      <span class="news-modal-source" id="modalSource"></span>
+    </div>
+    <h2 class="news-modal-title" id="modalTitle"></h2>
+    <div class="news-modal-body" id="modalContent"></div>
+  </div>
+</div>
 '''
 
     return html
