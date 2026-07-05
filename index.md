@@ -5,7 +5,7 @@ title: 首页
 
 <div class="hero">
   <div class="hero-badge">🚀 机器人感知与导航</div>
-  <h1>LONEFORME</h1>
+  <h1>旧梦如常</h1>
   <div class="tagline">嵌入式系统开发者 · ROS2 · 激光雷达 SLAM</div>
   <div class="hero-desc">专注于机器人感知与导航方向，深耕嵌入式 Linux 与多传感器融合技术。</div>
 

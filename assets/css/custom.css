@@ -1250,27 +1250,36 @@ body {
 }
 
 /* ============================================
-   News Card - Click to View Detail
+   News Item - Hover Expand
    ============================================ */
-.news-card {
-  cursor: pointer;
+.news-item {
+  position: relative;
 }
 
-.news-card-more {
-  font-size: 13px;
+.news-item-summary {
+  max-height: 3.2em;
+  overflow: hidden;
+  transition: max-height 0.4s ease;
+}
+
+.news-item:hover .news-item-summary {
+  max-height: 600px;
+}
+
+.news-item-link {
+  display: none;
+  font-size: 12px;
   color: var(--color-primary);
-  margin-top: 12px;
+  margin-top: 8px;
   font-weight: 500;
-  opacity: 0.8;
-  transition: opacity var(--transition);
 }
 
-.news-card:hover .news-card-more {
-  opacity: 1;
+.news-item:hover .news-item-link {
+  display: block;
 }
 
 /* ============================================
-   News Modal
+   News Modal (kept for compatibility)
    ============================================ */
 .news-modal-overlay {
   position: fixed;
