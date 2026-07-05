@@ -792,6 +792,138 @@ body {
   border: 1px solid var(--color-border);
 }
 
+
+
+/* ============================================
+   News Tabs — Pure CSS Radio-based Tab Switching
+   ============================================ */
+.news-tabs {
+  margin: 20px 0;
+}
+
+/* Hide the radio inputs */
+.news-tabs input[type="radio"] {
+  display: none;
+}
+
+/* Tab bar */
+.tab-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 24px;
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 0;
+  position: sticky;
+  top: 0;
+  background: var(--color-bg);
+  z-index: 10;
+}
+
+.tab-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-muted);
+  cursor: pointer;
+  border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+  transition: all var(--transition);
+  user-select: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  white-space: nowrap;
+}
+
+.tab-label:hover {
+  color: var(--color-heading);
+  background: var(--color-primary-light);
+}
+
+.tab-count {
+  font-size: 11px;
+  background: var(--color-code-bg);
+  color: var(--color-muted);
+  padding: 1px 7px;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+/* Active tab — checked state */
+.news-tabs input[type="radio"]:checked + .tab-label {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+  background: transparent;
+}
+
+.news-tabs input[type="radio"]:checked + .tab-label .tab-count {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+}
+
+/* Tab content panels — all hidden by default */
+.tab-panel {
+  display: none;
+  animation: fadeIn 0.25s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Show the panel whose radio is checked */
+#tab-all:checked ~ #panel-all,
+#tab-shizheng:checked ~ #panel-shizheng,
+#tab-keji:checked ~ #panel-keji,
+#tab-guojie:checked ~ #panel-guojie,
+#tab-shehui:checked ~ #panel-shehui,
+#tab-caijing:checked ~ #panel-caijing,
+#tab-tiyu:checked ~ #panel-tiyu,
+#tab-junshi:checked ~ #panel-junshi,
+#tab-qita:checked ~ #panel-qita {
+  display: block;
+}
+
+/* ---- Summary line (below tabs) ---- */
+.news-summary-line {
+  font-size: 13px;
+  color: var(--color-muted);
+  margin-bottom: 20px;
+  padding: 8px 14px;
+  background: var(--color-surface);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+}
+
+/* ---- News items inside panels ---- */
+.tab-panel .news-card {
+  margin-bottom: 14px;
+}
+
+/* ---- Mobile: scrollable tab bar ---- */
+@media (max-width: 768px) {
+  .tab-bar {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    flex-wrap: nowrap;
+    gap: 0;
+  }
+
+  .tab-label {
+    padding: 8px 12px;
+    font-size: 13px;
+    flex-shrink: 0;
+  }
+
+  .tab-count {
+    font-size: 10px;
+    padding: 0 6px;
+  }
+}
+
 /* ============================================
    Responsive Design
    ============================================ */
