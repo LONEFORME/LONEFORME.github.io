@@ -172,7 +172,7 @@ body {
 .site-title {
   font-size: 24px;
   font-weight: 800;
-  color: #fff;
+  color: var(--color-heading);
   text-decoration: none;
   display: block;
   margin-bottom: 4px;
