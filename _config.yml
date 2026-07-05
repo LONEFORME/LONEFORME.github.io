@@ -2,3 +2,14 @@ title: LONEFORME
 description: 嵌入式开发 / ROS2 / 激光雷达 SLAM
 url: https://loneforme.github.io
 repository: LONEFORME/LONEFORME.github.io
+lang: zh-CN
+
+author:
+  name: LONEFORME
+  email: lonefasf@qq.com
+
+social:
+  github: LONEFORME
+
+plugins:
+  - jekyll-seo-tag

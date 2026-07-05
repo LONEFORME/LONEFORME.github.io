@@ -3,6 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="keywords" content="ROS2,机器人,激光雷达,SLAM,嵌入式,Linux,LONEFORME">
+  <meta name="author" content="LONEFORME">
+  <meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:type" content="website">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
   {% seo %}
@@ -14,7 +26,7 @@
         <a href="{{ "/" | relative_url }}" class="site-title"><span class="title-accent">L</span>ONEFORME</a>
         <p class="site-desc">{{ site.description }}</p>
       </div>
-      <nav class="sidebar-nav">
+      <nav class="sidebar-nav" aria-label="主导航">
         <a href="{{ "/" | relative_url }}" class="nav-link {% if page.url == '/' %}active{% endif %}">🏠 首页</a>
         <a href="{{ "/projects" | relative_url }}" class="nav-link {% if page.url contains '/projects' %}active{% endif %}">📂 项目</a>
         <a href="{{ "/docs" | relative_url }}" class="nav-link {% if page.url contains '/docs' %}active{% endif %}">📖 文档</a>
@@ -22,10 +34,10 @@
       </nav>
       <div class="sidebar-footer">
         <div class="contact-info">
-          <div>✉️ lonefasf@qq.com</div>
-          <div>💬 2641881852</div>
+          <div class="contact-row"><span>✉️</span> lonefasf@qq.com</div>
+          <div class="contact-row"><span>💬</span> 2641881852</div>
         </div>
-        <a href="https://github.com/LONEFORME" target="_blank">GitHub →</a>
+        <a href="https://github.com/LONEFORME" target="_blank" class="github-link" rel="noopener">GitHub →</a>
       </div>
     </aside>
     <main class="content">
@@ -34,7 +46,7 @@
       </div>
       <footer class="site-footer">
         <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
-        <a href="https://github.com/LONEFORME" target="_blank">GitHub</a>
+        <a href="https://github.com/LONEFORME" target="_blank" rel="noopener">GitHub</a>
       </footer>
     </main>
   </div>
