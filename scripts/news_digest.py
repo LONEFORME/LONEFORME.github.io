@@ -12,7 +12,7 @@ log = lambda msg: print(msg, flush=True)
 UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
-    # 官方权威媒体
+    # 国内官方权威媒体
     {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(时政)"},
     {"url": "http://www.people.com.cn/rss/politics.xml", "name": "人民网(时政)"},
     {"url": "http://www.people.com.cn/rss/world.xml", "name": "人民网(国际)"},
@@ -20,6 +20,10 @@ RSS_FEEDS = [
     {"url": "https://www.chinanews.com.cn/rss/scroll-news.xml", "name": "中国新闻网(滚动)"},
     # 国际权威媒体
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
+    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "name": "纽约时报"},
+    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "name": "纽约时报(国际)"},
+    {"url": "https://www.cbsnews.com/latest/rss/main", "name": "CBS News"},
+    {"url": "https://feeds.npr.org/1001/rss.xml", "name": "NPR(含AP美联社)"},
     # 科技财经
     {"url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRDZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(科技)"},
 ]
