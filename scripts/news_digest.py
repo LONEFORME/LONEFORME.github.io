@@ -380,6 +380,7 @@ document.addEventListener("click", function(e) {
     return html
 def main():
     date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+    date_only = datetime.now().strftime("%Y-%m-%d")
     log(f"[INFO] 开始抓取新闻 - {date_str}")
 
     all_news = []
@@ -407,11 +408,17 @@ def main():
         if not summary:
             log(f"[INFO] API 返回为空")
             summary = ""
-    
-    # Parse AI output into categories and generate tabbed HTML
+
+    # Parse AI output into categories
     if summary and summary.strip():
         categories = parse_categories(summary)
         log(f"[INFO] 解析到 {len(categories)} 个分类")
+    else:
+        categories = []
+        log(f"[INFO] 无分类数据")
+
+    # Generate today's news page (news.md)
+    if categories:
         news_html = generate_tabbed_html(categories, date_str)
     else:
         news_html = "<p>暂无新闻数据。</p>\n"
@@ -419,23 +426,90 @@ def main():
 
     page = f"""---
 layout: default
-title: 新闻摘要
+title: 热点新闻
 ---
 
-# 今日热点摘要
+# 📰 热点新闻速览
+
+> AI 精选 · 来源可溯 · 每日更新
 
 {news_html}
 
 ---
 
-<div class="news-updated">
-  🛜 AI 每日精选 · 来源可溯 · {date_str} 更新
-</div>
+<p class="news-updated">🕐 更新于 {date_only}</p>
 """
 
     with open("news.md", "w", encoding="utf-8") as f:
         f.write(page)
     log(f"[INFO] 已生成 news.md ({len(page)} 字符)")
+
+    # Generate daily archive page
+    os.makedirs("archive", exist_ok=True)
+    archive_file = f"archive/news-{date_only}.md"
+    archive_page = f"""---
+layout: default
+title: 新闻存档 - {date_only}
+---
+
+# 📰 新闻存档 - {date_only}
+
+> [{date_only} 的新闻回顾]({{ site.url }}/news)
+
+---
+
+{news_html}
+
+---
+
+<p class="news-updated">🕐 发布于 {date_str}</p>
+"""
+    with open(archive_file, "w", encoding="utf-8") as f:
+        f.write(archive_page)
+    log(f"[INFO] 已生成 {archive_file}")
+
+    # Clean up archives older than 5 days
+    from datetime import timedelta
+    archive_dir = "archive"
+    if os.path.exists(archive_dir):
+        for fname in os.listdir(archive_dir):
+            if fname.startswith("news-") and fname.endswith(".md"):
+                try:
+                    fdate = fname.replace("news-", "").replace(".md", "")
+                    fdatetime = datetime.strptime(fdate, "%Y-%m-%d")
+                    if datetime.now() - fdatetime > timedelta(days=5):
+                        os.remove(os.path.join(archive_dir, fname))
+                        log(f"[INFO] 清理旧存档: {fname}")
+                except ValueError:
+                    pass
+
+    # Generate archive index page
+    archive_files = []
+    if os.path.exists(archive_dir):
+        for fname in sorted(os.listdir(archive_dir), reverse=True):
+            if fname.startswith("news-") and fname.endswith(".md"):
+                fdate = fname.replace("news-", "").replace(".md", "")
+                archive_files.append(fdate)
+
+    archive_index = f"""---
+layout: default
+title: 新闻存档
+---
+
+# 📁 新闻存档
+
+> 过去5天的新闻记录
+
+"""
+    for fdate in archive_files[:5]:
+        archive_index += f"- 📅 [{fdate}]({{ site.url }}/archive/news-{fdate})\n"
+    
+    if not archive_files:
+        archive_index += "<p>暂无存档。</p>\n"
+
+    with open("archive/index.md", "w", encoding="utf-8") as f:
+        f.write(archive_index)
+    log(f"[INFO] 已生成 archive/index.md")
 
 
 if __name__ == "__main__":
