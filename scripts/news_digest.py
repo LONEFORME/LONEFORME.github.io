@@ -12,14 +12,16 @@ log = lambda msg: print(msg, flush=True)
 UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
+    # 官方权威媒体
     {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(时政)"},
-    {"url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRDZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(科技)"},
+    {"url": "http://www.people.com.cn/rss/politics.xml", "name": "人民网(时政)"},
+    {"url": "http://www.people.com.cn/rss/world.xml", "name": "人民网(国际)"},
+    {"url": "http://www.people.com.cn/rss/scitech.xml", "name": "人民网(科技)"},
+    {"url": "https://www.chinanews.com.cn/rss/scroll-news.xml", "name": "中国新闻网(滚动)"},
+    # 国际权威媒体
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
-    {"url": "https://36kr.com/feed", "name": "36氪"},
-    {"url": "https://www.solidot.org/index.rss", "name": "Solidot"},
-    {"url": "https://feeds.arstechnica.com/arstechnica/index", "name": "Ars Technica"},
-    {"url": "https://www.theverge.com/rss/index.xml", "name": "The Verge"},
-    {"url": "https://techcrunch.com/feed/", "name": "TechCrunch"},
+    # 科技财经
+    {"url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRDZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(科技)"},
 ]
 
 API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
