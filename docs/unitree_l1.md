@@ -5,10 +5,13 @@ title: 宇树 L1 + FAST-LIO2
 
 # 宇树 L1 + FAST-LIO2 建图方案
 
-## 硬件
+## 硬件要求
 
-- Unitree L1 / L2 / L3 激光雷达
-- 支持 x86_64 和 aarch64 平台
+| 组件 | 规格 |
+|------|------|
+| 激光雷达 | Unitree L1 / L2 / L3 |
+| 平台 | x86_64 / aarch64 |
+| ROS2 | Humble 或更高版本 |
 
 ## 快速开始
 
@@ -26,13 +29,15 @@ source install/setup.bash
 ros2 launch unilidar_fastlio_ros2 mapping.launch.py
 ```
 
-## 配置
+## 配置说明
 
 编辑 `config/` 目录下的 YAML 文件选择对应雷达型号：
 
-- `mid360.yaml` — L1 / L2
-- `unilidar_l2.yaml` — L3
-- `avia.yaml` — Avia
+| 文件 | 适用型号 |
+|------|----------|
+| `mid360.yaml` | L1 / L2 |
+| `unilidar_l2.yaml` | L3 |
+| `avia.yaml` | Avia |
 
 ## 输出
 

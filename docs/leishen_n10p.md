@@ -5,10 +5,13 @@ title: 镭神 N10P + SLAM Toolbox
 
 # 镭神 N10P + SLAM Toolbox 方案
 
-## 硬件
+## 硬件要求
 
-- Leishen N10P / M10P 单线激光雷达
-- UART 接口连接
+| 组件 | 规格 |
+|------|------|
+| 激光雷达 | Leishen N10P / M10P |
+| 接口 | UART |
+| ROS2 | Humble 或更高版本 |
 
 ## 快速开始
 
@@ -31,10 +34,10 @@ ros2 launch slam_toolbox_config lslidar_rviz.launch.py
 ros2 run nav2_map_server map_saver_cli -f ~/map
 ```
 
-## 配置
+## 配置参考
 
-雷达参数在 `src/Lslidar_ROS2_driver-M10P-N10P/lslidar_driver/params/lidar_uart_ros2/lsn10p.yaml` 中修改。
+### 雷达参数
+`src/Lslidar_ROS2_driver-M10P-N10P/lslidar_driver/params/lidar_uart_ros2/lsn10p.yaml`
 
-## SLAM 参数
-
-SLAM 参数在 `src/slam_toolbox_config/config/slam_final.yaml` 中调整。
+### SLAM 参数
+`src/slam_toolbox_config/config/slam_final.yaml`

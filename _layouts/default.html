@@ -11,7 +11,7 @@
   <div class="wrapper">
     <aside class="sidebar">
       <div class="sidebar-header">
-        <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+        <a href="{{ "/" | relative_url }}" class="site-title"><span class="title-accent">L</span>ONEFORME</a>
         <p class="site-desc">{{ site.description }}</p>
       </div>
       <nav class="sidebar-nav">
@@ -33,7 +33,8 @@
         {{ content }}
       </div>
       <footer class="site-footer">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+        <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
+        <a href="https://github.com/LONEFORME" target="_blank">GitHub</a>
       </footer>
     </main>
   </div>

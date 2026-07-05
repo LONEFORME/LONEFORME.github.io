@@ -3,31 +3,88 @@ layout: default
 title: 首页
 ---
 
-# LONEFORME
+<div class="hero">
+  <div class="hero-badge">🚀 机器人感知与导航</div>
+  <h1>LONEFORME</h1>
+  <div class="tagline">嵌入式系统开发者 · ROS2 · 激光雷达 SLAM</div>
+  <div class="hero-desc">专注于机器人感知与导航方向，深耕嵌入式 Linux 与多传感器融合技术。</div>
 
-嵌入式系统开发者 · ROS2 · 激光雷达 SLAM
+  <div class="tech-tags">
+    <span class="tech-tag">⚡ ROS2</span>
+    <span class="tech-tag">📡 激光雷达</span>
+    <span class="tech-tag">🔧 嵌入式 Linux</span>
+    <span class="tech-tag">🧭 多传感器融合</span>
+    <span class="tech-tag">🗺️ SLAM</span>
+  </div>
+</div>
 
----
+<div class="section-title">
+  <span class="section-icon">📌</span>
+  <h2>精选项目</h2>
+</div>
 
-## 关于我
+<div class="card-grid">
+  <div class="card">
+    <div class="card-icon">📡</div>
+    <h3>宇树 L1/L2/L3 激光雷达 ROS2 驱动</h3>
+    <p>Unitree 激光雷达的完整 ROS2 封装驱动，支持多平台。</p>
+    <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
+  </div>
 
-嵌入式软件开发，专注于机器人感知与导航方向。
+  <div class="card">
+    <div class="card-icon">🔭</div>
+    <h3>镭神 M10P/N10P ROS2 驱动与 SLAM</h3>
+    <p>Leishen 单线激光雷达驱动，集成 SLAM Toolbox 导航方案。</p>
+    <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
+  </div>
 
-### 技术方向
+  <div class="card">
+    <div class="card-icon">🧭</div>
+    <h3>FAST-LIO2 宇树雷达适配</h3>
+    <p>实时激光雷达-惯性里程计建图，适配宇树 L 系列雷达。</p>
+    <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
+  </div>
+</div>
 
-- **ROS2** — 机器人操作系统开发
-- **激光雷达** — 驱动开发与 SLAM 建图
-- **嵌入式 Linux** — 系统移植与优化
-- **多传感器融合** — 定位与导航
+<div class="section-title">
+  <span class="section-icon">📖</span>
+  <h2>最新文档</h2>
+</div>
 
-### 项目
+<a href="{{ "/docs/unitree_l1" | relative_url }}" class="card-mini">
+  <div class="card-mini-title">
+    <span>📡</span>
+    <span>宇树 L1 + FAST-LIO2 建图方案</span>
+    <span class="card-mini-arrow">→</span>
+  </div>
+  <div class="card-mini-desc">实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图</div>
+</a>
 
-- [宇树 L1/L2/L3 激光雷达 ROS2 驱动](https://github.com/LONEFORME/N100)
-- [镭神 M10P/N10P ROS2 驱动与 SLAM](https://github.com/LONEFORME/N100)
-- [FAST-LIO2 宇树雷达适配](https://github.com/LONEFORME/N100)
+<a href="{{ "/docs/leishen_n10p" | relative_url }}" class="card-mini">
+  <div class="card-mini-title">
+    <span>🔭</span>
+    <span>镭神 N10P + SLAM Toolbox 方案</span>
+    <span class="card-mini-arrow">→</span>
+  </div>
+  <div class="card-mini-desc">2D 激光雷达 SLAM 方案 · 室内导航与避障</div>
+</a>
 
-### 联系方式
+<div class="section-title">
+  <span class="section-icon">📬</span>
+  <h2>联系方式</h2>
+</div>
 
-- **QQ**: 2641881852
-- **Email**: lonefasf@qq.com
-- **GitHub**: [github.com/LONEFORME](https://github.com/LONEFORME)
+<div class="contact-grid">
+  <a href="mailto:lonefasf@qq.com" class="contact-item">
+    <span class="ci-icon">✉️</span>
+    <span>lonefasf@qq.com</span>
+  </a>
+  <a href="https://github.com/LONEFORME" target="_blank" class="contact-item">
+    <span class="ci-icon">💻</span>
+    <span>github.com/LONEFORME</span>
+  </a>
+  <span class="contact-item">
+    <span class="ci-icon">💬</span>
+    <span>QQ: 2641881852</span>
+  </span>
+</div>
