@@ -51,9 +51,11 @@ title: 首页
   <h2>最新文档</h2>
 </div>
 
-{% include card-mini.html url="/docs/unitree_l1" icon="📡" title="宇树 L1 + FAST-LIO2 建图方案" desc="实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图" %}
+{% capture card1 %}<a href="{{ '/docs/unitree_l1' | relative_url }}" class="card-mini"><div class="card-mini-title"><span>📡</span><span>宇树 L1 + FAST-LIO2 建图方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图</div></a>{% endcapture %}
+{{ card1 }}
 
-{% include card-mini.html url="/docs/leishen_n10p" icon="🔭" title="镭神 N10P + SLAM Toolbox 方案" desc="2D 激光雷达 SLAM 方案 · 室内导航与避障" %}
+{% capture card2 %}<a href="{{ '/docs/leishen_n10p' | relative_url }}" class="card-mini"><div class="card-mini-title"><span>🔭</span><span>镭神 N10P + SLAM Toolbox 方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">2D 激光雷达 SLAM 方案 · 室内导航与避障</div></a>{% endcapture %}
+{{ card2 }}
 
 <div class="section-title">
   <span class="section-icon">📬</span>
