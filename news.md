@@ -192,7 +192,7 @@ title: 热点新闻
       <div class="news-item-link">查看原文 →</div>
     </a>
     <a class="news-item" href="https://www.nytimes.com" target="_blank" rel="noopener">
-      <div class="news-item-date">2026-07-08</div>
+      <div class="news-item-date">2026-07-05</div>
       <div class="news-item-title">国际油价持续走高</div>
       <div class="news-item-summary">受地缘政治因素影响，国际油价连续上涨，分析师预计短期内仍将维持高位。布伦特原油期货价格突破每桶90美元，创近三年新高。市场分析人士指出，中东局势紧张、全球供应链瓶颈以及主要产油国减产等因素共同推动了油价上涨。OPEC+成员国近期宣布延长减产协议至年底，进一步加剧了市场供应紧张的局面。与此同时，全球经济复苏带动了能源需求增长，特别是亚洲地区的石油消费量持续攀升。经济学家警告说，持续高企的油价可能加剧通货膨胀压力，对全球经济复苏构成威胁。各国政府正在考虑采取释放战略石油储备、调整能源政策等措施来应对油价上涨。</div>
       <div class="news-item-source">纽约时报</div>
