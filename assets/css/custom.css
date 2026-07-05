@@ -887,6 +887,56 @@ body {
   display: block;
 }
 
+/* ---- Tab Navigation Buttons ---- */
+.tab-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.tab-nav-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border: 2px solid var(--color-border);
+  border-radius: 50%;
+  background: var(--color-surface);
+  color: var(--color-heading);
+  font-size: 22px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all var(--transition);
+  user-select: none;
+  line-height: 1;
+}
+
+.tab-nav-btn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: var(--color-primary-light);
+  transform: scale(1.08);
+}
+
+.tab-nav-btn:active {
+  transform: scale(0.95);
+}
+
+.tab-nav-indicator {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--color-heading);
+  min-width: 100px;
+  text-align: center;
+  padding: 6px 16px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 20px;
+}
+
 /* ---- Summary line (below tabs) ---- */
 .news-summary-line {
   font-size: 13px;

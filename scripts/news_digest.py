@@ -205,52 +205,56 @@ def item_to_html(line):
 
 
 def generate_tabbed_html(categories, date_str):
-    """Generate the full tabbed news HTML"""
-    
-    # Build tab IDs
+    """Generate horizontal tabbed news HTML with prev/next buttons"""
+
     tabs = []
     for cat_name, items in categories:
         tab_id = cat_name_to_id(cat_name)
         short_name = cat_name_short(cat_name)
         tabs.append((tab_id, short_name, cat_name, items))
-    
+
     if not tabs:
         return "<p>暂无新闻数据。</p>"
-    
-    # Count total items
+
     total_count = sum(len(items) for _, _, _, items in tabs)
-    
+
     html = '<div class="news-tabs">\n'
-    
-    # Tab bar (sticky)
-    html += '  <div class="tab-bar">\n'
-    
-    # "全部" tab (default selected)
-    html += f'    <input type="radio" name="news-tab" id="tab-all" checked>\n'
-    html += f'    <label for="tab-all" class="tab-label">📋 全部 <span class="tab-count">{total_count}</span></label>\n'
-    
-    # Category tabs
+
+    # Radio inputs MUST be direct children of .news-tabs for CSS ~ selector
+    html += '  <input type="radio" name="news-tab" id="tab-all" checked>\n'
+    for tab_id, _, _, items in tabs:
+        html += f'  <input type="radio" name="news-tab" id="tab-{tab_id}">\n'
+
+    # Tab bar
+    html += '  <div class="tab-bar" id="newsTabBar">\n'
+    html += f'    <label for="tab-all" class="tab-label">\U0001f4cb \u5168\u90e8 <span class="tab-count">{total_count}</span></label>\n'
+
     icon_map = {
-        "shizheng": "🏛️", "keji": "💻", "guoji": "🌍", "shehui": "👥",
-        "caijing": "💰", "tiyu": "⚽", "junshi": "⚔️", "qita": "📎"
+        "shizheng": "\U0001f3db\ufe0f", "keji": "\U0001f916", "guoji": "\U0001f30d", "shehui": "\U0001f52c",
+        "caijing": "\U0001f4b0", "tiyu": "\u26bd", "junshi": "\u2694\ufe0f", "qita": "\U0001f4ce"
     }
     for tab_id, short_name, _, items in tabs:
-        icon = icon_map.get(tab_id, "📋")
-        html += f'    <input type="radio" name="news-tab" id="tab-{tab_id}">\n'
+        icon = icon_map.get(tab_id, "\U0001f4cb")
         html += f'    <label for="tab-{tab_id}" class="tab-label">{icon} {short_name} <span class="tab-count">{len(items)}</span></label>\n'
-    
     html += '  </div>\n\n'
-    
+
+    # Navigation buttons
+    html += '  <div class="tab-nav">\n'
+    html += '    <button class="tab-nav-btn tab-prev" onclick="switchTab(-1)" title="\u4e0a\u4e00\u4e2a\u5206\u7c7b" aria-label="Previous">\u2039</button>\n'
+    html += '    <div class="tab-nav-indicator" id="tabIndicator">\u5168\u90e8</div>\n'
+    html += '    <button class="tab-nav-btn tab-next" onclick="switchTab(1)" title="\u4e0b\u4e00\u4e2a\u5206\u7c7b" aria-label="Next">\u203a</button>\n'
+    html += '  </div>\n\n'
+
     # Summary line
-    html += f'  <div class="news-summary-line">🕐 上次更新: {date_str} · 共 {total_count} 条新闻 · 点击上方标签切换分类</div>\n\n'
-    
-    # "全部" panel
+    html += f'  <div class="news-summary-line">{date_str} \u00b7 \u5171 {total_count} \u6761\u65b0\u95fb \u00b7 \u70b9\u51fb\u6807\u7b7e\u6216 \u2190 \u2192 \u952e\u5207\u6362</div>\n\n'
+
+    # "All" panel
     html += '  <div class="tab-panel" id="panel-all">\n'
     for _, _, _, items in tabs:
         for item in items:
             html += item_to_html(item)
     html += '  </div>\n\n'
-    
+
     # Category panels
     for tab_id, short_name, _, items in tabs:
         html += f'  <div class="tab-panel" id="panel-{tab_id}">\n'
@@ -258,14 +262,70 @@ def generate_tabbed_html(categories, date_str):
             for item in items:
                 html += item_to_html(item)
         else:
-            html += f'    <div class="news-card"><div class="news-card-summary">暂无 {short_name} 类新闻。</div></div>\n'
+            html += f'    <div class="news-card"><div class="news-card-summary">\u6682\u65e0 {short_name} \u7c7b\u65b0\u95fb\u3002</div></div>\n'
         html += '  </div>\n\n'
-    
+
     html += '</div>\n'
-    
+
+    # JavaScript for prev/next navigation
+    # Build the comma-separated list of tab IDs
+    tab_ids = ", ".join('"' + t[0] + '"' for t in tabs)
+    html += '''
+<script>
+(function() {
+  const tabIds = ["all", ''' + tab_ids + '''];
+  let currentIdx = 0;
+
+  window.switchTab = function(dir) {
+    currentIdx = (currentIdx + dir + tabIds.length) % tabIds.length;
+    const id = tabIds[currentIdx];
+    const radio = document.getElementById("tab-" + id);
+    if (radio) {
+      radio.checked = true;
+      radio.dispatchEvent(new Event("change", { bubbles: true }));
+    }
+    updateIndicator();
+    scrollTabIntoView(id);
+  };
+
+  function updateIndicator() {
+    const id = tabIds[currentIdx];
+    const indicator = document.getElementById("tabIndicator");
+    const label = document.querySelector("label[for='tab-" + id + "']");
+    if (label && indicator) {
+      let text = label.textContent.trim();
+      text = text.replace(/\s*\d+\s*$/, "").trim();
+      indicator.textContent = text;
+    }
+  }
+
+  function scrollTabIntoView(id) {
+    const label = document.querySelector("label[for='tab-" + id + "']");
+    if (label) {
+      label.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
+    }
+  }
+
+  document.querySelectorAll(".tab-label").forEach(function(label) {
+    label.addEventListener("click", function() {
+      const forId = this.getAttribute("for").replace("tab-", "");
+      currentIdx = tabIds.indexOf(forId);
+      if (currentIdx === -1) currentIdx = 0;
+      updateIndicator();
+    });
+  });
+
+  document.addEventListener("keydown", function(e) {
+    if (e.key === "ArrowLeft") { switchTab(-1); e.preventDefault(); }
+    if (e.key === "ArrowRight") { switchTab(1); e.preventDefault(); }
+  });
+
+  updateIndicator();
+})();
+</script>
+'''
+
     return html
-
-
 def main():
     date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     log(f"[INFO] 开始抓取新闻 - {date_str}")
