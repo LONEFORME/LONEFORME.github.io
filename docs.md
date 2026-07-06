@@ -28,4 +28,15 @@ title: 文档
     </div>
     <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">查看文档</a>
   </div>
+
+  <div class="card">
+    <div class="card-icon">🫐</div>
+    <h3>树莓派 4B 部署</h3>
+    <p>将镭神 N10P + SLAM Toolbox 部署到树莓派 4B 的完整指南。</p>
+    <div class="card-details">
+      <strong>平台：</strong>Ubuntu 22.04 ARM64<br>
+      <strong>优化：</strong>性能调参 · 无头模式 · 故障排查
+    </div>
+    <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">查看指南</a>
+  </div>
 </div>

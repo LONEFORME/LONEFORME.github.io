@@ -89,11 +89,45 @@ ros2 launch lslidar_driver lsn10p_launch.py
 
 ### `lslidar_rviz.launch.py` — 纯可视化
 
-启动 3 个节点：雷达驱动 + slam_fix + RViz
+启动 3 个节点：雷达驱动 + slam_fix + RViz。**不含 SLAM**，用于调试雷达数据，看不到地图。
 
 ### `lsn10p_launch.py` — 仅驱动
 
 启动 2 个节点：雷达驱动 + RViz（不含修正和SLAM）
+
+---
+
+## 可视化（查看地图）
+
+建图时查看实时地图有两个方式：
+
+### 方式一：建图 + 可视化分两个终端
+
+```bash
+# 终端 1：启动建图
+ros2 launch slam_toolbox_config slam_final.launch.py
+
+# 终端 2：打开 RViz 查看地图
+source ~/ros2_ws/install/setup.bash
+rviz2 -d ~/ros2_ws/src/slam_toolbox_config/rviz/lslidar.rviz
+```
+
+### 方式二：仅查看已保存的地图
+
+```bash
+ros2 run nav2_map_server map_server ./my_map.yaml
+rviz2  # 手动添加 Map 话题
+```
+
+### RViz 基本操作
+
+| 操作 | 方法 |
+|------|------|
+| 旋转视角 | 鼠标左键拖动 |
+| 平移视角 | 鼠标中键拖动 |
+| 缩放 | 滚轮 |
+| Fixed Frame | 顶部设为 `map` |
+| 添加话题 | 左下角 Add → By topic |
 
 ---
 
