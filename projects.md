@@ -28,7 +28,7 @@ title: 项目
 
     <div class="card">
       <div class="card-icon">🔭</div>
-      <h3>镭神 M10P / N10P</h3>
+      <h3>镭神 N10P</h3>
       <p>Leishen 单线激光雷达 ROS2 驱动，适用于室内导航与建图。</p>
       <div class="card-details">
         • UART 串口通信<br>

@@ -23,7 +23,7 @@ title: 文档
     <h3>镭神 N10P + SLAM Toolbox</h3>
     <p>2D 激光雷达 SLAM 方案，适用于室内导航与避障。</p>
     <div class="card-details">
-      <strong>硬件：</strong>Leishen N10P/M10P 单线雷达<br>
+      <strong>硬件：</strong>Leishen N10P 单线雷达<br>
       <strong>软件：</strong>SLAM Toolbox + Nav2
     </div>
     <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">查看文档</a>
