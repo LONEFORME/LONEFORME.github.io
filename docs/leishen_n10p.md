@@ -167,7 +167,7 @@ ros2 run tf2_tools view_frames.py
 ros2 node list
 ```
 
-## 六、RViz 基本操作
+## 七、RViz 基本操作
 
 | 操作 | 方法 |
 |------|------|
@@ -177,7 +177,7 @@ ros2 node list
 | 添加话题 | 左下角 Add → By topic |
 | Fixed Frame | 顶部设为 `map` |
 
-## 七、关键文件位置
+## 八、关键文件位置
 
 | 文件 | 说明 |
 |------|------|
@@ -189,7 +189,7 @@ ros2 node list
 | `src/Lslidar_ROS2_driver-M10P-N10P/lslidar_driver/params/lidar_uart_ros2/lsn10p.yaml` | 雷达参数 |
 | `src/slam_toolbox_config/rviz/lslidar.rviz` | RViz 配置 |
 
-## 八、坐标系关系
+## 九、坐标系关系
 
 ```
 map → odom → laser
@@ -199,7 +199,7 @@ map → odom → laser
 - `odom`：里程计坐标系
 - `laser`：雷达坐标系（机器人本体）
 
-## 九、话题列表
+## 十、话题列表
 
 | 话题 | 类型 | 说明 |
 |------|------|------|
@@ -213,7 +213,7 @@ map → odom → laser
 | `/robot_predicted` | PointStamped | 预测位置 |
 | `/obstacle_markers` | MarkerArray | 障碍物可视化标记 |
 
-## 十、常见问题
+## 十一、常见问题
 
 ### SLAM_ERROR Speed
 移动太快时 SLAM 跟不上，放慢速度即可。
@@ -230,7 +230,81 @@ SLAM Toolbox scan matching 计算需要时间，位姿更新频率约 5-8Hz，�
 ### 启动报 TF 错误
 等待几秒让 SLAM 初始化完成，`map` 帧建立后会自动恢复。
 
-## 十一、备份与恢复
+## 十二、Python 启动/关闭建图
+
+使用 `subprocess` 在 Python 中控制 SLAM 的启停，并获取坐标数据。
+
+### 快速测试
+
+```bash
+# 一根命令：启动建图 + 每秒打印坐标速度，CTRL+C 自动关闭
+ros2 run slam_toolbox_config robot_app.py
+```
+
+### 在你的代码中使用
+
+```python
+import rclpy
+from rclpy.node import Node
+from geometry_msgs.msg import PoseStamped, TwistStamped
+import math
+import subprocess, os, time
+
+
+class MyRobot(Node):
+    def __init__(self):
+        super().__init__('my_robot')
+        self.x = self.y = self.yaw = 0.0
+        self.vx = self.vy = self.vyaw = 0.0
+
+        self.create_subscription(PoseStamped, '/robot_pose', self.pose_cb, 10)
+        self.create_subscription(TwistStamped, '/robot_velocity', self.vel_cb, 10)
+
+    def pose_cb(self, msg):
+        self.x = msg.pose.position.x
+        self.y = msg.pose.position.y
+        q = msg.pose.orientation
+        self.yaw = math.atan2(2*(q.w*q.z+q.x*q.y), 1-2*(q.y*q.y+q.z*q.z))
+
+    def vel_cb(self, msg):
+        self.vx = msg.twist.linear.x
+        self.vy = msg.twist.linear.y
+        self.vyaw = msg.twist.angular.z
+
+    def start_slam(self):
+        """subprocess 启动建图"""
+        env = os.environ.copy()
+        self.slam_proc = subprocess.Popen(
+            ['ros2', 'launch', 'slam_toolbox_config', 'slam_final.launch.py'],
+            env=env, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        time.sleep(3)
+
+    def stop_slam(self):
+        """终止建图"""
+        if hasattr(self, 'slam_proc') and self.slam_proc:
+            self.slam_proc.terminate()
+            self.slam_proc.wait()
+
+
+def main():
+    rclpy.init()
+    robot = MyRobot()
+    robot.start_slam()
+    try:
+        rclpy.spin(robot)
+    except KeyboardInterrupt:
+        pass
+    finally:
+        robot.stop_slam()
+        rclpy.shutdown()
+
+if __name__ == '__main__':
+    main()
+```
+
+---
+
+## 十三、备份与恢复
 
 ### 打包源码（排除编译产物）
 
@@ -249,7 +323,7 @@ colcon build
 source install/setup.bash
 ```
 
-## 十二、任务目标对应功能
+## 十四、任务目标对应功能
 
 | 任务目标 | 实现方式 | 启动命令 |
 |----------|----------|----------|
