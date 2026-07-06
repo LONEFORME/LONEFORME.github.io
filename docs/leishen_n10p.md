@@ -237,8 +237,29 @@ SLAM Toolbox scan matching 计算需要时间，位姿更新频率约 5-8Hz，�
 ### 快速测试
 
 ```bash
-# 一根命令：启动建图 + 每秒打印坐标速度，CTRL+C 自动关闭
+# 启动建图 + 每秒打印坐标速度，CTRL+C 自动关闭
 ros2 run slam_toolbox_config robot_app.py
+
+# 或直接跑 Python 文件
+source ~/ros2_ws/install/setup.bash
+python3 ~/ros2_ws/src/slam_toolbox_config/scripts/robot_app.py
+```
+
+### 两个脚本的区别
+
+| 脚本 | 功能 | 适用场景 |
+|------|------|----------|
+| `robot_app.py` | subprocess 自动启停建图 + 订阅坐标 | 一键启动，退出自动清理 |
+| `robot_data_subscriber.py` | 只订阅坐标，不管理建图 | 建图已由别的方式启动，只需读数据 |
+
+运行方式：
+```bash
+# 方法1：ros2 run
+ros2 run slam_toolbox_config robot_app.py
+
+# 方法2：直接 python3（效果一样）
+source ~/ros2_ws/install/setup.bash
+python3 ~/ros2_ws/src/slam_toolbox_config/scripts/robot_data_subscriber.py
 ```
 
 ### 在你的代码中使用
