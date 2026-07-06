@@ -9,7 +9,7 @@ title: 宇树 L1 + FAST-LIO2
 
 | 组件 | 规格 |
 |------|------|
-| 激光雷达 | Unitree L1 / L2 / L3 |
+| 激光雷达 | Unitree L1 |
 | 平台 | x86_64 / aarch64 |
 | ROS2 | Humble 或更高版本 |
 

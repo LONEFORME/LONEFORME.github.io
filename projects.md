@@ -15,8 +15,8 @@ title: 项目
   <div class="card-grid">
     <div class="card">
       <div class="card-icon">📡</div>
-      <h3>宇树 L1/L2/L3 系列</h3>
-      <p>Unitree 激光雷达的 ROS2 封装驱动，支持 L1、L2、L3 系列。</p>
+      <h3>宇树 L1 系列</h3>
+      <p>Unitree L1 激光雷达的 ROS2 封装驱动。</p>
       <div class="card-details">
         • 点云发布与可视化<br>
         • IMU 数据融合<br>

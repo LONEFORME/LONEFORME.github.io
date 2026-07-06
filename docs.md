@@ -12,7 +12,7 @@ title: 文档
     <h3>宇树 L1 + FAST-LIO2</h3>
     <p>实时激光雷达-惯性里程计建图方案，适用于室内外实时 3D 建图。</p>
     <div class="card-details">
-      <strong>硬件：</strong>Unitree L1/L2/L3 激光雷达<br>
+      <strong>硬件：</strong>Unitree L1 激光雷达<br>
       <strong>软件：</strong>FAST-LIO2 ROS2 版
     </div>
     <a href="{{ "docs/unitree_l1" | relative_url }}" class="card-link">查看文档</a>

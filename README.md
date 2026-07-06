@@ -100,7 +100,7 @@ bundle exec jekyll serve
 
 | 项目 | 描述 |
 |------|------|
-| [📡 宇树 L1/L2/L3 激光雷达 ROS2 驱动](https://github.com/LONEFORME/N100) | Unitree 激光雷达完整 ROS2 封装驱动，支持多平台 |
+| [📡 宇树 L1 激光雷达 ROS2 驱动](https://github.com/LONEFORME/N100) | Unitree L1 激光雷达 ROS2 封装驱动 |
 | [🔭 镭神 N10P ROS2 驱动与 SLAM](https://github.com/LONEFORME/N100) | Leishen 单线激光雷达驱动，集成 SLAM Toolbox 导航方案 |
 | [🧭 FAST-LIO2 宇树雷达适配](https://github.com/LONEFORME/N100) | 实时激光雷达-惯性里程计建图，适配宇树 L 系列雷达 |
 | [🔄 T265 自动 Boot](https://github.com/LONEFORME/N100) | Intel RealSense T265 追踪相机固件加载脚本 |
