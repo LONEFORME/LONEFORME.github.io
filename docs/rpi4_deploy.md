@@ -13,7 +13,7 @@ title: 树莓派 4B 部署
 
 | 项目 | 要求 |
 |------|------|
-| 硬件 | Raspberry Pi 4B（建议 4GB+ RAM） |
+| 硬件 | Raspberry Pi 4B（2GB 可用，建议 4GB+） |
 | 系统 | Ubuntu Server 22.04 LTS (ARM64) |
 | ROS2 | Humble |
 | 存储 | 32GB+ SD 卡或 SSD |
@@ -105,22 +105,73 @@ sudo udevadm trigger
 
 ---
 
-## 调优（Pi 4B 性能优化）
+## 调优
 
-Pi 4B CPU 性能有限，建议调整 SLAM 参数降低负载：
+### CPU 优化（所有 Pi 4B）
+
+Pi 4B CPU 性能有限，调整 SLAM 参数降低负载：
 
 ```bash
 nano ~/ros2_ws/src/slam_toolbox_config/config/slam_final.yaml
 ```
 
-| 参数 | 默认值 | 建议值（Pi 4B） | 说明 |
-|------|--------|-----------------|------|
+| 参数 | 默认值 | 建议值 | 说明 |
+|------|--------|--------|------|
 | `resolution` | `0.05` | `0.10` | 降低地图分辨率，减少计算量 |
 | `map_update_interval` | `0.2` | `0.5` | 降低地图更新频率（5Hz → 2Hz） |
 | `scan_buffer_size` | `50` | `20` | 减少扫描缓存帧数 |
 | `loop_search_maximum_distance` | `3.0` | `2.0` | 缩小回环搜索范围 |
 
-修改后重新编译：
+### 2GB 内存特别优化
+
+2GB 版 Pi 4B 内存紧张，运行时勉强够，**编译是主要瓶颈**。两个方案：
+
+#### 方案一：Pi 本地编译（加 swap）
+
+```bash
+# 必须加 swap，否则编译必崩
+sudo fallocate -l 4G /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+echo '/swapfile none swap sw 0 0' | sudo tee -a /etc/fstab
+
+# 限制并行数并只编镭神相关包
+cd ~/ros2_ws
+colcon build --parallel-workers 1 \
+  --packages-select lslidar_msgs lslidar_driver slam_toolbox_config
+```
+
+#### 方案二：PC 交叉编译（推荐）
+
+在 PC（x86_64）上交叉编译 arm64 二进制，直接传给 Pi 运行。
+
+```bash
+# PC 上安装交叉编译工具
+sudo apt install gcc-aarch64-linux-gnu g++-aarch64-linux-gnu
+
+# PC 上编译，指定 arm64 架构
+cd ~/ros2_ws
+colcon build --packages-select lslidar_msgs lslidar_driver slam_toolbox_config \
+  --cmake-args -DCMAKE_C_COMPILER=aarch64-linux-gnu-gcc \
+                -DCMAKE_CXX_COMPILER=aarch64-linux-gnu-g++
+
+# 把编译产物传到树莓派
+scp -r install/ n100@192.168.1.100:~/ros2_ws/
+```
+
+> **建议：** 如果预算允许，直接买 4GB+ 版 Pi，差价不大但省很多事。
+
+### 运行时内存占用参考
+
+| 场景 | 内存占用 | 2GB 是否可行 |
+|------|----------|-------------|
+| Ubuntu Server 空载 | ~300MB | ✅ |
+| 雷达驱动 + SLAM 建图 | ~700MB~1GB | ✅ |
+| 加上 RViz 可视化 | ~1.5GB+ | ❌ 易崩 |
+| 编译 C++ 包 | 峰值 >2GB | ⚠️ 需 swap |
+
+### 修改后重新编译
 
 ```bash
 cd ~/ros2_ws && colcon build --packages-select slam_toolbox_config && source install/setup.bash
