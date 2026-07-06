@@ -65,7 +65,7 @@ title: 项目
       <p>基于 SLAM Toolbox 的 2D 激光 SLAM 方案。</p>
       <div class="card-details">
         • 2D 栅格地图构建<br>
-        • Nav2 导航支持<br>
+        • 地图保存与复用<br>
         • 地图保存与复用
       </div>
       <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">查看文档</a>
