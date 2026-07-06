@@ -323,6 +323,53 @@ if __name__ == '__main__':
     main()
 ```
 
+### 暂停/恢复建图
+
+`robot_app.py` 运行时支持键盘控制：
+
+| 按键 | 功能 |
+|------|------|
+| `p` | 暂停建图（不退出程序） |
+| `r` | 恢复建图 |
+| `q` | 退出 |
+
+### 开机自启动
+
+使用 systemd 服务，开机自动运行建图：
+
+```bash
+# 编辑服务文件
+sudo nano /etc/systemd/system/robot-slam.service
+```
+
+内容如下：
+```ini
+[Unit]
+Description=ROS2 SLAM Robot App
+After=network.target
+
+[Service]
+Type=simple
+User=n100
+Environment=HOME=/home/n100
+WorkingDirectory=/home/n100/ros2_ws
+ExecStart=/home/n100/ros2_ws/src/slam_toolbox_config/scripts/robot_app.py
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
+```
+
+启用：
+```bash
+sudo systemctl enable robot-slam.service   # 开机自启
+sudo systemctl start robot-slam.service    # 立即启动
+sudo systemctl stop robot-slam.service     # 停止
+sudo systemctl status robot-slam.service   # 查看状态
+```
+```
+
 ---
 
 ## 十三、备份与恢复
