@@ -1,222 +1,259 @@
----
-layout: default
-title: 镭神 N10P + SLAM Toolbox
----
+# 镭神 N10P + SLAM Toolbox 操作手册
 
-# 镭神 N10P + SLAM Toolbox 方案
-
-## 硬件要求
-
-| 组件 | 规格 |
-|------|------|
-| 激光雷达 | Leishen N10P / M10P（串口版） |
-| 设备节点 | `/dev/wheeltec_lidar` |
-| ROS2 | Humble |
-
----
-
-## 代码结构
-
-```
-ros2_ws/src/
-├── Lslidar_ROS2_driver-M10P-N10P/     # 镭神官方驱动
-│   ├── lslidar_msgs/                   # 自定义消息类型
-│   │   └── msg/
-│   │       ├── LslidarScan.msg         # 单帧扫描
-│   │       ├── LslidarSweep.msg        # 完整扫描
-│   │       ├── LslidarPoint.msg        # 单点云
-│   │       ├── LslidarPacket.msg       # 原始数据包
-│   │       └── LslidarDifop.msg        # 诊断信息
-│   └── lslidar_driver/
-│       ├── src/
-│       │   ├── lslidar_driver_node.cc  # ROS2 节点入口
-│       │   ├── lslidar_driver.cc       # 驱动核心（串口/网口通信）
-│       │   ├── input.cc                # 数据输入层
-│       │   └── lsiosr.cpp              # 串口 IO 操作
-│       ├── launch/lsn10p_launch.py     # LSN10P 专用启动
-│       ├── params/lidar_uart_ros2/
-│       │   └── lsn10p.yaml             # 参数配置
-│       └── rviz/lslidar.rviz           # RViz 配置
-│
-└── slam_toolbox_config/                # SLAM 工具配置
-    ├── scripts/
-    │   ├── slam_fix_node.py            # 卡尔曼滤波 + 坐标输出
-    │   ├── obstacle_detector.py        # 障碍物检测
-    │   ├── obstacle_plotter.py         # 障碍物可视化
-    │   ├── obstacle_printer.py         # 障碍物打印
-    │   └── robot_status.py             # 状态监控
-    ├── config/slam_final.yaml          # SLAM 参数
-    ├── launch/
-    │   ├── slam_final.launch.py        # 完整建图启动
-    │   └── lslidar_rviz.launch.py      # 纯可视化启动
-    └── rviz/lslidar.rviz              # 可视化配置
-```
-
----
-
-## 快速开始
+## 一、环境准备
 
 ```bash
-# 编译
+# 编译项目
 cd ~/ros2_ws
-colcon build --packages-select lslidar_driver lslidar_msgs slam_toolbox_config
+colcon build
 source install/setup.bash
-
-# 启动雷达 + SLAM 建图（推荐）
-ros2 launch slam_toolbox_config slam_final.launch.py
-
-# 或仅查看雷达数据（不含 SLAM）
-ros2 launch slam_toolbox_config lslidar_rviz.launch.py
-
-# 或仅启动驱动
-ros2 launch lslidar_driver lsn10p_launch.py
 ```
 
----
+## 二、建图流程（2个终端）
 
-## 启动文件详解
-
-### `slam_final.launch.py` — 完整建图
-
-启动 4 个节点：
-
-| 节点 | 功能 | Topic |
-|------|------|-------|
-| `lslidar_driver_node` | 雷达驱动 | `/scan` |
-| `slam_fix_node` | 数据修正 | `/scan` → `/scan_fixed` |
-| `async_slam_toolbox_node` | SLAM 建图 | `/scan_fixed` |
-| `static_transform_publisher` | TF: `odom` → `laser` | — |
-
-### `lslidar_rviz.launch.py` — 纯可视化
-
-启动 3 个节点：雷达驱动 + slam_fix + RViz。**不含 SLAM**，用于调试雷达数据，看不到地图。
-
-### `lsn10p_launch.py` — 仅驱动
-
-启动 2 个节点：雷达驱动 + RViz（不含修正和SLAM）
-
----
-
-## 可视化（查看地图）
-
-建图时查看实时地图有两个方式：
-
-### 方式一：建图 + 可视化分两个终端
+### 终端 1 — 雷达 + SLAM 建图
 
 ```bash
-# 终端 1：启动建图
+source ~/ros2_ws/install/setup.bash
 ros2 launch slam_toolbox_config slam_final.launch.py
+```
 
-# 终端 2：打开 RViz 查看地图
+### 终端 2 — RViz 可视化（查看地图）
+
+```bash
 source ~/ros2_ws/install/setup.bash
 rviz2 -d ~/ros2_ws/src/slam_toolbox_config/rviz/lslidar.rviz
 ```
 
-### 方式二：仅查看已保存的地图
+> 注意：`lslidar_rviz.launch.py` 不含 SLAM，跑它看不到地图。
+> 看地图必须跑 `slam_final.launch.py` 建图后，再另开终端手动开 RViz。
+
+### 终端 3 — 实时坐标输出
 
 ```bash
-ros2 run nav2_map_server map_server ./my_map.yaml
-rviz2  # 手动添加 Map 话题
+source ~/ros2_ws/install/setup.bash
+ros2 run slam_toolbox_config robot_status.py
 ```
 
-### RViz 基本操作
+### 终端 4 — 障碍物检测
+
+```bash
+source ~/ros2_ws/install/setup.bash
+ros2 run slam_toolbox_config obstacle_detector.py
+```
+
+## 三、保存地图
+
+建图完成后，在任意终端执行：
+
+```bash
+ros2 run nav2_map_server map_saver_cli -f ~/map
+```
+
+保存结果：
+- `~/map.pgm` — 栅格地图图片
+- `~/map.yaml` — 地图参数文件
+
+查看地图：
+
+```bash
+eog ~/map.pgm
+```
+
+## 四、只启动雷达（不建图）
+
+```bash
+source ~/ros2_ws/install/setup.bash
+ros2 launch lslidar_driver lsn10p_launch.py
+```
+
+## 五、Python 获取坐标与速度
+
+建图时可用 Python 订阅实时坐标和速度数据，供后续开发使用。
+
+### 快速测试
+
+```bash
+# 终端 1：建图
+ros2 launch slam_toolbox_config slam_final.launch.py
+
+# 终端 2：运行数据订阅示例
+ros2 run slam_toolbox_config robot_data_subscriber.py
+```
+
+输出示例：
+```
+位置: (1.234, 0.567)  朝向: 45.3°  速度: (0.123, 0.045)  角速度: 0.012 rad/s
+```
+
+### 在自己的代码中使用
+
+```python
+#!/usr/bin/env python3
+import rclpy
+from rclpy.node import Node
+from geometry_msgs.msg import PoseStamped, TwistStamped
+import math
+
+
+class MyRobot(Node):
+    def __init__(self):
+        super().__init__('my_robot')
+        self.x = self.y = self.yaw = 0.0
+        self.vx = self.vy = self.vyaw = 0.0
+
+        self.create_subscription(PoseStamped, '/robot_pose', self.pose_cb, 10)
+        self.create_subscription(TwistStamped, '/robot_velocity', self.vel_cb, 10)
+
+    def pose_cb(self, msg):
+        self.x = msg.pose.position.x
+        self.y = msg.pose.position.y
+        q = msg.pose.orientation
+        self.yaw = math.atan2(
+            2.0 * (q.w * q.z + q.x * q.y),
+            1.0 - 2.0 * (q.y * q.y + q.z * q.z))
+
+    def vel_cb(self, msg):
+        self.vx = msg.twist.linear.x
+        self.vy = msg.twist.linear.y
+        self.vyaw = msg.twist.angular.z
+
+    def get_pose(self):
+        return self.x, self.y, self.yaw
+
+    def get_velocity(self):
+        return self.vx, self.vy, self.vyaw
+
+
+def main(args=None):
+    rclpy.init(args=args)
+    robot = MyRobot()
+    rclpy.spin(robot)
+
+if __name__ == '__main__':
+    main()
+```
+
+### 可用话题
+
+| 话题 | 类型 | 说明 |
+|------|------|------|
+| `/robot_pose` | PoseStamped | 滤波后位姿 (x, y, 四元数) |
+| `/robot_position` | PointStamped | 位置点 |
+| `/robot_yaw` | Float32 | 航向角 (弧度) |
+| `/robot_velocity` | TwistStamped | 线速度 + 角速度 |
+| `/robot_predicted` | PointStamped | 预测位置 (100ms 前馈) |
+
+---
+
+## 六、常用诊断命令
+
+```bash
+# 查看所有话题
+ros2 topic list
+
+# 检查话题频率
+ros2 topic hz /scan          # 雷达频率，正常 ~12Hz
+ros2 topic hz /robot_pose    # 位姿频率，正常 ~100Hz
+
+# 查看坐标输出
+ros2 topic echo /robot_pose
+ros2 topic echo /robot_position
+
+# 查看 TF 树
+ros2 run tf2_tools view_frames.py
+
+# 查看节点
+ros2 node list
+```
+
+## 六、RViz 基本操作
 
 | 操作 | 方法 |
 |------|------|
 | 旋转视角 | 鼠标左键拖动 |
 | 平移视角 | 鼠标中键拖动 |
-| 缩放 | 滚轮 |
-| Fixed Frame | 顶部设为 `map` |
+| 缩放 | 滚轮滚动 |
 | 添加话题 | 左下角 Add → By topic |
+| Fixed Frame | 顶部设为 `map` |
 
----
+## 七、关键文件位置
 
-## 坐标输出话题
+| 文件 | 说明 |
+|------|------|
+| `src/slam_toolbox_config/launch/slam_final.launch.py` | 启动文件 |
+| `src/slam_toolbox_config/config/slam_final.yaml` | SLAM 参数 |
+| `src/slam_toolbox_config/scripts/slam_fix_node.py` | 数据修复 + 坐标发布 |
+| `src/slam_toolbox_config/scripts/obstacle_detector.py` | 障碍物检测 |
+| `src/slam_toolbox_config/scripts/robot_status.py` | 坐标输出 |
+| `src/Lslidar_ROS2_driver-M10P-N10P/lslidar_driver/params/lidar_uart_ros2/lsn10p.yaml` | 雷达参数 |
+| `src/slam_toolbox_config/rviz/lslidar.rviz` | RViz 配置 |
 
-`slam_fix_node.py` 通过卡尔曼滤波输出以下话题：
+## 八、坐标系关系
+
+```
+map → odom → laser
+```
+
+- `map`：地图坐标系（全局）
+- `odom`：里程计坐标系
+- `laser`：雷达坐标系（机器人本体）
+
+## 九、话题列表
 
 | 话题 | 类型 | 说明 |
 |------|------|------|
-| `/scan_fixed` | LaserScan | 修正后的雷达数据 |
-| `/robot_pose` | PoseStamped | 滤波后位姿 (map 坐标系) |
-| `/robot_position` | PointStamped | 位置点 (map 坐标系) |
-| `/robot_yaw` | Float32 | 航向角 (弧度) |
-| `/robot_velocity` | TwistStamped | 线速度/角速度 |
-| `/robot_predicted` | PointStamped | 预测位置 (100ms 前馈) |
-| `/robot_debug` | Float32MultiArray | [x, y, yaw°, vx, vy, vyaw, x_pred, y_pred] |
+| `/scan` | LaserScan | 原始雷达数据 |
+| `/scan_fixed` | LaserScan | 修复后的雷达数据 |
+| `/map` | OccupancyGrid | 栅格地图 |
+| `/robot_pose` | PoseStamped | 机器人位姿（滤波后） |
+| `/robot_position` | PointStamped | 机器人坐标 |
+| `/robot_yaw` | Float32 | 航角（弧度） |
+| `/robot_velocity` | TwistStamped | 实时速度 |
+| `/robot_predicted` | PointStamped | 预测位置 |
+| `/obstacle_markers` | MarkerArray | 障碍物可视化标记 |
 
-滤波特性：静止时自动清零速度，防止零漂。
+## 十、常见问题
 
----
+### SLAM_ERROR Speed
+移动太快时 SLAM 跟不上，放慢速度即可。
 
-## 障碍物检测
+### 坐标更新有延迟
+SLAM Toolbox scan matching 计算需要时间，位姿更新频率约 5-8Hz，属于算法特性。
 
-| 节点 | 功能 | 输出 |
-|------|------|------|
-| `obstacle_detector.py` | 从 `/scan_fixed` 检测障碍物 | `/obstacles` |
-| `obstacle_plotter.py` | RViz 可视化标记 | Marker 阵列 |
-| `obstacle_printer.py` | 终端打印障碍物信息 | 控制台输出 |
+### 雷达数据丢包
+检查串口连接：`ls -la /dev/wheeltec_lidar`
 
----
+### 编译报重复包名
+确保 `src/` 下只有一个 `lslidar_msgs` 目录。
 
-## 保存地图
+### 启动报 TF 错误
+等待几秒让 SLAM 初始化完成，`map` 帧建立后会自动恢复。
+
+## 十一、备份与恢复
+
+### 打包源码（排除编译产物）
 
 ```bash
-ros2 run nav2_map_server map_saver_cli -f ~/my_map
+cd ~/ros2_ws
+zip -r -q ~/ros2_ws_src_backup.zip src/ docs/ CLAUDE.md README.md \
+  -x "src/unilidar_fastlio_ros2-ros2/doc/*" "src/*/Log/*" "src/*/*.pcd" "src/*/*.pgm"
 ```
 
-生成 `~/my_map.pgm`（栅格图）和 `~/my_map.yaml`（元数据）。
+### 恢复
 
----
-
-## 参数配置
-
-### 雷达参数
-
-文件：`Lslidar_ROS2_driver-M10P-N10P/lslidar_driver/params/lidar_uart_ros2/lsn10p.yaml`
-
-| 参数 | 当前值 | 说明 |
-|------|--------|------|
-| `interface_selection` | `serial` | 接口: `serial` / `net` |
-| `device_port` | `/dev/wheeltec_lidar` | 串口设备 |
-| `lidar_name` | `N10_P` | 型号: `M10` / `M10_P` / `N10` / `N10_P` / `L10` |
-| `frame_id` | `laser` | 激光坐标系 |
-| `scan_topic` | `/scan` | 输出话题 |
-| `min_range` / `max_range` | `0.0` / `200.0` | 距离过滤 |
-| `pubScan` | `true` | 是否发布 scan |
-| `pubPointCloud2` | `false` | 是否发布点云 |
-
-### SLAM 参数
-
-文件：`slam_toolbox_config/config/slam_final.yaml`
-
-| 参数 | 当前值 | 说明 |
-|------|--------|------|
-| `mode` | `mapping` | 模式: `mapping` / `localization` |
-| `resolution` | `0.05` | 地图分辨率 (米/像素) |
-| `map_update_interval` | `0.2` | 地图更新间隔 (秒) |
-| `max_laser_range` | `25.0` | 最大有效距离 |
-| `do_loop_closing` | `true` | 回环检测 |
-| `scan_topic` | `/scan_fixed` | 输入话题 |
-
----
-
-## 常见问题
-
-**Q: 串口权限不足**
 ```bash
-sudo usermod -a -G dialout $USER
-# 重新登录后生效
+cd ~/ros2_ws
+unzip ~/ros2_ws_src_backup.zip
+colcon build
+source install/setup.bash
 ```
 
-**Q: 驱动编译报错找不到依赖**
-```bash
-sudo apt install ros-humble-tf2 ros-humble-tf2-ros \
-                 ros-humble-pcl-conversions ros-humble-pcl-ros \
-                 libpcap-dev
-```
+## 十二、任务目标对应功能
 
-**Q: 雷达不出数据**
-1. 检查 `/dev/wheeltec_lidar` 是否存在
-2. 检查 `lsn10p.yaml` 中的串口路径和型号参数
-3. 运行 `ls -l /dev/wheeltec_lidar` 确认设备权限
+| 任务目标 | 实现方式 | 启动命令 |
+|----------|----------|----------|
+| 环境建图 | SLAM Toolbox 建图 + 回环检测 | `ros2 launch slam_toolbox_config slam_final.launch.py` |
+| 自身定位 | TF 变换 + 卡尔曼滤波 | `ros2 run slam_toolbox_config robot_status.py` |
+| 障碍物检测 | 聚类算法 + Marker 可视化 | `ros2 run slam_toolbox_config obstacle_detector.py` |
+| 保存地图 | map_saver_cli | `ros2 run nav2_map_server map_saver_cli -f ~/map` |
