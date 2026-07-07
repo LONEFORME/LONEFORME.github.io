@@ -74,12 +74,15 @@ def fetch_rss(url, source_name, timeout=20):
 def summarize_news(news_items, api_key):
     if not api_key:
         log("[ERROR] OPENCODE_GO_API_KEY 未设置")
+        if os.environ.get("GITHUB_ACTIONS"):
+            log(f"  [DEBUG] API_KEY 前4位: {api_key[:4] if api_key else 'N/A'}")
         return None
 
     lines = []
     for item in news_items:
         lines.append(f"[{item['date'] or '?'}] [{item['source']}] {item['title']}")
     news_text = "\n".join(lines)
+    log(f"[DEBUG] 发送给 API 的文本长度: {len(news_text)} 字符")
 
     system_prompt = """你是资深新闻编辑。任务：整理以下新闻。
 
@@ -100,6 +103,7 @@ def summarize_news(news_items, api_key):
 - 不要链接，不要推理过程"""
 
     try:
+        log(f"[DEBUG] 请求模型: {MODEL}, URL: {API_URL}")
         resp = requests.post(
             API_URL,
             headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
@@ -114,14 +118,20 @@ def summarize_news(news_items, api_key):
             },
             timeout=120
         )
+        log(f"[DEBUG] API 响应状态码: {resp.status_code}")
+        if resp.status_code != 200:
+            log(f"[DEBUG] API 响应体: {resp.text[:500]}")
         resp.raise_for_status()
         data = resp.json()
         content = data["choices"][0]["message"]["content"]
+        log(f"[DEBUG] API 返回内容长度: {len(content)} 字符")
+        log(f"[DEBUG] API 返回内容前200字: {content[:200]}")
         return content if content.strip() else None
     except Exception as e:
         log(f"[ERROR] API 调用失败: {e}")
         if "resp" in dir():
             log(f"  Status: {resp.status_code}")
+            log(f"  响应片段: {resp.text[:300]}")
         return None
 
 
@@ -378,6 +388,48 @@ document.addEventListener("click", function(e) {
 '''
 
     return html
+def generate_raw_html(news_items, date_str):
+    """Generate simple HTML grid from raw RSS entries (fallback when AI fails)"""
+    if not news_items:
+        return "<p>暂无新闻数据。</p>"
+
+    html = f'<div class="news-summary-line" style="margin-top: 0;">🕐 {date_str} · 共 {len(news_items)} 条新闻 · 鼠标悬停查看详情 · 点击跳转原文</div>\n\n'
+    html += '<div class="news-grid">\n'
+
+    # Group by source
+    from_source = {}
+    for item in news_items:
+        src = item["source"]
+        if src not in from_source:
+            from_source[src] = []
+        from_source[src].append(item)
+
+    for src, items in from_source.items():
+        html += f'  <div class="news-category">\n'
+        html += f'    <div class="news-category-header">\n'
+        html += f'      <span class="news-category-icon">📰</span>\n'
+        html += f'      <span class="news-category-title">{src}</span>\n'
+        html += f'      <span class="news-category-count">{len(items)}</span>\n'
+        html += f'    </div>\n'
+
+        for item in items:
+            link = item["link"]
+            title = item["title"]
+            date = item["date"]
+            html += f'    <a class="news-item" href="{link}" target="_blank" rel="noopener">\n'
+            if date:
+                html += f'      <div class="news-item-date">{date}</div>\n'
+            html += f'      <div class="news-item-title">{title}</div>\n'
+            html += f'      <div class="news-item-source">{item["source"]}</div>\n'
+            html += f'      <div class="news-item-link">查看原文 →</div>\n'
+            html += f'    </a>\n'
+
+        html += '  </div>\n'
+
+    html += '</div>\n'
+    return html
+
+
 def main():
     date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     date_only = datetime.now().strftime("%Y-%m-%d")
@@ -406,20 +458,23 @@ def main():
         log(f"[INFO] 调用 AI 总结 API ...")
         summary = summarize_news(news, API_KEY)
         if not summary:
-            log(f"[INFO] API 返回为空")
+            log(f"[INFO] AI 返回为空，将使用 RSS 原始数据作为降级方案")
             summary = ""
 
     # Parse AI output into categories
     if summary and summary.strip():
         categories = parse_categories(summary)
-        log(f"[INFO] 解析到 {len(categories)} 个分类")
+        log(f"[INFO] 解析到 {len(categories)} 个分类 (AI 模式)")
+        news_html = generate_tabbed_html(categories, date_str)
+        mode = "AI"
     else:
-        categories = []
-        log(f"[INFO] 无分类数据")
+        log(f"[INFO] 使用 RSS 原始数据降级方案 ({len(news)} 条)")
+        news_html = generate_raw_html(news, date_str)
+        mode = "RSS"
+        categories = []  # mark as non-empty so news.md gets written
 
     # Generate today's news page (news.md)
-    if categories:
-        news_html = generate_tabbed_html(categories, date_str)
+    if categories or news:
         page = f"""---
 layout: default
 title: 热点新闻
@@ -427,7 +482,7 @@ title: 热点新闻
 
 # 📰 热点新闻速览
 
-> AI 精选 · 来源可溯 · 每日更新
+> {"AI 精选" if mode == "AI" else "RSS 聚合"} · 来源可溯 · 每日更新
 
 {news_html}
 
@@ -438,7 +493,7 @@ title: 热点新闻
 
         with open("news.md", "w", encoding="utf-8") as f:
             f.write(page)
-        log(f"[INFO] 已生成 news.md ({len(page)} 字符)")
+        log(f"[INFO] 已生成 news.md ({len(page)} 字符, {mode} 模式)")
 
         # Generate daily archive page
         os.makedirs("archive", exist_ok=True)
@@ -462,9 +517,9 @@ title: 新闻存档 - {date_only}
 """
         with open(archive_file, "w", encoding="utf-8") as f:
             f.write(archive_page)
-        log(f"[INFO] 已生成 {archive_file}")
+        log(f"[INFO] 已生成存档 {archive_file}")
     else:
-        log(f"[WARN] API 返回空，保留现有 news.md，不覆盖")
+        log(f"[WARN] 无任何数据，保留现有 news.md，不覆盖")
 
     # Clean up archives older than 5 days
     from datetime import timedelta
