@@ -5,7 +5,8 @@ import feedparser
 import os
 import requests
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
+from email.utils import parsedate_to_datetime
 
 log = lambda msg: print(msg, flush=True)
 
@@ -33,6 +34,121 @@ API_KEY = os.environ.get("OPENCODE_GO_API_KEY")
 MODEL = "deepseek-v4-flash"
 MAX_ARTICLES_PER_FEED = 6
 MAX_TOTAL = 30
+MAX_AGE_DAYS = 30
+
+SOURCE_NAME_MAP = {
+    "people.com.cn": "人民网",
+    "xinhuanet.com": "新华网",
+    "chinanews.com.cn": "中国新闻网",
+    "chinanews.com": "中国新闻网",
+    "china.com.cn": "中国网",
+    "chinaqw.com": "中国侨网",
+    "huanqiu.com": "环球网",
+    "youth.cn": "中国青年网",
+    "ce.cn": "中国经济网",
+    "cnr.cn": "央广网",
+    "cctv.com": "央视网",
+    "gmw.cn": "光明网",
+    "stdaily.com": "科技日报",
+    "qzwb.com": "泉州网",
+    "ifeng.com": "凤凰网",
+    "sina.com.cn": "新浪",
+    "sohu.com": "搜狐",
+    "163.com": "网易",
+    "bbc.com": "BBC",
+    "bbc.co.uk": "BBC",
+    "nytimes.com": "纽约时报",
+    "cbsnews.com": "CBS News",
+    "npr.org": "NPR",
+}  # fmt: skip
+
+
+_DAY_NAMES = {"mon": "Mon", "tue": "Tue", "wed": "Wed", "thu": "Thu", "fri": "Fri", "sat": "Sat", "sun": "Sun"}
+_MONTH_NAMES = {"jan": "Jan", "feb": "Feb", "mar": "Mar", "apr": "Apr", "may": "May", "jun": "Jun",
+                "jul": "Jul", "aug": "Aug", "sep": "Sep", "oct": "Oct", "nov": "Nov", "dec": "Dec"}
+_MONTH_PREFIX2 = {"ja": "Jan", "fe": "Feb", "ma": "Mar", "ap": "Apr", "may": "May", "ju": "Jul",
+                  "au": "Aug", "se": "Sep", "oc": "Oct", "no": "Nov", "de": "Dec"}
+
+def _try_fix_date(date_str):
+    """Fix common truncated date issues from RSS feeds"""
+    s = date_str.strip()
+    # "Tue, 07 Ju" -> "Tue, 07 Jul 2026" (truncated by Google News)
+    m = re.match(r'^(\w+),\s*(\d{1,2})\s+(\w{2,})$', s)
+    if m:
+        dow = m.group(1)
+        day = m.group(2).zfill(2)
+        mon_raw = m.group(3).lower()[:3]
+        if len(mon_raw) == 3 and mon_raw in _MONTH_NAMES:
+            s = f"{dow}, {day} {_MONTH_NAMES[mon_raw]} {datetime.now().year}"
+        elif len(mon_raw) >= 2 and mon_raw[:2] in _MONTH_PREFIX2:
+            s = f"{dow}, {day} {_MONTH_PREFIX2[mon_raw[:2]]} {datetime.now().year}"
+    return s
+
+def normalize_date(date_str):
+    """Parse various RSS date formats into YYYY-MM-DD string."""
+    if not date_str:
+        return ""
+    date_str = _try_fix_date(date_str.strip())
+    # Already YYYY-MM-DD
+    if re.match(r'^\d{4}-\d{2}-\d{2}', date_str):
+        return date_str[:10]
+    # YYYY-MM-DDTHH:MM:SS
+    if re.match(r'^\d{4}-\d{2}-\d{2}T', date_str):
+        return date_str[:10]
+    # RFC 2822: "Tue, 07 Jul 2026 12:00:00 GMT"
+    try:
+        dt = parsedate_to_datetime(date_str)
+        return dt.strftime("%Y-%m-%d")
+    except Exception:
+        pass
+    # Manually parse: "Tue, 7 Jul 2026" (no time part)
+    m = re.match(r'^\w+,\s*(\d{1,2})\s+(\w+)\s+(\d{4})$', date_str)
+    if m:
+        day, mon, year = m.group(1).zfill(2), m.group(2)[:3].title(), m.group(3)
+        mon_num = {"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,"Jul":7,"Aug":8,"Sep":9,"Oct":10,"Nov":11,"Dec":12}
+        if mon in mon_num:
+            return f"{year}-{mon_num[mon]:02d}-{day}"
+    log(f"  [WARN] 无法解析日期: {date_str[:40]}")
+    return date_str[:10]
+
+
+def clean_title(title):
+    """Remove trailing source suffixes like ' - domain.com' or ' | Some Site'"""
+    # Remove trailing " - anything"
+    m = re.search(r'\s*[-–—|]\s*[a-zA-Z0-9][-a-zA-Z0-9.]*\.[a-zA-Z]{2,}\s*$', title)
+    if m:
+        title = title[:m.start()].strip()
+    # Remove trailing source in parentheses
+    m = re.search(r'\s*\([^)]*\)\s*$', title)
+    if m and len(m.group()) < 30:
+        title = title[:m.start()].strip()
+    return title
+
+
+def normalize_source(source_raw, title="", link=""):
+    """Clean up source name"""
+    s = source_raw.strip()
+    if not s:
+        return s
+    # Try progressively shorter domain suffixes against the map
+    parts = s.lower().split(".")
+    if len(parts) >= 2:
+        for i in range(len(parts)):
+            candidate = ".".join(parts[i:])
+            if candidate in SOURCE_NAME_MAP:
+                return SOURCE_NAME_MAP[candidate]
+    return s
+
+
+def is_recent(date_str):
+    """Check if article date is within MAX_AGE_DAYS. If parse fails, keep it."""
+    if not date_str:
+        return True
+    try:
+        dt = datetime.strptime(date_str, "%Y-%m-%d")
+        return datetime.now() - dt <= timedelta(days=MAX_AGE_DAYS)
+    except ValueError:
+        return True
 
 
 def parse_publisher(title):
@@ -57,14 +173,19 @@ def fetch_rss(url, source_name, timeout=20):
             link = entry.get("link", "")
             published = entry.get("published", entry.get("updated", ""))
             if title and link:
-                clean_title, publisher = parse_publisher(title)
-                src = publisher if publisher else source_name
-                entries.append({
-                    "title": clean_title,
-                    "link": link,
-                    "date": published[:10] if published else "",
-                    "source": src
-                })
+                title, publisher = parse_publisher(title)
+                title = clean_title(title)
+                src = normalize_source(publisher if publisher else source_name, title, link)
+                date = normalize_date(published)
+                if is_recent(date):
+                    entries.append({
+                        "title": title,
+                        "link": link,
+                        "date": date,
+                        "source": src
+                    })
+                else:
+                    log(f"  [SKIP] 过旧文章 ({date}): {title[:40]}")
         return entries
     except Exception as e:
         log(f"  [ERROR] 抓取失败: {e}")
@@ -241,26 +362,26 @@ def generate_tabbed_html(categories, date_str):
 
     # Tab bar
     html += '  <div class="tab-bar" id="newsTabBar">\n'
-    html += f'    <label for="tab-all" class="tab-label">\U0001f4cb \u5168\u90e8 <span class="tab-count">{total_count}</span></label>\n'
+    html += f'    <label for="tab-all" class="tab-label">📋 全部 <span class="tab-count">{total_count}</span></label>\n'
 
     icon_map = {
-        "shizheng": "\U0001f3db\ufe0f", "keji": "\U0001f916", "guoji": "\U0001f30d", "shehui": "\U0001f52c",
-        "caijing": "\U0001f4b0", "tiyu": "\u26bd", "junshi": "\u2694\ufe0f", "qita": "\U0001f4ce"
+        "shizheng": "🏛️", "keji": "🤖", "guoji": "🌍", "shehui": "🔬",
+        "caijing": "💰", "tiyu": "⚽", "junshi": "⚔️", "qita": "📎"
     }
     for tab_id, short_name, _, items in tabs:
-        icon = icon_map.get(tab_id, "\U0001f4cb")
+        icon = icon_map.get(tab_id, "📋")
         html += f'    <label for="tab-{tab_id}" class="tab-label">{icon} {short_name} <span class="tab-count">{len(items)}</span></label>\n'
     html += '  </div>\n\n'
 
     # Navigation buttons
     html += '  <div class="tab-nav">\n'
-    html += '    <button class="tab-nav-btn tab-prev" onclick="switchTab(-1)" title="\u4e0a\u4e00\u4e2a\u5206\u7c7b" aria-label="Previous">\u2039</button>\n'
-    html += '    <div class="tab-nav-indicator" id="tabIndicator">\u5168\u90e8</div>\n'
-    html += '    <button class="tab-nav-btn tab-next" onclick="switchTab(1)" title="\u4e0b\u4e00\u4e2a\u5206\u7c7b" aria-label="Next">\u203a</button>\n'
+    html += '    <button class="tab-nav-btn tab-prev" onclick="switchTab(-1)" title="上一个分类" aria-label="Previous">‹</button>\n'
+    html += '    <div class="tab-nav-indicator" id="tabIndicator">全部</div>\n'
+    html += '    <button class="tab-nav-btn tab-next" onclick="switchTab(1)" title="下一个分类" aria-label="Next">›</button>\n'
     html += '  </div>\n\n'
 
     # Summary line
-    html += f'  <div class="news-summary-line">{date_str} \u00b7 \u5171 {total_count} \u6761\u65b0\u95fb \u00b7 \u70b9\u51fb\u6807\u7b7e\u6216 \u2190 \u2192 \u952e\u5207\u6362</div>\n\n'
+    html += f'  <div class="news-summary-line">{date_str} · 共 {total_count} 条新闻 · 点击标签或 ← → 键切换</div>\n\n'
 
     # "All" panel
     html += '  <div class="tab-panel" id="panel-all">\n'
@@ -276,7 +397,7 @@ def generate_tabbed_html(categories, date_str):
             for item in items:
                 html += item_to_html(item)
         else:
-            html += f'    <div class="news-card"><div class="news-card-summary">\u6682\u65e0 {short_name} \u7c7b\u65b0\u95fb\u3002</div></div>\n'
+            html += f'    <div class="news-card"><div class="news-card-summary">暂无 {short_name} 类新闻。</div></div>\n'
         html += '  </div>\n\n'
 
     html += '</div>\n'
@@ -522,7 +643,6 @@ title: 新闻存档 - {date_only}
         log(f"[WARN] 无任何数据，保留现有 news.md，不覆盖")
 
     # Clean up archives older than 5 days
-    from datetime import timedelta
     archive_dir = "archive"
     if os.path.exists(archive_dir):
         for fname in os.listdir(archive_dir):
