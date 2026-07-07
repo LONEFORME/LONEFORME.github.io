@@ -420,11 +420,7 @@ def main():
     # Generate today's news page (news.md)
     if categories:
         news_html = generate_tabbed_html(categories, date_str)
-    else:
-        news_html = "<p>暂无新闻数据。</p>\n"
-        news_html += f'<div class="news-summary-line">🕐 生成时间: {date_str}</div>\n'
-
-    page = f"""---
+        page = f"""---
 layout: default
 title: 热点新闻
 ---
@@ -440,14 +436,14 @@ title: 热点新闻
 <p class="news-updated">🕐 更新于 {date_only}</p>
 """
 
-    with open("news.md", "w", encoding="utf-8") as f:
-        f.write(page)
-    log(f"[INFO] 已生成 news.md ({len(page)} 字符)")
+        with open("news.md", "w", encoding="utf-8") as f:
+            f.write(page)
+        log(f"[INFO] 已生成 news.md ({len(page)} 字符)")
 
-    # Generate daily archive page
-    os.makedirs("archive", exist_ok=True)
-    archive_file = f"archive/news-{date_only}.md"
-    archive_page = f"""---
+        # Generate daily archive page
+        os.makedirs("archive", exist_ok=True)
+        archive_file = f"archive/news-{date_only}.md"
+        archive_page = f"""---
 layout: default
 title: 新闻存档 - {date_only}
 ---
@@ -464,9 +460,11 @@ title: 新闻存档 - {date_only}
 
 <p class="news-updated">🕐 发布于 {date_str}</p>
 """
-    with open(archive_file, "w", encoding="utf-8") as f:
-        f.write(archive_page)
-    log(f"[INFO] 已生成 {archive_file}")
+        with open(archive_file, "w", encoding="utf-8") as f:
+            f.write(archive_page)
+        log(f"[INFO] 已生成 {archive_file}")
+    else:
+        log(f"[WARN] API 返回空，保留现有 news.md，不覆盖")
 
     # Clean up archives older than 5 days
     from datetime import timedelta
