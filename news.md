@@ -7,32 +7,19 @@ title: 热点新闻
 
 > RSS 聚合 · 来源可溯 · 每日更新
 
-<div class="news-summary-line" style="margin-top: 0;">🕐 2026-07-08 03:20 · 共 30 条新闻 · 鼠标悬停查看详情 · 点击跳转原文</div>
+<div class="news-summary-line" style="margin-top: 0;">🕐 2026-07-08 10:03 · 共 30 条新闻 · 鼠标悬停查看详情 · 点击跳转原文</div>
 
 <div class="news-grid">
   <div class="news-category">
     <div class="news-category-header">
       <span class="news-category-icon">📰</span>
-      <span class="news-category-title">中山网</span>
+      <span class="news-category-title">四川新闻</span>
       <span class="news-category-count">1</span>
     </div>
-    <a class="news-item" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1YeTNHTW9rMHREZ2Q1SFFkQktmbTY0MldkTzdGc3hjU2FVd1N4NHZrSDEyVm9iNDVEVDZUME1abmlVckR5cHBmNHcwM01FRUdTWmR6ejM0QjFERGxhdFhsRzhfbG41OTZIa04yNVgwdw?oc=5" target="_blank" rel="noopener">
+    <a class="news-item" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hSWtUcFlGMFZrODViS21FWUtZXzkwdTVZZGx2QVdiVG5PTzRFNDZ6WHhVYUF6RDFZRjVSWmYxMmxBSktkQXBSNjZleEYtbU1qdVN1eEViUlo2THdWYXdaVE5QYw?oc=5" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">南方日报评论员：勠力同心筑牢防汛救灾防线</div>
-      <div class="news-item-source">中山网</div>
-      <div class="news-item-link">查看原文 →</div>
-    </a>
-  </div>
-  <div class="news-category">
-    <div class="news-category-header">
-      <span class="news-category-icon">📰</span>
-      <span class="news-category-title">新京报</span>
-      <span class="news-category-count">1</span>
-    </div>
-    <a class="news-item" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qTzNyZ19uOGRxd3dwYWVRU1BETnN2NGlhemJESFpPR1duOEJfbGk4aER1QmE0R1NXdG5zcFp6UUNfYVR1Wnc1LVVmTmtubmxTTXR1NU9SRnNHLXZPcTRuYmZpZGQ?oc=5" target="_blank" rel="noopener">
-      <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">北京举办交响合唱音乐会，纪念全民族抗战爆发89周年</div>
-      <div class="news-item-source">新京报</div>
+      <div class="news-item-title">川籍院士陈立泉获国家最高科学技术奖，小山村走出的“锂”想家，让中国锂电池领跑世界</div>
+      <div class="news-item-source">四川新闻</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
   </div>
@@ -40,23 +27,17 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="news-category-icon">📰</span>
       <span class="news-category-title">Google 新闻(时政)</span>
-      <span class="news-category-count">3</span>
+      <span class="news-category-count">2</span>
     </div>
-    <a class="news-item" href="https://news.google.com/rss/articles/CBMie0FVX3lxTFBtOGNrU2VlRmxFZ0tWYVZzQlFnZ3FpN2lZekdVNUlTcW5kN2czUGhGWTV0clVvZExiNkNRc00tQ0tmNE1DbVl6VXBQT0VpX3NZbml6SkFZRVQ2MUkzRnJzTDNZa2Z1d3V2bmQ2VzlFUjlNdUw1blQwdHM0VQ?oc=5" target="_blank" rel="noopener">
+    <a class="news-item" href="https://news.google.com/rss/articles/CBMickFVX3lxTFBEWUlzOFpoVVU0WEZ4OVkyREtXaEw0UHpoQjRwX1pLYklsekNMNnNEaGZWU3dBblI1bmJUN2MwdERlbFVsWWxXeUJ2Mzh6Mk50UzdLYllrbmhhM1lJV3FoUDMzM1lCQnpaX3dTWXRJd1c1dw?oc=5" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">为民族复兴积聚磅礴伟力——习近平总书记引领科技强国建设纪实 - 中国日报网</div>
+      <div class="news-item-title">习近平总书记引领科技强国建设纪实</div>
       <div class="news-item-source">Google 新闻(时政)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNVlFYRDljbWJDaGRMUmppcmhTZUNsaGszSVdURlFHUldLU2xJODhmeGYyUVlkc2VzU2dJdzlvVXIxWEVJcG9hZDVabElpaU8xbUE1VWRhcDVKTDNIbFoySGRNNnpzNE4wWWRONVBoUjRjbzFXODFydkQyMzNRM3E3MUxfOEY?oc=5" target="_blank" rel="noopener">
-      <div class="news-item-date">2026-07-07</div>
-      <div class="news-item-title">防御超强台风“巴威”，杭州发布重要提醒！一水库提前开闸泄洪</div>
-      <div class="news-item-source">Google 新闻(时政)</div>
-      <div class="news-item-link">查看原文 →</div>
-    </a>
-    <a class="news-item" href="https://news.google.com/rss/articles/CBMickFVX3lxTE44TnF5UHZfTm5fNUhDVlV5ekJ3UTJZRGFsZUJaUnhkMVdNN01FbWU5U1RUUzlrb1ZCcmNWTlh3M2hUX3JwcjhJRXl0QTRrZFdOVUl3UkdqSEM4NFFUcXdXS3R5NTdXYkhkeUFtUmF6cmJXZw?oc=5" target="_blank" rel="noopener">
+    <a class="news-item" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHa1NockhPdFpzOFFHZjNPOF91UFV0czgzbFEzV3BjQ1doUlVDWnlscTVpMVQ1cmNOVXR0MFU2ZGdwT2Fhb2hLTGMtUVFkN20wR2twRldoOHo?oc=5" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">时政微视频｜无我</div>
+      <div class="news-item-title">24小时内！100万！ 黄冈龙卷风巨灾首批保险赔款到账- 湖北日报新闻客户端 - 湖北日报传媒集团</div>
       <div class="news-item-source">Google 新闻(时政)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
@@ -67,10 +48,36 @@ title: 热点新闻
       <span class="news-category-title">新华网</span>
       <span class="news-category-count">1</span>
     </div>
-    <a class="news-item" href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOY25rQkJ1UjVVUUtibGJacWs1NmkyNElGS21wNlhoRFIxUXpGdkJZbDFCUEJXbWhxa2FURGcxME9ycFY4MjE4eG1JNlRpMlUzRWpxLUhwSTNnVl90R1F4a2ExV0FwbnRsQnVmYmItN0xrc2Y0X3JnNXZmT1hTRnY2aWxEMA?oc=5" target="_blank" rel="noopener">
+    <a class="news-item" href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzlkWk1xYVRfbE9Ic05rYzZBeTdpVmxWYWc5M0cwQVF3OXpvbFpLNnFmUXNfalV2WVpTcm5tRlNoNkFaREVYYk95dmpSX2hPLUNhYy1VbENtN1NRTHRfYWJ3SzFEcXZzNWdXVVJfYVhwU2ZjV2szZXZqdExZOW1sY3V3?oc=5" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">甘肃宕昌滑坡现场搜救工作结束 21人遇难</div>
+      <div class="news-item-title">天津市委常委会召开会议 陈敏尔主持并讲话</div>
       <div class="news-item-source">新华网</div>
+      <div class="news-item-link">查看原文 →</div>
+    </a>
+  </div>
+  <div class="news-category">
+    <div class="news-category-header">
+      <span class="news-category-icon">📰</span>
+      <span class="news-category-title">紫牛新闻</span>
+      <span class="news-category-count">1</span>
+    </div>
+    <a class="news-item" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UOGFEdWVmVHNLc0czV1V4VEJDdWZGQkFZaFBoWkhPNkk5UFlxNk1HNFdwVTdzZmVKbUhxNnktYjhJV2lGZFlZTzA2b1JpWnJtZnJLTDZ5Y3lfNGRXdWxZdVV6bXRzUzFH?oc=5" target="_blank" rel="noopener">
+      <div class="news-item-date">2026-07-08</div>
+      <div class="news-item-title">铭记历史珍爱和平，传承历史记忆，南京大屠杀幸存者后代与青少年撞响和平大钟</div>
+      <div class="news-item-source">紫牛新闻</div>
+      <div class="news-item-link">查看原文 →</div>
+    </a>
+  </div>
+  <div class="news-category">
+    <div class="news-category-header">
+      <span class="news-category-icon">📰</span>
+      <span class="news-category-title">中国日报网</span>
+      <span class="news-category-count">1</span>
+    </div>
+    <a class="news-item" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE41WWRaaldtLU1iYkViRkxmMHE1QVB6Y2NzVXN5ZURhV2ppSEpCOGV5ME51dVRMNG5XTzVhY3VGWGtYRThJTXVkTV9mQWE3VW5Ed2tYT0MyTHdHUHFaQklPbjNDTHlvRWhTdG1fYjJhZ05DS3QzT1FrU0RCZ00?oc=5" target="_blank" rel="noopener">
+      <div class="news-item-date">2026-07-08</div>
+      <div class="news-item-title">外交部：重燃战火不符合任何一方利益 军事手段解决不了根本问题</div>
+      <div class="news-item-source">中国日报网</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
   </div>
@@ -80,39 +87,39 @@ title: 热点新闻
       <span class="news-category-title">中国新闻网(滚动)</span>
       <span class="news-category-count">6</span>
     </div>
-    <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/07-08/10654929.shtml" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/07-08/10655225.shtml" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">国台办批赖清德搞“凯子外交”</div>
+      <div class="news-item-title">“西野F4”出圈 聚流量只为更好守护</div>
       <div class="news-item-source">中国新闻网(滚动)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/07-08/10654924.shtml" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/07-08/10655219.shtml" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">2026“知东汇西”中美青年活动在华盛顿启动</div>
+      <div class="news-item-title">“你好！中国”旅游资源推介会在阿斯塔纳举行</div>
       <div class="news-item-source">中国新闻网(滚动)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/07-08/10654923.shtml" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/07-08/10655224.shtml" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">苏丹北科尔多凡州连发两起无人机袭击   至少15人死亡</div>
+      <div class="news-item-title">湖北兴山：百合花开出“花样”致富经</div>
       <div class="news-item-source">中国新闻网(滚动)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/07-08/10654928.shtml" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/07-08/10655223.shtml" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">陈立泉、贲德两位院士荣获2025年度国家最高科学技术奖</div>
+      <div class="news-item-title">台湾少数民族同胞沈阳行：“文创里藏着共通的文化密码”</div>
       <div class="news-item-source">中国新闻网(滚动)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/07-08/10654921.shtml" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/07-08/10655222.shtml" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">美军再次打击伊朗以回应其袭击商船</div>
+      <div class="news-item-title">山西质量强省建设取得积极成效 多措并举夯实质量基础</div>
       <div class="news-item-source">中国新闻网(滚动)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/07-08/10654837.shtml" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/07-08/10655221.shtml" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">戏剧芭蕾作品《大鼻子情圣》亮相法国阿维尼翁戏剧节</div>
+      <div class="news-item-title">哈尔滨机场口岸：上半年免签入境外籍旅客同比增119.57%</div>
       <div class="news-item-source">中国新闻网(滚动)</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
@@ -123,6 +130,18 @@ title: 热点新闻
       <span class="news-category-title">BBC 中文</span>
       <span class="news-category-count">6</span>
     </div>
+    <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ckg732x8l8yo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
+      <div class="news-item-date">2026-07-08</div>
+      <div class="news-item-title">「洪水來得太快了」：颱風在中國引發水災及罕見龍捲風</div>
+      <div class="news-item-source">BBC 中文</div>
+      <div class="news-item-link">查看原文 →</div>
+    </a>
+    <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cly85p711zno/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
+      <div class="news-item-date">2026-07-08</div>
+      <div class="news-item-title">中國實施信訪新規：有學者指「最終目的是減少進北京上訪者」</div>
+      <div class="news-item-source">BBC 中文</div>
+      <div class="news-item-link">查看原文 →</div>
+    </a>
     <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwyd8y1gy60o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
       <div class="news-item-title">德國華人性侵案：Telegram「老司機」群組上的跨國犯罪網絡</div>
@@ -131,25 +150,13 @@ title: 热点新闻
     </a>
     <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5yz21e5jy5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">受害者：我要讓他們為這些事情感到羞恥</div>
+      <div class="news-item-title">性侵案受害者：我要讓他們為這些事情感到羞恥</div>
       <div class="news-item-source">BBC 中文</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cjwgxdz5n49o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-      <div class="news-item-date">2026-07-07</div>
-      <div class="news-item-title">中國能複製電動車成功經驗到「機器人的士」嗎?</div>
-      <div class="news-item-source">BBC 中文</div>
-      <div class="news-item-link">查看原文 →</div>
-    </a>
-    <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c93248g9nklo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cql1xpd3lnyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">孟加拉邊改善與印度關係 邊積極拉攏中國</div>
-      <div class="news-item-source">BBC 中文</div>
-      <div class="news-item-link">查看原文 →</div>
-    </a>
-    <a class="news-item" href="https://www.bbc.com/zhongwen/articles/czxqq295kkro/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener">
-      <div class="news-item-date">2026-07-07</div>
-      <div class="news-item-title">中國來的拖網漁船讓這群非洲漁民叫苦連天</div>
+      <div class="news-item-title">未開始先被抵制的補選：英國改革黨法拉奇的豪賭</div>
       <div class="news-item-source">BBC 中文</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
@@ -166,9 +173,9 @@ title: 热点新闻
       <span class="news-category-title">纽约时报</span>
       <span class="news-category-count">6</span>
     </div>
-    <a class="news-item" href="https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks</div>
+      <div class="news-item-title">Oil Prices Jump After U.S. and Iran Trade Strikes in Persian Gulf</div>
       <div class="news-item-source">纽约时报</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
@@ -178,27 +185,27 @@ title: 热点新闻
       <div class="news-item-source">纽约时报</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
-    <a class="news-item" href="https://www.nytimes.com/2026/07/07/briefing/democrats-platner-maine-us-iran-strikes.html" target="_blank" rel="noopener">
+    <a class="news-item" href="https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">Democrats Clash Over a Replacement for Platner</div>
+      <div class="news-item-title">Trump’s Arrival in Turkey for NATO Summit Adds Drama and Spectacle</div>
+      <div class="news-item-source">纽约时报</div>
+      <div class="news-item-link">查看原文 →</div>
+    </a>
+    <a class="news-item" href="https://www.nytimes.com/2026/07/07/nyregion/midtown-building-collapse-housing-project.html" target="_blank" rel="noopener">
+      <div class="news-item-date">2026-07-08</div>
+      <div class="news-item-title">Rush to Evacuate as ‘Beams Started Bending’ and Floors Sagged at Midtown Tower</div>
+      <div class="news-item-source">纽约时报</div>
+      <div class="news-item-link">查看原文 →</div>
+    </a>
+    <a class="news-item" href="https://www.nytimes.com/2026/07/07/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate.html" target="_blank" rel="noopener">
+      <div class="news-item-date">2026-07-08</div>
+      <div class="news-item-title">Haley Stevens Goes on Attack Against Abdul El-Sayed at Michigan Senate Debate</div>
       <div class="news-item-source">纽约时报</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
     <a class="news-item" href="https://www.nytimes.com/2026/07/07/climate/fema-grants-states-election-changes.html" target="_blank" rel="noopener">
       <div class="news-item-date">2026-07-07</div>
       <div class="news-item-title">New Rules Require Election Changes for States to Get Terrorism Grants</div>
-      <div class="news-item-source">纽约时报</div>
-      <div class="news-item-link">查看原文 →</div>
-    </a>
-    <a class="news-item" href="https://www.nytimes.com/2026/07/07/us/politics/justice-department-elections-noncitizen-voting.html" target="_blank" rel="noopener">
-      <div class="news-item-date">2026-07-08</div>
-      <div class="news-item-title">Justice Department Threatens Top Election Officials Over Noncitizen Voting</div>
-      <div class="news-item-source">纽约时报</div>
-      <div class="news-item-link">查看原文 →</div>
-    </a>
-    <a class="news-item" href="https://www.nytimes.com/2026/07/07/us/politics/2020-election-inquiry-trump-georgia.html" target="_blank" rel="noopener">
-      <div class="news-item-date">2026-07-07</div>
-      <div class="news-item-title">Judge Quashes Justice Dept. Subpoena in 2020 Election Inquiry</div>
       <div class="news-item-source">纽约时报</div>
       <div class="news-item-link">查看原文 →</div>
     </a>
