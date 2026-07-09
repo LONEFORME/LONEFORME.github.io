@@ -507,11 +507,11 @@ document.addEventListener("click", function(e) {
 
     return html
 def generate_raw_html(news_items, date_str):
-    """Generate simple HTML grid from raw RSS entries (fallback when AI fails)"""
+    """Generate card-grid HTML from raw RSS entries (fallback when AI fails)"""
     if not news_items:
         return "<p>暂无新闻数据。</p>"
 
-    html = ''
+    html = '<div class="card-grid">\n'
 
     # Group by source
     from_source = {}
@@ -522,26 +522,29 @@ def generate_raw_html(news_items, date_str):
         from_source[src].append(item)
 
     for src, items in from_source.items():
-        html += f'<div class="section-title">\n'
-        html += f'  <span class="section-icon">📰</span>\n'
-        html += f'  <h2>{src}  <span class="tag-count">{len(items)}</span></h2>\n'
-        html += f'</div>\n'
-        html += f'<div class="news-list">\n'
+        html += f'  <div class="card">\n'
+        html += f'    <div class="card-header-line">\n'
+        html += f'      <span class="card-icon">📰</span>\n'
+        html += f'      <h3>{src}</h3>\n'
+        html += f'      <span class="tag-count">{len(items)}</span>\n'
+        html += f'    </div>\n'
+        html += f'    <div class="card-news-items">\n'
 
         for item in items:
             link = item["link"]
             title = item["title"]
             date = item["date"]
-            html += f'  <a class="news-item" href="{link}" target="_blank" rel="noopener">\n'
+            date_short = date[-5:] if len(date) >= 5 else date
+            html += f'      <a class="card-news-link" href="{link}" target="_blank" rel="noopener">\n'
             if date:
-                html += f'    <span class="news-item-date">{date}</span>\n'
-            html += f'    <span class="news-item-title">{title}</span>\n'
-            html += f'    <span class="news-item-source">{item["source"]}</span>\n'
-            html += f'    <span class="news-item-link">查看原文 →</span>\n'
-            html += f'  </a>\n'
+                html += f'        <span class="card-news-date">{date_short}</span>\n'
+            html += f'        <span class="card-news-text">{title}</span>\n'
+            html += f'      </a>\n'
 
-        html += f'</div>\n'
+        html += f'    </div>\n'
+        html += f'  </div>\n'
 
+    html += '</div>\n'
     return html
 
 
@@ -629,7 +632,7 @@ title: 新闻存档 - {date_only}
 ---
 
 <h1>📰 新闻存档 - {date_only}</h1>
-<p class="page-subtitle"><a href="{{ site.url }}/news" class="archive-back-link">← 返回最新新闻</a></p>
+<p class="page-subtitle">每日自动聚合 · 来源可溯 · <a href="{{ site.url }}/news" class="archive-back-link">← 返回最新新闻</a></p>
 
 {news_html}
 
