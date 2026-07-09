@@ -14,7 +14,6 @@ UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
     # 国内官方权威媒体
-    {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(时政)"},
     {"url": "http://www.people.com.cn/rss/politics.xml", "name": "人民网(时政)"},
     {"url": "http://www.people.com.cn/rss/world.xml", "name": "人民网(国际)"},
     {"url": "http://www.people.com.cn/rss/scitech.xml", "name": "人民网(科技)"},
@@ -25,8 +24,6 @@ RSS_FEEDS = [
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "name": "纽约时报(国际)"},
     {"url": "https://www.cbsnews.com/latest/rss/main", "name": "CBS News"},
     {"url": "https://feeds.npr.org/1001/rss.xml", "name": "NPR(含AP美联社)"},
-    # 科技财经
-    {"url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRFZxYUdjU0JXVnVMVWRDR2dKSlRDZ0FQAQ?hl=zh-CN&gl=CN&ceid=CN:zh-Hans", "name": "Google 新闻(科技)"},
 ]
 
 API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
@@ -514,8 +511,7 @@ def generate_raw_html(news_items, date_str):
     if not news_items:
         return "<p>暂无新闻数据。</p>"
 
-    html = f'<div class="news-summary-line" style="margin-top: 0;">🕐 {date_str} · 共 {len(news_items)} 条新闻 · 鼠标悬停查看详情 · 点击跳转原文</div>\n\n'
-    html += '<div class="news-grid">\n'
+    html = ''
 
     # Group by source
     from_source = {}
@@ -526,28 +522,26 @@ def generate_raw_html(news_items, date_str):
         from_source[src].append(item)
 
     for src, items in from_source.items():
-        html += f'  <div class="news-category">\n'
-        html += f'    <div class="news-category-header">\n'
-        html += f'      <span class="news-category-icon">📰</span>\n'
-        html += f'      <span class="news-category-title">{src}</span>\n'
-        html += f'      <span class="news-category-count">{len(items)}</span>\n'
-        html += f'    </div>\n'
+        html += f'<div class="section-title">\n'
+        html += f'  <span class="section-icon">📰</span>\n'
+        html += f'  <h2>{src}  <span class="tag-count">{len(items)}</span></h2>\n'
+        html += f'</div>\n'
+        html += f'<div class="news-list">\n'
 
         for item in items:
             link = item["link"]
             title = item["title"]
             date = item["date"]
-            html += f'    <a class="news-item" href="{link}" target="_blank" rel="noopener">\n'
+            html += f'  <a class="news-item" href="{link}" target="_blank" rel="noopener">\n'
             if date:
-                html += f'      <div class="news-item-date">{date}</div>\n'
-            html += f'      <div class="news-item-title">{title}</div>\n'
-            html += f'      <div class="news-item-source">{item["source"]}</div>\n'
-            html += f'      <div class="news-item-link">查看原文 →</div>\n'
-            html += f'    </a>\n'
+                html += f'    <span class="news-item-date">{date}</span>\n'
+            html += f'    <span class="news-item-title">{title}</span>\n'
+            html += f'    <span class="news-item-source">{item["source"]}</span>\n'
+            html += f'    <span class="news-item-link">查看原文 →</span>\n'
+            html += f'  </a>\n'
 
-        html += '  </div>\n'
+        html += f'</div>\n'
 
-    html += '</div>\n'
     return html
 
 
@@ -594,6 +588,10 @@ def main():
         mode = "RSS"
         categories = []  # mark as non-empty so news.md gets written
 
+    source_count = len(RSS_FEEDS)
+    mode_label = "AI 智能分类" if mode == "AI" else "RSS 聚合"
+    mode_badge = "🤖" if mode == "AI" else "📡"
+
     # Generate today's news page (news.md)
     if categories or news:
         page = f"""---
@@ -601,9 +599,15 @@ layout: default
 title: 热点新闻
 ---
 
-# 📰 热点新闻速览
+<h1>📰 热点新闻速览</h1>
+<p class="page-subtitle">每日自动聚合 · 国内外权威媒体 · 来源可溯 · 每日更新</p>
 
-> {"AI 精选" if mode == "AI" else "RSS 聚合"} · 来源可溯 · 每日更新
+<div class="news-tags">
+  <span class="tech-tag">📡 {source_count} 个信源</span>
+  <span class="tech-tag">{mode_badge} {mode_label}</span>
+  <span class="tech-tag">🕐 每日更新</span>
+  <span class="tech-tag">🔗 来源可溯</span>
+</div>
 
 {news_html}
 
@@ -624,11 +628,8 @@ layout: default
 title: 新闻存档 - {date_only}
 ---
 
-# 📰 新闻存档 - {date_only}
-
-> [{date_only} 的新闻回顾]({{ site.url }}/news)
-
----
+<h1>📰 新闻存档 - {date_only}</h1>
+<p class="page-subtitle"><a href="{{ site.url }}/news" class="archive-back-link">← 返回最新新闻</a></p>
 
 {news_html}
 

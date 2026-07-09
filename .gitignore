@@ -4,3 +4,5 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 .session_log.md
+__pycache__/
+*.pyc
