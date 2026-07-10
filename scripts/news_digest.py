@@ -59,6 +59,41 @@ SOURCE_NAME_MAP = {
     "npr.org": "NPR",
 }  # fmt: skip
 
+# ===== 新增：来源 → 国旗/样式映射 =====
+SOURCE_FLAG_MAP = {
+    "人民网": "🇨🇳", "新华网": "🇨🇳", "中国新闻网": "🇨🇳", "中国网": "🇨🇳",
+    "中国侨网": "🇨🇳", "环球网": "🇨🇳", "中国青年网": "🇨🇳", "中国经济网": "🇨🇳",
+    "央广网": "🇨🇳", "央视网": "🇨🇳", "光明网": "🇨🇳", "科技日报": "🇨🇳",
+    "泉州网": "🇨🇳", "凤凰网": "🇨🇳", "新浪": "🇨🇳", "搜狐": "🇨🇳", "网易": "🇨🇳",
+    "BBC": "🇬🇧",
+    "纽约时报": "🇺🇸",
+    "CBS News": "🇺🇸",
+    "NPR": "🇺🇸",
+}
+
+SOURCE_CSS_MAP = {
+    "人民网": "source-cn", "新华网": "source-cn", "中国新闻网": "source-cn",
+    "央视网": "source-cn", "光明网": "source-cn", "环球网": "source-cn",
+    "凤凰网": "source-cn", "新浪": "source-cn", "搜狐": "source-cn", "网易": "source-cn",
+    "BBC": "source-bbc",
+    "纽约时报": "source-nytimes",
+    "CBS News": "source-cbs",
+    "NPR": "source-cbs",
+}
+
+CAT_ICON_MAP = {
+    "shizheng": "🏛️", "keji": "🤖", "guoji": "🌍", "shehui": "👥",
+    "caijing": "💰", "tiyu": "⚽", "junshi": "⚔️", "qita": "📎",
+}
+
+
+def source_to_flag(source):
+    return SOURCE_FLAG_MAP.get(source, "🌐")
+
+
+def source_to_css(source):
+    return SOURCE_CSS_MAP.get(source, "")
+
 
 _DAY_NAMES = {"mon": "Mon", "tue": "Tue", "wed": "Wed", "thu": "Thu", "fri": "Fri", "sat": "Sat", "sun": "Sun"}
 _MONTH_NAMES = {"jan": "Jan", "feb": "Feb", "mar": "Mar", "apr": "Apr", "may": "May", "jun": "Jun",
@@ -69,7 +104,6 @@ _MONTH_PREFIX2 = {"ja": "Jan", "fe": "Feb", "ma": "Mar", "ap": "Apr", "may": "Ma
 def _try_fix_date(date_str):
     """Fix common truncated date issues from RSS feeds"""
     s = date_str.strip()
-    # "Tue, 07 Ju" -> "Tue, 07 Jul 2026" (truncated by Google News)
     m = re.match(r'^(\w+),\s*(\d{1,2})\s+(\w{2,})$', s)
     if m:
         dow = m.group(1)
@@ -86,19 +120,15 @@ def normalize_date(date_str):
     if not date_str:
         return ""
     date_str = _try_fix_date(date_str.strip())
-    # Already YYYY-MM-DD
     if re.match(r'^\d{4}-\d{2}-\d{2}', date_str):
         return date_str[:10]
-    # YYYY-MM-DDTHH:MM:SS
     if re.match(r'^\d{4}-\d{2}-\d{2}T', date_str):
         return date_str[:10]
-    # RFC 2822: "Tue, 07 Jul 2026 12:00:00 GMT"
     try:
         dt = parsedate_to_datetime(date_str)
         return dt.strftime("%Y-%m-%d")
     except Exception:
         pass
-    # Manually parse: "Tue, 7 Jul 2026" (no time part)
     m = re.match(r'^\w+,\s*(\d{1,2})\s+(\w+)\s+(\d{4})$', date_str)
     if m:
         day, mon, year = m.group(1).zfill(2), m.group(2)[:3].title(), m.group(3)
@@ -111,11 +141,9 @@ def normalize_date(date_str):
 
 def clean_title(title):
     """Remove trailing source suffixes like ' - domain.com' or ' | Some Site'"""
-    # Remove trailing " - anything"
     m = re.search(r'\s*[-–—|]\s*[a-zA-Z0-9][-a-zA-Z0-9.]*\.[a-zA-Z]{2,}\s*$', title)
     if m:
         title = title[:m.start()].strip()
-    # Remove trailing source in parentheses
     m = re.search(r'\s*\([^)]*\)\s*$', title)
     if m and len(m.group()) < 30:
         title = title[:m.start()].strip()
@@ -127,7 +155,6 @@ def normalize_source(source_raw, title="", link=""):
     s = source_raw.strip()
     if not s:
         return s
-    # Try progressively shorter domain suffixes against the map
     parts = s.lower().split(".")
     if len(parts) >= 2:
         for i in range(len(parts)):
@@ -262,7 +289,6 @@ def parse_categories(ai_output):
     for line in ai_output.strip().split("\n"):
         line = line.strip()
         if line.startswith("### "):
-            # Save previous category
             if current_cat:
                 categories.append((current_cat, current_items))
             current_cat = line[4:].strip()
@@ -279,15 +305,8 @@ def parse_categories(ai_output):
 def cat_name_to_id(name):
     """Map Chinese category name to HTML id suffix"""
     mapping = {
-        "时政": "shizheng",
-        "科技AI": "keji",
-        "科技": "keji",
-        "国际": "guoji",
-        "社会": "shehui",
-        "财经": "caijing",
-        "体育": "tiyu",
-        "军事": "junshi",
-        "其他": "qita",
+        "时政": "shizheng", "科技AI": "keji", "科技": "keji", "国际": "guoji",
+        "社会": "shehui", "财经": "caijing", "体育": "tiyu", "军事": "junshi", "其他": "qita",
     }
     return mapping.get(name.strip(), "qita")
 
@@ -295,49 +314,214 @@ def cat_name_to_id(name):
 def cat_name_short(name):
     """Short display name for tab button"""
     mapping = {
-        "时政": "时政",
-        "科技AI": "科技",
-        "科技": "科技",
-        "国际": "国际",
-        "社会": "社会",
-        "财经": "财经",
-        "体育": "体育",
-        "军事": "军事",
-        "其他": "其他",
+        "时政": "时政", "科技AI": "科技", "科技": "科技", "国际": "国际",
+        "社会": "社会", "财经": "财经", "体育": "体育", "军事": "军事", "其他": "其他",
     }
     return mapping.get(name.strip(), name.strip())
 
 
-def item_to_html(line):
-    """Convert a single markdown item line to news-card HTML"""
-    # Pattern: - **DATE** | **TITLE** | SUMMARY [来源: XXX]
+# =====================================================================
+#  以下为渲染函数 — 适配新版 UI（头条焦点 + 彩色标签 + 来源徽章 + 国旗）
+# =====================================================================
+
+def _esc(text):
+    """Escape HTML special characters"""
+    return (text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+             .replace('"', "&quot;").replace("'", "&#39;"))
+
+
+def _date_short(date_str):
+    """YYYY-MM-DD → MM-DD"""
+    return date_str[-5:] if len(date_str) >= 5 else date_str
+
+
+def parse_ai_item(line):
+    """解析 AI 输出的一行，返回 {date, title, summary, source}"""
     m = re.match(r'-\s+\*\*([^*]+)\*\*\s*\|\s*\*\*([^*]+)\*\*\s*\|\s*(.+?)(?:\s*\[来源:\s*([^\]]+)\])?\s*$', line)
     if m:
-        date = m.group(1).strip()
-        title = m.group(2).strip()
-        detail = m.group(3).strip()
-        source = m.group(4).strip() if m.group(4) else ""
-        
-        # Escape HTML entities for data attribute
-        detail_escaped = detail.replace('"', '&quot;').replace("'", '&#39;')
-        
-        html = f'              <div class="news-card" onclick="showNewsDetail(this)" data-detail="{detail_escaped}" data-title="{title}" data-date="{date}" data-source="{source}">\n'
-        html += f'                <div class="news-date-badge">{date}</div>\n'
-        html += f'                <div class="news-card-title">{title}</div>\n'
-        html += f'                <div class="news-card-summary">{detail[:80]}...</div>\n'
-        if source:
-            html += f'                <div class="news-card-source">{source}</div>\n'
-        html += f'                <div class="news-card-more">点击查看详情 →</div>\n'
-        html += f'              </div>\n'
-        return html
-    
-    # Fallback: treat as plain text
+        return {
+            "date": m.group(1).strip(),
+            "title": m.group(2).strip(),
+            "summary": m.group(3).strip(),
+            "source": m.group(4).strip() if m.group(4) else "",
+        }
     clean = re.sub(r'^\-\s+', '', line)
-    return f'              <div class="news-card"><div class="news-card-summary">{clean}</div></div>\n'
+    return {"date": "", "title": clean, "summary": clean, "source": ""}
+
+
+def build_hero_ai(categories):
+    """从 AI 分类数据构建头条焦点区 HTML"""
+    # 收集所有条目，取前4条作为头条
+    all_items_parsed = []
+    for cat_name, items in categories:
+        cat_id = cat_name_to_id(cat_name)
+        cat_short = cat_name_short(cat_name)
+        for item_line in items:
+            parsed = parse_ai_item(item_line)
+            all_items_parsed.append({**parsed, "cat_id": cat_id, "cat_name": cat_short})
+
+    if not all_items_parsed:
+        return ""
+
+    featured = all_items_parsed[0]
+    sub_items = all_items_parsed[1:4]
+
+    html = '<div class="news-hero">\n'
+    html += '  <div class="news-hero-badge">🔥 头条焦点</div>\n'
+
+    # 主头条（无链接，用 modal）
+    detail_esc = _esc(featured["summary"])
+    title_esc = _esc(featured["title"])
+    html += f'  <div class="hero-featured-card" onclick="showNewsDetail(this)" data-detail="{detail_esc}" data-title="{title_esc}" data-date="{featured["date"]}" data-source="{featured["source"]}">\n'
+    html += f'    <div class="hero-featured-img" style="background: linear-gradient(135deg, #1a0a2e 0%, #2d1b4e 30%, #0a1628 100%);">\n'
+    html += f'      <span class="hero-featured-emoji">{source_to_flag(featured["source"])}</span>\n'
+    html += f'    </div>\n'
+    html += f'    <div class="hero-featured-body">\n'
+    html += f'      <div class="hero-featured-meta">\n'
+    html += f'        <span class="news-cat-tag cat-{featured["cat_id"]}">{featured["cat_name"]}</span>\n'
+    css_cls = source_to_css(featured["source"])
+    html += f'        <span class="source-badge {css_cls}">{source_to_flag(featured["source"])} {featured["source"]}</span>\n'
+    html += f'        <span class="hero-featured-date">{_date_short(featured["date"])}</span>\n'
+    html += f'      </div>\n'
+    html += f'      <h2 class="hero-featured-title">{featured["title"]}</h2>\n'
+    summary_short = featured["summary"][:200]
+    if len(featured["summary"]) > 200:
+        summary_short += "..."
+    html += f'      <p class="hero-featured-summary">{summary_short}</p>\n'
+    html += f'    </div>\n'
+    html += f'    <span class="hero-featured-arrow">→</span>\n'
+    html += f'  </div>\n'
+
+    # 副头条
+    if sub_items:
+        html += '  <div class="hero-sub-grid">\n'
+        for item in sub_items:
+            detail_esc2 = _esc(item["summary"])
+            title_esc2 = _esc(item["title"])
+            css_cls2 = source_to_css(item["source"])
+            html += f'    <div class="hero-sub-card" onclick="showNewsDetail(this)" data-detail="{detail_esc2}" data-title="{title_esc2}" data-date="{item["date"]}" data-source="{item["source"]}">\n'
+            html += f'      <div class="hero-sub-meta">\n'
+            html += f'        <span class="news-cat-tag cat-{item["cat_id"]}">{item["cat_name"]}</span>\n'
+            html += f'        <span class="source-badge {css_cls2}">{source_to_flag(item["source"])} {item["source"]}</span>\n'
+            html += f'      </div>\n'
+            html += f'      <p class="hero-sub-title">{item["title"]}</p>\n'
+            html += f'    </div>\n'
+        html += '  </div>\n'
+
+    html += '</div>\n'
+    return html
+
+
+def build_hero_rss(news_items):
+    """从 RSS 原始数据构建头条焦点区 HTML"""
+    if not news_items:
+        return ""
+
+    featured = news_items[0]
+    sub_items = news_items[1:4]
+
+    html = '<div class="news-hero">\n'
+    html += '  <div class="news-hero-badge">🔥 头条焦点</div>\n'
+
+    # 主头条
+    html += f'  <a class="hero-featured-card" href="{featured["link"]}" target="_blank" rel="noopener">\n'
+    html += f'    <div class="hero-featured-img" style="background: linear-gradient(135deg, #1a0a2e 0%, #2d1b4e 30%, #0a1628 100%);">\n'
+    html += f'      <span class="hero-featured-emoji">{source_to_flag(featured["source"])}</span>\n'
+    html += f'    </div>\n'
+    html += f'    <div class="hero-featured-body">\n'
+    html += f'      <div class="hero-featured-meta">\n'
+    css_cls = source_to_css(featured["source"])
+    html += f'        <span class="source-badge {css_cls}">{source_to_flag(featured["source"])} {featured["source"]}</span>\n'
+    html += f'        <span class="hero-featured-date">{_date_short(featured["date"])}</span>\n'
+    html += f'      </div>\n'
+    html += f'      <h2 class="hero-featured-title">{featured["title"]}</h2>\n'
+    html += f'    </div>\n'
+    html += f'    <span class="hero-featured-arrow">→</span>\n'
+    html += f'  </a>\n'
+
+    # 副头条
+    if sub_items:
+        html += '  <div class="hero-sub-grid">\n'
+        for item in sub_items:
+            css_cls2 = source_to_css(item["source"])
+            html += f'    <a class="hero-sub-card" href="{item["link"]}" target="_blank" rel="noopener">\n'
+            html += f'      <div class="hero-sub-meta">\n'
+            html += f'        <span class="source-badge {css_cls2}">{source_to_flag(item["source"])} {item["source"]}</span>\n'
+            html += f'      </div>\n'
+            html += f'      <p class="hero-sub-title">{item["title"]}</p>\n'
+            html += f'    </a>\n'
+        html += '  </div>\n'
+
+    html += '</div>\n'
+    return html
+
+
+def render_ai_news_item(parsed, cat_id, cat_name):
+    """渲染一条 AI 模式新闻（无链接，点击弹窗）"""
+    detail_esc = _esc(parsed["summary"])
+    title_esc = _esc(parsed["title"])
+    css_cls = source_to_css(parsed["source"])
+    flag = source_to_flag(parsed["source"])
+
+    html = f'        <div class="news-item" onclick="showNewsDetail(this)" data-detail="{detail_esc}" data-title="{title_esc}" data-date="{parsed["date"]}" data-source="{parsed["source"]}">\n'
+    html += f'          <span class="news-cat-tag cat-{cat_id}">{cat_name}</span>\n'
+    html += f'          <span class="source-badge {css_cls}">{flag} {parsed["source"]}</span>\n'
+    html += f'          <span class="news-item-date">{_date_short(parsed["date"])}</span>\n'
+    html += f'          <span class="news-item-title">{parsed["title"]}</span>\n'
+    # 摘要截取前180字
+    summary_show = parsed["summary"][:180]
+    if len(parsed["summary"]) > 180:
+        summary_show += "..."
+    html += f'          <span class="news-item-summary">{summary_show}</span>\n'
+    html += f'        </div>\n'
+    return html
+
+
+def render_rss_news_item(item):
+    """渲染一条 RSS 模式新闻（有链接，直接跳转）"""
+    css_cls = source_to_css(item["source"])
+    flag = source_to_flag(item["source"])
+
+    html = f'        <a class="news-item" href="{item["link"]}" target="_blank" rel="noopener">\n'
+    html += f'          <span class="source-badge {css_cls}">{flag} {item["source"]}</span>\n'
+    html += f'          <span class="news-item-date">{_date_short(item["date"])}</span>\n'
+    html += f'          <span class="news-item-title">{item["title"]}</span>\n'
+    html += f'        </a>\n'
+    return html
+
+
+def generate_source_grouped_panel_ai(categories):
+    """AI 模式「全部」面板：按来源分组展示"""
+    # 收集所有条目并按来源分组
+    from_source = {}
+    for cat_name, items in categories:
+        cat_id = cat_name_to_id(cat_name)
+        cat_short = cat_name_short(cat_name)
+        for item_line in items:
+            parsed = parse_ai_item(item_line)
+            src = parsed["source"] or "综合"
+            if src not in from_source:
+                from_source[src] = []
+            from_source[src].append({**parsed, "cat_id": cat_id, "cat_name": cat_short})
+
+    html = '<div class="news-grid">\n'
+    for src, items in from_source.items():
+        flag = source_to_flag(src)
+        html += f'      <div class="news-category">\n'
+        html += f'        <div class="news-category-header">\n'
+        html += f'          <span class="category-flag">{flag}</span>\n'
+        html += f'          <span class="news-category-title">{src}</span>\n'
+        html += f'          <span class="news-category-count">{len(items)} 条</span>\n'
+        html += f'        </div>\n'
+        for item in items:
+            html += render_ai_news_item(item, item["cat_id"], item["cat_name"])
+        html += f'      </div>\n'
+    html += '    </div>\n'
+    return html
 
 
 def generate_tabbed_html(categories, date_str):
-    """Generate horizontal tabbed news HTML with prev/next buttons"""
+    """AI 模式：头条焦点 + 分类 Tab + 彩色标签 + 来源徽章 + 摘要"""
 
     tabs = []
     for cat_name, items in categories:
@@ -350,148 +534,106 @@ def generate_tabbed_html(categories, date_str):
 
     total_count = sum(len(items) for _, _, _, items in tabs)
 
+    # === 头条焦点区 ===
+    hero_html = build_hero_ai(categories)
+
+    # === Tab 容器 ===
     html = '<div class="news-tabs">\n'
 
-    # Radio inputs MUST be direct children of .news-tabs for CSS ~ selector
+    # Radio inputs (必须直接在 .news-tabs 下)
     html += '  <input type="radio" name="news-tab" id="tab-all" checked>\n'
-    for tab_id, _, _, items in tabs:
+    for tab_id, _, _, _ in tabs:
         html += f'  <input type="radio" name="news-tab" id="tab-{tab_id}">\n'
 
     # Tab bar
     html += '  <div class="tab-bar" id="newsTabBar">\n'
     html += f'    <label for="tab-all" class="tab-label">📋 全部 <span class="tab-count">{total_count}</span></label>\n'
-
-    icon_map = {
-        "shizheng": "🏛️", "keji": "🤖", "guoji": "🌍", "shehui": "🔬",
-        "caijing": "💰", "tiyu": "⚽", "junshi": "⚔️", "qita": "📎"
-    }
     for tab_id, short_name, _, items in tabs:
-        icon = icon_map.get(tab_id, "📋")
+        icon = CAT_ICON_MAP.get(tab_id, "📋")
         html += f'    <label for="tab-{tab_id}" class="tab-label">{icon} {short_name} <span class="tab-count">{len(items)}</span></label>\n'
     html += '  </div>\n\n'
 
-    # Navigation buttons
+    # 导航按钮 + 摘要行
     html += '  <div class="tab-nav">\n'
     html += '    <button class="tab-nav-btn tab-prev" onclick="switchTab(-1)" title="上一个分类" aria-label="Previous">‹</button>\n'
     html += '    <div class="tab-nav-indicator" id="tabIndicator">全部</div>\n'
     html += '    <button class="tab-nav-btn tab-next" onclick="switchTab(1)" title="下一个分类" aria-label="Next">›</button>\n'
     html += '  </div>\n\n'
-
-    # Summary line
     html += f'  <div class="news-summary-line">{date_str} · 共 {total_count} 条新闻 · 点击标签或 ← → 键切换</div>\n\n'
 
-    # "All" panel
-    html += '  <div class="tab-panel" id="panel-all">\n'
-    for _, _, _, items in tabs:
-        for item in items:
-            html += item_to_html(item)
+    # 「全部」面板（按来源分组）
+    html += '  <div id="panel-all" class="tab-panel">\n'
+    html += generate_source_grouped_panel_ai(categories)
     html += '  </div>\n\n'
 
-    # Category panels
-    for tab_id, short_name, _, items in tabs:
-        html += f'  <div class="tab-panel" id="panel-{tab_id}">\n'
+    # 各分类面板
+    for tab_id, short_name, cat_name, items in tabs:
+        html += f'  <div id="panel-{tab_id}" class="tab-panel">\n'
         if items:
-            for item in items:
-                html += item_to_html(item)
+            html += '    <div class="news-grid">\n'
+            html += f'      <div class="news-category">\n'
+            icon = CAT_ICON_MAP.get(tab_id, "📋")
+            html += f'        <div class="news-category-header">\n'
+            html += f'          <span class="category-flag">{icon}</span>\n'
+            html += f'          <span class="news-category-title">{short_name}新闻</span>\n'
+            html += f'          <span class="news-category-count">{len(items)} 条</span>\n'
+            html += f'        </div>\n'
+            for item_line in items:
+                parsed = parse_ai_item(item_line)
+                html += render_ai_news_item(parsed, tab_id, short_name)
+            html += f'      </div>\n'
+            html += '    </div>\n'
         else:
-            html += f'    <div class="news-card"><div class="news-card-summary">暂无 {short_name} 类新闻。</div></div>\n'
+            html += f'    <p style="color:var(--color-muted);padding:20px;">暂无 {short_name} 类新闻。</p>\n'
         html += '  </div>\n\n'
 
     html += '</div>\n'
 
-    # JavaScript for prev/next navigation and modal
-    # Build the comma-separated list of tab IDs
+    # Modal + JS
+    html += _modal_and_js(tabs)
+
+    return hero_html + html
+
+
+def generate_raw_html(news_items, date_str):
+    """RSS 降级模式：头条焦点 + 按来源分组 + 国旗徽章"""
+
+    if not news_items:
+        return "<p>暂无新闻数据。</p>"
+
+    # === 头条焦点区 ===
+    hero_html = build_hero_rss(news_items)
+
+    # === 按来源分组 ===
+    from_source = {}
+    for item in news_items:
+        src = item["source"]
+        if src not in from_source:
+            from_source[src] = []
+        from_source[src].append(item)
+
+    html = '<div class="news-grid">\n'
+    for src, items in from_source.items():
+        flag = source_to_flag(src)
+        html += f'  <div class="news-category">\n'
+        html += f'    <div class="news-category-header">\n'
+        html += f'      <span class="category-flag">{flag}</span>\n'
+        html += f'      <span class="news-category-title">{src}</span>\n'
+        html += f'      <span class="news-category-count">{len(items)} 条</span>\n'
+        html += f'    </div>\n'
+        for item in items:
+            html += render_rss_news_item(item)
+        html += f'  </div>\n'
+    html += '</div>\n'
+
+    return hero_html + html
+
+
+def _modal_and_js(tabs):
+    """生成 Modal HTML 和 Tab 切换 JS（AI 模式专用）"""
     tab_ids = ", ".join('"' + t[0] + '"' for t in tabs)
-    html += '''
-<script>
-(function() {
-  const tabIds = ["all", ''' + tab_ids + '''];
-  let currentIdx = 0;
-
-  window.switchTab = function(dir) {
-    currentIdx = (currentIdx + dir + tabIds.length) % tabIds.length;
-    const id = tabIds[currentIdx];
-    const radio = document.getElementById("tab-" + id);
-    if (radio) {
-      radio.checked = true;
-      radio.dispatchEvent(new Event("change", { bubbles: true }));
-    }
-    updateIndicator();
-    scrollTabIntoView(id);
-  };
-
-  function updateIndicator() {
-    const id = tabIds[currentIdx];
-    const indicator = document.getElementById("tabIndicator");
-    const label = document.querySelector("label[for='tab-" + id + "']");
-    if (label && indicator) {
-      let text = label.textContent.trim();
-      text = text.replace(/\\s*\\d+\\s*$/, "").trim();
-      indicator.textContent = text;
-    }
-  }
-
-  function scrollTabIntoView(id) {
-    const label = document.querySelector("label[for='tab-" + id + "']");
-    if (label) {
-      label.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" });
-    }
-  }
-
-  document.querySelectorAll(".tab-label").forEach(function(label) {
-    label.addEventListener("click", function() {
-      const forId = this.getAttribute("for").replace("tab-", "");
-      currentIdx = tabIds.indexOf(forId);
-      if (currentIdx === -1) currentIdx = 0;
-      updateIndicator();
-    });
-  });
-
-  document.addEventListener("keydown", function(e) {
-    if (e.key === "ArrowLeft") { switchTab(-1); e.preventDefault(); }
-    if (e.key === "ArrowRight") { switchTab(1); e.preventDefault(); }
-    if (e.key === "Escape") { closeNewsModal(); }
-  });
-
-  updateIndicator();
-})();
-</script>
-
-<script>
-function showNewsDetail(card) {
-  const detail = card.getAttribute("data-detail");
-  const title = card.getAttribute("data-title");
-  const date = card.getAttribute("data-date");
-  const source = card.getAttribute("data-source");
-  
-  const modal = document.getElementById("newsModal");
-  const modalTitle = document.getElementById("modalTitle");
-  const modalDate = document.getElementById("modalDate");
-  const modalSource = document.getElementById("modalSource");
-  const modalContent = document.getElementById("modalContent");
-  
-  modalTitle.textContent = title;
-  modalDate.textContent = date;
-  modalSource.textContent = source || "";
-  modalContent.textContent = detail;
-  
-  modal.classList.add("active");
-  document.body.style.overflow = "hidden";
-}
-
-function closeNewsModal() {
-  const modal = document.getElementById("newsModal");
-  modal.classList.remove("active");
-  document.body.style.overflow = "";
-}
-
-document.addEventListener("click", function(e) {
-  if (e.target.classList.contains("news-modal-overlay")) {
-    closeNewsModal();
-  }
-});
-</script>
-
+    return '''
+<!-- Modal -->
 <div id="newsModal" class="news-modal-overlay">
   <div class="news-modal">
     <button class="news-modal-close" onclick="closeNewsModal()">✕</button>
@@ -503,49 +645,78 @@ document.addEventListener("click", function(e) {
     <div class="news-modal-body" id="modalContent"></div>
   </div>
 </div>
+
+<script>
+(function() {
+  var tabIds = ["all", ''' + tab_ids + '''];
+  var currentIdx = 0;
+
+  window.switchTab = function(dir) {
+    currentIdx = (currentIdx + dir + tabIds.length) % tabIds.length;
+    var id = tabIds[currentIdx];
+    var radio = document.getElementById("tab-" + id);
+    if (radio) { radio.checked = true; }
+    updateIndicator();
+    scrollTabIntoView(id);
+  };
+
+  function updateIndicator() {
+    var id = tabIds[currentIdx];
+    var indicator = document.getElementById("tabIndicator");
+    var label = document.querySelector("label[for='tab-" + id + "']");
+    if (label && indicator) {
+      var text = label.textContent.trim().replace(/\\s*\\d+\\s*$/, "").trim();
+      indicator.textContent = text;
+    }
+  }
+
+  function scrollTabIntoView(id) {
+    var label = document.querySelector("label[for='tab-" + id + "']");
+    if (label) { label.scrollIntoView({ behavior: "smooth", block: "nearest", inline: "center" }); }
+  }
+
+  document.querySelectorAll(".tab-label").forEach(function(label) {
+    label.addEventListener("click", function() {
+      var forId = this.getAttribute("for").replace("tab-", "");
+      currentIdx = tabIds.indexOf(forId);
+      if (currentIdx === -1) currentIdx = 0;
+      updateIndicator();
+    });
+  });
+
+  document.addEventListener("keydown", function(e) {
+    if (e.key === "ArrowLeft")  { switchTab(-1); e.preventDefault(); }
+    if (e.key === "ArrowRight") { switchTab(1);  e.preventDefault(); }
+    if (e.key === "Escape")     { closeNewsModal(); }
+  });
+
+  updateIndicator();
+})();
+
+function showNewsDetail(card) {
+  var detail = card.getAttribute("data-detail");
+  var title  = card.getAttribute("data-title");
+  var date   = card.getAttribute("data-date");
+  var source = card.getAttribute("data-source");
+  document.getElementById("modalTitle").textContent   = title;
+  document.getElementById("modalDate").textContent    = date;
+  document.getElementById("modalSource").textContent  = source || "";
+  document.getElementById("modalContent").textContent = detail;
+  var modal = document.getElementById("newsModal");
+  modal.classList.add("active");
+  document.body.style.overflow = "hidden";
+}
+
+function closeNewsModal() {
+  document.getElementById("newsModal").classList.remove("active");
+  document.body.style.overflow = "";
+}
+
+document.addEventListener("click", function(e) {
+  if (e.target.classList.contains("news-modal-overlay")) { closeNewsModal(); }
+});
+</script>
 '''
-
-    return html
-def generate_raw_html(news_items, date_str):
-    """Generate card-grid HTML from raw RSS entries (fallback when AI fails)"""
-    if not news_items:
-        return "<p>暂无新闻数据。</p>"
-
-    html = '<div class="card-grid">\n'
-
-    # Group by source
-    from_source = {}
-    for item in news_items:
-        src = item["source"]
-        if src not in from_source:
-            from_source[src] = []
-        from_source[src].append(item)
-
-    for src, items in from_source.items():
-        html += f'  <div class="card">\n'
-        html += f'    <div class="card-header-line">\n'
-        html += f'      <span class="card-icon">📰</span>\n'
-        html += f'      <h3>{src}</h3>\n'
-        html += f'      <span class="tag-count">{len(items)}</span>\n'
-        html += f'    </div>\n'
-        html += f'    <div class="card-news-items">\n'
-
-        for item in items:
-            link = item["link"]
-            title = item["title"]
-            date = item["date"]
-            date_short = date[-5:] if len(date) >= 5 else date
-            html += f'      <a class="card-news-link" href="{link}" target="_blank" rel="noopener">\n'
-            if date:
-                html += f'        <span class="card-news-date">{date_short}</span>\n'
-            html += f'        <span class="card-news-text">{title}</span>\n'
-            html += f'      </a>\n'
-
-        html += f'    </div>\n'
-        html += f'  </div>\n'
-
-    html += '</div>\n'
-    return html
 
 
 def main():
@@ -579,7 +750,6 @@ def main():
             log(f"[INFO] AI 返回为空，将使用 RSS 原始数据作为降级方案")
             summary = ""
 
-    # Parse AI output into categories
     if summary and summary.strip():
         categories = parse_categories(summary)
         log(f"[INFO] 解析到 {len(categories)} 个分类 (AI 模式)")
@@ -589,13 +759,12 @@ def main():
         log(f"[INFO] 使用 RSS 原始数据降级方案 ({len(news)} 条)")
         news_html = generate_raw_html(news, date_str)
         mode = "RSS"
-        categories = []  # mark as non-empty so news.md gets written
+        categories = []
 
     source_count = len(RSS_FEEDS)
     mode_label = "AI 智能分类" if mode == "AI" else "RSS 聚合"
     mode_badge = "🤖" if mode == "AI" else "📡"
 
-    # Generate today's news page (news.md)
     if categories or news:
         page = f"""---
 layout: default
@@ -605,11 +774,11 @@ title: 热点新闻
 <h1>📰 热点新闻速览</h1>
 <p class="page-subtitle">每日自动聚合 · 国内外权威媒体 · 来源可溯 · 每日更新</p>
 
-<div class="news-tags">
-  <span class="tech-tag">📡 {source_count} 个信源</span>
-  <span class="tech-tag">{mode_badge} {mode_label}</span>
-  <span class="tech-tag">🕐 每日更新</span>
-  <span class="tech-tag">🔗 来源可溯</span>
+<div class="news-meta-bar">
+  <span class="news-meta-item">📡 {source_count} 个信源</span>
+  <span class="news-meta-item">{mode_badge} {mode_label}</span>
+  <span class="news-meta-item">🕐 每日更新</span>
+  <span class="news-meta-item">🔗 来源可溯</span>
 </div>
 
 {news_html}
@@ -623,7 +792,7 @@ title: 热点新闻
             f.write(page)
         log(f"[INFO] 已生成 news.md ({len(page)} 字符, {mode} 模式)")
 
-        # Generate daily archive page
+        # 生成每日存档
         os.makedirs("archive", exist_ok=True)
         archive_file = f"archive/news-{date_only}.md"
         archive_page = f"""---
@@ -632,7 +801,7 @@ title: 新闻存档 - {date_only}
 ---
 
 <h1>📰 新闻存档 - {date_only}</h1>
-<p class="page-subtitle">每日自动聚合 · 来源可溯 · <a href="{{ site.url }}/news" class="archive-back-link">← 返回最新新闻</a></p>
+<p class="page-subtitle">每日自动聚合 · 来源可溯 · <a href="{{{{ site.url }}}}/news" class="archive-back-link">← 返回最新新闻</a></p>
 
 {news_html}
 
@@ -646,7 +815,7 @@ title: 新闻存档 - {date_only}
     else:
         log(f"[WARN] 无任何数据，保留现有 news.md，不覆盖")
 
-    # Clean up archives older than 5 days
+    # 清理旧存档
     archive_dir = "archive"
     if os.path.exists(archive_dir):
         for fname in os.listdir(archive_dir):
@@ -660,7 +829,7 @@ title: 新闻存档 - {date_only}
                 except ValueError:
                     pass
 
-    # Generate archive index page
+    # 生成存档索引
     archive_files = []
     if os.path.exists(archive_dir):
         for fname in sorted(os.listdir(archive_dir), reverse=True):
@@ -679,8 +848,8 @@ title: 新闻存档
 
 """
     for fdate in archive_files[:5]:
-        archive_index += f"- 📅 [{fdate}]({{ site.url }}/archive/news-{fdate})\n"
-    
+        archive_index += f"- 📅 [{fdate}]({{{{ site.url }}}}/archive/news-{fdate})\n"
+
     if not archive_files:
         archive_index += "<p>暂无存档。</p>\n"
 
