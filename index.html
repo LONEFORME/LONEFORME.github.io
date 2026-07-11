@@ -6,8 +6,8 @@ title: 首页
 <div class="hero">
   <div class="hero-badge">🚀 机器人感知与导航</div>
   <h1>旧梦如常</h1>
-  <div class="tagline">嵌入式系统开发者 · ROS2 · 激光雷达 SLAM</div>
-  <div class="hero-desc">专注于机器人感知与导航方向，深耕嵌入式 Linux 与多传感器融合技术。</div>
+  <div class="tagline">嵌入式系统开发者 · ROS2 · 激光雷达 SLAM · 计算机视觉</div>
+  <div class="hero-desc">专注于机器人感知与导航方向，深耕嵌入式 Linux、多传感器融合与计算机视觉技术。</div>
 
   <div class="tech-tags">
     <span class="tech-tag">⚡ ROS2</span>
@@ -15,6 +15,7 @@ title: 首页
     <span class="tech-tag">🔧 嵌入式 Linux</span>
     <span class="tech-tag">🧭 多传感器融合</span>
     <span class="tech-tag">🗺️ SLAM</span>
+    <span class="tech-tag">👁️ 计算机视觉</span>
   </div>
 </div>
 
@@ -27,7 +28,7 @@ title: 首页
   <div class="card">
     <div class="card-icon">📡</div>
     <h3>宇树 L1 激光雷达 ROS2 驱动</h3>
-    <p>Unitree 激光雷达的完整 ROS2 封装驱动，支持多平台。</p>
+    <p>Unitree 激光雷达的完整 ROS2 封装驱动，支持多平台部署。</p>
     <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
   </div>
 
@@ -40,9 +41,30 @@ title: 首页
 
   <div class="card">
     <div class="card-icon">🧭</div>
-    <h3>FAST-LIO2 宇树雷达适配</h3>
-    <p>实时激光雷达-惯性里程计建图，适配宇树 L 系列雷达。</p>
+    <h3>Point-LIO 宇树雷达适配</h3>
+    <p>基于 Point-LIO 的实时激光雷达-惯性里程计建图，适配宇树 L 系列雷达。</p>
     <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
+  </div>
+
+  <div class="card">
+    <div class="card-icon">👁️</div>
+    <h3>ZCode 视觉识别系统</h3>
+    <p>综合视觉识别工程，支持图片/视频输入、圆形识别与多目标检测。</p>
+    <a href="https://github.com/LONEFORME/ZCodeProject" class="card-link">查看项目</a>
+  </div>
+
+  <div class="card">
+    <div class="card-icon">🚁</div>
+    <h3>锡月无人机方案</h3>
+    <p>2025 年电子设计竞赛无人机项目，含飞控固件、树莓派主控与视觉模块。</p>
+    <a href="https://github.com/LONEFORME/xiyue-drone" class="card-link">查看项目</a>
+  </div>
+
+  <div class="card">
+    <div class="card-icon">🖨️</div>
+    <h3>3D 打印模型库</h3>
+    <p>常用机械结构与配件的 3D 打印模型文件集合。</p>
+    <a href="https://github.com/LONEFORME/3d-models" class="card-link">查看项目</a>
   </div>
 </div>
 
@@ -54,7 +76,7 @@ title: 首页
 <div id="card-mini-container"></div>
 
 <script>
-document.getElementById('card-mini-container').innerHTML = '<a href="/docs/unitree_l1" class="card-mini"><div class="card-mini-title"><span>📡</span><span>宇树 L1 + FAST-LIO2 建图方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图</div></a><a href="/docs/leishen_n10p" class="card-mini"><div class="card-mini-title"><span>🔭</span><span>镭神 N10P + SLAM Toolbox 方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">2D 激光雷达 SLAM 方案 · 室内导航与避障</div></a>';
+document.getElementById('card-mini-container').innerHTML = '<a href="/docs/unitree_l1" class="card-mini"><div class="card-mini-title"><span>📡</span><span>宇树 L1 + Point-LIO 建图方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图</div></a><a href="/docs/leishen_n10p" class="card-mini"><div class="card-mini-title"><span>🔭</span><span>镭神 N10P + SLAM Toolbox 方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">2D 激光雷达 SLAM 方案 · 室内导航与避障</div></a>';
 </script>
 
 <div class="section-title">
