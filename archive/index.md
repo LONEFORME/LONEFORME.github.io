@@ -7,8 +7,8 @@ title: 新闻存档
 
 > 过去5天的新闻记录
 
+- 📅 [2026-07-12]({{ site.url }}/archive/news-2026-07-12)
 - 📅 [2026-07-11]({{ site.url }}/archive/news-2026-07-11)
 - 📅 [2026-07-10]({{ site.url }}/archive/news-2026-07-10)
 - 📅 [2026-07-09]({{ site.url }}/archive/news-2026-07-09)
 - 📅 [2026-07-08]({{ site.url }}/archive/news-2026-07-08)
-- 📅 [2026-07-07]({{ site.url }}/archive/news-2026-07-07)
