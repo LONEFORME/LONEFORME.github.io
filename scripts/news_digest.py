@@ -13,24 +13,26 @@ log = lambda msg: print(msg, flush=True)
 UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
-    # 国内官方权威媒体
+    # ⚽ 足球与英超权威专栏 (五大联赛赛况与转会中心)
+    {"url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml", "name": "BBC 英超专栏"},
+    {"url": "https://www.skysports.com/rss/12040", "name": "天空体育(转会中心)"},
+    {"url": "https://www.skysports.com/rss/11661", "name": "天空体育(英超)"},
+    {"url": "https://www.theguardian.com/football/premierleague/rss", "name": "卫报(英超深度)"},
+    # 🇨🇳 国内官方权威媒体
     {"url": "http://www.people.com.cn/rss/politics.xml", "name": "人民网(时政)"},
     {"url": "http://www.people.com.cn/rss/world.xml", "name": "人民网(国际)"},
     {"url": "http://www.people.com.cn/rss/scitech.xml", "name": "人民网(科技)"},
     {"url": "https://www.chinanews.com.cn/rss/scroll-news.xml", "name": "中国新闻网(滚动)"},
-    # 国际权威媒体
+    # 🌐 国际权威媒体
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "name": "纽约时报"},
-    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "name": "纽约时报(国际)"},
-    {"url": "https://www.cbsnews.com/latest/rss/main", "name": "CBS News"},
-    {"url": "https://feeds.npr.org/1001/rss.xml", "name": "NPR(含AP美联社)"},
 ]
 
 API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
 API_KEY = os.environ.get("OPENCODE_GO_API_KEY")
 MODEL = "deepseek-v4-flash"
 MAX_ARTICLES_PER_FEED = 6
-MAX_TOTAL = 30
+MAX_TOTAL = 32
 MAX_AGE_DAYS = 30
 
 SOURCE_NAME_MAP = {
@@ -38,52 +40,36 @@ SOURCE_NAME_MAP = {
     "xinhuanet.com": "新华网",
     "chinanews.com.cn": "中国新闻网",
     "chinanews.com": "中国新闻网",
-    "china.com.cn": "中国网",
-    "chinaqw.com": "中国侨网",
-    "huanqiu.com": "环球网",
-    "youth.cn": "中国青年网",
-    "ce.cn": "中国经济网",
-    "cnr.cn": "央广网",
-    "cctv.com": "央视网",
-    "gmw.cn": "光明网",
-    "stdaily.com": "科技日报",
-    "qzwb.com": "泉州网",
-    "ifeng.com": "凤凰网",
-    "sina.com.cn": "新浪",
-    "sohu.com": "搜狐",
-    "163.com": "网易",
+    "skysports.com": "天空体育",
+    "theguardian.com": "卫报",
     "bbc.com": "BBC",
     "bbc.co.uk": "BBC",
     "nytimes.com": "纽约时报",
     "cbsnews.com": "CBS News",
     "npr.org": "NPR",
-}  # fmt: skip
+}
 
-# ===== 新增：来源 → 国旗/样式映射 =====
+# ===== 来源 → 国旗/样式映射 =====
 SOURCE_FLAG_MAP = {
-    "人民网": "🇨🇳", "新华网": "🇨🇳", "中国新闻网": "🇨🇳", "中国网": "🇨🇳",
-    "中国侨网": "🇨🇳", "环球网": "🇨🇳", "中国青年网": "🇨🇳", "中国经济网": "🇨🇳",
-    "央广网": "🇨🇳", "央视网": "🇨🇳", "光明网": "🇨🇳", "科技日报": "🇨🇳",
-    "泉州网": "🇨🇳", "凤凰网": "🇨🇳", "新浪": "🇨🇳", "搜狐": "🇨🇳", "网易": "🇨🇳",
-    "BBC": "🇬🇧",
-    "纽约时报": "🇺🇸",
-    "CBS News": "🇺🇸",
-    "NPR": "🇺🇸",
+    "人民网": "🇨🇳", "新华网": "🇨🇳", "中国新闻网": "🇨🇳", "央视网": "🇨🇳",
+    "BBC": "🇬🇧", "BBC 英超专栏": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "天空体育": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "天空体育(转会中心)": "🔄", "天空体育(英超)": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "卫报": "🇬🇧", "卫报(英超深度)": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "纽约时报": "🇺🇸", "CBS News": "🇺🇸", "NPR": "🇺🇸",
 }
 
 SOURCE_CSS_MAP = {
     "人民网": "source-cn", "新华网": "source-cn", "中国新闻网": "source-cn",
-    "央视网": "source-cn", "光明网": "source-cn", "环球网": "source-cn",
-    "凤凰网": "source-cn", "新浪": "source-cn", "搜狐": "source-cn", "网易": "source-cn",
-    "BBC": "source-bbc",
+    "BBC": "source-bbc", "BBC 英超专栏": "source-bbc",
+    "天空体育": "source-skysports", "天空体育(转会中心)": "source-skysports", "天空体育(英超)": "source-skysports",
+    "卫报": "source-theathletic", "卫报(英超深度)": "source-theathletic",
     "纽约时报": "source-nytimes",
     "CBS News": "source-cbs",
-    "NPR": "source-cbs",
 }
 
 CAT_ICON_MAP = {
-    "shizheng": "🏛️", "keji": "🤖", "guoji": "🌍", "shehui": "👥",
-    "caijing": "💰", "tiyu": "⚽", "junshi": "⚔️", "qita": "📎",
+    "zuqiu": "⚽", "zhuanhui": "🔄", "keji": "🤖", "caijing": "💰",
+    "shizheng": "🏛️", "guoji": "🌍", "junshi": "⚔️", "qita": "📎",
 }
 
 
@@ -309,8 +295,11 @@ def parse_categories(ai_output):
 def cat_name_to_id(name):
     """Map Chinese category name to HTML id suffix"""
     mapping = {
-        "时政": "shizheng", "科技AI": "keji", "科技": "keji", "国际": "guoji",
-        "社会": "shehui", "财经": "caijing", "体育": "tiyu", "军事": "junshi", "其他": "qita",
+        "足球赛况": "zuqiu", "足球": "zuqiu", "英超": "zuqiu", "五大联赛": "zuqiu", "英超赛况": "zuqiu",
+        "转会风云": "zhuanhui", "转会": "zhuanhui", "英超转会": "zhuanhui", "五大联赛转会": "zhuanhui",
+        "科技AI": "keji", "科技": "keji",
+        "财经": "caijing", "经济": "caijing",
+        "时政": "shizheng", "国际": "guoji", "其他": "qita",
     }
     return mapping.get(name.strip(), "qita")
 
@@ -318,8 +307,11 @@ def cat_name_to_id(name):
 def cat_name_short(name):
     """Short display name for tab button"""
     mapping = {
-        "时政": "时政", "科技AI": "科技", "科技": "科技", "国际": "国际",
-        "社会": "社会", "财经": "财经", "体育": "体育", "军事": "军事", "其他": "其他",
+        "足球赛况": "足球", "英超": "足球", "五大联赛": "足球",
+        "转会风云": "转会", "英超转会": "转会",
+        "科技AI": "科技", "科技": "科技",
+        "财经": "财经",
+        "时政": "时政", "国际": "国际", "其他": "其他",
     }
     return mapping.get(name.strip(), name.strip())
 
