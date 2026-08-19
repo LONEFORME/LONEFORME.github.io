@@ -14,6 +14,20 @@ title: 热点新闻
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
 </div>
 
+<!-- 往期历史存档速查栏 -->
+<div class="archive-chips-bar">
+  <span class="archive-chips-title">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+    往期速查:
+  </span>
+  <a href="{{ "/news" | relative_url }}" class="archive-chip active">⚡ 今日 (08-19)</a>
+  <a href="{{ "/archive/news-2026-08-18" | relative_url }}" class="archive-chip">📅 08-18</a>
+  <a href="{{ "/archive/news-2026-08-17" | relative_url }}" class="archive-chip">📅 08-17</a>
+  <a href="{{ "/archive/news-2026-08-16" | relative_url }}" class="archive-chip">📅 08-16</a>
+  <a href="{{ "/archive/news-2026-08-15" | relative_url }}" class="archive-chip">📅 08-15</a>
+  <a href="{{ "/archive" | relative_url }}" class="archive-chip archive-chip-more">📁 历史档案室 →</a>
+</div>
+
 <!-- 顶部分类频道切换 Tab 栏 -->
 <div class="news-channel-bar">
   <button class="channel-btn active" onclick="filterNewsChannel('all', this)">

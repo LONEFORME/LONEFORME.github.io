@@ -829,7 +829,7 @@ title: 新闻存档 - {date_only}
     else:
         log(f"[WARN] 无任何数据，保留现有 news.md，不覆盖")
 
-    # 清理旧存档
+    # 清理旧存档（保留最近30天历史）
     archive_dir = "archive"
     if os.path.exists(archive_dir):
         for fname in os.listdir(archive_dir):
@@ -837,7 +837,7 @@ title: 新闻存档 - {date_only}
                 try:
                     fdate = fname.replace("news-", "").replace(".md", "")
                     fdatetime = datetime.strptime(fdate, "%Y-%m-%d")
-                    if datetime.now() - fdatetime > timedelta(days=5):
+                    if datetime.now() - fdatetime > timedelta(days=30):
                         os.remove(os.path.join(archive_dir, fname))
                         log(f"[INFO] 清理旧存档: {fname}")
                 except ValueError:
@@ -851,22 +851,39 @@ title: 新闻存档 - {date_only}
                 fdate = fname.replace("news-", "").replace(".md", "")
                 archive_files.append(fdate)
 
+    cards_html = ""
+    for fdate in archive_files:
+        is_today = " (今日)" if fdate == datetime.now().strftime("%Y-%m-%d") else ""
+        cards_html += f"""  <a href="{{{{ site.url }}}}/archive/news-{fdate}" class="archive-day-card">
+    <div class="archive-day-header">
+      <span class="archive-day-date">📅 {fdate}{is_today}</span>
+      <span class="archive-day-count">每日热点速览</span>
+    </div>
+    <p class="archive-day-headline">点击进入查看该日聚合的国内外权威要闻、深度事件简述与信源回顾。</p>
+    <div class="archive-day-footer">
+      <span>9 个国内外权威信源</span>
+      <span>进入阅读 →</span>
+    </div>
+  </a>\n"""
+
     archive_index = f"""---
 layout: default
-title: 新闻存档
+title: 新闻历史档案室
 ---
 
-# 📁 新闻存档
+<h1>📁 新闻历史档案室</h1>
+<p class="page-subtitle">每日热点自动归档 · 往期资讯回溯 · <a href="{{{{ site.url }}}}/news" class="archive-back-link">← 返回今日最新新闻</a></p>
 
-> 过去5天的新闻记录
+<div class="archive-timeline-grid">
+{cards_html}</div>
 
+<div style="text-align: center; margin: 40px 0 20px;">
+  <a href="{{{{ site.url }}}}/news" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
+    <span>⚡ 返回今日最新新闻</span>
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+  </a>
+</div>
 """
-    for fdate in archive_files[:5]:
-        archive_index += f"- 📅 [{fdate}]({{{{ site.url }}}}/archive/news-{fdate})\n"
-
-    if not archive_files:
-        archive_index += "<p>暂无存档。</p>\n"
-
     with open("archive/index.md", "w", encoding="utf-8") as f:
         f.write(archive_index)
     log(f"[INFO] 已生成 archive/index.md")
