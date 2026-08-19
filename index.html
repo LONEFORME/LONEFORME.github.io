@@ -4,19 +4,22 @@ title: 首页
 ---
 
 <div class="hero">
-  <div class="hero-badge">🚀 机器人感知与导航 · 个人技术空间</div>
+  <div class="hero-badge">
+    <svg class="hero-badge-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
+    <span>机器人感知与导航 · 个人技术空间</span>
+  </div>
   <h1>旧梦如常</h1>
   <div class="tagline">嵌入式系统开发者 · ROS2 · 激光雷达 SLAM · 计算机视觉</div>
   <div class="hero-desc">专注于机器人感知、建图与自主导航，深耕嵌入式 Linux、激光/惯性多传感器融合与无人机电控方案。</div>
 
   <div class="tech-tags">
-    <span class="tech-tag">⚡ ROS2 Humble / Jazzy</span>
-    <span class="tech-tag">📡 3D/2D 激光雷达</span>
-    <span class="tech-tag">🔧 嵌入式 Linux / ARM</span>
-    <span class="tech-tag">🧭 FAST-LIO / Point-LIO</span>
-    <span class="tech-tag">🗺️ SLAM Toolbox</span>
-    <span class="tech-tag">👁️ 计算机视觉 & OpenCV</span>
-    <span class="tech-tag">🚁 飞控与无人机</span>
+    <span class="tech-tag"><svg class="tag-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> ROS2 Humble / Jazzy</span>
+    <span class="tech-tag"><svg class="tag-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="m4.9 4.9 14.2 14.2"/><circle cx="12" cy="12" r="4"/></svg> 3D/2D 激光雷达</span>
+    <span class="tech-tag"><svg class="tag-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/><path d="M9 21v1"/><path d="M9 2v1"/></svg> 嵌入式 Linux / ARM</span>
+    <span class="tech-tag"><svg class="tag-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg> FAST-LIO / Point-LIO</span>
+    <span class="tech-tag"><svg class="tag-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21"/><line x1="9" y1="3" x2="9" y2="18"/><line x1="15" y1="6" x2="15" y2="21"/></svg> SLAM Toolbox</span>
+    <span class="tech-tag"><svg class="tag-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg> 计算机视觉 & OpenCV</span>
+    <span class="tech-tag"><svg class="tag-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="3"/></svg> 飞控与无人机</span>
   </div>
 </div>
 
@@ -41,13 +44,17 @@ title: 首页
 </div>
 
 <div class="section-title">
-  <span class="section-icon">📌</span>
+  <span class="section-icon-box">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+  </span>
   <h2>精选项目</h2>
 </div>
 
 <div class="card-grid">
   <div class="card">
-    <div class="card-icon">📡</div>
+    <div class="card-icon-box" style="--icon-color: #00ff88; --icon-glow: rgba(0,255,136,0.25);">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/><circle cx="12" cy="12" r="2"/></svg>
+    </div>
     <h3>宇树 L1 激光雷达 ROS2 驱动</h3>
     <p>Unitree 3D 激光雷达的完整 ROS2 封装驱动，支持点云发布、IMU 融合与多平台无缝部署。</p>
     <div class="card-tags">
@@ -59,7 +66,9 @@ title: 首页
   </div>
 
   <div class="card">
-    <div class="card-icon">🔭</div>
+    <div class="card-icon-box" style="--icon-color: #00d4ff; --icon-glow: rgba(0,212,255,0.25);">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>
+    </div>
     <h3>镭神 M10P/N10P ROS2 驱动与 SLAM</h3>
     <p>Leishen 单线激光雷达驱动，深度集成 SLAM Toolbox 导航建图与避障方案。</p>
     <div class="card-tags">
@@ -71,7 +80,9 @@ title: 首页
   </div>
 
   <div class="card">
-    <div class="card-icon">🧭</div>
+    <div class="card-icon-box" style="--icon-color: #10b981; --icon-glow: rgba(16,185,129,0.25);">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>
+    </div>
     <h3>Point-LIO 宇树雷达适配</h3>
     <p>基于 Point-LIO 的实时激光雷达-惯性紧耦合里程计建图，专为 Unitree 激光雷达深度调优。</p>
     <div class="card-tags">
@@ -83,7 +94,9 @@ title: 首页
   </div>
 
   <div class="card">
-    <div class="card-icon">👁️</div>
+    <div class="card-icon-box" style="--icon-color: #a855f7; --icon-glow: rgba(168,85,247,0.25);">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/><path d="M12 9v6"/><path d="M9 12h6"/></svg>
+    </div>
     <h3>ZCode 视觉识别系统</h3>
     <p>综合计算机视觉识别工程，支持图像/视频输入、几何图形识别与多目标实时跟踪检测。</p>
     <div class="card-tags">
@@ -95,7 +108,9 @@ title: 首页
   </div>
 
   <div class="card">
-    <div class="card-icon">🚁</div>
+    <div class="card-icon-box" style="--icon-color: #f59e0b; --icon-glow: rgba(245,158,11,0.25);">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="4"/><circle cx="4" cy="4" r="2.5"/><circle cx="20" cy="4" r="2.5"/><circle cx="4" cy="20" r="2.5"/><circle cx="20" cy="20" r="2.5"/></svg>
+    </div>
     <h3>锡月无人机方案</h3>
     <p>电子设计竞赛无人机全栈方案，涵盖 STM32 飞控固件、树莓派上位机通信与视觉追踪导航。</p>
     <div class="card-tags">
@@ -107,7 +122,9 @@ title: 首页
   </div>
 
   <div class="card">
-    <div class="card-icon">🖨️</div>
+    <div class="card-icon-box" style="--icon-color: #ec4899; --icon-glow: rgba(236,72,153,0.25);">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+    </div>
     <h3>3D 打印模型库</h3>
     <p>机器人结构件、传感器支架与云台常用机械配件的 3D 打印模型集合与源工程。</p>
     <div class="card-tags">
@@ -120,32 +137,42 @@ title: 首页
 </div>
 
 <div class="section-title">
-  <span class="section-icon">📖</span>
+  <span class="section-icon-box">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1-2.5-2.5Z"></path><path d="M6 6h10"></path><path d="M6 10h10"></path></svg>
+  </span>
   <h2>最新技术文档</h2>
 </div>
 
 <div class="card-mini-list">
-  {% include card-mini.html url="docs/unitree_l1" icon="📡" title="宇树 L1 + Point-LIO 建图方案" desc="实时激光雷达-惯性紧耦合里程计 · 室内外 3D 稠密建图指南" %}
-  {% include card-mini.html url="docs/leishen_n10p" icon="🔭" title="镭神 N10P + SLAM Toolbox 方案" desc="单线 2D 激光雷达 SLAM 方案 · 室内快速建图与避障" %}
-  {% include card-mini.html url="docs/rpi4_deploy" icon="🫐" title="树莓派 4B 嵌入式部署指南" desc="Ubuntu 22.04 ARM64 + 镭神 N10P 性能调优与无头模式配置" %}
+  {% include card-mini.html url="docs/unitree_l1" icon='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><circle cx="12" cy="12" r="2"/></svg>' title="宇树 L1 + Point-LIO 建图方案" desc="实时激光雷达-惯性紧耦合里程计 · 室内外 3D 稠密建图指南" %}
+  {% include card-mini.html url="docs/leishen_n10p" icon='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>' title="镭神 N10P + SLAM Toolbox 方案" desc="单线 2D 激光雷达 SLAM 方案 · 室内快速建图与避障" %}
+  {% include card-mini.html url="docs/rpi4_deploy" icon='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/></svg>' title="树莓派 4B 嵌入式部署指南" desc="Ubuntu 22.04 ARM64 + 镭神 N10P 性能调优与无头模式配置" %}
 </div>
 
 <div class="section-title">
-  <span class="section-icon">📬</span>
+  <span class="section-icon-box">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+  </span>
   <h2>联系方式</h2>
 </div>
 
 <div class="contact-grid">
   <a href="mailto:lonefasf@qq.com" class="contact-item">
-    <span class="ci-icon">✉️</span>
+    <span class="ci-icon-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="20" height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>
+    </span>
     <span class="ci-text">lonefasf@qq.com</span>
   </a>
   <a href="https://github.com/LONEFORME" target="_blank" rel="noopener" class="contact-item">
-    <span class="ci-icon">💻</span>
+    <span class="ci-icon-box">
+      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+    </span>
     <span class="ci-text">github.com/LONEFORME</span>
   </a>
   <span class="contact-item">
-    <span class="ci-icon">💬</span>
+    <span class="ci-icon-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+    </span>
     <span class="ci-text">QQ: 2641881852</span>
   </span>
 </div>

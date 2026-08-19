@@ -1,8 +1,13 @@
 <a href="{{ include.url | relative_url }}" class="card-mini">
   <div class="card-mini-title">
-    <span>{{ include.icon }}</span>
-    <span>{{ include.title }}</span>
-    <span class="card-mini-arrow">→</span>
+    <span class="card-mini-icon-box">{{ include.icon }}</span>
+    <span class="card-mini-heading">{{ include.title }}</span>
+    <span class="card-mini-arrow">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="5" y1="12" x2="19" y2="12"></line>
+        <polyline points="12 5 19 12 12 19"></polyline>
+      </svg>
+    </span>
   </div>
   <div class="card-mini-desc">{{ include.desc }}</div>
 </a>

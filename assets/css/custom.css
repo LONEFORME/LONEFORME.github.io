@@ -2349,4 +2349,167 @@ body {
   flex-direction: column;
   gap: 12px;
   margin: 16px 0 24px;
-}
+}
+
+/* ==========================================================================
+   全新纯矢量 SVG 图标设计系统 (Lucide / Minimal Tech Style)
+   ========================================================================== */
+
+/* 1. 站点 Logo 矢量图标 */
+.site-logo-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  color: var(--color-primary);
+  margin-right: 6px;
+  vertical-align: middle;
+  filter: drop-shadow(0 0 8px var(--color-primary-glow));
+}
+.site-logo-icon svg {
+  width: 22px;
+  height: 22px;
+}
+
+/* 2. 导航栏矢量图标 */
+.nav-svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  color: var(--color-sidebar-muted);
+  transition: all var(--transition);
+}
+.nav-link:hover .nav-svg,
+.nav-link.active .nav-svg {
+  color: var(--color-primary);
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 6px var(--color-primary-glow));
+}
+
+/* 3. 主题切换与通用 SVG */
+.theme-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.theme-svg {
+  width: 16px;
+  height: 16px;
+  color: var(--color-primary);
+  transition: transform var(--transition);
+}
+.theme-toggle:hover .theme-svg {
+  transform: rotate(20deg) scale(1.15);
+}
+
+.contact-svg {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+  color: var(--color-sidebar-muted);
+}
+.contact-row:hover .contact-svg,
+.github-link:hover .contact-svg {
+  color: var(--color-primary);
+}
+
+/* 4. 章节标题矢量盒子 */
+.section-icon-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: var(--radius-sm);
+  background: var(--color-primary-dim);
+  color: var(--color-primary);
+  border: 1px solid rgba(0, 255, 136, 0.2);
+  box-shadow: 0 0 12px rgba(0, 255, 136, 0.1);
+  flex-shrink: 0;
+}
+.section-icon-box svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* 5. 卡片大图标发光容器 (Glowing Icon Box) */
+.card-icon-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-sm);
+  background: radial-gradient(circle at center, var(--icon-glow, rgba(0,255,136,0.15)) 0%, rgba(255,255,255,0.02) 80%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: var(--icon-color, var(--color-primary));
+  margin-bottom: 16px;
+  transition: all var(--transition);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
+[data-theme="light"] .card-icon-box {
+  background: radial-gradient(circle at center, var(--icon-glow, rgba(0,179,94,0.15)) 0%, rgba(0,0,0,0.02) 80%);
+  border-color: rgba(0, 0, 0, 0.08);
+}
+.card-icon-box svg {
+  width: 24px;
+  height: 24px;
+  transition: transform var(--transition);
+}
+.card:hover .card-icon-box {
+  border-color: var(--icon-color, var(--color-primary));
+  box-shadow: 0 0 20px var(--icon-glow, rgba(0,255,136,0.3));
+  transform: translateY(-2px) scale(1.05);
+}
+.card:hover .card-icon-box svg {
+  transform: scale(1.1);
+}
+
+/* 6. 迷你卡片图标盒子 */
+.card-mini-icon-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  background: var(--color-primary-dim);
+  color: var(--color-primary);
+  border: 1px solid rgba(0, 255, 136, 0.15);
+  flex-shrink: 0;
+}
+.card-mini-icon-box svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* 7. 徽章与标签图标 */
+.hero-badge-svg {
+  width: 14px;
+  height: 14px;
+  color: var(--color-primary);
+  margin-right: 4px;
+  vertical-align: middle;
+}
+.tag-svg {
+  width: 13px;
+  height: 13px;
+  margin-right: 4px;
+  color: var(--color-primary);
+  vertical-align: middle;
+}
+.ci-icon-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  color: var(--color-primary);
+  flex-shrink: 0;
+}
+.ci-icon-box svg {
+  width: 16px;
+  height: 16px;
+}
+
