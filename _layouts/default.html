@@ -20,8 +20,14 @@
   {% seo %}
 </head>
 <body>
+  <!-- 顶部阅读进度条 -->
+  <div id="readingProgressBar" class="reading-progress-bar"></div>
+
+  <!-- 移动端遮罩层 -->
+  <div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleSidebar(false)"></div>
+
   <div class="wrapper">
-    <aside class="sidebar">
+    <aside class="sidebar" id="siteSidebar">
       <div class="sidebar-header">
         <a href="{{ "/" | relative_url }}" class="site-title"><span class="title-accent">旧梦如常</span></a>
         <p class="site-desc">{{ site.description }}</p>
@@ -46,44 +52,140 @@
       </div>
     </aside>
     <main class="content">
+      <!-- 移动端顶部快捷条 -->
+      <div class="mobile-topbar">
+        <button class="mobile-menu-btn" onclick="toggleSidebar(true)" aria-label="打开菜单">☰ 菜单</button>
+        <span class="mobile-topbar-title">旧梦如常</span>
+        <button class="mobile-theme-btn" onclick="toggleTheme()" aria-label="切换主题" id="mobileThemeIcon">🌙</button>
+      </div>
+
       <div class="content-inner">
         {{ content }}
       </div>
       <footer class="site-footer">
-        <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
-        <a href="https://github.com/LONEFORME" target="_blank" rel="noopener">GitHub</a>
+        <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }} · 探索嵌入式与智能机器人</span>
+        <a href="https://github.com/LONEFORME" target="_blank" rel="noopener">GitHub (@LONEFORME)</a>
       </footer>
     </main>
   </div>
+
+  <!-- 回到顶部悬浮按钮 -->
+  <button class="back-to-top" id="backToTop" onclick="scrollToTop()" title="回到顶部" aria-label="回到顶部">↑</button>
+
   <script>
+    /* --- 主题模式初始化与切换 --- */
     (function() {
       var saved = localStorage.getItem('theme');
-      if (saved === 'dark') {
+      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (saved === 'dark' || (!saved && prefersDark)) {
         document.documentElement.removeAttribute('data-theme');
-        document.getElementById('themeIcon').textContent = '🌙';
-        document.getElementById('themeLabel').textContent = '暗色模式';
-      } else {
+        updateThemeUI('dark');
+      } else if (saved === 'light' || (!saved && !prefersDark)) {
         document.documentElement.setAttribute('data-theme', 'light');
-        document.getElementById('themeIcon').textContent = '☀️';
-        document.getElementById('themeLabel').textContent = '亮色模式';
+        updateThemeUI('light');
       }
     })();
-    function toggleTheme() {
-      var html = document.documentElement;
+
+    function updateThemeUI(theme) {
       var icon = document.getElementById('themeIcon');
       var label = document.getElementById('themeLabel');
+      var mobileIcon = document.getElementById('mobileThemeIcon');
+      if (theme === 'light') {
+        if (icon) icon.textContent = '☀️';
+        if (label) label.textContent = '亮色模式';
+        if (mobileIcon) mobileIcon.textContent = '☀️';
+      } else {
+        if (icon) icon.textContent = '🌙';
+        if (label) label.textContent = '暗色模式';
+        if (mobileIcon) mobileIcon.textContent = '🌙';
+      }
+    }
+
+    function toggleTheme() {
+      var html = document.documentElement;
       if (html.getAttribute('data-theme') === 'light') {
         html.removeAttribute('data-theme');
         localStorage.setItem('theme', 'dark');
-        icon.textContent = '🌙';
-        label.textContent = '暗色模式';
+        updateThemeUI('dark');
       } else {
         html.setAttribute('data-theme', 'light');
         localStorage.setItem('theme', 'light');
-        icon.textContent = '☀️';
-        label.textContent = '亮色模式';
+        updateThemeUI('light');
       }
     }
+
+    /* --- 移动端侧边栏切换 --- */
+    function toggleSidebar(show) {
+      var sidebar = document.getElementById('siteSidebar');
+      var overlay = document.getElementById('sidebarOverlay');
+      if (show) {
+        sidebar.classList.add('open');
+        overlay.classList.add('active');
+      } else {
+        sidebar.classList.remove('open');
+        overlay.classList.remove('active');
+      }
+    }
+
+    /* --- 阅读进度条与回到顶部 --- */
+    window.addEventListener('scroll', function() {
+      var winScroll = document.documentElement.scrollTop || document.body.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      var bar = document.getElementById('readingProgressBar');
+      if (bar) bar.style.width = scrolled + '%';
+
+      var btt = document.getElementById('backToTop');
+      if (btt) {
+        if (winScroll > 280) {
+          btt.classList.add('visible');
+        } else {
+          btt.classList.remove('visible');
+        }
+      }
+    });
+
+    function scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    /* --- 代码块一键复制增强 --- */
+    document.addEventListener('DOMContentLoaded', function() {
+      var pres = document.querySelectorAll('.content-inner pre');
+      pres.forEach(function(pre) {
+        var wrapper = document.createElement('div');
+        wrapper.className = 'code-block-wrapper';
+        pre.parentNode.insertBefore(wrapper, pre);
+        wrapper.appendChild(pre);
+
+        // 创建代码块顶部栏
+        var header = document.createElement('div');
+        header.className = 'code-block-header';
+        header.innerHTML = '<span class="code-dots"><i></i><i></i><i></i></span>';
+
+        var copyBtn = document.createElement('button');
+        copyBtn.className = 'copy-code-btn';
+        copyBtn.type = 'button';
+        copyBtn.textContent = '复制';
+        copyBtn.addEventListener('click', function() {
+          var code = pre.querySelector('code');
+          var text = code ? code.innerText : pre.innerText;
+          navigator.clipboard.writeText(text).then(function() {
+            copyBtn.textContent = '已复制 ✓';
+            copyBtn.classList.add('copied');
+            setTimeout(function() {
+              copyBtn.textContent = '复制';
+              copyBtn.classList.remove('copied');
+            }, 2000);
+          }).catch(function() {
+            copyBtn.textContent = '失败 ✗';
+          });
+        });
+
+        header.appendChild(copyBtn);
+        wrapper.insertBefore(header, pre);
+      });
+    });
   </script>
 </body>
 </html>

@@ -4,18 +4,39 @@ title: 首页
 ---
 
 <div class="hero">
-  <div class="hero-badge">🚀 机器人感知与导航</div>
+  <div class="hero-badge">🚀 机器人感知与导航 · 个人技术空间</div>
   <h1>旧梦如常</h1>
   <div class="tagline">嵌入式系统开发者 · ROS2 · 激光雷达 SLAM · 计算机视觉</div>
-  <div class="hero-desc">专注于机器人感知与导航方向，深耕嵌入式 Linux、多传感器融合与计算机视觉技术。</div>
+  <div class="hero-desc">专注于机器人感知、建图与自主导航，深耕嵌入式 Linux、激光/惯性多传感器融合与无人机电控方案。</div>
 
   <div class="tech-tags">
-    <span class="tech-tag">⚡ ROS2</span>
-    <span class="tech-tag">📡 激光雷达</span>
-    <span class="tech-tag">🔧 嵌入式 Linux</span>
-    <span class="tech-tag">🧭 多传感器融合</span>
-    <span class="tech-tag">🗺️ SLAM</span>
-    <span class="tech-tag">👁️ 计算机视觉</span>
+    <span class="tech-tag">⚡ ROS2 Humble / Jazzy</span>
+    <span class="tech-tag">📡 3D/2D 激光雷达</span>
+    <span class="tech-tag">🔧 嵌入式 Linux / ARM</span>
+    <span class="tech-tag">🧭 FAST-LIO / Point-LIO</span>
+    <span class="tech-tag">🗺️ SLAM Toolbox</span>
+    <span class="tech-tag">👁️ 计算机视觉 & OpenCV</span>
+    <span class="tech-tag">🚁 飞控与无人机</span>
+  </div>
+</div>
+
+<!-- 核心数据指标看板 -->
+<div class="stats-grid">
+  <div class="stat-card">
+    <div class="stat-num">6+</div>
+    <div class="stat-label">开源项目库</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">3+</div>
+    <div class="stat-label">SLAM 与硬件方案</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">Daily</div>
+    <div class="stat-label">AI 科技日报归档</div>
+  </div>
+  <div class="stat-card">
+    <div class="stat-num">100%</div>
+    <div class="stat-label">开源技术沉淀</div>
   </div>
 </div>
 
@@ -28,56 +49,86 @@ title: 首页
   <div class="card">
     <div class="card-icon">📡</div>
     <h3>宇树 L1 激光雷达 ROS2 驱动</h3>
-    <p>Unitree 激光雷达的完整 ROS2 封装驱动，支持多平台部署。</p>
-    <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
+    <p>Unitree 3D 激光雷达的完整 ROS2 封装驱动，支持点云发布、IMU 融合与多平台无缝部署。</p>
+    <div class="card-tags">
+      <span class="card-tag">C++</span>
+      <span class="card-tag">ROS2</span>
+      <span class="card-tag">Point Cloud</span>
+    </div>
+    <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 
   <div class="card">
     <div class="card-icon">🔭</div>
     <h3>镭神 M10P/N10P ROS2 驱动与 SLAM</h3>
-    <p>Leishen 单线激光雷达驱动，集成 SLAM Toolbox 导航方案。</p>
-    <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
+    <p>Leishen 单线激光雷达驱动，深度集成 SLAM Toolbox 导航建图与避障方案。</p>
+    <div class="card-tags">
+      <span class="card-tag">UART 串口</span>
+      <span class="card-tag">SLAM Toolbox</span>
+      <span class="card-tag">2D 栅格地图</span>
+    </div>
+    <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 
   <div class="card">
     <div class="card-icon">🧭</div>
     <h3>Point-LIO 宇树雷达适配</h3>
-    <p>基于 Point-LIO 的实时激光雷达-惯性里程计建图，适配宇树 L 系列雷达。</p>
-    <a href="https://github.com/LONEFORME/N100" class="card-link">查看项目</a>
+    <p>基于 Point-LIO 的实时激光雷达-惯性紧耦合里程计建图，专为 Unitree 激光雷达深度调优。</p>
+    <div class="card-tags">
+      <span class="card-tag">6-DoF 里程计</span>
+      <span class="card-tag">IMU 紧耦合</span>
+      <span class="card-tag">3D PCD</span>
+    </div>
+    <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 
   <div class="card">
     <div class="card-icon">👁️</div>
     <h3>ZCode 视觉识别系统</h3>
-    <p>综合视觉识别工程，支持图片/视频输入、圆形识别与多目标检测。</p>
-    <a href="https://github.com/LONEFORME/ZCodeProject" class="card-link">查看项目</a>
+    <p>综合计算机视觉识别工程，支持图像/视频输入、几何图形识别与多目标实时跟踪检测。</p>
+    <div class="card-tags">
+      <span class="card-tag">Python / C++</span>
+      <span class="card-tag">OpenCV</span>
+      <span class="card-tag">目标检测</span>
+    </div>
+    <a href="https://github.com/LONEFORME/ZCodeProject" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 
   <div class="card">
     <div class="card-icon">🚁</div>
     <h3>锡月无人机方案</h3>
-    <p>2025 年电子设计竞赛无人机项目，含飞控固件、树莓派主控与视觉模块。</p>
-    <a href="https://github.com/LONEFORME/xiyue-drone" class="card-link">查看项目</a>
+    <p>电子设计竞赛无人机全栈方案，涵盖 STM32 飞控固件、树莓派上位机通信与视觉追踪导航。</p>
+    <div class="card-tags">
+      <span class="card-tag">STM32F4</span>
+      <span class="card-tag">PID / ADRC</span>
+      <span class="card-tag">T265 追踪</span>
+    </div>
+    <a href="https://github.com/LONEFORME/xiyue-drone" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 
   <div class="card">
     <div class="card-icon">🖨️</div>
     <h3>3D 打印模型库</h3>
-    <p>常用机械结构与配件的 3D 打印模型文件集合。</p>
-    <a href="https://github.com/LONEFORME/3d-models" class="card-link">查看项目</a>
+    <p>机器人结构件、传感器支架与云台常用机械配件的 3D 打印模型集合与源工程。</p>
+    <div class="card-tags">
+      <span class="card-tag">STL / 3MF</span>
+      <span class="card-tag">SolidWorks</span>
+      <span class="card-tag">结构件设计</span>
+    </div>
+    <a href="https://github.com/LONEFORME/3d-models" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 </div>
 
 <div class="section-title">
   <span class="section-icon">📖</span>
-  <h2>最新文档</h2>
+  <h2>最新技术文档</h2>
 </div>
 
-<div id="card-mini-container"></div>
-
-<script>
-document.getElementById('card-mini-container').innerHTML = '<a href="/docs/unitree_l1" class="card-mini"><div class="card-mini-title"><span>📡</span><span>宇树 L1 + Point-LIO 建图方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">实时激光雷达-惯性里程计建图方案 · 室内外 3D 建图</div></a><a href="/docs/leishen_n10p" class="card-mini"><div class="card-mini-title"><span>🔭</span><span>镭神 N10P + SLAM Toolbox 方案</span><span class="card-mini-arrow">→</span></div><div class="card-mini-desc">2D 激光雷达 SLAM 方案 · 室内导航与避障</div></a>';
-</script>
+<div class="card-mini-list">
+  {% include card-mini.html url="docs/unitree_l1" icon="📡" title="宇树 L1 + Point-LIO 建图方案" desc="实时激光雷达-惯性紧耦合里程计 · 室内外 3D 稠密建图指南" %}
+  {% include card-mini.html url="docs/leishen_n10p" icon="🔭" title="镭神 N10P + SLAM Toolbox 方案" desc="单线 2D 激光雷达 SLAM 方案 · 室内快速建图与避障" %}
+  {% include card-mini.html url="docs/rpi4_deploy" icon="🫐" title="树莓派 4B 嵌入式部署指南" desc="Ubuntu 22.04 ARM64 + 镭神 N10P 性能调优与无头模式配置" %}
+</div>
 
 <div class="section-title">
   <span class="section-icon">📬</span>
@@ -87,14 +138,14 @@ document.getElementById('card-mini-container').innerHTML = '<a href="/docs/unitr
 <div class="contact-grid">
   <a href="mailto:lonefasf@qq.com" class="contact-item">
     <span class="ci-icon">✉️</span>
-    <span>lonefasf@qq.com</span>
+    <span class="ci-text">lonefasf@qq.com</span>
   </a>
-  <a href="https://github.com/LONEFORME" target="_blank" class="contact-item">
+  <a href="https://github.com/LONEFORME" target="_blank" rel="noopener" class="contact-item">
     <span class="ci-icon">💻</span>
-    <span>github.com/LONEFORME</span>
+    <span class="ci-text">github.com/LONEFORME</span>
   </a>
   <span class="contact-item">
     <span class="ci-icon">💬</span>
-    <span>QQ: 2641881852</span>
+    <span class="ci-text">QQ: 2641881852</span>
   </span>
 </div>
