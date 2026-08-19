@@ -7,8 +7,8 @@ title: 热点新闻
 <p class="page-subtitle">每日自动聚合 · 英超与五大联赛焦点 · 深度战术复盘 · 科技财经要闻（支持频道切换与悬浮即览）</p>
 
 <div class="news-meta-bar">
-  <span class="news-meta-item">⚽ 足球专栏</span>
-  <span class="news-meta-item">🔄 英超转会中心</span>
+  <span class="news-meta-item">⚽ 英超 & 足球专栏</span>
+  <span class="news-meta-item">🔄 五大联赛转会中心</span>
   <span class="news-meta-item">🤖 科技 & AI</span>
   <span class="news-meta-item">💰 宏观财经</span>
   <span class="news-meta-item">🕐 每日更新</span>
@@ -29,19 +29,15 @@ title: 热点新闻
   <a href="{{ "/archive" | relative_url }}" class="archive-chip archive-chip-more">📁 历史档案室 →</a>
 </div>
 
-<!-- 顶部分类频道切换 Tab 栏 (已彻底移除社会纪实，新增足球赛况与转会专栏) -->
+<!-- 顶部分类频道切换 Tab 栏 (已将足球赛况与五大联赛转会融合为一体化频道) -->
 <div class="news-channel-bar">
   <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
     <span>🌟 全部动态</span>
     <span class="channel-count">24</span>
   </button>
   <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
-    <span>⚽ 英超与联赛赛况</span>
-    <span class="channel-count">6</span>
-  </button>
-  <button class="channel-btn" onclick="filterNewsChannel('zhuanhui', this)">
-    <span>🔄 转会风云 (英超焦点)</span>
-    <span class="channel-count">6</span>
+    <span>⚽ 英超与足球风云 (赛况 · 转会)</span>
+    <span class="channel-count">10</span>
   </button>
   <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
     <span>🤖 科技 & AI</span>
@@ -53,7 +49,7 @@ title: 热点新闻
   </button>
   <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
     <span>🏛️ 时政与国际</span>
-    <span class="channel-count">3</span>
+    <span class="channel-count">5</span>
   </button>
   <button class="channel-btn" onclick="filterNewsChannel('source', this)">
     <span>🌐 媒体信源</span>
@@ -62,7 +58,7 @@ title: 热点新闻
 
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点 · 英超转会中心</div>
-  <a class="hero-featured-card" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zhuanhui" data-summary="【英超夏窗顶级重磅 · 转会深度追踪】天空体育与罗马诺多方独家确认：英超豪门阿森纳与西甲皇家马德里已就西班牙国脚中场核心的转会协议达成全面原则性一致，基础转会费约6500万欧元外加1500万浮动条款。球员预计将在本周内飞抵伦敦接受体检并签约5年。主帅阿尔特塔视其为球队新赛季4-3-3战术体系中实现肋部空间撕裂与组织转换的决定性拼图，阿森纳今夏在转会市场的果断投入展现出全力争夺英超冠军的坚定决心。" data-title="英超转会重磅：阿森纳与皇马就中场核心转会达成原则性协议" data-date="08-19" data-source="天空体育(转会中心)">
+  <a class="hero-featured-card" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【英超夏窗顶级重磅 · 转会深度追踪】天空体育与罗马诺多方独家确认：英超豪门阿森纳与西甲皇家马德里已就西班牙国脚中场核心的转会协议达成全面原则性一致，基础转会费约6500万欧元外加1500万浮动条款。球员预计将在本周内飞抵伦敦接受体检并签约5年。主帅阿尔特塔视其为球队新赛季4-3-3战术体系中实现肋部空间撕裂与组织转换的决定性拼图，阿森纳今夏在转会市场的果断投入展现出全力争夺英超冠军的坚定决心。" data-title="英超转会重磅：阿森纳与皇马就中场核心转会达成原则性协议" data-date="08-19" data-source="天空体育(转会中心)">
     <div class="hero-featured-img" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 40%, #064e3b 100%);">
       <span class="hero-featured-emoji">🔄</span>
     </div>
@@ -91,7 +87,7 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">利物浦新赛季战术体系演化：从重金属反击到控压兼备</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zhuanhui" data-summary="【豪门引援动向】曼城与切尔西在转会窗口进入冲刺倒计时之际动作频繁：瓜迪奥拉正全力敲定一名具备极强边路爆破能力的年轻边锋作为阵容补强；而切尔西则在继续清洗边缘球员以满足英超盈利与可持续发展规则（PSR），同时就主力中锋引援与意甲那不勒斯展开新一轮结构性谈判。" data-title="曼城切尔西转会动态：边锋补强与锋线重组进入倒计时" data-date="08-19" data-source="天空体育(转会中心)">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【豪门引援动向】曼城与切尔西在转会窗口进入冲刺倒计时之际动作频繁：瓜迪奥拉正全力敲定一名具备极强边路爆破能力的年轻边锋作为阵容补强；而切尔西则在继续清洗边缘球员以满足英超盈利与可持续发展规则（PSR），同时就主力中锋引援与意甲那不勒斯展开新一轮结构性谈判。" data-title="曼城切尔西转会动态：边锋补强与锋线重组进入倒计时" data-date="08-19" data-source="天空体育(转会中心)">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zhuanhui">🔄 转会风云</span>
         <span class="source-badge source-skysports">🔄 转会中心</span>
@@ -106,10 +102,10 @@ title: 热点新闻
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
-      <span class="news-category-title">英超与五大联赛专栏 (战况 & 转会)</span>
-      <span class="news-category-count">10 条</span>
+      <span class="news-category-title">英超与五大联赛风云 (赛况战术 · 转会焦点)</span>
+      <span class="news-category-count">8 条</span>
     </div>
-        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zhuanhui" data-summary="【夏窗独家速递】天空体育记者跟进报道，阿森纳与皇家马德里已正式签署关键转会文件，总包8000万欧元的中场签约进入官宣倒计时阶段，球员身披新战袍的定妆照拍摄已在酋长球场完成。" data-title="阿森纳总包8000万欧正式敲定西甲中场核心，体检顺利通过" data-date="08-19" data-source="天空体育(转会中心)">
+        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【夏窗独家速递】天空体育记者跟进报道，阿森纳与皇家马德里已正式签署关键转会文件，总包8000万欧元的中场签约进入官宣倒计时阶段，球员身披新战袍的定妆照拍摄已在酋长球场完成。" data-title="阿森纳总包8000万欧正式敲定西甲中场核心，体检顺利通过" data-date="08-19" data-source="天空体育(转会中心)">
           <span class="news-cat-tag cat-zhuanhui">🔄 英超转会</span>
           <span class="source-badge source-skysports">🔄 天空体育</span>
           <span class="news-item-date">08-19</span>
@@ -127,7 +123,7 @@ title: 热点新闻
           <span class="news-item-date">08-19</span>
           <span class="news-item-title">利物浦新赛季战术体系演化：从重金属反击到控压兼备</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zhuanhui" data-summary="【曼联引援盘点】曼联管理层在新高层主导下加速后防与中场重组，已就乌拉圭国脚后腰的转会与法甲巴黎圣日耳曼达成先租后买强制买断协议，转会费总计约5000万镑。" data-title="曼联敲定中场铁闸防线拼图，先租后买协议达成全面共识" data-date="08-19" data-source="天空体育(转会中心)">
+        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【曼联引援盘点】曼联管理层在新高层主导下加速后防与中场重组，已就乌拉圭国脚后腰的转会与法甲巴黎圣日耳曼达成先租后买强制买断协议，转会费总计约5000万镑。" data-title="曼联敲定中场铁闸防线拼图，先租后买协议达成全面共识" data-date="08-19" data-source="天空体育(转会中心)">
           <span class="news-cat-tag cat-zhuanhui">🔄 英超转会</span>
           <span class="source-badge source-skysports">🔄 转会中心</span>
           <span class="news-item-date">08-19</span>
@@ -139,7 +135,7 @@ title: 热点新闻
           <span class="news-item-date">08-19</span>
           <span class="news-item-title">热刺攻势足球利弊拆解：极高控球率背后的防线风险评估</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zhuanhui" data-summary="【西甲&德甲动态】皇家马德里在姆巴佩加盟后正加速前场攻击群磨合；拜仁慕尼黑则与英超纽卡斯尔联就特里皮尔等边后卫的租借与买断条款进行最后阶段拉锯。" data-title="五大联赛豪门转会风向：姆巴佩皇马体系磨合与拜仁边路引援" data-date="08-18" data-source="天空体育(转会中心)">
+        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【西甲&德甲动态】皇家马德里在姆巴佩加盟后正加速前场攻击群磨合；拜仁慕尼黑则与英超纽卡斯尔联就特里皮尔等边后卫的租借与买断条款进行最后阶段拉锯。" data-title="五大联赛豪门转会风向：姆巴佩皇马体系磨合与拜仁边路引援" data-date="08-18" data-source="天空体育(转会中心)">
           <span class="news-cat-tag cat-zhuanhui">🔄 欧陆转会</span>
           <span class="source-badge source-skysports">🔄 转会中心</span>
           <span class="news-item-date">08-18</span>
@@ -151,7 +147,7 @@ title: 热点新闻
           <span class="news-item-date">08-18</span>
           <span class="news-item-title">英超争冠三足鼎立格局推演：曼城阿森纳利物浦夺冠概率全览</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zhuanhui" data-summary="【切尔西清洗冗员】切尔西在转会窗关闭前必须清理至少4名高薪边缘球员以规避欧足联财政公平法案处罚，斯特林与查洛巴等多位一线队球星已被告知可自主寻找下家。" data-title="切尔西夏窗末期大清洗：多位高薪球星面临外租与转会" data-date="08-18" data-source="天空体育(转会中心)">
+        <a class="news-item" href="https://www.skysports.com/football/transfer-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【切尔西清洗冗员】切尔西在转会窗关闭前必须清理至少4名高薪边缘球员以规避欧足联财政公平法案处罚，斯特林与查洛巴等多位一线队球星已被告知可自主寻找下家。" data-title="切尔西夏窗末期大清洗：多位高薪球星面临外租与转会" data-date="08-18" data-source="天空体育(转会中心)">
           <span class="news-cat-tag cat-zhuanhui">🔄 英超转会</span>
           <span class="source-badge source-skysports">🔄 转会中心</span>
           <span class="news-item-date">08-18</span>
