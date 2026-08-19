@@ -201,12 +201,16 @@ def fetch_rss(url, source_name, timeout=20):
                 title = clean_title(title)
                 src = normalize_source(publisher if publisher else source_name, title, link)
                 date = normalize_date(published)
+                raw_sum = entry.get("summary", entry.get("description", ""))
+                clean_sum = re.sub(r'<[^>]+>', '', raw_sum).strip()
+                clean_sum = re.sub(r'\s+', ' ', clean_sum)
                 if is_recent(date):
                     entries.append({
                         "title": title,
                         "link": link,
                         "date": date,
-                        "source": src
+                        "source": src,
+                        "summary": clean_sum[:300]
                     })
                 else:
                     log(f"  [SKIP] 过旧文章 ({date}): {title[:40]}")
@@ -424,15 +428,19 @@ def build_hero_rss(news_items):
     html += '  <div class="news-hero-badge">🔥 头条焦点</div>\n'
 
     # 主头条
-    html += f'  <a class="hero-featured-card" href="{featured["link"]}" target="_blank" rel="noopener">\n'
+    summary_esc = _esc(featured.get("summary", "") or featured["title"])
+    title_esc = _esc(featured["title"])
+    date_short = _date_short(featured["date"])
+    css_cls = source_to_css(featured["source"])
+
+    html += f'  <a class="hero-featured-card" href="{featured["link"]}" target="_blank" rel="noopener" data-summary="{summary_esc}" data-title="{title_esc}" data-date="{date_short}" data-source="{featured["source"]}">\n'
     html += f'    <div class="hero-featured-img" style="background: linear-gradient(135deg, #1a0a2e 0%, #2d1b4e 30%, #0a1628 100%);">\n'
     html += f'      <span class="hero-featured-emoji">{source_to_flag(featured["source"])}</span>\n'
     html += f'    </div>\n'
     html += f'    <div class="hero-featured-body">\n'
     html += f'      <div class="hero-featured-meta">\n'
-    css_cls = source_to_css(featured["source"])
     html += f'        <span class="source-badge {css_cls}">{source_to_flag(featured["source"])} {featured["source"]}</span>\n'
-    html += f'        <span class="hero-featured-date">{_date_short(featured["date"])}</span>\n'
+    html += f'        <span class="hero-featured-date">{date_short}</span>\n'
     html += f'      </div>\n'
     html += f'      <h2 class="hero-featured-title">{featured["title"]}</h2>\n'
     html += f'    </div>\n'
@@ -444,7 +452,10 @@ def build_hero_rss(news_items):
         html += '  <div class="hero-sub-grid">\n'
         for item in sub_items:
             css_cls2 = source_to_css(item["source"])
-            html += f'    <a class="hero-sub-card" href="{item["link"]}" target="_blank" rel="noopener">\n'
+            sub_sum_esc = _esc(item.get("summary", "") or item["title"])
+            sub_title_esc = _esc(item["title"])
+            sub_date_short = _date_short(item["date"])
+            html += f'    <a class="hero-sub-card" href="{item["link"]}" target="_blank" rel="noopener" data-summary="{sub_sum_esc}" data-title="{sub_title_esc}" data-date="{sub_date_short}" data-source="{item["source"]}">\n'
             html += f'      <div class="hero-sub-meta">\n'
             html += f'        <span class="source-badge {css_cls2}">{source_to_flag(item["source"])} {item["source"]}</span>\n'
             html += f'      </div>\n'
@@ -463,7 +474,7 @@ def render_ai_news_item(parsed, cat_id, cat_name):
     css_cls = source_to_css(parsed["source"])
     flag = source_to_flag(parsed["source"])
 
-    html = f'        <div class="news-item" onclick="showNewsDetail(this)" data-detail="{detail_esc}" data-title="{title_esc}" data-date="{parsed["date"]}" data-source="{parsed["source"]}">\n'
+    html = f'        <div class="news-item" onclick="showNewsDetail(this)" data-detail="{detail_esc}" data-summary="{detail_esc}" data-title="{title_esc}" data-date="{parsed["date"]}" data-source="{parsed["source"]}">\n'
     html += f'          <span class="news-cat-tag cat-{cat_id}">{cat_name}</span>\n'
     html += f'          <span class="source-badge {css_cls}">{flag} {parsed["source"]}</span>\n'
     html += f'          <span class="news-item-date">{_date_short(parsed["date"])}</span>\n'
@@ -478,13 +489,16 @@ def render_ai_news_item(parsed, cat_id, cat_name):
 
 
 def render_rss_news_item(item):
-    """渲染一条 RSS 模式新闻（有链接，直接跳转）"""
+    """渲染一条 RSS 模式新闻（有链接，直接跳转，附带悬浮简述）"""
     css_cls = source_to_css(item["source"])
     flag = source_to_flag(item["source"])
+    summary_esc = _esc(item.get("summary", "") or item["title"])
+    title_esc = _esc(item["title"])
+    date_short = _date_short(item["date"])
 
-    html = f'        <a class="news-item" href="{item["link"]}" target="_blank" rel="noopener">\n'
+    html = f'        <a class="news-item" href="{item["link"]}" target="_blank" rel="noopener" data-summary="{summary_esc}" data-title="{title_esc}" data-date="{date_short}" data-source="{item["source"]}">\n'
     html += f'          <span class="source-badge {css_cls}">{flag} {item["source"]}</span>\n'
-    html += f'          <span class="news-item-date">{_date_short(item["date"])}</span>\n'
+    html += f'          <span class="news-item-date">{date_short}</span>\n'
     html += f'          <span class="news-item-title">{item["title"]}</span>\n'
     html += f'        </a>\n'
     return html

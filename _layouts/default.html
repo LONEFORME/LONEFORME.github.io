@@ -229,6 +229,92 @@
         wrapper.insertBefore(header, pre);
       });
     });
+
+    /* --- 新闻热点悬浮简述气泡系统 (News Hover Preview) --- */
+    document.addEventListener('DOMContentLoaded', function() {
+      var popover = document.createElement('div');
+      popover.className = 'news-hover-popover';
+      popover.id = 'newsHoverPopover';
+      popover.innerHTML = '<div class="popover-header"><span class="popover-source-badge" id="popoverSource"></span><span class="popover-date" id="popoverDate"></span></div>' +
+                          '<h4 class="popover-title" id="popoverTitle"></h4>' +
+                          '<p class="popover-summary" id="popoverSummary"></p>' +
+                          '<div class="popover-footer"><span>点击阅读原文</span> <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg></div>';
+      document.body.appendChild(popover);
+
+      var hideTimeout = null;
+
+      function handleMouseEnter(e) {
+        var item = e.currentTarget;
+        var summary = item.getAttribute('data-summary') || item.getAttribute('data-detail') || (item.querySelector('.news-item-summary') ? item.querySelector('.news-item-summary').innerText : '');
+        var title = item.getAttribute('data-title') || (item.querySelector('.news-item-title, .hero-featured-title, .hero-sub-title') ? item.querySelector('.news-item-title, .hero-featured-title, .hero-sub-title').innerText : '');
+        var source = item.getAttribute('data-source') || (item.querySelector('.source-badge') ? item.querySelector('.source-badge').innerText : '权威资讯');
+        var date = item.getAttribute('data-date') || (item.querySelector('.news-item-date, .hero-featured-date') ? item.querySelector('.news-item-date, .hero-featured-date').innerText : '');
+
+        if (!summary && !title) return;
+
+        clearTimeout(hideTimeout);
+        document.getElementById('popoverSource').textContent = source;
+        document.getElementById('popoverDate').textContent = date;
+        document.getElementById('popoverTitle').textContent = title;
+        document.getElementById('popoverSummary').textContent = summary || '点击直接阅读本篇新闻最新深度报道与全文。';
+
+        positionPopover(e);
+        popover.classList.add('visible');
+      }
+
+      function handleMouseMove(e) {
+        if (popover.classList.contains('visible')) {
+          positionPopover(e);
+        }
+      }
+
+      function handleMouseLeave() {
+        hideTimeout = setTimeout(function() {
+          popover.classList.remove('visible');
+        }, 60);
+      }
+
+      function positionPopover(e) {
+        var margin = 16;
+        var popWidth = popover.offsetWidth || 340;
+        var popHeight = popover.offsetHeight || 150;
+        var x = e.clientX + 16;
+        var y = e.clientY + 16;
+
+        if (x + popWidth > window.innerWidth - margin) {
+          x = e.clientX - popWidth - 16;
+        }
+        if (y + popHeight > window.innerHeight - margin) {
+          y = e.clientY - popHeight - 16;
+        }
+        if (x < margin) x = margin;
+        if (y < margin) y = margin;
+
+        popover.style.left = x + 'px';
+        popover.style.top = y + 'px';
+      }
+
+      function attachNewsListeners() {
+        var targets = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
+        targets.forEach(function(el) {
+          el.removeEventListener('mouseenter', handleMouseEnter);
+          el.removeEventListener('mousemove', handleMouseMove);
+          el.removeEventListener('mouseleave', handleMouseLeave);
+
+          el.addEventListener('mouseenter', handleMouseEnter);
+          el.addEventListener('mousemove', handleMouseMove);
+          el.addEventListener('mouseleave', handleMouseLeave);
+        });
+      }
+
+      attachNewsListeners();
+
+      var observer = new MutationObserver(attachNewsListeners);
+      var container = document.querySelector('.content-inner');
+      if (container) {
+        observer.observe(container, { childList: true, subtree: true });
+      }
+    });
   </script>
 </body>
 </html>
