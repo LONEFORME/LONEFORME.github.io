@@ -2002,14 +2002,81 @@ body {
   overflow: hidden;
 }
 
-/* --- 分类 Tab 增强（隐藏上方重复的radio labels） --- */
-.news-tabs > label:first-of-type,
-.news-tabs > label:nth-of-type(2),
-.news-tabs > label:nth-of-type(3),
-.news-tabs > label:nth-of-type(4),
-.news-tabs > label:nth-of-type(5),
-.news-tabs > label:nth-of-type(6) {
+/* ==========================================================================
+   全新新闻频道分类 Tab 导航与即时过滤系统
+   ========================================================================== */
+.news-channel-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 20px 0 24px;
+  padding: 6px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.news-channel-bar::-webkit-scrollbar {
   display: none;
+}
+
+.channel-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--color-muted);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all var(--transition);
+  font-family: var(--font-sans);
+  user-select: none;
+}
+
+.channel-btn:hover {
+  color: var(--color-heading);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+[data-theme="light"] .channel-btn:hover {
+  background: rgba(0, 0, 0, 0.04);
+}
+
+.channel-btn.active {
+  color: var(--color-primary);
+  background: var(--color-primary-dim);
+  border-color: rgba(0, 255, 136, 0.3);
+  box-shadow: 0 0 12px rgba(0, 255, 136, 0.15);
+}
+
+[data-theme="light"] .channel-btn.active {
+  border-color: rgba(0, 179, 94, 0.3);
+  box-shadow: 0 0 12px rgba(0, 179, 94, 0.12);
+}
+
+.channel-count {
+  font-size: 11px;
+  padding: 1px 6px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
+  color: inherit;
+}
+[data-theme="light"] .channel-count {
+  background: rgba(0, 0, 0, 0.06);
+}
+.channel-btn.active .channel-count {
+  background: var(--color-primary);
+  color: #000;
+  font-weight: 700;
+}
+[data-theme="light"] .channel-btn.active .channel-count {
+  color: #fff;
 }
 
 /* --- 分类国旗 --- */
