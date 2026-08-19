@@ -447,6 +447,13 @@ body {
   border: 1px solid var(--color-border);
 }
 
+[data-theme="light"] .content-inner code {
+  background: #e2e8f0;
+  color: #0f766e;
+  border-color: #cbd5e1;
+  font-weight: 600;
+}
+
 .content-inner pre {
   background: rgba(0, 0, 0, 0.4);
   color: #e6edf3;
@@ -2269,12 +2276,19 @@ body {
   transition: border-color var(--transition);
 }
 
-.code-block-wrapper:hover {
-  border-color: var(--color-border-hover);
+.code-block-wrapper {
+  position: relative;
+  margin: 20px 0 26px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  background: #0d1117 !important;
+  transition: border-color var(--transition);
 }
 
-[data-theme="light"] .code-block-wrapper {
-  background: #f8fafc;
+.code-block-wrapper:hover {
+  border-color: rgba(0, 255, 136, 0.3);
 }
 
 .code-block-header {
@@ -2282,12 +2296,8 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 10px 16px;
-  background: rgba(255, 255, 255, 0.03);
-  border-bottom: 1px solid var(--color-border);
-}
-
-[data-theme="light"] .code-block-header {
-  background: rgba(0, 0, 0, 0.03);
+  background: #161b22 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .code-dots {
@@ -2308,30 +2318,30 @@ body {
 .code-dots i:nth-child(3) { background: #27c93f; }
 
 .copy-code-btn {
-  background: transparent;
-  border: 1px solid var(--color-border);
-  color: var(--color-muted);
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #c9d1d9;
   font-size: 12px;
-  padding: 3px 10px;
+  padding: 4px 12px;
   border-radius: var(--radius-sm);
   cursor: pointer;
   transition: all var(--transition);
   font-family: var(--font-sans);
   display: inline-flex;
   align-items: center;
-  gap: 4px;
+  gap: 5px;
 }
 
 .copy-code-btn:hover {
-  color: var(--color-heading);
+  color: #fff;
   border-color: var(--color-primary);
-  background: var(--color-primary-dim);
+  background: rgba(0, 255, 136, 0.15);
 }
 
 .copy-code-btn.copied {
-  color: var(--color-primary);
-  border-color: var(--color-primary);
-  background: var(--color-primary-dim);
+  color: #00ff88;
+  border-color: #00ff88;
+  background: rgba(0, 255, 136, 0.2);
 }
 
 .code-block-wrapper pre {
@@ -2339,8 +2349,50 @@ body {
   border: none !important;
   border-radius: 0 !important;
   box-shadow: none !important;
+  background: #0d1117 !important;
+  color: #e6edf3 !important;
+  padding: 18px 20px !important;
+  font-family: var(--font-mono) !important;
+  font-size: 14px !important;
+  line-height: 1.7 !important;
+  overflow-x: auto;
+}
+
+.code-block-wrapper pre code {
+  color: #e6edf3 !important;
+  font-family: var(--font-mono) !important;
   background: transparent !important;
-  padding: 16px 20px !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* --- 语法高亮 (Syntax Highlighting) 高对比配色 --- */
+.highlight .c, .highlight .c1, .highlight .ch, .highlight .cm, .highlight .cp, .highlight .cpf, .highlight .cs {
+  color: #8b949e !important; /* 注释：清晰银灰 */
+  font-style: italic;
+}
+.highlight .k, .highlight .kd, .highlight .kn, .highlight .kp, .highlight .kr, .highlight .kt {
+  color: #ff7b72 !important; /* 关键字：亮珊瑚红 */
+  font-weight: 600;
+}
+.highlight .nb, .highlight .nf, .highlight .nc, .highlight .nn {
+  color: #79c0ff !important; /* 内置函数/命令：高亮天蓝 */
+  font-weight: 600;
+}
+.highlight .s, .highlight .s1, .highlight .s2, .highlight .sa, .highlight .sb, .highlight .sc, .highlight .dl, .highlight .sd, .highlight .se, .highlight .sh, .highlight .si, .highlight .sx, .highlight .sr, .highlight .ss {
+  color: #a5d6ff !important; /* 字符串与路径：浅冰蓝 */
+}
+.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo {
+  color: #f2cc60 !important; /* 数字：亮金黄 */
+}
+.highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm {
+  color: #7ee787 !important; /* 变量：嫩绿 */
+}
+.highlight .o, .highlight .ow {
+  color: #ff7b72 !important; /* 操作符 */
+}
+.highlight .nt {
+  color: #7ee787 !important; /* 标签名 */
 }
 
 /* --- 7. 迷你卡片列表 --- */
