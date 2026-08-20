@@ -4,13 +4,12 @@ title: 热点新闻
 ---
 
 <h1>📰 热点新闻速览</h1>
-<p class="page-subtitle">每日自动聚合 · 英超与五大联赛焦点 · 科技前沿 · 国际时政（财经资讯已合并至独立「📈 财经」板块）</p>
+<p class="page-subtitle">每日自动聚合 · 英超与五大联赛焦点 · 科技前沿 · 国际时政（支持频道即时过滤与鼠标悬浮即览）</p>
 
 <div class="news-meta-bar">
   <span class="news-meta-item">⚽ 足球与英超</span>
   <span class="news-meta-item">🤖 科技 & AI</span>
   <span class="news-meta-item">🏛️ 时政国际</span>
-  <a href="{{ "/finance" | relative_url }}" class="news-meta-item" style="color: var(--color-primary); font-weight: 700; text-decoration: none;">📈 前往股票财经专区 →</a>
   <span class="news-meta-item">🕐 每日更新</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
 </div>
@@ -29,7 +28,7 @@ title: 热点新闻
   <a href="{{ "/archive" | relative_url }}" class="archive-chip archive-chip-more">📁 历史档案室 →</a>
 </div>
 
-<!-- 顶部分类频道切换 Tab 栏 (已将财经移至独立专区，聚焦三大综合主力频道) -->
+<!-- 顶部分类频道切换 Tab 栏 -->
 <div class="news-channel-bar">
   <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
     <span>🌟 全部动态</span>
@@ -47,9 +46,6 @@ title: 热点新闻
     <span>🏛️ 时政与国际</span>
     <span class="channel-count">6</span>
   </button>
-  <a href="{{ "/finance" | relative_url }}" class="channel-btn" style="color: var(--color-primary); font-weight: 700; text-decoration: none;">
-    <span>📈 股票财经专区 →</span>
-  </a>
   <button class="channel-btn" onclick="filterNewsChannel('source', this)">
     <span>🌐 媒体信源</span>
   </button>
@@ -231,20 +227,6 @@ title: 热点新闻
           <span class="news-item-title">重大历史文献与时代精神传承：文献编撰与国家记忆脉络</span>
         </a>
   </div>
-</div>
-
-<!-- 底部前往财经板块的导流 Banner -->
-<div style="margin: 36px 0 20px; padding: 20px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-md); display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
-  <div>
-    <h3 style="margin: 0 0 6px; font-size: 16px; color: var(--color-heading); display: flex; align-items: center; gap: 6px;">
-      <span>📈 寻找股票大盘行情与宏观财经研报？</span>
-    </h3>
-    <p style="margin: 0; font-size: 13px; color: var(--color-muted);">全球股指行情快照、核心赛道主力资金流向与每日财经深度研报已全面移至专属大板块。</p>
-  </div>
-  <a href="{{ "/finance" | relative_url }}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; font-size: 13.5px; white-space: nowrap;">
-    <span>进入财经板块看板</span>
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
-  </a>
 </div>
 
 ---

@@ -311,10 +311,6 @@ def build_page_html(categorized_map, date_only):
         tab_html += f'    <span class="channel-count">{sec_count}</span>\n'
         tab_html += f'  </button>\n'
 
-    tab_html += '  <a href="{{ "/finance" | relative_url }}" class="channel-btn" style="color: var(--color-primary); font-weight: 700; text-decoration: none;">\n'
-    tab_html += '    <span>📈 股票财经专区 →</span>\n'
-    tab_html += '  </a>\n'
-
     tab_html += '  <button class="channel-btn" onclick="filterNewsChannel(\'source\', this)">\n'
     tab_html += '    <span>🌐 媒体信源</span>\n'
     tab_html += '  </button>\n'
@@ -399,22 +395,6 @@ def build_page_html(categorized_map, date_only):
             grid_html += f'        </a>\n'
         grid_html += f'  </div>\n'
     grid_html += '</div>\n'
-
-    # 4. 底部导流 Banner
-    grid_html += '''
-<div style="margin: 36px 0 20px; padding: 20px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-md); display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
-  <div>
-    <h3 style="margin: 0 0 6px; font-size: 16px; color: var(--color-heading); display: flex; align-items: center; gap: 6px;">
-      <span>📈 寻找股票大盘行情与宏观财经研报？</span>
-    </h3>
-    <p style="margin: 0; font-size: 13px; color: var(--color-muted);">全球股指行情快照、核心赛道主力资金流向与每日财经深度研报已全面移至专属大板块。</p>
-  </div>
-  <a href="{{ "/finance" | relative_url }}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; font-size: 13.5px; white-space: nowrap;">
-    <span>进入财经板块看板</span>
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
-  </a>
-</div>
-'''
 
     return tab_html + hero_html + grid_html
 
