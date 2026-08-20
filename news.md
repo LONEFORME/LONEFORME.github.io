@@ -3,60 +3,52 @@ layout: default
 title: 热点新闻
 ---
 
-<h1>📰 热点新闻速览</h1>
-<p class="page-subtitle">每日自动聚合 · 英超与五大联赛焦点 · 科技前沿 · 国际时政（支持频道即时过滤与鼠标悬浮即览）</p>
+<div class="news-header-box">
+  <div class="news-title-row">
+    <div>
+      <h1 class="news-main-title">📰 热点新闻速览</h1>
+      <p class="news-main-desc">每日聚合全球英超足球、前沿科技与国际时政焦点（电脑端悬浮即览深度特稿 · 手机端自适应浏览）</p>
+    </div>
+    <div class="news-date-tag">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+      <span>2026-08-20 今日更新</span>
+    </div>
+  </div>
 
-<div class="news-meta-bar">
-  <span class="news-meta-item">⚽ 足球与英超</span>
-  <span class="news-meta-item">🤖 科技 & AI</span>
-  <span class="news-meta-item">🏛️ 时政国际</span>
-  <span class="news-meta-item">🕐 每日更新</span>
-  <span class="news-meta-item">💡 悬浮即览深度简述</span>
-</div>
+  <div class="news-nav-composite">
+    <div class="news-channel-bar">
+      <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
+        <span>🌟 全部动态</span>
+        <span class="channel-count">18</span>
+      </button>
+      <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
+        <span>⚽ 英超与足球风云</span>
+        <span class="channel-count">6</span>
+      </button>
+      <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
+        <span>🤖 科技 & AI</span>
+        <span class="channel-count">6</span>
+      </button>
+      <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
+        <span>🏛️ 时政与国际</span>
+        <span class="channel-count">6</span>
+      </button>
+      <button class="channel-btn" onclick="filterNewsChannel('source', this)">
+        <span>🌐 媒体信源</span>
+      </button>
+    </div>
 
-<!-- 往期历史存档速查栏 -->
-<div class="archive-chips-bar">
-  <span class="archive-chips-title">
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-    往期速查:
-  </span>
-  <a href="{{ "/news" | relative_url }}" class="archive-chip active">⚡ 今日 (08-20)</a>
-  <a href="{{ "/archive/news-2026-08-19" | relative_url }}" class="archive-chip">📅 08-19</a>
-  <a href="{{ "/archive/news-2026-08-18" | relative_url }}" class="archive-chip">📅 08-18</a>
-  <a href="{{ "/archive/news-2026-08-17" | relative_url }}" class="archive-chip">📅 08-17</a>
-  <a href="{{ "/archive/news-2026-08-16" | relative_url }}" class="archive-chip">📅 08-16</a>
-  <a href="{{ "/archive" | relative_url }}" class="archive-chip archive-chip-more">📁 历史档案室 →</a>
-</div>
-
-<!-- 顶部分类频道切换 Tab 栏 -->
-<div class="news-channel-bar">
-  <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
-    <span>🌟 全部动态</span>
-    <span class="channel-count">18</span>
-  </button>
-  <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
-    <span>⚽ 英超与足球风云</span>
-    <span class="channel-count">6</span>
-  </button>
-  <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
-    <span>🤖 科技 & AI</span>
-    <span class="channel-count">6</span>
-  </button>
-  <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
-    <span>🏛️ 时政与国际</span>
-    <span class="channel-count">6</span>
-  </button>
-  <button class="channel-btn" onclick="filterNewsChannel('source', this)">
-    <span>🌐 媒体信源</span>
-  </button>
+    <a href="{{ "/archive" | relative_url }}" class="archive-btn-compact" title="翻阅往期历史档案">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+      <span>往期归档</span>
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+    </a>
+  </div>
 </div>
 
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点 · 英超转会中心</div>
   <a class="hero-featured-card" href="https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【英超夏窗重磅 · 官方权威确认】BBC体育与天空体育多方证实：英超豪门阿森纳已与阿斯顿维拉就英格兰国脚中卫埃兹里·孔萨（Ezri Konsa）的转会达成总额逾5000万英镑的全面协议。主帅阿尔特塔高度看好其防线多面手属性与出球稳定性，视其为新赛季多线争冠防线补强的关键基石。球员预计在48小时内接受体检并完成最终签约。" data-title="Arsenal agree £50m-plus deal to sign Villa's Konsa" data-date="08-20" data-source="BBC 英超专栏">
-    <div class="hero-featured-img" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 40%, #064e3b 100%);">
-      <span class="hero-featured-emoji">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
-    </div>
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-zhuanhui">🔄 英超转会</span>
@@ -67,6 +59,7 @@ title: 热点新闻
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
+
   <div class="hero-sub-grid">
     <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c0m7el3zr2eo" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="【沙特豪购与曼城动态】荷兰国脚中场赖因德斯（Tijjani Reijnders）正式以5200万英镑转会费加盟沙特联赛卡迪西亚俱乐部。曼城在完成中场套现后将加速引援重组。" data-title="Reijnders leaves Man City for Al-Qadsiah in £52m deal" data-date="08-20" data-source="BBC 英超专栏">
       <div class="hero-sub-meta">

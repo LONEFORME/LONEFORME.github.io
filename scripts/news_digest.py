@@ -294,29 +294,51 @@ def build_archive_chips(date_only):
 
 def build_page_html(categorized_map, date_only):
     """生成完整的美观新闻页面 HTML"""
-    total_count = sum(len(items) for items in categorized_map.values())
+    total_count = sum(len(items) for sec in SECTIONS_CONFIG for items in [categorized_map.get(sec["id"], [])])
 
-    # 1. 频道切换 Tab 栏
-    tab_html = '<div class="news-channel-bar">\n'
-    tab_html += f'  <button class="channel-btn active" onclick="filterNewsChannel(\'all\', this)">\n'
-    tab_html += f'    <span>🌟 全部动态</span>\n'
-    tab_html += f'    <span class="channel-count">{total_count}</span>\n'
-    tab_html += f'  </button>\n'
+    # 1. 复合 Header 控制台 (标题 + 频道 Tab + 往期历史入口)
+    header_html = f'''<div class="news-header-box">
+  <div class="news-title-row">
+    <div>
+      <h1 class="news-main-title">📰 热点新闻速览</h1>
+      <p class="news-main-desc">每日聚合全球英超足球、前沿科技与国际时政焦点（电脑端悬浮即览深度特稿 · 手机端自适应浏览）</p>
+    </div>
+    <div class="news-date-tag">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+      <span>{date_only} 今日更新</span>
+    </div>
+  </div>
 
+  <div class="news-nav-composite">
+    <div class="news-channel-bar">
+      <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
+        <span>🌟 全部动态</span>
+        <span class="channel-count">{total_count}</span>
+      </button>
+'''
     for sec in SECTIONS_CONFIG:
         sec_id = sec["id"]
         sec_count = len(categorized_map.get(sec_id, []))
-        tab_html += f'  <button class="channel-btn" onclick="filterNewsChannel(\'{sec_id}\', this)">\n'
-        tab_html += f'    <span>{sec["tab_name"]}</span>\n'
-        tab_html += f'    <span class="channel-count">{sec_count}</span>\n'
-        tab_html += f'  </button>\n'
+        header_html += f'''      <button class="channel-btn" onclick="filterNewsChannel('{sec_id}', this)">
+        <span>{sec["tab_name"]}</span>
+        <span class="channel-count">{sec_count}</span>
+      </button>\n'''
 
-    tab_html += '  <button class="channel-btn" onclick="filterNewsChannel(\'source\', this)">\n'
-    tab_html += '    <span>🌐 媒体信源</span>\n'
-    tab_html += '  </button>\n'
-    tab_html += '</div>\n'
+    header_html += '''      <button class="channel-btn" onclick="filterNewsChannel('source', this)">
+        <span>🌐 媒体信源</span>
+      </button>
+    </div>
 
-    # 2. 头条焦点区 (选第1个有新闻的板块做大头条，其余各选1条做副头条)
+    <a href="{{ "/archive" | relative_url }}" class="archive-btn-compact" title="翻阅往期历史档案">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+      <span>往期归档</span>
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+    </a>
+  </div>
+</div>
+'''
+
+    # 2. 头条焦点区
     all_sorted = []
     for sec in SECTIONS_CONFIG:
         all_sorted.extend(categorized_map.get(sec["id"], []))
@@ -335,9 +357,6 @@ def build_page_html(categorized_map, date_only):
         hero_html += '<div class="news-hero">\n'
         hero_html += '  <div class="news-hero-badge">🔥 今日头条焦点</div>\n'
         hero_html += f'  <a class="hero-featured-card" href="{featured["link"]}" target="_blank" rel="noopener" data-cat="{featured_cat}" data-summary="{featured_sum}" data-title="{featured_title}" data-date="{featured_date}" data-source="{featured["source"]}">\n'
-        hero_html += f'    <div class="hero-featured-img" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 40%, #064e3b 100%);">\n'
-        hero_html += f'      <span class="hero-featured-emoji">{source_to_flag(featured["source"])}</span>\n'
-        hero_html += f'    </div>\n'
         hero_html += f'    <div class="hero-featured-body">\n'
         hero_html += f'      <div class="hero-featured-meta">\n'
         hero_html += f'        <span class="news-cat-tag cat-{featured_cat}">{featured_tag_label}</span>\n'
@@ -396,7 +415,7 @@ def build_page_html(categorized_map, date_only):
         grid_html += f'  </div>\n'
     grid_html += '</div>\n'
 
-    return tab_html + hero_html + grid_html
+    return header_html + hero_html + grid_html
 
 
 def main():
@@ -421,7 +440,7 @@ def main():
 
     log(f"[INFO] 去重后共 {len(unique)} 条")
 
-    # 智能分类并平衡分配到四大核心板块
+    # 智能分类并分配板块
     categorized_map = {"zuqiu": [], "keji": [], "caijing": [], "shizheng": []}
     for it in unique:
         cat_id = classify_item(it)
@@ -433,27 +452,12 @@ def main():
     for cat_id, items in categorized_map.items():
         log(f"  [分类统计] {cat_id}: {len(items)} 条")
 
-    chips_bar = build_archive_chips(date_only)
     content_html = build_page_html(categorized_map, date_only)
 
     page = f"""---
 layout: default
 title: 热点新闻
 ---
-
-<h1>📰 热点新闻速览</h1>
-<p class="page-subtitle">每日自动聚合 · 英超与五大联赛焦点 · 科技前沿 · 宏观财经 · 国际时政（支持频道即时过滤与鼠标悬浮即览）</p>
-
-<div class="news-meta-bar">
-  <span class="news-meta-item">⚽ 足球与英超</span>
-  <span class="news-meta-item">🤖 科技 & AI</span>
-  <span class="news-meta-item">💰 宏观财经</span>
-  <span class="news-meta-item">🏛️ 时政国际</span>
-  <span class="news-meta-item">🕐 每日更新</span>
-  <span class="news-meta-item">💡 悬浮即览深度简述</span>
-</div>
-
-{chips_bar}
 
 {content_html}
 
