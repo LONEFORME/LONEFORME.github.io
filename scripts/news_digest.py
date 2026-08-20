@@ -15,6 +15,16 @@ import requests
 import feedparser
 from datetime import datetime, timedelta
 
+try:
+    import zhconv
+    def to_simplified(text):
+        if not text:
+            return ""
+        return zhconv.convert(text, 'zh-cn')
+except ImportError:
+    def to_simplified(text):
+        return text
+
 UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
@@ -187,12 +197,13 @@ def fetch_rss(url, source_name, timeout=20):
             published = entry.get("published", entry.get("updated", ""))
             if title and link:
                 title, publisher = parse_publisher(title)
-                title = clean_title(title)
+                title = to_simplified(clean_title(title))
                 src = normalize_source(publisher if publisher else source_name, title, link)
                 date = normalize_date(published)
                 raw_sum = entry.get("summary", entry.get("description", ""))
                 clean_sum = re.sub(r'<[^>]+>', '', raw_sum).strip()
                 clean_sum = re.sub(r'\s+', ' ', clean_sum)
+                clean_sum = to_simplified(clean_sum)
                 if is_recent(date):
                     entries.append({
                         "title": title,

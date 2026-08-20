@@ -68,19 +68,19 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">Reijnders leaves Man City for Al-Qadsiah in £52m deal (曼城中场5200万镑转战沙特)</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad" target="_blank" rel="noopener" data-cat="keji" data-summary="【大模型竞逐深度解析】中美在先进生成式人工智能领域的技术竞争已从模型参数规模转向算力集群能效与实体工业落地，专家推演未来全球科技生态的三种可能演化格局。" data-title="中美「AI 算力与大模型竞逐」：从参数规模到工业落地" data-date="08-20" data-source="BBC 中文">
+    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad" target="_blank" rel="noopener" data-cat="keji" data-summary="【大模型竞逐深度解析】中美在先进生成式人工智能领域的技术竞争已从模型参数规模转向算力集群能效与实体工业落地，专家推演未来全球科技生态的三种可能演化格局。" data-title="中美“AI 算力与大模型竞逐”：从参数规模到工业落地" data-date="08-20" data-source="BBC 中文">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
         <span class="source-badge source-bbc">🌐 BBC 中文</span>
       </div>
-      <p class="hero-sub-title">中美「AI 算力与大模型竞逐」：从参数规模到工业落地</p>
+      <p class="hero-sub-title">中美“AI 算力与大模型竞逐”：从参数规模到工业落地</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【各界送别】原国务院总理朱镕基同志送别仪式在八宝山革命公墓举行，各界深切缅怀其在分税制改革与推动中国成功加入世贸组织中的历史性贡献。" data-title="朱鎔基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩" data-date="08-20" data-source="BBC 中文">
+    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【各界送别】原国务院总理朱镕基同志送别仪式在八宝山革命公墓举行，各界深切缅怀其在分税制改革与推动中国成功加入世贸组织中的历史性贡献。" data-title="朱镕基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩" data-date="08-20" data-source="BBC 中文">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-bbc">🌐 BBC 中文</span>
       </div>
-      <p class="hero-sub-title">朱鎔基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩</p>
+      <p class="hero-sub-title">朱镕基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩</p>
     </a>
   </div>
 </div>
@@ -138,11 +138,11 @@ title: 热点新闻
       <span class="news-category-title">科技创新 & AI 算力</span>
       <span class="news-category-count">6 条</span>
     </div>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad" target="_blank" rel="noopener" data-cat="keji" data-summary="【大模型博弈】中美在先进生成式人工智能领域的技术竞争已从模型参数规模转向算力集群能效与实体工业落地，专家推演未来全球科技生态的三种可能演化格局。" data-title="中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局" data-date="08-20" data-source="BBC 中文">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad" target="_blank" rel="noopener" data-cat="keji" data-summary="【大模型博弈】中美在先进生成式人工智能领域的技术竞争已从模型参数规模转向算力集群能效与实体工业落地，专家推演未来全球科技生态的三种可能演化格局。" data-title="中美“AI 军备竞赛”究竟在比什么？专家预测三种结局" data-date="08-20" data-source="BBC 中文">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
           <span class="source-badge">🌐 BBC 中文</span>
           <span class="news-item-date">08-20</span>
-          <span class="news-item-title">中美「AI 軍備競賽」究竟在比什麼？專家預測三種結局</span>
+          <span class="news-item-title">中美“AI 军备竞赛”究竟在比什么？专家预测三种结局</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/08-19/10680027.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="【网安前沿】2026年全国网络安全技术创新与人才教育大会在京召开，方滨兴院士领衔的攻防靶场实战成果备受瞩目，聚焦大模型安全攻防与自主可控工业网络底座。" data-title="以思辨铸魂、以实战强能——2026年网络安全技术创新大会方班风采" data-date="08-20" data-source="中国新闻网(科技)">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
@@ -183,11 +183,11 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">6 条</span>
     </div>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【各界送别】原国务院总理朱镕基同志送别仪式在八宝山革命公墓举行，各界深切缅怀其在分税制改革与推动中国成功加入世贸组织中的历史性贡献。" data-title="朱鎔基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩" data-date="08-20" data-source="BBC 中文">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【各界送别】原国务院总理朱镕基同志送别仪式在八宝山革命公墓举行，各界深切缅怀其在分税制改革与推动中国成功加入世贸组织中的历史性贡献。" data-title="朱镕基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩" data-date="08-20" data-source="BBC 中文">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge">🌐 BBC 中文</span>
           <span class="news-item-date">08-20</span>
-          <span class="news-item-title">朱鎔基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩</span>
+          <span class="news-item-title">朱镕基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【美大选初选】佛罗里达州共和党州长党内初选揭晓，众议员拜伦·唐纳兹赢得候选人提名，标志着草根保守派在该州的全面巩固。" data-title="Byron Donalds 赢得佛罗里达州共和党州长提名" data-date="08-20" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 国际政治</span>
