@@ -4,13 +4,13 @@ title: 热点新闻
 ---
 
 <h1>📰 热点新闻速览</h1>
-<p class="page-subtitle">每日自动聚合 · 英超与五大联赛焦点 · 科技前沿 · 宏观财经 · 国际时政（支持频道即时过滤与鼠标悬浮即览）</p>
+<p class="page-subtitle">每日自动聚合 · 英超与五大联赛焦点 · 科技前沿 · 国际时政（财经资讯已合并至独立「📈 财经」板块）</p>
 
 <div class="news-meta-bar">
   <span class="news-meta-item">⚽ 足球与英超</span>
   <span class="news-meta-item">🤖 科技 & AI</span>
-  <span class="news-meta-item">💰 宏观财经</span>
   <span class="news-meta-item">🏛️ 时政国际</span>
+  <a href="{{ "/finance" | relative_url }}" class="news-meta-item" style="color: var(--color-primary); font-weight: 700; text-decoration: none;">📈 前往股票财经专区 →</a>
   <span class="news-meta-item">🕐 每日更新</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
 </div>
@@ -29,11 +29,11 @@ title: 热点新闻
   <a href="{{ "/archive" | relative_url }}" class="archive-chip archive-chip-more">📁 历史档案室 →</a>
 </div>
 
-<!-- 顶部分类频道切换 Tab 栏 (各大板块数量精准平衡：各 6 篇) -->
+<!-- 顶部分类频道切换 Tab 栏 (已将财经移至独立专区，聚焦三大综合主力频道) -->
 <div class="news-channel-bar">
   <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
     <span>🌟 全部动态</span>
-    <span class="channel-count">24</span>
+    <span class="channel-count">18</span>
   </button>
   <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
     <span>⚽ 英超与足球风云</span>
@@ -43,14 +43,13 @@ title: 热点新闻
     <span>🤖 科技 & AI</span>
     <span class="channel-count">6</span>
   </button>
-  <button class="channel-btn" onclick="filterNewsChannel('caijing', this)">
-    <span>💰 财经与宏观</span>
-    <span class="channel-count">6</span>
-  </button>
   <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
     <span>🏛️ 时政与国际</span>
     <span class="channel-count">6</span>
   </button>
+  <a href="{{ "/finance" | relative_url }}" class="channel-btn" style="color: var(--color-primary); font-weight: 700; text-decoration: none;">
+    <span>📈 股票财经专区 →</span>
+  </a>
   <button class="channel-btn" onclick="filterNewsChannel('source', this)">
     <span>🌐 媒体信源</span>
   </button>
@@ -80,19 +79,19 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">Reijnders leaves Man City for Al-Qadsiah in £52m deal (曼城中场5200万镑转战沙特)</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad" target="_blank" rel="noopener" data-cat="keji" data-summary="【大模型竞逐深度解析】中美在先进生成式人工智能领域的技术竞争已从模型参数规模转向算力集群能效与实体工业落地，专家推演未来全球科技生态的三种可能演化结局。" data-title="中美「AI 算力与大模型竞逐」：从参数规模到工业落地" data-date="08-20" data-source="BBC 中文">
+    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/cn5n9kqd5vvo/trad" target="_blank" rel="noopener" data-cat="keji" data-summary="【大模型竞逐深度解析】中美在先进生成式人工智能领域的技术竞争已从模型参数规模转向算力集群能效与实体工业落地，专家推演未来全球科技生态的三种可能演化格局。" data-title="中美「AI 算力与大模型竞逐」：从参数规模到工业落地" data-date="08-20" data-source="BBC 中文">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
         <span class="source-badge source-bbc">🌐 BBC 中文</span>
       </div>
       <p class="hero-sub-title">中美「AI 算力与大模型竞逐」：从参数规模到工业落地</p>
     </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/cj/2026/08-19/10680030.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【汇率宏观分析】中国外汇交易中心公布人民币对美元汇率中间价报6.7854，调升51个基点。国内多项宏观稳增长政策落地见效，制造业景气度持续回暖，汇率在合理均衡水平上保持基本稳定具备坚实支撑。" data-title="人民币对美元中间价连续稳健回升，多项利好支撑资产韧性" data-date="08-20" data-source="中国新闻网(滚动)">
+    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/c70glkrgd1eo/trad" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【各界送别】原国务院总理朱镕基同志送别仪式在八宝山革命公墓举行，各界深切缅怀其在分税制改革与推动中国成功加入世贸组织中的历史性贡献。" data-title="朱鎔基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩" data-date="08-20" data-source="BBC 中文">
       <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-caijing">💰 宏观财经</span>
-        <span class="source-badge">🌐 中国新闻网</span>
+        <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+        <span class="source-badge source-bbc">🌐 BBC 中文</span>
       </div>
-      <p class="hero-sub-title">人民币对美元中间价连续稳健回升，多项利好支撑资产韧性</p>
+      <p class="hero-sub-title">朱鎔基同志送别仪式在京举行：各界缅怀改革开放重大历史功绩</p>
     </a>
   </div>
 </div>
@@ -188,52 +187,7 @@ title: 热点新闻
         </a>
   </div>
 
-  <!-- 💰 3. 宏观经济 & 资本市场 (精选 6 篇) -->
-  <div class="news-category">
-    <div class="news-category-header">
-      <span class="category-flag">💰</span>
-      <span class="news-category-title">宏观经济 & 资本市场</span>
-      <span class="news-category-count">6 条</span>
-    </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/08-19/10680030.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【汇率数据】人民币对美元汇率中间价报6.7854，调升51个基点，保持连续稳健双向波动走势，国内制造业韧性与宏观调控工具为汇率稳定提供有力支撑。" data-title="8月19日人民币对美元中间价报6.7854 上调51个基点" data-date="08-20" data-source="中国新闻网(滚动)">
-          <span class="news-cat-tag cat-caijing">💰 汇率走势</span>
-          <span class="source-badge">🌐 中国新闻网</span>
-          <span class="news-item-date">08-20</span>
-          <span class="news-item-title">8月19日人民币对美元中间价报6.7854 上调51个基点</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/08-19/10680034.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【A股盘面】A股早盘核心指数震荡调整，红利高股息板块防御属性凸显，机构建议关注财政货币协同发力带来的结构性投资机会与流动性改善。" data-title="A股开盘：超4300只个股飘绿，三大指数集体低开" data-date="08-20" data-source="中国新闻网(滚动)">
-          <span class="news-cat-tag cat-caijing">💰 证券市场</span>
-          <span class="source-badge">🌐 中国新闻网</span>
-          <span class="news-item-date">08-20</span>
-          <span class="news-item-title">A股开盘：超4300只个股飘绿，三大指数集体低开</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="【美加经贸】美加双边关键矿物与大宗商品关税截止期临近，双方经贸代表就汽车供应链整合、铝钢配额与关税豁免展开最后阶段高层闭门斡旋。" data-title="美加贸易谈判进入倒计时：关键矿物与关税豁免成博弈焦点" data-date="08-20" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 国际贸易</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">08-20</span>
-          <span class="news-item-title">美加贸易谈判进入倒计时：关键矿物与关税豁免成博弈焦点</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/08-18/10679394.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【清洁能源基建】田湾核电7号机组装料作业全面完成，正式进入带核调试阶段，将为长三角区域绿色低碳转型与迎峰度夏电力保供注入强劲清洁动能。" data-title="田湾核电7号机组装料完成 正式进入带核调试关键阶段" data-date="08-20" data-source="中国新闻网(财经)">
-          <span class="news-cat-tag cat-caijing">💰 产业经济</span>
-          <span class="source-badge">🌐 中国新闻网</span>
-          <span class="news-item-date">08-20</span>
-          <span class="news-item-title">田湾核电7号机组装料完成 正式进入带核调试关键阶段</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/08-18/10679389.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【航运与供应链】受红海局势与苏伊士运河通行限制影响，全球核心集装箱航线即期运费高位震荡，跨国制造企业积极通过中欧班列与多式联运优化供应链韧性。" data-title="全球航运干线运费高位震荡：制造外贸企业加速多元化物流布局" data-date="08-20" data-source="中国新闻网(财经)">
-          <span class="news-cat-tag cat-caijing">💰 供应链</span>
-          <span class="source-badge">🌐 中国新闻网</span>
-          <span class="news-item-date">08-20</span>
-          <span class="news-item-title">全球航运干线运费高位震荡：制造外贸企业加速多元化物流布局</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c36d2rezx7lo/trad" target="_blank" rel="noopener" data-cat="caijing" data-summary="【法务风控】在当前宏观经济结构深度调整背景下，涉企法律服务从传统的诉讼主导全面转向破产重整防范、合规体系建设与跨境涉税风控。" data-title="宏观经济转型与法治合规：企业重组风控与破产重整新趋势" data-date="08-20" data-source="BBC 中文">
-          <span class="news-cat-tag cat-caijing">💰 商业合规</span>
-          <span class="source-badge">🌐 BBC 中文</span>
-          <span class="news-item-date">08-20</span>
-          <span class="news-item-title">宏观经济转型与法治合规：企业重组风控与破产重整新趋势</span>
-        </a>
-  </div>
-
-  <!-- 🏛️ 4. 时政要闻 & 国际动态 (精选 6 篇) -->
+  <!-- 🏛️ 3. 时政要闻 & 国际动态 (精选 6 篇) -->
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
@@ -277,6 +231,20 @@ title: 热点新闻
           <span class="news-item-title">重大历史文献与时代精神传承：文献编撰与国家记忆脉络</span>
         </a>
   </div>
+</div>
+
+<!-- 底部前往财经板块的导流 Banner -->
+<div style="margin: 36px 0 20px; padding: 20px; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-md); display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
+  <div>
+    <h3 style="margin: 0 0 6px; font-size: 16px; color: var(--color-heading); display: flex; align-items: center; gap: 6px;">
+      <span>📈 寻找股票大盘行情与宏观财经研报？</span>
+    </h3>
+    <p style="margin: 0; font-size: 13px; color: var(--color-muted);">全球股指行情快照、核心赛道主力资金流向与每日财经深度研报已全面移至专属大板块。</p>
+  </div>
+  <a href="{{ "/finance" | relative_url }}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; font-size: 13.5px; white-space: nowrap;">
+    <span>进入财经板块看板</span>
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+  </a>
 </div>
 
 ---
