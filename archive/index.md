@@ -7,9 +7,20 @@ title: 新闻历史档案室
 <p class="page-subtitle">每日热点自动归档 · 往期资讯回溯 · <a href="{{ site.url }}/news" class="archive-back-link">← 返回今日最新新闻</a></p>
 
 <div class="archive-timeline-grid">
+  <a href="{{ site.url }}/archive/news-2026-08-29" class="archive-day-card">
+    <div class="archive-day-header">
+      <span class="archive-day-date">📅 2026-08-29 (今日)</span>
+      <span class="archive-day-count">每日热点速览</span>
+    </div>
+    <p class="archive-day-headline">点击进入查看该日聚合的国内外权威要闻、深度事件简述与信源回顾。</p>
+    <div class="archive-day-footer">
+      <span>9 个国内外权威信源</span>
+      <span>进入阅读 →</span>
+    </div>
+  </a>
   <a href="{{ site.url }}/archive/news-2026-08-28" class="archive-day-card">
     <div class="archive-day-header">
-      <span class="archive-day-date">📅 2026-08-28 (今日)</span>
+      <span class="archive-day-date">📅 2026-08-28</span>
       <span class="archive-day-count">每日热点速览</span>
     </div>
     <p class="archive-day-headline">点击进入查看该日聚合的国内外权威要闻、深度事件简述与信源回顾。</p>
