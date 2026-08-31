@@ -145,7 +145,7 @@
         @keyframes spin {
             to { transform: rotate(360deg); }
         }
-        #auto-rotate-btn {
+        .tool-btn {
             background: #21262d;
             color: #c9d1d9;
             border: 1px solid #30363d;
@@ -155,11 +155,11 @@
             cursor: pointer;
             margin-left: 8px;
         }
-        #auto-rotate-btn:hover {
+        .tool-btn:hover {
             border-color: #58a6ff;
             color: #58a6ff;
         }
-        #auto-rotate-btn.active {
+        .tool-btn.active {
             background: #1f6feb;
             border-color: #1f6feb;
             color: white;
@@ -176,7 +176,8 @@
             <select id="model-select">
                 <option>加载中...</option>
             </select>
-            <button id="auto-rotate-btn">自动旋转</button>
+            <button id="flatten-btn" class="tool-btn">平放</button>
+            <button id="auto-rotate-btn" class="tool-btn">自动旋转</button>
         </div>
     </div>
 
@@ -215,11 +216,9 @@
         import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
         import { STLLoader } from 'three/addons/loaders/STLLoader.js';
 
-        // 全局变量
         let allModels = [];
         let currentMesh = null;
 
-        // 场景设置
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x0d1117);
@@ -238,7 +237,6 @@
         renderer.shadowMap.enabled = true;
         container.appendChild(renderer.domElement);
 
-        // 控制器（拓竹风格操作）
         const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.dampingFactor = 0.05;
@@ -250,7 +248,6 @@
             RIGHT: THREE.MOUSE.PAN
         };
 
-        // 灯光
         const ambientLight = new THREE.AmbientLight(0xffffff, 0.4);
         scene.add(ambientLight);
 
@@ -263,20 +260,29 @@
         directionalLight2.position.set(-100, 50, -100);
         scene.add(directionalLight2);
 
-        // 网格地面
         const gridHelper = new THREE.GridHelper(500, 50, 0x30363d, 0x21262d);
         scene.add(gridHelper);
 
         const loader = new STLLoader();
 
-        // 格式化文件大小
         function formatSize(bytes) {
             if (bytes < 1024) return bytes + ' B';
             if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
             return (bytes / (1024 * 1024)).toFixed(2) + ' MB';
         }
 
-        // 加载模型
+        function centerMesh(mesh) {
+            mesh.geometry.computeBoundingBox();
+            const center = mesh.geometry.boundingBox.getCenter(new THREE.Vector3());
+            mesh.position.sub(center);
+        }
+
+        function resetCamera() {
+            camera.position.set(100, 100, 150);
+            controls.target.set(0, 0, 0);
+            controls.update();
+        }
+
         function loadModel(model) {
             document.getElementById('loading').style.display = 'block';
             document.getElementById('model-name').textContent = model.name;
@@ -309,19 +315,15 @@
                     currentMesh.receiveShadow = true;
 
                     geometry.computeBoundingBox();
-                    const center = geometry.boundingBox.getCenter(new THREE.Vector3());
                     const size = geometry.boundingBox.getSize(new THREE.Vector3());
                     const maxDim = Math.max(size.x, size.y, size.z);
                     const scale = 100 / maxDim;
 
-                    currentMesh.position.sub(center);
+                    centerMesh(currentMesh);
                     currentMesh.scale.setScalar(scale);
                     scene.add(currentMesh);
 
-                    camera.position.set(100, 100, 150);
-                    controls.target.set(0, 0, 0);
-                    controls.update();
-
+                    resetCamera();
                     document.getElementById('loading').style.display = 'none';
                 },
                 undefined,
@@ -332,7 +334,42 @@
             );
         }
 
-        // 初始化：加载模型清单
+        // 平放模型：找到最薄的维度，将其旋转到 Y 轴（垂直地面）
+        function flattenModel() {
+            if (!currentMesh) return;
+
+            const geometry = currentMesh.geometry;
+            geometry.computeBoundingBox();
+            const size = geometry.boundingBox.getSize(new THREE.Vector3());
+
+            // 找到最小的维度（厚度方向）
+            const dims = [
+                { axis: 'x', value: size.x },
+                { axis: 'y', value: size.y },
+                { axis: 'z', value: size.z }
+            ];
+            dims.sort((a, b) => a.value - b.value);
+            const minAxis = dims[0].axis;
+
+            let rotated = false;
+            if (minAxis === 'x') {
+                // x 是厚度，绕 Z 轴旋转 90 度，让 x 转到 y 方向
+                geometry.rotateZ(Math.PI / 2);
+                rotated = true;
+            } else if (minAxis === 'z') {
+                // z 是厚度，绕 X 轴旋转 90 度，让 z 转到 y 方向
+                geometry.rotateX(Math.PI / 2);
+                rotated = true;
+            }
+
+            if (rotated) {
+                geometry.computeVertexNormals();
+                geometry.computeBoundingBox();
+                centerMesh(currentMesh);
+                resetCamera();
+            }
+        }
+
         async function init() {
             try {
                 const response = await fetch('models.json');
@@ -342,7 +379,6 @@
                 const select = document.getElementById('model-select');
                 select.innerHTML = '';
 
-                // 按分类分组
                 for (const [category, models] of Object.entries(data.categories)) {
                     const optgroup = document.createElement('optgroup');
                     optgroup.label = category;
@@ -358,10 +394,12 @@
 
                 document.getElementById('model-count').textContent = `共 ${allModels.length} 个模型`;
 
-                // 模型选择事件
                 select.addEventListener('change', function (e) {
                     loadModel(allModels[parseInt(e.target.value)]);
                 });
+
+                // 平放按钮
+                document.getElementById('flatten-btn').addEventListener('click', flattenModel);
 
                 // 自动旋转按钮
                 document.getElementById('auto-rotate-btn').addEventListener('click', function () {
@@ -369,7 +407,6 @@
                     this.classList.toggle('active', controls.autoRotate);
                 });
 
-                // 加载第一个模型
                 if (allModels.length > 0) {
                     select.value = '0';
                     loadModel(allModels[0]);
@@ -380,14 +417,12 @@
             }
         }
 
-        // 窗口大小调整
         window.addEventListener('resize', function () {
             camera.aspect = container.clientWidth / container.clientHeight;
             camera.updateProjectionMatrix();
             renderer.setSize(container.clientWidth, container.clientHeight);
         });
 
-        // 动画循环
         function animate() {
             requestAnimationFrame(animate);
             controls.update();
@@ -395,7 +430,6 @@
         }
         animate();
 
-        // 启动
         init();
     </script>
 </body>
