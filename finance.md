@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7212</span>
+      <span class="ticker-price ticker-down">6.7211</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,493.90</span>
-      <span class="ticker-change up">▲ +0.06%</span>
+      <span class="ticker-price ticker-up">$4,494.32</span>
+      <span class="ticker-change up">▲ +0.07%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -222,4 +222,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-08-31 21:23 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-08-31 21:24 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
