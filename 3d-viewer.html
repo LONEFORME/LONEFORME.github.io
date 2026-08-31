@@ -295,13 +295,12 @@
         }
 
         function centerMesh(mesh) {
-            mesh.geometry.computeBoundingBox();
-            const center = mesh.geometry.boundingBox.getCenter(new THREE.Vector3());
-            mesh.position.sub(center);
-            // 让模型底面贴在网格上（y=0）
-            mesh.geometry.computeBoundingBox();
-            const minY = mesh.geometry.boundingBox.min.y;
-            mesh.position.y -= minY;
+            mesh.updateMatrixWorld();
+            const box = new THREE.Box3().setFromObject(mesh);
+            const center = box.getCenter(new THREE.Vector3());
+            mesh.position.x -= center.x;
+            mesh.position.z -= center.z;
+            mesh.position.y -= box.min.y;
         }
 
         function resetCamera() {
@@ -347,8 +346,8 @@
                     const maxDim = Math.max(size.x, size.y, size.z);
                     const scale = 100 / maxDim;
 
-                    centerMesh(currentMesh);
                     currentMesh.scale.setScalar(scale);
+                    centerMesh(currentMesh);
                     scene.add(currentMesh);
 
                     resetCamera();
