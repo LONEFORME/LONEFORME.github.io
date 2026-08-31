@@ -11,77 +11,41 @@ title: 项目
     <span class="section-icon-box">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><circle cx="12" cy="12" r="2"/></svg>
     </span>
-    <h2>ROS2 激光雷达驱动</h2>
+    <h2>N100 · ROS2 激光雷达 SLAM 工作空间</h2>
   </div>
+  <p class="group-desc">整合宇树 L1（3D）与镭神 N10P（2D）双雷达，配套 Point-LIO 与 SLAM Toolbox 双建图方案，含自研障碍物检测与位姿优化节点，即拿即用的机器人感知与导航参考实现。</p>
 
   <div class="card-grid">
     <div class="card">
       <div class="card-icon-box" style="--icon-color: #00ff88; --icon-glow: rgba(0,255,136,0.25);">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><circle cx="12" cy="12" r="2"/></svg>
       </div>
-      <h3>宇树 L1 系列</h3>
-      <p>Unitree L1 激光雷达的 ROS2 封装驱动。</p>
+      <h3>宇树 L1 + Point-LIO（3D）</h3>
+      <p>Unitree L1 3D 激光雷达 + Point-LIO 紧耦合里程计，实时 6-DoF 位姿估计与稠密点云建图。</p>
       <div class="card-details">
-        • 点云发布与可视化<br>
-        • IMU 数据融合<br>
-        • 多平台支持（x86_64 / aarch64）<br>
-        • 自动启动脚本
+        • 点云发布 + IMU 数据融合<br>
+        • 6-DoF 实时里程计，3D PCD 地图输出<br>
+        • 坐标零点校准 + 静止漂移抑制<br>
+        • x86_64 / aarch64 双平台支持
       </div>
-      <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
+      <a href="{{ "docs/unitree_l1" | relative_url }}" class="card-link">查看文档</a>
+      <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">GitHub</a>
     </div>
 
     <div class="card">
       <div class="card-icon-box" style="--icon-color: #00d4ff; --icon-glow: rgba(0,212,255,0.25);">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>
       </div>
-      <h3>镭神 N10P</h3>
-      <p>Leishen 单线激光雷达 ROS2 驱动，适用于室内导航与建图。</p>
+      <h3>镭神 N10P + SLAM Toolbox（2D）</h3>
+      <p>Leishen N10P 单线激光雷达 + SLAM Toolbox，2D 栅格地图建图，配套自研障碍物检测与位姿滤波。</p>
       <div class="card-details">
-        • UART 串口通信<br>
-        • SLAM Toolbox 集成<br>
-        • 障碍物检测节点
-      </div>
-      <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
-    </div>
-  </div>
-</div>
-
-<div class="project-group">
-  <div class="section-title">
-    <span class="section-icon-box">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21"/><line x1="9" y1="3" x2="9" y2="18"/><line x1="15" y1="6" x2="15" y2="21"/></svg>
-    </span>
-    <h2>SLAM 建图</h2>
-  </div>
-
-  <div class="card-grid">
-    <div class="card">
-      <div class="card-icon-box" style="--icon-color: #10b981; --icon-glow: rgba(16,185,129,0.25);">
-        <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>
-      </div>
-      <h3>Point-LIO + Unitree</h3>
-      <p>基于 Point-LIO 框架的实时激光雷达-惯性里程计，适配宇树 L 系列。</p>
-      <div class="card-details">
-        • 实时 6-DoF 位姿估计<br>
-        • 3D 点云地图构建<br>
-        • IMU 紧耦合<br>
-        • 坐标输出优化 + 启动脚本
-      </div>
-      <a href="{{ "docs/unitree_l1" | relative_url }}" class="card-link">查看文档</a>
-    </div>
-
-    <div class="card">
-      <div class="card-icon-box" style="--icon-color: #00d4ff; --icon-glow: rgba(0,212,255,0.25);">
-        <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21"/><line x1="9" y1="3" x2="9" y2="18"/><line x1="15" y1="6" x2="15" y2="21"/></svg>
-      </div>
-      <h3>SLAM Toolbox + 镭神</h3>
-      <p>基于 SLAM Toolbox 的 2D 激光 SLAM 方案。</p>
-      <div class="card-details">
-        • 2D 栅格地图构建<br>
-        • 地图保存与复用<br>
-        • 障碍物检测节点集成
+        • UART 串口驱动，驱动 bug 修复（数组波动）<br>
+        • 2D 栅格地图 + 回环检测 + 地图保存<br>
+        • 障碍物检测：BFS 聚类 + PCA 墙识别 + 多帧确认<br>
+        • 位姿优化：卡尔曼滤波 + 静止检测 + 未来位置预测
       </div>
       <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">查看文档</a>
+      <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">GitHub</a>
     </div>
   </div>
 </div>
