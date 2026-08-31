@@ -176,7 +176,7 @@
             <select id="model-select">
                 <option>加载中...</option>
             </select>
-            <button id="auto-rotate-btn" class="active">自动旋转</button>
+            <button id="auto-rotate-btn">自动旋转</button>
         </div>
     </div>
 
@@ -242,7 +242,7 @@
         const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.dampingFactor = 0.05;
-        controls.autoRotate = true;
+        controls.autoRotate = false;
         controls.autoRotateSpeed = 2.0;
         controls.mouseButtons = {
             LEFT: THREE.MOUSE.ROTATE,
