@@ -275,11 +275,28 @@
         const directionalLight1 = new THREE.DirectionalLight(0xffffff, 0.8);
         directionalLight1.position.set(100, 100, 100);
         directionalLight1.castShadow = true;
+        directionalLight1.shadow.mapSize.width = 2048;
+        directionalLight1.shadow.mapSize.height = 2048;
+        directionalLight1.shadow.camera.near = 0.5;
+        directionalLight1.shadow.camera.far = 500;
+        directionalLight1.shadow.camera.left = -200;
+        directionalLight1.shadow.camera.right = 200;
+        directionalLight1.shadow.camera.top = 200;
+        directionalLight1.shadow.camera.bottom = -200;
         scene.add(directionalLight1);
 
         const directionalLight2 = new THREE.DirectionalLight(0x58a6ff, 0.3);
         directionalLight2.position.set(-100, 50, -100);
         scene.add(directionalLight2);
+
+        // 透明阴影接收地面
+        const shadowPlane = new THREE.Mesh(
+            new THREE.PlaneGeometry(500, 500),
+            new THREE.ShadowMaterial({ opacity: 0.3 })
+        );
+        shadowPlane.rotation.x = -Math.PI / 2;
+        shadowPlane.receiveShadow = true;
+        scene.add(shadowPlane);
 
         const gridHelper = new THREE.GridHelper(500, 50, 0x30363d, 0x21262d);
         scene.add(gridHelper);
