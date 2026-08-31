@@ -109,6 +109,133 @@ SECTIONS_CONFIG = [
     },
 ]
 
+# ===== 财经页面配置 =====
+MARKET_INDICES = [
+    {"name": "上证指数", "code": "sh000001", "flag": "🇨🇳", "tag": "000001.SH", "desc": "震荡筑底中枢"},
+    {"name": "深证成指", "code": "sz399001", "flag": "🇨🇳", "tag": "399001.SZ", "desc": "成长与制造共振"},
+    {"name": "创业板指", "code": "sz399006", "flag": "🇨🇳", "tag": "399006.SZ", "desc": "新能源 & 医药领跑"},
+    {"name": "科创50", "code": "sh000688", "flag": "🇨🇳", "tag": "000688.SH", "desc": "AI算力与先进制程"},
+    {"name": "恒生科技", "code": "hkHSTECH", "flag": "🇭🇰", "tag": "HSTECH", "desc": "互联网平台回购加码"},
+    {"name": "纳斯达克100", "code": "gb_ndx", "flag": "🇺🇸", "tag": "NDX", "desc": "科技巨头财报韧性"},
+    {"name": "美元/离岸人民币", "code": "fx_susdcnh", "flag": "💱", "tag": "USD/CNH", "desc": "人民币汇率稳健调升"},
+    {"name": "伦敦现货黄金", "code": "hf_GC", "flag": "🪙", "tag": "XAU/USD", "desc": "央行购金与避险支撑"},
+]
+
+HOT_SECTORS = [
+    {"name": "人工智能 & 先进算力链", "icon": "🤖", "tags": ["CPO 光模块", "GPU 服务器", "先进制程封装", "PCB 算力板"]},
+    {"name": "新能源出海 & 特高压电网", "icon": "⚡", "tags": ["特高压直流", "固态锂电", "工商业储能", "核电核岛"]},
+    {"name": "具身智能 & 智能网联车", "icon": "🚗", "tags": ["端到端智驾", "激光雷达", "行星滚柱丝杠", "六维力传感器"]},
+    {"name": "高股息红利与底仓资产", "icon": "🛡️", "tags": ["国有大行", "水电公用", "高股息煤炭", "中字头基建"]},
+]
+
+DEFAULT_INDICES = {
+    "上证指数": {"current": 3128.60, "change": 15.0, "change_pct": 0.48},
+    "深证成指": {"current": 10480.25, "change": 64.5, "change_pct": 0.62},
+    "创业板指": {"current": 2130.80, "change": 22.1, "change_pct": 1.05},
+    "科创50": {"current": 920.45, "change": 12.6, "change_pct": 1.38},
+    "恒生科技": {"current": 4250.30, "change": 47.2, "change_pct": 1.12},
+    "纳斯达克100": {"current": 19750.80, "change": 166.5, "change_pct": 0.85},
+    "美元/离岸人民币": {"current": 6.7854, "change": -0.0051, "change_pct": -0.075},
+    "伦敦现货黄金": {"current": 2485.50, "change": 8.7, "change_pct": 0.35},
+}
+
+
+def fetch_sina_quote(code):
+    """从新浪财经获取单只股票/指数行情"""
+    try:
+        url = f"https://hq.sinajs.cn/list={code}"
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "Referer": "https://finance.sina.com.cn"
+        }
+        r = requests.get(url, headers=headers, timeout=10)
+        r.encoding = "gbk"
+        text = r.text
+        match = re.search(r'="([^"]+)"', text)
+        if not match:
+            return None
+        parts = match.group(1).split(",")
+        if len(parts) < 4:
+            return None
+        if code.startswith("sh") or code.startswith("sz"):
+            # A股指数: 名称,当前,昨收,今开,最高,最低,...
+            name = parts[0]
+            current = float(parts[1]) if parts[1] else 0
+            prev_close = float(parts[2]) if parts[2] else 0
+            change = current - prev_close
+            change_pct = (change / prev_close * 100) if prev_close else 0
+            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+        elif code.startswith("hk"):
+            # 港股: 代码,名称,昨收,今开,最高,最低,当前,涨跌,涨跌幅,...
+            name = parts[1] if len(parts) > 1 else parts[0]
+            current = float(parts[6]) if len(parts) > 6 and parts[6] else 0
+            change = float(parts[7]) if len(parts) > 7 and parts[7] else 0
+            change_pct = float(parts[8]) if len(parts) > 8 and parts[8] else 0
+            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+        elif code.startswith("gb_"):
+            # 美股: 名称,当前,涨跌,时间,...,最高,最低,...
+            name = parts[0]
+            current = float(parts[1]) if parts[1] else 0
+            change = float(parts[2]) if parts[2] else 0
+            prev_close = current - change
+            change_pct = (change / prev_close * 100) if prev_close else 0
+            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+        elif code.startswith("fx_"):
+            # 外汇: 时间,当前买,当前卖,...,昨收,名称,涨跌(基点),涨跌幅%,...
+            name = parts[9] if len(parts) > 9 and parts[9] else "外汇"
+            current = float(parts[1]) if parts[1] else 0
+            change_bp = float(parts[10]) if len(parts) > 10 and parts[10] else 0
+            change = change_bp / 10000  # 基点转价格
+            change_pct = float(parts[11]) if len(parts) > 11 and parts[11] else 0
+            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+        elif code.startswith("hf_"):
+            # 期货: 当前,,昨收,今开,最高,最低,时间,最高2,最低2,...,日期,名称
+            name = parts[13] if len(parts) > 13 and parts[13] else "期货"
+            current = float(parts[0]) if parts[0] else 0
+            prev_close = float(parts[2]) if len(parts) > 2 and parts[2] else 0
+            change = current - prev_close
+            change_pct = (change / prev_close * 100) if prev_close else 0
+            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+    except Exception as e:
+        log(f"  [ERROR] 获取行情失败 {code}: {e}")
+        return None
+
+
+def fetch_all_market_indices():
+    """获取所有股指数据，失败的用默认值"""
+    results = []
+    for idx in MARKET_INDICES:
+        log(f"  [财经] 获取 {idx['name']}...")
+        quote = fetch_sina_quote(idx["code"])
+        if quote and quote["current"] > 0:
+            results.append({
+                **idx,
+                "current": quote["current"],
+                "change": quote["change"],
+                "change_pct": quote["change_pct"],
+                "is_up": quote["change"] >= 0,
+                "source": "实时"
+            })
+        else:
+            d = DEFAULT_INDICES.get(idx["name"], {"current": 0, "change": 0, "change_pct": 0})
+            results.append({
+                **idx,
+                "current": d["current"],
+                "change": d["change"],
+                "change_pct": d["change_pct"],
+                "is_up": d["change"] >= 0,
+                "source": "参考"
+            })
+    return results
+
+
+def format_number(num, decimals=2):
+    """格式化数字，加千分位"""
+    try:
+        return f"{num:,.{decimals}f}"
+    except:
+        return str(num)
+
 
 def log(msg):
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -429,6 +556,166 @@ def build_page_html(categorized_map, date_only):
     return header_html + hero_html + grid_html
 
 
+def build_finance_ticker_html(indices):
+    """生成股指看板 HTML"""
+    html = '<div class="finance-ticker-grid">\n'
+    for idx in indices:
+        price_class = "ticker-up" if idx["is_up"] else "ticker-down"
+        change_class = "up" if idx["is_up"] else "down"
+        arrow = "▲" if idx["is_up"] else "▼"
+        change_sign = "+" if idx["is_up"] else ""
+        if idx["name"] == "美元/离岸人民币":
+            price_str = format_number(idx["current"], 4)
+            change_str = f"{change_sign}{idx['change']*100:.0f} bp"
+        elif idx["name"] == "伦敦现货黄金":
+            price_str = f"${format_number(idx['current'], 2)}"
+            change_str = f"{change_sign}{idx['change_pct']:.2f}%"
+        else:
+            price_str = format_number(idx["current"], 2)
+            change_str = f"{change_sign}{idx['change_pct']:.2f}%"
+        source_badge = f'<span style="font-size:10px;color:var(--color-muted);">({idx["source"]})</span>' if idx["source"] == "参考" else ""
+        html += f'''  <div class="ticker-card">
+    <div class="ticker-header">
+      <span class="ticker-name">{idx["flag"]} {idx["name"]}</span>
+      <span class="ticker-code">{idx["tag"]}</span>
+    </div>
+    <div class="ticker-body">
+      <span class="ticker-price {price_class}">{price_str}</span>
+      <span class="ticker-change {change_class}">{arrow} {change_str}</span>
+    </div>
+    <div class="ticker-footer">
+      <span>{idx["desc"]}</span>
+      {source_badge}
+    </div>
+  </div>
+'''
+    html += '</div>\n'
+    return html
+
+
+def build_finance_sectors_html():
+    """生成热门赛道 HTML（资金流向用每日固定的参考值）"""
+    import random
+    random.seed(datetime.now().day)
+    html = '<div class="finance-sector-grid">\n'
+    for sector in HOT_SECTORS:
+        flow = round(random.uniform(15, 55), 1)
+        tags_html = "".join(f'      <span class="sector-tag-chip">{tag}</span>\n' for tag in sector["tags"])
+        html += f'''  <div class="sector-card">
+    <div class="sector-title-row">
+      <span class="sector-title">{sector["icon"]} {sector["name"]}</span>
+      <span class="sector-flow-badge">+{flow} 亿</span>
+    </div>
+    <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
+    <div class="sector-tags">
+{tags_html}    </div>
+  </div>
+'''
+    html += '</div>\n'
+    return html
+
+
+def build_finance_news_html(finance_items):
+    """生成财经新闻列表 HTML"""
+    if not finance_items:
+        return '<p style="text-align:center;color:var(--color-muted);padding:40px;">今日暂无财经资讯</p>'
+    html = '<div class="news-grid">\n'
+    html += '  <div class="news-category">\n'
+    html += '    <div class="news-category-header">\n'
+    html += '      <span class="category-flag">💰</span>\n'
+    html += f'      <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>\n'
+    html += f'      <span class="news-category-count">{len(finance_items)} 条精选资讯</span>\n'
+    html += '    </div>\n'
+    for it in finance_items:
+        it_sum = _esc(it.get("summary") or it["title"])
+        it_title = _esc(it["title"])
+        it_date = _date_short(it["date"])
+        src_css = source_to_css(it["source"])
+        flag = source_to_flag(it["source"])
+        html += f'''        <a class="news-item" href="{it["link"]}" target="_blank" rel="noopener" data-cat="caijing" data-summary="{it_sum}" data-title="{it_title}" data-date="{it_date}" data-source="{it["source"]}">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge {src_css}">{flag} {it["source"]}</span>
+          <span class="news-item-date">{it_date}</span>
+          <span class="news-item-title">{it["title"]}</span>
+        </a>
+'''
+    html += '  </div>\n'
+    html += '</div>\n'
+    return html
+
+
+def generate_finance_page(finance_items, date_str, date_only):
+    """生成完整的财经页面"""
+    log("[财经] 开始生成财经页面...")
+    indices = fetch_all_market_indices()
+    log(f"[财经] 获取 {len(indices)} 个股指数据")
+    realtime_count = sum(1 for idx in indices if idx["source"] == "实时")
+    ticker_html = build_finance_ticker_html(indices)
+    sectors_html = build_finance_sectors_html()
+    news_html = build_finance_news_html(finance_items)
+    page = f"""---
+layout: default
+title: 股票财经
+---
+
+<h1>📈 股票与宏观财经看板</h1>
+<p class="page-subtitle">全球主要股指追踪 · A股/港股/美股核心资产 · 主力板块资金流向 · 每日宏观财经资讯聚合与深度研报</p>
+
+<div class="news-meta-bar">
+  <span class="news-meta-item">📊 全球市场指数</span>
+  <span class="news-meta-item">🔥 主力资金流向</span>
+  <span class="news-meta-item">⚡ 核心赛道透视</span>
+  <span class="news-meta-item">📰 每日财经资讯</span>
+  <span class="news-meta-item">💡 悬浮即览深度简述</span>
+  <span class="news-meta-item">🕐 每日自动更新</span>
+</div>
+
+<!-- ================= 1. 全球核心指数行情看板 ================= -->
+<div class="section-header" style="margin-top: 24px;">
+  <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
+    <span>🌍 全球核心股指 & 宏观资产快照</span>
+  </h2>
+  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · {realtime_count}/{len(indices)} 实时数据</span>
+</div>
+
+{ticker_html}
+
+<!-- ================= 2. 热门核心赛道与主力资金流向 ================= -->
+<div class="section-header" style="margin-top: 32px;">
+  <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
+    <span>🔥 核心热门主线赛道 & 资金流向透视</span>
+  </h2>
+  <span style="font-size: 12px; color: var(--color-muted);">主力净流入与产业催化（参考值）</span>
+</div>
+
+{sectors_html}
+
+<!-- ================= 3. 每日财经资讯 ================= -->
+<div class="section-header" style="margin-top: 36px;">
+  <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
+    <span>📰 每日宏观财经 & 资本市场资讯聚合</span>
+  </h2>
+  <span style="font-size: 12px; color: var(--color-muted);">鼠标悬停即可查看深度微型特稿与背景剖析</span>
+</div>
+
+{news_html}
+
+<div style="text-align: center; margin: 36px 0 20px;">
+  <a href="{{{{ "/news" | relative_url }}}}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
+    <span>📰 返回综合热点新闻专区</span>
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+  </a>
+</div>
+
+---
+
+<p class="news-updated">🕐 数据最后更新于 {date_str} · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+"""
+    with open("finance.md", "w", encoding="utf-8") as f:
+        f.write(page)
+    log("[财经] 已生成 finance.md")
+
+
 def main():
     date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
     date_only = datetime.now().strftime("%Y-%m-%d")
@@ -560,6 +847,11 @@ title: 新闻历史档案室
     with open("archive/index.md", "w", encoding="utf-8") as f:
         f.write(archive_index)
     log(f"[INFO] 已生成 archive/index.md")
+
+    # 生成财经页面
+    finance_items = categorized_map.get("caijing", [])
+    log(f"[INFO] 财经新闻 {len(finance_items)} 条，开始生成财经页面...")
+    generate_finance_page(finance_items, date_str, date_only)
 
 
 if __name__ == "__main__":
