@@ -164,6 +164,22 @@
             border-color: #1f6feb;
             color: white;
         }
+        #pick-hint {
+            position: fixed;
+            top: 70px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(31, 111, 235, 0.95);
+            color: white;
+            padding: 8px 20px;
+            border-radius: 8px;
+            font-size: 13px;
+            z-index: 150;
+            display: none;
+        }
+        body.pick-mode #canvas-container {
+            cursor: crosshair;
+        }
     </style>
 </head>
 <body>
@@ -176,10 +192,14 @@
             <select id="model-select">
                 <option>加载中...</option>
             </select>
+            <button id="pick-bottom-btn" class="tool-btn">选择底面</button>
             <button id="flatten-btn" class="tool-btn">平放</button>
+            <button id="reset-pos-btn" class="tool-btn">复位</button>
             <button id="auto-rotate-btn" class="tool-btn">自动旋转</button>
         </div>
     </div>
+
+    <div id="pick-hint">点击模型上的一个面，将其设为底面</div>
 
     <div id="canvas-container"></div>
 
@@ -218,6 +238,7 @@
 
         let allModels = [];
         let currentMesh = null;
+        let pickMode = false;
 
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
@@ -264,6 +285,8 @@
         scene.add(gridHelper);
 
         const loader = new STLLoader();
+        const raycaster = new THREE.Raycaster();
+        const mouse = new THREE.Vector2();
 
         function formatSize(bytes) {
             if (bytes < 1024) return bytes + ' B';
@@ -275,6 +298,10 @@
             mesh.geometry.computeBoundingBox();
             const center = mesh.geometry.boundingBox.getCenter(new THREE.Vector3());
             mesh.position.sub(center);
+            // 让模型底面贴在网格上（y=0）
+            mesh.geometry.computeBoundingBox();
+            const minY = mesh.geometry.boundingBox.min.y;
+            mesh.position.y -= minY;
         }
 
         function resetCamera() {
@@ -289,6 +316,7 @@
             document.getElementById('model-category').textContent = model.category;
             document.getElementById('model-size').textContent = formatSize(model.size);
             document.getElementById('model-file').textContent = model.url.split('/').pop();
+            exitPickMode();
 
             loader.load(
                 model.url,
@@ -334,7 +362,7 @@
             );
         }
 
-        // 平放模型：找到最薄的维度，将其旋转到 Y 轴（垂直地面）
+        // 平放模型：找到最薄的维度，将其旋转到 Y 轴
         function flattenModel() {
             if (!currentMesh) return;
 
@@ -342,7 +370,6 @@
             geometry.computeBoundingBox();
             const size = geometry.boundingBox.getSize(new THREE.Vector3());
 
-            // 找到最小的维度（厚度方向）
             const dims = [
                 { axis: 'x', value: size.x },
                 { axis: 'y', value: size.y },
@@ -353,11 +380,9 @@
 
             let rotated = false;
             if (minAxis === 'x') {
-                // x 是厚度，绕 Z 轴旋转 90 度，让 x 转到 y 方向
                 geometry.rotateZ(Math.PI / 2);
                 rotated = true;
             } else if (minAxis === 'z') {
-                // z 是厚度，绕 X 轴旋转 90 度，让 z 转到 y 方向
                 geometry.rotateX(Math.PI / 2);
                 rotated = true;
             }
@@ -367,6 +392,66 @@
                 geometry.computeBoundingBox();
                 centerMesh(currentMesh);
                 resetCamera();
+            }
+        }
+
+        // 进入选择底面模式
+        function enterPickMode() {
+            if (!currentMesh) return;
+            pickMode = true;
+            controls.enabled = false;
+            document.body.classList.add('pick-mode');
+            document.getElementById('pick-hint').style.display = 'block';
+            document.getElementById('pick-bottom-btn').classList.add('active');
+        }
+
+        function exitPickMode() {
+            pickMode = false;
+            controls.enabled = true;
+            document.body.classList.remove('pick-mode');
+            document.getElementById('pick-hint').style.display = 'none';
+            document.getElementById('pick-bottom-btn').classList.remove('active');
+        }
+
+        // 处理鼠标点击，选择底面
+        function onCanvasClick(event) {
+            if (!pickMode || !currentMesh) return;
+
+            const rect = renderer.domElement.getBoundingClientRect();
+            mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+            mouse.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
+
+            raycaster.setFromCamera(mouse, camera);
+            const intersects = raycaster.intersectObject(currentMesh, false);
+
+            if (intersects.length > 0) {
+                const hit = intersects[0];
+                const geometry = currentMesh.geometry;
+                const faceIndex = hit.faceIndex;
+
+                // 从几何体中获取该面的三个顶点，计算法向量
+                const positions = geometry.attributes.position;
+                const v0 = new THREE.Vector3().fromBufferAttribute(positions, faceIndex * 3);
+                const v1 = new THREE.Vector3().fromBufferAttribute(positions, faceIndex * 3 + 1);
+                const v2 = new THREE.Vector3().fromBufferAttribute(positions, faceIndex * 3 + 2);
+
+                const edge1 = new THREE.Vector3().subVectors(v1, v0);
+                const edge2 = new THREE.Vector3().subVectors(v2, v0);
+                const normal = new THREE.Vector3().crossVectors(edge1, edge2).normalize();
+
+                // 目标方向：朝下 (0, -1, 0)
+                const target = new THREE.Vector3(0, -1, 0);
+
+                // 计算旋转四元数，将 normal 转到 target
+                const quaternion = new THREE.Quaternion().setFromUnitVectors(normal, target);
+                geometry.applyQuaternion(quaternion);
+
+                geometry.computeVertexNormals();
+                geometry.computeBoundingBox();
+                centerMesh(currentMesh);
+                resetCamera();
+
+                exitPickMode();
             }
         }
 
@@ -398,13 +483,40 @@
                     loadModel(allModels[parseInt(e.target.value)]);
                 });
 
+                // 选择底面按钮
+                document.getElementById('pick-bottom-btn').addEventListener('click', function () {
+                    if (pickMode) {
+                        exitPickMode();
+                    } else {
+                        enterPickMode();
+                    }
+                });
+
                 // 平放按钮
                 document.getElementById('flatten-btn').addEventListener('click', flattenModel);
+
+                // 复位按钮
+                document.getElementById('reset-pos-btn').addEventListener('click', function () {
+                    if (currentMesh) {
+                        centerMesh(currentMesh);
+                        resetCamera();
+                    }
+                });
 
                 // 自动旋转按钮
                 document.getElementById('auto-rotate-btn').addEventListener('click', function () {
                     controls.autoRotate = !controls.autoRotate;
                     this.classList.toggle('active', controls.autoRotate);
+                });
+
+                // 画布点击事件（用于选择底面）
+                renderer.domElement.addEventListener('click', onCanvasClick);
+
+                // ESC 退出选择模式
+                document.addEventListener('keydown', function (e) {
+                    if (e.key === 'Escape' && pickMode) {
+                        exitPickMode();
+                    }
                 });
 
                 if (allModels.length > 0) {
