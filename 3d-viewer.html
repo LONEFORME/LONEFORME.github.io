@@ -36,6 +36,14 @@
             font-size: 13px;
             color: #8b949e;
         }
+        #model-count {
+            margin-left: 8px;
+            font-size: 12px;
+            color: #8b949e;
+            background: #21262d;
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
         #model-selector {
             margin-left: auto;
             display: flex;
@@ -55,6 +63,7 @@
             font-size: 13px;
             cursor: pointer;
             outline: none;
+            max-width: 280px;
         }
         #model-select:hover {
             border-color: #58a6ff;
@@ -82,11 +91,15 @@
             font-size: 14px;
             color: #58a6ff;
             margin-bottom: 8px;
+            word-break: break-all;
         }
-        #info-panel p {
+        #info-panel .meta {
             font-size: 12px;
             color: #8b949e;
-            line-height: 1.6;
+            line-height: 1.8;
+        }
+        #info-panel .meta span {
+            color: #c9d1d9;
         }
         #controls-hint {
             position: fixed;
@@ -116,6 +129,7 @@
             font-size: 14px;
             color: #8b949e;
             z-index: 200;
+            text-align: center;
         }
         .spinner {
             display: inline-block;
@@ -156,13 +170,11 @@
     <div id="header">
         <h1>3D 模型预览</h1>
         <span class="subtitle">LONEFORME · 3D 打印模型库</span>
+        <span id="model-count">加载中...</span>
         <div id="model-selector">
             <label for="model-select">选择模型：</label>
             <select id="model-select">
-                <option value="baohuzhao">飞控保护罩</option>
-                <option value="shexiangtou">摄像头支架</option>
-                <option value="xiaochediban">小车底板</option>
-                <option value="jiguangzhijia">激光传感器支架</option>
+                <option>加载中...</option>
             </select>
             <button id="auto-rotate-btn" class="active">自动旋转</button>
         </div>
@@ -175,8 +187,12 @@
     </div>
 
     <div id="info-panel">
-        <h3 id="model-name">飞控保护罩</h3>
-        <p id="model-desc">无人机飞控板保护结构，用于保护飞控板免受碰撞损坏。</p>
+        <h3 id="model-name">-</h3>
+        <div class="meta">
+            分类：<span id="model-category">-</span><br>
+            大小：<span id="model-size">-</span><br>
+            文件：<span id="model-file">-</span>
+        </div>
     </div>
 
     <div id="controls-hint">
@@ -199,36 +215,15 @@
         import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
         import { STLLoader } from 'three/addons/loaders/STLLoader.js';
 
-        // 模型配置
-        const models = {
-            baohuzhao: {
-                name: '飞控保护罩',
-                desc: '无人机飞控板保护结构，用于保护飞控板免受碰撞损坏。',
-                url: 'models/baohuzhao.stl'
-            },
-            shexiangtou: {
-                name: '摄像头支架',
-                desc: '35.9mm 摄像头安装支架，适用于无人机视觉系统。',
-                url: 'models/shexiangtou.stl'
-            },
-            xiaochediban: {
-                name: '小车底板',
-                desc: '二轮小车底盘扩展板，集成电机安装位和扩展接口。',
-                url: 'models/xiaochediban.stl'
-            },
-            jiguangzhijia: {
-                name: '激光传感器支架',
-                desc: '激光定高传感器固定架，用于无人机高度测量。',
-                url: 'models/jiguangzhijia.stl'
-            }
-        };
+        // 全局变量
+        let allModels = [];
+        let currentMesh = null;
 
         // 场景设置
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
         scene.background = new THREE.Color(0x0d1117);
 
-        // 相机
         const camera = new THREE.PerspectiveCamera(
             45,
             container.clientWidth / container.clientHeight,
@@ -237,14 +232,13 @@
         );
         camera.position.set(100, 100, 150);
 
-        // 渲染器
         const renderer = new THREE.WebGLRenderer({ antialias: true });
         renderer.setSize(container.clientWidth, container.clientHeight);
         renderer.setPixelRatio(window.devicePixelRatio);
         renderer.shadowMap.enabled = true;
         container.appendChild(renderer.domElement);
 
-        // 控制器（拓竹风格操作：左键旋转、中键平移、滚轮缩放）
+        // 控制器（拓竹风格操作）
         const controls = new OrbitControls(camera, renderer.domElement);
         controls.enableDamping = true;
         controls.dampingFactor = 0.05;
@@ -273,30 +267,34 @@
         const gridHelper = new THREE.GridHelper(500, 50, 0x30363d, 0x21262d);
         scene.add(gridHelper);
 
-        // 模型组
-        let currentMesh = null;
         const loader = new STLLoader();
 
-        function loadModel(key) {
-            const model = models[key];
+        // 格式化文件大小
+        function formatSize(bytes) {
+            if (bytes < 1024) return bytes + ' B';
+            if (bytes < 1024 * 1024) return (bytes / 1024).toFixed(1) + ' KB';
+            return (bytes / (1024 * 1024)).toFixed(2) + ' MB';
+        }
+
+        // 加载模型
+        function loadModel(model) {
             document.getElementById('loading').style.display = 'block';
             document.getElementById('model-name').textContent = model.name;
-            document.getElementById('model-desc').textContent = model.desc;
+            document.getElementById('model-category').textContent = model.category;
+            document.getElementById('model-size').textContent = formatSize(model.size);
+            document.getElementById('model-file').textContent = model.url.split('/').pop();
 
             loader.load(
                 model.url,
                 function (geometry) {
-                    // 移除旧模型
                     if (currentMesh) {
                         scene.remove(currentMesh);
                         currentMesh.geometry.dispose();
                         currentMesh.material.dispose();
                     }
 
-                    // 计算法向量
                     geometry.computeVertexNormals();
 
-                    // 材质
                     const material = new THREE.MeshPhysicalMaterial({
                         color: 0x4a9eff,
                         metalness: 0.1,
@@ -310,7 +308,6 @@
                     currentMesh.castShadow = true;
                     currentMesh.receiveShadow = true;
 
-                    // 居中并缩放
                     geometry.computeBoundingBox();
                     const center = geometry.boundingBox.getCenter(new THREE.Vector3());
                     const size = geometry.boundingBox.getSize(new THREE.Vector3());
@@ -319,37 +316,69 @@
 
                     currentMesh.position.sub(center);
                     currentMesh.scale.setScalar(scale);
-
                     scene.add(currentMesh);
 
-                    // 重置相机
                     camera.position.set(100, 100, 150);
                     controls.target.set(0, 0, 0);
                     controls.update();
 
                     document.getElementById('loading').style.display = 'none';
                 },
-                function (xhr) {
-                    // 加载进度
-                },
+                undefined,
                 function (error) {
                     console.error('加载模型失败:', error);
-                    document.getElementById('loading').innerHTML = '加载失败，请检查网络连接';
+                    document.getElementById('loading').innerHTML = '加载失败：' + error.message;
                 }
             );
         }
 
-        // 模型选择
-        document.getElementById('model-select').addEventListener('change', function (e) {
-            loadModel(e.target.value);
-        });
+        // 初始化：加载模型清单
+        async function init() {
+            try {
+                const response = await fetch('models.json');
+                const data = await response.json();
+                allModels = [];
 
-        // 自动旋转按钮
-        const autoRotateBtn = document.getElementById('auto-rotate-btn');
-        autoRotateBtn.addEventListener('click', function () {
-            controls.autoRotate = !controls.autoRotate;
-            autoRotateBtn.classList.toggle('active', controls.autoRotate);
-        });
+                const select = document.getElementById('model-select');
+                select.innerHTML = '';
+
+                // 按分类分组
+                for (const [category, models] of Object.entries(data.categories)) {
+                    const optgroup = document.createElement('optgroup');
+                    optgroup.label = category;
+                    for (const model of models) {
+                        const option = document.createElement('option');
+                        option.value = allModels.length;
+                        option.textContent = model.name;
+                        optgroup.appendChild(option);
+                        allModels.push(model);
+                    }
+                    select.appendChild(optgroup);
+                }
+
+                document.getElementById('model-count').textContent = `共 ${allModels.length} 个模型`;
+
+                // 模型选择事件
+                select.addEventListener('change', function (e) {
+                    loadModel(allModels[parseInt(e.target.value)]);
+                });
+
+                // 自动旋转按钮
+                document.getElementById('auto-rotate-btn').addEventListener('click', function () {
+                    controls.autoRotate = !controls.autoRotate;
+                    this.classList.toggle('active', controls.autoRotate);
+                });
+
+                // 加载第一个模型
+                if (allModels.length > 0) {
+                    select.value = '0';
+                    loadModel(allModels[0]);
+                }
+            } catch (error) {
+                console.error('加载模型清单失败:', error);
+                document.getElementById('loading').innerHTML = '加载模型清单失败：' + error.message;
+            }
+        }
 
         // 窗口大小调整
         window.addEventListener('resize', function () {
@@ -366,8 +395,8 @@
         }
         animate();
 
-        // 初始加载
-        loadModel('baohuzhao');
+        // 启动
+        init();
     </script>
 </body>
 </html>
