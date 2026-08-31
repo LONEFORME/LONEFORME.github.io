@@ -55,40 +55,18 @@ title: 首页
     <div class="card-icon-box" style="--icon-color: #00ff88; --icon-glow: rgba(0,255,136,0.25);">
       <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/><circle cx="12" cy="12" r="2"/></svg>
     </div>
-    <h3>宇树 L1 激光雷达 ROS2 驱动</h3>
-    <p>Unitree 3D 激光雷达的完整 ROS2 封装驱动，支持点云发布、IMU 融合与多平台无缝部署。</p>
+    <h3>N100 · ROS2 激光雷达 SLAM 工作空间</h3>
+    <p>整合宇树 L1（3D）与镭神 N10P（2D）双雷达，配套 Point-LIO 与 SLAM Toolbox 双建图方案，即拿即用的机器人感知与导航参考实现。</p>
     <div class="card-tags">
-      <span class="card-tag">C++</span>
       <span class="card-tag">ROS2</span>
-      <span class="card-tag">Point Cloud</span>
+      <span class="card-tag">双雷达</span>
+      <span class="card-tag">SLAM</span>
     </div>
-    <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
-  </div>
-
-  <div class="card">
-    <div class="card-icon-box" style="--icon-color: #00d4ff; --icon-glow: rgba(0,212,255,0.25);">
-      <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>
-    </div>
-    <h3>镭神 M10P/N10P ROS2 驱动与 SLAM</h3>
-    <p>Leishen 单线激光雷达驱动，深度集成 SLAM Toolbox 导航建图与避障方案。</p>
-    <div class="card-tags">
-      <span class="card-tag">UART 串口</span>
-      <span class="card-tag">SLAM Toolbox</span>
-      <span class="card-tag">2D 栅格地图</span>
-    </div>
-    <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
-  </div>
-
-  <div class="card">
-    <div class="card-icon-box" style="--icon-color: #10b981; --icon-glow: rgba(16,185,129,0.25);">
-      <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg>
-    </div>
-    <h3>Point-LIO 宇树雷达适配</h3>
-    <p>基于 Point-LIO 的实时激光雷达-惯性紧耦合里程计建图，专为 Unitree 激光雷达深度调优。</p>
-    <div class="card-tags">
-      <span class="card-tag">6-DoF 里程计</span>
-      <span class="card-tag">IMU 紧耦合</span>
-      <span class="card-tag">3D PCD</span>
+    <div class="card-details">
+      • 宇树 L1 + Point-LIO：6-DoF 实时 3D 建图，IMU 紧耦合<br>
+      • 镭神 N10P + SLAM Toolbox：2D 栅格地图，回环检测<br>
+      • 自研障碍物检测：BFS 空间聚类 + PCA 墙识别 + 多帧确认<br>
+      • 位姿优化：卡尔曼滤波 + 静止检测 + 零点校准 + 自适应滤波
     </div>
     <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
@@ -146,7 +124,7 @@ title: 首页
 <div class="card-mini-list">
   {% include card-mini.html url="docs/unitree_l1" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><circle cx="12" cy="12" r="2"/></svg>' title="宇树 L1 + Point-LIO 建图方案" desc="实时激光雷达-惯性紧耦合里程计 · 室内外 3D 稠密建图指南" %}
   {% include card-mini.html url="docs/leishen_n10p" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>' title="镭神 N10P + SLAM Toolbox 方案" desc="单线 2D 激光雷达 SLAM 方案 · 室内快速建图与避障" %}
-  {% include card-mini.html url="docs/rpi4_deploy" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/></svg>' title="树莓派 4B 嵌入式部署指南" desc="Ubuntu 22.04 ARM64 + 镭神 N10P 性能调优与无头模式配置" %}
+  {% include card-mini.html url="docs/rpi4_deploy" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/><path d="M9 21v1"/><path d="M9 2v1"/></svg>' title="树莓派 4B 嵌入式部署指南" desc="Ubuntu 22.04 ARM64 + 镭神 N10P 性能调优与无头模式配置" %}
 </div>
 
 <div class="section-title">
