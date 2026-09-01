@@ -19,7 +19,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">21</span>
+        <span class="channel-count">23</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
@@ -27,7 +27,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 科技 & AI</span>
-        <span class="channel-count">3</span>
+        <span class="channel-count">2</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -36,6 +36,10 @@ title: 热点新闻
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
         <span class="channel-count">6</span>
+      </button>
+      <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
+        <span>🌍 西方媒体视角</span>
+        <span class="channel-count">3</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('source', this)">
         <span>🌐 媒体信源</span>
@@ -70,12 +74,12 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳阵容？" data-date="08-31" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳球队？" data-date="08-31" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
         <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">谁入选了特洛伊本周英超最佳阵容？</p>
+      <p class="hero-sub-title">谁入选了特洛伊本周英超最佳球队？</p>
     </a>
     <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
       <div class="hero-sub-meta">
@@ -105,11 +109,11 @@ title: 热点新闻
           <span class="news-item-date">08-31</span>
           <span class="news-item-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳阵容？" data-date="08-31" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳球队？" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">08-31</span>
-          <span class="news-item-title">谁入选了特洛伊本周英超最佳阵容？</span>
+          <span class="news-item-title">谁入选了特洛伊本周英超最佳球队？</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -134,25 +138,19 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">科技创新 & AI 算力</span>
-      <span class="news-category-count">3 条</span>
+      <span class="news-category-count">2 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/jk/2026/09-01/10687778.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="国家基本药物目录是医疗机构药品配备使用的依据，为更好满足群众疾病防治基本用药需求，国家卫生健康委、国家中医药局、国家疾控局日前发布了《国家基本药物目录(2026版)》，将从今天(9月1日)起正式实施。" data-title="扩大儿童适宜药品种类 新版国家基本药物目录今起实施" data-date="09-01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="卫星对比图像曝光尼泊尔洪灾的严峻灾情。许多村庄、桥梁和西藏边境的重要过境点被毁灭性的洪水冲毁。" data-title="卫星图像揭示村庄灾情的严重程度" data-date="08-30" data-source="BBC">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">扩大儿童适宜药品种类 新版国家基本药物目录今起实施</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-30</span>
+          <span class="news-item-title">卫星图像揭示村庄灾情的严重程度</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-01/10687773.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="记者今天了解到，市场监管总局近日发布65项国家计量技术规范，涵盖无线电、电离辐射、医学、生物、数字计量等20多个专业领域。这一批国家计量技术规范的发布，将有力支撑相关产业的质量提升和技术进步，进一步保障民生安全和市场秩序。" data-title="市场监管总局发布65项国家计量技术规范" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">市场监管总局发布65项国家计量技术规范</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/daisy-chain-fields-olivia-rodrigo.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在第一届 Daisy Chain Fields 音乐节上，这位 23 岁的流行歌星提出了女性赋权的跨代愿景。 （也可以激活 Taco Bell。）" data-title="奥利维亚·罗德里戈的菊花链领域：新女权主义音乐节初具规模" data-date="08-31" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/daisy-chain-fields-olivia-rodrigo.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在第一届 Daisy Chain Fields 音乐节上，这位 23 岁的流行歌星提出了女性赋权的跨代愿景。 （也可以激活 Taco Bell。）" data-title="奥利维亚·罗德里戈的菊花链场：新女权主义音乐节初具规模" data-date="08-31" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">08-31</span>
-          <span class="news-item-title">奥利维亚·罗德里戈的菊花链领域：新女权主义音乐节初具规模</span>
+          <span class="news-item-title">奥利维亚·罗德里戈的菊花链场：新女权主义音乐节初具规模</span>
         </a>
   </div>
   <div class="news-category">
@@ -161,6 +159,30 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">6 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10687789.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间9月1日上午，国家主席习近平在比什凯克幸福宫出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话。" data-title="时政快讯丨习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">时政快讯丨习近平出席上海合作组织成员国元首理事会第二十六次会议并发表重要讲话</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10687788.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间9月1日上午，国家主席习近平在比什凯克幸福宫同上海合作组织成员国领导人集体合影。" data-title="时政快讯丨习近平同上海合作组织成员国领导人集体合影" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">时政快讯丨习近平同上海合作组织成员国领导人集体合影</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-01/10687700.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="黑龙江农业“硬核”成绩单来了｜活力中国调研行" data-title="黑龙江农业“硬核”成绩单来了" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">黑龙江农业“硬核”成绩单来了</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/ll/2026/09-01/10687787.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国支付清算协会近日发布的《2025年移动支付用户使用情况问卷调查报告》里，有一组数据值得细品。在适老化改造方面，认为减少广告功能实用的用户占比74.8%，较上年上升1.5个百分点；认为字体加大功能实用的用户占比72.9%，较上年下降2.5个百分点。" data-title="适老化改造不应只是放大字体" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">适老化改造不应只是放大字体</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10687786.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社快讯：当地时间9月1日上午，国家主席习近平在比什凯克出席上海合作组织成员国元首理事会第二十六次会议。" data-title="习近平出席上海合作组织成员国元首理事会第二十六次会议" data-date="09-01" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -172,30 +194,6 @@ title: 热点新闻
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">今年铁路暑运全国铁路累计发送旅客9.54亿人次</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/dwq/2026/09-01/10687781.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="勇立潮头大湾区｜“超级试验场”打开协同新空间" data-title="“超级试验场”打开协同新空间" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">“超级试验场”打开协同新空间</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/edu/2026/09-01/10687780.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当前正值高校录取通知书陆续送达、新生准备入学的关键时期，一些机构或不法分子趁机利用新生对入学流程不熟悉以及部分考生家长的焦虑心态，通过伪造身份、散布虚假信息等方式精心设局，实施诈骗。为切实维护广大考生和家长切身利益，教育部结合近期典型案例，发布以下防范提醒。" data-title="教育部提醒: 新生入学季，这四类诈骗要警惕" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">教育部提醒: 新生入学季，这四类诈骗要警惕</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqlwd2w1vnlo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="罗曼太空望远镜（Nancy Grace Roman Space Telescope）8月30日从佛罗里达州肯尼迪太空中心发射升空。" data-title="美国NASA全新超强望远镜将改写我们对宇宙的理解" data-date="08-31" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">08-31</span>
-          <span class="news-item-title">美国NASA全新超强望远镜将改写我们对宇宙的理解</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="陆军部长丹尼尔·P·德里斯科尔（Daniel P. Driscoll）的辞职是在意料之中的，但他的辞职正值陆军动荡时期。" data-title="陆军部长丹尼尔·德里斯科尔因美国军方陷入两场战争而辞职" data-date="09-01" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">陆军部长丹尼尔·德里斯科尔因美国军方陷入两场战争而辞职</span>
         </a>
   </div>
   <div class="news-category">
@@ -222,7 +220,7 @@ title: 热点新闻
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">杜安·戴维斯因策划图帕克·沙库尔谋杀案而被定罪</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/duane-davis-keffe-d-tupac-murder.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="杜安·基思·戴维斯(Duane Keith Davis)曾是南区康普顿克里普斯队(South Side Compton Crips)的高级成员，他长期表示，1996年他和枪手一起坐在一辆凯迪拉克车里。然后他开始收回自己的说法。" data-title="在图帕克·沙库尔谋杀案审判中被定罪的杜安·“凯夫·D”·戴维斯是谁？" data-date="09-01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/duane-davis-keffe-d-tupac-murder.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="杜安·基思·戴维斯 (Duane Keith Davis) 曾是南区康普顿克里普斯队 (South Side Compton Crips) 的高级成员，他长期表示 1996 年他和枪手一起坐在一辆凯迪拉克车里。然后他开始收回自己的说法。" data-title="在图帕克·沙库尔谋杀案审判中被定罪的杜安·“凯夫·D”·戴维斯是谁？" data-date="09-01" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">09-01</span>
@@ -234,11 +232,36 @@ title: 热点新闻
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">图帕克·沙库尔被杀时正处于文化巅峰</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="官员称，警方在尝试使用不那么致命的武力后，向这名持有两把刀的女子开枪。一名 32 岁女性死亡，一名 68 岁男性情况稳定。" data-title="女子在时代广场刺伤 2 人，造成 1 人死亡，被纽约警察局开枪打死" data-date="09-01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="官员称，警方在尝试使用不太致命的武力后，向这名持有两把刀的女子开枪。一名 32 岁女性死亡，一名 68 岁男性情况稳定。" data-title="女子在时代广场刺伤 2 人，造成 1 人死亡，被纽约警察局开枪打死" data-date="09-01" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">女子在时代广场刺伤 2 人，造成 1 人死亡，被纽约警察局开枪打死</span>
+        </a>
+  </div>
+  <div class="news-category">
+    <div class="news-category-header">
+      <span class="category-flag">🌍</span>
+      <span class="news-category-title">🌍 西方媒体视角 (外媒看中国 · 奇葩言论集锦)</span>
+      <span class="news-category-count">3 条</span>
+    </div>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="meimei" data-summary="一些关于这场致命山洪暴发最惊人的画面，中国官方媒体未对公众播放。" data-title="中国审查西藏口岸遭洪灾冲击画面，当地灾民情况我们所知甚少" data-date="08-30" data-source="BBC">
+          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-30</span>
+          <span class="news-item-title">中国审查西藏口岸遭洪灾冲击画面，当地灾民情况我们所知甚少</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c0ren4z009qo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="meimei" data-summary="中方调查专家称，造成泥石流的冰岩崩从发生到冲击西藏吉隆口岸仅约6到7分钟。" data-title="中国：气候变暖导致尼泊尔" data-date="08-30" data-source="BBC">
+          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-30</span>
+          <span class="news-item-title">中国：气候变暖导致尼泊尔</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="meimei" data-summary="美国地质调查局（USGS）表示，这场灾难的成因是一次冰川崩塌，但专家仍在调查洪水如何在下游发展并造成严重影响。" data-title="是什么导致西藏致命泥石流？科学家分析来龙去脉" data-date="08-27" data-source="BBC">
+          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-27</span>
+          <span class="news-item-title">是什么导致西藏致命泥石流？科学家分析来龙去脉</span>
         </a>
   </div>
 </div>
