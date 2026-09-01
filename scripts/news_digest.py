@@ -25,6 +25,67 @@ except ImportError:
     def to_simplified(text):
         return text
 
+# 中英文翻译（基于 Google Translate 免费接口，不需要 API key）
+# GitHub Actions 运行在国外可直连，本地有代理时自动使用代理
+_translators = []
+try:
+    from deep_translator import GoogleTranslator
+    import os as _os
+    # 1. 优先使用环境变量中的代理
+    _env_proxy = _os.environ.get('HTTPS_PROXY') or _os.environ.get('https_proxy')
+    if _env_proxy:
+        try:
+            _translators.append(GoogleTranslator(source='auto', target='zh-CN',
+                                                   proxies={'https': _env_proxy, 'http': _env_proxy}))
+        except Exception:
+            pass
+    # 2. 尝试常见本地代理端口
+    for _port in [7890, 7891, 10809, 1080]:
+        try:
+            _proxy = f'http://127.0.0.1:{_port}'
+            _translators.append(GoogleTranslator(source='auto', target='zh-CN',
+                                                   proxies={'https': _proxy, 'http': _proxy}))
+        except Exception:
+            pass
+    # 3. 最后尝试直连（GitHub Actions 环境可用）
+    try:
+        _translators.append(GoogleTranslator(source='auto', target='zh-CN'))
+    except Exception:
+        pass
+except ImportError:
+    pass
+
+def translate_to_chinese(text):
+    if not text or not text.strip():
+        return text
+    try:
+        if has_chinese(text):
+            return text
+        if len(text) > 4500:
+            text = text[:4500]
+        # 依次尝试各个翻译器（代理 -> 直连）
+        for _t in _translators:
+            try:
+                result = _t.translate(text)
+                if result and result != text:
+                    return result
+            except Exception:
+                continue
+        return text
+    except Exception as e:
+        log(f"  [翻译失败] {e}")
+        return text
+
+
+def has_chinese(text):
+    if not text:
+        return False
+    for ch in text:
+        if '\u4e00' <= ch <= '\u9fff':
+            return True
+    return False
+
+
 UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
@@ -325,12 +386,18 @@ def fetch_rss(url, source_name, timeout=20):
             if title and link:
                 title, publisher = parse_publisher(title)
                 title = to_simplified(clean_title(title))
+                # 英文标题自动翻译成中文
+                if not has_chinese(title):
+                    title = translate_to_chinese(title)
                 src = normalize_source(publisher if publisher else source_name, title, link)
                 date = normalize_date(published)
                 raw_sum = entry.get("summary", entry.get("description", ""))
                 clean_sum = re.sub(r'<[^>]+>', '', raw_sum).strip()
                 clean_sum = re.sub(r'\s+', ' ', clean_sum)
                 clean_sum = to_simplified(clean_sum)
+                # 英文摘要自动翻译成中文
+                if clean_sum and not has_chinese(clean_sum):
+                    clean_sum = translate_to_chinese(clean_sum)
                 if is_recent(date):
                     entries.append({
                         "title": title,
