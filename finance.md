@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,572.07</span>
-      <span class="ticker-change down">▼ -1.03%</span>
+      <span class="ticker-price ticker-down">4,588.85</span>
+      <span class="ticker-change down">▼ -0.67%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7210</span>
+      <span class="ticker-price ticker-up">6.7208</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,7 +128,7 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,484.04</span>
+      <span class="ticker-price ticker-down">$4,480.07</span>
       <span class="ticker-change down">▼ -0.01%</span>
     </div>
     <div class="ticker-footer">
@@ -216,19 +216,13 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">3 条精选资讯</span>
+      <span class="news-category-count">2 条精选资讯</span>
     </div>
-        <a class="news-item" href="http://www.chinanews.com.cn/tp/hd2011/2026/09-01/1202741.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新疆乌鲁木齐：智能化共享工厂赋能装备制造产业升级" data-title="新疆乌鲁木齐：智能化共享工厂赋能装备制造产业升级" data-date="09-01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-01/10687775.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="临近开学，探访一些文具产地" data-title="探访文具产地：小文具里有大产业" data-date="09-01" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-01</span>
-          <span class="news-item-title">新疆乌鲁木齐：智能化共享工厂赋能装备制造产业升级</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-01/10687755.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“‘六张网’建设刷新‘进度条’”系列报道之二" data-title="投资将超5万亿元，新型电网新在哪？" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">投资将超5万亿元，新型电网新在哪？</span>
+          <span class="news-item-title">探访文具产地：小文具里有大产业</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5yj5eg69jjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="直到几年前，英语仍被塔吉克年轻人视为最重要的外语，但随着中国在中亚地区的经济影响力不断扩大，汉语成为了对年轻一代更具吸引力的选择。" data-title="塔吉克斯坦年轻人之间缘何兴起“汉语热”？" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -249,4 +243,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-09-01 03:31 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-09-01 04:16 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
