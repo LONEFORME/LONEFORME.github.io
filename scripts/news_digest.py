@@ -63,18 +63,28 @@ def translate_to_chinese(text):
             return text
         if len(text) > 4500:
             text = text[:4500]
-        # 依次尝试各个翻译器（代理 -> 直连）
+        # 1. 先尝试 Google Translate（deep-translator）
         for _t in _translators:
             try:
                 result = _t.translate(text)
-                if result and result != text:
-                    # 检查翻译结果是否是错误页面（Google Translate 偶尔返回500错误）
-                    if is_error_page(result, ""):
-                        log(f"  [翻译返回错误页面，保留原文] {text[:50]}")
-                        continue
+                if result and result != text and not is_error_page(result, ""):
                     return result
             except Exception:
                 continue
+        # 2. Google Translate 失败时，尝试 MyMemory 翻译 API（免费，不需要API key）
+        try:
+            import requests as _req
+            _url = "https://api.mymemory.translated.net/get"
+            _params = {"q": text, "langpair": "en|zh-CN"}
+            _resp = _req.get(_url, params=_params, timeout=15)
+            if _resp.status_code == 200:
+                _data = _resp.json()
+                _result = _data.get("responseData", {}).get("translatedText", "")
+                if _result and _result != text and not is_error_page(_result, ""):
+                    return _result
+        except Exception as _e:
+            log(f"  [MyMemory翻译失败] {_e}")
+        # 3. 都失败时保留原文
         return text
     except Exception as e:
         log(f"  [翻译失败] {e}")
