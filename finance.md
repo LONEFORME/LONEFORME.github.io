@@ -86,7 +86,7 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,559.21</span>
+      <span class="ticker-price ticker-down">4,559.34</span>
       <span class="ticker-change down">▼ -1.31%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7209</span>
+      <span class="ticker-price ticker-up">6.7200</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,490.54</span>
-      <span class="ticker-change down">▼ -0.03%</span>
+      <span class="ticker-price ticker-down">$4,488.35</span>
+      <span class="ticker-change down">▼ -0.02%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,14 +216,8 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">2 条精选资讯</span>
+      <span class="news-category-count">1 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/ll/2026/09-01/10687726.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="去年上合组织天津峰会期间，习近平主席提出全球治理倡议，明确指出上合组织“要发挥引领作用，当好践行全球治理倡议的表率”。在全球治理倡议系统引领下，上合组织在安全治理、经济治理、民生人文治理三大领域持续发力，为地区稳定繁荣和全球治理完善作出突出贡献" data-title="社评：比什凯克时刻，上合组织再答全球治理之问" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">社评：比什凯克时刻，上合组织再答全球治理之问</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5yj5eg69jjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="直到几年前，英语仍被塔吉克年轻人视为最重要的外语，但随着中国在中亚地区的经济影响力不断扩大，汉语成为了对年轻一代更具吸引力的选择。" data-title="塔吉克斯坦年轻人之间缘何兴起“汉语热”？" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -243,4 +237,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-09-01 03:01 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-09-01 03:04 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
