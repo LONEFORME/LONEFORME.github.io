@@ -358,9 +358,6 @@ def is_error_page(title, summary=""):
     if not title:
         return True
     text = (str(title) + " " + str(summary or "")).lower()
-    # 调试：检测到错误页面时打印日志
-    if "error 500" in text or "server error" in text:
-        log(f"  [DEBUG] 检测到错误页面关键词: {str(title)[:60]}")
     # 错误页面关键词
     error_keywords = [
         "error 500", "server error", "500 internal", "internal server error",
