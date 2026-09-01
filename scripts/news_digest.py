@@ -68,6 +68,10 @@ def translate_to_chinese(text):
             try:
                 result = _t.translate(text)
                 if result and result != text:
+                    # 检查翻译结果是否是错误页面（Google Translate 偶尔返回500错误）
+                    if is_error_page(result, ""):
+                        log(f"  [翻译返回错误页面，保留原文] {text[:50]}")
+                        continue
                     return result
             except Exception:
                 continue
