@@ -19,7 +19,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">17</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
@@ -27,7 +27,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 科技 & AI</span>
-        <span class="channel-count">3</span>
+        <span class="channel-count">5</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -66,19 +66,19 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="窗口关闭前可观看的转会" data-date="08-31" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
         <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">曼城8000万英镑收购Gakpo的交易接近失败</p>
+      <p class="hero-sub-title">窗口关闭前可观看的转会</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶" data-date="08-31" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.skysports.com/watch/video/13579605/aston-villa-0-0-arsenal-premier-league-highlights" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="免费观看：英超联赛中阿斯顿维拉对阵阿森纳的比赛集锦。" data-title="萨卡进球帮助阿森纳在维拉公园取得胜利" data-date="09-01" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
-        <span class="source-badge source-bbc">🇬🇧 BBC</span>
+        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶</p>
+      <p class="hero-sub-title">萨卡进球帮助阿森纳在维拉公园取得胜利</p>
     </a>
   </div>
 </div>
@@ -101,36 +101,36 @@ title: 热点新闻
           <span class="news-item-date">08-31</span>
           <span class="news-item-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">08-31</span>
-          <span class="news-item-title">曼城8000万英镑收购Gakpo的交易接近失败</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶" data-date="08-31" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">08-31</span>
-          <span class="news-item-title">曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利物浦以高达 1.23 亿英镑的价格从巴黎圣日耳曼签下了法国前锋布拉德利·巴克拉。" data-title="巴克拉以 1.23 亿英镑从巴黎圣日尔曼加盟利物浦" data-date="08-31" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">08-31</span>
-          <span class="news-item-title">巴克拉以 1.23 亿英镑从巴黎圣日尔曼加盟利物浦</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC 体育频道的足球专家选出了可能在周二英国夏令时 23:00 英语截止日期之前完成的出色转会。" data-title="窗口关闭前可观看的转会" data-date="08-31" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="窗口关闭前可观看的转会" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">08-31</span>
           <span class="news-item-title">窗口关闭前可观看的转会</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/watch/video/13579605/aston-villa-0-0-arsenal-premier-league-highlights" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="免费观看：英超联赛中阿斯顿维拉对阵阿森纳的比赛集锦。" data-title="萨卡进球帮助阿森纳在维拉公园取得胜利" data-date="09-01" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">萨卡进球帮助阿森纳在维拉公园取得胜利</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="切尔西最新消息：热刺即将签下托辛和穆德里克" data-title="切尔西最新消息：热刺即将签下托辛和穆德里克" data-date="09-01" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">切尔西最新消息：热刺即将签下托辛和穆德里克</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/tennis/live-blog/12040/13576448/us-open-tennis-news-draw-schedule-results-and-updates-from-flushing-meadows-in-new-york" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="西西帕斯对克耶高斯因可卡因停赛并不感到惊讶" data-title="西西帕斯对克耶高斯因可卡因停赛并不感到惊讶" data-date="09-01" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">西西帕斯对克耶高斯因可卡因停赛并不感到惊讶</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">科技创新 & AI 算力</span>
-      <span class="news-category-count">3 条</span>
+      <span class="news-category-count">5 条</span>
     </div>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
@@ -138,11 +138,23 @@ title: 热点新闻
           <span class="news-item-date">08-31</span>
           <span class="news-item-title">Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/edu/2026/09-01/10687717.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="【学思践悟】" data-title="强化教育对科技和人才的支撑作用" data-date="09-01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/tp/2026/09-01/10687725.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="图为8月31日，景县一高粱种植合作社晾晒场，工作人员驾驶铲车将收获的高粱送至烘干塔进行烘干作业。高雷 摄 图为8月31日，景县一高粱种植基地，收割机将收获的高粱送入运输车中。高雷 摄 图为8月31日，景县一高粱种植合作社晾晒场，工作人员驾驶铲车整理收获回来的高粱。高雷 摄 图为8月31日，景县一高粱种植基地，高粱籽粒饱满，丰收在望。高雷 摄 图为8月31日，景县一高粱种植基地，收割机将收获的高粱送入运输车中。（无人机图片）张旭辉 摄" data-title="河北景县2.3万亩高粱迎丰收 “订单模式”助农增收" data-date="09-01" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-01</span>
-          <span class="news-item-title">强化教育对科技和人才的支撑作用</span>
+          <span class="news-item-title">河北景县2.3万亩高粱迎丰收 “订单模式”助农增收</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-01/10687724.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网北京9月1日电 (记者 孙自法)作为地球上最早出现的有颌脊椎动物类群之一，盾皮鱼类在三四亿年前经历了从出现、辐射到灭绝的完整演化过程。其多样性如何变化，又与地球环境变化存在怎样的联系，一直是古生物学界关注的问题。" data-title="三四亿年前盾皮鱼类如何从出现走向灭绝？深骨数据库重建演化历程" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">三四亿年前盾皮鱼类如何从出现走向灭绝？深骨数据库重建演化历程</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-01/10687723.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网北京9月1日电 (记者 孙自法)中国科协联合34家全民科学素质纲要实施工作办公室成员单位共同部署开展的2026年全国科普月活动，9月1日如约而至、全面启动。" data-title="中国科协联合34家单位共同部署开展 2026年全国科普月全面启动" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">中国科协联合34家单位共同部署开展 2026年全国科普月全面启动</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx2zp5q4gnjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="卫星对比图像曝光尼泊尔洪灾的严峻灾情。许多村庄、桥梁和西藏边境的重要过境点被毁灭性的洪水冲毁。" data-title="卫星图像揭示村庄灾情的严重程度" data-date="08-30" data-source="BBC">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
@@ -157,41 +169,41 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">6 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10687727.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国—埃及媒体高质量共建“一带一路”联合采访在埃及举行——" data-title="中国—埃及媒体高质量共建“一带一路”联合采访在埃及举行" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">中国—埃及媒体高质量共建“一带一路”联合采访在埃及举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-01/10687722.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="一道菜从何而来？一种食材何时走上中国人的餐桌？这些关于中国味道的答案，许多都藏在浩繁古籍之中。近日，字节跳动旗下识典古籍平台上线“食典汇藏——中华饮食文化典籍数据库”，汇集先秦至明清历代196部饮食相关典籍，并系统化呈现了中华饮食文化脉络和知识。" data-title="在古籍中寻味中国，识典古籍上线“中华饮食文化典籍数据库”" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">在古籍中寻味中国，识典古籍上线“中华饮食文化典籍数据库”</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/cul/2026/09-01/10687720.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="观展览、逛市集、看演出……华灯初上，位于辽宁沈阳铁西区的红梅文创园开始热闹起来。红砖墙面保留着岁月冲刷的斑驳痕迹，昔日机器轰鸣的老厂区，如今流淌着音乐气息，展览与市集游人如织。" data-title="“红梅”为何别样红（金台随笔）" data-date="09-01" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">“红梅”为何别样红（金台随笔）</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-01/10687718.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="今天(9月1日)起，一批与生活息息相关的新规正式施行。" data-title="外卖包装“瘦身”、规范互联网信息分发 今起一批新规施行" data-date="09-01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cdr7yd0zyg1o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="洪水来袭前，尼泊尔一家中学正在上课，校长在10分钟内果断疏散了全校900名师生。就在撤离后，校舍瞬间被洪水和瓦砾淹没。" data-title="洪水来袭前几分钟，这位尼泊尔校长及时疏散了900名学生" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">外卖包装“瘦身”、规范互联网信息分发 今起一批新规施行</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-31</span>
+          <span class="news-item-title">洪水来袭前几分钟，这位尼泊尔校长及时疏散了900名学生</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/ll/2026/09-01/10687721.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="人民有需要，党员冲在前(现场评论)" data-title="人民有需要，党员冲在前" data-date="09-01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cnvl38dyyq0o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="一些关于这场致命山洪暴发最惊人的画面，中国官方媒体未对公众播放。" data-title="中国审查西藏口岸遭洪灾冲击画面，当地灾民情况我们所知甚少" data-date="08-30" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">人民有需要，党员冲在前</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-30</span>
+          <span class="news-item-title">中国审查西藏口岸遭洪灾冲击画面，当地灾民情况我们所知甚少</span>
         </a>
-        <a class="news-item" href="http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-01/news1067263.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="近日，正值新学期开学，云南省宣威市普立乡尼珠河村的孩子们背起书包，从峡谷谷底出发，前往山顶的官寨村完全小学报到。和乘坐普通校车不同，学生要先乘观光车，再换乘悬崖电梯和高空索道缆车。这套特殊的通学方式，被当地人称为“空中校车”。" data-title="上学路“修”到了云端！云南山里娃乘坐 “空中校车”赴校园" data-date="09-01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqlwd2w1vnlo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="罗曼太空望远镜（Nancy Grace Roman Space Telescope）8月30日从佛罗里达州肯尼迪太空中心发射升空。" data-title="美国NASA全新超强望远镜将改写我们对宇宙的理解" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">上学路“修”到了云端！云南山里娃乘坐 “空中校车”赴校园</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-01/10687714.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【理响中国·经视图】推进以县城为重要载体的城镇化建设" data-title="推进以县城为重要载体的城镇化建设" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">推进以县城为重要载体的城镇化建设</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/edu/2026/09-01/10687713.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="今年秋季新学期，多地迎来一系列新举措、新变化：义务教育新教材全面落地、阳光分班有序推行、中考评价持续优化、特色课程扩容提质、校外托管规范监管等，让新学期的教育教学更优质、更均衡、更具温度。" data-title="新教材、抽签定班主任 新学期多地迎来新变化新政策" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">新教材、抽签定班主任 新学期多地迎来新变化新政策</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-31</span>
+          <span class="news-item-title">美国NASA全新超强望远镜将改写我们对宇宙的理解</span>
         </a>
   </div>
 </div>
