@@ -190,6 +190,14 @@ SECTIONS_CONFIG = [
         "tag_class": "cat-zonghe",
         "tag_label": "📰 综合要闻",
     },
+    {
+        "id": "meimei",
+        "title": "🌍 西方媒体视角 (外媒看中国 · 奇葩言论集锦)",
+        "tab_name": "🌍 西方媒体视角",
+        "flag": "🌍",
+        "tag_class": "cat-meimei",
+        "tag_label": "🌍 外媒视角",
+    },
 ]
 
 # ===== 财经页面配置 =====
@@ -469,10 +477,7 @@ def fetch_rss(url, source_name, timeout=20):
                 if is_error_page(title, raw_sum_check):
                     log(f"  [SKIP] 错误页面/无效标题: {title[:60]}")
                     continue
-                # 过滤敏感/偏见/负面新闻
-                if is_sensitive_content(title, raw_sum_check):
-                    log(f"  [SKIP] 敏感/偏见新闻: {title[:60]}")
-                    continue
+                # 敏感/偏见新闻不再过滤，而是单独分类到"西方媒体视角"板块
                 title, publisher = parse_publisher(title)
                 title = to_simplified(clean_title(title))
                 # 英文标题自动翻译成中文
@@ -544,7 +549,11 @@ def classify_item(item):
         if kw in text:
             return "caijing"
 
-    # 4. 时政 & 国际
+    # 4. 西方媒体视角（抹黑中国/偏见报道，单独放一个模块供娱乐）
+    if is_sensitive_content(item.get("title", ""), item.get("summary", "")):
+        return "meimei"
+
+    # 5. 时政 & 国际
     shizheng_keywords = [
         "时政", "政治", "政府", "国务院", "中央", "主席", "总理", "部长", "省委", "市委",
         "外交", "国际", "联合国", "美国", "中国", "俄罗斯", "欧盟", "日本", "韩国", "朝鲜",
@@ -559,7 +568,7 @@ def classify_item(item):
         if kw in text:
             return "shizheng"
 
-    # 5. 默认归入综合要闻（文化社会 + 环保教育 + 历史人文 + 其他）
+    # 6. 默认归入综合要闻（文化社会 + 环保教育 + 历史人文 + 其他）
     return "zonghe"
 
 
@@ -910,7 +919,7 @@ def main():
     log(f"[INFO] 去重后共 {len(unique)} 条")
 
     # 智能分类并分配板块
-    categorized_map = {"zuqiu": [], "keji": [], "caijing": [], "shizheng": [], "zonghe": []}
+    categorized_map = {"zuqiu": [], "keji": [], "caijing": [], "shizheng": [], "zonghe": [], "meimei": []}
     for it in unique:
         cat_id = classify_item(it)
         it["cat_id"] = cat_id
