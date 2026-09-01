@@ -358,6 +358,9 @@ def is_error_page(title, summary=""):
     if not title:
         return True
     text = (str(title) + " " + str(summary or "")).lower()
+    # 调试：检测到错误页面时打印日志
+    if "error 500" in text or "server error" in text:
+        log(f"  [DEBUG] 检测到错误页面关键词: {str(title)[:60]}")
     # 错误页面关键词
     error_keywords = [
         "error 500", "server error", "500 internal", "internal server error",
@@ -412,13 +415,13 @@ def fetch_rss(url, source_name, timeout=20):
             link = entry.get("link", "")
             published = entry.get("published", entry.get("updated", ""))
             if title and link:
-                title, publisher = parse_publisher(title)
-                title = to_simplified(clean_title(title))
-                # 过滤错误页面和无效标题
+                # 提前过滤错误页面和无效标题（在任何处理之前）
                 raw_sum_check = str(entry.get("summary", entry.get("description", "")) or "")
                 if is_error_page(title, raw_sum_check):
                     log(f"  [SKIP] 错误页面/无效标题: {title[:60]}")
                     continue
+                title, publisher = parse_publisher(title)
+                title = to_simplified(clean_title(title))
                 # 英文标题自动翻译成中文
                 if not has_chinese(title):
                     title = translate_to_chinese(title)
