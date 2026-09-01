@@ -353,6 +353,34 @@ def clean_title(title):
     return s
 
 
+def is_error_page(title, summary=""):
+    """检测标题是否是服务器错误页面，返回 True 表示应该过滤掉"""
+    if not title:
+        return True
+    text = (title + " " + summary).lower()
+    # 错误页面关键词
+    error_keywords = [
+        "error 500", "server error", "500 internal", "internal server error",
+        "that's an error", "that s an error", "please try again later",
+        "404 not found", "404 error", "page not found",
+        "error 403", "forbidden", "access denied",
+        "error 400", "bad request",
+        "502 bad gateway", "503 service unavailable", "504 gateway timeout",
+        "!!", "that's all we know", "that s all we know",
+        "http error", "connection error", "timeout error",
+    ]
+    for kw in error_keywords:
+        if kw in text:
+            return True
+    # 标题异常短（少于5个字符）或异常长（超过200字符）
+    if len(title.strip()) < 5 or len(title.strip()) > 200:
+        return True
+    # 标题全是特殊字符或数字
+    if not re.search(r'[\u4e00-\u9fff a-zA-Z]', title):
+        return True
+    return False
+
+
 def is_recent(date_str):
     if not date_str:
         return True
@@ -386,6 +414,11 @@ def fetch_rss(url, source_name, timeout=20):
             if title and link:
                 title, publisher = parse_publisher(title)
                 title = to_simplified(clean_title(title))
+                # 过滤错误页面和无效标题
+                raw_sum_check = entry.get("summary", entry.get("description", ""))
+                if is_error_page(title, raw_sum_check):
+                    log(f"  [SKIP] 错误页面/无效标题: {title[:60]}")
+                    continue
                 # 英文标题自动翻译成中文
                 if not has_chinese(title):
                     title = translate_to_chinese(title)
