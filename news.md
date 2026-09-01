@@ -19,7 +19,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">14</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
@@ -27,7 +27,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 科技 & AI</span>
-        <span class="channel-count">2</span>
+        <span class="channel-count">3</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -66,19 +66,19 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳球队？" data-date="08-31" data-source="BBC">
-      <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
-        <span class="source-badge source-bbc">🇬🇧 BBC</span>
-      </div>
-      <p class="hero-sub-title">谁入选了特洛伊本周英超最佳球队？</p>
-    </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
         <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
       <p class="hero-sub-title">曼城8000万英镑收购Gakpo的交易接近失败</p>
+    </a>
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶" data-date="08-31" data-source="BBC">
+      <div class="hero-sub-meta">
+        <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
+      </div>
+      <p class="hero-sub-title">曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶</p>
     </a>
   </div>
 </div>
@@ -101,37 +101,43 @@ title: 热点新闻
           <span class="news-item-date">08-31</span>
           <span class="news-item-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳球队？" data-date="08-31" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">08-31</span>
-          <span class="news-item-title">谁入选了特洛伊本周英超最佳球队？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">08-31</span>
           <span class="news-item-title">曼城8000万英镑收购Gakpo的交易接近失败</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城同意以至少 6000 万英镑的价格从埃弗顿签下伊利曼·恩迪亚耶。" data-title="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-date="08-31" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">08-31</span>
-          <span class="news-item-title">Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</span>
+          <span class="news-item-title">曼城同意以 6500 万英镑收购埃弗顿球员恩迪亚耶</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c4gj341p8ypo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="切尔西接受托特纳姆热刺队对边锋米哈伊洛·穆德里克和后卫托辛·阿达拉比奥约的报价，以及意大利俱乐部科莫对门将罗伯特·桑切斯的报价。" data-title="穆德里克转会热刺，切尔西桑切斯前往科莫" data-date="08-31" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9qrj4p58j4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利物浦以高达 1.23 亿英镑的价格从巴黎圣日耳曼签下了法国前锋布拉德利·巴克拉。" data-title="巴克拉以 1.23 亿英镑从巴黎圣日尔曼加盟利物浦" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">08-31</span>
-          <span class="news-item-title">穆德里克转会热刺，切尔西桑切斯前往科莫</span>
+          <span class="news-item-title">巴克拉以 1.23 亿英镑从巴黎圣日尔曼加盟利物浦</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC 体育频道的足球专家选出了可能在周二英国夏令时 23:00 英语截止日期之前完成的出色转会。" data-title="窗口关闭前可观看的转会" data-date="08-31" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-31</span>
+          <span class="news-item-title">窗口关闭前可观看的转会</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">科技创新 & AI 算力</span>
-      <span class="news-category-count">2 条</span>
+      <span class="news-category-count">3 条</span>
     </div>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-title="Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know." data-date="08-31" data-source="BBC">
+          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-31</span>
+          <span class="news-item-title">Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/edu/2026/09-01/10687717.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="【学思践悟】" data-title="强化教育对科技和人才的支撑作用" data-date="09-01" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>

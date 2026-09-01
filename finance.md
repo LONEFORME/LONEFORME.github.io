@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,563.65</span>
-      <span class="ticker-change down">▼ -1.22%</span>
+      <span class="ticker-price ticker-down">4,558.50</span>
+      <span class="ticker-change down">▼ -1.33%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7210</span>
+      <span class="ticker-price ticker-up">6.7207</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,483.72</span>
-      <span class="ticker-change down">▼ -0.01%</span>
+      <span class="ticker-price ticker-down">$4,487.00</span>
+      <span class="ticker-change down">▼ -0.02%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -237,4 +237,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-09-01 02:49 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-09-01 02:53 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
