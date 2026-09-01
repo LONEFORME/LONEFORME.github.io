@@ -74,12 +74,12 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳球队？" data-date="08-31" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳阵容？" data-date="08-31" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
         <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">谁入选了特洛伊本周英超最佳球队？</p>
+      <p class="hero-sub-title">谁入选了特洛伊本周英超最佳阵容？</p>
     </a>
     <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
       <div class="hero-sub-meta">
@@ -109,11 +109,11 @@ title: 热点新闻
           <span class="news-item-date">08-31</span>
           <span class="news-item-title">比赛获胜者萨卡表现如何？阿斯顿维拉 v 阿森纳 评分</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳球队？" data-date="08-31" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c74em1dx0pjo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本赛季每轮英超比赛结束后，特洛伊·迪尼都会向我们推荐他的本周最佳球队。你同意他的选择吗？" data-title="谁入选了特洛伊本周英超最佳阵容？" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">08-31</span>
-          <span class="news-item-title">谁入选了特洛伊本周英超最佳球队？</span>
+          <span class="news-item-title">谁入选了特洛伊本周英超最佳阵容？</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/crm97epp2l4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城提议以 8000 万英镑收购利物浦前锋科迪·加克波的提议接近失败。" data-title="曼城8000万英镑收购Gakpo的交易接近失败" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -146,11 +146,11 @@ title: 热点新闻
           <span class="news-item-date">08-30</span>
           <span class="news-item-title">卫星图像揭示村庄灾情的严重程度</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/daisy-chain-fields-olivia-rodrigo.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在第一届 Daisy Chain Fields 音乐节上，这位 23 岁的流行歌星提出了女性赋权的跨代愿景。 （也可以激活 Taco Bell。）" data-title="奥利维亚·罗德里戈的菊花链场：新女权主义音乐节初具规模" data-date="08-31" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/daisy-chain-fields-olivia-rodrigo.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在第一届 Daisy Chain Fields 音乐节上，这位 23 岁的流行歌星提出了女性赋权的跨代愿景。 （也可以激活 Taco Bell。）" data-title="奥利维亚·罗德里戈的菊花链领域：新女权主义音乐节初具规模" data-date="08-31" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">08-31</span>
-          <span class="news-item-title">奥利维亚·罗德里戈的菊花链场：新女权主义音乐节初具规模</span>
+          <span class="news-item-title">奥利维亚·罗德里戈的菊花链领域：新女权主义音乐节初具规模</span>
         </a>
   </div>
   <div class="news-category">
@@ -220,7 +220,7 @@ title: 热点新闻
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">杜安·戴维斯因策划图帕克·沙库尔谋杀案而被定罪</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/duane-davis-keffe-d-tupac-murder.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="杜安·基思·戴维斯 (Duane Keith Davis) 曾是南区康普顿克里普斯队 (South Side Compton Crips) 的高级成员，他长期表示 1996 年他和枪手一起坐在一辆凯迪拉克车里。然后他开始收回自己的说法。" data-title="在图帕克·沙库尔谋杀案审判中被定罪的杜安·“凯夫·D”·戴维斯是谁？" data-date="09-01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/08/31/arts/music/duane-davis-keffe-d-tupac-murder.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="杜安·基思·戴维斯(Duane Keith Davis)曾是南区康普顿克里普斯队(South Side Compton Crips)的高级成员，他长期表示，1996年他和枪手一起坐在一辆凯迪拉克车里。然后他开始收回自己的说法。" data-title="在图帕克·沙库尔谋杀案审判中被定罪的杜安·“凯夫·D”·戴维斯是谁？" data-date="09-01" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">09-01</span>
@@ -232,7 +232,7 @@ title: 热点新闻
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">图帕克·沙库尔被杀时正处于文化巅峰</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="官员称，警方在尝试使用不太致命的武力后，向这名持有两把刀的女子开枪。一名 32 岁女性死亡，一名 68 岁男性情况稳定。" data-title="女子在时代广场刺伤 2 人，造成 1 人死亡，被纽约警察局开枪打死" data-date="09-01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="官员称，警方在尝试使用不那么致命的武力后，向这名持有两把刀的女子开枪。一名 32 岁女性死亡，一名 68 岁男性情况稳定。" data-title="女子在时代广场刺伤 2 人，造成 1 人死亡，被纽约警察局开枪打死" data-date="09-01" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">09-01</span>
