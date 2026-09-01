@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,578.04</span>
-      <span class="ticker-change down">▼ -0.91%</span>
+      <span class="ticker-price ticker-down">4,563.65</span>
+      <span class="ticker-change down">▼ -1.22%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7208</span>
+      <span class="ticker-price ticker-up">6.7210</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,486.84</span>
-      <span class="ticker-change down">▼ -0.00%</span>
+      <span class="ticker-price ticker-down">$4,483.72</span>
+      <span class="ticker-change down">▼ -0.01%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,20 +216,8 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">3 条精选资讯</span>
+      <span class="news-category-count">1 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10687657.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月1日电 据福建省纪委监委消息：福建省政协经济委员会原副主任严正涉嫌严重违纪违法，目前正接受福建省纪委监委纪律审查和监察调查。" data-title="福建省政协经济委员会原副主任严正接受审查调查" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">福建省政协经济委员会原副主任严正接受审查调查</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-01/10687699.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月1日电 据国家能源局微信公众号消息，截至今年7月底，我国光伏发电装机容量达到12.86亿千瓦，其中集中式光伏7.04亿千瓦、分布式光伏5.82亿千瓦。光伏发电的装机容量首次超过煤电，成为我国装机规模最大的电源品类。(煤电装机容量12.85亿千瓦)" data-title="国家能源局：我国光伏发电装机历史性超过煤电" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">国家能源局：我国光伏发电装机历史性超过煤电</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5yj5eg69jjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="直到几年前，英语仍被塔吉克年轻人视为最重要的外语，但随着中国在中亚地区的经济影响力不断扩大，汉语成为了对年轻一代更具吸引力的选择。" data-title="塔吉克斯坦年轻人之间缘何兴起“汉语热”？" data-date="08-31" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -249,4 +237,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-09-01 02:34 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-09-01 02:49 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
