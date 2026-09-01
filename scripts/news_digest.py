@@ -176,10 +176,18 @@ SECTIONS_CONFIG = [
     },
     {
         "id": "shizheng",
-        "title": "综合要闻 & 社会动态 (时政国际 · 文化社会 · 环保教育)",
+        "title": "时政要闻 & 国际动态",
+        "tab_name": "🏛️ 时政与国际",
+        "flag": "🏛️",
+        "tag_class": "cat-shizheng",
+        "tag_label": "🏛️ 时政要闻",
+    },
+    {
+        "id": "zonghe",
+        "title": "综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)",
         "tab_name": "📰 综合与社会",
         "flag": "📰",
-        "tag_class": "cat-shizheng",
+        "tag_class": "cat-zonghe",
         "tag_label": "📰 综合要闻",
     },
 ]
@@ -502,9 +510,23 @@ def classify_item(item):
         if kw in text:
             return "caijing"
 
-    # 4. 综合要闻（时政国际 + 文化社会 + 环保教育 + 其他）
-    # 所有不匹配以上分类的新闻都归入综合要闻
-    return "shizheng"
+    # 4. 时政 & 国际
+    shizheng_keywords = [
+        "时政", "政治", "政府", "国务院", "中央", "主席", "总理", "部长", "省委", "市委",
+        "外交", "国际", "联合国", "美国", "中国", "俄罗斯", "欧盟", "日本", "韩国", "朝鲜",
+        "总统", "首相", "议会", "选举", "大选", "政策", "法规", "法律", "法案", "决议",
+        "军事", "军队", "国防", "战争", "冲突", "制裁", "外交", "峰会", "会谈", "访问",
+        "抗议", "示威", "罢工", "骚乱", "恐怖", "袭击", "安全", "情报", "间谍",
+        "politics", "government", "president", "minister", "election", "diplomacy",
+        "international", "united nations", "military", "war", "conflict", "sanction",
+        "summit", "talks", "visit", "protest", "strike", "riot", "terror", "attack"
+    ]
+    for kw in shizheng_keywords:
+        if kw in text:
+            return "shizheng"
+
+    # 5. 默认归入综合要闻（文化社会 + 环保教育 + 历史人文 + 其他）
+    return "zonghe"
 
 
 def _esc(text):
@@ -854,7 +876,7 @@ def main():
     log(f"[INFO] 去重后共 {len(unique)} 条")
 
     # 智能分类并分配板块
-    categorized_map = {"zuqiu": [], "keji": [], "caijing": [], "shizheng": []}
+    categorized_map = {"zuqiu": [], "keji": [], "caijing": [], "shizheng": [], "zonghe": []}
     for it in unique:
         cat_id = classify_item(it)
         it["cat_id"] = cat_id
