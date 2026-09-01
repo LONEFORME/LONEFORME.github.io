@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,926.53</span>
-      <span class="ticker-change down">▼ -0.65%</span>
+      <span class="ticker-price ticker-down">3,979.88</span>
+      <span class="ticker-change down">▼ -0.16%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,764.41</span>
-      <span class="ticker-change down">▼ -1.35%</span>
+      <span class="ticker-price ticker-up">14,017.42</span>
+      <span class="ticker-change up">▲ +0.02%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,367.04</span>
-      <span class="ticker-change down">▼ -1.67%</span>
+      <span class="ticker-price ticker-down">3,435.32</span>
+      <span class="ticker-change down">▼ -0.10%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,623.20</span>
-      <span class="ticker-change down">▼ -2.34%</span>
+      <span class="ticker-price ticker-down">1,679.89</span>
+      <span class="ticker-change down">▼ -0.27%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,619.87</span>
-      <span class="ticker-change up">▲ +0.32%</span>
+      <span class="ticker-price ticker-down">4,578.04</span>
+      <span class="ticker-change down">▼ -0.91%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,433.43</span>
+      <span class="ticker-price ticker-up">29,456.97</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7211</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.7208</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,494.32</span>
-      <span class="ticker-change up">▲ +0.07%</span>
+      <span class="ticker-price ticker-down">$4,486.84</span>
+      <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -151,7 +151,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+15.5 亿</span>
+      <span class="sector-flow-badge">+20.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -164,7 +164,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+19.5 亿</span>
+      <span class="sector-flow-badge">+48.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -177,7 +177,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+30.7 亿</span>
+      <span class="sector-flow-badge">+45.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -190,7 +190,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+42.4 亿</span>
+      <span class="sector-flow-badge">+25.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -211,7 +211,34 @@ title: 股票财经
   <span style="font-size: 12px; color: var(--color-muted);">鼠标悬停即可查看深度微型特稿与背景剖析</span>
 </div>
 
-<p style="text-align:center;color:var(--color-muted);padding:40px;">今日暂无财经资讯</p>
+<div class="news-grid">
+  <div class="news-category">
+    <div class="news-category-header">
+      <span class="category-flag">💰</span>
+      <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
+      <span class="news-category-count">3 条精选资讯</span>
+    </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10687657.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月1日电 据福建省纪委监委消息：福建省政协经济委员会原副主任严正涉嫌严重违纪违法，目前正接受福建省纪委监委纪律审查和监察调查。" data-title="福建省政协经济委员会原副主任严正接受审查调查" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">福建省政协经济委员会原副主任严正接受审查调查</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-01/10687699.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月1日电 据国家能源局微信公众号消息，截至今年7月底，我国光伏发电装机容量达到12.86亿千瓦，其中集中式光伏7.04亿千瓦、分布式光伏5.82亿千瓦。光伏发电的装机容量首次超过煤电，成为我国装机规模最大的电源品类。(煤电装机容量12.85亿千瓦)" data-title="国家能源局：我国光伏发电装机历史性超过煤电" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">国家能源局：我国光伏发电装机历史性超过煤电</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5yj5eg69jjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="直到几年前，英语仍被塔吉克年轻人视为最重要的外语，但随着中国在中亚地区的经济影响力不断扩大，汉语成为了对年轻一代更具吸引力的选择。" data-title="塔吉克斯坦年轻人之间缘何兴起“汉语热”？" data-date="08-31" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">08-31</span>
+          <span class="news-item-title">塔吉克斯坦年轻人之间缘何兴起“汉语热”？</span>
+        </a>
+  </div>
+</div>
+
 
 <div style="text-align: center; margin: 36px 0 20px;">
   <a href="{{ "/news" | relative_url }}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
@@ -222,4 +249,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-08-31 21:24 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-09-01 02:34 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
