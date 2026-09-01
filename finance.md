@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,584.95</span>
-      <span class="ticker-change down">▼ -0.76%</span>
+      <span class="ticker-price ticker-down">4,550.88</span>
+      <span class="ticker-change down">▼ -1.49%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7207</span>
+      <span class="ticker-price ticker-up">6.7239</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,478.99</span>
-      <span class="ticker-change up">▲ +0.00%</span>
+      <span class="ticker-price ticker-down">$4,419.81</span>
+      <span class="ticker-change down">▼ -0.01%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,13 +216,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">1 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5yj5eg69jjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="直到几年前，英语仍被塔吉克年轻人视为最重要的外语，但随着中国在中亚地区的经济影响力不断扩大，汉语成为了对年轻一代更具吸引力的选择。" data-title="塔吉克斯坦年轻人之间缘何兴起“汉语热”？" data-date="08-31" data-source="BBC">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10688193.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月1日电 9月1日下午，国务院总理李强在北京人民大会堂会见美中贸易全国委员会董事会主席麦凯恩率领的访华团。" data-title="李强会见美中贸易全国委员会董事会代表团" data-date="09-01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">李强会见美中贸易全国委员会董事会代表团</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="吉隆口岸位处西藏与尼泊尔的重要贸易通路之上，中国与尼泊尔两侧各有数以百计外国旅客在泥石流冲击后下落不明。" data-title="泥石流摧毁西藏吉隆口岸的关键几分钟" data-date="09-01" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">08-31</span>
-          <span class="news-item-title">塔吉克斯坦年轻人之间缘何兴起“汉语热”？</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">泥石流摧毁西藏吉隆口岸的关键几分钟</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="该公司股份正式在香港上市，这是其多年来试图在纽约和伦敦出售股票之后的成果。" data-title="Shein香港上市首日股价下跌　期待已久的股市首秀表现疲弱" data-date="09-01" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">Shein香港上市首日股价下跌　期待已久的股市首秀表现疲弱</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="全球政府借贷成本正触及数十年来的高点，反映出人们对债务水平、赤字和通胀的担忧。" data-title="全球债券抛售令投资者紧张" data-date="09-01" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-01</span>
+          <span class="news-item-title">全球债券抛售令投资者紧张</span>
         </a>
   </div>
 </div>
@@ -237,4 +255,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-09-01 04:29 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-09-01 12:18 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
