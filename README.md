@@ -80,8 +80,7 @@ LONEFORME.github.io/
 │   ├── news.md                 # 📰 热点新闻（自动生成）
 │   ├── finance.md              # 📈 股票财经（自动生成）
 │   ├── 3d-viewer.html          # 🧊 3D 模型查看器
-│   ├── 404.md                  # ❌ 404 页面
-│   └── models.json             # 3D 模型数据索引
+│   └── 404.md                  # ❌ 404 页面
 │
 ├── 🎨 Jekyll 配置
 │   ├── _config.yml             # Jekyll 站点配置
@@ -98,6 +97,7 @@ LONEFORME.github.io/
 │   │   ├── leishen_n10p.md     # 镭神 N10P + SLAM Toolbox
 │   │   └── rpi4_deploy.md      # 树莓派 4B 部署指南
 │   ├── models/                  # 3D 打印模型库
+│   │   ├── models.json           # 3D 模型数据索引
 │   │   ├── 01-飞控与无人机/     # 飞控板、摄像头支架、保护罩等
 │   │   ├── 02-摄像头系统/       # 摄像头支架、舵机云台等
 │   │   ├── 03-小车底盘/         # 底盘、电机支架、拓展坞等
