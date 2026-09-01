@@ -176,11 +176,11 @@ SECTIONS_CONFIG = [
     },
     {
         "id": "shizheng",
-        "title": "时政要闻 & 国际动态",
-        "tab_name": "🏛️ 时政与国际",
-        "flag": "🏛️",
+        "title": "综合要闻 & 社会动态 (时政国际 · 文化社会 · 环保教育)",
+        "tab_name": "📰 综合与社会",
+        "flag": "📰",
         "tag_class": "cat-shizheng",
-        "tag_label": "🏛️ 时政要闻",
+        "tag_label": "📰 综合要闻",
     },
 ]
 
@@ -490,19 +490,20 @@ def classify_item(item):
         if kw in text:
             return "keji"
 
-    # 3. 财经 & 宏观
+    # 3. 财经 & 宏观 & 产业
     finance_keywords = [
         "财经", "经济", "人民币", "中间价", "汇率", "外汇", "股市", "a股", "美股", "港股", "个股",
-        "大盘", "指数", "低开", "高开", "涨停", "跌停", "关税", "贸易", "美加", "供应链", "航运",
+        "大盘", "指数", "低开", "高开", "涨停", "跌停", "关税", "贸易", "供应链", "航运",
         "核电", "能源", "光伏", "储能", "央行", "加息", "降息", "美联储", "通胀", "cpi", "gdp",
-        "资产", "证券", "债券", "金融", "投资", "税收", "tariff", "trade", "inflation", "market",
-        "economy", "financial", "stock"
+        "资产", "证券", "债券", "金融", "投资", "税收", "企业", "产业", "台企", "深耕", "赛道",
+        "tariff", "trade", "inflation", "market", "economy", "financial", "stock", "company"
     ]
     for kw in finance_keywords:
         if kw in text:
             return "caijing"
 
-    # 4. 默认归入时政
+    # 4. 综合要闻（时政国际 + 文化社会 + 环保教育 + 其他）
+    # 所有不匹配以上分类的新闻都归入综合要闻
     return "shizheng"
 
 
