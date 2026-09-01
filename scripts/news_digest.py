@@ -403,6 +403,36 @@ def is_error_page(title, summary=""):
     return False
 
 
+def is_sensitive_content(title, summary=""):
+    """检测是否是敏感/偏见/负面新闻，返回 True 表示应该过滤掉"""
+    if not title:
+        return False
+    text = (str(title) + " " + str(summary or "")).lower()
+    # 敏感词组合：涉及中国的负面/偏见报道关键词
+    sensitive_patterns = [
+        # 政治批评类
+        "审查", "监控", "镇压", "压迫", "独裁", "一党", "极权", "威权",
+        "人权", "侵犯人权", "宗教迫害", "言论自由", "新闻自由",
+        "渗透", "间谍", "窃取", "黑客攻击", "网络攻击",
+        # 地区敏感类（负面报道）
+        "西藏", "新疆", "香港", "台湾", "台独", "港独", "藏独", "疆独",
+        "集中营", "再教育营", "强迫劳动", "种族灭绝",
+        # 经济/科技负面指控
+        "债务陷阱", "新殖民", "经济胁迫", "技术盗窃", "知识产权盗窃",
+        # 英文敏感词
+        "censorship", "surveillance", "oppression", "dictatorship",
+        "human rights", "religious persecution", "freedom of speech",
+        "espionage", "spy", "hack", "cyber attack",
+        "tibet", "xinjiang", "hong kong", "taiwan", "independence",
+        "concentration camp", "reeducation camp", "forced labor", "genocide",
+        "debt trap", "neocolonial", "economic coercion", "ip theft",
+    ]
+    for kw in sensitive_patterns:
+        if kw in text:
+            return True
+    return False
+
+
 def is_recent(date_str):
     if not date_str:
         return True
@@ -438,6 +468,10 @@ def fetch_rss(url, source_name, timeout=20):
                 raw_sum_check = str(entry.get("summary", entry.get("description", "")) or "")
                 if is_error_page(title, raw_sum_check):
                     log(f"  [SKIP] 错误页面/无效标题: {title[:60]}")
+                    continue
+                # 过滤敏感/偏见/负面新闻
+                if is_sensitive_content(title, raw_sum_check):
+                    log(f"  [SKIP] 敏感/偏见新闻: {title[:60]}")
                     continue
                 title, publisher = parse_publisher(title)
                 title = to_simplified(clean_title(title))
