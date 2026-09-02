@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,482.23</span>
-      <span class="ticker-change down">▼ -1.51%</span>
+      <span class="ticker-price ticker-down">4,513.26</span>
+      <span class="ticker-change down">▼ -0.83%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7238</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.7219</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,344.40</span>
-      <span class="ticker-change down">▼ -0.03%</span>
+      <span class="ticker-price ticker-up">$4,374.64</span>
+      <span class="ticker-change up">▲ +0.02%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,18 +216,36 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">2 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="吉隆口岸位处西藏与尼泊尔的重要贸易通路之上，中国与尼泊尔两侧各有数以百计外国旅客在泥石流冲击后下落不明。" data-title="泥石流摧毁西藏吉隆口岸的关键几分钟" data-date="09-01" data-source="BBC">
+        <a class="news-item" href="https://www.chinanews.com.cn/cul/2026/09-02/10688961.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社太原9月2日电 (记者 胡健)第十届平遥国际电影展产业单元“迁徙计划·从文学到影视”推荐作品2日揭晓，艾伟、梁鸿、肖克凡、畀愚等作家创作的10部文学作品入选推荐名单。" data-title="第十届平遥国际电影展公布“迁徙计划”推荐名单" data-date="09-02 19:28" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">泥石流摧毁西藏吉隆口岸的关键几分钟</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:28</span>
+          <span class="news-item-title">第十届平遥国际电影展公布“迁徙计划”推荐名单</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本企业正加码布局印度，因国内市场萎缩及中国风险升高。" data-title="日本企业大举押注印度　中国风险加深之际寻求新成长" data-date="09-02" data-source="BBC">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国和伊朗军队再次相互攻击，推高油价，股市下跌，令债券投资者感到紧张。" data-title="投资者仍对战争、债务和通货膨胀感到紧张" data-date="09-02 19:27" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-02 19:27</span>
+          <span class="news-item-title">投资者仍对战争、债务和通货膨胀感到紧张</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="如果您拥有债券，它们可能属于没有损失太多资金的广泛基金。该基金在未来几年可能会表现得更好。" data-title="全球债券利率正在上升。你现在应该做什么？" data-date="09-02 17:04" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-02 17:04</span>
+          <span class="news-item-title">全球债券利率正在上升。你现在应该做什么？</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在一次旨在向世界展示特朗普总统的经济政策的峰会上，欧洲人抱怨关税和与伊朗的战争。" data-title="在 G20 峰会上，一些美国盟友反击特朗普的经济方针" data-date="09-02 10:56" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-02 10:56</span>
+          <span class="news-item-title">在 G20 峰会上，一些美国盟友反击特朗普的经济方针</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本企业正加码布局印度，因国内市场萎缩及中国风险升高。" data-title="日本企业大举押注印度　中国风险加深之际寻求新成长" data-date="09-02 08:01" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02</span>
+          <span class="news-item-date">09-02 08:01</span>
           <span class="news-item-title">日本企业大举押注印度　中国风险加深之际寻求新成长</span>
         </a>
   </div>
@@ -243,4 +261,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-09-02 03:52 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-02 19:41（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
