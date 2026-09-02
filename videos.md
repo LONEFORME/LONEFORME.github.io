@@ -24,10 +24,10 @@ title: 飞行演示
   <div class="video-card">
     <div class="video-card-header">
       <h3>📱 二维码识别与降落</h3>
-      <span class="video-badge">竖屏 · 32MB</span>
+      <span class="video-badge">竖屏 · 9.8MB (FastStart)</span>
     </div>
     <div class="video-wrapper">
-      <video controls preload="metadata" poster="">
+      <video controls preload="none" poster="{{ "/assets/images/videos/poster_qrcode.jpg" | relative_url }}">
         <source src="{{ "/assets/videos/二维码.mp4" | relative_url }}" type="video/mp4">
         您的浏览器不支持视频播放，请 <a href="{{ "/assets/videos/二维码.mp4" | relative_url }}">点击下载</a>。
       </video>
@@ -39,10 +39,10 @@ title: 飞行演示
   <div class="video-card">
     <div class="video-card-header">
       <h3>🔥 火源识别与处理</h3>
-      <span class="video-badge">竖屏 · 11MB</span>
+      <span class="video-badge">竖屏 · 3.2MB (FastStart)</span>
     </div>
     <div class="video-wrapper">
-      <video controls preload="metadata" poster="">
+      <video controls preload="none" poster="{{ "/assets/images/videos/poster_fire.jpg" | relative_url }}">
         <source src="{{ "/assets/videos/火源.mp4" | relative_url }}" type="video/mp4">
         您的浏览器不支持视频播放，请 <a href="{{ "/assets/videos/火源.mp4" | relative_url }}">点击下载</a>。
       </video>
@@ -54,10 +54,10 @@ title: 飞行演示
   <div class="video-card">
     <div class="video-card-header">
       <h3>🎯 绕杆飞行</h3>
-      <span class="video-badge">横屏 · 9MB</span>
+      <span class="video-badge">横屏 · 7.5MB (FastStart)</span>
     </div>
     <div class="video-wrapper">
-      <video controls preload="metadata" poster="">
+      <video controls preload="none" poster="{{ "/assets/images/videos/poster_pole.jpg" | relative_url }}">
         <source src="{{ "/assets/videos/绕杆.mp4" | relative_url }}" type="video/mp4">
         您的浏览器不支持视频播放，请 <a href="{{ "/assets/videos/绕杆.mp4" | relative_url }}">点击下载</a>。
       </video>
@@ -69,10 +69,10 @@ title: 飞行演示
   <div class="video-card">
     <div class="video-card-header">
       <h3>🛬 精准降落</h3>
-      <span class="video-badge">横屏 · 10MB</span>
+      <span class="video-badge">横屏 · 5.7MB (FastStart)</span>
     </div>
     <div class="video-wrapper">
-      <video controls preload="metadata" poster="">
+      <video controls preload="none" poster="{{ "/assets/images/videos/poster_landing.jpg" | relative_url }}">
         <source src="{{ "/assets/videos/降落.mp4" | relative_url }}" type="video/mp4">
         您的浏览器不支持视频播放，请 <a href="{{ "/assets/videos/降落.mp4" | relative_url }}">点击下载</a>。
       </video>
@@ -93,7 +93,7 @@ title: 飞行演示
 | **定位** | Intel RealSense T265（VIO） |
 | **视频仓库** | [lingxiao-drone](https://github.com/LONEFORME/lingxiao-drone) |
 
-> 💡 视频已压缩为 H.264 + AAC 格式，支持所有现代浏览器原生播放。原始视频总计 1.14GB，压缩后仅 62MB，压缩率 94.5%。
+> 💡 视频已全部开启 **FastStart 流式秒开优化**（索引头置顶），并深度压缩为高能效 H.264 + AAC 格式。4 段视频总大小从 65MB 锐减至 **26.2MB**，配合首帧高清封面，打开页面零等待、点击即刻流畅播放。
 
 <style>
 .video-grid {
