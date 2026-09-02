@@ -169,12 +169,12 @@ SOURCE_CSS_MAP = {
 # ===== 3 大核心综合板块定义 (财经已独立到 finance.md) =====
 SECTIONS_CONFIG = [
     {
-        "id": "zuqiu",
-        "title": "英超与足球风云 (赛况战术 · 转会焦点)",
-        "tab_name": "⚽ 英超与足球风云",
-        "flag": "⚽",
-        "tag_class": "cat-zuqiu",
-        "tag_label": "⚽ 足球专栏",
+        "id": "shizheng",
+        "title": "时政要闻 & 国际动态",
+        "tab_name": "🏛️ 时政与国际",
+        "flag": "🏛️",
+        "tag_class": "cat-shizheng",
+        "tag_label": "🏛️ 时政要闻",
     },
     {
         "id": "keji",
@@ -185,12 +185,12 @@ SECTIONS_CONFIG = [
         "tag_label": "🤖 科技前沿",
     },
     {
-        "id": "shizheng",
-        "title": "时政要闻 & 国际动态",
-        "tab_name": "🏛️ 时政与国际",
-        "flag": "🏛️",
-        "tag_class": "cat-shizheng",
-        "tag_label": "🏛️ 时政要闻",
+        "id": "zuqiu",
+        "title": "英超与足球风云 (赛况战术 · 转会焦点)",
+        "tab_name": "⚽ 英超与足球风云",
+        "flag": "⚽",
+        "tag_class": "cat-zuqiu",
+        "tag_label": "⚽ 足球专栏",
     },
     {
         "id": "zonghe",
@@ -775,21 +775,57 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
 </div>
 '''
 
-    # 2. 头条焦点区
-    all_sorted = []
+    # 2. 头条焦点区（多板块跨领域智能均衡精选，杜绝单一板块霸屏）
+    category_top_items = {}
     for sec in SECTIONS_CONFIG:
-        all_sorted.extend(categorized_map.get(sec["id"], []))
+        sec_items = categorized_map.get(sec["id"], [])
+        if sec_items:
+            category_top_items[sec["id"]] = sec_items
+
+    # 优先选出 1 条重磅主头条（时政要闻 > 科技创新 > 综合社会 > 足球 > 外媒）
+    featured = None
+    featured_cat = "shizheng"
+    for preferred_cat in ["shizheng", "keji", "zonghe", "zuqiu", "meimei"]:
+        if preferred_cat in category_top_items and category_top_items[preferred_cat]:
+            featured = category_top_items[preferred_cat][0]
+            featured_cat = preferred_cat
+            break
+
+    # 副焦点（3条）：从其他不同板块各挑1条最新资讯（保证覆盖科技、足球、综合等多元领域）
+    sub_items = []
+    if featured:
+        # 先轮询其他不同板块各取 1 条
+        for sec in SECTIONS_CONFIG:
+            sec_id = sec["id"]
+            if sec_id != featured_cat and sec_id in category_top_items:
+                for candidate in category_top_items[sec_id]:
+                    if candidate != featured and candidate not in sub_items:
+                        sub_items.append(candidate)
+                        break
+            if len(sub_items) >= 3:
+                break
+
+        # 若不同板块不足 3 条，用剩余任意最新新闻补足
+        if len(sub_items) < 3:
+            for sec in SECTIONS_CONFIG:
+                for it in categorized_map.get(sec["id"], []):
+                    if it != featured and it not in sub_items:
+                        sub_items.append(it)
+                        if len(sub_items) >= 3:
+                            break
+
+    def _get_tag_label(cat_id):
+        for sec in SECTIONS_CONFIG:
+            if sec["id"] == cat_id:
+                return sec.get("tag_label", "🔥 焦点")
+        return "🔥 焦点"
 
     hero_html = ""
-    if all_sorted:
-        featured = all_sorted[0]
-        sub_items = all_sorted[1:4]
-
+    if featured:
         featured_sum = _esc(featured.get("summary") or featured["title"])
         featured_title = _esc(featured["title"])
         featured_date = _format_item_time(featured)
-        featured_cat = featured.get("cat_id", "zuqiu")
-        featured_tag_label = "⚽ 足球专栏" if featured_cat == "zuqiu" else "🔥 焦点头条"
+        featured_tag_label = _get_tag_label(featured_cat)
 
         hero_html += '<div class="news-hero">\n'
         hero_html += '  <div class="news-hero-badge">🔥 今日头条焦点</div>\n'
@@ -812,9 +848,10 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
                 s_title = _esc(s_item["title"])
                 s_date = _format_item_time(s_item)
                 s_cat = s_item.get("cat_id", "keji")
+                s_tag_label = _get_tag_label(s_cat)
                 hero_html += f'    <a class="hero-sub-card" href="{s_item["link"]}" target="_blank" rel="noopener" data-cat="{s_cat}" data-summary="{s_sum}" data-title="{s_title}" data-date="{s_date}" data-source="{s_item["source"]}">\n'
                 hero_html += f'      <div class="hero-sub-meta">\n'
-                hero_html += f'        <span class="news-cat-tag cat-{s_cat}">🔥 焦点</span>\n'
+                hero_html += f'        <span class="news-cat-tag cat-{s_cat}">{s_tag_label}</span>\n'
                 hero_html += f'        <span class="source-badge {source_to_css(s_item["source"])}">{source_to_flag(s_item["source"])} {s_item["source"]}</span>\n'
                 hero_html += f'      </div>\n'
                 hero_html += f'      <p class="hero-sub-title">{s_item["title"]}</p>\n'
