@@ -9,6 +9,11 @@ on:
 permissions:
   contents: write
 
+# 防止两次定时任务或手动触发同时运行产生 git push 冲突
+concurrency:
+  group: news-digest
+  cancel-in-progress: false
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -16,7 +21,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: 安装依赖
-        run: pip install feedparser requests zhconv deep-translator
+        run: pip install -r requirements.txt
 
       - name: 生成新闻与财经摘要
         run: python scripts/news_digest.py

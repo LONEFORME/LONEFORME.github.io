@@ -11,9 +11,13 @@
 import os
 import re
 import sys
+import time
 import requests
 import feedparser
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+
+# 北京时间 UTC+8
+BEIJING_TZ = timezone(timedelta(hours=8))
 
 try:
     import zhconv
@@ -124,6 +128,10 @@ MODEL = "deepseek-v4-flash"
 MAX_ARTICLES_PER_FEED = 8
 MAX_TOTAL_PER_SECTION = 6
 MAX_AGE_DAYS = 30
+FRONTPAGE_MAX_HOURS = 48        # 首页只保留最近 48 小时的新闻
+MIN_ARTICLES_THRESHOLD = 3      # 有效新闻低于此值时不覆盖旧页面
+MAX_RETRIES = 3                 # 网络请求最大重试次数
+RETRY_DELAY = 2                 # 重试间隔（秒）
 
 SOURCE_NAME_MAP = {
     "people.com.cn": "人民网",
@@ -232,64 +240,69 @@ DEFAULT_INDICES = {
 
 
 def fetch_sina_quote(code):
-    """从新浪财经获取单只股票/指数行情"""
-    try:
-        url = f"https://hq.sinajs.cn/list={code}"
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-            "Referer": "https://finance.sina.com.cn"
-        }
-        r = requests.get(url, headers=headers, timeout=10)
-        r.encoding = "gbk"
-        text = r.text
-        match = re.search(r'="([^"]+)"', text)
-        if not match:
-            return None
-        parts = match.group(1).split(",")
-        if len(parts) < 4:
-            return None
-        if code.startswith("sh") or code.startswith("sz"):
-            # A股指数: 名称,当前,昨收,今开,最高,最低,...
-            name = parts[0]
-            current = float(parts[1]) if parts[1] else 0
-            prev_close = float(parts[2]) if parts[2] else 0
-            change = current - prev_close
-            change_pct = (change / prev_close * 100) if prev_close else 0
-            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
-        elif code.startswith("hk"):
-            # 港股: 代码,名称,昨收,今开,最高,最低,当前,涨跌,涨跌幅,...
-            name = parts[1] if len(parts) > 1 else parts[0]
-            current = float(parts[6]) if len(parts) > 6 and parts[6] else 0
-            change = float(parts[7]) if len(parts) > 7 and parts[7] else 0
-            change_pct = float(parts[8]) if len(parts) > 8 and parts[8] else 0
-            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
-        elif code.startswith("gb_"):
-            # 美股: 名称,当前,涨跌,时间,...,最高,最低,...
-            name = parts[0]
-            current = float(parts[1]) if parts[1] else 0
-            change = float(parts[2]) if parts[2] else 0
-            prev_close = current - change
-            change_pct = (change / prev_close * 100) if prev_close else 0
-            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
-        elif code.startswith("fx_"):
-            # 外汇: 时间,当前买,当前卖,...,昨收,名称,涨跌(基点),涨跌幅%,...
-            name = parts[9] if len(parts) > 9 and parts[9] else "外汇"
-            current = float(parts[1]) if parts[1] else 0
-            change_bp = float(parts[10]) if len(parts) > 10 and parts[10] else 0
-            change = change_bp / 10000  # 基点转价格
-            change_pct = float(parts[11]) if len(parts) > 11 and parts[11] else 0
-            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
-        elif code.startswith("hf_"):
-            # 期货: 当前,,昨收,今开,最高,最低,时间,最高2,最低2,...,日期,名称
-            name = parts[13] if len(parts) > 13 and parts[13] else "期货"
-            current = float(parts[0]) if parts[0] else 0
-            prev_close = float(parts[2]) if len(parts) > 2 and parts[2] else 0
-            change = current - prev_close
-            change_pct = (change / prev_close * 100) if prev_close else 0
-            return {"name": name, "current": current, "change": change, "change_pct": change_pct}
-    except Exception as e:
-        log(f"  [ERROR] 获取行情失败 {code}: {e}")
-        return None
+    """从新浪财经获取单只股票/指数行情（带重试）"""
+    url = f"https://hq.sinajs.cn/list={code}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Referer": "https://finance.sina.com.cn"
+    }
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            r = requests.get(url, headers=headers, timeout=10)
+            r.encoding = "gbk"
+            text = r.text
+            match = re.search(r'="([^"]+)"', text)
+            if not match:
+                return None
+            parts = match.group(1).split(",")
+            if len(parts) < 4:
+                return None
+            if code.startswith("sh") or code.startswith("sz"):
+                # A股指数: 名称,当前,昨收,今开,最高,最低,...
+                name = parts[0]
+                current = float(parts[1]) if parts[1] else 0
+                prev_close = float(parts[2]) if parts[2] else 0
+                change = current - prev_close
+                change_pct = (change / prev_close * 100) if prev_close else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+            elif code.startswith("hk"):
+                # 港股: 代码,名称,昨收,今开,最高,最低,当前,涨跌,涨跌幅,...
+                name = parts[1] if len(parts) > 1 else parts[0]
+                current = float(parts[6]) if len(parts) > 6 and parts[6] else 0
+                change = float(parts[7]) if len(parts) > 7 and parts[7] else 0
+                change_pct = float(parts[8]) if len(parts) > 8 and parts[8] else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+            elif code.startswith("gb_"):
+                # 美股: 名称,当前,涨跌,时间,...,最高,最低,...
+                name = parts[0]
+                current = float(parts[1]) if parts[1] else 0
+                change = float(parts[2]) if parts[2] else 0
+                prev_close = current - change
+                change_pct = (change / prev_close * 100) if prev_close else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+            elif code.startswith("fx_"):
+                # 外汇: 时间,当前买,当前卖,...,昨收,名称,涨跌(基点),涨跌幅%,...
+                name = parts[9] if len(parts) > 9 and parts[9] else "外汇"
+                current = float(parts[1]) if parts[1] else 0
+                change_bp = float(parts[10]) if len(parts) > 10 and parts[10] else 0
+                change = change_bp / 10000  # 基点转价格
+                change_pct = float(parts[11]) if len(parts) > 11 and parts[11] else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+            elif code.startswith("hf_"):
+                # 期货: 当前,,昨收,今开,最高,最低,时间,最高2,最低2,...,日期,名称
+                name = parts[13] if len(parts) > 13 and parts[13] else "期货"
+                current = float(parts[0]) if parts[0] else 0
+                prev_close = float(parts[2]) if len(parts) > 2 and parts[2] else 0
+                change = current - prev_close
+                change_pct = (change / prev_close * 100) if prev_close else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+        except Exception as e:
+            if attempt < MAX_RETRIES:
+                log(f"  [RETRY {attempt}/{MAX_RETRIES}] 行情 {code}: {e}")
+                time.sleep(1)
+            else:
+                log(f"  [ERROR] 获取行情失败 {code}（已重试 {MAX_RETRIES} 次）: {e}")
+                return None
 
 
 def fetch_all_market_indices():
@@ -329,7 +342,7 @@ def format_number(num, decimals=2):
 
 
 def log(msg):
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    now = datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M:%S")
     print(f"[{now}] {msg}", flush=True)
 
 
@@ -353,28 +366,72 @@ def normalize_source(raw_source, title="", link=""):
     return raw_source[:15] if raw_source else "综合"
 
 
-def normalize_date(raw_date):
+def parse_datetime_bj(raw_date):
+    """解析 RSS 日期字符串，统一转换为北京时间 datetime 对象。
+    如果 RSS 日期带 UTC/GMT 偏移，先解析再转为北京时间；
+    如果无时区信息（国内源常见），假设为北京时间。
+    """
+    now_bj = datetime.now(BEIJING_TZ)
     if not raw_date:
-        return datetime.now().strftime("%Y-%m-%d")
-    formats = [
-        "%a, %d %b %Y %H:%M:%S %z",
-        "%a, %d %b %Y %H:%M:%S %Z",
-        "%a, %d %b %Y %H:%M:%S GMT",
-        "%Y-%m-%dT%H:%M:%S%z",
-        "%Y-%m-%dT%H:%M:%SZ",
-        "%Y-%m-%d %H:%M:%S",
-        "%Y-%m-%d",
+        return now_bj
+
+    # 预处理：移除 feedparser 常见的多余空白
+    raw_date = raw_date.strip()
+
+    # 带时区偏移的格式（能正确解析 +0000, +0800, -0500 等）
+    tz_formats = [
+        "%a, %d %b %Y %H:%M:%S %z",       # RFC 2822: "Mon, 02 Sep 2026 06:00:00 +0000"
+        "%Y-%m-%dT%H:%M:%S%z",             # ISO 8601: "2026-09-02T06:00:00+00:00"
     ]
-    for fmt in formats:
+    for fmt in tz_formats:
         try:
-            dt = datetime.strptime(raw_date.strip(), fmt)
-            return dt.strftime("%Y-%m-%d")
+            dt = datetime.strptime(raw_date, fmt)
+            return dt.astimezone(BEIJING_TZ)  # 转为北京时间
         except ValueError:
             continue
+
+    # GMT 明确标注（视为 UTC+0）
+    gmt_formats = [
+        "%a, %d %b %Y %H:%M:%S GMT",
+        "%Y-%m-%dT%H:%M:%SZ",              # "2026-09-02T06:00:00Z"
+    ]
+    for fmt in gmt_formats:
+        try:
+            dt = datetime.strptime(raw_date, fmt)
+            dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(BEIJING_TZ)
+        except ValueError:
+            continue
+
+    # 无时区信息的格式（假设为北京时间）
+    naive_formats = [
+        "%a, %d %b %Y %H:%M:%S",
+        "%Y-%m-%d %H:%M:%S",
+        "%Y-%m-%d %H:%M",
+        "%Y-%m-%d",
+    ]
+    for fmt in naive_formats:
+        try:
+            dt = datetime.strptime(raw_date, fmt)
+            return dt.replace(tzinfo=BEIJING_TZ)  # 假设北京时间
+        except ValueError:
+            continue
+
+    # 最后尝试正则提取日期
     m = re.search(r'(\d{4})[-/](\d{1,2})[-/](\d{1,2})', raw_date)
     if m:
-        return f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}"
-    return datetime.now().strftime("%Y-%m-%d")
+        try:
+            dt = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=BEIJING_TZ)
+            return dt
+        except ValueError:
+            pass
+
+    return now_bj
+
+
+def normalize_date(raw_date):
+    """兼容包装：返回北京时间日期字符串 YYYY-MM-DD"""
+    return parse_datetime_bj(raw_date).strftime("%Y-%m-%d")
 
 
 def clean_title(title):
@@ -441,14 +498,33 @@ def is_sensitive_content(title, summary=""):
     return False
 
 
-def is_recent(date_str):
-    if not date_str:
+def is_recent(dt_or_str):
+    """判断是否在 MAX_AGE_DAYS 天内（用于存档保留）"""
+    if dt_or_str is None:
         return True
+    now_bj = datetime.now(BEIJING_TZ)
+    if isinstance(dt_or_str, datetime):
+        if dt_or_str.tzinfo is None:
+            dt_or_str = dt_or_str.replace(tzinfo=BEIJING_TZ)
+        return now_bj - dt_or_str <= timedelta(days=MAX_AGE_DAYS)
+    # 兼容字符串
     try:
-        dt = datetime.strptime(date_str, "%Y-%m-%d")
-        return datetime.now() - dt <= timedelta(days=MAX_AGE_DAYS)
+        dt = datetime.strptime(dt_or_str, "%Y-%m-%d").replace(tzinfo=BEIJING_TZ)
+        return now_bj - dt <= timedelta(days=MAX_AGE_DAYS)
     except ValueError:
         return True
+
+
+def is_frontpage_fresh(dt_obj):
+    """判断是否在 FRONTPAGE_MAX_HOURS 小时内（用于首页过滤）"""
+    if dt_obj is None:
+        return True
+    now_bj = datetime.now(BEIJING_TZ)
+    if isinstance(dt_obj, datetime):
+        if dt_obj.tzinfo is None:
+            dt_obj = dt_obj.replace(tzinfo=BEIJING_TZ)
+        return now_bj - dt_obj <= timedelta(hours=FRONTPAGE_MAX_HOURS)
+    return True
 
 
 def parse_publisher(title):
@@ -462,9 +538,22 @@ def parse_publisher(title):
 
 
 def fetch_rss(url, source_name, timeout=20):
+    # 带重试的 HTTP 请求
+    r = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        try:
+            r = requests.get(url, timeout=timeout, headers={"User-Agent": UA})
+            r.raise_for_status()
+            break
+        except Exception as e:
+            if attempt < MAX_RETRIES:
+                log(f"  [RETRY {attempt}/{MAX_RETRIES}] {source_name}: {e}")
+                time.sleep(RETRY_DELAY)
+            else:
+                log(f"  [ERROR] 抓取失败（已重试 {MAX_RETRIES} 次）: {e}")
+                return []
+
     try:
-        r = requests.get(url, timeout=timeout, headers={"User-Agent": UA})
-        r.raise_for_status()
         feed = feedparser.parse(r.content)
         entries = []
         for entry in feed.entries[:MAX_ARTICLES_PER_FEED]:
@@ -484,7 +573,10 @@ def fetch_rss(url, source_name, timeout=20):
                 if not has_chinese(title):
                     title = translate_to_chinese(title)
                 src = normalize_source(publisher if publisher else source_name, title, link)
-                date = normalize_date(published)
+                # 解析为北京时间 datetime 对象
+                pub_dt = parse_datetime_bj(published)
+                date = pub_dt.strftime("%Y-%m-%d")
+                pub_time = pub_dt.strftime("%H:%M")
                 raw_sum = entry.get("summary", entry.get("description", ""))
                 clean_sum = re.sub(r'<[^>]+>', '', raw_sum).strip()
                 clean_sum = re.sub(r'\s+', ' ', clean_sum)
@@ -492,11 +584,13 @@ def fetch_rss(url, source_name, timeout=20):
                 # 英文摘要自动翻译成中文
                 if clean_sum and not has_chinese(clean_sum):
                     clean_sum = translate_to_chinese(clean_sum)
-                if is_recent(date):
+                if is_recent(pub_dt):
                     entries.append({
                         "title": title,
                         "link": link,
                         "date": date,
+                        "published_dt": pub_dt,
+                        "published_time": pub_time,
                         "source": src,
                         "summary": clean_sum[:350]
                     })
@@ -504,7 +598,7 @@ def fetch_rss(url, source_name, timeout=20):
                     log(f"  [SKIP] 过旧文章 ({date}): {title[:40]}")
         return entries
     except Exception as e:
-        log(f"  [ERROR] 抓取失败: {e}")
+        log(f"  [ERROR] 解析失败: {e}")
         return []
 
 
@@ -581,6 +675,19 @@ def _date_short(date_str):
     return date_str[-5:] if len(date_str) >= 5 else date_str
 
 
+def _format_item_time(item):
+    """格式化展示时间，如 '09-02 14:25'，若无具体时间则展示 '09-02'"""
+    pub_dt = item.get("published_dt")
+    if isinstance(pub_dt, datetime):
+        return pub_dt.strftime("%m-%d %H:%M")
+    d = item.get("date", "")
+    t = item.get("published_time", "")
+    d_short = d[-5:] if len(d) >= 5 else d
+    if t and t != "00:00":
+        return f"{d_short} {t}"
+    return d_short
+
+
 def build_archive_chips(date_only):
     """扫描 archive/ 目录生成往期历史速查条"""
     archive_dir = "archive"
@@ -610,9 +717,10 @@ def build_archive_chips(date_only):
     return chips_html
 
 
-def build_page_html(categorized_map, date_only):
+def build_page_html(categorized_map, date_only, crawled_time=""):
     """生成完整的美观新闻页面 HTML"""
     total_count = sum(len(items) for sec in SECTIONS_CONFIG for items in [categorized_map.get(sec["id"], [])])
+    update_badge = f"{date_only} 今日更新" if not crawled_time else f"{crawled_time} 抓取更新"
 
     # 1. 复合 Header 控制台 (标题 + 频道 Tab + 往期历史入口)
     header_html = f'''<div class="news-header-box">
@@ -623,7 +731,7 @@ def build_page_html(categorized_map, date_only):
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>{date_only} 今日更新</span>
+      <span>{update_badge}</span>
     </div>
   </div>
 
@@ -668,7 +776,7 @@ def build_page_html(categorized_map, date_only):
 
         featured_sum = _esc(featured.get("summary") or featured["title"])
         featured_title = _esc(featured["title"])
-        featured_date = _date_short(featured["date"])
+        featured_date = _format_item_time(featured)
         featured_cat = featured.get("cat_id", "zuqiu")
         featured_tag_label = "⚽ 足球专栏" if featured_cat == "zuqiu" else "🔥 焦点头条"
 
@@ -679,7 +787,7 @@ def build_page_html(categorized_map, date_only):
         hero_html += f'      <div class="hero-featured-meta">\n'
         hero_html += f'        <span class="news-cat-tag cat-{featured_cat}">{featured_tag_label}</span>\n'
         hero_html += f'        <span class="source-badge {source_to_css(featured["source"])}">{source_to_flag(featured["source"])} {featured["source"]}</span>\n'
-        hero_html += f'        <span class="hero-featured-date">{featured_date}</span>\n'
+        hero_html += f'        <span class="hero-featured-date">🕒 {featured_date}</span>\n'
         hero_html += f'      </div>\n'
         hero_html += f'      <h2 class="hero-featured-title">{featured["title"]}</h2>\n'
         hero_html += f'    </div>\n'
@@ -691,7 +799,7 @@ def build_page_html(categorized_map, date_only):
             for s_item in sub_items:
                 s_sum = _esc(s_item.get("summary") or s_item["title"])
                 s_title = _esc(s_item["title"])
-                s_date = _date_short(s_item["date"])
+                s_date = _format_item_time(s_item)
                 s_cat = s_item.get("cat_id", "keji")
                 hero_html += f'    <a class="hero-sub-card" href="{s_item["link"]}" target="_blank" rel="noopener" data-cat="{s_cat}" data-summary="{s_sum}" data-title="{s_title}" data-date="{s_date}" data-source="{s_item["source"]}">\n'
                 hero_html += f'      <div class="hero-sub-meta">\n'
@@ -720,7 +828,7 @@ def build_page_html(categorized_map, date_only):
         for it in items:
             it_sum = _esc(it.get("summary") or it["title"])
             it_title = _esc(it["title"])
-            it_date = _date_short(it["date"])
+            it_date = _format_item_time(it)
             src_css = source_to_css(it["source"])
             flag = source_to_flag(it["source"])
 
@@ -809,7 +917,7 @@ def build_finance_news_html(finance_items):
     for it in finance_items:
         it_sum = _esc(it.get("summary") or it["title"])
         it_title = _esc(it["title"])
-        it_date = _date_short(it["date"])
+        it_date = _format_item_time(it)
         src_css = source_to_css(it["source"])
         flag = source_to_flag(it["source"])
         html += f'''        <a class="news-item" href="{it["link"]}" target="_blank" rel="noopener" data-cat="caijing" data-summary="{it_sum}" data-title="{it_title}" data-date="{it_date}" data-source="{it["source"]}">
@@ -889,7 +997,7 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 {date_str} · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 {date_str}（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
 """
     with open("finance.md", "w", encoding="utf-8") as f:
         f.write(page)
@@ -897,9 +1005,10 @@ title: 股票财经
 
 
 def main():
-    date_str = datetime.now().strftime("%Y-%m-%d %H:%M")
-    date_only = datetime.now().strftime("%Y-%m-%d")
-    log(f"[INFO] 开始抓取新闻 - {date_str}")
+    now_bj = datetime.now(BEIJING_TZ)
+    date_str = now_bj.strftime("%Y-%m-%d %H:%M")
+    date_only = now_bj.strftime("%Y-%m-%d")
+    log(f"[INFO] 开始抓取新闻 - {date_str}（北京时间）")
 
     all_news = []
     for feed in RSS_FEEDS:
@@ -918,20 +1027,46 @@ def main():
 
     log(f"[INFO] 去重后共 {len(unique)} 条")
 
-    # 智能分类并分配板块
-    categorized_map = {"zuqiu": [], "keji": [], "caijing": [], "shizheng": [], "zonghe": [], "meimei": []}
-    for it in unique:
+    # 失败保护：有效新闻数量低于阈值时不覆盖旧页面
+    if len(unique) < MIN_ARTICLES_THRESHOLD:
+        log(f"[WARNING] 抓取去重后有效新闻仅 {len(unique)} 条（低于保护阈值 {MIN_ARTICLES_THRESHOLD} 条），跳过更新以保留上一版页面！")
+        sys.exit(0)
+
+    # 核心优化 3：按发布时间降序排序（最新发布的新闻排在最前面）
+    unique.sort(key=lambda x: x.get("published_dt") or datetime.min.replace(tzinfo=BEIJING_TZ), reverse=True)
+
+    # 核心优化 2：首页只保留最近 48 小时内的新闻
+    fresh_news = [it for it in unique if is_frontpage_fresh(it.get("published_dt"))]
+    if len(fresh_news) < MIN_ARTICLES_THRESHOLD:
+        log(f"[INFO] 48小时内新闻较少 ({len(fresh_news)} 条)，自动回退使用最近抓取的新闻")
+        fresh_news = unique
+    else:
+        log(f"[INFO] 48小时内首页有效新闻 {len(fresh_news)} 条（全量抓取 {len(unique)} 条）")
+
+    # 首页新闻分类
+    frontpage_map = {sec["id"]: [] for sec in SECTIONS_CONFIG}
+    frontpage_map["caijing"] = []
+    for it in fresh_news:
         cat_id = classify_item(it)
         it["cat_id"] = cat_id
-        if len(categorized_map[cat_id]) < MAX_TOTAL_PER_SECTION:
-            categorized_map[cat_id].append(it)
+        if cat_id in frontpage_map and len(frontpage_map[cat_id]) < MAX_TOTAL_PER_SECTION:
+            frontpage_map[cat_id].append(it)
+
+    # 存档新闻分类（当日抓取的全量新闻）
+    archive_map = {sec["id"]: [] for sec in SECTIONS_CONFIG}
+    archive_map["caijing"] = []
+    for it in unique:
+        cat_id = it.get("cat_id") or classify_item(it)
+        it["cat_id"] = cat_id
+        if cat_id in archive_map and len(archive_map[cat_id]) < MAX_TOTAL_PER_SECTION:
+            archive_map[cat_id].append(it)
 
     # 打印各分类数量
-    for cat_id, items in categorized_map.items():
-        log(f"  [分类统计] {cat_id}: {len(items)} 条")
+    for cat_id, items in frontpage_map.items():
+        log(f"  [首页分类统计] {cat_id}: {len(items)} 条")
 
-    content_html = build_page_html(categorized_map, date_only)
-
+    # 生成首页 news.md
+    content_html = build_page_html(frontpage_map, date_only, crawled_time=date_str)
     page = f"""---
 layout: default
 title: 热点新闻
@@ -941,16 +1076,17 @@ title: 热点新闻
 
 ---
 
-<p class="news-updated">🕐 更新于 {date_only}</p>
+<p class="news-updated">🕐 抓取更新于 {date_str}（北京时间）· 首页展示最近 {FRONTPAGE_MAX_HOURS} 小时精选动态 · 往期请查阅历史归档</p>
 """
 
     with open("news.md", "w", encoding="utf-8") as f:
         f.write(page)
     log(f"[INFO] 已生成 news.md")
 
-    # 生成每日存档
+    # 生成每日存档（保存当日全量）
     os.makedirs("archive", exist_ok=True)
     archive_file = f"archive/news-{date_only}.md"
+    archive_content_html = build_page_html(archive_map, date_only, crawled_time=date_str)
     archive_page = f"""---
 layout: default
 title: 新闻存档 - {date_only}
@@ -959,11 +1095,11 @@ title: 新闻存档 - {date_only}
 <h1>📰 新闻存档 - {date_only}</h1>
 <p class="page-subtitle">每日自动聚合 · 来源可溯 · <a href="{{{{ site.url }}}}/news" class="archive-back-link">← 返回最新新闻</a></p>
 
-{content_html}
+{archive_content_html}
 
 ---
 
-<p class="news-updated">🕐 发布于 {date_str}</p>
+<p class="news-updated">🕐 抓取归档于 {date_str}（北京时间）</p>
 """
     with open(archive_file, "w", encoding="utf-8") as f:
         f.write(archive_page)
@@ -976,8 +1112,8 @@ title: 新闻存档 - {date_only}
             if fname.startswith("news-") and fname.endswith(".md"):
                 try:
                     fdate = fname.replace("news-", "").replace(".md", "")
-                    fdatetime = datetime.strptime(fdate, "%Y-%m-%d")
-                    if datetime.now() - fdatetime > timedelta(days=30):
+                    fdatetime = datetime.strptime(fdate, "%Y-%m-%d").replace(tzinfo=BEIJING_TZ)
+                    if now_bj - fdatetime > timedelta(days=30):
                         os.remove(os.path.join(archive_dir, fname))
                         log(f"[INFO] 清理旧存档: {fname}")
                 except ValueError:
@@ -993,7 +1129,7 @@ title: 新闻存档 - {date_only}
 
     cards_html = ""
     for fdate in archive_files:
-        is_today = " (今日)" if fdate == datetime.now().strftime("%Y-%m-%d") else ""
+        is_today = " (今日)" if fdate == date_only else ""
         cards_html += f"""  <a href="{{{{ site.url }}}}/archive/news-{fdate}" class="archive-day-card">
     <div class="archive-day-header">
       <span class="archive-day-date">📅 {fdate}{is_today}</span>
@@ -1029,7 +1165,7 @@ title: 新闻历史档案室
     log(f"[INFO] 已生成 archive/index.md")
 
     # 生成财经页面
-    finance_items = categorized_map.get("caijing", [])
+    finance_items = frontpage_map.get("caijing", []) or archive_map.get("caijing", [])
     log(f"[INFO] 财经新闻 {len(finance_items)} 条，开始生成财经页面...")
     generate_finance_page(finance_items, date_str, date_only)
 
