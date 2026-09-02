@@ -114,6 +114,7 @@ RSS_FEEDS = [
     {"url": "https://www.tomshardware.com/feeds/all", "name": "Tom's Hardware(半导体)"},
     {"url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "name": "Ars Technica(芯片与前沿)"},
     {"url": "https://www.theverge.com/rss/index.xml", "name": "The Verge(科技)"},
+    {"url": "https://www.qbitai.com/feed", "name": "量子位(AI前沿)"},
     {"url": "https://www.ithome.com/rss/", "name": "IT之家(数码芯片)"},
     # ⚽ 足球与英超权威专栏
     {"url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml", "name": "BBC 英超专栏"},
@@ -121,9 +122,7 @@ RSS_FEEDS = [
     {"url": "https://www.skysports.com/rss/11661", "name": "天空体育(英超)"},
     {"url": "https://www.theguardian.com/football/premierleague/rss", "name": "卫报(英超深度)"},
     # 🇨🇳 国内官方权威媒体
-    {"url": "http://www.people.com.cn/rss/politics.xml", "name": "人民网(时政)"},
-    {"url": "http://www.people.com.cn/rss/world.xml", "name": "人民网(国际)"},
-    {"url": "http://www.people.com.cn/rss/scitech.xml", "name": "人民网(科技)"},
+    {"url": "http://www.xinhuanet.com/politics/news_politics.xml", "name": "新华网(时政)"},
     {"url": "https://www.chinanews.com.cn/rss/scroll-news.xml", "name": "中国新闻网(滚动)"},
     # 🌐 国际权威媒体
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
@@ -146,6 +145,7 @@ SOURCE_NAME_MAP = {
     "tomshardware.com": "Tom's Hardware",
     "arstechnica.com": "Ars Technica",
     "theverge.com": "The Verge",
+    "qbitai.com": "量子位",
     "ithome.com": "IT之家",
     "people.com.cn": "人民网",
     "xinhuanet.com": "新华网",
@@ -165,6 +165,7 @@ SOURCE_FLAG_MAP = {
     "Tom's Hardware": "⚡", "Tom's Hardware(半导体)": "⚡",
     "Ars Technica": "🔬", "Ars Technica(芯片与前沿)": "🔬",
     "The Verge": "🌐", "The Verge(科技)": "🌐",
+    "量子位": "🧠", "量子位(AI前沿)": "🧠",
     "IT之家": "🇨🇳", "IT之家(数码芯片)": "💻",
     "人民网": "🇨🇳", "新华网": "🇨🇳", "中国新闻网": "🇨🇳", "央视网": "🇨🇳",
     "BBC": "🇬🇧", "BBC 英超专栏": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -178,6 +179,7 @@ SOURCE_CSS_MAP = {
     "Tom's Hardware": "source-tomshardware", "Tom's Hardware(半导体)": "source-tomshardware",
     "Ars Technica": "source-arstechnica", "Ars Technica(芯片与前沿)": "source-arstechnica",
     "The Verge": "source-theverge", "The Verge(科技)": "source-theverge",
+    "量子位": "source-techcrunch", "量子位(AI前沿)": "source-techcrunch",
     "IT之家": "source-cn", "IT之家(数码芯片)": "source-cn",
     "人民网": "source-cn", "新华网": "source-cn", "中国新闻网": "source-cn",
     "BBC": "source-bbc", "BBC 英超专栏": "source-bbc",
@@ -746,7 +748,7 @@ def classify_item(item):
         "summit", "talks", "visit", "protest", "strike", "riot", "terror", "attack"
     ]
     for kw in shizheng_keywords:
-        if kw in text:
+        if kw in full_text:
             return "shizheng"
 
     # 6. 默认归入综合要闻（文化社会 + 环保教育 + 历史人文 + 其他）
