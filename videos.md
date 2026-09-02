@@ -88,7 +88,7 @@ title: 飞行演示
 |------|------|
 | **赛事** | 2025 年全国大学生电子设计竞赛 |
 | **飞控** | STM32F405 + BirdFlight V2.0 |
-| **上位机** | Raspberry Pi 4B + Python 3 |
+| **上位机** | 地平线 RDK X5 + Python 3 |
 | **视觉** | OpenCV（形状/颜色/二维码检测） |
 | **定位** | Intel RealSense T265（VIO） |
 | **源码仓库** | [xiyue-drone](https://github.com/LONEFORME/xiyue-drone) |
