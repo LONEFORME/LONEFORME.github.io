@@ -13,6 +13,7 @@ import re
 import sys
 import json
 import time
+import html
 import requests
 import feedparser
 from datetime import datetime, timedelta, timezone
@@ -436,9 +437,10 @@ def normalize_date(raw_date):
 
 
 def clean_title(title):
-    s = re.sub(r'<[^>]+>', '', title).strip()
+    s = html.unescape(title)
+    s = re.sub(r'<[^>]+>', '', s).strip()
     s = re.sub(r'\s*[-–—]\s*(人民网|新华网|中国新闻网|BBC|纽约时报|CBS News|天空体育|卫报).*$', '', s)
-    return s
+    return html.unescape(s).strip()
 
 
 def is_error_page(title, summary=""):
@@ -470,7 +472,7 @@ def is_error_page(title, summary=""):
 
 
 def is_sensitive_content(title, summary=""):
-    """检测是否是敏感/偏见/负面新闻，返回 True 表示应该过滤掉"""
+    """检测是否是敏感/偏见/负面新闻，返回 True 表示应该归类到外媒视角"""
     if not title:
         return False
     text = (str(title) + " " + str(summary or "")).lower()
@@ -567,7 +569,7 @@ def fetch_rss(url, source_name, timeout=20):
                 if is_error_page(title, raw_sum_check):
                     log(f"  [SKIP] 错误页面/无效标题: {title[:60]}")
                     continue
-                # 敏感/偏见新闻不再过滤，而是单独分类到"西方媒体视角"板块
+                # 敏感/偏见新闻单独分类到"西方媒体视角"板块
                 title, publisher = parse_publisher(title)
                 title = to_simplified(clean_title(title))
                 # 英文标题自动翻译成中文
@@ -579,8 +581,10 @@ def fetch_rss(url, source_name, timeout=20):
                 date = pub_dt.strftime("%Y-%m-%d")
                 pub_time = pub_dt.strftime("%H:%M")
                 raw_sum = entry.get("summary", entry.get("description", ""))
-                clean_sum = re.sub(r'<[^>]+>', '', raw_sum).strip()
+                clean_sum = html.unescape(raw_sum)
+                clean_sum = re.sub(r'<[^>]+>', '', clean_sum).strip()
                 clean_sum = re.sub(r'\s+', ' ', clean_sum)
+                clean_sum = html.unescape(clean_sum).strip()
                 clean_sum = to_simplified(clean_sum)
                 # 英文摘要自动翻译成中文
                 if clean_sum and not has_chinese(clean_sum):
@@ -604,10 +608,10 @@ def fetch_rss(url, source_name, timeout=20):
 
 
 def classify_item(item):
-    """智能归类到四大核心板块之一"""
+    """智能归类到五大核心板块之一（校准优先级）"""
     text = (item.get("title", "") + " " + item.get("summary", "") + " " + item.get("source", "")).lower()
 
-    # 1. 足球 / 英超 / 转会
+    # 1. 足球 / 英超 / 转会（特征明确，优先提取）
     football_keywords = [
         "英超", "转会", "足球", "bbc 英超", "天空体育", "卫报", "阿森纳", "曼城", "利物浦", "曼联",
         "切尔西", "热刺", "皇马", "巴萨", "拜仁", "尤文", "国米", "米兰", "巴黎", "多特", "西甲",
@@ -621,7 +625,11 @@ def classify_item(item):
         if kw in text:
             return "zuqiu"
 
-    # 2. 科技 & AI
+    # 2. 西方媒体视角（偏见/负面报道，优先于科技/财经，防止被经济/科技关键词截胡）
+    if is_sensitive_content(item.get("title", ""), item.get("summary", "")):
+        return "meimei"
+
+    # 3. 科技 & AI
     tech_keywords = [
         "科技", "scitech", "ai", "人工智能", "大模型", "算力", "芯片", "半导体", "机器人", "具身智能",
         "算法", "网络安全", "方班", "攻防", "开源", "航天", "航空", "无人机", "卫星", "科普", "生物",
@@ -632,7 +640,7 @@ def classify_item(item):
         if kw in text:
             return "keji"
 
-    # 3. 财经 & 宏观 & 产业
+    # 4. 财经 & 宏观 & 产业
     finance_keywords = [
         "财经", "经济", "人民币", "中间价", "汇率", "外汇", "股市", "a股", "美股", "港股", "个股",
         "大盘", "指数", "低开", "高开", "涨停", "跌停", "关税", "贸易", "供应链", "航运",
@@ -643,10 +651,6 @@ def classify_item(item):
     for kw in finance_keywords:
         if kw in text:
             return "caijing"
-
-    # 4. 西方媒体视角（抹黑中国/偏见报道，单独放一个模块供娱乐）
-    if is_sensitive_content(item.get("title", ""), item.get("summary", "")):
-        return "meimei"
 
     # 5. 时政 & 国际
     shizheng_keywords = [
@@ -723,7 +727,7 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
     total_count = sum(len(items) for sec in SECTIONS_CONFIG for items in [categorized_map.get(sec["id"], [])])
     update_badge = f"{date_only} 今日更新" if not crawled_time else f"{crawled_time} 抓取更新"
 
-    # 1. 复合 Header 控制台 (标题 + 频道 Tab + 往期历史入口)
+    # 1. 复合 Header 控制台 (标题 + 频道 Tab + 搜索框 + 往期历史入口)
     header_html = f'''<div class="news-header-box">
   <div class="news-title-row">
     <div>
@@ -734,6 +738,12 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
       <span>{update_badge}</span>
     </div>
+  </div>
+
+  <div class="news-search-bar" style="margin: 12px 0 8px; display: flex; align-items: center; gap: 8px; background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 7px 14px;">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="opacity: 0.65;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    <input type="text" id="news-search-input" placeholder="🔍 实时搜索今日全天新闻（输入关键词、球队、公司、人物、信源）..." oninput="onNewsSearch(this.value)" style="flex: 1; background: transparent; border: none; outline: none; color: inherit; font-size: 13px;">
+    <span id="news-search-count" style="font-size: 12px; opacity: 0.7; font-weight: 500;"></span>
   </div>
 
   <div class="news-nav-composite">
@@ -842,7 +852,65 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
         grid_html += f'  </div>\n'
     grid_html += '</div>\n'
 
-    return header_html + hero_html + grid_html
+    # 4. 客户端交互脚本（即时搜索 + 已读记忆）
+    client_script = '''
+<script>
+function onNewsSearch(query) {
+  query = (query || '').trim().toLowerCase();
+  const items = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
+  let matched = 0;
+  items.forEach(el => {
+    const title = (el.getAttribute('data-title') || el.innerText || '').toLowerCase();
+    const summary = (el.getAttribute('data-summary') || '').toLowerCase();
+    const source = (el.getAttribute('data-source') || '').toLowerCase();
+    const isMatch = !query || title.includes(query) || summary.includes(query) || source.includes(query);
+    el.style.display = isMatch ? '' : 'none';
+    if (isMatch) matched++;
+  });
+  document.querySelectorAll('.news-category').forEach(cat => {
+    const visibleChildren = cat.querySelectorAll('.news-item:not([style*="display: none"])');
+    cat.style.display = (visibleChildren.length > 0 || !query) ? '' : 'none';
+  });
+  const countEl = document.getElementById('news-search-count');
+  if (countEl) {
+    countEl.innerText = query ? `🔍 找到 ${matched} 条` : '';
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const readKey = 'loneforme_read_news';
+  let readLinks = [];
+  try {
+    readLinks = JSON.parse(localStorage.getItem(readKey) || '[]');
+  } catch(e) {}
+
+  document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card').forEach(el => {
+    const link = el.getAttribute('href');
+    if (readLinks.includes(link)) {
+      el.classList.add('news-read-card');
+    }
+    el.addEventListener('click', () => {
+      if (link && !readLinks.includes(link)) {
+        readLinks.push(link);
+        if (readLinks.length > 300) readLinks = readLinks.slice(-300);
+        try { localStorage.setItem(readKey, JSON.stringify(readLinks)); } catch(e) {}
+        el.classList.add('news-read-card');
+      }
+    });
+  });
+});
+</script>
+<style>
+.news-read-card {
+  opacity: 0.62 !important;
+}
+.news-read-card .news-item-title, .news-read-card .hero-featured-title, .news-read-card .hero-sub-title {
+  color: var(--color-muted, #888) !important;
+}
+</style>
+'''
+
+    return header_html + hero_html + grid_html + client_script
 
 
 def build_finance_ticker_html(indices):
