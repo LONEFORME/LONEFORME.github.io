@@ -91,7 +91,7 @@ title: 飞行演示
 | **上位机** | 地平线 RDK X5 + Python 3 |
 | **视觉** | OpenCV（形状/颜色/二维码检测） |
 | **定位** | Intel RealSense T265（VIO） |
-| **源码仓库** | [xiyue-drone](https://github.com/LONEFORME/xiyue-drone) |
+| **视频仓库** | [lingxiao-drone](https://github.com/LONEFORME/lingxiao-drone) |
 
 > 💡 视频已压缩为 H.264 + AAC 格式，支持所有现代浏览器原生播放。原始视频总计 1.14GB，压缩后仅 62MB，压缩率 94.5%。
 
