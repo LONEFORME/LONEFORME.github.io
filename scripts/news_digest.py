@@ -121,8 +121,7 @@ RSS_FEEDS = [
     {"url": "https://www.skysports.com/rss/12040", "name": "天空体育(转会中心)"},
     {"url": "https://www.skysports.com/rss/11661", "name": "天空体育(英超)"},
     {"url": "https://www.theguardian.com/football/premierleague/rss", "name": "卫报(英超深度)"},
-    # 🇨🇳 国内官方权威媒体
-    {"url": "http://www.xinhuanet.com/politics/news_politics.xml", "name": "新华网(时政)"},
+    # 🇨🇳 国内官方权威媒体 (实时滚动源)
     {"url": "https://www.chinanews.com.cn/rss/scroll-news.xml", "name": "中国新闻网(滚动)"},
     # 🌐 国际权威媒体
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
@@ -393,20 +392,20 @@ def normalize_source(raw_source, title="", link=""):
 
 def parse_datetime_bj(raw_date):
     """解析 RSS 日期字符串，统一转换为北京时间 datetime 对象。
-    如果 RSS 日期带 UTC/GMT 偏移，先解析再转为北京时间；
-    如果无时区信息（国内源常见），假设为北京时间。
+    如果无有效日期或解析失败，返回 None。
     """
-    now_bj = datetime.now(BEIJING_TZ)
-    if not raw_date:
-        return now_bj
+    if not raw_date or not str(raw_date).strip():
+        return None
 
-    # 预处理：移除 feedparser 常见的多余空白
-    raw_date = raw_date.strip()
+    raw_date = str(raw_date).strip()
 
     # 带时区偏移的格式（能正确解析 +0000, +0800, -0500 等）
     tz_formats = [
         "%a, %d %b %Y %H:%M:%S %z",       # RFC 2822: "Mon, 02 Sep 2026 06:00:00 +0000"
+        "%a, %d %b %Y %H:%M:%S%z",
         "%Y-%m-%dT%H:%M:%S%z",             # ISO 8601: "2026-09-02T06:00:00+00:00"
+        "%Y-%m-%dT%H:%M:%S.%f%z",
+        "%Y-%m-%d %H:%M:%S%z",
     ]
     for fmt in tz_formats:
         try:
@@ -418,7 +417,9 @@ def parse_datetime_bj(raw_date):
     # GMT 明确标注（视为 UTC+0）
     gmt_formats = [
         "%a, %d %b %Y %H:%M:%S GMT",
+        "%a, %d %b %Y %H:%M:%S UTC",
         "%Y-%m-%dT%H:%M:%SZ",              # "2026-09-02T06:00:00Z"
+        "%Y-%m-%dT%H:%M:%S.%fZ",
     ]
     for fmt in gmt_formats:
         try:
@@ -438,25 +439,67 @@ def parse_datetime_bj(raw_date):
     for fmt in naive_formats:
         try:
             dt = datetime.strptime(raw_date, fmt)
-            return dt.replace(tzinfo=BEIJING_TZ)  # 假设北京时间
+            return dt.replace(tzinfo=BEIJING_TZ)
         except ValueError:
             continue
 
-    # 最后尝试正则提取日期
-    m = re.search(r'(\d{4})[-/](\d{1,2})[-/](\d{1,2})', raw_date)
+    # 正则提取日期 YYYY-MM-DD
+    m = re.search(r'(20\d{2})[-/](\d{1,2})[-/](\d{1,2})', raw_date)
     if m:
         try:
-            dt = datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=BEIJING_TZ)
-            return dt
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), 12, 0, tzinfo=BEIJING_TZ)
         except ValueError:
             pass
 
-    return now_bj
+    return None
+
+
+def extract_item_datetime(entry, link=""):
+    """多层级综合获取新闻发布时间：
+    1. 识别 URL 中的年份路径（如 /2022/、/2023/、/2024/、/2025/），如果检测到历史年份，精准提取历史时间；
+    2. 解析 entry 自带的 published / updated 字段；
+    3. 解析 URL 中的当前日期（如 /2026/09-02/ 或 /20260902/）；
+    4. 若以上全部无法获取，返回 None（严格杜绝无日期旧文章混入）。
+    """
+    now_bj = datetime.now(BEIJING_TZ)
+
+    # 1. 优先检查 link 中是否明确包含历史过旧年份
+    if link:
+        m = re.search(r'/(20[12][0-9])[-_/]?(\d{1,2})[-_/]?(\d{1,2})', link)
+        if m:
+            try:
+                y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+                url_dt = datetime(y, mo, d, 12, 0, tzinfo=BEIJING_TZ)
+                # 若 URL 中的日期早于 7 天前，直接判定为历史文章
+                if (now_bj - url_dt) > timedelta(days=7):
+                    return url_dt
+            except ValueError:
+                pass
+
+    # 2. 解析 RSS published / updated 字段
+    pub_raw = entry.get("published", entry.get("updated", ""))
+    if pub_raw:
+        dt = parse_datetime_bj(pub_raw)
+        if dt:
+            return dt
+
+    # 3. 若 RSS 未标明时间，从 URL 中提取当前日期
+    if link:
+        m = re.search(r'/(20\d{2})[-_/]?(\d{1,2})[-_/]?(\d{1,2})', link)
+        if m:
+            try:
+                y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+                return datetime(y, mo, d, 12, 0, tzinfo=BEIJING_TZ)
+            except ValueError:
+                pass
+
+    return None
 
 
 def normalize_date(raw_date):
     """兼容包装：返回北京时间日期字符串 YYYY-MM-DD"""
-    return parse_datetime_bj(raw_date).strftime("%Y-%m-%d")
+    dt = parse_datetime_bj(raw_date)
+    return dt.strftime("%Y-%m-%d") if dt else datetime.now(BEIJING_TZ).strftime("%Y-%m-%d")
 
 
 def clean_title(title):
@@ -534,33 +577,30 @@ def is_sensitive_content(title, summary="", source=""):
     return False
 
 
-def is_recent(dt_or_str):
+def is_recent(dt_obj):
     """判断是否在 MAX_AGE_DAYS 天内（用于存档保留）"""
-    if dt_or_str is None:
-        return True
+    if dt_obj is None:
+        return False
     now_bj = datetime.now(BEIJING_TZ)
-    if isinstance(dt_or_str, datetime):
-        if dt_or_str.tzinfo is None:
-            dt_or_str = dt_or_str.replace(tzinfo=BEIJING_TZ)
-        return now_bj - dt_or_str <= timedelta(days=MAX_AGE_DAYS)
-    # 兼容字符串
-    try:
-        dt = datetime.strptime(dt_or_str, "%Y-%m-%d").replace(tzinfo=BEIJING_TZ)
-        return now_bj - dt <= timedelta(days=MAX_AGE_DAYS)
-    except ValueError:
-        return True
+    if isinstance(dt_obj, datetime):
+        if dt_obj.tzinfo is None:
+            dt_obj = dt_obj.replace(tzinfo=BEIJING_TZ)
+        delta = now_bj - dt_obj
+        return timedelta(hours=-2) <= delta <= timedelta(days=MAX_AGE_DAYS)
+    return False
 
 
 def is_frontpage_fresh(dt_obj):
     """判断是否在 FRONTPAGE_MAX_HOURS 小时内（用于首页过滤）"""
     if dt_obj is None:
-        return True
+        return False
     now_bj = datetime.now(BEIJING_TZ)
     if isinstance(dt_obj, datetime):
         if dt_obj.tzinfo is None:
             dt_obj = dt_obj.replace(tzinfo=BEIJING_TZ)
-        return now_bj - dt_obj <= timedelta(hours=FRONTPAGE_MAX_HOURS)
-    return True
+        delta = now_bj - dt_obj
+        return timedelta(hours=-2) <= delta <= timedelta(hours=FRONTPAGE_MAX_HOURS)
+    return False
 
 
 def parse_publisher(title):
@@ -595,13 +635,19 @@ def fetch_rss(url, source_name, timeout=20):
         for entry in feed.entries[:MAX_ARTICLES_PER_FEED]:
             title = entry.get("title", "").strip()
             link = entry.get("link", "")
-            published = entry.get("published", entry.get("updated", ""))
             if title and link:
                 # 提前过滤错误页面和无效标题（在任何处理之前）
                 raw_sum_check = str(entry.get("summary", entry.get("description", "")) or "")
                 if is_error_page(title, raw_sum_check):
                     log(f"  [SKIP] 错误页面/无效标题: {title[:60]}")
                     continue
+
+                # 智能提取发布时间，严格拒收无有效时间或历史陈旧新闻
+                pub_dt = extract_item_datetime(entry, link)
+                if not pub_dt or not is_recent(pub_dt):
+                    log(f"  [SKIP] 无法识别时间或为历史陈旧文章: {title[:40]}")
+                    continue
+
                 # 敏感/偏见新闻单独分类到"西方媒体视角"板块
                 title, publisher = parse_publisher(title)
                 title = to_simplified(clean_title(title))
@@ -609,8 +655,6 @@ def fetch_rss(url, source_name, timeout=20):
                 if not has_chinese(title):
                     title = translate_to_chinese(title)
                 src = normalize_source(publisher if publisher else source_name, title, link)
-                # 解析为北京时间 datetime 对象
-                pub_dt = parse_datetime_bj(published)
                 date = pub_dt.strftime("%Y-%m-%d")
                 pub_time = pub_dt.strftime("%H:%M")
                 raw_sum = entry.get("summary", entry.get("description", ""))
