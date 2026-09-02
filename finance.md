@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7219</span>
+      <span class="ticker-price ticker-down">6.7220</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,7 +128,7 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,372.89</span>
+      <span class="ticker-price ticker-up">$4,374.63</span>
       <span class="ticker-change up">▲ +0.02%</span>
     </div>
     <div class="ticker-footer">
@@ -216,8 +216,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">5 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/dwq/2026/09-02/10688963.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社香港9月2日电 (张语洽 刘玥晴)由香港贸易发展局(简称“贸发局”)主办的第11届香港国际时尚汇展(CENTRESTAGE)2日在香港会议展览中心开幕，吸引来自24个国家和地区的约270个品牌参展，参展品牌数量创历届新高。" data-title="香港国际时尚汇展开幕   参展品牌数量创历届新高" data-date="09-02 19:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:31</span>
+          <span class="news-item-title">香港国际时尚汇展开幕   参展品牌数量创历届新高</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/cul/2026/09-02/10688961.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社太原9月2日电 (记者 胡健)第十届平遥国际电影展产业单元“迁徙计划·从文学到影视”推荐作品2日揭晓，艾伟、梁鸿、肖克凡、畀愚等作家创作的10部文学作品入选推荐名单。" data-title="第十届平遥国际电影展公布“迁徙计划”推荐名单" data-date="09-02 19:28" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -248,6 +254,12 @@ title: 股票财经
           <span class="news-item-date">09-02 08:01</span>
           <span class="news-item-title">日本企业大举押注印度　中国风险加深之际寻求新成长</span>
         </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="吉隆口岸位处西藏与尼泊尔的重要贸易通路之上，中国与尼泊尔两侧各有数以百计外国旅客在泥石流冲击后下落不明。" data-title="泥石流摧毁西藏吉隆口岸的关键几分钟" data-date="09-01 20:01" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-01 20:01</span>
+          <span class="news-item-title">泥石流摧毁西藏吉隆口岸的关键几分钟</span>
+        </a>
   </div>
 </div>
 
@@ -261,4 +273,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-02 19:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-02 19:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

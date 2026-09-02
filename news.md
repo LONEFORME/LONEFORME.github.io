@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-02 19:44 抓取更新</span>
+      <span>2026-09-02 19:47 抓取更新</span>
     </div>
   </div>
 
@@ -29,11 +29,11 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">9</span>
+        <span class="channel-count">11</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 科技 & AI</span>
-        <span class="channel-count">1</span>
+        <span class="channel-count">4</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
@@ -41,11 +41,11 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
-        <span class="channel-count">1</span>
+        <span class="channel-count">2</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
         <span>🌍 西方媒体视角</span>
-        <span class="channel-count">6</span>
+        <span class="channel-count">0</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('source', this)">
         <span>🌐 媒体信源</span>
@@ -61,31 +61,31 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/kong/2026/09-02/10688986.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="金秋启新学，奋进正当时。随着各地中小学、高校陆续开学，青春活力重回校园，广大青年学子踏上求知求索、逐梦成长的全新征程。" data-title="青春华章｜我苏青评：以科学之光，照亮开学第一课" data-date="09-02 19:37" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/kong/2026/09-02/10688990.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社开罗9月2日电#8195;中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明" data-title="中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明" data-date="09-02 19:42" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 09-02 19:37</span>
+        <span class="hero-featured-date">🕒 09-02 19:42</span>
       </div>
-      <h2 class="hero-featured-title">青春华章｜我苏青评：以科学之光，照亮开学第一课</h2>
+      <h2 class="hero-featured-title">中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/09-02/10688971.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网兰州9月2日电 (杨娜)2日，以“科技改变生活，创新赢得未来”为主题的2026年全国科普月兰州主场活动暨“黄河之滨科普行”启动。在这场“科普集市”上，兰州50余家单位拿出了“看家本领”，让高深的科学知识变得可触摸、可体验。" data-title="兰州“科”代表集合 “高精尖”遇见“烟火气”" data-date="09-02 19:29" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/cj/2026/09-02/10688982.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社上海9月2日电 (记者 姜煜)瑞银证券中国股票策略分析师孟磊2日发表分析报告称，在上市公司盈利复苏，交易型开放式指数证券投资基金(ETF)、保险资金与私募基金等增量资金持续净流入以及全球科技发展的推动下，年内中国A股有望延续稳步反弹势头。" data-title="外资银行看好中国A股：年内有望延续稳步反弹势头" data-date="09-02 19:41" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">兰州“科”代表集合 “高精尖”遇见“烟火气”</p>
+      <p class="hero-sub-title">外资银行看好中国A股：年内有望延续稳步反弹势头</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="夏窗期间俱乐部在转会上花了多少钱？我们计算数字..." data-title="你的俱乐部花了多少钱？英超打破转会记录" data-date="09-02 19:44" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13580082/transfer-deadline-day-brings-record-spending-but-will-any-money-be-enough-for-these-premier-league-clubs" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="它总结了一个狂野的转会截止日，在该窗口的最后几个小时内匹配了英国转会记录。恩佐·费尔南德斯（ Enzo Fernandez ）从切尔西转会曼城（ Manchester City ）完成了一个非凡的夏天，在这个夏天，支出变得平流层。" data-title="创纪录的转账支出，但有人真的满意吗？" data-date="09-02 19:47" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">你的俱乐部花了多少钱？英超打破转会记录</p>
+      <p class="hero-sub-title">创纪录的转账支出，但有人真的满意吗？</p>
     </a>
     <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今年从巴基斯坦和伊朗遭遣返回阿富汗的人数，已再增加100万。" data-title="“我从未去过的祖国”：600万阿富汗人遭邻国驱逐，在塔利班治下重新开始" data-date="09-02 17:18" data-source="BBC">
       <div class="hero-sub-meta">
@@ -101,8 +101,14 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">9 条</span>
+      <span class="news-category-count">11 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/kong/2026/09-02/10688990.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社开罗9月2日电#8195;中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明" data-title="中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明" data-date="09-02 19:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:42</span>
+          <span class="news-item-title">中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/kong/2026/09-02/10688986.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="金秋启新学，奋进正当时。随着各地中小学、高校陆续开学，青春活力重回校园，广大青年学子踏上求知求索、逐梦成长的全新征程。" data-title="青春华章｜我苏青评：以科学之光，照亮开学第一课" data-date="09-02 19:37" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -157,13 +163,37 @@ title: 热点新闻
           <span class="news-item-date">09-02 16:59</span>
           <span class="news-item-title">美国公司获批委内瑞拉油田百年开采权 分析人士迷惑 国民震怒</span>
         </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="现年29岁的民主派活动人士黄之锋，在法庭上承认一项中国《香港国安法》下的“串谋勾结外国势力危害国家安全”罪，判刑押后至另日进行。至今，黄之锋已失去自由逾2,100天。" data-title="黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身" data-date="09-02 16:06" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 16:06</span>
+          <span class="news-item-title">黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身</span>
+        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">科技创新 & AI 算力</span>
-      <span class="news-category-count">1 条</span>
+      <span class="news-category-count">4 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10688982.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社上海9月2日电 (记者 姜煜)瑞银证券中国股票策略分析师孟磊2日发表分析报告称，在上市公司盈利复苏，交易型开放式指数证券投资基金(ETF)、保险资金与私募基金等增量资金持续净流入以及全球科技发展的推动下，年内中国A股有望延续稳步反弹势头。" data-title="外资银行看好中国A股：年内有望延续稳步反弹势头" data-date="09-02 19:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:41</span>
+          <span class="news-item-title">外资银行看好中国A股：年内有望延续稳步反弹势头</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688972.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网克拉玛依9月2日电 题：在新疆牧区，AI开始给牛羊“看”病" data-title="在新疆牧区，AI开始给牛羊“看”病" data-date="09-02 19:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:34</span>
+          <span class="news-item-title">在新疆牧区，AI开始给牛羊“看”病</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-02/10688969.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社台北9月2日电 台湾一黄姓男子及其妻子涉嫌组织“爱情诈骗集团”，通过人工智能(AI)变声等技术行骗，犯罪所得超过9亿元新台币，受害者逾2万人。台北地方检察署2日起诉57名被告，对黄姓男子及其妻子分别求刑25年以上、18年以上。" data-title="台湾一诈骗集团利用AI变声行骗逾9亿元新台币" data-date="09-02 19:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:34</span>
+          <span class="news-item-title">台湾一诈骗集团利用AI变声行骗逾9亿元新台币</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688971.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网兰州9月2日电 (杨娜)2日，以“科技改变生活，创新赢得未来”为主题的2026年全国科普月兰州主场活动暨“黄河之滨科普行”启动。在这场“科普集市”上，兰州50余家单位拿出了“看家本领”，让高深的科学知识变得可触摸、可体验。" data-title="兰州“科”代表集合 “高精尖”遇见“烟火气”" data-date="09-02 19:29" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -177,89 +207,23 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="夏窗期间俱乐部在转会上花了多少钱？我们计算数字..." data-title="你的俱乐部花了多少钱？英超打破转会记录" data-date="09-02 19:44" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580082/transfer-deadline-day-brings-record-spending-but-will-any-money-be-enough-for-these-premier-league-clubs" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="它总结了一个狂野的转会截止日，在该窗口的最后几个小时内匹配了英国转会记录。恩佐·费尔南德斯（ Enzo Fernandez ）从切尔西转会曼城（ Manchester City ）完成了一个非凡的夏天，在这个夏天，支出变得平流层。" data-title="创纪录的转账支出，但有人真的满意吗？" data-date="09-02 19:47" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">你的俱乐部花了多少钱？英超打破转会记录</span>
+          <span class="news-item-date">09-02 19:47</span>
+          <span class="news-item-title">创纪录的转账支出，但有人真的满意吗？</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="天空体育首席记者卡韦·索尔赫科尔解释了为什么切尔西将恩佐·费尔南德斯卖给了竞争对手曼城，尽管他们从摩纳哥签下拉明·卡马拉的交易在最后一刻破裂了。" data-title="“非常不高兴”——为什么尽管卡马拉闹剧，切尔西仍然卖掉费尔南德斯" data-date="09-02 19:44" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="天空体育首席记者卡韦·索尔赫科尔解释了为什么切尔西将恩佐·费尔南德斯卖给了竞争对手曼城，尽管他们从摩纳哥签下拉明·卡马拉的交易在最后一刻破裂了。" data-title="“非常不高兴”——尽管卡马拉闹剧，切尔西为何仍出售费尔南德斯" data-date="09-02 19:47" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">“非常不高兴”——为什么尽管卡马拉闹剧，切尔西仍然卖掉费尔南德斯</span>
+          <span class="news-item-date">09-02 19:47</span>
+          <span class="news-item-title">“非常不高兴”——尽管卡马拉闹剧，切尔西为何仍出售费尔南德斯</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="摩纳哥退出了将拉明·卡马拉出售给切尔西的交易，切尔西认为这家法国俱乐部的行为非常不寻常且非常不专业。" data-title="“切尔西真的不高兴！” - 摩纳哥退出出售卡马拉" data-date="09-02 19:44" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="热刺最新消息：夏季转会窗口评级——兑现了承诺，但他们是否付出了过高的代价？" data-title="热刺最新消息：夏季转会窗口评级——兑现了承诺，但他们是否付出了过高的代价？" data-date="09-02 19:47" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">“切尔西真的不高兴！” - 摩纳哥退出出售卡马拉</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="埃弗顿对摩纳哥前锋福拉林·巴洛贡的转会失败了，因为这笔交易使切尔西签下拉明·卡马拉的机会破灭，这名球员改变了主意。" data-title="巴洛贡放弃与埃弗顿的交易" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">巴洛贡放弃与埃弗顿的交易</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城以 1.25 亿英镑创英国纪录的转会费从切尔西签下恩佐·费尔南德斯。" data-title="曼城以平英国纪录的交易签下费尔南德斯" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">曼城以平英国纪录的交易签下费尔南德斯</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="换乘中心现场直播！英格兰转窗关闭后的晚剧" data-title="换乘中心现场直播！英格兰转窗关闭后的晚剧" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">换乘中心现场直播！英格兰转窗关闭后的晚剧</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13580205/us-open-coco-gauff-makes-storming-start-while-serena-and-venus-williams-are-drawn-to-face-maya-joint-and-chan-hao-ching-in-womens-doubles" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="可可·高芙以直落两盘战胜泽伊内普·桑梅斯开启了她的美国公开赛之旅，而两届女双冠军塞雷娜和维纳斯·威廉姆斯将在周二抽签后对阵玛雅·联合和陈浩清。" data-title="高夫强势开局，兹维列夫避免重大冷门" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">高夫强势开局，兹维列夫避免重大冷门</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13580206/us-open-britains-arthur-fery-admitted-he-still-has-plenty-to-work-on-after-his-new-york-debut-was-cut-short" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国选手阿瑟·费里表示，在周二的美国公开赛首秀被缩短后，他现在知道自己必须做什么。" data-title="“我知道我必须做什么”——尽管美国公开赛退出，费里仍准备好迎接最好的挑战" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">“我知道我必须做什么”——尽管美国公开赛退出，费里仍准备好迎接最好的挑战</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13580283/fan-sings-oasis-classic-wonderwall-during-arthur-fery-match-against-lorenzo-musetti-at-us-open" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在美国公开赛上阿瑟·费里 (Arthur Fery) 对阵洛伦佐·穆塞蒂 (Lorenzo Musetti) 的比赛中，范冰冰演唱了绿洲经典歌曲《Wonderwall》。" data-title="“你是我的奇迹之墙！” |球迷在美国公开赛 Fery 比赛期间演唱 Oasis 经典歌曲" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">“你是我的奇迹之墙！” |球迷在美国公开赛 Fery 比赛期间演唱 Oasis 经典歌曲</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="法拉利车队公布意大利大奖赛练习赛新秀，揭晓舒马赫风格涂装" data-title="法拉利车队公布意大利大奖赛练习赛新秀，揭晓舒马赫风格涂装" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">法拉利车队公布意大利大奖赛练习赛新秀，揭晓舒马赫风格涂装</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="两届世界冠军米卡·哈基宁警告说，如果一级方程式车队执行车队命令试图影响今年的冠军争夺战，他们就有可能被这项运动的车迷“钉在十字架上”。" data-title="“球迷会把他们钉在十字架上”——哈基宁对冠军争夺战中的球队命令发出警告" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">“球迷会把他们钉在十字架上”——哈基宁对冠军争夺战中的球队命令发出警告</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周三我们将进行忙碌的一天比赛，巴斯和纽卡斯尔的比赛表现平平，天空体育赛车直播......" data-title="艾蒂安在巴斯追逐首次成功" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">艾蒂安在巴斯追逐首次成功</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13580177/italian-gp-will-lewis-hamilton-george-russell-or-lando-norris-seize-title-race-opening-due-to-kimi-antonelli-grid-penalties" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="随着世界冠军领头羊基米·安东内利在意大利大奖赛上从后排发车，试图在积分榜上追赶他的英国三人组有一个重大机会。" data-title="汉密尔顿、拉塞尔或诺里斯会在蒙扎夺取冠军头衔吗？" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">汉密尔顿、拉塞尔或诺里斯会在蒙扎夺取冠军头衔吗？</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/darts/news/12040/13580326/world-series-of-darts-finals-michael-van-gerwen-faces-lourence-ilagan-to-start-title-defence-as-luke-littler-takes-on-danny-noppert" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·范格文将在世界飞镖系列赛决赛中对阵劳伦斯·伊拉甘，开启他的卫冕之路，卢克·利特勒将在阿姆斯特丹与丹尼·诺珀特正面交锋。" data-title="MVG 开始世界飞镖系列赛决赛对阵伊拉甘" data-date="09-02 19:44" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:44</span>
-          <span class="news-item-title">MVG 开始世界飞镖系列赛决赛对阵伊拉甘</span>
+          <span class="news-item-date">09-02 19:47</span>
+          <span class="news-item-title">热刺最新消息：夏季转会窗口评级——兑现了承诺，但他们是否付出了过高的代价？</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="尽管人们普遍期待他们会在今年夏天签下一名左后卫，但曼联决定不这么做--这意味着什么？" data-title="曼联和他们计算的左边" data-date="09-02 18:46" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -267,12 +231,78 @@ title: 热点新闻
           <span class="news-item-date">09-02 18:46</span>
           <span class="news-item-title">曼联和他们计算的左边</span>
         </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="尽管人们普遍期望他们会在今年夏天签下一名左后卫，但曼联最终决定反对——这意味着什么？" data-title="曼联和他们计算出的左翼" data-date="09-02 18:46" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 18:46</span>
+          <span class="news-item-title">曼联和他们计算出的左翼</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="最终，在截止日期当天，尼克·沃尔特梅德（ Nick Woltemade ）离开纽卡斯尔联队加盟尤文图斯，俱乐部宣布马蒂亚斯·费尔南德斯-帕尔多（ Matias Fernandez-Pardo ）的到来，这是两个截然不同的前锋" data-title="Woltemade的举动凸显了纽卡斯尔夏季的变化" data-date="09-02 18:01" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 18:01</span>
+          <span class="news-item-title">Woltemade的举动凸显了纽卡斯尔夏季的变化</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx2z4q00pg7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这最终是两个截然不同的前锋在截止日的故事，尼克·沃尔特马德离开纽卡斯尔联队租借加盟尤文图斯，俱乐部宣布马蒂亚斯·费尔南德斯·帕尔多的到来。" data-title="沃尔特马德的举动凸显了纽卡斯尔夏季的变化" data-date="09-02 18:01" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 18:01</span>
+          <span class="news-item-title">沃尔特马德的举动凸显了纽卡斯尔夏季的变化</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="害怕受到攻击，但后面却很轻？利物浦在转会窗口花费了2亿多£ ，但关于球队是否有足够的深度仍然存在疑问。" data-title="害怕攻击，背后轻松-为什么利物浦的转会窗口会留下问题" data-date="09-02 17:10" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 17:10</span>
+          <span class="news-item-title">害怕攻击，背后轻松-为什么利物浦的转会窗口会留下问题</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="进攻时害怕，但后面却轻松？利物浦在转会窗口上花费了超过2亿英镑，但球队是否有足够的深度仍然存在疑问。" data-title="进攻令人畏惧，后防线光芒四射——为什么利物浦的转会窗口留下了疑问" data-date="09-02 17:10" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 17:10</span>
+          <span class="news-item-title">进攻令人畏惧，后防线光芒四射——为什么利物浦的转会窗口留下了疑问</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS" data-title="转会窗口裁决：每个英超俱乐部的表现如何" data-date="09-02 16:30" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-02 16:30</span>
+          <span class="news-item-title">转会窗口裁决：每个英超俱乐部的表现如何</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS" data-title="转会窗口判决：每个英超俱乐部的表现如何" data-date="09-02 16:30" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-02 16:30</span>
+          <span class="news-item-title">转会窗口判决：每个英超俱乐部的表现如何</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c783x812dk5o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳一直忙于转会市场，因为他们希望捍卫自己的英超联赛冠军，但他们还缺少一名世界级的前锋吗？" data-title="阿森纳是否会冒险不签约一个世界" data-date="09-02 15:25" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 15:25</span>
+          <span class="news-item-title">阿森纳是否会冒险不签约一个世界</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c783x812dk5o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳在转会市场上一直很忙碌，他们希望卫冕英超冠军，但他们还缺少一名世界级前锋吗？" data-title="阿森纳不签下世界冠军是否会冒险" data-date="09-02 15:25" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 15:25</span>
+          <span class="news-item-title">阿森纳不签下世界冠军是否会冒险</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="随着夏季转会窗口的关闭，首席足球作家菲尔·麦克纳尔蒂询问阿森纳的对手是否已经做了足够的努力来挑战冠军？" data-title="冠军争夺者在转会窗口中的表现是否足以挑战阿森纳？" data-date="09-02 14:12" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 14:12</span>
+          <span class="news-item-title">冠军争夺者在转会窗口中的表现是否足以挑战阿森纳？</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="随着夏季转会窗口的关闭，首席足球作家菲尔·麦克纳尔蒂询问阿森纳的对手是否已经做了足够的努力来挑战冠军？" data-title="冠军争夺者在转会窗口做得足够足以挑战阿森纳吗？" data-date="09-02 14:12" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 14:12</span>
+          <span class="news-item-title">冠军争夺者在转会窗口做得足够足以挑战阿森纳吗？</span>
+        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">📰</span>
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
-      <span class="news-category-count">1 条</span>
+      <span class="news-category-count">2 条</span>
     </div>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今年从巴基斯坦和伊朗遭遣返回阿富汗的人数，已再增加100万。" data-title="“我从未去过的祖国”：600万阿富汗人遭邻国驱逐，在塔利班治下重新开始" data-date="09-02 17:18" data-source="BBC">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
@@ -280,48 +310,11 @@ title: 热点新闻
           <span class="news-item-date">09-02 17:18</span>
           <span class="news-item-title">“我从未去过的祖国”：600万阿富汗人遭邻国驱逐，在塔利班治下重新开始</span>
         </a>
-  </div>
-  <div class="news-category">
-    <div class="news-category-header">
-      <span class="category-flag">🌍</span>
-      <span class="news-category-title">🌍 西方媒体视角 (外媒看中国 · 奇葩言论集锦)</span>
-      <span class="news-category-count">6 条</span>
-    </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688972.shtml" target="_blank" rel="noopener" data-cat="meimei" data-summary="中新网克拉玛依9月2日电 题：在新疆牧区，AI开始给牛羊“看”病" data-title="在新疆牧区，AI开始给牛羊“看”病" data-date="09-02 19:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:34</span>
-          <span class="news-item-title">在新疆牧区，AI开始给牛羊“看”病</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-02/10688969.shtml" target="_blank" rel="noopener" data-cat="meimei" data-summary="中新社台北9月2日电 台湾一黄姓男子及其妻子涉嫌组织“爱情诈骗集团”，通过人工智能(AI)变声等技术行骗，犯罪所得超过9亿元新台币，受害者逾2万人。台北地方检察署2日起诉57名被告，对黄姓男子及其妻子分别求刑25年以上、18年以上。" data-title="台湾一诈骗集团利用AI变声行骗逾9亿元新台币" data-date="09-02 19:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:34</span>
-          <span class="news-item-title">台湾一诈骗集团利用AI变声行骗逾9亿元新台币</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/dwq/2026/09-02/10688963.shtml" target="_blank" rel="noopener" data-cat="meimei" data-summary="中新社香港9月2日电 (张语洽 刘玥晴)由香港贸易发展局(简称“贸发局”)主办的第11届香港国际时尚汇展(CENTRESTAGE)2日在香港会议展览中心开幕，吸引来自24个国家和地区的约270个品牌参展，参展品牌数量创历届新高。" data-title="香港国际时尚汇展开幕   参展品牌数量创历届新高" data-date="09-02 19:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:31</span>
-          <span class="news-item-title">香港国际时尚汇展开幕   参展品牌数量创历届新高</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="meimei" data-summary="现年29岁的民主派活动人士黄之锋，在法庭上承认一项中国《香港国安法》下的“串谋勾结外国势力危害国家安全”罪，判刑押后至另日进行。至今，黄之锋已失去自由逾2,100天。" data-title="黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身" data-date="09-02 16:06" data-source="BBC">
-          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 16:06</span>
-          <span class="news-item-title">黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="meimei" data-summary="事发河谷上游已形成两个堰塞湖。与此同时，原本散布在喜马拉雅山区的冰川湖，在灾区内有10座被标记为高风险，专家形容它们是“定时炸弹”。" data-title="尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？" data-date="09-02 08:01" data-source="BBC">
-          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="事发河谷上游已形成两个堰塞湖。与此同时，原本散布在喜马拉雅山区的冰川湖，在灾区内有10座被标记为高风险，专家形容它们是“定时炸弹”。" data-title="尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？" data-date="09-02 08:01" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-02 08:01</span>
           <span class="news-item-title">尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="meimei" data-summary="吉隆口岸位处西藏与尼泊尔的重要贸易通路之上，中国与尼泊尔两侧各有数以百计外国旅客在泥石流冲击后下落不明。" data-title="泥石流摧毁西藏吉隆口岸的关键几分钟" data-date="09-01 20:01" data-source="BBC">
-          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-01 20:01</span>
-          <span class="news-item-title">泥石流摧毁西藏吉隆口岸的关键几分钟</span>
         </a>
   </div>
 </div>
@@ -384,4 +377,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-02 19:44（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-02 19:47（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
