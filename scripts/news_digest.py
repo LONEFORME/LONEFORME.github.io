@@ -722,9 +722,19 @@ def classify_item(item):
     if any(kw in title_lower for kw in social_crime_keywords):
         return "zonghe"
 
+    # 2.3 自然风光/农林丰收摄影（如“稻穗渐黄（无人机照片）”）
+    landscape_keywords = [
+        "稻穗", "丰收", "梯田", "油菜花", "花海", "秋景", "晚霞", "日出", "云海", "红叶", "赏花", "雪景", "公园", "露营"
+    ]
+    if any(kw in title_lower for kw in landscape_keywords):
+        return "zonghe"
+
+    # 清除摘要中常见的图片摄影注释“（无人机照片）/（航拍照片）”，避免误触发通用科技词
+    clean_tech_text = re.sub(r'（?(无人机|航拍|资料|中新社|新华社)照片）?', '', full_text)
+
     # 3. 科技创新 & AI 算力（硬核聚焦：AI大模型突破、算法革新、半导体芯片巨头大动作）
     # 3.1 专门科技媒体来源直接优先入选
-    tech_sources = ["techcrunch", "tom's hardware", "ars technica", "the verge", "it之家", "人民网(科技)"]
+    tech_sources = ["techcrunch", "tom's hardware", "ars technica", "the verge", "it之家", "量子位", "人民网(科技)"]
     if any(ts in source.lower() for ts in tech_sources):
         return "keji"
 
@@ -761,7 +771,7 @@ def classify_item(item):
         "google", "谷歌", "microsoft", "微软", "aws", "meta"
     ]
     for kw in general_tech_keywords:
-        if kw in full_text:
+        if kw in clean_tech_text:
             return "keji"
 
     # 4. 财经 & 宏观 & 产业
@@ -800,8 +810,16 @@ def classify_item(item):
 
 
 def _esc(text):
-    return (text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-             .replace('"', "&quot;").replace("'", "&#39;"))
+    if not text:
+        return ""
+    return (text.replace("&", "&amp;")
+                .replace("<", "&lt;")
+                .replace(">", "&gt;")
+                .replace('"', "&quot;")
+                .replace("'", "&#39;")
+                .replace("\r", "")
+                .replace("\n", " ")
+                .strip())
 
 
 def _date_short(date_str):
