@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,979.88</span>
-      <span class="ticker-change down">▼ -0.16%</span>
+      <span class="ticker-price ticker-down">3,963.07</span>
+      <span class="ticker-change down">▼ -0.42%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">14,017.42</span>
-      <span class="ticker-change up">▲ +0.02%</span>
+      <span class="ticker-price ticker-down">13,732.18</span>
+      <span class="ticker-change down">▼ -1.01%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,435.32</span>
-      <span class="ticker-change down">▼ -0.10%</span>
+      <span class="ticker-price ticker-down">3,347.68</span>
+      <span class="ticker-change down">▼ -1.35%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,679.89</span>
-      <span class="ticker-change down">▼ -0.27%</span>
+      <span class="ticker-price ticker-down">1,623.53</span>
+      <span class="ticker-change down">▼ -1.46%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,550.88</span>
-      <span class="ticker-change down">▼ -1.49%</span>
+      <span class="ticker-price ticker-down">4,482.23</span>
+      <span class="ticker-change down">▼ -1.51%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,456.97</span>
-      <span class="ticker-change up">▲ +0.00%</span>
+      <span class="ticker-price ticker-down">29,077.22</span>
+      <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7239</span>
+      <span class="ticker-price ticker-up">6.7238</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,419.81</span>
-      <span class="ticker-change down">▼ -0.01%</span>
+      <span class="ticker-price ticker-down">$4,344.40</span>
+      <span class="ticker-change down">▼ -0.03%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -151,7 +151,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+20.4 亿</span>
+      <span class="sector-flow-badge">+53.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -164,7 +164,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+48.9 亿</span>
+      <span class="sector-flow-badge">+52.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -177,7 +177,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+45.6 亿</span>
+      <span class="sector-flow-badge">+17.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -190,7 +190,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+25.2 亿</span>
+      <span class="sector-flow-badge">+18.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -216,31 +216,19 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">4 条精选资讯</span>
+      <span class="news-category-count">2 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-01/10688193.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月1日电 9月1日下午，国务院总理李强在北京人民大会堂会见美中贸易全国委员会董事会主席麦凯恩率领的访华团。" data-title="李强会见美中贸易全国委员会董事会代表团" data-date="09-01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">李强会见美中贸易全国委员会董事会代表团</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="吉隆口岸位处西藏与尼泊尔的重要贸易通路之上，中国与尼泊尔两侧各有数以百计外国旅客在泥石流冲击后下落不明。" data-title="泥石流摧毁西藏吉隆口岸的关键几分钟" data-date="09-01" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-01</span>
           <span class="news-item-title">泥石流摧毁西藏吉隆口岸的关键几分钟</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="该公司股份正式在香港上市，这是其多年来试图在纽约和伦敦出售股票之后的成果。" data-title="Shein香港上市首日股价下跌　期待已久的股市首秀表现疲弱" data-date="09-01" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本企业正加码布局印度，因国内市场萎缩及中国风险升高。" data-title="日本企业大举押注印度　中国风险加深之际寻求新成长" data-date="09-02" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">Shein香港上市首日股价下跌　期待已久的股市首秀表现疲弱</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/01/business/bond-yields-debt.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="全球政府借贷成本正触及数十年来的高点，反映出人们对债务水平、赤字和通胀的担忧。" data-title="全球债券抛售令投资者紧张" data-date="09-01" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-01</span>
-          <span class="news-item-title">全球债券抛售令投资者紧张</span>
+          <span class="news-item-date">09-02</span>
+          <span class="news-item-title">日本企业大举押注印度　中国风险加深之际寻求新成长</span>
         </a>
   </div>
 </div>
@@ -255,4 +243,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据最后更新于 2026-09-01 12:18 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据最后更新于 2026-09-02 03:52 · 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
