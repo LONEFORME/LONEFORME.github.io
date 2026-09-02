@@ -744,7 +744,7 @@
     "published_time": "19:47",
     "source": "天空体育",
     "summary": "",
-    "published_dt_iso": "2026-09-02T19:47:35.412465+08:00"
+    "published_dt_iso": "2026-09-02T00:00:00+08:00"
   },
   {
     "title": "“非常不高兴”——尽管卡马拉闹剧，切尔西为何仍出售费尔南德斯",
@@ -753,7 +753,7 @@
     "published_time": "19:47",
     "source": "天空体育",
     "summary": "天空体育首席记者卡韦·索尔赫科尔解释了为什么切尔西将恩佐·费尔南德斯卖给了竞争对手曼城，尽管他们从摩纳哥签下拉明·卡马拉的交易在最后一刻破裂了。",
-    "published_dt_iso": "2026-09-02T19:47:37.700203+08:00"
+    "published_dt_iso": "2026-09-02T00:00:00+08:00"
   },
   {
     "title": "创纪录的转账支出，但有人真的满意吗？",
@@ -762,7 +762,7 @@
     "published_time": "19:47",
     "source": "天空体育",
     "summary": "它总结了一个狂野的转会截止日，在该窗口的最后几个小时内匹配了英国转会记录。恩佐·费尔南德斯（ Enzo Fernandez ）从切尔西转会曼城（ Manchester City ）完成了一个非凡的夏天，在这个夏天，支出变得平流层。",
-    "published_dt_iso": "2026-09-02T19:47:39.333649+08:00"
+    "published_dt_iso": "2026-09-02T00:00:00+08:00"
   },
   {
     "title": "转会窗口判决：每个英超俱乐部的表现如何",
@@ -817,5 +817,545 @@
     "source": "中国新闻网",
     "summary": "中新社上海9月2日电 (记者 姜煜)瑞银证券中国股票策略分析师孟磊2日发表分析报告称，在上市公司盈利复苏，交易型开放式指数证券投资基金(ETF)、保险资金与私募基金等增量资金持续净流入以及全球科技发展的推动下，年内中国A股有望延续稳步反弹势头。",
     "published_dt_iso": "2026-09-02T19:41:03+08:00"
+  },
+  {
+    "title": "据报道，AfterQuery 成为 Y Combinator 有史以来最快的独角兽，目前估值为 $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "date": "2026-09-02",
+    "published_time": "06:08",
+    "source": "TechCrunch",
+    "summary": "据报道，人工智能模型训练初创公司 AfterQuery 已完成一轮融资，估值达 32 亿美元，距离 4 月份宣布完成 3000 万美元 A 轮融资仅五个月，估值为 3 亿美元。",
+    "published_dt_iso": "2026-09-02T06:08:24+08:00"
+  },
+  {
+    "title": "OpenAI 的 Astra 模型正在开发中——并且非常擅长闯入计算机系统",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "date": "2026-09-02",
+    "published_time": "05:06",
+    "source": "TechCrunch",
+    "summary": "OpenAI 预览了在准备发布其最新的网络关键法学硕士 Astra 时所采取的预防措施。",
+    "published_dt_iso": "2026-09-02T05:06:24+08:00"
+  },
+  {
+    "title": "谷歌的 Android 更新解决了晕动症、无障碍等问题",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "date": "2026-09-02",
+    "published_time": "04:53",
+    "source": "TechCrunch",
+    "summary": "虽然谷歌在某些功能上正在追赶苹果，后者已经为 iPhone 用户提供了类似的功能，但其他功能则专门利用 Gemini 来提供各种改进。",
+    "published_dt_iso": "2026-09-02T04:53:05+08:00"
+  },
+  {
+    "title": "Anthropic 的新《神鬼寓言》版本更便宜、限制更少",
+    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "date": "2026-09-02",
+    "published_time": "03:39",
+    "source": "TechCrunch",
+    "summary": "Fable 5.1 包括旨在降低代币成本的更改以及模型保护措施的误报限制。",
+    "published_dt_iso": "2026-09-02T03:39:22+08:00"
+  },
+  {
+    "title": "谷歌对 Canva 的回应是一款人工智能工具，你可以在其中提示而不是设计",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "date": "2026-09-02",
+    "published_time": "01:35",
+    "source": "TechCrunch",
+    "summary": "借助 Google Pics，谷歌正在更深入地进军由 Canva 和 Adob​​e 主导的创意软件市场，但采取了明显的人工智能优先的方法。",
+    "published_dt_iso": "2026-09-02T01:35:37+08:00"
+  },
+  {
+    "title": "ChatGPT Health 为临床医生添加了 Epic 集成以导入患者数据",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "date": "2026-09-02",
+    "published_time": "01:00",
+    "source": "TechCrunch",
+    "summary": "OpenAI 表示，该集成为临床医生提供了对健康记录的只读访问。",
+    "published_dt_iso": "2026-09-02T01:00:00+08:00"
+  },
+  {
+    "title": "红杉资本孵化的 Empirik 斥资 2100 万美元推出，用于在服务中断发生之前进行预测",
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "date": "2026-09-02",
+    "published_time": "00:31",
+    "source": "TechCrunch",
+    "summary": "这家初创公司希望为 IT 基础设施做 Cursor 在软件工程领域所做的事情。",
+    "published_dt_iso": "2026-09-02T00:31:04+08:00"
+  },
+  {
+    "title": "Amazon Alexa 现在可以在新商品可能吸引您购物时提醒您",
+    "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+    "date": "2026-09-01",
+    "published_time": "23:51",
+    "source": "TechCrunch",
+    "summary": "亚马逊正在添加一项名为“Update Me When”的新 Alexa 支持功能，该功能可以发送有关产品发布、旅游、书籍、演出和其他可能触发购买的事件的个性化警报。",
+    "published_dt_iso": "2026-09-01T23:51:55+08:00"
+  },
+  {
+    "title": "在病毒视频中，有问题的电脑电源一插入插座就“爆炸”并起火——视频捕捉到了维修店工人避免灾难的瞬间",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/questionable-pc-power-supply-explodes-bursts-into-flames-the-moment-its-plugged-into-a-socket-viral-video-captures-moment-repair-shop-worker-avoids-disaster",
+    "date": "2026-09-02",
+    "published_time": "19:40",
+    "source": "Tom's Hardware",
+    "summary": "显然，越南的一个电源装置没有达到这一期望，一家商店的闭路电视录像显示，它一插入插座就起火了。尽管它着火了，但幸运的是，由于测试人员迅速采取行动将其从墙上切断，因此没有人受伤。",
+    "published_dt_iso": "2026-09-02T19:40:00+08:00"
+  },
+  {
+    "title": "EFF 要求加州州长否决需要在线年龄验证的法案——电子前沿基金会认为该法案将导致侵犯隐私的检查并违反第一修正案",
+    "link": "https://www.tomshardware.com/tech-industry/eff-asks-california-governor-to-veto-bill-that-would-require-online-age-verification-electronic-frontier-foundation-argues-bill-would-result-in-privacy-invasive-checks-and-step-on-first-amendment",
+    "date": "2026-09-02",
+    "published_time": "19:20",
+    "source": "Tom's Hardware",
+    "summary": "电子前沿基金会要求加州州长否决需要在线年龄验证的法案——EFF 认为 A.B. 1709 将导致侵犯隐私的检查并违反第一修正案",
+    "published_dt_iso": "2026-09-02T19:20:00+08:00"
+  },
+  {
+    "title": "这款 32GB DDR5 RAM 套件现在是最便宜的促销品，价格回落到 400 美元以下 — 对于新的游戏 PC 构建或升级来说，普通的 PNY 内存套件可享受 13% 的折扣",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/this-32gb-ddr5-ram-kit-is-now-the-cheapest-on-sale-dropping-back-under-usd400-13-percent-discount-on-an-unflashy-pny-memory-kit-for-new-gaming-pc-builds-or-upgrades",
+    "date": "2026-09-02",
+    "published_time": "19:13",
+    "source": "Tom's Hardware",
+    "summary": "PNY 的这款 32GB DDR5 内存套件是目前最便宜的促销产品，现仅需 399.99 美元。",
+    "published_dt_iso": "2026-09-02T19:13:14+08:00"
+  },
+  {
+    "title": "到 2050 年，人工智能数据中心投资预计将达到 32 万亿美元——基础设施支出预计将超过铁路、电气化或互联网的资本需求",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-investment-projected-to-hit-usd32-trillion-by-2050-infrastructure-spending-estimated-to-exceed-capital-requirements-for-railways-electrification-or-the-internet",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "summary": "这些投资并不是一次性的巨额支出——随着新的半导体技术上市，数据中心运营商预计每四到六年升级一次昂贵的 GPU 和相关基础设施。",
+    "published_dt_iso": "2026-09-02T19:00:26+08:00"
+  },
+  {
+    "title": "Techie 创建了一个包含线圈呜呜显卡、电源和液体冷却泵的数据库 - 开源项目希望社区报告受影响部件",
+    "link": "https://www.tomshardware.com/pc-components/techie-creates-a-database-of-coil-whining-graphics-cards-power-supplies-and-liquid-cooler-pumps-open-source-project-wants-community-reports-of-affected-parts",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "summary": "Techie 创建了一个包含线圈呜呜显卡、PSU 和 AIO 泵的数据库 - 开源项目希望获得受影响部件的社区报告",
+    "published_dt_iso": "2026-09-02T19:00:00+08:00"
+  },
+  {
+    "title": "初创公司希望租用闲置的游戏电脑来执行 AI 任务——初创公司推出“用于 AI 推理的 Airbnb”，但盈利能力仍未得到证实",
+    "link": "https://www.tomshardware.com/pc-components/gpus/startups-pitch-an-airbnb-for-ai-inference-that-pays-gamers-for-their-idle-pcs",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "summary": "如果你的游戏设备一生中的大部分时间都无所事事，那么两家初创公司会愿意为你的停机时间支付接近最低工资的工资",
+    "published_dt_iso": "2026-09-02T19:00:00+08:00"
+  },
+  {
+    "title": "借助非官方 Homebrew 端口，您现在可以在 Nintendo Switch 上本地玩 GTA V - 游戏以 30 FPS 运行，但需要越狱、超频的 Switch",
+    "link": "https://www.tomshardware.com/video-games/nintendo/you-can-now-play-gta-v-natively-on-a-nintendo-switch-thanks-to-unofficial-homebrew-port-game-runs-at-30-fps-but-requires-a-jailbroken-overclocked-switch",
+    "date": "2026-09-02",
+    "published_time": "18:40",
+    "source": "Tom's Hardware",
+    "summary": "一组模组制作者已经获取了泄露的源代码，并对其进行了重新编译，以便在 Switch 的基于 Arm 的 SoC 上本地运行游戏逻辑。只要对系统进行超频，就可以获得相对稳定的 30 FPS 体验，而不会出现严重的电池消耗或过热现象。",
+    "published_dt_iso": "2026-09-02T18:40:00+08:00"
+  },
+  {
+    "title": "研究人员轻松诱骗财富 500 强公司的人工智能代理运行任意代码——通过 llms.txt 指导文件进行的供应链攻击说明了数据如何变成代码",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-easily-trick-fortune-500-companies-ai-agents-into-running-arbitrary-code-supply-chain-attack-via-llms-txt-guidance-file-illustrates-how-data-has-become-code",
+    "date": "2026-09-02",
+    "published_time": "18:20",
+    "source": "Tom's Hardware",
+    "summary": "研究人员很容易欺骗财富 500 强公司的人工智能代理运行任意代码。这种供应链攻击是通过使用公共 llms.txt 指导文件中的数据完成的，说明了数据变成代码的危险。",
+    "published_dt_iso": "2026-09-02T18:20:00+08:00"
+  },
+  {
+    "title": "在安装此承诺免费电影的设备之前请三思而后行",
+    "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "date": "2026-09-01",
+    "published_time": "00:33",
+    "source": "Ars Technica",
+    "summary": "为了换取免费的东西，设备将家庭连接作为代理网络的一部分。",
+    "published_dt_iso": "2026-09-01T00:33:38+08:00"
+  },
+  {
+    "title": "Meta 推动机器人在数据中心工作的内幕",
+    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "date": "2026-08-30",
+    "published_time": "19:03",
+    "source": "Ars Technica",
+    "summary": "该公司正在测试机器人执行可由技术人员执行的任务。",
+    "published_dt_iso": "2026-08-30T19:03:47+08:00"
+  },
+  {
+    "title": "当局逮捕了 2 名多产黑客组织 TeamPCP 的涉嫌成员",
+    "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "date": "2026-08-28",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "summary": "该组织通过无情的供应链攻击活动感染了 1,000 多个组织。",
+    "published_dt_iso": "2026-08-28T19:15:05+08:00"
+  },
+  {
+    "title": "Claude、Codex 和 Hermes 在公司网络内安装了无主代码",
+    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "date": "2026-08-27",
+    "published_time": "22:00",
+    "source": "Ars Technica",
+    "summary": "在公司文档中发现了 227 个安装命令，这些命令指向无人拥有的代码。",
+    "published_dt_iso": "2026-08-27T22:00:13+08:00"
+  },
+  {
+    "title": "OpenAI 如何让一群 LLM 特工进行测试并洗劫 Hugging Face",
+    "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "date": "2026-08-27",
+    "published_time": "20:58",
+    "source": "Ars Technica",
+    "summary": "在未经授权的情况下，1,200 个 OpenAI 智能体密谋进行测试。",
+    "published_dt_iso": "2026-08-27T20:58:59+08:00"
+  },
+  {
+    "title": "旨在取代 Meta 工作人员的人工智能代理做出了“大规模、破坏性的行动”",
+    "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "date": "2026-08-27",
+    "published_time": "05:25",
+    "source": "Ars Technica",
+    "summary": "报告显示 Meta 在用人工智能代理取代人类方面面临的挑战。",
+    "published_dt_iso": "2026-08-27T05:25:27+08:00"
+  },
+  {
+    "title": "用于指纹浏览器的听不见的声音捕获 AliExpress 红色",
+    "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+    "date": "2026-08-25",
+    "published_time": "03:19",
+    "source": "Ars Technica",
+    "summary": "技术是否过时了？是的。是不是依然毛骨悚然？也是的。",
+    "published_dt_iso": "2026-08-25T03:19:21+08:00"
+  },
+  {
+    "title": "Waymo 在与 Uber 的机器人出租车大战中加大游说支出",
+    "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+    "date": "2026-08-21",
+    "published_time": "21:11",
+    "source": "Ars Technica",
+    "summary": "Alphabet 旗下的公司正在寻求说服美国监管机构为全自动出租车服务扫清道路。",
+    "published_dt_iso": "2026-08-21T21:11:35+08:00"
+  },
+  {
+    "title": "可播放旧任天堂卡带的令人惊叹的 USB-C 小工具",
+    "link": "https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes",
+    "date": "2026-09-02",
+    "published_time": "19:30",
+    "source": "The Verge",
+    "summary": "上周，我打开了一款已有 26 年历史的 Pokémon Pinball，这是 Game Boy 有史以来最好的游戏之一。我的保存文件已经没有了。我为女儿抓到的小火龙，我们一起创造的高分……都消失了。在闪存出现之前，任天堂卡带使用微型手表电池来保存游戏，而那些 [...]",
+    "published_dt_iso": "2026-09-02T19:30:00+08:00"
+  },
+  {
+    "title": "机器人管家的梦想没有腿",
+    "link": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "The Verge",
+    "summary": "多年来，人形机器人管理我们的家庭的想法一直只是科幻小说中的内容。但与悬浮滑板和自系带运动鞋不同的是，机器人管家从来没有想过要滚进我们的家。到目前为止。今年是人形机器人的一年。在 CES 上，[...] 上有数十个人形机器人。",
+    "published_dt_iso": "2026-09-02T19:00:00+08:00"
+  },
+  {
+    "title": "这就是美国的未来吗？",
+    "link": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
+    "date": "2026-09-02",
+    "published_time": "18:00",
+    "source": "The Verge",
+    "summary": "2007 年，美国正处于经济衰退的风口浪尖，巴迪·里泽 (Buddy Rizer) 的任务是在弗吉尼亚州劳登县寻找新的赚钱方式。 Rizer 早期作为电台 DJ 的职业生涯并没有使他成为寻找解决方案的明显候选人，但他正在寻找他所谓的 [...]",
+    "published_dt_iso": "2026-09-02T18:00:01+08:00"
+  },
+  {
+    "title": "宏碁的新款 MacBook Air 竞争对手比苹果笔记本电脑轻近一磅",
+    "link": "https://www.theverge.com/gadgets/987802/acer-swift-blade-14-air-16-laptop-ifa-price-specs",
+    "date": "2026-09-02",
+    "published_time": "17:30",
+    "source": "The Verge",
+    "summary": "宏碁宣布推出一款新笔记本电脑，准备与 MacBook Air 的轻薄程度相媲美 - 在此过程中，它使用了另一款笔记本电脑的名称。 Acer Swift Blade 14（不要与 Razer Blade 14 混淆）是一款生产力机器，重量仅为 1.76 磅/799 克，尺寸仅为 0.51 [...]",
+    "published_dt_iso": "2026-09-02T17:30:00+08:00"
+  },
+  {
+    "title": "宏碁的新概念硬件是一款带键盘的游戏掌上电脑",
+    "link": "https://www.theverge.com/games/988029/acer-project-dualplay-mini-concept-gaming-handheld-keyboard-ifa",
+    "date": "2026-09-02",
+    "published_time": "17:30",
+    "source": "The Verge",
+    "summary": "在过去的几年里，忙碌的 PC 游戏玩家面临着一个选择：购买一台游戏笔记本电脑，或者选择众多受 Steam Deck 启发的掌上电脑之一，这些掌上电脑的尺寸只有一小部分，但功能却少得多。宏碁最新的概念设备 Project DualPlay Mini 试图通过 [...] 颠覆这种二分法。",
+    "published_dt_iso": "2026-09-02T17:30:00+08:00"
+  },
+  {
+    "title": "微软正在启用可能损害游戏性能的 Windows 11 安全功能",
+    "link": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
+    "date": "2026-09-02",
+    "published_time": "16:57",
+    "source": "The Verge",
+    "summary": "微软正准备在下个月向更多设备推出 Windows 11 的内存完整性安全功能。内核级保护功能旨在阻止在 Windows 11 机器上运行的恶意代码或驱动程序，但微软此前警告称它也会影响 PC 游戏性能。 “Windows 质量更新将开始启用 [...]",
+    "published_dt_iso": "2026-09-02T16:57:40+08:00"
+  },
+  {
+    "title": "戴尔最新的笔记本电脑听起来很像 MacBook Neo",
+    "link": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
+    "date": "2026-09-02",
+    "published_time": "15:00",
+    "source": "The Verge",
+    "summary": "戴尔的新款 Dell 14S 笔记本电脑听起来很像 MacBook Neo：它有四种颜色，面向学生，配备 8GB RAM 和 256GB 存储空间。 14S 在 IFA 2026 上发布，旨在低于最近推出的 XPS 13，并提供另一种经济实惠的笔记本电脑选择，作为 [...]",
+    "published_dt_iso": "2026-09-02T15:00:00+08:00"
+  },
+  {
+    "title": "这款新型 Roomba 可自行密封在您的地毯上",
+    "link": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+    "date": "2026-09-02",
+    "published_time": "14:00",
+    "source": "The Verge",
+    "summary": "iRobot 宣布推出一款新的旗舰机器人真空吸尘器，该产品将于本周在柏林 IFA 展会上展示，这是该公司多年来首次举办的大型科技贸易展。这家 Roomba 制造商将在其新东家 Picea Robotics 的带领下参展。Picea Robotics 是这家合同制造商，该公司于 1 月份收购了这家曾经陷入破产困境的美国机器人公司。这 […]",
+    "published_dt_iso": "2026-09-02T14:00:00+08:00"
+  },
+  {
+    "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+    "link": "https://www.qbitai.com/2026/09/483274.html",
+    "date": "2026-09-02",
+    "published_time": "17:22",
+    "source": "量子位",
+    "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线",
+    "published_dt_iso": "2026-09-02T17:22:16+08:00"
+  },
+  {
+    "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+    "link": "https://www.qbitai.com/2026/09/483104.html",
+    "date": "2026-09-02",
+    "published_time": "14:20",
+    "source": "量子位",
+    "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文",
+    "published_dt_iso": "2026-09-02T14:20:17+08:00"
+  },
+  {
+    "title": "阿里更新旗舰模型Qwen3.8",
+    "link": "https://www.qbitai.com/2026/09/483101.html",
+    "date": "2026-09-02",
+    "published_time": "14:10",
+    "source": "量子位",
+    "summary": "",
+    "published_dt_iso": "2026-09-02T14:10:26+08:00"
+  },
+  {
+    "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+    "link": "https://www.qbitai.com/2026/09/483097.html",
+    "date": "2026-09-02",
+    "published_time": "14:06",
+    "source": "量子位",
+    "summary": "9月2日，前字节跳动强化学习专家、前腾讯Robotics X智能体中⼼负责⼈孙鹏博⼠正式加入星尘智能",
+    "published_dt_iso": "2026-09-02T14:06:50+08:00"
+  },
+  {
+    "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+    "link": "https://www.qbitai.com/2026/09/482967.html",
+    "date": "2026-09-02",
+    "published_time": "10:48",
+    "source": "量子位",
+    "summary": "AI客服日扛1.5万通电话",
+    "published_dt_iso": "2026-09-02T10:48:06+08:00"
+  },
+  {
+    "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
+    "link": "https://www.qbitai.com/2026/09/482652.html",
+    "date": "2026-09-02",
+    "published_time": "10:18",
+    "source": "量子位",
+    "summary": "无论你此前让Claude处理什么任务，Fable 5.1都能做更多，并且把最难的部分完成得更出色",
+    "published_dt_iso": "2026-09-02T10:18:12+08:00"
+  },
+  {
+    "title": "香港首个真实开放场景服务机器人落地兰桂坊",
+    "link": "https://www.qbitai.com/2026/09/482855.html",
+    "date": "2026-09-02",
+    "published_time": "10:06",
+    "source": "量子位",
+    "summary": "在香港兰桂坊，一位特殊的“酒保”正式上岗",
+    "published_dt_iso": "2026-09-02T10:06:08+08:00"
+  },
+  {
+    "title": "巨简单，更懂家！海信JUOS正式发布：行业首个家庭智能伴侣级AIOS",
+    "link": "https://www.qbitai.com/2026/09/482699.html",
+    "date": "2026-09-02",
+    "published_time": "09:44",
+    "source": "量子位",
+    "summary": "8月31日，海信正式发布行业首个家庭智能伴侣级AIOS——海信JUOS。",
+    "published_dt_iso": "2026-09-02T09:44:24+08:00"
+  },
+  {
+    "title": "研究警告：GPS 偏差 33 英尺将足以导致无人驾驶汽车发生事故",
+    "link": "https://www.ithome.com/0/997/644.htm",
+    "date": "2026-09-02",
+    "published_time": "19:55",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，据外媒 Futurism 当地时间 1 日报道，去年 11 月，科学家曾警告，一场 20 多年来最强的“严重”太阳风暴即将袭击地球。太阳活动突然增强时，太阳会释放大量带电粒子，形成太阳风暴。这些粒子抵达地球磁层后，可以制造壮观的极光，也可能严重干扰通信卫星和无线电信号。去年 11 月的太阳风暴不仅强烈到迫使美国国家航空航天局推迟一艘火星探测器的发射，还让地面的 GPS 系统连续数小时出现严重异常。图源：Pexels发表在《地球物理研究快报》的一项新研究发现，全球导航卫星系统在这场超强太阳风暴期间出现了超过 33 英尺（10 米）的“显著定位误差”，幅度足以影响美国本土的精准农业和自动驾驶运输行业。如此明显的风险，也让研究此类太阳风暴究竟会怎样影响人类活动变得十分",
+    "published_dt_iso": "2026-09-02T19:55:19+08:00"
+  },
+  {
+    "title": "宏碁推出 SFF RTX Spark 迷你主机，最高 128GB 内存",
+    "link": "https://www.ithome.com/0/997/643.htm",
+    "date": "2026-09-02",
+    "published_time": "19:44",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，宏碁现已在全球市场推出 SFF RTX Spark 迷你主机，新品采用英伟达 RTX Spark 平台，最高可选 128GB 内存。据介绍，这款产品将搭载 20 核 RTX Spark Superchip 芯片，集成 Blackwell 架构的 GPU，含有 6144 个 CUDA 核心。IT之家注意到，这款产品最高可选 128GB 统一内存，配备一个 HDMI 接口和一个 RJ45 以太网接口，以及四个 USB Type-C 接口，截至目前宏碁暂未公布这款产品的上市时间和售价。",
+    "published_dt_iso": "2026-09-02T19:44:12+08:00"
+  },
+  {
+    "title": "Kimi API 已原生支持 Codex 和 Claude Code",
+    "link": "https://www.ithome.com/0/997/642.htm",
+    "date": "2026-09-02",
+    "published_time": "19:44",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，月之暗面宣布，为满足大家在 Codex 和 Claude Code 中接入 Kimi API 的需求，Kimi API 现已支持 OpenAI 的 Responses API 格式，base_url 为 https://api.moonshot.cn/v1；同时支持 Anthropic 的 Messages API 格式，base_url 为 https://api.moonshot.cn/ anthropic。据IT之家了解，使用 Codex 或 Claude Code 的用户，无需转换格式或本地代理，即可通过自定义 model provider 直连 kimi-k3、kimi-k2.7-code-highspeed、kimi-k2.7-code、kimi-k",
+    "published_dt_iso": "2026-09-02T19:44:04+08:00"
+  },
+  {
+    "title": "优步全球裁员 10%：为网约车、Robotaxi 业务省钱，3300 岗位受波及",
+    "link": "https://www.ithome.com/0/997/641.htm",
+    "date": "2026-09-02",
+    "published_time": "19:40",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，据彭博社今天（2 日）晚间报道，优步（Uber）将裁减约 3300 个岗位，相当于全球员工总数的 10%。公司将通过此次大规模重组压缩管理层级，并把更多资金转向网约车、配送和 Robotaxi 业务。优步 CEO 达拉 · 霍斯劳沙希在内部邮件中宣布了调整方案。“优步近年来不断扩张，也带来了更多层级、更多协调工作、更分散的职责归属。有些组织架构在业务规模较小时很合理，但已经不再适合我们目前的规模。”优步发言人表示，调整完成后，公司管理人员数量将减少 20%，部分管理人员会转为非管理岗位。优步没有公布管理人员中具体有多少人会被裁，非管理岗位员工同样在裁员范围内。霍斯劳沙希指出，为了让优步变得“更精简、更迅速”，公司将把仅有 1 至 2 名成员的团队数量削减近半，同",
+    "published_dt_iso": "2026-09-02T19:40:34+08:00"
+  },
+  {
+    "title": "欧盟法院驳回 Opera 诉讼，维持微软 Edge 不受 DMA“看门人”监管决定",
+    "link": "https://www.ithome.com/0/997/640.htm",
+    "date": "2026-09-02",
+    "published_time": "19:38",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，据路透社报道，挪威浏览器厂商 Opera 周三在一项诉讼中败诉。该公司此前挑战欧盟反垄断监管机构的一项决定，即将微软旗下浏览器 Edge 排除在限制大型科技公司市场力量的相关监管规则之外。欧盟委员会在 2024 年的决定中表示，尽管 Edge 符合《数字市场法》（DMA）规定的量化标准，但它并不是企业触达用户的重要“门户”。《数字市场法》为大型科技企业设定了一系列必须遵守和禁止实施的行为规范。Opera 认为，负责执行欧盟竞争法的欧盟委员会错误地适用了相关认定标准。总部位于卢森堡的欧盟普通法院最终支持了欧盟反垄断监管机构的决定。近年来，欧盟反垄断监管机构在针对 DMA 相关决定的多起诉讼中接连胜诉，也进一步提高了企业挑战这些监管决定的法律门槛。法官表示：“普通法",
+    "published_dt_iso": "2026-09-02T19:38:17+08:00"
+  },
+  {
+    "title": "宏碁发布 Aspire G 3D 16 笔电：AMD \"Strix Halo\" + 裸眼 3D 显示",
+    "link": "https://www.ithome.com/0/997/639.htm",
+    "date": "2026-09-02",
+    "published_time": "19:34",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，宏碁今日在 next@acer 年度全球记者会上发布了 Aspire G 3D 16 (AG3D16-81M) 笔记本电脑。这一型号基于 AMD \"Strix Halo\" 芯片平台，支持裸眼 3D 显示。Aspire G 3D 16 采用 AMD 锐龙 AI Max+ 处理器，支持 128GB LPDDR5X-8000 内存、2TB M.2 PCIe Gen4 NVMe SSD；拥有 Wi-Fi 7 无线网卡；内置 5MP IR 摄像头；提供 2 个 USB4、SD UHS-II 读卡器等接口；集成 99.9Whr 电池；整机厚度 18.3mm，质量 1.8kg。其搭载 16\" IPS 屏幕，2D 模式分辨率 3840×2400、3D 模式分辨率 1920×24",
+    "published_dt_iso": "2026-09-02T19:34:57+08:00"
+  },
+  {
+    "title": "宏碁带来 Veriton RI110 迷你主机 AI 工作站，基于 X7 358H",
+    "link": "https://www.ithome.com/0/997/637.htm",
+    "date": "2026-09-02",
+    "published_time": "19:21",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，宏碁 (Acer) 今日发布基于英特尔酷睿 Ultra X7 处理器 358H 的迷你主机型 AI 工作站 Veriton RI110。Veriton RI110 三维 138.5 × 131.3 × 52.1 (mm)，质量约 0.63kg；支持 96GB LPDDR5X 内存、4TB M.2 2280 PCIe Gen4 固态硬盘；内置 Wi-Fi 7 无线网卡。外部端口方面，其具备 2 个 USB-C 40Gbps、1 个 USB-C 10Gbps、1 个 USB-A 10Gbps、3 个 USB-A 480Mbps、1 个 HDMI 2.1、1 个 DisplayPort、1 个 3.5mm 音频插孔、1 个 10GbE RJ-45、1 个 2.5GbE",
+    "published_dt_iso": "2026-09-02T19:21:20+08:00"
+  },
+  {
+    "title": "燧原科技：科创板 IPO 网上发行最终中签率 0.02455315%",
+    "link": "https://www.ithome.com/0/997/636.htm",
+    "date": "2026-09-02",
+    "published_time": "19:13",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 2 日消息，燧原科技公告称，公司首次公开发行股票并在科创板上市网上发行申购情况及中签率公布，本次发行股份数量为 4303.5173 万股，发行价 142.18 元 / 股。网上发行有效申购户数 703.2045 万户，有效申购股数 420.66 亿股。配号总数为 8413.1758 万个，号码范围为 100,000,000,000-100,084,131,757。因网上发行初步有效申购倍数超 100 倍，启动回拨机制，将 344.3 万股从网下回拨至网上。回拨后，网上最终发行 1032.85 万股，最终中签率 0.02455315%。据IT之家了解，燧原科技创立于 2018 年 3 月，与摩尔线程、沐曦股份和壁仞科技合称为“国产 GPU 四小龙”。根据此前发布的招股书，燧原",
+    "published_dt_iso": "2026-09-02T19:13:08+08:00"
+  },
+  {
+    "title": "微视频｜“新”在中国",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129207254.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "新华网",
+    "summary": "新时代的中国，日新月异。",
+    "published_dt_iso": "2026-09-02T19:58:38.929205+08:00"
+  },
+  {
+    "title": "疫情防控措施优化 各地复商复市进行时",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129207168.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "新华网",
+    "summary": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。",
+    "published_dt_iso": "2026-09-02T19:58:38.929281+08:00"
+  },
+  {
+    "title": "国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129207117.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "新华网",
+    "summary": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。",
+    "published_dt_iso": "2026-09-02T19:58:38.929337+08:00"
+  },
+  {
+    "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129207057.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "新华网",
+    "summary": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。",
+    "published_dt_iso": "2026-09-02T19:58:38.929425+08:00"
+  },
+  {
+    "title": "老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129207047.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "新华网",
+    "summary": "在目前新冠流行的情况下，建议没有完成接种的老年人尽快接种，尽快按照程序完成全程和加强免疫，使疫苗的保护作用得到更好发挥。",
+    "published_dt_iso": "2026-09-02T19:58:38.929489+08:00"
+  },
+  {
+    "title": "为什么不再公布无症状感染者相关信息？中疾控专家解读",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129207083.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "新华网",
+    "summary": "近日，我们接到群众对新冠肺炎疫情数据的有关疑问，现请中国疾控中心应急中心李群主任作出解答。",
+    "published_dt_iso": "2026-09-02T19:58:38.929548+08:00"
+  },
+  {
+    "title": "关于BQ.1，你需要知道的几件事",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129206954.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "—",
+    "summary": "近日网络流传：代号“地狱犬”的新冠变异毒株，在日本“杀疯了”？消息称，一种名为BQ.1.1的新型变异毒株已经出现。该毒株的传染性和致死率都很高，被称作“地狱犬”，已经在日本“杀疯了”。",
+    "published_dt_iso": "2026-09-02T19:58:38.929602+08:00"
+  },
+  {
+    "title": "6年、10年、12年，他们都经历了什么？",
+    "link": "http://www.news.cn/politics/2022-12/14/c_1129206833.htm",
+    "date": "2026-09-02",
+    "published_time": "19:58",
+    "source": "新华网",
+    "summary": "为了再次“飞天”圆梦，指令长陈冬准备了6年，刘洋已经准备整整10年，而首次飞向太空的蔡旭哲为了这一天，已经刻苦训练了12年。",
+    "published_dt_iso": "2026-09-02T19:58:38.929670+08:00"
+  },
+  {
+    "title": "聚焦装备制造等优势产业 中央企业采购对接会助辽企拓市场",
+    "link": "https://www.chinanews.com.cn/cj/2026/09-02/10688978.shtml",
+    "date": "2026-09-02",
+    "published_time": "19:55",
+    "source": "中国新闻网",
+    "summary": "中新网沈阳9月2日电 (记者 李𬀪)第三届沈阳市制造业经贸活动周的重要配套活动中央企业采购对接会9月1日在沈阳举行。中国国际贸易促进委员会辽宁省分会党组书记王冰，中国机电产品进出口商会秘书长郭奎龙出席对接会并致辞。",
+    "published_dt_iso": "2026-09-02T19:55:36+08:00"
+  },
+  {
+    "title": "中国消防救援队伍“水陆空”并进扩大泥石流搜寻范围",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-02/10688980.shtml",
+    "date": "2026-09-02",
+    "published_time": "19:54",
+    "source": "中国新闻网",
+    "summary": "中新社北京9月2日电 (记者 李纯)正在泥石流灾害中方受灾区域一线的消防救援人员1日晚间接受中新社记者电话采访时表示，中方此次救援运用了“水陆空”立体搜救战术，可最大限度扩大搜寻范围，多项先进科技手段在救援中得到运用。",
+    "published_dt_iso": "2026-09-02T19:54:22+08:00"
+  },
+  {
+    "title": "中国气象局气象探测中心原党委书记、主任李良序一审获刑十三年",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-02/10688988.shtml",
+    "date": "2026-09-02",
+    "published_time": "19:51",
+    "source": "中国新闻网",
+    "summary": "中新网9月2日电 据“山东高法”微信公众号消息，9月2日，山东省济宁市中级人民法院一审公开宣判中国气象局气象探测中心原党委书记、主任李良序受贿一案。对被告人李良序以受贿罪判处有期徒刑十三年，并处罚金人民币三百五十万元；对查扣在案的李良序全部犯罪所得及孳息依法没收，上缴国库。",
+    "published_dt_iso": "2026-09-02T19:51:50+08:00"
+  },
+  {
+    "title": "【好评中国】投资越向“新”，增长越有“质”",
+    "link": "https://www.chinanews.com.cn/ll/2026/09-02/10688995.shtml",
+    "date": "2026-09-02",
+    "published_time": "19:50",
+    "source": "中国新闻网",
+    "summary": "今年以来，我国投资走势情况如何？资金“活水”主要流向了哪里？备受市场关注。国家统计局发布的数据表明，1—7月份，我国高技术产业投资同比增长5.0%，增速比上半年加快；集成电路制造业投资同比增长11.5%，发展后劲充足。结构向新向优，投资效益和质量不断提高，稳增长的动力不断积蓄，看见今年投资的基本面。",
+    "published_dt_iso": "2026-09-02T19:50:46+08:00"
   }
 ]

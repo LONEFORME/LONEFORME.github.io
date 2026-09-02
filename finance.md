@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7220</span>
+      <span class="ticker-price ticker-down">6.7216</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,374.63</span>
-      <span class="ticker-change up">▲ +0.02%</span>
+      <span class="ticker-price ticker-up">$4,377.41</span>
+      <span class="ticker-change up">▲ +0.01%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,8 +216,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10688978.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳9月2日电 (记者 李𬀪)第三届沈阳市制造业经贸活动周的重要配套活动中央企业采购对接会9月1日在沈阳举行。中国国际贸易促进委员会辽宁省分会党组书记王冰，中国机电产品进出口商会秘书长郭奎龙出席对接会并致辞。" data-title="聚焦装备制造等优势产业 中央企业采购对接会助辽企拓市场" data-date="09-02 19:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:55</span>
+          <span class="news-item-title">聚焦装备制造等优势产业 中央企业采购对接会助辽企拓市场</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-02/10688988.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月2日电 据“山东高法”微信公众号消息，9月2日，山东省济宁市中级人民法院一审公开宣判中国气象局气象探测中心原党委书记、主任李良序受贿一案。对被告人李良序以受贿罪判处有期徒刑十三年，并处罚金人民币三百五十万元；对查扣在案的李良序全部犯罪所得及孳息依法没收，上缴国库。" data-title="中国气象局气象探测中心原党委书记、主任李良序一审获刑十三年" data-date="09-02 19:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:51</span>
+          <span class="news-item-title">中国气象局气象探测中心原党委书记、主任李良序一审获刑十三年</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/ll/2026/09-02/10688995.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="今年以来，我国投资走势情况如何？资金“活水”主要流向了哪里？备受市场关注。国家统计局发布的数据表明，1—7月份，我国高技术产业投资同比增长5.0%，增速比上半年加快；集成电路制造业投资同比增长11.5%，发展后劲充足。结构向新向优，投资效益和质量不断提高，稳增长的动力不断积蓄，看见今年投资的基本面。" data-title="【好评中国】投资越向“新”，增长越有“质”" data-date="09-02 19:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:50</span>
+          <span class="news-item-title">【好评中国】投资越向“新”，增长越有“质”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10688982.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海9月2日电 (记者 姜煜)瑞银证券中国股票策略分析师孟磊2日发表分析报告称，在上市公司盈利复苏，交易型开放式指数证券投资基金(ETF)、保险资金与私募基金等增量资金持续净流入以及全球科技发展的推动下，年内中国A股有望延续稳步反弹势头。" data-title="外资银行看好中国A股：年内有望延续稳步反弹势头" data-date="09-02 19:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:41</span>
+          <span class="news-item-title">外资银行看好中国A股：年内有望延续稳步反弹势头</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/dwq/2026/09-02/10688963.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社香港9月2日电 (张语洽 刘玥晴)由香港贸易发展局(简称“贸发局”)主办的第11届香港国际时尚汇展(CENTRESTAGE)2日在香港会议展览中心开幕，吸引来自24个国家和地区的约270个品牌参展，参展品牌数量创历届新高。" data-title="香港国际时尚汇展开幕   参展品牌数量创历届新高" data-date="09-02 19:31" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -273,4 +297,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-02 19:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-02 19:57（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
