@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-02 19:57 抓取更新</span>
+      <span>2026-09-02 20:19 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">54</span>
+        <span class="channel-count">50</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -41,7 +41,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
-        <span class="channel-count">9</span>
+        <span class="channel-count">5</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
         <span>🌍 西方媒体视角</span>
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="http://www.news.cn/politics/2022-12/14/c_1129206954.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="近日网络流传：代号“地狱犬”的新冠变异毒株，在日本“杀疯了”？消息称，一种名为BQ.1.1的新型变异毒株已经出现。该毒株的传染性和致死率都很高，被称作“地狱犬”，已经在日本“杀疯了”。" data-title="关于BQ.1，你需要知道的几件事" data-date="09-02 19:58" data-source="—">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-02/10689012.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月2日电 (记者 张杨彬)中央民族大学民族学与社会学学院院长关凯2日接受中新社记者采访时表示，新疆地处欧亚腹地，是东西方文明交流重要通道，多种宗教在此传播交融，形成了世界宗教史上极具特色的多元宗教交汇格局。" data-title="学者：新疆形成世界宗教史极具特色的多元交汇格局" data-date="09-02 20:15" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge ">🌐 —</span>
-        <span class="hero-featured-date">🕒 09-02 19:58</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 09-02 20:15</span>
       </div>
-      <h2 class="hero-featured-title">关于BQ.1，你需要知道的几件事</h2>
+      <h2 class="hero-featured-title">学者：新疆形成世界宗教史极具特色的多元交汇格局</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/0/997/644.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，据外媒 Futurism 当地时间 1 日报道，去年 11 月，科学家曾警告，一场 20 多年来最强的“严重”太阳风暴即将袭击地球。太阳活动突然增强时，太阳会释放大量带电粒子，形成太阳风暴。这些粒子抵达地球磁层后，可以制造壮观的极光，也可能严重干扰通信卫星和无线电信号。去年 11 月的太阳风暴不仅强烈到迫使美国国家航空航天局推迟一艘火星探测器的发射，还让地面的 GPS 系统连续数小时出现严重异常。图源：Pexels发表在《地球物理研究快报》的一项新研究发现，全球导航卫星系统在这场超强太阳风暴期间出现了超过 33 英尺（10 米）的“显著定位误差”，幅度足以影响美国本土的精准农业和自动驾驶运输行业。如此明显的风险，也让研究此类太阳风暴究竟会怎样影响人类活动变得十分" data-title="研究警告：GPS 偏差 33 英尺将足以导致无人驾驶汽车发生事故" data-date="09-02 19:55" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/tp/2026/09-02/10689007.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依" data-title="贵州贵定：金海坝区稻穗渐黄铺展丰收色" data-date="09-02 20:13" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
-      </div>
-      <p class="hero-sub-title">研究警告：GPS 偏差 33 英尺将足以导致无人驾驶汽车发生事故</p>
-    </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/09-02/10688980.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新社北京9月2日电 (记者 李纯)正在泥石流灾害中方受灾区域一线的消防救援人员1日晚间接受中新社记者电话采访时表示，中方此次救援运用了“水陆空”立体搜救战术，可最大限度扩大搜寻范围，多项先进科技手段在救援中得到运用。" data-title="中国消防救援队伍“水陆空”并进扩大泥石流搜寻范围" data-date="09-02 19:54" data-source="中国新闻网">
-      <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">中国消防救援队伍“水陆空”并进扩大泥石流搜寻范围</p>
+      <p class="hero-sub-title">贵州贵定：金海坝区稻穗渐黄铺展丰收色</p>
     </a>
-    <a class="hero-sub-card" href="http://www.news.cn/politics/2022-12/14/c_1129206833.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="为了再次“飞天”圆梦，指令长陈冬准备了6年，刘洋已经准备整整10年，而首次飞向太空的蔡旭哲为了这一天，已经刻苦训练了12年。" data-title="6年、10年、12年，他们都经历了什么？" data-date="09-02 19:58" data-source="新华网">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="从恩佐·费尔南德斯到马克斯森斯·拉克鲁瓦，BBC 体育频道列出了夏窗期间 20 笔最大的转会。" data-title="今夏20笔最昂贵的转会" data-date="09-02 19:59" data-source="BBC">
+      <div class="hero-sub-meta">
+        <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
+      </div>
+      <p class="hero-sub-title">今夏20笔最昂贵的转会</p>
+    </a>
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/09-02/10688972.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网克拉玛依9月2日电 题：在新疆牧区，AI开始给牛羊“看”病" data-title="在新疆牧区，AI开始给牛羊“看”病" data-date="09-02 19:34" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 新华网</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">6年、10年、12年，他们都经历了什么？</p>
+      <p class="hero-sub-title">在新疆牧区，AI开始给牛羊“看”病</p>
     </a>
   </div>
 </div>
@@ -103,29 +103,29 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129206954.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="近日网络流传：代号“地狱犬”的新冠变异毒株，在日本“杀疯了”？消息称，一种名为BQ.1.1的新型变异毒株已经出现。该毒株的传染性和致死率都很高，被称作“地狱犬”，已经在日本“杀疯了”。" data-title="关于BQ.1，你需要知道的几件事" data-date="09-02 19:58" data-source="—">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-02/10689012.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月2日电 (记者 张杨彬)中央民族大学民族学与社会学学院院长关凯2日接受中新社记者采访时表示，新疆地处欧亚腹地，是东西方文明交流重要通道，多种宗教在此传播交融，形成了世界宗教史上极具特色的多元宗教交汇格局。" data-title="学者：新疆形成世界宗教史极具特色的多元交汇格局" data-date="09-02 20:15" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge ">🌐 —</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">关于BQ.1，你需要知道的几件事</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:15</span>
+          <span class="news-item-title">学者：新疆形成世界宗教史极具特色的多元交汇格局</span>
         </a>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129207083.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="近日，我们接到群众对新冠肺炎疫情数据的有关疑问，现请中国疾控中心应急中心李群主任作出解答。" data-title="为什么不再公布无症状感染者相关信息？中疾控专家解读" data-date="09-02 19:58" data-source="新华网">
+        <a class="news-item" href="https://www.chinanews.com.cn/dwq/2026/09-02/10688984.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网香港9月2日电 (记者 赵静怡)“诗韵长安·对话香江”西安城市文化交流活动2日在香港举办。本次活动通过主题推介、秦腔表演、主题展览等形式，向香港呈现西安的文化底蕴与现代风貌。" data-title="“诗韵长安”走进香港   共话陕港人文交融" data-date="09-02 20:12" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 新华网</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">为什么不再公布无症状感染者相关信息？中疾控专家解读</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:12</span>
+          <span class="news-item-title">“诗韵长安”走进香港   共话陕港人文交融</span>
         </a>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129207117.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。" data-title="国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案" data-date="09-02 19:58" data-source="新华网">
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10689006.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网海口9月2日电 (记者 符宇群)环新英湾自贸港新城是海南儋洋一体化核心区和海南自贸港“港产城科”融合发展先行区、示范区。“十五五”时期，儋州市如何统筹推进这个自贸港新城融合发展？" data-title="海南产经新观察：环新英湾自贸港新城推进“港产城科”融合发展" data-date="09-02 20:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 新华网</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:11</span>
+          <span class="news-item-title">海南产经新观察：环新英湾自贸港新城推进“港产城科”融合发展</span>
         </a>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129207254.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新时代的中国，日新月异。" data-title="微视频｜“新”在中国" data-date="09-02 19:58" data-source="新华网">
+        <a class="news-item" href="https://www.chinanews.com.cn/cul/2026/09-02/10689005.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月2日电 (记者 张杨彬)《中国新疆地区历史》《中国新疆地区宗教史》2日在北京发布。两本新书运用考古实证、文物遗存、史料典籍、研究成果等，图文互证，阐释厘清新疆地区的历史、民族、文化、宗教情况。" data-title="详述中国新疆地区历史及宗教史的两本新书在北京发布" data-date="09-02 20:10" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 新华网</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">微视频｜“新”在中国</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:10</span>
+          <span class="news-item-title">详述中国新疆地区历史及宗教史的两本新书在北京发布</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/kong/2026/09-02/10688990.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社开罗9月2日电#8195;中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明" data-title="中华人民共和国和阿拉伯埃及共和国关于进一步深化全面战略伙伴关系的联合声明" data-date="09-02 19:42" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -181,17 +181,17 @@ title: 热点新闻
           <span class="news-item-date">09-02 17:32</span>
           <span class="news-item-title">美国亚伯拉罕·林肯在泰国靠岸，让疲惫的船员休息一下</span>
         </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="最高法院为新的白宫宴会厅开了绿灯，但总统在华盛顿的其他几个项目仍然停滞不前。" data-title="谁批准了特朗普的华盛顿改造项目？" data-date="09-02 17:04" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-02 17:04</span>
+          <span class="news-item-title">谁批准了特朗普的华盛顿改造项目？</span>
+        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="委内瑞拉近期没有举行选举，或者说，没有任何明确的选举计划，这在许多反对者看来是一种背叛。" data-title="美国公司获批委内瑞拉油田百年开采权 分析人士迷惑 国民震怒" data-date="09-02 16:59" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-02 16:59</span>
           <span class="news-item-title">美国公司获批委内瑞拉油田百年开采权 分析人士迷惑 国民震怒</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="现年29岁的民主派活动人士黄之锋，在法庭上承认一项中国《香港国安法》下的“串谋勾结外国势力危害国家安全”罪，判刑押后至另日进行。至今，黄之锋已失去自由逾2,100天。" data-title="黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身" data-date="09-02 16:06" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 16:06</span>
-          <span class="news-item-title">黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身</span>
         </a>
   </div>
   <div class="news-category">
@@ -200,6 +200,66 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/tp/2026/09-02/10689007.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依族苗族自治州贵定县盘江镇金海坝区稻穗渐黄，与村庄、道路、河流交相辉映，构成一幅秋日丰收画卷。（无人机照片）中新社记者 瞿宏伦 摄 9月2日，航拍镜头下的贵州省黔南布依" data-title="贵州贵定：金海坝区稻穗渐黄铺展丰收色" data-date="09-02 20:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:13</span>
+          <span class="news-item-title">贵州贵定：金海坝区稻穗渐黄铺展丰收色</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10689010.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网北京9月2日电 (记者 陈杭)“十五五”时期，北京市海淀区将形成一批具有全球技术主导权和核心竞争力的世界级产业集群，成为全球人工智能创新策源地和产业高地，预计到2030年地区生产总值在2020年基础上翻一番，年均增速5.5%，新增3到5个千亿级产业集群。" data-title="“十五五”时期北京海淀剑指全球人工智能创新策源地和产业高地" data-date="09-02 20:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:13</span>
+          <span class="news-item-title">“十五五”时期北京海淀剑指全球人工智能创新策源地和产业高地</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10688983.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网青冈9月2日电(姜禹帆 李梦 刘璐)初秋的松嫩平原黑土广袤、物产丰饶。作为黑龙江省农牧产业重点县域，绥化市青冈县立足黑土资源禀赋，持续深耕农牧食品全产业链，以科技赋能生产、以标准严控品质、以产业集群激活县域动能。" data-title="（活力中国调研行）黑龙江青冈：科技赋能 百亿级农牧食品产业集群加速成型" data-date="09-02 20:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:11</span>
+          <span class="news-item-title">（活力中国调研行）黑龙江青冈：科技赋能 百亿级农牧食品产业集群加速成型</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/651.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，宏碁在 IFA 2026 前夕的 next@acer 年度全球记者会上一口气发布了 8 款桌面显示器产品。其中的 Predator XB253Q U1 不仅可在 FHD 分辨率下提供 1000Hz 刷新率，还支持圆偏振光护眼。Predator XB253Q U124.5&quot; IPS LCD，FHD 1000Hz，VESA DisplayHDR 400 认证。响应时间 0.3ms，峰值亮度 450nits，色域 90% DCI-P3。支持圆偏振光护眼，内置电源。Predator X32 V331.5&quot; QD-OLED Penta Tandem，UHD 180Hz，VESA DisplayHDR True Black 400 认证。SDR APL 100% 亮度 25" data-title="宏碁 IFA 2026 显示器集体上新，1000Hz + 圆偏振光护眼型号在列" data-date="09-02 20:10" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-02 20:10</span>
+          <span class="news-item-title">宏碁 IFA 2026 显示器集体上新，1000Hz + 圆偏振光护眼型号在列</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/650.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="7 月 22 日，三星电子在伦敦举办 Galaxy Unpacked 2026 夏季新品发布会，正式推出了第八代折叠屏家族 ——Galaxy Z 系列，共包括三款新品：主打专业 AI 生产力的“大折叠旗舰” Galaxy Z Fold8 Ultra、主打纤薄便携与个性表达的“小折叠” Galaxy Z Flip8，以及最受瞩目的全新成员 —— 主打沉浸式内容与娱乐体验的“阔折叠” Galaxy Z Fold8。三星将经典 Fold 命名让给了阔屏形态，传统大折叠顺理成章升级为 Ultra，从产品定位来讲，也确实是名正言顺。三星首款阔折叠 Galaxy Z Fold8而作为三星的首款“阔折叠”手机，Galaxy Z Fold8 采用了 7.6 英寸 4:3 比例的内屏与 5.5 英寸外屏，展开" data-title="三星首款阔折叠 Galaxy Z Fold8 体验：更宽的屏幕，更多的可能" data-date="09-02 20:10" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-02 20:10</span>
+          <span class="news-item-title">三星首款阔折叠 Galaxy Z Fold8 体验：更宽的屏幕，更多的可能</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/" target="_blank" rel="noopener" data-cat="keji" data-summary="Edelson PC正在就Tumbler Ridge枪击事件对OpenAI提起30起新的诉讼，升级了对协助、教唆和命名Chris Lehane的指控，尽管证据尚未得到证实。" data-title="OpenAI 面临 30 多起与 Tumbler Ridge 枪击事件相关的诉讼" data-date="09-02 20:09" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-02 20:09</span>
+          <span class="news-item-title">OpenAI 面临 30 多起与 Tumbler Ridge 枪击事件相关的诉讼</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/649.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，ColorOS 设计总监陈希今日透露，在 ColorOS 17 上，采用全新“渐进式运动”效果，让通知与控制中心的切换更带感。当通控界面切换时，各种界面元素会随着手势滑动位置、力度与速度渐进呈现。陈希还在评论区补充，上方切换 / 下方切换，渐进运动的方向也不同。IT之家注意到，OPPO 官方今日早些时候宣布，OPPO ColorOS 17 发布暨开发者大会将于 2026 年 9 月 17 日 10:00 在珠海举行。本次大会主论坛将发布全新 ColorOS 17 操作系统，该系统将由 OPPO Find X10 系列首发搭载。ColorOS 17 设计上采用全新的“浮岛式导航”，该设计贯穿系统全局，覆盖几乎所有内置应用。系统还继承了 ColorOS 16 的流体" data-title="OPPO ColorOS 17 采用全新渐进式运动效果：通控界面切换时，界面元素随手势滑动位置、力度与速度渐进呈现" data-date="09-02 20:07" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-02 20:07</span>
+          <span class="news-item-title">OPPO ColorOS 17 采用全新渐进式运动效果：通控界面切换时，界面元素随手势滑动位置、力度与速度渐进呈现</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/647.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，Netflix 今天（2 日）公布了《GTA 6：分量十足的一瞥》的观看数据：在截至 8 月 30 日的统计周期内获得 3110 万次观看，登上了 93 个国家和地区中的 87 个市场观看排行榜第一。视频上线 Netflix 后约 6 小时，Rockstar Games 便将其上传至 YouTube，目前该视频在 R 星官方 YouTube 频道上的观看量进一步达到 1700 万次。不过，Netflix 和 YouTube 对于观看次数的统计标准并不相同。YouTube 自 8 月 24 日起采用新的计算方式，只要用户开始播放视频一秒，就会计入一次观看。因此，即使用户只观看 10 秒后退出，也会被计算在内。Netflix 则按照总观看时长计算观看次数，即所有用户" data-title="Netflix《GTA 6：分量十足的一瞥》狂揽 3110 万次观看数，登上 87 个地区榜首" data-date="09-02 20:02" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-02 20:02</span>
+          <span class="news-item-title">Netflix《GTA 6：分量十足的一瞥》狂揽 3110 万次观看数，登上 87 个地区榜首</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/646.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，据韩媒今天报道，Nexon 计划开发《星际争霸》系列续作。该系列游戏距离最初发售已过去近 30 年，当前仍在韩国网吧热门游戏榜保持前十排名。据匿名游戏界高层人士透露：“Nexon 与暴雪关于《星际争霸》IP 的授权合同已经接近达成。如果本次合同签订顺利，Nexon 将获得《星际争霸》续作开发权。”如果这笔交易最终达成，其规模将相当可观。作为参考，《星际争霸》上一次发售新作还是 16 年前的《星际争霸 II：自由之翼》。暴雪和 Nexon 暂未就上述传言作出回应，我们现在仍需要等待这笔交易正式公布。" data-title="消息称 Nexon 计划开发《星际争霸》新作，与暴雪的 IP 授权合同接近达成" data-date="09-02 20:01" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-02 20:01</span>
+          <span class="news-item-title">消息称 Nexon 计划开发《星际争霸》新作，与暴雪的 IP 授权合同接近达成</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar" target="_blank" rel="noopener" data-cat="keji" data-summary="不管你信不信，特斯拉 Cyber​​cab 即将到来。埃隆·马斯克首次推出金色、鸥翼门运动型、无方向盘的两座汽车作为特斯拉自动驾驶的未来，近两年后，该公司终于将其投入运营，作为德克萨斯州奥斯汀机器人出租车服务的一部分。公共游乐设施在这里，并且作为[...]" data-title="埃隆·马斯克的非正统机器人出租车理念受到考验" data-date="09-02 20:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-02 20:00</span>
+          <span class="news-item-title">埃隆·马斯克的非正统机器人出租车理念受到考验</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/0/997/644.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，据外媒 Futurism 当地时间 1 日报道，去年 11 月，科学家曾警告，一场 20 多年来最强的“严重”太阳风暴即将袭击地球。太阳活动突然增强时，太阳会释放大量带电粒子，形成太阳风暴。这些粒子抵达地球磁层后，可以制造壮观的极光，也可能严重干扰通信卫星和无线电信号。去年 11 月的太阳风暴不仅强烈到迫使美国国家航空航天局推迟一艘火星探测器的发射，还让地面的 GPS 系统连续数小时出现严重异常。图源：Pexels发表在《地球物理研究快报》的一项新研究发现，全球导航卫星系统在这场超强太阳风暴期间出现了超过 33 英尺（10 米）的“显著定位误差”，幅度足以影响美国本土的精准农业和自动驾驶运输行业。如此明显的风险，也让研究此类太阳风暴究竟会怎样影响人类活动变得十分" data-title="研究警告：GPS 偏差 33 英尺将足以导致无人驾驶汽车发生事故" data-date="09-02 19:55" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -230,66 +290,6 @@ title: 热点新闻
           <span class="news-item-date">09-02 19:40</span>
           <span class="news-item-title">在病毒视频中，有问题的电脑电源一插入插座就“爆炸”并起火——视频捕捉到了维修店工人避免灾难的瞬间</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/640.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，据路透社报道，挪威浏览器厂商 Opera 周三在一项诉讼中败诉。该公司此前挑战欧盟反垄断监管机构的一项决定，即将微软旗下浏览器 Edge 排除在限制大型科技公司市场力量的相关监管规则之外。欧盟委员会在 2024 年的决定中表示，尽管 Edge 符合《数字市场法》（DMA）规定的量化标准，但它并不是企业触达用户的重要“门户”。《数字市场法》为大型科技企业设定了一系列必须遵守和禁止实施的行为规范。Opera 认为，负责执行欧盟竞争法的欧盟委员会错误地适用了相关认定标准。总部位于卢森堡的欧盟普通法院最终支持了欧盟反垄断监管机构的决定。近年来，欧盟反垄断监管机构在针对 DMA 相关决定的多起诉讼中接连胜诉，也进一步提高了企业挑战这些监管决定的法律门槛。法官表示：“普通法" data-title="欧盟法院驳回 Opera 诉讼，维持微软 Edge 不受 DMA“看门人”监管决定" data-date="09-02 19:38" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 19:38</span>
-          <span class="news-item-title">欧盟法院驳回 Opera 诉讼，维持微软 Edge 不受 DMA“看门人”监管决定</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/639.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，宏碁今日在 next@acer 年度全球记者会上发布了 Aspire G 3D 16 (AG3D16-81M) 笔记本电脑。这一型号基于 AMD &quot;Strix Halo&quot; 芯片平台，支持裸眼 3D 显示。Aspire G 3D 16 采用 AMD 锐龙 AI Max+ 处理器，支持 128GB LPDDR5X-8000 内存、2TB M.2 PCIe Gen4 NVMe SSD；拥有 Wi-Fi 7 无线网卡；内置 5MP IR 摄像头；提供 2 个 USB4、SD UHS-II 读卡器等接口；集成 99.9Whr 电池；整机厚度 18.3mm，质量 1.8kg。其搭载 16&quot; IPS 屏幕，2D 模式分辨率 3840×2400、3D 模式分辨率 1920×24" data-title="宏碁发布 Aspire G 3D 16 笔电：AMD &quot;Strix Halo&quot; + 裸眼 3D 显示" data-date="09-02 19:34" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 19:34</span>
-          <span class="news-item-title">宏碁发布 Aspire G 3D 16 笔电：AMD "Strix Halo" + 裸眼 3D 显示</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes" target="_blank" rel="noopener" data-cat="keji" data-summary="上周，我打开了一款已有 26 年历史的 Pokémon Pinball，这是 Game Boy 有史以来最好的游戏之一。我的保存文件已经没有了。我为女儿抓到的小火龙，我们一起创造的高分……都消失了。在闪存出现之前，任天堂卡带使用微型手表电池来保存游戏，而那些 [...]" data-title="可播放旧任天堂卡带的令人惊叹的 USB-C 小工具" data-date="09-02 19:30" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-02 19:30</span>
-          <span class="news-item-title">可播放旧任天堂卡带的令人惊叹的 USB-C 小工具</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688971.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网兰州9月2日电 (杨娜)2日，以“科技改变生活，创新赢得未来”为主题的2026年全国科普月兰州主场活动暨“黄河之滨科普行”启动。在这场“科普集市”上，兰州50余家单位拿出了“看家本领”，让高深的科学知识变得可触摸、可体验。" data-title="兰州“科”代表集合 “高精尖”遇见“烟火气”" data-date="09-02 19:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:29</span>
-          <span class="news-item-title">兰州“科”代表集合 “高精尖”遇见“烟火气”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/637.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，宏碁 (Acer) 今日发布基于英特尔酷睿 Ultra X7 处理器 358H 的迷你主机型 AI 工作站 Veriton RI110。Veriton RI110 三维 138.5 × 131.3 × 52.1 (mm)，质量约 0.63kg；支持 96GB LPDDR5X 内存、4TB M.2 2280 PCIe Gen4 固态硬盘；内置 Wi-Fi 7 无线网卡。外部端口方面，其具备 2 个 USB-C 40Gbps、1 个 USB-C 10Gbps、1 个 USB-A 10Gbps、3 个 USB-A 480Mbps、1 个 HDMI 2.1、1 个 DisplayPort、1 个 3.5mm 音频插孔、1 个 10GbE RJ-45、1 个 2.5GbE" data-title="宏碁带来 Veriton RI110 迷你主机 AI 工作站，基于 X7 358H" data-date="09-02 19:21" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 19:21</span>
-          <span class="news-item-title">宏碁带来 Veriton RI110 迷你主机 AI 工作站，基于 X7 358H</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/eff-asks-california-governor-to-veto-bill-that-would-require-online-age-verification-electronic-frontier-foundation-argues-bill-would-result-in-privacy-invasive-checks-and-step-on-first-amendment" target="_blank" rel="noopener" data-cat="keji" data-summary="电子前沿基金会要求加州州长否决需要在线年龄验证的法案——EFF 认为 A.B. 1709 将导致侵犯隐私的检查并违反第一修正案" data-title="EFF 要求加州州长否决需要在线年龄验证的法案——电子前沿基金会认为该法案将导致侵犯隐私的检查并违反第一修正案" data-date="09-02 19:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-02 19:20</span>
-          <span class="news-item-title">EFF 要求加州州长否决需要在线年龄验证的法案——电子前沿基金会认为该法案将导致侵犯隐私的检查并违反第一修正案</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/ddr5/this-32gb-ddr5-ram-kit-is-now-the-cheapest-on-sale-dropping-back-under-usd400-13-percent-discount-on-an-unflashy-pny-memory-kit-for-new-gaming-pc-builds-or-upgrades" target="_blank" rel="noopener" data-cat="keji" data-summary="PNY 的这款 32GB DDR5 内存套件是目前最便宜的促销产品，现仅需 399.99 美元。" data-title="这款 32GB DDR5 RAM 套件现在是最便宜的促销品，价格回落到 400 美元以下 — 对于新的游戏 PC 构建或升级来说，普通的 PNY 内存套件可享受 13% 的折扣" data-date="09-02 19:13" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-02 19:13</span>
-          <span class="news-item-title">这款 32GB DDR5 RAM 套件现在是最便宜的促销品，价格回落到 400 美元以下 — 对于新的游戏 PC 构建或升级来说，普通的 PNY 内存套件可享受 13% 的折扣</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/636.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，燧原科技公告称，公司首次公开发行股票并在科创板上市网上发行申购情况及中签率公布，本次发行股份数量为 4303.5173 万股，发行价 142.18 元 / 股。网上发行有效申购户数 703.2045 万户，有效申购股数 420.66 亿股。配号总数为 8413.1758 万个，号码范围为 100,000,000,000-100,084,131,757。因网上发行初步有效申购倍数超 100 倍，启动回拨机制，将 344.3 万股从网下回拨至网上。回拨后，网上最终发行 1032.85 万股，最终中签率 0.02455315%。据IT之家了解，燧原科技创立于 2018 年 3 月，与摩尔线程、沐曦股份和壁仞科技合称为“国产 GPU 四小龙”。根据此前发布的招股书，燧原" data-title="燧原科技：科创板 IPO 网上发行最终中签率 0.02455315%" data-date="09-02 19:13" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 19:13</span>
-          <span class="news-item-title">燧原科技：科创板 IPO 网上发行最终中签率 0.02455315%</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-investment-projected-to-hit-usd32-trillion-by-2050-infrastructure-spending-estimated-to-exceed-capital-requirements-for-railways-electrification-or-the-internet" target="_blank" rel="noopener" data-cat="keji" data-summary="这些投资并不是一次性的巨额支出——随着新的半导体技术上市，数据中心运营商预计每四到六年升级一次昂贵的 GPU 和相关基础设施。" data-title="到 2050 年，人工智能数据中心投资预计将达到 32 万亿美元——基础设施支出预计将超过铁路、电气化或互联网的资本需求" data-date="09-02 19:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-02 19:00</span>
-          <span class="news-item-title">到 2050 年，人工智能数据中心投资预计将达到 32 万亿美元——基础设施支出预计将超过铁路、电气化或互联网的资本需求</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/techie-creates-a-database-of-coil-whining-graphics-cards-power-supplies-and-liquid-cooler-pumps-open-source-project-wants-community-reports-of-affected-parts" target="_blank" rel="noopener" data-cat="keji" data-summary="Techie 创建了一个包含线圈呜呜显卡、PSU 和 AIO 泵的数据库 - 开源项目希望获得受影响部件的社区报告" data-title="Techie 创建了一个包含线圈呜呜显卡、电源和液体冷却泵的数据库 - 开源项目希望社区报告受影响部件" data-date="09-02 19:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-02 19:00</span>
-          <span class="news-item-title">Techie 创建了一个包含线圈呜呜显卡、电源和液体冷却泵的数据库 - 开源项目希望社区报告受影响部件</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -297,6 +297,12 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="从恩佐·费尔南德斯到马克斯森斯·拉克鲁瓦，BBC 体育频道列出了夏窗期间 20 笔最大的转会。" data-title="今夏20笔最昂贵的转会" data-date="09-02 19:59" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 19:59</span>
+          <span class="news-item-title">今夏20笔最昂贵的转会</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688980.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新社北京9月2日电 (记者 李纯)正在泥石流灾害中方受灾区域一线的消防救援人员1日晚间接受中新社记者电话采访时表示，中方此次救援运用了“水陆空”立体搜救战术，可最大限度扩大搜寻范围，多项先进科技手段在救援中得到运用。" data-title="中国消防救援队伍“水陆空”并进扩大泥石流搜寻范围" data-date="09-02 19:54" data-source="中国新闻网">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -381,43 +387,13 @@ title: 热点新闻
           <span class="news-item-date">09-02 07:34</span>
           <span class="news-item-title">卡马拉从摩纳哥到切尔西的4710万美元£搬迁崩溃</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ce8emxm7xmzo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在塞内加尔中场以 4710 万英镑转会切尔西失败后，拉明·卡马拉将留在摩纳哥。" data-title="卡马拉以 4710 万英镑从摩纳哥转会切尔西的转会失败了" data-date="09-02 07:34" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 07:34</span>
-          <span class="news-item-title">卡马拉以 4710 万英镑从摩纳哥转会切尔西的转会失败了</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">📰</span>
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
-      <span class="news-category-count">9 条</span>
+      <span class="news-category-count">5 条</span>
     </div>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129206833.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="为了再次“飞天”圆梦，指令长陈冬准备了6年，刘洋已经准备整整10年，而首次飞向太空的蔡旭哲为了这一天，已经刻苦训练了12年。" data-title="6年、10年、12年，他们都经历了什么？" data-date="09-02 19:58" data-source="新华网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 新华网</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">6年、10年、12年，他们都经历了什么？</span>
-        </a>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129207047.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在目前新冠流行的情况下，建议没有完成接种的老年人尽快接种，尽快按照程序完成全程和加强免疫，使疫苗的保护作用得到更好发挥。" data-title="老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】" data-date="09-02 19:58" data-source="新华网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 新华网</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">老年人现在打疫苗晚不晚？受基础病影响的能不能打？独居老人是否有必要接种？【科学防疫小贴士】</span>
-        </a>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129207057.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。" data-title="心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】" data-date="09-02 19:58" data-source="新华网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 新华网</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础病加重，何时需要去就医……【科学防疫小贴士】</span>
-        </a>
-        <a class="news-item" href="http://www.news.cn/politics/2022-12/14/c_1129207168.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。" data-title="疫情防控措施优化 各地复商复市进行时" data-date="09-02 19:58" data-source="新华网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 新华网</span>
-          <span class="news-item-date">09-02 19:58</span>
-          <span class="news-item-title">疫情防控措施优化 各地复商复市进行时</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688972.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网克拉玛依9月2日电 题：在新疆牧区，AI开始给牛羊“看”病" data-title="在新疆牧区，AI开始给牛羊“看”病" data-date="09-02 19:34" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -509,4 +485,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-02 19:57（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-02 20:19（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

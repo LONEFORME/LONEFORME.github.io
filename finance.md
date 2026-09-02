@@ -128,7 +128,7 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,377.41</span>
+      <span class="ticker-price ticker-up">$4,380.17</span>
       <span class="ticker-change up">▲ +0.01%</span>
     </div>
     <div class="ticker-footer">
@@ -218,6 +218,12 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/aseaninfo/2026/09-02/10689002.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网金边9月2日电 (记者 杨强)柬埔寨发展理事会投资委员会秘书长谢无敌9月1日表示，当前全球经济面临多重不确定性，但合作机遇依然存在。欢迎中国企业积极参与推动柬产业升级、基础设施建设与资本市场发展，柬方将为外国投资者提供政策支持与服务保障。" data-title="柬埔寨官员欢迎中国企业积极参与推动柬产业升级" data-date="09-02 20:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 20:13</span>
+          <span class="news-item-title">柬埔寨官员欢迎中国企业积极参与推动柬产业升级</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10688978.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳9月2日电 (记者 李𬀪)第三届沈阳市制造业经贸活动周的重要配套活动中央企业采购对接会9月1日在沈阳举行。中国国际贸易促进委员会辽宁省分会党组书记王冰，中国机电产品进出口商会秘书长郭奎龙出席对接会并致辞。" data-title="聚焦装备制造等优势产业 中央企业采购对接会助辽企拓市场" data-date="09-02 19:55" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -278,12 +284,6 @@ title: 股票财经
           <span class="news-item-date">09-02 08:01</span>
           <span class="news-item-title">日本企业大举押注印度　中国风险加深之际寻求新成长</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="吉隆口岸位处西藏与尼泊尔的重要贸易通路之上，中国与尼泊尔两侧各有数以百计外国旅客在泥石流冲击后下落不明。" data-title="泥石流摧毁西藏吉隆口岸的关键几分钟" data-date="09-01 20:01" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-01 20:01</span>
-          <span class="news-item-title">泥石流摧毁西藏吉隆口岸的关键几分钟</span>
-        </a>
   </div>
 </div>
 
@@ -297,4 +297,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-02 19:57（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-02 20:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
