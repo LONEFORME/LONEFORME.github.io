@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,077.22</span>
-      <span class="ticker-change down">▼ -0.00%</span>
+      <span class="ticker-price ticker-up">29,098.16</span>
+      <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7211</span>
+      <span class="ticker-price ticker-down">6.7181</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,385.28</span>
-      <span class="ticker-change up">▲ +0.02%</span>
+      <span class="ticker-price ticker-up">$4,414.70</span>
+      <span class="ticker-change up">▲ +0.08%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,68 +216,8 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">1 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/aseaninfo/2026/09-02/10689002.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网金边9月2日电 (记者 杨强)柬埔寨发展理事会投资委员会秘书长谢无敌9月1日表示，当前全球经济面临多重不确定性，但合作机遇依然存在。欢迎中国企业积极参与推动柬产业升级、基础设施建设与资本市场发展，柬方将为外国投资者提供政策支持与服务保障。" data-title="柬埔寨官员欢迎中国企业积极参与推动柬产业升级" data-date="09-02 20:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 20:13</span>
-          <span class="news-item-title">柬埔寨官员欢迎中国企业积极参与推动柬产业升级</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10688978.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳9月2日电 (记者 李𬀪)第三届沈阳市制造业经贸活动周的重要配套活动中央企业采购对接会9月1日在沈阳举行。中国国际贸易促进委员会辽宁省分会党组书记王冰，中国机电产品进出口商会秘书长郭奎龙出席对接会并致辞。" data-title="聚焦装备制造等优势产业 中央企业采购对接会助辽企拓市场" data-date="09-02 19:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:55</span>
-          <span class="news-item-title">聚焦装备制造等优势产业 中央企业采购对接会助辽企拓市场</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-02/10688988.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月2日电 据“山东高法”微信公众号消息，9月2日，山东省济宁市中级人民法院一审公开宣判中国气象局气象探测中心原党委书记、主任李良序受贿一案。对被告人李良序以受贿罪判处有期徒刑十三年，并处罚金人民币三百五十万元；对查扣在案的李良序全部犯罪所得及孳息依法没收，上缴国库。" data-title="中国气象局气象探测中心原党委书记、主任李良序一审获刑十三年" data-date="09-02 19:51" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:51</span>
-          <span class="news-item-title">中国气象局气象探测中心原党委书记、主任李良序一审获刑十三年</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/ll/2026/09-02/10688995.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="今年以来，我国投资走势情况如何？资金“活水”主要流向了哪里？备受市场关注。国家统计局发布的数据表明，1—7月份，我国高技术产业投资同比增长5.0%，增速比上半年加快；集成电路制造业投资同比增长11.5%，发展后劲充足。结构向新向优，投资效益和质量不断提高，稳增长的动力不断积蓄，看见今年投资的基本面。" data-title="【好评中国】投资越向“新”，增长越有“质”" data-date="09-02 19:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:50</span>
-          <span class="news-item-title">【好评中国】投资越向“新”，增长越有“质”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10688982.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海9月2日电 (记者 姜煜)瑞银证券中国股票策略分析师孟磊2日发表分析报告称，在上市公司盈利复苏，交易型开放式指数证券投资基金(ETF)、保险资金与私募基金等增量资金持续净流入以及全球科技发展的推动下，年内中国A股有望延续稳步反弹势头。" data-title="外资银行看好中国A股：年内有望延续稳步反弹势头" data-date="09-02 19:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:41</span>
-          <span class="news-item-title">外资银行看好中国A股：年内有望延续稳步反弹势头</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/dwq/2026/09-02/10688963.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社香港9月2日电 (张语洽 刘玥晴)由香港贸易发展局(简称“贸发局”)主办的第11届香港国际时尚汇展(CENTRESTAGE)2日在香港会议展览中心开幕，吸引来自24个国家和地区的约270个品牌参展，参展品牌数量创历届新高。" data-title="香港国际时尚汇展开幕   参展品牌数量创历届新高" data-date="09-02 19:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:31</span>
-          <span class="news-item-title">香港国际时尚汇展开幕   参展品牌数量创历届新高</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cul/2026/09-02/10688961.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社太原9月2日电 (记者 胡健)第十届平遥国际电影展产业单元“迁徙计划·从文学到影视”推荐作品2日揭晓，艾伟、梁鸿、肖克凡、畀愚等作家创作的10部文学作品入选推荐名单。" data-title="第十届平遥国际电影展公布“迁徙计划”推荐名单" data-date="09-02 19:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:28</span>
-          <span class="news-item-title">第十届平遥国际电影展公布“迁徙计划”推荐名单</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/02/business/oil-bond-yields-iran.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国和伊朗军队再次相互攻击，推高油价，股市下跌，令债券投资者感到紧张。" data-title="投资者仍对战争、债务和通货膨胀感到紧张" data-date="09-02 19:27" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-02 19:27</span>
-          <span class="news-item-title">投资者仍对战争、债务和通货膨胀感到紧张</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="如果您拥有债券，它们可能属于没有损失太多资金的广泛基金。该基金在未来几年可能会表现得更好。" data-title="全球债券利率正在上升。你现在应该做什么？" data-date="09-02 17:04" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-02 17:04</span>
-          <span class="news-item-title">全球债券利率正在上升。你现在应该做什么？</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在一次旨在向世界展示特朗普总统的经济政策的峰会上，欧洲人抱怨关税和与伊朗的战争。" data-title="在 G20 峰会上，一些美国盟友反击特朗普的经济方针" data-date="09-02 10:56" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-02 10:56</span>
-          <span class="news-item-title">在 G20 峰会上，一些美国盟友反击特朗普的经济方针</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/czxzkex7nd1o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本企业正加码布局印度，因国内市场萎缩及中国风险升高。" data-title="日本企业大举押注印度　中国风险加深之际寻求新成长" data-date="09-02 08:01" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -297,4 +237,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-02 20:25（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-03 00:43（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
