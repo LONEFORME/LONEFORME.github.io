@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-02 19:41 抓取更新</span>
+      <span>2026-09-02 19:44 抓取更新</span>
     </div>
   </div>
 
@@ -27,17 +27,17 @@ title: 热点新闻
         <span>🌟 全部动态</span>
         <span class="channel-count">32</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
-        <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">15</span>
+      <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
+        <span>🏛️ 时政与国际</span>
+        <span class="channel-count">9</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 科技 & AI</span>
         <span class="channel-count">1</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
-        <span>🏛️ 时政与国际</span>
-        <span class="channel-count">9</span>
+      <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
+        <span>⚽ 英超与足球风云</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -61,152 +61,42 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.skysports.com/football/news/11661/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在暑假期间，俱乐部在转会方面的支出是多少？我们处理这些数字……" data-title="您的俱乐部花了多少钱？英超联赛打破转会纪录" data-date="09-02 19:42" data-source="天空体育">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/kong/2026/09-02/10688986.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="金秋启新学，奋进正当时。随着各地中小学、高校陆续开学，青春活力重回校园，广大青年学子踏上求知求索、逐梦成长的全新征程。" data-title="青春华章｜我苏青评：以科学之光，照亮开学第一课" data-date="09-02 19:37" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
-        <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-        <span class="hero-featured-date">🕒 09-02 19:42</span>
+        <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 09-02 19:37</span>
       </div>
-      <h2 class="hero-featured-title">您的俱乐部花了多少钱？英超联赛打破转会纪录</h2>
+      <h2 class="hero-featured-title">青春华章｜我苏青评：以科学之光，照亮开学第一课</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13580082/transfer-deadline-day-brings-record-spending-but-will-any-money-be-enough-for-these-premier-league-clubs" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="它总结了一个疯狂的转会截止日，英国转会纪录在窗口的最后几个小时内被追平。恩佐·费尔南德斯从切尔西转会到曼城，度过了一个非凡的夏天，其中的支出达到了顶峰。" data-title="转会支出破纪录，但有人真的高兴吗？" data-date="09-02 19:42" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/09-02/10688971.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网兰州9月2日电 (杨娜)2日，以“科技改变生活，创新赢得未来”为主题的2026年全国科普月兰州主场活动暨“黄河之滨科普行”启动。在这场“科普集市”上，兰州50余家单位拿出了“看家本领”，让高深的科学知识变得可触摸、可体验。" data-title="兰州“科”代表集合 “高精尖”遇见“烟火气”" data-date="09-02 19:29" data-source="中国新闻网">
       <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
-        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+        <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">转会支出破纪录，但有人真的高兴吗？</p>
+      <p class="hero-sub-title">兰州“科”代表集合 “高精尖”遇见“烟火气”</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="天空体育首席记者Kaveh Solhekol解释了为什么切尔西将恩佐·费尔南德斯（ Enzo Fernandez ）卖给了竞争对手曼城（ Manchester City ） ，尽管他们在最后一分钟从摩纳哥签下拉明·卡马拉（ Lamine Camara ）的交易中失败了。" data-title="“非常不开心” -为什么尽管有卡马拉戏剧，切尔西仍然卖掉了费尔南德斯" data-date="09-02 19:42" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="夏窗期间俱乐部在转会上花了多少钱？我们计算数字..." data-title="你的俱乐部花了多少钱？英超打破转会记录" data-date="09-02 19:44" data-source="天空体育">
       <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
+        <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">“非常不开心” -为什么尽管有卡马拉戏剧，切尔西仍然卖掉了费尔南德斯</p>
+      <p class="hero-sub-title">你的俱乐部花了多少钱？英超打破转会记录</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="摩纳哥已经退出将Lamine Camara出售给切尔西的交易，切尔西认为法国俱乐部以一种非凡且非常不专业的方式行事。" data-title="（切尔西真的很不开心！ &#39;-摩纳哥退出出售Camara" data-date="09-02 19:42" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今年从巴基斯坦和伊朗遭遣返回阿富汗的人数，已再增加100万。" data-title="“我从未去过的祖国”：600万阿富汗人遭邻国驱逐，在塔利班治下重新开始" data-date="09-02 17:18" data-source="BBC">
       <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zuqiu">🔥 焦点</span>
-        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+        <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">（切尔西真的很不开心！ '-摩纳哥退出出售Camara</p>
+      <p class="hero-sub-title">“我从未去过的祖国”：600万阿富汗人遭邻国驱逐，在塔利班治下重新开始</p>
     </a>
   </div>
 </div>
 <div class="news-grid">
-  <div class="news-category">
-    <div class="news-category-header">
-      <span class="category-flag">⚽</span>
-      <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">15 条</span>
-    </div>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在暑假期间，俱乐部在转会方面的支出是多少？我们处理这些数字……" data-title="您的俱乐部花了多少钱？英超联赛打破转会纪录" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">您的俱乐部花了多少钱？英超联赛打破转会纪录</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580082/transfer-deadline-day-brings-record-spending-but-will-any-money-be-enough-for-these-premier-league-clubs" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="它总结了一个疯狂的转会截止日，英国转会纪录在窗口的最后几个小时内被追平。恩佐·费尔南德斯从切尔西转会到曼城，度过了一个非凡的夏天，其中的支出达到了顶峰。" data-title="转会支出破纪录，但有人真的高兴吗？" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">转会支出破纪录，但有人真的高兴吗？</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="天空体育首席记者Kaveh Solhekol解释了为什么切尔西将恩佐·费尔南德斯（ Enzo Fernandez ）卖给了竞争对手曼城（ Manchester City ） ，尽管他们在最后一分钟从摩纳哥签下拉明·卡马拉（ Lamine Camara ）的交易中失败了。" data-title="“非常不开心” -为什么尽管有卡马拉戏剧，切尔西仍然卖掉了费尔南德斯" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">“非常不开心” -为什么尽管有卡马拉戏剧，切尔西仍然卖掉了费尔南德斯</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="摩纳哥已经退出将Lamine Camara出售给切尔西的交易，切尔西认为法国俱乐部以一种非凡且非常不专业的方式行事。" data-title="（切尔西真的很不开心！ &#39;-摩纳哥退出出售Camara" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">（切尔西真的很不开心！ '-摩纳哥退出出售Camara</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在交易破坏了切尔西签下拉明·卡马拉的机会之后，埃弗顿对摩纳哥前锋Folarin Balogun的转会已经失败。" data-title="Balogun离开埃弗顿优惠" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">Balogun离开埃弗顿优惠</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13580209/transfer-deadline-day-then-story-of-the-day" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在天空体育新闻上重温转会截止日带来的所有刺激和溢出。" data-title="天空体育新闻转会截止日的故事！" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">天空体育新闻转会截止日的故事！</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城以1.25亿英镑的联合英国纪录费从切尔西签下了恩佐·费尔南德斯。" data-title="曼城签署费尔南德斯在英国创纪录的交易" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">曼城签署费尔南德斯在英国创纪录的交易</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="转机中心现场直播！英格兰窗户关闭后的晚间戏剧" data-title="转机中心现场直播！英格兰窗户关闭后的晚间戏剧" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">转机中心现场直播！英格兰窗户关闭后的晚间戏剧</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13580205/us-open-coco-gauff-makes-storming-start-while-serena-and-venus-williams-are-drawn-to-face-maya-joint-and-chan-hao-ching-in-womens-doubles" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Coco Gauff以直接击败Zeynep Sonmez开始了她的美国公开赛活动，而两届女子双打冠军Serena和Venus Williams将在周二的平局后面对Maya Joint和Chan Hao-Ching。" data-title="高夫让暴风雨开始了，因为兹韦列夫避免了重大沮丧" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">高夫让暴风雨开始了，因为兹韦列夫避免了重大沮丧</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13580206/us-open-britains-arthur-fery-admitted-he-still-has-plenty-to-work-on-after-his-new-york-debut-was-cut-short" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国的亚瑟·费里（ Arthur Fery ）表示，在周二美国公开赛首次亮相被缩短后，他现在知道自己需要做些什么。" data-title="“我知道我必须做什么” -尽管美国公开赛已经退出，但Fery已经准备好迎接最佳挑战" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">“我知道我必须做什么” -尽管美国公开赛已经退出，但Fery已经准备好迎接最佳挑战</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13580283/fan-sings-oasis-classic-wonderwall-during-arthur-fery-match-against-lorenzo-musetti-at-us-open" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在亚瑟·费里（ Arthur Fery ）在美国网球公开赛上与洛伦佐·穆塞蒂（ Lorenzo Musetti ）的比赛中，球迷们演唱了绿洲经典的“Wond" data-title="（你是我的Wonderwall ！ &#39;| Fan在美国网球公开赛Fery比赛期间演唱Oasis经典歌曲" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">（你是我的Wonderwall ！ '| Fan在美国网球公开赛Fery比赛期间演唱Oasis经典歌曲</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="法拉利揭示舒马赫风格的制服，车队宣布意大利大奖赛的新秀" data-title="法拉利揭示舒马赫风格的制服，车队宣布意大利大奖赛的新秀" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">法拉利揭示舒马赫风格的制服，车队宣布意大利大奖赛的新秀</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="两届世界冠军米卡·哈基宁（ Mika Hakkinen ）警告说，如果一级方程式车队执行车队订单以试图影响今年的冠军争夺战，他们就有可能被这项运动的球迷“钉死”。" data-title="“粉丝将把他们钉在十字架上” - Hakkinen在冠军争夺战中对团队订单发出警告" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">“粉丝将把他们钉在十字架上” - Hakkinen在冠军争夺战中对团队订单发出警告</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="我们周三有繁忙的一天比赛，从巴斯和纽卡斯尔出发，在天空体育赛车上直播……" data-title="Etienne在Bath追逐第一次成功" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">Etienne在Bath追逐第一次成功</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13580177/italian-gp-will-lewis-hamilton-george-russell-or-lando-norris-seize-title-race-opening-due-to-kimi-antonelli-grid-penalties" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="随着世界冠军领袖基米·安东内利（ Kimi Antonelli ）将从意大利大奖赛的赛道后方开始，试图在积分榜上追逐他的三位英国人将有一个重要的机会。" data-title="汉密尔顿、罗素或诺里斯是否会在蒙扎夺冠？" data-date="09-02 19:42" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">09-02 19:42</span>
-          <span class="news-item-title">汉密尔顿、罗素或诺里斯是否会在蒙扎夺冠？</span>
-        </a>
-  </div>
-  <div class="news-category">
-    <div class="news-category-header">
-      <span class="category-flag">🤖</span>
-      <span class="news-category-title">科技创新 & AI 算力</span>
-      <span class="news-category-count">1 条</span>
-    </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688971.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网兰州9月2日电 (杨娜)2日，以“科技改变生活，创新赢得未来”为主题的2026年全国科普月兰州主场活动暨“黄河之滨科普行”启动。在这场“科普集市”上，兰州50余家单位拿出了“看家本领”，让高深的科学知识变得可触摸、可体验。" data-title="兰州“科”代表集合 “高精尖”遇见“烟火气”" data-date="09-02 19:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 19:29</span>
-          <span class="news-item-title">兰州“科”代表集合 “高精尖”遇见“烟火气”</span>
-        </a>
-  </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
@@ -266,6 +156,116 @@ title: 热点新闻
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-02 16:59</span>
           <span class="news-item-title">美国公司获批委内瑞拉油田百年开采权 分析人士迷惑 国民震怒</span>
+        </a>
+  </div>
+  <div class="news-category">
+    <div class="news-category-header">
+      <span class="category-flag">🤖</span>
+      <span class="news-category-title">科技创新 & AI 算力</span>
+      <span class="news-category-count">1 条</span>
+    </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-02/10688971.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网兰州9月2日电 (杨娜)2日，以“科技改变生活，创新赢得未来”为主题的2026年全国科普月兰州主场活动暨“黄河之滨科普行”启动。在这场“科普集市”上，兰州50余家单位拿出了“看家本领”，让高深的科学知识变得可触摸、可体验。" data-title="兰州“科”代表集合 “高精尖”遇见“烟火气”" data-date="09-02 19:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 科技前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-02 19:29</span>
+          <span class="news-item-title">兰州“科”代表集合 “高精尖”遇见“烟火气”</span>
+        </a>
+  </div>
+  <div class="news-category">
+    <div class="news-category-header">
+      <span class="category-flag">⚽</span>
+      <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
+      <span class="news-category-count">15 条</span>
+    </div>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13574593/summer-transfer-spending-premier-league-efl-wsl-scottish-premiership-laliga-ligue-1-serie-a-and-bundesliga-breakdowns" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="夏窗期间俱乐部在转会上花了多少钱？我们计算数字..." data-title="你的俱乐部花了多少钱？英超打破转会记录" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">你的俱乐部花了多少钱？英超打破转会记录</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/watch/video/13580198/explained-why-chelsea-still-sold-enzo-fernandez-despite-collapse-of-lamina-camara-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="天空体育首席记者卡韦·索尔赫科尔解释了为什么切尔西将恩佐·费尔南德斯卖给了竞争对手曼城，尽管他们从摩纳哥签下拉明·卡马拉的交易在最后一刻破裂了。" data-title="“非常不高兴”——为什么尽管卡马拉闹剧，切尔西仍然卖掉费尔南德斯" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">“非常不高兴”——为什么尽管卡马拉闹剧，切尔西仍然卖掉费尔南德斯</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580189/lamine-camara-monaco-pull-out-of-selling-midfielder-to-chelsea-in-47m-deal-after-blues-agreed-deal-for-enzo-fernandez-replacement" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="摩纳哥退出了将拉明·卡马拉出售给切尔西的交易，切尔西认为这家法国俱乐部的行为非常不寻常且非常不专业。" data-title="“切尔西真的不高兴！” - 摩纳哥退出出售卡马拉" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">“切尔西真的不高兴！” - 摩纳哥退出出售卡马拉</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13580201/folarin-balogun-monaco-strikers-move-to-everton-falls-through-after-deal-scuppered-chelseas-chances-of-signing-lamine-camara" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="埃弗顿对摩纳哥前锋福拉林·巴洛贡的转会失败了，因为这笔交易使切尔西签下拉明·卡马拉的机会破灭，这名球员改变了主意。" data-title="巴洛贡放弃与埃弗顿的交易" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">巴洛贡放弃与埃弗顿的交易</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13579972/enzo-fernandez-transfer-news-man-city-sign-midfielder-from-chelsea-in-british-record-equalling-125m-deal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城以 1.25 亿英镑创英国纪录的转会费从切尔西签下恩佐·费尔南德斯。" data-title="曼城以平英国纪录的交易签下费尔南德斯" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">曼城以平英国纪录的交易签下费尔南德斯</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="换乘中心现场直播！英格兰转窗关闭后的晚剧" data-title="换乘中心现场直播！英格兰转窗关闭后的晚剧" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">换乘中心现场直播！英格兰转窗关闭后的晚剧</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13580205/us-open-coco-gauff-makes-storming-start-while-serena-and-venus-williams-are-drawn-to-face-maya-joint-and-chan-hao-ching-in-womens-doubles" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="可可·高芙以直落两盘战胜泽伊内普·桑梅斯开启了她的美国公开赛之旅，而两届女双冠军塞雷娜和维纳斯·威廉姆斯将在周二抽签后对阵玛雅·联合和陈浩清。" data-title="高夫强势开局，兹维列夫避免重大冷门" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">高夫强势开局，兹维列夫避免重大冷门</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13580206/us-open-britains-arthur-fery-admitted-he-still-has-plenty-to-work-on-after-his-new-york-debut-was-cut-short" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国选手阿瑟·费里表示，在周二的美国公开赛首秀被缩短后，他现在知道自己必须做什么。" data-title="“我知道我必须做什么”——尽管美国公开赛退出，费里仍准备好迎接最好的挑战" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">“我知道我必须做什么”——尽管美国公开赛退出，费里仍准备好迎接最好的挑战</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/watch/video/13580283/fan-sings-oasis-classic-wonderwall-during-arthur-fery-match-against-lorenzo-musetti-at-us-open" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在美国公开赛上阿瑟·费里 (Arthur Fery) 对阵洛伦佐·穆塞蒂 (Lorenzo Musetti) 的比赛中，范冰冰演唱了绿洲经典歌曲《Wonderwall》。" data-title="“你是我的奇迹之墙！” |球迷在美国公开赛 Fery 比赛期间演唱 Oasis 经典歌曲" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">“你是我的奇迹之墙！” |球迷在美国公开赛 Fery 比赛期间演唱 Oasis 经典歌曲</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/f1/live-blog/12040/13580330/f1-italian-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="法拉利车队公布意大利大奖赛练习赛新秀，揭晓舒马赫风格涂装" data-title="法拉利车队公布意大利大奖赛练习赛新秀，揭晓舒马赫风格涂装" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">法拉利车队公布意大利大奖赛练习赛新秀，揭晓舒马赫风格涂装</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13579867/f1-fans-will-crucify-teams-if-team-orders-are-used-in-2026-title-battle-says-former-world-champion-mika-hakkinen" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="两届世界冠军米卡·哈基宁警告说，如果一级方程式车队执行车队命令试图影响今年的冠军争夺战，他们就有可能被这项运动的车迷“钉在十字架上”。" data-title="“球迷会把他们钉在十字架上”——哈基宁对冠军争夺战中的球队命令发出警告" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">“球迷会把他们钉在十字架上”——哈基宁对冠军争夺战中的球队命令发出警告</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13579505/today-on-sky-sports-racing-bath-and-newcastle" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周三我们将进行忙碌的一天比赛，巴斯和纽卡斯尔的比赛表现平平，天空体育赛车直播......" data-title="艾蒂安在巴斯追逐首次成功" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">艾蒂安在巴斯追逐首次成功</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13580177/italian-gp-will-lewis-hamilton-george-russell-or-lando-norris-seize-title-race-opening-due-to-kimi-antonelli-grid-penalties" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="随着世界冠军领头羊基米·安东内利在意大利大奖赛上从后排发车，试图在积分榜上追赶他的英国三人组有一个重大机会。" data-title="汉密尔顿、拉塞尔或诺里斯会在蒙扎夺取冠军头衔吗？" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">汉密尔顿、拉塞尔或诺里斯会在蒙扎夺取冠军头衔吗？</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/darts/news/12040/13580326/world-series-of-darts-finals-michael-van-gerwen-faces-lourence-ilagan-to-start-title-defence-as-luke-littler-takes-on-danny-noppert" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·范格文将在世界飞镖系列赛决赛中对阵劳伦斯·伊拉甘，开启他的卫冕之路，卢克·利特勒将在阿姆斯特丹与丹尼·诺珀特正面交锋。" data-title="MVG 开始世界飞镖系列赛决赛对阵伊拉甘" data-date="09-02 19:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">09-02 19:44</span>
+          <span class="news-item-title">MVG 开始世界飞镖系列赛决赛对阵伊拉甘</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="尽管人们普遍期待他们会在今年夏天签下一名左后卫，但曼联决定不这么做--这意味着什么？" data-title="曼联和他们计算的左边" data-date="09-02 18:46" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 18:46</span>
+          <span class="news-item-title">曼联和他们计算的左边</span>
         </a>
   </div>
   <div class="news-category">
@@ -384,4 +384,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-02 19:41（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-02 19:44（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

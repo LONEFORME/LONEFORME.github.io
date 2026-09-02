@@ -128,7 +128,7 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,374.64</span>
+      <span class="ticker-price ticker-up">$4,372.89</span>
       <span class="ticker-change up">▲ +0.02%</span>
     </div>
     <div class="ticker-footer">
@@ -261,4 +261,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-02 19:41（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-02 19:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
