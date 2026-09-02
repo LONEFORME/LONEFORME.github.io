@@ -11,6 +11,7 @@
 import os
 import re
 import sys
+import json
 import time
 import requests
 import feedparser
@@ -126,9 +127,9 @@ API_URL = "https://opencode.ai/zen/go/v1/chat/completions"
 API_KEY = os.environ.get("OPENCODE_GO_API_KEY")
 MODEL = "deepseek-v4-flash"
 MAX_ARTICLES_PER_FEED = 8
-MAX_TOTAL_PER_SECTION = 6
+MAX_TOTAL_PER_SECTION = 15      # 扩大单板块容量，支持全天 3 次累加展示
 MAX_AGE_DAYS = 30
-FRONTPAGE_MAX_HOURS = 48        # 首页只保留最近 48 小时的新闻
+FRONTPAGE_MAX_HOURS = 24        # 首页只保留最近 24 小时的新闻
 MIN_ARTICLES_THRESHOLD = 3      # 有效新闻低于此值时不覆盖旧页面
 MAX_RETRIES = 3                 # 网络请求最大重试次数
 RETRY_DELAY = 2                 # 重试间隔（秒）
@@ -1004,12 +1005,55 @@ title: 股票财经
     log("[财经] 已生成 finance.md")
 
 
+def load_daily_cache(date_only):
+    """从 archive/raw-{date_only}.json 读取今天已抓取累加的新闻列表"""
+    cache_file = os.path.join("archive", f"raw-{date_only}.json")
+    if os.path.exists(cache_file):
+        try:
+            with open(cache_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                items = []
+                for it in data:
+                    # 恢复 published_dt datetime 对象
+                    pub_dt = parse_datetime_bj(it.get("published_dt_iso") or it.get("published_dt") or it.get("date"))
+                    it["published_dt"] = pub_dt
+                    items.append(it)
+                log(f"[INFO] 成功载入今日已有累加缓存，共 {len(items)} 条已抓取新闻")
+                return items
+        except Exception as e:
+            log(f"[WARNING] 载入今日累加缓存失败: {e}")
+    return []
+
+
+def save_daily_cache(date_only, items):
+    """保存今天的新闻累加列表到 archive/raw-{date_only}.json"""
+    os.makedirs("archive", exist_ok=True)
+    cache_file = os.path.join("archive", f"raw-{date_only}.json")
+    try:
+        serializable = []
+        for it in items:
+            it_copy = dict(it)
+            if isinstance(it_copy.get("published_dt"), datetime):
+                it_copy["published_dt_iso"] = it_copy["published_dt"].isoformat()
+                del it_copy["published_dt"]
+            serializable.append(it_copy)
+        with open(cache_file, "w", encoding="utf-8") as f:
+            json.dump(serializable, f, ensure_ascii=False, indent=2)
+        log(f"[INFO] 已保存今日累加缓存: {cache_file} (累计 {len(items)} 条)")
+    except Exception as e:
+        log(f"[WARNING] 保存今日累加缓存失败: {e}")
+
+
 def main():
     now_bj = datetime.now(BEIJING_TZ)
     date_str = now_bj.strftime("%Y-%m-%d %H:%M")
     date_only = now_bj.strftime("%Y-%m-%d")
     log(f"[INFO] 开始抓取新闻 - {date_str}（北京时间）")
 
+    # 1. 载入今天已累积的新闻缓存
+    cached_today_news = load_daily_cache(date_only)
+
+    # 2. 抓取当前最新 RSS
     all_news = []
     for feed in RSS_FEEDS:
         log(f"[INFO] 抓取: {feed['name']}...")
@@ -1017,31 +1061,37 @@ def main():
         log(f"  获取 {len(entries)} 条")
         all_news.extend(entries)
 
+    # 3. 核心机制：全天新闻累加合并（已有早间新闻 + 最新下午/晚间新闻）
+    merged_all = cached_today_news + all_news
+
     seen = set()
     unique = []
-    for item in all_news:
+    for item in merged_all:
         key = item["title"][:60]
         if key not in seen:
             seen.add(key)
             unique.append(item)
 
-    log(f"[INFO] 去重后共 {len(unique)} 条")
+    log(f"[INFO] 累加去重后今日有效新闻共 {len(unique)} 条（本次新抓取 {len(all_news)} 条，历史缓存 {len(cached_today_news)} 条）")
 
     # 失败保护：有效新闻数量低于阈值时不覆盖旧页面
     if len(unique) < MIN_ARTICLES_THRESHOLD:
-        log(f"[WARNING] 抓取去重后有效新闻仅 {len(unique)} 条（低于保护阈值 {MIN_ARTICLES_THRESHOLD} 条），跳过更新以保留上一版页面！")
+        log(f"[WARNING] 累加后有效新闻仅 {len(unique)} 条（低于保护阈值 {MIN_ARTICLES_THRESHOLD} 条），跳过更新以保留上一版页面！")
         sys.exit(0)
 
-    # 核心优化 3：按发布时间降序排序（最新发布的新闻排在最前面）
+    # 4. 持久化保存今日累加数据
+    save_daily_cache(date_only, unique)
+
+    # 5. 按发布时间降序排序（最新发布的新闻排在最前面）
     unique.sort(key=lambda x: x.get("published_dt") or datetime.min.replace(tzinfo=BEIJING_TZ), reverse=True)
 
-    # 核心优化 2：首页只保留最近 48 小时内的新闻
+    # 6. 首页展示：保留 24 小时内动态
     fresh_news = [it for it in unique if is_frontpage_fresh(it.get("published_dt"))]
     if len(fresh_news) < MIN_ARTICLES_THRESHOLD:
-        log(f"[INFO] 48小时内新闻较少 ({len(fresh_news)} 条)，自动回退使用最近抓取的新闻")
+        log(f"[INFO] 24小时内新闻较少 ({len(fresh_news)} 条)，自动回退使用今日累加的全部新闻")
         fresh_news = unique
     else:
-        log(f"[INFO] 48小时内首页有效新闻 {len(fresh_news)} 条（全量抓取 {len(unique)} 条）")
+        log(f"[INFO] 24小时内首页展示新闻 {len(fresh_news)} 条（今日累计收录 {len(unique)} 条）")
 
     # 首页新闻分类
     frontpage_map = {sec["id"]: [] for sec in SECTIONS_CONFIG}
@@ -1065,7 +1115,7 @@ def main():
     for cat_id, items in frontpage_map.items():
         log(f"  [首页分类统计] {cat_id}: {len(items)} 条")
 
-    # 生成首页 news.md
+    # 生成首页 news.md（累加展示全天动态）
     content_html = build_page_html(frontpage_map, date_only, crawled_time=date_str)
     page = f"""---
 layout: default
@@ -1105,17 +1155,17 @@ title: 新闻存档 - {date_only}
         f.write(archive_page)
     log(f"[INFO] 已生成存档 {archive_file}")
 
-    # 清理旧存档（保留最近30天）
+    # 清理旧存档与缓存（保留最近30天）
     archive_dir = "archive"
     if os.path.exists(archive_dir):
         for fname in os.listdir(archive_dir):
-            if fname.startswith("news-") and fname.endswith(".md"):
+            if (fname.startswith("news-") and fname.endswith(".md")) or (fname.startswith("raw-") and fname.endswith(".json")):
                 try:
-                    fdate = fname.replace("news-", "").replace(".md", "")
+                    fdate = fname.replace("news-", "").replace("raw-", "").replace(".md", "").replace(".json", "")
                     fdatetime = datetime.strptime(fdate, "%Y-%m-%d").replace(tzinfo=BEIJING_TZ)
                     if now_bj - fdatetime > timedelta(days=30):
                         os.remove(os.path.join(archive_dir, fname))
-                        log(f"[INFO] 清理旧存档: {fname}")
+                        log(f"[INFO] 清理旧档案/缓存: {fname}")
                 except ValueError:
                     pass
 
@@ -1164,9 +1214,9 @@ title: 新闻历史档案室
         f.write(archive_index)
     log(f"[INFO] 已生成 archive/index.md")
 
-    # 生成财经页面
+    # 生成财经页面（财经每次获取最新实时行情直接覆盖）
     finance_items = frontpage_map.get("caijing", []) or archive_map.get("caijing", [])
-    log(f"[INFO] 财经新闻 {len(finance_items)} 条，开始生成财经页面...")
+    log(f"[INFO] 财经新闻 {len(finance_items)} 条，开始生成实时财经页面...")
     generate_finance_page(finance_items, date_str, date_only)
 
 
