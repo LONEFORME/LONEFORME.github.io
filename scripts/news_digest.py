@@ -471,31 +471,41 @@ def is_error_page(title, summary=""):
     return False
 
 
-def is_sensitive_content(title, summary=""):
-    """检测是否是敏感/偏见/负面新闻，返回 True 表示应该归类到外媒视角"""
+DOMESTIC_SOURCES = ["人民网", "新华网", "中国新闻网", "央视网"]
+
+
+def is_sensitive_content(title, summary="", source=""):
+    """检测是否是西方媒体的偏见/抹黑/负面报道，返回 True 表示应该归类到外媒视角。
+    重要原则：国内官方媒体绝不属于西方媒体视角；普通地名（新疆/西藏/香港/台湾）不等于敏感报道。
+    """
     if not title:
         return False
+
+    # 1. 国内官方权威媒体一律不进"西方媒体视角"
+    for ds in DOMESTIC_SOURCES:
+        if ds in (source or ""):
+            return False
+
     text = (str(title) + " " + str(summary or "")).lower()
-    # 敏感词组合：涉及中国的负面/偏见报道关键词
-    sensitive_patterns = [
-        # 政治批评类
+
+    # 2. 真正的偏见/抹黑/意识形态攻击关键词（不包含普通省份地名）
+    bias_patterns = [
+        # 政治与人权批评类
         "审查", "监控", "镇压", "压迫", "独裁", "一党", "极权", "威权",
-        "人权", "侵犯人权", "宗教迫害", "言论自由", "新闻自由",
-        "渗透", "间谍", "窃取", "黑客攻击", "网络攻击",
-        # 地区敏感类（负面报道）
-        "西藏", "新疆", "香港", "台湾", "台独", "港独", "藏独", "疆独",
-        "集中营", "再教育营", "强迫劳动", "种族灭绝",
+        "侵犯人权", "宗教迫害", "言论自由", "新闻自由", "维权人士", "异见人士",
+        "渗透", "间谍", "窃取", "黑客攻击", "网络攻击", "威胁论", "抹黑", "政治打压",
+        # 涉疆涉港涉台等特定负面指控（必须是具体攻击词汇，不能单用省名）
+        "集中营", "再教育营", "强迫劳动", "种族灭绝", "打压民主", "破坏自治",
         # 经济/科技负面指控
-        "债务陷阱", "新殖民", "经济胁迫", "技术盗窃", "知识产权盗窃",
+        "债务陷阱", "新殖民", "经济胁迫", "技术盗窃", "知识产权盗窃", "产能过剩论",
         # 英文敏感词
         "censorship", "surveillance", "oppression", "dictatorship",
-        "human rights", "religious persecution", "freedom of speech",
-        "espionage", "spy", "hack", "cyber attack",
-        "tibet", "xinjiang", "hong kong", "taiwan", "independence",
+        "human rights violation", "religious persecution", "freedom of speech",
+        "espionage", "spy", "cyber attack", "dissident",
         "concentration camp", "reeducation camp", "forced labor", "genocide",
-        "debt trap", "neocolonial", "economic coercion", "ip theft",
+        "debt trap", "neocolonial", "economic coercion", "ip theft", "overcapacity"
     ]
-    for kw in sensitive_patterns:
+    for kw in bias_patterns:
         if kw in text:
             return True
     return False
@@ -625,11 +635,7 @@ def classify_item(item):
         if kw in text:
             return "zuqiu"
 
-    # 2. 西方媒体视角（偏见/负面报道，优先于科技/财经，防止被经济/科技关键词截胡）
-    if is_sensitive_content(item.get("title", ""), item.get("summary", "")):
-        return "meimei"
-
-    # 3. 科技 & AI
+    # 2. 科技创新 & AI 算力（AI、芯片、大模型等科技前沿）
     tech_keywords = [
         "科技", "scitech", "ai", "人工智能", "大模型", "算力", "芯片", "半导体", "机器人", "具身智能",
         "算法", "网络安全", "方班", "攻防", "开源", "航天", "航空", "无人机", "卫星", "科普", "生物",
@@ -640,7 +646,7 @@ def classify_item(item):
         if kw in text:
             return "keji"
 
-    # 4. 财经 & 宏观 & 产业
+    # 3. 财经 & 宏观 & 产业
     finance_keywords = [
         "财经", "经济", "人民币", "中间价", "汇率", "外汇", "股市", "a股", "美股", "港股", "个股",
         "大盘", "指数", "低开", "高开", "涨停", "跌停", "关税", "贸易", "供应链", "航运",
@@ -651,6 +657,10 @@ def classify_item(item):
     for kw in finance_keywords:
         if kw in text:
             return "caijing"
+
+    # 4. 西方媒体视角（严格限定：仅外媒信源且包含意识形态攻击/偏见抹黑词）
+    if is_sensitive_content(item.get("title", ""), item.get("summary", ""), item.get("source", "")):
+        return "meimei"
 
     # 5. 时政 & 国际
     shizheng_keywords = [
@@ -1211,7 +1221,7 @@ def main():
     archive_map = {sec["id"]: [] for sec in SECTIONS_CONFIG}
     archive_map["caijing"] = []
     for it in unique:
-        cat_id = it.get("cat_id") or classify_item(it)
+        cat_id = classify_item(it)
         it["cat_id"] = cat_id
         if cat_id in archive_map and len(archive_map[cat_id]) < MAX_TOTAL_PER_SECTION:
             archive_map[cat_id].append(it)
