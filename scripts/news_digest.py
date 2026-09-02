@@ -109,6 +109,12 @@ def has_chinese(text):
 UA = "Mozilla/5.0 (compatible; NewsDigest/1.0; +https://loneforme.github.io)"
 
 RSS_FEEDS = [
+    # 🤖 前沿 AI 大模型与半导体芯片硬核专栏 (重点聚焦)
+    {"url": "https://techcrunch.com/category/artificial-intelligence/feed/", "name": "TechCrunch(AI模型)"},
+    {"url": "https://www.tomshardware.com/feeds/all", "name": "Tom's Hardware(半导体)"},
+    {"url": "https://feeds.arstechnica.com/arstechnica/technology-lab", "name": "Ars Technica(芯片与前沿)"},
+    {"url": "https://www.theverge.com/rss/index.xml", "name": "The Verge(科技)"},
+    {"url": "https://www.ithome.com/rss/", "name": "IT之家(数码芯片)"},
     # ⚽ 足球与英超权威专栏
     {"url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml", "name": "BBC 英超专栏"},
     {"url": "https://www.skysports.com/rss/12040", "name": "天空体育(转会中心)"},
@@ -136,6 +142,11 @@ MAX_RETRIES = 3                 # 网络请求最大重试次数
 RETRY_DELAY = 2                 # 重试间隔（秒）
 
 SOURCE_NAME_MAP = {
+    "techcrunch.com": "TechCrunch",
+    "tomshardware.com": "Tom's Hardware",
+    "arstechnica.com": "Ars Technica",
+    "theverge.com": "The Verge",
+    "ithome.com": "IT之家",
     "people.com.cn": "人民网",
     "xinhuanet.com": "新华网",
     "chinanews.com.cn": "中国新闻网",
@@ -150,6 +161,11 @@ SOURCE_NAME_MAP = {
 
 # ===== 来源 → 国旗/样式映射 =====
 SOURCE_FLAG_MAP = {
+    "TechCrunch": "🤖", "TechCrunch(AI模型)": "🤖",
+    "Tom's Hardware": "⚡", "Tom's Hardware(半导体)": "⚡",
+    "Ars Technica": "🔬", "Ars Technica(芯片与前沿)": "🔬",
+    "The Verge": "🌐", "The Verge(科技)": "🌐",
+    "IT之家": "🇨🇳", "IT之家(数码芯片)": "💻",
     "人民网": "🇨🇳", "新华网": "🇨🇳", "中国新闻网": "🇨🇳", "央视网": "🇨🇳",
     "BBC": "🇬🇧", "BBC 英超专栏": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "天空体育": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "天空体育(转会中心)": "🔄", "天空体育(英超)": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -158,6 +174,11 @@ SOURCE_FLAG_MAP = {
 }
 
 SOURCE_CSS_MAP = {
+    "TechCrunch": "source-techcrunch", "TechCrunch(AI模型)": "source-techcrunch",
+    "Tom's Hardware": "source-tomshardware", "Tom's Hardware(半导体)": "source-tomshardware",
+    "Ars Technica": "source-arstechnica", "Ars Technica(芯片与前沿)": "source-arstechnica",
+    "The Verge": "source-theverge", "The Verge(科技)": "source-theverge",
+    "IT之家": "source-cn", "IT之家(数码芯片)": "source-cn",
     "人民网": "source-cn", "新华网": "source-cn", "中国新闻网": "source-cn",
     "BBC": "source-bbc", "BBC 英超专栏": "source-bbc",
     "天空体育": "source-skysports", "天空体育(转会中心)": "source-skysports", "天空体育(英超)": "source-skysports",
@@ -178,11 +199,11 @@ SECTIONS_CONFIG = [
     },
     {
         "id": "keji",
-        "title": "科技创新 & AI 算力",
-        "tab_name": "🤖 科技 & AI",
+        "title": "前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)",
+        "tab_name": "🤖 AI模型 & 芯片算力",
         "flag": "🤖",
         "tag_class": "cat-keji",
-        "tag_label": "🤖 科技前沿",
+        "tag_label": "🤖 AI & 芯片前沿",
     },
     {
         "id": "zuqiu",
@@ -618,8 +639,12 @@ def fetch_rss(url, source_name, timeout=20):
 
 
 def classify_item(item):
-    """智能归类到五大核心板块之一（校准优先级）"""
-    text = (item.get("title", "") + " " + item.get("summary", "") + " " + item.get("source", "")).lower()
+    """智能归类到五大核心板块之一（重点聚焦 AI 模型革新与半导体芯片行业大动作）"""
+    title = item.get("title", "")
+    summary = item.get("summary", "")
+    source = item.get("source", "")
+    full_text = f"{title} {summary} {source}".lower()
+    title_lower = title.lower()
 
     # 1. 足球 / 英超 / 转会（特征明确，优先提取）
     football_keywords = [
@@ -632,21 +657,68 @@ def classify_item(item):
         "defender", "goalkeeper", "manager", "fifa", "uefa"
     ]
     for kw in football_keywords:
-        if kw in text:
+        if kw in full_text:
             return "zuqiu"
 
-    # 2. 科技创新 & AI 算力（AI、芯片、大模型等科技前沿）
-    tech_keywords = [
-        "科技", "scitech", "ai", "人工智能", "大模型", "算力", "芯片", "半导体", "机器人", "具身智能",
-        "算法", "网络安全", "方班", "攻防", "开源", "航天", "航空", "无人机", "卫星", "科普", "生物",
-        "医药", "meta", "openai", "google", "apple", "microsoft", "nvidia", "intel", "amd",
-        "deepseek", "chatgpt", "claude", "algorithm", "tech", "quantum"
+    # 2. 负向降噪过滤：明显属于纯股市行情研报或社会治安/农牧民生的，不挤占硬核科技板块
+    # 2.1 纯股市大盘/银行研报（如“外资银行看好A股”）
+    finance_strict_keywords = [
+        "a股", "港股", "美股", "股市", "大盘", "指数", "外资银行", "券商研报", "基金净流入",
+        "低开", "高开", "涨停", "跌停", "中间价", "汇率", "关税", "贸易战", "cpi", "gdp", "央行加息", "降息"
     ]
-    for kw in tech_keywords:
-        if kw in text:
+    if any(kw in title_lower for kw in finance_strict_keywords):
+        return "caijing"
+
+    # 2.2 社会治安诈骗/农牧民生（如“AI变声诈骗”、“AI放羊牛羊看病”）
+    social_crime_keywords = [
+        "诈骗", "行骗", "偷盗", "相亲", "婚恋", "牛羊", "放牧", "车祸", "坠河", "失联", "火灾"
+    ]
+    if any(kw in title_lower for kw in social_crime_keywords):
+        return "zonghe"
+
+    # 3. 科技创新 & AI 算力（硬核聚焦：AI大模型突破、算法革新、半导体芯片巨头大动作）
+    # 3.1 专门科技媒体来源直接优先入选
+    tech_sources = ["techcrunch", "tom's hardware", "ars technica", "the verge", "it之家", "人民网(科技)"]
+    if any(ts in source.lower() for ts in tech_sources):
+        return "keji"
+
+    # 3.2 AI 模型发布、算法突破与智能体动作
+    ai_model_keywords = [
+        "openai", "chatgpt", "gpt-4", "gpt-5", "o1", "o3", "deepseek", "深度求索",
+        "claude", "anthropic", "gemini", "llama", "meta ai", "mistral", "qwen", "通义千问",
+        "kimi", "moonshot", "智谱", "glm", "minimax", "sora", "runway", "kling", "可灵",
+        "大模型", "基座模型", "推理模型", "reasoning model", "多模态", "multimodal", "智能体", "agent",
+        "reinforcement learning", "强化学习", "rlhf", "scaling law", "context window", "token", "ai搜索"
+    ]
+    for kw in ai_model_keywords:
+        if kw in full_text:
             return "keji"
 
-    # 3. 财经 & 宏观 & 产业
+    # 3.3 半导体、芯片制程与硬件巨头动作（Nvidia, AMD, Intel, TSMC, ASML 等）
+    semiconductor_keywords = [
+        "nvidia", "英伟达", "amd", "超威", "intel", "英特尔", "tsmc", "台积电", "asml", "阿斯麦",
+        "qualcomm", "高通", "broadcom", "博通", "arm", "mediatek", "联发科", "海力士", "sk hynix",
+        "micron", "美光", "华为昇腾", "寒武纪", "海光", "gpu", "cpu", "npu", "tpu", "blackwell",
+        "b200", "rubin", "h100", "h200", "mi300", "mi325", "mi350", "zen 5", "zen 6", "arrow lake",
+        "panther lake", "lunar lake", "gaudi", "光刻机", "euv", "high-na", "先进制程", "2nm", "3nm",
+        "18a", "14a", "晶圆", "wafer", "cowos", "先进封装", "chiplet", "hbm", "hbm3e", "hbm4",
+        "cpo", "硅光", "量子计算", "quantum", "risc-v", "semiconductor", "半导体", "芯片", "算力"
+    ]
+    for kw in semiconductor_keywords:
+        if kw in full_text:
+            return "keji"
+
+    # 3.4 科技公司大动作与通用科技
+    general_tech_keywords = [
+        "科技", "scitech", "ai", "人工智能", "机器人", "具身智能", "算法", "网络安全", "方班", "开源",
+        "航天", "航空", "无人机", "卫星", "科普", "生物医药", "apple", "苹果", "m4", "m5",
+        "google", "谷歌", "microsoft", "微软", "aws", "meta"
+    ]
+    for kw in general_tech_keywords:
+        if kw in full_text:
+            return "keji"
+
+    # 4. 财经 & 宏观 & 产业
     finance_keywords = [
         "财经", "经济", "人民币", "中间价", "汇率", "外汇", "股市", "a股", "美股", "港股", "个股",
         "大盘", "指数", "低开", "高开", "涨停", "跌停", "关税", "贸易", "供应链", "航运",
@@ -655,11 +727,11 @@ def classify_item(item):
         "tariff", "trade", "inflation", "market", "economy", "financial", "stock", "company"
     ]
     for kw in finance_keywords:
-        if kw in text:
+        if kw in full_text:
             return "caijing"
 
-    # 4. 西方媒体视角（严格限定：仅外媒信源且包含意识形态攻击/偏见抹黑词）
-    if is_sensitive_content(item.get("title", ""), item.get("summary", ""), item.get("source", "")):
+    # 5. 西方媒体视角（严格限定：仅外媒信源且包含意识形态攻击/偏见抹黑词）
+    if is_sensitive_content(title, summary, source):
         return "meimei"
 
     # 5. 时政 & 国际
