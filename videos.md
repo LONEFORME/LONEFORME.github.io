@@ -6,8 +6,8 @@ title: 飞行演示
 <div class="news-header-box">
   <div class="news-title-row">
     <div>
-      <h1 class="news-main-title">🎬 无人机飞行演示</h1>
-      <p class="news-main-desc">2025 电赛无人机项目实际飞行演示视频，包含二维码识别、火源检测、绕杆飞行与精准降落</p>
+      <h1 class="news-main-title">🎬 历年电赛飞行演示</h1>
+      <p class="news-main-desc">历年全国大学生电子设计竞赛无人机任务飞行演示，涵盖多个赛题的部分功能：二维码识别、火源检测、绕杆飞行与精准降落</p>
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="23 7 16 12 23 17 23 7"></polygon><rect width="15" height="11" x="1" y="6" rx="2" ry="2"></rect></svg>
@@ -86,7 +86,7 @@ title: 飞行演示
 
 | 项目 | 说明 |
 |------|------|
-| **赛事** | 2025 年全国大学生电子设计竞赛 |
+| **赛事** | 历年全国大学生电子设计竞赛（多赛题演示） |
 | **飞控** | STM32F405 + BirdFlight V2.0 |
 | **上位机** | 地平线 RDK X5 + Python 3 |
 | **视觉** | OpenCV（形状/颜色/二维码检测） |
