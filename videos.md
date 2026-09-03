@@ -235,10 +235,10 @@ title: 飞行演示
           <td>机身自身三维坐标与飞行速度直接输出，全自主导航无需外部动捕或光流</td>
         </tr>
         <tr>
-          <td><strong>高度与避障测距</strong></td>
-          <td>高频激光 <code>ToF</code> + 机载超声波</td>
-          <td>量程 0.03m ~ 8m / 刷新率 50Hz</td>
-          <td>地面高度精确锁存、防止接地回弹震荡与地效干扰</td>
+          <td><strong>垂直定高测量</strong></td>
+          <td>下视激光 <code>ToF</code> 测距传感器</td>
+          <td>高频毫米级测距 / 快速响应</td>
+          <td>纯 ToF 激光垂直定高，高精度高度闭环锁存、防止接地反弹与地效干扰</td>
         </tr>
       </tbody>
     </table>
