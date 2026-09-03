@@ -69,7 +69,7 @@ title: 飞行演示
         </div>
         <div class="spec-mini-item">
           <span class="spec-label">姿态与飞控</span>
-          <span class="spec-val">STM32F405 + BirdFlight V2.0</span>
+          <span class="spec-val">STM32F405 + 凌霄飞控系统 (Lingxiao FC)</span>
         </div>
         <div class="spec-mini-item">
           <span class="spec-label">空间定位基准</span>
@@ -218,7 +218,7 @@ title: 飞行演示
       <tbody>
         <tr>
           <td><strong>底层飞控系统</strong></td>
-          <td><code>STM32F405RGT6</code> + BirdFlight V2.0</td>
+          <td><code>STM32F405RGT6</code> + 凌霄飞控系统 (Lingxiao FC)</td>
           <td>168MHz Cortex-M4 / 双环 PID</td>
           <td>纳秒级姿态解算、电调 PWM 动力输出、故障紧急迫降保护</td>
         </tr>
