@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -25,6 +25,25 @@
             align-items: center;
             padding: 0 24px;
             z-index: 100;
+        }
+        .back-home-btn {
+            text-decoration: none;
+            color: #8b949e;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 13px;
+            margin-right: 14px;
+            padding: 5px 10px;
+            border-radius: 6px;
+            border: 1px solid #30363d;
+            background: #21262d;
+            transition: all 0.2s ease;
+        }
+        .back-home-btn:hover {
+            color: #58a6ff;
+            border-color: #58a6ff;
+            background: #30363d;
         }
         #header h1 {
             font-size: 16px;
@@ -184,6 +203,10 @@
 </head>
 <body>
     <div id="header">
+        <a href="./" class="back-home-btn" title="返回主页">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+            <span>返回主页</span>
+        </a>
         <h1>3D 模型预览</h1>
         <span class="subtitle">LONEFORME · 3D 打印模型库</span>
         <span id="model-count">加载中...</span>

@@ -164,6 +164,7 @@ title: 项目
         • STL / 3MF / SLDPRT 格式<br>
         • Git LFS 大文件管理
       </div>
+      <a href="{{ "/3d-viewer" | relative_url }}" class="card-link">在线 3D 预览</a>
       <a href="https://github.com/LONEFORME/3d-models" target="_blank" rel="noopener" class="card-link">查看项目</a>
     </div>
   </div>

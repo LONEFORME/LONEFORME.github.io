@@ -18,7 +18,7 @@ title: 宇树 L1 + FAST-LIO2
 ```bash
 # 克隆仓库
 cd ~/ros2_ws/src
-git clone <repo_url>/unilidar_fastlio_ros2-ros2.git
+git clone https://github.com/LONEFORME/N100.git
 
 # 编译
 cd ~/ros2_ws
