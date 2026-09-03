@@ -34,15 +34,16 @@ title: 文档
   </div>
 
   <div class="card">
-    <div class="card-icon-box" style="--icon-color: #f59e0b; --icon-glow: rgba(245,158,11,0.25);">
+    <div class="card-icon-box" style="--icon-color: #06b6d4; --icon-glow: rgba(6,182,212,0.25);">
       <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/></svg>
     </div>
-    <h3>树莓派 4B 部署</h3>
-    <p>将镭神 N10P + SLAM Toolbox 部署到树莓派 4B 的完整指南。</p>
+    <h3>嵌入式开发板配置参考与部署</h3>
+    <p>覆盖 7 款主流开发板的通用配置参考手册、一键自动化部署脚本与 AI Skill 资产库。</p>
     <div class="card-details">
-      <strong>平台：</strong>Ubuntu 22.04 ARM64<br>
-      <strong>优化：</strong>性能调参 · 无头模式 · 故障排查
+      <strong>覆盖：</strong>树莓派4B / N100 / A7A / A7Z / RDK X5 / K230 / RK3506<br>
+      <strong>核心：</strong>A/B/C 分类体系 · Fast DDS 组网 · 46个跨板运维脚本 · AI Skill v2.43
     </div>
-    <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">查看指南</a>
+    <a href="https://github.com/LONEFORME/embedded-board-reference" target="_blank" rel="noopener" class="card-link">GitHub 仓库</a>
+    <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派指南</a>
   </div>
 </div>

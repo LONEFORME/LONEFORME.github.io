@@ -53,6 +53,33 @@ title: 项目
 <div class="project-group">
   <div class="section-title">
     <span class="section-icon-box">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/><path d="M9 21v1"/><path d="M9 2v1"/></svg>
+    </span>
+    <h2>嵌入式开发板与多机通信</h2>
+  </div>
+  <p class="group-desc">覆盖 7 款主流开发板的通用配置参考、A/B/C 分类部署、Fast DDS Discovery Server 多机跨网段通信与 AI Skill 资产库（v2.43）。</p>
+
+  <div class="card-grid">
+    <div class="card">
+      <div class="card-icon-box" style="--icon-color: #06b6d4; --icon-glow: rgba(6,182,212,0.25);">
+        <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/><path d="M9 21v1"/><path d="M9 2v1"/></svg>
+      </div>
+      <h3>嵌入式开发板配置参考与 AI 资产库</h3>
+      <p>7 款主流开发板从零到可用的一键自动化部署参考、ROS2 跨板网络通信与 AI Skill 多平台同步体系。</p>
+      <div class="card-details">
+        • A/B/C 三类板精准分类（Ubuntu裸装 / Debian+LXC / 边缘AI与串口）<br>
+        • Fast DDS Discovery Server 中枢组网（A7Z:11811 打通跨设备互通）<br>
+        • 46 个跨板自动化运维脚本库 + YOLOv8 边缘视觉实时检测<br>
+        • AI Skill 唯一真源（v2.43，支持 Codex / DeepSeek / WorkBuddy / Gemini）
+      </div>
+      <a href="https://github.com/LONEFORME/embedded-board-reference" target="_blank" rel="noopener" class="card-link">查看项目</a>
+    </div>
+  </div>
+</div>
+
+<div class="project-group">
+  <div class="section-title">
+    <span class="section-icon-box">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/></svg>
     </span>
     <h2>计算机视觉</h2>
