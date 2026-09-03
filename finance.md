@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7187</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.7177</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,7 +128,7 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,491.06</span>
+      <span class="ticker-price ticker-up">$4,525.65</span>
       <span class="ticker-change up">▲ +0.01%</span>
     </div>
     <div class="ticker-footer">
@@ -216,8 +216,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689831.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网丽水9月3日电(傅飞扬)地处浙西南，“九山半水半分田”的丽水属于浙江发展队列中的“小个子”。" data-title="“为企办实事”落地有声 浙江经济高质量发展的增量密码" data-date="09-03 20:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 20:30</span>
+          <span class="news-item-title">“为企办实事”落地有声 浙江经济高质量发展的增量密码</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689830.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口9月3日电 (记者 王晓斌)“建设百亿级热带食品加工产业集群”，成为海南传统农业大县定安县“十五五”发展的新坐标。" data-title="海南产经新观察：定安打造百亿级热带食品加工产业集群" data-date="09-03 20:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 20:26</span>
+          <span class="news-item-title">海南产经新观察：定安打造百亿级热带食品加工产业集群</span>
+        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="联合国世界气象组织（WMO）警告，这种自然天气现象可能为全球经济带来冲击。" data-title="联合国警告可能出现“超大型”厄尔尼诺现象，各国须准备应对" data-date="09-03 20:09" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -273,4 +285,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-03 20:12（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-03 20:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

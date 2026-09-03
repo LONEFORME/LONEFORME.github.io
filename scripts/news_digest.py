@@ -224,7 +224,7 @@ SECTIONS_CONFIG = [
     },
     {
         "id": "meimei",
-        "title": "🌍 西方媒体视角 (外媒看中国 · 奇葩言论集锦)",
+        "title": "西方媒体视角 (外媒看中国 · 奇葩言论集锦)",
         "tab_name": "🌍 西方媒体视角",
         "flag": "🌍",
         "tag_class": "cat-meimei",
@@ -541,8 +541,12 @@ DOMESTIC_SOURCES = ["人民网", "新华网", "中国新闻网", "央视网"]
 
 
 def is_sensitive_content(title, summary="", source=""):
-    """检测是否是西方媒体的偏见/抹黑/负面报道，返回 True 表示应该归类到外媒视角。
-    重要原则：国内官方媒体绝不属于西方媒体视角；普通地名（新疆/西藏/香港/台湾）不等于敏感报道。
+    """检测是否是西方媒体的涉华偏见/抹黑/负面报道，返回 True 表示应该归类到外媒看中国板块。
+    重要原则：
+    1. 国内官方权威媒体绝不属于西方媒体视角；
+    2. 必须是【涉华/外媒看中国】报道（如果不涉及中国，如美国国内建宴会厅、法庭审判等，绝不属于本板块）；
+    3. 排除“司法审查”、“资格审查”等正常法律/合规词汇误判；
+    4. 必须包含具体的意识形态偏见、抹黑或攻击性词汇。
     """
     if not title:
         return False
@@ -554,25 +558,40 @@ def is_sensitive_content(title, summary="", source=""):
 
     text = (str(title) + " " + str(summary or "")).lower()
 
-    # 2. 真正的偏见/抹黑/意识形态攻击关键词（不包含普通省份地名）
+    # 2. 必须明确属于涉华报道（外媒看中国）
+    china_related = [
+        "中国", "中方", "北京", "涉华", "两岸", "大陆", "华裔",
+        "china", "chinese", "beijing", "prc", "sino",
+        "xi jinping", "xi's", "taiwan", "hong kong", "xinjiang", "tibet"
+    ]
+    if not any(cr in text for cr in china_related):
+        return False
+
+    # 3. 排除正常法律/行政审查术语（如美国法律中的司法审查 judicial review，绝非言论审查）
+    normal_review_terms = ["司法审查", "资格审查", "资质审查", "合规审查", "judicial review"]
+    clean_text = text
+    for nrt in normal_review_terms:
+        clean_text = clean_text.replace(nrt, "")
+
+    # 4. 真正的涉华偏见/抹黑/意识形态攻击关键词
     bias_patterns = [
         # 政治与人权批评类
-        "审查", "监控", "镇压", "压迫", "独裁", "一党", "极权", "威权",
+        "言论审查", "网络审查", "新闻审查", "监控系统", "镇压", "压迫", "独裁", "一党", "极权", "威权",
         "侵犯人权", "宗教迫害", "言论自由", "新闻自由", "维权人士", "异见人士",
-        "渗透", "间谍", "窃取", "黑客攻击", "网络攻击", "威胁论", "抹黑", "政治打压",
-        # 涉疆涉港涉台等特定负面指控（必须是具体攻击词汇，不能单用省名）
+        "渗透", "间谍活动", "窃取机密", "黑客攻击", "网络攻击", "中国威胁论", "抹黑", "政治打压",
+        # 涉疆涉港涉台等特定负面指控
         "集中营", "再教育营", "强迫劳动", "种族灭绝", "打压民主", "破坏自治",
         # 经济/科技负面指控
         "债务陷阱", "新殖民", "经济胁迫", "技术盗窃", "知识产权盗窃", "产能过剩论",
         # 英文敏感词
-        "censorship", "surveillance", "oppression", "dictatorship",
+        "censorship", "mass surveillance", "oppression", "dictatorship", "authoritarian",
         "human rights violation", "religious persecution", "freedom of speech",
-        "espionage", "spy", "cyber attack", "dissident",
+        "espionage", "cyber attack", "dissident",
         "concentration camp", "reeducation camp", "forced labor", "genocide",
         "debt trap", "neocolonial", "economic coercion", "ip theft", "overcapacity"
     ]
     for kw in bias_patterns:
-        if kw in text:
+        if kw in clean_text:
             return True
     return False
 

@@ -1843,5 +1843,518 @@
     "source": "纽约时报",
     "summary": "一般来说，一再报告僵局的陪审团不太可能达成共识。但有时，那些被法官要求更加努力的人会做出判决。",
     "published_dt_iso": "2026-09-03T19:27:42+08:00"
+  },
+  {
+    "title": "英伟达确认将以129亿美元收购Hugging Face",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "date": "2026-09-03",
+    "published_time": "20:42",
+    "source": "TechCrunch",
+    "summary": "英伟达表示， Hugging Face拥有超过300万个型号，并被超过1800万开发人员使用。",
+    "published_dt_iso": "2026-09-03T20:42:45+08:00"
+  },
+  {
+    "title": "Pangram的Max Spero解释为什么人工智能检测比“真假”更难",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "date": "2026-09-03",
+    "published_time": "01:18",
+    "source": "TechCrunch",
+    "summary": "互联网存在信任问题，这不仅仅是因为社交媒体订阅源充斥着人工智能。人工智能生成的文本和图像现在正在进入求职申请、产品评论甚至保险索赔，让平台和用户都在争先恐后地弄清楚什么是真实的。在过去的几家初创公司中，出现了一些初创公司[…]",
+    "published_dt_iso": "2026-09-03T01:18:13+08:00"
+  },
+  {
+    "title": "对Onimusha中的31个不同CPU进行基准测试： Way of the Sword — X3D击败旗舰10% ， 270K Plus落后于Raptor Lake Refresh",
+    "link": "https://www.tomshardware.com/pc-components/cpus/benchmarking-31-different-cpus-in-onimusha-way-of-the-sword-x3d-beats-flagships-by-10-percent-270k-plus-falls-behind-raptor-lake-refresh",
+    "date": "2026-09-03",
+    "published_time": "20:32",
+    "source": "Tom's Hardware",
+    "summary": "Onimusha ：剑道结束了Capcom出色的一年。我们再次对RE引擎进行测试，对31个不同的CPU进行基准测试，以了解它们在游戏中的扩展情况。",
+    "published_dt_iso": "2026-09-03T20:32:30+08:00"
+  },
+  {
+    "title": "RPCS3模拟器开发人员将Nvidia DLSS 5称为“AI slop生成器” —业界推动“更多的升级和帧生成来使游戏产生幻觉并掩盖其缺乏优化”",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/rpcs3-emulator-devs-slam-nvidia-dlss-5-as-ai-slop-generator-says-industry-pushing-more-upscalers-and-frame-generation-to-hallucinate-games-and-hide-their-lack-of-optimisation",
+    "date": "2026-09-03",
+    "published_time": "20:10",
+    "source": "Tom's Hardware",
+    "summary": "RPCS3解释了为什么现代临时升级程序难以在PS3仿真中实现，因为modders继续尝试泄露的DLSS 5 DLL。",
+    "published_dt_iso": "2026-09-03T20:10:38+08:00"
+  },
+  {
+    "title": "凭借IFA的DotBook 14 ，标志性的Packard Bell品牌在13年后从灰烬中崛起—色彩缤纷且价格实惠的英特尔Twin Lake笔记本电脑目前仅限欧洲",
+    "link": "https://www.tomshardware.com/laptops/iconic-packard-bell-brand-rises-from-the-ashes-after-13-years-with-the-dotbook-14-at-ifa-colorful-and-affordable-intel-twin-lake-laptop-is-europe-only-for-now",
+    "date": "2026-09-03",
+    "published_time": "20:03",
+    "source": "Tom's Hardware",
+    "summary": "Packard Bell在IFA 2026上再次亮相，这家台湾PC制造商推出了色彩缤纷的Dot系列，包括笔记本电脑、耳机、输入外围设备等。",
+    "published_dt_iso": "2026-09-03T20:03:26+08:00"
+  },
+  {
+    "title": "台积电晶圆厂设备需求在六个月内几乎翻了一番—人工智能浪涌在工具短缺的情况下将2026年的资本支出推向640亿美元$",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-fab-equipment-demand-nearly-doubles-in-six-months-ai-surge-pushes-2026-capex-toward-usd64b-amid-tool-shortages",
+    "date": "2026-09-03",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "summary": "由于人工智能需求推动了前所未有的晶圆厂扩张，台积电的设备需求在短短八个月内几乎翻了一番，但其2026年的资本支出预算仅增长了约15%。",
+    "published_dt_iso": "2026-09-03T19:00:00+08:00"
+  },
+  {
+    "title": "购买一台配备RTX 5060 Ti的DDR5游戏PC ，只需$ 1,399 —购买英特尔酷睿Ultra 7 270K Plus驱动的CyberPower系统，立省21%",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-ddr5-gaming-pc-with-rtx-5060-ti-for-just-usd1-399-save-21-percent-on-the-intel-core-ultra-7-270k-plus-powered-cyberpower-system",
+    "date": "2026-09-03",
+    "published_time": "18:55",
+    "source": "Tom's Hardware",
+    "summary": "使用英特尔酷睿Ultra 7 270K Plus处理器和Nvidia RTX 5060 Ti显卡，全新CyberPower系统可节省370 $。",
+    "published_dt_iso": "2026-09-03T18:55:28+08:00"
+  },
+  {
+    "title": "Nexus Mods经过13年的独自开发工作后收购了SteamDB —承诺无广告、无付费墙和更智能的Mod更新跟踪",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/nexus-mods-acquires-steamdb-after-13-years-of-solo-dev-work-promises-no-ads-no-paywalls-and-smarter-mod-update-tracking",
+    "date": "2026-09-03",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "summary": "Nexus Mods在其翼下收购SteamDB —新所有者承诺网站将保持无广告和无付费墙",
+    "published_dt_iso": "2026-09-03T18:30:00+08:00"
+  },
+  {
+    "title": "我租了一辆车，几个小时后，我的驾驶执照就要出售了",
+    "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "date": "2026-09-03",
+    "published_time": "04:32",
+    "source": "Ars Technica",
+    "summary": "据报道，联邦调查局正在调查实时发生的大规模数据泄露事件。",
+    "published_dt_iso": "2026-09-03T04:32:02+08:00"
+  },
+  {
+    "title": "BGP劫持由一连串根本不好笑的错误引起的感染网络",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Ars Technica",
+    "summary": "从BGP劫持中毒的生产软件中，我们可以学到什么？很多。",
+    "published_dt_iso": "2026-09-02T19:00:43+08:00"
+  },
+  {
+    "title": "Meta推动机器人在数据中心工作",
+    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "date": "2026-08-30",
+    "published_time": "19:03",
+    "source": "Ars Technica",
+    "summary": "该公司正在测试机器人可以由技术人员执行的任务。",
+    "published_dt_iso": "2026-08-30T19:03:47+08:00"
+  },
+  {
+    "title": "英伟达以近130亿美元收购Hugging Face",
+    "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+    "date": "2026-09-03",
+    "published_time": "20:12",
+    "source": "The Verge",
+    "summary": "英伟达已同意以129.3亿美元收购Hugging Face ，将最受欢迎的开源人工智能模型、数据集和工具托管平台之一归全球最大的人工智能芯片制造商所有。Hugging Face是一个成立于2016年的在线平台，为人工智能开发人员提供了分享项目和数据的空间[…]",
+    "published_dt_iso": "2026-09-03T20:12:06+08:00"
+  },
+  {
+    "title": "TCL的新款Nxtpaper手机同时提供",
+    "link": "https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled",
+    "date": "2026-09-03",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "summary": "凭借P80 Ultra ， TCL的E Ink式Nxtpaper手机终于推出了OLED。就像以前的LCD型号一样，手机可以切换到低功耗的单色显示模式，当您想要阅读或尽量减少干扰时，可以复制纸张的外观。只有现在，您才能切换回公司所称的[…]",
+    "published_dt_iso": "2026-09-03T20:00:00+08:00"
+  },
+  {
+    "title": "这些新的机器人割草机可以修剪您的边缘",
+    "link": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+    "date": "2026-09-03",
+    "published_time": "19:55",
+    "source": "The Verge",
+    "summary": "Anker的新型机器人割草机也可能接管您的除草机。在IFA 2026上宣布， Eufy机器人割草机S2 Max配备了一个可伸展的修剪臂，可以清理车道和花坛周围的草地。双刀片割草机提供vSLAM导航，使用内置摄像头构建[…]的3D地图",
+    "published_dt_iso": "2026-09-03T19:55:00+08:00"
+  },
+  {
+    "title": "微软披露Azure收入作为主要财务报告变更的一部分",
+    "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+    "date": "2026-09-03",
+    "published_time": "16:59",
+    "source": "The Verge",
+    "summary": "微软正在改变向投资者报告其财务状况的方式，将其业务分为两个部分，并首次披露其Azure云业务的季度收入。这些变化旨在反映人工智能对微软的持续影响以及该公司现在的运营方式。这家软件巨头此前曾报告过[…]",
+    "published_dt_iso": "2026-09-03T16:59:09+08:00"
+  },
+  {
+    "title": "这是第一台带有光学镜头偏移的4K 120Hz UST投影仪",
+    "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+    "date": "2026-09-03",
+    "published_time": "16:30",
+    "source": "The Verge",
+    "summary": "您不希望在运行Google TV的超短焦投影仪上找到保留细节的光学镜头移位，但这正是您在Awol Vision的新LuxVision中会发现的。它还承诺在距离[…]仅7.5英寸时产生非常明亮（ 6000 ISO流明）的4K 120Hz图像，测量120英寸",
+    "published_dt_iso": "2026-09-03T16:30:00+08:00"
+  },
+  {
+    "title": "Belkin的第一批跟踪器已准备就绪，可以连接到您的装备上。",
+    "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+    "date": "2026-09-03",
+    "published_time": "16:00",
+    "source": "The Verge",
+    "summary": "在销售用于将Apple AirTags附加到从钥匙到背包的所有物品的配件之后， Belkin推出了自己的跟踪器，可与Apple的Find My或Google的Find Hub跟踪网络配合使用。除了与Android和iOS兼容之外，这些跟踪器与AirTags和Google最近宣布的Pixel Tag的不同之处在于，您[…]",
+    "published_dt_iso": "2026-09-03T16:00:00+08:00"
+  },
+  {
+    "title": "Belkin推出其首款更持久的半固态移动电源",
+    "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+    "date": "2026-09-03",
+    "published_time": "16:00",
+    "source": "The Verge",
+    "summary": "Belkin将加入BMX、Kuxiu和Zens等公司，推出首批采用半固态电池技术的移动电源。该公司声称，新配件“设计寿命比其他电源库长3倍” ，在锂离子电池中常见的液体电解质旁边添加了“凝胶状层”。",
+    "published_dt_iso": "2026-09-03T16:00:00+08:00"
+  },
+  {
+    "title": "Anker的睡眠扬声器使用雷达和花朵能量来帮助您放松",
+    "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+    "date": "2026-09-03",
+    "published_time": "15:30",
+    "source": "The Verge",
+    "summary": "Anker的SleepLab扬声器承诺在没有可穿戴设备的情况下跟踪和改善睡眠。它使用床头柜上的毫米波雷达（ 60GHz ）来跟踪胸部和身体的微动，持续监测您的心率和呼吸，以增强您所处的任何睡眠阶段。它还嵌入了很多嬉皮士的东西。如果我能理解事情[…]",
+    "published_dt_iso": "2026-09-03T15:30:00+08:00"
+  },
+  {
+    "title": "“没有Token的CS学生，应立即退学”",
+    "link": "https://www.qbitai.com/2026/09/483839.html",
+    "date": "2026-09-03",
+    "published_time": "19:32",
+    "source": "量子位",
+    "summary": "禁止古法编程、Token自费",
+    "published_dt_iso": "2026-09-03T19:32:08+08:00"
+  },
+  {
+    "title": "腾讯WorkBuddy联名硬件来了！首批100多家伙伴入场",
+    "link": "https://www.qbitai.com/2026/09/483786.html",
+    "date": "2026-09-03",
+    "published_time": "19:25",
+    "source": "量子位",
+    "summary": "眼镜、耳机、麦克风都来了",
+    "published_dt_iso": "2026-09-03T19:25:29+08:00"
+  },
+  {
+    "title": "英特尔取消沿用近半世纪的 Fellow 头衔，顶尖研究员改称杰出工程师",
+    "link": "https://www.ithome.com/0/998/143.htm",
+    "date": "2026-09-03",
+    "published_time": "20:44",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 3 日消息，据 OregonLive 报道，英特尔将不再为顶尖研究人员授予“院士”（fellow）和“高级院士”（senior fellow）头衔，这一沿用了近半个世纪的荣誉称号即将退出英特尔的历史舞台。英特尔上周已通知员工，公司今后将以“杰出工程师”（distinguished engineer）和“高级杰出工程师”（senior distinguished engineer）称呼顶尖科学家。英特尔表示，新头衔体现了公司对资深研究人员提出的更高要求，即他们不仅要开展技术研究，还需要为公司的业务成果作出贡献。英特尔首席技术官 Pushkar Ranade 在一份员工备忘录中写道：“这不仅仅是一次头衔变更，它代表着英特尔对技术领导力提出了新的标准，以应对未来的机遇和挑战。”此",
+    "published_dt_iso": "2026-09-03T20:44:18+08:00"
+  },
+  {
+    "title": "TCL 首款 OLED 显示屏 NXTPAPER 手机 P80 Ultra 发布，可一键切换“电纸书”模式",
+    "link": "https://www.ithome.com/0/998/142.htm",
+    "date": "2026-09-03",
+    "published_time": "20:41",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 3 日消息，TCL 今天（3 日）推出了全新的 P80 系列机型，首次把 OLED 屏幕带到 NXTPAPER 手机上。其中，Ultra 系列延续了此前 LCD 机型类似电子墨水的显示特点：需要阅读或减少干扰时，可以切换到低功耗黑白模式，获得接近纸张的观感；正常使用时，则能恢复 TCL 所称的“旗舰级”OLED 显示效果。P80 Ultra 配备 6.83 英寸 OLED 屏幕，拥有 1.5K 分辨率、120Hz 刷新率、3200 尼特峰值亮度，并覆盖 100% DCI-P3 色域，整体规格达到高端 OLED 水平。日常使用时，P80 Ultra 绝大多数时候就是一部普通手机。拨动专用 NXTPAPER 按键后，系统会进入 Max Ink 模式，整部手机随即更接近电子阅读器",
+    "published_dt_iso": "2026-09-03T20:41:40+08:00"
+  },
+  {
+    "title": "创历史新高：挪威 8 月新车 98.7% 为纯电动汽车",
+    "link": "https://www.ithome.com/0/998/141.htm",
+    "date": "2026-09-03",
+    "published_time": "20:32",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 3 日消息，挪威的目标是让所有新乘用车都实现电动化，如今距离这一目标已经越来越近。根据挪威道路交通信息委员会（OFV）公布的数据，今年 8 月，挪威共登记 13,451 辆新车，较去年同期下降 3.4%。不过，其中高达 98.7% 为纯电动汽车，创下新的历史纪录，即便是在电动汽车普及率极高的挪威，这一成绩也十分惊人。挪威道路交通信息委员会 CEO Geir Inge Stokke 在新闻稿中表示：“乘用车市场整体有所下滑，但不同品牌的发展情况差异很大。一些大型品牌正在增长，汽车市场的竞争也变得更加均衡。”那么，在这个全球电动汽车普及率最高的市场，哪些品牌和车型最受欢迎呢？尽管特斯拉目前仍是挪威 2026 年累计销量最高的汽车品牌，但其 8 月排名已经下滑至第七位。当月，特斯",
+    "published_dt_iso": "2026-09-03T20:32:26+08:00"
+  },
+  {
+    "title": "超 11 万亿元，我国 1-7 月规上电子信息制造业营收同比增长 19.4%",
+    "link": "https://www.ithome.com/0/998/140.htm",
+    "date": "2026-09-03",
+    "published_time": "20:23",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 3 日消息，工信部今日公布 2026 年 1—7 月电子信息制造业运行情况。报告期，我国电子信息制造业生产保持快速增长，出口增速稳步上升，行业效益大幅增长，投资增势明显，行业整体发展态势良好。IT之家整理如下：一、生产保持快速增长1—7 月份，规模以上电子信息制造业增加值同比增长 15.4%，增速较去年同期高 4.5 个百分点。7 月份，规模以上电子信息制造业增加值同比增长 19.1%。主要产品中，集成电路产量 3342 亿块，同比增长 23.1%；电子元件产量 5.3 万亿只，同比增长 15%。二、出口增速稳步上升1—7 月份，规模以上电子信息制造业累计实现出口交货值同比增长 8%，较 1—6 月份提高 0.2 个百分点。7 月份，规模以上电子信息制造业实现出口交货值同比",
+    "published_dt_iso": "2026-09-03T20:23:59+08:00"
+  },
+  {
+    "title": "官方确认：《战锤 40K：星际战士 3》开发完全不使用生成式 AI",
+    "link": "https://www.ithome.com/0/998/138.htm",
+    "date": "2026-09-03",
+    "published_time": "20:15",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 3 日消息，在《拼车模拟器》（Rideshare Stimulator）因使用生成式 AI 引发争议后，开发商 Saber Interactive 向《战锤 40K》粉丝保证，正在开发的《星际战士 3》（Space Marine 3）完全不会使用这项技术。此前，Saber 确认在开发《拼车模拟器》时使用了生成式 AI，包括该游戏 Free Ride 模式中的语音和文本内容。这一消息也让玩家开始担心备受期待的《星际战士 3》是否会采用生成式 AI。争议期间，Saber CEO Matthew Karch 还与《拼车模拟器》前编剧 Stella Sacco 公开发生争论。Sacco 表示，她在 2023 年离开项目后被 ChatGPT“取代”，但 Karch 否认了这一说法。I",
+    "published_dt_iso": "2026-09-03T20:15:01+08:00"
+  },
+  {
+    "title": "近 130 亿美元喜提“AI 界 GitHub”，英伟达宣布将正式收购 Hugging Face",
+    "link": "https://www.ithome.com/0/998/136.htm",
+    "date": "2026-09-03",
+    "published_time": "20:01",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 3 日消息，北京时间今天（3 日）晚间，英伟达 CEO 黄仁勋通过新闻稿宣布，公司同意以 129.303 亿美元（IT之家注：现汇率约合 871.05 亿元人民币）收购 Hugging Face。双方将共同扩大 Hugging Face 平台规模、加强基础设施，让全球开发者和机构更容易获取和使用 AI，预计这笔交易将于 2027 年上半年完成。目前，超过 1,800 万名开发者、研究人员和创作者在 Hugging Face 分享了超过 300 万个模型、50 万个数据集和 100 万个应用，使用该平台寻找、评估、定制和部署 AI 的企业也超过 20 万家。Hugging Face 仍将面向整个 AI 生态保持开放。开发者可以自由选择需要的模型、框架、云服务、推理服务提供商和",
+    "published_dt_iso": "2026-09-03T20:01:41+08:00"
+  },
+  {
+    "title": "英超联赛的溢价为2000万英镑，这让欧洲俱乐部感到担忧",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "19:13",
+    "source": "BBC",
+    "summary": "过去的格言是英格兰球员溢价。现在，这似乎只适用于已经在英超联赛中的球员。",
+    "published_dt_iso": "2026-09-03T19:13:06+08:00"
+  },
+  {
+    "title": "我过去常常笑着玩比赛- Dean",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "19:45",
+    "source": "BBC",
+    "summary": "前英超联赛裁判迈克·迪恩（ Mike Dean ）表示，他将在比赛中尽可能长时间地留在中场。",
+    "published_dt_iso": "2026-09-03T19:45:09+08:00"
+  },
+  {
+    "title": "Iraola对签约感到高兴，因为Barcola即将首次亮相",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "18:58",
+    "source": "BBC",
+    "summary": "经理Andoni Iraola讨论了利物浦的转会业务、Bradley Barcola的到来以及Cody Gakpo的留任。",
+    "published_dt_iso": "2026-09-03T18:58:42+08:00"
+  },
+  {
+    "title": "曼城购买昂贵的新中场-但他们是否忽略了哈兰德的掩护？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "06:07",
+    "source": "BBC",
+    "summary": "曼城已经完成了一场阵容大修，包括一个完全改造的中场，达到了英超联赛创纪录的4.58亿英镑，但这个令人垂涎的数字并没有说明全部情况。",
+    "published_dt_iso": "2026-09-03T06:07:52+08:00"
+  },
+  {
+    "title": "埃弗顿截止日期的崩溃如何让业主面临粉丝叛变",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9861n79kepo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-02",
+    "published_time": "20:33",
+    "source": "BBC",
+    "summary": "首席足球作家菲尔·麦克纳尔蒂（ Phil McNulty ）表示，埃弗顿（ Everton ）因Folarin Balogun而导致的转会截止日期崩溃让业主弗里德金（ The Fried",
+    "published_dt_iso": "2026-09-02T20:33:25+08:00"
+  },
+  {
+    "title": "深夜转移尘埃火花切尔西-摩纳哥排",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1wx0g1npn9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-02",
+    "published_time": "22:48",
+    "source": "BBC",
+    "summary": "切尔西、埃弗顿和摩纳哥在截止日期的深夜戏剧之后都错过了。Nizaar Kinsella报道。",
+    "published_dt_iso": "2026-09-02T22:48:09+08:00"
+  },
+  {
+    "title": "种族主义滥用新签约的Vaz令人憎恶",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "18:28",
+    "source": "BBC",
+    "summary": "赫尔城在宣布签约时批评了针对新签约的Robinio Vaz的“令人憎恶的种族主义虐待”。",
+    "published_dt_iso": "2026-09-03T18:28:25+08:00"
+  },
+  {
+    "title": "夏季最昂贵的20种接送服务",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-02",
+    "published_time": "19:59",
+    "source": "BBC",
+    "summary": "从恩佐·费尔南德斯（ Enzo Fernandez ）到马克森斯·拉克鲁瓦（ Maxence Lacroix ） ，英国广播公司体育（ BBC S",
+    "published_dt_iso": "2026-09-02T19:59:58+08:00"
+  },
+  {
+    "title": "寻找年轻球员如何推动英超联赛的内部转会市场",
+    "link": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-teenagers",
+    "date": "2026-09-03",
+    "published_time": "17:00",
+    "source": "卫报",
+    "summary": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+    "published_dt_iso": "2026-09-03T17:00:49+08:00"
+  },
+  {
+    "title": "Azeez到Andrés ：七个英超联赛截止日期优惠",
+    "link": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
+    "date": "2026-09-03",
+    "published_time": "17:00",
+    "source": "卫报",
+    "summary": "Azeez是一名18岁的球员，曾参加过两场主要的国际锦标赛，也是该部门上赛季的顶级间隙制造者。Azeez是一名棘手、令人兴奋、快速和多才多艺的中场球员，在过去的两个赛季中，他在与米尔沃尔的锦标赛中证明了自己，现在应该有机会在顶级联赛中测试自己。继续阅读...",
+    "published_dt_iso": "2026-09-03T17:00:49+08:00"
+  },
+  {
+    "title": "尼泊尔外长希西尔感谢中国紧急援助支持   强调不会向中国等国家寻求“气候正义赔偿”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-03/10689839.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:40",
+    "source": "中国新闻网",
+    "summary": "9月3日，中国驻尼泊尔大使张茂明会见尼泊尔外交部长希西尔。",
+    "published_dt_iso": "2026-09-03T20:40:18+08:00"
+  },
+  {
+    "title": "在莫斯科国际书展“阅读中国”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-03/10689816.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:38",
+    "source": "中国新闻网",
+    "summary": "中新社莫斯科9月3日电 (记者 田冰)30多家出版单位、60多位出版人、10余位作家和学者，2000余种、近5000册精品图书，在2日开幕的第39届莫斯科国际书展上，主宾国中国以“阅读中国”为主题，为俄罗斯读者打开一扇跨越语言与国界的窗口，搭建双方作品译介、出版合作的平台和桥梁。",
+    "published_dt_iso": "2026-09-03T20:38:52+08:00"
+  },
+  {
+    "title": "“为企办实事”落地有声 浙江经济高质量发展的增量密码",
+    "link": "https://www.chinanews.com.cn/cj/2026/09-03/10689831.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:30",
+    "source": "中国新闻网",
+    "summary": "中新网丽水9月3日电(傅飞扬)地处浙西南，“九山半水半分田”的丽水属于浙江发展队列中的“小个子”。",
+    "published_dt_iso": "2026-09-03T20:30:05+08:00"
+  },
+  {
+    "title": "中国政府第三批紧急援助物资运抵尼泊尔",
+    "link": "http://www.chinanews.com.cn/tp/hd2011/2026/09-03/1203083.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:30",
+    "source": "中国新闻网",
+    "summary": "",
+    "published_dt_iso": "2026-09-03T20:30:00+08:00"
+  },
+  {
+    "title": "加纳足协官宣：葡萄牙籍名帅奎罗斯二度出任加纳国家队主帅",
+    "link": "https://www.chinanews.com.cn/ty/2026/09-03/10689805.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:27",
+    "source": "中国新闻网",
+    "summary": "中新社北京9月3日电 阿克拉消息，当地时间9月3日，加纳足球协会发布公告，宣布与葡萄牙籍名帅奎罗斯达成协议，奎罗斯将在新任期继续执掌有着“黑星”美誉的加纳国家队。",
+    "published_dt_iso": "2026-09-03T20:27:31+08:00"
+  },
+  {
+    "title": "山西：深耕数字乡村建设  用科技赋能乡村共富",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-03/10689828.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "summary": "中新网太原9月3日电 题：山西：深耕数字乡村建设 用科技赋能乡村共富",
+    "published_dt_iso": "2026-09-03T20:26:47+08:00"
+  },
+  {
+    "title": "“远海丝路”轮试航：全球首艘数字交付+甲醇双燃料超大型矿砂船",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-03/10689829.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "summary": "中新网扬州9月3日电 (陈菊琴 徐宝龙)9月3日，全球首艘搭载船舶数字化交付系统的32.5万吨甲醇双燃料超大型矿砂船(VLOC)“远海丝路”轮，在扬州海事部门全程精准保障下安全离泊码头，进入锚地，正式开启海上试航之旅。",
+    "published_dt_iso": "2026-09-03T20:26:17+08:00"
+  },
+  {
+    "title": "海南产经新观察：定安打造百亿级热带食品加工产业集群",
+    "link": "https://www.chinanews.com.cn/cj/2026/09-03/10689830.shtml",
+    "date": "2026-09-03",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "summary": "中新网海口9月3日电 (记者 王晓斌)“建设百亿级热带食品加工产业集群”，成为海南传统农业大县定安县“十五五”发展的新坐标。",
+    "published_dt_iso": "2026-09-03T20:26:05+08:00"
+  },
+  {
+    "title": "聯合國警告可能出現「超大型」厄爾尼諾現象，各國須準備應對",
+    "link": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "20:09",
+    "source": "BBC",
+    "summary": "聯合國世界氣象組織（WMO）警告，這種自然天氣現象可能為全球經濟帶來衝擊。",
+    "published_dt_iso": "2026-09-03T20:09:57+08:00"
+  },
+  {
+    "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "08:24",
+    "source": "BBC",
+    "summary": "例如，同性戀（homosexual）譯成「不同的人」，queer 譯成「變態」，「make love under tree」（直譯應為「在樹下做愛」）譯成「許下終身」。",
+    "published_dt_iso": "2026-09-03T08:24:43+08:00"
+  },
+  {
+    "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "14:01",
+    "source": "BBC",
+    "summary": "美國核動力航空母艦「亞伯拉罕·林肯號」（USS Abraham Lincoln）在海上連續航行250天，現在終於抵達泰國靠岸，近5,000名船員得以休息。",
+    "published_dt_iso": "2026-09-03T14:01:33+08:00"
+  },
+  {
+    "title": "莫迪敦促普京結束烏克蘭戰爭，他能勸得動嗎？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "08:24",
+    "source": "BBC",
+    "summary": "印度經濟高度依賴自俄羅斯進口的折扣石油。自2022年普京發動對烏克蘭的全面入侵以來，莫迪已多次向普京提出過類似的呼籲。",
+    "published_dt_iso": "2026-09-03T08:24:54+08:00"
+  },
+  {
+    "title": "美國公司獲批委內瑞拉油田百年開採權 分析人士迷惑 國民震怒",
+    "link": "https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-02",
+    "published_time": "16:59",
+    "source": "BBC",
+    "summary": "委內瑞拉近期沒有舉行選舉，或者說，沒有任何明確的選舉計劃，這在許多反對者看來是一種背叛。",
+    "published_dt_iso": "2026-09-02T16:59:30+08:00"
+  },
+  {
+    "title": "尼泊爾—西藏泥石流：堰塞湖和冰湖是下一個「定時炸彈」？",
+    "link": "https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-02",
+    "published_time": "08:01",
+    "source": "BBC",
+    "summary": "事發河谷上游已形成兩個堰塞湖。與此同時，原本散佈在喜馬拉雅山區的冰川湖，在災區內有10座被標記為高風險，專家形容它們是「定時炸彈」。",
+    "published_dt_iso": "2026-09-02T08:01:34+08:00"
+  },
+  {
+    "title": "泥石流摧毀西藏吉隆口岸的關鍵幾分鐘",
+    "link": "https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-01",
+    "published_time": "20:01",
+    "source": "BBC",
+    "summary": "吉隆口岸位處西藏與尼泊爾的重要貿易通路之上，中國與尼泊爾兩側各有數以百計外國旅客在泥石流衝擊後下落不明。",
+    "published_dt_iso": "2026-09-01T20:01:05+08:00"
+  },
+  {
+    "title": "數百名水力發電工人受困隧道：尼泊爾地下夢魘",
+    "link": "https://www.bbc.com/zhongwen/articles/crer81r33pno/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-01",
+    "published_time": "12:44",
+    "source": "BBC",
+    "summary": "數百名工人的家屬仍抱持希望，相信受困於尼泊爾特里蘇里河（Trishuli River）沿岸龐大、充滿泥漿的隧道網絡中的親人仍有機會被活著找到。",
+    "published_dt_iso": "2026-09-01T12:44:45+08:00"
+  },
+  {
+    "title": "对于俄罗斯和乌克兰来说，这是一个不断升级的螺旋，没有尽头",
+    "link": "https://www.nytimes.com/2026/09/03/world/europe/russia-ukraine-escalation.html",
+    "date": "2026-09-03",
+    "published_time": "19:35",
+    "source": "纽约时报",
+    "summary": "双方都在使用导弹和无人机，试图打击对方，使其放弃，滋生无休止的人类痛苦。但没有迹象表明两国的决心会减弱。",
+    "published_dt_iso": "2026-09-03T19:35:44+08:00"
+  },
+  {
+    "title": "美国的袭击袭击了伊朗的婚礼，有影响力的人正在悄悄地获得谈论政治的报酬",
+    "link": "https://www.nytimes.com/2026/09/03/podcasts/the-headlines/us-iran-wedding-attack-influencers-politics.html",
+    "date": "2026-09-03",
+    "published_time": "19:17",
+    "source": "纽约时报",
+    "summary": "此外， NBA有史以来最大的惩罚。",
+    "published_dt_iso": "2026-09-03T19:17:01+08:00"
+  },
+  {
+    "title": "格洛丽亚·斯泰纳姆（ Gloria Steinem ） ，妇女运动的化身， 92岁去世",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html",
+    "date": "2026-09-03",
+    "published_time": "18:55",
+    "source": "纽约时报",
+    "summary": "她挑战了性别歧视的假设，帮助女性发展自我价值感，并在工作、家庭和整个社会中获得一定程度的平等。",
+    "published_dt_iso": "2026-09-03T18:55:34+08:00"
+  },
+  {
+    "title": "格洛丽亚·斯泰纳姆（ Gloria Steinem ）来到纽约成为一名作家。她变成了一场运动。",
+    "link": "https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html",
+    "date": "2026-09-03",
+    "published_time": "20:14",
+    "source": "纽约时报",
+    "summary": "她1983年的著作《令人发指的行为和日常叛乱》（ Outrageous Acts and Everyday Rebellions ）是一门关于勇气、同理心、好奇心和喧嚣的大师班。",
+    "published_dt_iso": "2026-09-03T20:14:28+08:00"
   }
 ]
