@@ -72,8 +72,8 @@ title: 飞行演示
           <span class="spec-val">STM32F405 + 凌霄飞控系统 (Lingxiao FC)</span>
         </div>
         <div class="spec-mini-item">
-          <span class="spec-label">空间定位基准</span>
-          <span class="spec-val" id="detail-spec-pos">机载下视光流 + 单目视觉解算</span>
+          <span class="spec-label">空间定位与速度基准</span>
+          <span class="spec-val" id="detail-spec-pos">Intel RealSense T265 (直接输出坐标与速度反馈)</span>
         </div>
       </div>
     </div>
@@ -229,10 +229,10 @@ title: 飞行演示
           <td>图像实时采集、靶标检测跟踪、透视矫正与高层航线决策</td>
         </tr>
         <tr>
-          <td><strong>空间定位系统</strong></td>
+          <td><strong>空间定位与速度测量</strong></td>
           <td><code>Intel RealSense T265</code></td>
-          <td>双目鱼眼 + BMI055 IMU 硬件融合</td>
-          <td>在无 GPS 的复杂室内电赛场馆中提供毫米级 VIO 空间坐标</td>
+          <td>双目鱼眼 + 硬件级 VIO 惯导解算</td>
+          <td>机身自身三维坐标与飞行速度直接输出，全自主导航无需外部动捕或光流</td>
         </tr>
         <tr>
           <td><strong>高度与避障测距</strong></td>
@@ -262,9 +262,9 @@ const videoList = [
       { text: "⚡ 9.8 MB (FastStart)", cls: "" },
       { text: "OpenCV 视觉闭环", cls: "" }
     ],
-    desc: "无人机自主起飞后沿预设搜索航线巡航，机载下视摄像头采集地面画面。图像算法采用 OpenCV 进行实时畸变矫正、自适应二值化与透视变换，准确定位二维码几何中心并解析位姿误差。上位机通过高速串口将位移偏差传递至 STM32 飞控的 PID 控制环，实现机身平稳减速逼近并在靶标正中心执行精准垂直软着陆。",
+    desc: "无人机自主起飞后沿预设搜索航线巡航，机载下视摄像头采集地面画面。图像算法采用 OpenCV 进行实时畸变矫正、自适应二值化与透视变换，准确定位二维码几何中心并解析位姿误差。上位机通过高速串口将位移偏差传递至 STM32 凌霄飞控的 PID 控制环，实现机身平稳减速逼近并在靶标正中心执行精准垂直软着陆。",
     algo: "透视变换 / 位姿估计 / 闭环纠偏",
-    pos: "机载下视光流 + 单目视觉解算"
+    pos: "Intel RealSense T265 (直接输出自身坐标与速度反馈)"
   },
   {
     title: "🔥 火源目标识别与协同处理",
@@ -278,7 +278,7 @@ const videoList = [
     ],
     desc: "针对赛题设定的火源标靶，机载边缘处理器通过 HSV 动态色彩空间过滤结合多重矩特征提取，在复杂光照背景下实现毫秒级火源轮廓锁定。任务调度器采用有限状态机（FSM）管理搜索、逼近、悬停与灭火抛投全流程，保证了动作执行的确定性与容错能力。",
     algo: "HSV 色彩分割 / 几何多矩融合 / 有限状态机调度",
-    pos: "光流传感器 + 激光测距复合测高"
+    pos: "Intel RealSense T265 (直接输出自身空间坐标与速度反馈)"
   },
   {
     title: "🎯 复杂多障碍绕杆连续巡航",
@@ -292,7 +292,7 @@ const videoList = [
     ],
     desc: "无人机在室内电赛密集标杆场地中，根据预载的坐标拓扑在线解算三次样条曲线（Cubic Spline）。飞控算法在航行中实现自适应速度前瞻与偏航角解耦控制，在高速过弯时将向心加速度对姿态传感器的惯性冲击降到最低，平顺完成全场地连续障碍环绕。",
     algo: "三次样条插值 / 自适应速度前瞻 / 抗侧倾姿态解耦",
-    pos: "RealSense T265 视觉惯性里程计 (VIO)"
+    pos: "Intel RealSense T265 (6自由度空间位姿与速度直接输出)"
   },
   {
     title: "🛬 VIO 辅助室内高精度柔性着陆",
@@ -306,7 +306,7 @@ const videoList = [
     ],
     desc: "在全封闭电赛室内场地，完全无外部卫星导航条件下，系统利用 Intel RealSense T265 硬件底层融合的双目视觉特征点与高频 IMU 数据，抑制悬停阶段的漂移量在毫米级别。配合底部高频 ToF 激光定高，在着陆阶段分段递减油门输出，彻底杜绝机身弹跳。",
     algo: "多传感器扩展卡尔曼滤波 (EKF) / 分段衰减着陆策略",
-    pos: "Intel RealSense T265 (6自由度 VIO)"
+    pos: "Intel RealSense T265 (底层 VIO 直出坐标/速度) + ToF 定高"
   }
 ];
 
