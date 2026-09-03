@@ -205,6 +205,7 @@ python scripts/news_digest.py
 | [N100](https://github.com/LONEFORME/N100) | ROS2 激光雷达驱动 + Point-LIO / SLAM Toolbox |
 | [ZCodeProject](https://github.com/LONEFORME/ZCodeProject) | 综合视觉识别系统 |
 | [xiyue-drone](https://github.com/LONEFORME/xiyue-drone) | 2025 年电赛无人机方案 |
+| [lingxiao-drone](https://github.com/LONEFORME/lingxiao-drone) | 凌霄飞控无人机方案（ANO_LX 全栈工程与电赛资料） |
 | [3d-models](https://github.com/LONEFORME/3d-models) | 3D 打印模型库 |
 
 ---

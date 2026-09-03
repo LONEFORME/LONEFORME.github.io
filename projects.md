@@ -86,6 +86,22 @@ title: 项目
 
   <div class="card-grid">
     <div class="card">
+      <div class="card-icon-box" style="--icon-color: #00ff88; --icon-glow: rgba(0,255,136,0.25);">
+        <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="4"/><circle cx="4" cy="4" r="2.5"/><circle cx="20" cy="4" r="2.5"/><circle cx="4" cy="20" r="2.5"/><circle cx="20" cy="20" r="2.5"/></svg>
+      </div>
+      <h3>凌霄飞控无人机方案</h3>
+      <p>基于匿名凌霄飞控（ANO_LX）的全国电赛全栈开发体系与实战工程，支持多主控平台与硬件级 VIO 空间导航。</p>
+      <div class="card-details">
+        • 匿名凌霄飞控官方源码（STM32F407 / MSP432 / TM4C123）<br>
+        • 匿名通信协议 V7 + 独立硬件 IMU 减震固件（.ano）<br>
+        • 嘉楠 K230 边缘视觉端侧 AI + T265 硬件级 VIO 坐标/速度直出<br>
+        • 下视激光 ToF 垂直定高 + 历年电赛参考（2022-HUST / NUEDC-2024-D / UAV-2023）
+      </div>
+      <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
+      <a href="https://github.com/LONEFORME/lingxiao-drone" target="_blank" rel="noopener" class="card-link">GitHub</a>
+    </div>
+
+    <div class="card">
       <div class="card-icon-box" style="--icon-color: #f59e0b; --icon-glow: rgba(245,158,11,0.25);">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="4"/><circle cx="4" cy="4" r="2.5"/><circle cx="20" cy="4" r="2.5"/><circle cx="4" cy="20" r="2.5"/><circle cx="20" cy="20" r="2.5"/></svg>
       </div>
