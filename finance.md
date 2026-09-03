@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,482.47</span>
-      <span class="ticker-change down">▼ -0.77%</span>
+      <span class="ticker-price ticker-down">4,468.48</span>
+      <span class="ticker-change down">▼ -1.08%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7174</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.7187</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,472.65</span>
-      <span class="ticker-change up">▲ +0.04%</span>
+      <span class="ticker-price ticker-up">$4,491.06</span>
+      <span class="ticker-change up">▲ +0.01%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,8 +216,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">4 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="联合国世界气象组织（WMO）警告，这种自然天气现象可能为全球经济带来冲击。" data-title="联合国警告可能出现“超大型”厄尔尼诺现象，各国须准备应对" data-date="09-03 20:09" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 20:09</span>
+          <span class="news-item-title">联合国警告可能出现“超大型”厄尔尼诺现象，各国须准备应对</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689803.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月3日电(向一鹏 戚宁)2026第十八届湖南茶业博览会(下称“茶博会”)组委会3日宣布，本届茶博会将于9月11日至14日在长沙举行，将吸引1500余家茶业及产业链关联企业参展。" data-title="1500余家企业将参展第十八届湖南茶博会 设湘台茶业交流专区" data-date="09-03 19:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 19:58</span>
+          <span class="news-item-title">1500余家企业将参展第十八届湖南茶博会 设湘台茶业交流专区</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689799.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西安9月3日电 (李一璠)9月3日，陕西省人民政府国际高级经济顾问会议第十三届会议在西安召开。本届会议以“开放聚智 协同发展 共享共建内陆改革开放高地”为主题，吸引了来自全球12个国家和地区的43家顾问单位代表参会交流。" data-title="陕西省人民政府国际高级经济顾问会议第十三届会议在西安召开" data-date="09-03 19:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 19:53</span>
+          <span class="news-item-title">陕西省人民政府国际高级经济顾问会议第十三届会议在西安召开</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/aseaninfo/2026/09-03/10689466.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南宁9月3日电 (林浩)9月3日，广西壮族自治区商务厅副厅长李硕接受媒体采访时表示，作为2026年中国国际服务贸易交易会的主宾省，广西将首次推动桂京琼三地联动，与东盟各国共建服务贸易开放合作高地。" data-title="广西将推动桂京琼三地联动 与东盟各国共建服务贸易开放合作高地" data-date="09-03 14:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -255,4 +273,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-03 14:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-03 20:12（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
