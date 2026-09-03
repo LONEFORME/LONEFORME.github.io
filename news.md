@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-03 00:43 抓取更新</span>
+      <span>2026-09-03 14:35 抓取更新</span>
     </div>
   </div>
 
@@ -25,11 +25,11 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">43</span>
+        <span class="channel-count">47</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">14</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
@@ -37,11 +37,11 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">10</span>
+        <span class="channel-count">12</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
-        <span class="channel-count">3</span>
+        <span class="channel-count">4</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
         <span>🌍 西方媒体视角</span>
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这件高耸的艺术品于 2019 年添加到校园中，在特朗普总统接管该中心后，它被计划拆除。" data-title="肯尼迪中心开始拆除户外“蓝色”雕塑" data-date="09-03 00:35" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/txy/2026/09-03/10689479.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网上海9月3日电(范宇斌)近日，“凝新聚力 益启新程”——上海市新的社会阶层人士志愿公益日主题活动在上海市黄浦区举行。上海市委统战部副部长、上海市工商联党组书记张峰，“新善安徽”“新善江苏”代表等参加活动。" data-title="上海新阶层志愿公益日举办 启动“新善长三角联动”机制" data-date="09-03 14:31" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 09-03 00:35</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 09-03 14:31</span>
       </div>
-      <h2 class="hero-featured-title">肯尼迪中心开始拆除户外“蓝色”雕塑</h2>
+      <h2 class="hero-featured-title">上海新阶层志愿公益日举办 启动“新善长三角联动”机制</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在一项期待已久的决定中，一名联邦法官表示谷歌必须改变其广告技术业务以解决反垄断问题，但没有透露具体措施。" data-title="法院裁定，谷歌不必拆分其广告技术业务，这是一场巨大的胜利" data-date="09-03 00:37" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.ithome.com/0/997/909.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，新款捷尼赛思 G80 汽车今日正式上市：豪华版尊享礼遇价 289,860 元起旗舰版尊享礼遇价 399,240 元起此外，该车在 2026 年 9 月内可享首付低至 10% 起、36 期年利率低至 0.88%。新款捷尼赛思 G80 尺寸为 5,005 x 1,925 x 1,465mm，轴距 3,010mm，配备灵感之翼 LED 大灯、捷尼赛思照地灯、全景天窗，最高可选 20 英寸钛金轮毂 &amp; 前轮（四活塞）刹车卡钳。动力方面，该车搭载 2.5T 涡轮增压四缸汽油发动机 + 8 速自动变速箱，支持后驱（RWD）/全时四驱（AWD），最大马力 304Ps，最大扭矩 422N·m，选装的 AWD 全时四驱系统可随不同驾驶模式主动分配前后驱动力。内饰方面，该车搭载 2" data-title="新款捷尼赛思 G80 汽车上市：2.5T 可选四驱、27 英寸一体大屏，28.986 万元起" data-date="09-03 14:31" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">法院裁定，谷歌不必拆分其广告技术业务，这是一场巨大的胜利</p>
+      <p class="hero-sub-title">新款捷尼赛思 G80 汽车上市：2.5T 可选四驱、27 英寸一体大屏，28.986 万元起</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在转会市场上的支出创下纪录之后，英格兰顶级俱乐部已经扩大了与欧洲同行的差距。英超俱乐部今年夏天在球员身上的投资超过34亿英镑，比去年增加了11.9%。这笔巨额支出的三个方面值得更仔细地审视。继续阅读..." data-title="英超转会谈话要点：我们从数据中学到的三件事" data-date="09-02 23:29" data-source="卫报">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城已经完成了阵容改革，其中包括对中场进行全面改造，耗资创英超纪录的 4.58 亿英镑，但这个令人眼花缭乱的数字并不能说明全部情况。" data-title="曼城斥巨资购买新中场——但他们忽视了哈兰德的补防吗？" data-date="09-03 06:07" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">英超转会谈话要点：我们从数据中学到的三件事</p>
+      <p class="hero-sub-title">曼城斥巨资购买新中场——但他们忽视了哈兰德的补防吗？</p>
     </a>
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="自 1953 年以来，首席大法官小约翰·G·罗伯茨 (John G. Roberts Jr.) 在分案案件中获得多数票的次数比任何其他首席大法官都多。但这次不同。" data-title="在特朗普的宴会厅上，首席大法官发现自己处于一个不寻常的位置：持异议" data-date="09-02 23:43" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.ithome.com/0/997/908.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 3 日消息，据 ABC 新闻昨日报道，澳大利亚新南威尔士州警方近期破获一起针对苹果礼品卡的诈骗案，一名涉案 32 岁男子已于 2026 年 7 月被定罪。该案牵出全球性的有组织犯罪网络，涉案手法涉及礼品卡编码盗取、货架调包甚至跨国洗钱等更严重的犯罪活动。新南威尔士州 Campsie 警区指挥部于 2025 年 5 月 9 日对嫌疑人位于悉尼 Eastwood 的住所进行搜查时查获 56 张价值 100 至 500 澳元（现汇率约合 481.2 至 2,406 元人民币）不等的苹果礼品卡，另有 9 张在其车中发现，总案值超过 1 万澳元（IT之家注：现汇率约合 48,117 元人民币）。法庭文件显示，该男子于 2025 年 4 月接受警方监控，期间被多次发现出入悉尼及新州南部" data-title="苹果礼品卡全球诈骗案告破：犯罪团伙窃取兑换码后重新封装，全美前 20 大零售商均遭波及" data-date="09-03 14:31" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">在特朗普的宴会厅上，首席大法官发现自己处于一个不寻常的位置：持异议</p>
+      <p class="hero-sub-title">苹果礼品卡全球诈骗案告破：犯罪团伙窃取兑换码后重新封装，全美前 20 大零售商均遭波及</p>
     </a>
   </div>
 </div>
@@ -101,8 +101,80 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">14 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/txy/2026/09-03/10689479.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网上海9月3日电(范宇斌)近日，“凝新聚力 益启新程”——上海市新的社会阶层人士志愿公益日主题活动在上海市黄浦区举行。上海市委统战部副部长、上海市工商联党组书记张峰，“新善安徽”“新善江苏”代表等参加活动。" data-title="上海新阶层志愿公益日举办 启动“新善长三角联动”机制" data-date="09-03 14:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 14:31</span>
+          <span class="news-item-title">上海新阶层志愿公益日举办 启动“新善长三角联动”机制</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689475.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网重庆9月3日电 (张旭)2026重庆秋季房地产暨家居展示交易会(以下简称“2026重庆秋交会”)线下展会9月3日在重庆市两江新区观音桥步行街正式启幕，线下展会为期4天。" data-title="2026重庆秋交会线下展会正式启幕" data-date="09-03 14:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 14:29</span>
+          <span class="news-item-title">2026重庆秋交会线下展会正式启幕</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-03/10689416.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月3日电 综合外媒报道，23岁大学生马尔科·塔皮亚在澳大利亚悉尼一处住宅中遭枪击身亡。新南威尔士州警察局长表示，这起袭击可能是一起“认错人”事件。" data-title="悉尼发生疑似“认错人”引发的致命枪击案 23岁大学生身亡" data-date="09-03 14:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 14:27</span>
+          <span class="news-item-title">悉尼发生疑似“认错人”引发的致命枪击案 23岁大学生身亡</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-03/10689474.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月3日电 (记者 郭超凯)民政部养老服务司副司长张军3日在北京表示，民政部4月会同国家消防救援局部署开展养老机构从业人员消防基本技能实操实训工作，明确到年底前实现从业人员全覆盖培训。" data-title="民政部：到年底前实现养老机构从业人员消防技能培训全覆盖" data-date="09-03 14:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 14:25</span>
+          <span class="news-item-title">民政部：到年底前实现养老机构从业人员消防技能培训全覆盖</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/aseaninfo/2026/09-03/10689471.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="2026年01月至07月云南省进出口产终国别及地区总值表.xlsx" data-title="2026年01月至07月云南省进出口产终国别及地区总值表" data-date="09-03 14:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 14:22</span>
+          <span class="news-item-title">2026年01月至07月云南省进出口产终国别及地区总值表</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-03/10689470.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网纽约9月3日电 (记者 王帆)当地时间9月2日，中国驻纽约总领馆在纽约哈佛俱乐部举办“我们的共同期待”中美关系交流会，邀请来自各行各业的普通美国人讲述亲身经历的中美交往故事。" data-title="“我们的共同期待”中美关系交流会在纽约举行" data-date="09-03 14:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 14:21</span>
+          <span class="news-item-title">“我们的共同期待”中美关系交流会在纽约举行</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/podcasts/the-nba-brings-the-hammer-on-kawhi-leonard-and-the-clippers.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="为什么联盟调查人员不相信美国体育界最富有的老板。" data-title="NBA 向科怀·伦纳德和快船队发出重锤" data-date="09-03 10:17" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 10:17</span>
+          <span class="news-item-title">NBA 向科怀·伦纳德和快船队发出重锤</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/us/politics/white-house-bowling-alley-renovation.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="白宫发言人表示，胡同整修工程包括修复破损的灯。该项目是在总统寻求对白宫及其周边地区进行全面改革之际推出的。" data-title="白宫计划耗资 25 万美元翻修 2 栋" data-date="09-03 09:08" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 09:08</span>
+          <span class="news-item-title">白宫计划耗资 25 万美元翻修 2 栋</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/us/politics/judge-trump-birthright-citizenship.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这项裁决引发了人们的担忧，即根据总统八月份签署的一项命令，已经被最高法院定义为公民的婴儿可能会被撤销公民身份。" data-title="法官阻止特朗普第二次限制出生公民权的尝试" data-date="09-03 08:26" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 08:26</span>
+          <span class="news-item-title">法官阻止特朗普第二次限制出生公民权的尝试</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="例如，同性恋（homosexual）译成“不同的人”，queer 译成“变态”，“make love under tree”（直译应为“在树下做爱”）译成“许下终身”。" data-title="《肖申克的救赎》中国公映：官方字幕翻译何以引发争议？" data-date="09-03 08:24" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 08:24</span>
+          <span class="news-item-title">《肖申克的救赎》中国公映：官方字幕翻译何以引发争议？</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/video/iran-us-attack-wedding.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="根据武器专家和《泰晤士报》的视觉分析，袭击住宅区的炸弹是美国制造的。伊朗当局称，这起事件造成 5 人死亡、67 人受伤。" data-title="在伊朗小镇，美国的袭击将婚礼变成了悲剧" data-date="09-03 08:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 08:03</span>
+          <span class="news-item-title">在伊朗小镇，美国的袭击将婚礼变成了悲剧</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在经历了六个月的冲突之后，尽管特朗普总统宣布了军事主导地位，但美国似乎越来越陷入伊朗的困境。" data-title="随着与伊朗的战争再次爆发，特朗普回到了熟悉的剧本" data-date="09-03 03:56" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 03:56</span>
+          <span class="news-item-title">随着与伊朗的战争再次爆发，特朗普回到了熟悉的剧本</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这件高耸的艺术品于 2019 年添加到校园中，在特朗普总统接管该中心后，它被计划拆除。" data-title="肯尼迪中心开始拆除户外“蓝色”雕塑" data-date="09-03 00:35" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -121,72 +193,6 @@ title: 热点新闻
           <span class="news-item-date">09-03 00:16</span>
           <span class="news-item-title">美国和伊朗在一夜的猛烈袭击后调查损失</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-03/10689157.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社首尔9月3日电 (记者 金旭)当地时间2日，韩国釜山近海发生一起拖船倾覆事故，造成1人死亡、6人失踪。韩国总统李在明要求调动一切可用资源，全力开展人员救援，并做好善后处置工作。" data-title="韩国釜山近海一拖船倾覆 致1人死亡6人失踪" data-date="09-03 00:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 00:16</span>
-          <span class="news-item-title">韩国釜山近海一拖船倾覆 致1人死亡6人失踪</span>
-        </a>
-        <a class="news-item" href="http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-02/news1067549.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="9月2日17时许，记者抵达西藏吉隆口岸受灾核心区域。国旗飘扬在吉隆口岸联检大楼原址，各方救援人员开展搜救工作。当日上午10时，西藏吉隆泥石流灾害救援通道陆路通道已基本打通，救援人员、救援物资和部分装备已通过陆路通道进入核心区并开展深入救援工作。(李林 贡嘎来松 江飞波 制作 侯诗蕊)" data-title="直击西藏吉隆口岸泥石流受灾核心区 各方救援人员开展搜救工作" data-date="09-02 23:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 23:40</span>
-          <span class="news-item-title">直击西藏吉隆口岸泥石流受灾核心区 各方救援人员开展搜救工作</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/ty/2026/09-02/10689155.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社深圳9月2日电 (记者 张璐 索有为)在深圳举行的2026李宁·中国羽毛球大师赛9月2日进入第二个比赛日，2026年世界羽毛球锦标赛混双冠军、法国组合吉凯尔/德尔吕以0:2不敌中国台北组合刘广珩/许尹鏸，爆冷出局。" data-title="中国羽毛球大师赛：世锦赛混双冠军爆冷出局" data-date="09-02 23:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 23:39</span>
-          <span class="news-item-title">中国羽毛球大师赛：世锦赛混双冠军爆冷出局</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/02/world/asia/nepal-flood-miracle-house-dhunge-bazaar.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="人们纷纷前来拍摄这座被涂成绿色的房子，这栋房子保证了 Pyakurel 一家的安全，因为他们周围的地区都被汹涌的洪水摧毁了。" data-title="尼泊尔洪水中幸存的“奇迹之家”" data-date="09-02 23:21" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-02 23:21</span>
-          <span class="news-item-title">尼泊尔洪水中幸存的“奇迹之家”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10689154.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="“放眼世界，中国可能是唯一兼具‘大’和‘新’两个特点的富有潜力市场。”" data-title="“大”和“新”的中国市场为外企提供机会清单" data-date="09-02 23:10" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 23:10</span>
-          <span class="news-item-title">“大”和“新”的中国市场为外企提供机会清单</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-02/10689116.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间9月2日，埃及总统塞西同中国国家主席习近平在开罗太阳宫举行会谈。两国元首就中东局势深入沟通。习近平指出——" data-title="习言道｜谈及中东局势，习近平提出四点倡议" data-date="09-02 22:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 22:56</span>
-          <span class="news-item-title">习言道｜谈及中东局势，习近平提出四点倡议</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-02/10689153.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="从1.4亿人“全球购”看中国机遇2.0(新视窗)" data-title="从1.4亿人“全球购”看中国机遇2.0" data-date="09-02 22:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-02 22:52</span>
-          <span class="news-item-title">从1.4亿人“全球购”看中国机遇2.0</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cly7r8yrxe5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="现年29岁的民主派活动人士黄之锋，在法庭上承认一项中国《香港国安法》下的“串谋勾结外国势力危害国家安全”罪，判刑押后至另日进行。至今，黄之锋已失去自由逾2,100天。" data-title="黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身" data-date="09-02 22:11" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 22:11</span>
-          <span class="news-item-title">黄之锋“勾结外国势力危害国家安全”案认罪，最高可囚终身</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/02/us/politics/trump-iran-strait-of-hormuz.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="特朗普总统周二呼吁伊朗人“站起来战斗”，因为美国在六个月的冲突后似乎越来越陷入困境。" data-title="随着与伊朗的战争再次爆发，特朗普重返熟悉的剧本" data-date="09-02 22:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-02 22:00</span>
-          <span class="news-item-title">随着与伊朗的战争再次爆发，特朗普重返熟悉的剧本</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/02/us/politics/trump-washington-renovation-projects-approval.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="最高法院为新的白宫宴会厅开了绿灯，但总统在华盛顿的其他几个项目仍然停滞不前。" data-title="谁批准了特朗普的华盛顿改造项目？" data-date="09-02 17:04" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-02 17:04</span>
-          <span class="news-item-title">谁批准了特朗普的华盛顿改造项目？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5y4rkd5zepo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="委内瑞拉近期没有举行选举，或者说，没有任何明确的选举计划，这在许多反对者看来是一种背叛。" data-title="美国公司获批委内瑞拉油田百年开采权 分析人士迷惑 国民震怒" data-date="09-02 16:59" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 16:59</span>
-          <span class="news-item-title">美国公司获批委内瑞拉油田百年开采权 分析人士迷惑 国民震怒</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -194,103 +200,115 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在一项期待已久的决定中，一名联邦法官表示谷歌必须改变其广告技术业务以解决反垄断问题，但没有透露具体措施。" data-title="法院裁定，谷歌不必拆分其广告技术业务，这是一场巨大的胜利" data-date="09-03 00:37" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-03 00:37</span>
-          <span class="news-item-title">法院裁定，谷歌不必拆分其广告技术业务，这是一场巨大的胜利</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit" target="_blank" rel="noopener" data-cat="keji" data-summary="特朗普政府干预了《纽约时报》对OpenAI的版权诉讼，提出了支持人工智能实验室的论点。这起具有里程碑意义的诉讼于2023年12月提起，指控OpenAI非法使用《纽约时报》的文章对其人工智能系统进行培训，并试图从[…]获得“数十亿美元”的赔偿。" data-title="特朗普政府正在纽约时报版权诉讼中支持OpenAI" data-date="09-03 00:12" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-03 00:12</span>
-          <span class="news-item-title">特朗普政府正在纽约时报版权诉讼中支持OpenAI</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/708.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，当地时间 9 月 2 日，谷歌宣布推出 Gemini 3.8 Flash Cyber 模型，通过 Fairwind 计划面向首批受信任的安全防护团队开放。官方表示，在针对漏洞挖掘的行业权威基准测试 CyberGym 上，Gemini 3.8 Flash Cyber 展现出了顶尖水平的自主漏洞挖掘能力。不仅超越了前代 3.5 Flash Cyber，还将多款体量显著更大的前沿模型甩在身后。谷歌在更全面的内部基准测试中对 Gemini 3.8 Flash Cyber 进行了评测。该测试要求模型在涵盖 20 种编程语言的复杂代码工程中，挖掘各类型的安全漏洞。结果表明，该模型相较于谷歌此前的模型实现了大幅跨越，漏洞挖掘成功率突破了 70%。谷歌表示，在研发 Gemini" data-title="谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护" data-date="09-03 00:09" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/0/997/909.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，新款捷尼赛思 G80 汽车今日正式上市：豪华版尊享礼遇价 289,860 元起旗舰版尊享礼遇价 399,240 元起此外，该车在 2026 年 9 月内可享首付低至 10% 起、36 期年利率低至 0.88%。新款捷尼赛思 G80 尺寸为 5,005 x 1,925 x 1,465mm，轴距 3,010mm，配备灵感之翼 LED 大灯、捷尼赛思照地灯、全景天窗，最高可选 20 英寸钛金轮毂 &amp; 前轮（四活塞）刹车卡钳。动力方面，该车搭载 2.5T 涡轮增压四缸汽油发动机 + 8 速自动变速箱，支持后驱（RWD）/全时四驱（AWD），最大马力 304Ps，最大扭矩 422N·m，选装的 AWD 全时四驱系统可随不同驾驶模式主动分配前后驱动力。内饰方面，该车搭载 2" data-title="新款捷尼赛思 G80 汽车上市：2.5T 可选四驱、27 英寸一体大屏，28.986 万元起" data-date="09-03 14:31" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-03 00:09</span>
-          <span class="news-item-title">谷歌推出 Gemini 3.8 Flash Cyber 模型，内部已全面部署用于代码安全防护</span>
+          <span class="news-item-date">09-03 14:31</span>
+          <span class="news-item-title">新款捷尼赛思 G80 汽车上市：2.5T 可选四驱、27 英寸一体大屏，28.986 万元起</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/software/windows/microsoft-will-expand-windows-11-memory-integrity-feature-to-more-pcs-starting-in-october-security-feature-reduces-gaming-performance-on-some-systems" target="_blank" rel="noopener" data-cat="keji" data-summary="微软将于 10 月份开始通过质量更新在更多符合条件的 Windows PC 上默认启用内存完整性，扩大内核级保护，同时为之前禁用该功能的用户保留现有的退出选项。" data-title="微软将从 10 月份开始将 Windows 11 内存完整性功能扩展到更多 PC——安全功能会降低某些系统上的游戏性能" data-date="09-03 00:07" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.ithome.com/0/997/907.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，科技媒体 Neowin 昨日（9 月 2 日）发布博文，报道称微软发布 1.136 版 Visual Studio Code 后，宣布将推出官方纪录片《The Story of VS Code》。IT之家附上《The Story of VS Code》预告片如下：该纪录片将于太平洋时间 9 月 4 日周五 8:00（北京时间明日周五晚上 23:00）通过 Visual Studio Code 官方 YouTube 频道播放，主要回顾过去 10 年（VS Code 1.0 于 2016 年 4 月发布）发展历程。这部纪录片由 Stefan Kingham 执导，通过 VS Code 原始开发团队成员及全球开发者社区的亲历叙述，讲述这款编辑器从瑞士苏黎世的初创项目成" data-title="微软 VS Code 纪录片明日开播，聚焦 10 年演变与 AI 适配" data-date="09-03 14:21" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-03 00:07</span>
-          <span class="news-item-title">微软将从 10 月份开始将 Windows 11 内存完整性功能扩展到更多 PC——安全功能会降低某些系统上的游戏性能</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 14:21</span>
+          <span class="news-item-title">微软 VS Code 纪录片明日开播，聚焦 10 年演变与 AI 适配</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/" target="_blank" rel="noopener" data-cat="keji" data-summary="Wonderful表示，将利用其5.5亿美元的C轮融资来更快地开发产品、扩大其FDE团队并满足对其产品的需求。" data-title="在6个月内将估值提高一倍以上，达到50亿$" data-date="09-03 00:04" data-source="TechCrunch">
+        <a class="news-item" href="https://www.ithome.com/0/997/906.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，Fractal Design（分形工艺）昨日宣布推出处理器一体式 (AIO) 液冷散热器新品 Radius。这一新品可选 240 与 360 版本，提供 RGB 与非 RGB 款式。Radius 系列在提供良好性能的同时采用了预装风扇、预涂导热膏的 DIY 友好设计，管内走线、菊链风扇、旋转水泵盖以及 Adjust Pro 网页端灯效控制则进一步改善了使用体验。其搭载铜制冷头、陶瓷轴承 PWM 水泵、铝制冷排、Dynamic 3 来福轴承风扇，水泵压力 2.1mmAq、噪声 17.6 dB(A)、寿命 40000hr，享受 5 年质保。IT之家在此整理 Fractal Design Radius 各版本定价：240 Black：579 元；240 RGB Bla" data-title="分形工艺推出 Radius 处理器 AIO 液冷：管内走线 + 菊链风扇" data-date="09-03 14:20" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 14:20</span>
+          <span class="news-item-title">分形工艺推出 Radius 处理器 AIO 液冷：管内走线 + 菊链风扇</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/905.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，小米官方今日宣布，小米 18 Fold 中折叠手机搭载徕卡专业三摄，通过徕卡光学 Summilux 镜头可实现画质纯净通透。具体配置如下：徕卡 2 亿超清主摄，1/1.56″大底传感器，细节拉满徕卡 5000 万潜望长焦，3.5 倍光学变焦，人景皆宜徕卡 5000 万超广角，宽广视野，张力十足据介绍，小米 18 Fold 中折叠手机采用极窄四等边 + 超椭圆大 R 角设计，主打“线条优雅”；后置跑道型 Deco + 侧边纯平包裹式中框，主打“利落纯粹”。IT之家注意到，在小米 18 Fold 的跑道型 Deco 上还印有 LEICA 标识。IT之家整理小米 18 Fold 中折叠旗舰手机目前已公开信息如下：性能：首发搭载玄戒 O3 AI 旗舰 SoC，安兔兔跑分" data-title="雷军：小米 18 Fold 中折叠手机官宣搭载徕卡专业三摄，拥有光学 Summilux 镜头" data-date="09-03 14:16" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 14:16</span>
+          <span class="news-item-title">雷军：小米 18 Fold 中折叠手机官宣搭载徕卡专业三摄，拥有光学 Summilux 镜头</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/888.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，据韩媒《朝鲜日报》当地时间今日报道，韩国电力公社 (KEPCO) 近期向三星电子、SK 海力士提议分别收取 20 万亿韩元（现汇率约合 980.6 亿元人民币）与 5 万亿韩元（现汇率约合 245.15 亿元人民币）的预付款（IT之家注：合计的 25 万亿韩元在当前汇率下约合 1,225.75 亿元人民币）。根据韩国电力公社的计划，本次预付协议覆盖 2027~2031 年，金额规模大致是两家企业去年电费的 5 倍。韩国电力公社希望两家半导体企业在一年内缴清预付款；韩国电力公社在协议执行期间将为尚未被抵扣的部分支付高于两年期韩国国债利率的利息。图源：韩国电力公社 (KEPCO) 官网报道指出，韩国电力公社之所以提议大额预付款，一方面是因为其需要为该国龙仁、湖南两大" data-title="韩国电力公社提议三星电子、SK 海力士支付合计 25 万亿韩元预付款" data-date="09-03 14:03" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 14:03</span>
+          <span class="news-item-title">韩国电力公社提议三星电子、SK 海力士支付合计 25 万亿韩元预付款</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/882.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，微软于 9 月 1 日更新 Windows 健康控制台，承认适用于 Windows 11 的 8 月可选更新存在光标样式失效问题，并已确认问题根源。Windows 11 26H1 安装 8 月可选更新 KB5120996 后版本号升至 Build 28000.2804；而 24H2/25H2 安装 KB5120998 后版本号升至 26x00.9278。IT之家曾于 8 月 30 日报道，部分 Windows 11 用户安装 8 月可选更新 KB5120998 后，反馈遇到自定义鼠标指针或光标动画间歇性恢复为标准设置的情况，部分高 DPI 光标可能被替换为较大的白色光标，且用户尝试恢复原有设置未必成功。微软官方更新支持文档，已经确定问题根源：经过我们的调查，这个" data-title="微软承认 Win11 八月可选更新导致光标样式失效 / 桌面壁纸黑屏" data-date="09-03 14:01" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 14:01</span>
+          <span class="news-item-title">微软承认 Win11 八月可选更新导致光标样式失效 / 桌面壁纸黑屏</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="美国核动力航空母舰“亚伯拉罕·林肯号”（USS Abraham Lincoln）在海上连续航行250天，现在终于抵达泰国靠岸，近5,000名船员得以休息。" data-title="美国航母“林肯号”航行250天终抵泰国，这是我们目前知道的情况" data-date="09-03 14:01" data-source="BBC">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 14:01</span>
+          <span class="news-item-title">美国航母“林肯号”航行250天终抵泰国，这是我们目前知道的情况</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/997/879.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 3 日消息，在网络平台交易中，商家操作失误多充值金额到消费者账户，面对账户内不属于自己的充值余额，消费者可以享受“天上掉下来的馅饼”吗？湖南长沙宁乡市人民法院 9 月 1 日发文，该法院近日审理并宣判了一起不当得利纠纷案。李某因自身网络经营店铺的营销推广需求，多次向上海某科技公司购买推广服务，李某向该公司平台充值后，便可使用该充值金额在平台消费，购买相应服务内容。2025 年 9 月 27 日，李某向上海某科技公司转款 1000 元用于平台充值。上海某科技公司的工作人员在完成该 1000 元的充值后，因操作失误，将他人的充值账号 ID 号 26419*******5792 作为充值金额再次向李某的账户进行充值。其后，李某将该账户的金额用于平台消费。2025 年 10 月 1" data-title="充 1000 元到账 26419933 亿余元：平台误将账号当成充值金额，用户挥霍 25 万后法院判决需返还" data-date="09-03 13:59" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 13:59</span>
+          <span class="news-item-title">充 1000 元到账 26419933 亿余元：平台误将账号当成充值金额，用户挥霍 25 万后法院判决需返还</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/483565.html" target="_blank" rel="noopener" data-cat="keji" data-summary="从工厂一路干到家庭" data-title="一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠" data-date="09-03 11:16" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-03 11:16</span>
+          <span class="news-item-title">一个模型场景通吃！它石智航AWE3.7的泛化能力有点狠</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/483552.html" target="_blank" rel="noopener" data-cat="keji" data-summary="神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光" data-title="神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光" data-date="09-03 09:31" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-03 09:31</span>
+          <span class="news-item-title">神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/483462.html" target="_blank" rel="noopener" data-cat="keji" data-summary="4激光雷达+双M100上车" data-title="50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满" data-date="09-03 09:27" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-03 09:27</span>
+          <span class="news-item-title">50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/483351.html" target="_blank" rel="noopener" data-cat="keji" data-summary="遥操，可能真的危险了" data-title="今年最难的机器人Demo，“机器人含量”为0" data-date="09-03 08:51" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-03 08:51</span>
+          <span class="news-item-title">今年最难的机器人Demo，“机器人含量”为0</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="keji" data-summary="Builders Stage正在重返TechCrunch Disrupt ，将创始人、创业运营商和投资者聚集在一起，就构建和扩展所需的内容进行实际对话。" data-title="Builders Stage带来了将初创公司扩展到TechCrunch Disrupt 2026的实用策略" data-date="09-03 07:01" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-03 00:04</span>
-          <span class="news-item-title">在6个月内将估值提高一倍以上，达到50亿$</span>
+          <span class="news-item-date">09-03 07:01</span>
+          <span class="news-item-title">Builders Stage带来了将初创公司扩展到TechCrunch Disrupt 2026的实用策略</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/" target="_blank" rel="noopener" data-cat="keji" data-summary="Jio 打赌它可以将一台老化的计算机变成一台支持人工智能的 PC，两个月的费用仅为 11 美元左右。" data-title="印度首富现在想把老化的电脑变成人工智能" data-date="09-03 00:01" data-source="TechCrunch">
+        <a class="news-item" href="https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch" target="_blank" rel="noopener" data-cat="keji" data-summary="Uber 击败 Waymo，在伦敦推出了该市首个商业机器人出租车服务。这些车辆使用英国初创公司 Wayve 开发的自动驾驶技术，最初将配备安全驾驶员。此次发布对于 Uber 来说是一个里程碑，多年来该公司一直在与 Wayve 计划在英国推出服务。 […]" data-title="Uber 击败 Waymo 成为伦敦首个推出机器人出租车的公司" data-date="09-03 07:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-03 07:00</span>
+          <span class="news-item-title">Uber 击败 Waymo 成为伦敦首个推出机器人出租车的公司</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/" target="_blank" rel="noopener" data-cat="keji" data-summary="行业观察人士认为，此次收购还使红杉支持的Serval成为人工智能IT服务自动化领域事实上的创业领导者。" data-title="消息人士称， Palo Alto Networks为Thrive支持的控制台支付了5亿$" data-date="09-03 06:44" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-03 00:01</span>
-          <span class="news-item-title">印度首富现在想把老化的电脑变成人工智能</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/707.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版将于 9 月 3 日 0:00 首销，到手价 2399 元。这款耳机有石墨黑 / 奶油白 / 焦糖棕 /冷萃蓝 / 薰衣草紫五色可选，采用人体工学设计，单耳重约 7g；具备 IP54 防尘防泼溅；支持 Qi 无线充电，单次续航可达 12 小时，搭配充电盒综合续航可达 40 小时。这款耳机配备 7mm TrueResponse 动圈驱动单元，升级蓝牙 6.0，搭载骁龙畅听技术，支持 aptX Lossless 无损传输；支持杜比全景声空间音频和头部追踪技术，升级自适应混合主动降噪系统 + 自动抗风噪模式。据介绍，这款耳机每侧内置 4 个麦克风，其中包含 1 个骨传导语音传感器，配合优化的 AI 智能降噪算法，" data-title="森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版首销，2399 元" data-date="09-02 23:58" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 23:58</span>
-          <span class="news-item-title">森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机国行版首销，2399 元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/706.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，欧洲核子研究组织（CERN）上周在瑞士温特图尔举行 MiniDebConf 大会，宣布将放弃 RHEL（Red Hat Enterprise Linux），转投 Debian 系统。据IT之家了解，欧洲核子研究组织以大型强子对撞机、万维网（WWW）发源地闻名。该机构此前长期使用红帽生态、CentOS 系统，过去曾与其他科研机构维护 RHEL 衍生发行版 Scientific Linux。欧洲核子研究组织使用 CentOS 约十年后考虑再次迁移路线，放弃 RHEL 生态转向 Debian。该机构的工程师曾考虑使用 CentOS Stream，但由于编译器强制启用-march=x86-64-v2，导致老旧硬件不能顺利过渡，他们不得不放弃这一选择。欧洲核子研究组织计划" data-title="抛弃红帽生态，欧洲核子研究组织（CERN）转投 Debian 系统" data-date="09-02 23:53" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 23:53</span>
-          <span class="news-item-title">抛弃红帽生态，欧洲核子研究组织（CERN）转投 Debian 系统</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/705.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，据外媒 VGC 今天（2 日）晚间报道，《大神》《鬼泣》和《猎天使魔女》创作者神谷英树认为，相比游戏未来究竟发行实体版还是数字版，更值得担忧的是这些作品能否真正保存下来，让后来的玩家继续游玩。图源：Pexels神谷英树表示，自己现在购买的游戏“100% 都是数字版”，因此实体光盘消失并不会直接影响消费习惯，但实体游戏彻底退出后，可能有一些更有意义的东西也会随之消失。“我现在一款实体游戏都不买，所有游戏 100% 都是数字版。所以看到这个决定时，我的感觉就是：‘是啊，大概就是发展到这一步了。’”作为复古游戏收藏爱好者，神谷英树真正担心的是硬件和发行平台不断更替后，大量老游戏还能不能继续玩到。“对我来说，最重要的是 IP 权利方能不能承担起责任，确保这些游戏继续保留" data-title="神谷英树：游戏能否真正保存，比“实体版还是数字版”更重要" data-date="09-02 23:53" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 23:53</span>
-          <span class="news-item-title">神谷英树：游戏能否真正保存，比“实体版还是数字版”更重要</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit" target="_blank" rel="noopener" data-cat="keji" data-summary="作为与谷歌多年合作伙伴关系的一部分， MrBeast将在即将推出的视频中展示Gemini、Google Health和Fitbit Air。这笔交易将以Jimmy &quot;MrBeast&quot; Donaldson转向Gemini寻求荒野生存建议的视频开始：首先是9月5日的新MrBeast视频，跟随Jimmy和他的船员[…]" data-title="谷歌正在将MrBeast送入荒野，配备人工智能" data-date="09-02 23:47" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-02 23:47</span>
-          <span class="news-item-title">谷歌正在将MrBeast送入荒野，配备人工智能</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/704.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，据科技媒体 Appleinsider 今天报道，近期有黑客在暗网 Nexus 出售超 1.53 亿份驾驶证扫描件。除此之外，这些不法分子拥有超 1000 万份身份证件、300 万份旅行证件及 57.9 万张医疗卡。安全研究组织 KrebsOnSecurity 上月末获悉该暗网网站存在。他们研究后获悉，这名黑客口中的 1.53 亿份驾照文件并非空穴来风。研究人员在网站中进行空白搜索后，返回了 1150 万页结果，每页显示 15 条信息。其中的扫描文件大部分是美国驾驶证，也有少部分是加拿大驾驶证。KrebsOnSecurity 发现，本次泄露的数据并不仅限于普通身份证件，其中还包含商业驾驶证（CDL）、CAC（IT之家注：发放给军人、联邦政府人员的认证卡）等。并且，" data-title="黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查" data-date="09-02 23:44" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 23:44</span>
-          <span class="news-item-title">黑客暗网兜售 1.53 亿份美国驾照扫描件，FBI 已介入调查</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/703.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，当地时间 1 日，德国《经济周刊》披露了 147 页的内部文件，详细介绍大众汽车监事会对集团未来重组的设想。文件描绘了一场“激进”而“痛苦”的重组，规模甚至被形容为“经济史上前所未有”。据IT之家了解，大众汽车考虑关闭德国境内 4 座工厂，这一调整可能从 2031 年开始，一直持续到 2034 年。最先受到影响的据称是埃姆登和茨维考工厂。埃姆登工厂 1964 年投产，截至去年 12 月拥有超过 7700 名员工，目前负责生产大众 ID.4、ID.7 和 ID.7 Tourer。茨维考工厂约有 8000 名员工，生产奥迪 Q4 e-tron 和 Q4 Sportback e-tron、Cupra Born，以及大众 ID.3、ID.4 和 ID.5。此外，宾利添越" data-title="大众汽车重组计划曝光：“激进”而“痛苦”，4 家德国工厂、数万名员工或危在旦夕" data-date="09-02 23:42" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 23:42</span>
-          <span class="news-item-title">大众汽车重组计划曝光：“激进”而“痛苦”，4 家德国工厂、数万名员工或危在旦夕</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/policy/988316/google-ad-tech-antitrust-remedies-decision" target="_blank" rel="noopener" data-cat="keji" data-summary="美国地方法院法官Leonie Brinkema拒绝了司法部要求谷歌出售部分广告技术业务的请求，接受了更温和的补救措施，以恢复其多年来非法垄断的市场竞争。Brinkema说，她将采纳双方提出的大部分行为改变，但有一些修改。但那些不会[…]" data-title="谷歌躲过了另一次分手尝试" data-date="09-02 23:42" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-02 23:42</span>
-          <span class="news-item-title">谷歌躲过了另一次分手尝试</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/997/702.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 2 日消息，谷歌今天（2 日）在 Google DeepMind 网站低调上线了 Gemini 3.8 Flash 模型。其基于 Gemini 3.7 Flash，拥有在软件工程和智能体知识工作流方面的性能提升，并持续支持可定制的努力水平，以控制质量、成本和延迟的组合。不过截至IT之家发稿，谷歌官方暂未通过新闻稿或社媒平台官宣这一模型的存在。Gemini 3.8 Flash 基于 Gemini 3.7 Flash，具有最高 1M 的 token 上下文窗口，文本支持 64K token 输出。官方还公布了多项基准测试评估结果，涵盖编程、知识处理、多模态处理能力、长上下文处理、计算机使用能力以及科学推理能力。截至 2026 年 9 月的结果如下：根据介绍，Gemini 3.8" data-title="谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景" data-date="09-02 23:31" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-02 23:31</span>
-          <span class="news-item-title">谷歌 Gemini 3.8 Flash 模型上线，适用软件工程、智能体任务等场景</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/column/988242/optimizer-abbott-libre-duo-ketones-diabetic-ketoacidosis" target="_blank" rel="noopener" data-cat="keji" data-summary="这是由Verge资深评论员Victoria Song发送的每周时事通讯Optimizer ，它剖析并讨论了最新的小玩意和药水，这些小玩意和药水宣称它们将改变你的生活。在此选择Optimizer。我妈妈是一个戏剧性的女人，容易反应过度。当我还是个流鼻涕的青少年时，我告诉她她需要[…]" data-title="连续血糖监测器即将变得更加复杂" data-date="09-02 23:30" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-02 23:30</span>
-          <span class="news-item-title">连续血糖监测器即将变得更加复杂</span>
+          <span class="news-item-date">09-03 06:44</span>
+          <span class="news-item-title">消息人士称， Palo Alto Networks为Thrive支持的控制台支付了5亿$</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">10 条</span>
+      <span class="news-category-count">12 条</span>
     </div>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cpq02z298p7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城已经完成了阵容改革，其中包括对中场进行全面改造，耗资创英超纪录的 4.58 亿英镑，但这个令人眼花缭乱的数字并不能说明全部情况。" data-title="曼城斥巨资购买新中场——但他们忽视了哈兰德的补防吗？" data-date="09-03 06:07" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 06:07</span>
+          <span class="news-item-title">曼城斥巨资购买新中场——但他们忽视了哈兰德的补防吗？</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/02/premier-league-spending-transfer-window-summer-2026-chelsea-enzo-fernandez" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS" data-title="在混乱的过剩景象中，英超联赛的钱已经失去了一切意义| Barney Ronay" data-date="09-03 03:00" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-03 03:00</span>
+          <span class="news-item-title">在混乱的过剩景象中，英超联赛的钱已经失去了一切意义| Barney Ronay</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在转会市场上的支出创下纪录之后，英格兰顶级俱乐部已经扩大了与欧洲同行的差距。英超俱乐部今年夏天在球员身上的投资超过34亿英镑，比去年增加了11.9%。这笔巨额支出的三个方面值得更仔细地审视。继续阅读..." data-title="英超转会谈话要点：我们从数据中学到的三件事" data-date="09-02 23:29" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
@@ -321,6 +339,12 @@ title: 热点新闻
           <span class="news-item-date">09-02 18:46</span>
           <span class="news-item-title">曼联和他们计算出的左翼</span>
         </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cj9x212829vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="尽管人们普遍期待他们会在今年夏天签下一名左后卫，但曼联决定不这么做--这意味着什么？" data-title="曼联和他们计算的左边" data-date="09-02 18:46" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-02 18:46</span>
+          <span class="news-item-title">曼联和他们计算的左边</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx2zg85eyrqo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="害怕受到攻击，但后面却很轻？利物浦在转会窗口花费了2亿多£ ，但关于球队是否有足够的深度仍然存在疑问。" data-title="进攻令人畏惧，后防线光芒四射——为什么利物浦的转会窗口留下了疑问" data-date="09-02 17:10" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -333,31 +357,37 @@ title: 热点新闻
           <span class="news-item-date">09-02 16:30</span>
           <span class="news-item-title">转会窗口裁决：每个英超俱乐部的表现如何</span>
         </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS" data-title="转会窗口判决：每个英超俱乐部的表现如何" data-date="09-02 16:30" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-02 16:30</span>
+          <span class="news-item-title">转会窗口判决：每个英超俱乐部的表现如何</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c783x812dk5o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳在转会市场上一直很忙碌，他们希望卫冕英超冠军，但他们还缺少一名世界级前锋吗？" data-title="阿森纳不签下世界冠军是否会冒险" data-date="09-02 15:25" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-02 15:25</span>
           <span class="news-item-title">阿森纳不签下世界冠军是否会冒险</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="随着夏季转会窗口的关闭，首席足球作家菲尔·麦克纳尔蒂询问阿森纳的对手是否已经做了足够的努力来挑战冠军？" data-title="冠军争夺者在转会窗口做得足够足以挑战阿森纳吗？" data-date="09-02 14:12" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 14:12</span>
-          <span class="news-item-title">冠军争夺者在转会窗口做得足够足以挑战阿森纳吗？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cr7deg1ze03o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城为切尔西中场恩佐·费尔南德斯支付了创英国转会费纪录的 1.25 亿英镑。" data-title="费尔南德斯加盟曼城，创造与英国并列的1.25亿英镑身价纪录" data-date="09-02 06:52" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 06:52</span>
-          <span class="news-item-title">费尔南德斯加盟曼城，创造与英国并列的1.25亿英镑身价纪录</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">📰</span>
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
-      <span class="news-category-count">3 条</span>
+      <span class="news-category-count">4 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/0/997/908.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 3 日消息，据 ABC 新闻昨日报道，澳大利亚新南威尔士州警方近期破获一起针对苹果礼品卡的诈骗案，一名涉案 32 岁男子已于 2026 年 7 月被定罪。该案牵出全球性的有组织犯罪网络，涉案手法涉及礼品卡编码盗取、货架调包甚至跨国洗钱等更严重的犯罪活动。新南威尔士州 Campsie 警区指挥部于 2025 年 5 月 9 日对嫌疑人位于悉尼 Eastwood 的住所进行搜查时查获 56 张价值 100 至 500 澳元（现汇率约合 481.2 至 2,406 元人民币）不等的苹果礼品卡，另有 9 张在其车中发现，总案值超过 1 万澳元（IT之家注：现汇率约合 48,117 元人民币）。法庭文件显示，该男子于 2025 年 4 月接受警方监控，期间被多次发现出入悉尼及新州南部" data-title="苹果礼品卡全球诈骗案告破：犯罪团伙窃取兑换码后重新封装，全美前 20 大零售商均遭波及" data-date="09-03 14:31" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 14:31</span>
+          <span class="news-item-title">苹果礼品卡全球诈骗案告破：犯罪团伙窃取兑换码后重新封装，全美前 20 大零售商均遭波及</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/02/style/john-galliano-met-exhibition-cancel-anna-wintour.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="安娜·温图尔（ Anna Wintour ）将她的全部权力和声望都放在了一位被判犯有反犹太主义仇恨罪的设计师身上。在幕后，有影响力的纽约人起义了。" data-title="大都会加利亚诺音乐节是如何分崩离析的" data-date="09-03 04:15" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 04:15</span>
+          <span class="news-item-title">大都会加利亚诺音乐节是如何分崩离析的</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="自 1953 年以来，首席大法官小约翰·G·罗伯茨 (John G. Roberts Jr.) 在分案案件中获得多数票的次数比任何其他首席大法官都多。但这次不同。" data-title="在特朗普的宴会厅上，首席大法官发现自己处于一个不寻常的位置：持异议" data-date="09-02 23:43" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -369,12 +399,6 @@ title: 热点新闻
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-02 17:18</span>
           <span class="news-item-title">“我从未去过的祖国”：600万阿富汗人遭邻国驱逐，在塔利班治下重新开始</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="事发河谷上游已形成两个堰塞湖。与此同时，原本散布在喜马拉雅山区的冰川湖，在灾区内有10座被标记为高风险，专家形容它们是“定时炸弹”。" data-title="尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？" data-date="09-02 08:01" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-02 08:01</span>
-          <span class="news-item-title">尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？</span>
         </a>
   </div>
   <div class="news-category">
@@ -450,4 +474,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-03 00:43（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-03 14:35（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
