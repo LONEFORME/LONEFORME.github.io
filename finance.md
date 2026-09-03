@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,143.33</span>
+      <span class="ticker-price ticker-up">29,439.35</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7177</span>
+      <span class="ticker-price ticker-down">6.7163</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,525.65</span>
-      <span class="ticker-change up">▲ +0.01%</span>
+      <span class="ticker-price ticker-up">$4,540.34</span>
+      <span class="ticker-change up">▲ +0.05%</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与避险支撑</span>
@@ -216,55 +216,25 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689831.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网丽水9月3日电(傅飞扬)地处浙西南，“九山半水半分田”的丽水属于浙江发展队列中的“小个子”。" data-title="“为企办实事”落地有声 浙江经济高质量发展的增量密码" data-date="09-03 20:30" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10689974.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="西藏日喀则市吉隆县泥石流灾害发生后，应急管理部迅速调派中央企业工程应急救援力量796人、522台(套)装备驰援西藏，在现场指挥部统一指挥下，协同开展排查搜救、道路抢通、风险监测等抢险救援工作。此外，中交集团、中国中铁还选派7名隧道专家赴尼泊尔灾区协助开展隧道救援工作。" data-title="应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援" data-date="09-04 00:03" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 20:30</span>
-          <span class="news-item-title">“为企办实事”落地有声 浙江经济高质量发展的增量密码</span>
+          <span class="news-item-date">09-04 00:03</span>
+          <span class="news-item-title">应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689830.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口9月3日电 (记者 王晓斌)“建设百亿级热带食品加工产业集群”，成为海南传统农业大县定安县“十五五”发展的新坐标。" data-title="海南产经新观察：定安打造百亿级热带食品加工产业集群" data-date="09-03 20:26" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储理事克里斯托弗· J ·沃勒（ Christopher J. Waller ）对通货膨胀的轨迹听起来很乐观，但表示如果进展不能继续，他将支持更高的利率。" data-title="随着美联储官员等待通胀数据，利率上升" data-date="09-03 22:07" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 20:26</span>
-          <span class="news-item-title">海南产经新观察：定安打造百亿级热带食品加工产业集群</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 22:07</span>
+          <span class="news-item-title">随着美联储官员等待通胀数据，利率上升</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="联合国世界气象组织（WMO）警告，这种自然天气现象可能为全球经济带来冲击。" data-title="联合国警告可能出现“超大型”厄尔尼诺现象，各国须准备应对" data-date="09-03 20:09" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-03 20:09</span>
           <span class="news-item-title">联合国警告可能出现“超大型”厄尔尼诺现象，各国须准备应对</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689803.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月3日电(向一鹏 戚宁)2026第十八届湖南茶业博览会(下称“茶博会”)组委会3日宣布，本届茶博会将于9月11日至14日在长沙举行，将吸引1500余家茶业及产业链关联企业参展。" data-title="1500余家企业将参展第十八届湖南茶博会 设湘台茶业交流专区" data-date="09-03 19:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 19:58</span>
-          <span class="news-item-title">1500余家企业将参展第十八届湖南茶博会 设湘台茶业交流专区</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/cj/2026/09-03/10689799.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西安9月3日电 (李一璠)9月3日，陕西省人民政府国际高级经济顾问会议第十三届会议在西安召开。本届会议以“开放聚智 协同发展 共享共建内陆改革开放高地”为主题，吸引了来自全球12个国家和地区的43家顾问单位代表参会交流。" data-title="陕西省人民政府国际高级经济顾问会议第十三届会议在西安召开" data-date="09-03 19:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 19:53</span>
-          <span class="news-item-title">陕西省人民政府国际高级经济顾问会议第十三届会议在西安召开</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/aseaninfo/2026/09-03/10689466.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南宁9月3日电 (林浩)9月3日，广西壮族自治区商务厅副厅长李硕接受媒体采访时表示，作为2026年中国国际服务贸易交易会的主宾省，广西将首次推动桂京琼三地联动，与东盟各国共建服务贸易开放合作高地。" data-title="广西将推动桂京琼三地联动 与东盟各国共建服务贸易开放合作高地" data-date="09-03 14:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 14:27</span>
-          <span class="news-item-title">广西将推动桂京琼三地联动 与东盟各国共建服务贸易开放合作高地</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-03/10689465.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海9月3日电 (记者 姜煜)上海市政府新闻办3日举行“开局起步‘十五五’”系列主题市政府新闻发布会，市政府副秘书长朱民等介绍了《上海市加快国际贸易中心建设“十五五”规划》(以下简称《规划》)有关情况。" data-title="提出22项重点任务 上海发布加快国际贸易中心建设“十五五”规划" data-date="09-03 14:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 14:26</span>
-          <span class="news-item-title">提出22项重点任务 上海发布加快国际贸易中心建设“十五五”规划</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/trump-drone-tariffs.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="此外， FCC正在对热成像和气溶胶喷涂等常见无人机技术进行严格限制。" data-title="特朗普对外国商品征收高达 100% 的关税" data-date="09-03 12:01" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-03 12:01</span>
-          <span class="news-item-title">特朗普对外国商品征收高达 100% 的关税</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5y4r8e52nyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="印度经济高度依赖自俄罗斯进口的折扣石油。自2022年普京发动对乌克兰的全面入侵以来，莫迪已多次向普京提出过类似的呼吁。" data-title="莫迪敦促普京结束乌克兰战争，他能劝得动吗？" data-date="09-03 08:24" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -285,4 +255,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-03 20:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-04 00:34（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
