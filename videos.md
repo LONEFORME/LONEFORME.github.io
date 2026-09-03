@@ -65,11 +65,11 @@ title: 飞行演示
         </div>
         <div class="spec-mini-item">
           <span class="spec-label">视觉机载硬件</span>
-          <span class="spec-val">地平线 RDK X5 (Python 3 + OpenCV)</span>
+          <span class="spec-val">嘉楠 K230 (双核 RISC-V + KPU 硬件加速)</span>
         </div>
         <div class="spec-mini-item">
           <span class="spec-label">姿态与飞控</span>
-          <span class="spec-val">STM32F405 + 凌霄飞控系统 (Lingxiao FC)</span>
+          <span class="spec-val">STM32F407 + 凌霄飞控系统 (Lingxiao FC)</span>
         </div>
         <div class="spec-mini-item">
           <span class="spec-label">空间定位与速度基准</span>
@@ -218,14 +218,14 @@ title: 飞行演示
       <tbody>
         <tr>
           <td><strong>底层飞控系统</strong></td>
-          <td><code>STM32F405RGT6</code> + 凌霄飞控系统 (Lingxiao FC)</td>
+          <td><code>STM32F407</code> + 凌霄飞控系统 (Lingxiao FC)</td>
           <td>168MHz Cortex-M4 / 双环 PID</td>
           <td>纳秒级姿态解算、电调 PWM 动力输出、故障紧急迫降保护</td>
         </tr>
         <tr>
-          <td><strong>边缘上位机</strong></td>
-          <td>地平线 <code>RDK X5</code> (ARM A55 + BPU)</td>
-          <td>10 TOPS 算力 / Python 3 + OpenCV</td>
+          <td><strong>边缘上位机 / 视觉单元</strong></td>
+          <td>嘉楠 <code>K230</code> (双核 64-bit RISC-V + KPU)</td>
+          <td>KPU 硬件算力 / 实时硬件级图像加速</td>
           <td>图像实时采集、靶标检测跟踪、透视矫正与高层航线决策</td>
         </tr>
         <tr>
