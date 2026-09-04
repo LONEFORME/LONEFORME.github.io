@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,563.94</span>
-      <span class="ticker-change up">▲ +2.14%</span>
+      <span class="ticker-price ticker-up">4,569.80</span>
+      <span class="ticker-change up">▲ +2.27%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7095</span>
+      <span class="ticker-price ticker-down">6.7093</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,465.31 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -7.68 (-0.17%)</span>
+      <span class="ticker-price ticker-down">$4,464.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -8.41 (-0.19%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥964.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +6.90 (+0.72%)</span>
+      <span class="ticker-price ticker-down">¥964.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -0.60 (-0.06%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,13 +230,43 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
-        <a class="news-item" href="http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-04/news1067730.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="近日，来自俄罗斯、喜爱中国古典名著《红楼梦》的姑娘林妹妹沉浸式打卡南京牛首山夜游，在金陵夜色中感受中华文化魅力。牛首山是金陵四大名胜之一。 暑期夜幕之下，牛首山夜游将矿坑建筑美学、非遗展示、实景NPC互动与故事叙事融为一体，特色体验吸引大批游客到访。在林妹妹眼中，牛首山不只是一座名山，更是一座融汇历史底蕴、自然风光、非遗体验与现代创意的文化博物馆。(张传明）" data-title="夜游经济火热 俄罗斯姑娘邂逅金陵夜色" data-date="09-04 14:22" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690554.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳9月4日电 (记者 单璐)哈萨克斯坦国家银行(央行)货币政策委员会4日宣布下调基准利率50个基点至16.25%。这是哈央行今年以来第三次降息。" data-title="哈萨克斯坦央行下调基准利率至16.25%" data-date="09-04 19:38" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 14:22</span>
-          <span class="news-item-title">夜游经济火热 俄罗斯姑娘邂逅金陵夜色</span>
+          <span class="news-item-date">09-04 19:38</span>
+          <span class="news-item-title">哈萨克斯坦央行下调基准利率至16.25%</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690508.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔9月4日电 (记者 金旭)当地时间9月4日，“韩国小记者中国行”在中国驻韩国大使馆举行启程仪式。中国驻韩国大使戴兵、韩中经济文化教育协会理事长申京淑等出席。" data-title="2026年度“韩国小记者中国行”启动" data-date="09-04 19:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 19:21</span>
+          <span class="news-item-title">2026年度“韩国小记者中国行”启动</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10690535.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社符拉迪沃斯托克9月4日电(记者王慧慧 孙萍)当地时间9月4日，中共中央政治局常委、国务院副总理丁薛祥在俄罗斯符拉迪沃斯托克出席第八届中俄能源商务论坛开幕式，宣读习近平主席贺信并致辞。" data-title="第八届中俄能源商务论坛开幕 丁薛祥宣读习近平主席贺信并致辞" data-date="09-04 19:08" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 19:08</span>
+          <span class="news-item-title">第八届中俄能源商务论坛开幕 丁薛祥宣读习近平主席贺信并致辞</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690443.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉9月4日电 (记者 周璟)菲律宾统计局4日公布数据显示，8月该国通胀率回落至6.1%，低于7月的6.2%，连续第四个月放缓。今年前8个月平均通胀率为5.2%。" data-title="菲律宾8月通胀率降至6.1% 连续四个月回落" data-date="09-04 17:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 17:21</span>
+          <span class="news-item-title">菲律宾8月通胀率降至6.1% 连续四个月回落</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690350.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社悉尼9月4日电 (记者 薄雯雯)澳大利亚气候变化与能源部长鲍恩4日发表声明称，今年8月澳大利亚纯电动汽车销量首次超过汽油车。" data-title="澳大利亚纯电动汽车月销量首次超过汽油车" data-date="09-04 17:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 17:06</span>
+          <span class="news-item-title">澳大利亚纯电动汽车月销量首次超过汽油车</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在世界各地，债券收益率上升反映了政策制定者加息速度预期的转变。" data-title="债券市场正在推高利率。各国央行会跟进吗？" data-date="09-04 17:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-04 17:03</span>
+          <span class="news-item-title">债券市场正在推高利率。各国央行会跟进吗？</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="住房贷款成本上升对房地产市场造成挤压，给已经在通胀上升中苦苦挣扎的消费者增加了压力。" data-title="抵押贷款利率触及 6.71%，为 2025 年 7 月以来的最高水平" data-date="09-04 04:48" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -250,23 +280,11 @@ title: 股票财经
           <span class="news-item-date">09-04 04:07</span>
           <span class="news-item-title">荷兰央行以“地缘政治动荡”为由削减在美国的黄金储备</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10689974.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="西藏日喀则市吉隆县泥石流灾害发生后，应急管理部迅速调派中央企业工程应急救援力量796人、522台(套)装备驰援西藏，在现场指挥部统一指挥下，协同开展排查搜救、道路抢通、风险监测等抢险救援工作。此外，中交集团、中国中铁还选派7名隧道专家赴尼泊尔灾区协助开展隧道救援工作。" data-title="应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援" data-date="09-04 00:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 00:03</span>
-          <span class="news-item-title">应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援</span>
-        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储理事克里斯托弗· J ·沃勒（ Christopher J. Waller ）对通货膨胀的轨迹听起来很乐观，但表示如果进展不能继续，他将支持更高的利率。" data-title="随着美联储官员等待通胀数据，利率上升" data-date="09-03 22:07" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">09-03 22:07</span>
           <span class="news-item-title">随着美联储官员等待通胀数据，利率上升</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="联合国世界气象组织（WMO）警告，这种自然天气现象可能为全球经济带来冲击。" data-title="联合国警告可能出现“超大型”厄尔尼诺现象，各国须准备应对" data-date="09-03 20:09" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-03 20:09</span>
-          <span class="news-item-title">联合国警告可能出现“超大型”厄尔尼诺现象，各国须准备应对</span>
         </a>
   </div>
 </div>
@@ -281,4 +299,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-04 14:38（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-04 20:13（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
