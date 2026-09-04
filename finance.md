@@ -20,7 +20,7 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · 8/8 实时数据</span>
+  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · 9/9 实时数据</span>
 </div>
 
 <div class="finance-ticker-grid">
@@ -128,12 +128,24 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,540.34</span>
-      <span class="ticker-change up">▲ +0.05%</span>
+      <span class="ticker-price ticker-down">$4,471.31 <span style="font-size: 12px; font-weight: normal; color: var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -1.68 (-0.04%)</span>
     </div>
     <div class="ticker-footer">
-      <span>央行购金与避险支撑</span>
-      
+      <span>央行购金与全球避险</span>
+    </div>
+  </div>
+  <div class="ticker-card">
+    <div class="ticker-header">
+      <span class="ticker-name">🪙 国内现货黄金</span>
+      <span class="ticker-code">Au(T+D)</span>
+    </div>
+    <div class="ticker-body">
+      <span class="ticker-price ticker-up">¥966.64 <span style="font-size: 12px; font-weight: normal; color: var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +9.54 (+1.00%)</span>
+    </div>
+    <div class="ticker-footer">
+      <span>上海黄金交易所基准</span>
     </div>
   </div>
 </div>

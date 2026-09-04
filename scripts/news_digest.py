@@ -241,7 +241,8 @@ MARKET_INDICES = [
     {"name": "恒生科技", "code": "hkHSTECH", "flag": "🇭🇰", "tag": "HSTECH", "desc": "互联网平台回购加码"},
     {"name": "纳斯达克100", "code": "gb_ndx", "flag": "🇺🇸", "tag": "NDX", "desc": "科技巨头财报韧性"},
     {"name": "美元/离岸人民币", "code": "fx_susdcnh", "flag": "💱", "tag": "USD/CNH", "desc": "人民币汇率稳健调升"},
-    {"name": "伦敦现货黄金", "code": "hf_GC", "flag": "🪙", "tag": "XAU/USD", "desc": "央行购金与避险支撑"},
+    {"name": "伦敦现货黄金", "code": "hf_XAU", "flag": "🪙", "tag": "XAU/USD", "desc": "央行购金与全球避险"},
+    {"name": "国内现货黄金", "code": "gds_AUTD", "flag": "🪙", "tag": "Au(T+D)", "desc": "上海黄金交易所基准"},
 ]
 
 HOT_SECTORS = [
@@ -259,7 +260,8 @@ DEFAULT_INDICES = {
     "恒生科技": {"current": 4250.30, "change": 47.2, "change_pct": 1.12},
     "纳斯达克100": {"current": 19750.80, "change": 166.5, "change_pct": 0.85},
     "美元/离岸人民币": {"current": 6.7854, "change": -0.0051, "change_pct": -0.075},
-    "伦敦现货黄金": {"current": 2485.50, "change": 8.7, "change_pct": 0.35},
+    "伦敦现货黄金": {"current": 4473.95, "change": 0.96, "change_pct": 0.02},
+    "国内现货黄金": {"current": 967.07, "change": 9.97, "change_pct": 1.04},
 }
 
 
@@ -312,12 +314,20 @@ def fetch_sina_quote(code):
                 change = change_bp / 10000  # 基点转价格
                 change_pct = float(parts[11]) if len(parts) > 11 and parts[11] else 0
                 return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+            elif code.startswith("gds_"):
+                # 贵金属现货/延期 (如上海金 Au(T+D)): 当前,买价,卖价,开盘,最高,最低,时间,昨结算,昨收,...
+                name = parts[13] if len(parts) > 13 and parts[13] else "贵金属"
+                current = float(parts[0]) if parts[0] else 0
+                prev_close = float(parts[7]) if len(parts) > 7 and parts[7] and float(parts[7]) > 0 else (float(parts[8]) if len(parts) > 8 and parts[8] else 0)
+                change = current - prev_close if prev_close else 0
+                change_pct = (change / prev_close * 100) if prev_close else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
             elif code.startswith("hf_"):
-                # 期货: 当前,,昨收,今开,最高,最低,时间,最高2,最低2,...,日期,名称
+                # 外盘期货/外盘现货金: 当前,买价,卖价,今开,最高,最低,时间,昨结算,昨收,...,日期,名称
                 name = parts[13] if len(parts) > 13 and parts[13] else "期货"
                 current = float(parts[0]) if parts[0] else 0
-                prev_close = float(parts[2]) if len(parts) > 2 and parts[2] else 0
-                change = current - prev_close
+                prev_close = float(parts[7]) if len(parts) > 7 and parts[7] and float(parts[7]) > 0 else (float(parts[2]) if len(parts) > 2 and parts[2] else 0)
+                change = current - prev_close if prev_close else 0
                 change_pct = (change / prev_close * 100) if prev_close else 0
                 return {"name": name, "current": current, "change": change, "change_pct": change_pct}
         except Exception as e:
@@ -1127,8 +1137,11 @@ def build_finance_ticker_html(indices):
             price_str = format_number(idx["current"], 4)
             change_str = f"{change_sign}{idx['change']*100:.0f} bp"
         elif idx["name"] == "伦敦现货黄金":
-            price_str = f"${format_number(idx['current'], 2)}"
-            change_str = f"{change_sign}{idx['change_pct']:.2f}%"
+            price_str = f'${format_number(idx["current"], 2)} <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span>'
+            change_str = f"{change_sign}{idx['change']:.2f} ({change_sign}{idx['change_pct']:.2f}%)"
+        elif idx["name"] == "国内现货黄金":
+            price_str = f'¥{format_number(idx["current"], 2)} <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span>'
+            change_str = f"{change_sign}{idx['change']:.2f} ({change_sign}{idx['change_pct']:.2f}%)"
         else:
             price_str = format_number(idx["current"], 2)
             change_str = f"{change_sign}{idx['change_pct']:.2f}%"
