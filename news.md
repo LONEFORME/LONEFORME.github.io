@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-04 14:38 抓取更新</span>
+      <span>2026-09-04 16:03 抓取更新</span>
     </div>
   </div>
 
@@ -29,7 +29,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">9</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
@@ -37,11 +37,11 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">14</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
-        <span class="channel-count">8</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
         <span>🌍 西方媒体视角</span>
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/aseaninfo/2026/09-04/10690295.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="为便于供应商及时了解政府采购信息，根据《财政部关于开展政府采购意向公开工作的通知》(财库〔2020〕10号)等有关规定，现将中华人民共和国福州海关2026年9至10月政府采购意向公开如下：" data-title="中华人民共和国福州海关2026年9至10月政府采购意向" data-date="09-04 14:31" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-03/10689967.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【本期导读】" data-title="【讲习所·中国与世界】习近平以4点主张推动上合组织实现更高质量发展" data-date="09-03 22:57" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 09-04 14:31</span>
+        <span class="hero-featured-date">🕒 09-03 22:57</span>
       </div>
-      <h2 class="hero-featured-title">中华人民共和国福州海关2026年9至10月政府采购意向</h2>
+      <h2 class="hero-featured-title">【讲习所·中国与世界】习近平以4点主张推动上合组织实现更高质量发展</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/0/998/400.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，联想 (Lenovo) 在 IFA 2026 上发布了搭载高通处理器的 ThinkBook 14 G9 Q8Y 商务本。其基于骁龙 X2 Plus，支持 25W TDP；配备 1920×1200 60Hz 400nits 低色域屏幕。ThinkBook 14 G9 Q8Y 机身薄至 17.39mm，起始质量 1.3kg；支持 32GB LPDDR5X；提供 2 个 M.2 SSD 盘位，预装至多 1TB 存储；屏幕可选触控；集成 50Whr 电池；提供背光键盘、120mm × 75mm 触控板；集成 2 个 2W 扬声器，配备 FHD IR 摄像头。该笔电配备支持 320MHz 频宽的 Wi-Fi 7 无线网卡；外部 I/O 则包括 2 个 USB-C 10Gb" data-title="联想带来高通版 ThinkBook 14 Gen 9 笔电：X2 Plus + 低色域屏" data-date="09-04 14:33" data-source="IT之家">
+    <a class="hero-sub-card" href="https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/" target="_blank" rel="noopener" data-cat="keji" data-summary="这款以家庭为中心的人工智能助手希望了解你日常生活的细节，但表示不会使用这些数据来训练人工智能模型或与他人分享。" data-title="Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛" data-date="09-04 00:09" data-source="TechCrunch">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
       </div>
-      <p class="hero-sub-title">联想带来高通版 ThinkBook 14 Gen 9 笔电：X2 Plus + 低色域屏</p>
+      <p class="hero-sub-title">Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育FPL专家吉安尼·巴蒂斯（ Gianni Buttice ）研究了幻想英超联赛经理在进入第三周比赛时面临的一些最大困境。" data-title="谁是曼城最适合购买的球员？ FPL游戏周三难题" data-date="09-04 14:15" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="过去有句老话说，英国球员的价值很高。现在这似乎只适用于已经在英超联赛中的球员。" data-title="英超联赛的溢价为 2000 万英镑——这让欧洲俱乐部感到担忧" data-date="09-03 19:13" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">谁是曼城最适合购买的球员？ FPL游戏周三难题</p>
+      <p class="hero-sub-title">英超联赛的溢价为 2000 万英镑——这让欧洲俱乐部感到担忧</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="一名男子在等待人体肾脏移植期间，依靠移植的猪肾存活了创纪录的九个月。" data-title="猪肾在人体内运作271天" data-date="09-04 13:57" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.ithome.com/0/998/179.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 3 日消息，英特尔 Graphics Software 32.0.101.8992 显卡驱动（适用于 Arc）今日发布。本次为 Non-WHQL 测试版本，为英特尔 Arc B 系列、A 系列独立显卡以及英特尔酷睿 Ultra 系列集成 Arc 核显提供支持，新增两款新游戏支持，修复了多款游戏存在的画面异常问题。IT之家附官方公告链接（https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html）。新游戏支持与性能优化为《鬼武者：剑之道》提供支持为《黎明行者之血》提供支持问题修复修复《失落星船：马拉松》（DX12）在各产品线中，使用各向异性过滤时游戏过程中部分物" data-title="英特尔 Arc 显卡驱动 32.0.101.8992 测试版发布：支持两款新游戏，修复多款游戏画面异常问题" data-date="09-03 22:20" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-bbc">🇬🇧 BBC</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">猪肾在人体内运作271天</p>
+      <p class="hero-sub-title">英特尔 Arc 显卡驱动 32.0.101.8992 测试版发布：支持两款新游戏，修复多款游戏画面异常问题</p>
     </a>
   </div>
 </div>
@@ -101,73 +101,37 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">9 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/aseaninfo/2026/09-04/10690295.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="为便于供应商及时了解政府采购信息，根据《财政部关于开展政府采购意向公开工作的通知》(财库〔2020〕10号)等有关规定，现将中华人民共和国福州海关2026年9至10月政府采购意向公开如下：" data-title="中华人民共和国福州海关2026年9至10月政府采购意向" data-date="09-04 14:31" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-03/10689967.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【本期导读】" data-title="【讲习所·中国与世界】习近平以4点主张推动上合组织实现更高质量发展" data-date="09-03 22:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 14:31</span>
-          <span class="news-item-title">中华人民共和国福州海关2026年9至10月政府采购意向</span>
+          <span class="news-item-date">09-03 22:57</span>
+          <span class="news-item-title">【讲习所·中国与世界】习近平以4点主张推动上合组织实现更高质量发展</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="美国财政部发布了规定，禁止开展种族项目的学校获得免税资格，这对高等教育和其他私立学校构成威胁。" data-title="特朗普采取行动取消帮助少数族裔学生的学校的免税" data-date="09-04 00:17" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-04 00:17</span>
+          <span class="news-item-title">特朗普采取行动取消帮助少数族裔学生的学校的免税</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="拟议中的英雄花园正在沿着一条熟悉的道路前进，在这条道路上，地面上的事实比法庭能够跟上的速度更快。" data-title="特朗普的华盛顿特区改造项目“只是一个想法” ，直到它们变得更多" data-date="09-04 00:18" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-04 00:18</span>
+          <span class="news-item-title">特朗普的华盛顿特区改造项目“只是一个想法” ，直到它们变得更多</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/world/americas/lake-ontario-bodies-of-water-naming-disputes-south-china-sea.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="特朗普总统将其命名为“美国湖”的举动在一个充满争议地名的世界中脱颖而出，这些地名通常代表更深层次的政治或领土争端。" data-title="安大略湖是众多在命名斗争中被淹没的水体之一" data-date="09-03 17:04" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 17:04</span>
+          <span class="news-item-title">安大略湖是众多在命名斗争中被淹没的水体之一</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10690286.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月4日电 (记者 张素 李纯)中国最高人民检察院、国家医疗保障局4日联合发布6件依法从严惩治医保骗保犯罪典型案例，其中一起案例中涉案41人因“回流药”骗保犯罪获刑。" data-title="中国最高检、国家医保局联合发布案例 涉惩治“回流药”骗保等" data-date="09-04 14:30" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-04 14:30</span>
           <span class="news-item-title">中国最高检、国家医保局联合发布案例 涉惩治“回流药”骗保等</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10690293.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="视频：新视记｜八旬老人用镜头留住抗战记忆来源：新华社" data-title="新视记｜八旬老人用镜头留住抗战记忆" data-date="09-04 14:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 14:28</span>
-          <span class="news-item-title">新视记｜八旬老人用镜头留住抗战记忆</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/edu/2026/09-04/10690292.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="视频：【职引未来】从校园到果园：这些新农人的青春剧本从田野起笔来源：光明网" data-title="【职引未来】从校园到果园：这些新农人的青春剧本从田野起笔" data-date="09-04 14:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 14:28</span>
-          <span class="news-item-title">【职引未来】从校园到果园：这些新农人的青春剧本从田野起笔</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690289.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月4日电 据中国海洋预报网站消息，9月4日，国家海洋预报台根据《海洋灾害应急预案》发布海浪蓝色警报。受今年第24号台风“科罗旺”(热带风暴级)的影响，预计：9月4日上午到5日上午，东海将出现3到5米的大浪到巨浪区；上海、浙江近岸海域将出现2到3.4米的中浪到大浪，近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。" data-title="国家海洋预报台发布海浪蓝色警报：东海将出现3到5米的大浪到巨浪" data-date="09-04 14:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 14:27</span>
-          <span class="news-item-title">国家海洋预报台发布海浪蓝色警报：东海将出现3到5米的大浪到巨浪</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690280.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月4日电 据“中国水利”微信公众号消息，2026年9月4日1时4分，青海省海西州直辖区发生5.1级地震，震源深度10千米。水利部迅即启动水利抗震救灾调度指挥机制，召开专题会商会，分析地震对水利工程和农村供水影响，研判震区雨水情形势，安排部署水利抗震救灾工作。" data-title="青海海西州发生5.1级地震 水利部迅即启动水利抗震救灾调度指挥机制" data-date="09-04 14:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 14:26</span>
-          <span class="news-item-title">青海海西州发生5.1级地震 水利部迅即启动水利抗震救灾调度指挥机制</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在隐私与安全之间作出取舍时，了解你所在社区的监控基础设施到底有多普遍或会有所帮助。要查清楚这一点已有一些简单的方法。" data-title="行走在纽约：我发现监控摄像头数量远超想像" data-date="09-04 14:25" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 14:25</span>
-          <span class="news-item-title">行走在纽约：我发现监控摄像头数量远超想像</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690285.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网加德满都9月4日电 (记者 崔楠 肖玉笛)尼泊尔一名参与前方救援的议员4日在社交媒体上说，两名被困在上崔树里3A水电站隧道内的工人当天被成功救出，他们已在洞内坚持9天有余。" data-title="尼泊尔泥石流灾后第10天 两名被困隧道的工人获救" data-date="09-04 14:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 14:21</span>
-          <span class="news-item-title">尼泊尔泥石流灾后第10天 两名被困隧道的工人获救</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="监察长发现，洛里·查韦斯-德雷默将劳工部的资金用于个人旅行，并容忍该机构内的骚扰行为。" data-title="部门报告发现前劳工部长引发功能障碍和毒性" data-date="09-04 09:52" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 09:52</span>
-          <span class="news-item-title">部门报告发现前劳工部长引发功能障碍和毒性</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="俄罗斯 Telegram 频道利用虚假的强奸消息和乌克兰女性的照片，引诱数百万用户加入亲战宣传网。" data-title="亲俄宣传网络内幕：利用乌克兰女性遭强奸的虚假消息，作引流“诱饵”" data-date="09-04 09:39" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 09:39</span>
-          <span class="news-item-title">亲俄宣传网络内幕：利用乌克兰女性遭强奸的虚假消息，作引流“诱饵”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="此举是在丹尼尔·P·德里斯科尔辞职几天后发生的，他与国防部长皮特·赫格斯在清洗陆军高级将领问题上发生了冲突。" data-title="特朗普任命陆军工程官员担任代理部长" data-date="09-04 09:18" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 09:18</span>
-          <span class="news-item-title">特朗普任命陆军工程官员担任代理部长</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="内政部长道格·布尔古姆 (Doug Burgum) 宣布计划开始修建 250 英尺高的凯旋门。该项目仍有待最终批准。" data-title="特朗普将在获得批准之前破土动工" data-date="09-04 07:44" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -181,17 +145,17 @@ title: 热点新闻
           <span class="news-item-date">09-04 05:51</span>
           <span class="news-item-title">JD万斯表示他不会将伊朗冲突称为战争</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="美国财政部发布了规定，禁止开展种族项目的学校获得免税资格，这对高等教育和其他私立学校构成威胁。" data-title="特朗普采取行动取消帮助少数族裔学生的学校的免税" data-date="09-04 00:17" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="此举是在丹尼尔·P·德里斯科尔辞职几天后发生的，他与国防部长皮特·赫格斯在清洗陆军高级将领问题上发生了冲突。" data-title="特朗普任命陆军工程官员担任代理部长" data-date="09-04 09:18" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 00:17</span>
-          <span class="news-item-title">特朗普采取行动取消帮助少数族裔学生的学校的免税</span>
+          <span class="news-item-date">09-04 09:18</span>
+          <span class="news-item-title">特朗普任命陆军工程官员担任代理部长</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/ty/2026/09-03/10689973.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社深圳9月3日电 (记者 张璐 索有为)正在深圳举行的2026李宁·中国羽毛球大师赛9月3日结束第二轮较量，男单世界第一、印尼选手乔纳坦以0:2不敌中国香港选手吴英伦，爆冷出局；中国混双组合冯彦哲/黄东萍以2:1逆转战胜泰国组合帕克卡波/沙西丽。" data-title="中国羽毛球大师赛：男单世界第一乔纳坦爆冷出局" data-date="09-03 23:59" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="监察长发现，洛里·查韦斯-德雷默将劳工部的资金用于个人旅行，并容忍该机构内的骚扰行为。" data-title="部门报告发现前劳工部长引发功能障碍和毒性" data-date="09-04 09:52" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-03 23:59</span>
-          <span class="news-item-title">中国羽毛球大师赛：男单世界第一乔纳坦爆冷出局</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-04 09:52</span>
+          <span class="news-item-title">部门报告发现前劳工部长引发功能障碍和毒性</span>
         </a>
   </div>
   <div class="news-category">
@@ -200,144 +164,108 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/0/998/400.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，联想 (Lenovo) 在 IFA 2026 上发布了搭载高通处理器的 ThinkBook 14 G9 Q8Y 商务本。其基于骁龙 X2 Plus，支持 25W TDP；配备 1920×1200 60Hz 400nits 低色域屏幕。ThinkBook 14 G9 Q8Y 机身薄至 17.39mm，起始质量 1.3kg；支持 32GB LPDDR5X；提供 2 个 M.2 SSD 盘位，预装至多 1TB 存储；屏幕可选触控；集成 50Whr 电池；提供背光键盘、120mm × 75mm 触控板；集成 2 个 2W 扬声器，配备 FHD IR 摄像头。该笔电配备支持 320MHz 频宽的 Wi-Fi 7 无线网卡；外部 I/O 则包括 2 个 USB-C 10Gb" data-title="联想带来高通版 ThinkBook 14 Gen 9 笔电：X2 Plus + 低色域屏" data-date="09-04 14:33" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 14:33</span>
-          <span class="news-item-title">联想带来高通版 ThinkBook 14 Gen 9 笔电：X2 Plus + 低色域屏</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/399.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，康佳集团股份有限公司昨日发布公告称，经公司第十一届董事会第十二次会议审议通过，拟以股东会决议方式主动撤回 A 股和 B 股股票在深交所的上市交易，并在终止上市后申请转入全国中小企业股份转让系统有限责任公司代为管理的退市板块转让。公司股票自 9 月 4 日开市起停牌，直至深交所公告终止上市决定后 5 个交易日内摘牌。公司将于 9 月 14 日召开 2026 年第二次临时股东会，审议终止上市相关议案。康佳已设置现金选择权。A 股现金选择权行权价为 2.48 元 / 股，较停牌前收盘价 2.33 元溢价约 6.44%，由磐石润创（深圳）信息管理有限公司提供；B 股行权价为 0.73 港元 / 股，由合贸有限公司提供。该事项尚需股东会审议通过。终止上市事项需经出席股东会" data-title="上市 34 年：昔年“彩电一哥”康佳主动退市，四年亏损超 200 亿元" data-date="09-04 14:32" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 14:32</span>
-          <span class="news-item-title">上市 34 年：昔年“彩电一哥”康佳主动退市，四年亏损超 200 亿元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/398.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，富士胶片今日宣布推出 XF 卡口超远摄定焦镜头 XF400mmF4.5 R LM OIS WR。该镜头将于 9 月中旬在美国上市，建议零售价为 3,199.95 美元（IT之家注：现汇率约合 21,553 元人民币），日本市场将于 9 月 18 日发售（价格暂未公布）。该镜头提供 400mm 物理焦距（等效 35mm 画幅 609mm），最大光圈 F4.5，是 XF 镜头系列中光学性能最高的产品之一，主要亮点包括：和 XF500mmF5.6 R LM OIS WR 相同的设计风格，尺寸更紧凑、重量仅有约 1245g等效焦距约 609mm；兼容增距镜，可扩展到等效 853mm、等效 1219mm。14 组 21 片（包含 2 片超级 ED、4 片 ED）最近对焦距" data-title="富士发布 XF 400mm F4.5 超远摄定焦镜头：5.5 级防抖 + 等效 609mm，重 1245 克" data-date="09-04 14:18" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 14:18</span>
-          <span class="news-item-title">富士发布 XF 400mm F4.5 超远摄定焦镜头：5.5 级防抖 + 等效 609mm，重 1245 克</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/396.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，联想 (Lenovo) 当地时间 3 日在 IFA 2026 上发布了基于旗舰级移动平台的 Yoga Tab Plus Gen 2、Yoga Tab Gen 2 平板电脑。Yoga Tab Plus Gen 2Yoga Tab Plus Gen 2 采用高通骁龙 8 Elite 芯片；配备 13&quot; 3840×2560 144Hz 屏幕，峰值亮度 1100nits、色域 100% DCI-P3，获得杜比视界认证；存储器配置为 12GB + 256GB、16GB + 256GB、16GB + 512GB。其内置 12700mAh 电池；前摄 8MP + 0.3MP，后摄 12MP + 2MP（微距）；内置哈曼卡顿调音 6 扬声器；提供一步式翻盖磁吸键盘。该设备含税起" data-title="联想发布 Yoga Tab (Plus) Gen 2 平板电脑，搭载旗舰移动平台" data-date="09-04 14:11" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 14:11</span>
-          <span class="news-item-title">联想发布 Yoga Tab (Plus) Gen 2 平板电脑，搭载旗舰移动平台</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/395.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，飞利浦日前在印度推出了一款 S7221 5G 手机，6GB + 128GB 售价 20,499 印度卢比（IT之家注：现汇率约合 1,451 元人民币），8GB/128GB 售价 22,499 印度卢比（现汇率约合 1,592 元人民币）。飞利浦 S7221 5G 配备了一块 6.67 英寸 LCD 屏，分辨率为 1600 x 720，刷新率为 120Hz。这款智能手机搭载紫光展锐 T8200 芯片组，它是一款 6nm 八核处理器，配备两个 Cortex-A76 核心和六个 Cortex-A55 核心，图形处理器为 Mali-G57 MC2 GPU。飞利浦 S7221 5G 配备 6,400 万像素主摄和 1,600 万像素前置摄像头，搭载 5700mAh 电池" data-title="飞利浦手机上新：S7221 5G 新机发布，搭载紫光展锐 T8200 处理器" data-date="09-04 14:11" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 14:11</span>
-          <span class="news-item-title">飞利浦手机上新：S7221 5G 新机发布，搭载紫光展锐 T8200 处理器</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/394.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，科技媒体 Android Headline 今天（9 月 4 日）发布博文，报道称汉王友基旗下数字绘画品牌 XPPen 在柏林 IFA 2026 展会期间，推出 Magic Pro 13 安卓绘图板。定位方面，该产品搭载安卓 16，同时运行 XPPen 专有系统，主要服务数字绘画和创意项目，采用 12.95 英寸 LCD 显示屏，提供 3K 分辨率和 120Hz 刷新率。Magic Pro 13 重 655 克，机身厚 6.65 毫米，内置 10200mAh 电池，支持 45W USB-C 快充。IT之家附上相关图片如下：手写体验方面，Magic Pro 13 支持 16K 压力感应和光标悬停功能，随附的 X4 Smart Chip Stylus 手写笔提供 1" data-title="汉王 XPPen 推出 Magic Pro 13 安卓绘图板：12.95 英寸 3K 屏、16384 级压感手写笔" data-date="09-04 14:10" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 14:10</span>
-          <span class="news-item-title">汉王 XPPen 推出 Magic Pro 13 安卓绘图板：12.95 英寸 3K 屏、16384 级压感手写笔</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/393.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，当地时间 9 月 4 日，谷歌正式启动谷歌助理（Google Assistant）移动端的退役工作，这款服役近十年的智能语音助手将逐步退出历史舞台，由新一代 AI 助手 Gemini 全面接棒。谷歌此前通过电子邮件向安卓用户宣布了这一消息。根据通知，移动设备上的 Google Assistant 服务将从 9 月 4 日起陆续停止，符合条件的安卓设备将自动切换至 Gemini。迁移工作将在随后数周内分批完成，设备完成切换后，用户将无法在手机、平板电脑或配对设备上继续使用或切换回 Google Assistant。此次调整范围不仅限于手机和平板电脑。用户将 Gemini 设为移动设备默认助理后，与手机配对的兼容设备也会同步改用 Gemini，包括 Wear OS" data-title="服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒" data-date="09-04 14:00" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 14:00</span>
-          <span class="news-item-title">服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/392.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，科技媒体 NotebookCheck 昨日（9 月 3 日）发布博文，分享了华硕 ProArt P14 和 ProArt P16 笔记本的内部细节，显示芯片散热部分采用液态金属方案。该媒体分享了相关视频和图片，指出在上述两款笔记本中，华硕并未采用均热板方案，推测可能是 RTX Spark 的芯片面积较大；若使用均热板，安装时可能出现压力分布不均。压力不均可能影响芯片与散热组件的贴合，从而削弱热量传递效率。该媒体指出华硕为了适配这类轻薄机身与较大芯片的安装条件，采用传统热管加液态金属的组合。IT之家援引博文介绍，液态金属可提升芯片与散热器之间的导热效率，但材料具有流动性。笔记本在携带、移动或震动中，可能面临液态金属突破防护区域的风险。若材料接触到不应接触的元件，可" data-title="消息称华硕 ProArt P14/P16 笔记本采用液态金属散热方案" data-date="09-04 13:59" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 13:59</span>
-          <span class="news-item-title">消息称华硕 ProArt P14/P16 笔记本采用液态金属散热方案</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/484159.html" target="_blank" rel="noopener" data-cat="keji" data-summary="雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。" data-title="2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先" data-date="09-04 13:53" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-04 13:53</span>
-          <span class="news-item-title">2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/484155.html" target="_blank" rel="noopener" data-cat="keji" data-summary="千问办公上线首月用户数突破 3000万，企业用户占比过半" data-title="千问办公上线首月用户数突破 3000万，企业用户占比过半" data-date="09-04 13:48" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-04 13:48</span>
-          <span class="news-item-title">千问办公上线首月用户数突破 3000万，企业用户占比过半</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/" target="_blank" rel="noopener" data-cat="keji" data-summary="虽然餐厅老板可能会将生成式人工智能作为美化菜单的捷径，但顾客可以直观地感觉到食物有问题。" data-title="那些无食欲的人工智能背后的同一性问题" data-date="09-04 12:21" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/" target="_blank" rel="noopener" data-cat="keji" data-summary="这款以家庭为中心的人工智能助手希望了解你日常生活的细节，但表示不会使用这些数据来训练人工智能模型或与他人分享。" data-title="Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛" data-date="09-04 00:09" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-04 12:21</span>
-          <span class="news-item-title">那些无食欲的人工智能背后的同一性问题</span>
+          <span class="news-item-date">09-04 00:09</span>
+          <span class="news-item-title">Ollie押注其对隐私的关注可以帮助它赢得AI助手竞赛</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/483984.html" target="_blank" rel="noopener" data-cat="keji" data-summary="比新业务更考验一家公司的，可能是怎么对待年轻人。" data-title="常州女首富机器人转型才开始，先因裁应届生上了热搜" data-date="09-04 12:03" data-source="量子位">
+        <a class="news-item" href="https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/" target="_blank" rel="noopener" data-cat="keji" data-summary="WeatherNext 3 是深度学习技术带来的气象学巨变的最新浪潮。谷歌表示，它将开始向用户在搜索、谷歌地图和 Gemini 中看到的天气信息提供信息。" data-title="谷歌最新的人工智能天气模型让您没有借口忘记带雨伞" data-date="09-03 23:00" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-04 12:03</span>
-          <span class="news-item-title">常州女首富机器人转型才开始，先因裁应届生上了热搜</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-03 23:00</span>
+          <span class="news-item-title">谷歌最新的人工智能天气模型让您没有借口忘记带雨伞</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html" target="_blank" rel="noopener" data-cat="keji" data-summary="一家非营利组织对 OpenAI 的人工智能如何进行的研究。特工能够闯入 Hugging Face 的基础设施，但不允许查看事件的全部范围。" data-title="OpenAI 如何限制对其机器人拥抱脸部攻击的调查" data-date="09-04 11:00" data-source="纽约时报">
+        <a class="news-item" href="https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/" target="_blank" rel="noopener" data-cat="keji" data-summary="Nvidia 表示 Hugging Face 拥有超过 300 万个模型，并被超过 1800 万开发者使用。" data-title="英伟达确认将以129亿美元收购Hugging Face" data-date="09-03 20:42" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 11:00</span>
-          <span class="news-item-title">OpenAI 如何限制对其机器人拥抱脸部攻击的调查</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-03 20:42</span>
+          <span class="news-item-title">英伟达确认将以129亿美元收购Hugging Face</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40" target="_blank" rel="noopener" data-cat="keji" data-summary="按照官方说法，Nvidia 备受争议的 DLSS 5 AI 渲染本应在今晚仅推出一款游戏，仅在 Nvidia 最新的 RTX 50 GPU 上发布，并且开发者可以完全控制他们的艺术视野。但非正式地，改装者已经移植了 DLSS 5 的泄露版本，可以在启动时在几乎任何东西上运行 [...]" data-title="Nvidia 将正式将 DLSS 5 引入旧款 GPU，但不会给予游戏玩家完全控制权" data-date="09-04 09:49" data-source="The Verge">
+        <a class="news-item" href="https://www.tomshardware.com/laptops/lenovo-details-its-rtx-spark-laptops-yoga-pro-9n-and-yoga-9n-2-in-1-get-full-specs-stylus-support" target="_blank" rel="noopener" data-cat="keji" data-summary="联想在柏林IFA之前详细介绍了其RTX Spark笔记本电脑，发布了完整规格并展示了触控笔兼容性。" data-title="联想详细介绍其RTX Spark笔记本电脑— Yoga Pro 9n和Yoga 9n 2合1获得完整规格、触控笔支持" data-date="09-04 00:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">联想详细介绍其RTX Spark笔记本电脑— Yoga Pro 9n和Yoga 9n 2合1获得完整规格、触控笔支持</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/laptops/lenovos-ideapad-vibe-laptops-stand-out-with-seven-colors-and-swappable-keycaps-14-15-inch-models-with-snapdragon-x-and-amd-ai-400-cpus-to-start-at-usd699" target="_blank" rel="noopener" data-cat="keji" data-summary="联想最新的IdeaPad笔记本电脑充满了五彩缤纷的氛围。Vibe系列将有七种色调，带有可更换的键盘键帽，因此您可以搭配机箱或获得一流的对比度。这款14英寸和15英寸笔记本电脑将于今年晚些时候上市，起价为699 $。" data-title="联想的IdeaPad Vibe笔记本电脑以七种颜色和可更换的键帽脱颖而出–配备Snapdragon X和AMD AI 400 CPU的14,15英寸型号起价为$ 699" data-date="09-04 00:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">联想的IdeaPad Vibe笔记本电脑以七种颜色和可更换的键帽脱颖而出–配备Snapdragon X和AMD AI 400 CPU的14,15英寸型号起价为$ 699</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/laptops/lenovo-ditches-fans-in-favor-of-solid-state-airjet-tech-in-super-slim-1-8-pound-aeroblade-laptop-concept-company-also-lands-at-ifa-with-a-14-inch-rollable-screen-notebook-that-expands-to-17-inches" target="_blank" rel="noopener" data-cat="keji" data-summary="联想在IFA 2026上推出了两款新的笔记本电脑概念：采用Frore System的AirJet固态冷却技术的1.83磅0.39英寸厚的AeroBlade ，以及可扩展到17英寸屏幕的紧凑型14英寸可卷屏便携式笔记本电脑，被称为Project Swan。" data-title="联想放弃了风扇，转而采用超薄、1.8磅重的AeroBlade笔记本电脑概念的固态AirJet技术--该公司还推出了一款可扩展到17英寸的14英寸可卷式屏幕笔记本电脑" data-date="09-04 00:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">联想放弃了风扇，转而采用超薄、1.8磅重的AeroBlade笔记本电脑概念的固态AirJet技术--该公司还推出了一款可扩展到17英寸的14英寸可卷式屏幕笔记本电脑</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/laptops/lenovo-thinkcentre-x-ultra-packs-gorgon-halo-amd-ryzen-ai-max-pro-495-shows-up-in-mini-workstation" target="_blank" rel="noopener" data-cat="keji" data-summary="AMD 的 Gorgon Halo 芯片即将揭开神秘面纱。在 IFA 之前，联想展示了搭载 AMD Ryzen AI Max+ Pro 495 的 THinkCentre X Ultra。" data-title="联想ThinkCentre X Ultra包装Gorgon Halo — AMD Ryzen AI Max + Pro 495出现在迷你工作站中" data-date="09-04 00:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">联想ThinkCentre X Ultra包装Gorgon Halo — AMD Ryzen AI Max + Pro 495出现在迷你工作站中</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/laptops/nvidias-rtx-spark-n1x-launches-in-october-for-laptops-and-desktops-18-or-20-cpu-cores-paired-with-5-120-or-6-144-cuda-cores-up-to-128gb-of-unified-memory" target="_blank" rel="noopener" data-cat="keji" data-summary="采用英伟达RTX Spark N1X芯片的系统将于10月份在迷你PC和笔记本电脑上推出，芯片有两种配置。" data-title="英伟达的RTX Spark N1X于10月推出，适用于笔记本电脑和台式机— 18或20个CPU内核，配有5,120或6,144个CUDA内核，高达128GB的统一内存" data-date="09-04 00:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">英伟达的RTX Spark N1X于10月推出，适用于笔记本电脑和台式机— 18或20个CPU内核，配有5,120或6,144个CUDA内核，高达128GB的统一内存</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-pair-utility-joins-every-gpu-in-your-home-into-a-cluster-for-agentic-ai-tasks-tool-uses-spare-cycles-to-keep-agent-swarms-from-hammering-one-gpu" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达的个人AI路由器（ PAIR ）集群实用程序使代理AI工作负载能够利用家庭网络上的每个备用GPU周期，从而实现更快的执行和更私密的推理。" data-title="Nvidia PAIR实用程序将家庭中的每个GPU连接到一个集群中，以执行代理AI任务—该工具使用备用周期来防止代理群撞击一个GPU" data-date="09-04 00:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">Nvidia PAIR实用程序将家庭中的每个GPU连接到一个集群中，以执行代理AI任务—该工具使用备用周期来防止代理群撞击一个GPU</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/intels-core-ultra-400-nova-lake-launch-schedule-leaks-out-mass-production-in-q4-first-nova-lake-cpus-in-q1-2027" target="_blank" rel="noopener" data-cat="keji" data-summary="英特尔的酷睿超400系列“Nova Lake-S” CPU有望在下个季度量产，但它们将仅在2027年第一季度推出， 28核型号将排在第一位。" data-title="英特尔Core Ultra 400 “Nova Lake”发布时间表泄露—第四季度量产， 2027年第一季度首批Nova Lake CPU" data-date="09-03 23:58" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-03 23:58</span>
+          <span class="news-item-title">英特尔Core Ultra 400 “Nova Lake”发布时间表泄露—第四季度量产， 2027年第一季度首批Nova Lake CPU</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/how-to-install-a-ps5-ssd-in-2026" target="_blank" rel="noopener" data-cat="keji" data-summary="了解如何在五分钟内在PlayStation 5、PlayStation 5 Slim或PlayStation 5 Pro中安装M.2 NVMe SSD。" data-title="2026 年如何安装 PS5 SSD" data-date="09-03 23:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-03 23:30</span>
+          <span class="news-item-title">2026 年如何安装 PS5 SSD</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa" target="_blank" rel="noopener" data-cat="keji" data-summary="回想十年左右的时间，智能手机制造商痴迷于缩小手机的挡板。屏幕越来越大，周围的黑条越来越小，有一段时间，它看起来像真正的边缘到边缘显示迫在眉睫。然后，进度就停止了。表圈缩小到1毫米或[…]" data-title="我拿着第一个真正的挡板" data-date="09-04 00:00" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-04 09:49</span>
-          <span class="news-item-title">Nvidia 将正式将 DLSS 5 引入旧款 GPU，但不会给予游戏玩家完全控制权</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">我拿着第一个真正的挡板</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/483598.html" target="_blank" rel="noopener" data-cat="keji" data-summary="吃下90%市场" data-title="卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”" data-date="09-04 09:40" data-source="量子位">
+        <a class="news-item" href="https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts" target="_blank" rel="noopener" data-cat="keji" data-summary="Circular 今天宣布推出新的 Ring 3 系列，作为在 CES 2025 上首次亮相的 Ring 2 的后续产品，配备升级的传感器和 FDA 批准的心房颤动检测。新的 Ring 3 系列包括一个 Pro 型号，它继承了相同的健康跟踪功能，以及一个较小的 Slim 选项，提供更有限的 […]" data-title="Circular的新智能戒指增加了非接触式支付和振动警报" data-date="09-04 00:00" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-04 09:40</span>
-          <span class="news-item-title">卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">Circular的新智能戒指增加了非接触式支付和振动警报</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/988734/moto-watch-ultra-release-date-price-specs-wear-os-ifa" target="_blank" rel="noopener" data-cat="keji" data-summary="在重返智能手表市场几个月后，摩托罗拉推出了首款Moto Watch Ultra ，瞄准了高端市场。它配备了最近的Moto Watch的一些升级-最明显的是跳转到Wear OS -但缺乏户外功能，使其成为[…]" data-title="Moto Watch Ultra是Wear OS的回归" data-date="09-04 00:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">Moto Watch Ultra是Wear OS的回归</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs" target="_blank" rel="noopener" data-cat="keji" data-summary="联想宣布推出IdeaPad Vibe ，这是一款生产力笔记本电脑，旨在以相似的起价和更广泛的颜色推出MacBook Neo。Vibe有14英寸和15英寸的尺寸， AMD和高通的芯片选项分别定于10月和11月推出。英特尔版本（可能是Wildcat Lake ）设置为[…]" data-title="联想的新款 MacBook Neo 竞争对手有两种尺寸和七种颜色" data-date="09-04 00:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-04 00:00</span>
+          <span class="news-item-title">联想的新款 MacBook Neo 竞争对手有两种尺寸和七种颜色</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">14 条</span>
     </div>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育FPL专家吉安尼·巴蒂斯（ Gianni Buttice ）研究了幻想英超联赛经理在进入第三周比赛时面临的一些最大困境。" data-title="谁是曼城最适合购买的球员？ FPL游戏周三难题" data-date="09-04 14:15" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="过去有句老话说，英国球员的价值很高。现在这似乎只适用于已经在英超联赛中的球员。" data-title="英超联赛的溢价为 2000 万英镑——这让欧洲俱乐部感到担忧" data-date="09-03 19:13" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 14:15</span>
-          <span class="news-item-title">谁是曼城最适合购买的球员？ FPL游戏周三难题</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS" data-title="卢卡斯·赫林顿（ Lucas Herrington ）在赫尔城（ Hull City ）停飞，尽管飞速崛起： “这太疯狂了” |乔伊·林奇（ Joey" data-date="09-04 14:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-04 14:00</span>
-          <span class="news-item-title">卢卡斯·赫林顿（ Lucas Herrington ）在赫尔城（ Hull City ）停飞，尽管飞速崛起： “这太疯狂了” |乔伊·林奇（ Joey</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/premier-league-10-things-to-look-out-for-this-weekend" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS" data-title="英超联赛：本周末需要注意的10件事" data-date="09-04 07:01" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-04 07:01</span>
-          <span class="news-item-title">英超联赛：本周末需要注意的10件事</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育足球专家克里斯·萨顿（ Chris Sutton ）与卡萨比亚（ Kasabian ）主唱塞尔日·皮佐尔诺（ Serge Pizzorno ）以及英国广播公司（ BBC ）的读者和人工智能（ AI ）进行了对本周末英" data-title="萨顿对 Kasabian 主唱 Serge Pizzorno 的预测" data-date="09-04 03:58" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 03:58</span>
-          <span class="news-item-title">萨顿对 Kasabian 主唱 Serge Pizzorno 的预测</span>
-        </a>
-        <a class="news-item" href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="职业足球队的首席技术官指出了“博通收购问题”。" data-title="VMware迁移将Tottenham Hotspur的许可费降低了85%" data-date="09-04 02:58" data-source="Ars Technica">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-arstechnica">🔬 Ars Technica</span>
-          <span class="news-item-date">09-04 02:58</span>
-          <span class="news-item-title">VMware迁移将Tottenham Hotspur的许可费降低了85%</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="摩根·吉布斯-怀特（ Morgan Gibbs-White ）被排除在英格兰世界杯阵容之外-托马斯·图切尔（ Thomas Tuchel ）是否无法忽视他的持续良好状态？" data-title="“Adonis” Gibbs-White闪耀的机会- Tuchel会注意到吗？" data-date="09-04 01:07" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 01:07</span>
-          <span class="news-item-title">“Adonis” Gibbs-White闪耀的机会- Tuchel会注意到吗？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳边锋加布里埃尔·马丁内利以 6000 万英镑加盟沙特职业联赛球队阿尔希拉尔。" data-title="阿森纳球星马蒂内利加盟阿尔" data-date="09-04 00:30" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 00:30</span>
-          <span class="news-item-title">阿森纳球星马蒂内利加盟阿尔</span>
+          <span class="news-item-date">09-03 19:13</span>
+          <span class="news-item-title">英超联赛的溢价为 2000 万英镑——这让欧洲俱乐部感到担忧</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="据信，切尔西今年夏天通过出售或租借多达 39 名球员，收回了超过 5 亿英镑的收入。" data-title="解析切尔西夏季 39 场令人震惊的出局" data-date="09-04 00:20" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -345,41 +273,11 @@ title: 热点新闻
           <span class="news-item-date">09-04 00:20</span>
           <span class="news-item-title">解析切尔西夏季 39 场令人震惊的出局</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/03/mike-dean-claims-secret-games-for-a-laugh-while-refereeing-matches-football-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS" data-title="迈克·迪恩声称他在裁判比赛时玩秘密游戏是为了取笑" data-date="09-03 23:22" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-03 23:22</span>
-          <span class="news-item-title">迈克·迪恩声称他在裁判比赛时玩秘密游戏是为了取笑</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="老鹰队主教练皮埃尔·萨奇表示，水晶宫前锋伊斯梅拉·萨尔需要时间来应对他转会利物浦计划的失败。" data-title="萨尔需要时间来处理利物浦转会失败的问题" data-date="09-03 23:05" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-03 23:05</span>
-          <span class="news-item-title">萨尔需要时间来处理利物浦转会失败的问题</span>
-        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="前英超裁判迈克·迪恩表示，在比赛期间，他会尽可能长时间地留在中圈。" data-title="我过去常常玩比赛游戏来搞笑——迪恩" data-date="09-03 19:45" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-03 19:45</span>
           <span class="news-item-title">我过去常常玩比赛游戏来搞笑——迪恩</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="前英超联赛裁判迈克·迪恩（ Mike Dean ）表示，他将在比赛中尽可能长时间地留在中场。" data-title="我过去常常笑着玩比赛- Dean" data-date="09-03 19:45" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-03 19:45</span>
-          <span class="news-item-title">我过去常常笑着玩比赛- Dean</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="过去有句老话说，英国球员的价值很高。现在这似乎只适用于已经在英超联赛中的球员。" data-title="英超联赛的溢价为 2000 万英镑——这让欧洲俱乐部感到担忧" data-date="09-03 19:13" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-03 19:13</span>
-          <span class="news-item-title">英超联赛的溢价为 2000 万英镑——这让欧洲俱乐部感到担忧</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="过去的格言是英格兰球员溢价。现在，这似乎只适用于已经在英超联赛中的球员。" data-title="英超联赛的溢价为2000万英镑，这让欧洲俱乐部感到担忧" data-date="09-03 19:13" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-03 19:13</span>
-          <span class="news-item-title">英超联赛的溢价为2000万英镑，这让欧洲俱乐部感到担忧</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="主教练安多尼·伊拉奥拉讨论了利物浦的转会业务、布拉德利·巴克拉的到来以及留住科迪·加克波。" data-title="伊劳拉对签约感到满意，巴可拉即将首次亮相" data-date="09-03 18:58" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -387,42 +285,78 @@ title: 热点新闻
           <span class="news-item-date">09-03 18:58</span>
           <span class="news-item-title">伊劳拉对签约感到满意，巴可拉即将首次亮相</span>
         </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/czdz349nyl7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="老鹰队主教练皮埃尔·萨奇表示，水晶宫前锋伊斯梅拉·萨尔需要时间来应对他转会利物浦计划的失败。" data-title="萨尔需要时间来处理利物浦转会失败的问题" data-date="09-03 23:05" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 23:05</span>
+          <span class="news-item-title">萨尔需要时间来处理利物浦转会失败的问题</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这名 18 岁的球员曾参加过两场大型国际赛事，是上赛季该分区的顶级解围者，也是一名狡猾、令人兴奋、快速且多才多艺的中场球员，阿齐兹在过去两个赛季随米尔沃尔在英冠联赛中证明了自己，现在值得有机会在顶级联赛中检验自己。继续阅读..." data-title="阿齐兹对安德烈斯：七个看起来很聪明的英超联赛截止日交易" data-date="09-03 17:00" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-03 17:00</span>
+          <span class="news-item-title">阿齐兹对安德烈斯：七个看起来很聪明的英超联赛截止日交易</span>
+        </a>
+        <a class="news-item" href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="职业足球队的首席技术官指出了“博通收购问题”。" data-title="VMware迁移将Tottenham Hotspur的许可费降低了85%" data-date="09-04 02:58" data-source="Ars Technica">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-arstechnica">🔬 Ars Technica</span>
+          <span class="news-item-date">09-04 02:58</span>
+          <span class="news-item-title">VMware迁移将Tottenham Hotspur的许可费降低了85%</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳边锋加布里埃尔·马丁内利以 6000 万英镑加盟沙特职业联赛球队阿尔希拉尔。" data-title="阿森纳球星马蒂内利加盟阿尔" data-date="09-04 00:30" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-04 00:30</span>
+          <span class="news-item-title">阿森纳球星马蒂内利加盟阿尔</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育足球专家克里斯·萨顿（ Chris Sutton ）与卡萨比亚（ Kasabian ）主唱塞尔日·皮佐尔诺（ Serge Pizzorno ）以及英国广播公司（ BBC ）的读者和人工智能（ AI ）进行了对本周末英" data-title="萨顿对 Kasabian 主唱 Serge Pizzorno 的预测" data-date="09-04 03:58" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-04 03:58</span>
+          <span class="news-item-title">萨顿对 Kasabian 主唱 Serge Pizzorno 的预测</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="过去的格言是英格兰球员溢价。现在，这似乎只适用于已经在英超联赛中的球员。" data-title="英超联赛的溢价为2000万英镑，这让欧洲俱乐部感到担忧" data-date="09-03 19:13" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 19:13</span>
+          <span class="news-item-title">英超联赛的溢价为2000万英镑，这让欧洲俱乐部感到担忧</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="摩根·吉布斯-怀特（ Morgan Gibbs-White ）被排除在英格兰世界杯阵容之外-托马斯·图切尔（ Thomas Tuchel ）是否无法忽视他的持续良好状态？" data-title="“Adonis” Gibbs-White闪耀的机会- Tuchel会注意到吗？" data-date="09-04 01:07" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-04 01:07</span>
+          <span class="news-item-title">“Adonis” Gibbs-White闪耀的机会- Tuchel会注意到吗？</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="前英超联赛裁判迈克·迪恩（ Mike Dean ）表示，他将在比赛中尽可能长时间地留在中场。" data-title="我过去常常笑着玩比赛- Dean" data-date="09-03 19:45" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 19:45</span>
+          <span class="news-item-title">我过去常常笑着玩比赛- Dean</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育FPL专家吉安尼·巴蒂斯（ Gianni Buttice ）研究了幻想英超联赛经理在进入第三周比赛时面临的一些最大困境。" data-title="谁是曼城最适合购买的球员？ FPL游戏周三难题" data-date="09-04 14:15" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-04 14:15</span>
+          <span class="news-item-title">谁是曼城最适合购买的球员？ FPL游戏周三难题</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="经理Andoni Iraola讨论了利物浦的转会业务、Bradley Barcola的到来以及Cody Gakpo的留任。" data-title="Iraola对签约感到高兴，因为Barcola即将首次亮相" data-date="09-03 18:58" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 18:58</span>
+          <span class="news-item-title">Iraola对签约感到高兴，因为Barcola即将首次亮相</span>
+        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">📰</span>
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
-      <span class="news-category-count">8 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="一名男子在等待人体肾脏移植期间，依靠移植的猪肾存活了创纪录的九个月。" data-title="猪肾在人体内运作271天" data-date="09-04 13:57" data-source="BBC">
+        <a class="news-item" href="https://www.ithome.com/0/998/179.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 3 日消息，英特尔 Graphics Software 32.0.101.8992 显卡驱动（适用于 Arc）今日发布。本次为 Non-WHQL 测试版本，为英特尔 Arc B 系列、A 系列独立显卡以及英特尔酷睿 Ultra 系列集成 Arc 核显提供支持，新增两款新游戏支持，修复了多款游戏存在的画面异常问题。IT之家附官方公告链接（https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html）。新游戏支持与性能优化为《鬼武者：剑之道》提供支持为《黎明行者之血》提供支持问题修复修复《失落星船：马拉松》（DX12）在各产品线中，使用各向异性过滤时游戏过程中部分物" data-title="英特尔 Arc 显卡驱动 32.0.101.8992 测试版发布：支持两款新游戏，修复多款游戏画面异常问题" data-date="09-03 22:20" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 13:57</span>
-          <span class="news-item-title">猪肾在人体内运作271天</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="不少人会配戴追踪器，检测自己的睡眠分数，并用尽方法“睡眠极大化”（sleepmaxxing）。但专家指出，把睡眠游戏化，正导致更多人出现睡眠失调问题。" data-title="执迷于“睡眠分数”如何反让你睡得更差？" data-date="09-04 10:05" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 10:05</span>
-          <span class="news-item-title">执迷于“睡眠分数”如何反让你睡得更差？</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/upshot/trump-dc-mall-garden-heroes.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="拟议中的英雄花园正在沿着一条熟悉的道路前进，在这条道路上，地面上的事实比法庭能够跟上的速度更快。" data-title="特朗普的华盛顿特区改造项目“只是一个想法” ，直到它们变得更多" data-date="09-04 00:18" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 00:18</span>
-          <span class="news-item-title">特朗普的华盛顿特区改造项目“只是一个想法” ，直到它们变得更多</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="她1983年的著作《令人发指的行为和日常叛乱》（ Outrageous Acts and Everyday Rebellions ）是一门关于勇气、同理心、好奇心和喧嚣的大师班。" data-title="格洛丽亚·斯泰纳姆（ Gloria Steinem ）来到纽约成为一名作家。她变成了一场运动。" data-date="09-03 23:26" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-03 23:26</span>
-          <span class="news-item-title">格洛丽亚·斯泰纳姆（ Gloria Steinem ）来到纽约成为一名作家。她变成了一场运动。</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="她挑战了性别歧视的假设，帮助女性发展自我价值感，并在工作、家庭和整个社会中获得一定程度的平等。" data-title="格洛丽亚·斯泰纳姆（ Gloria Steinem ） ，女权运动的化身， 92岁去世" data-date="09-03 22:39" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-03 22:39</span>
-          <span class="news-item-title">格洛丽亚·斯泰纳姆（ Gloria Steinem ） ，女权运动的化身， 92岁去世</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-03 22:20</span>
+          <span class="news-item-title">英特尔 Arc 显卡驱动 32.0.101.8992 测试版发布：支持两款新游戏，修复多款游戏画面异常问题</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/crm93nv8n7yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="利兹联队主教练丹尼尔·法克表示，中后卫乔·罗登由于“严重的腿筋受伤”将缺席八到十周。" data-title="利兹联队球员罗登因腿筋受伤将缺席长达 10 周" data-date="09-03 22:39" data-source="BBC">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
@@ -430,17 +364,83 @@ title: 热点新闻
           <span class="news-item-date">09-03 22:39</span>
           <span class="news-item-title">利兹联队球员罗登因腿筋受伤将缺席长达 10 周</span>
         </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="赫尔城批评新援罗比尼奥·瓦兹在宣布签约时受到“令人憎恶的种族主义辱骂”。" data-title="对新签约瓦兹的种族主义虐待令人憎恶" data-date="09-03 18:28" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-03 18:28</span>
+          <span class="news-item-title">对新签约瓦兹的种族主义虐待令人憎恶</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10689974.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="西藏日喀则市吉隆县泥石流灾害发生后，应急管理部迅速调派中央企业工程应急救援力量796人、522台(套)装备驰援西藏，在现场指挥部统一指挥下，协同开展排查搜救、道路抢通、风险监测等抢险救援工作。此外，中交集团、中国中铁还选派7名隧道专家赴尼泊尔灾区协助开展隧道救援工作。" data-title="应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援" data-date="09-04 00:03" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 00:03</span>
+          <span class="news-item-title">应急管理部调派央企力量全力支持吉隆泥石流灾害抢险救援</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/ty/2026/09-03/10689973.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社深圳9月3日电 (记者 张璐 索有为)正在深圳举行的2026李宁·中国羽毛球大师赛9月3日结束第二轮较量，男单世界第一、印尼选手乔纳坦以0:2不敌中国香港选手吴英伦，爆冷出局；中国混双组合冯彦哲/黄东萍以2:1逆转战胜泰国组合帕克卡波/沙西丽。" data-title="中国羽毛球大师赛：男单世界第一乔纳坦爆冷出局" data-date="09-03 23:59" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 23:59</span>
+          <span class="news-item-title">中国羽毛球大师赛：男单世界第一乔纳坦爆冷出局</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-03/10689972.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社广州9月3日电 (记者 王坚)受台风“沙德尔”影响，9月2日以来，粤东等地出现一轮强降雨过程。广东省水利厅3日晚通报称，广东韩江高陂水利枢纽(广东梅州)当日18时入库流量涨至4850立方米每秒，依据主要江河洪水编号规定，此次洪水编号为“韩江2026年第1号洪水”。" data-title="粤东持续强降雨 韩江发生2026年第1号洪水" data-date="09-03 23:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 23:29</span>
+          <span class="news-item-title">粤东持续强降雨 韩江发生2026年第1号洪水</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/ty/2026/09-03/10689971.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京9月3日电 2026京西国际山地户外季新闻发布会2日举行。据了解，本次户外季活动将推出覆盖徒步、越野、自行车三大门类的六项高水平赛事，预计吸引上万名户外运动爱好者参与。" data-title="2026京西国际山地户外季包含六大赛事" data-date="09-03 23:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 23:21</span>
+          <span class="news-item-title">2026京西国际山地户外季包含六大赛事</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-03/10689970.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社西藏吉隆9月3日电 题：西藏吉隆泥石流灾害核心区见闻：科技助力搜寻，护航救援" data-title="西藏吉隆泥石流灾害核心区见闻：科技助力搜寻，护航救援" data-date="09-03 23:20" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 23:20</span>
+          <span class="news-item-title">西藏吉隆泥石流灾害核心区见闻：科技助力搜寻，护航救援</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-03/10689969.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="通往吉隆口岸的路，通了。" data-title="每一分钟仿佛都长得不止60秒(记者手记)" data-date="09-03 23:08" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 23:08</span>
+          <span class="news-item-title">每一分钟仿佛都长得不止60秒(记者手记)</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-03/10689968.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京9月3日电 (记者 孙自法)甘肃地区位于中国黄土高原、青藏高原、蒙古高原三大地理单元交汇地带，在亚欧史前交流特别是农牧业交流进程中扮演了重要的枢纽角色。" data-title="史前甘肃人群为何形成独特遗传演化和社会结构？古基因组研究揭示" data-date="09-03 23:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-03 23:01</span>
+          <span class="news-item-title">史前甘肃人群为何形成独特遗传演化和社会结构？古基因组研究揭示</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="她挑战了性别歧视的假设，帮助女性发展自我价值感，并在工作、家庭和整个社会中获得一定程度的平等。" data-title="格洛丽亚·斯泰纳姆（ Gloria Steinem ） ，女权运动的化身， 92岁去世" data-date="09-03 22:39" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 22:39</span>
+          <span class="news-item-title">格洛丽亚·斯泰纳姆（ Gloria Steinem ） ，女权运动的化身， 92岁去世</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/03/books/review/gloria-steinem-writing-appraisal.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="她1983年的著作《令人发指的行为和日常叛乱》（ Outrageous Acts and Everyday Rebellions ）是一门关于勇气、同理心、好奇心和喧嚣的大师班。" data-title="格洛丽亚·斯泰纳姆（ Gloria Steinem ）来到纽约成为一名作家。她变成了一场运动。" data-date="09-03 23:26" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-03 23:26</span>
+          <span class="news-item-title">格洛丽亚·斯泰纳姆（ Gloria Steinem ）来到纽约成为一名作家。她变成了一场运动。</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/03/style/gloria-steinem-style-feminism.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="眼镜、发型、铃铛裤和腰带都包裹在她的女权主义事业中。" data-title="格洛丽亚·斯泰纳姆（ Gloria Steinem ）的魅力是达到目的的手段" data-date="09-03 21:46" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">09-03 21:46</span>
           <span class="news-item-title">格洛丽亚·斯泰纳姆（ Gloria Steinem ）的魅力是达到目的的手段</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/clyeq3v7829o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="赫尔城批评新援罗比尼奥·瓦兹在宣布签约时受到“令人憎恶的种族主义辱骂”。" data-title="对新签约瓦兹的种族主义虐待令人憎恶" data-date="09-03 18:28" data-source="BBC">
+        <a class="news-item" href="https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out" target="_blank" rel="noopener" data-cat="zonghe" data-summary="去年九月，史蒂夫·鲍尔默在接受 ESPN 采访时坚称，快船队并没有参与为他的明星球员科怀·伦纳德提供的看似可疑的 2800 万美元代言交易，该交易没有涉及任何实际代言。现在，这位前微软首席执行官已被 NBA 停赛一年，而联盟表示他的球队将失去五名 [...]" data-title="史蒂夫·鲍尔默因播客和大屏幕腐败丑闻被 NBA 停赛" data-date="09-04 07:37" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-03 18:28</span>
-          <span class="news-item-title">对新签约瓦兹的种族主义虐待令人憎恶</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-04 07:37</span>
+          <span class="news-item-title">史蒂夫·鲍尔默因播客和大屏幕腐败丑闻被 NBA 停赛</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据 Deadline 报道，执行制片人阿方索·卡隆、编剧兼执行制片人约翰·奥古斯特以及孩之宝娱乐公司目前正在开发《Ravenloft》系列。它可以使《龙与地下城》最具标志性的战役设定之一变得栩栩如生，该设定在今年早些时候的《Ravenloft: The Horrors Within》中得到了更新。据报道，Netflix 的《Ravenloft》系列将以 [...]" data-title="《龙与地下城》将推出 Netflix 真人剧集《Ravenloft》" data-date="09-04 04:48" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-04 04:48</span>
+          <span class="news-item-title">《龙与地下城》将推出 Netflix 真人剧集《Ravenloft》</span>
         </a>
   </div>
 </div>
@@ -448,23 +448,44 @@ title: 热点新闻
 <script>
 function onNewsSearch(query) {
   query = (query || '').trim().toLowerCase();
+  const terms = query.split(/\s+/).filter(Boolean);
   const items = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
   let matched = 0;
+
+  if (!terms.length) {
+    if (typeof filterNewsChannel === 'function') {
+      const activeBtn = document.querySelector('.channel-btn.active');
+      const channel = activeBtn ? (activeBtn.getAttribute('onclick') || '').match(/'([^']+)'/)?.[1] || 'all' : 'all';
+      filterNewsChannel(channel, activeBtn);
+    } else {
+      items.forEach(el => el.style.display = '');
+      document.querySelectorAll('.news-category').forEach(cat => cat.style.display = '');
+    }
+    const countEl = document.getElementById('news-search-count');
+    if (countEl) countEl.innerText = '';
+    return;
+  }
+
   items.forEach(el => {
     const title = (el.getAttribute('data-title') || el.innerText || '').toLowerCase();
     const summary = (el.getAttribute('data-summary') || '').toLowerCase();
     const source = (el.getAttribute('data-source') || '').toLowerCase();
-    const isMatch = !query || title.includes(query) || summary.includes(query) || source.includes(query);
-    el.style.display = isMatch ? '' : 'none';
+    const cat = (el.getAttribute('data-cat') || '').toLowerCase();
+    const date = (el.getAttribute('data-date') || '').toLowerCase();
+    const searchTarget = title + ' ' + summary + ' ' + source + ' ' + cat + ' ' + date;
+    const isMatch = terms.every(t => searchTarget.includes(t));
+    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'flex' : 'block') : 'none';
     if (isMatch) matched++;
   });
+
   document.querySelectorAll('.news-category').forEach(cat => {
     const visibleChildren = cat.querySelectorAll('.news-item:not([style*="display: none"])');
-    cat.style.display = (visibleChildren.length > 0 || !query) ? '' : 'none';
+    cat.style.display = visibleChildren.length > 0 ? 'block' : 'none';
   });
+
   const countEl = document.getElementById('news-search-count');
   if (countEl) {
-    countEl.innerText = query ? `🔍 找到 ${matched} 条` : '';
+    countEl.innerText = `🔍 找到 ${matched} 条`;
   }
 }
 
@@ -503,4 +524,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-04 14:38（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-04 16:03（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

@@ -17,6 +17,12 @@ import html
 import requests
 import feedparser
 from datetime import datetime, timedelta, timezone
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+        sys.stderr.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
 
 # 北京时间 UTC+8
 BEIJING_TZ = timezone(timedelta(hours=8))
@@ -46,7 +52,7 @@ try:
         except Exception:
             pass
     # 2. 尝试常见本地代理端口
-    for _port in [7890, 7891, 10809, 1080]:
+    for _port in [7890, 7891, 7897, 10809, 1080]:
         try:
             _proxy = f'http://127.0.0.1:{_port}'
             _translators.append(GoogleTranslator(source='auto', target='zh-CN',
@@ -81,12 +87,14 @@ def translate_to_chinese(text):
         try:
             import requests as _req
             _url = "https://api.mymemory.translated.net/get"
-            _params = {"q": text, "langpair": "en|zh-CN"}
-            _resp = _req.get(_url, params=_params, timeout=15)
+            _q = text[:450] if len(text) > 450 else text
+            _params = {"q": _q, "langpair": "en|zh-CN"}
+            _resp = _req.get(_url, params=_params, timeout=10)
             if _resp.status_code == 200:
                 _data = _resp.json()
                 _result = _data.get("responseData", {}).get("translatedText", "")
-                if _result and _result != text and not is_error_page(_result, ""):
+                if (_result and _result != _q and not is_error_page(_result, "") 
+                        and "LIMIT EXCEEDED" not in _result.upper() and "MYMEMORY" not in _result.upper()):
                     return _result
         except Exception as _e:
             log(f"  [MyMemory翻译失败] {_e}")
@@ -121,8 +129,10 @@ RSS_FEEDS = [
     {"url": "https://www.skysports.com/rss/12040", "name": "天空体育(转会中心)"},
     {"url": "https://www.skysports.com/rss/11661", "name": "天空体育(英超)"},
     {"url": "https://www.theguardian.com/football/premierleague/rss", "name": "卫报(英超深度)"},
-    # 🇨🇳 国内官方权威媒体 (实时滚动源)
-    {"url": "https://www.chinanews.com.cn/rss/scroll-news.xml", "name": "中国新闻网(滚动)"},
+    # 🇨🇳 国内官方权威媒体 (专业分流源：时政、国际、社会)
+    {"url": "https://www.chinanews.com.cn/rss/china.xml", "name": "中国新闻网(时政)"},
+    {"url": "https://www.chinanews.com.cn/rss/world.xml", "name": "中国新闻网(国际)"},
+    {"url": "https://www.chinanews.com.cn/rss/society.xml", "name": "中国新闻网(社会)"},
     # 🌐 国际权威媒体
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "name": "纽约时报"},
@@ -166,7 +176,7 @@ SOURCE_FLAG_MAP = {
     "The Verge": "🌐", "The Verge(科技)": "🌐",
     "量子位": "🧠", "量子位(AI前沿)": "🧠",
     "IT之家": "🇨🇳", "IT之家(数码芯片)": "💻",
-    "人民网": "🇨🇳", "新华网": "🇨🇳", "中国新闻网": "🇨🇳", "央视网": "🇨🇳",
+    "人民网": "🇨🇳", "新华网": "🇨🇳", "中国新闻网": "🇨🇳", "中国新闻网(时政)": "🇨🇳", "中国新闻网(国际)": "🇨🇳", "中国新闻网(社会)": "🇨🇳", "中国新闻网(滚动)": "🇨🇳", "央视网": "🇨🇳",
     "BBC": "🇬🇧", "BBC 英超专栏": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "天空体育": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "天空体育(转会中心)": "🔄", "天空体育(英超)": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "卫报": "🇬🇧", "卫报(英超深度)": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
@@ -180,7 +190,7 @@ SOURCE_CSS_MAP = {
     "The Verge": "source-theverge", "The Verge(科技)": "source-theverge",
     "量子位": "source-techcrunch", "量子位(AI前沿)": "source-techcrunch",
     "IT之家": "source-cn", "IT之家(数码芯片)": "source-cn",
-    "人民网": "source-cn", "新华网": "source-cn", "中国新闻网": "source-cn",
+    "人民网": "source-cn", "新华网": "source-cn", "中国新闻网": "source-cn", "中国新闻网(时政)": "source-cn", "中国新闻网(国际)": "source-cn", "中国新闻网(社会)": "source-cn", "中国新闻网(滚动)": "source-cn",
     "BBC": "source-bbc", "BBC 英超专栏": "source-bbc",
     "天空体育": "source-skysports", "天空体育(转会中心)": "source-skysports", "天空体育(英超)": "source-skysports",
     "卫报": "source-theathletic", "卫报(英超深度)": "source-theathletic",
@@ -377,7 +387,14 @@ def format_number(num, decimals=2):
 
 def log(msg):
     now = datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{now}] {msg}", flush=True)
+    try:
+        print(f"[{now}] {msg}", flush=True)
+    except Exception:
+        try:
+            safe_msg = str(msg).encode(sys.stdout.encoding or 'utf-8', errors='replace').decode(sys.stdout.encoding or 'utf-8')
+            print(f"[{now}] {safe_msg}", flush=True)
+        except Exception:
+            pass
 
 
 def source_to_flag(source):
@@ -534,6 +551,7 @@ def is_error_page(title, summary=""):
         "502 bad gateway", "503 service unavailable", "504 gateway timeout",
         "!!", "that's all we know", "that s all we know",
         "http error", "connection error", "timeout error",
+        "limit exceeded", "mymemory warning", "quota exceeded",
     ]
     for kw in error_keywords:
         if kw in text:
@@ -545,6 +563,42 @@ def is_error_page(title, summary=""):
     if not re.search(r'[\u4e00-\u9fff a-zA-Z]', title):
         return True
     return False
+
+
+def is_junk_notice(title, summary=""):
+    """检测是否属于日常政务招标公告、采购意向、常规备案等低价值非新闻公文，返回 True 表示应该过滤掉"""
+    if not title:
+        return True
+    text = (str(title) + " " + str(summary or "")).lower()
+    junk_patterns = [
+        "政府采购意向", "采购意向公开", "招标公告", "中标候选人", "中标结果", "成交结果",
+        "遴选公告", "磋商公告", "询价公告", "比选公告", "招募公告", "出让公告",
+        "挂牌出让", "拍卖公告", "招标代理", "工程监理招标", "施工招标", "资格预审公告",
+        "答辩名单", "答辩安排", "复试名单", "公示期满", "征求意见稿", "预算公开", "决算公开",
+        "政府采购合同", "单一来源采购"
+    ]
+    for jp in junk_patterns:
+        if jp in text:
+            return True
+    return False
+
+
+def is_suitable_headline(item):
+    """判断是否适合作为今日头条焦点大图（排除非重磅、纯预警、小事故、公文通知）"""
+    if not item or not item.get("title"):
+        return False
+    title = item["title"]
+    if len(title.strip()) < 10:
+        return False
+    unsuitable_keywords = [
+        "预警信号", "黄色预警", "蓝色预警", "大雾", "雷电", "暴雨", "海浪警报",
+        "采购", "招标", "中标", "停水", "停电", "封路", "施工", "寻人", "失联",
+        "通报批评", "开学第一课", "天气预报"
+    ]
+    for uk in unsuitable_keywords:
+        if uk in title:
+            return False
+    return True
 
 
 DOMESTIC_SOURCES = ["人民网", "新华网", "中国新闻网", "央视网"]
@@ -665,10 +719,10 @@ def fetch_rss(url, source_name, timeout=20):
             title = entry.get("title", "").strip()
             link = entry.get("link", "")
             if title and link:
-                # 提前过滤错误页面和无效标题（在任何处理之前）
+                # 提前过滤错误页面、低价值政务公文和无效标题（在任何处理之前）
                 raw_sum_check = str(entry.get("summary", entry.get("description", "")) or "")
-                if is_error_page(title, raw_sum_check):
-                    log(f"  [SKIP] 错误页面/无效标题: {title[:60]}")
+                if is_error_page(title, raw_sum_check) or is_junk_notice(title, raw_sum_check):
+                    log(f"  [SKIP] 错误页面/低价值公文/无效标题: {title[:60]}")
                     continue
 
                 # 智能提取发布时间，严格拒收无有效时间或历史陈旧新闻
@@ -703,6 +757,7 @@ def fetch_rss(url, source_name, timeout=20):
                         "published_dt": pub_dt,
                         "published_time": pub_time,
                         "source": src,
+                        "feed_name": source_name,
                         "summary": clean_sum[:350]
                     })
                 else:
@@ -713,61 +768,177 @@ def fetch_rss(url, source_name, timeout=20):
         return []
 
 
+# ===== 细分领域关键词定义 =====
+FOOTBALL_KEYWORDS = [
+    "英超", "转会", "足球", "bbc 英超", "天空体育", "卫报", "阿森纳", "曼城", "利物浦", "曼联",
+    "切尔西", "热刺", "皇马", "巴萨", "拜仁", "尤文", "国米", "米兰", "巴黎", "多特", "西甲",
+    "意甲", "德甲", "法甲", "欧冠", "欧联", "世界杯", "亚冠", "中超", "足球赛", "足协杯", "点球", "任意球", "角球", "越位",
+    "arsenal", "man city", "manchester", "liverpool", "chelsea", "tottenham", "spurs",
+    "konsa", "villa", "reijnders", "rashford", "jones", "cherif", "garlick", "root",
+    "cricket", "football", "premier league", "transfer", "signing", "striker", "midfielder",
+    "defender", "goalkeeper", "manager", "fifa", "uefa"
+]
+
+OTHER_SPORTS_KEYWORDS = [
+    # 球类与赛事
+    "羽毛球", "乒乓球", "网球", "篮球", "排球", "斯诺克", "台球", "高尔夫", "棒球", "垒球",
+    "手球", "水球", "曲棍球", "保龄球", "板球", "橄榄球", "冰球", "壁球",
+    "大师赛", "公开赛", "锦标赛", "巡回赛", "挑战赛", "大奖赛", "争霸赛", "邀请赛",
+    "奥运会", "亚运会", "大运会", "全运会", "冬奥会", "世锦赛", "青奥会", "残奥会",
+    "汤姆斯杯", "尤伯杯", "苏迪曼杯", "戴维斯杯", "联合会杯", "温网", "美网", "法网", "澳网",
+    "中网", "cba", "nba", "wcba", "fiba", "atp", "wta", "bwf", "ittf",
+    # 田径、水上、冰雪、力量与格斗
+    "田径", "短跑", "接力", "马拉松", "跨栏", "跳高", "跳远", "三级跳", "撑竿跳", "铅球",
+    "标枪", "铁饼", "竞走", "游泳", "跳水", "花样游泳", "赛艇", "皮划艇", "帆船", "帆板",
+    "冲浪", "滑雪", "短道速滑", "花样滑冰", "速度滑冰", "冰壶", "雪车", "雪橇",
+    "拳击", "柔道", "跆拳道", "摔跤", "散打", "武术", "空手道", "击剑", "射击", "射箭",
+    "举重", "体操", "艺术体操", "蹦床", "攀岩", "滑板", "霹雳舞", "赛车", "f1", "方程式",
+    "围棋", "象棋", "国际象棋", "电竞", "电子竞技", "英雄联盟", "王者荣耀", "dota",
+    # 比赛术语与赛况
+    "爆冷出局", "爆冷淘汰", "爆冷获胜", "男单", "女单", "男双", "女双", "混双",
+    "单打", "双打", "逆转取胜", "晋级四强", "晋级八强", "挺进决赛", "杀入决赛",
+    "无缘四强", "无缘八强", "无缘半决赛", "无缘决赛", "卫冕冠军", "斩获金牌", "夺得金牌",
+    "摘得金牌", "摘得银牌", "收获铜牌", "奖牌榜", "破世界纪录", "创赛会纪录", "头号种子",
+    "种子选手", "抢七", "赛点", "局点", "破发", "发球直接得分", "扣杀", "吊球",
+    "抢断", "三分球", "盖帽", "扣篮", "罚球", "大满贯", "运动员", "主教练", "裁判员"
+]
+
+ENTERTAINMENT_KEYWORDS = [
+    "电影", "电视剧", "网剧", "微短剧", "院线", "票房", "首映", "影帝", "影后",
+    "导演", "演员", "编剧", "制片人", "明星", "艺人", "歌手", "乐队", "演唱会",
+    "巡演", "音乐节", "新专辑", "单曲", "mv", "综艺", "选秀", "脱口秀", "相声",
+    "小品", "话剧", "舞台剧", "歌剧", "芭蕾舞", "音乐剧", "戏曲", "京剧", "越剧",
+    "黄梅戏", "非遗", "博物馆", "文物", "考古", "艺术展", "书画展", "动漫", "番剧",
+    "漫画", "cosplay", "漫展", "手游", "端游", "主机游戏", "八卦", "绯闻", "粉丝", "红毯"
+]
+
+LIFE_SOCIETY_KEYWORDS = [
+    # 气象预警与自然灾害
+    "气象台", "预警信号", "黄色预警", "橙色预警", "红色预警", "蓝色预警", "海浪警报",
+    "暴雨", "大暴雨", "特大暴雨", "强降雨", "降雨量", "大雪", "暴雪", "大雾", "浓雾",
+    "沙尘暴", "高温橙色", "高温红色", "寒潮", "强对流", "雷电", "冰雹", "台风",
+    "泥石流", "山体滑坡", "地震", "余震", "震源深度", "洪峰", "汛情", "防汛",
+    "山火", "森林火灾", "旱情", "人工增雨",
+    # 市政便民与交通民生
+    "公交专线", "公交线路", "地铁线路", "交通管制", "临时限行", "封路", "施工作业",
+    "客运站", "火车站", "列车停运", "航班延误", "自来水", "停水通知", "停电通知",
+    "燃气管道", "集中供暖", "菜篮子", "菜价", "粮油肉蛋", "惠农专线", "守护菜农",
+    # 文旅休闲、美食民俗
+    "景区", "门票", "免门票", "游乐园", "动物园", "植物园", "大熊猫", "赏月", "赏花",
+    "游园", "露营", "徒步", "农家乐", "民俗", "庙会", "非遗市集", "美食节", "特色小吃",
+    "老字号", "秋景", "赏秋", "红叶", "稻穗", "丰收", "梯田", "油菜花", "花海",
+    # 校园教育与学生考试
+    "开学", "开学第一课", "军训", "迎新", "校服", "师德师风", "教师节", "高考",
+    "中考", "小升初", "考研", "录取通知书", "新生报到", "选调生", "招教", "校招",
+    # 医疗健康生活与寻人搜救
+    "医保报销", "门诊统筹", "疫苗接种", "流感", "支原体", "登革热", "养生", "食疗",
+    "睡眠分数", "减重", "近视防控", "搜救", "救援队伍", "失联人员", "被困人员获救",
+    "成功脱险", "见义勇为", "善款", "捐助", "寻人启事"
+]
+
+HIGH_PRECISION_SHIZHENG_KEYWORDS = [
+    # 1. 核心中央机构与政治领导
+    "中共中央", "党中央", "全国人大", "全国政协", "国务院", "中央政治局", "中央纪委", "国家监委",
+    "最高人民法院", "最高检", "国家发改委", "外交部", "国防部", "国家安全部", "公安部",
+    "司法部", "财政部", "商务部", "中联部", "统战部", "中宣部", "国台办", "港澳办",
+    "特区政府", "行政长官", "立法会", "总书记", "国家主席", "国务院总理", "全国政协主席",
+    "委员长", "中央军委", "国务委员", "省委书记", "省长", "市委书记", "市长", "自治区主席",
+    # 2. 核心大政方针、反腐与法治
+    "两会", "政府工作报告", "党风廉政", "反腐败", "严重违纪违法", "接受纪律审查", "开除党籍",
+    "开除公职", "双开", "立案审查", "立案调查", "国家治理", "治国理政", "国家安全法", "基本法",
+    "爱国者治港", "两岸融合", "对台方针", "涉台事务", "以武谋独", "祖国统一",
+    # 3. 国际组织、首脑峰会与政府首长
+    "联合国安理会", "联合国大会", "联合国秘书长", "白宫", "克里姆林宫", "五角大楼", "国会山",
+    "美国参议院", "美国众议院", "欧洲议会", "欧盟委员会", "北约", "北约峰会", "g7峰会",
+    "七国集团", "金砖国家", "上合组织", "g20峰会", "二十国集团", "东盟峰会", "非盟峰会",
+    "阿盟", "海合会", "国际法院", "国际刑警",
+    "内阁", "议长", "众议院", "参议院", "议员", "国会议员", "监察长",
+    "总统", "副总统", "总理", "副总理", "首相", "国务卿", "劳工部长", "国防部长", "财政部长", "司法部长", "商务部长",
+    "特朗普", "拜登", "普京", "泽连斯基", "内塔尼亚胡", "万斯", "哈里斯", "朔尔茨", "马克龙", "苏纳克", "斯塔默",
+    # 4. 外交博弈、地缘政治与国际武装冲突
+    "国事访问", "外长会谈", "防长会晤", "元首会晤", "首脑峰会", "双边会晤", "外交照会",
+    "停火协议", "和平协定", "双边制裁", "对等反制", "驱逐外交官", "引渡协议", "划定边界",
+    "领海领空", "主权争议", "台海局势", "地缘冲突", "巴以冲突", "俄乌局势", "俄乌攻防", "俄乌冲突", "俄乌",
+    "朝鲜半岛局势", "伊核协议", "防扩散条约", "领事保护", "撤侨", "大使馆", "总领馆",
+    "哈马斯", "真主党", "胡塞武装", "也门政府军",
+    # 5. 国防军队与军事部署
+    "解放军", "中国人民解放军", "战区", "火箭军", "战略支援部队", "海军陆战队", "航母编队",
+    "军舰编队", "军事演习", "联合军演", "联合巡航", "战备巡逻", "导弹试射", "国防动员",
+    "防务磋商", "特种部队", "武装冲突", "防空识别区", "空袭", "轰炸", "防空导弹", "导弹袭击",
+    # 6. 国际外语高精度时政术语
+    "president", "prime minister", "foreign minister", "defense secretary", "secretary of state",
+    "white house", "pentagon", "capitol hill", "security council", "united nations",
+    "state department", "foreign ministry", "defense ministry", "nato",
+    "ceasefire", "peace talks", "state visit", "bilateral talks", "sanctions", "geopolitical"
+]
+
+
 def classify_item(item):
-    """智能归类到五大核心板块之一（重点聚焦 AI 模型革新与半导体芯片行业大动作）"""
+    """智能归类到五大核心板块之一（严格隔离非时政内容，杜绝体育/民生/公文误入时政）"""
     title = item.get("title", "")
     summary = item.get("summary", "")
     source = item.get("source", "")
-    full_text = f"{title} {summary} {source}".lower()
+    feed_name = item.get("feed_name", "")
+    link = item.get("link", "").lower()
+
+    # 注意：纯文本匹配严格使用 title 和 summary，绝不混入 source 字符串，避免源名称带有的"中国"污染判断
+    text = f"{title} {summary}".lower()
     title_lower = title.lower()
 
+    # 0. 垃圾政务公文与错误页面拦截（判定为 junk 绝不展示）
+    if is_junk_notice(title, summary) or is_error_page(title, summary):
+        return "junk"
+
+    # 0.1 URL 路径强先验规则（官方媒体层级路由）
+    if "/ty/" in link:
+        if any(kw in text for kw in FOOTBALL_KEYWORDS):
+            return "zuqiu"
+        return "zonghe"
+
+    if "/cj/" in link or "/stock/" in link:
+        return "caijing"
+
     # 1. 足球 / 英超 / 转会（特征明确，优先提取）
-    football_keywords = [
-        "英超", "转会", "足球", "bbc 英超", "天空体育", "卫报", "阿森纳", "曼城", "利物浦", "曼联",
-        "切尔西", "热刺", "皇马", "巴萨", "拜仁", "尤文", "国米", "米兰", "巴黎", "多特", "西甲",
-        "意甲", "德甲", "法甲", "欧冠", "欧联", "世界杯", "亚冠", "中超", "战报", "赛况", "战术",
-        "arsenal", "man city", "manchester", "liverpool", "chelsea", "tottenham", "spurs",
-        "konsa", "villa", "reijnders", "rashford", "jones", "cherif", "garlick", "root",
-        "cricket", "football", "premier league", "transfer", "signing", "striker", "midfielder",
-        "defender", "goalkeeper", "manager", "fifa", "uefa"
-    ]
-    for kw in football_keywords:
-        if kw in full_text:
+    for kw in FOOTBALL_KEYWORDS:
+        if kw in text:
             return "zuqiu"
 
-    # 2. 负向降噪过滤：明显属于纯股市行情研报或社会治安/农牧民生的，不挤占硬核科技板块
-    # 2.1 纯股市大盘/银行研报（如“外资银行看好A股”）
+    # 2. 其它所有体育竞技运动（羽毛球、乒乓球、篮球、网球、田径、游泳等，严格归入综合，彻底阻断进入时政）
+    for kw in OTHER_SPORTS_KEYWORDS:
+        if kw in text:
+            return "zonghe"
+
+    # 3. 严格股市行情/宏观金融（分流到 finance.md）
     finance_strict_keywords = [
         "a股", "港股", "美股", "股市", "大盘", "指数", "外资银行", "券商研报", "基金净流入",
-        "低开", "高开", "涨停", "跌停", "中间价", "汇率", "关税", "贸易战", "cpi", "gdp", "央行加息", "降息"
+        "低开", "高开", "涨停", "跌停", "中间价", "汇率", "关税", "贸易战", "cpi", "gdp", "央行加息", "降息",
+        "证券", "债券", "理财", "纳斯达克", "标普", "道琼斯", "上证", "深证", "恒生"
     ]
     if any(kw in title_lower for kw in finance_strict_keywords):
         return "caijing"
 
-    # 2.2 社会治安诈骗/农牧民生（如“AI变声诈骗”、“AI放羊牛羊看病”）
-    social_crime_keywords = [
-        "诈骗", "行骗", "偷盗", "相亲", "婚恋", "牛羊", "放牧", "车祸", "坠河", "失联", "火灾"
+    # 4. 文娱影视、生活民生、气象预警、自然风光（强制归入综合）
+    for kw in ENTERTAINMENT_KEYWORDS:
+        if kw in text:
+            return "zonghe"
+
+    for kw in LIFE_SOCIETY_KEYWORDS:
+        if kw in text:
+            return "zonghe"
+
+    # 5. 军事冲突与地缘战况优先（避免因含有“无人机”等词被通用科技截胡）
+    military_conflict_keywords = [
+        "俄乌", "巴以", "哈马斯", "真主党", "胡塞武装", "军演", "联合军演", "战备巡逻", "防空导弹",
+        "导弹", "空袭", "轰炸", "战区", "交火", "停火", "国防部", "五角大楼", "乌克兰危机", "以武谋独"
     ]
-    if any(kw in title_lower for kw in social_crime_keywords):
-        return "zonghe"
+    if any(mw in text for mw in military_conflict_keywords):
+        return "shizheng"
 
-    # 2.3 自然风光/农林丰收摄影（如“稻穗渐黄（无人机照片）”）
-    landscape_keywords = [
-        "稻穗", "丰收", "梯田", "油菜花", "花海", "秋景", "晚霞", "日出", "云海", "红叶", "赏花", "雪景", "公园", "露营"
-    ]
-    if any(kw in title_lower for kw in landscape_keywords):
-        return "zonghe"
-
-    # 清除摘要中常见的图片摄影注释“（无人机照片）/（航拍照片）”，避免误触发通用科技词
-    clean_tech_text = re.sub(r'（?(无人机|航拍|资料|中新社|新华社)照片）?', '', full_text)
-
-    # 3. 科技创新 & AI 算力（硬核聚焦：AI大模型突破、算法革新、半导体芯片巨头大动作）
-    # 3.1 专门科技媒体来源直接优先入选
+    # 6. 科技创新 & AI 算力（硬核聚焦：AI大模型突破、算法革新、半导体芯片巨头大动作）
     tech_sources = ["techcrunch", "tom's hardware", "ars technica", "the verge", "it之家", "量子位", "人民网(科技)"]
-    if any(ts in source.lower() for ts in tech_sources):
+    if any(ts in source.lower() or ts in feed_name.lower() for ts in tech_sources):
         return "keji"
 
-    # 3.2 AI 模型发布、算法突破与智能体动作
     ai_model_keywords = [
         "openai", "chatgpt", "gpt-4", "gpt-5", "o1", "o3", "deepseek", "深度求索",
         "claude", "anthropic", "gemini", "llama", "meta ai", "mistral", "qwen", "通义千问",
@@ -776,10 +947,9 @@ def classify_item(item):
         "reinforcement learning", "强化学习", "rlhf", "scaling law", "context window", "token", "ai搜索"
     ]
     for kw in ai_model_keywords:
-        if kw in full_text:
+        if kw in text:
             return "keji"
 
-    # 3.3 半导体、芯片制程与硬件巨头动作（Nvidia, AMD, Intel, TSMC, ASML 等）
     semiconductor_keywords = [
         "nvidia", "英伟达", "amd", "超威", "intel", "英特尔", "tsmc", "台积电", "asml", "阿斯麦",
         "qualcomm", "高通", "broadcom", "博通", "arm", "mediatek", "联发科", "海力士", "sk hynix",
@@ -790,10 +960,10 @@ def classify_item(item):
         "cpo", "硅光", "量子计算", "quantum", "risc-v", "semiconductor", "半导体", "芯片", "算力"
     ]
     for kw in semiconductor_keywords:
-        if kw in full_text:
+        if kw in text:
             return "keji"
 
-    # 3.4 科技公司大动作与通用科技
+    clean_tech_text = re.sub(r'（?(无人机|航拍|资料|中新社|新华社)照片）?', '', text)
     general_tech_keywords = [
         "科技", "scitech", "ai", "人工智能", "机器人", "具身智能", "算法", "网络安全", "方班", "开源",
         "航天", "航空", "无人机", "卫星", "科普", "生物医药", "apple", "苹果", "m4", "m5",
@@ -803,7 +973,7 @@ def classify_item(item):
         if kw in clean_tech_text:
             return "keji"
 
-    # 4. 财经 & 宏观 & 产业
+    # 7. 财经 & 宏观 & 产业
     finance_keywords = [
         "财经", "经济", "人民币", "中间价", "汇率", "外汇", "股市", "a股", "美股", "港股", "个股",
         "大盘", "指数", "低开", "高开", "涨停", "跌停", "关税", "贸易", "供应链", "航运",
@@ -812,29 +982,23 @@ def classify_item(item):
         "tariff", "trade", "inflation", "market", "economy", "financial", "stock", "company"
     ]
     for kw in finance_keywords:
-        if kw in full_text:
+        if kw in text:
             return "caijing"
 
-    # 5. 西方媒体视角（严格限定：仅外媒信源且包含意识形态攻击/偏见抹黑词）
+    # 8. 西方媒体视角（严格限定：仅外媒信源且包含意识形态攻击/偏见抹黑词）
     if is_sensitive_content(title, summary, source):
         return "meimei"
 
-    # 5. 时政 & 国际
-    shizheng_keywords = [
-        "时政", "政治", "政府", "国务院", "中央", "主席", "总理", "部长", "省委", "市委",
-        "外交", "国际", "联合国", "美国", "中国", "俄罗斯", "欧盟", "日本", "韩国", "朝鲜",
-        "总统", "首相", "议会", "选举", "大选", "政策", "法规", "法律", "法案", "决议",
-        "军事", "军队", "国防", "战争", "冲突", "制裁", "外交", "峰会", "会谈", "访问",
-        "抗议", "示威", "罢工", "骚乱", "恐怖", "袭击", "安全", "情报", "间谍",
-        "politics", "government", "president", "minister", "election", "diplomacy",
-        "international", "united nations", "military", "war", "conflict", "sanction",
-        "summit", "talks", "visit", "protest", "strike", "riot", "terror", "attack"
-    ]
-    for kw in shizheng_keywords:
-        if kw in full_text:
+    # 9. 严格高精度时政与国际要闻（坚决剔除“中国”、“美国”、“国际”、“安全”、“政策”等泛词）
+    for kw in HIGH_PRECISION_SHIZHENG_KEYWORDS:
+        if kw in text:
             return "shizheng"
 
-    # 6. 默认归入综合要闻（文化社会 + 环保教育 + 历史人文 + 其他）
+    # 10. 信源层级辅助判断：若来自专门时政/国际源，且带有国内政治/国际新闻 URL
+    if ("时政" in feed_name or "国际" in feed_name) and ("/gn/" in link or "/gj/" in link):
+        return "shizheng"
+
+    # 11. 默认归入综合要闻（文化社会 + 环保教育 + 历史人文 + 其它生活动态）
     return "zonghe"
 
 
@@ -957,14 +1121,25 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
         if sec_items:
             category_top_items[sec["id"]] = sec_items
 
-    # 优先选出 1 条重磅主头条（时政要闻 > 科技创新 > 综合社会 > 足球 > 外媒）
+    # 优先选出 1 条重磅主头条（时政要闻 > 科技创新 > 综合社会 > 足球 > 外媒），严格过滤不适合头条的日常公告/警报
     featured = None
     featured_cat = "shizheng"
     for preferred_cat in ["shizheng", "keji", "zonghe", "zuqiu", "meimei"]:
         if preferred_cat in category_top_items and category_top_items[preferred_cat]:
-            featured = category_top_items[preferred_cat][0]
-            featured_cat = preferred_cat
-            break
+            for cand in category_top_items[preferred_cat]:
+                if is_suitable_headline(cand):
+                    featured = cand
+                    featured_cat = preferred_cat
+                    break
+            if featured:
+                break
+
+    if not featured:
+        for preferred_cat in ["shizheng", "keji", "zonghe", "zuqiu", "meimei"]:
+            if preferred_cat in category_top_items and category_top_items[preferred_cat]:
+                featured = category_top_items[preferred_cat][0]
+                featured_cat = preferred_cat
+                break
 
     # 副焦点（3条）：从其他不同板块各挑1条最新资讯（保证覆盖科技、足球、综合等多元领域）
     sub_items = []
@@ -1069,23 +1244,44 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
 <script>
 function onNewsSearch(query) {
   query = (query || '').trim().toLowerCase();
+  const terms = query.split(/\s+/).filter(Boolean);
   const items = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
   let matched = 0;
+
+  if (!terms.length) {
+    if (typeof filterNewsChannel === 'function') {
+      const activeBtn = document.querySelector('.channel-btn.active');
+      const channel = activeBtn ? (activeBtn.getAttribute('onclick') || '').match(/'([^']+)'/)?.[1] || 'all' : 'all';
+      filterNewsChannel(channel, activeBtn);
+    } else {
+      items.forEach(el => el.style.display = '');
+      document.querySelectorAll('.news-category').forEach(cat => cat.style.display = '');
+    }
+    const countEl = document.getElementById('news-search-count');
+    if (countEl) countEl.innerText = '';
+    return;
+  }
+
   items.forEach(el => {
     const title = (el.getAttribute('data-title') || el.innerText || '').toLowerCase();
     const summary = (el.getAttribute('data-summary') || '').toLowerCase();
     const source = (el.getAttribute('data-source') || '').toLowerCase();
-    const isMatch = !query || title.includes(query) || summary.includes(query) || source.includes(query);
-    el.style.display = isMatch ? '' : 'none';
+    const cat = (el.getAttribute('data-cat') || '').toLowerCase();
+    const date = (el.getAttribute('data-date') || '').toLowerCase();
+    const searchTarget = title + ' ' + summary + ' ' + source + ' ' + cat + ' ' + date;
+    const isMatch = terms.every(t => searchTarget.includes(t));
+    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'flex' : 'block') : 'none';
     if (isMatch) matched++;
   });
+
   document.querySelectorAll('.news-category').forEach(cat => {
     const visibleChildren = cat.querySelectorAll('.news-item:not([style*="display: none"])');
-    cat.style.display = (visibleChildren.length > 0 || !query) ? '' : 'none';
+    cat.style.display = visibleChildren.length > 0 ? 'block' : 'none';
   });
+
   const countEl = document.getElementById('news-search-count');
   if (countEl) {
-    countEl.innerText = query ? `🔍 找到 ${matched} 条` : '';
+    countEl.innerText = `🔍 找到 ${matched} 条`;
   }
 }
 
@@ -1300,6 +1496,12 @@ def load_daily_cache(date_only):
                     # 恢复 published_dt datetime 对象
                     pub_dt = parse_datetime_bj(it.get("published_dt_iso") or it.get("published_dt") or it.get("date"))
                     it["published_dt"] = pub_dt
+                    t_txt = str(it.get("title") or "")
+                    sum_txt = str(it.get("summary") or "")
+                    if is_junk_notice(t_txt, sum_txt) or is_error_page(t_txt, sum_txt):
+                        continue
+                    if "LIMIT EXCEEDED" in sum_txt.upper() or "MYMEMORY" in sum_txt.upper():
+                        it["summary"] = ""
                     items.append(it)
                 log(f"[INFO] 成功载入今日已有累加缓存，共 {len(items)} 条已抓取新闻")
                 return items
