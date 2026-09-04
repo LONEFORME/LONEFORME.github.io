@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,482.32</span>
+      <span class="ticker-price ticker-up">29,526.50</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7093</span>
+      <span class="ticker-price ticker-down">6.7071</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,464.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -8.41 (-0.19%)</span>
+      <span class="ticker-price ticker-down">$4,434.95 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -38.04 (-0.85%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥964.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.60 (-0.06%)</span>
+      <span class="ticker-price ticker-down">¥956.81 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -8.19 (-0.85%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统表示，如果中央银行不服从他的命令，他可以停止美国与存在贸易逆差的国家之间的贸易。" data-title="特朗普威胁要停止部分贸易，除非美联储降息" data-date="09-04 23:58" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-04 23:58</span>
+          <span class="news-item-title">特朗普威胁要停止部分贸易，除非美联储降息</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州9月4日电 (记者 王坚)“百万英才汇南粤”是广东启动实施的高规格招才引智行动计划，“粤就业”作为“百万英才汇南粤”行动省级平台，以数字化手段，为高校毕业生和各类人才搭建起高效便捷的线上对接渠道。目前，“粤就业”累计发布“百万英才汇南粤”招聘活动超2000场次，线上平台参加招聘企业累计超4.6万家，归集岗位超247万个。" data-title="广东数字化赋能就业服务 打通求职服务“最后一公里”" data-date="09-04 22:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 22:58</span>
+          <span class="news-item-title">广东数字化赋能就业服务 打通求职服务“最后一公里”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690675.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡9月4日电 (记者 刘育英)受跨境烟霾及持续干燥天气影响，马来西亚沙捞越州空气质量4日进一步恶化。西连省空气污染指数(API)当天上午突破500，处于危险级别，达到可申报烟霾紧急状态的行动阈值。马来西亚最高元首易卜拉欣批准西连进入紧急状态。" data-title="马来西亚西连空气污染指数超500进入紧急状态" data-date="09-04 21:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 21:50</span>
+          <span class="news-item-title">马来西亚西连空气污染指数超500进入紧急状态</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690581.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月4日电 (记者 李映民)泰国政府4日召开数据中心产业政策委员会工作会议，决定在相关监管标准明确前，暂缓在建数据中心项目施工及待审批项目许可。" data-title="泰国暂缓数据中心项目建设及审批" data-date="09-04 20:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-04 20:55</span>
+          <span class="news-item-title">泰国暂缓数据中心项目建设及审批</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690554.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳9月4日电 (记者 单璐)哈萨克斯坦国家银行(央行)货币政策委员会4日宣布下调基准利率50个基点至16.25%。这是哈央行今年以来第三次降息。" data-title="哈萨克斯坦央行下调基准利率至16.25%" data-date="09-04 19:38" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -243,48 +267,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-04 19:21</span>
           <span class="news-item-title">2026年度“韩国小记者中国行”启动</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10690535.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社符拉迪沃斯托克9月4日电(记者王慧慧 孙萍)当地时间9月4日，中共中央政治局常委、国务院副总理丁薛祥在俄罗斯符拉迪沃斯托克出席第八届中俄能源商务论坛开幕式，宣读习近平主席贺信并致辞。" data-title="第八届中俄能源商务论坛开幕 丁薛祥宣读习近平主席贺信并致辞" data-date="09-04 19:08" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 19:08</span>
-          <span class="news-item-title">第八届中俄能源商务论坛开幕 丁薛祥宣读习近平主席贺信并致辞</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690443.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉9月4日电 (记者 周璟)菲律宾统计局4日公布数据显示，8月该国通胀率回落至6.1%，低于7月的6.2%，连续第四个月放缓。今年前8个月平均通胀率为5.2%。" data-title="菲律宾8月通胀率降至6.1% 连续四个月回落" data-date="09-04 17:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 17:21</span>
-          <span class="news-item-title">菲律宾8月通胀率降至6.1% 连续四个月回落</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690350.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社悉尼9月4日电 (记者 薄雯雯)澳大利亚气候变化与能源部长鲍恩4日发表声明称，今年8月澳大利亚纯电动汽车销量首次超过汽油车。" data-title="澳大利亚纯电动汽车月销量首次超过汽油车" data-date="09-04 17:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 17:06</span>
-          <span class="news-item-title">澳大利亚纯电动汽车月销量首次超过汽油车</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/business/bond-yields-rates-central-banks.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在世界各地，债券收益率上升反映了政策制定者加息速度预期的转变。" data-title="债券市场正在推高利率。各国央行会跟进吗？" data-date="09-04 17:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 17:03</span>
-          <span class="news-item-title">债券市场正在推高利率。各国央行会跟进吗？</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="住房贷款成本上升对房地产市场造成挤压，给已经在通胀上升中苦苦挣扎的消费者增加了压力。" data-title="抵押贷款利率触及 6.71%，为 2025 年 7 月以来的最高水平" data-date="09-04 04:48" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 04:48</span>
-          <span class="news-item-title">抵押贷款利率触及 6.71%，为 2025 年 7 月以来的最高水平</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="荷兰从纽约联邦储备银行移出了约 90 吨黄金，这是今年第二个宣布减少或取消美国黄金持有量的欧洲国家。" data-title="荷兰央行以“地缘政治动荡”为由削减在美国的黄金储备" data-date="09-04 04:07" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 04:07</span>
-          <span class="news-item-title">荷兰央行以“地缘政治动荡”为由削减在美国的黄金储备</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储理事克里斯托弗· J ·沃勒（ Christopher J. Waller ）对通货膨胀的轨迹听起来很乐观，但表示如果进展不能继续，他将支持更高的利率。" data-title="随着美联储官员等待通胀数据，利率上升" data-date="09-03 22:07" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-03 22:07</span>
-          <span class="news-item-title">随着美联储官员等待通胀数据，利率上升</span>
         </a>
   </div>
 </div>
@@ -299,4 +281,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-04 20:13（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-05 00:30（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

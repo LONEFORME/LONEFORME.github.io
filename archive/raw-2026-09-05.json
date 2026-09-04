@@ -1,0 +1,1032 @@
+[
+  {
+    "title": "另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "date": "2026-09-05",
+    "published_time": "00:21",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这是OpenAI内部监控和安全系统的最新故障。",
+    "published_dt_iso": "2026-09-05T00:21:11+08:00"
+  },
+  {
+    "title": "随着英伟达押注整个人工智能堆栈，苹果的Ternus时代开始了",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "date": "2026-09-05",
+    "published_time": "00:04",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这正是苹果公司的Ternus时代。蒂姆·库克(Tim Cook)本周辞去首席执行官职务，将公司交给了前硬件首席执行官约翰·特纳斯(John Ternus) ，后者的第一份备忘录承诺在下周推出“巨大的” --这一时机让苹果的下一次iPhone发布会在他安顿下来之前就开始了。不过，库克并没有走多远：他将继续担任执行主席，专注于政策[…]",
+    "published_dt_iso": "2026-09-05T00:04:08+08:00"
+  },
+  {
+    "title": "Google的Gemini Spark现在可以管理您的Google相册库",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "date": "2026-09-04",
+    "published_time": "22:47",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Gemini Spark可以编辑和策划相册，创建共享集合，将照片转换为日历活动，并为AI Pro和Ultra订阅者处理其他Google相册任务。",
+    "published_dt_iso": "2026-09-04T22:47:11+08:00"
+  },
+  {
+    "title": "申请TechCrunch Disrupt 2026会外活动的时间不到24小时",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "date": "2026-09-04",
+    "published_time": "22:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "还有不到24小时的时间，您可以申请在TechCrunch Disrupt 2026期间举办会外活动，并在硅谷留下自己的印记。请在太平洋时间今晚午夜申请截止前申请。",
+    "published_dt_iso": "2026-09-04T22:00:00+08:00"
+  },
+  {
+    "title": "那些无食欲的人工智能背后的同一性问题",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "date": "2026-09-04",
+    "published_time": "12:21",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "虽然餐厅老板可能会将生成式人工智能作为美化菜单的捷径，但顾客可以直观地感觉到食物有问题。",
+    "published_dt_iso": "2026-09-04T12:21:03+08:00"
+  },
+  {
+    "title": "据报道， Crusoe以300亿美元的估值筹集了30亿美元",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "date": "2026-09-04",
+    "published_time": "08:48",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "据报道，这轮融资是在这家数据中心开发商与Jane Street签订了130亿美元的合同之后进行的。",
+    "published_dt_iso": "2026-09-04T08:48:42+08:00"
+  },
+  {
+    "title": "据报道， Accel正在进行谈判，以$ 400亿的估值领投Thinking Machines $ 10亿的一轮融资",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "date": "2026-09-04",
+    "published_time": "03:36",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这家备受瞩目的初创公司的年收入运行率超过1亿美元（ $ 100 million ）。",
+    "published_dt_iso": "2026-09-04T03:36:29+08:00"
+  },
+  {
+    "title": "Abliteration.ai正在通过移除人工智能护栏来做生意",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "date": "2026-09-04",
+    "published_time": "02:37",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Abliteration.AI正在使没有护栏的强大人工智能模型更容易访问，认为为捍卫者提供与不良行为者相同的工具最终可以改善网络安全。",
+    "published_dt_iso": "2026-09-04T02:37:57+08:00"
+  },
+  {
+    "title": "Minisforum 在 IFA 2026 上推出本地 AI 解决方案 — AI Agent NAS N5 和 AI Mini Workstation MS-S1 采用 AMD Ryzen AI Max+ Pro 495 处理器，专为本地运行模型而设计",
+    "link": "https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally",
+    "date": "2026-09-05",
+    "published_time": "00:15",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Minisforum在IFA 2026上推出了NAS N5 Max-P495和MS-S1 Max-P945。NAS和mini-PC由AMD Ryzen AI Max + Pro 495驱动，可配置高达192GB的统一内存，并配备Radeon 8065S集成GPU。",
+    "published_dt_iso": "2026-09-05T00:15:00+08:00"
+  },
+  {
+    "title": "百思买劳动节科技促销可节省高达900 $ ，游戏电脑、笔记本电脑和显示器大幅折扣—确保快速升级以应对不断上涨的硬件成本",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-usd900-in-the-best-buy-labor-day-sale-on-tech-with-huge-discounts-on-gaming-pcs-laptops-and-monitors-secure-an-upgrade-fast-to-beat-rising-hardware-costs",
+    "date": "2026-09-04",
+    "published_time": "23:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "百思买 (Best Buy) 目前正在进行劳动节大促销，为您提供科技产品的大幅折扣，包括游戏电脑、手持设备、笔记本电脑和显示器。",
+    "published_dt_iso": "2026-09-04T23:30:00+08:00"
+  },
+  {
+    "title": "随着代币数量激增25倍，前沿人工智能面临定价计算—中端型号以六分之一的成本提供90%的旗舰功能",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
+    "date": "2026-09-04",
+    "published_time": "23:21",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "随着前沿人工智能开发人员在推动智能增强的同时，力求节省成本，新模型突破了帕累托前沿的界限，即使很小的优势也能成为新的王者。",
+    "published_dt_iso": "2026-09-04T23:21:56+08:00"
+  },
+  {
+    "title": "Nvidia应用程序更新无法阻止RTX 40系列游戏GPU上的非官方DLSS多帧生成模式— modders在数小时内恢复对多个游戏的支持",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours",
+    "date": "2026-09-04",
+    "published_time": "22:56",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "当 NVIDIA 推出 GeForce RTX 50 系列时，围绕新 GPU 系列的炒作主要是其对 DLSS 多帧生成的支持。该功能已正式锁定在新的 RTX 50“Blackwell”GPU 上，但改装者已经致力于为 RTX 40 系列卡解锁该功能一段时间了。",
+    "published_dt_iso": "2026-09-04T22:56:38+08:00"
+  },
+  {
+    "title": "在沃尔玛以比其他任何地方便宜 200 美元的价格购买这款令人惊叹的 MSI RTX 5060 Ti 16G — 仅需 569.99 美元即可购买稳定的中端 Shadow 2x OC Plus 游戏 GPU，以任何人的标准来看都是超值的",
+    "link": "https://www.tomshardware.com/pc-components/get-this-stunning-msi-rtx-5060-ti-16g-deal-at-walmart-for-usd200-less-than-anywhere-else-only-usd569-99-for-the-solid-mid-range-shadow-2x-oc-plus-gaming-gpu-is-a-steal-by-anyones-standards",
+    "date": "2026-09-04",
+    "published_time": "22:38",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在沃尔玛以比其他任何地方便宜 200 美元的价格购买 MSI RTX 5060 Ti 16G Shadow 2x OC Plus - 569 美元的价格是我们发现的最好价格",
+    "published_dt_iso": "2026-09-04T22:38:41+08:00"
+  },
+  {
+    "title": "HyperX Omen 15评测：强劲的游戏性能和多彩的OLED显示屏，成本明显",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/hyperx-omen-15-review",
+    "date": "2026-09-04",
+    "published_time": "21:52",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "虽然游戏表现强劲，但也有一些削减成本的迹象。",
+    "published_dt_iso": "2026-09-04T21:52:40+08:00"
+  },
+  {
+    "title": "即使在市政府宣布干旱限制后，丹佛数据中心仍持续浇灌草坪，这激怒了居民——目前尚不清楚该数据中心是否违法或使用了自己的回收水",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/denver-data-center-continuously-waters-its-lawn-even-after-city-announced-drought-restrictions-enraging-residents-its-unclear-if-site-is-breaking-the-law-or-using-its-own-recycled-water",
+    "date": "2026-09-04",
+    "published_time": "21:26",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "据报道，尽管该地区遭受干旱，人工智能数据中心仍在浇灌草坪。一位居民说，我们要到明年夏天才能给草坪浇水，但你最好相信他们正在用这么多的洒水装置浇灌整个草坪。",
+    "published_dt_iso": "2026-09-04T21:26:18+08:00"
+  },
+  {
+    "title": "美国参议员对哪种 VPN 正确感到困惑，向 NSA 寻求指导",
+    "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+    "date": "2026-09-04",
+    "published_time": "03:52",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "开源、商业、单跳、多跳、混合网络？一系列的选择令人眼花缭乱。",
+    "published_dt_iso": "2026-09-04T03:52:06+08:00"
+  },
+  {
+    "title": "VMware 迁移将托特纳姆热刺队的许可费用降低了 85%",
+    "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "date": "2026-09-04",
+    "published_time": "02:58",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "职业足球队的首席技术官指出“博通收购存在问题”。",
+    "published_dt_iso": "2026-09-04T02:58:31+08:00"
+  },
+  {
+    "title": "我租了一辆车，几个小时内，我的驾驶执照就被出售了",
+    "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "date": "2026-09-03",
+    "published_time": "04:32",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "据报道，联邦调查局正在调查一起实时发生的大规模数据泄露事件。",
+    "published_dt_iso": "2026-09-03T04:32:02+08:00"
+  },
+  {
+    "title": "BGP 劫持感染网络是由错误喜剧引起的，一点都不好笑",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "我们可以从毒害生产软件的 BGP 劫持中学到什么？很多。",
+    "published_dt_iso": "2026-09-02T19:00:43+08:00"
+  },
+  {
+    "title": "在安装此承诺免费电影的设备之前请三思而后行",
+    "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "date": "2026-09-01",
+    "published_time": "00:33",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "为了换取免费的东西，设备将家庭连接作为代理网络的一部分。",
+    "published_dt_iso": "2026-09-01T00:33:38+08:00"
+  },
+  {
+    "title": "Meta 推动机器人在数据中心工作的内幕",
+    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "date": "2026-08-30",
+    "published_time": "19:03",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "该公司正在测试机器人执行可由技术人员执行的任务。",
+    "published_dt_iso": "2026-08-30T19:03:47+08:00"
+  },
+  {
+    "title": "当局逮捕了 2 名多产黑客组织 TeamPCP 的涉嫌成员",
+    "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "date": "2026-08-28",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "该组织通过无情的供应链攻击活动感染了 1,000 多个组织。",
+    "published_dt_iso": "2026-08-28T19:15:05+08:00"
+  },
+  {
+    "title": "Claude、Codex 和 Hermes 在公司网络内安装了无主代码",
+    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "date": "2026-08-27",
+    "published_time": "22:00",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "在公司文档中发现了 227 个安装命令，这些命令指向无人拥有的代码。",
+    "published_dt_iso": "2026-08-27T22:00:13+08:00"
+  },
+  {
+    "title": "微软表示几乎没有人通过其聊天机器人抓取《纽约时报》的文章",
+    "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "date": "2026-09-05",
+    "published_time": "00:05",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "微软在新的法律文件中表示，微软的 Copilot 很少复制新闻文章和书籍中的完整句子，更不用说可以替代原文的实质性内容了，因为它正在与包括《纽约时报》和书籍作者在内的出版商的版权主张作斗争。作为诉讼发现的一部分，微软提供了 820 万个 Copilot [...]",
+    "published_dt_iso": "2026-09-05T00:05:57+08:00"
+  },
+  {
+    "title": "IFA 迄今为止发布的最佳技术和小玩意",
+    "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+    "date": "2026-09-04",
+    "published_time": "23:41",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "德国柏林 IFA 2026 的消息传出一周后，欧洲最大的消费科技展今天正式向公众开放。如果您很难跟上已发布的内容，这里有一些来自展会的最佳新产品和升级 - 包括智能手机 [...]",
+    "published_dt_iso": "2026-09-04T23:41:17+08:00"
+  },
+  {
+    "title": "Alienware 翻新 16 Aurora 在 Woot 折扣近 200 美元",
+    "link": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+    "date": "2026-09-04",
+    "published_time": "22:55",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "游戏笔记本电脑的优惠不再像以前那样了（对 RAMgeddon 怒目而视），这就是为什么我认为 Woot 的翻新 Alienware 16 Aurora 游戏笔记本电脑搭配 Nvidia RTX 5050 对于新 Woot 客户来说非常划算，价格为 927 美元（结账时使用代码 WOOTALIEN）。 Woot 购物者退货费用为 1,029 美元，[...]",
+    "published_dt_iso": "2026-09-04T22:55:40+08:00"
+  },
+  {
+    "title": "Apple 9 月 9 日发布会有哪些值得期待的内容",
+    "link": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+    "date": "2026-09-04",
+    "published_time": "22:52",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "苹果 9 月 9 日的发布会可能是多年来规模最大的发布会之一。这将是苹果公司自 9 月 1 日约翰·特纳斯 (John Ternus) 接替蒂姆·库克 (Tim Cook) 接任首席执行官以来的首次活动，并且很可能会展示苹果 iPhone 18 系列的首批机型。这可能包括传闻已久的可折叠“iPhone Ultra”，即将推出 [...]",
+    "published_dt_iso": "2026-09-04T22:52:00+08:00"
+  },
+  {
+    "title": "任天堂接下来的两场直接活动都将于下周举行",
+    "link": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
+    "date": "2026-09-04",
+    "published_time": "22:29",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "任天堂刚刚宣布下周将举办两场连续举办的直接活动。首先是《塞尔达传说》40 周年纪念直播，时间为 9 月 8 日东部时间上午 10 点/太平洋时间上午 7 点。预计持续约 30 分钟，在任天堂 YouTube 频道或 Nintendo Today 应用程序上进行直播。最近泄露的图像显示[…]",
+    "published_dt_iso": "2026-09-04T22:29:44+08:00"
+  },
+  {
+    "title": "流氓 OpenAI 代理似乎使用德国维基组织了另一次攻击",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "date": "2026-09-04",
+    "published_time": "21:34",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "据报道，来自 OpenAI 的一群流氓人工智能代理霸占了一个德国网站，并将其转变为其他代理的留言板，几周来官员们对这一事件保持沉默，因为该公司准备推出迄今为止最先进的模型 Astra。这一发现加剧了人们对前沿人工智能监管的担忧 […]",
+    "published_dt_iso": "2026-09-04T21:34:12+08:00"
+  },
+  {
+    "title": "特斯拉 Cyber​​cab 刚刚上路，已经在接受调查",
+    "link": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
+    "date": "2026-09-04",
+    "published_time": "21:33",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "埃隆·马斯克（Elon Musk）的镀金机器人汽车刚刚在公共道路上行驶，联邦监管机构就对该车辆缺乏传统功能（其中许多功能是法律要求的）展开调查。美国国家公路交通安全管理局表示，正在对 Tesla Cyber​​cab 进行审计查询 (AQ)，“以检查流程并 [...]",
+    "published_dt_iso": "2026-09-04T21:33:38+08:00"
+  },
+  {
+    "title": "微软推出即用即付云游戏之际，Xbox 应用程序即将登陆 TCL 电视",
+    "link": "https://www.theverge.com/news/990132/microsoft-xbox-tv-app-tcl-smart-tvs",
+    "date": "2026-09-04",
+    "published_time": "21:25",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "微软正在与 TCL 合作，将其 Xbox 应用程序引入支持的 TCL 智能电视。 Xbox 应用程序可让您连接到 Xbox Cloud Gaming 并流式传输 Game Pass 游戏或选择您作为订阅的一部分拥有的游戏。 Xbox 应用程序将在“未来几个月”的某个时候登陆 TCL 电视，[...]",
+    "published_dt_iso": "2026-09-04T21:25:09+08:00"
+  },
+  {
+    "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+    "link": "https://www.qbitai.com/2026/09/484547.html",
+    "date": "2026-09-04",
+    "published_time": "17:23",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "国产卡跑出高品质 AI Token 生产级性能",
+    "published_dt_iso": "2026-09-04T17:23:24+08:00"
+  },
+  {
+    "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+    "link": "https://www.qbitai.com/2026/09/484437.html",
+    "date": "2026-09-04",
+    "published_time": "17:19",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "星尘智能（Astribot） 基座模型团队发布能异步执行的在线强化学习框架 SmoothRL",
+    "published_dt_iso": "2026-09-04T17:19:29+08:00"
+  },
+  {
+    "title": "九问ScienceDiscovery实现树搜索驱动RSI，加速科学发现，小时级写出通用积分器，低成本找出物理科学规律",
+    "link": "https://www.qbitai.com/2026/09/484293.html",
+    "date": "2026-09-04",
+    "published_time": "16:57",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "不训练模型、不调参数",
+    "published_dt_iso": "2026-09-04T16:57:14+08:00"
+  },
+  {
+    "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+    "link": "https://www.qbitai.com/2026/09/484203.html",
+    "date": "2026-09-04",
+    "published_time": "15:09",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "5000支队伍同台做题，写尽行业四年变化",
+    "published_dt_iso": "2026-09-04T15:09:43+08:00"
+  },
+  {
+    "title": "李飞飞刚发Atlas，中国开源“同款”已抢跑半年？",
+    "link": "https://www.qbitai.com/2026/09/484163.html",
+    "date": "2026-09-04",
+    "published_time": "14:54",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "智能不只是模式识别，更是对世界的建模",
+    "published_dt_iso": "2026-09-04T14:54:12+08:00"
+  },
+  {
+    "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+    "link": "https://www.qbitai.com/2026/09/484159.html",
+    "date": "2026-09-04",
+    "published_time": "13:53",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+    "published_dt_iso": "2026-09-04T13:53:09+08:00"
+  },
+  {
+    "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+    "link": "https://www.qbitai.com/2026/09/484155.html",
+    "date": "2026-09-04",
+    "published_time": "13:48",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-04T13:48:53+08:00"
+  },
+  {
+    "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+    "link": "https://www.qbitai.com/2026/09/483984.html",
+    "date": "2026-09-04",
+    "published_time": "12:03",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+    "published_dt_iso": "2026-09-04T12:03:04+08:00"
+  },
+  {
+    "title": "理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线",
+    "link": "https://www.ithome.com/0/998/624.htm",
+    "date": "2026-09-04",
+    "published_time": "23:32",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，9 月 3 日，芯联集成与理想签订新一轮战略合作协议，双方共同见证 8 英寸碳化硅晶圆成功下线，开启深化合作。IT之家从公告获悉，芯联集成与理想合作产品应用场景从整车电驱动进一步延伸至车载热管理系统等领域。2024 年 3 月，双方首次签署战略合作协议，聚焦车规级碳化硅领域联合技术攻关；2025 年 2 月，芯联集成实现 6 英寸碳化硅晶圆成功量产，顺利配套理想 i 系列高压纯电车型。作为国内首家实现 8 英寸碳化硅晶圆量产的企业，芯联集成提前布局产能，持续优化制造工艺、压缩生产周期，通过供应链垂直整合与产线迭代升级，顺利完成 6 英寸至 8 英寸碳化硅产线的无缝衔接。本次下线的 8 英寸碳化硅芯片即将进入 SOP 量产阶段，这是双方继 6 英寸产品量产后的又一",
+    "published_dt_iso": "2026-09-04T23:32:45+08:00"
+  },
+  {
+    "title": "阿里入局“千帆星座”，现身垣信卫星股东名单",
+    "link": "https://www.ithome.com/0/998/623.htm",
+    "date": "2026-09-04",
+    "published_time": "23:23",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，据科创板日报消息，上海垣信卫星科技有限公司（下称“垣信卫星”）已完成工商变更，杭州阿里创业投资有限公司正式登记为新股东。至此，阿里巴巴成功入局这家备受追捧的低轨卫星星座独角兽。垣信卫星于 2018 年 3 月发起设立，作为低轨巨型星座“千帆星座”的建设运营主体。千帆星座于 2024 年 8 月发射首批 18 颗卫星，正式开启大规模组网。IT之家获悉，截至目前，千帆星座已增至 238 颗。千帆星座将于 2026 年年底完成一阶段 324 星全球组网，正式面向全球提供服务并启动商业化运营。另据上海联合产权交易所 8 月 17 日发布的成交公告，垣信卫星完成 69.76 亿元巨额增资。本轮共引入 18 家投资方，其中由国调二期协同发展基金等 24 家机构组成的联合体出",
+    "published_dt_iso": "2026-09-04T23:23:58+08:00"
+  },
+  {
+    "title": "全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7",
+    "link": "https://www.ithome.com/0/998/622.htm",
+    "date": "2026-09-04",
+    "published_time": "23:18",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，据易车今日报道，全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市。新车采用最新设计语言，加长后的轴距达到 3115mm。内饰采用三联屏设计，内置豆包 AI 大模型虚拟助手，并且后续还将搭载 Momenta R7 世界模型。IT之家注意到，9 月 1 日，全新国产梅赛德斯-奔驰长轴距 GLE SUV 在顺义工厂正式下线。该车配备“双星徽”前大灯，构成车头独特的视觉标志，发光中央星标与发光格栅边框则进一步增强气场。中国专属加长设计将整车轴距提升至超 3.1 米，配合大五座布局，标配可滑动开启全景天窗，还会提供座椅振动按摩功能。新车搭载奔驰首创的 AR 平视显示系统，将导航关键信息融入真实环境，打造沉浸式导航；全新城区及高速领航辅助驾驶系统，将在中国市场实现",
+    "published_dt_iso": "2026-09-04T23:18:17+08:00"
+  },
+  {
+    "title": "古尔曼称苹果将以史上最大新品阵容开启“特努斯时代”，公布今年至 2029 年后产品规划",
+    "link": "https://www.ithome.com/0/998/621.htm",
+    "date": "2026-09-04",
+    "published_time": "23:14",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，苹果将于 9 月 9 日举行“亮新篇，来耀眼”发布会，新任 CEO 约翰 · 特努斯届时将登台发布新一代 iPhone 和 Apple Watch，而这场活动只是开端。彭博社记者马克 · 古尔曼今天（4 日）晚间发文称，苹果准备开启公司历史上规模最大的一轮硬件发布周期，在 2026 年、2027 年乃至更远的未来陆续推出全新产品形态，并进入多个此前从未涉足的设备领域。苹果为这套产品路线图筹备了约 5 年，特努斯也把接下来的阶段描述为一个新的创新时代。当地时间 1 日，他在致员工的信中写道：“想到我们已经准备好的一切，我感到非常兴奋。下周我们将举行一场规模盛大的发布会，一定会非常精彩。我同样期待更远的未来，包括已经在开发中的那些令人难以置信的产品，以及那些我们甚至",
+    "published_dt_iso": "2026-09-04T23:14:10+08:00"
+  },
+  {
+    "title": "仅用两年时间，英伟达从零建起近千亿美元股权投资组合",
+    "link": "https://www.ithome.com/0/998/620.htm",
+    "date": "2026-09-04",
+    "published_time": "22:59",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，据《商业内幕》今天（4 日）报道，英伟达通过投资其他科技公司，仅用两年时间就几乎从零建立起规模接近 1,000 亿美元（IT之家注：现汇率约合 6,735.52 亿元人民币）的股权投资组合。英伟达最新财报显示，截至 7 月 26 日，公司持有价值 990 亿美元（现汇率约合 6,668.16 亿元人民币）的股权投资。其中约 480 亿美元（现汇率约合 3,233.05 亿元人民币）为上市公司股票和其他可交易证券，另有约 480 亿美元（现汇率约合 3,233.05 亿元人民币）为非上市公司股份和其他不可交易证券，权益法投资约 30 亿美元（现汇率约合 202.07 亿元人民币）。英伟达的股权投资组合在一年内增长 14 倍，去年夏天规模约为 70 亿美元（现汇率约",
+    "published_dt_iso": "2026-09-04T22:59:33+08:00"
+  },
+  {
+    "title": "张雪机车 2026 WSBK 法国站排位赛包揽前二",
+    "link": "https://www.ithome.com/0/998/619.htm",
+    "date": "2026-09-04",
+    "published_time": "22:54",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，当地时间 9 月 4 日，2026 世界超级摩托车锦标赛（WSBK）法国站在讷韦尔-马尼库尔赛道展开争夺。本站是本赛季第九站，也是夏休期后的首场比赛。在当天举行的 WorldSSP 超级杆位排位赛中，中国摩托车制造商“张雪机车”的 53 号法国车手瓦伦丁 · 德比斯位列第 1 名，64 号意大利车手费德里科 · 卡里卡苏洛位列第 2 名。IT之家获悉，经过前八站比赛，“张雪机车”已取得六场胜利，目前位列制造商积分榜第三。法国站两回合正赛将分别于当地时间 9 月 5 日和 9 月 6 日举行。",
+    "published_dt_iso": "2026-09-04T22:54:11+08:00"
+  },
+  {
+    "title": "电力安全事故应急处置条例修订发布，将于 2027 年施行",
+    "link": "https://www.ithome.com/0/998/618.htm",
+    "date": "2026-09-04",
+    "published_time": "22:50",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，据国家能源局，修订后的《电力安全事故应急处置和调查处理条例》今日正式对外公布，将于 2027 年 1 月 1 日起正式施行。日前，司法部、国家发展改革委、国家能源局负责人就《条例》有关问题回答了记者提问。现行条例自 2011 年施行以来，对提升电力安全事故应急处置能力、规范电力安全事故调查处理、预防和减少电力安全事故等发挥了重要作用。近年来，随着我国电力事业快速发展特别是新型电力系统加快构建，电源构成更加多元，电网规模持续扩大，新型并网主体不断出现，电力安全保障面临新形势、新挑战，现行条例已不能完全适应实际需要，有必要在总结实践经验的基础上，与时俱进修改完善，为保障电力系统安全稳定运行和电力可靠供应提供更加有力的法治保障。图源：PexelsIT之家从公告获悉，为",
+    "published_dt_iso": "2026-09-04T22:50:39+08:00"
+  },
+  {
+    "title": "日本电机巨头尼得科确认存在 844 起擅自变更制造工序等不当行为，社长岸田光哉致歉",
+    "link": "https://www.ithome.com/0/998/617.htm",
+    "date": "2026-09-04",
+    "published_time": "22:47",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 4 日消息，据共同社报道，日本电机巨头尼得科 Nidec 今日公布了关于产品质量问题的调查委员会报告。调查委员会认定存在 844 起擅自变更制造工序等不当行为，并指出达成业绩目标及削减成本等压力是原因之一。IT之家获悉，尼得科不当行为可追溯至 2012 年，其中超九成属于未经客户同意变更部件及工序等情况。此外还存在篡改、捏造测试及检查结果的问题。从事情的严重程度来看，60 起被认定为重大不当行为，包括尼得科集团高层及据点负责人参与，以及涉嫌违反法令的情况。除品质问题外，关于生产地存在 6 起不当行为。关于原因，报告指出企业规模通过并购等方式日益扩大，而与之相应的经营体制完善工作滞后，另一方面短期内达成业绩目标及降低成本的要求强烈。品质保证所需人才也未得到充分地确保。社长岸田",
+    "published_dt_iso": "2026-09-04T22:47:44+08:00"
+  },
+  {
+    "title": "理查利森的遗漏不是我的决定",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "23:32",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "托特纳姆热刺队主教练罗伯托·德泽尔比表示，将理查利森排除在俱乐部英超阵容之外并不是他的决定。",
+    "published_dt_iso": "2026-09-04T23:32:22+08:00"
+  },
+  {
+    "title": "截止日期后，莫耶斯生活在失望之中",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3v49617lzko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "22:03",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "埃弗顿主帅大卫·莫耶斯承认，他想在转会截止日做更多的生意，但他承认自己“必须忍受失望”。",
+    "published_dt_iso": "2026-09-04T22:03:39+08:00"
+  },
+  {
+    "title": "利物浦目标明特仍然可以获得梦想的转会",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgk5g2z3kyxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "18:44",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "布莱顿主帅法比安·胡尔泽勒表示，在海鸥队拒绝了利物浦对这位边锋的报价后，扬库巴·明特未来仍然可以“实现他的梦想”。",
+    "published_dt_iso": "2026-09-04T18:44:37+08:00"
+  },
+  {
+    "title": "多名球员希望获得费尔南德斯的最新消息",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y4ge76jx8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "21:35",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "曼城主教练恩佐·马雷斯卡表示，一些曼城球员想知道恩佐·费尔南德斯是否会在转会窗口的最后几天加盟。",
+    "published_dt_iso": "2026-09-04T21:35:28+08:00"
+  },
+  {
+    "title": "考文垂签下边锋格博霍——巴黎圣日耳曼球员杜埃的表弟",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgypzg4y75o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "22:32",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "考文垂城确认签下图卢兹边锋雅恩·博霍（Yann Gboho），他是巴黎圣日耳曼和法国前锋德西雷·杜埃的表弟。",
+    "published_dt_iso": "2026-09-04T22:32:38+08:00"
+  },
+  {
+    "title": "阿森纳球星马蒂内利加盟阿尔",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "00:30",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "阿森纳边锋加布里埃尔·马丁内利以 6000 万英镑加盟沙特职业联赛球队阿尔希拉尔。",
+    "published_dt_iso": "2026-09-04T00:30:43+08:00"
+  },
+  {
+    "title": "解析切尔西夏季 39 场令人震惊的出局",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce87vzgyzd9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "00:20",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "据信，切尔西今年夏天通过出售或租借多达 39 名球员，收回了超过 5 亿英镑的收入。",
+    "published_dt_iso": "2026-09-04T00:20:42+08:00"
+  },
+  {
+    "title": "萨顿对 Kasabian 主唱 Serge Pizzorno 的预测",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "03:58",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC 体育足球专家 Chris Sutton 与 Kasabian 主唱 Serge Pizzorno 以及 BBC 读者和 AI 进行了对本周末英超联赛比赛的预测。",
+    "published_dt_iso": "2026-09-04T03:58:10+08:00"
+  },
+  {
+    "title": "英超新闻：卡里克警告没有快速解决办法，埃默里对哈伍德“严厉”",
+    "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+    "date": "2026-09-04",
+    "published_time": "22:58",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "马雷斯卡欢呼“胜利者”费尔南德斯，但不会让他成为队长，德泽尔比为理查利森的待遇辩护继续阅读...",
+    "published_dt_iso": "2026-09-04T22:58:41+08:00"
+  },
+  {
+    "title": "尽管飞速崛起，卢卡斯·赫林顿仍留在赫尔城：“这太疯狂了”",
+    "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar",
+    "date": "2026-09-04",
+    "published_time": "14:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "第54位参加英超联赛的澳大利亚人坚称他将继续努力–迫不及待地想面对埃尔林·哈兰德在英超联赛赛季开幕当天，赫尔城与曼联的冲突刚刚过去一个多小时，卢卡斯·赫灵顿就从替补席上站了起来。随着老虎队以2比0领先，经理谢尔盖·亚基罗维奇（ Sergej Jakirović ）转向这位18岁的澳大利亚人，以明确的角色取代受伤的射手诺贝尔·门迪（ Nobel Mendy ）。“我知道",
+    "published_dt_iso": "2026-09-04T14:00:02+08:00"
+  },
+  {
+    "title": "英超联赛：本周末需要注意的 10 件事",
+    "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-10-things-to-look-out-for-this-weekend",
+    "date": "2026-09-04",
+    "published_time": "07:01",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Florian Wirtz has a chance to shine, there’s a Red Bull reunion on Tyneside and Chelsea face litmus test at ArsenalFlorian Wirtz is easing himself into his second season at Liverpool after a forgettable first. There were signs of promise against Nottingham Forest, where he set up the second equaliser and would have had a goal of his own if not for ",
+    "published_dt_iso": "2026-09-04T07:01:51+08:00"
+  },
+  {
+    "title": "迈克·迪恩声称他在裁判比赛时玩秘密游戏是为了取笑",
+    "link": "https://www.theguardian.com/football/2026/sep/03/mike-dean-claims-secret-games-for-a-laugh-while-refereeing-matches-football-premier-league",
+    "date": "2026-09-03",
+    "published_time": "23:22",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "前英超裁判迈克·迪恩（ Mike Dean ）声称，他曾经在主持比赛时参加秘密挑战，包括尽可能长时间地留在中间圈子，因为他承认在比赛期间“只是开玩笑”。英语比赛中最着名的官员之一发表的言论遭到了困惑",
+    "published_dt_iso": "2026-09-03T23:22:39+08:00"
+  },
+  {
+    "title": "寻找年轻球员如何推动英超内部转会市场",
+    "link": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-teenagers",
+    "date": "2026-09-03",
+    "published_time": "17:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "英格兰的顶级联赛购买的青少年球员比任何欧洲顶级联赛都多，而且它正在创造一个自己的市场。这个男孩预言将成为下一个Frenkie de Jong ，在今年夏天转会到纽卡斯尔联队之前，他只在阿贾克斯的Eredivisie中出场20次。肖恩·斯图尔（ Sean Steur ） 18岁。一旦一个可信的英超俱乐部打电话来，四届欧洲冠军几乎没有办法留住一个天才，",
+    "published_dt_iso": "2026-09-03T17:00:49+08:00"
+  },
+  {
+    "title": "阿齐兹对安德烈斯：七个看起来很聪明的英超联赛截止日交易",
+    "link": "https://www.theguardian.com/football/2026/sep/03/deadline-day-deals-premier-league-transfers",
+    "date": "2026-09-03",
+    "published_time": "17:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "这名 18 岁的球员曾参加过两场大型国际赛事，是上赛季该分区的顶级解围者，也是一名狡猾、令人兴奋、快速且多才多艺的中场球员，阿齐兹在过去两个赛季随米尔沃尔在英冠联赛中证明了自己，现在值得有机会在顶级联赛中检验自己。继续阅读...",
+    "published_dt_iso": "2026-09-03T17:00:49+08:00"
+  },
+  {
+    "title": "英超联赛的资金在混乱的过剩景象中失去了所有意义巴尼·罗奈",
+    "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-spending-transfer-window-summer-2026-chelsea-enzo-fernandez",
+    "date": "2026-09-03",
+    "published_time": "03:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "转移窗口打破了所有合理的规则和限制，让我们惊叹，并最终拿起账单几年前有一项研究，进入了电视节目位置、位置、位置的关键时期。你认识那个人。半小时的上午漂流。由两位品质相同的人士主持，他们看起来都像惠灵顿靴子的碎片精髓，沃尔沃XC40和“挑剔的部分”",
+    "published_dt_iso": "2026-09-03T03:00:32+08:00"
+  },
+  {
+    "title": "英超转会话题：我们从数据中学到的三件事",
+    "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-talking-points-three-things-we-learned-from-the-data",
+    "date": "2026-09-02",
+    "published_time": "23:29",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "在转会市场支出创纪录之后，英格兰顶级俱乐部扩大了与欧洲顶级俱乐部的差距英超俱乐部今年夏天在球员身上的投资超过34亿英镑，比去年增加了11.9%。这笔巨额支出，有三个方面值得仔细审视，继续阅读……",
+    "published_dt_iso": "2026-09-02T23:29:31+08:00"
+  },
+  {
+    "title": "海南精细化规范城镇开发边界管理 提升国土空间治理水平",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690712.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网海口9月4日电 (尹建军 陈甲勇)记者4日从海南省自然资源和规划厅获悉，《海南省城镇开发边界管理实施细则(试行)》近日在全国率先出台，通过细化管控标准、优化调整规则、创新激励机制，进一步健全城镇开发边界精细化管理体系，有效破解规划落地难题、提升国土空间治理水平。",
+    "published_dt_iso": "2026-09-04T22:25:15+08:00"
+  },
+  {
+    "title": "天津发布2025年度居民健康报告 居民期望寿命达82.80岁",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690695.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网天津9月4日电 (记者 江莹)天津市卫生健康委4日召开新闻发布会，发布《天津市居民健康状况报告(2025年度)》(以下简称《报告》)，全面披露当地居民整体健康水平、重点疾病发病与死亡原因分析、健康风险防控等最新核心数据，系统呈现天津居民健康现状。",
+    "published_dt_iso": "2026-09-04T22:20:15+08:00"
+  },
+  {
+    "title": "养老服务领域两项强制性国家标准发布",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690689.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月4日电 4日，市场监管总局联合民政部在北京召开专题新闻发布会，介绍与养老服务强制性国家标准相关的工作情况。",
+    "published_dt_iso": "2026-09-04T22:20:03+08:00"
+  },
+  {
+    "title": "联合国教科文组织海委会主席：中国已成“海洋十年”重要引领者",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690700.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社山东青岛9月4日电 (张孝鹏)在4日开幕的联合国“海洋十年”2026青岛国际海洋素养大会上，联合国教科文组织政府间海洋学委员会(UNESCO-IOC，简称“联合国教科文组织海委会”)主席道田豊(Yutaka Michida)视频致辞时说，中国已成为“海洋科学促进可持续发展十年(2021-2030)”(简称“海洋十年”)的重要引领者。",
+    "published_dt_iso": "2026-09-04T22:18:35+08:00"
+  },
+  {
+    "title": "开局之年看中国·日新江淮｜从“云”到“算”，宿州抢跑算力新赛道",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690704.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "国际在线报道(记者 胡晓薇)：机房里，一排排服务器整齐排列，指示灯持续闪烁。在宿州市算力产业园，一座数据中心看似平静，实则却承载着来自不同地区的计算需求。9月3日，记者随“开局之年看中国·日新江淮”网络主题宣传活动走进安徽宿州，探访这座城市算力产业的发展脉络。如今，从云计算到智能算力，从数据存储到人工智能模型训练，曾经服务于“上云”的基础设施，正在成为支撑新一轮产业升级的数字底座。",
+    "published_dt_iso": "2026-09-04T22:10:28+08:00"
+  },
+  {
+    "title": "把脚下的泥泞重新走成路（记者手记）",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690698.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "救援人员组成突击队，徒步翻越密林荆棘，硬生生蹚出一条生命探测线——这“一米”的探索，不是一个人孤身涉险，而是一群人用无畏和执着寻找希望的坐标。",
+    "published_dt_iso": "2026-09-04T22:05:30+08:00"
+  },
+  {
+    "title": "开局之年看中国丨翻开名著读量子科技的中式浪漫",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690683.shtml",
+    "date": "2026-09-04",
+    "published_time": "21:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "九章——掐指一算越过几千年时光",
+    "published_dt_iso": "2026-09-04T21:54:45+08:00"
+  },
+  {
+    "title": "台湾半导体业界析两岸合作：“绕开大陆产业链不切实际”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690676.shtml",
+    "date": "2026-09-04",
+    "published_time": "21:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社台北9月4日电 (记者 朱贺)9月2日至4日在台北举行的“SEMICON Taiwan”半导体展上，多家台湾半导体企业人士接受中新社采访时表示，从早期“落子”大陆到共迎AI浪潮，两岸产业合作空间只增不减。在半导体领域，要绕开大陆产业链是不切实际的。",
+    "published_dt_iso": "2026-09-04T21:53:45+08:00"
+  },
+  {
+    "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml",
+    "date": "2026-09-04",
+    "published_time": "23:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "乌克兰总统泽连斯基4日在社交媒体发文称，位于乌首都基辅市中心的乌国家安全局总部当天遭俄军无人机袭击。乌克兰媒体同日援引消息人士的话报道称，出于安全担忧，计划访问俄罗斯和乌克兰的美国总统特使威特科夫正在考虑代替访问的其他方案。",
+    "published_dt_iso": "2026-09-04T23:49:38+08:00"
+  },
+  {
+    "title": "被下令逮捕的菲律宾副总统莎拉·杜特尔特，背后是两大家族存亡之战",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690692.shtml",
+    "date": "2026-09-04",
+    "published_time": "21:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "9月4日，菲律宾地方法院针对副总统莎拉·杜特尔特下达逮捕令。",
+    "published_dt_iso": "2026-09-04T21:58:17+08:00"
+  },
+  {
+    "title": "韩国总统府：向霍尔木兹海峡派兵处于“研究审议”阶段",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690678.shtml",
+    "date": "2026-09-04",
+    "published_time": "21:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社首尔9月4日电 (记者 金旭)据韩联社当地时间4日报道，应美国要求，韩国政府正在考虑向霍尔木兹海峡派兵。对此，韩国总统府青瓦台表示，韩方目前仍在按照程序研究审议相关议案，尚未作出任何决定。",
+    "published_dt_iso": "2026-09-04T21:57:15+08:00"
+  },
+  {
+    "title": "马来西亚西连空气污染指数超500进入紧急状态",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690675.shtml",
+    "date": "2026-09-04",
+    "published_time": "21:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社吉隆坡9月4日电 (记者 刘育英)受跨境烟霾及持续干燥天气影响，马来西亚沙捞越州空气质量4日进一步恶化。西连省空气污染指数(API)当天上午突破500，处于危险级别，达到可申报烟霾紧急状态的行动阈值。马来西亚最高元首易卜拉欣批准西连进入紧急状态。",
+    "published_dt_iso": "2026-09-04T21:50:05+08:00"
+  },
+  {
+    "title": "巴基斯坦安全部队在俾路支省击毙12名恐怖分子",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690594.shtml",
+    "date": "2026-09-04",
+    "published_time": "20:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月4日电 伊斯兰堡消息：当地时间9月4日，巴基斯坦三军新闻局对外证实，巴安全部队日前在俾路支省卡拉特(Kalat)地区开展反恐行动，共击毙12名恐怖分子。",
+    "published_dt_iso": "2026-09-04T20:56:05+08:00"
+  },
+  {
+    "title": "泰国暂缓数据中心项目建设及审批",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690581.shtml",
+    "date": "2026-09-04",
+    "published_time": "20:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社曼谷9月4日电 (记者 李映民)泰国政府4日召开数据中心产业政策委员会工作会议，决定在相关监管标准明确前，暂缓在建数据中心项目施工及待审批项目许可。",
+    "published_dt_iso": "2026-09-04T20:55:25+08:00"
+  },
+  {
+    "title": "哈萨克斯坦央行下调基准利率至16.25%",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690554.shtml",
+    "date": "2026-09-04",
+    "published_time": "19:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社阿斯塔纳9月4日电 (记者 单璐)哈萨克斯坦国家银行(央行)货币政策委员会4日宣布下调基准利率50个基点至16.25%。这是哈央行今年以来第三次降息。",
+    "published_dt_iso": "2026-09-04T19:38:59+08:00"
+  },
+  {
+    "title": "2026年度“韩国小记者中国行”启动",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690508.shtml",
+    "date": "2026-09-04",
+    "published_time": "19:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网首尔9月4日电 (记者 金旭)当地时间9月4日，“韩国小记者中国行”在中国驻韩国大使馆举行启程仪式。中国驻韩国大使戴兵、韩中经济文化教育协会理事长申京淑等出席。",
+    "published_dt_iso": "2026-09-04T19:21:38+08:00"
+  },
+  {
+    "title": "记者手记：吉隆口岸的迷彩守护",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml",
+    "date": "2026-09-04",
+    "published_time": "23:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新华社西藏吉隆9月3日电 记者手记：吉隆口岸的迷彩守护",
+    "published_dt_iso": "2026-09-04T23:20:39+08:00"
+  },
+  {
+    "title": "2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网成都9月4日电 (王利文)2026年“一带一路”脑健康与脑器交互科技国际会议4日在成都召开。会议由四川省科学技术厅等单位指导，电子科技大学主办，中国—古巴神经技术与脑器交互“一带一路”联合实验室等承办，来自12个国家和地区的近千名专家、学者和企业家参会。",
+    "published_dt_iso": "2026-09-04T22:58:57+08:00"
+  },
+  {
+    "title": "祥鹏航空乌鲁木齐⇌和田⇌阿里航线顺利首航 畅通疆藏联动空中廊道",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690737.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网拉萨9月4日电(白玛玉珍 周柄帆 艾芯羽)9月3日13时05分，祥鹏航空8L9994航班平稳降落在和田昆冈机场，机场以民航最高礼仪“过水门”仪式迎接航班抵达，标志着乌鲁木齐#8652;和田#8652;阿里航线顺利完成首航。至此，新疆乌鲁木齐、和田与西藏阿里三地间的空中通道正式贯通，为沿线民众出行及区域经贸文旅交流提供了更便捷的航空保障。",
+    "published_dt_iso": "2026-09-04T22:58:43+08:00"
+  },
+  {
+    "title": "广东数字化赋能就业服务 打通求职服务“最后一公里”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月4日电 (记者 王坚)“百万英才汇南粤”是广东启动实施的高规格招才引智行动计划，“粤就业”作为“百万英才汇南粤”行动省级平台，以数字化手段，为高校毕业生和各类人才搭建起高效便捷的线上对接渠道。目前，“粤就业”累计发布“百万英才汇南粤”招聘活动超2000场次，线上平台参加招聘企业累计超4.6万家，归集岗位超247万个。",
+    "published_dt_iso": "2026-09-04T22:58:29+08:00"
+  },
+  {
+    "title": "直击福建莆田抢险：救援清淤不松懈 安置保障暖民心",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690731.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社福建莆田9月4日电 题：直击福建莆田抢险：救援清淤不松懈 安置保障暖民心",
+    "published_dt_iso": "2026-09-04T22:57:03+08:00"
+  },
+  {
+    "title": "中国首个科学玩具团体标准发布",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690725.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月4日电 (记者 孙自法)如何界定科学玩具、科学玩具有哪些类别、有什么基本要求和功能要求……作为中国首个科学玩具团体标准，中国科普作家协会9月4日发布的《科学玩具分类和功能要求》给出了明确答案。",
+    "published_dt_iso": "2026-09-04T22:33:26+08:00"
+  },
+  {
+    "title": "广西崇左市宁明县多措并举推进灾后农业复产工作",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690723.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网崇左9月4日电(吕桂文)受台风“紫檀”影响，广西崇左市宁明县近期遭遇严重洪涝灾害，农业生产损失惨重。洪水退去后，该县及早谋划，迅速行动，多措并举推动灾后复产复种工作，以弥补台风造成的经济损失。",
+    "published_dt_iso": "2026-09-04T22:32:36+08:00"
+  },
+  {
+    "title": "文博IP从展厅走向街头 上海旅游节经典活动季启幕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690722.shtml",
+    "date": "2026-09-04",
+    "published_time": "22:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月4日电 (杨硕 李佳佳)第37届上海旅游节大巡游以“上海之约·美好相逢”为主题，近期将在外滩金牛广场启幕。本届大巡游在方队节目编排上首次实现与同期重磅文博展览的IP联动，让文博IP从“展厅”走向“街头”。这是记者4日从第37届上海旅游节经典活动季重点主题活动新闻通气会上获得的信息。",
+    "published_dt_iso": "2026-09-04T22:32:15+08:00"
+  },
+  {
+    "title": "“究竟是谁在批准什么？”：光州双年展台湾复名、中国退展，改名风波背后的角力",
+    "link": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "22:33",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "8月初，韩国举行的光州双年展因主办单位改动“台湾馆”名称陷入争议。事件曝光后，台湾参展艺术家提出抗议，当地许多艺术家、民众也进行声援。主办单位最终同意恢复使用“台湾馆”，但引起中方不满。",
+    "published_dt_iso": "2026-09-04T22:33:16+08:00"
+  },
+  {
+    "title": "福克兰群岛争议升温：阿根廷宣布制裁附近油企，特朗普暗示未必协助英国",
+    "link": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "15:41",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国总统特朗普说，英国“在我们与伊朗开战时没有出手帮忙”。他此前表示，若英国未能增加防务开支，美国可能会修改在福克兰群岛主权问题上的中立立场。",
+    "published_dt_iso": "2026-09-04T15:41:46+08:00"
+  },
+  {
+    "title": "亲俄宣传网络内幕：利用乌克兰女性遭强奸的虚假消息，作引流“诱饵”",
+    "link": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "09:39",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "俄罗斯 Telegram 频道利用虚假的强奸消息和乌克兰女性的照片，引诱数百万用户加入亲战宣传网。",
+    "published_dt_iso": "2026-09-04T09:39:26+08:00"
+  },
+  {
+    "title": "美国航母“林肯号”航行250天终抵泰国，这是我们目前知道的情况",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "14:01",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国核动力航空母舰“亚伯拉罕·林肯号”（USS Abraham Lincoln）在海上连续航行250天，现在终于抵达泰国靠岸，近5,000名船员得以休息。",
+    "published_dt_iso": "2026-09-03T14:01:33+08:00"
+  },
+  {
+    "title": "执迷于“睡眠分数”如何反让你睡得更差？",
+    "link": "https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "10:05",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "不少人会配戴追踪器，检测自己的睡眠分数，并用尽方法“睡眠极大化”（sleepmaxxing）。但专家指出，把睡眠游戏化，正导致更多人出现睡眠失调问题。",
+    "published_dt_iso": "2026-09-04T10:05:55+08:00"
+  },
+  {
+    "title": "尼泊尔—西藏泥石流：堰塞湖和冰湖是下一个“定时炸弹”？",
+    "link": "https://www.bbc.com/zhongwen/articles/cz6zpzwwxlzo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-02",
+    "published_time": "08:01",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "事发河谷上游已形成两个堰塞湖。与此同时，原本散布在喜马拉雅山区的冰川湖，在灾区内有10座被标记为高风险，专家形容它们是“定时炸弹”。",
+    "published_dt_iso": "2026-09-02T08:01:34+08:00"
+  },
+  {
+    "title": "泥石流摧毁西藏吉隆口岸的关键几分钟",
+    "link": "https://www.bbc.com/zhongwen/articles/cp802gnj5kmo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-01",
+    "published_time": "20:01",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "吉隆口岸位处西藏与尼泊尔的重要贸易通路之上，中国与尼泊尔两侧各有数以百计外国旅客在泥石流冲击后下落不明。",
+    "published_dt_iso": "2026-09-01T20:01:05+08:00"
+  },
+  {
+    "title": "数百名水力发电工人受困隧道：尼泊尔地下梦魇",
+    "link": "https://www.bbc.com/zhongwen/articles/crer81r33pno/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-01",
+    "published_time": "12:44",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "数百名工人的家属仍抱持希望，相信受困于尼泊尔特里苏里河（Trishuli River）沿岸庞大、充满泥浆的隧道网络中的亲人仍有机会被活着找到。",
+    "published_dt_iso": "2026-09-01T12:44:45+08:00"
+  },
+  {
+    "title": "如何定义合理怀疑中的“合理”",
+    "link": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-reasonable-doubt.html",
+    "date": "2026-09-04",
+    "published_time": "23:44",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "“排除合理怀疑”是美国法律体系中最高的举证责任。尽管如此，仍有一些回旋余地。",
+    "published_dt_iso": "2026-09-04T23:44:31+08:00"
+  },
+  {
+    "title": "在与美国六个月的战争后，伊朗变得更加自信",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html",
+    "date": "2026-09-04",
+    "published_time": "23:21",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "新的情报报告评估称，伊朗现在对其能力和美国实力的局限性有了更好的了解。",
+    "published_dt_iso": "2026-09-04T23:21:43+08:00"
+  },
+  {
+    "title": "随着地面战斗升级，也门胡塞武装向红海海峡推进",
+    "link": "https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html",
+    "date": "2026-09-04",
+    "published_time": "22:08",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "伊朗支持的民兵组织胡塞武装似乎正试图控制曼德海峡附近的一个港口城市，这是全球贸易的一个关键阻塞点。",
+    "published_dt_iso": "2026-09-04T22:08:53+08:00"
+  },
+  {
+    "title": "以色列表示正在巩固其在黎巴嫩南部的立足点",
+    "link": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+    "date": "2026-09-04",
+    "published_time": "23:25",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "最近占领的战略山脊进一步巩固了以色列对黎巴嫩领土的占领，调解持久和平的努力陷入困境。",
+    "published_dt_iso": "2026-09-04T23:25:24+08:00"
+  },
+  {
+    "title": "特朗普威胁要停止部分贸易，除非美联储降息",
+    "link": "https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html",
+    "date": "2026-09-04",
+    "published_time": "23:58",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "总统表示，如果中央银行不服从他的命令，他可以停止美国与存在贸易逆差的国家之间的贸易。",
+    "published_dt_iso": "2026-09-04T23:58:29+08:00"
+  },
+  {
+    "title": "俄罗斯在欧洲的破坏风险：一场失控的战斗",
+    "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html",
+    "date": "2026-09-04",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "欧洲在应对一系列令人不安的阴谋和挑衅方面的选择有限。但出现不可预测后果的可能性正在上升。",
+    "published_dt_iso": "2026-09-04T17:03:31+08:00"
+  },
+  {
+    "title": "库什纳和威特科夫将前往俄罗斯和乌克兰重启和谈",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html",
+    "date": "2026-09-04",
+    "published_time": "23:21",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "贾里德·库什纳（ Jared Kushner ）和史蒂夫·维特科夫（ Steve Witkoff ）会见两国总统的行程正值乌克兰冲突的不稳定时刻。",
+    "published_dt_iso": "2026-09-04T23:21:09+08:00"
+  },
+  {
+    "title": "俄罗斯无人机袭击乌克兰情报局局长办公室",
+    "link": "https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html",
+    "date": "2026-09-04",
+    "published_time": "23:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此次袭击发生之际，据说美国特使史蒂夫·威特科夫和贾里德·库什纳正计划立即访问基辅和莫斯科。",
+    "published_dt_iso": "2026-09-04T23:41:24+08:00"
+  }
+]
