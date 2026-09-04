@@ -56,14 +56,14 @@ title: 首页
       <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/><circle cx="12" cy="12" r="2"/></svg>
     </div>
     <h3>N100 · ROS2 激光雷达 SLAM 工作空间</h3>
-    <p>整合宇树 L1（3D）与镭神 N10P（2D）双雷达，配套 Point-LIO 与 SLAM Toolbox 双建图方案，即拿即用的机器人感知与导航参考实现。</p>
+    <p>整合宇树 L1（3D）与镭神 N10P（2D）双雷达，配套 FAST-LIO2 与 SLAM Toolbox 双建图方案，即拿即用的机器人感知与导航参考实现。</p>
     <div class="card-tags">
       <span class="card-tag">ROS2</span>
       <span class="card-tag">双雷达</span>
       <span class="card-tag">SLAM</span>
     </div>
     <div class="card-details">
-      • 宇树 L1 + Point-LIO：6-DoF 实时 3D 建图，IMU 紧耦合<br>
+      • 宇树 L1 + FAST-LIO2：6-DoF 实时 3D 建图，IMU 紧耦合<br>
       • 镭神 N10P + SLAM Toolbox：2D 栅格地图，回环检测<br>
       • 自研障碍物检测：BFS 空间聚类 + PCA 墙识别 + 多帧确认<br>
       • 位姿优化：卡尔曼滤波 + 静止检测 + 零点校准 + 自适应滤波
@@ -96,11 +96,11 @@ title: 首页
       <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/><path d="M12 9v6"/><path d="M9 12h6"/></svg>
     </div>
     <h3>ZCode 视觉识别系统</h3>
-    <p>综合计算机视觉识别工程，支持图像/视频输入、几何图形识别与多目标实时跟踪检测。</p>
+    <p>基于 OpenCV 的综合计算机视觉识别与硬件联动系统，支持 11 种颜色检测、几何形状分析与树莓派 GPIO 控制。</p>
     <div class="card-tags">
-      <span class="card-tag">Python / C++</span>
+      <span class="card-tag">Python 3.8+</span>
       <span class="card-tag">OpenCV</span>
-      <span class="card-tag">目标检测</span>
+      <span class="card-tag">GPIO 硬件联动</span>
     </div>
     <a href="https://github.com/LONEFORME/ZCodeProject" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
@@ -125,11 +125,11 @@ title: 首页
       <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="4"/><circle cx="4" cy="4" r="2.5"/><circle cx="20" cy="4" r="2.5"/><circle cx="4" cy="20" r="2.5"/><circle cx="20" cy="20" r="2.5"/></svg>
     </div>
     <h3>锡月无人机方案</h3>
-    <p>电子设计竞赛无人机全栈方案，涵盖 STM32 飞控固件、树莓派上位机通信与视觉追踪导航。</p>
+    <p>全国大学生电赛无人机全栈方案，涵盖 STM32F405 飞控底层、地平线 RDK X5 上位机通信与视觉自主巡航。</p>
     <div class="card-tags">
-      <span class="card-tag">STM32F4</span>
-      <span class="card-tag">PID / ADRC</span>
-      <span class="card-tag">T265 追踪</span>
+      <span class="card-tag">STM32F405</span>
+      <span class="card-tag">RDK X5 上位机</span>
+      <span class="card-tag">DFS + Dijkstra</span>
     </div>
     <a href="https://github.com/LONEFORME/xiyue-drone" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
@@ -139,11 +139,11 @@ title: 首页
       <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
     </div>
     <h3>3D 打印模型库</h3>
-    <p>机器人结构件、传感器支架与云台常用机械配件的 3D 打印模型集合与源工程。</p>
+    <p>机器人结构件、无人机云台与传感器支架的 3D 打印模型全栈库（195+ 款精细模型）。</p>
     <div class="card-tags">
-      <span class="card-tag">STL / 3MF</span>
+      <span class="card-tag">195+ 款模型</span>
       <span class="card-tag">SolidWorks</span>
-      <span class="card-tag">结构件设计</span>
+      <span class="card-tag">3D 在线预览</span>
     </div>
     <a href="{{ "/3d-viewer" | relative_url }}" class="card-link">在线 3D 预览</a>
     <a href="https://github.com/LONEFORME/3d-models" target="_blank" rel="noopener" class="card-link">查看项目</a>
