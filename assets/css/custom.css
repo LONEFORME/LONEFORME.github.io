@@ -36,11 +36,11 @@
   --color-sidebar-bg: #ffffff;
   --color-sidebar-text: #333;
   --color-sidebar-muted: #666;
-  --color-primary: #00b35e;
-  --color-primary-dim: rgba(0, 179, 94, 0.1);
-  --color-primary-glow: rgba(0, 179, 94, 0.2);
-  --color-secondary: #0099cc;
-  --color-secondary-dim: rgba(0, 153, 204, 0.1);
+  --color-primary: #059669;
+  --color-primary-dim: rgba(5, 150, 105, 0.08);
+  --color-primary-glow: rgba(5, 150, 105, 0.15);
+  --color-secondary: #0284c7;
+  --color-secondary-dim: rgba(2, 132, 199, 0.08);
   --color-heading: #1a1a2e;
   --color-body: #444;
   --color-muted: #777;
@@ -48,7 +48,7 @@
   --color-border-hover: rgba(0, 0, 0, 0.15);
   --color-code-bg: #f5f5f5;
   --color-blockquote-border: var(--color-primary);
-  --color-blockquote-bg: rgba(0, 179, 94, 0.05);
+  --color-blockquote-bg: rgba(5, 150, 105, 0.04);
   --shadow-sm: 0 1px 4px rgba(0, 0, 0, 0.08);
   --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.1);
   --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.12);
@@ -77,7 +77,39 @@
 }
 
 [data-theme="light"] .hero::before {
-  background: radial-gradient(circle, rgba(0, 179, 94, 0.08) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(5, 150, 105, 0.06) 0%, transparent 70%);
+}
+
+[data-theme="light"] .hero-badge {
+  background: rgba(5, 150, 105, 0.08);
+  border: 1px solid rgba(5, 150, 105, 0.18);
+  color: var(--color-primary);
+}
+
+[data-theme="light"] .site-logo-icon {
+  filter: none;
+}
+
+[data-theme="light"] .nav-link:hover .nav-svg,
+[data-theme="light"] .nav-link.active .nav-svg {
+  filter: none;
+}
+
+[data-theme="light"] .section-icon-box {
+  background: rgba(5, 150, 105, 0.08);
+  color: var(--color-primary);
+  border: 1px solid rgba(5, 150, 105, 0.18);
+  box-shadow: 0 2px 6px rgba(5, 150, 105, 0.06);
+}
+
+[data-theme="light"] .card-mini-icon-box {
+  background: rgba(5, 150, 105, 0.08);
+  color: var(--color-primary);
+  border: 1px solid rgba(5, 150, 105, 0.18);
+}
+
+[data-theme="light"] .card-link:hover {
+  text-shadow: none;
 }
 
 [data-theme="light"] .hero h1 {
@@ -2792,19 +2824,109 @@ body {
   min-height: 48px !important;
   max-width: 48px !important;
   max-height: 48px !important;
-  border-radius: var(--radius-sm);
-  background: radial-gradient(circle at center, var(--icon-glow, rgba(0,255,136,0.15)) 0%, rgba(255,255,255,0.02) 80%);
-  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  background: var(--icon-bg, radial-gradient(circle at center, var(--icon-glow, rgba(0,255,136,0.15)) 0%, rgba(255,255,255,0.02) 80%));
+  border: 1px solid var(--icon-border, rgba(255, 255, 255, 0.08));
   color: var(--icon-color, var(--color-primary));
   margin-bottom: 16px;
   transition: all var(--transition);
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
   flex-shrink: 0;
 }
-[data-theme="light"] .card-icon-box {
-  background: radial-gradient(circle at center, var(--icon-glow, rgba(0,179,94,0.15)) 0%, rgba(0,0,0,0.02) 80%);
-  border-color: rgba(0, 0, 0, 0.08);
+
+/* 颜色分类系统 - 暗色模式（赛博科技感） */
+.card-icon-box.icon-green {
+  --icon-color: #00ff88;
+  --icon-glow: rgba(0, 255, 136, 0.25);
+  --icon-bg: radial-gradient(circle at center, rgba(0, 255, 136, 0.16) 0%, rgba(255, 255, 255, 0.02) 80%);
+  --icon-border: rgba(0, 255, 136, 0.22);
 }
+.card-icon-box.icon-cyan {
+  --icon-color: #06b6d4;
+  --icon-glow: rgba(6, 182, 212, 0.25);
+  --icon-bg: radial-gradient(circle at center, rgba(6, 182, 212, 0.16) 0%, rgba(255, 255, 255, 0.02) 80%);
+  --icon-border: rgba(6, 182, 212, 0.22);
+}
+.card-icon-box.icon-blue {
+  --icon-color: #00d4ff;
+  --icon-glow: rgba(0, 212, 255, 0.25);
+  --icon-bg: radial-gradient(circle at center, rgba(0, 212, 255, 0.16) 0%, rgba(255, 255, 255, 0.02) 80%);
+  --icon-border: rgba(0, 212, 255, 0.22);
+}
+.card-icon-box.icon-purple {
+  --icon-color: #a855f7;
+  --icon-glow: rgba(168, 85, 247, 0.25);
+  --icon-bg: radial-gradient(circle at center, rgba(168, 85, 247, 0.16) 0%, rgba(255, 255, 255, 0.02) 80%);
+  --icon-border: rgba(168, 85, 247, 0.22);
+}
+.card-icon-box.icon-orange {
+  --icon-color: #f59e0b;
+  --icon-glow: rgba(245, 158, 11, 0.25);
+  --icon-bg: radial-gradient(circle at center, rgba(245, 158, 11, 0.16) 0%, rgba(255, 255, 255, 0.02) 80%);
+  --icon-border: rgba(245, 158, 11, 0.22);
+}
+.card-icon-box.icon-pink {
+  --icon-color: #ec4899;
+  --icon-glow: rgba(236, 72, 153, 0.25);
+  --icon-bg: radial-gradient(circle at center, rgba(236, 72, 153, 0.16) 0%, rgba(255, 255, 255, 0.02) 80%);
+  --icon-border: rgba(236, 72, 153, 0.22);
+}
+
+/* 亮色模式：高对比度、护眼舒适、温润质感，彻底消除白底荧光绿刺眼感 */
+[data-theme="light"] .card-icon-box {
+  background: var(--icon-bg, rgba(5, 150, 105, 0.08));
+  border: 1px solid var(--icon-border, rgba(5, 150, 105, 0.18));
+  color: var(--icon-color, var(--color-primary));
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
+}
+
+[data-theme="light"] .card-icon-box.icon-green {
+  --icon-color: #059669;
+  --icon-glow: rgba(5, 150, 105, 0.18);
+  --icon-bg: rgba(5, 150, 105, 0.08);
+  --icon-border: rgba(5, 150, 105, 0.2);
+}
+[data-theme="light"] .card-icon-box.icon-cyan {
+  --icon-color: #0891b2;
+  --icon-glow: rgba(8, 145, 178, 0.18);
+  --icon-bg: rgba(8, 145, 178, 0.08);
+  --icon-border: rgba(8, 145, 178, 0.2);
+}
+[data-theme="light"] .card-icon-box.icon-blue {
+  --icon-color: #0284c7;
+  --icon-glow: rgba(2, 132, 199, 0.18);
+  --icon-bg: rgba(2, 132, 199, 0.08);
+  --icon-border: rgba(2, 132, 199, 0.2);
+}
+[data-theme="light"] .card-icon-box.icon-purple {
+  --icon-color: #7c3aed;
+  --icon-glow: rgba(124, 58, 237, 0.18);
+  --icon-bg: rgba(124, 58, 237, 0.08);
+  --icon-border: rgba(124, 58, 237, 0.2);
+}
+[data-theme="light"] .card-icon-box.icon-orange {
+  --icon-color: #d97706;
+  --icon-glow: rgba(217, 119, 6, 0.18);
+  --icon-bg: rgba(217, 119, 6, 0.08);
+  --icon-border: rgba(217, 119, 6, 0.2);
+}
+[data-theme="light"] .card-icon-box.icon-pink {
+  --icon-color: #db2777;
+  --icon-glow: rgba(219, 39, 119, 0.18);
+  --icon-bg: rgba(219, 39, 119, 0.08);
+  --icon-border: rgba(219, 39, 119, 0.2);
+}
+
+/* 亮色模式对内联荧光绿的保护拦截（防止残留 #00ff88 产生眩光） */
+[data-theme="light"] .card-icon-box[style*="#00ff88"],
+[data-theme="light"] .card-icon-box[style*="0,255,136"] {
+  --icon-color: #059669 !important;
+  --icon-glow: rgba(5, 150, 105, 0.18) !important;
+  background: rgba(5, 150, 105, 0.08) !important;
+  border-color: rgba(5, 150, 105, 0.2) !important;
+  color: #059669 !important;
+}
+
 .card-icon-box svg, .card-svg {
   width: 24px !important;
   height: 24px !important;
@@ -2813,11 +2935,18 @@ body {
   display: block;
   transition: transform var(--transition);
 }
+
 .card:hover .card-icon-box {
   border-color: var(--icon-color, var(--color-primary));
   box-shadow: 0 0 20px var(--icon-glow, rgba(0,255,136,0.3));
   transform: translateY(-2px) scale(1.05);
 }
+
+[data-theme="light"] .card:hover .card-icon-box {
+  border-color: var(--icon-color, var(--color-primary)) !important;
+  box-shadow: 0 4px 14px var(--icon-glow, rgba(5, 150, 105, 0.18)) !important;
+}
+
 .card:hover .card-icon-box svg {
   transform: scale(1.1);
 }
