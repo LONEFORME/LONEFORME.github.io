@@ -68,6 +68,7 @@
 
 [data-theme="light"] .nav-link:hover {
   background: rgba(0, 0, 0, 0.04);
+  color: var(--color-primary);
 }
 
 [data-theme="light"] .nav-link.active {
@@ -231,8 +232,8 @@ body {
 }
 
 .nav-link:hover {
-  background: rgba(255, 255, 255, 0.04);
-  color: #fff;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--color-primary);
 }
 
 .nav-link::before {
@@ -291,7 +292,11 @@ body {
 
 .theme-toggle:hover {
   background: var(--color-surface-hover);
-  border-color: var(--color-border-hover);
+  border-color: var(--color-primary);
+}
+
+.theme-toggle:hover .theme-label {
+  color: var(--color-primary);
 }
 
 .theme-icon {
@@ -2606,9 +2611,9 @@ body {
 }
 
 .copy-code-btn:hover {
-  color: #fff;
+  color: var(--color-primary);
   border-color: var(--color-primary);
-  background: rgba(0, 255, 136, 0.15);
+  background: var(--color-primary-dim);
 }
 
 .copy-code-btn.copied {
@@ -3061,6 +3066,10 @@ body {
   font-weight: 700;
   border-color: var(--color-primary);
   box-shadow: 0 0 10px rgba(0, 255, 136, 0.3);
+}
+
+[data-theme="light"] .archive-chip.active {
+  color: #fff !important;
 }
 
 .archive-chip-more {
