@@ -790,5 +790,608 @@
     "source": "纽约时报",
     "summary": "美联储理事克里斯托弗· J ·沃勒（ Christopher J. Waller ）对通货膨胀的轨迹听起来很乐观，但表示如果进展不能继续，他将支持更高的利率。",
     "published_dt_iso": "2026-09-03T22:07:45+08:00"
+  },
+  {
+    "title": "那些无食欲的人工智能背后的同一性问题",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "date": "2026-09-04",
+    "published_time": "12:21",
+    "source": "TechCrunch",
+    "summary": "虽然餐厅老板可能会将生成式人工智能作为美化菜单的捷径，但顾客可以直观地感觉到食物有问题。",
+    "published_dt_iso": "2026-09-04T12:21:03+08:00"
+  },
+  {
+    "title": "据报道， Crusoe以300亿美元的估值筹集了30亿美元",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "date": "2026-09-04",
+    "published_time": "08:48",
+    "source": "TechCrunch",
+    "summary": "据报道，这轮融资是在这家数据中心开发商与Jane Street签订了130亿美元的合同之后进行的。",
+    "published_dt_iso": "2026-09-04T08:48:42+08:00"
+  },
+  {
+    "title": "据报道， Accel正在进行谈判，以$ 400亿的估值领投Thinking Machines $ 10亿的一轮融资",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "date": "2026-09-04",
+    "published_time": "03:36",
+    "source": "TechCrunch",
+    "summary": "这家备受瞩目的初创公司的年收入运行率超过1亿美元（ $ 100 million ）。",
+    "published_dt_iso": "2026-09-04T03:36:29+08:00"
+  },
+  {
+    "title": "Abliteration.ai正在通过移除人工智能护栏来做生意",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "date": "2026-09-04",
+    "published_time": "02:37",
+    "source": "TechCrunch",
+    "summary": "Abliteration.AI正在使没有护栏的强大人工智能模型更容易访问，认为为捍卫者提供与不良行为者相同的工具最终可以改善网络安全。",
+    "published_dt_iso": "2026-09-04T02:37:57+08:00"
+  },
+  {
+    "title": "Meta正在付费查看您如何使用他们最新的人工智能模型",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "date": "2026-09-04",
+    "published_time": "02:19",
+    "source": "TechCrunch",
+    "summary": "对于其用于操作编码和其他代理的新Muse Spark模型， Meta为通过分享提示和模型输出为未来模型开发做出“贡献”的用户提供平均约95%的显式折扣。",
+    "published_dt_iso": "2026-09-04T02:19:56+08:00"
+  },
+  {
+    "title": "OpenAI推出其强大（且备受争议）的新型号Astra",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "date": "2026-09-04",
+    "published_time": "02:01",
+    "source": "TechCrunch",
+    "summary": "OpenAI声称， Astra代表了“计算机和浏览器使用的新领域” ，它以无与伦比的“速度、准确性和安全性”处理任务。",
+    "published_dt_iso": "2026-09-04T02:01:45+08:00"
+  },
+  {
+    "title": "英伟达以129.3亿美元收购Hugging Face--公司获得对主要AI模型分销平台的控制权",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-acquires-hugging-face-for-usd12-93-billion-company-gains-control-of-major-ai-model-distribution-platform",
+    "date": "2026-09-04",
+    "published_time": "03:05",
+    "source": "Tom's Hardware",
+    "summary": "英伟达以129.3亿美元的价格收购了Hugging Face ，控制了一个主要的开放式人工智能模型平台，并发誓要保持对竞争模型、云和硬件平台的支持，从而超越了人工智能硬件。",
+    "published_dt_iso": "2026-09-04T03:05:37+08:00"
+  },
+  {
+    "title": "美国参议员对哪个VPN是正确的感到困惑，向国家安全局寻求指导",
+    "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+    "date": "2026-09-04",
+    "published_time": "03:52",
+    "source": "Ars Technica",
+    "summary": "开源、商业、单跳、多跳、mixnet ？一系列选项令人眼花缭乱。",
+    "published_dt_iso": "2026-09-04T03:52:06+08:00"
+  },
+  {
+    "title": "VMware迁移将Tottenham Hotspur的许可费降低了85%",
+    "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "date": "2026-09-04",
+    "published_time": "02:58",
+    "source": "Ars Technica",
+    "summary": "职业足球队的首席技术官指出了“博通收购问题”。",
+    "published_dt_iso": "2026-09-04T02:58:31+08:00"
+  },
+  {
+    "title": "BGP 劫持感染网络是由错误喜剧引起的，一点都不好笑",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Ars Technica",
+    "summary": "从BGP劫持中毒的生产软件中，我们可以学到什么？很多。",
+    "published_dt_iso": "2026-09-02T19:00:43+08:00"
+  },
+  {
+    "title": "在安装此承诺免费电影的设备之前请三思而后行",
+    "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "date": "2026-09-01",
+    "published_time": "00:33",
+    "source": "Ars Technica",
+    "summary": "为了换取免费的东西，设备将家庭连接作为代理网络的一部分。",
+    "published_dt_iso": "2026-09-01T00:33:38+08:00"
+  },
+  {
+    "title": "Meta 推动机器人在数据中心工作的内幕",
+    "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+    "date": "2026-08-30",
+    "published_time": "19:03",
+    "source": "Ars Technica",
+    "summary": "该公司正在测试机器人执行可由技术人员执行的任务。",
+    "published_dt_iso": "2026-08-30T19:03:47+08:00"
+  },
+  {
+    "title": "当局逮捕了 2 名多产黑客组织 TeamPCP 的涉嫌成员",
+    "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "date": "2026-08-28",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "summary": "该组织通过无情的供应链攻击活动感染了 1,000 多个组织。",
+    "published_dt_iso": "2026-08-28T19:15:05+08:00"
+  },
+  {
+    "title": "Claude、Codex 和 Hermes 在公司网络内安装了无主代码",
+    "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+    "date": "2026-08-27",
+    "published_time": "22:00",
+    "source": "Ars Technica",
+    "summary": "在公司文档中发现了 227 个安装命令，这些命令指向无人拥有的代码。",
+    "published_dt_iso": "2026-08-27T22:00:13+08:00"
+  },
+  {
+    "title": "Nvidia 将正式将 DLSS 5 引入旧款 GPU，但不会给予游戏玩家完全控制权",
+    "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+    "date": "2026-09-04",
+    "published_time": "09:49",
+    "source": "The Verge",
+    "summary": "按照官方说法，Nvidia 备受争议的 DLSS 5 AI 渲染本应在今晚仅推出一款游戏，仅在 Nvidia 最新的 RTX 50 GPU 上发布，并且开发者可以完全控制他们的艺术视野。但非正式地，改装者已经移植了 DLSS 5 的泄露版本，可以在启动时在几乎任何东西上运行 [...]",
+    "published_dt_iso": "2026-09-04T09:49:25+08:00"
+  },
+  {
+    "title": "异常低调的特斯拉 Cyber​​cab 发布会",
+    "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+    "date": "2026-09-04",
+    "published_time": "08:25",
+    "source": "The Verge",
+    "summary": "今天，在德克萨斯州奥斯汀举行的一场私人闭门活动上，特斯拉正式推出了其未来的镀金汽车：Cyber​​cab。这对埃隆·马斯克来说是一个巨大的里程碑，多年来他一直在大肆宣传无人驾驶汽车即将到来，并将公司的未来押注于人工智能、自动驾驶汽车和人形机器人。它 […]",
+    "published_dt_iso": "2026-09-04T08:25:06+08:00"
+  },
+  {
+    "title": "史蒂夫·鲍尔默因播客和大屏幕腐败丑闻被 NBA 停赛",
+    "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+    "date": "2026-09-04",
+    "published_time": "07:37",
+    "source": "The Verge",
+    "summary": "去年九月，史蒂夫·鲍尔默在接受 ESPN 采访时坚称，快船队并没有参与为他的明星球员科怀·伦纳德提供的看似可疑的 2800 万美元代言交易，该交易没有涉及任何实际代言。现在，这位前微软首席执行官已被 NBA 停赛一年，而联盟表示他的球队将失去五名 [...]",
+    "published_dt_iso": "2026-09-04T07:37:37+08:00"
+  },
+  {
+    "title": "您可以观察 Ugreen 液体内的冷却剂流动情况",
+    "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+    "date": "2026-09-04",
+    "published_time": "06:00",
+    "source": "The Verge",
+    "summary": "您的移动电源是否具有“CryoPulse 技术”或“Cyber​​ Window”？如果您对这两个问题的答案都令人失望，那么您可能需要考虑升级到 Ugreen 的新款 MagFlow Pro 磁性移动电源。从今天开始，它的售价为 149.99 美元，这使它成为移动电源中非常昂贵的一端，电池容量只有 10,000mAh，但是 [...]",
+    "published_dt_iso": "2026-09-04T06:00:00+08:00"
+  },
+  {
+    "title": "《龙与地下城》将推出 Netflix 真人剧集《Ravenloft》",
+    "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+    "date": "2026-09-04",
+    "published_time": "04:48",
+    "source": "The Verge",
+    "summary": "据 Deadline 报道，执行制片人阿方索·卡隆、编剧兼执行制片人约翰·奥古斯特以及孩之宝娱乐公司目前正在开发《Ravenloft》系列。它可以使《龙与地下城》最具标志性的战役设定之一变得栩栩如生，该设定在今年早些时候的《Ravenloft: The Horrors Within》中得到了更新。据报道，Netflix 的《Ravenloft》系列将以 [...]",
+    "published_dt_iso": "2026-09-04T04:48:05+08:00"
+  },
+  {
+    "title": "国会议员称 TikTok 退出会议是为了避免儿童安全问题",
+    "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+    "date": "2026-09-04",
+    "published_time": "02:37",
+    "source": "The Verge",
+    "summary": "国会委员会主席表示，TikTok 退出了本月举行的国会委员会“公开圆桌会议”，因为担心会被问及儿童安全做法。在“真诚地”谈判将 TikTok 的首席安全官带到众议院中国特别委员会，回答有关中国政府访问的问题之后 […]",
+    "published_dt_iso": "2026-09-04T02:37:57+08:00"
+  },
+  {
+    "title": "劳动节期间，三星备受喜爱的 Q 系列音响系统降价数百美元",
+    "link": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+    "date": "2026-09-04",
+    "published_time": "02:14",
+    "source": "The Verge",
+    "summary": "研究、购买、最后为你的电视组装音响系统是一项艰巨的任务，但事实并非如此。如果您想要以罕见的折扣获得最好的套件之一，百思买和亚马逊正在以 999.99 美元的价格出售三星 Q990F Soundbar。通常零售价在 1,300 美元到 1,600 美元之间。这个捆绑包[…]",
+    "published_dt_iso": "2026-09-04T02:14:07+08:00"
+  },
+  {
+    "title": "OpenAI的下一个大AI模型已经“进入AGI时代”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+    "date": "2026-09-04",
+    "published_time": "02:00",
+    "source": "The Verge",
+    "summary": "OpenAI 的下一个大型模型就在这里：GPT-6 Astra。该公司称其为网络安全、专业工作、软件工程、科学和计算机使用等领域的“能力的代际飞跃”。正如 OpenAI 本周早些时候宣布的那样，它也是第一个被指定满足 OpenAI 的“关键网络安全能力阈值”的模型 - 但该公司承诺不会 [...]",
+    "published_dt_iso": "2026-09-04T02:00:00+08:00"
+  },
+  {
+    "title": "2026 上半年智能眼镜竞争加剧，雷鸟创新五榜登顶实现全品类销量领先",
+    "link": "https://www.qbitai.com/2026/09/484159.html",
+    "date": "2026-09-04",
+    "published_time": "13:53",
+    "source": "量子位",
+    "summary": "雷鸟创新（RayNeo）包揽全球 AR 眼镜与中国智能眼镜市场出货量和销量第一。",
+    "published_dt_iso": "2026-09-04T13:53:09+08:00"
+  },
+  {
+    "title": "千问办公上线首月用户数突破 3000万，企业用户占比过半",
+    "link": "https://www.qbitai.com/2026/09/484155.html",
+    "date": "2026-09-04",
+    "published_time": "13:48",
+    "source": "量子位",
+    "summary": "",
+    "published_dt_iso": "2026-09-04T13:48:53+08:00"
+  },
+  {
+    "title": "常州女首富机器人转型才开始，先因裁应届生上了热搜",
+    "link": "https://www.qbitai.com/2026/09/483984.html",
+    "date": "2026-09-04",
+    "published_time": "12:03",
+    "source": "量子位",
+    "summary": "比新业务更考验一家公司的，可能是怎么对待年轻人。",
+    "published_dt_iso": "2026-09-04T12:03:04+08:00"
+  },
+  {
+    "title": "卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”",
+    "link": "https://www.qbitai.com/2026/09/483598.html",
+    "date": "2026-09-04",
+    "published_time": "09:40",
+    "source": "量子位",
+    "summary": "吃下90%市场",
+    "published_dt_iso": "2026-09-04T09:40:42+08:00"
+  },
+  {
+    "title": "新版GPT Image 2.5已经能伪造GPT",
+    "link": "https://www.qbitai.com/2026/09/483948.html",
+    "date": "2026-09-04",
+    "published_time": "05:57",
+    "source": "量子位",
+    "summary": "改进GPT Image 2的噪点问题",
+    "published_dt_iso": "2026-09-04T05:57:08+08:00"
+  },
+  {
+    "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
+    "link": "https://www.qbitai.com/2026/09/483898.html",
+    "date": "2026-09-04",
+    "published_time": "05:50",
+    "source": "量子位",
+    "summary": "全球最强C",
+    "published_dt_iso": "2026-09-04T05:50:07+08:00"
+  },
+  {
+    "title": "联想带来高通版 ThinkBook 14 Gen 9 笔电：X2 Plus + 低色域屏",
+    "link": "https://www.ithome.com/0/998/400.htm",
+    "date": "2026-09-04",
+    "published_time": "14:33",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，联想 (Lenovo) 在 IFA 2026 上发布了搭载高通处理器的 ThinkBook 14 G9 Q8Y 商务本。其基于骁龙 X2 Plus，支持 25W TDP；配备 1920×1200 60Hz 400nits 低色域屏幕。ThinkBook 14 G9 Q8Y 机身薄至 17.39mm，起始质量 1.3kg；支持 32GB LPDDR5X；提供 2 个 M.2 SSD 盘位，预装至多 1TB 存储；屏幕可选触控；集成 50Whr 电池；提供背光键盘、120mm × 75mm 触控板；集成 2 个 2W 扬声器，配备 FHD IR 摄像头。该笔电配备支持 320MHz 频宽的 Wi-Fi 7 无线网卡；外部 I/O 则包括 2 个 USB-C 10Gb",
+    "published_dt_iso": "2026-09-04T14:33:59+08:00"
+  },
+  {
+    "title": "上市 34 年：昔年“彩电一哥”康佳主动退市，四年亏损超 200 亿元",
+    "link": "https://www.ithome.com/0/998/399.htm",
+    "date": "2026-09-04",
+    "published_time": "14:32",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，康佳集团股份有限公司昨日发布公告称，经公司第十一届董事会第十二次会议审议通过，拟以股东会决议方式主动撤回 A 股和 B 股股票在深交所的上市交易，并在终止上市后申请转入全国中小企业股份转让系统有限责任公司代为管理的退市板块转让。公司股票自 9 月 4 日开市起停牌，直至深交所公告终止上市决定后 5 个交易日内摘牌。公司将于 9 月 14 日召开 2026 年第二次临时股东会，审议终止上市相关议案。康佳已设置现金选择权。A 股现金选择权行权价为 2.48 元 / 股，较停牌前收盘价 2.33 元溢价约 6.44%，由磐石润创（深圳）信息管理有限公司提供；B 股行权价为 0.73 港元 / 股，由合贸有限公司提供。该事项尚需股东会审议通过。终止上市事项需经出席股东会",
+    "published_dt_iso": "2026-09-04T14:32:48+08:00"
+  },
+  {
+    "title": "富士发布 XF 400mm F4.5 超远摄定焦镜头：5.5 级防抖 + 等效 609mm，重 1245 克",
+    "link": "https://www.ithome.com/0/998/398.htm",
+    "date": "2026-09-04",
+    "published_time": "14:18",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，富士胶片今日宣布推出 XF 卡口超远摄定焦镜头 XF400mmF4.5 R LM OIS WR。该镜头将于 9 月中旬在美国上市，建议零售价为 3,199.95 美元（IT之家注：现汇率约合 21,553 元人民币），日本市场将于 9 月 18 日发售（价格暂未公布）。该镜头提供 400mm 物理焦距（等效 35mm 画幅 609mm），最大光圈 F4.5，是 XF 镜头系列中光学性能最高的产品之一，主要亮点包括：和 XF500mmF5.6 R LM OIS WR 相同的设计风格，尺寸更紧凑、重量仅有约 1245g等效焦距约 609mm；兼容增距镜，可扩展到等效 853mm、等效 1219mm。14 组 21 片（包含 2 片超级 ED、4 片 ED）最近对焦距",
+    "published_dt_iso": "2026-09-04T14:18:48+08:00"
+  },
+  {
+    "title": "联想发布 Yoga Tab (Plus) Gen 2 平板电脑，搭载旗舰移动平台",
+    "link": "https://www.ithome.com/0/998/396.htm",
+    "date": "2026-09-04",
+    "published_time": "14:11",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，联想 (Lenovo) 当地时间 3 日在 IFA 2026 上发布了基于旗舰级移动平台的 Yoga Tab Plus Gen 2、Yoga Tab Gen 2 平板电脑。Yoga Tab Plus Gen 2Yoga Tab Plus Gen 2 采用高通骁龙 8 Elite 芯片；配备 13\" 3840×2560 144Hz 屏幕，峰值亮度 1100nits、色域 100% DCI-P3，获得杜比视界认证；存储器配置为 12GB + 256GB、16GB + 256GB、16GB + 512GB。其内置 12700mAh 电池；前摄 8MP + 0.3MP，后摄 12MP + 2MP（微距）；内置哈曼卡顿调音 6 扬声器；提供一步式翻盖磁吸键盘。该设备含税起",
+    "published_dt_iso": "2026-09-04T14:11:26+08:00"
+  },
+  {
+    "title": "飞利浦手机上新：S7221 5G 新机发布，搭载紫光展锐 T8200 处理器",
+    "link": "https://www.ithome.com/0/998/395.htm",
+    "date": "2026-09-04",
+    "published_time": "14:11",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，飞利浦日前在印度推出了一款 S7221 5G 手机，6GB + 128GB 售价 20,499 印度卢比（IT之家注：现汇率约合 1,451 元人民币），8GB/128GB 售价 22,499 印度卢比（现汇率约合 1,592 元人民币）。飞利浦 S7221 5G 配备了一块 6.67 英寸 LCD 屏，分辨率为 1600 x 720，刷新率为 120Hz。这款智能手机搭载紫光展锐 T8200 芯片组，它是一款 6nm 八核处理器，配备两个 Cortex-A76 核心和六个 Cortex-A55 核心，图形处理器为 Mali-G57 MC2 GPU。飞利浦 S7221 5G 配备 6,400 万像素主摄和 1,600 万像素前置摄像头，搭载 5700mAh 电池",
+    "published_dt_iso": "2026-09-04T14:11:15+08:00"
+  },
+  {
+    "title": "汉王 XPPen 推出 Magic Pro 13 安卓绘图板：12.95 英寸 3K 屏、16384 级压感手写笔",
+    "link": "https://www.ithome.com/0/998/394.htm",
+    "date": "2026-09-04",
+    "published_time": "14:10",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，科技媒体 Android Headline 今天（9 月 4 日）发布博文，报道称汉王友基旗下数字绘画品牌 XPPen 在柏林 IFA 2026 展会期间，推出 Magic Pro 13 安卓绘图板。定位方面，该产品搭载安卓 16，同时运行 XPPen 专有系统，主要服务数字绘画和创意项目，采用 12.95 英寸 LCD 显示屏，提供 3K 分辨率和 120Hz 刷新率。Magic Pro 13 重 655 克，机身厚 6.65 毫米，内置 10200mAh 电池，支持 45W USB-C 快充。IT之家附上相关图片如下：手写体验方面，Magic Pro 13 支持 16K 压力感应和光标悬停功能，随附的 X4 Smart Chip Stylus 手写笔提供 1",
+    "published_dt_iso": "2026-09-04T14:10:53+08:00"
+  },
+  {
+    "title": "服役近 10 年后：谷歌助理移动端逐步停用，Gemini 全面接棒",
+    "link": "https://www.ithome.com/0/998/393.htm",
+    "date": "2026-09-04",
+    "published_time": "14:00",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，当地时间 9 月 4 日，谷歌正式启动谷歌助理（Google Assistant）移动端的退役工作，这款服役近十年的智能语音助手将逐步退出历史舞台，由新一代 AI 助手 Gemini 全面接棒。谷歌此前通过电子邮件向安卓用户宣布了这一消息。根据通知，移动设备上的 Google Assistant 服务将从 9 月 4 日起陆续停止，符合条件的安卓设备将自动切换至 Gemini。迁移工作将在随后数周内分批完成，设备完成切换后，用户将无法在手机、平板电脑或配对设备上继续使用或切换回 Google Assistant。此次调整范围不仅限于手机和平板电脑。用户将 Gemini 设为移动设备默认助理后，与手机配对的兼容设备也会同步改用 Gemini，包括 Wear OS ",
+    "published_dt_iso": "2026-09-04T14:00:35+08:00"
+  },
+  {
+    "title": "消息称华硕 ProArt P14/P16 笔记本采用液态金属散热方案",
+    "link": "https://www.ithome.com/0/998/392.htm",
+    "date": "2026-09-04",
+    "published_time": "13:59",
+    "source": "IT之家",
+    "summary": "IT之家 9 月 4 日消息，科技媒体 NotebookCheck 昨日（9 月 3 日）发布博文，分享了华硕 ProArt P14 和 ProArt P16 笔记本的内部细节，显示芯片散热部分采用液态金属方案。该媒体分享了相关视频和图片，指出在上述两款笔记本中，华硕并未采用均热板方案，推测可能是 RTX Spark 的芯片面积较大；若使用均热板，安装时可能出现压力分布不均。压力不均可能影响芯片与散热组件的贴合，从而削弱热量传递效率。该媒体指出华硕为了适配这类轻薄机身与较大芯片的安装条件，采用传统热管加液态金属的组合。IT之家援引博文介绍，液态金属可提升芯片与散热器之间的导热效率，但材料具有流动性。笔记本在携带、移动或震动中，可能面临液态金属突破防护区域的风险。若材料接触到不应接触的元件，可",
+    "published_dt_iso": "2026-09-04T13:59:41+08:00"
+  },
+  {
+    "title": "阿森纳球星马蒂内利加盟阿尔",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq5xl575q7no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "00:30",
+    "source": "BBC",
+    "summary": "阿森纳边锋加布里埃尔·马丁内利以 6000 万英镑加盟沙特职业联赛球队阿尔希拉尔。",
+    "published_dt_iso": "2026-09-04T00:30:43+08:00"
+  },
+  {
+    "title": "萨顿对 Kasabian 主唱 Serge Pizzorno 的预测",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "03:58",
+    "source": "BBC",
+    "summary": "英国广播公司体育足球专家克里斯·萨顿（ Chris Sutton ）与卡萨比亚（ Kasabian ）主唱塞尔日·皮佐尔诺（ Serge Pizzorno ）以及英国广播公司（ BBC ）的读者和人工智能（ AI ）进行了对本周末英",
+    "published_dt_iso": "2026-09-04T03:58:10+08:00"
+  },
+  {
+    "title": "英超联赛的溢价为2000万英镑，这让欧洲俱乐部感到担忧",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ce87v0e868qo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "19:13",
+    "source": "BBC",
+    "summary": "过去的格言是英格兰球员溢价。现在，这似乎只适用于已经在英超联赛中的球员。",
+    "published_dt_iso": "2026-09-03T19:13:06+08:00"
+  },
+  {
+    "title": "“Adonis” Gibbs-White闪耀的机会- Tuchel会注意到吗？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "01:07",
+    "source": "BBC",
+    "summary": "摩根·吉布斯-怀特（ Morgan Gibbs-White ）被排除在英格兰世界杯阵容之外-托马斯·图切尔（ Thomas Tuchel ）是否无法忽视他的持续良好状态？",
+    "published_dt_iso": "2026-09-04T01:07:18+08:00"
+  },
+  {
+    "title": "我过去常常笑着玩比赛- Dean",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgjql4w604eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "19:45",
+    "source": "BBC",
+    "summary": "前英超联赛裁判迈克·迪恩（ Mike Dean ）表示，他将在比赛中尽可能长时间地留在中场。",
+    "published_dt_iso": "2026-09-03T19:45:09+08:00"
+  },
+  {
+    "title": "谁是曼城最适合购买的球员？ FPL游戏周三难题",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp301d314xyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "14:15",
+    "source": "BBC",
+    "summary": "英国广播公司体育FPL专家吉安尼·巴蒂斯（ Gianni Buttice ）研究了幻想英超联赛经理在进入第三周比赛时面临的一些最大困境。",
+    "published_dt_iso": "2026-09-04T14:15:32+08:00"
+  },
+  {
+    "title": "Iraola对签约感到高兴，因为Barcola即将首次亮相",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c14dx8eze1do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-03",
+    "published_time": "18:58",
+    "source": "BBC",
+    "summary": "经理Andoni Iraola讨论了利物浦的转会业务、Bradley Barcola的到来以及Cody Gakpo的留任。",
+    "published_dt_iso": "2026-09-03T18:58:42+08:00"
+  },
+  {
+    "title": "卢卡斯·赫林顿（ Lucas Herrington ）在赫尔城（ Hull City ）停飞，尽管飞速崛起： “这太疯狂了” |乔伊·林奇（ Joey",
+    "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar",
+    "date": "2026-09-04",
+    "published_time": "14:00",
+    "source": "卫报",
+    "summary": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+    "published_dt_iso": "2026-09-04T14:00:02+08:00"
+  },
+  {
+    "title": "英超联赛：本周末需要注意的10件事",
+    "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-10-things-to-look-out-for-this-weekend",
+    "date": "2026-09-04",
+    "published_time": "07:01",
+    "source": "卫报",
+    "summary": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+    "published_dt_iso": "2026-09-04T07:01:51+08:00"
+  },
+  {
+    "title": "寻找年轻球员如何推动英超联赛的内部转会市场",
+    "link": "https://www.theguardian.com/football/2026/sep/03/premier-league-transfer-window-teenagers",
+    "date": "2026-09-03",
+    "published_time": "17:00",
+    "source": "卫报",
+    "summary": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+    "published_dt_iso": "2026-09-03T17:00:49+08:00"
+  },
+  {
+    "title": "转会窗口判决：每个英超俱乐部的表现如何",
+    "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026",
+    "date": "2026-09-02",
+    "published_time": "16:30",
+    "source": "卫报",
+    "summary": "QUERY LENGTH LIMIT EXCEEDED. MAX ALLOWED QUERY : 500 CHARS",
+    "published_dt_iso": "2026-09-02T16:30:27+08:00"
+  },
+  {
+    "title": "中华人民共和国福州海关2026年9至10月政府采购意向",
+    "link": "https://www.chinanews.com.cn/aseaninfo/2026/09-04/10690295.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:31",
+    "source": "中国新闻网",
+    "summary": "为便于供应商及时了解政府采购信息，根据《财政部关于开展政府采购意向公开工作的通知》(财库〔2020〕10号)等有关规定，现将中华人民共和国福州海关2026年9至10月政府采购意向公开如下：",
+    "published_dt_iso": "2026-09-04T14:31:37+08:00"
+  },
+  {
+    "title": "中国最高检、国家医保局联合发布案例 涉惩治“回流药”骗保等",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690286.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:30",
+    "source": "中国新闻网",
+    "summary": "中新社北京9月4日电 (记者 张素 李纯)中国最高人民检察院、国家医疗保障局4日联合发布6件依法从严惩治医保骗保犯罪典型案例，其中一起案例中涉案41人因“回流药”骗保犯罪获刑。",
+    "published_dt_iso": "2026-09-04T14:30:39+08:00"
+  },
+  {
+    "title": "新视记｜八旬老人用镜头留住抗战记忆",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-04/10690293.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:28",
+    "source": "中国新闻网",
+    "summary": "视频：新视记｜八旬老人用镜头留住抗战记忆来源：新华社",
+    "published_dt_iso": "2026-09-04T14:28:59+08:00"
+  },
+  {
+    "title": "【职引未来】从校园到果园：这些新农人的青春剧本从田野起笔",
+    "link": "https://www.chinanews.com.cn/edu/2026/09-04/10690292.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:28",
+    "source": "中国新闻网",
+    "summary": "视频：【职引未来】从校园到果园：这些新农人的青春剧本从田野起笔来源：光明网",
+    "published_dt_iso": "2026-09-04T14:28:35+08:00"
+  },
+  {
+    "title": "国家海洋预报台发布海浪蓝色警报：东海将出现3到5米的大浪到巨浪",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690289.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:27",
+    "source": "中国新闻网",
+    "summary": "中新网9月4日电 据中国海洋预报网站消息，9月4日，国家海洋预报台根据《海洋灾害应急预案》发布海浪蓝色警报。受今年第24号台风“科罗旺”(热带风暴级)的影响，预计：9月4日上午到5日上午，东海将出现3到5米的大浪到巨浪区；上海、浙江近岸海域将出现2到3.4米的中浪到大浪，近岸海域海浪预警级别为蓝色。请在上述海域作业的船只注意安全，沿海各有关单位提前采取防浪避浪措施。",
+    "published_dt_iso": "2026-09-04T14:27:29+08:00"
+  },
+  {
+    "title": "青海海西州发生5.1级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-04/10690280.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:26",
+    "source": "中国新闻网",
+    "summary": "中新网9月4日电 据“中国水利”微信公众号消息，2026年9月4日1时4分，青海省海西州直辖区发生5.1级地震，震源深度10千米。水利部迅即启动水利抗震救灾调度指挥机制，召开专题会商会，分析地震对水利工程和农村供水影响，研判震区雨水情形势，安排部署水利抗震救灾工作。",
+    "published_dt_iso": "2026-09-04T14:26:43+08:00"
+  },
+  {
+    "title": "夜游经济火热 俄罗斯姑娘邂逅金陵夜色",
+    "link": "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-04/news1067730.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:22",
+    "source": "中国新闻网",
+    "summary": "近日，来自俄罗斯、喜爱中国古典名著《红楼梦》的姑娘林妹妹沉浸式打卡南京牛首山夜游，在金陵夜色中感受中华文化魅力。牛首山是金陵四大名胜之一。 暑期夜幕之下，牛首山夜游将矿坑建筑美学、非遗展示、实景NPC互动与故事叙事融为一体，特色体验吸引大批游客到访。在林妹妹眼中，牛首山不只是一座名山，更是一座融汇历史底蕴、自然风光、非遗体验与现代创意的文化博物馆。(张传明）",
+    "published_dt_iso": "2026-09-04T14:22:54+08:00"
+  },
+  {
+    "title": "尼泊尔泥石流灾后第10天 两名被困隧道的工人获救",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-04/10690285.shtml",
+    "date": "2026-09-04",
+    "published_time": "14:21",
+    "source": "中国新闻网",
+    "summary": "中新网加德满都9月4日电 (记者 崔楠 肖玉笛)尼泊尔一名参与前方救援的议员4日在社交媒体上说，两名被困在上崔树里3A水电站隧道内的工人当天被成功救出，他们已在洞内坚持9天有余。",
+    "published_dt_iso": "2026-09-04T14:21:29+08:00"
+  },
+  {
+    "title": "亲俄宣传网络内幕：利用乌克兰女性遭强奸的虚假消息，作引流“诱饵”",
+    "link": "https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "09:39",
+    "source": "BBC",
+    "summary": "俄罗斯 Telegram 频道利用虚假的强奸消息和乌克兰女性的照片，引诱数百万用户加入亲战宣传网。",
+    "published_dt_iso": "2026-09-04T09:39:26+08:00"
+  },
+  {
+    "title": "行走在纽约：我发现监控摄像头数量远超想像",
+    "link": "https://www.bbc.com/zhongwen/articles/cwyznp4qlg9o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "14:25",
+    "source": "BBC",
+    "summary": "在隐私与安全之间作出取舍时，了解你所在社区的监控基础设施到底有多普遍或会有所帮助。要查清楚这一点已有一些简单的方法。",
+    "published_dt_iso": "2026-09-04T14:25:54+08:00"
+  },
+  {
+    "title": "猪肾在人体内运作271天",
+    "link": "https://www.bbc.com/zhongwen/articles/c1dlr007vkgo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "13:57",
+    "source": "BBC",
+    "summary": "一名男子在等待人体肾脏移植期间，依靠移植的猪肾存活了创纪录的九个月。",
+    "published_dt_iso": "2026-09-04T13:57:06+08:00"
+  },
+  {
+    "title": "执迷于“睡眠分数”如何反让你睡得更差？",
+    "link": "https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-04",
+    "published_time": "10:05",
+    "source": "BBC",
+    "summary": "不少人会配戴追踪器，检测自己的睡眠分数，并用尽方法“睡眠极大化”（sleepmaxxing）。但专家指出，把睡眠游戏化，正导致更多人出现睡眠失调问题。",
+    "published_dt_iso": "2026-09-04T10:05:55+08:00"
+  },
+  {
+    "title": "OpenAI 如何限制对其机器人拥抱脸部攻击的调查",
+    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html",
+    "date": "2026-09-04",
+    "published_time": "11:00",
+    "source": "纽约时报",
+    "summary": "一家非营利组织对 OpenAI 的人工智能如何进行的研究。特工能够闯入 Hugging Face 的基础设施，但不允许查看事件的全部范围。",
+    "published_dt_iso": "2026-09-04T11:00:15+08:00"
+  },
+  {
+    "title": "为什么拥抱脸黑客应该让你更加担心人工智能",
+    "link": "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html",
+    "date": "2026-09-04",
+    "published_time": "08:06",
+    "source": "纽约时报",
+    "summary": "OpenAI 代理的攻击性“集体”发起的攻击显示了自我组织的人工智能系统的危险。",
+    "published_dt_iso": "2026-09-04T08:06:04+08:00"
+  },
+  {
+    "title": "抵押贷款利率触及 6.71%，为 2025 年 7 月以来的最高水平",
+    "link": "https://www.nytimes.com/2026/09/03/business/mortgage-rates-housing.html",
+    "date": "2026-09-04",
+    "published_time": "04:48",
+    "source": "纽约时报",
+    "summary": "住房贷款成本上升对房地产市场造成挤压，给已经在通胀上升中苦苦挣扎的消费者增加了压力。",
+    "published_dt_iso": "2026-09-04T04:48:39+08:00"
+  },
+  {
+    "title": "荷兰央行以“地缘政治动荡”为由削减在美国的黄金储备",
+    "link": "https://www.nytimes.com/2026/09/03/world/europe/netherlands-gold-reserves-us.html",
+    "date": "2026-09-04",
+    "published_time": "04:07",
+    "source": "纽约时报",
+    "summary": "荷兰从纽约联邦储备银行移出了约 90 吨黄金，这是今年第二个宣布减少或取消美国黄金持有量的欧洲国家。",
+    "published_dt_iso": "2026-09-04T04:07:38+08:00"
+  },
+  {
+    "title": "特朗普将在获得批准之前破土动工",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-triumphal-arch-plans-approval.html",
+    "date": "2026-09-04",
+    "published_time": "07:44",
+    "source": "纽约时报",
+    "summary": "内政部长道格·布尔古姆 (Doug Burgum) 宣布计划开始修建 250 英尺高的凯旋门。该项目仍有待最终批准。",
+    "published_dt_iso": "2026-09-04T07:44:26+08:00"
+  },
+  {
+    "title": "JD万斯表示他不会将伊朗冲突称为战争",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/vance-iran-press-briefing.html",
+    "date": "2026-09-04",
+    "published_time": "05:51",
+    "source": "纽约时报",
+    "summary": "在卡罗琳·莱维特卸任新闻秘书后的首次白宫新闻发布会上，副总统表示，冲突何时结束取决于德黑兰。",
+    "published_dt_iso": "2026-09-04T05:51:49+08:00"
+  },
+  {
+    "title": "特朗普任命陆军工程官员担任代理部长",
+    "link": "https://www.nytimes.com/2026/09/03/us/politics/trump-acting-army-secretary.html",
+    "date": "2026-09-04",
+    "published_time": "09:18",
+    "source": "纽约时报",
+    "summary": "此举是在丹尼尔·P·德里斯科尔辞职几天后发生的，他与国防部长皮特·赫格斯在清洗陆军高级将领问题上发生了冲突。",
+    "published_dt_iso": "2026-09-04T09:18:55+08:00"
+  },
+  {
+    "title": "部门报告发现前劳工部长引发功能障碍和毒性",
+    "link": "https://www.nytimes.com/2026/09/03/business/economy/labor-secretary-chavez-deremer-report.html",
+    "date": "2026-09-04",
+    "published_time": "09:52",
+    "source": "纽约时报",
+    "summary": "监察长发现，洛里·查韦斯-德雷默将劳工部的资金用于个人旅行，并容忍该机构内的骚扰行为。",
+    "published_dt_iso": "2026-09-04T09:52:50+08:00"
   }
 ]
