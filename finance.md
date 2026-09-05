@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,526.50</span>
+      <span class="ticker-price ticker-up">29,544.16</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7071</span>
+      <span class="ticker-price ticker-down">6.7079</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,434.95 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -38.04 (-0.85%)</span>
+      <span class="ticker-price ticker-down">$4,430.96 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -42.03 (-0.94%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥956.81 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -8.19 (-0.85%)</span>
+      <span class="ticker-price ticker-down">¥954.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -10.23 (-1.06%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+24.4 亿</span>
+      <span class="sector-flow-badge">+39.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+19.1 亿</span>
+      <span class="sector-flow-badge">+44.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+30.8 亿</span>
+      <span class="sector-flow-badge">+46.8 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+21.2 亿</span>
+      <span class="sector-flow-badge">+52.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690898.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="秋日喷嚏警告！全国花粉过敏指数地图出炉 看哪里需重点防护" data-title="秋日喷嚏警告！全国花粉过敏指数地图出炉" data-date="09-05 13:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 13:43</span>
+          <span class="news-item-title">秋日喷嚏警告！全国花粉过敏指数地图出炉</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690875.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社浙江湖州9月5日电 题：台青浙江深耕银发事业 用心相伴让养老有温度" data-title="台青浙江深耕银发事业  用心相伴让养老有温度" data-date="09-05 13:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 13:42</span>
+          <span class="news-item-title">台青浙江深耕银发事业  用心相伴让养老有温度</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690826.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“连接，从来不只是道路和贸易。它也是一种文化与另一种文化的相遇。”“只要我们保持连接，世界就会不断前进。”9月2日，在陕西省安康市举办的Keeping the World Moving 不断链的世界——共建“一带一路”融媒体传播项目启动仪式上，来自韩国的博主许多𬘡、法国博主卫墨心，以及墨西哥博主美洁分享了她们在中国生活、旅行中的所见所感，也讲述了各自眼中的“不断链”。" data-title="外籍博主走进安康 感受秦巴山水与世界相连" data-date="09-05 10:48" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 10:48</span>
+          <span class="news-item-title">外籍博主走进安康 感受秦巴山水与世界相连</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统表示，如果中央银行不服从他的命令，他可以停止美国与存在贸易逆差的国家之间的贸易。" data-title="特朗普威胁要停止部分贸易，除非美联储降息" data-date="09-04 23:58" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -281,4 +299,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-05 00:30（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-05 14:24（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

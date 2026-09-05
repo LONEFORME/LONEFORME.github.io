@@ -1028,5 +1028,705 @@
     "feed_name": "纽约时报",
     "summary": "此次袭击发生之际，据说美国特使史蒂夫·威特科夫和贾里德·库什纳正计划立即访问基辅和莫斯科。",
     "published_dt_iso": "2026-09-04T23:41:24+08:00"
+  },
+  {
+    "title": "XDOF刚刚退出三个月，正在就B轮融资进行谈判，估值为12亿美元$",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "date": "2026-09-05",
+    "published_time": "07:36",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "本轮融资是在这家机器人数据初创公司退出秘密几个月后进行的。",
+    "published_dt_iso": "2026-09-05T07:36:14+08:00"
+  },
+  {
+    "title": "OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "date": "2026-09-05",
+    "published_time": "07:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI 最新的代理群事件增加了独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。",
+    "published_dt_iso": "2026-09-05T07:15:11+08:00"
+  },
+  {
+    "title": "AI 计算提供商 Nscale 正在寻找 $3.5B",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "date": "2026-09-05",
+    "published_time": "05:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Nscale 最近与 Anthropic 达成了 450 亿美元的交易，目前正在洽谈筹集更多资金，以应对即将到来的 IPO。",
+    "published_dt_iso": "2026-09-05T05:12:11+08:00"
+  },
+  {
+    "title": "苹果的约翰·特努斯时代会是什么样子？",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "date": "2026-09-05",
+    "published_time": "01:18",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "苹果正式进入 Ternus 时代。蒂姆·库克 (Tim Cook) 本周辞去了首席执行官一职，将公司交给了前硬件主管约翰·特努斯 (John Ternus)，他的第一份备忘录承诺“下周将举行盛大的发布”——这个时间安排在他入职之前就将苹果的下一次 iPhone 发布会摆在了他的办公桌上。不过，库克并没有走得太远：他将继续担任执行董事长，专注于这种政策 [...]",
+    "published_dt_iso": "2026-09-05T01:18:00+08:00"
+  },
+  {
+    "title": "另一群 OpenAI 代理在前沿实验室不知情的情况下进入了开放互联网",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "date": "2026-09-05",
+    "published_time": "00:21",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这是 OpenAI 内部监控和安全系统的最新一次失败。",
+    "published_dt_iso": "2026-09-05T00:21:11+08:00"
+  },
+  {
+    "title": "苹果的 Ternus 时代开始，英伟达押注整个人工智能堆栈",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "date": "2026-09-05",
+    "published_time": "00:04",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "苹果正式进入 Ternus 时代。蒂姆·库克 (Tim Cook) 本周辞去了首席执行官一职，将公司交给了前硬件主管约翰·特努斯 (John Ternus)，他的第一份备忘录承诺“下周将举行盛大的发布”——这个时间安排在他入职之前就将苹果的下一次 iPhone 发布会摆在了他的办公桌上。不过，库克并没有走得太远：他将继续担任执行董事长，专注于这种政策 [...]",
+    "published_dt_iso": "2026-09-05T00:04:08+08:00"
+  },
+  {
+    "title": "Google 的 Gemini Spark 现在可以管理您的 Google 照片库",
+    "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+    "date": "2026-09-04",
+    "published_time": "22:47",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Gemini Spark 可以编辑和整理相册、创建共享收藏、将照片转换为日历活动，以及为 AI Pro 和 Ultra 订阅者处理其他 Google Photos 任务。",
+    "published_dt_iso": "2026-09-04T22:47:11+08:00"
+  },
+  {
+    "title": "不到 24 小时即可申请参加 TechCrunch Disrupt 2026 会外活动",
+    "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+    "date": "2026-09-04",
+    "published_time": "22:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "距离申请在 TechCrunch Disrupt 2026 期间举办边会并在硅谷留下自己的印记还有不到 24 小时的时间。请在太平洋时间今晚午夜申请截止前申请。",
+    "published_dt_iso": "2026-09-04T22:00:00+08:00"
+  },
+  {
+    "title": "DLSS 5 在 NBA 2K27 中正式推出，目前仅限于 RTX 50 系列 GPU — Nvidia 承诺很快将中性渲染技术引入 RTX 40 系列",
+    "link": "https://www.tomshardware.com/pc-components/gpus/dlss-5-officially-launches-inside-nba-2k27-limited-to-rtx-50-series-gpus-for-now-nvidia-promises-to-bring-neutral-rendering-tech-to-rtx-40-series-soon",
+    "date": "2026-09-05",
+    "published_time": "07:09",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Nvidia 备受争议的神经渲染技术 DLSS 5 现已在《NBA 2K27》中正式推出，标志着该公司新时代的开始。目前针对 RTX 50 系列的优化工作已达到令人满意的状态，DLSS 5 也将很快登陆 RTX 40 系列。",
+    "published_dt_iso": "2026-09-05T07:09:31+08:00"
+  },
+  {
+    "title": "在百思买劳动节科技促销中最高可节省 900 美元，游戏电脑、笔记本电脑和显示器可享受大幅折扣 — 确保快速升级以应对不断上涨的硬件成本",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-usd900-in-the-best-buy-labor-day-sale-on-tech-with-huge-discounts-on-gaming-pcs-laptops-and-monitors-secure-an-upgrade-fast-to-beat-rising-hardware-costs",
+    "date": "2026-09-04",
+    "published_time": "23:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "百思买 (Best Buy) 目前正在进行劳动节大促销，为您提供科技产品的大幅折扣，包括游戏电脑、手持设备、笔记本电脑和显示器。",
+    "published_dt_iso": "2026-09-04T23:30:00+08:00"
+  },
+  {
+    "title": "随着代币数量激增 25 倍，Frontier AI 面临定价清算——中端型号以六分之一的成本提供 90% 的旗舰功能",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
+    "date": "2026-09-04",
+    "published_time": "23:21",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "随着前沿人工智能开发人员在推动智能增强的同时，力求节省成本，新模型突破了帕累托前沿的界限，即使很小的优势也能成为新的王者。",
+    "published_dt_iso": "2026-09-04T23:21:56+08:00"
+  },
+  {
+    "title": "Nvidia 应用程序更新未能阻止 RTX 40 系列游戏 GPU 上的非官方 DLSS 多帧生成模组 — 改装者在数小时内恢复了对多个游戏的支持",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/nvidia-app-update-fails-to-block-unofficial-dlss-multi-frame-generation-on-rtx-40-series-modders-restore-support-across-multiple-games-within-hours",
+    "date": "2026-09-04",
+    "published_time": "22:56",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "当 NVIDIA 推出 GeForce RTX 50 系列时，围绕新 GPU 系列的炒作主要是其对 DLSS 多帧生成的支持。该功能已正式锁定在新的 RTX 50“Blackwell”GPU 上，但改装者已经致力于为 RTX 40 系列卡解锁该功能一段时间了。",
+    "published_dt_iso": "2026-09-04T22:56:38+08:00"
+  },
+  {
+    "title": "OpenAI 代理在公共 wiki 上讨论了逃离沙箱的方法",
+    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "date": "2026-09-05",
+    "published_time": "06:17",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "总共有 3,700 名内部特工发布了 18,000 条讨论考试作弊的消息。",
+    "published_dt_iso": "2026-09-05T06:17:36+08:00"
+  },
+  {
+    "title": "“真正的缺陷是信任，而不是功能”：VMware 试图安抚中小企业",
+    "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "date": "2026-09-05",
+    "published_time": "01:35",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Broadcom 承认它“过于关注 VCF”。",
+    "published_dt_iso": "2026-09-05T01:35:02+08:00"
+  },
+  {
+    "title": "曾经流行的攻击 AI 的 ASCII 走私现在受到垃圾邮件发送者的欢迎",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "date": "2026-09-05",
+    "published_time": "01:18",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "一个曾经被忽视、人类不可见的 unicode 块正在得到越来越广泛的使用。",
+    "published_dt_iso": "2026-09-05T01:18:12+08:00"
+  },
+  {
+    "title": "Audacity 4 是“世界上最受欢迎”的音频编辑器的彻底改造",
+    "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+    "date": "2026-09-05",
+    "published_time": "05:23",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "《Audacity 4》已经开发了一段时间，去年，当一个不幸的重新设计的徽标开始流传时，它也引发了一些小争议。新图标的最终版本并不像去年十月流传的早期版本那么糟糕。但更重要的是，所有承诺的改进 [...]",
+    "published_dt_iso": "2026-09-05T05:23:50+08:00"
+  },
+  {
+    "title": "白宫正在让街机游戏带有种族主义色彩",
+    "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+    "date": "2026-09-05",
+    "published_time": "03:42",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "白宫的公关策划者刚刚发布了一系列以模糊政策为主题的“街机”游戏，其中一些是种族主义的，并且以真实游戏为蓝本，而这些游戏的版权所有者可能不太乐意与 MAGA 议程联系在一起。俄罗斯方块公司已经对“筑墙”做出了回应，这显然是[…]",
+    "published_dt_iso": "2026-09-05T03:42:54+08:00"
+  },
+  {
+    "title": "GoPro 表示仍致力于“为您的集体动力”",
+    "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+    "date": "2026-09-05",
+    "published_time": "02:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "GoPro 首席执行官尼克·伍德曼 (Nick Woodman) 在致客户的一封信中表示，在本周早些时候宣布 Starman 拟以 2.85 亿美元收购之后，制造相机仍然是公司的“核心 DNA”。他在交易公告中表示，此次合并使 GoPro 能够更好地继续开发其内容创作技术 [...]",
+    "published_dt_iso": "2026-09-05T02:00:45+08:00"
+  },
+  {
+    "title": "Roland 正在通过 Melody Flip 进入生成人工智能音乐领域",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+    "date": "2026-09-05",
+    "published_time": "01:51",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "这并不完全是 Suno 的“按下按钮；获取歌曲”，但 Roland 的新 Melody Flip 工具标志着该公司进军生成人工智能音乐领域。 Melody Flip 可作为数字音频工作站 (DAW) 的插件使用，提供约 250 个“调色板”，它们本质上是按流派排序的音乐创意主题集合。您可以从[...]开始",
+    "published_dt_iso": "2026-09-05T01:51:35+08:00"
+  },
+  {
+    "title": "AGI 是你想要的任何东西",
+    "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+    "date": "2026-09-05",
+    "published_time": "01:16",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "OpenAI 宣布了其下一个大型模型 GPT-6 Astra，顺便说一句，“AGI 时代”现在已经到来。今天，在 The Vergecast 上，我们邀请了全明星小组来剖析本周的新闻。首先，高级 AI 记者 Hayden Field 与我们一起谈论我们所谓的 AGI 时代和 Nvidia 的收购 [...]",
+    "published_dt_iso": "2026-09-05T01:16:49+08:00"
+  },
+  {
+    "title": "陶哲轩吐槽GPT",
+    "link": "https://www.qbitai.com/2026/09/484649.html",
+    "date": "2026-09-05",
+    "published_time": "12:24",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "AI直接吐出正确答案，但最关键的可能不是答案",
+    "published_dt_iso": "2026-09-05T12:24:25+08:00"
+  },
+  {
+    "title": "这个世界模型训练完就“退场”，机器人反而更能干了",
+    "link": "https://www.qbitai.com/2026/09/484611.html",
+    "date": "2026-09-05",
+    "published_time": "12:18",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "如此“反骨”的方法，具体又是怎么实现的？",
+    "published_dt_iso": "2026-09-05T12:18:54+08:00"
+  },
+  {
+    "title": "姚班校友主导，Claude攻克费马大定理首个完整形式化证明",
+    "link": "https://www.qbitai.com/2026/09/484551.html",
+    "date": "2026-09-05",
+    "published_time": "09:17",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "最后靠Harness救回来",
+    "published_dt_iso": "2026-09-05T09:17:56+08:00"
+  },
+  {
+    "title": "《最后生还者》游戏新动向：顽皮狗确认多个项目筹备中",
+    "link": "https://www.ithome.com/0/998/739.htm",
+    "date": "2026-09-05",
+    "published_time": "13:58",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，在接受《华盛顿邮报》采访时，顽皮狗工作室负责人尼尔 · 德鲁克曼（Neil Druckmann）透露，团队正为《最后生还者》（The Last of Us）筹备多个项目。德鲁克曼并未透露更多细节，只是确认工作室正在开发“几个项目”，也没有明确说明这些项目是否均为游戏。IT之家援引博文介绍，顽皮狗工作室的开发重心目前放在《星际：异端先知》（Intergalactic: The Heretic Prophet）方面，如果该工作室在推进《最后生还者》相关游戏项目，其发行日期可能会晚于《星际：异端先知》。《最后生还者》系列目前最后一款正式发售的游戏是 《The Last of Us Part II Remastered》，于 2025 年 1 月登陆 PS5，随后也推出",
+    "published_dt_iso": "2026-09-05T13:58:43+08:00"
+  },
+  {
+    "title": "Switch 2 版《塞尔达传说：时之笛》重制版游戏预估 11 月 12 日发行，将推典藏版",
+    "link": "https://www.ithome.com/0/998/738.htm",
+    "date": "2026-09-05",
+    "published_time": "13:45",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，科技媒体 NotebookCheck 昨日（9 月 4 日）发布博文，报道称瑞典零售商 Retrospelbutiken 已上架 Switch 2 版《塞尔达传说：时之笛》重制版页面，显示该游戏于 2026 年 11 月 12 日发行，标价 849 瑞典克朗（当前汇率约合 595 元人民币）。IT之家此前报道，任天堂将于 2026 年 9 月 8 日、9 日连续举办两场 Direct 直面会：9 月 8 日（IT之家注：北京时间 22:00）将举行《塞尔达传说》40 周年直面会，带来有关《塞尔达传说》的最新游戏资讯，节目时长约为 30 分钟。北京时间 9 月 9 日 22:00 还将举行另一场任天堂直面会，本场直面会将以今年冬季发售的游戏为核心，带来任天堂 Sw",
+    "published_dt_iso": "2026-09-05T13:45:48+08:00"
+  },
+  {
+    "title": "雷神推出“Z527F165L”27 英寸显示器：5K 165Hz / 2K 330Hz 双模，3599 元（国补后 2999 元）",
+    "link": "https://www.ithome.com/0/998/737.htm",
+    "date": "2026-09-05",
+    "published_time": "13:30",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，雷神现已在京东上架“Z527F165L”27 英寸显示器，该机支持 5K 165Hz/2K 330Hz 双模，定价为 3599 元，国补后低至 2999 元。京东雷神“Z527F165L”显示器 3599 元直达链接该机配备的 27 英寸 Fast IPS 面板支持以 5120x2880 分辨率 165Hz / 或 2560x1440 分辨率 330Hz 显示（并非带鱼屏显示器的“5K”实为“1440P”套路），最快响应时间 1ms GTG，可视角度 178°/178°，最高亮度 400 尼特，原生静态对比度 1500:1，显示器支持 10-Bit 色彩，覆盖 95% DCI-P3 与 99% sRGB 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持",
+    "published_dt_iso": "2026-09-05T13:30:06+08:00"
+  },
+  {
+    "title": "三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计",
+    "link": "https://www.ithome.com/0/998/735.htm",
+    "date": "2026-09-05",
+    "published_time": "13:27",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，6.6.0 版本单核成绩为 2,603 分，多核成绩为 10,350，由于版本差异，两条记录无法直接对比。今年 4 月曝光的跑分数据，显示 CPU 时钟频率存在差异根据最新跑分页面信息，基本符合此前曝光的 Exynos 2,700 Die Shot 图片信息，CPU 部分采用 1+4+1+4 集群设计，共有 10 个核心，分为 2 组：第 1 ",
+    "published_dt_iso": "2026-09-05T13:27:25+08:00"
+  },
+  {
+    "title": "特斯拉中国上线浅色 Tesla 头枕 / 腰靠，219 元起",
+    "link": "https://www.ithome.com/0/998/734.htm",
+    "date": "2026-09-05",
+    "published_time": "13:11",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，特斯拉中国现已在其 Tesla App 商城及微信小程序上架新款浅色汽车头枕 / 腰靠，其中头枕定价为 219 元，腰靠定价为 269 元。Tesla 头枕设计灵感源自特斯拉车辆内饰座椅，造型简约，与内饰完美融合，表面印有 Tesla 字标。采用与内饰材质一致的人造超纤皮材料，质感细腻，耐磨防滑，阻燃性能优良。头枕内部填充采用杜邦生物棉，舒适环保更安全。腰靠结合座椅弧度设计，贴合人体腰椎曲线，为您提供舒适支撑，缓解驾驶疲劳。Tesla 腰靠设计灵感源自特斯拉车辆内饰座椅，造型简约，与内饰完美融合，表面印有 Tesla 字标。采用与内饰材质一致的人造超纤皮材料，质感细腻，耐磨防滑，阻燃性能优良。头枕内部填充采用杜邦生物棉，舒适环保更安全。腰靠结合座椅弧度设计，贴合",
+    "published_dt_iso": "2026-09-05T13:11:16+08:00"
+  },
+  {
+    "title": "中吉乌铁路吉境内段首座隧道贯通，全线最高大桥同步推进施工",
+    "link": "https://www.ithome.com/0/998/733.htm",
+    "date": "2026-09-05",
+    "published_time": "12:55",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，中吉乌铁路吉尔吉斯斯坦境内段建设取得重要进展，该段科什特伯北 2 号隧道已顺利贯通，这也是该项目在吉境内段贯通的首座隧道。此次贯通的科什特伯北 2 号隧道全长 209.6 米，为单洞单线隧道，最大埋深 41 米。该隧道于 2026 年 5 月 10 日开工建设，建设团队仅用时 87 天即完成贯通。与此同时，纳伦 1 号隧道等控制性工程也取得阶段性成果。中吉乌铁路吉境内段全线土建工程自 2025 年 6 月开工以来，已开工隧道 27 座，其中贯通 1 座；已开工桥梁 43 座、路基 88 段；20 座车站基础建设也已全面展开。此外，全线大型临时道路、临时电力保障项目已全部竣工投用。中吉乌铁路是三国元首亲自推动的共建“一带一路”标志性工程。项目起自中国新疆喀什，经吐",
+    "published_dt_iso": "2026-09-05T12:55:23+08:00"
+  },
+  {
+    "title": "特斯拉上线“全损车用户特享关怀福利”，购车限时享 800 元尾款减免",
+    "link": "https://www.ithome.com/0/998/731.htm",
+    "date": "2026-09-05",
+    "published_time": "12:54",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，据特斯拉 Tesla 官方公众号，特斯拉宣布上线“全损车用户特享关怀福利”，不限原车品牌，不限车型，9 月 30 日（含）前下订 Model S/3/X/Y 可享 800 元现金减免，直接抵扣订单尾款。特斯拉表示，全损出险时间介于 2026 年 9 月 1 日至活动结束，全损旧车与新购特斯拉的车主须为同一人（车主以行驶证中车辆所有人为准）。全损旧车赔付方为特斯拉合作保险公司（中国人民财产保险、中国平安财产保险、中国太平洋财产保险、中国人寿财产保险、太平财产保险、阳光财产保险），参与活动需提供保险公司出具的全损协议。",
+    "published_dt_iso": "2026-09-05T12:54:15+08:00"
+  },
+  {
+    "title": "经典弹幕游戏重制《东方红魔乡：新典》北京时间 9 月 9 日发售：BGM 重新编曲、画面升至高清规格",
+    "link": "https://www.ithome.com/0/998/730.htm",
+    "date": "2026-09-05",
+    "published_time": "12:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 5 日消息，《东方 Project》制作者“上海爱丽丝幻乐团（ZUN）”现已发布弹幕射击游戏《东方红魔乡：新典 ～ the Embodiment of Scarlet Devil.》发售预告片，本作将于北京时间 9 月 9 日发售，登陆 PS5、Switch 2、PC 平台，支持中文。IT之家获悉，《东方红魔乡：新典》是 2002 年推出的《东方红魔乡 ～ 绯红恶魔的体现》（the Embodiment of Scarlet Devil.）时隔 24 年首次推出的重制版本，玩家将操控博丽灵梦与雾雨魔理沙，在漫天飞舞的弹幕之间穿梭，调查笼罩幻想乡的神秘红雾异变。▲ 注：北京时间 9 月 9 日发售重制版除了将游戏画面升级至高清规格外，官方还对全部游戏 BGM 进行重新编曲，Z",
+    "published_dt_iso": "2026-09-05T12:48:23+08:00"
+  },
+  {
+    "title": "伊萨克终于到来，加克波证明了对利物浦的价值",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-05",
+    "published_time": "06:37",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "首席足球作家菲尔·麦克纳尔蒂问道，在英超联赛战胜伊普斯维奇的比赛中梅开二度后，真正的亚历山大·伊萨克终于抵达利物浦了吗？",
+    "published_dt_iso": "2026-09-05T06:37:16+08:00"
+  },
+  {
+    "title": "伊萨克最终大放异彩，但谢尔彭遭遇困境——伊普斯维奇对阵利物浦球员评分",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-05",
+    "published_time": "04:54",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "利物浦和伊普斯维奇的球员在英超比赛后的评价。",
+    "published_dt_iso": "2026-09-05T04:54:30+08:00"
+  },
+  {
+    "title": "迪恩说他总是遵守法律——但他参加了哪些比赛？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-05",
+    "published_time": "02:33",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "有没有证据表明前英超裁判迈克·迪恩曾在比赛中玩小游戏？ BBC 体育频道查看了证据。",
+    "published_dt_iso": "2026-09-05T02:33:30+08:00"
+  },
+  {
+    "title": "伊普斯维奇镇 0-2 利物浦：英超联赛——事实如此",
+    "link": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
+    "date": "2026-09-05",
+    "published_time": "05:35",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Alexander Isak’s early quick-fire double gave Andoni Iraola his first win as Liverpool managerThe teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encourage",
+    "published_dt_iso": "2026-09-05T05:35:59+08:00"
+  },
+  {
+    "title": "英超新闻：理查利森拒绝新合同，阿隆索支持詹姆斯中场",
+    "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+    "date": "2026-09-05",
+    "published_time": "05:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "托特纳姆热刺队主教练罗伯托·德泽尔比坚称他的巴西前锋“决定了一切，而不是我”继续阅读...",
+    "published_dt_iso": "2026-09-05T05:30:00+08:00"
+  },
+  {
+    "title": "伊萨克快速梅开二度击溃伊普斯维奇，为安多尼·伊劳拉带来利物浦首场胜利",
+    "link": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
+    "date": "2026-09-05",
+    "published_time": "05:07",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at M",
+    "published_dt_iso": "2026-09-05T05:07:54+08:00"
+  },
+  {
+    "title": "英超球队新闻：周末比赛的预测阵容",
+    "link": "https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+    "date": "2026-09-05",
+    "published_time": "01:38",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "周日周六中午 12 点 30 分，在 TNT 体育 1 场地圣詹姆斯公园球场对切尔西的冠军资格进行测试之前，考文垂将面临一场艰巨的曼城之旅 继续阅读...",
+    "published_dt_iso": "2026-09-05T01:38:28+08:00"
+  },
+  {
+    "title": "征收窗户税以遏制英超联赛的大手笔|简短的信件",
+    "link": "https://www.theguardian.com/football/2026/sep/04/a-window-tax-to-curb-the-premier-leagues-big-spenders",
+    "date": "2026-09-05",
+    "published_time": "00:53",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "转会窗口|周日滑雪|债券市场|突破名义决定论泡沫|严肃的结论巴尼·罗尼（ Barney Ronay ）在他的文章中就最近的英超转会窗口（英超联赛的钱在9月2日混乱的过剩景象中失去了一切意义）提出了很多很好的观点。我有一个建议要补充：意外之财税。对消费者征收，它可以为游戏的基层筹集资金，并可能作为",
+    "published_dt_iso": "2026-09-05T00:53:12+08:00"
+  },
+  {
+    "title": "应急管理部调度江西遂川泥石流灾害救援 派出工作组赶赴现场",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690906.shtml",
+    "date": "2026-09-05",
+    "published_time": "14:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月5日，江西省遂川县高坪镇明坑村石下组发生泥石流和山体滑坡，应急管理部立即调度部署抢险救援工作，要求全力搜救被困人员，核实核清伤亡失联人数，就近调派通信保障、工程抢险等队伍装备，尽快组织救援人员挺进灾区，加强水文、地质灾害监测预警，科学施救，严防次生灾害发生。",
+    "published_dt_iso": "2026-09-05T14:14:25+08:00"
+  },
+  {
+    "title": "台青浙江深耕银发事业  用心相伴让养老有温度",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690875.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社浙江湖州9月5日电 题：台青浙江深耕银发事业 用心相伴让养老有温度",
+    "published_dt_iso": "2026-09-05T13:42:25+08:00"
+  },
+  {
+    "title": "中国民政部：西藏吉隆泥石流灾害慈善捐赠超6.6亿元人民币",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690874.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月5日电 (记者 李京泽)记者5日从中国民政部获悉，据不完全统计，目前，西藏吉隆泥石流灾害慈善捐赠已超过6.6亿元人民币；其中，超147万人次通过互联网公开募捐服务平台，向有关公开募捐慈善项目捐赠5016万元。",
+    "published_dt_iso": "2026-09-05T13:41:35+08:00"
+  },
+  {
+    "title": "中建集团党组：坚决拥护党中央决定",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690893.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月5日，中国建筑集团有限公司党组召开会议，通报中央纪委国家监委对中建集团党组成员、副总经理陈勇涉嫌严重违纪违法进行纪律审查和监察调查的决定。中建集团党组书记、董事长郑学选主持会议并讲话，党组成员逐一表态发言，一致表示坚决拥护党中央决定，坚决拥护中央纪委国家监委决定。",
+    "published_dt_iso": "2026-09-05T13:28:50+08:00"
+  },
+  {
+    "title": "两部门针对福建提升国家自然灾害救助应急响应级别至三级",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690890.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "按照《国家自然灾害救助应急预案》，针对近期台风及极端强降雨对福建莆田、宁德等地造成的严重影响，9月5日，国家防减救灾委、应急管理部将针对福建的国家自然灾害救助应急响应级别提升至三级，增派救灾工作组紧急赶赴灾区实地查看灾情，指导和协助地方做好受灾群众基本生活保障及灾后应急恢复等灾害救助工作。",
+    "published_dt_iso": "2026-09-05T13:22:54+08:00"
+  },
+  {
+    "title": "青春华章｜报国无声，迎接着永恒的东风！",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690886.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "何谓科学家？一颗报国心，一身真本事。他们勇攀高峰，接续奋斗，干惊天动地事，做隐姓埋名人。为何选择这份事业？从“两弹一星”元勋到量子科技的领军人，一代代科大人接力续写着科教报国的青春华章。报国无声，迎接着永恒的东风！",
+    "published_dt_iso": "2026-09-05T13:02:01+08:00"
+  },
+  {
+    "title": "西藏吉隆口岸：国旗屹立 信念长存",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690882.shtml",
+    "date": "2026-09-05",
+    "published_time": "12:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "近日，在西藏吉隆口岸受灾核心区，现场工作人员在国旗下轻轻放上几束鲜花，悼念此次泥石流灾害的遇难者。连日来，西藏统筹各方救援力量，同步开展人员搜救、道路抢通、善后处置和风险防范各项工作，目前抢险救援和应急处置工作正在受灾核心区开展。",
+    "published_dt_iso": "2026-09-05T12:53:56+08:00"
+  },
+  {
+    "title": "青春华章｜这就是中国的模样！从觉醒年代到星辰大海，看中国青年的“硬核”接力",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-05/10690881.shtml",
+    "date": "2026-09-05",
+    "published_time": "12:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "【环球网记者 石丁 朱马烈 许庆瑶报道】百年前，先辈们以青春之我，创建青春之国家、青春之民族。这份跨越时空的青春接力，至今仍在神州大地上激荡回响。回望来路，钱学森、邓稼先、于敏等老一辈科学家，在筚路蓝缕中挺起民族脊梁。“外国人能搞的，难道中国人不能搞？”“国家需要我，我一定全力以赴！”这不仅是历史的铿锵回音，更是中国科技青年代代相传的报国初心与铮铮铁骨。",
+    "published_dt_iso": "2026-09-05T12:51:21+08:00"
+  },
+  {
+    "title": "玻利维亚一军营爆炸造成至少58人受伤",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690828.shtml",
+    "date": "2026-09-05",
+    "published_time": "12:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月5日电 拉巴斯消息：当地时间4日下午，玻利维亚西部拉巴斯省维亚查镇一处军营发生爆炸，已造成至少58人受伤。",
+    "published_dt_iso": "2026-09-05T12:06:35+08:00"
+  },
+  {
+    "title": "以色列空袭黎巴嫩南部致5死23伤",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690827.shtml",
+    "date": "2026-09-05",
+    "published_time": "12:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月5日电 综合消息：以色列军方4日表示，在黎巴嫩真主党对以士兵发动无人机袭击后，以色列对黎巴嫩南部进行了打击。",
+    "published_dt_iso": "2026-09-05T12:05:55+08:00"
+  },
+  {
+    "title": "五大人格与基因有何关联？国际最新研究识别1000多个相关遗传变异",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690824.shtml",
+    "date": "2026-09-05",
+    "published_time": "12:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月5日电 (记者 孙自法)国际学术期刊《自然》最新发表一篇遗传学论文称，研究人员通过对超过100万名参与者的数据进行荟萃分析，识别出1000多个与人类五大人格相关的基因遗传变异。",
+    "published_dt_iso": "2026-09-05T12:05:05+08:00"
+  },
+  {
+    "title": "尼共前总书记：西方媒体谣言让冰川灾害“雪上加霜”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690837.shtml",
+    "date": "2026-09-05",
+    "published_time": "11:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "尼泊尔共产党(毛主义中心)前总书记德沃·古隆9月3日在《中国日报》撰文称，尼泊尔此次遭遇泥石流灾害的根源在于气候变化导致的冰川失稳。国际社会应加强跨境监测预警，并由发达国家承担气候责任、加大对发展中国家的资金和技术支持。",
+    "published_dt_iso": "2026-09-05T11:10:13+08:00"
+  },
+  {
+    "title": "专访｜“中国政府给予我们的支持是全方位的！”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690836.shtml",
+    "date": "2026-09-05",
+    "published_time": "11:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "新华社加德满都9月4日电#8195;专访｜“中国政府给予我们的支持是全方位的！”——访尼泊尔外交部长希西尔",
+    "published_dt_iso": "2026-09-05T11:04:17+08:00"
+  },
+  {
+    "title": "推动上合组织合作取得更多务实成果（国际论坛）",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690830.shtml",
+    "date": "2026-09-05",
+    "published_time": "10:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "比什凯克峰会有望为上合组织承前启后、继往开来注入新的动力，推动上合组织各领域合作不断迈上新台阶",
+    "published_dt_iso": "2026-09-05T10:57:00+08:00"
+  },
+  {
+    "title": "外籍博主走进安康 感受秦巴山水与世界相连",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690826.shtml",
+    "date": "2026-09-05",
+    "published_time": "10:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "“连接，从来不只是道路和贸易。它也是一种文化与另一种文化的相遇。”“只要我们保持连接，世界就会不断前进。”9月2日，在陕西省安康市举办的Keeping the World Moving 不断链的世界——共建“一带一路”融媒体传播项目启动仪式上，来自韩国的博主许多𬘡、法国博主卫墨心，以及墨西哥博主美洁分享了她们在中国生活、旅行中的所见所感，也讲述了各自眼中的“不断链”。",
+    "published_dt_iso": "2026-09-05T10:48:24+08:00"
+  },
+  {
+    "title": "玻利维亚一军营发生爆炸 已造成数十人死伤",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-05/10690809.shtml",
+    "date": "2026-09-05",
+    "published_time": "10:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月5日电 据路透社报道，玻利维亚地方政府称，当地时间4日，该国西部比亚查市一处军营发生爆炸，已造成数十人死伤。",
+    "published_dt_iso": "2026-09-05T10:25:04+08:00"
+  },
+  {
+    "title": "痛别！管华诗逝世",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690905.shtml",
+    "date": "2026-09-05",
+    "published_time": "14:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "记者5日从中国海洋大学获悉，中国工程院院士、中国现代海洋药物学科的开拓者与奠基人、该校原校长管华诗，因病医治无效，于2026年9月4日11时18分在青岛逝世，享年87岁。",
+    "published_dt_iso": "2026-09-05T14:11:09+08:00"
+  },
+  {
+    "title": "赣州章贡：千年宋城，何以“活”在今天？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690902.shtml",
+    "date": "2026-09-05",
+    "published_time": "14:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "【2026打卡中国】赣州章贡：千年宋城，何以“活”在今天？",
+    "published_dt_iso": "2026-09-05T14:02:52+08:00"
+  },
+  {
+    "title": "广州多举措打通AI技术落地民生的“最后100米”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690883.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:46",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月5日电 (记者 王坚)“AI生活家·寻找1001种AI生活新方式”城市共创项目9月4日在XAIR Expo2026具身智能产业博览会(以下简称“博览会”)上启动。该项目将以“AI七进”形式推动人工智能技术赋能千行百业、服务万家灯火。",
+    "published_dt_iso": "2026-09-05T13:46:17+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）松毛岭祭无名英烈 一碗热粥四代传承",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690878.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社福建连城9月5日电 题：松毛岭祭无名英烈 一碗热粥四代传承",
+    "published_dt_iso": "2026-09-05T13:45:31+08:00"
+  },
+  {
+    "title": "（走进中国乡村）鄱阳湖退捕渔村多元业态引客来",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690876.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社江西庐山9月5日电 题：鄱阳湖退捕渔村多元业态引客来",
+    "published_dt_iso": "2026-09-05T13:43:51+08:00"
+  },
+  {
+    "title": "秋日喷嚏警告！全国花粉过敏指数地图出炉",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690898.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "秋日喷嚏警告！全国花粉过敏指数地图出炉 看哪里需重点防护",
+    "published_dt_iso": "2026-09-05T13:43:47+08:00"
+  },
+  {
+    "title": "全国入秋进程图出炉！北方多地入秋偏晚",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-05/10690897.shtml",
+    "date": "2026-09-05",
+    "published_time": "13:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "全国入秋进程图出炉！北方多地入秋偏晚 冷空气将推动秋天版图扩张",
+    "published_dt_iso": "2026-09-05T13:41:41+08:00"
+  },
+  {
+    "title": "在重大泄密搜寻中，五角大楼对联合参谋人员进行测谎测试",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html",
+    "date": "2026-09-05",
+    "published_time": "10:08",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "大约 50 人接受了测试，这是在有关伊朗战争和美军弹药库存减少的新闻报道之后进行的一次前所未有的调查。",
+    "published_dt_iso": "2026-09-05T10:08:40+08:00"
+  },
+  {
+    "title": "法官命令特朗普官员透露 18 亿美元基金设立者的姓名",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html",
+    "date": "2026-09-05",
+    "published_time": "04:52",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "设立一个基金的计划可以将纳税人的钱输送给总统的盟友，这一计划引起了反复的审查，包括来自参议院共和党人的罕见谴责。",
+    "published_dt_iso": "2026-09-05T04:52:39+08:00"
+  },
+  {
+    "title": "特朗普最新的特赦补助金有利于毒品犯罪者、工会老板",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html",
+    "date": "2026-09-05",
+    "published_time": "06:57",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "周四，总统对 30 人发出赦免或减刑，继续以非正统且不可预测的方式使用特赦权。",
+    "published_dt_iso": "2026-09-05T06:57:34+08:00"
+  },
+  {
+    "title": "尽管存在安全问题，特朗普仍计划使用卡塔尔喷气机进行另一次海外飞行",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html",
+    "date": "2026-09-05",
+    "published_time": "04:47",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "总统打算乘坐这架飞机前往爱尔兰，这是自有人对其防御能力提出质疑以来，他首次在海外使用这架飞机。",
+    "published_dt_iso": "2026-09-05T04:47:39+08:00"
+  },
+  {
+    "title": "在像林赛·克兰西这样的复杂案件中，很难达成一致裁决",
+    "link": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-unanimous-verdicts.html",
+    "date": "2026-09-05",
+    "published_time": "07:47",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "洪氏陪审团并不常见，但林赛·克兰西谋杀案的审判令人痛苦且极其复杂。",
+    "published_dt_iso": "2026-09-05T07:47:39+08:00"
+  },
+  {
+    "title": "林赛·克兰西谋杀案审判以陪审团悬而未决而告终。现在怎么办？",
+    "link": "https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html",
+    "date": "2026-09-05",
+    "published_time": "02:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "克兰西女士仍因杀害她的三个孩子而面临谋杀指控。她很可能会留在医院，检察官可能会决定对她进行重审。",
+    "published_dt_iso": "2026-09-05T02:31:34+08:00"
+  },
+  {
+    "title": "最高法院在电视广告大战中站在共和党一边",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/supreme-court-republicans-ads.html",
+    "date": "2026-09-05",
+    "published_time": "06:23",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "共和党团体要求法院为各政党支付与候选人相同的低成本广告费扫清道路，此举可能会削弱民主党在中期选举中的优势。",
+    "published_dt_iso": "2026-09-05T06:23:54+08:00"
+  },
+  {
+    "title": "法官再次阻止特朗普政府限制邮件的计划",
+    "link": "https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html",
+    "date": "2026-09-05",
+    "published_time": "07:27",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该裁决是在最高法院决定是否干预之前做出的，但似乎肯定会引发另一轮上诉。",
+    "published_dt_iso": "2026-09-05T07:27:18+08:00"
   }
 ]

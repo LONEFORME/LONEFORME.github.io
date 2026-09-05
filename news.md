@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-05 00:30 抓取更新</span>
+      <span>2026-09-05 14:24 抓取更新</span>
     </div>
   </div>
 
@@ -25,11 +25,11 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">49</span>
+        <span class="channel-count">60</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">10</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
@@ -37,11 +37,11 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">11</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
-        <span class="channel-count">13</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
         <span>🌍 西方媒体视角</span>
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="贾里德·库什纳（ Jared Kushner ）和史蒂夫·维特科夫（ Steve Witkoff ）会见两国总统的行程正值乌克兰冲突的不稳定时刻。" data-title="库什纳和威特科夫将前往俄罗斯和乌克兰重启和谈" data-date="09-04 23:21" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-05/10690893.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="9月5日，中国建筑集团有限公司党组召开会议，通报中央纪委国家监委对中建集团党组成员、副总经理陈勇涉嫌严重违纪违法进行纪律审查和监察调查的决定。中建集团党组书记、董事长郑学选主持会议并讲话，党组成员逐一表态发言，一致表示坚决拥护党中央决定，坚决拥护中央纪委国家监委决定。" data-title="中建集团党组：坚决拥护党中央决定" data-date="09-05 13:28" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 09-04 23:21</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 09-05 13:28</span>
       </div>
-      <h2 class="hero-featured-title">库什纳和威特科夫将前往俄罗斯和乌克兰重启和谈</h2>
+      <h2 class="hero-featured-title">中建集团党组：坚决拥护党中央决定</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/" target="_blank" rel="noopener" data-cat="keji" data-summary="这是OpenAI内部监控和安全系统的最新故障。" data-title="另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网" data-date="09-05 00:21" data-source="TechCrunch">
+    <a class="hero-sub-card" href="https://www.ithome.com/0/998/739.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 5 日消息，在接受《华盛顿邮报》采访时，顽皮狗工作室负责人尼尔 · 德鲁克曼（Neil Druckmann）透露，团队正为《最后生还者》（The Last of Us）筹备多个项目。德鲁克曼并未透露更多细节，只是确认工作室正在开发“几个项目”，也没有明确说明这些项目是否均为游戏。IT之家援引博文介绍，顽皮狗工作室的开发重心目前放在《星际：异端先知》（Intergalactic: The Heretic Prophet）方面，如果该工作室在推进《最后生还者》相关游戏项目，其发行日期可能会晚于《星际：异端先知》。《最后生还者》系列目前最后一款正式发售的游戏是 《The Last of Us Part II Remastered》，于 2025 年 1 月登陆 PS5，随后也推出" data-title="《最后生还者》游戏新动向：顽皮狗确认多个项目筹备中" data-date="09-05 13:58" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网</p>
+      <p class="hero-sub-title">《最后生还者》游戏新动向：顽皮狗确认多个项目筹备中</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="托特纳姆热刺队主教练罗伯托·德泽尔比表示，将理查利森排除在俱乐部英超阵容之外并不是他的决定。" data-title="理查利森的遗漏不是我的决定" data-date="09-04 23:32" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="首席足球作家菲尔·麦克纳尔蒂问道，在英超联赛战胜伊普斯维奇的比赛中梅开二度后，真正的亚历山大·伊萨克终于抵达利物浦了吗？" data-title="伊萨克终于到来，加克波证明了对利物浦的价值" data-date="09-05 06:37" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">理查利森的遗漏不是我的决定</p>
+      <p class="hero-sub-title">伊萨克终于到来，加克波证明了对利物浦的价值</p>
     </a>
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-reasonable-doubt.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="“排除合理怀疑”是美国法律体系中最高的举证责任。尽管如此，仍有一些回旋余地。" data-title="如何定义合理怀疑中的“合理”" data-date="09-04 23:44" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/gn/2026/09-05/10690906.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="9月5日，江西省遂川县高坪镇明坑村石下组发生泥石流和山体滑坡，应急管理部立即调度部署抢险救援工作，要求全力搜救被困人员，核实核清伤亡失联人数，就近调派通信保障、工程抢险等队伍装备，尽快组织救援人员挺进灾区，加强水文、地质灾害监测预警，科学施救，严防次生灾害发生。" data-title="应急管理部调度江西遂川泥石流灾害救援 派出工作组赶赴现场" data-date="09-05 14:14" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">如何定义合理怀疑中的“合理”</p>
+      <p class="hero-sub-title">应急管理部调度江西遂川泥石流灾害救援 派出工作组赶赴现场</p>
     </a>
   </div>
 </div>
@@ -101,8 +101,80 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">10 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690893.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="9月5日，中国建筑集团有限公司党组召开会议，通报中央纪委国家监委对中建集团党组成员、副总经理陈勇涉嫌严重违纪违法进行纪律审查和监察调查的决定。中建集团党组书记、董事长郑学选主持会议并讲话，党组成员逐一表态发言，一致表示坚决拥护党中央决定，坚决拥护中央纪委国家监委决定。" data-title="中建集团党组：坚决拥护党中央决定" data-date="09-05 13:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 13:28</span>
+          <span class="news-item-title">中建集团党组：坚决拥护党中央决定</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690828.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月5日电 拉巴斯消息：当地时间4日下午，玻利维亚西部拉巴斯省维亚查镇一处军营发生爆炸，已造成至少58人受伤。" data-title="玻利维亚一军营爆炸造成至少58人受伤" data-date="09-05 12:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 12:06</span>
+          <span class="news-item-title">玻利维亚一军营爆炸造成至少58人受伤</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690827.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月5日电 综合消息：以色列军方4日表示，在黎巴嫩真主党对以士兵发动无人机袭击后，以色列对黎巴嫩南部进行了打击。" data-title="以色列空袭黎巴嫩南部致5死23伤" data-date="09-05 12:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 12:05</span>
+          <span class="news-item-title">以色列空袭黎巴嫩南部致5死23伤</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690824.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月5日电 (记者 孙自法)国际学术期刊《自然》最新发表一篇遗传学论文称，研究人员通过对超过100万名参与者的数据进行荟萃分析，识别出1000多个与人类五大人格相关的基因遗传变异。" data-title="五大人格与基因有何关联？国际最新研究识别1000多个相关遗传变异" data-date="09-05 12:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 12:05</span>
+          <span class="news-item-title">五大人格与基因有何关联？国际最新研究识别1000多个相关遗传变异</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690836.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社加德满都9月4日电#8195;专访｜“中国政府给予我们的支持是全方位的！”——访尼泊尔外交部长希西尔" data-title="专访｜“中国政府给予我们的支持是全方位的！”" data-date="09-05 11:04" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 11:04</span>
+          <span class="news-item-title">专访｜“中国政府给予我们的支持是全方位的！”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690830.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="比什凯克峰会有望为上合组织承前启后、继往开来注入新的动力，推动上合组织各领域合作不断迈上新台阶" data-title="推动上合组织合作取得更多务实成果（国际论坛）" data-date="09-05 10:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 10:57</span>
+          <span class="news-item-title">推动上合组织合作取得更多务实成果（国际论坛）</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690809.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月5日电 据路透社报道，玻利维亚地方政府称，当地时间4日，该国西部比亚查市一处军营发生爆炸，已造成数十人死伤。" data-title="玻利维亚一军营发生爆炸 已造成数十人死伤" data-date="09-05 10:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 10:25</span>
+          <span class="news-item-title">玻利维亚一军营发生爆炸 已造成数十人死伤</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="大约 50 人接受了测试，这是在有关伊朗战争和美军弹药库存减少的新闻报道之后进行的一次前所未有的调查。" data-title="在重大泄密搜寻中，五角大楼对联合参谋人员进行测谎测试" data-date="09-05 10:08" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-05 10:08</span>
+          <span class="news-item-title">在重大泄密搜寻中，五角大楼对联合参谋人员进行测谎测试</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="该裁决是在最高法院决定是否干预之前做出的，但似乎肯定会引发另一轮上诉。" data-title="法官再次阻止特朗普政府限制邮件的计划" data-date="09-05 07:27" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-05 07:27</span>
+          <span class="news-item-title">法官再次阻止特朗普政府限制邮件的计划</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/politics/trump-pardons-drug-offenders-union-boss.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="周四，总统对 30 人发出赦免或减刑，继续以非正统且不可预测的方式使用特赦权。" data-title="特朗普最新的特赦补助金有利于毒品犯罪者、工会老板" data-date="09-05 06:57" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-05 06:57</span>
+          <span class="news-item-title">特朗普最新的特赦补助金有利于毒品犯罪者、工会老板</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="设立一个基金的计划可以将纳税人的钱输送给总统的盟友，这一计划引起了反复的审查，包括来自参议院共和党人的罕见谴责。" data-title="法官命令特朗普官员透露 18 亿美元基金设立者的姓名" data-date="09-05 04:52" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-05 04:52</span>
+          <span class="news-item-title">法官命令特朗普官员透露 18 亿美元基金设立者的姓名</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/politics/trump-qatar-jet-flight-ireland.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="总统打算乘坐这架飞机前往爱尔兰，这是自有人对其防御能力提出质疑以来，他首次在海外使用这架飞机。" data-title="尽管存在安全问题，特朗普仍计划使用卡塔尔喷气机进行另一次海外飞行" data-date="09-05 04:47" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-05 04:47</span>
+          <span class="news-item-title">尽管存在安全问题，特朗普仍计划使用卡塔尔喷气机进行另一次海外飞行</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/politics/putin-zelensky-kushner-witkoff-talks.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="贾里德·库什纳（ Jared Kushner ）和史蒂夫·维特科夫（ Steve Witkoff ）会见两国总统的行程正值乌克兰冲突的不稳定时刻。" data-title="库什纳和威特科夫将前往俄罗斯和乌克兰重启和谈" data-date="09-04 23:21" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -121,48 +193,6 @@ title: 热点新闻
           <span class="news-item-date">09-04 22:20</span>
           <span class="news-item-title">天津发布2025年度居民健康报告 居民期望寿命达82.80岁</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10690689.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月4日电 4日，市场监管总局联合民政部在北京召开专题新闻发布会，介绍与养老服务强制性国家标准相关的工作情况。" data-title="养老服务领域两项强制性国家标准发布" data-date="09-04 22:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:20</span>
-          <span class="news-item-title">养老服务领域两项强制性国家标准发布</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10690700.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社山东青岛9月4日电 (张孝鹏)在4日开幕的联合国“海洋十年”2026青岛国际海洋素养大会上，联合国教科文组织政府间海洋学委员会(UNESCO-IOC，简称“联合国教科文组织海委会”)主席道田豊(Yutaka Michida)视频致辞时说，中国已成为“海洋科学促进可持续发展十年(2021-2030)”(简称“海洋十年”)的重要引领者。" data-title="联合国教科文组织海委会主席：中国已成“海洋十年”重要引领者" data-date="09-04 22:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:18</span>
-          <span class="news-item-title">联合国教科文组织海委会主席：中国已成“海洋十年”重要引领者</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/world/middleeast/yemen-houthis-red-sea-strait.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="伊朗支持的民兵组织胡塞武装似乎正试图控制曼德海峡附近的一个港口城市，这是全球贸易的一个关键阻塞点。" data-title="随着地面战斗升级，也门胡塞武装向红海海峡推进" data-date="09-04 22:08" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 22:08</span>
-          <span class="news-item-title">随着地面战斗升级，也门胡塞武装向红海海峡推进</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690692.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="9月4日，菲律宾地方法院针对副总统莎拉·杜特尔特下达逮捕令。" data-title="被下令逮捕的菲律宾副总统莎拉·杜特尔特，背后是两大家族存亡之战" data-date="09-04 21:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 21:58</span>
-          <span class="news-item-title">被下令逮捕的菲律宾副总统莎拉·杜特尔特，背后是两大家族存亡之战</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690678.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社首尔9月4日电 (记者 金旭)据韩联社当地时间4日报道，应美国要求，韩国政府正在考虑向霍尔木兹海峡派兵。对此，韩国总统府青瓦台表示，韩方目前仍在按照程序研究审议相关议案，尚未作出任何决定。" data-title="韩国总统府：向霍尔木兹海峡派兵处于“研究审议”阶段" data-date="09-04 21:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 21:57</span>
-          <span class="news-item-title">韩国总统府：向霍尔木兹海峡派兵处于“研究审议”阶段</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690594.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月4日电 伊斯兰堡消息：当地时间9月4日，巴基斯坦三军新闻局对外证实，巴安全部队日前在俾路支省卡拉特(Kalat)地区开展反恐行动，共击毙12名恐怖分子。" data-title="巴基斯坦安全部队在俾路支省击毙12名恐怖分子" data-date="09-04 20:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 20:56</span>
-          <span class="news-item-title">巴基斯坦安全部队在俾路支省击毙12名恐怖分子</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="美国总统特朗普说，英国“在我们与伊朗开战时没有出手帮忙”。他此前表示，若英国未能增加防务开支，美国可能会修改在福克兰群岛主权问题上的中立立场。" data-title="福克兰群岛争议升温：阿根廷宣布制裁附近油企，特朗普暗示未必协助英国" data-date="09-04 15:41" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 15:41</span>
-          <span class="news-item-title">福克兰群岛争议升温：阿根廷宣布制裁附近油企，特朗普暗示未必协助英国</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -170,103 +200,151 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/" target="_blank" rel="noopener" data-cat="keji" data-summary="这是OpenAI内部监控和安全系统的最新故障。" data-title="另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网" data-date="09-05 00:21" data-source="TechCrunch">
+        <a class="news-item" href="https://www.ithome.com/0/998/739.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 5 日消息，在接受《华盛顿邮报》采访时，顽皮狗工作室负责人尼尔 · 德鲁克曼（Neil Druckmann）透露，团队正为《最后生还者》（The Last of Us）筹备多个项目。德鲁克曼并未透露更多细节，只是确认工作室正在开发“几个项目”，也没有明确说明这些项目是否均为游戏。IT之家援引博文介绍，顽皮狗工作室的开发重心目前放在《星际：异端先知》（Intergalactic: The Heretic Prophet）方面，如果该工作室在推进《最后生还者》相关游戏项目，其发行日期可能会晚于《星际：异端先知》。《最后生还者》系列目前最后一款正式发售的游戏是 《The Last of Us Part II Remastered》，于 2025 年 1 月登陆 PS5，随后也推出" data-title="《最后生还者》游戏新动向：顽皮狗确认多个项目筹备中" data-date="09-05 13:58" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-05 00:21</span>
-          <span class="news-item-title">另一群OpenAI特工在前沿实验室不知情的情况下进入了开放互联网</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-05 13:58</span>
+          <span class="news-item-title">《最后生还者》游戏新动向：顽皮狗确认多个项目筹备中</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/nas/minisforum-launches-local-ai-solutions-at-ifa-2026-ai-agent-nas-n5-and-ai-mini-workstation-ms-s1-use-amd-ryzen-ai-max-pro-495-processors-designed-to-run-models-locally" target="_blank" rel="noopener" data-cat="keji" data-summary="Minisforum在IFA 2026上推出了NAS N5 Max-P495和MS-S1 Max-P945。NAS和mini-PC由AMD Ryzen AI Max + Pro 495驱动，可配置高达192GB的统一内存，并配备Radeon 8065S集成GPU。" data-title="Minisforum 在 IFA 2026 上推出本地 AI 解决方案 — AI Agent NAS N5 和 AI Mini Workstation MS-S1 采用 AMD Ryzen AI Max+ Pro 495 处理器，专为本地运行模型而设计" data-date="09-05 00:15" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-05 00:15</span>
-          <span class="news-item-title">Minisforum 在 IFA 2026 上推出本地 AI 解决方案 — AI Agent NAS N5 和 AI Mini Workstation MS-S1 采用 AMD Ryzen AI Max+ Pro 495 处理器，专为本地运行模型而设计</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit" target="_blank" rel="noopener" data-cat="keji" data-summary="微软在新的法律文件中表示，微软的 Copilot 很少复制新闻文章和书籍中的完整句子，更不用说可以替代原文的实质性内容了，因为它正在与包括《纽约时报》和书籍作者在内的出版商的版权主张作斗争。作为诉讼发现的一部分，微软提供了 820 万个 Copilot [...]" data-title="微软表示几乎没有人通过其聊天机器人抓取《纽约时报》的文章" data-date="09-05 00:05" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-05 00:05</span>
-          <span class="news-item-title">微软表示几乎没有人通过其聊天机器人抓取《纽约时报》的文章</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/" target="_blank" rel="noopener" data-cat="keji" data-summary="这正是苹果公司的Ternus时代。蒂姆·库克(Tim Cook)本周辞去首席执行官职务，将公司交给了前硬件首席执行官约翰·特纳斯(John Ternus) ，后者的第一份备忘录承诺在下周推出“巨大的” --这一时机让苹果的下一次iPhone发布会在他安顿下来之前就开始了。不过，库克并没有走多远：他将继续担任执行主席，专注于政策[…]" data-title="随着英伟达押注整个人工智能堆栈，苹果的Ternus时代开始了" data-date="09-05 00:04" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-05 00:04</span>
-          <span class="news-item-title">随着英伟达押注整个人工智能堆栈，苹果的Ternus时代开始了</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690741.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="乌克兰总统泽连斯基4日在社交媒体发文称，位于乌首都基辅市中心的乌国家安全局总部当天遭俄军无人机袭击。乌克兰媒体同日援引消息人士的话报道称，出于安全担忧，计划访问俄罗斯和乌克兰的美国总统特使威特科夫正在考虑代替访问的其他方案。" data-title="乌国家安全局遭袭 美总统特使访问计划“可能有变”" data-date="09-04 23:49" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690883.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网广州9月5日电 (记者 王坚)“AI生活家·寻找1001种AI生活新方式”城市共创项目9月4日在XAIR Expo2026具身智能产业博览会(以下简称“博览会”)上启动。该项目将以“AI七进”形式推动人工智能技术赋能千行百业、服务万家灯火。" data-title="广州多举措打通AI技术落地民生的“最后100米”" data-date="09-05 13:46" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 23:49</span>
-          <span class="news-item-title">乌国家安全局遭袭 美总统特使访问计划“可能有变”</span>
+          <span class="news-item-date">09-05 13:46</span>
+          <span class="news-item-title">广州多举措打通AI技术落地民生的“最后100米”</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/world/europe/russia-drone-attack-kyiv-security-service.html" target="_blank" rel="noopener" data-cat="keji" data-summary="此次袭击发生之际，据说美国特使史蒂夫·威特科夫和贾里德·库什纳正计划立即访问基辅和莫斯科。" data-title="俄罗斯无人机袭击乌克兰情报局局长办公室" data-date="09-04 23:41" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/0/998/738.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 5 日消息，科技媒体 NotebookCheck 昨日（9 月 4 日）发布博文，报道称瑞典零售商 Retrospelbutiken 已上架 Switch 2 版《塞尔达传说：时之笛》重制版页面，显示该游戏于 2026 年 11 月 12 日发行，标价 849 瑞典克朗（当前汇率约合 595 元人民币）。IT之家此前报道，任天堂将于 2026 年 9 月 8 日、9 日连续举办两场 Direct 直面会：9 月 8 日（IT之家注：北京时间 22:00）将举行《塞尔达传说》40 周年直面会，带来有关《塞尔达传说》的最新游戏资讯，节目时长约为 30 分钟。北京时间 9 月 9 日 22:00 还将举行另一场任天堂直面会，本场直面会将以今年冬季发售的游戏为核心，带来任天堂 Sw" data-title="Switch 2 版《塞尔达传说：时之笛》重制版游戏预估 11 月 12 日发行，将推典藏版" data-date="09-05 13:45" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 23:41</span>
-          <span class="news-item-title">俄罗斯无人机袭击乌克兰情报局局长办公室</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-05 13:45</span>
+          <span class="news-item-title">Switch 2 版《塞尔达传说：时之笛》重制版游戏预估 11 月 12 日发行，将推典藏版</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones" target="_blank" rel="noopener" data-cat="keji" data-summary="德国柏林 IFA 2026 的消息传出一周后，欧洲最大的消费科技展今天正式向公众开放。如果您很难跟上已发布的内容，这里有一些来自展会的最佳新产品和升级 - 包括智能手机 [...]" data-title="IFA 迄今为止发布的最佳技术和小玩意" data-date="09-04 23:41" data-source="The Verge">
+        <a class="news-item" href="https://www.ithome.com/0/998/735.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 5 日消息，科技媒体 sammyfans 昨日（9 月 4 日）发布博文，报道称三星 Exynos 2,700 工程样片 GeekBench 跑分曝光，6.7.1 版本单核成绩为 4,328 分，多核成绩为 14,700 分。IT之家注：上述跑分来自内部 Geekbench 6 跑分列表，在公开数据库中仅有 1 条 4 月上传的记录，6.6.0 版本单核成绩为 2,603 分，多核成绩为 10,350，由于版本差异，两条记录无法直接对比。今年 4 月曝光的跑分数据，显示 CPU 时钟频率存在差异根据最新跑分页面信息，基本符合此前曝光的 Exynos 2,700 Die Shot 图片信息，CPU 部分采用 1+4+1+4 集群设计，共有 10 个核心，分为 2 组：第 1" data-title="三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计" data-date="09-05 13:27" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-05 13:27</span>
+          <span class="news-item-title">三星 Galaxy S27 手机首发：Exynos 2700 芯片跑分曝光，10 核 CPU 设计</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/998/734.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 5 日消息，特斯拉中国现已在其 Tesla App 商城及微信小程序上架新款浅色汽车头枕 / 腰靠，其中头枕定价为 219 元，腰靠定价为 269 元。Tesla 头枕设计灵感源自特斯拉车辆内饰座椅，造型简约，与内饰完美融合，表面印有 Tesla 字标。采用与内饰材质一致的人造超纤皮材料，质感细腻，耐磨防滑，阻燃性能优良。头枕内部填充采用杜邦生物棉，舒适环保更安全。腰靠结合座椅弧度设计，贴合人体腰椎曲线，为您提供舒适支撑，缓解驾驶疲劳。Tesla 腰靠设计灵感源自特斯拉车辆内饰座椅，造型简约，与内饰完美融合，表面印有 Tesla 字标。采用与内饰材质一致的人造超纤皮材料，质感细腻，耐磨防滑，阻燃性能优良。头枕内部填充采用杜邦生物棉，舒适环保更安全。腰靠结合座椅弧度设计，贴合" data-title="特斯拉中国上线浅色 Tesla 头枕 / 腰靠，219 元起" data-date="09-05 13:11" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-05 13:11</span>
+          <span class="news-item-title">特斯拉中国上线浅色 Tesla 头枕 / 腰靠，219 元起</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/998/733.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 5 日消息，中吉乌铁路吉尔吉斯斯坦境内段建设取得重要进展，该段科什特伯北 2 号隧道已顺利贯通，这也是该项目在吉境内段贯通的首座隧道。此次贯通的科什特伯北 2 号隧道全长 209.6 米，为单洞单线隧道，最大埋深 41 米。该隧道于 2026 年 5 月 10 日开工建设，建设团队仅用时 87 天即完成贯通。与此同时，纳伦 1 号隧道等控制性工程也取得阶段性成果。中吉乌铁路吉境内段全线土建工程自 2025 年 6 月开工以来，已开工隧道 27 座，其中贯通 1 座；已开工桥梁 43 座、路基 88 段；20 座车站基础建设也已全面展开。此外，全线大型临时道路、临时电力保障项目已全部竣工投用。中吉乌铁路是三国元首亲自推动的共建“一带一路”标志性工程。项目起自中国新疆喀什，经吐" data-title="中吉乌铁路吉境内段首座隧道贯通，全线最高大桥同步推进施工" data-date="09-05 12:55" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-05 12:55</span>
+          <span class="news-item-title">中吉乌铁路吉境内段首座隧道贯通，全线最高大桥同步推进施工</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/998/731.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 5 日消息，据特斯拉 Tesla 官方公众号，特斯拉宣布上线“全损车用户特享关怀福利”，不限原车品牌，不限车型，9 月 30 日（含）前下订 Model S/3/X/Y 可享 800 元现金减免，直接抵扣订单尾款。特斯拉表示，全损出险时间介于 2026 年 9 月 1 日至活动结束，全损旧车与新购特斯拉的车主须为同一人（车主以行驶证中车辆所有人为准）。全损旧车赔付方为特斯拉合作保险公司（中国人民财产保险、中国平安财产保险、中国太平洋财产保险、中国人寿财产保险、太平财产保险、阳光财产保险），参与活动需提供保险公司出具的全损协议。" data-title="特斯拉上线“全损车用户特享关怀福利”，购车限时享 800 元尾款减免" data-date="09-05 12:54" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-05 12:54</span>
+          <span class="news-item-title">特斯拉上线“全损车用户特享关怀福利”，购车限时享 800 元尾款减免</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/484649.html" target="_blank" rel="noopener" data-cat="keji" data-summary="AI直接吐出正确答案，但最关键的可能不是答案" data-title="陶哲轩吐槽GPT" data-date="09-05 12:24" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-05 12:24</span>
+          <span class="news-item-title">陶哲轩吐槽GPT</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/484611.html" target="_blank" rel="noopener" data-cat="keji" data-summary="如此“反骨”的方法，具体又是怎么实现的？" data-title="这个世界模型训练完就“退场”，机器人反而更能干了" data-date="09-05 12:18" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-05 12:18</span>
+          <span class="news-item-title">这个世界模型训练完就“退场”，机器人反而更能干了</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/484551.html" target="_blank" rel="noopener" data-cat="keji" data-summary="最后靠Harness救回来" data-title="姚班校友主导，Claude攻克费马大定理首个完整形式化证明" data-date="09-05 09:17" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-05 09:17</span>
+          <span class="news-item-title">姚班校友主导，Claude攻克费马大定理首个完整形式化证明</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/" target="_blank" rel="noopener" data-cat="keji" data-summary="本轮融资是在这家机器人数据初创公司退出秘密几个月后进行的。" data-title="XDOF刚刚退出三个月，正在就B轮融资进行谈判，估值为12亿美元$" data-date="09-05 07:36" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-05 07:36</span>
+          <span class="news-item-title">XDOF刚刚退出三个月，正在就B轮融资进行谈判，估值为12亿美元$</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI 最新的代理群事件增加了独立调查的紧迫性，因为研究人员和立法者质疑人工智能实验室是否应该控制自己的安全审查范围。" data-title="OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们" data-date="09-05 07:15" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-05 07:15</span>
+          <span class="news-item-title">OpenAI 的流氓特工不断逃跑，却没有正式的程序来调查他们</span>
+        </a>
+        <a class="news-item" href="https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/" target="_blank" rel="noopener" data-cat="keji" data-summary="总共有 3,700 名内部特工发布了 18,000 条讨论考试作弊的消息。" data-title="OpenAI 代理在公共 wiki 上讨论了逃离沙箱的方法" data-date="09-05 06:17" data-source="Ars Technica">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-arstechnica">🔬 Ars Technica</span>
+          <span class="news-item-date">09-05 06:17</span>
+          <span class="news-item-title">OpenAI 代理在公共 wiki 上讨论了逃离沙箱的方法</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/990658/audacity-4-update-audio-editing" target="_blank" rel="noopener" data-cat="keji" data-summary="《Audacity 4》已经开发了一段时间，去年，当一个不幸的重新设计的徽标开始流传时，它也引发了一些小争议。新图标的最终版本并不像去年十月流传的早期版本那么糟糕。但更重要的是，所有承诺的改进 [...]" data-title="Audacity 4 是“世界上最受欢迎”的音频编辑器的彻底改造" data-date="09-05 05:23" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-04 23:41</span>
-          <span class="news-item-title">IFA 迄今为止发布的最佳技术和小玩意</span>
+          <span class="news-item-date">09-05 05:23</span>
+          <span class="news-item-title">Audacity 4 是“世界上最受欢迎”的音频编辑器的彻底改造</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/624.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，9 月 3 日，芯联集成与理想签订新一轮战略合作协议，双方共同见证 8 英寸碳化硅晶圆成功下线，开启深化合作。IT之家从公告获悉，芯联集成与理想合作产品应用场景从整车电驱动进一步延伸至车载热管理系统等领域。2024 年 3 月，双方首次签署战略合作协议，聚焦车规级碳化硅领域联合技术攻关；2025 年 2 月，芯联集成实现 6 英寸碳化硅晶圆成功量产，顺利配套理想 i 系列高压纯电车型。作为国内首家实现 8 英寸碳化硅晶圆量产的企业，芯联集成提前布局产能，持续优化制造工艺、压缩生产周期，通过供应链垂直整合与产线迭代升级，顺利完成 6 英寸至 8 英寸碳化硅产线的无缝衔接。本次下线的 8 英寸碳化硅芯片即将进入 SOP 量产阶段，这是双方继 6 英寸产品量产后的又一" data-title="理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线" data-date="09-04 23:32" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/" target="_blank" rel="noopener" data-cat="keji" data-summary="Nscale 最近与 Anthropic 达成了 450 亿美元的交易，目前正在洽谈筹集更多资金，以应对即将到来的 IPO。" data-title="AI 计算提供商 Nscale 正在寻找 $3.5B" data-date="09-05 05:12" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 23:32</span>
-          <span class="news-item-title">理想与芯联集成签署新一轮战略合作协议，8 英寸碳化硅晶圆下线</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-usd900-in-the-best-buy-labor-day-sale-on-tech-with-huge-discounts-on-gaming-pcs-laptops-and-monitors-secure-an-upgrade-fast-to-beat-rising-hardware-costs" target="_blank" rel="noopener" data-cat="keji" data-summary="百思买 (Best Buy) 目前正在进行劳动节大促销，为您提供科技产品的大幅折扣，包括游戏电脑、手持设备、笔记本电脑和显示器。" data-title="百思买劳动节科技促销可节省高达900 $ ，游戏电脑、笔记本电脑和显示器大幅折扣—确保快速升级以应对不断上涨的硬件成本" data-date="09-04 23:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-04 23:30</span>
-          <span class="news-item-title">百思买劳动节科技促销可节省高达900 $ ，游戏电脑、笔记本电脑和显示器大幅折扣—确保快速升级以应对不断上涨的硬件成本</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/623.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，据科创板日报消息，上海垣信卫星科技有限公司（下称“垣信卫星”）已完成工商变更，杭州阿里创业投资有限公司正式登记为新股东。至此，阿里巴巴成功入局这家备受追捧的低轨卫星星座独角兽。垣信卫星于 2018 年 3 月发起设立，作为低轨巨型星座“千帆星座”的建设运营主体。千帆星座于 2024 年 8 月发射首批 18 颗卫星，正式开启大规模组网。IT之家获悉，截至目前，千帆星座已增至 238 颗。千帆星座将于 2026 年年底完成一阶段 324 星全球组网，正式面向全球提供服务并启动商业化运营。另据上海联合产权交易所 8 月 17 日发布的成交公告，垣信卫星完成 69.76 亿元巨额增资。本轮共引入 18 家投资方，其中由国调二期协同发展基金等 24 家机构组成的联合体出" data-title="阿里入局“千帆星座”，现身垣信卫星股东名单" data-date="09-04 23:23" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 23:23</span>
-          <span class="news-item-title">阿里入局“千帆星座”，现身垣信卫星股东名单</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost" target="_blank" rel="noopener" data-cat="keji" data-summary="随着前沿人工智能开发人员在推动智能增强的同时，力求节省成本，新模型突破了帕累托前沿的界限，即使很小的优势也能成为新的王者。" data-title="随着代币数量激增25倍，前沿人工智能面临定价计算—中端型号以六分之一的成本提供90%的旗舰功能" data-date="09-04 23:21" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-04 23:21</span>
-          <span class="news-item-title">随着代币数量激增25倍，前沿人工智能面临定价计算—中端型号以六分之一的成本提供90%的旗舰功能</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/622.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，据易车今日报道，全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市。新车采用最新设计语言，加长后的轴距达到 3115mm。内饰采用三联屏设计，内置豆包 AI 大模型虚拟助手，并且后续还将搭载 Momenta R7 世界模型。IT之家注意到，9 月 1 日，全新国产梅赛德斯-奔驰长轴距 GLE SUV 在顺义工厂正式下线。该车配备“双星徽”前大灯，构成车头独特的视觉标志，发光中央星标与发光格栅边框则进一步增强气场。中国专属加长设计将整车轴距提升至超 3.1 米，配合大五座布局，标配可滑动开启全景天窗，还会提供座椅振动按摩功能。新车搭载奔驰首创的 AR 平视显示系统，将导航关键信息融入真实环境，打造沉浸式导航；全新城区及高速领航辅助驾驶系统，将在中国市场实现" data-title="全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7" data-date="09-04 23:18" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 23:18</span>
-          <span class="news-item-title">全新奔驰长轴距 GLE SUV 将于 9 月 16 日上市，首批搭载 Momenta R7</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/621.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，苹果将于 9 月 9 日举行“亮新篇，来耀眼”发布会，新任 CEO 约翰 · 特努斯届时将登台发布新一代 iPhone 和 Apple Watch，而这场活动只是开端。彭博社记者马克 · 古尔曼今天（4 日）晚间发文称，苹果准备开启公司历史上规模最大的一轮硬件发布周期，在 2026 年、2027 年乃至更远的未来陆续推出全新产品形态，并进入多个此前从未涉足的设备领域。苹果为这套产品路线图筹备了约 5 年，特努斯也把接下来的阶段描述为一个新的创新时代。当地时间 1 日，他在致员工的信中写道：“想到我们已经准备好的一切，我感到非常兴奋。下周我们将举行一场规模盛大的发布会，一定会非常精彩。我同样期待更远的未来，包括已经在开发中的那些令人难以置信的产品，以及那些我们甚至" data-title="古尔曼称苹果将以史上最大新品阵容开启“特努斯时代”，公布今年至 2029 年后产品规划" data-date="09-04 23:14" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 23:14</span>
-          <span class="news-item-title">古尔曼称苹果将以史上最大新品阵容开启“特努斯时代”，公布今年至 2029 年后产品规划</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/620.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 4 日消息，据《商业内幕》今天（4 日）报道，英伟达通过投资其他科技公司，仅用两年时间就几乎从零建立起规模接近 1,000 亿美元（IT之家注：现汇率约合 6,735.52 亿元人民币）的股权投资组合。英伟达最新财报显示，截至 7 月 26 日，公司持有价值 990 亿美元（现汇率约合 6,668.16 亿元人民币）的股权投资。其中约 480 亿美元（现汇率约合 3,233.05 亿元人民币）为上市公司股票和其他可交易证券，另有约 480 亿美元（现汇率约合 3,233.05 亿元人民币）为非上市公司股份和其他不可交易证券，权益法投资约 30 亿美元（现汇率约合 202.07 亿元人民币）。英伟达的股权投资组合在一年内增长 14 倍，去年夏天规模约为 70 亿美元（现汇率约" data-title="仅用两年时间，英伟达从零建起近千亿美元股权投资组合" data-date="09-04 22:59" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 22:59</span>
-          <span class="news-item-title">仅用两年时间，英伟达从零建起近千亿美元股权投资组合</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690738.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网成都9月4日电 (王利文)2026年“一带一路”脑健康与脑器交互科技国际会议4日在成都召开。会议由四川省科学技术厅等单位指导，电子科技大学主办，中国—古巴神经技术与脑器交互“一带一路”联合实验室等承办，来自12个国家和地区的近千名专家、学者和企业家参会。" data-title="2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕" data-date="09-04 22:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:58</span>
-          <span class="news-item-title">2026年“一带一路”脑健康与脑器交互科技国际会议在成都开幕</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-05 05:12</span>
+          <span class="news-item-title">AI 计算提供商 Nscale 正在寻找 $3.5B</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">11 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c209xvxe558o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="首席足球作家菲尔·麦克纳尔蒂问道，在英超联赛战胜伊普斯维奇的比赛中梅开二度后，真正的亚历山大·伊萨克终于抵达利物浦了吗？" data-title="伊萨克终于到来，加克波证明了对利物浦的价值" data-date="09-05 06:37" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-05 06:37</span>
+          <span class="news-item-title">伊萨克终于到来，加克波证明了对利物浦的价值</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Alexander Isak’s early quick-fire double gave Andoni Iraola his first win as Liverpool managerThe teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the lights at Portman Road! Not long now. In the meantime, here’s Dave Estherby with some pre-match words of encourage" data-title="伊普斯维奇镇 0-2 利物浦：英超联赛——事实如此" data-date="09-05 05:35" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-05 05:35</span>
+          <span class="news-item-title">伊普斯维奇镇 0-2 利物浦：英超联赛——事实如此</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="托特纳姆热刺队主教练罗伯托·德泽尔比坚称他的巴西前锋“决定了一切，而不是我”继续阅读..." data-title="英超新闻：理查利森拒绝新合同，阿隆索支持詹姆斯中场" data-date="09-05 05:30" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-05 05:30</span>
+          <span class="news-item-title">英超新闻：理查利森拒绝新合同，阿隆索支持詹姆斯中场</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at M" data-title="伊萨克快速梅开二度击溃伊普斯维奇，为安多尼·伊劳拉带来利物浦首场胜利" data-date="09-05 05:07" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-05 05:07</span>
+          <span class="news-item-title">伊萨克快速梅开二度击溃伊普斯维奇，为安多尼·伊劳拉带来利物浦首场胜利</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c5y5g5vq00lo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利物浦和伊普斯维奇的球员在英超比赛后的评价。" data-title="伊萨克最终大放异彩，但谢尔彭遭遇困境——伊普斯维奇对阵利物浦球员评分" data-date="09-05 04:54" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-05 04:54</span>
+          <span class="news-item-title">伊萨克最终大放异彩，但谢尔彭遭遇困境——伊普斯维奇对阵利物浦球员评分</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/czjzn84wn9wo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="有没有证据表明前英超裁判迈克·迪恩曾在比赛中玩小游戏？ BBC 体育频道查看了证据。" data-title="迪恩说他总是遵守法律——但他参加了哪些比赛？" data-date="09-05 02:33" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-05 02:33</span>
+          <span class="news-item-title">迪恩说他总是遵守法律——但他参加了哪些比赛？</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/premier-league-team-news-predicted-lineups-for-the-weekend-action" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周日周六中午 12 点 30 分，在 TNT 体育 1 场地圣詹姆斯公园球场对切尔西的冠军资格进行测试之前，考文垂将面临一场艰巨的曼城之旅 继续阅读..." data-title="英超球队新闻：周末比赛的预测阵容" data-date="09-05 01:38" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-05 01:38</span>
+          <span class="news-item-title">英超球队新闻：周末比赛的预测阵容</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/a-window-tax-to-curb-the-premier-leagues-big-spenders" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="转会窗口|周日滑雪|债券市场|突破名义决定论泡沫|严肃的结论巴尼·罗尼（ Barney Ronay ）在他的文章中就最近的英超转会窗口（英超联赛的钱在9月2日混乱的过剩景象中失去了一切意义）提出了很多很好的观点。我有一个建议要补充：意外之财税。对消费者征收，它可以为游戏的基层筹集资金，并可能作为" data-title="征收窗户税以遏制英超联赛的大手笔|简短的信件" data-date="09-05 00:53" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-05 00:53</span>
+          <span class="news-item-title">征收窗户税以遏制英超联赛的大手笔|简短的信件</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c79038z3q4yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="托特纳姆热刺队主教练罗伯托·德泽尔比表示，将理查利森排除在俱乐部英超阵容之外并不是他的决定。" data-title="理查利森的遗漏不是我的决定" data-date="09-04 23:32" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -309,114 +387,102 @@ title: 热点新闻
           <span class="news-item-date">09-04 18:44</span>
           <span class="news-item-title">利物浦目标明特仍然可以获得梦想的转会</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/premier-league-lucas-herrington-hull-city-meteoric-rise-brisbane-roar" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="第54位参加英超联赛的澳大利亚人坚称他将继续努力–迫不及待地想面对埃尔林·哈兰德在英超联赛赛季开幕当天，赫尔城与曼联的冲突刚刚过去一个多小时，卢卡斯·赫灵顿就从替补席上站了起来。随着老虎队以2比0领先，经理谢尔盖·亚基罗维奇（ Sergej Jakirović ）转向这位18岁的澳大利亚人，以明确的角色取代受伤的射手诺贝尔·门迪（ Nobel Mendy ）。“我知道" data-title="尽管飞速崛起，卢卡斯·赫林顿仍留在赫尔城：“这太疯狂了”" data-date="09-04 14:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-04 14:00</span>
-          <span class="news-item-title">尽管飞速崛起，卢卡斯·赫林顿仍留在赫尔城：“这太疯狂了”</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/04/premier-league-10-things-to-look-out-for-this-weekend" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Florian Wirtz has a chance to shine, there’s a Red Bull reunion on Tyneside and Chelsea face litmus test at ArsenalFlorian Wirtz is easing himself into his second season at Liverpool after a forgettable first. There were signs of promise against Nottingham Forest, where he set up the second equaliser and would have had a goal of his own if not for" data-title="英超联赛：本周末需要注意的 10 件事" data-date="09-04 07:01" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-04 07:01</span>
-          <span class="news-item-title">英超联赛：本周末需要注意的 10 件事</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c62j5lkjg74o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC 体育足球专家 Chris Sutton 与 Kasabian 主唱 Serge Pizzorno 以及 BBC 读者和 AI 进行了对本周末英超联赛比赛的预测。" data-title="萨顿对 Kasabian 主唱 Serge Pizzorno 的预测" data-date="09-04 03:58" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 03:58</span>
-          <span class="news-item-title">萨顿对 Kasabian 主唱 Serge Pizzorno 的预测</span>
-        </a>
-        <a class="news-item" href="https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="职业足球队的首席技术官指出“博通收购存在问题”。" data-title="VMware 迁移将托特纳姆热刺队的许可费用降低了 85%" data-date="09-04 02:58" data-source="Ars Technica">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-arstechnica">🔬 Ars Technica</span>
-          <span class="news-item-date">09-04 02:58</span>
-          <span class="news-item-title">VMware 迁移将托特纳姆热刺队的许可费用降低了 85%</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">📰</span>
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
-      <span class="news-category-count">13 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-reasonable-doubt.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="“排除合理怀疑”是美国法律体系中最高的举证责任。尽管如此，仍有一些回旋余地。" data-title="如何定义合理怀疑中的“合理”" data-date="09-04 23:44" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 23:44</span>
-          <span class="news-item-title">如何定义合理怀疑中的“合理”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="最近占领的战略山脊进一步巩固了以色列对黎巴嫩领土的占领，调解持久和平的努力陷入困境。" data-title="以色列表示正在巩固其在黎巴嫩南部的立足点" data-date="09-04 23:25" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 23:25</span>
-          <span class="news-item-title">以色列表示正在巩固其在黎巴嫩南部的立足点</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/politics/iran-war-intelligence-reports.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新的情报报告评估称，伊朗现在对其能力和美国实力的局限性有了更好的了解。" data-title="在与美国六个月的战争后，伊朗变得更加自信" data-date="09-04 23:21" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 23:21</span>
-          <span class="news-item-title">在与美国六个月的战争后，伊朗变得更加自信</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690740.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新华社西藏吉隆9月3日电 记者手记：吉隆口岸的迷彩守护" data-title="记者手记：吉隆口岸的迷彩守护" data-date="09-04 23:20" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690906.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="9月5日，江西省遂川县高坪镇明坑村石下组发生泥石流和山体滑坡，应急管理部立即调度部署抢险救援工作，要求全力搜救被困人员，核实核清伤亡失联人数，就近调派通信保障、工程抢险等队伍装备，尽快组织救援人员挺进灾区，加强水文、地质灾害监测预警，科学施救，严防次生灾害发生。" data-title="应急管理部调度江西遂川泥石流灾害救援 派出工作组赶赴现场" data-date="09-05 14:14" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 23:20</span>
-          <span class="news-item-title">记者手记：吉隆口岸的迷彩守护</span>
+          <span class="news-item-date">09-05 14:14</span>
+          <span class="news-item-title">应急管理部调度江西遂川泥石流灾害救援 派出工作组赶赴现场</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690731.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社福建莆田9月4日电 题：直击福建莆田抢险：救援清淤不松懈 安置保障暖民心" data-title="直击福建莆田抢险：救援清淤不松懈 安置保障暖民心" data-date="09-04 22:57" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690905.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="记者5日从中国海洋大学获悉，中国工程院院士、中国现代海洋药物学科的开拓者与奠基人、该校原校长管华诗，因病医治无效，于2026年9月4日11时18分在青岛逝世，享年87岁。" data-title="痛别！管华诗逝世" data-date="09-05 14:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:57</span>
-          <span class="news-item-title">直击福建莆田抢险：救援清淤不松懈 安置保障暖民心</span>
+          <span class="news-item-date">09-05 14:11</span>
+          <span class="news-item-title">痛别！管华诗逝世</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/619.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 4 日消息，当地时间 9 月 4 日，2026 世界超级摩托车锦标赛（WSBK）法国站在讷韦尔-马尼库尔赛道展开争夺。本站是本赛季第九站，也是夏休期后的首场比赛。在当天举行的 WorldSSP 超级杆位排位赛中，中国摩托车制造商“张雪机车”的 53 号法国车手瓦伦丁 · 德比斯位列第 1 名，64 号意大利车手费德里科 · 卡里卡苏洛位列第 2 名。IT之家获悉，经过前八站比赛，“张雪机车”已取得六场胜利，目前位列制造商积分榜第三。法国站两回合正赛将分别于当地时间 9 月 5 日和 9 月 6 日举行。" data-title="张雪机车 2026 WSBK 法国站排位赛包揽前二" data-date="09-04 22:54" data-source="IT之家">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690902.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="【2026打卡中国】赣州章贡：千年宋城，何以“活”在今天？" data-title="赣州章贡：千年宋城，何以“活”在今天？" data-date="09-05 14:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 14:02</span>
+          <span class="news-item-title">赣州章贡：千年宋城，何以“活”在今天？</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690878.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社福建连城9月5日电 题：松毛岭祭无名英烈 一碗热粥四代传承" data-title="（长征胜利90周年）松毛岭祭无名英烈 一碗热粥四代传承" data-date="09-05 13:45" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 13:45</span>
+          <span class="news-item-title">（长征胜利90周年）松毛岭祭无名英烈 一碗热粥四代传承</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690876.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社江西庐山9月5日电 题：鄱阳湖退捕渔村多元业态引客来" data-title="（走进中国乡村）鄱阳湖退捕渔村多元业态引客来" data-date="09-05 13:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 13:43</span>
+          <span class="news-item-title">（走进中国乡村）鄱阳湖退捕渔村多元业态引客来</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690897.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="全国入秋进程图出炉！北方多地入秋偏晚 冷空气将推动秋天版图扩张" data-title="全国入秋进程图出炉！北方多地入秋偏晚" data-date="09-05 13:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 13:41</span>
+          <span class="news-item-title">全国入秋进程图出炉！北方多地入秋偏晚</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690874.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社北京9月5日电 (记者 李京泽)记者5日从中国民政部获悉，据不完全统计，目前，西藏吉隆泥石流灾害慈善捐赠已超过6.6亿元人民币；其中，超147万人次通过互联网公开募捐服务平台，向有关公开募捐慈善项目捐赠5016万元。" data-title="中国民政部：西藏吉隆泥石流灾害慈善捐赠超6.6亿元人民币" data-date="09-05 13:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 13:41</span>
+          <span class="news-item-title">中国民政部：西藏吉隆泥石流灾害慈善捐赠超6.6亿元人民币</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/998/737.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 5 日消息，雷神现已在京东上架“Z527F165L”27 英寸显示器，该机支持 5K 165Hz/2K 330Hz 双模，定价为 3599 元，国补后低至 2999 元。京东雷神“Z527F165L”显示器 3599 元直达链接该机配备的 27 英寸 Fast IPS 面板支持以 5120x2880 分辨率 165Hz / 或 2560x1440 分辨率 330Hz 显示（并非带鱼屏显示器的“5K”实为“1440P”套路），最快响应时间 1ms GTG，可视角度 178°/178°，最高亮度 400 尼特，原生静态对比度 1500:1，显示器支持 10-Bit 色彩，覆盖 95% DCI-P3 与 99% sRGB 色域。该机支架支持升降 / 倾斜 / 旋转，显示器本体支持" data-title="雷神推出“Z527F165L”27 英寸显示器：5K 165Hz / 2K 330Hz 双模，3599 元（国补后 2999 元）" data-date="09-05 13:30" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-04 22:54</span>
-          <span class="news-item-title">张雪机车 2026 WSBK 法国站排位赛包揽前二</span>
+          <span class="news-item-date">09-05 13:30</span>
+          <span class="news-item-title">雷神推出“Z527F165L”27 英寸显示器：5K 165Hz / 2K 330Hz 双模，3599 元（国补后 2999 元）</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="8月初，韩国举行的光州双年展因主办单位改动“台湾馆”名称陷入争议。事件曝光后，台湾参展艺术家提出抗议，当地许多艺术家、民众也进行声援。主办单位最终同意恢复使用“台湾馆”，但引起中方不满。" data-title="“究竟是谁在批准什么？”：光州双年展台湾复名、中国退展，改名风波背后的角力" data-date="09-04 22:33" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 22:33</span>
-          <span class="news-item-title">“究竟是谁在批准什么？”：光州双年展台湾复名、中国退展，改名风波背后的角力</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690723.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网崇左9月4日电(吕桂文)受台风“紫檀”影响，广西崇左市宁明县近期遭遇严重洪涝灾害，农业生产损失惨重。洪水退去后，该县及早谋划，迅速行动，多措并举推动灾后复产复种工作，以弥补台风造成的经济损失。" data-title="广西崇左市宁明县多措并举推进灾后农业复产工作" data-date="09-04 22:32" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690890.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="按照《国家自然灾害救助应急预案》，针对近期台风及极端强降雨对福建莆田、宁德等地造成的严重影响，9月5日，国家防减救灾委、应急管理部将针对福建的国家自然灾害救助应急响应级别提升至三级，增派救灾工作组紧急赶赴灾区实地查看灾情，指导和协助地方做好受灾群众基本生活保障及灾后应急恢复等灾害救助工作。" data-title="两部门针对福建提升国家自然灾害救助应急响应级别至三级" data-date="09-05 13:22" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:32</span>
-          <span class="news-item-title">广西崇左市宁明县多措并举推进灾后农业复产工作</span>
+          <span class="news-item-date">09-05 13:22</span>
+          <span class="news-item-title">两部门针对福建提升国家自然灾害救助应急响应级别至三级</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690722.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海9月4日电 (杨硕 李佳佳)第37届上海旅游节大巡游以“上海之约·美好相逢”为主题，近期将在外滩金牛广场启幕。本届大巡游在方队节目编排上首次实现与同期重磅文博展览的IP联动，让文博IP从“展厅”走向“街头”。这是记者4日从第37届上海旅游节经典活动季重点主题活动新闻通气会上获得的信息。" data-title="文博IP从展厅走向街头 上海旅游节经典活动季启幕" data-date="09-04 22:32" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690886.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="何谓科学家？一颗报国心，一身真本事。他们勇攀高峰，接续奋斗，干惊天动地事，做隐姓埋名人。为何选择这份事业？从“两弹一星”元勋到量子科技的领军人，一代代科大人接力续写着科教报国的青春华章。报国无声，迎接着永恒的东风！" data-title="青春华章｜报国无声，迎接着永恒的东风！" data-date="09-05 13:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:32</span>
-          <span class="news-item-title">文博IP从展厅走向街头 上海旅游节经典活动季启幕</span>
+          <span class="news-item-date">09-05 13:02</span>
+          <span class="news-item-title">青春华章｜报国无声，迎接着永恒的东风！</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-04/10690698.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="救援人员组成突击队，徒步翻越密林荆棘，硬生生蹚出一条生命探测线——这“一米”的探索，不是一个人孤身涉险，而是一群人用无畏和执着寻找希望的坐标。" data-title="把脚下的泥泞重新走成路（记者手记）" data-date="09-04 22:05" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690882.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近日，在西藏吉隆口岸受灾核心区，现场工作人员在国旗下轻轻放上几束鲜花，悼念此次泥石流灾害的遇难者。连日来，西藏统筹各方救援力量，同步开展人员搜救、道路抢通、善后处置和风险防范各项工作，目前抢险救援和应急处置工作正在受灾核心区开展。" data-title="西藏吉隆口岸：国旗屹立 信念长存" data-date="09-05 12:53" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:05</span>
-          <span class="news-item-title">把脚下的泥泞重新走成路（记者手记）</span>
+          <span class="news-item-date">09-05 12:53</span>
+          <span class="news-item-title">西藏吉隆口岸：国旗屹立 信念长存</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="欧洲在应对一系列令人不安的阴谋和挑衅方面的选择有限。但出现不可预测后果的可能性正在上升。" data-title="俄罗斯在欧洲的破坏风险：一场失控的战斗" data-date="09-04 17:03" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690881.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="【环球网记者 石丁 朱马烈 许庆瑶报道】百年前，先辈们以青春之我，创建青春之国家、青春之民族。这份跨越时空的青春接力，至今仍在神州大地上激荡回响。回望来路，钱学森、邓稼先、于敏等老一辈科学家，在筚路蓝缕中挺起民族脊梁。“外国人能搞的，难道中国人不能搞？”“国家需要我，我一定全力以赴！”这不仅是历史的铿锵回音，更是中国科技青年代代相传的报国初心与铮铮铁骨。" data-title="青春华章｜这就是中国的模样！从觉醒年代到星辰大海，看中国青年的“硬核”接力" data-date="09-05 12:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 12:51</span>
+          <span class="news-item-title">青春华章｜这就是中国的模样！从觉醒年代到星辰大海，看中国青年的“硬核”接力</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/998/730.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 5 日消息，《东方 Project》制作者“上海爱丽丝幻乐团（ZUN）”现已发布弹幕射击游戏《东方红魔乡：新典 ～ the Embodiment of Scarlet Devil.》发售预告片，本作将于北京时间 9 月 9 日发售，登陆 PS5、Switch 2、PC 平台，支持中文。IT之家获悉，《东方红魔乡：新典》是 2002 年推出的《东方红魔乡 ～ 绯红恶魔的体现》（the Embodiment of Scarlet Devil.）时隔 24 年首次推出的重制版本，玩家将操控博丽灵梦与雾雨魔理沙，在漫天飞舞的弹幕之间穿梭，调查笼罩幻想乡的神秘红雾异变。▲ 注：北京时间 9 月 9 日发售重制版除了将游戏画面升级至高清规格外，官方还对全部游戏 BGM 进行重新编曲，Z" data-title="经典弹幕游戏重制《东方红魔乡：新典》北京时间 9 月 9 日发售：BGM 重新编曲、画面升至高清规格" data-date="09-05 12:48" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-05 12:48</span>
+          <span class="news-item-title">经典弹幕游戏重制《东方红魔乡：新典》北京时间 9 月 9 日发售：BGM 重新编曲、画面升至高清规格</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690837.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="尼泊尔共产党(毛主义中心)前总书记德沃·古隆9月3日在《中国日报》撰文称，尼泊尔此次遭遇泥石流灾害的根源在于气候变化导致的冰川失稳。国际社会应加强跨境监测预警，并由发达国家承担气候责任、加大对发展中国家的资金和技术支持。" data-title="尼共前总书记：西方媒体谣言让冰川灾害“雪上加霜”" data-date="09-05 11:10" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 11:10</span>
+          <span class="news-item-title">尼共前总书记：西方媒体谣言让冰川灾害“雪上加霜”</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/04/us/lindsay-clancy-trial-unanimous-verdicts.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="洪氏陪审团并不常见，但林赛·克兰西谋杀案的审判令人痛苦且极其复杂。" data-title="在像林赛·克兰西这样的复杂案件中，很难达成一致裁决" data-date="09-05 07:47" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 17:03</span>
-          <span class="news-item-title">俄罗斯在欧洲的破坏风险：一场失控的战斗</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c3wj1gd3x9no/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="不少人会配戴追踪器，检测自己的睡眠分数，并用尽方法“睡眠极大化”（sleepmaxxing）。但专家指出，把睡眠游戏化，正导致更多人出现睡眠失调问题。" data-title="执迷于“睡眠分数”如何反让你睡得更差？" data-date="09-04 10:05" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 10:05</span>
-          <span class="news-item-title">执迷于“睡眠分数”如何反让你睡得更差？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c87v19vx721o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="俄罗斯 Telegram 频道利用虚假的强奸消息和乌克兰女性的照片，引诱数百万用户加入亲战宣传网。" data-title="亲俄宣传网络内幕：利用乌克兰女性遭强奸的虚假消息，作引流“诱饵”" data-date="09-04 09:39" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-04 09:39</span>
-          <span class="news-item-title">亲俄宣传网络内幕：利用乌克兰女性遭强奸的虚假消息，作引流“诱饵”</span>
+          <span class="news-item-date">09-05 07:47</span>
+          <span class="news-item-title">在像林赛·克兰西这样的复杂案件中，很难达成一致裁决</span>
         </a>
   </div>
 </div>
@@ -500,4 +566,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-05 00:30（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-05 14:24（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
