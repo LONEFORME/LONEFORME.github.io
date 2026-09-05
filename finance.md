@@ -232,6 +232,12 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690974.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月5日电 布宜诺斯艾利斯消息：阿根廷总统府4日发表声明称，依据总统米莱的指示，阿根廷外交部已启动对45家企业和个人的制裁程序，因上述对象涉嫌在马尔维纳斯群岛(简称马岛，英国称福克兰群岛)及周边争议海域从事油气勘探与开采活动。" data-title="阿根廷就马岛问题启动对45家企业和个人的制裁程序" data-date="09-05 16:45" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 16:45</span>
+          <span class="news-item-title">阿根廷就马岛问题启动对45家企业和个人的制裁程序</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690898.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="秋日喷嚏警告！全国花粉过敏指数地图出炉 看哪里需重点防护" data-title="秋日喷嚏警告！全国花粉过敏指数地图出炉" data-date="09-05 13:43" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -280,12 +286,6 @@ title: 股票财经
           <span class="news-item-date">09-04 19:38</span>
           <span class="news-item-title">哈萨克斯坦央行下调基准利率至16.25%</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690508.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔9月4日电 (记者 金旭)当地时间9月4日，“韩国小记者中国行”在中国驻韩国大使馆举行启程仪式。中国驻韩国大使戴兵、韩中经济文化教育协会理事长申京淑等出席。" data-title="2026年度“韩国小记者中国行”启动" data-date="09-04 19:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 19:21</span>
-          <span class="news-item-title">2026年度“韩国小记者中国行”启动</span>
-        </a>
   </div>
 </div>
 
@@ -299,4 +299,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-05 14:24（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-05 19:21（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
