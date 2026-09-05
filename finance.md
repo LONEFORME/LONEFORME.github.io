@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691171.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网珠海9月5日电 (记者 邓媛雯)9月5日是《横琴粤澳深度合作区建设总体方案》(以下简称《总体方案》)印发满五年的日子。从基础设施“硬联通”到规则机制“软衔接”，从民生公共服务延伸到琴澳产业协同布局，横琴正以“澳门+横琴”的全新实践，把《总体方案》从蓝图变为实景。" data-title="《总体方案》印发五年 琴澳“桃花源”的丰与收" data-date="09-05 23:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 23:17</span>
+          <span class="news-item-title">《总体方案》印发五年 琴澳“桃花源”的丰与收</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691167.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月5日电 (张文晖)在日光缓缓流转间，上万面镜面依次调整俯仰角度，高塔之下光影不断变换。这并非自然造化的奇景，而是新能源基地的作业实景，233米高的光热电站吸热塔与19667面高精度定日镜，共同演绎光热电站追光聚能的运行过程。" data-title="荒原追光！零下37℃的松嫩平原如何攻克光热发电难题？" data-date="09-05 23:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 23:14</span>
+          <span class="news-item-title">荒原追光！零下37℃的松嫩平原如何攻克光热发电难题？</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691161.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月5日电(付敬懿)以“粮安天下聚合力、产销融通促发展”为主题的第八届中国粮食交易大会5日在湖南长沙开幕。大会聚焦粮食产购储加销全链条协同，促进粮食产销协作，助推粮食产业升级，深化粮食领域国际合作，吸引3100余家企业参展、2万余名行业人员参会，共话粮食产业发展新机遇。" data-title="产购储加销全链条协同 第八届中国粮食交易大会在长沙开幕" data-date="09-05 22:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 22:53</span>
+          <span class="news-item-title">产购储加销全链条协同 第八届中国粮食交易大会在长沙开幕</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10691153.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆9月5日电 (梁钦卿)“我油门可以拉到多少？”台湾知名时事评论员赖岳谦5日走进位于重庆的宗申产业集团，坐在一台宗申机车上问道。" data-title="赖岳谦夫妇参访重庆摩托产业：两岸携手能把产业做大做强" data-date="09-05 22:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 22:28</span>
+          <span class="news-item-title">赖岳谦夫妇参访重庆摩托产业：两岸携手能把产业做大做强</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691152.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳9月5日电 题：中外代表讲述：产业融合架起亚太“连心桥”" data-title="中外代表讲述：产业融合架起亚太“连心桥”" data-date="09-05 22:19" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-05 22:19</span>
+          <span class="news-item-title">中外代表讲述：产业融合架起亚太“连心桥”</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690974.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月5日电 布宜诺斯艾利斯消息：阿根廷总统府4日发表声明称，依据总统米莱的指示，阿根廷外交部已启动对45家企业和个人的制裁程序，因上述对象涉嫌在马尔维纳斯群岛(简称马岛，英国称福克兰群岛)及周边争议海域从事油气勘探与开采活动。" data-title="阿根廷就马岛问题启动对45家企业和个人的制裁程序" data-date="09-05 16:45" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -262,30 +292,6 @@ title: 股票财经
           <span class="news-item-date">09-04 23:58</span>
           <span class="news-item-title">特朗普威胁要停止部分贸易，除非美联储降息</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-04/10690736.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州9月4日电 (记者 王坚)“百万英才汇南粤”是广东启动实施的高规格招才引智行动计划，“粤就业”作为“百万英才汇南粤”行动省级平台，以数字化手段，为高校毕业生和各类人才搭建起高效便捷的线上对接渠道。目前，“粤就业”累计发布“百万英才汇南粤”招聘活动超2000场次，线上平台参加招聘企业累计超4.6万家，归集岗位超247万个。" data-title="广东数字化赋能就业服务 打通求职服务“最后一公里”" data-date="09-04 22:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 22:58</span>
-          <span class="news-item-title">广东数字化赋能就业服务 打通求职服务“最后一公里”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690675.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡9月4日电 (记者 刘育英)受跨境烟霾及持续干燥天气影响，马来西亚沙捞越州空气质量4日进一步恶化。西连省空气污染指数(API)当天上午突破500，处于危险级别，达到可申报烟霾紧急状态的行动阈值。马来西亚最高元首易卜拉欣批准西连进入紧急状态。" data-title="马来西亚西连空气污染指数超500进入紧急状态" data-date="09-04 21:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 21:50</span>
-          <span class="news-item-title">马来西亚西连空气污染指数超500进入紧急状态</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690581.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月4日电 (记者 李映民)泰国政府4日召开数据中心产业政策委员会工作会议，决定在相关监管标准明确前，暂缓在建数据中心项目施工及待审批项目许可。" data-title="泰国暂缓数据中心项目建设及审批" data-date="09-04 20:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 20:55</span>
-          <span class="news-item-title">泰国暂缓数据中心项目建设及审批</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-04/10690554.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳9月4日电 (记者 单璐)哈萨克斯坦国家银行(央行)货币政策委员会4日宣布下调基准利率50个基点至16.25%。这是哈央行今年以来第三次降息。" data-title="哈萨克斯坦央行下调基准利率至16.25%" data-date="09-04 19:38" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-04 19:38</span>
-          <span class="news-item-title">哈萨克斯坦央行下调基准利率至16.25%</span>
-        </a>
   </div>
 </div>
 
@@ -299,4 +305,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-05 19:21（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-05 23:22（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
