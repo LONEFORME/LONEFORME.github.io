@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+39.9 亿</span>
+      <span class="sector-flow-badge">+46.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+44.7 亿</span>
+      <span class="sector-flow-badge">+47.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+46.8 亿</span>
+      <span class="sector-flow-badge">+34.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+52.7 亿</span>
+      <span class="sector-flow-badge">+25.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,67 +230,19 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">2 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691171.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网珠海9月5日电 (记者 邓媛雯)9月5日是《横琴粤澳深度合作区建设总体方案》(以下简称《总体方案》)印发满五年的日子。从基础设施“硬联通”到规则机制“软衔接”，从民生公共服务延伸到琴澳产业协同布局，横琴正以“澳门+横琴”的全新实践，把《总体方案》从蓝图变为实景。" data-title="《总体方案》印发五年 琴澳“桃花源”的丰与收" data-date="09-05 23:17" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691361.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月6日电 (付敬懿)中哈粮食企业见面交流会5日在湖南长沙举行。会上，由国家粮食和物资储备局粮食交易协调中心和哈萨克斯坦国家粮食贸易集团共同建设的中哈粮食交易平台正式上线运行，标志着两国粮食贸易合作迈向数字化的新阶段。" data-title="中哈粮食交易平台正式上线运行" data-date="09-06 14:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 23:17</span>
-          <span class="news-item-title">《总体方案》印发五年 琴澳“桃花源”的丰与收</span>
+          <span class="news-item-date">09-06 14:16</span>
+          <span class="news-item-title">中哈粮食交易平台正式上线运行</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691167.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月5日电 (张文晖)在日光缓缓流转间，上万面镜面依次调整俯仰角度，高塔之下光影不断变换。这并非自然造化的奇景，而是新能源基地的作业实景，233米高的光热电站吸热塔与19667面高精度定日镜，共同演绎光热电站追光聚能的运行过程。" data-title="荒原追光！零下37℃的松嫩平原如何攻克光热发电难题？" data-date="09-05 23:14" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691350.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳9月6日电 (记者 许青青)在5日举行的亚太媒体高端论坛上，广州中医药大学党委书记陈文锋在“亚太故事会——文明互鉴故事”环节介绍了该校在中医药传承创新与产业融合方面的实践探索，为APEC成员经济体发展本土传统医药提供来自中国的实践样本。" data-title="广州中医药大学提出中医药传承创新与产业融合实践方案" data-date="09-06 13:45" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 23:14</span>
-          <span class="news-item-title">荒原追光！零下37℃的松嫩平原如何攻克光热发电难题？</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691161.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月5日电(付敬懿)以“粮安天下聚合力、产销融通促发展”为主题的第八届中国粮食交易大会5日在湖南长沙开幕。大会聚焦粮食产购储加销全链条协同，促进粮食产销协作，助推粮食产业升级，深化粮食领域国际合作，吸引3100余家企业参展、2万余名行业人员参会，共话粮食产业发展新机遇。" data-title="产购储加销全链条协同 第八届中国粮食交易大会在长沙开幕" data-date="09-05 22:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 22:53</span>
-          <span class="news-item-title">产购储加销全链条协同 第八届中国粮食交易大会在长沙开幕</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10691153.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆9月5日电 (梁钦卿)“我油门可以拉到多少？”台湾知名时事评论员赖岳谦5日走进位于重庆的宗申产业集团，坐在一台宗申机车上问道。" data-title="赖岳谦夫妇参访重庆摩托产业：两岸携手能把产业做大做强" data-date="09-05 22:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 22:28</span>
-          <span class="news-item-title">赖岳谦夫妇参访重庆摩托产业：两岸携手能把产业做大做强</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10691152.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳9月5日电 题：中外代表讲述：产业融合架起亚太“连心桥”" data-title="中外代表讲述：产业融合架起亚太“连心桥”" data-date="09-05 22:19" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 22:19</span>
-          <span class="news-item-title">中外代表讲述：产业融合架起亚太“连心桥”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690974.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月5日电 布宜诺斯艾利斯消息：阿根廷总统府4日发表声明称，依据总统米莱的指示，阿根廷外交部已启动对45家企业和个人的制裁程序，因上述对象涉嫌在马尔维纳斯群岛(简称马岛，英国称福克兰群岛)及周边争议海域从事油气勘探与开采活动。" data-title="阿根廷就马岛问题启动对45家企业和个人的制裁程序" data-date="09-05 16:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 16:45</span>
-          <span class="news-item-title">阿根廷就马岛问题启动对45家企业和个人的制裁程序</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-05/10690898.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="秋日喷嚏警告！全国花粉过敏指数地图出炉 看哪里需重点防护" data-title="秋日喷嚏警告！全国花粉过敏指数地图出炉" data-date="09-05 13:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 13:43</span>
-          <span class="news-item-title">秋日喷嚏警告！全国花粉过敏指数地图出炉</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-05/10690875.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社浙江湖州9月5日电 题：台青浙江深耕银发事业 用心相伴让养老有温度" data-title="台青浙江深耕银发事业  用心相伴让养老有温度" data-date="09-05 13:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 13:42</span>
-          <span class="news-item-title">台青浙江深耕银发事业  用心相伴让养老有温度</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-05/10690826.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“连接，从来不只是道路和贸易。它也是一种文化与另一种文化的相遇。”“只要我们保持连接，世界就会不断前进。”9月2日，在陕西省安康市举办的Keeping the World Moving 不断链的世界——共建“一带一路”融媒体传播项目启动仪式上，来自韩国的博主许多𬘡、法国博主卫墨心，以及墨西哥博主美洁分享了她们在中国生活、旅行中的所见所感，也讲述了各自眼中的“不断链”。" data-title="外籍博主走进安康 感受秦巴山水与世界相连" data-date="09-05 10:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-05 10:48</span>
-          <span class="news-item-title">外籍博主走进安康 感受秦巴山水与世界相连</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统表示，如果中央银行不服从他的命令，他可以停止美国与存在贸易逆差的国家之间的贸易。" data-title="特朗普威胁要停止部分贸易，除非美联储降息" data-date="09-04 23:58" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-04 23:58</span>
-          <span class="news-item-title">特朗普威胁要停止部分贸易，除非美联储降息</span>
+          <span class="news-item-date">09-06 13:45</span>
+          <span class="news-item-title">广州中医药大学提出中医药传承创新与产业融合实践方案</span>
         </a>
   </div>
 </div>
@@ -305,4 +257,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-05 23:22（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-06 14:34（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
