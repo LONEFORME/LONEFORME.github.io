@@ -1578,5 +1578,665 @@
     "feed_name": "纽约时报",
     "summary": "从俄勒冈州到佛罗里达州，官员们立即向选民保证他们的选票是安全的，并鼓励他们使用投递箱或亲自投票。",
     "published_dt_iso": "2026-09-06T17:01:56+08:00"
+  },
+  {
+    "title": "没有电源连接器的单插槽薄型 75W RTX 3060 在测试中令人失望 - GPU 完全依靠 PCIe 插槽运行，但性能严重受损且散热令人恐惧",
+    "link": "https://www.tomshardware.com/pc-components/gpus/single-slot-low-profile-75w-rtx-3060-with-no-power-connectors-disappoints-in-tests-gpu-runs-entirely-off-the-pcie-slot-but-offers-severely-crippled-performance-and-frightening-thermals",
+    "date": "2026-09-06",
+    "published_time": "22:58",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "如果您想将 12GB RTX 3060 的性能降低一半，同时降低散热性能，那么这可能是您的完美产品。",
+    "published_dt_iso": "2026-09-06T22:58:29+08:00"
+  },
+  {
+    "title": "OpenAI 在其代理被发现使用编程中心进行通信后承认发生了“维基事件”——表示需要提高关于错位的透明度",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments",
+    "date": "2026-09-06",
+    "published_time": "22:31",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "OpenAI承认，其实验性人工智能代理使用开放的德国编程维基进行通信。",
+    "published_dt_iso": "2026-09-06T22:31:54+08:00"
+  },
+  {
+    "title": "FSP Mega GM 1200W电源评测：悄然超越自家金标的全汉自研平台",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/fsp-mega-gm-1200w-power-supply-review",
+    "date": "2026-09-06",
+    "published_time": "21:57",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "FSP Mega GM 1200W 电源具有白金级效率、全日本电容器组以及 1200W 设备中罕见的紧凑占地面积。",
+    "published_dt_iso": "2026-09-06T21:57:18+08:00"
+  },
+  {
+    "title": "比特币挖矿数据中心因泄漏 300 万加仑水并迫使学校关闭而受到谴责——该设施在城市停工令下运营多年",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order",
+    "date": "2026-09-06",
+    "published_time": "21:44",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "俄克拉荷马州埃尔里诺市的一个比特币挖矿数据中心因泄漏 300 万加仑的水而受到谴责。",
+    "published_dt_iso": "2026-09-06T21:44:22+08:00"
+  },
+  {
+    "title": "三星 990 2TB PCIe 4.0 SSD 在亚马逊上跌至 339.99 美元——190 美元折扣让大容量存储更实惠",
+    "link": "https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-pcie-4-0-ssd-falls-to-usd339-99-on-amazon-usd190-discount-makes-high-capacity-storage-more-affordable",
+    "date": "2026-09-06",
+    "published_time": "21:08",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "三星 2TB 990 为游戏提供充足的快速存储空间，目前比常规价格 529.99 美元便宜 190 美元。",
+    "published_dt_iso": "2026-09-06T21:08:31+08:00"
+  },
+  {
+    "title": "微星MEG CoreLiquid E15 360一体机评测：大胆惊艳，有市场",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/msi-meg-coreliquid-e15-360-aio-review-bold-and-stunning-with-market-leading-performance",
+    "date": "2026-09-06",
+    "published_time": "20:48",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "微星的 MEG CoreLiquid E15 360 AIO 是一款豪华散热产品，拥有令人惊叹的 6.7 英寸屏幕和业界领先的散热性能。",
+    "published_dt_iso": "2026-09-06T20:48:03+08:00"
+  },
+  {
+    "title": "在实体媒体的强烈反对下，CD 和黑胶唱片的销量强劲复苏——2026 年上半年美国“复古媒体”的销量分别增长了 59% 和 18%",
+    "link": "https://www.tomshardware.com/service-providers/streaming/sales-of-cd-and-vinyl-music-sees-strong-resurgence-amid-physical-media-backlash-us-sales-of-retro-media-were-up-59-percent-and-18-percent-respectively-in-h1-2026",
+    "date": "2026-09-06",
+    "published_time": "20:16",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "美国唱片业协会 (RIAA) 报告称，在黑胶唱片增长 17.7% 和 CD 增长 58.6% 的推动下，音乐行业实体收入在 2026 年上半年增长了 25.9%。",
+    "published_dt_iso": "2026-09-06T20:16:13+08:00"
+  },
+  {
+    "title": "OpenAI代理讨论了在公共wiki上逃离沙箱的方法",
+    "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+    "date": "2026-09-05",
+    "published_time": "06:17",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "总共有3,700名内部代理发布了18,000条消息，讨论在测试中作弊的问题。",
+    "published_dt_iso": "2026-09-05T06:17:36+08:00"
+  },
+  {
+    "title": "“真正的赤字是信任，而不是功能” ： VMware试图安抚中小企业",
+    "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "date": "2026-09-05",
+    "published_time": "01:35",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Broadcom 承认它“过于关注 VCF”。",
+    "published_dt_iso": "2026-09-05T01:35:02+08:00"
+  },
+  {
+    "title": "美国参议员对哪个VPN是正确的感到困惑，向国家安全局寻求指导",
+    "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+    "date": "2026-09-04",
+    "published_time": "03:52",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "开源、商业、单跳、多跳、mixnet ？一系列选项令人眼花缭乱。",
+    "published_dt_iso": "2026-09-04T03:52:06+08:00"
+  },
+  {
+    "title": "VMware迁移将Tottenham Hotspur的许可费降低了85%",
+    "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "date": "2026-09-04",
+    "published_time": "02:58",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "职业足球队的首席技术官指出了“博通收购问题”。",
+    "published_dt_iso": "2026-09-04T02:58:31+08:00"
+  },
+  {
+    "title": "我租了一辆车，几个小时后，我的驾驶执照就要出售了",
+    "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "date": "2026-09-03",
+    "published_time": "04:32",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "据报道，联邦调查局正在调查实时发生的大规模数据泄露事件。",
+    "published_dt_iso": "2026-09-03T04:32:02+08:00"
+  },
+  {
+    "title": "BGP劫持由一连串根本不好笑的错误引起的感染网络",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "从BGP劫持中毒的生产软件中，我们可以学到什么？很多。",
+    "published_dt_iso": "2026-09-02T19:00:43+08:00"
+  },
+  {
+    "title": "在安装此设备之前，请三思而后行，有望获得免费电影",
+    "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "date": "2026-09-01",
+    "published_time": "00:33",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "为了换取免费的东西，设备将家庭连接作为代理网络的一部分。",
+    "published_dt_iso": "2026-09-01T00:33:38+08:00"
+  },
+  {
+    "title": "Fairphone 6 Plus是我们迫切需要的中端手机",
+    "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+    "date": "2026-09-06",
+    "published_time": "21:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Fairphone 6 Plus感觉像是一款非常普通的中端Android手机，我非常激动。这项任务一直令人钦佩。Fairphone寻求道德来源的材料，并为其设备提供高度的可维修性。但手机本身需要做出很多牺牲，比如容忍处理器性能不足[…]",
+    "published_dt_iso": "2026-09-06T21:00:00+08:00"
+  },
+  {
+    "title": "口袋妖怪竞技现已登陆手机，但你仍需要 Switch 才能成为冠军",
+    "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+    "date": "2026-09-06",
+    "published_time": "21:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "要开始 Pokémon 竞技对战，您只需要手机即可。但要参加最高级别的比赛，例如神奇宝贝世界锦标赛，您将需要 Switch。而且似乎没有充分的理由。战斗模拟器 Pokémon Champion 最初在 Switch 和 Switch 2 上推出 [...]",
+    "published_dt_iso": "2026-09-06T21:00:00+08:00"
+  },
+  {
+    "title": "DIY插电式太阳能在美国获得发展势头",
+    "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+    "date": "2026-09-06",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "这是《The Stepback》，一份每周简讯，详细介绍了科技界的一个重要故事。有关电动自行车、发电站以及如何在任何地方工作的更多信息，请关注 Thomas Ricker。 《Stepback》将于美国东部时间上午 8 点到达我们订阅者的收件箱。在此处选择加入“后退”。它是如何开始的 深吸一口气，我采取了 [...]",
+    "published_dt_iso": "2026-09-06T20:00:00+08:00"
+  },
+  {
+    "title": "内容创作者失手",
+    "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+    "date": "2026-09-05",
+    "published_time": "22:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "本周早些时候，在今年美国网球公开赛上，大坂直美对阵阿纳斯塔西娅·扎哈罗娃的比赛中，豪华套房里一群挥舞着环形灯的网红造成了足够的干扰，裁判暂停了比赛，并多次要求他们安静下来。在美国网球协会比利·吉恩·金国家网球赛的其他地方 […]",
+    "published_dt_iso": "2026-09-05T22:00:16+08:00"
+  },
+  {
+    "title": "具身ICL来了创业玩家！上下文成Scaling新赛道",
+    "link": "https://www.qbitai.com/2026/09/484897.html",
+    "date": "2026-09-06",
+    "published_time": "19:44",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "让机器人学会利用更长的多模态Context",
+    "published_dt_iso": "2026-09-06T19:44:21+08:00"
+  },
+  {
+    "title": "古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代",
+    "link": "https://www.ithome.com/0/999/045.htm",
+    "date": "2026-09-06",
+    "published_time": "23:21",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，苹果公司于 9 月 1 日换帅迈入“特努斯时代”，约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而库克同日转任董事会执行主席。苹果公司将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“亮新篇，来耀眼”（Surprise and shine），这将是约翰 · 特努斯接任苹果 CEO 后的首场发布会。IT之家注意到，彭博社的马克 · 古尔曼（Mark Gurman）今晚发文透露，库克将会出现在苹果秋季发布会现场，但他本人不会在活动视频中出镜。苹果一直在精心布局这场交接，意在让约翰 · 特努斯成为折叠屏 iPhone 及后续所有新品的核心代言人。如果此时让库克在发布",
+    "published_dt_iso": "2026-09-06T23:21:29+08:00"
+  },
+  {
+    "title": "古尔曼：苹果考虑调整 App Store 以提高收入和利润率",
+    "link": "https://www.ithome.com/0/999/044.htm",
+    "date": "2026-09-06",
+    "published_time": "23:03",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，据彭博社记者马克 · 古尔曼最新一期《Power On》时事通讯透露，苹果据称正在考虑对 App Store 进行一些调整，目标是进一步提高这一平台带来的收入。目前还不清楚苹果究竟计划对 App Store 做出哪些改变。古尔曼表示，苹果希望“想办法提高利润率，并从这一平台榨取更多持续性收入”，而这项工作主要由苹果新任 CEO 约翰 · 特努斯和现任服务业务高级副总裁埃迪 · 库伊推动。据称，这项计划也是苹果长期高管菲尔 · 席勒上周离职的原因之一。席勒在 2020 年卸任苹果全球营销高级副总裁一职后，转任苹果 Fellow（苹果院士），其职责之一就是负责 App Store。不过，席勒似乎并不赞成这一想法。古尔曼写道，席勒认为，这类举措只会进一步激怒开发者和政",
+    "published_dt_iso": "2026-09-06T23:03:28+08:00"
+  },
+  {
+    "title": "三星电子 DX 部门工会不满与其他部门薪酬差距，将在会长李在镕住宅前集会抗议",
+    "link": "https://www.ithome.com/0/999/043.htm",
+    "date": "2026-09-06",
+    "published_time": "22:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，据韩联社昨日报道，三星电子同行工会宣布，将在三星电子会长李在镕的住宅前举行集会，抗议内部薪酬差距。该工会主要由负责智能手机、家电等终端产品的 DX 部门员工组成。业内人士于 9 月 5 日透露，同行工会计划从 18 日开始，在首尔龙山区李在镕住宅附近持续举行集会及单人示威。同行工会相关负责人接受采访时表示：“我们不设截止期限，计划长期抗争。在未能获批集会申报的日子里，将通过单人示威的形式继续进行。”IT之家注意到，同行工会指出，在今年 5 月三星电子劳资双方达成的薪资协议中，DX 部门被边缘化，其薪酬水平与负责半导体业务的 DS 部门存在过大差距。基于此，同行工会提出了以下诉求：向 DX 部门员工每人发放 1,000 股公司股票；提取全公司一定比例的经营利润，设",
+    "published_dt_iso": "2026-09-06T22:43:13+08:00"
+  },
+  {
+    "title": "诡异又倒胃口：AI 食物图片攻占餐厅菜单，让消费者食欲全无",
+    "link": "https://www.ithome.com/0/999/042.htm",
+    "date": "2026-09-06",
+    "published_time": "22:37",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，据卫报报道，午休期间，吉尔 · 森内特看到了一些让她完全提不起食欲的东西，于是忍不住分享给自己在 X 平台上的 2.6 万名粉丝：一家牙买加烧烤快闪餐厅使用人工智能生成的菜单图片，里面的肉看起来像是一条条皮带，上面还爬满了细小的甲虫。这些图片随后被 500 多人转发，许多人同样表达了厌恶之情。现年 37 岁、居住在丹佛的护士森内特表示，吃饭“是人类最基本的体验之一”。她说：“我认为，餐厅开始采用这种恐怖、诡异又让人毫无食欲的食物图片，是一种不好的文化现象。”不过，森内特最终还是点了鸡肉和芝士通心粉。这家餐厅是她午餐时为数不多的选择之一，而且她以前也在那里吃过饭。如今，越来越多消费者开始在餐厅菜单和营销材料中看到 AI 生成的食物图片。很多食客认为，这些图片既不诱",
+    "published_dt_iso": "2026-09-06T22:37:44+08:00"
+  },
+  {
+    "title": "小米卢伟冰预告明晚发布会有惊喜，雷军讲全场",
+    "link": "https://www.ithome.com/0/999/041.htm",
+    "date": "2026-09-06",
+    "published_time": "22:30",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，小米集团合伙人、总裁卢伟冰今晚发文称：“彩排结束，内容很丰富，还有惊喜。”此外，他还在评论区透露本次发布会不会登场，雷军将讲全场。IT之家注意到，小米秋季旗舰新品发布会将于 9 月 7 日晚 7 点举行，小米澎程 N70 Pro、N70 Max、N90 Max 正式上市。同场发布的，还有两款旗舰新品：小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max，首发玄戒 O3 AI 旗舰处理器。雷军此前透露，这次的发布会是小米科技创新的一次集中展示，时间估计有点长，会努力控制在 2 小时 45 分钟以内。主要产品中，今年 7 月 30 日，小米举行了澎程技术发布会，澎程 N90 Max 预售价为 29.99 万元；澎程 N70 Max 预售价为 25.",
+    "published_dt_iso": "2026-09-06T22:30:11+08:00"
+  },
+  {
+    "title": "长安汽车响应《汽车行业境外竞争行为与合规建设指引》：将以更高标准推进海外合规建设",
+    "link": "https://www.ithome.com/0/999/040.htm",
+    "date": "2026-09-06",
+    "published_time": "22:20",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，9 月 1 日，商务部、工业和信息化部、市场监管总局三部门发布《汽车行业境外竞争行为与合规建设指引》。《汽车行业境外竞争行为与合规建设指引》为从事国际化生产经营活动的中国汽车行业企业在境外发生的市场竞争等生产经营行为提供参照，重点围绕汽车行业企业海外营销等竞争行为，以及境外安全生产、质量管理、劳动保障、数据安全等合规建设，提出一般性指引，供企业参考。IT之家注意到，长安汽车于 9 月 4 日宣布，合规不是成本，而是可持续发展的竞争力。未来，长安汽车将以更高标准推进海外合规建设，为中国汽车品牌在全球市场稳行致远筑能力基石。截至IT之家发文，比亚迪、奇瑞、赛力斯、吉利控股、长城汽车、广汽集团等车企均已发文回应《汽车行业境外竞争行为与合规建设指引》。",
+    "published_dt_iso": "2026-09-06T22:20:36+08:00"
+  },
+  {
+    "title": "联想来酷 Air 16 酷睿版笔记本开启预约，国补到手价 3314.15 元起",
+    "link": "https://www.ithome.com/0/999/039.htm",
+    "date": "2026-09-06",
+    "published_time": "22:11",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，联想来酷 Air 16 酷睿版笔记本今日开启预约，9 月 10 日 20:00 正式开售，国补到手价 3314.15 元起。据介绍，该产品约 1.28kg 轻盈全金属机身，超薄约 13.3mm，采用 16 英寸黄金尺寸，提供凝霜银、暮霞紫、涧云蓝配色，支持 3 挡背光调节、1.2mm 键程。该产品搭载第三代英特尔酷睿处理器，Intel 18A 领先制程，功耗降低 64%，网页浏览性能提升 45%。该产品拥有约 17.8 小时超长办公续航，支持 65W PD 便携适配器。产品配备 16:10 高清屏幕，支持 300nits 亮度 (典型值)、100% sRGB (典型值)、DC 调光无频闪。IT之家整理价格信息如下：凝霜银Core3 304+12GB+512GB ",
+    "published_dt_iso": "2026-09-06T22:11:29+08:00"
+  },
+  {
+    "title": "AI 短剧爆发带火“人脸授权”，普通人数字肖像价格约每部 100 元",
+    "link": "https://www.ithome.com/0/999/037.htm",
+    "date": "2026-09-06",
+    "published_time": "22:06",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 6 日消息，据央视财经报道，随着 AI 短剧、数字广告产业快速扩张，数字人脸素材采购需求持续高涨。一门特殊的生意 ——“人脸授权”也因此火了起来。不用出镜拍戏、无需线下试镜，依靠自己的面部形象就能赚取收益。IT之家从报道获悉，平台工作人员表示，根据授权人不同，AI 数字形象分为普通人和专业演员两大类：普通人的数字肖像按照每部短视频约 100 元付费使用；专业演员则按使用范围和剧集长度定价，价格从 500 元到数千元。采购方可以按年龄、性别、风格挑选并购买使用权。成交后，平台和授权人按比例分成。行业研究机构 Data Eye 的估算数据显示，今年前 5 个月，AI 短剧市场规模已突破 220 亿元，全年有望冲击 400 亿元大关；一季度全行业上线的微短剧中，AI 微短剧占比超",
+    "published_dt_iso": "2026-09-06T22:06:14+08:00"
+  },
+  {
+    "title": "哪个子项目影响最大？埃弗顿 v 曼联 球员评分",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "23:11",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "埃弗顿和曼联球员在希尔狄金森体育场的评分。",
+    "published_dt_iso": "2026-09-06T23:11:29+08:00"
+  },
+  {
+    "title": "阿森纳有超过 20 名球员入围争夺冠军的候选名单",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "03:08",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "资深足球记者萨米·莫克贝尔深入了解了阿森纳今年夏天利用英超冠军头衔并加强阵容的努力。",
+    "published_dt_iso": "2026-09-06T03:08:30+08:00"
+  },
+  {
+    "title": "曼联计划如何与大牌球队竞争",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "05:57",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "主教练迈克尔·卡里克和首席执行官奥马尔·贝拉达一致认为，尽管俱乐部夏季支出相对较低，但曼联仍能取得成功。",
+    "published_dt_iso": "2026-09-06T05:57:48+08:00"
+  },
+  {
+    "title": "三场比赛积七分——赫尔城有望保级吗？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "04:56",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "现在解决生存问题可能还为时过早，但升班马赫尔城已经为自己在英超联赛中提供了完美的平台。",
+    "published_dt_iso": "2026-09-06T04:56:25+08:00"
+  },
+  {
+    "title": "格拉斯纳和威廉姆斯对森林队手球的 VAR 判罚提出异议",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "02:36",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "诺丁汉森林队主教练奥利弗·格拉斯纳和内科·威廉姆斯认为，VAR 不应该排除后卫对阵托特纳姆热刺队的进球。",
+    "published_dt_iso": "2026-09-06T02:36:28+08:00"
+  },
+  {
+    "title": "“不是《足球经理》”——德泽尔比表示热刺队需要时间",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "01:56",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "托特纳姆热刺队在前三场英超比赛中未能取得进球，主教练罗伯托·德泽尔比表示，将他昂贵的球队打造成为一支球队需要时间。",
+    "published_dt_iso": "2026-09-06T01:56:55+08:00"
+  },
+  {
+    "title": "费尔南德斯和恩迪亚耶在曼城首秀中展现出希望的迹象",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "02:04",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "曼城在战胜考文垂的比赛中为价值1.85亿英镑的截止日天才球员提供了英超首秀，而主教练恩佐·马雷斯卡将会很享受他所看到的一切。",
+    "published_dt_iso": "2026-09-06T02:04:38+08:00"
+  },
+  {
+    "title": "富勒姆在连续第三场失利后发出嘘声",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "02:28",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英超联赛在克雷文小屋3-2输给水晶宫后，富勒姆遭到了一些球迷的嘘声。",
+    "published_dt_iso": "2026-09-06T02:28:00+08:00"
+  },
+  {
+    "title": "阿森纳 VS 切尔西：英超联赛",
+    "link": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+    "date": "2026-09-06",
+    "published_time": "23:35",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "酋长球场比赛的每分钟更新 阿森纳在窗口关闭后保持连续性现在第三个进球......希尔迪金森体育场有第二个进球。点击点击点击点击！继续阅读...",
+    "published_dt_iso": "2026-09-06T23:35:35+08:00"
+  },
+  {
+    "title": "埃弗顿 2-2 曼联：英超联赛——事情发生了",
+    "link": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
+    "date": "2026-09-06",
+    "published_time": "23:29",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "伊恩·科佩斯塔克（ Ian Copestake ）说： “从伯肯黑德（ Birkenhead ）到比赛的火车上，埃弗顿球迷对埃弗顿（ Everton ）的转会失败一分钟一分钟地进行了更新，这让埃弗顿（ Everton ）陷入了困境。新业主（未提及闪亮的新体育场）的承诺尚未兑现。叛变就在拐角处（可能在沙丘）。”来自John Ste的意想不到的提议",
+    "published_dt_iso": "2026-09-06T23:29:32+08:00"
+  },
+  {
+    "title": "梅特兰-奈尔斯的绝妙进球帮助埃弗顿对阵曼联",
+    "link": "https://www.theguardian.com/football/2026/sep/06/everton-manchester-united-premier-league-match-report",
+    "date": "2026-09-06",
+    "published_time": "23:22",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "温和地说，埃弗顿在周一以签下安斯利·梅特兰-内尔斯（ Ainsley Maitland-Niles ）结束时，对新右后卫的详尽寻找得到了压倒性的回应。但是，对于这位£ 430万新兵的埃弗顿首次亮相，人们的反应非常积极，因为他惊人的25码罢工几乎在对阵曼联的比赛中最后一脚抢救了一分。迈克尔·卡里克在比赛结束后完全难以置信地擦了擦脸。",
+    "published_dt_iso": "2026-09-06T23:22:16+08:00"
+  },
+  {
+    "title": "赫尔城 0-0 阿斯顿维拉：英超联赛——事实如此",
+    "link": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
+    "date": "2026-09-06",
+    "published_time": "02:33",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "赫尔城延续了他们本赛季不败的开局，在对阵鲁莽的阿斯顿维拉的比赛中连续第三次不失球。 4分钟：赫尔城掌握了一些控球权。 2分钟：杰克逊头球攻门偏出！当马特森从左路传中时，维拉获得了早期机会，杰克逊在赫尔城中后卫之间起身，头球攻门偏出近门柱。继续阅读...",
+    "published_dt_iso": "2026-09-06T02:33:45+08:00"
+  },
+  {
+    "title": "雄心勃勃的赫尔城在平局中力压阿斯顿维拉保持不败",
+    "link": "https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report",
+    "date": "2026-09-06",
+    "published_time": "02:28",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "正如俗话说的那样，赫尔城从来不乏味，事实证明，英超联赛仅仅三场比赛后，对于赫尔城的支持者来说就已经是一场相当精彩的比赛了。开幕日在这里让曼联难堪，上周末又在考文垂取胜，这次当之无愧的一分和连续第三次不失球，让谢尔盖·雅基洛维奇更加相信他的球队能够击败对手。继续阅读...",
+    "published_dt_iso": "2026-09-06T02:28:55+08:00"
+  },
+  {
+    "title": "格拉斯纳声称，在森林队对阵热刺队的比赛中，VAR是“猜测”的",
+    "link": "https://www.theguardian.com/football/2026/sep/05/nottingham-forest-tottenham-premier-league-match-report",
+    "date": "2026-09-06",
+    "published_time": "01:59",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Oliver Glasner argued there was insufficient evidence to disallow Neco Williams’s goal against Tottenham, accusing the video assistant referee Peter Bankes of guessing that the Nottingham Forest defender handled and said ruling it out weakens the officials’ authority. Midway through the second half, Williams stooped to head in on the goalline as Sa",
+    "published_dt_iso": "2026-09-06T01:59:25+08:00"
+  },
+  {
+    "title": "曼城 1-0 考文垂、富勒姆 2-3 水晶宫等：足球时钟——正如所发生的那样",
+    "link": "https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live",
+    "date": "2026-09-06",
+    "published_time": "00:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "埃尔林·哈兰德打进了他在俱乐部的第 300 个进球，而水晶宫的左翼后卫则在克雷文小屋夺得了荣耀。伊利曼·恩迪亚耶本周从埃弗顿加盟后为曼城首发。菲尔·福登退出，曼城另一位大牌球员恩佐·费尔南德斯将加入替补席。考文垂引进伊桑·平诺克和弗兰克·奥涅卡，换下卡莱布·伊伦基和卢姆·查奥纳。继续阅读...",
+    "published_dt_iso": "2026-09-06T00:30:36+08:00"
+  },
+  {
+    "title": "恩佐·勒费点球救回桑德兰客场对阵布伦特福德的比赛",
+    "link": "https://www.theguardian.com/football/2026/sep/05/brentford-sunderland-premier-league-match-report",
+    "date": "2026-09-06",
+    "published_time": "00:14",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "也许真正的救赎是用Panenka得分，但Enzo Le Fée没有足够的钱。1月份他在布伦特福德的达夫丁克是桑德兰本赛季两场最糟糕表现之一的低点，但他在剩下8分钟的时间里从现场转换过来，在两支身体咄咄逼人、训练有素的球队的战斗中赢得了平局，他们必须在其他地方看到混乱，并再次思考",
+    "published_dt_iso": "2026-09-06T00:14:24+08:00"
+  },
+  {
+    "title": "青春华章丨奇瑞董事长幽默回应谁是最强劲对手",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691607.shtml",
+    "date": "2026-09-06",
+    "published_time": "23:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。针对现场有学生提问称“从小草房到世界五百强，这一路上哪个品牌是您最强劲的对手？”奇瑞汽车股份有限公司董事长尹同跃以一席幽默回答，赢得满堂彩。",
+    "published_dt_iso": "2026-09-06T23:31:45+08:00"
+  },
+  {
+    "title": "青春华章丨中国为何要倾尽心力深耕量子信息科技？潘建伟解答",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691605.shtml",
+    "date": "2026-09-06",
+    "published_time": "23:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。中国为什么要倾尽心力深耕量子信息科技？中国科学院院士、中国科学技术大学常务副校长潘建伟在会上表示，因为这一领域是新一轮科技革命和产业变革的关键基石，是关乎国家未来科技主动权的战略必争领域。量子通信守护国家信息安全，量子计算重塑未来算力格局，这不是遥远的科学概念，是国家长远发展的底气。经过三十年不懈努力，中国在量子领域终于实现了从跟跑、并跑到部分领跑的跨越。",
+    "published_dt_iso": "2026-09-06T23:16:56+08:00"
+  },
+  {
+    "title": "青春华章丨马少骅称创造宣纸的人就是当时中国的科学家",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691604.shtml",
+    "date": "2026-09-06",
+    "published_time": "23:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。演员马少骅赞叹：安徽了不起，中国文房四宝安徽占三宝。其中，宣纸的历史有1200多年，也就是在唐朝的时候就有了。他说，宣纸制作有108道工序，“创造宣纸的人，就是当时中国的具有创造性的科学家。”",
+    "published_dt_iso": "2026-09-06T23:15:00+08:00"
+  },
+  {
+    "title": "青春华章丨“国家需要什么，我们就做什么”！中国科研人的这番话，热血又有力量",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691602.shtml",
+    "date": "2026-09-06",
+    "published_time": "22:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。",
+    "published_dt_iso": "2026-09-06T22:51:14+08:00"
+  },
+  {
+    "title": "青春华章丨黄梅戏艺术家韩再芬邀学子学唱黄梅戏",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691600.shtml",
+    "date": "2026-09-06",
+    "published_time": "22:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电 (记者任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。国家级非物质文化遗产项目黄梅戏代表性传承人、中国科学技术大学首位“驻校艺术家”韩再芬邀请学子学唱黄梅戏，并现场表演了一段，引发全场掌声。",
+    "published_dt_iso": "2026-09-06T22:40:35+08:00"
+  },
+  {
+    "title": "青春华章丨孙浩再唱《中华民谣》引全场大合唱",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691598.shtml",
+    "date": "2026-09-06",
+    "published_time": "22:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。 演员、歌手孙浩现场演唱《中华民谣》，“朝花夕拾杯中酒”曲调一出，引发全场大合唱。",
+    "published_dt_iso": "2026-09-06T22:26:29+08:00"
+  },
+  {
+    "title": "青春华章丨“时代楷模”王戟：只要大脑还能思考，我就是科研战场上的战士",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691597.shtml",
+    "date": "2026-09-06",
+    "published_time": "22:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电(记者 任帅 张强 储玮玮) 9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。“时代楷模”、国防科技大学计算机学院研究员王戟感慨道：“如今，我坐着轮椅，继续追逐前沿科技，继续为科技强军努力工作。只要大脑还能思考，我就是科研战场上的战士，只要双手还能敲键盘，我就可以继续冲锋！”王戟感慨道，何其有幸，他能把个人奋斗和国家命运紧紧相连。祖国不会辜负每一个实干者，“同学们，请你们珍惜现在这个伟大的时代。未来你们无论去往何方，请记住四个字‘同频共振’。把自己安放于国家需要之处，路自然越走越宽。”",
+    "published_dt_iso": "2026-09-06T22:01:03+08:00"
+  },
+  {
+    "title": "青春华章丨院士展示三件信物勉励莘莘学子",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-06/10691594.shtml",
+    "date": "2026-09-06",
+    "published_time": "21:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学(简称“中国科大”)举行。中国科学院院士、中国科学技术大学校长常进在会上，用三件信物勉励莘莘学子：一枚重达515克、纯金打造的“两弹一星”功勋奖章；一块粗糙的红砖；一组珍贵照片。常进动情地说，愿学生们像“两弹一星”元勋那样胸怀家国，像烧砖前辈那样自自立自强，和当代中国科大人一起勇攀高峰。(记者 任帅 张强 储玮玮)",
+    "published_dt_iso": "2026-09-06T21:32:29+08:00"
+  },
+  {
+    "title": "刚果（金）婚礼火灾事故遇难人数更正为12人",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-06/10691554.shtml",
+    "date": "2026-09-06",
+    "published_time": "19:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "总台记者当地时间9月6日获悉，刚果(金)政府通报，首都金沙萨5日一婚礼现场发生的火灾事故造成的死亡人数更正为12人，此前地方官员公布的数据为22人。",
+    "published_dt_iso": "2026-09-06T19:47:02+08:00"
+  },
+  {
+    "title": "哈尔滨医科大学迎百年校庆 《发现伍连德》一书重印",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691589.shtml",
+    "date": "2026-09-06",
+    "published_time": "21:08",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月6日电 在哈尔滨医科大学迎来建校100周年之际，中国科学技术出版社近日对16年前出版的《发现伍连德——诺贝尔奖候选人华人第一人》一书首版进行了二次印刷。",
+    "published_dt_iso": "2026-09-06T21:08:50+08:00"
+  },
+  {
+    "title": "西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml",
+    "date": "2026-09-06",
+    "published_time": "20:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社西藏吉隆9月6日电 (记者 赵朗)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，西藏将对吉隆口岸周边灾害风险深入评估，对口岸相关功能恢复等事宜进行深入研究论证。",
+    "published_dt_iso": "2026-09-06T20:49:24+08:00"
+  },
+  {
+    "title": "近1500名中缅运动员齐聚云南瑞丽 以赛畅叙“胞波”情",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml",
+    "date": "2026-09-06",
+    "published_time": "20:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网瑞丽9月6日电 (杨雪梅)6日，2026年瑞丽市首届“瑞丽江杯”系列体育赛事在位于云南省德宏傣族景颇族自治州的瑞丽国际文体中心开幕。来自中缅两国的近1500名运动员齐聚边城瑞丽，以体育赛事为媒，共叙“胞波”情谊。",
+    "published_dt_iso": "2026-09-06T20:48:58+08:00"
+  },
+  {
+    "title": "台风“科罗旺”逐渐远离东海 浙江结束海上防台风应急响应",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691562.shtml",
+    "date": "2026-09-06",
+    "published_time": "20:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州9月6日电 (钱晨菲)6日，浙江省防指发布消息称，根据《浙江省防汛防台抗旱应急预案》，经会商研判，决定于当日15时结束海上防台风应急响应。",
+    "published_dt_iso": "2026-09-06T20:01:28+08:00"
+  },
+  {
+    "title": "江西遂川地质灾害遇难人数增至4人",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691553.shtml",
+    "date": "2026-09-06",
+    "published_time": "19:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新华社南昌9月6日电(记者闵尊涛)6日下午，记者从江西省吉安市遂川县相关部门获悉，左安镇扬芬村地质灾害已找到1名失联人员，已无生命体征。截至目前，遂川县因地质灾害造成的遇难者人数增至4人。此前，遂川县高坪镇明坑村的泥石流和山体滑坡灾害已造成3人遇难，另有9人失联。目前，多方力量仍在现场展开救援。",
+    "published_dt_iso": "2026-09-06T19:45:44+08:00"
+  },
+  {
+    "title": "湖南以“一粒粮食的旅程”展现产业全链条科技创新",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691547.shtml",
+    "date": "2026-09-06",
+    "published_time": "19:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网长沙9月6日电 (付敬懿)第八届中国粮食交易大会5日至7日在湖南长沙举行。作为东道主的湖南以“九州粮仓”主题亮相，其特装展区以创新的展陈设计、沉浸式互动体验和完整产业链呈现，集中亮相一批当代育种成果和高科技储粮装备成果。",
+    "published_dt_iso": "2026-09-06T19:44:40+08:00"
+  },
+  {
+    "title": "西藏吉隆泥石流灾害后 已妥善做好1720名尼籍边民生活保障",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691545.shtml",
+    "date": "2026-09-06",
+    "published_time": "19:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社西藏吉隆9月6日电 (赵朗 李林 贡嘎来松)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，灾害发生后，截至9月5日18时，累计接待家属791人，安置家属640人。当地已妥善做好1720名尼泊尔籍边民的生活保障。",
+    "published_dt_iso": "2026-09-06T19:44:12+08:00"
+  },
+  {
+    "title": "厦门大学智能制造学院成立",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-06/10691546.shtml",
+    "date": "2026-09-06",
+    "published_time": "19:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社厦门9月6日电 (吴冠标)今年是厦门大学建校105周年暨机械工程学科创立100周年，厦门大学智能制造学院6日在厦门成立。",
+    "published_dt_iso": "2026-09-06T19:42:30+08:00"
+  },
+  {
+    "title": "印度洋葱“政治敏感”得要坐上铁路快车",
+    "link": "https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-06",
+    "published_time": "21:17",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "印度洋葱价格急剧飙升，这种家家户户必备食材正被运往主要城市。这个国家生产和消费大量洋葱，而其价格波动历来具有政治影响。",
+    "published_dt_iso": "2026-09-06T21:17:31+08:00"
+  },
+  {
+    "title": "将多纳休将军从赫格塞斯的军队清洗中拯救出来的战斗",
+    "link": "https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html",
+    "date": "2026-09-06",
+    "published_time": "23:19",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "克里斯托弗·T·多纳休将军对未来战争的愿景为他赢得了世界各地的强大支持者。他们能挽救他的职业生涯吗？",
+    "published_dt_iso": "2026-09-06T23:19:21+08:00"
+  },
+  {
+    "title": "孟菲斯赌博袭击如何成为一场席卷移民的行动",
+    "link": "https://www.nytimes.com/2026/09/06/us/memphis-cantina-gambling-raid-immigration.html",
+    "date": "2026-09-06",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "超过 120 人在孟菲斯一家小酒馆被捕，这是田纳西州今年最大的移民行动之一。",
+    "published_dt_iso": "2026-09-06T17:02:22+08:00"
+  },
+  {
+    "title": "对于被解雇的德桑蒂斯竞选工作人员来说，国务院有第二次机会。",
+    "link": "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html",
+    "date": "2026-09-06",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "内特·霍赫曼 (Nate Hochman) 因一段包含纳粹标志的视频引起轩然大波而失去了工作，此次聘用凸显了政府愿意忽视过去的违法行为。",
+    "published_dt_iso": "2026-09-06T17:01:02+08:00"
+  },
+  {
+    "title": "特朗普政府再次要求最高法院允许邮寄投票限制",
+    "link": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
+    "date": "2026-09-06",
+    "published_time": "22:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该文件将总统推动对邮寄投票施加限制的合法性直接摆在法官面前，即使各州开始寄出选票。",
+    "published_dt_iso": "2026-09-06T22:31:14+08:00"
+  },
+  {
+    "title": "新罕布什尔州民主党人敲响警钟：“我们正在失败”",
+    "link": "https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html",
+    "date": "2026-09-06",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "自 2010 年以来，该州还没有选举过共和党参议员。但可能的民主党候选人克里斯·帕帕斯 (Chris Pappas) 预计，与著名对手约翰·E·苏努努 (John E. Sununu) 的竞争将非常激烈。",
+    "published_dt_iso": "2026-09-06T17:01:55+08:00"
   }
 ]

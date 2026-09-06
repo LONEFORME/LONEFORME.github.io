@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-06 19:43 抓取更新</span>
+      <span>2026-09-06 23:35 抓取更新</span>
     </div>
   </div>
 
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-06/10691544.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社广州9月6日电#8195;中央宣传部、中央军委国防动员部联合主办的2026年“全民国防教育月”活动启动仪式9月6日在广东岭南国防教育基地举行。" data-title="2026年“全民国防教育月”活动启动" data-date="09-06 19:35" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-06/10691607.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。针对现场有学生提问称“从小草房到世界五百强，这一路上哪个品牌是您最强劲的对手？”奇瑞汽车股份有限公司董事长尹同跃以一席幽默回答，赢得满堂彩。" data-title="青春华章丨奇瑞董事长幽默回应谁是最强劲对手" data-date="09-06 23:31" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 09-06 19:35</span>
+        <span class="hero-featured-date">🕒 09-06 23:31</span>
       </div>
-      <h2 class="hero-featured-title">2026年“全民国防教育月”活动启动</h2>
+      <h2 class="hero-featured-title">青春华章丨奇瑞董事长幽默回应谁是最强劲对手</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/gn/2026/09-06/10691550.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="央广网合肥9月6日消息(记者徐秋韵)国家重大科技基础设施也被称为大科学装置，是为进行大规模科学研究而建造的大型设施，通常被认为是国家创新高地的重要要素。目前，安徽已建、在建和预研大科学装置数量位居全国前列。" data-title="向新之翼|追“光”逐“日”，探秘合肥未来大科学城" data-date="09-06 19:39" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.ithome.com/0/999/045.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，苹果公司于 9 月 1 日换帅迈入“特努斯时代”，约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而库克同日转任董事会执行主席。苹果公司将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“亮新篇，来耀眼”（Surprise and shine），这将是约翰 · 特努斯接任苹果 CEO 后的首场发布会。IT之家注意到，彭博社的马克 · 古尔曼（Mark Gurman）今晚发文透露，库克将会出现在苹果秋季发布会现场，但他本人不会在活动视频中出镜。苹果一直在精心布局这场交接，意在让约翰 · 特努斯成为折叠屏 iPhone 及后续所有新品的核心代言人。如果此时让库克在发布" data-title="古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代" data-date="09-06 23:21" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">向新之翼|追“光”逐“日”，探秘合肥未来大科学城</p>
+      <p class="hero-sub-title">古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Minute-by-minute updates from the action at Hill Dickinson StadiumTransfer failures leave Everton scrambling | Mail TimAfternoon everyone and welcome to the David Moyes derby. Or is it the Wayne Rooney, Michael Keane, James Garner, Morgan Schneiderlin and not quite Joshua Zirkzee derby?The Premier League prediction posse, both human and automated," data-title="埃弗顿v曼联：英超联赛" data-date="09-06 19:36" data-source="卫报">
+    <a class="hero-sub-card" href="https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="酋长球场比赛的每分钟更新 阿森纳在窗口关闭后保持连续性现在第三个进球......希尔迪金森体育场有第二个进球。点击点击点击点击！继续阅读..." data-title="阿森纳 VS 切尔西：英超联赛" data-date="09-06 23:35" data-source="卫报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-theathletic">🇬🇧 卫报</span>
       </div>
-      <p class="hero-sub-title">埃弗顿v曼联：英超联赛</p>
+      <p class="hero-sub-title">阿森纳 VS 切尔西：英超联赛</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/0/999/020.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 6 日消息，2026 世界超级摩托车锦标赛（WSBK）法国站 WorldSSP 组别次回合正赛今日在法国讷韦尔-马尼库尔赛道举行，比赛进行到还剩 8 圈时一度红旗中断，重新发车后排在第二的张雪机车 53 号车手瓦伦丁 · 德比斯最终完成 5 圈比赛拿下第三名，继第一回合季军登台后本赛季第 8 次登上领奖台。另一位张雪机车车手卡里卡苏洛，以第 8 名的成绩同样带回积分。至此，“张雪机车”完成法国站全部比赛。下一站比赛将于 9 月 25 日至 27 日在意大利克雷莫纳赛道举行。" data-title="2026 WSBK 法国站第二回合，张雪机车德比斯再获季军" data-date="09-06 19:33" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="克里斯托弗·T·多纳休将军对未来战争的愿景为他赢得了世界各地的强大支持者。他们能挽救他的职业生涯吗？" data-title="将多纳休将军从赫格塞斯的军队清洗中拯救出来的战斗" data-date="09-06 23:19" data-source="纽约时报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
       </div>
-      <p class="hero-sub-title">2026 WSBK 法国站第二回合，张雪机车德比斯再获季军</p>
+      <p class="hero-sub-title">将多纳休将军从赫格塞斯的军队清洗中拯救出来的战斗</p>
     </a>
   </div>
 </div>
@@ -103,6 +103,36 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691607.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。针对现场有学生提问称“从小草房到世界五百强，这一路上哪个品牌是您最强劲的对手？”奇瑞汽车股份有限公司董事长尹同跃以一席幽默回答，赢得满堂彩。" data-title="青春华章丨奇瑞董事长幽默回应谁是最强劲对手" data-date="09-06 23:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 23:31</span>
+          <span class="news-item-title">青春华章丨奇瑞董事长幽默回应谁是最强劲对手</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691602.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。" data-title="青春华章丨“国家需要什么，我们就做什么”！中国科研人的这番话，热血又有力量" data-date="09-06 22:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 22:51</span>
+          <span class="news-item-title">青春华章丨“国家需要什么，我们就做什么”！中国科研人的这番话，热血又有力量</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="该文件将总统推动对邮寄投票施加限制的合法性直接摆在法官面前，即使各州开始寄出选票。" data-title="特朗普政府再次要求最高法院允许邮寄投票限制" data-date="09-06 22:31" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-06 22:31</span>
+          <span class="news-item-title">特朗普政府再次要求最高法院允许邮寄投票限制</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691594.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学(简称“中国科大”)举行。中国科学院院士、中国科学技术大学校长常进在会上，用三件信物勉励莘莘学子：一枚重达515克、纯金打造的“两弹一星”功勋奖章；一块粗糙的红砖；一组珍贵照片。常进动情地说，愿学生们像“两弹一星”元勋那样胸怀家国，像烧砖前辈那样自自立自强，和当代中国科大人一起勇攀高峰。(记者 任帅 张强 储玮玮)" data-title="青春华章丨院士展示三件信物勉励莘莘学子" data-date="09-06 21:32" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 21:32</span>
+          <span class="news-item-title">青春华章丨院士展示三件信物勉励莘莘学子</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-06/10691554.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="总台记者当地时间9月6日获悉，刚果(金)政府通报，首都金沙萨5日一婚礼现场发生的火灾事故造成的死亡人数更正为12人，此前地方官员公布的数据为22人。" data-title="刚果（金）婚礼火灾事故遇难人数更正为12人" data-date="09-06 19:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 19:47</span>
+          <span class="news-item-title">刚果（金）婚礼火灾事故遇难人数更正为12人</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691544.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社广州9月6日电#8195;中央宣传部、中央军委国防动员部联合主办的2026年“全民国防教育月”活动启动仪式9月6日在广东岭南国防教育基地举行。" data-title="2026年“全民国防教育月”活动启动" data-date="09-06 19:35" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -163,36 +193,6 @@ title: 热点新闻
           <span class="news-item-date">09-06 17:04</span>
           <span class="news-item-title">随着中期选举的临近，共和党人发现特朗普无法逃脱</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/06/us/elections/trump-mail-in-voting-confusion.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="从俄勒冈州到佛罗里达州，官员们立即向选民保证他们的选票是安全的，并鼓励他们使用投递箱或亲自投票。" data-title="特朗普对邮寄选票的战争让选民感到困惑。这可能就是重点。" data-date="09-06 17:01" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-06 17:01</span>
-          <span class="news-item-title">特朗普对邮寄选票的战争让选民感到困惑。这可能就是重点。</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-06/10691397.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社莫斯科9月6日电 俄罗斯总统助理乌沙科夫6日凌晨召开新闻发布会，通报俄总统普京5日晚在克里姆林宫与美国总统特朗普的特使威特科夫和女婿库什纳的会谈情况。" data-title="俄总统助理：普京重申愿通过政治外交手段解决俄乌冲突" data-date="09-06 15:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 15:49</span>
-          <span class="news-item-title">俄总统助理：普京重申愿通过政治外交手段解决俄乌冲突</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-06/10691396.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社西安9月6日电 题：陕西文学“牵手”乌尔都语 “巴铁”青年跨界传递文化共鸣" data-title="陕西文学“牵手”乌尔都语　“巴铁”青年跨界传递文化共鸣" data-date="09-06 15:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 15:48</span>
-          <span class="news-item-title">陕西文学“牵手”乌尔都语　“巴铁”青年跨界传递文化共鸣</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="随着阿根廷总统米莱承诺为福克兰群岛带来“变革之风”，特朗普会改变他对英国统治的立场吗？" data-title="特朗普取态何以左右福克兰群岛争议" data-date="09-06 15:42" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-06 15:42</span>
-          <span class="news-item-title">特朗普取态何以左右福克兰群岛争议</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691367.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="近期，多地公安、国安部门发布安全提示，手机蓝牙长期保持开启状态暗藏风险。听听公安部门怎么说。" data-title="手机蓝牙别常开 这些窃密手段一定要警惕" data-date="09-06 14:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 14:34</span>
-          <span class="news-item-title">手机蓝牙别常开 这些窃密手段一定要警惕</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -200,95 +200,95 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691550.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="央广网合肥9月6日消息(记者徐秋韵)国家重大科技基础设施也被称为大科学装置，是为进行大规模科学研究而建造的大型设施，通常被认为是国家创新高地的重要要素。目前，安徽已建、在建和预研大科学装置数量位居全国前列。" data-title="向新之翼|追“光”逐“日”，探秘合肥未来大科学城" data-date="09-06 19:39" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/0/999/045.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，苹果公司于 9 月 1 日换帅迈入“特努斯时代”，约翰 · 特努斯（John Ternus）接替蒂姆 · 库克（Tim Cook）出任苹果公司 CEO，而库克同日转任董事会执行主席。苹果公司将于当地时间 9 月 9 日（北京时间 9 月 10 日凌晨 1 点）举行秋季新品发布会，主题为“亮新篇，来耀眼”（Surprise and shine），这将是约翰 · 特努斯接任苹果 CEO 后的首场发布会。IT之家注意到，彭博社的马克 · 古尔曼（Mark Gurman）今晚发文透露，库克将会出现在苹果秋季发布会现场，但他本人不会在活动视频中出镜。苹果一直在精心布局这场交接，意在让约翰 · 特努斯成为折叠屏 iPhone 及后续所有新品的核心代言人。如果此时让库克在发布" data-title="古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代" data-date="09-06 23:21" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-06 23:21</span>
+          <span class="news-item-title">古尔曼：库克不会在苹果秋季发布会视频中出现，现在是特努斯时代</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691605.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。中国为什么要倾尽心力深耕量子信息科技？中国科学院院士、中国科学技术大学常务副校长潘建伟在会上表示，因为这一领域是新一轮科技革命和产业变革的关键基石，是关乎国家未来科技主动权的战略必争领域。量子通信守护国家信息安全，量子计算重塑未来算力格局，这不是遥远的科学概念，是国家长远发展的底气。经过三十年不懈努力，中国在量子领域终于实现了从跟跑、并跑到部分领跑的跨越。" data-title="青春华章丨中国为何要倾尽心力深耕量子信息科技？潘建伟解答" data-date="09-06 23:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 19:39</span>
-          <span class="news-item-title">向新之翼|追“光”逐“日”，探秘合肥未来大科学城</span>
+          <span class="news-item-date">09-06 23:16</span>
+          <span class="news-item-title">青春华章丨中国为何要倾尽心力深耕量子信息科技？潘建伟解答</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/999/018.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，尽管个人电脑市场出现季节性放缓，且内存短缺导致组件成本上升，但第二季度独立显卡出货量仍实现增长。考虑到第二季度通常比第一季度表现更弱，这一增长尤其值得关注。与此同时，内存短缺已经推高了 PC 厂商和消费者的成本，尤其是搭载高端显卡的 PC 产品受到的影响更为明显。根据 Jon Peddie Research（JPR）的数据，第二季度独立 GPU 出货量较第一季度增长 12.2%，同比增长 14.1%。同期，整个客户端 CPU 市场同比下降 1.1%，台式机 PC 需求也有所走弱。JPR 表示，2026 年第二季度，包含集成显卡和独立显卡在内的消费级 PC GPU 总出货量达到 7550 万颗，环比增长 10.4%，同比增长 1.1%。IT之家注意到，笔记本电脑是" data-title="JPR：2026 二季度 PC 市场需求疲软，独立 GPU 出货量逆势增长 12.2%" data-date="09-06 19:28" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/0/999/044.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，据彭博社记者马克 · 古尔曼最新一期《Power On》时事通讯透露，苹果据称正在考虑对 App Store 进行一些调整，目标是进一步提高这一平台带来的收入。目前还不清楚苹果究竟计划对 App Store 做出哪些改变。古尔曼表示，苹果希望“想办法提高利润率，并从这一平台榨取更多持续性收入”，而这项工作主要由苹果新任 CEO 约翰 · 特努斯和现任服务业务高级副总裁埃迪 · 库伊推动。据称，这项计划也是苹果长期高管菲尔 · 席勒上周离职的原因之一。席勒在 2020 年卸任苹果全球营销高级副总裁一职后，转任苹果 Fellow（苹果院士），其职责之一就是负责 App Store。不过，席勒似乎并不赞成这一想法。古尔曼写道，席勒认为，这类举措只会进一步激怒开发者和政" data-title="古尔曼：苹果考虑调整 App Store 以提高收入和利润率" data-date="09-06 23:03" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 19:28</span>
-          <span class="news-item-title">JPR：2026 二季度 PC 市场需求疲软，独立 GPU 出货量逆势增长 12.2%</span>
+          <span class="news-item-date">09-06 23:03</span>
+          <span class="news-item-title">古尔曼：苹果考虑调整 App Store 以提高收入和利润率</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/999/017.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，今日，比亚迪、理想汽车、深蓝汽车、长安汽车、凯迪拉克、北汽集团等车企纷纷在微博发文，预祝小米澎程上市成功。对此，小米创办人，董事长兼 CEO 雷军发文致谢：“感谢所有的朋友们，谢谢大家！”从雷军公布的截图看，共 54 个微博账号为小米澎程送出祝福。除了大家熟悉的汽车品牌外，欣旺达、中创新航、东安动力、禾赛科技、宇树科技、快手、百度、飞书等品牌也进行了发文。小米秋季旗舰新品发布会已定档 9 月 7 日晚 7 点，届时将发布澎程 N70 Pro / N70 Max / N90 Max、小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max 等。小米澎程 N90 Max 预售价为 29.99 万元，该车提供远山青、蝴蝶谷蓝、火山灰等配色，尺寸为 528" data-title="比亚迪、理想、北汽集团等多家车企预祝小米澎程上市成功，雷军发文致谢" data-date="09-06 19:28" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 19:28</span>
-          <span class="news-item-title">比亚迪、理想、北汽集团等多家车企预祝小米澎程上市成功，雷军发文致谢</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691512.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网福建顺昌9月6日电 (张丽君 朱城铖)台湾台中科技大学应用中文系教授林翠凤6日在福建南平市顺昌县受访时说，“一定要不忘本，一定要溯源，一定要让它核心的传统绵延长久，扎根在顺昌本土的大圣文化，才有面向世界长长久久的底气。”" data-title="第四届闽台大圣文化交流研讨会在福建南平顺昌县举行" data-date="09-06 19:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 19:28</span>
-          <span class="news-item-title">第四届闽台大圣文化交流研讨会在福建南平顺昌县举行</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/999/016.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="小米新一代米家破壁机 3 现已开启预售，主打可拆洗刀座设计与多重降噪结构，京东售价 389 元，叠加国补后到手价 330.65 元起。晒单返 20 元京豆，折合仅需 310.65 元：京东米家破壁机 3 1.5L 国补后 330.65 元直达链接确认收货后，完成晒图 1 张 +10 字以上评价，即可获得价值 20 元京豆一份，奖品共 300 份。这款破壁机采用重力自锁式刀座结构，无需辅助工具即可便捷拆卸，水流可直接冲洗刀座，不易藏污纳垢，具备 IPX9 防水等级。产品升级多重降噪结构，采用 13 重降噪设计，运行声音低至 45 dB(A)，制浆噪音 51 dB(A)，相比前代产品整机噪音降低 8%。该机支持微米级强劲破壁，内置 35000 转 / 分钟电机，配备双层 8 叶精钢刀，搭配 4" data-title="首发 389 → 311 元：小米 1.5L 米家破壁机 3 预售，可拆刀座 + 陶瓷油不粘涂层" data-date="09-06 19:23" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 19:23</span>
-          <span class="news-item-title">首发 389 → 311 元：小米 1.5L 米家破壁机 3 预售，可拆刀座 + 陶瓷油不粘涂层</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/999/015.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，在普遍认为企业还不知道该如何真正利用 AI 的当下，微软却已经制定了一套计划：借助 AI，让更多原生 WinUI 应用进入 Microsoft Store。IT之家注意到，微软近日发布了一份新的快速入门指南，帮助开发者利用 AI、VS Code 和自家的 winapp CLI，从一个空文件夹开始，一步步创建并发布 WinUI 3 应用。微软表示，整个流程大约只需要 30 分钟，而且无需安装 Visual Studio，使用的工具也都是免费的，包括 GitHub Copilot 的免费版本。这份简单的 30 分钟指南，本质上是在吸引初学者为 Windows 11 开发应用，而且不必再经历传统开发中那些“繁重”的编码工作。现在，任何人都可以借助 AI 创建一个新的" data-title="微软借力 AI 重塑 Win11 应用生态：30 分钟即可生成 WinUI 原生应用" data-date="09-06 19:17" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 19:17</span>
-          <span class="news-item-title">微软借力 AI 重塑 Win11 应用生态：30 分钟即可生成 WinUI 原生应用</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/999/014.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，据 Windows Latest 报道，微软希望 Windows 重新赢得用户喜爱，并正在采取一系列措施改善这款操作系统。该系统将迎来可移动的任务栏，甚至还有不再依赖 Bing 的 Windows 搜索。不过，这是否意味着微软会从 Windows 11 中彻底淡化 AI，把精力重新放在稳定性和质量上？当然不是。未来只是不会再把重点放在 Copilot 按钮上。微软 CEO 萨蒂亚 · 纳德拉的第三季度讲话非常罕见地多次提到了 Windows。他首先透露，Windows 每月活跃设备数量已经达到 16 亿台；随后又确认微软正在采取更广泛的战略，把重点重新放回基础体验，同时还用一个新的概念“unmetered intelligence”（无计量智能）来暗示操作系统的" data-title="微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行" data-date="09-06 18:51" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 18:51</span>
-          <span class="news-item-title">微软重塑 Win11 AI 战略：“无计量智能”将让更多 AI 在 PC 本地运行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691502.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网南京9月6日电 (记者 徐珊珊)宁马线“科学家号”科普专列于9月6日正式命名开通。宁马线是国内首条跨省共建、共管、共运营的市域(郊)铁路，该专列由江苏省科协、安徽省科协指导，南京市科协与马鞍山市科协共同主办。" data-title="宁马线开出“科学家号” 跨省地铁变身“移动科普馆”" data-date="09-06 18:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 18:43</span>
-          <span class="news-item-title">宁马线开出“科学家号” 跨省地铁变身“移动科普馆”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691501.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网南京9月6日电 (记者 徐珊珊)2026年“全国科普月”南京市暨雨花台区主场活动于9月6日在南京科技馆举行。今年活动主题为“科技改变生活 创新赢得未来”，活动期间全市将开展各类科普活动千余场。" data-title="全国科普月南京主场启幕 千余场活动点亮“科学盛宴”" data-date="09-06 18:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 18:41</span>
-          <span class="news-item-title">全国科普月南京主场启幕 千余场活动点亮“科学盛宴”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/0/999/012.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，大众安徽今日宣布，与众 08 猎影版已陆续登陆全国门店。与众 08 猎影版将于 9 月 12 日正式上市交付，该车已在 2026 成都车展开启预售，预售价 23 万元。IT之家获悉，与众 08 猎影版车身尺寸为长 5000mm、宽 1954mm、高 1688mm，轴距 3030mm，定位中大型五座纯电 SUV。新车基于与众 08 Ultra 版打造，全系标配价值超过 4 万元的猎影内外套装、威巴克双腔空气悬架与采埃孚 DCC 底盘、车载冰箱及后排折叠桌板等四大装备包。与众 08 猎影版搭载最新一代 VLA 2.0 端到端大模型，标配双图灵芯片，总算力达 1500 TOPS，配合 26 颗高精度感知硬件。动力与底盘方面，与众 08 猎影版基于 800V 高压平台打" data-title="大众与众 08 猎影版车型已陆续登陆全国门店：预售价 23 万元，9 月 12 日上市" data-date="09-06 18:34" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 18:34</span>
-          <span class="news-item-title">大众与众 08 猎影版车型已陆续登陆全国门店：预售价 23 万元，9 月 12 日上市</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/video-games/former-old-school-runescape-dev-gets-jail-time-for-stealing-usd400-000-from-players-virtual-gold-stolen-and-sold-on-the-black-market-before-jagex-caught-the-culprit-using-hidden-firewall-tweaks" target="_blank" rel="noopener" data-cat="keji" data-summary="一名前 Jagex 员工从 OSRS 玩家那里窃取了价值超过 40 万美元的游戏内物品和虚拟货币，并将其在黑市上出售。他最终被捕并被判处三年监禁，一名调查员表示，“仅仅因为它是虚拟的，并不意味着他不应该面对法律的全部效力。”" data-title="前 Old School RuneScape 开发者因从玩家那里窃取 40 万美元而入狱——虚拟黄金被盗并在黑市上出售，之后 Jagex 使用隐藏的防火墙调整抓住了罪魁祸首" data-date="09-06 18:30" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/single-slot-low-profile-75w-rtx-3060-with-no-power-connectors-disappoints-in-tests-gpu-runs-entirely-off-the-pcie-slot-but-offers-severely-crippled-performance-and-frightening-thermals" target="_blank" rel="noopener" data-cat="keji" data-summary="如果您想将 12GB RTX 3060 的性能降低一半，同时降低散热性能，那么这可能是您的完美产品。" data-title="没有电源连接器的单插槽薄型 75W RTX 3060 在测试中令人失望 - GPU 完全依靠 PCIe 插槽运行，但性能严重受损且散热令人恐惧" data-date="09-06 22:58" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-06 18:30</span>
-          <span class="news-item-title">前 Old School RuneScape 开发者因从玩家那里窃取 40 万美元而入狱——虚拟黄金被盗并在黑市上出售，之后 Jagex 使用隐藏的防火墙调整抓住了罪魁祸首</span>
+          <span class="news-item-date">09-06 22:58</span>
+          <span class="news-item-title">没有电源连接器的单插槽薄型 75W RTX 3060 在测试中令人失望 - GPU 完全依靠 PCIe 插槽运行，但性能严重受损且散热令人恐惧</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/999/011.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，据新浪汽车今日报道，2026 世界动力电池大会上，欧阳明高院士发布电池领域重大标志性技术成果：超快充动力电池技术：实现十分钟左右安全快充。高比能混合固液电池技术：实现 350Wh/kg 高比能高安全电池规模化生产。换电乘用车长寿命电池技术：解决换电电池长寿命服役的衰减问题。大容量高安全储能电池技术：储能电池从 300Ah 跨越到 600Ah，已规模化生产。第四代高压实磷酸铁锂材料技术：磷酸铁锂比能量超过 200Wh/kg。乘用车电池全气候热管理技术：破解低温充电慢、高温充电过热难题。新一代方形电池高速卷绕技术：生产效率从每分钟 4.4 个电芯提升到 7.5 个。构建国家电池强制安全标准的电池安全技术体系，支撑今年 7 月 1 日实施的国标。2026 世界动力电池" data-title="2026 世界动力电池大会重大标志性技术成果公布：超快充动力电池技术、高比能混合固液电池技术等" data-date="09-06 18:02" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/0/999/043.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，据韩联社昨日报道，三星电子同行工会宣布，将在三星电子会长李在镕的住宅前举行集会，抗议内部薪酬差距。该工会主要由负责智能手机、家电等终端产品的 DX 部门员工组成。业内人士于 9 月 5 日透露，同行工会计划从 18 日开始，在首尔龙山区李在镕住宅附近持续举行集会及单人示威。同行工会相关负责人接受采访时表示：“我们不设截止期限，计划长期抗争。在未能获批集会申报的日子里，将通过单人示威的形式继续进行。”IT之家注意到，同行工会指出，在今年 5 月三星电子劳资双方达成的薪资协议中，DX 部门被边缘化，其薪酬水平与负责半导体业务的 DS 部门存在过大差距。基于此，同行工会提出了以下诉求：向 DX 部门员工每人发放 1,000 股公司股票；提取全公司一定比例的经营利润，设" data-title="三星电子 DX 部门工会不满与其他部门薪酬差距，将在会长李在镕住宅前集会抗议" data-date="09-06 22:43" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 18:02</span>
-          <span class="news-item-title">2026 世界动力电池大会重大标志性技术成果公布：超快充动力电池技术、高比能混合固液电池技术等</span>
+          <span class="news-item-date">09-06 22:43</span>
+          <span class="news-item-title">三星电子 DX 部门工会不满与其他部门薪酬差距，将在会长李在镕住宅前集会抗议</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/924.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，据科技媒体 Tweak Town 昨天报道，PS5 游戏机模拟器 KyTyPS5 近期取得进展，已经能够运行《GTA5》游戏北扬克顿序章任务。IT之家从原报道获悉，该模拟器可在 AMD 锐龙 9 9950X3D 处理器和 Radeon RX 7900 XT 显卡的 PC 上，以 40-60FPS 帧率运行《GTA5》的北扬克顿鲁登朵夫剧情。不过游戏画面表现仍然很不稳定，光照以及其他元素都会出现闪烁和消失现象。今年 7 月，KyTyPS5 模拟器还只能启动《GTA5》的主菜单和设置界面，完全无法进入故事模式。如今不到两个月后，模拟器已经能够实际运行游戏，进度喜人。不过，这款模拟器距离完美运行 PS5 版《侠盗猎车手 V》还有相当长的距离，当前阶段开发人员还有很多工" data-title="PS5 游戏机模拟器 KyTyPS5 新进展：可运行《GTA5》北扬克顿序章任务" data-date="09-06 14:27" data-source="IT之家">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-admits-to-wiki-incident-after-its-agents-were-discovered-using-a-programming-hub-to-communicate-says-more-transparency-is-needed-regarding-misalignments" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI承认，其实验性人工智能代理使用开放的德国编程维基进行通信。" data-title="OpenAI 在其代理被发现使用编程中心进行通信后承认发生了“维基事件”——表示需要提高关于错位的透明度" data-date="09-06 22:31" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-06 22:31</span>
+          <span class="news-item-title">OpenAI 在其代理被发现使用编程中心进行通信后承认发生了“维基事件”——表示需要提高关于错位的透明度</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/999/041.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，小米集团合伙人、总裁卢伟冰今晚发文称：“彩排结束，内容很丰富，还有惊喜。”此外，他还在评论区透露本次发布会不会登场，雷军将讲全场。IT之家注意到，小米秋季旗舰新品发布会将于 9 月 7 日晚 7 点举行，小米澎程 N70 Pro、N70 Max、N90 Max 正式上市。同场发布的，还有两款旗舰新品：小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max，首发玄戒 O3 AI 旗舰处理器。雷军此前透露，这次的发布会是小米科技创新的一次集中展示，时间估计有点长，会努力控制在 2 小时 45 分钟以内。主要产品中，今年 7 月 30 日，小米举行了澎程技术发布会，澎程 N90 Max 预售价为 29.99 万元；澎程 N70 Max 预售价为 25." data-title="小米卢伟冰预告明晚发布会有惊喜，雷军讲全场" data-date="09-06 22:30" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 14:27</span>
-          <span class="news-item-title">PS5 游戏机模拟器 KyTyPS5 新进展：可运行《GTA5》北扬克顿序章任务</span>
+          <span class="news-item-date">09-06 22:30</span>
+          <span class="news-item-title">小米卢伟冰预告明晚发布会有惊喜，雷军讲全场</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691365.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网9月6日电 据公安部微信公众号消息，为进一步提升防范电信网络诈骗工作的信息化、智能化水平，帮助群众有效识诈防诈，近日，公安部刑侦局指导，上海市公安局自主研发的“国家反诈AI”APP正式上线。" data-title="随时能问、随手可查 反诈智能助手“国家反诈AI”APP上线" data-date="09-06 14:25" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/0/999/040.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，9 月 1 日，商务部、工业和信息化部、市场监管总局三部门发布《汽车行业境外竞争行为与合规建设指引》。《汽车行业境外竞争行为与合规建设指引》为从事国际化生产经营活动的中国汽车行业企业在境外发生的市场竞争等生产经营行为提供参照，重点围绕汽车行业企业海外营销等竞争行为，以及境外安全生产、质量管理、劳动保障、数据安全等合规建设，提出一般性指引，供企业参考。IT之家注意到，长安汽车于 9 月 4 日宣布，合规不是成本，而是可持续发展的竞争力。未来，长安汽车将以更高标准推进海外合规建设，为中国汽车品牌在全球市场稳行致远筑能力基石。截至IT之家发文，比亚迪、奇瑞、赛力斯、吉利控股、长城汽车、广汽集团等车企均已发文回应《汽车行业境外竞争行为与合规建设指引》。" data-title="长安汽车响应《汽车行业境外竞争行为与合规建设指引》：将以更高标准推进海外合规建设" data-date="09-06 22:20" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-06 22:20</span>
+          <span class="news-item-title">长安汽车响应《汽车行业境外竞争行为与合规建设指引》：将以更高标准推进海外合规建设</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/999/039.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，联想来酷 Air 16 酷睿版笔记本今日开启预约，9 月 10 日 20:00 正式开售，国补到手价 3314.15 元起。据介绍，该产品约 1.28kg 轻盈全金属机身，超薄约 13.3mm，采用 16 英寸黄金尺寸，提供凝霜银、暮霞紫、涧云蓝配色，支持 3 挡背光调节、1.2mm 键程。该产品搭载第三代英特尔酷睿处理器，Intel 18A 领先制程，功耗降低 64%，网页浏览性能提升 45%。该产品拥有约 17.8 小时超长办公续航，支持 65W PD 便携适配器。产品配备 16:10 高清屏幕，支持 300nits 亮度 (典型值)、100% sRGB (典型值)、DC 调光无频闪。IT之家整理价格信息如下：凝霜银Core3 304+12GB+512GB" data-title="联想来酷 Air 16 酷睿版笔记本开启预约，国补到手价 3314.15 元起" data-date="09-06 22:11" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-06 22:11</span>
+          <span class="news-item-title">联想来酷 Air 16 酷睿版笔记本开启预约，国补到手价 3314.15 元起</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691597.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网合肥9月6日电(记者 任帅 张强 储玮玮) 9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。“时代楷模”、国防科技大学计算机学院研究员王戟感慨道：“如今，我坐着轮椅，继续追逐前沿科技，继续为科技强军努力工作。只要大脑还能思考，我就是科研战场上的战士，只要双手还能敲键盘，我就可以继续冲锋！”王戟感慨道，何其有幸，他能把个人奋斗和国家命运紧紧相连。祖国不会辜负每一个实干者，“同学们，请你们珍惜现在这个伟大的时代。未来你们无论去往何方，请记住四个字‘同频共振’。把自己安放于国家需要之处，路自然越走越宽。”" data-title="青春华章丨“时代楷模”王戟：只要大脑还能思考，我就是科研战场上的战士" data-date="09-06 22:01" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 14:25</span>
-          <span class="news-item-title">随时能问、随手可查 反诈智能助手“国家反诈AI”APP上线</span>
+          <span class="news-item-date">09-06 22:01</span>
+          <span class="news-item-title">青春华章丨“时代楷模”王戟：只要大脑还能思考，我就是科研战场上的战士</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/0/998/922.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 6 日消息，公安部今日宣布，为进一步提升防范电信网络诈骗工作的信息化、智能化水平，帮助群众有效识诈防诈，近日，公安部刑侦局指导，上海市公安局自主研发的“国家反诈 AI”App 正式上线。据介绍，“国家反诈 AI”App 融合了大语言、多模态模型和智能体技术，用户通过手机输入可疑场景，该 App 即可完成风险研判、识别诈骗套路、推送典型案例，从“文字 + 语音 + 视频”等多个维度拆解诈骗手法，提供识别防范对策。IT之家从公安部了解到，“国家反诈 AI”App 有三大功能：一是 AI 大模型智能问答。用户提问后，系统将从诈骗风险分析、诈骗类型识别、防范建议等多个维度回答，并同步关联视频案例，实时为用户提供反诈知识学习和涉诈场景判断服务。二是反诈资讯。内嵌国家反诈中心和上海“8" data-title="“随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放" data-date="09-06 13:44" data-source="IT之家">
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/power-supplies/fsp-mega-gm-1200w-power-supply-review" target="_blank" rel="noopener" data-cat="keji" data-summary="FSP Mega GM 1200W 电源具有白金级效率、全日本电容器组以及 1200W 设备中罕见的紧凑占地面积。" data-title="FSP Mega GM 1200W电源评测：悄然超越自家金标的全汉自研平台" data-date="09-06 21:57" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-06 13:44</span>
-          <span class="news-item-title">“随时能问、随手可查”的反诈智能助手“国家反诈 AI”App 上线，微信、支付宝小程序也同步开放</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-06 21:57</span>
+          <span class="news-item-title">FSP Mega GM 1200W电源评测：悄然超越自家金标的全汉自研平台</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/bitcoin-mining-data-center-condemned-after-leaking-3-million-gallons-of-water-and-forcing-school-closures-facility-operated-for-years-under-a-city-stop-work-order" target="_blank" rel="noopener" data-cat="keji" data-summary="俄克拉荷马州埃尔里诺市的一个比特币挖矿数据中心因泄漏 300 万加仑的水而受到谴责。" data-title="比特币挖矿数据中心因泄漏 300 万加仑水并迫使学校关闭而受到谴责——该设施在城市停工令下运营多年" data-date="09-06 21:44" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-06 21:44</span>
+          <span class="news-item-title">比特币挖矿数据中心因泄漏 300 万加仑水并迫使学校关闭而受到谴责——该设施在城市停工令下运营多年</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/samsung-990-2tb-pcie-4-0-ssd-falls-to-usd339-99-on-amazon-usd190-discount-makes-high-capacity-storage-more-affordable" target="_blank" rel="noopener" data-cat="keji" data-summary="三星 2TB 990 为游戏提供充足的快速存储空间，目前比常规价格 529.99 美元便宜 190 美元。" data-title="三星 990 2TB PCIe 4.0 SSD 在亚马逊上跌至 339.99 美元——190 美元折扣让大容量存储更实惠" data-date="09-06 21:08" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-06 21:08</span>
+          <span class="news-item-title">三星 990 2TB PCIe 4.0 SSD 在亚马逊上跌至 339.99 美元——190 美元折扣让大容量存储更实惠</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/990436/fairphone-6-plus-review" target="_blank" rel="noopener" data-cat="keji" data-summary="Fairphone 6 Plus感觉像是一款非常普通的中端Android手机，我非常激动。这项任务一直令人钦佩。Fairphone寻求道德来源的材料，并为其设备提供高度的可维修性。但手机本身需要做出很多牺牲，比如容忍处理器性能不足[…]" data-title="Fairphone 6 Plus是我们迫切需要的中端手机" data-date="09-06 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-06 21:00</span>
+          <span class="news-item-title">Fairphone 6 Plus是我们迫切需要的中端手机</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/liquid-cooling/msi-meg-coreliquid-e15-360-aio-review-bold-and-stunning-with-market-leading-performance" target="_blank" rel="noopener" data-cat="keji" data-summary="微星的 MEG CoreLiquid E15 360 AIO 是一款豪华散热产品，拥有令人惊叹的 6.7 英寸屏幕和业界领先的散热性能。" data-title="微星MEG CoreLiquid E15 360一体机评测：大胆惊艳，有市场" data-date="09-06 20:48" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-06 20:48</span>
+          <span class="news-item-title">微星MEG CoreLiquid E15 360一体机评测：大胆惊艳，有市场</span>
         </a>
   </div>
   <div class="news-category">
@@ -297,6 +297,36 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="酋长球场比赛的每分钟更新 阿森纳在窗口关闭后保持连续性现在第三个进球......希尔迪金森体育场有第二个进球。点击点击点击点击！继续阅读..." data-title="阿森纳 VS 切尔西：英超联赛" data-date="09-06 23:35" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-06 23:35</span>
+          <span class="news-item-title">阿森纳 VS 切尔西：英超联赛</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="伊恩·科佩斯塔克（ Ian Copestake ）说： “从伯肯黑德（ Birkenhead ）到比赛的火车上，埃弗顿球迷对埃弗顿（ Everton ）的转会失败一分钟一分钟地进行了更新，这让埃弗顿（ Everton ）陷入了困境。新业主（未提及闪亮的新体育场）的承诺尚未兑现。叛变就在拐角处（可能在沙丘）。”来自John Ste的意想不到的提议" data-title="埃弗顿 2-2 曼联：英超联赛——事情发生了" data-date="09-06 23:29" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-06 23:29</span>
+          <span class="news-item-title">埃弗顿 2-2 曼联：英超联赛——事情发生了</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/06/everton-manchester-united-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="温和地说，埃弗顿在周一以签下安斯利·梅特兰-内尔斯（ Ainsley Maitland-Niles ）结束时，对新右后卫的详尽寻找得到了压倒性的回应。但是，对于这位£ 430万新兵的埃弗顿首次亮相，人们的反应非常积极，因为他惊人的25码罢工几乎在对阵曼联的比赛中最后一脚抢救了一分。迈克尔·卡里克在比赛结束后完全难以置信地擦了擦脸。" data-title="梅特兰-奈尔斯的绝妙进球帮助埃弗顿对阵曼联" data-date="09-06 23:22" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-06 23:22</span>
+          <span class="news-item-title">梅特兰-奈尔斯的绝妙进球帮助埃弗顿对阵曼联</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c78070053wvo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="埃弗顿和曼联球员在希尔狄金森体育场的评分。" data-title="哪个子项目影响最大？埃弗顿 v 曼联 球员评分" data-date="09-06 23:11" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-06 23:11</span>
+          <span class="news-item-title">哪个子项目影响最大？埃弗顿 v 曼联 球员评分</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/999/042.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 9 月 6 日消息，据卫报报道，午休期间，吉尔 · 森内特看到了一些让她完全提不起食欲的东西，于是忍不住分享给自己在 X 平台上的 2.6 万名粉丝：一家牙买加烧烤快闪餐厅使用人工智能生成的菜单图片，里面的肉看起来像是一条条皮带，上面还爬满了细小的甲虫。这些图片随后被 500 多人转发，许多人同样表达了厌恶之情。现年 37 岁、居住在丹佛的护士森内特表示，吃饭“是人类最基本的体验之一”。她说：“我认为，餐厅开始采用这种恐怖、诡异又让人毫无食欲的食物图片，是一种不好的文化现象。”不过，森内特最终还是点了鸡肉和芝士通心粉。这家餐厅是她午餐时为数不多的选择之一，而且她以前也在那里吃过饭。如今，越来越多消费者开始在餐厅菜单和营销材料中看到 AI 生成的食物图片。很多食客认为，这些图片既不诱" data-title="诡异又倒胃口：AI 食物图片攻占餐厅菜单，让消费者食欲全无" data-date="09-06 22:37" data-source="IT之家">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-06 22:37</span>
+          <span class="news-item-title">诡异又倒胃口：AI 食物图片攻占餐厅菜单，让消费者食欲全无</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Minute-by-minute updates from the action at Hill Dickinson StadiumTransfer failures leave Everton scrambling | Mail TimAfternoon everyone and welcome to the David Moyes derby. Or is it the Wayne Rooney, Michael Keane, James Garner, Morgan Schneiderlin and not quite Joshua Zirkzee derby?The Premier League prediction posse, both human and automated," data-title="埃弗顿v曼联：英超联赛" data-date="09-06 19:36" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
@@ -321,11 +351,23 @@ title: 热点新闻
           <span class="news-item-date">09-06 05:57</span>
           <span class="news-item-title">曼联计划如何与BIG竞争</span>
         </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cg49v57rxvgo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="主教练迈克尔·卡里克和首席执行官奥马尔·贝拉达一致认为，尽管俱乐部夏季支出相对较低，但曼联仍能取得成功。" data-title="曼联计划如何与大牌球队竞争" data-date="09-06 05:57" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-06 05:57</span>
+          <span class="news-item-title">曼联计划如何与大牌球队竞争</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="解决生存话题可能还为时过早，但新晋升的赫尔城为自己提供了在英超联赛中建立的完美平台。" data-title="三场比赛的7分-赫尔是否正在避免降级？" data-date="09-06 04:56" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-06 04:56</span>
           <span class="news-item-title">三场比赛的7分-赫尔是否正在避免降级？</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cy8zd574yzyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="现在解决生存问题可能还为时过早，但升班马赫尔城已经为自己在英超联赛中提供了完美的平台。" data-title="三场比赛积七分——赫尔城有望保级吗？" data-date="09-06 04:56" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-06 04:56</span>
+          <span class="news-item-title">三场比赛积七分——赫尔城有望保级吗？</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="高级足球记者萨米·莫克贝尔（ Sami Mokbel ）进入了阿森纳的竞标，以利用他们的英超联赛冠军，并在今年夏天加强他们的阵容。" data-title="阿森纳在入围名单上有20多名球员，以利用冠军头衔" data-date="09-06 03:08" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -333,59 +375,17 @@ title: 热点新闻
           <span class="news-item-date">09-06 03:08</span>
           <span class="news-item-title">阿森纳在入围名单上有20多名球员，以利用冠军头衔</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="赫尔继续他们本赛季的不败开局，连续第三次对阵钝的阿斯顿维拉4分钟：赫尔安顿下来。房源正在蹦蹦跳跳。2分钟：杰克逊头宽！当Maatsen从左边穿过别墅时，杰克逊在赫尔中后卫之间上升，并将其带回最近的岗位。继续阅读..." data-title="赫尔城0-0阿斯顿维拉：英超联赛–事实如此" data-date="09-06 02:33" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-06 02:33</span>
-          <span class="news-item-title">赫尔城0-0阿斯顿维拉：英超联赛–事实如此</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/05/hull-city-aston-villa-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="赫尔从来都不乏味，正如这些地方的俗话所说，仅仅三场比赛之后，英超联赛就被证明对赫尔城的支持者来说是一段相当长的路。在开幕当天让曼联感到尴尬并在上周末在考文垂获胜之后，这张当之无愧的积分和第三张干净的纸仅仅加强了谢尔盖·贾基罗维奇的信念，即他的手下可以击败失利。继续阅读..." data-title="高飞的船体保持不败，让阿斯顿维拉陷入僵局" data-date="09-06 02:28" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-06 02:28</span>
-          <span class="news-item-title">高飞的船体保持不败，让阿斯顿维拉陷入僵局</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx2zqp52pr2o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在克雷文小屋（ Craven Cottage ）水晶宫（ Crystal Palace ）以3比2击败英超联赛后，富勒姆（ Fulham ）被一些支持者嘘声" data-title="富勒姆连续第三次失利后嘘了一声" data-date="09-06 02:28" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="资深足球记者萨米·莫克贝尔深入了解了阿森纳今年夏天利用英超冠军头衔并加强阵容的努力。" data-title="阿森纳有超过 20 名球员入围争夺冠军的候选名单" data-date="09-06 03:08" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-06 02:28</span>
-          <span class="news-item-title">富勒姆连续第三次失利后嘘了一声</span>
+          <span class="news-item-date">09-06 03:08</span>
+          <span class="news-item-title">阿森纳有超过 20 名球员入围争夺冠军的候选名单</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cp3kql8g1vyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城给了1.85亿英镑的截止日期天才，他们的英超联赛在战胜考文垂的比赛中首次亮相-经理恩佐·马雷斯卡将享受他所看到的一切。" data-title="费尔南德斯和恩迪亚耶在曼城首次亮相时表现出希望的迹象" data-date="09-06 02:04" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c3v4537e60yo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="诺丁汉森林队主教练奥利弗·格拉斯纳和内科·威廉姆斯认为，VAR 不应该排除后卫对阵托特纳姆热刺队的进球。" data-title="格拉斯纳和威廉姆斯对森林队手球的 VAR 判罚提出异议" data-date="09-06 02:36" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-06 02:04</span>
-          <span class="news-item-title">费尔南德斯和恩迪亚耶在曼城首次亮相时表现出希望的迹象</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/05/nottingham-forest-tottenham-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Oliver Glasner argued there was insufficient evidence to disallow Neco Williams’s goal against Tottenham, accusing the video assistant referee Peter Bankes of guessing that the Nottingham Forest defender handled and said ruling it out weakens the officials’ authority. Midway through the second half, Williams stooped to head in on the goalline as Sa" data-title="Glasner声称在Forest被拒绝赢得马刺之后， VAR正在“猜测”" data-date="09-06 01:59" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-06 01:59</span>
-          <span class="news-item-title">Glasner声称在Forest被拒绝赢得马刺之后， VAR正在“猜测”</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c2e03wdw47jo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="托特纳姆热刺在首场三场英超比赛中未能得分，经理罗伯托·德·泽比表示，将他昂贵的球队打造成一支球队需要时间。" data-title="“不是足球经理” - De Zerbi说失误的马刺需要时间" data-date="09-06 01:56" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-06 01:56</span>
-          <span class="news-item-title">“不是足球经理” - De Zerbi说失误的马刺需要时间</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/live/2026/sep/05/premier-league-manchester-city-coventry-nottingham-forest-v-tottenham-efl-clockwatch-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Erling Haaland scored his 300th club goal while Crystal Palace’s left wing-backs grabbed the glory at Craven CottageIliman Ndiaye starts for City after joining from Everton in the week. Phil Foden drops out and will be joined on the bench by City’s other big signing, Enzo Fernandez.Coventry bring in Ethan Pinnock and Frank Onyeka for Caleb Yirenki" data-title="曼彻斯特城1-0考文垂，富勒姆2-3水晶宫等：足球钟表–恰巧" data-date="09-06 00:30" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-06 00:30</span>
-          <span class="news-item-title">曼彻斯特城1-0考文垂，富勒姆2-3水晶宫等：足球钟表–恰巧</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/05/manchester-city-coventry-city-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Enzo Fernández started for Manchester City after Nico O’Reilly’s back injury during the warm-up and sparkled, showing why the club paid a British-record-equalling £125m for the midfielder. The winner came courtesy of Erling Haaland’s 300th goal in club football and Fernández had a key part, feeding Antoine Semenyo, whose cross from the right was cr" data-title="哈兰德超越曼城，超越考文垂，费尔南德斯在首次亮相时闪闪发光" data-date="09-06 00:02" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-06 00:02</span>
-          <span class="news-item-title">哈兰德超越曼城，超越考文垂，费尔南德斯在首次亮相时闪闪发光</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Andy Holloway与他的朋友Jason Moore和Mike Wright共同主持了Fantasy Footballers播客。该节目是首屈一指的奇幻体育播客之一，每月吸引超过200万听众和众多奖项，包括来自iHeartRadio的最佳体育播客和连续四年在播客奖中的人民选择。Holloway的目标是[…]" data-title="Fantasy Footballers 的安迪·霍洛威 (Andy Holloway) 是一位专注的零" data-date="09-05 23:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-05 23:00</span>
-          <span class="news-item-title">Fantasy Footballers 的安迪·霍洛威 (Andy Holloway) 是一位专注的零</span>
+          <span class="news-item-date">09-06 02:36</span>
+          <span class="news-item-title">格拉斯纳和威廉姆斯对森林队手球的 VAR 判罚提出异议</span>
         </a>
   </div>
   <div class="news-category">
@@ -394,95 +394,95 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="克里斯托弗·T·多纳休将军对未来战争的愿景为他赢得了世界各地的强大支持者。他们能挽救他的职业生涯吗？" data-title="将多纳休将军从赫格塞斯的军队清洗中拯救出来的战斗" data-date="09-06 23:19" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-06 23:19</span>
+          <span class="news-item-title">将多纳休将军从赫格塞斯的军队清洗中拯救出来的战斗</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691604.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。演员马少骅赞叹：安徽了不起，中国文房四宝安徽占三宝。其中，宣纸的历史有1200多年，也就是在唐朝的时候就有了。他说，宣纸制作有108道工序，“创造宣纸的人，就是当时中国的具有创造性的科学家。”" data-title="青春华章丨马少骅称创造宣纸的人就是当时中国的科学家" data-date="09-06 23:15" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 23:15</span>
+          <span class="news-item-title">青春华章丨马少骅称创造宣纸的人就是当时中国的科学家</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691600.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网合肥9月6日电 (记者任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。国家级非物质文化遗产项目黄梅戏代表性传承人、中国科学技术大学首位“驻校艺术家”韩再芬邀请学子学唱黄梅戏，并现场表演了一段，引发全场掌声。" data-title="青春华章丨黄梅戏艺术家韩再芬邀学子学唱黄梅戏" data-date="09-06 22:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 22:40</span>
+          <span class="news-item-title">青春华章丨黄梅戏艺术家韩再芬邀学子学唱黄梅戏</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691598.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网合肥9月6日电 (记者 任帅 张强 储玮玮)9月6日晚，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。 演员、歌手孙浩现场演唱《中华民谣》，“朝花夕拾杯中酒”曲调一出，引发全场大合唱。" data-title="青春华章丨孙浩再唱《中华民谣》引全场大合唱" data-date="09-06 22:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 22:26</span>
+          <span class="news-item-title">青春华章丨孙浩再唱《中华民谣》引全场大合唱</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/0/999/037.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 6 日消息，据央视财经报道，随着 AI 短剧、数字广告产业快速扩张，数字人脸素材采购需求持续高涨。一门特殊的生意 ——“人脸授权”也因此火了起来。不用出镜拍戏、无需线下试镜，依靠自己的面部形象就能赚取收益。IT之家从报道获悉，平台工作人员表示，根据授权人不同，AI 数字形象分为普通人和专业演员两大类：普通人的数字肖像按照每部短视频约 100 元付费使用；专业演员则按使用范围和剧集长度定价，价格从 500 元到数千元。采购方可以按年龄、性别、风格挑选并购买使用权。成交后，平台和授权人按比例分成。行业研究机构 Data Eye 的估算数据显示，今年前 5 个月，AI 短剧市场规模已突破 220 亿元，全年有望冲击 400 亿元大关；一季度全行业上线的微短剧中，AI 微短剧占比超" data-title="AI 短剧爆发带火“人脸授权”，普通人数字肖像价格约每部 100 元" data-date="09-06 22:06" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-06 22:06</span>
+          <span class="news-item-title">AI 短剧爆发带火“人脸授权”，普通人数字肖像价格约每部 100 元</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cj4j2kp0818o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="印度洋葱价格急剧飙升，这种家家户户必备食材正被运往主要城市。这个国家生产和消费大量洋葱，而其价格波动历来具有政治影响。" data-title="印度洋葱“政治敏感”得要坐上铁路快车" data-date="09-06 21:17" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-06 21:17</span>
+          <span class="news-item-title">印度洋葱“政治敏感”得要坐上铁路快车</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691589.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京9月6日电 在哈尔滨医科大学迎来建校100周年之际，中国科学技术出版社近日对16年前出版的《发现伍连德——诺贝尔奖候选人华人第一人》一书首版进行了二次印刷。" data-title="哈尔滨医科大学迎百年校庆 《发现伍连德》一书重印" data-date="09-06 21:08" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 21:08</span>
+          <span class="news-item-title">哈尔滨医科大学迎百年校庆 《发现伍连德》一书重印</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility" target="_blank" rel="noopener" data-cat="zonghe" data-summary="要开始 Pokémon 竞技对战，您只需要手机即可。但要参加最高级别的比赛，例如神奇宝贝世界锦标赛，您将需要 Switch。而且似乎没有充分的理由。战斗模拟器 Pokémon Champion 最初在 Switch 和 Switch 2 上推出 [...]" data-title="口袋妖怪竞技现已登陆手机，但你仍需要 Switch 才能成为冠军" data-date="09-06 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-06 21:00</span>
+          <span class="news-item-title">口袋妖怪竞技现已登陆手机，但你仍需要 Switch 才能成为冠军</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691581.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社西藏吉隆9月6日电 (记者 赵朗)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，西藏将对吉隆口岸周边灾害风险深入评估，对口岸相关功能恢复等事宜进行深入研究论证。" data-title="西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜" data-date="09-06 20:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 20:49</span>
+          <span class="news-item-title">西藏吉隆泥石流灾后：将深入研究口岸相关功能恢复等事宜</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691579.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网瑞丽9月6日电 (杨雪梅)6日，2026年瑞丽市首届“瑞丽江杯”系列体育赛事在位于云南省德宏傣族景颇族自治州的瑞丽国际文体中心开幕。来自中缅两国的近1500名运动员齐聚边城瑞丽，以体育赛事为媒，共叙“胞波”情谊。" data-title="近1500名中缅运动员齐聚云南瑞丽 以赛畅叙“胞波”情" data-date="09-06 20:48" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 20:48</span>
+          <span class="news-item-title">近1500名中缅运动员齐聚云南瑞丽 以赛畅叙“胞波”情</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691562.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网杭州9月6日电 (钱晨菲)6日，浙江省防指发布消息称，根据《浙江省防汛防台抗旱应急预案》，经会商研判，决定于当日15时结束海上防台风应急响应。" data-title="台风“科罗旺”逐渐远离东海 浙江结束海上防台风应急响应" data-date="09-06 20:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 20:01</span>
+          <span class="news-item-title">台风“科罗旺”逐渐远离东海 浙江结束海上防台风应急响应</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691553.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新华社南昌9月6日电(记者闵尊涛)6日下午，记者从江西省吉安市遂川县相关部门获悉，左安镇扬芬村地质灾害已找到1名失联人员，已无生命体征。截至目前，遂川县因地质灾害造成的遇难者人数增至4人。此前，遂川县高坪镇明坑村的泥石流和山体滑坡灾害已造成3人遇难，另有9人失联。目前，多方力量仍在现场展开救援。" data-title="江西遂川地质灾害遇难人数增至4人" data-date="09-06 19:45" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 19:45</span>
+          <span class="news-item-title">江西遂川地质灾害遇难人数增至4人</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691545.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社西藏吉隆9月6日电 (赵朗 李林 贡嘎来松)记者6日从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上获悉，灾害发生后，截至9月5日18时，累计接待家属791人，安置家属640人。当地已妥善做好1720名尼泊尔籍边民的生活保障。" data-title="西藏吉隆泥石流灾害后 已妥善做好1720名尼籍边民生活保障" data-date="09-06 19:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 19:44</span>
+          <span class="news-item-title">西藏吉隆泥石流灾害后 已妥善做好1720名尼籍边民生活保障</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691546.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社厦门9月6日电 (吴冠标)今年是厦门大学建校105周年暨机械工程学科创立100周年，厦门大学智能制造学院6日在厦门成立。" data-title="厦门大学智能制造学院成立" data-date="09-06 19:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 19:42</span>
+          <span class="news-item-title">厦门大学智能制造学院成立</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/0/999/020.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 6 日消息，2026 世界超级摩托车锦标赛（WSBK）法国站 WorldSSP 组别次回合正赛今日在法国讷韦尔-马尼库尔赛道举行，比赛进行到还剩 8 圈时一度红旗中断，重新发车后排在第二的张雪机车 53 号车手瓦伦丁 · 德比斯最终完成 5 圈比赛拿下第三名，继第一回合季军登台后本赛季第 8 次登上领奖台。另一位张雪机车车手卡里卡苏洛，以第 8 名的成绩同样带回积分。至此，“张雪机车”完成法国站全部比赛。下一站比赛将于 9 月 25 日至 27 日在意大利克雷莫纳赛道举行。" data-title="2026 WSBK 法国站第二回合，张雪机车德比斯再获季军" data-date="09-06 19:33" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">09-06 19:33</span>
           <span class="news-item-title">2026 WSBK 法国站第二回合，张雪机车德比斯再获季军</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691541.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北海9月6日电(李梦)9月初，正值晚稻拔节孕穗的关键期，广西北海市海城区赤西村连片的稻田里，稻株长势喜人，稻叶翠绿舒展。这一时段，不仅是决定穗粒数量、筑牢产量基础的核心节点，也是病虫害防控的紧要关口。" data-title="孕穗关键期  “空中卫士”为广西北海守护稻田希望" data-date="09-06 19:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 19:33</span>
-          <span class="news-item-title">孕穗关键期  “空中卫士”为广西北海守护稻田希望</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691521.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网广州9月6日电 题：薪火相传百年狮艺 广州乌溪少年舞动南粤" data-title="薪火相传百年狮艺 广州乌溪少年舞动南粤" data-date="09-06 19:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 19:28</span>
-          <span class="news-item-title">薪火相传百年狮艺 广州乌溪少年舞动南粤</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691514.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京9月6日电 (刘艺静 张素)记者从中国关心下一代健康体育基金会获悉，关爱青年工程公益捐赠仪式5日在承德举行，此次捐赠活动聚焦智慧教学、沉浸式育人、校园食安监管三个领域，将为当地百余所学校配齐数字化教育设备与智慧管理系统。" data-title="关爱青年工程公益捐赠 聚焦智慧教学、沉浸式育人、校园食安监管" data-date="09-06 19:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 19:18</span>
-          <span class="news-item-title">关爱青年工程公益捐赠 聚焦智慧教学、沉浸式育人、校园食安监管</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691535.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="9月6日，西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行中外媒体见面会。" data-title="预警窗口仅几分钟 吉隆泥石流灾害链源头在境外是监测最大短板" data-date="09-06 19:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 19:09</span>
-          <span class="news-item-title">预警窗口仅几分钟 吉隆泥石流灾害链源头在境外是监测最大短板</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691531.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社成都9月6日电 (记者 阮煜琳)最新研究报告显示，自2013年以来，中国先后实施三个清洁空气行动计划，推动空气质量实现历史性改善，带来显著的公众健康收益。" data-title="中国清洁空气行动健康收益显著 持续深度治理PM2.5" data-date="09-06 18:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 18:54</span>
-          <span class="news-item-title">中国清洁空气行动健康收益显著 持续深度治理PM2.5</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691528.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="独家！一名中国游客的尼泊尔泥石流脱困之路：通往外界的道路被摧毁，在中国使馆协调下登上尼军直升机" data-title="独家！一名中国游客的尼泊尔泥石流脱困之路" data-date="09-06 18:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 18:45</span>
-          <span class="news-item-title">独家！一名中国游客的尼泊尔泥石流脱困之路</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691508.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网江西遂川9月6日电 (刘力鑫 朱莹 吴敏)受台风“沙德尔”带来的持续强降雨影响，江西省吉安市遂川县高坪镇明坑村石下组5日凌晨突发泥石流地质灾害。6日上午，记者随救援人员徒步近半小时，抵达此次泥石流灾害的核心受灾区。" data-title="直击江西遂川泥石流核心受灾区：路面淤泥没过小腿 救援难度大" data-date="09-06 18:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 18:39</span>
-          <span class="news-item-title">直击江西遂川泥石流核心受灾区：路面淤泥没过小腿 救援难度大</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691520.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="记者今天从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上了解到，灾害发生后，我国组织相关领域专家团队和技术力量，对东林藏布流域面积大于0.1平方公里的11处冰湖持续展开卫星遥感监测，目前冰湖面积未见异常。" data-title="卫星遥感监测显示：东林藏布流域冰湖面积目前未见异常" data-date="09-06 18:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 18:31</span>
-          <span class="news-item-title">卫星遥感监测显示：东林藏布流域冰湖面积目前未见异常</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691519.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="记者今天从西藏自治区吉隆县“8·26”泥石流灾害应急救援指挥部举行的中外媒体见面会上了解到，针对吉隆口岸选址问题，日喀则市委副书记、代理市长罗布次仁表示，吉隆口岸自古便是茶马古道、唐蕃古道的核心节点，承载中尼双方千年贸易与人文交流，吉隆沟有地形、交通、边境通行的便利条件，历史上形成了重要陆路通道。据唐代、清代等相关史料记载，吉隆河谷地区是中国西藏与尼泊尔边民民间往来，双方人员可以通过喜马拉雅山脉来往通行。对口岸功能恢复等事宜进行深入研究论证。" data-title="西藏日喀则：将深入研究口岸功能恢复等事宜" data-date="09-06 18:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 18:29</span>
-          <span class="news-item-title">西藏日喀则：将深入研究口岸功能恢复等事宜</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/storage/this-246tb-ssd-media-server-is-built-for-millionaire-cinephiles-kaleidescapes-newest-home-theater-vault-supports-25-simultaneous-4k-streams-stores-up-to-2-300-4k-cinematic-movies" target="_blank" rel="noopener" data-cat="zonghe" data-summary="豪华家庭影院设备制造商 Kaleidescape 推出了其最新的媒体服务器“Compact Terra Prime 246TB SSD”。" data-title="这款 246TB SSD 媒体服务器专为百万富翁影迷打造 — Kaleidescape 最新的家庭影院库支持 25 个同步 4K 流，可存储多达 2,300 部 4K 电影电影" data-date="09-06 18:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-06 18:00</span>
-          <span class="news-item-title">这款 246TB SSD 媒体服务器专为百万富翁影迷打造 — Kaleidescape 最新的家庭影院库支持 25 个同步 4K 流，可存储多达 2,300 部 4K 电影电影</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这些文件相当于对武器承包过程的尸体解剖。" data-title="秘密审计告诉我们乌克兰军方如何花钱" data-date="09-06 17:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-06 17:02</span>
-          <span class="news-item-title">秘密审计告诉我们乌克兰军方如何花钱</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/06/us/memphis-cantina-gambling-raid-immigration.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在今年田纳西州最大的移民行动之一的孟菲斯酒吧，有120多人被捕。" data-title="孟菲斯赌博突袭如何成为一场全面的移民行动" data-date="09-06 17:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-06 17:02</span>
-          <span class="news-item-title">孟菲斯赌博突袭如何成为一场全面的移民行动</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="克里斯托弗· T ·多纳休（ Christopher T. Donahue ）将军对未来战争的愿景为他赢得了世界各地的强大支持者。他们能挽救他的事业吗？" data-title="从黑格塞特的军队清洗中拯救多纳休将军的战斗" data-date="09-06 17:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-06 17:00</span>
-          <span class="news-item-title">从黑格塞特的军队清洗中拯救多纳休将军的战斗</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="秘密军事审计揭示了一个充斥着管理不善的军事采购系统。仅在2024年，乌克兰就因欺诈和浪费损失了12 $。" data-title="在乌克兰，欺诈和浪费得到更多武器合同的奖励" data-date="09-06 17:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-06 17:00</span>
-          <span class="news-item-title">在乌克兰，欺诈和浪费得到更多武器合同的奖励</span>
         </a>
   </div>
 </div>
@@ -566,4 +566,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-06 19:43（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-06 23:35（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
