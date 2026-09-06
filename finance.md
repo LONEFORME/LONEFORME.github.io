@@ -230,8 +230,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">2 条精选资讯</span>
+      <span class="news-category-count">3 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-06/10691542.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔9月6日电 (记者 金旭)韩国关税厅最新统计显示，截至5日13时，韩国2026年累计出口额达7094亿美元(约合人民币4.76万亿元)，超过2025年全年7093亿美元历史最高纪录。" data-title="韩国出口额刷新历史纪录" data-date="09-06 19:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-06 19:35</span>
+          <span class="news-item-title">韩国出口额刷新历史纪录</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691361.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月6日电 (付敬懿)中哈粮食企业见面交流会5日在湖南长沙举行。会上，由国家粮食和物资储备局粮食交易协调中心和哈萨克斯坦国家粮食贸易集团共同建设的中哈粮食交易平台正式上线运行，标志着两国粮食贸易合作迈向数字化的新阶段。" data-title="中哈粮食交易平台正式上线运行" data-date="09-06 14:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -257,4 +263,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-06 14:34（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-06 19:43（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
