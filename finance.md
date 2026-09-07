@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,403.12 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -27.84 (-0.63%)</span>
+      <span class="ticker-price ticker-down">$4,410.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -20.54 (-0.46%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥950.89 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +2.01 (+0.21%)</span>
+      <span class="ticker-price ticker-up">¥952.54 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +3.66 (+0.39%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,61 +230,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692223.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月7日电 (记者 孙自法)“中国已成为全球可持续发展转型的引领者”“为全球各类脆弱经济体落实2030年议程提供可借鉴的实践参照”“打通了科学观测到政策行动的关键链路”“系列实践深度嵌入全球可持续发展多边协作进程”……" data-title="可持续发展大数据国际研究中心成立五周年 国际社会“点赞”丰硕成果" data-date="09-07 21:24" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692294.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="伊朗方面6日消息，伊朗经济部已设立“经济战争指挥部”，旨在集中研判战争造成的经济问题，并协调有关部门加快制定和落实解决方案。" data-title="伊朗经济部设立经济战争指挥部" data-date="09-07 23:48" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 21:24</span>
-          <span class="news-item-title">可持续发展大数据国际研究中心成立五周年 国际社会“点赞”丰硕成果</span>
+          <span class="news-item-date">09-07 23:48</span>
+          <span class="news-item-title">伊朗经济部设立经济战争指挥部</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692217.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社厦门9月7日电(记者潘洁)国家副主席韩正7日下午在福建厦门分别会见来华出席第二十六届中国国际投资贸易洽谈会的保加利亚副总理兼经济、投资和工业部长普列夫，柬埔寨副首相兼发展理事会第一副主席孙占托，塞尔维亚副总理兼经济部长梅萨罗维奇。" data-title="韩正分别会见保加利亚副总理普列夫、柬埔寨副首相孙占托、塞尔维亚副总理梅萨罗维奇" data-date="09-07 21:07" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692260.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者9月7日获悉，国家版权局近日印发《版权工作“十五五”规划》。规划提出，到2030年，版权法律制度更加完善，版权工作法治化水平持续提高；版权保护力度不断加大，版权执法监管水平显著提升；版权社会服务能力明显增强，版权助力产业高质量发展成效显著；版权国际合作深入推进，版权领域国际话语权、传播力和影响力持续提升；版权宣传教育广泛开展，尊重版权的社会风尚日益浓厚，版权发展环境更加良好。" data-title="《版权工作“十五五”规划》印发" data-date="09-07 21:58" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 21:07</span>
-          <span class="news-item-title">韩正分别会见保加利亚副总理普列夫、柬埔寨副首相孙占托、塞尔维亚副总理梅萨罗维奇</span>
+          <span class="news-item-date">09-07 21:58</span>
+          <span class="news-item-title">《版权工作“十五五”规划》印发</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692250.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川9月7日电 (记者 李佩珊)地处中国西北干旱半干旱地带的宁夏，依托种业攻关与栽培技术持续创新，玉米种植接连刷新区域高产纪录，为全球干旱半干旱地区农业提质增产提供了可复制的中国技术方案与实践范例。记者7日从宁夏农林科学院了解到，玉米是宁夏第一大农作物，种植面积近900万亩，贡献全自治区粮食总产量的77.4%、饲草产量73.5%，既是当地保障粮食安全的重要基石，也为奶牛、肉牛等畜牧产业发展提供稳定饲草供给。" data-title="宁夏玉米刷新西北干旱半干旱区高产纪录" data-date="09-07 21:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-07 21:57</span>
+          <span class="news-item-title">宁夏玉米刷新西北干旱半干旱区高产纪录</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692156.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月7日电 (记者 李映民)泰国商务部贸易政策和战略办公室7日公布的数据显示，受燃油价格和食品价格上涨等因素影响，泰国8月份消费者价格指数(CPI)同比上涨2.53%，高于7月份的1.95%，创三个月来新高。今年前8个月，泰国平均通胀率为1.37%。" data-title="泰国8月通胀率创三个月新高" data-date="09-07 19:42" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-07 19:42</span>
           <span class="news-item-title">泰国8月通胀率创三个月新高</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692064.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社福州9月6日电(记者郑良、吴剑锋)第二十六届中国国际投资贸易洽谈会将于9月8日至11日在福建厦门举办。本届投洽会吸引了来自129个国家和地区、30个国际组织的1200多个政府官方机构、工商企业团组报名参会。" data-title="129个国家和地区客商投洽会上寻商机" data-date="09-07 17:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 17:11</span>
-          <span class="news-item-title">129个国家和地区客商投洽会上寻商机</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10691965.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="刚在8月加码经济制裁、试图对伊朗极限施压的美国，并未能稳住局势。进入9月，美伊战火重燃，中东局势再度升温，和平前景迷雾重重。" data-title="制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相" data-date="09-07 15:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 15:55</span>
-          <span class="news-item-title">制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-07/10691887.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月6日晚，总台《财经调查》栏目播发《“注水”的环境监测报告》，涉及山西伯霖检测有限公司的水质采样监测样品造假问题。记者从山西省生态环境厅获悉，媒体曝光环境监测报告弄虚作假后，山西省生态环境厅与大同市高度重视，9月7日，省、市生态环境执法人员已联合市场监管、公安部门人员赴大同市阳高县对相关情况开展调查。" data-title="山西对环境监测报告弄虚作假问题展开调查" data-date="09-07 14:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 14:40</span>
-          <span class="news-item-title">山西对环境监测报告弄虚作假问题展开调查</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-07/10691875.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月7日电(记者 袁秀月)历史经典产业是指丝绸、茶叶、瓷器、中药、酿造、工艺美术、文房四宝等文化底蕴深厚的中华传统特色产业。" data-title="工信部：推动历史经典产业高质量发展，让经典变“潮”" data-date="09-07 14:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 14:01</span>
-          <span class="news-item-title">工信部：推动历史经典产业高质量发展，让经典变“潮”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-07/10691861.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="总台报道有反馈丨成都连夜查处企业监测报告数据造假等行为" data-title="成都连夜查处企业监测报告数据造假等行为" data-date="09-07 13:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 13:37</span>
-          <span class="news-item-title">成都连夜查处企业监测报告数据造假等行为</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10691844.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月7日电 据农业农村部网站消息，近日，农业农村部、中央农办、国家发展改革委、财政部、中国人民银行、金融监管总局发布关于印发《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》的通知。《实施方案》提出，到2030年，基本建立与农业农村发展水平相适应、结构合理、方式科学、质效并重的乡村振兴投入机制，为巩固拓展脱贫攻坚成果、加快补齐农业农村现代化短板弱项、扎实推进乡村全面振兴提供有力支撑。" data-title="完善乡村振兴投入机制 六部门印发实施方案" data-date="09-07 13:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 13:37</span>
-          <span class="news-item-title">完善乡村振兴投入机制 六部门印发实施方案</span>
         </a>
   </div>
 </div>
@@ -299,4 +269,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-07 21:37（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-08 01:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
