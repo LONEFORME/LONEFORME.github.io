@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,523.74</span>
-      <span class="ticker-change down">▼ -1.01%</span>
+      <span class="ticker-price ticker-down">4,527.71</span>
+      <span class="ticker-change down">▼ -0.92%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7083</span>
+      <span class="ticker-price ticker-up">6.7094</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,397.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -33.68 (-0.76%)</span>
+      <span class="ticker-price ticker-down">$4,403.12 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -27.84 (-0.63%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥949.30 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -15.70 (-1.63%)</span>
+      <span class="ticker-price ticker-up">¥950.89 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +2.01 (+0.21%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">4 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692223.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月7日电 (记者 孙自法)“中国已成为全球可持续发展转型的引领者”“为全球各类脆弱经济体落实2030年议程提供可借鉴的实践参照”“打通了科学观测到政策行动的关键链路”“系列实践深度嵌入全球可持续发展多边协作进程”……" data-title="可持续发展大数据国际研究中心成立五周年 国际社会“点赞”丰硕成果" data-date="09-07 21:24" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-07 21:24</span>
+          <span class="news-item-title">可持续发展大数据国际研究中心成立五周年 国际社会“点赞”丰硕成果</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692217.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社厦门9月7日电(记者潘洁)国家副主席韩正7日下午在福建厦门分别会见来华出席第二十六届中国国际投资贸易洽谈会的保加利亚副总理兼经济、投资和工业部长普列夫，柬埔寨副首相兼发展理事会第一副主席孙占托，塞尔维亚副总理兼经济部长梅萨罗维奇。" data-title="韩正分别会见保加利亚副总理普列夫、柬埔寨副首相孙占托、塞尔维亚副总理梅萨罗维奇" data-date="09-07 21:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-07 21:07</span>
+          <span class="news-item-title">韩正分别会见保加利亚副总理普列夫、柬埔寨副首相孙占托、塞尔维亚副总理梅萨罗维奇</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692156.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月7日电 (记者 李映民)泰国商务部贸易政策和战略办公室7日公布的数据显示，受燃油价格和食品价格上涨等因素影响，泰国8月份消费者价格指数(CPI)同比上涨2.53%，高于7月份的1.95%，创三个月来新高。今年前8个月，泰国平均通胀率为1.37%。" data-title="泰国8月通胀率创三个月新高" data-date="09-07 19:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-07 19:42</span>
+          <span class="news-item-title">泰国8月通胀率创三个月新高</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692064.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社福州9月6日电(记者郑良、吴剑锋)第二十六届中国国际投资贸易洽谈会将于9月8日至11日在福建厦门举办。本届投洽会吸引了来自129个国家和地区、30个国际组织的1200多个政府官方机构、工商企业团组报名参会。" data-title="129个国家和地区客商投洽会上寻商机" data-date="09-07 17:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-07 17:11</span>
+          <span class="news-item-title">129个国家和地区客商投洽会上寻商机</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10691965.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="刚在8月加码经济制裁、试图对伊朗极限施压的美国，并未能稳住局势。进入9月，美伊战火重燃，中东局势再度升温，和平前景迷雾重重。" data-title="制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相" data-date="09-07 15:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-07 15:55</span>
+          <span class="news-item-title">制裁大棒拦不住战火重燃，美国对伊朗套路失灵了？｜真相</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-07/10691887.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月6日晚，总台《财经调查》栏目播发《“注水”的环境监测报告》，涉及山西伯霖检测有限公司的水质采样监测样品造假问题。记者从山西省生态环境厅获悉，媒体曝光环境监测报告弄虚作假后，山西省生态环境厅与大同市高度重视，9月7日，省、市生态环境执法人员已联合市场监管、公安部门人员赴大同市阳高县对相关情况开展调查。" data-title="山西对环境监测报告弄虚作假问题展开调查" data-date="09-07 14:40" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -269,4 +299,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-07 14:42（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-07 21:37（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
