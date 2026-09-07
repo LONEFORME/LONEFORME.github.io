@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,955.55</span>
-      <span class="ticker-change up">▲ +0.34%</span>
+      <span class="ticker-price ticker-up">3,942.51</span>
+      <span class="ticker-change up">▲ +0.32%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">13,725.65</span>
-      <span class="ticker-change up">▲ +0.74%</span>
+      <span class="ticker-price ticker-up">13,605.02</span>
+      <span class="ticker-change up">▲ +0.65%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,344.62</span>
-      <span class="ticker-change up">▲ +0.97%</span>
+      <span class="ticker-price ticker-up">3,326.42</span>
+      <span class="ticker-change up">▲ +1.21%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,627.95</span>
-      <span class="ticker-change up">▲ +1.04%</span>
+      <span class="ticker-price ticker-up">1,596.58</span>
+      <span class="ticker-change up">▲ +1.22%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,569.80</span>
-      <span class="ticker-change up">▲ +2.27%</span>
+      <span class="ticker-price ticker-down">4,523.74</span>
+      <span class="ticker-change down">▼ -1.01%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7079</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.7083</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,430.96 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -42.03 (-0.94%)</span>
+      <span class="ticker-price ticker-down">$4,397.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -33.68 (-0.76%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥954.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -10.23 (-1.06%)</span>
+      <span class="ticker-price ticker-down">¥949.30 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -15.70 (-1.63%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+46.7 亿</span>
+      <span class="sector-flow-badge">+28.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+47.9 亿</span>
+      <span class="sector-flow-badge">+21.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+34.4 亿</span>
+      <span class="sector-flow-badge">+41.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+25.5 亿</span>
+      <span class="sector-flow-badge">+17.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,25 +230,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">3 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-06/10691542.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔9月6日电 (记者 金旭)韩国关税厅最新统计显示，截至5日13时，韩国2026年累计出口额达7094亿美元(约合人民币4.76万亿元)，超过2025年全年7093亿美元历史最高纪录。" data-title="韩国出口额刷新历史纪录" data-date="09-06 19:35" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-07/10691887.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月6日晚，总台《财经调查》栏目播发《“注水”的环境监测报告》，涉及山西伯霖检测有限公司的水质采样监测样品造假问题。记者从山西省生态环境厅获悉，媒体曝光环境监测报告弄虚作假后，山西省生态环境厅与大同市高度重视，9月7日，省、市生态环境执法人员已联合市场监管、公安部门人员赴大同市阳高县对相关情况开展调查。" data-title="山西对环境监测报告弄虚作假问题展开调查" data-date="09-07 14:40" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 19:35</span>
-          <span class="news-item-title">韩国出口额刷新历史纪录</span>
+          <span class="news-item-date">09-07 14:40</span>
+          <span class="news-item-title">山西对环境监测报告弄虚作假问题展开调查</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-06/10691361.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月6日电 (付敬懿)中哈粮食企业见面交流会5日在湖南长沙举行。会上，由国家粮食和物资储备局粮食交易协调中心和哈萨克斯坦国家粮食贸易集团共同建设的中哈粮食交易平台正式上线运行，标志着两国粮食贸易合作迈向数字化的新阶段。" data-title="中哈粮食交易平台正式上线运行" data-date="09-06 14:16" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-07/10691875.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月7日电(记者 袁秀月)历史经典产业是指丝绸、茶叶、瓷器、中药、酿造、工艺美术、文房四宝等文化底蕴深厚的中华传统特色产业。" data-title="工信部：推动历史经典产业高质量发展，让经典变“潮”" data-date="09-07 14:01" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 14:16</span>
-          <span class="news-item-title">中哈粮食交易平台正式上线运行</span>
+          <span class="news-item-date">09-07 14:01</span>
+          <span class="news-item-title">工信部：推动历史经典产业高质量发展，让经典变“潮”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-06/10691350.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳9月6日电 (记者 许青青)在5日举行的亚太媒体高端论坛上，广州中医药大学党委书记陈文锋在“亚太故事会——文明互鉴故事”环节介绍了该校在中医药传承创新与产业融合方面的实践探索，为APEC成员经济体发展本土传统医药提供来自中国的实践样本。" data-title="广州中医药大学提出中医药传承创新与产业融合实践方案" data-date="09-06 13:45" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-07/10691861.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="总台报道有反馈丨成都连夜查处企业监测报告数据造假等行为" data-title="成都连夜查处企业监测报告数据造假等行为" data-date="09-07 13:37" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-06 13:45</span>
-          <span class="news-item-title">广州中医药大学提出中医药传承创新与产业融合实践方案</span>
+          <span class="news-item-date">09-07 13:37</span>
+          <span class="news-item-title">成都连夜查处企业监测报告数据造假等行为</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10691844.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月7日电 据农业农村部网站消息，近日，农业农村部、中央农办、国家发展改革委、财政部、中国人民银行、金融监管总局发布关于印发《坚持农业农村优先发展 完善乡村振兴投入机制实施方案》的通知。《实施方案》提出，到2030年，基本建立与农业农村发展水平相适应、结构合理、方式科学、质效并重的乡村振兴投入机制，为巩固拓展脱贫攻坚成果、加快补齐农业农村现代化短板弱项、扎实推进乡村全面振兴提供有力支撑。" data-title="完善乡村振兴投入机制 六部门印发实施方案" data-date="09-07 13:37" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-07 13:37</span>
+          <span class="news-item-title">完善乡村振兴投入机制 六部门印发实施方案</span>
         </a>
   </div>
 </div>
@@ -263,4 +269,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-06 23:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-07 14:42（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
