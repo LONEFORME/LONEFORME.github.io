@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,942.51</span>
-      <span class="ticker-change up">▲ +0.32%</span>
+      <span class="ticker-price ticker-up">3,935.55</span>
+      <span class="ticker-change up">▲ +0.07%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">13,605.02</span>
-      <span class="ticker-change up">▲ +0.65%</span>
+      <span class="ticker-price ticker-up">13,782.86</span>
+      <span class="ticker-change up">▲ +0.06%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,326.42</span>
-      <span class="ticker-change up">▲ +1.21%</span>
+      <span class="ticker-price ticker-down">3,394.35</span>
+      <span class="ticker-change down">▼ -0.13%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,596.58</span>
-      <span class="ticker-change up">▲ +1.22%</span>
+      <span class="ticker-price ticker-down">1,614.19</span>
+      <span class="ticker-change down">▼ -0.08%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,527.71</span>
-      <span class="ticker-change down">▼ -0.92%</span>
+      <span class="ticker-price ticker-down">4,454.29</span>
+      <span class="ticker-change down">▼ -1.62%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7094</span>
+      <span class="ticker-price ticker-up">6.7103</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,410.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -20.54 (-0.46%)</span>
+      <span class="ticker-price ticker-up">$4,408.09 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +1.86 (+0.04%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥952.54 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.66 (+0.39%)</span>
+      <span class="ticker-price ticker-up">¥951.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +3.02 (+0.32%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+28.0 亿</span>
+      <span class="sector-flow-badge">+24.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+21.0 亿</span>
+      <span class="sector-flow-badge">+53.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+41.0 亿</span>
+      <span class="sector-flow-badge">+20.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+17.9 亿</span>
+      <span class="sector-flow-badge">+43.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">4 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-08/10692561.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="最近，甘肃兰州榆中县曝出“染色莴笋”问题。根据当地农业农村局和市场监管局发布的通报，当地排查了53家蔬菜收购仓储企业，发现6家在收购环节违法使用了果绿食品添加剂对莴笋进行染色。执法人员随即查封销毁了问题莴笋，并对涉事企业立案查处，同时，也对其他蔬菜收购仓储经营主体进行了集体约谈警示。这些着色剂用在新鲜蔬菜上可能带来哪些风险？如何加强相关监管？" data-title="6家企业涉莴笋染色被查处 消费者如何辨别“染色果蔬”？" data-date="09-08 14:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-08 14:18</span>
+          <span class="news-item-title">6家企业涉莴笋染色被查处 消费者如何辨别“染色果蔬”？</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这些关税是对特朗普总统最近征收关税的报复，引发了人们对关税进一步升级的担忧。" data-title="随着贸易战加剧，加拿大对美国商品征收新关税" data-date="09-08 12:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-08 12:03</span>
+          <span class="news-item-title">随着贸易战加剧，加拿大对美国商品征收新关税</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692294.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="伊朗方面6日消息，伊朗经济部已设立“经济战争指挥部”，旨在集中研判战争造成的经济问题，并协调有关部门加快制定和落实解决方案。" data-title="伊朗经济部设立经济战争指挥部" data-date="09-07 23:48" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -269,4 +281,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-08 01:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-08 14:38（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
