@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,544.16</span>
+      <span class="ticker-price ticker-up">29,557.51</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7080</span>
+      <span class="ticker-price ticker-down">6.7068</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,388.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -17.65 (-0.40%)</span>
+      <span class="ticker-price ticker-down">$4,392.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -13.46 (-0.31%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥948.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -2.96 (-0.31%)</span>
+      <span class="ticker-price ticker-down">¥949.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.38 (-0.15%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,43 +230,61 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="边境地区的美国人与加拿大人有着共生关系，但贸易战正在考验他们的关系。" data-title="在边境附近，美国人担心失去与加拿大人的联系" data-date="09-08 17:04" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-08/10692967.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月8日电 (记者 李映民)泰国内阁8日举行会议，通过《创业企业促进法案》草案，拟放宽初创企业融资及股权管理限制、完善政策支持机制，为初创企业发展营造更为灵活的制度环境。" data-title="泰国拟放宽初创企业融资限制" data-date="09-08 23:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-08 23:51</span>
+          <span class="news-item-title">泰国拟放宽初创企业融资限制</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-08/10692964.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间9月8日，法国外交部长巴罗表示，法国将停止与巴勒斯坦被占领土上的以色列定居点进行商品贸易。法国与英国、加拿大、丹麦、西班牙、芬兰、爱尔兰、冰岛、挪威、波兰、葡萄牙和瑞典等11国当天发表联合声明，就限制与以色列定居点的商品贸易作出相关承诺。" data-title="12国发表联合声明 限制与约旦河西岸以色列定居点商品贸易" data-date="09-08 23:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-08 23:21</span>
+          <span class="news-item-title">12国发表联合声明 限制与约旦河西岸以色列定居点商品贸易</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="边境地区的美国人与加拿大人有着共生关系，但贸易战正在考验他们的关系。" data-title="在边境附近，美国人害怕失去与加拿大人的关系" data-date="09-08 22:56" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-08 17:04</span>
-          <span class="news-item-title">在边境附近，美国人担心失去与加拿大人的联系</span>
+          <span class="news-item-date">09-08 22:56</span>
+          <span class="news-item-title">在边境附近，美国人害怕失去与加拿大人的关系</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-08/10692561.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="最近，甘肃兰州榆中县曝出“染色莴笋”问题。根据当地农业农村局和市场监管局发布的通报，当地排查了53家蔬菜收购仓储企业，发现6家在收购环节违法使用了果绿食品添加剂对莴笋进行染色。执法人员随即查封销毁了问题莴笋，并对涉事企业立案查处，同时，也对其他蔬菜收购仓储经营主体进行了集体约谈警示。这些着色剂用在新鲜蔬菜上可能带来哪些风险？如何加强相关监管？" data-title="6家企业涉莴笋染色被查处 消费者如何辨别“染色果蔬”？" data-date="09-08 14:18" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-08/10692954.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆9月8日电(陈媛)8日，台商台企重庆产业考察对接活动——台湾青年企业家合作对接会举行。30余名台湾青年企业家齐聚山城，共谋渝台经贸合作新机遇。" data-title="为台企落地“铺路搭桥” 台湾青年企业家合作对接会在渝举行" data-date="09-08 22:06" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 14:18</span>
-          <span class="news-item-title">6家企业涉莴笋染色被查处 消费者如何辨别“染色果蔬”？</span>
+          <span class="news-item-date">09-08 22:06</span>
+          <span class="news-item-title">为台企落地“铺路搭桥” 台湾青年企业家合作对接会在渝举行</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这些关税是对特朗普总统最近征收关税的报复，引发了人们对关税进一步升级的担忧。" data-title="随着贸易战加剧，加拿大对美国商品征收新关税" data-date="09-08 12:03" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-08/10692933.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社台北9月8日电 (记者 朱贺)2026台湾智慧农渔周8日在台北开幕，多家大陆企业亮相。两岸业者接受中新社采访时表示，期待进一步开拓农渔业合作空间。" data-title="大陆企业亮相台湾智慧农渔周 两岸业者盼拓合作空间" data-date="09-08 22:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-08 22:02</span>
+          <span class="news-item-title">大陆企业亮相台湾智慧农渔周 两岸业者盼拓合作空间</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-08/10692932.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社厦门9月8日电 (郑江洛)第二十六届中国国际投资贸易洽谈会8日在厦门开幕，2026年两岸经贸合作发展交流活动、重点省市对台营商环境推介活动在厦门接连举办，推动两岸经贸交流走深走实。" data-title="投洽会推动两岸经贸合作发展走深走实" data-date="09-08 22:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-08 22:01</span>
+          <span class="news-item-title">投洽会推动两岸经贸合作发展走深走实</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-08/10692900.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="针对一些地方以所谓“新能源”“替代能源”等名义销售不符合国家规定的车用燃料的行业现象，相关部门去年在全国范围内开展专项整治行动，严厉打击所谓的新能源加注站售卖柴油、汽油等危化品行为，取得不错的效果。但仍有消费者举报，在一些地方，还时不时冒出来以新能源加注站为幌子的黑加油点。从今年3月份开始，《焦点访谈》记者对此展开了持续的追踪调查。" data-title="1公里国道扎堆近20家！黑加油点为何屡禁不绝" data-date="09-08 21:20" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-08 21:20</span>
+          <span class="news-item-title">1公里国道扎堆近20家！黑加油点为何屡禁不绝</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-08/10692863.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月8日电 据泰国《民族报》8日报道，泰国商会大学最新公布的数据显示，2026年8月泰国消费者信心指数升至53.2，连续第三个月回升，并创今年3月以来新高。" data-title="泰国消费者信心连续三个月回升" data-date="09-08 20:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-08 20:42</span>
+          <span class="news-item-title">泰国消费者信心连续三个月回升</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这些关税是对特朗普总统最近关税的报复，引发了对进一步升级的担忧。" data-title="随着贸易战的加剧，加拿大对美国商品征收新的关税" data-date="09-08 14:56" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-08 12:03</span>
-          <span class="news-item-title">随着贸易战加剧，加拿大对美国商品征收新关税</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692294.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="伊朗方面6日消息，伊朗经济部已设立“经济战争指挥部”，旨在集中研判战争造成的经济问题，并协调有关部门加快制定和落实解决方案。" data-title="伊朗经济部设立经济战争指挥部" data-date="09-07 23:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 23:48</span>
-          <span class="news-item-title">伊朗经济部设立经济战争指挥部</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692260.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者9月7日获悉，国家版权局近日印发《版权工作“十五五”规划》。规划提出，到2030年，版权法律制度更加完善，版权工作法治化水平持续提高；版权保护力度不断加大，版权执法监管水平显著提升；版权社会服务能力明显增强，版权助力产业高质量发展成效显著；版权国际合作深入推进，版权领域国际话语权、传播力和影响力持续提升；版权宣传教育广泛开展，尊重版权的社会风尚日益浓厚，版权发展环境更加良好。" data-title="《版权工作“十五五”规划》印发" data-date="09-07 21:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 21:58</span>
-          <span class="news-item-title">《版权工作“十五五”规划》印发</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-07/10692250.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川9月7日电 (记者 李佩珊)地处中国西北干旱半干旱地带的宁夏，依托种业攻关与栽培技术持续创新，玉米种植接连刷新区域高产纪录，为全球干旱半干旱地区农业提质增产提供了可复制的中国技术方案与实践范例。记者7日从宁夏农林科学院了解到，玉米是宁夏第一大农作物，种植面积近900万亩，贡献全自治区粮食总产量的77.4%、饲草产量73.5%，既是当地保障粮食安全的重要基石，也为奶牛、肉牛等畜牧产业发展提供稳定饲草供给。" data-title="宁夏玉米刷新西北干旱半干旱区高产纪录" data-date="09-07 21:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 21:57</span>
-          <span class="news-item-title">宁夏玉米刷新西北干旱半干旱区高产纪录</span>
+          <span class="news-item-date">09-08 14:56</span>
+          <span class="news-item-title">随着贸易战的加剧，加拿大对美国商品征收新的关税</span>
         </a>
   </div>
 </div>
@@ -281,4 +299,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-08 20:14（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-09 00:45（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
