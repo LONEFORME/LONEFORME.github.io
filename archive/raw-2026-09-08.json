@@ -1778,5 +1778,555 @@
     "feed_name": "纽约时报",
     "summary": "大卫·鲁宾斯坦从艺术家的基金会购买了这座上周从中心移走的雕塑。他将在国家美术馆展出它。",
     "published_dt_iso": "2026-09-08T03:28:45+08:00"
+  },
+  {
+    "title": "不透明循环以及您可能应该知道的其他人工智能术语",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026-09-08",
+    "published_time": "03:24",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "人工智能的兴起带来了大量新术语和俚语。这是一个词汇表，其中包含您可能遇到的一些最重要单词和短语的定义。",
+    "published_dt_iso": "2026-09-08T03:24:00+08:00"
+  },
+  {
+    "title": "出版商和代理商对人择和解提出索赔，作者予以反击",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "date": "2026-09-07",
+    "published_time": "04:47",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "作者表示，出版商似乎要求支付超过其应得份额的和解金。",
+    "published_dt_iso": "2026-09-07T04:47:37+08:00"
+  },
+  {
+    "title": "一体化“DLSS Unlocked”模组为 RTX 20、30 和 40 系列带来 DLSS 5 和多帧生成 — 混合工具利用 AMD FSR 3.1 将帧速率提高至 6 倍",
+    "link": "https://www.tomshardware.com/pc-components/gpus/all-in-one-dlss-unlocked-mod-brings-dlss-5-and-multi-frame-gen-to-rtx-20-30-and-40-series-hybrid-tool-taps-amd-fsr-3-1-to-boost-frame-rates-up-to-6x",
+    "date": "2026-09-08",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "该模组的性能尚未经过测试，但 DLSS Unlocked 的纯粹实用性很容易将其置于 RTX GPU 模组列表的首位。它将 OptiScaler_DLSSNR 与 DLSS Enabled 相结合，为所有 RTX GPU 带来神经渲染和多帧生成。",
+    "published_dt_iso": "2026-09-08T20:00:00+08:00"
+  },
+  {
+    "title": "报道称，NEC 已悄然退出量子计算硬件开发，该公司表示将继续评估量子技术的实际应用和产业化",
+    "link": "https://www.tomshardware.com/tech-industry/quantum-computing/nec-has-quietly-quit-quantum-computing-hardware-development-report-claims-company-says-it-will-continue-to-evaluate-practical-applications-and-industrialization-of-quantum-technologies",
+    "date": "2026-09-08",
+    "published_time": "19:45",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "据报道，NEC 已停止量子计算机的开发，但计划探索此类系统的实际应用。",
+    "published_dt_iso": "2026-09-08T19:45:00+08:00"
+  },
+  {
+    "title": "Vintage Emulator Studio 重新创建了 44 个传奇合成器，直至芯片级别 - 免费的 MAME 驱动的组件级模拟应该提供极其准确的声音",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/vintage-emulator-studio-recreates-44-legendary-synths-down-to-the-chip-level-free-mame-powered-component-level-emulation-should-offer-exceedingly-accurate-sound",
+    "date": "2026-09-08",
+    "published_time": "19:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Vintage Emulator Studio 将标志性的复古合成器和采样器带入生活 — MAME 驱动的组件级仿真应提供极其准确的声音",
+    "published_dt_iso": "2026-09-08T19:40:00+08:00"
+  },
+  {
+    "title": "黑客从 Liquid Network 中盗取了 3.2 亿美元的比特币，清空了大约 95% 的联邦钱包——攻击者声称他们是“好人”，并将在漏洞修复后返还资金",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hackers-drain-usd320-million-in-bitcoin-from-liquid-network-emptying-roughly-95-percent-of-federation-wallet-attackers-claim-theyre-the-good-guys-and-will-return-funds-after-the-vulnerability-is-fixed",
+    "date": "2026-09-08",
+    "published_time": "19:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "自称白帽子的黑客从 Liquid Network 的联邦钱包中盗取了约 3.2 亿美元的比特币，并承诺在平台修复潜在错误后返还资金",
+    "published_dt_iso": "2026-09-08T19:20:00+08:00"
+  },
+  {
+    "title": "谷歌绘制了成年雄性果蝇的整个大脑和中枢神经系统，软件工程师立即让它运行《毁灭战士》——超过 166,000 个神经元的 AI 驱动 3D 模型也能玩《超级马里奥 64》",
+    "link": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-software-engineers-immediately-make-it-run-doom-ai-powered-3d-model-of-over-166-000-neurons-can-also-play-super-mario-64",
+    "date": "2026-09-08",
+    "published_time": "19:06",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "科学家首次绘制了成年雄性果蝇的完整大脑和中枢神经系统图。几天后，完整的 MaleCNS v1.0 果蝇连接组被训练来玩《毁灭战士》和《马里奥 64》。",
+    "published_dt_iso": "2026-09-08T19:06:26+08:00"
+  },
+  {
+    "title": "在 Newegg 仅需 1,379 美元即可购买 32GB DDR5 游戏电脑 — 420 美元折扣包括 20 核英特尔 CPU 和 RTX 5060",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-32gb-ddr5-gaming-pc-for-just-usd1-379-at-newegg-usd420-discount-includes-20-core-intel-cpu-and-rtx-5060",
+    "date": "2026-09-08",
+    "published_time": "19:02",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "购买这款配备 RTX 5060 和 Core i7-14700F 的 DDR5 游戏电脑可节省 400 多美元。",
+    "published_dt_iso": "2026-09-08T19:02:34+08:00"
+  },
+  {
+    "title": "这款售价 389 美元的 32GB DDR5 RAM 套件是目前游戏 PC 升级中最便宜的售价 - 随着人工智能的繁荣继续迫使内存价格走高，更高规格的 RAM 售价 415 美元为 PC 制造商提供了难得的选择",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/this-usd389-32gb-ddr5-ram-kit-is-the-cheapest-on-sale-right-now-for-a-gaming-pc-upgrade-higher-spec-ram-for-usd415-gives-pc-builders-rare-choice-as-the-ai-boom-continues-to-force-memory-prices-higher",
+    "date": "2026-09-08",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这些 DDR5 32GB 内存套件是目前在售的最便宜的套件，起价为 389 美元。",
+    "published_dt_iso": "2026-09-08T19:00:24+08:00"
+  },
+  {
+    "title": "泰国要求数据中心运营商暂停 49 个扩建项目，直至法律框架完成——新立法旨在为大型数据中心制定“无懈可击”的要求",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/thailand-asks-datacenter-operators-to-suspend-buildouts-until-legal-framework-is-complete-new-legislation-is-supposed-to-create-airtight-requirements-for-large-scale-datacenters",
+    "date": "2026-09-08",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "泰国要求数据中心运营商暂停扩建，直到法律框架完成——新立法应该为大型数据中心制定“无懈可击”的要求",
+    "published_dt_iso": "2026-09-08T19:00:00+08:00"
+  },
+  {
+    "title": "“真正的缺陷是信任，而不是功能”：VMware 试图安抚中小企业",
+    "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "date": "2026-09-05",
+    "published_time": "01:35",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Broadcom 承认它“过于关注 VCF”。",
+    "published_dt_iso": "2026-09-05T01:35:02+08:00"
+  },
+  {
+    "title": "曾经流行的攻击 AI 的 ASCII 走私现在受到垃圾邮件发送者的欢迎",
+    "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "date": "2026-09-05",
+    "published_time": "01:18",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "一个曾经被忽视、人类不可见的 unicode 块正在得到越来越广泛的使用。",
+    "published_dt_iso": "2026-09-05T01:18:12+08:00"
+  },
+  {
+    "title": "VMware 迁移将托特纳姆热刺队的许可费用降低了 85%",
+    "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
+    "date": "2026-09-04",
+    "published_time": "02:58",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "职业足球队的首席技术官指出“博通收购存在问题”。",
+    "published_dt_iso": "2026-09-04T02:58:31+08:00"
+  },
+  {
+    "title": "BGP 劫持感染网络是由错误喜剧引起的，一点都不好笑",
+    "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "date": "2026-09-02",
+    "published_time": "19:00",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "我们可以从毒害生产软件的 BGP 劫持中学到什么？很多。",
+    "published_dt_iso": "2026-09-02T19:00:43+08:00"
+  },
+  {
+    "title": "苹果说“折叠”，竞争对手问“多宽？”",
+    "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
+    "date": "2026-09-08",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "苹果几乎肯定会在明天推出首款可折叠 iPhone，距离三星 Galaxy Fold 首次上市七年。尽管苹果可能迟到了几年，但这次发布会的筹备证明了新任首席执行官约翰·特努斯(John Ternus)继承了一家一如既往具有影响力的公司。 […]",
+    "published_dt_iso": "2026-09-08T20:00:00+08:00"
+  },
+  {
+    "title": "LG 电视即使在离线或待机状态下也会被发现间谍活动",
+    "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+    "date": "2026-09-08",
+    "published_time": "19:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "根据 YouTube 频道 Gamers Nexus 的一份新报告，LG 智能电视几乎不断记录和上传有关用户及其家庭的数据，即使在离线或待机模式下也是如此。该公司的电视机扫描 Wi-Fi 网络以查找附近的设备，通过麦克风记录音频日志，并使用音频和视频采样来 [...]",
+    "published_dt_iso": "2026-09-08T19:30:05+08:00"
+  },
+  {
+    "title": "小米的宽折叠屏有望比三星更强大",
+    "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+    "date": "2026-09-08",
+    "published_time": "15:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "小米是最新一家发布短而宽的可折叠手机的制造商，苹果预计本周也会推出同样的产品。上周我在 IFA 上闭门试用了 18 Fold，虽然它的外观和感觉与三星的 Galaxy Z Fold 8 非常相似，但卓越的规格让它感觉 [...]",
+    "published_dt_iso": "2026-09-08T15:00:00+08:00"
+  },
+  {
+    "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+    "link": "https://www.qbitai.com/2026/09/485854.html",
+    "date": "2026-09-08",
+    "published_time": "14:05",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "Blender也不用学了",
+    "published_dt_iso": "2026-09-08T14:05:30+08:00"
+  },
+  {
+    "title": "掌阅 Tango2S 墨水屏电纸书发布：5.84 英寸 Carta 1300 面板，首发价 1599 元",
+    "link": "https://www.ithome.com/0/999/910.htm",
+    "date": "2026-09-08",
+    "published_time": "20:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，掌阅旗下 Tango2S 黑白墨水屏手机造型电纸书现已在京东发售，该机配备一块 5.84 英寸 300PPI Carta 1300 面板，定价 1799 元，今日首发价 1599 元。京东掌阅 Tango 2S 5.84 英寸智能阅读本 1599 元直达链接其整体尺寸 154.3 x 77.3 x 7.7mm，重量 147g，采用一块 5.84 英寸 1576x788 分辨率（300PPI）黑白墨水屏 Carta 1300 面板，支持 50 帧 / 秒快刷技术。该机配备蓝牙 5.0 技术，内置“8 核处理器”，匹配 4GB RAM 和 64GB 存储空间，内置 3900 毫安时电池，IT之家附产品参数如下：",
+    "published_dt_iso": "2026-09-08T20:09:51+08:00"
+  },
+  {
+    "title": "经合组织最新报告：不用或少用 AI 完成课业的学生，整体表现优于常用 AI 的学生",
+    "link": "https://www.ithome.com/0/999/909.htm",
+    "date": "2026-09-08",
+    "published_time": "20:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，据彭博社今天（8 日）晚间报道，经济合作与发展组织（OECD）最新教育报告显示，不使用或较少使用 AI 聊天机器人完成课业的学生，整体表现优于经常使用 AI 的学生。报告提供了迄今覆盖范围最广的一批证据，显示 AI 可能对儿童学习产生负面影响。报告指出，从不或几乎从不使用 AI 为写作作业起草文本的学生，科学测试平均得分为 509 分；每天或几乎每天使用 AI 完成这类任务的学生平均只有 481 分。即使控制社会经济地位因素，两组学生仍相差 28 分，约相当于一年半的教学差距。经合组织教育与技能司司长安德烈亚斯 · 施莱歇尔指出，就像观看体育比赛不会让我们变得强健，只有亲自运动才能做到一样，学习也不是靠被动接收内容完成的，而是需要大脑面对新材料时主动进行认知上的",
+    "published_dt_iso": "2026-09-08T20:09:39+08:00"
+  },
+  {
+    "title": "六联智能发布全球首批 \"Gorgon Halo\" 笔电 AXN88B",
+    "link": "https://www.ithome.com/0/999/907.htm",
+    "date": "2026-09-08",
+    "published_time": "20:07",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，六联智能 (SIXUNITED) 今日发布了全球首批搭载 AMD 锐龙 AI Max+ 400 \"Gorgon Halo\" 处理器的笔记本电脑 AXN88B-160M-YD。这款笔电性能释放可达 120W；支持 192GB LPDDR5X-8533 内存，提供 2 个 M.2 2280 (PCIe Gen4 ×4) SSD 盘位；搭载可翻转 145° 的 16\" 2560×1600 120Hz 广色域屏幕；配套 Wi-Fi 7 & 蓝牙 5.4 无需网卡。AXN88B-160M-YD 采用金属机身，内含 99.9Whr / 85Whr 电池，集成 2MP + IR 相机模组、2 个 2W 4Ω 扬声器，提供全键 RGB 背光键盘，支持指纹识别。其机身厚度 18.",
+    "published_dt_iso": "2026-09-08T20:07:04+08:00"
+  },
+  {
+    "title": "受屏幕时间激增影响，青少年阅读水平跌至本世纪最低",
+    "link": "https://www.ithome.com/0/999/905.htm",
+    "date": "2026-09-08",
+    "published_time": "19:58",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，据路透社报道，一项全球学生评估显示，如今青少年的阅读水平已跌至本世纪以来的最低点，并进一步拖累整体教育表现。经济合作与发展组织（OECD）2025 年对全球 91 个国家和经济体的 76 万名 15 岁学生进行的测试显示，学生的阅读、数学和科学成绩均跌至 2000 年开始收集相关数据以来的最低水平。根据 OECD 周二公布的最新国际学生评估项目（PISA）报告，如今学生的平均阅读水平相当于过去比他们小一岁的学生所达到的水平。PISA 阅读成绩曾在 2012 年达到 501 分的高点，但到去年已经下降至 466 分。PISA 被广泛认为是全球最重要的教育表现评估指标之一，其结果一直受到各国政府和教育工作者的密切关注。OECD 秘书长马蒂亚斯 · 科尔曼在新闻发布会",
+    "published_dt_iso": "2026-09-08T19:58:49+08:00"
+  },
+  {
+    "title": "华晨宝马新世代 iX3 纯电 SUV 申报：此前已开启预订，26.99 万",
+    "link": "https://www.ithome.com/0/999/904.htm",
+    "date": "2026-09-08",
+    "published_time": "19:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，工信部发布第 411 批《道路机动车辆生产企业及产品公告》新产品公示，华晨宝马除了带来新世代 i3 轿车以外，还带来了新世代的 iX3 纯电 SUV，此次申报的车型具体为 iX3 30L。IT之家注意到，该车型为纯电动多用途乘用车，由华晨宝马汽车有限公司生产，长宽高分别为 4885/1895/1634mm，轴距达到 3005mm，整备质量 2230kg，总质量 2680kg，额定载客 5 人，最高车速 180km/h。该车提供轮胎规格可选，包括 255/40 R21 和 255/45 R20，同时支持选装制动钳、轮辋、饰条以及车顶后摄像头，还可选装 ETC 车载装置，标配汽车事件数据记录系统（EDR），防抱死制动系统型号为 IBC2，由 ZF Group（采埃孚",
+    "published_dt_iso": "2026-09-08T19:48:23+08:00"
+  },
+  {
+    "title": "谷歌为避免欧盟罚款调整欧洲搜索结果，称搜索质量大幅降低",
+    "link": "https://www.ithome.com/0/999/903.htm",
+    "date": "2026-09-08",
+    "published_time": "19:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，Alphabet 旗下谷歌当地时间周二宣布调整其在欧洲地区的在线搜索结果，以满足欧盟反垄断监管机构的要求。谷歌表示，这一调整将降低用户的搜索体验，同时增加欧洲企业的运营成本。谷歌一名高管向路透社表示，这是这家全球最受欢迎的互联网搜索引擎成立 29 年来，对服务质量做出的最大幅度削减。谷歌表示，欧盟将此次调整定位为让不同企业在广告竞争中获得更加公平的机会。然而，谷歌认为，实际结果可能恰恰相反，因为这些变化将更有利于价格比较网站，也就是所谓的垂直搜索服务（VSS）。这类服务覆盖酒店、航空、餐饮等行业，例如 Expedia 和 Booking.com。按照新的搜索结果展示方式，这些垂直搜索服务的排名和曝光度将高于相关行业中那些仅提供网站链接、电话号码和地址的企业。今年",
+    "published_dt_iso": "2026-09-08T19:44:34+08:00"
+  },
+  {
+    "title": "华晨宝马新世代 i3 纯电轿车申报，计划今年 Q4 上市",
+    "link": "https://www.ithome.com/0/999/902.htm",
+    "date": "2026-09-08",
+    "published_time": "19:41",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，工信部发布第 411 批《道路机动车辆生产企业及产品公告》新产品公示，华晨宝马国产的宝马新世代 i3 40L 纯电动轿车完成申报。宝马 i3 40L 定位纯电动轿车，长宽高为 4864/1865/1490mm，轴距达到 3005mm，整备质量 2074kg，总质量 2550kg，额定载客（含驾驶员）座位数为 5 人，最高车速 200km/h。动力方面，该车搭载型号为 HD1001N0 的驱动电机，峰值功率为 235 kW，配备三元锂离子动力电池，储能装置单体由宁德时代生产，储能装置总成由华晨宝马生产。IT之家注意到，该车可选装不同样式的轮辋以及不同颜色的制动钳，轮胎规格为 245/40 R20 / 255/40 R20；配备防抱死制动系统，ABS 型号为 IBC",
+    "published_dt_iso": "2026-09-08T19:41:16+08:00"
+  },
+  {
+    "title": "德国出现 RTX 5090 空壳显卡诈骗：核心显存被拆除，两名买家损失超 4000 欧元",
+    "link": "https://www.ithome.com/0/999/901.htm",
+    "date": "2026-09-08",
+    "published_time": "19:29",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 8 日消息，英伟达 GeForce RTX 50 系列（代号 Blackwell）显卡目前仍是市场上性能最强的显卡之一。正因如此，这些备受追捧的 Blackwell 显卡也成为诈骗分子眼中的“肥肉”，不法分子试图利用消费者购买显卡的需求实施诈骗。虽然“空壳显卡”骗局并不是什么新鲜事，但近期这类骗局出现得越来越频繁，传播范围也不断扩大，令人担忧。德国最新曝光的案例显示，至少有两名买家遭遇了同一种骗局，而且据称两人面对的还是同一名卖家。“空壳显卡”或“幽灵显卡”可能不是日常生活中常听到的说法。简单来说，这类显卡缺少 GPU 芯片和显存芯片。诈骗分子会将这些关键芯片拆走，再把无法正常工作的显卡卖给受害者。对于普通消费者来说，在拆开显卡之前，基本无法确认这些关键芯片是否存在，而普通",
+    "published_dt_iso": "2026-09-08T19:29:48+08:00"
+  },
+  {
+    "title": "王毅同卡塔尔首相兼外交大臣会谈：愿同卡方等地区各方加强沟通协调",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692839.shtml",
+    "date": "2026-09-08",
+    "published_time": "20:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月8日电 9月8日，中共中央政治局委员、外交部长王毅在北京同卡塔尔首相兼外交大臣穆罕默德举行会谈。",
+    "published_dt_iso": "2026-09-08T20:10:45+08:00"
+  },
+  {
+    "title": "北京市区和乡镇人大换届选举全面展开",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692827.shtml",
+    "date": "2026-09-08",
+    "published_time": "20:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月8日电 (记者 陈杭)记者8日从北京市人大获悉，北京市区和乡镇人大换届选举工作已全面展开，宣传发动和选民集中登记工作正在进行。此次换届选举涉及全市16个区、近180个乡镇，将直接选举产生近4900名区人大代表和一万余名乡镇人大代表。",
+    "published_dt_iso": "2026-09-08T20:09:21+08:00"
+  },
+  {
+    "title": "AI难惠及传统产业 台媒指台湾经济呈“双速”格局",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692825.shtml",
+    "date": "2026-09-08",
+    "published_time": "20:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社台北9月8日电 受益于人工智能与半导体产业的强劲需求，台湾今年上半年经济表现突出，但不同产业与群体之间的感受差异明显。台湾《经济日报》近日一篇社论指出，岛内正逐步形成“双速经济”格局。",
+    "published_dt_iso": "2026-09-08T20:06:01+08:00"
+  },
+  {
+    "title": "习近平同英国首相伯纳姆通电话",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692823.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月8日电 9月8日晚，国家主席习近平应约同英国首相伯纳姆通电话。",
+    "published_dt_iso": "2026-09-08T19:47:30+08:00"
+  },
+  {
+    "title": "李强主持国务院第二十一次专题学习",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692820.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月8日电 9月8日，国务院以“高质量推进城市更新、促进城市内涵式发展”为主题，进行第二十一次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于城市更新工作的重要指示精神和党中央有关决策部署，建立可持续的城市更新模式，促进城市结构优化、功能完善、文脉赓续、品质提升，以城市高质量发展更好满足人民美好生活需要。",
+    "published_dt_iso": "2026-09-08T19:40:45+08:00"
+  },
+  {
+    "title": "海南省第八届少数民族传统体育运动会10月在陵水举行",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692785.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网海口9月8日电 (张茜翼 王俞力)记者8日从海南省第八届少数民族传统体育运动会新闻发布会获悉，本届运动会将于10月16日至21日在陵水黎族自治县举行。这是海南自贸港全岛封关运作后的首个完整年度举办的重大民族体育活动。",
+    "published_dt_iso": "2026-09-08T19:13:22+08:00"
+  },
+  {
+    "title": "山西省原省长金湘军一审被判死缓",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-08/10692780.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月8日电 (记者 张素)记者从中国最高人民法院获悉，9月8日，河南省信阳市中级人民法院一审公开宣判山西省委原副书记、省政府原省长金湘军受贿一案。",
+    "published_dt_iso": "2026-09-08T19:11:46+08:00"
+  },
+  {
+    "title": "伊朗总统最新发声：将全力抵抗直到侵略者后悔为止",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692834.shtml",
+    "date": "2026-09-08",
+    "published_time": "20:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月8日电 综合报道，伊朗总统佩泽希齐扬8日在社交媒体上发文表示，伊朗将继续全力抵抗，直到侵略者感到后悔为止。",
+    "published_dt_iso": "2026-09-08T20:01:47+08:00"
+  },
+  {
+    "title": "伊朗发生恐怖袭击 一名民兵武装指挥官身亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692831.shtml",
+    "date": "2026-09-08",
+    "published_time": "20:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月8日电 综合伊朗媒体8日报道，伊朗拉斯克发生恐怖袭击，民兵武装“动员穷人组织”的一名指挥官在袭击中死亡。",
+    "published_dt_iso": "2026-09-08T20:00:33+08:00"
+  },
+  {
+    "title": "联合国粮农组织渔业委员会第37届会议在罗马开幕",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692817.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社罗马9月8日电(记者 李洋)联合国粮农组织渔业委员会第37届会议当地时间7日在位于意大利罗马的粮农组织总部开幕。",
+    "published_dt_iso": "2026-09-08T19:29:33+08:00"
+  },
+  {
+    "title": "韩国医美平台“江南姐姐”22万用户信息泄露 近5000中国人受波及",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692816.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月8日电(记者 韩辉)韩国知名医美预约平台“江南姐姐”(Gangnam Unni)发生用户个人信息泄露事件。运营方Healing Paper表示，共计219665名用户受影响，其中包括近5000名中国人。",
+    "published_dt_iso": "2026-09-08T19:29:11+08:00"
+  },
+  {
+    "title": "菲律宾7月失业率升至6% 创四年多新高",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692806.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社马尼拉9月8日电(记者 周璟)菲律宾统计局(PSA)8日公布的劳动力调查数据显示，2026年7月该国失业率升至6%，为2022年6月以来最高水平。当月失业人数达314万，创2021年12月以来最高。",
+    "published_dt_iso": "2026-09-08T19:28:57+08:00"
+  },
+  {
+    "title": "“港口国措施协定”十周年高级别活动在罗马举行",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692805.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社罗马9月8日电(记者 李洋)《关于预防、制止和消除非法、不报告、不管制捕鱼的港口国措施协定》(“港口国措施协定”)十周年高级别活动当地时间7日在意大利罗马举行。",
+    "published_dt_iso": "2026-09-08T19:28:19+08:00"
+  },
+  {
+    "title": "伊朗正审议霍尔木兹海峡管理事项 多国就海峡通航表态",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692745.shtml",
+    "date": "2026-09-08",
+    "published_time": "18:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月8日电 综合消息：伊朗媒体8日报道称，伊朗外交部长阿拉格齐表示，伊朗议会正在审议霍尔木兹海峡未来管理事项，多部门专家参与。伊拉克、卡塔尔、阿联酋等国就霍尔木兹海峡通航问题密集表态。",
+    "published_dt_iso": "2026-09-08T18:52:00+08:00"
+  },
+  {
+    "title": "突发：法国雷诺阿博物馆遭窃 损失或达900万欧元",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-08/10692736.shtml",
+    "date": "2026-09-08",
+    "published_time": "18:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月8日电 综合外媒8日报道，位于法国东南部城市滨海卡涅的雷诺阿博物馆当天发生盗窃案，4件艺术品被盗，其中一件在窃贼逃跑过程中被丢弃。据估计，被盗物品总价值约900万欧元。",
+    "published_dt_iso": "2026-09-08T18:03:39+08:00"
+  },
+  {
+    "title": "从“输血”到“造血” 沪迪协作22载让高原振兴路越走越宽",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692835.shtml",
+    "date": "2026-09-08",
+    "published_time": "20:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网云南迪庆9月8日电 (时文枝)“22年来，沪迪对口支援已从传统帮扶迭代为山海联动、优势互补、双向赋能、互利共赢的高质量协作新格局，成为迪庆补齐发展短板、激活乡村动能、夯实振兴根基的关键支撑。”8日，云南省迪庆藏族自治州农业农村局党委书记、局长孙红梅在沪迪对口支援研讨会上如是说。",
+    "published_dt_iso": "2026-09-08T20:11:17+08:00"
+  },
+  {
+    "title": "浙江“00后”教师与课堂的双向奔赴",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692826.shtml",
+    "date": "2026-09-08",
+    "published_time": "20:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州9月8日电(林波 曹丹 孙琳茹)沙滩、民宿、海鲜大排档，摩托车不时穿梭在沿海街道之上。浙江省宁波市象山县鹤浦镇的早晨，海风中带着咸湿气。",
+    "published_dt_iso": "2026-09-08T20:06:53+08:00"
+  },
+  {
+    "title": "江西遂川高坪镇泥石流已致12人遇难",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692822.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:46",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新华社南昌9月8日电(记者范帆)记者从江西遂川高坪镇明坑村泥石流灾害救援现场获悉，截至8日18时，5日凌晨发生的泥石流灾害现场已致12人遇难，其中包括1名后续排查出的新增失联人员。目前还有1人失联，救援力量正进一步加大搜救力度。",
+    "published_dt_iso": "2026-09-08T19:46:50+08:00"
+  },
+  {
+    "title": "网上销售的便携式甲醛检测仪，精准度高达99.9%？丨中新真探",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692815.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月8日电 便携式甲醛检测仪靠谱吗？很多网上销售的便携式甲醛检测仪，主要是通过内部的电化学传感器检测甲醛。但受成本和技术限制，这类检测仪精确度往往不够，而且空气温度、湿度以及其他挥发性有机物的存在也可能会影响检测的结果。京津冀三地消协曾经对50个品牌的甲醛检测仪进行过检测，价格从几十元到几千元不等。结果发现没有一款产品能真正做到“精准检测”。(来源：@科学辟谣 中国新闻网微博)",
+    "published_dt_iso": "2026-09-08T19:21:26+08:00"
+  },
+  {
+    "title": "平陆运河船舶通航全要素综合演练首艘外贸船舶顺利完成试航",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692814.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网南宁9月8日电(钟闯瑜)南宁海关8日介绍，9月7日凌晨，装载70个外贸空集装箱的“北港南宁博润”轮办结海关监管手续后从钦州港离泊，经平陆运河驶往南宁六景港。这是平陆运河船舶通航全要素综合演练的首艘外贸船舶，标志着平陆运河进入外贸货物运输实战检验阶段。",
+    "published_dt_iso": "2026-09-08T19:20:14+08:00"
+  },
+  {
+    "title": "中国“银发族”迎开学季 智能潮流与健康生活课程受关注",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692807.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社银川9月8日电 (记者 杨迪)中国多地老年大学9月初迎来开学季，智能潮流、健康生活相关课程颇受“银发族”学员关注。",
+    "published_dt_iso": "2026-09-08T19:18:50+08:00"
+  },
+  {
+    "title": "云南城市更新转向存量提质 力建“四好”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692799.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网昆明9月8日电 (陆希成)云南省人民政府近日印发《云南省“十五五”城市更新行动规划》(下称《规划》)，提出以“近期排危、中期更新、长期提质”为序，统筹推进好房子、好小区、好社区、好城区建设，到2035年基本建成具有边疆民族地区特色的现代化人民城市。",
+    "published_dt_iso": "2026-09-08T19:18:00+08:00"
+  },
+  {
+    "title": "虚拟主播“中之人”是否算员工？法院认定事实劳动关系",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-08/10692788.shtml",
+    "date": "2026-09-08",
+    "published_time": "19:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州9月8日电(郭其钰)当虚拟数字人在直播间直播时，观众打赏的是数字人形象还是背后的真人？“中之人”(为虚拟形象提供声音和动作捕捉的工作者)驱动虚拟数字人进行直播互动，在“劳动合同+合作协议”混合签约模式下，“中之人”与运营公司之间是合作关系还是劳动关系？",
+    "published_dt_iso": "2026-09-08T19:14:14+08:00"
+  },
+  {
+    "title": "在边境附近，美国人担心失去与加拿大人的联系",
+    "link": "https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html",
+    "date": "2026-09-08",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "边境地区的美国人与加拿大人有着共生关系，但贸易战正在考验他们的关系。",
+    "published_dt_iso": "2026-09-08T17:04:51+08:00"
+  },
+  {
+    "title": "为什么股票会反抗重力以及什么会导致它们下跌",
+    "link": "https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html",
+    "date": "2026-09-08",
+    "published_time": "20:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "投资者关注强劲的企业盈利和人工智能，同时关注伊朗战争。但利率上升给股市上涨带来的风险越来越大。",
+    "published_dt_iso": "2026-09-08T20:03:06+08:00"
+  },
+  {
+    "title": "为什么五角大楼正在进行测谎，官员们准备公布大量 9/11 文件",
+    "link": "https://www.nytimes.com/2026/09/08/podcasts/the-headlines/pentagon-polygraphs-9-11-documents-crushable-concrete.html",
+    "date": "2026-09-08",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "另外，可压碎的混凝土可以阻止下一次飞机失事吗？",
+    "published_dt_iso": "2026-09-08T18:00:15+08:00"
+  },
+  {
+    "title": "9/11 的灰尘和灰烬覆盖了他们的童年。它仍然让他们生病吗？",
+    "link": "https://www.nytimes.com/2026/09/08/nyregion/9-11-children-health.html",
+    "date": "2026-09-08",
+    "published_time": "15:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "大多数关于接触世贸中心残留物的研究都集中在急救人员身上，但那里的人们年轻时表示他们的健康也面临风险。",
+    "published_dt_iso": "2026-09-08T15:00:07+08:00"
+  },
+  {
+    "title": "沙特阿拉伯誓言在胡塞武装袭击造成数十人受伤后进行报复",
+    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+    "date": "2026-09-08",
+    "published_time": "18:54",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "最近的升级有可能将沙特阿拉伯和伊朗支持的胡塞民兵拖入全面战争。",
+    "published_dt_iso": "2026-09-08T18:54:53+08:00"
+  },
+  {
+    "title": "胡塞武装袭击后油价攀升至每桶 100 美元",
+    "link": "https://www.nytimes.com/2026/09/08/business/oil-prices-iran-war.html",
+    "date": "2026-09-08",
+    "published_time": "19:45",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "分析师表示，他们预计国际基准布伦特原油价格将在今年剩余时间内保持高位。",
+    "published_dt_iso": "2026-09-08T19:45:25+08:00"
   }
 ]

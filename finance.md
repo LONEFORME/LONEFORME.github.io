@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,454.29</span>
-      <span class="ticker-change down">▼ -1.62%</span>
+      <span class="ticker-price ticker-down">4,454.85</span>
+      <span class="ticker-change down">▼ -1.61%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7103</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.7080</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,408.09 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +1.86 (+0.04%)</span>
+      <span class="ticker-price ticker-down">$4,388.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -17.65 (-0.40%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥951.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.02 (+0.32%)</span>
+      <span class="ticker-price ticker-down">¥948.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -2.96 (-0.31%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -232,6 +232,12 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">6 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="边境地区的美国人与加拿大人有着共生关系，但贸易战正在考验他们的关系。" data-title="在边境附近，美国人担心失去与加拿大人的联系" data-date="09-08 17:04" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-08 17:04</span>
+          <span class="news-item-title">在边境附近，美国人担心失去与加拿大人的联系</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-08/10692561.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="最近，甘肃兰州榆中县曝出“染色莴笋”问题。根据当地农业农村局和市场监管局发布的通报，当地排查了53家蔬菜收购仓储企业，发现6家在收购环节违法使用了果绿食品添加剂对莴笋进行染色。执法人员随即查封销毁了问题莴笋，并对涉事企业立案查处，同时，也对其他蔬菜收购仓储经营主体进行了集体约谈警示。这些着色剂用在新鲜蔬菜上可能带来哪些风险？如何加强相关监管？" data-title="6家企业涉莴笋染色被查处 消费者如何辨别“染色果蔬”？" data-date="09-08 14:18" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -262,12 +268,6 @@ title: 股票财经
           <span class="news-item-date">09-07 21:57</span>
           <span class="news-item-title">宁夏玉米刷新西北干旱半干旱区高产纪录</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-07/10692156.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月7日电 (记者 李映民)泰国商务部贸易政策和战略办公室7日公布的数据显示，受燃油价格和食品价格上涨等因素影响，泰国8月份消费者价格指数(CPI)同比上涨2.53%，高于7月份的1.95%，创三个月来新高。今年前8个月，泰国平均通胀率为1.37%。" data-title="泰国8月通胀率创三个月新高" data-date="09-07 19:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-07 19:42</span>
-          <span class="news-item-title">泰国8月通胀率创三个月新高</span>
-        </a>
   </div>
 </div>
 
@@ -281,4 +281,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-08 14:38（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-08 20:14（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
