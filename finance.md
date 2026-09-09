@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,935.55</span>
-      <span class="ticker-change up">▲ +0.07%</span>
+      <span class="ticker-price ticker-up">3,943.92</span>
+      <span class="ticker-change up">▲ +0.09%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">13,782.86</span>
-      <span class="ticker-change up">▲ +0.06%</span>
+      <span class="ticker-price ticker-up">13,788.94</span>
+      <span class="ticker-change up">▲ +0.63%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,394.35</span>
-      <span class="ticker-change down">▼ -0.13%</span>
+      <span class="ticker-price ticker-up">3,398.22</span>
+      <span class="ticker-change up">▲ +1.15%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,614.19</span>
-      <span class="ticker-change down">▼ -0.08%</span>
+      <span class="ticker-price ticker-up">1,608.20</span>
+      <span class="ticker-change up">▲ +1.08%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,454.85</span>
-      <span class="ticker-change down">▼ -1.61%</span>
+      <span class="ticker-price ticker-down">4,408.24</span>
+      <span class="ticker-change down">▼ -1.05%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,557.51</span>
-      <span class="ticker-change up">▲ +0.00%</span>
+      <span class="ticker-price ticker-down">29,507.70</span>
+      <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7068</span>
+      <span class="ticker-price ticker-down">6.7049</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,392.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -13.46 (-0.31%)</span>
+      <span class="ticker-price ticker-up">$4,399.95 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +44.54 (+1.02%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥949.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -1.38 (-0.15%)</span>
+      <span class="ticker-price ticker-down">¥949.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.23 (-0.13%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+24.1 亿</span>
+      <span class="sector-flow-badge">+33.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+53.5 亿</span>
+      <span class="sector-flow-badge">+29.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+20.1 亿</span>
+      <span class="sector-flow-badge">+20.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+43.2 亿</span>
+      <span class="sector-flow-badge">+49.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/000/188.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 9 日消息，路透社今日报道称，深度求索 DeepSeek 已聘请中信证券筹备科创板上市事宜，计划于年内启动 IPO 进程。目前具体募资规模与目标估值尚未确定。深度求索希望通过 IPO 募集资金，扩大算力基础设施建设、加大模型研发与芯片自研投入，并强化核心人才激励。据此前报道，DeepSeek 目标是在今年递交 IPO 申请、明年正式挂牌上市。2026 年前 7 个月，公司实现营收约 4.75 亿元人民币，约为 2025 年全年营收的 10 倍。路透指出，深度求索正推进新一轮融资，目标估值约 5000 亿元人民币。今年 6 月，公司完成首轮外部融资，投后估值超 500 亿美元（IT之家注：现汇率约合 3,364.13 亿元人民币），融资额约 74 亿美元（现汇率约合 497." data-title="曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市" data-date="09-09 14:41" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-09 14:41</span>
+          <span class="news-item-title">曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693211.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月5日—8日，国家医保局组织开展2026年国家基本医保药品目录现场谈判竞价，上百家内外资企业现场参与，124个目录外药品入围谈判竞价环节，一些社会关注的肿瘤、罕见病、慢性病，以及儿童用药等重点领域创新药参与谈判，并有望纳入医保目录。" data-title="谈判竞价协商收官 2026年国家基本医保药品目录预计于11月发布" data-date="09-09 14:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-09 14:11</span>
+          <span class="news-item-title">谈判竞价协商收官 2026年国家基本医保药品目录预计于11月发布</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693187.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月9日电 渥太华消息：加拿大对美国加征关税的反制措施于当地时间8日正式生效。加拿大总理卡尼当天发表全国视频讲话，坦言接下来的局势“不会轻松”，但强调加拿大必须作出回应。" data-title="加拿大对美反制关税生效 卡尼称“不会轻松”但必须回应" data-date="09-09 14:03" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-09 14:03</span>
+          <span class="news-item-title">加拿大对美反制关税生效 卡尼称“不会轻松”但必须回应</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="分析人士称，伊朗政府正在采取越来越激进的做法，因为它面临着日益严重的经济威胁，并担心其对霍尔木兹海峡的控制正在减弱。" data-title="伊朗表示准备在经济压力不断上升的情况下升级与美国的战争" data-date="09-09 13:34" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-09 13:34</span>
+          <span class="news-item-title">伊朗表示准备在经济压力不断上升的情况下升级与美国的战争</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在共和党面临艰难的中期选举之际，特朗普总统在伊朗、经济和其他问题上似乎与该党步调不一致。" data-title="共和党人聚集达拉斯，特朗普传导选民担忧的能力受到考验" data-date="09-09 11:07" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-09 11:07</span>
+          <span class="news-item-title">共和党人聚集达拉斯，特朗普传导选民担忧的能力受到考验</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693106.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国《华尔街日报》近日刊文称，旅游业正成为中国经济中越来越值得关注的增长点。随着国内旅游持续扩大、入境游迅速发展，中国正加快向“旅游强国”迈进。" data-title="全球媒体聚焦｜美媒：中国正加快迈向旅游强国" data-date="09-09 10:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-09 10:38</span>
+          <span class="news-item-title">全球媒体聚焦｜美媒：中国正加快迈向旅游强国</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-08/10692967.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月8日电 (记者 李映民)泰国内阁8日举行会议，通过《创业企业促进法案》草案，拟放宽初创企业融资及股权管理限制、完善政策支持机制，为初创企业发展营造更为灵活的制度环境。" data-title="泰国拟放宽初创企业融资限制" data-date="09-08 23:51" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -299,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-09 00:45（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-09 14:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

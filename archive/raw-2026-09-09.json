@@ -1018,5 +1018,805 @@
     "feed_name": "纽约时报",
     "summary": "两位摄影师、一位时装设计师、一位造型师、一位创意总监、一位编辑和一位超模就这些对我们的着装方式产生不可磨灭影响的图像进行了辩论。",
     "published_dt_iso": "2026-09-08T21:53:19+08:00"
+  },
+  {
+    "title": "黑客正在从订阅者那里窃取克劳德代币",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "date": "2026-09-09",
+    "published_time": "05:10",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "上个月，一位 Claude 用户注意到他的帐户正在消耗代币，即使他没有工作。此后，Anthropic 向用户发出了关于黑客的警告。",
+    "published_dt_iso": "2026-09-09T05:10:27+08:00"
+  },
+  {
+    "title": "Cognition 估值达到 48B 美元，表明投资者认为人工智能编码远非赢家",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "date": "2026-09-09",
+    "published_time": "05:04",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Cognition 的估值倍数高于 Cursor 出售给 SpaceX 之前的估值倍数。",
+    "published_dt_iso": "2026-09-09T05:04:06+08:00"
+  },
+  {
+    "title": "Meta 首次推出 Muse AI 代理。消费者会信任它吗？",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "date": "2026-09-09",
+    "published_time": "03:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Meta 的新个人 AI 代理 Muse 希望访问用户的电子邮件、日历、支付、健康服务等，这是该公司最大的消费者 AI 赌注，也是人们是否仍然信任 Meta 处理其数据的重大考验。",
+    "published_dt_iso": "2026-09-09T03:00:00+08:00"
+  },
+  {
+    "title": "纽约大学数学家表示，OpenAI 在影响职业生涯的数学问题上进行了肮脏的斗争",
+    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+    "date": "2026-09-09",
+    "published_time": "01:32",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "第一个提供纳维-斯托克斯存在性和平滑性问题解决方案的人将获得 100 万美元的奖金。",
+    "published_dt_iso": "2026-09-09T01:32:15+08:00"
+  },
+  {
+    "title": "随着人工智能改变安全格局，Chrome 现在每两周发布一次更新",
+    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+    "date": "2026-09-08",
+    "published_time": "23:04",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "谷歌正在加快 Chrome 的发布时间表，以更快地发布安全补丁和新功能。",
+    "published_dt_iso": "2026-09-08T23:04:09+08:00"
+  },
+  {
+    "title": "不透明循环以及您可能应该知道的其他人工智能术语",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "date": "2026-09-08",
+    "published_time": "03:24",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "人工智能的兴起带来了大量新术语和俚语。这是一个词汇表，其中包含您可能遇到的一些最重要单词和短语的定义。",
+    "published_dt_iso": "2026-09-08T03:24:00+08:00"
+  },
+  {
+    "title": "经过六年多的努力，Super Smash Bros Melee 得到完全反编译——雄心勃勃且技术上令人印象深刻的项目以 C 代码形式提供了 GameCube 经典",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/super-smash-bros-melee-gets-fully-decompiled-after-over-six-years-of-effort-ambitious-and-technically-impressive-project-delivers-gamecube-classic-as-c-code",
+    "date": "2026-09-08",
+    "published_time": "20:57",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "几个小时前，《任天堂明星大乱斗》反编译项目实现了其长期的关键目标。",
+    "published_dt_iso": "2026-09-08T20:57:45+08:00"
+  },
+  {
+    "title": "为什么本月的微软补丁发布很精彩",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "date": "2026-09-09",
+    "published_time": "05:11",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "在人工智能辅助攻击预计将到来之前，安全专家们正在发布补丁。",
+    "published_dt_iso": "2026-09-09T05:11:46+08:00"
+  },
+  {
+    "title": "我租了一辆车，几个小时内，我的驾驶执照就被出售了",
+    "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+    "date": "2026-09-03",
+    "published_time": "04:32",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "据报道，联邦调查局正在调查一起实时发生的大规模数据泄露事件。",
+    "published_dt_iso": "2026-09-03T04:32:02+08:00"
+  },
+  {
+    "title": "据报道，苹果可折叠“iPhone Duo”起售价为 2,000 美元",
+    "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+    "date": "2026-09-09",
+    "published_time": "13:26",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "距离 John Ternus 接任苹果首席执行官以来的首次 iPhone 发布会只剩下几个小时，彭博社记者 Mark Gurman 表示，该公司传闻已久的折叠手机的名称是 iPhone Duo。午夜报告表明，具有 [...] 的型号起价为 2,000 美元。",
+    "published_dt_iso": "2026-09-09T13:26:53+08:00"
+  },
+  {
+    "title": "索尼并没有像我们想象的那么快地淘汰光盘",
+    "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
+    "date": "2026-09-09",
+    "published_time": "05:52",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "索尼并没有放弃在 2028 年 1 月取消视频游戏光盘的决定。但索尼也没有像我们想象的那么快停止生产。两个月后，有报道称索尼最后一家光盘制造厂已被重新利用，该公司的光盘制造部门现在表示，一项广泛报道的细节是错误的。起初， […]",
+    "published_dt_iso": "2026-09-09T05:52:13+08:00"
+  },
+  {
+    "title": "戏剧围绕 OpenAI 的传奇数学里程碑展开",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "date": "2026-09-09",
+    "published_time": "04:53",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "据《纽约时报》和《连线》早些时候报道，OpenAI 表示，它找到了一个大约 90 年来一直悬而未决的重大数学问题的解决方案。在周二的一篇博客文章中，OpenAI 宣布它发现了纳维-斯托克斯问题的解决方案 - 该问题与液体的流动和[...]",
+    "published_dt_iso": "2026-09-09T04:53:52+08:00"
+  },
+  {
+    "title": "Rivian 分拆公司还为未来电子产品的延误表示歉意",
+    "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+    "date": "2026-09-09",
+    "published_time": "04:46",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Rivian 的未来电动自行车被推迟，顾客不满意。去年，Rivian 的微型出行衍生产品还推出了一款名为 TM-B 的新型软件控制电动自行车，立即引起了电动自行车世界的关注。 TM-B 配备 USB-C 充电电池、可拆卸座杆和软件控制的线控踏板系统，以完全独特的电动方式脱颖而出。",
+    "published_dt_iso": "2026-09-09T04:46:56+08:00"
+  },
+  {
+    "title": "Razer 适用于 PS5 和 Xbox 的配备 ANC 的游戏耳机折扣近 100 美元",
+    "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
+    "date": "2026-09-09",
+    "published_time": "04:39",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在 200 美元以下的游戏耳机中很少能找到像主动降噪这样的高端功能，因此我们很高兴 Razer BlackShark V3 Pro 在 Woot 上以 164.99 美元的价格出售。有针对 Xbox 和 PlayStation 销售的特定型号，但 Xbox 版本是最佳选择，因为它还支持 PlayStation、PC、Nintendo [...]",
+    "published_dt_iso": "2026-09-09T04:39:49+08:00"
+  },
+  {
+    "title": "ChatGPT Sketch 将你糟糕的绘图变成详细的 AI 图像",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+    "date": "2026-09-09",
+    "published_time": "04:16",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "OpenAI 于周二发布了 ChatGPT Images 2.5，并添加了一种新的方式来告诉 ChatGPT 你想要它制作什么图像：通过绘制涂鸦。借助名为 Sketch 的新功能，您只需在 ChatGPT 内绘制一些内容，然后告诉 ChatGPT 您希望它如何制作图像 [...]",
+    "published_dt_iso": "2026-09-09T04:16:09+08:00"
+  },
+  {
+    "title": "Meta 押注 AI 代理 Muse 将在 AI 竞赛中迎头赶上",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+    "date": "2026-09-09",
+    "published_time": "03:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta 正在通过 Muse 再次推动人工智能走向大众，Muse 是一款个人助理，据称可以将人工智能带到几乎任何人的手中。该产品是耗资数十亿美元的战略改革的最新一步，旨在重振该公司在人工智能竞赛中的不佳地位，并帮助其迎头赶上 […]",
+    "published_dt_iso": "2026-09-09T03:00:00+08:00"
+  },
+  {
+    "title": "AI 高级用户声称 Anthropic 通过订阅欺骗了他们，他们将其告上法庭",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+    "date": "2026-09-09",
+    "published_time": "01:27",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Anthropic 表示，高级用户是其业务的关键 - 即使这意味着切断 OpenClaw 等其他流行应用程序，它也会优先考虑他们。但其中一些客户表示，Anthropic 误导了他们，让他们相信自己可以从顶级定价订阅中获得比实际更多的收益。在提起的扩大集体诉讼中[...]",
+    "published_dt_iso": "2026-09-09T01:27:31+08:00"
+  },
+  {
+    "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
+    "link": "https://www.qbitai.com/2026/09/486288.html",
+    "date": "2026-09-09",
+    "published_time": "13:02",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
+    "published_dt_iso": "2026-09-09T13:02:30+08:00"
+  },
+  {
+    "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
+    "link": "https://www.qbitai.com/2026/09/486280.html",
+    "date": "2026-09-09",
+    "published_time": "12:52",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "从Demo到货架，这两家公司要让具身智能算得过账",
+    "published_dt_iso": "2026-09-09T12:52:12+08:00"
+  },
+  {
+    "title": "SkyProduction限免活动第二期：MiniMax H3会员限时免费无限用！",
+    "link": "https://www.qbitai.com/2026/09/486052.html",
+    "date": "2026-09-09",
+    "published_time": "11:39",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "8月28日-9月1日，SkyProduction（天工工作台）联合阿里巴巴通义万相，推出了Wan 3.0模型限时免费活动",
+    "published_dt_iso": "2026-09-09T11:39:58+08:00"
+  },
+  {
+    "title": "宜宾，一场机器人“招聘会”的产业雄心",
+    "link": "https://www.qbitai.com/2026/09/486038.html",
+    "date": "2026-09-09",
+    "published_time": "10:15",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试”。",
+    "published_dt_iso": "2026-09-09T10:15:54+08:00"
+  },
+  {
+    "title": "《2XKO》折戟后，拳头考虑推出付费买断制游戏",
+    "link": "https://www.ithome.com/1/000/190.htm",
+    "date": "2026-09-09",
+    "published_time": "14:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，据游戏媒体 Game Developer 今天报道，随着拳头决定终止格斗游戏《2XKO》的积极开发，外界开始猜测这家公司的未来发展战略。该公司首席产品官 Marc Merrill 近日在访谈中透露，他们正在推进一款 MMO 游戏，代号“圣杯”。Marc Merrill 表示，拳头还在考虑推出买断制的付费游戏，他认为公司并没有要求每一款游戏都采用基本免费模式。作为参考，拳头目前依靠《英雄联盟》《无畏契约》等游戏建立起了庞大现金储备，并通过不断更新的付费道具实现盈利。IT之家从原报道获悉，虽然免费游戏如今已经是游戏业界的普遍道路，但 Merrill 回忆称，他们在 2006 年寻求投资时，许多发行商和风投机构都认为，免费的东西没有前途。他在后续解释称，并非所有作品都",
+    "published_dt_iso": "2026-09-09T14:44:56+08:00"
+  },
+  {
+    "title": "马斯克：希望特斯拉 Cybercab 很快也能在欧洲推出",
+    "link": "https://www.ithome.com/1/000/189.htm",
+    "date": "2026-09-09",
+    "published_time": "14:42",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，特斯拉专为自动驾驶打造的双座车型 Cybercab 已经开始在美国得克萨斯州搭载付费乘客，而埃隆 · 马斯克近日释放了一个信号：欧洲城市或许不必再等待太久，就有机会体验 Cybercab 无人驾驶出行服务。此前，游戏主播 @rob2628 在奥斯汀体验了一次 Cybercab，并在 X 上分享了乘坐感受，同时表达了希望这款无人驾驶双座车不要多年之后才进入欧盟市场的愿望。IT之家注意到，马斯克在回应这条帖子时表示：“希望很快也能在欧洲推出。”这一表态释放出其对 Cybercab 国际化扩张的乐观预期。就在这番表态几天前，Cybercab 已经于上周在奥斯汀正式启动商业载客服务。特斯拉在上周四举行的官方发布活动上正式推出了这款专为自动驾驶打造的车型。特斯拉最近也开始",
+    "published_dt_iso": "2026-09-09T14:42:10+08:00"
+  },
+  {
+    "title": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
+    "link": "https://www.ithome.com/1/000/188.htm",
+    "date": "2026-09-09",
+    "published_time": "14:41",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，路透社今日报道称，深度求索 DeepSeek 已聘请中信证券筹备科创板上市事宜，计划于年内启动 IPO 进程。目前具体募资规模与目标估值尚未确定。深度求索希望通过 IPO 募集资金，扩大算力基础设施建设、加大模型研发与芯片自研投入，并强化核心人才激励。据此前报道，DeepSeek 目标是在今年递交 IPO 申请、明年正式挂牌上市。2026 年前 7 个月，公司实现营收约 4.75 亿元人民币，约为 2025 年全年营收的 10 倍。路透指出，深度求索正推进新一轮融资，目标估值约 5000 亿元人民币。今年 6 月，公司完成首轮外部融资，投后估值超 500 亿美元（IT之家注：现汇率约合 3,364.13 亿元人民币），融资额约 74 亿美元（现汇率约合 497.",
+    "published_dt_iso": "2026-09-09T14:41:51+08:00"
+  },
+  {
+    "title": "鸿蒙智行：智界 V9 连续两个月获 MPV 市场销量第一",
+    "link": "https://www.ithome.com/1/000/186.htm",
+    "date": "2026-09-09",
+    "published_time": "14:35",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，鸿蒙智行官方今日宣布，智界 V9 连续两个月获 MPV 市场销量第一。据IT之家此前报道，鸿蒙智行智界 V9 旗舰 MPV 上月零售交付量 8312 台、7 月的销量则为 10101 台。智界汽车执行董事及执行副总裁赵长江表示，智界未来的增长，来自完整体系的持续生长。智界汽车不追求短期单品的爆发，而是做长期稳定经营的长跑品牌。智界 V9 于今年 5 月 15 日上市，售价 38.98 万-51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。在 8 月 24 日上午的直播活",
+    "published_dt_iso": "2026-09-09T14:35:11+08:00"
+  },
+  {
+    "title": "苹果首款折叠 iPhone Duo 研发史：库克亲自推动，挑战折痕等 4 大难题",
+    "link": "https://www.ithome.com/1/000/185.htm",
+    "date": "2026-09-09",
+    "published_time": "14:33",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，彭博社马克 · 古尔曼（Mark Gurman）昨日（9 月 8 日）发布博文，通过知情人士透露信息，回顾了苹果开发其首款折叠手机（上市后预估名为 iPhone Duo）的幕后故事。在三星于 2019 年推出首款 Galaxy Fold 折叠手机之前，苹果公司就已展开技术预研，苹果硬件工程部门的核心技术团队已在秘密研究折叠手机、柔性显示屏和相关零部件；项目由时任硬件工程负责人 Dan Riccio 与工业设计团队推动早期技术工作。三星首款 Galaxy Fold 折叠手机在形态探索阶段，团队曾讨论多种产品定义，早期方案更接近一台“可展开成更大平板”的 iPad mini，且最初并未计划应用于折叠手机上。其项目开发转折点发生于 2020 年，时任苹果首席执行官蒂姆",
+    "published_dt_iso": "2026-09-09T14:33:29+08:00"
+  },
+  {
+    "title": "万丽推出全域智能生态 MIE，支持语音智控显卡等硬件",
+    "link": "https://www.ithome.com/1/000/184.htm",
+    "date": "2026-09-09",
+    "published_time": "14:33",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，显卡品牌万丽 (Manli) 昨日宣布推出万丽全域智能生态 (MIE)。其以万丽智能控制终端为输入接口、以 Manli App 为控制中枢，允许用户通过语音直接控制显卡、内存模组、散热等兼容 PC 组件。IT之家获悉，万丽全域智能生态不仅可以快速切换 PC 灯效，还能实现语音指令开机或快速打开程序 / 网页。佰维、威刚、超频三、乔思伯已加入 MIE 生态而作为 MIE 牵头方，万丽也推出了支持该生态的无限火力 (Unltd Firepwr) 显卡。其以知名手枪沙漠之鹰为设计灵感来源，初期提供超频版 GeForce RTX 5060 Ti 8GB、GeForce RTX 5060 两款产品。",
+    "published_dt_iso": "2026-09-09T14:33:05+08:00"
+  },
+  {
+    "title": "奥之心发布复古无反 M43 相机 PEN 及 14-42mm F3.5-5.6 III 镜头：2040 万像素内置 EVF，单机身 999 美元",
+    "link": "https://www.ithome.com/1/000/183.htm",
+    "date": "2026-09-09",
+    "published_time": "14:33",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，奥之心今日宣布推出 OM SYSTEM PEN，这是首款冠以“OM SYSTEM”品牌之名的 PEN 系列可换镜头无反相机。该机采用经典旁轴相机风格设计，预计于 10 月底正式上市。其机身提供银色和黑色两种选择，单机身建议零售价为 999.99 美元（现汇率约合 6,728 元人民币）。OM SYSTEM PEN 是 PEN 系列首款支持防尘防滴溅的机型（防护等级 IPX1），并内置了约 236 万点的 OLED 电子取景器（EVF），这也是自 2016 年 PEN-F 发布以来该系列再度搭载 EVF。其机身采用约 2037 万有效像素的 4/3 型 Live MOS 传感器与 TruePic IX 图像处理引擎。对焦系统从传统的对比度检测升级为 121 点全十",
+    "published_dt_iso": "2026-09-09T14:33:04+08:00"
+  },
+  {
+    "title": "WPS 挣钱京东花：WPS 京东 PLUS 联合会员补贴加码，低至 62 元 / 年",
+    "link": "https://www.ithome.com/1/000/182.htm",
+    "date": "2026-09-09",
+    "published_time": "14:25",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "WPS 超级会员 3 年日常 288 元，今日买超会 3 年送联合会员 1 年。联合会员含：京东 PLUS / 喜马拉雅 / 优酷视频 / 网易云音乐等。今日可用 800 店铺积分兑换 40 元京东 E 卡，折合仅需 248 元即可入手。800 店铺积分0 元入会得 188 积分加购指定商品得 100 积分关注店铺得 100 积分每日观看直播 2~5 分钟得 100 积分购买此联合会员得 288 积分188+100+100+100+288=776 积分老店铺会员基本都有不少积分，做了上述任务，下单后大概率可直接兑换。新会员需再看一天直播，即可攒到 876 积分。先领 30 元加码券：点此领券800 积分任务主页：点此做任务另外领券后，回到京东 App 首页 → 搜索“WPS 超级会员”，系统",
+    "published_dt_iso": "2026-09-09T14:25:16+08:00"
+  },
+  {
+    "title": "麦克·阿利斯特对利物浦没有提供合同感到“悲伤”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgy0542qjvo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "published_time": "21:01",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "利物浦中场球员亚历克西斯·麦克·阿利斯特表示，他“非常难过”没有得到俱乐部的新合同，并且有“选择”在夏天离开。",
+    "published_dt_iso": "2026-09-08T21:01:12+08:00"
+  },
+  {
+    "title": "埃杜在经历了动荡之后离开了诺丁汉森林",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cj06m1e3e75o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "published_time": "00:45",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "全球足球主管埃杜在城市球场工作一年多后离开诺丁汉森林。",
+    "published_dt_iso": "2026-09-08T00:45:43+08:00"
+  },
+  {
+    "title": "纽卡斯尔为豪的离开“准备了几个月”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cly4lngg6npo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "published_time": "14:21",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "纽卡斯尔联队体育总监罗斯·威尔逊表示，俱乐部正在为前主教练埃迪·豪的离职做长达九个月的准备。",
+    "published_dt_iso": "2026-09-08T14:21:00+08:00"
+  },
+  {
+    "title": "新视频显示威廉姆斯手球 - 但不会结束 VAR 争议",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c0lr4401rw0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07",
+    "published_time": "19:13",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "一个新的摄像机角度显示，诺丁汉森林队后卫内科·威廉姆斯在对阵托特纳姆热刺队的比赛中打入被判无效的进球时，球从他的手臂上滑落。",
+    "published_dt_iso": "2026-09-07T19:13:12+08:00"
+  },
+  {
+    "title": "谁将成为新任利物浦体育总监——他们面临哪些问题？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07",
+    "published_time": "23:52",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "接替理查德·休斯的可能候选人——以及利物浦下一任体育总监面临的众多任务。",
+    "published_dt_iso": "2026-09-07T23:52:04+08:00"
+  },
+  {
+    "title": "切尔西正在考虑引进富勒姆中场贝尔格",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cgrvx1jxrv0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-08",
+    "published_time": "00:03",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "切尔西最近对富勒姆的桑德伯格表现出了兴趣，因为他们试图在恩佐·费尔南德斯离开之前加强中场选择。",
+    "published_dt_iso": "2026-09-08T00:03:52+08:00"
+  },
+  {
+    "title": "没有新前锋，不用担心——哈弗茨和厄德高折磨着切尔西",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqjkql0rkneo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07",
+    "published_time": "04:25",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "三场比赛拿下 9 分，丢一球，大牌球员挺身而出 - 阿森纳在英超冠军争夺战中是否仍处于领先地位？",
+    "published_dt_iso": "2026-09-07T04:25:24+08:00"
+  },
+  {
+    "title": "中场有两名右后卫——尽管花费了 3.49 亿英镑，切尔西还是缺人吗？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/clyegw2re82o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-07",
+    "published_time": "03:31",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "切尔西周日以 2-1 输给冠军阿森纳的比赛结束了，两名右后卫在中场并肩作战 - 他们是如何做到这一点的？",
+    "published_dt_iso": "2026-09-07T03:31:17+08:00"
+  },
+  {
+    "title": "如果无证赌博公司被禁止，一半的英超俱乐部将面临失去利润丰厚的赞助商",
+    "link": "https://www.theguardian.com/football/2026/sep/08/premier-league-clubs-sponsorship-advertising-deals-unlicensed-gambling-companies-uk-government",
+    "date": "2026-09-08",
+    "published_time": "22:15",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "明年十家具乐部可能损失数千万英镑 立博老板强调了首相作为埃弗顿球迷的地位 英超联赛 20 家具乐部中有一半与无牌赌博公司有赞助或广告交易，根据政府制定的计划，这些交易明年可能是非法的。 为期八周的关于禁止未经英国许可的赌博公司赞助的提案的咨询将于周三结束，立博和威廉希尔等持牌运营商与英超展开了一场可能会花费大量资金的战斗。俱乐部价值数千万英镑。继续阅读...",
+    "published_dt_iso": "2026-09-08T22:15:44+08:00"
+  },
+  {
+    "title": "更健康、更快乐、更有成效：阿森纳开局再好不过了乔纳森·威尔逊",
+    "link": "https://www.theguardian.com/football/2026/sep/07/arsenals-season-could-hardly-have-started-better",
+    "date": "2026-09-07",
+    "published_time": "22:34",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "现在还为时过早，但Mikel Arteta的球队正在发挥他们上赛季有时无法企及的权威和新鲜感在这里注册我们的免费通讯三场联赛，赢了三场比赛。对于阿森纳来说，本赛季只有在曼城（看起来像是他们两个最严肃的挑战者之一）丢掉积分的情况下才能更好地开始。但这不仅仅是结果：阿森纳在eac中表现得更好",
+    "published_dt_iso": "2026-09-07T22:34:31+08:00"
+  },
+  {
+    "title": "英超联赛：周末比赛的 10 个话题",
+    "link": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action",
+    "date": "2026-09-07",
+    "published_time": "15:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "富勒姆需要一场胜利，托特纳姆展示了一些精神，杰克·格雷利什为埃弗顿提供了急需的能量。在25分钟对阵曼联的比赛中，埃弗顿的支持者们对杰克·格雷利什在重新加入租借后回归有了一些咆哮。这位攻击型中场球员仍然广受欢迎，因为他渴望娱乐，在抵达后几秒钟内制造危险情况，让体验达人重新站起来。Everto",
+    "published_dt_iso": "2026-09-07T15:00:27+08:00"
+  },
+  {
+    "title": "“出色的表现”：阿尔特塔欢呼反击胜利并表示最好的尚未到来",
+    "link": "https://www.theguardian.com/football/2026/sep/06/exceptional-arteta-arsenal-fightback-win-chelsea",
+    "date": "2026-09-07",
+    "published_time": "03:52",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "经理对切尔西的揭幕战的反应感到高兴阿隆索说他的球队必须“更紧”米克尔·阿尔特塔警告说，阿森纳有能力在英超冠军周日从一个进球中反击以击败切尔西，从而向他们的冠军对手发出声明后达到更高的高度。本赛季摩根·罗杰斯在阿联酋体育场早期罢工时首次失利，阿特塔的球队承受着压力，但得到了回应",
+    "published_dt_iso": "2026-09-07T03:52:24+08:00"
+  },
+  {
+    "title": "阿森纳 2-1 切尔西：英超联赛——事实如此",
+    "link": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+    "date": "2026-09-07",
+    "published_time": "01:55",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "凯·哈弗茨 (Kai Havertz) 进球，为马丁·厄德高 (Martin Odegaard) 攻入致胜球，阿森纳确立了自己的霸主地位。现在，第三个进球……在希尔·迪金森体育场 (Hill Dickinson Stadium) 又取得了第二个进球。点击点击点击点击！继续阅读...",
+    "published_dt_iso": "2026-09-07T01:55:11+08:00"
+  },
+  {
+    "title": "厄德高射入制胜球，阿森纳逆转战胜切尔西",
+    "link": "https://www.theguardian.com/football/2026/sep/06/arsenal-chelsea-premier-league-match-report",
+    "date": "2026-09-07",
+    "published_time": "01:53",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "英超联赛赛季的第一次重量级邂逅在某些方面被预览为不可动摇的物体与不可抗拒的力量。阿森纳一寸也不给。在哈比·阿隆索（ Xabi Alonso ）的领导下，切尔西一直很有趣，而且免费得分。然而，这忽略了一些相当根本的东西。阿森纳比赛的冲击力，当他们拿到球并想让事情发生时。切尔西在77秒后受到了重大打击，当时摩根·罗杰",
+    "published_dt_iso": "2026-09-07T01:53:08+08:00"
+  },
+  {
+    "title": "埃弗顿 2-2 曼联：英超联赛——事情发生了",
+    "link": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live",
+    "date": "2026-09-06",
+    "published_time": "23:29",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "伊恩·科佩斯塔克（ Ian Copestake ）说： “从伯肯黑德（ Birkenhead ）到比赛的火车上，埃弗顿球迷对埃弗顿（ Everton ）的转会失败一分钟一分钟地进行了更新，这让埃弗顿（ Everton ）陷入了困境。新业主（未提及闪亮的新体育场）的承诺尚未兑现。叛变就在拐角处（可能在沙丘）。”来自John Ste的意想不到的提议",
+    "published_dt_iso": "2026-09-06T23:29:32+08:00"
+  },
+  {
+    "title": "梅特兰-奈尔斯的绝妙进球帮助埃弗顿对阵曼联",
+    "link": "https://www.theguardian.com/football/2026/sep/06/everton-manchester-united-premier-league-match-report",
+    "date": "2026-09-06",
+    "published_time": "23:22",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Defiance serves David Moyes’s ­Everton well, especially when laced with a sense of indignation. At the end of a troubled week in the ­transfer market, and at the very end of a game when all seemed lost against ­Manchester United, they showed weaker in number need not translate to weaker in spirit.Ainsley Maitland-Niles, 19 ­minutes into his Everton",
+    "published_dt_iso": "2026-09-06T23:22:16+08:00"
+  },
+  {
+    "title": "全国人大常委会：将聚焦群众关心的教育、就业等问题，统筹做好工作",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693206.shtml",
+    "date": "2026-09-09",
+    "published_time": "14:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会，介绍发展社会主义民主有关情况。",
+    "published_dt_iso": "2026-09-09T14:14:13+08:00"
+  },
+  {
+    "title": "谈判竞价协商收官 2026年国家基本医保药品目录预计于11月发布",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693211.shtml",
+    "date": "2026-09-09",
+    "published_time": "14:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月5日—8日，国家医保局组织开展2026年国家基本医保药品目录现场谈判竞价，上百家内外资企业现场参与，124个目录外药品入围谈判竞价环节，一些社会关注的肿瘤、罕见病、慢性病，以及儿童用药等重点领域创新药参与谈判，并有望纳入医保目录。",
+    "published_dt_iso": "2026-09-09T14:11:17+08:00"
+  },
+  {
+    "title": "三十余载“三上两下”，只为兑现对老区人民的光明承诺|企步新长征",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693210.shtml",
+    "date": "2026-09-09",
+    "published_time": "14:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "赣江中游，惶恐滩头，",
+    "published_dt_iso": "2026-09-09T14:01:11+08:00"
+  },
+  {
+    "title": "全国人大常委会：公民参与立法的渠道更加便捷畅通",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693184.shtml",
+    "date": "2026-09-09",
+    "published_time": "13:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会，介绍发展社会主义民主有关情况。",
+    "published_dt_iso": "2026-09-09T13:40:25+08:00"
+  },
+  {
+    "title": "中央社会工作部：维护新就业群体的合法权益，引导参与社会治理",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693182.shtml",
+    "date": "2026-09-09",
+    "published_time": "13:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月9日电 国务院新闻办公室9日举行“开局起步‘十五五’”系列主题新闻发布会，介绍发展社会主义民主有关情况。",
+    "published_dt_iso": "2026-09-09T13:39:33+08:00"
+  },
+  {
+    "title": "山东省工业和信息化厅原党组成员、副厅长庞松涛被“双开”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693154.shtml",
+    "date": "2026-09-09",
+    "published_time": "12:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月9日电 据山东省纪委监委消息：经山东省委批准，山东省纪委监委对山东省工业和信息化厅原党组成员、副厅长庞松涛严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-09T12:14:16+08:00"
+  },
+  {
+    "title": "国台办：大陆海警依法在管辖海域开展执法维权行动，是正当正义之举",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693134.shtml",
+    "date": "2026-09-09",
+    "published_time": "12:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月9日电 9日上午，国务院台办举行例行新闻发布会，发言人陈斌华就近期两岸热点问题回答记者提问。有记者提问：近日，大陆海警宣布“普陀山舰”编队在台湾岛以东海域执法进行常态化执法巡查，台海巡部门称此举是“假执法、真扩权”，“企图制造具有管辖权的假象”。请问对此有何评论？",
+    "published_dt_iso": "2026-09-09T12:04:39+08:00"
+  },
+  {
+    "title": "国台办：台湾绝无可能成为一个国家，根本不存在所谓“主权”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693127.shtml",
+    "date": "2026-09-09",
+    "published_time": "12:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月9日电 9日上午，国务院台办举行例行新闻发布会，发言人陈斌华就近期两岸热点问题回答记者提问。有记者提问：近日吉尔吉斯斯坦、埃及分别同中国发表联合声明，均强调坚持一个中国原则，支持实现中国统一。台外事部门妄称大陆在“国际上不实操弄”，台湾是“主权独立国家”，两岸“互不隶属”。请问对此有何评论？",
+    "published_dt_iso": "2026-09-09T12:00:17+08:00"
+  },
+  {
+    "title": "俄罗斯恢复袭击乌克兰 已致基辅地区7人死亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693219.shtml",
+    "date": "2026-09-09",
+    "published_time": "14:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月9日电 综合消息：据乌克兰媒体报道，俄罗斯于当地时间7日晚恢复袭击，截至9日凌晨造成乌克兰基辅地区7人死亡。",
+    "published_dt_iso": "2026-09-09T14:43:53+08:00"
+  },
+  {
+    "title": "加拿大对美反制关税生效 卡尼称“不会轻松”但必须回应",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693187.shtml",
+    "date": "2026-09-09",
+    "published_time": "14:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月9日电 渥太华消息：加拿大对美国加征关税的反制措施于当地时间8日正式生效。加拿大总理卡尼当天发表全国视频讲话，坦言接下来的局势“不会轻松”，但强调加拿大必须作出回应。",
+    "published_dt_iso": "2026-09-09T14:03:51+08:00"
+  },
+  {
+    "title": "围绕美伊战事、俄乌局势 美国务卿鲁比奥最新发声",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693178.shtml",
+    "date": "2026-09-09",
+    "published_time": "13:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月9日电 综合外媒报道，当地时间8日，美国国务卿鲁比奥在访问哥伦比亚期间称，美国将继续打击伊朗油轮，以回应伊朗的袭击。",
+    "published_dt_iso": "2026-09-09T13:17:04+08:00"
+  },
+  {
+    "title": "“9·11”尘封档案公开：纽约官方曾隐瞒归零地有毒空气风险",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693117.shtml",
+    "date": "2026-09-09",
+    "published_time": "12:08",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月9日电 据英国广播公司(BBC)报道，一批新公布的文件显示，2001年“9·11”袭击发生后不久，美国纽约曼哈顿就记录到了有毒的空气质量，但政府却淡化了对公众的健康风险。",
+    "published_dt_iso": "2026-09-09T12:08:22+08:00"
+  },
+  {
+    "title": "全球媒体聚焦｜美媒：中国正加快迈向旅游强国",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693106.shtml",
+    "date": "2026-09-09",
+    "published_time": "10:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "美国《华尔街日报》近日刊文称，旅游业正成为中国经济中越来越值得关注的增长点。随着国内旅游持续扩大、入境游迅速发展，中国正加快向“旅游强国”迈进。",
+    "published_dt_iso": "2026-09-09T10:38:22+08:00"
+  },
+  {
+    "title": "“反向海淘”是一场世界对中国的认知升级",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693105.shtml",
+    "date": "2026-09-09",
+    "published_time": "10:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "“反向海淘”是一场世界对中国的认知升级(记者手记)",
+    "published_dt_iso": "2026-09-09T10:36:34+08:00"
+  },
+  {
+    "title": "特稿｜从榜单到展会，中国创新频频成为世界焦点",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693103.shtml",
+    "date": "2026-09-09",
+    "published_time": "10:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "新华社北京9月8日电特稿｜从榜单到展会，中国创新频频成为世界焦点",
+    "published_dt_iso": "2026-09-09T10:33:47+08:00"
+  },
+  {
+    "title": "“吉中关系正处于历史最好时期”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693097.shtml",
+    "date": "2026-09-09",
+    "published_time": "10:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "“吉中关系正处于历史最好时期”",
+    "published_dt_iso": "2026-09-09T10:31:47+08:00"
+  },
+  {
+    "title": "县域用电怎么管？新规来了",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693189.shtml",
+    "date": "2026-09-09",
+    "published_time": "13:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "普通县域停电首次被纳入事故分级管控——",
+    "published_dt_iso": "2026-09-09T13:31:47+08:00"
+  },
+  {
+    "title": "多地严查量贩零食，问题为什么总出在秤上",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693185.shtml",
+    "date": "2026-09-09",
+    "published_time": "13:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "4块牛肉干，店里称重收64元，回家一复称，实际只值17元。量贩零食店的电子秤，藏着多少人吃过的哑巴亏？",
+    "published_dt_iso": "2026-09-09T13:27:58+08:00"
+  },
+  {
+    "title": "数字职业再扩容，缺口巨大！新职业释放哪些就业信号？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693176.shtml",
+    "date": "2026-09-09",
+    "published_time": "13:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "今天，人力资源社会保障部等部门发布第八批新职业，包括11个新职业，23个新工种。具体是哪些？有什么特点？一起来了解。",
+    "published_dt_iso": "2026-09-09T13:09:45+08:00"
+  },
+  {
+    "title": "景点已拆，路标咋还在“指路”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693171.shtml",
+    "date": "2026-09-09",
+    "published_time": "13:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "今年春天，游客张先生驾车前往湖北省通山县某漂流景点，根据交通标识牌行至目的地附近时，施工围挡却赫然横在他眼前。张先生并非第一个“踩坑”的人，此前已有多名游客因失效标识牌与错误导航叠加误导，在该路段出行受阻。",
+    "published_dt_iso": "2026-09-09T13:02:21+08:00"
+  },
+  {
+    "title": "灯火燃处百工集：山西新绛再现“七十二行城”喧腾",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693157.shtml",
+    "date": "2026-09-09",
+    "published_time": "12:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网运城9月9日电 题：灯火燃处百工集：山西新绛再现“七十二行城”喧腾",
+    "published_dt_iso": "2026-09-09T12:10:52+08:00"
+  },
+  {
+    "title": "走进重庆合川：三江汇流处，读懂长江文化里的“韧”与“安”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693129.shtml",
+    "date": "2026-09-09",
+    "published_time": "11:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网重庆9月9日电 题：走进重庆合川：三江汇流处，读懂长江文化里的“韧”与“安”",
+    "published_dt_iso": "2026-09-09T11:35:47+08:00"
+  },
+  {
+    "title": "中央气象台9月9日10时继续发布暴雨蓝色预警",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693144.shtml",
+    "date": "2026-09-09",
+    "published_time": "11:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月9日电 据中央气象台网站消息，预计，9月9日14时至10日14时，青海南部、甘肃南部、陕西南部、川西高原北部、四川盆地中西部、贵州西部、云南东部和西部、广西西部等地部分地区有大雨或暴雨，其中四川盆地南部、贵州西北部、云南东北部等地局地有大暴雨(100～150毫米)。上述部分地区伴有短时强降水(最大小时降雨量20～50毫米，局地可超过60毫米)，局地有雷暴大风等强对流天气。",
+    "published_dt_iso": "2026-09-09T11:29:09+08:00"
+  },
+  {
+    "title": "广州海关查获毒品大麻906.52克",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693057.shtml",
+    "date": "2026-09-09",
+    "published_time": "11:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月9日电 据“海关发布”微信公众号消息，近日，广州海关在广州白云机场空港口岸查获毒品大麻，重906.52克。",
+    "published_dt_iso": "2026-09-09T11:07:24+08:00"
+  },
+  {
+    "title": "推崇⽑泽东的“Z世代”：弹幕、“教员”与政治失语",
+    "link": "https://www.bbc.com/zhongwen/articles/c33k4zjm6lro/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "published_time": "09:05",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "从2019年开始，《毛泽东选集》突然跃居清华大学图书馆年度借阅榜榜首，此后一直到2025年都稳居榜首。网络上，不少年轻人称毛泽东为“教员”，并追捧他的影视形象。为何这位已故领导人重新受到关注？",
+    "published_dt_iso": "2026-09-09T09:05:37+08:00"
+  },
+  {
+    "title": "董建华逝世：从船王富二代到香港首任特首，中共的“亲密朋友”",
+    "link": "https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "published_time": "14:38",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "中国全国政协前副主席，香港首任特首董建华逝世，享年89岁。他的前半生见证主权移交前香港的东方之珠年代，后半生更走入最高行政当局左右香港的前途。",
+    "published_dt_iso": "2026-09-09T14:38:33+08:00"
+  },
+  {
+    "title": "“我一度认不出我的男朋友”：我是如何发现自己患有脸盲症的",
+    "link": "https://www.bbc.com/zhongwen/articles/cr4vwye0z02o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "published_time": "09:05",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "在被诊断出患有相貌失认症（prosopagnosia），也就是脸盲症后，BBC记者卡罗琳・斯蒂尔探讨了这种状况背后的科学，包括它的成因，以及专家如何判断一个人是否患有此症。",
+    "published_dt_iso": "2026-09-09T09:05:42+08:00"
+  },
+  {
+    "title": "伊朗表示准备在经济压力不断上升的情况下升级与美国的战争",
+    "link": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+    "date": "2026-09-09",
+    "published_time": "13:34",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "分析人士称，伊朗政府正在采取越来越激进的做法，因为它面临着日益严重的经济威胁，并担心其对霍尔木兹海峡的控制正在减弱。",
+    "published_dt_iso": "2026-09-09T13:34:14+08:00"
+  },
+  {
+    "title": "美国以企图袭击军舰为由袭击了 5 艘伊朗油轮",
+    "link": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
+    "date": "2026-09-09",
+    "published_time": "08:50",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "伊朗向约旦发射导弹进行报复，引发了更多战斗的担忧。",
+    "published_dt_iso": "2026-09-09T08:50:19+08:00"
+  },
+  {
+    "title": "决斗法院的裁决使密苏里州的国会竞选陷入混乱",
+    "link": "https://www.nytimes.com/2026/09/08/us/politics/supreme-court-missouri-congressional-map.html",
+    "date": "2026-09-09",
+    "published_time": "10:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在两次法庭失利、另一次法庭获胜后，密苏里州官员表示，他们计划继续使用重新绘制的国会地图，以使共和党受益。",
+    "published_dt_iso": "2026-09-09T10:02:50+08:00"
+  },
+  {
+    "title": "特朗普政府要求最高法院允许选民",
+    "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-supreme-court-dhs-citizenship.html",
+    "date": "2026-09-09",
+    "published_time": "04:32",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "投票权组织对特朗普政府对政府数据库的改革提出质疑，认为这可能会被用来剥夺合格选民的选举权。",
+    "published_dt_iso": "2026-09-09T04:32:47+08:00"
+  },
+  {
+    "title": "克兰西审判中的三名陪审员描述了对坚持不懈的沮丧",
+    "link": "https://www.nytimes.com/2026/09/08/us/jurors-lindsay-clancy-trial.html",
+    "date": "2026-09-09",
+    "published_time": "10:38",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "投票判定林赛·克兰西谋杀罪名不成立的三名陪审员在接受波士顿一家电视台采访时描述了紧张的审议过程。",
+    "published_dt_iso": "2026-09-09T10:38:06+08:00"
+  },
+  {
+    "title": "特朗普无法赦免林赛·克兰西，但她的律师还是问了",
+    "link": "https://www.nytimes.com/2026/09/08/us/lindsay-clancy-lawyer-trump-pardon-murder.html",
+    "date": "2026-09-09",
+    "published_time": "03:06",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统无权消除克兰西女士面临的国家谋杀指控。她的律师发言人表示，这些评论是“向国家发表的声明”。",
+    "published_dt_iso": "2026-09-09T03:06:37+08:00"
+  },
+  {
+    "title": "共和党人聚集达拉斯，特朗普传导选民担忧的能力受到考验",
+    "link": "https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html",
+    "date": "2026-09-09",
+    "published_time": "11:07",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在共和党面临艰难的中期选举之际，特朗普总统在伊朗、经济和其他问题上似乎与该党步调不一致。",
+    "published_dt_iso": "2026-09-09T11:07:02+08:00"
+  },
+  {
+    "title": "克里斯·帕帕斯在新罕布什尔州参议院初选中击败进步挑战者",
+    "link": "https://www.nytimes.com/2026/09/08/us/politics/new-hampshire-senate-pappas-manzur.html",
+    "date": "2026-09-09",
+    "published_time": "09:48",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "帕帕斯是一名温和派民主党人，已在众议院任职四届，他将于 11 月与共和党候选人、前参议员约翰·E·苏努努 (John E. Sununu) 交锋。",
+    "published_dt_iso": "2026-09-09T09:48:07+08:00"
   }
 ]
