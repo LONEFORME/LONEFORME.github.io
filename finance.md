@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,408.24</span>
-      <span class="ticker-change down">▼ -1.05%</span>
+      <span class="ticker-price ticker-down">4,420.79</span>
+      <span class="ticker-change down">▼ -0.77%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7049</span>
+      <span class="ticker-price ticker-down">6.7043</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,399.95 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +44.54 (+1.02%)</span>
+      <span class="ticker-price ticker-up">$4,394.19 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +38.78 (+0.89%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥949.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -1.23 (-0.13%)</span>
+      <span class="ticker-price ticker-down">¥947.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -3.76 (-0.40%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -232,6 +232,36 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693459.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月9日电(记者 李映民)泰国央行行长维泰·拉塔纳功9日在曼谷举行的“泰国未来发展论坛”上表示，泰国中小企业融资难问题持续，泰国央行拟推出三项措施，拓宽中小企业融资渠道、降低融资成本和信贷风险。" data-title="泰国央行拟三项措施破解中小企业融资难题" data-date="09-09 20:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-09 20:14</span>
+          <span class="news-item-title">泰国央行拟三项措施破解中小企业融资难题</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693517.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月9日电 据上海市纪委监委消息：日前，经中共上海市委批准，上海市纪委监委对上海市现代农业投资发展集团有限公司原党委书记、董事长张国坤严重违纪违法问题进行了立案审查调查。" data-title="上海市现代农业投资发展集团原董事长张国坤被“双开”" data-date="09-09 20:09" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-09 20:09</span>
+          <span class="news-item-title">上海市现代农业投资发展集团原董事长张国坤被“双开”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693478.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在人民大会堂会见加拿大加中贸易理事会名誉主席安德烈·德马雷。" data-title="何立峰会见加拿大加中贸易理事会名誉主席安德烈·德马雷" data-date="09-09 19:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-09 19:49</span>
+          <span class="news-item-title">何立峰会见加拿大加中贸易理事会名誉主席安德烈·德马雷</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693390.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月9日电 综合报道，美国白宫8日发布公告说，美国总统特朗普当天签署文件，依据《斯穆特-霍利关税法》第338条款，禁止部分加拿大酒精饮料、摩托车、乳制品等商品进入美国市场，并对更多加拿大商品加征关税。" data-title="加拿大反制美国后，美国反制加拿大" data-date="09-09 17:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-09 17:41</span>
+          <span class="news-item-title">加拿大反制美国后，美国反制加拿大</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="一年多来，家庭和企业早已习惯关税对生活成本带来影响，如今又将有哪些变化？" data-title="关税真正会让加拿大人和美国人付出什么代价" data-date="09-09 16:30" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-09 16:30</span>
+          <span class="news-item-title">关税真正会让加拿大人和美国人付出什么代价</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/000/188.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 9 日消息，路透社今日报道称，深度求索 DeepSeek 已聘请中信证券筹备科创板上市事宜，计划于年内启动 IPO 进程。目前具体募资规模与目标估值尚未确定。深度求索希望通过 IPO 募集资金，扩大算力基础设施建设、加大模型研发与芯片自研投入，并强化核心人才激励。据此前报道，DeepSeek 目标是在今年递交 IPO 申请、明年正式挂牌上市。2026 年前 7 个月，公司实现营收约 4.75 亿元人民币，约为 2025 年全年营收的 10 倍。路透指出，深度求索正推进新一轮融资，目标估值约 5000 亿元人民币。今年 6 月，公司完成首轮外部融资，投后估值超 500 亿美元（IT之家注：现汇率约合 3,364.13 亿元人民币），融资额约 74 亿美元（现汇率约合 497." data-title="曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市" data-date="09-09 14:41" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -292,36 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-08 22:06</span>
           <span class="news-item-title">为台企落地“铺路搭桥” 台湾青年企业家合作对接会在渝举行</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-08/10692933.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社台北9月8日电 (记者 朱贺)2026台湾智慧农渔周8日在台北开幕，多家大陆企业亮相。两岸业者接受中新社采访时表示，期待进一步开拓农渔业合作空间。" data-title="大陆企业亮相台湾智慧农渔周 两岸业者盼拓合作空间" data-date="09-08 22:02" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 22:02</span>
-          <span class="news-item-title">大陆企业亮相台湾智慧农渔周 两岸业者盼拓合作空间</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-08/10692932.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社厦门9月8日电 (郑江洛)第二十六届中国国际投资贸易洽谈会8日在厦门开幕，2026年两岸经贸合作发展交流活动、重点省市对台营商环境推介活动在厦门接连举办，推动两岸经贸交流走深走实。" data-title="投洽会推动两岸经贸合作发展走深走实" data-date="09-08 22:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 22:01</span>
-          <span class="news-item-title">投洽会推动两岸经贸合作发展走深走实</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-08/10692900.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="针对一些地方以所谓“新能源”“替代能源”等名义销售不符合国家规定的车用燃料的行业现象，相关部门去年在全国范围内开展专项整治行动，严厉打击所谓的新能源加注站售卖柴油、汽油等危化品行为，取得不错的效果。但仍有消费者举报，在一些地方，还时不时冒出来以新能源加注站为幌子的黑加油点。从今年3月份开始，《焦点访谈》记者对此展开了持续的追踪调查。" data-title="1公里国道扎堆近20家！黑加油点为何屡禁不绝" data-date="09-08 21:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 21:20</span>
-          <span class="news-item-title">1公里国道扎堆近20家！黑加油点为何屡禁不绝</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-08/10692863.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月8日电 据泰国《民族报》8日报道，泰国商会大学最新公布的数据显示，2026年8月泰国消费者信心指数升至53.2，连续第三个月回升，并创今年3月以来新高。" data-title="泰国消费者信心连续三个月回升" data-date="09-08 20:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 20:42</span>
-          <span class="news-item-title">泰国消费者信心连续三个月回升</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这些关税是对特朗普总统最近关税的报复，引发了对进一步升级的担忧。" data-title="随着贸易战的加剧，加拿大对美国商品征收新的关税" data-date="09-08 14:56" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-08 14:56</span>
-          <span class="news-item-title">随着贸易战的加剧，加拿大对美国商品征收新的关税</span>
-        </a>
   </div>
 </div>
 
@@ -335,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-09 14:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-09 20:25（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

@@ -1818,5 +1818,495 @@
     "feed_name": "纽约时报",
     "summary": "帕帕斯是一名温和派民主党人，已在众议院任职四届，他将于 11 月与共和党候选人、前参议员约翰·E·苏努努 (John E. Sununu) 交锋。",
     "published_dt_iso": "2026-09-09T09:48:07+08:00"
+  },
+  {
+    "title": "随着版权诉讼的不断增多，Suno 用一种经过许可音乐训练的新模型取代了其人工智能模型",
+    "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+    "date": "2026-09-09",
+    "published_time": "20:05",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Suno 表示，在应对一系列诉讼时，其新模型 Suno v6 并未使用用于训练早期版本人工智能模型的音乐进行训练。",
+    "published_dt_iso": "2026-09-09T20:05:34+08:00"
+  },
+  {
+    "title": "LG 强烈否认电视间谍指控，称跟踪和窥探担忧“不属实”——在线调查称 2.16 亿台电视间谍并录制音频",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+    "date": "2026-09-09",
+    "published_time": "19:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "LG 强烈否认最近对其智能电视提出的安全和隐私问题。",
+    "published_dt_iso": "2026-09-09T19:50:18+08:00"
+  },
+  {
+    "title": "任天堂以 520 美元的价格推出《塞尔达传说》40 周年纪念版 Switch 2 — 首个特别版 Switch 2 将于 10 月 19 日发售，以及售价 100 美元的 Pro 控制器，可现场预订",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-unveils-the-legend-of-zelda-40th-anniversary-switch-2-for-usd520-first-ever-special-edition-switch-2-drops-october-19-alongside-usd100-pro-controller-pre-orders-live",
+    "date": "2026-09-09",
+    "published_time": "19:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "为纪念塞尔达传说 40 周年，任天堂将发布首款限量版 Switch 2，售价 520 美元。它不附带时之笛，但您可以花 100 美元购买类似主题的 Pro 控制器。",
+    "published_dt_iso": "2026-09-09T19:40:00+08:00"
+  },
+  {
+    "title": "OpenAI 声称 GPT-6 Astra 是一种空灵的“外星人思维”，具有类似 AGI 的品质——公司警告称，随着新的前沿领导者的出现，一致性挑战",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-claims-gpt-6-astra-is-an-ethereal-alien-mind-with-agi-like-qualities-company-warns-of-alignment-challenges-as-new-frontier-leader-emerges",
+    "date": "2026-09-09",
+    "published_time": "19:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "OpenAI 以其新的 GPT-6 Astra AI 模型做出了大胆的宣称，它确实有能力，但基准测试表明它除了优点之外还有许多常见的缺点，而成本和可访问性仍然是广泛使用的最大因素。",
+    "published_dt_iso": "2026-09-09T19:20:00+08:00"
+  },
+  {
+    "title": "Phanteks AMP GH 750W 电源评测：以低于 90 美元的市价购买，但其 12V-2x6 连接器上有 450W 上限",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/phanteks-amp-gh-750w-power-supply-review",
+    "date": "2026-09-09",
+    "published_time": "19:05",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Phanteks 的主流 ATX 3.1 系列采用日本电容器，提供 8 年保修，市场定价低于 90 美元，但其 12V-2x6 连接器具有 450W 上限。",
+    "published_dt_iso": "2026-09-09T19:05:00+08:00"
+  },
+  {
+    "title": "Nvidia 未发布的 RTX 3070 Ti 16GB 得益于改装者疯狂的 GDDR6 交换 - Frankenstein 卡将 RTX 3070 PCB 和新 VRAM 与 RTX 3070 Ti GPU 结合在一起",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidias-unreleased-rtx-3070-ti-16gb-comes-to-life-thanks-to-a-modders-crazy-gddr6-swap-frankenstein-card-combines-rtx-3070-pcb-and-new-vram-with-rtx-3070-ti-gpu",
+    "date": "2026-09-09",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "改装者使用 GDDR6 芯片（而不是零售版 3070 Ti 实际附带的 GDDR6X）重新创建了具有 16GB VRAM 的从未发布的 RTX 3070 Ti。",
+    "published_dt_iso": "2026-09-09T19:00:00+08:00"
+  },
+  {
+    "title": "大型科技公司着眼于冰川遍布的巴塔哥尼亚建设大型人工智能数据中心——该地区有 17,300 座冰川、寒冷和廉价能源，但光纤线路稀缺",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/glacier-strewn-patagonia-pitches-for-mega-data-center-business-coldness-and-energy-resources-a-plus-but-poor-connectivity-issues-need-to-be-resolved",
+    "date": "2026-09-09",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "阿根廷巴塔哥尼亚地区拥有 17,300 座冰川，有潜力成为数据中心热点地区。",
+    "published_dt_iso": "2026-09-09T18:00:00+08:00"
+  },
+  {
+    "title": "使用人工智能的学生在学校的成绩通常较差",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+    "date": "2026-09-09",
+    "published_time": "20:05",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "根据全球经合组织教育报告的数据，使用人工智能帮助学习的学生在学校的表现往往比不使用人工智能的学生表现更差。但情况比听起来更复杂，某些类型的人工智能使用给学习者带来了轻微的推动，特别是在被教导要批判性评估如何[...]的学生中。",
+    "published_dt_iso": "2026-09-09T20:05:01+08:00"
+  },
+  {
+    "title": "忧心忡忡的人类学研究人员警告说，人工智能“可能会杀死所有人类”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+    "date": "2026-09-09",
+    "published_time": "17:56",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "一位高级人类安全研究员表示，到本世纪末，人工智能“杀死所有人类”的可能性超过 10%，就在几小时前，一名同事因担心人工智能实验室及其竞争对手正在不小心地竞相构建他们无法控制的“超人类系统”而辞职。在关于 [...] 的帖子中",
+    "published_dt_iso": "2026-09-09T17:56:28+08:00"
+  },
+  {
+    "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
+    "link": "https://www.qbitai.com/2026/09/486374.html",
+    "date": "2026-09-09",
+    "published_time": "18:02",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-09T18:02:54+08:00"
+  },
+  {
+    "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+    "link": "https://www.qbitai.com/2026/09/486370.html",
+    "date": "2026-09-09",
+    "published_time": "17:57",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-09T17:57:54+08:00"
+  },
+  {
+    "title": "汉王 Clear6 Pro 二代电纸书开售：6 英寸 Carta1300 面板、纯平设计，1049 元起",
+    "link": "https://www.ithome.com/1/000/425.htm",
+    "date": "2026-09-09",
+    "published_time": "20:22",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，汉王 Clear6 Pro 二代电纸书今晚开售，售价 1049 元起：陨石黑：1049 元浅草紫：1099 元这款电纸书阅读器搭载 Carta 1300 墨水屏（300PPI），采用超薄纯平设计，支持 256 级灰阶，新增水波纹翻页动画；重约 168g，整机厚约 7mm；提供陨石黑、浅草紫、皓月白（暂未开售）三种配色。这款电纸书阅读器搭载 4 核 1.8 GHz 处理器，2 GB 内存、64 GB 存储，内置 3000mAh 电池；采用开放安卓系统，支持第三方应用自由安装，支持多种传书方式。IT之家附详细参数如下：京东汉王 Clear6 Pro 二代电子书 陨石黑 1049 元直达链接",
+    "published_dt_iso": "2026-09-09T20:22:11+08:00"
+  },
+  {
+    "title": "小米米家洗衣机迷你双筒洗烘 5kg 开售，国补到手价 2699 元",
+    "link": "https://www.ithome.com/1/000/424.htm",
+    "date": "2026-09-09",
+    "published_time": "20:21",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，小米米家洗衣机迷你双筒洗烘 5kg 今天（9 日）晚 8 时正式开售，建议零售价 3499 元，国补到手价 2699 元。京东小米米家洗衣机迷你双筒洗烘 5kg3175 元（国补到手 2699 元）直达链接IT之家汇总该洗衣机主要信息如下：该洗衣机拥有 5kg 大容量，全家贴身衣物不分批、不混洗；40 分钟高效洗烘，无惧梅雨天晾晒难题；真丝专属 40°C 柔烘，衣干即停不伤衣；1.87 蛋白奶渍洗净比，1.92 血渍洗净比；母婴级健康认证，除菌、除病毒率达 99.99%。该产品搭载 DD 直驱电机，提供 255mm 超大筒径；双筒独立 150ml 投放盒，加满一次使用 1 个月，智能精控投放剂量，减少洗涤残留；34 种特渍专属程序满足多场景去污需求，涵盖奶渍、果",
+    "published_dt_iso": "2026-09-09T20:21:30+08:00"
+  },
+  {
+    "title": "消息称折叠屏限制了首款逻辑折叠 τ 芯片发挥，最佳性能设备得等华为 Mate 90 Pro Max",
+    "link": "https://www.ithome.com/1/000/423.htm",
+    "date": "2026-09-09",
+    "published_time": "20:18",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了麒麟 9050 Pro 处理器。麒麟 9050 Pro 也是首款逻辑折叠 τ 芯片。博主 @数码闲聊站 今日发文称，折叠屏还是限制了性能发挥，第一代 τ 芯片最佳性能设备还是得等华为 Mate 90 Pro Max。麒麟 9050 Pro —— 1*3.1GHz 超大核 + 2*2.7GHz 性能大核 + 4*2.2GHz 能效大核 + 2*1.75GHz 小核，Maleoon 955 GPU，6CU 1GHz据IT之家了解，麒麟 9050 Pro 在单芯片内将逻辑单元分层排布，如同从平",
+    "published_dt_iso": "2026-09-09T20:18:21+08:00"
+  },
+  {
+    "title": "电视关机还在偷听用户对话？LG 驳斥相关指控",
+    "link": "https://www.ithome.com/1/000/422.htm",
+    "date": "2026-09-09",
+    "published_time": "20:13",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，LG 在接受 Tom's Hardware 采访时发布声明，坚决否认近期有关其智能电视持续记录、上传数据，待机状态下录制音频的相关指控，但确认电视会扫描局域网内其他设备；该功能在智能电视及媒体设备中十分常见。这份声明发布前，有博主布视频称，LG 有“2.16 亿台间谍电视”。IT之家注意到，本周早些时候，Gamers Nexus 在 YouTube 发布了一则视频，指出 LG 智能电视存在多项安全与隐私隐患。这个时长两小时的视频提出多项指控，其中包括：即便处于离线或者待机模式，LG 智能电视仍会持续记录并上传用户数据。视频还称，电视会扫描 Wi‑Fi 网络、录制音频日志，采集音视频输入信号，以此识别用户正在观看的内容。该项测试由两名安全研究员米尔布鲁（MrBru",
+    "published_dt_iso": "2026-09-09T20:13:44+08:00"
+  },
+  {
+    "title": "三星谈苹果折叠屏手机 iPhone Duo：欢迎竞争，重量是成败关键",
+    "link": "https://www.ithome.com/1/000/419.htm",
+    "date": "2026-09-09",
+    "published_time": "19:52",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，就在万众期待的苹果折叠屏 iPhone 发布前夕，三星并未感到威胁。相反，这家折叠智能手机领域的先驱表示，对这场竞争“举双手欢迎”。IT之家注意到，上述观点来自文熙哲（Hee-Cheul Moon），三星先进机械研发组负责人，他与三星智能手机研发组负责人崔承基（Seungki Choi）一同通过 Zoom 接受了《连线》杂志的线上采访。在话题转向苹果之前，二人谈到，自初代 Galaxy Z Fold 问世七年来，三星是如何将最新款 Galaxy Z Fold8 的重量削减 75 克的。重量是折叠手机能否取得成功的关键。如果机身厚重笨重，用户使用意愿就会下降。过去两年，荣耀、谷歌和三星推出的折叠设备重量快速下降，每一代产品都采用更轻薄的设计。这或许正是三星新款折叠",
+    "published_dt_iso": "2026-09-09T19:52:51+08:00"
+  },
+  {
+    "title": "告别 EQE“鼠标”车身，全新一代奔驰纯电 E 级谍照曝光",
+    "link": "https://www.ithome.com/1/000/418.htm",
+    "date": "2026-09-09",
+    "published_time": "19:50",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，2022 年，奔驰推出了被寄予厚望的“纯电 E 级”EQE 轿车，然而市场表现并不成功。落后的电池技术是一方面，“鼠标”式的外形轮廓也是另一方面。在 EQE 逐步退出市场的同时，继任的纯电 E 级已开始做“接棒”的准备，新车计划明年上市。外媒 Carscoops 今天（9 日）最新曝光的谍照显示，新车吸取了 EQE 的教训：纯电轿车完全可以保留传统轿车的样子。最新原型车卸下了大部分厚重伪装，量产版车型的前灯首次清晰亮相，每侧灯组内部都有一对三叉星造型日间行车灯。新车前格栅目前仍处于遮挡状态，若按家族最新设计来看，预计将会用上纯电 GLC 和 C 级同款的巨型发光格栅。动力方面，纯电 E 级将基于纯电 C 级和 GLC 同源的奔驰 MB.EA 架构打造，预计将配备",
+    "published_dt_iso": "2026-09-09T19:50:57+08:00"
+  },
+  {
+    "title": "天马推出极窄超高刷 AMOLED 显示技术：屏占比 99.6%，刷新率 240Hz",
+    "link": "https://www.ithome.com/1/000/408.htm",
+    "date": "2026-09-09",
+    "published_time": "19:36",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，天马今日宣布推出极窄超高刷显示技术，融合极窄边框、超高刷新、低耗长寿等多项自研核心技术。天马表示，通过自研 FSD 技术与模组一体化设计方案等显示技术，将面板单体边框直降至 0.35mm，模组边框目视仅 0.1mm，且达成四边四角等宽的极致对称设计，彻底弱化边框视觉割裂感，屏占比达 99.6%，真正达成趋近“0”边框的无界视觉效果。据介绍，天马首创全新分离式像素电路设计，搭配新型快速充电电路与智能触控算法优化，成功实现 240Hz 超高刷新率。相较于传统显示方案，天马全新分离式电路设计带来全方位性能提升：首帧亮度对比 13.4%，避免画面闪暗，保障每一次切换都清晰舒适；图像残留优化提升 61%，面对高速运动画面、快速滑动场景，画面依旧干净利落、无模糊拖影；让动态",
+    "published_dt_iso": "2026-09-09T19:36:39+08:00"
+  },
+  {
+    "title": "科学家乘私人飞机追踪卫星再入大气层，研究太空碎片燃烧污染",
+    "link": "https://www.ithome.com/1/000/405.htm",
+    "date": "2026-09-09",
+    "published_time": "19:27",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 9 日消息，一组研究人员搭乘私人飞机，追踪了两颗重返大气层的卫星，以此研究太空碎片在地球大气中燃烧所产生的污染。本次观测的卫星是欧洲空间局（ESA）的探戈号（Tango）与桑巴号（Samba），二者曾和已经脱离轨道的伦巴号（Rumba）、萨尔萨号（Salsa）共同组成“星簇”星座。这四颗卫星过去用于研究地球磁场与太阳风之间的相互作用。在服役 25 年后，欧洲空间局借探戈号与桑巴号受控再入大气层的机会，帮助科学家研究卫星在螺旋坠落地球的过程中解体、燃烧时会发生什么。这支国际研究团队对两次卫星再入过程展开了追踪，两次事件相隔一天，分别发生在 8 月 31 日和 9 月 1 日，地点位于南太平洋上空，距离波利尼西亚汤加群岛数百英里。研究的目标是弄清卫星解体的全过程，以及该过程会产",
+    "published_dt_iso": "2026-09-09T19:27:08+08:00"
+  },
+  {
+    "title": "埃斯特沃融入切尔西的一切",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm2mlk4p4x5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "published_time": "15:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "埃斯特沃·威廉在对阵阿森纳的客串比赛中表现出色，让我们看看他本赛季可以在切尔西队中扮演什么角色。",
+    "published_dt_iso": "2026-09-09T15:00:16+08:00"
+  },
+  {
+    "title": "聚焦科学家“以身许国酬华年 ” 《杜祥琬传》新书在北京发布",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693488.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月9日电 (记者 孙自法)中国科协“科学家精神和科学文化出版工程”重点图书——《以身许国酬华年：杜祥琬传》，9月9日下午在国家科技传播中心举行新书发布仪式，中国工程院院士、核物理工程技术专家和强激光与能源战略科学家杜祥琬现场见证并参加对谈交流。",
+    "published_dt_iso": "2026-09-09T20:21:47+08:00"
+  },
+  {
+    "title": "中国海警圆满完成2026年北太平洋公海渔业执法巡航任务",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693525.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月9日上午，由中国海警长山舰和五虎舰组成的舰艇编队圆满完成2026年北太平洋公海渔业执法巡航任务，顺利返港。这是中国海警在北太平洋公海开展的第11次巡航。此次巡航历时45天，航程19800余海里，航时2100余小时。",
+    "published_dt_iso": "2026-09-09T20:17:20+08:00"
+  },
+  {
+    "title": "中央社会工作部：让新就业群体居有所盼、发展有奔头",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693498.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月9日电 (记者 程小路 徐雪莹)“近些年来，新就业群体规模不断扩大，他们奔忙在路上、在‘云端’，是保障城市运转、满足群众需求的重要纽带。”在国务院新闻办公室9日举行的“开局起步‘十五五’”系列主题新闻发布会上，中央社会工作部新闻发言人、副部长赵世堂表示，将加强关爱凝聚，让新就业群体居有所盼、发展有奔头。",
+    "published_dt_iso": "2026-09-09T20:13:50+08:00"
+  },
+  {
+    "title": "上海市现代农业投资发展集团原董事长张国坤被“双开”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693517.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月9日电 据上海市纪委监委消息：日前，经中共上海市委批准，上海市纪委监委对上海市现代农业投资发展集团有限公司原党委书记、董事长张国坤严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-09T20:09:40+08:00"
+  },
+  {
+    "title": "何立峰会见加拿大加中贸易理事会名誉主席安德烈·德马雷",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693478.shtml",
+    "date": "2026-09-09",
+    "published_time": "19:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在人民大会堂会见加拿大加中贸易理事会名誉主席安德烈·德马雷。",
+    "published_dt_iso": "2026-09-09T19:49:26+08:00"
+  },
+  {
+    "title": "全国政协：围绕10项重点任务开展民主监督 助推“十五五”规划实施",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693430.shtml",
+    "date": "2026-09-09",
+    "published_time": "19:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月9日电 (记者 程小路 徐雪莹)全国政协副秘书长、办公厅新闻发言人胡衡庐9日在北京指出，“十五五”时期，全国政协10个专门委员会将坚持协商式监督定位，分别围绕加快建设健康中国、扩大高水平对外开放等10项重点任务，对每项任务每年选择1个侧重点持续开展民主监督，助推规划实施。",
+    "published_dt_iso": "2026-09-09T19:45:18+08:00"
+  },
+  {
+    "title": "中方与联合国粮农组织共同举办水产养殖边会",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693435.shtml",
+    "date": "2026-09-09",
+    "published_time": "19:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社罗马9月9日电 (记者 李洋)正在举行的联合国粮农组织渔业委员会第37届会议期间，中方与粮农组织当地时间8日在位于意大利罗马的粮农组织总部共同举办水产养殖边会。边会主题是“推动水产养殖创新，共促绿色可持续发展”。",
+    "published_dt_iso": "2026-09-09T19:44:48+08:00"
+  },
+  {
+    "title": "统一战线“地域+领域”教育领域组团式帮扶毕节系列活动启动",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-09/10693433.shtml",
+    "date": "2026-09-09",
+    "published_time": "19:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网贵州毕节9月9日电 (记者 张伟)9月8日，统一战线“地域+领域”教育领域组团式帮扶毕节系列活动启动及捐赠仪式在贵州省毕节市举行。全国人大常委会副委员长，民盟中央主席丁仲礼出席。",
+    "published_dt_iso": "2026-09-09T19:43:40+08:00"
+  },
+  {
+    "title": "哈交通部：今年前8个月“中间走廊”运输量同比增长22%",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693512.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网阿斯塔纳9月9日电(记者 单璐)哈萨克斯坦交通部9日发布消息称，今年前8个月，跨里海国际运输走廊运输量同比增长22%。",
+    "published_dt_iso": "2026-09-09T20:15:18+08:00"
+  },
+  {
+    "title": "泰国央行拟三项措施破解中小企业融资难题",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693459.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社曼谷9月9日电(记者 李映民)泰国央行行长维泰·拉塔纳功9日在曼谷举行的“泰国未来发展论坛”上表示，泰国中小企业融资难问题持续，泰国央行拟推出三项措施，拓宽中小企业融资渠道、降低融资成本和信贷风险。",
+    "published_dt_iso": "2026-09-09T20:14:52+08:00"
+  },
+  {
+    "title": "武契奇解散国民议会 并确认提前选举日期",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693400.shtml",
+    "date": "2026-09-09",
+    "published_time": "18:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月9日电 据法新社报道，塞尔维亚总统武契奇当地时间9日宣布解散国民议会，并决定于10月25日举行提前议会选举。",
+    "published_dt_iso": "2026-09-09T18:24:33+08:00"
+  },
+  {
+    "title": "加拿大反制美国后，美国反制加拿大",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693390.shtml",
+    "date": "2026-09-09",
+    "published_time": "17:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月9日电 综合报道，美国白宫8日发布公告说，美国总统特朗普当天签署文件，依据《斯穆特-霍利关税法》第338条款，禁止部分加拿大酒精饮料、摩托车、乳制品等商品进入美国市场，并对更多加拿大商品加征关税。",
+    "published_dt_iso": "2026-09-09T17:41:04+08:00"
+  },
+  {
+    "title": "尼泊尔泥石流灾害遇难人数升至1367人 约5132人失联",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693225.shtml",
+    "date": "2026-09-09",
+    "published_time": "14:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月9日电 综合报道，据尼泊尔国家减少灾害风险管理局公布的最新数据，截至当地时间9月9日11时，尼泊尔泥石流灾害造成的遇难人数升至1367人，失联人数约为5132人。",
+    "published_dt_iso": "2026-09-09T14:47:41+08:00"
+  },
+  {
+    "title": "伊朗打击约旦美军基地战机机库、美军驱逐舰和多艘美国油轮",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-09/10693220.shtml",
+    "date": "2026-09-09",
+    "published_time": "14:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月9日电 综合消息：伊朗伊斯兰革命卫队9日发表声明称，对在约旦的美军基地、在波斯湾的两艘美军驱逐舰和数艘美国油轮发动报复性打击。当天还对10艘在美国鼓励支持下试图穿越霍尔木兹海峡禁航区的船只采取行动。",
+    "published_dt_iso": "2026-09-09T14:44:27+08:00"
+  },
+  {
+    "title": "黑龙江构建“全链条”技能服务体系 让“回炉”有技 毕业有岗",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693496.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网哈尔滨9月9日电(记者 王妮娜)9日，黑龙江省启动“技耀龙江·领航赋能”高校毕业生等青年技能引领就业创业专项服务行动。该行动旨在通过构建覆盖“启蒙、培训、评价、就业、创业”的全链条技能服务体系，破解当前就业领域“有活没人干”与“有人没活干”的情况。",
+    "published_dt_iso": "2026-09-09T20:13:16+08:00"
+  },
+  {
+    "title": "云南砚山“校长老师”金成跃：把根扎回讲台 把校园建成家",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693489.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网云南文山9月9日电 题：云南砚山“校长老师”金成跃：把根扎回讲台 把校园建成家",
+    "published_dt_iso": "2026-09-09T20:12:06+08:00"
+  },
+  {
+    "title": "中国规模最大的大食蚁兽种群再“添丁”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693482.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社广州9月9日电 (王华 邓泳怡)广东清远长隆森林王国(清远长隆)的大食蚁兽幼崽“温怡”9日正式与游客见面。",
+    "published_dt_iso": "2026-09-09T20:05:46+08:00"
+  },
+  {
+    "title": "浙江教育观察：共富路上，怎样锻造“大先生”？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693501.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州9月9日电(曹丹)2026年是浙江共同富裕示范区建设五周年。五年来，浙江教育稳步实现从“有学上”向“上好学”的深度跨越。硬件均衡是基础骨架，师资均衡是提质核心，而教育家精神，是驱动教师转型、赋能教育优质均衡的灵魂。",
+    "published_dt_iso": "2026-09-09T20:04:16+08:00"
+  },
+  {
+    "title": "女子指控被4岁男童摸屁股：别用所谓的维权透支孩子！",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693505.shtml",
+    "date": "2026-09-09",
+    "published_time": "20:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "比起成年人所谓的情绪内耗，幼童的心理健康、童年安全感，才是这场风波最不该被透支的。",
+    "published_dt_iso": "2026-09-09T20:01:45+08:00"
+  },
+  {
+    "title": "闽宁两地签署新一轮医疗卫生协作框架协议",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693434.shtml",
+    "date": "2026-09-09",
+    "published_time": "19:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月9日电 (记者 杨迪)记者9日从宁夏卫生健康委获悉，福建、宁夏两省区卫生健康委近日签署新一轮医疗卫生协作框架协议，持续深化医疗人才“组团式”帮扶。",
+    "published_dt_iso": "2026-09-09T19:43:48+08:00"
+  },
+  {
+    "title": "广东举办招才引智系列活动 发布三项招聘计划",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693428.shtml",
+    "date": "2026-09-09",
+    "published_time": "19:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月9日电 (记者 程景伟)广东省人社厅9日在广州举办“百万英才汇南粤”2026-2027年度“才汇湾区、业兴南粤”招才引智系列活动，集中发布三项招聘计划。",
+    "published_dt_iso": "2026-09-09T19:43:04+08:00"
+  },
+  {
+    "title": "宁夏高校资助育人宣讲活动开讲 受助学子讲述励志报国青春故事",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-09/10693454.shtml",
+    "date": "2026-09-09",
+    "published_time": "19:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月9日电 (记者 李佩珊)9月9日，“赤诚感党恩 励志报国情”2026年宁夏高校资助育人宣讲活动在宁夏大学举行，24名优秀受奖助学生代表依次登台，结合亲身经历分享受助成长历程，传递青年一代感恩奋进的精神力量。",
+    "published_dt_iso": "2026-09-09T19:40:02+08:00"
+  },
+  {
+    "title": "2026台湾地方选举：“九合一”为何重要？选举时程是什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "published_time": "17:32",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "台湾的地方选举又称“九合一”选举，每四年一次，多数落在总统任期中段的年底，故被视为总统的“期中考”。",
+    "published_dt_iso": "2026-09-09T17:32:11+08:00"
+  },
+  {
+    "title": "习近平与贝安德首次通话 基调积极 同时提及黎智英",
+    "link": "https://www.bbc.com/zhongwen/articles/c1j4n836le2o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "published_time": "17:08",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "通稿还引述贝安德表示，“愿将双边关系恢复到历史最高水平”，更好造福两国人民。然而，唐宁街10号发布的通话纪要中，并未出现“恢复到历史最高水平”的措辞。",
+    "published_dt_iso": "2026-09-09T17:08:24+08:00"
+  },
+  {
+    "title": "关税真正会让加拿大人和美国人付出什么代价",
+    "link": "https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-09",
+    "published_time": "16:30",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "一年多来，家庭和企业早已习惯关税对生活成本带来影响，如今又将有哪些变化？",
+    "published_dt_iso": "2026-09-09T16:30:16+08:00"
+  },
+  {
+    "title": "中东动荡加剧，油价触及每桶 100 美元",
+    "link": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
+    "date": "2026-09-09",
+    "published_time": "20:15",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "自伊朗战争爆发以来，原油成本已上涨40%，推高了汽油、柴油和其他精炼燃料的价格。",
+    "published_dt_iso": "2026-09-09T20:15:01+08:00"
+  },
+  {
+    "title": "为什么特朗普在德克萨斯州聚集共和党人，而伊朗则针对美国军舰",
+    "link": "https://www.nytimes.com/2026/09/09/podcasts/the-headlines/trump-republicans-texas-iran-us-warships.html",
+    "date": "2026-09-09",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "另外，虚假图片充斥着房地产列表。",
+    "published_dt_iso": "2026-09-09T18:00:12+08:00"
+  },
+  {
+    "title": "建制派渡过难关：新罕布什尔州初选的五个要点",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/new-hampshire-primaries-takeaways.html",
+    "date": "2026-09-09",
+    "published_time": "18:08",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "美国参议院竞选将有一些熟悉的面孔：前参议员约翰·E·苏努努 (John E. Sununu) 和四届国会议员克里斯·帕帕斯 (Chris Pappas)。参议员的女儿斯蒂芬妮·沙欣 (Stefany Shaheen) 在众议院初选中勉强获胜。",
+    "published_dt_iso": "2026-09-09T18:08:47+08:00"
+  },
+  {
+    "title": "特朗普的超级政治行动委员会与神秘集团在中期选举上花费 2500 万美元有关",
+    "link": "https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html",
+    "date": "2026-09-09",
+    "published_time": "19:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "最近成立的共和党团体正在向六场关键的中期竞选注入资金，其中最大的一笔资金将用于新罕布什尔州和阿拉斯加州的参议院竞选。",
+    "published_dt_iso": "2026-09-09T19:00:05+08:00"
   }
 ]
