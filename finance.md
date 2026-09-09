@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,507.70</span>
+      <span class="ticker-price ticker-down">29,432.66</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7043</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.7065</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,394.19 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +38.78 (+0.89%)</span>
+      <span class="ticker-price ticker-up">$4,406.63 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +51.22 (+1.18%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥947.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -3.76 (-0.40%)</span>
+      <span class="ticker-price ticker-up">¥952.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +0.34 (+0.04%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,97 +230,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693459.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月9日电(记者 李映民)泰国央行行长维泰·拉塔纳功9日在曼谷举行的“泰国未来发展论坛”上表示，泰国中小企业融资难问题持续，泰国央行拟推出三项措施，拓宽中小企业融资渠道、降低融资成本和信贷风险。" data-title="泰国央行拟三项措施破解中小企业融资难题" data-date="09-09 20:14" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月9日电 2026年全球服务贸易峰会9日在北京举行，中共中央政治局常委、国务院副总理丁薛祥出席并作主旨讲话。" data-title="丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要" data-date="09-10 00:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 20:14</span>
-          <span class="news-item-title">泰国央行拟三项措施破解中小企业融资难题</span>
+          <span class="news-item-date">09-10 00:11</span>
+          <span class="news-item-title">丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693517.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月9日电 据上海市纪委监委消息：日前，经中共上海市委批准，上海市纪委监委对上海市现代农业投资发展集团有限公司原党委书记、董事长张国坤严重违纪违法问题进行了立案审查调查。" data-title="上海市现代农业投资发展集团原董事长张国坤被“双开”" data-date="09-09 20:09" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693629.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月9日电 (记者 刘大炜)“阿里山的姑娘美如水呀，阿里山的少年壮如山。”9日北京首钢园内，伴随着《高山青》的熟悉曲调，台湾形象展连续第六年亮相中国国际服务贸易交易会。" data-title="39家台企亮相服贸会 冀拓两岸服务合作新机" data-date="09-09 22:05" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 20:09</span>
-          <span class="news-item-title">上海市现代农业投资发展集团原董事长张国坤被“双开”</span>
+          <span class="news-item-date">09-09 22:05</span>
+          <span class="news-item-title">39家台企亮相服贸会 冀拓两岸服务合作新机</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693478.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在人民大会堂会见加拿大加中贸易理事会名誉主席安德烈·德马雷。" data-title="何立峰会见加拿大加中贸易理事会名誉主席安德烈·德马雷" data-date="09-09 19:49" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693626.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会" data-title="直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会" data-date="09-09 21:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 19:49</span>
-          <span class="news-item-title">何立峰会见加拿大加中贸易理事会名誉主席安德烈·德马雷</span>
+          <span class="news-item-date">09-09 21:56</span>
+          <span class="news-item-title">直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693390.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月9日电 综合报道，美国白宫8日发布公告说，美国总统特朗普当天签署文件，依据《斯穆特-霍利关税法》第338条款，禁止部分加拿大酒精饮料、摩托车、乳制品等商品进入美国市场，并对更多加拿大商品加征关税。" data-title="加拿大反制美国后，美国反制加拿大" data-date="09-09 17:41" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="分析人士称，伊朗政府正在采取越来越激进的做法，因为它面临着日益严重的经济威胁，并担心其对霍尔木兹海峡的控制正在减弱。" data-title="伊朗表示准备在经济压力不断上升的情况下升级与美国的战争" data-date="09-09 20:04" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 17:41</span>
-          <span class="news-item-title">加拿大反制美国后，美国反制加拿大</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-09 20:04</span>
+          <span class="news-item-title">伊朗表示准备在经济压力不断上升的情况下升级与美国的战争</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="一年多来，家庭和企业早已习惯关税对生活成本带来影响，如今又将有哪些变化？" data-title="关税真正会让加拿大人和美国人付出什么代价" data-date="09-09 16:30" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-09 16:30</span>
           <span class="news-item-title">关税真正会让加拿大人和美国人付出什么代价</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/000/188.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 9 日消息，路透社今日报道称，深度求索 DeepSeek 已聘请中信证券筹备科创板上市事宜，计划于年内启动 IPO 进程。目前具体募资规模与目标估值尚未确定。深度求索希望通过 IPO 募集资金，扩大算力基础设施建设、加大模型研发与芯片自研投入，并强化核心人才激励。据此前报道，DeepSeek 目标是在今年递交 IPO 申请、明年正式挂牌上市。2026 年前 7 个月，公司实现营收约 4.75 亿元人民币，约为 2025 年全年营收的 10 倍。路透指出，深度求索正推进新一轮融资，目标估值约 5000 亿元人民币。今年 6 月，公司完成首轮外部融资，投后估值超 500 亿美元（IT之家注：现汇率约合 3,364.13 亿元人民币），融资额约 74 亿美元（现汇率约合 497." data-title="曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市" data-date="09-09 14:41" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-09 14:41</span>
-          <span class="news-item-title">曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693211.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月5日—8日，国家医保局组织开展2026年国家基本医保药品目录现场谈判竞价，上百家内外资企业现场参与，124个目录外药品入围谈判竞价环节，一些社会关注的肿瘤、罕见病、慢性病，以及儿童用药等重点领域创新药参与谈判，并有望纳入医保目录。" data-title="谈判竞价协商收官 2026年国家基本医保药品目录预计于11月发布" data-date="09-09 14:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 14:11</span>
-          <span class="news-item-title">谈判竞价协商收官 2026年国家基本医保药品目录预计于11月发布</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693187.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月9日电 渥太华消息：加拿大对美国加征关税的反制措施于当地时间8日正式生效。加拿大总理卡尼当天发表全国视频讲话，坦言接下来的局势“不会轻松”，但强调加拿大必须作出回应。" data-title="加拿大对美反制关税生效 卡尼称“不会轻松”但必须回应" data-date="09-09 14:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 14:03</span>
-          <span class="news-item-title">加拿大对美反制关税生效 卡尼称“不会轻松”但必须回应</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="分析人士称，伊朗政府正在采取越来越激进的做法，因为它面临着日益严重的经济威胁，并担心其对霍尔木兹海峡的控制正在减弱。" data-title="伊朗表示准备在经济压力不断上升的情况下升级与美国的战争" data-date="09-09 13:34" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-09 13:34</span>
-          <span class="news-item-title">伊朗表示准备在经济压力不断上升的情况下升级与美国的战争</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/08/us/politics/trump-republicans-midterms-voters.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在共和党面临艰难的中期选举之际，特朗普总统在伊朗、经济和其他问题上似乎与该党步调不一致。" data-title="共和党人聚集达拉斯，特朗普传导选民担忧的能力受到考验" data-date="09-09 11:07" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-09 11:07</span>
-          <span class="news-item-title">共和党人聚集达拉斯，特朗普传导选民担忧的能力受到考验</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693106.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国《华尔街日报》近日刊文称，旅游业正成为中国经济中越来越值得关注的增长点。随着国内旅游持续扩大、入境游迅速发展，中国正加快向“旅游强国”迈进。" data-title="全球媒体聚焦｜美媒：中国正加快迈向旅游强国" data-date="09-09 10:38" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 10:38</span>
-          <span class="news-item-title">全球媒体聚焦｜美媒：中国正加快迈向旅游强国</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-08/10692967.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月8日电 (记者 李映民)泰国内阁8日举行会议，通过《创业企业促进法案》草案，拟放宽初创企业融资及股权管理限制、完善政策支持机制，为初创企业发展营造更为灵活的制度环境。" data-title="泰国拟放宽初创企业融资限制" data-date="09-08 23:51" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 23:51</span>
-          <span class="news-item-title">泰国拟放宽初创企业融资限制</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-08/10692964.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间9月8日，法国外交部长巴罗表示，法国将停止与巴勒斯坦被占领土上的以色列定居点进行商品贸易。法国与英国、加拿大、丹麦、西班牙、芬兰、爱尔兰、冰岛、挪威、波兰、葡萄牙和瑞典等11国当天发表联合声明，就限制与以色列定居点的商品贸易作出相关承诺。" data-title="12国发表联合声明 限制与约旦河西岸以色列定居点商品贸易" data-date="09-08 23:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 23:21</span>
-          <span class="news-item-title">12国发表联合声明 限制与约旦河西岸以色列定居点商品贸易</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="边境地区的美国人与加拿大人有着共生关系，但贸易战正在考验他们的关系。" data-title="在边境附近，美国人害怕失去与加拿大人的关系" data-date="09-08 22:56" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-08 22:56</span>
-          <span class="news-item-title">在边境附近，美国人害怕失去与加拿大人的关系</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-08/10692954.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆9月8日电(陈媛)8日，台商台企重庆产业考察对接活动——台湾青年企业家合作对接会举行。30余名台湾青年企业家齐聚山城，共谋渝台经贸合作新机遇。" data-title="为台企落地“铺路搭桥” 台湾青年企业家合作对接会在渝举行" data-date="09-08 22:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-08 22:06</span>
-          <span class="news-item-title">为台企落地“铺路搭桥” 台湾青年企业家合作对接会在渝举行</span>
         </a>
   </div>
 </div>
@@ -335,4 +275,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-09 20:25（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-10 00:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
