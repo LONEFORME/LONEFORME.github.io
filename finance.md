@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,421.55</span>
+      <span class="ticker-price ticker-down">29,145.59</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7099</span>
+      <span class="ticker-price ticker-up">6.7124</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,370.93 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -30.80 (-0.70%)</span>
+      <span class="ticker-price ticker-down">$4,360.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -41.15 (-0.93%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥944.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -7.46 (-0.78%)</span>
+      <span class="ticker-price ticker-down">¥942.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -9.53 (-1.00%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,73 +230,49 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694213.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月10日电 据国家医保局微信公众号消息，9月10日，第七批国家组织医用耗材集中带量采购(以下简称“集采”)在天津开标产生中选结果。本次集采纳入23种消化介入类医用耗材，共有156家企业的558个产品投标，148家企业的517个产品中选，临床在用的主流产品普遍中选。" data-title="第七批医用耗材集采开标 消化介入类耗材临床主流产品普遍中选" data-date="09-10 20:01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10694357.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="由于中东局势升级加剧市场对能源供应的担忧，国际油价10日继续上涨，纽约商品交易所轻质原油期货价格盘中一度突破每桶100美元。" data-title="纽约原油期价突破100美元" data-date="09-10 23:17" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 20:01</span>
-          <span class="news-item-title">第七批医用耗材集采开标 消化介入类耗材临床主流产品普遍中选</span>
+          <span class="news-item-date">09-10 23:17</span>
+          <span class="news-item-title">纽约原油期价突破100美元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693928.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月10日电 9月9日，2026年中国国际服务贸易交易会(简称“服贸会”)在北京首钢园拉开帷幕。本届服贸会以“全球服务，互惠共享”为主题，吸引广泛关注。多家外媒指出，服贸会推动全球合作，为世界各国共享中国发展机遇搭建了重要桥梁。" data-title="外媒聚焦：服贸会推动国际务实合作 世界共享中国市场机遇" data-date="09-10 14:19" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 14:19</span>
-          <span class="news-item-title">外媒聚焦：服贸会推动国际务实合作 世界共享中国市场机遇</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693908.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网丽水9月10日电(胡丰盛 龚隆淼 蓝纯真)连片光伏板整齐排布，在阳光下熠熠生辉，板下茶树郁郁葱葱，茶农穿行其间采摘秋茶……仲秋时节，浙江省丽水市遂昌县生态茶园的“茶光互补光伏发电项目”展现别样生机。" data-title="向空间要效益 浙江遂昌“茶光互补”照亮茶农共富路" data-date="09-10 14:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 14:16</span>
-          <span class="news-item-title">向空间要效益 浙江遂昌“茶光互补”照亮茶农共富路</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693925.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月10日，全球公共安全合作论坛(连云港)2026年大会新闻发布会在江苏省连云港市召开。" data-title="全球公共安全指数报告出炉 中国位居第一" data-date="09-10 14:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 14:13</span>
-          <span class="news-item-title">全球公共安全指数报告出炉 中国位居第一</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693924.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国汽车工业协会今天公布了8月份的汽车产销数据，我国新能源汽车主导地位持续巩固，成为稳定行业大盘的关键增量。" data-title="8月我国新能源汽车产销量同比分别增长18.9%和17.8%" data-date="09-10 14:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 14:11</span>
-          <span class="news-item-title">8月我国新能源汽车产销量同比分别增长18.9%和17.8%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693916.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月10日电 (刘驰原)“他们像孩子一样，经常来看我，让我感到特别踏实。”在济南市莱芜区高庄街道华泰社区，社区工作者正在今年74岁的朱红英家中仔细检查燃气线路，并帮老人整理杂物。朱大娘口中的“孩子”，是社区“橙色暖阳”及“共享儿女”志愿服务团队的成员。" data-title="山东持续深耕养老服务 提升老年群体幸福感获得感" data-date="09-10 14:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 14:11</span>
-          <span class="news-item-title">山东持续深耕养老服务 提升老年群体幸福感获得感</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693923.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月10日13时，第七批国家组织医用耗材集中带量采购首轮报价结束，产生直接拟中选企业。" data-title="第七批国家组织医用耗材集采产生直接拟中选企业" data-date="09-10 14:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 14:09</span>
-          <span class="news-item-title">第七批国家组织医用耗材集采产生直接拟中选企业</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="四位战场参议院提名人的发言回避了两个构成政治挑战的问题，转而关注特朗普的税法和其他话题。" data-title="共和党参议员候选人在特朗普大会上避免关税和伊朗战争" data-date="09-10 13:09" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="由于投资者担心能源供应减少和通胀加速的前景，原油价格触及数月来最高水平，债券收益率继续上升。" data-title="随着股票和债券的波动，油价飙升" data-date="09-10 23:13" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-10 13:09</span>
-          <span class="news-item-title">共和党参议员候选人在特朗普大会上避免关税和伊朗战争</span>
+          <span class="news-item-date">09-10 23:13</span>
+          <span class="news-item-title">随着股票和债券的波动，油价飙升</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693655.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月9日电 2026年全球服务贸易峰会9日在北京举行，中共中央政治局常委、国务院副总理丁薛祥出席并作主旨讲话。" data-title="丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要" data-date="09-10 00:11" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694352.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月10日电 第十六次亚太经合组织能源部长会议10日在北京开幕，中共中央政治局常委、国务院副总理丁薛祥出席并致辞。" data-title="丁薛祥出席第十六次亚太经合组织能源部长会议开幕式并致辞" data-date="09-10 22:31" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 00:11</span>
-          <span class="news-item-title">丁薛祥出席2026年全球服务贸易峰会并会见与会外国政要</span>
+          <span class="news-item-date">09-10 22:31</span>
+          <span class="news-item-title">丁薛祥出席第十六次亚太经合组织能源部长会议开幕式并致辞</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693629.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月9日电 (记者 刘大炜)“阿里山的姑娘美如水呀，阿里山的少年壮如山。”9日北京首钢园内，伴随着《高山青》的熟悉曲调，台湾形象展连续第六年亮相中国国际服务贸易交易会。" data-title="39家台企亮相服贸会 冀拓两岸服务合作新机" data-date="09-09 22:05" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694318.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月10日电 (记者 刘大炜)10日在北京发布的《两岸服务贸易发展研究报告》指出，大陆经济正转向高质量发展阶段，发展数字经济对此具有强大支撑作用。台商台企可通过数字化转型、发展数字贸易来培育未来两岸服贸合作新动能。" data-title="两岸服贸研究报告：以数字化转型和数字贸易培育合作新动能" data-date="09-10 21:47" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 22:05</span>
-          <span class="news-item-title">39家台企亮相服贸会 冀拓两岸服务合作新机</span>
+          <span class="news-item-date">09-10 21:47</span>
+          <span class="news-item-title">两岸服贸研究报告：以数字化转型和数字贸易培育合作新动能</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693626.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会" data-title="直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会" data-date="09-09 21:56" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10694308.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="河南鹤壁市的浚县，地处黄河故道，在这里，有一项传承了千年的传统手艺——泥塑。一捧黄河泥，在匠人的手中千变万化，培育出了千万级别的文创产业，成为带动当地村民增收致富、激活乡村活力的特色产业。" data-title="活力中国调研行丨一捧黄河泥培育出千万级文创产业" data-date="09-10 21:33" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 21:56</span>
-          <span class="news-item-title">直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会</span>
+          <span class="news-item-date">09-10 21:33</span>
+          <span class="news-item-title">活力中国调研行丨一捧黄河泥培育出千万级文创产业</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10694292.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月10日电 (孙倩)9月10日，山东省质量强省建设协调推进领导小组办公室、省市场监管局在济南市组织开展2026年侵权假冒伪劣商品集中销毁行动。本次销毁的侵权假冒伪劣商品包括食品药品、日用品、服装鞋帽、建材电器等98个品种，涉案货值878万元(人民币，下同)。" data-title="山东集中销毁侵权假冒伪劣商品 涉案货值878万元" data-date="09-10 21:24" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 21:24</span>
+          <span class="news-item-title">山东集中销毁侵权假冒伪劣商品 涉案货值878万元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694275.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网桂林9月10日电(邓竣缤)9月10日，广西新的社会阶层人士联谊会(以下简称“广西新联会”)、桂林市新的社会阶层人士联谊会(以下简称“桂林市新联会”)与桂林市全州县才湾镇南一村村民委员会签署服务协议，建立为期一年的帮扶关系，服务毛竹山村。三方将围绕毛竹山村乡村振兴需求，在法律、税务、会计等方面提供公益服务，助力村级治理、村集体经济发展和村民生产生活改善。" data-title="广西新联会与毛竹山村建立帮扶关系" data-date="09-10 20:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 20:57</span>
+          <span class="news-item-title">广西新联会与毛竹山村建立帮扶关系</span>
         </a>
   </div>
 </div>
@@ -311,4 +287,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-10 20:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-11 00:33（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
