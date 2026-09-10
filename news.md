@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-10 00:47 抓取更新</span>
+      <span>2026-09-10 14:44 抓取更新</span>
     </div>
   </div>
 
@@ -61,24 +61,24 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月9日电 综合报道，美军中央司令部9日在社交媒体上发文称，伊朗伊斯兰革命卫队有关打击两艘在中东地区执行任务的美国海军舰艇的说法不实，并没有美国海军军舰遭袭。" data-title="美军宣布：摧毁10艘伊朗油轮" data-date="09-09 23:22" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-10/10693926.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月10日电 题：中国式现代化对中拉人权合作有何启示？" data-title="东西问丨巴西学者：中国式现代化对中拉人权合作有何启示？" data-date="09-10 14:30" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 09-09 23:22</span>
+        <span class="hero-featured-date">🕒 09-10 14:30</span>
       </div>
-      <h2 class="hero-featured-title">美军宣布：摧毁10艘伊朗油轮</h2>
+      <h2 class="hero-featured-title">东西问丨巴西学者：中国式现代化对中拉人权合作有何启示？</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale" target="_blank" rel="noopener" data-cat="keji" data-summary="任天堂在 9 月份的直播中宣布了一系列新游戏，但其中最受关注的是 Switch 2 版《塞尔达传说：时之笛》的重制版。沃尔玛已推出这款即将推出的游戏的实体版，预购价格仅为 59.88 美元，比其他地方的实体价格低 10 美元，并且 [...]" data-title="沃尔玛重制版《时之笛》实体预购立减 10 美元" data-date="09-10 00:43" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/000/732.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，据中国汽车工业协会分析，8 月，多地汽车消费补贴持续升级，车企促销活动活跃，汽车产销环比增长、同比小幅下降。其中，国内市场继续承压，月度销量同比降幅连续 5 个月超过 20%；出口保持高速增长，月度出口量连续 3 个月超过 100 万辆，成为稳定行业大盘的关键增量；新能源汽车主导地位持续巩固，月度销量占比再创新高。中汽协数据显示，8 月汽车国内销量完成 170.1 万辆，环比增长 10.4%，同比下降 24.2%。其中，传统燃料汽车国内销量 58.4 万辆，环比增长 9.4%，同比下降 45.7%。我国新能源汽车主导地位持续巩固，成为稳定行业大盘的关键增量。数据显示，新能源汽车月度销量占比再创新高，8 月份，新能源汽车产销量分别完成 165.3 万辆和 164" data-title="中汽协：8 月汽车国内销量环比增长 10.4%，同比下降 24.2%" data-date="09-10 14:41" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-theverge">🌐 The Verge</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">沃尔玛重制版《时之笛》实体预购立减 10 美元</p>
+      <p class="hero-sub-title">中汽协：8 月汽车国内销量环比增长 10.4%，同比下降 24.2%</p>
     </a>
     <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c3v4379d4ylo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="亚历克西斯·麦克·阿利斯特(Alexis Mac Allister)对他在利物浦的合同的公开评论存在分歧，球迷和BBC体育评论员帕特·内文(Pat Nevin)分享了意见。" data-title="“说得很精彩”，但利物浦球迷对麦克·阿利斯特的合同评论感到不满" data-date="09-09 23:07" data-source="BBC">
       <div class="hero-sub-meta">
@@ -87,12 +87,12 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">“说得很精彩”，但利物浦球迷对麦克·阿利斯特的合同评论感到不满</p>
     </a>
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="由于安全运输石油的好选择很少，沙特阿拉伯的出口已跌至 13 年来的最低点。" data-title="由于战争蔓延导致航线关闭，沙特石油出口暴跌" data-date="09-10 00:42" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/09-10/10693945.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如今，徒步、登山等户外休闲活动备受追捧，社交媒体上不少标注“宝藏”的网红徒步攻略热度很高，但这样的攻略背后往往暗藏安全隐患。前不久，北京一名女子就依照一条网红徒步攻略出行，不料遭遇意外。" data-title="女子按网红徒步攻略出行遭意外 户外出游遇险谁担责？" data-date="09-10 14:38" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">由于战争蔓延导致航线关闭，沙特石油出口暴跌</p>
+      <p class="hero-sub-title">女子按网红徒步攻略出行遭意外 户外出游遇险谁担责？</p>
     </a>
   </div>
 </div>
@@ -103,95 +103,95 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693651.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月9日电 综合塔斯社、朝中社9日报道，在朝鲜国庆78周年之际，俄罗斯总统普京向朝鲜最高领导人金正恩致贺电。" data-title="普京向金正恩致贺电" data-date="09-09 23:23" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693926.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月10日电 题：中国式现代化对中拉人权合作有何启示？" data-title="东西问丨巴西学者：中国式现代化对中拉人权合作有何启示？" data-date="09-10 14:30" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 23:23</span>
-          <span class="news-item-title">普京向金正恩致贺电</span>
+          <span class="news-item-date">09-10 14:30</span>
+          <span class="news-item-title">东西问丨巴西学者：中国式现代化对中拉人权合作有何启示？</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693649.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月9日电 综合报道，美军中央司令部9日在社交媒体上发文称，伊朗伊斯兰革命卫队有关打击两艘在中东地区执行任务的美国海军舰艇的说法不实，并没有美国海军军舰遭袭。" data-title="美军宣布：摧毁10艘伊朗油轮" data-date="09-09 23:22" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693935.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网桂林9月10日电 题：影片出品人荣斌：将湘江战役的历史重新带回观众面前" data-title="（长征胜利90周年）影片出品人荣斌：将湘江战役的历史重新带回观众面前" data-date="09-10 14:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 23:22</span>
-          <span class="news-item-title">美军宣布：摧毁10艘伊朗油轮</span>
+          <span class="news-item-date">09-10 14:27</span>
+          <span class="news-item-title">（长征胜利90周年）影片出品人荣斌：将湘江战役的历史重新带回观众面前</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693646.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据英国方面9日消息，英国航班管理系统8日发生的故障已导致超1900次航班被取消。英国全国空中交通管理公司已确认该故障并非网络攻击所致。" data-title="英国航班管理系统故障致1900多次航班被取消" data-date="09-09 23:16" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693870.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月10日电 德黑兰消息：当地时间9日，伊朗多名官员发文批评国际原子能机构理事会当天表决通过的伊朗核问题决议，该决议主张将相关伊核问题提交至联合国安理会。" data-title="伊朗驳斥国际原子能机构理事会通过的伊核决议" data-date="09-10 14:15" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 23:16</span>
-          <span class="news-item-title">英国航班管理系统故障致1900多次航班被取消</span>
+          <span class="news-item-date">09-10 14:15</span>
+          <span class="news-item-title">伊朗驳斥国际原子能机构理事会通过的伊核决议</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/09/us/republican-convention-protests-dallas.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当抗议者计划在大会场地附近举行反特朗普游行和示威活动时，市政府官员竖起了路障，制定了封锁街道的计划，并与联邦机构进行协调。" data-title="特朗普和共和党人聚集参加共和党全国委员会大会，达拉斯计划举行抗议活动" data-date="09-09 23:13" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693907.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="广西壮族自治区主席韦韬赴京“带货”：吃“三碗粉”才算优秀；现场切开168斤合浦大月饼，“祝大家中秋快乐”" data-title="广西壮族自治区主席韦韬赴京“带货”：吃“三碗粉”才算优秀" data-date="09-10 13:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 13:40</span>
+          <span class="news-item-title">广西壮族自治区主席韦韬赴京“带货”：吃“三碗粉”才算优秀</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="总统在大会演讲中提出，如果共和党继续控制国会，将为每个成年美国人提供 5,000 美元的“特朗普红利”。与许多其他想法一样，这个想法可能不会实现。" data-title="如果共和党赢得中期选举，特朗普将发放 5,000 美元的“特朗普股息”支票" data-date="09-10 13:35" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-09 23:13</span>
-          <span class="news-item-title">特朗普和共和党人聚集参加共和党全国委员会大会，达拉斯计划举行抗议活动</span>
+          <span class="news-item-date">09-10 13:35</span>
+          <span class="news-item-title">如果共和党赢得中期选举，特朗普将发放 5,000 美元的“特朗普股息”支票</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693644.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月9日电 (记者 孙自法)中国西南地区10多万年前生活过丹尼索瓦人(丹人)的化石证据，最近终于被中国科学家团队以古蛋白质组学创新策略“万里挑一”鉴定出来，实现中国西南发现首例丹尼索瓦人骨骼、全球首次确认丹尼索瓦人桡骨化石的两项第一。" data-title="中国西南发现首例丹尼索瓦人化石 全球首次确认丹人桡骨" data-date="09-09 23:04" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 23:04</span>
-          <span class="news-item-title">中国西南发现首例丹尼索瓦人化石 全球首次确认丹人桡骨</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/09/us/politics/trump-midterms-maga-inc-spending.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="最近成立的一个与总统超级政治行动委员会相关的共和党团体正在向六场关键的中期竞选注入资金，其中最大的一笔资金将用于密歇根州和俄亥俄州的参议院竞选。" data-title="特朗普的超级政治行动委员会开始卸下其战争资金，新集团预订了 4700 万美元" data-date="09-09 22:52" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在一场史无前例的中期大会上，特朗普总统大多表示了重述和自我祝贺。然后，他提出如果共和党继续掌权，将向美国人每人支付 5,000 美元。" data-title="“假装我正在竞选”：共和党的 7 个要点中期大会" data-date="09-10 13:22" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-09 22:52</span>
-          <span class="news-item-title">特朗普的超级政治行动委员会开始卸下其战争资金，新集团预订了 4700 万美元</span>
+          <span class="news-item-date">09-10 13:22</span>
+          <span class="news-item-title">“假装我正在竞选”：共和党的 7 个要点中期大会</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693633.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月9日电 据中国海军社交平台账号“人民海军”9日消息，中国和新加坡“海上合作-2026”联合演习当天落下帷幕。" data-title="中新“海上合作" data-date="09-09 22:08" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693864.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月10日电 据“市说新语”微信公众号消息，9月10日上午，由市场监管总局与世界知识产权组织共同主办的第二届知识产权执法国际交流大会在湖南省长沙市开幕。市场监管总局副局长白清元、世界知识产权组织助理总干事爱德华·夸夸、湖南省副省长蒋涤非出席会议并致辞。" data-title="第二届知识产权执法国际交流大会在长沙开幕" data-date="09-10 12:24" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 22:08</span>
-          <span class="news-item-title">中新“海上合作</span>
+          <span class="news-item-date">09-10 12:24</span>
+          <span class="news-item-title">第二届知识产权执法国际交流大会在长沙开幕</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693598.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社昆明9月9日电 《昆明—蒙特利尔全球生物多样性框架》实施进展全球审议昆明对话会(简称“昆明对话会”)9日在昆明闭幕。会上发布联合主席总结报告，为即将于10月在亚美尼亚举行的《生物多样性公约》第十七次缔约方大会(COP17)中期全球审议提供支持。" data-title="各国代表昆明共议“昆蒙框架”：弥补实施差距 加速生物多样性保护" data-date="09-09 22:01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693868.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="全国首个外籍人员入境综合保险保障产品今天(10日)在北京发布，这个保险产品聚焦外籍人员短期入境的实际需求，一次投保可享受多种保障服务。" data-title="全国首个外籍人员入境综合保险保障产品在北京发布" data-date="09-10 12:24" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 22:01</span>
-          <span class="news-item-title">各国代表昆明共议“昆蒙框架”：弥补实施差距 加速生物多样性保护</span>
+          <span class="news-item-date">09-10 12:24</span>
+          <span class="news-item-title">全国首个外籍人员入境综合保险保障产品在北京发布</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693594.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网首尔9月9日电(记者 金旭)韩国国家数据处当地时间9日发布相关数据显示，8月韩国15岁以上就业人数为2915.1万人，同比增加18.4万人。失业率为2%，与2025年同期持平。" data-title="韩国8月同比新增就业18.4万人" data-date="09-09 21:58" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693846.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月10日电 综合外媒报道，当地时间9日，美国总统特朗普承诺，如果共和党在2026年11月的中期选举中成功保住对国会的控制权，将向每位美国成年人发布5000美元的“红利”。" data-title="特朗普：若共和党赢得中期选举，将向每位美国成年人发5000美元“红利”" data-date="09-10 11:55" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 21:58</span>
-          <span class="news-item-title">韩国8月同比新增就业18.4万人</span>
+          <span class="news-item-date">09-10 11:55</span>
+          <span class="news-item-title">特朗普：若共和党赢得中期选举，将向每位美国成年人发5000美元“红利”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693591.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网阿斯塔纳9月9日电(记者 单璐)哈萨克斯坦内务部9日发布消息称，哈萨克斯坦正在全国范围内开展“大麻—2026”专项禁毒行动。行动开展三个月以来，已阻止21吨毒品流入市场，查处涉毒违法犯罪行为2000余起，捣毁4个有组织犯罪团伙。" data-title="哈萨克斯坦开展专项禁毒行动 三个月阻止21吨毒品流入市场" data-date="09-09 21:57" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693819.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月10日电(记者 刁炜)近日，胡塞武装发射导弹连续袭击了受沙特支持的也门政府军目标，摧毁对手多辆装甲车及货运卡车。" data-title="无人机“现场直播”，胡塞武装发射导弹精准打击对手" data-date="09-10 11:13" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 21:57</span>
-          <span class="news-item-title">哈萨克斯坦开展专项禁毒行动 三个月阻止21吨毒品流入市场</span>
+          <span class="news-item-date">09-10 11:13</span>
+          <span class="news-item-title">无人机“现场直播”，胡塞武装发射导弹精准打击对手</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693578.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月9日电 伯尔尼消息：瑞士警方称，该国南部提契诺州一座水电站当地时间9日上午发生爆炸，已造成两人重伤。" data-title="瑞士一百年水电站爆炸致两人重伤" data-date="09-09 21:57" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693780.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月10日电 大马士革消息：当地时间9日，叙利亚西北部伊德利卜省一处存放武器和战争遗留物的临时仓库发生爆炸，造成至少14人死亡。" data-title="叙利亚一武器仓库爆炸 至少14人死亡" data-date="09-10 11:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 21:57</span>
-          <span class="news-item-title">瑞士一百年水电站爆炸致两人重伤</span>
+          <span class="news-item-date">09-10 11:11</span>
+          <span class="news-item-title">叙利亚一武器仓库爆炸 至少14人死亡</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693536.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月9日电 贝尔格莱德消息：当地时间9月9日，塞尔维亚总统武契奇签署总统令解散议会，并宣布将于今年10月25日提前举行议会选举。" data-title="塞尔维亚总统解散议会 宣布提前举行议会选举日程" data-date="09-09 20:43" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693756.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网柏林9月10日电 (记者 马秀秀)德国总理、基督教民主联盟主席弗里德里希·默茨9日在联邦议院表示，德国选择党虽然在萨克森-安哈尔特州议会选举中获胜，但未能取得绝对多数。凭借现有政策，选择党在德国任何地方都不可能获得绝对多数支持。" data-title="德国总理默茨：选择党不可能获得绝对多数支持" data-date="09-10 11:00" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 20:43</span>
-          <span class="news-item-title">塞尔维亚总统解散议会 宣布提前举行议会选举日程</span>
+          <span class="news-item-date">09-10 11:00</span>
+          <span class="news-item-title">德国总理默茨：选择党不可能获得绝对多数支持</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-09/10693512.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网阿斯塔纳9月9日电(记者 单璐)哈萨克斯坦交通部9日发布消息称，今年前8个月，跨里海国际运输走廊运输量同比增长22%。" data-title="哈交通部：今年前8个月“中间走廊”运输量同比增长22%" data-date="09-09 20:15" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 20:15</span>
-          <span class="news-item-title">哈交通部：今年前8个月“中间走廊”运输量同比增长22%</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx2yn54wn4eo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国全国政协前副主席，香港首任特首董建华逝世，享年89岁。他的前半生见证主权移交前香港的东方之珠年代，后半生更走入最高行政当局左右香港的前途。" data-title="董建华逝世：从船王富二代到香港首任特首，中共的“亲密朋友”" data-date="09-09 17:29" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-09 17:29</span>
-          <span class="news-item-title">董建华逝世：从船王富二代到香港首任特首，中共的“亲密朋友”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/09/us/politics/trump-republican-midterm-convention.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在达拉斯举行的一次不寻常的聚会上，该党的一些顶级候选人将被迫决定如何将自己与不受欢迎的总统捆绑在一起。" data-title="特朗普的中期大会会帮助还是伤害共和党？ 5 件值得关注的事情。" data-date="09-09 17:06" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/09/us/politics/john-fetterman-trump-republican-convention.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="与自己的政党关系疏远的参议员约翰·费特曼出现在钢铁厂前拍摄的一段短片中，称他“永远会拒绝社会主义的极端”。" data-title="费特曼在特朗普大会上出人意料地客串" data-date="09-10 09:48" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-09 17:06</span>
-          <span class="news-item-title">特朗普的中期大会会帮助还是伤害共和党？ 5 件值得关注的事情。</span>
+          <span class="news-item-date">09-10 09:48</span>
+          <span class="news-item-title">费特曼在特朗普大会上出人意料地客串</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/09/us/politics/election-officials-confusion-mail-ballots.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当他们等待特朗普政府的新选票系统是否可以推进的消息时，当地官员表示他们已经没有时间了。" data-title="最高法院考虑邮寄投票计划，选举官员努力应对不确定性" data-date="09-10 09:29" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-10 09:29</span>
+          <span class="news-item-title">最高法院考虑邮寄投票计划，选举官员努力应对不确定性</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/09/us/politics/trump-census-immigrants-race.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="2030 年的提案是重大变化之一，这些变化将颠覆帮助分配国会席位和制定解决不平等问题的政策的程序。" data-title="特朗普的人口普查改革将排除一些移民并消除种族问题" data-date="09-10 08:21" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-10 08:21</span>
+          <span class="news-item-title">特朗普的人口普查改革将排除一些移民并消除种族问题</span>
         </a>
   </div>
   <div class="news-category">
@@ -200,95 +200,95 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.theverge.com/gadgets/992221/ocarina-of-time-remaster-corsair-scimitar-deal-sale" target="_blank" rel="noopener" data-cat="keji" data-summary="任天堂在 9 月份的直播中宣布了一系列新游戏，但其中最受关注的是 Switch 2 版《塞尔达传说：时之笛》的重制版。沃尔玛已推出这款即将推出的游戏的实体版，预购价格仅为 59.88 美元，比其他地方的实体价格低 10 美元，并且 [...]" data-title="沃尔玛重制版《时之笛》实体预购立减 10 美元" data-date="09-10 00:43" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-10 00:43</span>
-          <span class="news-item-title">沃尔玛重制版《时之笛》实体预购立减 10 美元</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/992113/some-of-dysons-500-toothbrushes-are-breaking" target="_blank" rel="noopener" data-cat="keji" data-summary="戴森 CameraJet 的早期用户报告称，新推出的售价 499.99 美元的电动牙刷的电池舱进水了。一位用户在 r/Dyson Reddit 子版块上发帖称，他们的模型“在 30 秒内就坏了”。这个问题似乎源于设备受潮，这对于牙刷来说是一个大问题。在 […]" data-title="戴森 500 美元的牙刷有些坏了" data-date="09-10 00:39" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-10 00:39</span>
-          <span class="news-item-title">戴森 500 美元的牙刷有些坏了</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/000/489.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，苹果公司于太平洋时间 9 月 9 日上午 10 点（北京时间 2026 年 9 月 10 日凌晨 1 点）在 Apple Park 举办 2026 秋季新品发布会，IT之家编辑带来前方现场跟进报道。今年的胸牌是黄带白底黄 logo本次发布会主题定为“Surprise and shine”（亮新篇，来耀眼），基于目前曝光的诸多线索，本次发布会的重头戏是苹果 iPhone 18 Pro、iPhone 18 Pro Max 以及苹果首款折叠手机（上市后预估名为 iPhone Duo）。折叠 iPhone（内部代号 iPhone Ultra 或 iPhone Duo）采用书本式折叠设计，展开后内屏尺寸为 7.8 英寸，比例 4:3，折叠后外屏约 5.4 英寸。机身厚度" data-title="苹果发布会倒计时，IT之家现场播报中" data-date="09-10 00:38" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/000/732.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，据中国汽车工业协会分析，8 月，多地汽车消费补贴持续升级，车企促销活动活跃，汽车产销环比增长、同比小幅下降。其中，国内市场继续承压，月度销量同比降幅连续 5 个月超过 20%；出口保持高速增长，月度出口量连续 3 个月超过 100 万辆，成为稳定行业大盘的关键增量；新能源汽车主导地位持续巩固，月度销量占比再创新高。中汽协数据显示，8 月汽车国内销量完成 170.1 万辆，环比增长 10.4%，同比下降 24.2%。其中，传统燃料汽车国内销量 58.4 万辆，环比增长 9.4%，同比下降 45.7%。我国新能源汽车主导地位持续巩固，成为稳定行业大盘的关键增量。数据显示，新能源汽车月度销量占比再创新高，8 月份，新能源汽车产销量分别完成 165.3 万辆和 164" data-title="中汽协：8 月汽车国内销量环比增长 10.4%，同比下降 24.2%" data-date="09-10 14:41" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-10 00:38</span>
-          <span class="news-item-title">苹果发布会倒计时，IT之家现场播报中</span>
+          <span class="news-item-date">09-10 14:41</span>
+          <span class="news-item-title">中汽协：8 月汽车国内销量环比增长 10.4%，同比下降 24.2%</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features" target="_blank" rel="noopener" data-cat="keji" data-summary="微软开始与 Insiders 一起测试 Xbox 主机的一些新功能。测试人员将能够尝试过去的自定义 Xbox 启动动画、更多个性化徽章选项、新的本地搜索功能、改进的远程游戏质量、在云上玩游戏时下载的能力以及更清晰的语音聊天。 Xbox 测试员 [...]" data-title="Xbox 正在恢复其主机历史中的启动动画" data-date="09-10 00:25" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-10 00:25</span>
-          <span class="news-item-title">Xbox 正在恢复其主机历史中的启动动画</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/991697/apple-surprise-and-shine-event-news" target="_blank" rel="noopener" data-cat="keji" data-summary="苹果将​​于 9 月 9 日东部时间下午 1 点/太平洋时间上午 10 点举办“惊喜与闪耀”发布会，预计将发布 iPhone 18 系列的首款手机，其中包括苹果首款可折叠手机，即传闻中的“iPhone Duo”。此次活动也将是约翰·特努斯 (John Ternus) 接替蒂姆 (Tim) 后首次担任苹果首席执行官 [...]" data-title="Apple“惊喜与闪耀”活动的所有新闻" data-date="09-10 00:20" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-10 00:20</span>
-          <span class="news-item-title">Apple“惊喜与闪耀”活动的所有新闻</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live" target="_blank" rel="noopener" data-cat="keji" data-summary="这不仅是一场苹果旧活动的时机，也是一场有望为该公司开启新时代的活动。这是苹果公司新任命的首席执行官 John Ternus 主持的第一个 iPhone 主题演讲，所有迹象和传言都表明它也将首次推出 [...]" data-title="iPhone 18 直播博客：在苹果最大的活动现场" data-date="09-10 00:15" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-10 00:15</span>
-          <span class="news-item-title">iPhone 18 直播博客：在苹果最大的活动现场</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能公司一直在谈论超级智能人工智能，就像它是不可避免的，但最近的安全事件，如OpenAI的Hugging Face漏洞，正在证明部署比人类更有能力的人工智能系统的潜在危险。那么，当我们无法可靠地控制这些系统的作用时会发生什么呢？在TechCrunch的Equity播客的这一集中， Rebecca Bellan与人工智能研究员、企业家Connor Leahy一起，现在是美国" data-title="超级智能即将来临。我们应该放手吗？" data-date="09-10 00:05" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-10 00:05</span>
-          <span class="news-item-title">超级智能即将来临。我们应该放手吗？</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/intel-backed-auto-overclocking-tool-hypertune-optimizes-individual-systems-not-test-profiles-tool-claims-fps-improvement-of-up-to-60-percent-on-intel-based-systems" target="_blank" rel="noopener" data-cat="keji" data-summary="Hypertune 是一款自动超频工具，构建于英特尔 Extreme Tuning Utility (XTU) SDK 之上，并与英特尔工程师合作构建。" data-title="Intel 支持的自动超频工具 Hypertune 优化单个系统，而不是测试配置文件 - 该工具声称在基于 Intel 的系统上 FPS 提高了高达 60%" data-date="09-10 00:03" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-10 00:03</span>
-          <span class="news-item-title">Intel 支持的自动超频工具 Hypertune 优化单个系统，而不是测试配置文件 - 该工具声称在基于 Intel 的系统上 FPS 提高了高达 60%</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能公司一直在谈论超级智能人工智能，就像它是不可避免的，但最近的安全事件，如OpenAI的Hugging Face漏洞，正在证明部署比人类更有能力的人工智能系统的潜在危险。那么，当我们无法可靠地控制这些系统的作用时会发生什么呢？在TechCrunch的Equity播客的这一集中， Rebecca Bellan与人工智能研究员、企业家Connor Leahy一起，现在是美国" data-title="ControlAI 的康纳·莱希 (Connor Leahy) 阐述为何超级智能“不是武器，而是对手”" data-date="09-09 23:50" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-09 23:50</span>
-          <span class="news-item-title">ControlAI 的康纳·莱希 (Connor Leahy) 阐述为何超级智能“不是武器，而是对手”</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds" target="_blank" rel="noopener" data-cat="keji" data-summary="在组件持续短缺的情况下，这是一次“罕见的积极更新”，Framework 正在为一些 Laptop 13 Pro 买家降低 RAM 价格——至少目前是这样。在 7 月份提高笔记本电脑内存价格后，Framework 表示“以较低的成本获得了有限数量的美光 32GB 和 64GB LPCAMM2 内存模块”，[...]" data-title="框架正在为一些客户提供 RAM 退款" data-date="09-09 23:36" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-09 23:36</span>
-          <span class="news-item-title">框架正在为一些客户提供 RAM 退款</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/000/486.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 9 日消息，据外媒 The Verge 今天（9 日）报道，一批 Claude 用户将 Anthropic 告上法庭，指控其对最高档 Max 订阅套餐进行误导性宣传。这项集体诉讼指控，Anthropic 没有清楚说明 2025 年 4 月推出的 Claude Max 套餐究竟有哪些使用限制。按照 Anthropic 的宣传，每月支付 100 美元或 200 美元（IT之家注：现汇率约合 672.8 元或 1,346 元人民币）订阅 Max，即可分别获得“Pro 套餐 5 倍或 20 倍的使用额度”。作为对比，Claude Pro 按年订阅时，折合每月 17 美元（现汇率约合 114.4 元人民币）起，Anthropic 将 Max 描述为“非常适合经常使用 Claude 处" data-title="Claude Max 订阅条款出现“文字游戏”，用户将 Anthropic 告上法庭" data-date="09-09 23:29" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/000/731.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，据外媒 Nintendo Life 今天报道，任天堂现已为 Switch 2 游戏机推送 23.0.0 固件更新。本次更新最大的变化是为主机模式增加 VRR（IT之家注：可变刷新率）支持。据报道，本次更新让 Switch 2 能够支持电视模式的 VRR 输出。当游戏软件和电视 / 显示器支持 VRR 时，画面将以游戏相匹配的帧率显示。若要启用该功能，用户需更新 Switch 2 底座。同时，本次更新还在显示设置内新增了视频输出信息，用户可查看电视机支持的分辨率、刷新率。Mii 编辑界面新增背景音乐，掌机模式增强现可在快速设置菜单中一键启动。此外，本次更新还能让两台 Switch 2 主机之间进行完整数据传输，用户可将存档、截图等所有数据，从旧 Switch 2" data-title="任天堂 Switch 2 游戏机获 23.0.0 固件更新，解锁主机模式 VRR" data-date="09-10 14:40" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-09 23:29</span>
-          <span class="news-item-title">Claude Max 订阅条款出现“文字游戏”，用户将 Anthropic 告上法庭</span>
+          <span class="news-item-date">09-10 14:40</span>
+          <span class="news-item-title">任天堂 Switch 2 游戏机获 23.0.0 固件更新，解锁主机模式 VRR</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="在浏览短视频的时候，你是否也看到过医疗保健类的内容。其中不乏高质量的健康科普，但也有一些是打着医疗保健科普的旗号实施诈骗。一旦受害者与短视频的发布者取得联系，有就可能被一些所谓的“健康顾问”一步步引导高价购买他们推荐的“特效药”。短视频里的“健康顾问”到底是什么人？他们售卖的“特效药”又是什么？" data-title="下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路" data-date="09-09 23:27" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/000/730.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，新华社今日发文报道了小米玄戒三芯、小米澎程系列新车的发布，称底层技术自研打开科技创新空间。小米创办人、董事长兼 CEO 雷军随后发文回应：感谢认可！技术为本，这是小米永不更改的铁律。在硬核科技上，我们会持续加大研发投入。未来 5 年，我们计划投入 2000 亿元研发费用。据IT之家此前报道，在 8 月 24 日的小米玄戒芯片技术沟通会上，新一代玄戒芯片“三芯齐发”，包括：玄戒 O3，AI 旗舰 SoC，安兔兔首破 500 万玄戒 O100，1.22TB/s 高带宽 AI 加速芯片玄戒 D100，国内首款 3nm 智驾高算力 AI 芯片雷军透露，SoC 和基带双线突破的背后，是小米死磕底层技术的决心。小米重启大芯片研发，已经五年多的时间了，累计投入的研发经费超过" data-title="雷军回应新华社报道小米“底层技术自研打开科技创新空间”：未来 5 年，计划投入 2000 亿元研发费用" data-date="09-10 14:35" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-10 14:35</span>
+          <span class="news-item-title">雷军回应新华社报道小米“底层技术自研打开科技创新空间”：未来 5 年，计划投入 2000 亿元研发费用</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/000/726.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，一张启境 GX7 媒体群的群聊截图最近在网络平台传播。图片显示，昵称为“小助手”的工作人员在群聊中发布了“小米澎程攻防”相关内容。随后，该群聊被解散。启境汽车官方刚刚针对此事发布说明，IT之家附原文如下：关于媒体群误发信息的说明大家好！这两天，一条内部工作信息被误发到媒体群，引发了不少讨论。对此，我们不回避：相关工作人员操作失误，发现后又因处置仓促解散了群。关注市场、了解行业信息是新品上市前的常规工作，截图中的“攻防”，是内部对同期产品进行信息监测、差异梳理和事实核验的工作用语，并非策划攻击、拉踩友商。但这个词用得不妥，误发和解散群的处理也不专业。给大家添麻烦了，跟各位说声抱歉。我们会认真复盘，改进管理。该说明的，我们不回避；该做好的，还是产品。9 月 4 日" data-title="启境汽车回应媒体群误发“小米澎程攻防”相关内容：并非策划攻击、拉踩友商" data-date="09-10 14:18" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-10 14:18</span>
+          <span class="news-item-title">启境汽车回应媒体群误发“小米澎程攻防”相关内容：并非策划攻击、拉踩友商</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/000/725.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，科技媒体 cultofmac 今天（9 月 10 日）发布博文，报道称苹果公司面向符合条件的 iPhone 14 系列、iPhone 15 系列以及 iPhone 16 系列用户，再次延长免费卫星服务 1 年，是自 2023 年 9 月在 iPhone 14 Pro 上推出该功能以来，苹果第三次扩展免费卫星连接功能。截取自苹果美国官网信息，无白色背景IT之家附上苹果官方更新内容如下：在蜂窝网络和 Wi-Fi 覆盖范围之外，Apple 的突破性卫星功能可帮助 iPhone 18 Pro 和 iPhone 18 Pro Max 用户保持连接，并在最需要的时候获得帮助。Apple 将为现有的 iPhone 14、iPhone 15 和 iPhone 16 用户免费延" data-title="第三次拓展：美版苹果 iPhone 14 系列等免费卫星访问服务再延长 1 年" data-date="09-10 14:15" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-10 14:15</span>
+          <span class="news-item-title">第三次拓展：美版苹果 iPhone 14 系列等免费卫星访问服务再延长 1 年</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693927.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="总台记者获悉，挪威首相当地时间9月9日表示，一架无人机差点击中乌克兰总统泽连斯基所乘坐的从摩尔多瓦前往挪威奥斯陆的飞机。挪威首相没有透露该信息的来源，也没有说明无人机距离飞机有多近。" data-title="挪威首相称泽连斯基所乘飞机“差点被无人机击中”" data-date="09-10 14:15" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 23:27</span>
-          <span class="news-item-title">下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路</span>
+          <span class="news-item-date">09-10 14:15</span>
+          <span class="news-item-title">挪威首相称泽连斯基所乘飞机“差点被无人机击中”</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/000/484.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 9 日消息，任天堂今天在新一期直面会中公布新作《星之卡比跃然世界》，本作将于 2027 年春季登陆 Switch 2 平台。据介绍，《星之卡比跃然世界》将采用 3D 画面形式，玩家可以在立体场景中自由走动。卡比依旧和以前一样具备吞下敌人、复制其特性的能力，不过不同的复制能力似乎都加入了全新动作。同时，卡比将在本作中加入全新能力，它可以迅速切开钢铁大门开辟道路，也能砍倒巨树，将其变成桥梁。卡比的脸部还出现了特殊花纹，预计这代表着全新游戏机制。IT之家了解到，《星之卡比：World Beyond》预计于 2027 年春季登陆任天堂 Switch 2，更多信息将在后续公布。" data-title="任天堂新作《星之卡比跃然世界》公开，明年春季登陆 Switch 2" data-date="09-09 23:17" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/000/723.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，有网友今日拍摄到北京新浪总部大楼附近发生火情，现场冒出滚滚浓烟，引发关注。对此，微博 CEO 王高飞回应称：隔壁一个什么厂房着火了，新浪行政水军去帮消防灭火去了，已经灭了。IT之家注意到，北京海淀消防今日发布警情通报，2026 年 9 月 10 日 11 时 53 分，119 指挥中心接到报警，海淀区马连洼街道一废弃平房内杂物起火。指挥中心迅速调派附近消防救援力量到场处置。12 时 05 分，火灾扑灭，无人员被困伤亡。" data-title="微博 CEO 王高飞辟谣“总部着火”：隔壁一个厂房起火" data-date="09-10 14:08" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-09 23:17</span>
-          <span class="news-item-title">任天堂新作《星之卡比跃然世界》公开，明年春季登陆 Switch 2</span>
+          <span class="news-item-date">09-10 14:08</span>
+          <span class="news-item-title">微博 CEO 王高飞辟谣“总部着火”：隔壁一个厂房起火</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/000/483.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 9 日消息，今天（9 日）晚间举行的任天堂直面会确认，《女神异闻录 6》将会登陆 Switch 2，不过具体发售时间尚未公布。据IT之家了解，官方公布了更多游戏信息：《女神异闻录 6》正式确认登陆任天堂 Switch 2！新作将在全新的故事中延续系列深受玩家喜爱的核心魅力，再次融合充满情感的日常生活与紧张刺激的超自然冒险，同时带来完全独立的新剧情和全新的角色阵容！此外，《女神异闻录 4》重制版将于 2027 年 5 月 20 日登陆任天堂 Switch 2。" data-title="《女神异闻录 6》确认将登陆任天堂 Switch 2" data-date="09-09 23:14" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/000/722.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 10 日消息，苹果 iPhone 18 Pro Max（对应 iPhone19,2 和 iPhone19,3）已经出现在了 Geekbench 基准测试数据库中，A20 Pro 性能可见一斑（IT之家提醒：样本太少，不具备可比性）。苹果 A20 Pro 采用六核 CPU 设计，频率可达 4.93GHz。这款新机配备 12GB 内存，在 Geekbench 6.7.0 上单核得分 4719 分，多核得分 12677 分，Metal 图形测试得分 64069 分。据苹果官方介绍，A20 Pro 芯片采用新一代 2nm 制程工艺打造，具备 6 核 CPU，其中 2 个性能核心较上一代强 20%，另有 4 个能效核心；新 GPU 为 7 核设计，相比 A19 Pro 提升最高达 4" data-title="A20 Pro 跑分首曝：苹果 iPhone 18 Pro Max 现身 Geekbench，搭载 12GB 内存" data-date="09-10 14:07" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-09 23:14</span>
-          <span class="news-item-title">《女神异闻录 6》确认将登陆任天堂 Switch 2</span>
+          <span class="news-item-date">09-10 14:07</span>
+          <span class="news-item-title">A20 Pro 跑分首曝：苹果 iPhone 18 Pro Max 现身 Geekbench，搭载 12GB 内存</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/000/482.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 9 日消息，在今晚举行的新一期任天堂直面会上，游戏《女神异闻录４ Revival》官宣 2027 年 5 月 20 日登陆任天堂 Switch 2。据IT之家此前报道，今年 6 月，官方宣布《女神异闻录４ Revival》将于 2027 年 2 月 18 日正式发售，将登陆 Xbox Game Pass、Xbox Series X|S、PlayStation 5、Steam 等平台。6 月 9 日，《女神异闻录 4 Revival》在 Steam 平台开启预购，国区标准版 298 元，数字豪华版 373 元，数字高级版 448 元，支持简体中文。" data-title="游戏《女神异闻录４ Revival》官宣 2027 年 5 月 20 日登陆任天堂 Switch 2" data-date="09-09 23:14" data-source="IT之家">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="新款iPhone采用书本式的折叠设计，命名为Duo，是历来最大尺寸的版本，也是最贵的型号。" data-title="苹果折叠式iPhone：新任掌舵人的豪赌，能转化为实质销量吗？" data-date="09-10 13:37" data-source="BBC">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-09 23:14</span>
-          <span class="news-item-title">游戏《女神异闻录４ Revival》官宣 2027 年 5 月 20 日登陆任天堂 Switch 2</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-10 13:37</span>
+          <span class="news-item-title">苹果折叠式iPhone：新任掌舵人的豪赌，能转化为实质销量吗？</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/486625.html" target="_blank" rel="noopener" data-cat="keji" data-summary="模型可以开源，部署经验不能" data-title="一周连发6个模型！这家公司把具身智能的闭环跑通了" data-date="09-10 12:55" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-10 12:55</span>
+          <span class="news-item-title">一周连发6个模型！这家公司把具身智能的闭环跑通了</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693746.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社北京9月10日电 据乌克兰媒体报道，当地时间9日晚，乌克兰东北部苏梅市一处购物娱乐中心遭到无人机袭击，已造成2人死亡、20人受伤。" data-title="乌克兰苏梅市一购物中心遇袭致2死20伤" data-date="09-10 10:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 10:58</span>
+          <span class="news-item-title">乌克兰苏梅市一购物中心遇袭致2死20伤</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/486436.html" target="_blank" rel="noopener" data-cat="keji" data-summary="9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行" data-title="打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果" data-date="09-10 09:39" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-10 09:39</span>
+          <span class="news-item-title">打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/486350.html" target="_blank" rel="noopener" data-cat="keji" data-summary="赶上了API限时五折" data-title="实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug" data-date="09-10 08:42" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-10 08:42</span>
+          <span class="news-item-title">实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="经典的“好太太”系列广告以“好丈夫”的形象重出江湖：镜头前穿着清凉的不再是女性,而是男性。" data-title="AI“性转”视频风靡中国网络：一场“ 新文化运动”的觉醒与局限" data-date="09-10 08:14" data-source="BBC">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-10 08:14</span>
+          <span class="news-item-title">AI“性转”视频风靡中国网络：一场“ 新文化运动”的觉醒与局限</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/" target="_blank" rel="noopener" data-cat="keji" data-summary="消息人士称， Listen Labs放弃了Menlo Ventures签署的C系列条款表。" data-title="人工智能研究初创公司Listen Labs为Salesforce会谈筹集了15亿美元资金" data-date="09-10 08:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-10 08:00</span>
+          <span class="news-item-title">人工智能研究初创公司Listen Labs为Salesforce会谈筹集了15亿美元资金</span>
         </a>
   </div>
   <div class="news-category">
@@ -316,6 +316,48 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693945.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如今，徒步、登山等户外休闲活动备受追捧，社交媒体上不少标注“宝藏”的网红徒步攻略热度很高，但这样的攻略背后往往暗藏安全隐患。前不久，北京一名女子就依照一条网红徒步攻略出行，不料遭遇意外。" data-title="女子按网红徒步攻略出行遭意外 户外出游遇险谁担责？" data-date="09-10 14:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 14:38</span>
+          <span class="news-item-title">女子按网红徒步攻略出行遭意外 户外出游遇险谁担责？</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/000/728.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 10 日消息，科幻射击新作《流浪地球：望日》今日发布首个预告片，由《边境》开发团队柳叶刀工作室制作，刘慈欣本人担任监制，是一款线性剧情任务驱动的第三人称科幻射击游戏。玩家将扮演一名工程师，在最后的“望日窗口”结束前赶赴月球，执行关乎人类存亡的关键任务。玩家将深入月球与太空战场，借助宇航服、外骨骼等特殊装备，探索更多不同于传统射击游戏的战场体验。《流浪地球：望日》现已上架 Steam 商店，具体发售日期待定。柳叶刀工作室的太空射击游戏《边境》是一款近未来太空题材的第一人称射击游戏，形形色色的太空操作员在近轨道相遇，在零重力环境下进行射击对战。该游戏于 2023 年 4 月 13 日以“抢先体验”形式在 Steam 平台提前开服。2024 年 6 月 20 日，柳叶刀工作室发布" data-title="科幻射击单机游戏《流浪地球：望日》上架 Steam：刘慈欣监制，《边境》开发团队制作" data-date="09-10 14:22" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-10 14:22</span>
+          <span class="news-item-title">科幻射击单机游戏《流浪地球：望日》上架 Steam：刘慈欣监制，《边境》开发团队制作</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693917.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="平日里不少宝爸宝妈会带孩子去商场玩，常乘坐自动扶梯。出于好奇，有的孩子把自动扶梯当成大玩具，由此引发的意外事故近期频繁出现，一些事故甚至发生在家长的眼皮底下，值得警惕。" data-title="别再让孩子这样玩扶梯！这些地方尤其危险→" data-date="09-10 13:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 13:55</span>
+          <span class="news-item-title">别再让孩子这样玩扶梯！这些地方尤其危险→</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10693880.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社北京9月10日电 (记者 陈杭)北京拟鼓励各区依托世界遗产、历史建筑、革命史迹、传统村落、历史街巷、民俗文化等，整合分散文博资源，推动连片活化利用，构建开放式博物馆展示方式，建设“没有围墙的博物馆”。" data-title="北京拟立法鼓励建设“没有围墙的博物馆”" data-date="09-10 13:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 13:13</span>
+          <span class="news-item-title">北京拟立法鼓励建设“没有围墙的博物馆”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693879.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社海南东方9月10日电 题：海南黎村“花样”蝶变 多元业态引客来" data-title="（走进中国乡村）海南黎村“花样”蝶变　多元业态引客来" data-date="09-10 13:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 13:12</span>
+          <span class="news-item-title">（走进中国乡村）海南黎村“花样”蝶变　多元业态引客来</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10693881.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近日" data-title="巡查人员多看一眼救了216人！这些异常可能是泥石流发生前兆" data-date="09-10 13:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 13:06</span>
+          <span class="news-item-title">巡查人员多看一眼救了216人！这些异常可能是泥石流发生前兆</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ced7g3qpyyjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="2001年的袭击造成数千名美国人丧生，并对全球产生了深远影响。" data-title="911事件25周年：震惊世界的袭击如何发生，造成多少人死亡？" data-date="09-10 08:14" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-10 08:14</span>
+          <span class="news-item-title">911事件25周年：震惊世界的袭击如何发生，造成多少人死亡？</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="由于安全运输石油的好选择很少，沙特阿拉伯的出口已跌至 13 年来的最低点。" data-title="由于战争蔓延导致航线关闭，沙特石油出口暴跌" data-date="09-10 00:42" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -363,48 +405,6 @@ title: 热点新闻
           <span class="source-badge source-theverge">🌐 The Verge</span>
           <span class="news-item-date">09-09 22:46</span>
           <span class="news-item-title">Switch 2 将迎来一款名为 Ravenous 的 2D 银河战士</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-09/10693641.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京9月9日电(记者 王诗尧)24岁，百万粉丝，低钾住院，不幸离世——当这些关键词汇集在“干饭莹莹”身上时，我们看到的不仅是一位年轻生命的猝然凋零，更是一个畸形行业积弊已久的又一次血腥爆发。" data-title="24岁吃播博主离世：流量的尽头不是爆款，是身体的极限" data-date="09-09 22:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 22:32</span>
-          <span class="news-item-title">24岁吃播博主离世：流量的尽头不是爆款，是身体的极限</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-09/10693630.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网海口9月9日电 题：封关后的海南：外籍教师共话便利化迎教师节" data-title="封关后的海南：外籍教师共话便利化迎教师节" data-date="09-09 22:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 22:03</span>
-          <span class="news-item-title">封关后的海南：外籍教师共话便利化迎教师节</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-09/10693604.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网天津9月9日电 (记者 江莹)天津市西青区政府新闻办8日举办“深入推进党建引领基层治理，以高效能治理促进高质量发展和高水平安全”新闻发布会，介绍该区党建引领基层治理工作的四大成效。" data-title="党建赋能精治惠民 天津西青以高效治理激活发展新动能" data-date="09-09 22:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 22:01</span>
-          <span class="news-item-title">党建赋能精治惠民 天津西青以高效治理激活发展新动能</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-09/10693623.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="直播海报：教师节，看老师们点亮奇妙课堂" data-title="直播海报：教师节，看老师们点亮奇妙课堂" data-date="09-09 21:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 21:55</span>
-          <span class="news-item-title">直播海报：教师节，看老师们点亮奇妙课堂</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/09/nyregion/911-disposable-camera.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="9/11 完美主义社区想要了解和看到一切。圣杯？双子塔内部的照片。" data-title="他几乎从各个角度看过 9/11 的图像。除了这个。" data-date="09-09 21:51" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-09 21:51</span>
-          <span class="news-item-title">他几乎从各个角度看过 9/11 的图像。除了这个。</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-09/10693595.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网甘孜9月9日电 题：一粒青稞的高原新账本：丰产之后如何增收？" data-title="一粒青稞的高原新账本：丰产之后如何增收？" data-date="09-09 21:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 21:49</span>
-          <span class="news-item-title">一粒青稞的高原新账本：丰产之后如何增收？</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-09/10693568.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网银川9月9日电 (记者 李佩珊)9月9日，宁夏银川市召开庆祝第42个教师节表彰大会，对全市优秀教师、教育工作先进个人和先进集体予以表彰，向全市广大教师和教育工作者送上节日问候，并对下一阶段教育工作作出部署，持续推进教育强市建设，擦亮“教育在银川”品牌。" data-title="宁夏银川：加快推进教育强市建设 持续擦亮“教育在银川”品牌" data-date="09-09 21:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-09 21:45</span>
-          <span class="news-item-title">宁夏银川：加快推进教育强市建设 持续擦亮“教育在银川”品牌</span>
         </a>
   </div>
 </div>
@@ -488,4 +488,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-<p class="news-updated">🕐 抓取更新于 2026-09-10 00:47（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-10 14:44（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
