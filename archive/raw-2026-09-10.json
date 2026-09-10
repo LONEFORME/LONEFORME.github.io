@@ -1410,16 +1410,6 @@
     "published_dt_iso": "2026-09-10T14:07:32+08:00"
   },
   {
-    "title": "中国",
-    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10693948.shtml",
-    "date": "2026-09-10",
-    "published_time": "14:42",
-    "source": "中国新闻网",
-    "feed_name": "中国新闻网(时政)",
-    "summary": "中新社北京9月10日电 (记者 陈杭)中国—上海合作组织基础教育合作中心(下称“中心”)10日在2026年中国国际服务贸易交易会教育服务专题开幕式上揭牌。中心将积极搭建与上合组织成员国的交流合作平台，重点围绕青少年人文交流、教师培养培训与交流、人工智能赋能基础教育、教育政策研究与智库等方面开展工作。",
-    "published_dt_iso": "2026-09-10T14:42:35+08:00"
-  },
-  {
     "title": "东西问丨巴西学者：中国式现代化对中拉人权合作有何启示？",
     "link": "https://www.chinanews.com.cn/gn/2026/09-10/10693926.shtml",
     "date": "2026-09-10",
@@ -1758,5 +1748,665 @@
     "feed_name": "纽约时报",
     "summary": "四位战场参议院提名人的发言回避了两个构成政治挑战的问题，转而关注特朗普的税法和其他话题。",
     "published_dt_iso": "2026-09-10T13:09:24+08:00"
+  },
+  {
+    "title": "人工智能研究初创公司 Listen Labs 取消了 Salesforce 谈判的 1.5 亿美元融资",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "date": "2026-09-10",
+    "published_time": "08:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "消息人士称，Listen Labs 放弃了 Menlo Ventures 签署的 C 轮投资意向书。",
+    "published_dt_iso": "2026-09-10T08:00:37+08:00"
+  },
+  {
+    "title": "OpenAI 董事会增加了一位杰出的 AI 毁灭者",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "date": "2026-09-10",
+    "published_time": "06:25",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Paul Christiano 是一位有影响力的人工智能研究员，专注于一致性，他将加入 OpenAI 基金会，成为其董事会成员。",
+    "published_dt_iso": "2026-09-10T06:25:22+08:00"
+  },
+  {
+    "title": "马萨诸塞州通过新的清洁能源规则打击数据中心",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "date": "2026-09-10",
+    "published_time": "05:43",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "马萨诸塞州已成为几个月来第三个对数据中心开发实施新限制的州。",
+    "published_dt_iso": "2026-09-10T05:43:34+08:00"
+  },
+  {
+    "title": "Apple Watch 的新 AI 功能正在规范“技术始终倾听”的理念",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "date": "2026-09-10",
+    "published_time": "04:24",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "苹果表示，其新款手表不会保存原始音频，但可以转录最近的语音并总结周围对话的功能引发了有关同意、隐私以及人们在知道自己随时可能被录音时如何行为的新问题。",
+    "published_dt_iso": "2026-09-10T04:24:48+08:00"
+  },
+  {
+    "title": "Apple 在秋季 iPhone 发布会上宣布的所有内容，从可折叠 iPhone Duo 到时刻聆听的 Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "date": "2026-09-10",
+    "published_time": "04:03",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "主要活动是这家科技巨头备受期待的首款可折叠手机 iPhone Duo。",
+    "published_dt_iso": "2026-09-10T04:03:43+08:00"
+  },
+  {
+    "title": "苹果新款可折叠手机的铰链是用人工智能打造的",
+    "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+    "date": "2026-09-10",
+    "published_time": "03:21",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "苹果表示，它在其期待已久的可折叠手机的制造过程中使用了人工智能和 3D 打印。",
+    "published_dt_iso": "2026-09-10T03:21:48+08:00"
+  },
+  {
+    "title": "苹果改进的健康应用程序将计算你的“健康年龄”和准备得分",
+    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "date": "2026-09-10",
+    "published_time": "02:16",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "此更新使用 Apple Intelligence 来更好地了解您的健康数据。",
+    "published_dt_iso": "2026-09-10T02:16:29+08:00"
+  },
+  {
+    "title": "Apple 有一种新方法可以证明你的 iPhone 照片不是 AI 处理的",
+    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "date": "2026-09-10",
+    "published_time": "02:08",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "苹果推出了苹果参考图像来帮助用户确定照片是否经过编辑，包括人工智能所做的更改。",
+    "published_dt_iso": "2026-09-10T02:08:35+08:00"
+  },
+  {
+    "title": "2026 年数据中心硅片中 ABF 基板的状态 — 解决每个 AI 加速器下方的供应短缺和材料壁垒",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-abf-substrates-in-data-center-silicon-in-2026-solving-the-supply-crunch-and-material-wall-beneath-every-ai-accelerator",
+    "date": "2026-09-10",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "ABF 基板支撑着当今最先进的人工智能芯片，但飙升的需求和不断扩大的加速器封装正在产生新的供应和技术瓶颈，业界目前正在竞相解决这些瓶颈",
+    "published_dt_iso": "2026-09-10T20:00:00+08:00"
+  },
+  {
+    "title": "改装 RTX 5090 放弃 16 针电源，转而使用三个 8 针连接器 — 功耗高达 900W，频率达到 3,400 MHz",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modded-rtx-5090-ditches-16-pin-power-for-triple-8-pin-connectors-draws-up-to-900w-and-hits-3-400-mhz",
+    "date": "2026-09-10",
+    "published_time": "19:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "TecLab 的实验对不起眼的 8 针连接器进行了极限测试，修改后的 RTX 5090 拉电流超过 120A，同时完全避免了较新的 12V-2x6 设计。",
+    "published_dt_iso": "2026-09-10T19:40:00+08:00"
+  },
+  {
+    "title": "台积电、三星和英特尔支持 ASML 部署更大的高数值孔径 EUV 光掩模——尽管共同努力，6×12 英寸光掩模过渡可能需要数年时间",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-samsung-and-intel-shore-up-support-with-asml-to-deploy-larger-high-na-euv-photomasks-6-12-inch-photomask-transition-may-take-years-despite-unified-effort",
+    "date": "2026-09-10",
+    "published_time": "19:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "ASML、英特尔、三星和台积电支持开发 6×12 英寸，以使用高数值孔径 EUV 光刻系统构建大型处理器，无需拼接。",
+    "published_dt_iso": "2026-09-10T19:20:00+08:00"
+  },
+  {
+    "title": "开发人员使用 Claude 在一个小时内完成了 Windows 3.1 shell 的振动编码 — 重新启动的 12MB 复古启动器可在 Windows 11 和 Apple Silicon 上运行",
+    "link": "https://www.tomshardware.com/software/windows/developer-uses-claude-to-vibe-code-a-windows-3-1-shell-in-an-hour-reanimated-12mb-retro-launcher-runs-on-both-windows-11-and-apple-silicon",
+    "date": "2026-09-10",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Windows 3.1 程序管理器有一个新的 vivi 编码克隆，可以在现代 Windows 11 或 macOS 系统上运行。",
+    "published_dt_iso": "2026-09-10T19:00:00+08:00"
+  },
+  {
+    "title": "购买这款配备 RTX 5060 的 1080p 游戏笔记本电脑可节省 250 美元，现仅需 1049 美元——MSI Cyborg 15 装备配备 15.6 英寸 144Hz 显示屏、16GB DDR5 RAM 和八核 Intel CPU",
+    "link": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd250-on-this-1080p-ready-gaming-laptop-with-an-rtx-5060-now-just-usd1049-msi-cyborg-15-rig-ships-with-a-15-6-inch-144hz-display-16gb-ddr5-ram-and-an-eight-core-intel-cpu",
+    "date": "2026-09-10",
+    "published_time": "18:53",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这款 MSI 游戏笔记本电脑适合 1080p 游戏，得益于 RTX 5060，折扣 250 美元，价格降至 1049.99 美元。",
+    "published_dt_iso": "2026-09-10T18:53:35+08:00"
+  },
+  {
+    "title": "自学成才的修补匠演示了带有真空管的工作室大小的冷战时代超级计算机——需要 15 分钟才能预热，闻起来像燃烧的灰尘，8 位设计使用 460 个回收的 20 世纪 50 年代苏联电子管",
+    "link": "https://www.tomshardware.com/desktops/pc-building/self-taught-electronics-tinkerer-builds-cold-war-era-vacuum-tube-computer-8-bit-design-uses-460-recycled-6n3p-vacuum-tubes-manufactured-in-the-1950s",
+    "date": "2026-09-10",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "一位自学成才的电子修补匠迈克最近分享了他的复古计算真空管计算机项目的细节。",
+    "published_dt_iso": "2026-09-10T18:00:00+08:00"
+  },
+  {
+    "title": "Apple A20 Pro 为 iPhone Duo、18 Pro 提供支持——该公司首款 2 纳米智能手机芯片",
+    "link": "https://www.tomshardware.com/pc-components/cpus/apple-a20-pro-powers-iphone-18-pro-the-companys-first-2-nanometer-smartphone-chip",
+    "date": "2026-09-10",
+    "published_time": "01:33",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "苹果全新 A20 Pro SOC 将作为其首款 2 nm 智能手机芯片为 iPhone 18 Pro 和 iPhone Duo 提供动力。",
+    "published_dt_iso": "2026-09-10T01:33:21+08:00"
+  },
+  {
+    "title": "数学家想要证明 OpenAI 没有使用他们的工作成果",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+    "date": "2026-09-10",
+    "published_time": "19:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "另一位研究人员正在就数据驱动 OpenAI 不断取得令人印象深刻的数学发现向 OpenAI 发起挑战。就在围绕该公司的模型是否受益于未发表的工作而引发激烈争吵的几天后，第二位数学家站出来指责这家人工智能巨头不道德和“不诚实”的行为，并且对起源缺乏透明度 […]",
+    "published_dt_iso": "2026-09-10T19:00:57+08:00"
+  },
+  {
+    "title": "可变光圈并不是 iPhone 18 Pro 相机最酷的部分",
+    "link": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
+    "date": "2026-09-10",
+    "published_time": "18:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "苹果总是在其手机中大肆展示最新的摄像头，而 iPhone 18 Pro 的主要话题就是新的可变光圈。 iPhone 18 Pro 和 Pro Max 的主摄像头模块中都有一个可调节的机械光圈，可以让或多或少的光线进入 […]",
+    "published_dt_iso": "2026-09-10T18:00:00+08:00"
+  },
+  {
+    "title": "特朗普手机刚刚涨价 250 美元",
+    "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+    "date": "2026-09-10",
+    "published_time": "17:13",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "如果您在发布时没有锁定特朗普手机，那么坏消息是：它现在的售价为 749 美元，比发布时的价格上涨了 250 美元。 T1 Phone 本身没有改变。特朗普移动没有宣布涨价，而是连夜悄悄更改了网站。不过，这并不完全令人惊讶，特别是考虑到手机附带 [...]",
+    "published_dt_iso": "2026-09-10T17:13:04+08:00"
+  },
+  {
+    "title": "任天堂最新的 Switch 2 更新增加了 TV 模式下的 VRR 支持",
+    "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+    "date": "2026-09-10",
+    "published_time": "17:07",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "任天堂一直承诺 Switch 2 在对接时将支持可变刷新率 (VRR)，但该游戏机在推出时并没有这一关键功能。新的 23.0.0 固件更新现在为 Switch 2 在对接和电视模式下添加了 VRR 支持。 VRR 调整​​显示器的刷新率以匹配游戏的帧速率，[...]",
+    "published_dt_iso": "2026-09-10T17:07:00+08:00"
+  },
+  {
+    "title": "在 PlayStation 放弃小岛秀夫的 Physint 后，Xbox 又接手了它",
+    "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+    "date": "2026-09-10",
+    "published_time": "16:22",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在 PlayStation 决定取消后，Xbox 现在将发布《合金装备》创作者小岛秀夫即将推出的游戏 Physint。这一出人意料的交换是在 PlayStation、Xbox、小岛制作公司和小岛本人发布的一系列声明中发布的。索尼发行了小岛制作所之前的两部《死亡搁浅》游戏，并将其描述为“一个艰难的决定……”",
+    "published_dt_iso": "2026-09-10T16:22:40+08:00"
+  },
+  {
+    "title": "沃尔沃 XC40 PHEV 以全新外观、更好的传感器和 Gemini AI 回归",
+    "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+    "date": "2026-09-10",
+    "published_time": "15:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "沃尔沃停产插电式混合动力 XC40 已经大约三年了。轻度混合动力版本与电动 EX40 一起仍在美国和其他地方销售。今天，沃尔沃宣布将重新推出 PHEV 版本，并对其进行重大改款。当明年初到达经销商处时，新款 XC40 [...]",
+    "published_dt_iso": "2026-09-10T15:00:00+08:00"
+  },
+  {
+    "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+    "link": "https://www.qbitai.com/2026/09/486934.html",
+    "date": "2026-09-10",
+    "published_time": "18:17",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "多模态AI大牛轮番登台，全球64支团队组团解题",
+    "published_dt_iso": "2026-09-10T18:17:46+08:00"
+  },
+  {
+    "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+    "link": "https://www.qbitai.com/2026/09/486900.html",
+    "date": "2026-09-10",
+    "published_time": "16:17",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月10日，阿里巴巴集团旗下高德正式发布全球首个3D原生城市世界模型ABot-Earth 0.7。",
+    "published_dt_iso": "2026-09-10T16:17:05+08:00"
+  },
+  {
+    "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+    "link": "https://www.qbitai.com/2026/09/486747.html",
+    "date": "2026-09-10",
+    "published_time": "15:57",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "大晓机器人联合南洋理工大学 S-Lab、上海人工智能实验室发布全新人–场景交互重建研究 HSImul3R",
+    "published_dt_iso": "2026-09-10T15:57:55+08:00"
+  },
+  {
+    "title": "这个新开源的世界模型只有1.3B，单卡就能实时跑！",
+    "link": "https://www.qbitai.com/2026/09/486716.html",
+    "date": "2026-09-10",
+    "published_time": "15:44",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "轻量版LingBot-World 2.0",
+    "published_dt_iso": "2026-09-10T15:44:00+08:00"
+  },
+  {
+    "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+    "link": "https://www.qbitai.com/2026/09/486684.html",
+    "date": "2026-09-10",
+    "published_time": "15:25",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+    "published_dt_iso": "2026-09-10T15:25:39+08:00"
+  },
+  {
+    "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+    "link": "https://www.qbitai.com/2026/09/486651.html",
+    "date": "2026-09-10",
+    "published_time": "14:25",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+    "published_dt_iso": "2026-09-10T14:25:22+08:00"
+  },
+  {
+    "title": "征战海外市场，众泰全新纯电小车 Wink Y01 国际版启动批量试制",
+    "link": "https://www.ithome.com/1/000/983.htm",
+    "date": "2026-09-10",
+    "published_time": "20:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，众泰汽车 9 日晚间通过公众号宣布，公司召开了 Wink Y01 国际版发布会暨 SOP 动员会暨批量试制启动会。官方表示，本次大会聚焦 Wink Y01 国际版批量试制与 SOP 量产攻坚，是公司重塑产品竞争力、开拓海内外市场的关键布局，为众泰汽车高质量发展奠定坚实基础。新车依托公司的新能源造车体系与全新迭代的 S 纯电小型车技术平台，面向全球消费市场研发打造，是众泰布局海外市场的核心战略车型。新车车身尺寸为 3912×1745×1545mm，轴距 2520mm，可充分适配海内外城市通勤及多元出行场景。根据介绍，Wink Y01 国际版采用极简科技美学理念，配备三角大灯与三段式贯穿 LED 灯带，封闭式面板内置隐藏式进气结构，灯组搭载 174 颗 LED 灯",
+    "published_dt_iso": "2026-09-10T20:09:21+08:00"
+  },
+  {
+    "title": "德军正评估 30 款 AI 工具，计划 2027 年起用于加快战场决策",
+    "link": "https://www.ithome.com/1/000/981.htm",
+    "date": "2026-09-10",
+    "published_time": "20:07",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，德国一名军方高级官员向德国财经日报《商报》透露，德军正在评估 30 款人工智能工具，用于加快战场决策，计划从 2027 年起部署这套系统。IT之家注意到，德军网络司令部司令托马斯 · 多姆海军中将在接受该报采访时表示：“相关研发测试仍在推进，我乐观预计 2027 年第二季度就能拿出原型系统，整套系统预计 2028 年全面投入使用。”俄乌战争让外界看到，无人机与卫星会源源不断产生海量数据。战场的透明度达到前所未有的水平，同时也需要人工智能以人力无法企及的速度处理这些信息。报道称，这批待评估 AI 工具大多由德国本土企业开发，法国企业 ChapsVision 是少数参与竞争的国外厂商之一。多姆在今年 4 月表示，德军目前不打算采购美国数据分析与防务软件企业 Pal",
+    "published_dt_iso": "2026-09-10T20:07:19+08:00"
+  },
+  {
+    "title": "SK 海力士与工会达成新临时协议：利润分享绩效现金支付比例升至 50%",
+    "link": "https://www.ithome.com/1/000/980.htm",
+    "date": "2026-09-10",
+    "published_time": "20:00",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，据韩联社当地时间今日报道，SK 海力士管理层与生产岗工会达成了一份新的临时劳资协议。这一协议尚需通过本月 15~16 日的工会投票才能生效。SK 海力士劳资双方曾在今年 8 月达成过一版协议草案。当时的条款规定“利润分享”绩效奖金将按 40% 现金 + 60% 股票的形式支付。但 SK 海力士股价一年多来的急剧变动意味着股票部分的“利润分享”绩效存在重大不确定性。在这一担忧下，8 月草案以微弱劣势未能通过表决。而 9 月新版草案则将标准的现金支付比例提升至 50%，股票则在三年内分别发放 30%、10%、10%。劳方个人可按 10% 为步进自主选择更大的股票支付比例。SK 海力士资方还同意提前支付去年“利润分享”绩效的递延部分，同意承担股票发放过程中因股价上涨",
+    "published_dt_iso": "2026-09-10T20:00:20+08:00"
+  },
+  {
+    "title": "全新一代智己 LS6 预售：全系标配线控底盘、四轮转向，20.99 万元起",
+    "link": "https://www.ithome.com/1/000/979.htm",
+    "date": "2026-09-10",
+    "published_time": "19:56",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，全新一代智己 LS6 今日开启预售，共推出三款车型，全线控大五座家庭 SUV，预售价 20.99 万元起，2000 元意向金兑换 5000 元现金抵扣券。IT之家附价格如下：Max 版预售价 20.99 万元：76kWh 电池，CLTC 650km 超级后驱，零百加速 6.4sPro Max 版预售 22.99 万元：93kWh 电池，CLTC 782km 超级后驱，零百加速 5.4sUltra 版预售 26.49 万元：103kWh 电池，CLTC 750km 矢量四驱，零百加速 3.48s据介绍，该车全系标配全新一代三电系统，包括全域 800V NEO 三电架构、全新 NEO 飓风电机、全新 IM ECU Master 能效大师管理系统 3.0。此外，该车",
+    "published_dt_iso": "2026-09-10T19:56:01+08:00"
+  },
+  {
+    "title": "全球涨幅之最：印度市场旧款苹果 iPhone 最高涨价 41%",
+    "link": "https://www.ithome.com/1/000/978.htm",
+    "date": "2026-09-10",
+    "published_time": "19:54",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，据路透社报道，苹果在发布新款 iPhone 数小时后，便上调了印度市场在售旧款 iPhone 的售价，最高涨幅达 41%。这与该公司通常为旧款产品降价的惯例背道而驰，也是今年苹果在所有调价市场中涨幅最高的一次。苹果也对中国和美国市场的旧款机型进行了调价，美国市场涨幅在 10% 至 21% 之间。此次价格调整紧随苹果秋季新品发布会，新任首席执行官约翰 · 特努斯在会上正式推出了苹果首款折叠屏手机 iPhone Duo。苹果此前就已宣布计划在全球范围内上调 iPhone 售价，称原因是内存和存储芯片成本上涨。AI 带动的数据中心需求激增，使得消费电子企业纷纷争夺日益紧缺的核心零部件供应，进一步推高了成本。印度是苹果增长最快的市场之一，目前苹果全球售出的 iPhon",
+    "published_dt_iso": "2026-09-10T19:54:28+08:00"
+  },
+  {
+    "title": "您的薯条已登“机”，首条麦当劳与美团无人机专属航线开通",
+    "link": "https://www.ithome.com/1/000/977.htm",
+    "date": "2026-09-10",
+    "published_time": "19:50",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，据美团官方公众号，美团无人机上海西岸低空航网今天（10 日）正式投入运营，美团无人机与麦当劳合作的国内首条餐饮品牌专属无人机配送航线也同步上线。根据介绍，把麦当劳薯条和可乐送到顾客手中，不仅需要无人机，还要有一张城市低空航网。其将西岸梦中心、徐汇滨江、模速空间、麦当劳龙腾大道店前广场等地方，连成一张空中的配送网，目前已有麦当劳、阿嬷手作、M Stand 等近 20 家连锁餐饮品牌加入，年内预计将扩大至超 40 个品牌。IT之家从介绍获悉，驻地店员先要把餐送到最近的“机场”，机械臂将其装上无人机；飞到目的地后，再由机械臂送进取餐柜。无人机配送避开了路况复杂、定位较难的公园路段，整个过程最快只需 10 分钟。美团采用了第四代无人机长程索降版 M-Drone 4L ",
+    "published_dt_iso": "2026-09-10T19:50:47+08:00"
+  },
+  {
+    "title": "DeepSeek V4.1 Flash 模型上线国家超算互联网",
+    "link": "https://www.ithome.com/1/000/976.htm",
+    "date": "2026-09-10",
+    "published_time": "19:47",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，DeepSeek V4.1 Flash 模型今日上线国家超算互联网中心。用户可登录国家超算互联网官网，从首页进入“模型服务”页面，即可快速打开 DeepSeek V4.1 Flash 模型 API 调用界面。据IT之家了解，DeepSeek V4.1 Flash 为 552B 参数的 MoE 模型，采用了全新的 Causal-Encoder-Decoder 结构，输入和输出不对称，输入激活只有 8B，输出激活 16B，成本显著低于已知的同尺寸模型。同时，V4.1 Flash 还采用了新的预训练方式、经过了更大规模的强化学习后训练，在基准测试中，成功超越了包括 DeepSeek V4 Pro 在内的一众旗舰模型的智能水平。此外，DeepSeek V4.1 Fla",
+    "published_dt_iso": "2026-09-10T19:47:00+08:00"
+  },
+  {
+    "title": "全国首个，乐聚联合安徽电信、华为发布 5G",
+    "link": "https://www.ithome.com/1/000/975.htm",
+    "date": "2026-09-10",
+    "published_time": "19:38",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 10 日消息，乐聚机器人今日宣布，联合安徽电信、华为发布全国首个 5G-A 具身智能专属套餐“具身翼联”，同步落地业界首个 5G-A 具身人形机器人园区群体巡检应用示范。据介绍，“具身翼联”是全国首个 5G-A 具身智能专属套餐。针对机器人高上行占比、低时延、多机并发需求，提供峰值上行 500Mbps、超低时延 20ms@95% 及业务优先调度保障，相当于为机器人开通一条网络“专属高速路”。套餐设标准版 599 元（IT之家注：上行峰值 300Mbps、200GB 高速上行流量）与增强版 999 元（上行峰值 500Mbps、500GB 高速上行流量及动态切片增强），可按场景定制，为具身智能规模化应用打通网络瓶颈。依托 5G-A 大上行、低时延、高可靠网络保障，多台“夸父”",
+    "published_dt_iso": "2026-09-10T19:38:44+08:00"
+  },
+  {
+    "title": "波切蒂诺：热刺应该获得2016-17赛季冠军",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c783ndd7ge2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-10",
+    "published_time": "16:08",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "毛里西奥·波切蒂诺认为切尔西应该被剥夺2016-17赛季的英超冠军，当时他的托特纳姆热刺队获得了亚军。",
+    "published_dt_iso": "2026-09-10T16:08:21+08:00"
+  },
+  {
+    "title": "拾光纪·“我还能记住他们的样子”，总书记心系人民教师",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694238.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "“我们从小学到大学都有过不少的老师，我还能记住他们的样子”，习近平总书记对人民教师有着深厚情怀。“长期以来，全国广大教师认真贯彻党的教育方针，躬耕教坛、传道授业，为党和国家事业发展作出了重要贡献。”在第四十二个教师节到来之际，习近平总书记向全国广大教师和教育工作者致以节日祝贺和诚挚问候。",
+    "published_dt_iso": "2026-09-10T20:11:13+08:00"
+  },
+  {
+    "title": "第七批医用耗材集采开标 消化介入类耗材临床主流产品普遍中选",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694213.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月10日电 据国家医保局微信公众号消息，9月10日，第七批国家组织医用耗材集中带量采购(以下简称“集采”)在天津开标产生中选结果。本次集采纳入23种消化介入类医用耗材，共有156家企业的558个产品投标，148家企业的517个产品中选，临床在用的主流产品普遍中选。",
+    "published_dt_iso": "2026-09-10T20:01:34+08:00"
+  },
+  {
+    "title": "习言道｜一图读懂“金砖”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694211.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+    "published_dt_iso": "2026-09-10T19:51:45+08:00"
+  },
+  {
+    "title": "全球公共安全合作论坛（连云港）2026年大会取得重要成果",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694209.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:46",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网连云港9月10日电 (刘梦青)全球公共安全合作论坛(连云港)大会主席曾伟雄10日在新闻发布会上表示，大会圆满完成了各项议程，取得了重要成果。",
+    "published_dt_iso": "2026-09-10T19:46:55+08:00"
+  },
+  {
+    "title": "四川省小金县人大常委会原党组书记、主任杨健严重违纪违法被开除党籍和公职",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694198.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网成都9月10日电 (记者 张浪)四川省阿坝州纪委监委10日消息：日前，经阿坝州委批准，阿坝州纪委监委对小金县人大常委会原党组书记、主任杨健严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-10T19:32:42+08:00"
+  },
+  {
+    "title": "三尺讲台外的山海奔赴：民进力量如何赋能浙江教育均衡？",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694193.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网杭州9月10日电(林波)九月桃李芬芳，又逢教师节。",
+    "published_dt_iso": "2026-09-10T19:31:36+08:00"
+  },
+  {
+    "title": "中美成功联合侦破一起跨国涉毒案件",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694183.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月10日电 近日，中国公安部和美国联邦调查局(FBI)成功联合侦破一起跨国制贩合成大麻素类物质前体案件。",
+    "published_dt_iso": "2026-09-10T19:28:38+08:00"
+  },
+  {
+    "title": "习近平将赴印度出席金砖国家领导人第十八次会晤",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-10/10694201.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月10日电 中国外交部发言人10日宣布，应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。(完)",
+    "published_dt_iso": "2026-09-10T19:22:41+08:00"
+  },
+  {
+    "title": "阿尔及利亚宣布与阿联酋断绝外交关系",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10694214.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月10日电 据阿尔及利亚新闻社报道，阿尔及利亚决定与阿联酋断绝外交关系。",
+    "published_dt_iso": "2026-09-10T19:50:51+08:00"
+  },
+  {
+    "title": "“脱北者”女性在韩国坡州遇害，嫌疑人逃往海外",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10694189.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月10日电 据韩媒报道，一名30多岁的朝鲜“脱北者”女性被发现死于韩国京畿道坡州市的一间公寓内，韩国警方正在追捕嫌疑人。",
+    "published_dt_iso": "2026-09-10T19:15:33+08:00"
+  },
+  {
+    "title": "纳米比亚驻华大使：中国智慧城市成果提供有益借鉴 | 中国不一样",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10694105.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网上海9月10日电(记者 薛凌桥)“中国具备先进的数字基础设施、成熟的人工智能技术以及丰富的智慧城市落地实践经验，这为纳米比亚提供了切实可行的发展路径。”9月7日，纳米比亚驻华大使托纳塔·埃姆武拉(Tonata Itenge-Emvula)作上述发言。",
+    "published_dt_iso": "2026-09-10T19:03:44+08:00"
+  },
+  {
+    "title": "柬埔寨内政部官员：多边协作打击电诈意义重大",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10694093.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社江苏连云港9月10日电 (刘梦青 郭超凯)全球公共安全合作论坛(连云港)2026年大会9月8日至10日在江苏省连云港市举行。柬埔寨内政部副国务秘书乌江诺拉9日在参会期间接受中新社记者采访时表示，多边协作打击电诈意义重大，柬方将全力支持中方发起成立的国际打击电信网络诈骗联盟。",
+    "published_dt_iso": "2026-09-10T19:03:30+08:00"
+  },
+  {
+    "title": "2026第三届中国",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10694013.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网雅加达9月10日电 (记者 李志全)2026第三届中国—印尼校企合作峰会10日在印尼高等教育与科技部大楼举办，吸引200多名来自中国及印尼政府部门、高校、职业院校和中资企业等多方代表与会，围绕校企协同育人、人才联合培养、课程标准建设、科技交流及就业合作等议题开展深入交流。",
+    "published_dt_iso": "2026-09-10T19:03:06+08:00"
+  },
+  {
+    "title": "沙特连发紧急情况警报 也门驻卡塔尔大使发出警告",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693966.shtml",
+    "date": "2026-09-10",
+    "published_time": "15:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月10日电 综合消息：沙特阿拉伯和也门胡塞武装9日继续相互打击。沙特民防部门10日对该国西南地区连发紧急情况警报。也门驻卡塔尔大使巴迪警告称，胡塞武装与沙特新一轮冲突可能导致曼德海峡成为全球航运“另一个窒息点”。",
+    "published_dt_iso": "2026-09-10T15:04:59+08:00"
+  },
+  {
+    "title": "国际打击电信网络诈骗联盟成立",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-10/10693942.shtml",
+    "date": "2026-09-10",
+    "published_time": "15:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社江苏连云港9月10日电 (刘梦青)国际打击电信网络诈骗联盟成立大会9月10日在中国江苏连云港举行。来自46个创始国、34个观摩国以及联合国、国际刑警组织等4个国际组织的代表齐聚一堂，共同见证这一历史性时刻。",
+    "published_dt_iso": "2026-09-10T15:04:35+08:00"
+  },
+  {
+    "title": "一根粉笔传三代 湖南祁阳21个教育世家扎根乡村育学子",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694234.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:19",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网永州9月10日电(张敏 何艳飞 高志恒)在湖南永州祁阳市，有这样一种家风：一家三代，相继站上三尺讲台。目前，这片崇文重教的土地上，共有21个教育世家，跨越半个多世纪坚守讲台，把教书育人融入家族血脉。",
+    "published_dt_iso": "2026-09-10T20:19:07+08:00"
+  },
+  {
+    "title": "湖北集中销毁280余万件侵权假冒伪劣商品",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694236.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网咸宁9月10日电 (张永康)湖北省质量强省工作委员会办公室、省市场监管局联合省公安厅、省烟草专卖局等部门，10日在湖北咸宁开展2026年全省侵权假冒伪劣商品统一销毁行动，共销毁侵权假冒伪劣商品280余万件，货值3100余万元。",
+    "published_dt_iso": "2026-09-10T20:18:31+08:00"
+  },
+  {
+    "title": "山东青岛北海造船厂一货轮火灾事故已造成25人遇难",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694230.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "2026年9月10日11时15分许，一外籍货船在中国船舶集团青岛北海造船有限公司检修过程中发生火情。",
+    "published_dt_iso": "2026-09-10T20:10:18+08:00"
+  },
+  {
+    "title": "江门海关护航机器人咖啡机顺利出境参展",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694222.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网江门9月10日电 (郭军 邱景杨)近日，一批机器人咖啡机经江门海关所属外海海关监管，从江门高新港启运前往香港参加展会，这是江门海关关区今年以来首票以ATA单证册方式通关的暂时出境参展货物。",
+    "published_dt_iso": "2026-09-10T20:09:12+08:00"
+  },
+  {
+    "title": "黄茅峡水库工程首办鱼类增殖放流 55万尾优质鱼苗入连江",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694219.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网清远9月10日电 (记者 王坚)国家“两重”标志性重大水利工程、国家水网重要防洪工程——黄茅峡水库工程10日在清远英德大湾镇开展首次鱼类增殖放流，向连江放流55万尾优质鱼苗，助力流域生态修复与生物多样性保护，拉开该工程施工期水生生物资源修复工作的序幕。",
+    "published_dt_iso": "2026-09-10T20:02:18+08:00"
+  },
+  {
+    "title": "江门海事部门全面启动节前客船安全专项检查",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694217.shtml",
+    "date": "2026-09-10",
+    "published_time": "20:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网江门9月10日电(郭军 陈凌宇 黄雪山)中秋、国庆双节假期将至，江门海岛观光、水乡休闲文旅热度持续升温，水上出游即将迎来客流高峰。为防范客运安全风险，确保船舶全面适航，江门海事局近日全面启动辖区营运客船节前安全专项大检查，全力保障双节期间群众水上出行安全、有序、畅通。",
+    "published_dt_iso": "2026-09-10T20:01:18+08:00"
+  },
+  {
+    "title": "“十四五”期间珠江流域（片）水土流失面积减少0.84万平方公里",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694208.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月10日电 (记者 王坚)水利部珠江水利委员会(下称“珠江委”)10日通报称，该委已正式发布《珠江流域(片)水土保持公报(2021-2025年)》(简称《公报》)，首次以五年为周期系统总结“十四五”时期珠江流域(片)水土保持工作。《公报》全面反映了流域水土流失状况和防治成效，既增进了公众对珠江流域水土保持工作的了解，也有利于推动凝聚共同守护绿水青山的社会共识。",
+    "published_dt_iso": "2026-09-10T19:36:22+08:00"
+  },
+  {
+    "title": "广州教育工作者共探智慧教育新路径",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-10/10694196.shtml",
+    "date": "2026-09-10",
+    "published_time": "19:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月10日电 (记者 王坚)今年9月10日是第42个教师节，由中国教育技术协会智能教育专业委员会等单位主办的“AI新装备，致敬中国教师”教师节系列研讨交流会广州站当日举行。来自广州多所中小学的一线教师代表齐聚现场，围绕技术助力教师减负增效，共同探讨AI赋能教育的实践路径。",
+    "published_dt_iso": "2026-09-10T19:36:06+08:00"
+  },
+  {
+    "title": "青岛造船厂维修中货轮大火 至少20人死亡",
+    "link": "https://www.bbc.com/zhongwen/articles/czjzvdxw8gvo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-10",
+    "published_time": "19:41",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "中国官方媒体称，一艘外籍货轮靠港维修期间起火，造成严重伤亡。习近平与李强下达救灾指示。",
+    "published_dt_iso": "2026-09-10T19:41:21+08:00"
+  },
+  {
+    "title": "香港记协主席诉《华尔街日报》解雇案 法庭判局部有罪",
+    "link": "https://www.bbc.com/zhongwen/articles/ckgxyvrel0ko/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-10",
+    "published_time": "18:46",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "香港记者协会主席郑嘉如指控《华尔街日报》出版商道琼斯，因其参与工会活动，而将其革职，法庭部分支持其主张。",
+    "published_dt_iso": "2026-09-10T18:46:03+08:00"
+  },
+  {
+    "title": "在民意调查中，共和党人拥抱一个熟悉的工具：恐惧",
+    "link": "https://www.nytimes.com/2026/09/10/us/politics/republican-midterm-convention-socialism-fears.html",
+    "date": "2026-09-10",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在一次不同寻常的中期会议上，特朗普总统和他的盟友将民主党描绘成危险的非美国人。",
+    "published_dt_iso": "2026-09-10T17:04:27+08:00"
+  },
+  {
+    "title": "如果共和党获胜，特朗普将悬赏 5,000 美元，而被驱逐者将滞留在海地",
+    "link": "https://www.nytimes.com/2026/09/10/podcasts/the-headlines/trump-dangles-5000-payments-if-republicans-win-and-deportees-are-stranded-in-haiti.html",
+    "date": "2026-09-10",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "另外，还有一场秘密行动，要转移一件有 900 年历史的杰作。",
+    "published_dt_iso": "2026-09-10T18:00:12+08:00"
+  },
+  {
+    "title": "9/11 事件 25 年后，基地组织在阿富汗仍有据点",
+    "link": "https://www.nytimes.com/2026/09/10/world/asia/25-years-after-9-11-al-qaeda-still-has-a-home-in-afghanistan.html",
+    "date": "2026-09-10",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "塔利班声称阿富汗不再是恐怖组织的避难所，但基地组织和其他组织仍然存在，重燃了过去的恐惧。",
+    "published_dt_iso": "2026-09-10T17:02:44+08:00"
+  },
+  {
+    "title": "阿富汗“永远的战争”：25 年的照片",
+    "link": "https://www.nytimes.com/2026/09/10/world/asia/afghanistan-war-photojournalism.html",
+    "date": "2026-09-10",
+    "published_time": "19:52",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "从 9 月 11 日袭击发生后的最初几周，到美国混乱的撤军和塔利班的回归，《纽约时报》记录了阿富汗 25 年来的冲突和日常生活。",
+    "published_dt_iso": "2026-09-10T19:52:52+08:00"
+  },
+  {
+    "title": "德国极右翼党派效仿普京，取得进展",
+    "link": "https://www.nytimes.com/2026/09/10/world/europe/germany-russia-afd-putin.html",
+    "date": "2026-09-10",
+    "published_time": "17:44",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "德国另类选择党拥护克里姆林宫推崇的立场，可能首次在德国各州执政。",
+    "published_dt_iso": "2026-09-10T17:44:32+08:00"
   }
 ]

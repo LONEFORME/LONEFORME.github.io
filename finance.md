@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,313.20</span>
-      <span class="ticker-change down">▼ -2.43%</span>
+      <span class="ticker-price ticker-down">4,330.49</span>
+      <span class="ticker-change down">▼ -2.04%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7056</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.7099</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,427.07 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +25.34 (+0.58%)</span>
+      <span class="ticker-price ticker-down">$4,370.93 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -30.80 (-0.70%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥955.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.63 (+0.38%)</span>
+      <span class="ticker-price ticker-down">¥944.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -7.46 (-0.78%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694213.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月10日电 据国家医保局微信公众号消息，9月10日，第七批国家组织医用耗材集中带量采购(以下简称“集采”)在天津开标产生中选结果。本次集采纳入23种消化介入类医用耗材，共有156家企业的558个产品投标，148家企业的517个产品中选，临床在用的主流产品普遍中选。" data-title="第七批医用耗材集采开标 消化介入类耗材临床主流产品普遍中选" data-date="09-10 20:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-10 20:01</span>
+          <span class="news-item-title">第七批医用耗材集采开标 消化介入类耗材临床主流产品普遍中选</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10693928.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月10日电 9月9日，2026年中国国际服务贸易交易会(简称“服贸会”)在北京首钢园拉开帷幕。本届服贸会以“全球服务，互惠共享”为主题，吸引广泛关注。多家外媒指出，服贸会推动全球合作，为世界各国共享中国发展机遇搭建了重要桥梁。" data-title="外媒聚焦：服贸会推动国际务实合作 世界共享中国市场机遇" data-date="09-10 14:19" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -292,18 +298,6 @@ title: 股票财经
           <span class="news-item-date">09-09 21:56</span>
           <span class="news-item-title">直播海报：国新办就金融领域贯彻落实“十五五”规划、推动金融强国建设有关情况举行发布会</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="分析人士称，伊朗政府正在采取越来越激进的做法，因为它面临着日益严重的经济威胁，并担心其对霍尔木兹海峡的控制正在减弱。" data-title="伊朗表示准备在经济压力不断上升的情况下升级与美国的战争" data-date="09-09 20:04" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-09 20:04</span>
-          <span class="news-item-title">伊朗表示准备在经济压力不断上升的情况下升级与美国的战争</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/clyrj0l2ydyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="一年多来，家庭和企业早已习惯关税对生活成本带来影响，如今又将有哪些变化？" data-title="关税真正会让加拿大人和美国人付出什么代价" data-date="09-09 16:30" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-09 16:30</span>
-          <span class="news-item-title">关税真正会让加拿大人和美国人付出什么代价</span>
-        </a>
   </div>
 </div>
 
@@ -317,4 +311,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-10 14:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-10 20:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
