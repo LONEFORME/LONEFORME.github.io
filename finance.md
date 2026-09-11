@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,939.09</span>
-      <span class="ticker-change down">▼ -0.31%</span>
+      <span class="ticker-price ticker-down">3,910.92</span>
+      <span class="ticker-change down">▼ -0.60%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,641.18</span>
-      <span class="ticker-change down">▼ -0.60%</span>
+      <span class="ticker-price ticker-down">13,483.63</span>
+      <span class="ticker-change down">▼ -0.98%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,324.33</span>
-      <span class="ticker-change down">▼ -0.91%</span>
+      <span class="ticker-price ticker-down">3,310.01</span>
+      <span class="ticker-change down">▼ -0.85%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,569.46</span>
-      <span class="ticker-change down">▼ -0.67%</span>
+      <span class="ticker-price ticker-down">1,548.70</span>
+      <span class="ticker-change down">▼ -1.31%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,330.49</span>
-      <span class="ticker-change down">▼ -2.04%</span>
+      <span class="ticker-price ticker-up">4,332.45</span>
+      <span class="ticker-change up">▲ +0.04%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,145.59</span>
+      <span class="ticker-price ticker-down">29,103.51</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7124</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.7086</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,360.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -41.15 (-0.93%)</span>
+      <span class="ticker-price ticker-up">$4,350.34 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +33.74 (+0.78%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥942.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -9.53 (-1.00%)</span>
+      <span class="ticker-price ticker-down">¥939.64 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -12.62 (-1.33%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+37.9 亿</span>
+      <span class="sector-flow-badge">+33.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+32.2 亿</span>
+      <span class="sector-flow-badge">+37.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+38.1 亿</span>
+      <span class="sector-flow-badge">+52.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+23.2 亿</span>
+      <span class="sector-flow-badge">+33.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-11/10694526.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者从自然资源部获悉，自然资源部中国地质调查局最新发布的《全球矿业发展报告2026》显示，自我国实施新一轮找矿突破战略行动以来，战略性新兴矿产勘查实现跨越式发展，资源自主保障能力显著增强。" data-title="自然资源部：中国能源资源保障能力持续提升" data-date="09-11 11:54" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-11 11:54</span>
+          <span class="news-item-title">自然资源部：中国能源资源保障能力持续提升</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/video-games/nintendo/nintendo-of-america-puts-tariff-refunds-towards-customer-appreciation-sale-but-no-refunds-to-switch-2-buyers-offers-30-percent-off-games-and-accessories-from-september-13-to-26" target="_blank" rel="noopener" data-cat="caijing" data-summary="任天堂提供 30% 的销售折扣和关税退款，而不是直接将钱退还给客户。" data-title="Nintendo of America 将关税退款用于“客户回馈”销售，但不会向 Switch 2 买家退款 - 9 月 13 日至 26 日期间提供游戏和配件 30% 的折扣" data-date="09-11 03:35" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-11 03:35</span>
+          <span class="news-item-title">Nintendo of America 将关税退款用于“客户回馈”销售，但不会向 Switch 2 买家退款 - 9 月 13 日至 26 日期间提供游戏和配件 30% 的折扣</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10694357.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="由于中东局势升级加剧市场对能源供应的担忧，国际油价10日继续上涨，纽约商品交易所轻质原油期货价格盘中一度突破每桶100美元。" data-title="纽约原油期价突破100美元" data-date="09-10 23:17" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -287,4 +299,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-11 00:33（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-11 14:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
