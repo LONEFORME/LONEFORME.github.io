@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,103.51</span>
-      <span class="ticker-change down">▼ -0.00%</span>
+      <span class="ticker-price ticker-up">29,385.82</span>
+      <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7094</span>
+      <span class="ticker-price ticker-down">6.7082</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,332.44 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +15.84 (+0.37%)</span>
+      <span class="ticker-price ticker-up">$4,361.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +44.54 (+1.03%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥935.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -4.05 (-0.43%)</span>
+      <span class="ticker-price ticker-up">¥940.12 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +0.67 (+0.07%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,79 +230,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-11/10694946.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社江西庐山9月11日电 (朱莹 刘占昆 刘力鑫)海峡两岸关系协会会长张志军11日在江西庐山表示，尽管当前外部形势变乱交织、严峻复杂，但大陆经济航船顶压前行、向优向好，持续保持经济快速发展和社会长期稳定，祖国大陆仍是广大台商台胞发展的最优选择。" data-title="海协会会长张志军：祖国大陆仍是广大台商台胞发展的最优选择" data-date="09-11 20:09" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在8月份的消费者价格指数报告发布后，美联储下周会议加息25个百分点的几率飙升至90%。" data-title="通货膨胀加剧对美联储加息施加压力" data-date="09-11 23:47" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-11 23:47</span>
+          <span class="news-item-title">通货膨胀加剧对美联储加息施加压力</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-11/10695016.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="作为金砖合作的积极倡导者和推动者，习近平主席强调要让“大金砖合作”基础更牢、动能更足、影响更大，更多更好惠及各国人民。近年来，中国积极推动金砖合作走深走实，从医疗人才培养到经贸往来、产业对接，这座跨越国界的合作之桥，为各国人民创造更多机遇，也让共同发展的未来更加紧密相连。" data-title="大金砖合作：桥向未来" data-date="09-11 21:37" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-11 20:09</span>
-          <span class="news-item-title">海协会会长张志军：祖国大陆仍是广大台商台胞发展的最优选择</span>
+          <span class="news-item-date">09-11 21:37</span>
+          <span class="news-item-title">大金砖合作：桥向未来</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-11/10695003.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网日内瓦9月11日电 联合国人权理事会第63届会议9日举行消除不平等背景下促进和保护经济、社会及文化权利专题研讨会。联合国人权理事会主席苏约迪普罗主持，联合国人权事务高级专员图尔克致辞，中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德作主旨发言。" data-title="中国在联合国人权理事会呼吁加大经社文权利资源投入" data-date="09-11 21:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-11 21:33</span>
+          <span class="news-item-title">中国在联合国人权理事会呼吁加大经社文权利资源投入</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="这次访问的时机耐人寻味。金砖机制被视为美国主导的世界格局之外的另一种选择，美国总统特朗普（Donald Trump）已多次对其发出威胁；与此同时，中印两国在贸易、直航和边界对话上悄然回温。" data-title="习近平七年来首次访印前瞻：中印回暖背后的美国阴影与西藏问题" data-date="09-11 18:06" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-11 18:06</span>
           <span class="news-item-title">习近平七年来首次访印前瞻：中印回暖背后的美国阴影与西藏问题</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="股票市场很容易谈论。但债券是另一回事。我们的专栏作家有一些建议可以帮助您成为债券专家。" data-title="如何理解债券市场的混乱" data-date="09-11 17:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-11 17:03</span>
-          <span class="news-item-title">如何理解债券市场的混乱</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-11/10694526.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者从自然资源部获悉，自然资源部中国地质调查局最新发布的《全球矿业发展报告2026》显示，自我国实施新一轮找矿突破战略行动以来，战略性新兴矿产勘查实现跨越式发展，资源自主保障能力显著增强。" data-title="自然资源部：中国能源资源保障能力持续提升" data-date="09-11 11:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-11 11:54</span>
-          <span class="news-item-title">自然资源部：中国能源资源保障能力持续提升</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/video-games/nintendo/nintendo-of-america-puts-tariff-refunds-towards-customer-appreciation-sale-but-no-refunds-to-switch-2-buyers-offers-30-percent-off-games-and-accessories-from-september-13-to-26" target="_blank" rel="noopener" data-cat="caijing" data-summary="任天堂提供 30% 的销售折扣和关税退款，而不是直接将钱退还给客户。" data-title="Nintendo of America 将关税退款用于“客户回馈”销售，但不会向 Switch 2 买家退款 - 9 月 13 日至 26 日期间提供游戏和配件 30% 的折扣" data-date="09-11 03:35" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-11 03:35</span>
-          <span class="news-item-title">Nintendo of America 将关税退款用于“客户回馈”销售，但不会向 Switch 2 买家退款 - 9 月 13 日至 26 日期间提供游戏和配件 30% 的折扣</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-10/10694357.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="由于中东局势升级加剧市场对能源供应的担忧，国际油价10日继续上涨，纽约商品交易所轻质原油期货价格盘中一度突破每桶100美元。" data-title="纽约原油期价突破100美元" data-date="09-10 23:17" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 23:17</span>
-          <span class="news-item-title">纽约原油期价突破100美元</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="由于投资者担心能源供应减少和通胀加速的前景，原油价格触及数月来最高水平，债券收益率继续上升。" data-title="随着股票和债券的波动，油价飙升" data-date="09-10 23:13" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-10 23:13</span>
-          <span class="news-item-title">随着股票和债券的波动，油价飙升</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694352.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京9月10日电 第十六次亚太经合组织能源部长会议10日在北京开幕，中共中央政治局常委、国务院副总理丁薛祥出席并致辞。" data-title="丁薛祥出席第十六次亚太经合组织能源部长会议开幕式并致辞" data-date="09-10 22:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 22:31</span>
-          <span class="news-item-title">丁薛祥出席第十六次亚太经合组织能源部长会议开幕式并致辞</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694318.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月10日电 (记者 刘大炜)10日在北京发布的《两岸服务贸易发展研究报告》指出，大陆经济正转向高质量发展阶段，发展数字经济对此具有强大支撑作用。台商台企可通过数字化转型、发展数字贸易来培育未来两岸服贸合作新动能。" data-title="两岸服贸研究报告：以数字化转型和数字贸易培育合作新动能" data-date="09-10 21:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 21:47</span>
-          <span class="news-item-title">两岸服贸研究报告：以数字化转型和数字贸易培育合作新动能</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10694308.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="河南鹤壁市的浚县，地处黄河故道，在这里，有一项传承了千年的传统手艺——泥塑。一捧黄河泥，在匠人的手中千变万化，培育出了千万级别的文创产业，成为带动当地村民增收致富、激活乡村活力的特色产业。" data-title="活力中国调研行丨一捧黄河泥培育出千万级文创产业" data-date="09-10 21:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 21:33</span>
-          <span class="news-item-title">活力中国调研行丨一捧黄河泥培育出千万级文创产业</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-10/10694292.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月10日电 (孙倩)9月10日，山东省质量强省建设协调推进领导小组办公室、省市场监管局在济南市组织开展2026年侵权假冒伪劣商品集中销毁行动。本次销毁的侵权假冒伪劣商品包括食品药品、日用品、服装鞋帽、建材电器等98个品种，涉案货值878万元(人民币，下同)。" data-title="山东集中销毁侵权假冒伪劣商品 涉案货值878万元" data-date="09-10 21:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 21:24</span>
-          <span class="news-item-title">山东集中销毁侵权假冒伪劣商品 涉案货值878万元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-10/10694275.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网桂林9月10日电(邓竣缤)9月10日，广西新的社会阶层人士联谊会(以下简称“广西新联会”)、桂林市新的社会阶层人士联谊会(以下简称“桂林市新联会”)与桂林市全州县才湾镇南一村村民委员会签署服务协议，建立为期一年的帮扶关系，服务毛竹山村。三方将围绕毛竹山村乡村振兴需求，在法律、税务、会计等方面提供公益服务，助力村级治理、村集体经济发展和村民生产生活改善。" data-title="广西新联会与毛竹山村建立帮扶关系" data-date="09-10 20:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-10 20:57</span>
-          <span class="news-item-title">广西新联会与毛竹山村建立帮扶关系</span>
         </a>
   </div>
 </div>
@@ -317,4 +269,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-11 20:18（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-12 00:38（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
