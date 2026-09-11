@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,332.45</span>
-      <span class="ticker-change up">▲ +0.04%</span>
+      <span class="ticker-price ticker-down">4,320.57</span>
+      <span class="ticker-change down">▼ -0.23%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7086</span>
+      <span class="ticker-price ticker-down">6.7094</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,350.34 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +33.74 (+0.78%)</span>
+      <span class="ticker-price ticker-up">$4,332.44 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +15.84 (+0.37%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥939.64 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -12.62 (-1.33%)</span>
+      <span class="ticker-price ticker-down">¥935.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -4.05 (-0.43%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">12 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-11/10694946.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社江西庐山9月11日电 (朱莹 刘占昆 刘力鑫)海峡两岸关系协会会长张志军11日在江西庐山表示，尽管当前外部形势变乱交织、严峻复杂，但大陆经济航船顶压前行、向优向好，持续保持经济快速发展和社会长期稳定，祖国大陆仍是广大台商台胞发展的最优选择。" data-title="海协会会长张志军：祖国大陆仍是广大台商台胞发展的最优选择" data-date="09-11 20:09" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-11 20:09</span>
+          <span class="news-item-title">海协会会长张志军：祖国大陆仍是广大台商台胞发展的最优选择</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqxvzdx4d10o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="这次访问的时机耐人寻味。金砖机制被视为美国主导的世界格局之外的另一种选择，美国总统特朗普（Donald Trump）已多次对其发出威胁；与此同时，中印两国在贸易、直航和边界对话上悄然回温。" data-title="习近平七年来首次访印前瞻：中印回暖背后的美国阴影与西藏问题" data-date="09-11 18:06" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-11 18:06</span>
+          <span class="news-item-title">习近平七年来首次访印前瞻：中印回暖背后的美国阴影与西藏问题</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/11/business/bond-market-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="股票市场很容易谈论。但债券是另一回事。我们的专栏作家有一些建议可以帮助您成为债券专家。" data-title="如何理解债券市场的混乱" data-date="09-11 17:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-11 17:03</span>
+          <span class="news-item-title">如何理解债券市场的混乱</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-11/10694526.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者从自然资源部获悉，自然资源部中国地质调查局最新发布的《全球矿业发展报告2026》显示，自我国实施新一轮找矿突破战略行动以来，战略性新兴矿产勘查实现跨越式发展，资源自主保障能力显著增强。" data-title="自然资源部：中国能源资源保障能力持续提升" data-date="09-11 11:54" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -299,4 +317,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-11 14:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-11 20:18（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
