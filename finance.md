@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/001/655.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，当地时间 10 日，据路透社援引知情人士消息称，大众汽车预计，上周敲定的重大重组协议将带来约 160 亿欧元（IT之家注：现汇率约合 1,246.92 亿元人民币）成本，主要用于裁员以及可能关闭部分工厂。作为欧洲最大车企，大众汽车正推进公司历史上规模最大的重组。面对中国车企竞争、高额关税和产能过剩等压力，大众汽车直言，当前的处境就是一场“关乎生存”的竞争。根据重组方案，大众汽车将为德国 4 座工厂寻找新的出路，这些工厂将在未来 10 年内陆续面临无车可产的局面。同时，公司计划在此前裁员方案基础上再减少约 5 万个岗位。知情人士告诉路透社，逐步结束埃姆登和茨维考工厂的生产预计将分别耗资约 10 亿欧元（现汇率约合 77.93 亿元人民币），内卡苏尔姆和汉诺威工厂" data-title="大众“史上最大”重组的代价：消息称裁员、关厂将烧掉 160 亿欧元" data-date="09-12 23:09" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 23:09</span>
+          <span class="news-item-title">大众“史上最大”重组的代价：消息称裁员、关厂将烧掉 160 亿欧元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/654.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，工业和信息化部昨日（9 月 11 日）举行新闻发布会，介绍我国智能网联新能源汽车产业发展有关情况。国家发展改革委产业发展司副司长邵稷出席发布会，他提到，新能源汽车在取得可喜成绩的同时，我们也认识到，当前产业技术路线仍在持续演进，未来还可能出现新的颠覆性技术，在产品质量安全、资源回收利用等方面还有不少提升空间。为此，国家发展改革委将会同有关部门，把技术创新摆在更加突出的位置，持之以恒推动产业提质升级。一是加强部门协同，持续支持企业加强技术研发应用。聚焦新型电子电气架构、全固态电池、汽车操作系统、智能驾驶等前沿领域，支持骨干企业联合产业上下游开展协同攻关，加快突破一批关系产业长远发展的共性技术、基础技术和前沿技术。配合工信部等部门稳步有序开展智能网联汽车准入试点等" data-title="国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组" data-date="09-12 22:58" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 22:58</span>
+          <span class="news-item-title">国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/653.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，据《商业内幕》今天（12 日）凌晨报道，谷歌完成了对旧金山 AI 编程初创企业 Mechanize 的人才收购。Mechanize 联合创始人塔迈 · 贝西罗格鲁的 LinkedIn 资料显示，他自 8 月起加入了谷歌 DeepMind 部门，另有报道称，Mechanize 十多名工程师也一同转投 DeepMind。交易财务条款现已公开，据信谷歌此前曾洽谈一笔价值 15 亿美元（IT之家注：现汇率约合 100.88 亿元人民币）的交易，以获得 Mechanize 的技术和人才。Mechanize 今年早些时候曾以 5 亿美元（现汇率约合 33.63 亿元人民币）估值融资 910 万美元（现汇率约合 6,120 万元人民币），目前由吉夫 · 阿萨迪担任 CEO。" data-title="谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板" data-date="09-12 22:53" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 22:53</span>
+          <span class="news-item-title">谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社莫斯科9月12日电(记者侯鸣)9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。" data-title="李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州" data-date="09-12 22:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 22:52</span>
+          <span class="news-item-title">李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695392.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔9月12日电(记者 金旭)当地时间11日，第14届“亚洲论坛”在韩国首尔举行。本届论坛由韩国纽斯频通讯社、KYD(Korea Youth Dream)共同主办，主题为“能源安全与AI转型：亚洲合作新坐标”。" data-title="第14届“亚洲论坛”在首尔举办" data-date="09-12 19:59" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 19:59</span>
+          <span class="news-item-title">第14届“亚洲论坛”在首尔举办</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695323.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网江西庐山9月12日电 (刘力鑫 黄九顺)11日，恰逢第二十届赣台(庐山)经贸文化合作交流大会举办之际，来自赣台两地及周边省市的文旅业界代表、文旅部门相关负责人齐聚“人文圣山”庐山，围绕产品共建、客源互送、产业协同、青年交流等议题深度研讨，共商赣台文旅合作新机遇。" data-title="两岸旅游业界代表江西庐山共商赣台文旅合作新机遇" data-date="09-12 19:21" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -280,30 +310,6 @@ title: 股票财经
           <span class="news-item-date">09-11 23:47</span>
           <span class="news-item-title">通货膨胀加剧对美联储加息施加压力</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-11/10695081.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="金砖国家工商论坛11日在印度首都新德里举行，重点讨论增强供应链韧性、农产品与农业科技创新、服务贸易、数字经济等议题。" data-title="金砖国家工商论坛在新德里举行" data-date="09-11 22:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-11 22:48</span>
-          <span class="news-item-title">金砖国家工商论坛在新德里举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-11/10695018.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月11日电(记者 巩微微)2026年中国国际服务贸易交易会(以下简称“服贸会”)于9月9日至13日在北京首钢园举办。挪威、格鲁吉亚、津巴布韦等多国官员及代表在接受中新网记者采访时表示，服贸会为各国展示特色服务和产品、探索中国市场以及深化经贸、科技和文化交流，提供了重要平台。" data-title="搭建开放合作平台 服贸会吸引各国代表共赴“中国之约” | 中国不一样" data-date="09-11 22:17" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-11 22:17</span>
-          <span class="news-item-title">搭建开放合作平台 服贸会吸引各国代表共赴“中国之约” | 中国不一样</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-11/10695016.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="作为金砖合作的积极倡导者和推动者，习近平主席强调要让“大金砖合作”基础更牢、动能更足、影响更大，更多更好惠及各国人民。近年来，中国积极推动金砖合作走深走实，从医疗人才培养到经贸往来、产业对接，这座跨越国界的合作之桥，为各国人民创造更多机遇，也让共同发展的未来更加紧密相连。" data-title="大金砖合作：桥向未来" data-date="09-11 21:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-11 21:37</span>
-          <span class="news-item-title">大金砖合作：桥向未来</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-11/10695003.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网日内瓦9月11日电 联合国人权理事会第63届会议9日举行消除不平等背景下促进和保护经济、社会及文化权利专题研讨会。联合国人权理事会主席苏约迪普罗主持，联合国人权事务高级专员图尔克致辞，中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德作主旨发言。" data-title="中国在联合国人权理事会呼吁加大经社文权利资源投入" data-date="09-11 21:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-11 21:33</span>
-          <span class="news-item-title">中国在联合国人权理事会呼吁加大经社文权利资源投入</span>
-        </a>
   </div>
 </div>
 
@@ -317,4 +323,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-12 19:41（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-12 23:39（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
