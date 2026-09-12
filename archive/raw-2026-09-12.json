@@ -1788,5 +1788,535 @@
     "feed_name": "纽约时报",
     "summary": "此外，伊朗支持的民兵占领了一个关键的红海岛屿。以下是最新消息，截止日期为周五。",
     "published_dt_iso": "2026-09-12T05:32:31+08:00"
+  },
+  {
+    "title": "伊朗可能对捕获的美国水下无人机进行逆向工程—几个伊朗大使馆嘲笑美国捕获，海军声称丢失的Anduril车辆有缺陷且未分类",
+    "link": "https://www.tomshardware.com/tech-industry/drones/iran-could-potentially-reverse-engineer-captured-u-s-underwater-drone-several-iranian-embassies-mock-us-over-capture-as-u-s-military-downplays-the-situation",
+    "date": "2026-09-12",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "伊朗可能会对被俘的美国海军Anduril Dive-LD水下无人机进行逆向工程，因为德黑兰嘲笑损失，而华盛顿则淡化其军事价值。",
+    "published_dt_iso": "2026-09-12T19:30:00+08:00"
+  },
+  {
+    "title": "铠侠Exceria Pro G2 2TB SSD评测",
+    "link": "https://www.tomshardware.com/pc-components/ssds/kioxia-exceria-pro-g2-2tb-ssd-review",
+    "date": "2026-09-12",
+    "published_time": "19:05",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "铠侠的Exceria Pro G2将SM2508和BiCS8 TLC闪存配对，实现快速、高效的PCIe 5.0存储。它不是最快的PCIe 5.0固态硬盘，但它是可靠的黑色SN8100替代品。",
+    "published_dt_iso": "2026-09-12T19:05:00+08:00"
+  },
+  {
+    "title": "Lucky PC Scavenger发现了加密货币挖矿时代的12个腾讯通3070显卡—卡片在地下室多年的存储中幸存下来，只有轻微的磨损迹象",
+    "link": "https://www.tomshardware.com/pc-components/gpus/lucky-pc-scavenger-discovers-12-rtx-3070-gpus-from-the-crypto-mining-era-cards-survived-years-of-basement-storage-with-only-minor-signs-of-wear",
+    "date": "2026-09-12",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "看起来像几个被遗忘的采矿钻机，结果是一个令人惊讶的有价值的运输，有12个RTX 3070显卡可能仍然可以执行游戏任务。",
+    "published_dt_iso": "2026-09-12T19:00:00+08:00"
+  },
+  {
+    "title": "苹果A20 Pro打破Geekbench 7单核记录--2nm芯片比台式机英特尔酷睿i9和AMD锐龙9高出32%",
+    "link": "https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent",
+    "date": "2026-09-12",
+    "published_time": "18:48",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "苹果A20 Pro智能手机SoC的性能远远优于所有智能手机处理器，并设法抛弃了最新的笔记本电脑处理器。",
+    "published_dt_iso": "2026-09-12T18:48:32+08:00"
+  },
+  {
+    "title": "Wiki记录了至少44起索尼在数字游戏所有权诉讼中声称您拥有游戏的案例—该项目直接攻击了索尼在最近的所有权诉讼中的主张",
+    "link": "https://www.tomshardware.com/video-games/playstation/consumer-rights-wiki-documents-at-least-44-instances-in-which-sony-says-you-own-your-games-project-is-direct-assault-on-sonys-claim-in-recent-ownership-lawsuit",
+    "date": "2026-09-12",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "详细的采购直接驳斥了索尼的法律主张，即一个理智的人不会期望在PlayStation Store上拥有他们的数字购物。",
+    "published_dt_iso": "2026-09-12T18:30:00+08:00"
+  },
+  {
+    "title": "工程师将模拟的苍蝇大脑变成加密货币日内交易者，将可下载的SIM发布到GitHub — 166,700个虚拟神经元阅读多巴胺命中的烛台图表",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
+    "date": "2026-09-12",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Coinbase工程师将苍蝇大脑变成加密货币日内交易者— Stonkfly拥有116,700个模拟神经元，尚未亏损",
+    "published_dt_iso": "2026-09-12T18:00:00+08:00"
+  },
+  {
+    "title": "OpenAI只想赢",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+    "date": "2026-09-12",
+    "published_time": "19:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "OpenAI在过去几年中一直在日益困难的数学领域种植旗帜。本周，它获得了迄今为止最大的奖项之一：解决传奇的千年奖问题。在正常情况下，这被认为是一项历史性的成就。相反，许多数学家已经看到了OpenAI在[…]方面的不懈进步。",
+    "published_dt_iso": "2026-09-12T19:00:00+08:00"
+  },
+  {
+    "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+    "link": "https://www.qbitai.com/2026/09/487796.html",
+    "date": "2026-09-12",
+    "published_time": "16:49",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "Claude越界攻击真实系统，并非只是测试系统的设置问题，模型本身的安全问题也出了问题。",
+    "published_dt_iso": "2026-09-12T16:49:02+08:00"
+  },
+  {
+    "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+    "link": "https://www.qbitai.com/2026/09/487752.html",
+    "date": "2026-09-12",
+    "published_time": "16:15",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有",
+    "published_dt_iso": "2026-09-12T16:15:31+08:00"
+  },
+  {
+    "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+    "link": "https://www.qbitai.com/2026/09/487701.html",
+    "date": "2026-09-12",
+    "published_time": "15:33",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "FrontierMath Tier 4，饱和了",
+    "published_dt_iso": "2026-09-12T15:33:54+08:00"
+  },
+  {
+    "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+    "link": "https://www.qbitai.com/2026/09/487688.html",
+    "date": "2026-09-12",
+    "published_time": "13:58",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "冲刺港股IPO",
+    "published_dt_iso": "2026-09-12T13:58:41+08:00"
+  },
+  {
+    "title": "航天员出舱时空间站如何稳姿？官方详解 CMG 与喷气控制",
+    "link": "https://www.ithome.com/1/001/627.htm",
+    "date": "2026-09-12",
+    "published_time": "19:27",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，据中国载人航天工程办公室，近期，神二十三乘组圆满完成了约 5.5 小时的出舱活动。中国空间站要实现长期在轨可靠、安全稳定运行，必须具备在轨组装及维修维护能力。因此，需要航天员出舱完成舱外载荷和设备的维修、安装等一系列舱外操作任务。那么，在出舱活动期间，空间站是如何调控姿态，为航天员提供稳定的舱外作业环境呢？IT之家从官方介绍获悉，中国空间站的姿态控制方式分为两种：发动机喷气控制和 CMG 控制。发动机喷气控制时，向外喷射推进剂，通过反作用力实现空间站姿态控制；CMG 控制时，由 CMG 与空间站舱体之间进行角动量交换，实现空间站姿态控制。CMG 是什么？CMG 全称控制力矩陀螺（Control Moment Gyroscope），是航天器姿态控制的关键执行机构",
+    "published_dt_iso": "2026-09-12T19:27:55+08:00"
+  },
+  {
+    "title": "网易《逆水寒：新世界》“含金量最高版本”9 月 24 日上线，联动盗墓笔记",
+    "link": "https://www.ithome.com/1/001/626.htm",
+    "date": "2026-09-12",
+    "published_time": "19:04",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，网易《逆水寒：新世界》今日官宣，开服史上真 · 含金量最高的版本，将于 9 月 24 日开启，带来盗墓笔记联动、新玩法、新剧情等。IT之家附《逆水寒：新世界》4.1.4 双节版本概念性前瞻：新版本将有白发加速 300 次，更多出金福利，还有真黄金掉落，扭蛋机额外获得寻珍抽奖道具 * 3。盗墓笔记联动，将带来吴邪、张起灵、霍秀秀三位经典人物，与玩家共探迷局。军工文创联动，带来全新小镇建筑皮肤、限定配饰等免费内容，还有部分 BOSS 免战机制。你画我猜玩法迎来底层焕新，带来新优化、新玩法、新互动等。新华章“且倾人间月”上线，还有中秋“真金喜”活动，联动淘宝闪购等。",
+    "published_dt_iso": "2026-09-12T19:04:21+08:00"
+  },
+  {
+    "title": "绿联发布 AI NAS iDX6011 Pro：酷睿 Ultra 7 255H、内存 64GB，首发价 15999 元",
+    "link": "https://www.ithome.com/1/001/625.htm",
+    "date": "2026-09-12",
+    "published_time": "18:50",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，绿联今日发布了 AI NAS iDX6011 Pro，日常价 19999 元，首发到手价 15999 元。这款新品搭载英特尔酷睿 Ultra 7 255H 处理器（16 核心 16 线程），64GB LPDDR5X 8533MT/s 内存，独立系统盘存储为 128GB。该机配备 2 个 PCIe 4.0×4 M.2 固态硬盘位，单盘上限支持 8TB；支持安装 6 块 2.5/3.5 英寸 SATA 硬盘，单盘位最高支持 32TB。接口方面，这款 NAS 搭载双雷电 4、双万兆网口、OCuLink、HDMI 2.1、SD 4.0 插槽、2 个 USB-A 3.2 Gen2 和 2 个 USB-A 2.0；此外，新品还有一个 PCIe 4.0×8 插槽。这款产品内",
+    "published_dt_iso": "2026-09-12T18:50:08+08:00"
+  },
+  {
+    "title": "索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入",
+    "link": "https://www.ithome.com/1/001/624.htm",
+    "date": "2026-09-12",
+    "published_time": "18:42",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，据外媒 TechPowerup 当地时间 11 日报道，索尼计划从 2028 年起逐步减少实体光盘生产，然而 Alinea Analytics 分析师里斯 · 埃利奥特分享的数据显示，实体游戏依然为 PlayStation 多款重磅独占游戏贡献了相当可观的收入。《漫威蜘蛛侠 2》总收入达到 12 亿美元（IT之家注：现汇率约合 80.7 亿元人民币），其中 35% 来自实体版；《羊蹄山之魂》4 亿美元（现汇率约合 26.9 亿元人民币）收入中，实体版占比接近 40%。《宇宙机器人》《剑星》和《死亡搁浅 2：冥滩之上》也大致处于同一区间，实体版收入占比达到 32% 至 47%。唯一例外是《绝地潜兵 2》，2.35 亿美元（现汇率约合 15.8 亿元人民币）收入中",
+    "published_dt_iso": "2026-09-12T18:42:05+08:00"
+  },
+  {
+    "title": "Stellantis CEO 菲洛萨称当今全球车市已明显分成两部分：美国和其他",
+    "link": "https://www.ithome.com/1/001/623.htm",
+    "date": "2026-09-12",
+    "published_time": "18:23",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，据路透社报道，当地时间 10 日，Stellantis 集团 CEO 安东尼奥 · 菲洛萨在一场分析师会议上指出，当前全球汽车市场已经明显分成两部分：美国，以及世界其他地区。Stellantis 目前正面临美国与欧洲等其他地区贸易和政策环境日益分化的问题，车企如何与中国企业合作尤其如此。菲洛萨此次谈到的重点，正是 Stellantis 集团该如何适应这种分化。“我们清楚地看到，世界被分成两个部分：一个是美国…… 另一个是世界其他地区。”对 Stellantis 集团及其竞争对手而言，真正的难题在于如何为美国开发车型。IT之家从报道中获悉，美国是 Stellantis 集团最主要的利润来源，当地法规和消费者需求都与世界其他地区存在明显差异。菲洛萨指出，Stell",
+    "published_dt_iso": "2026-09-12T18:23:43+08:00"
+  },
+  {
+    "title": "8080 元起：新大洲本田推出 NS125FX 摩托车，含自由高达联名限量版",
+    "link": "https://www.ithome.com/1/001/622.htm",
+    "date": "2026-09-12",
+    "published_time": "18:15",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，新大洲本田今日推出 NS125FX 摩托车，可选自由高达联名限量版，售价 8080 元起：碟刹版：8080 元碟刹尾箱版：8380 元ABS 版：8980 元自由高达联名限量版（限量 1000 台）：9980 元NS125FX 搭载 Honda eSP 125cc 发动机，最大扭矩 10N·m/5750rpm，最大功率 7kW/7500rpm，综合油耗 2.0L/100km。NS125FX 搭载全车 LED 灯组（透镜大灯搭配独立日间行车灯），尾部采用立体式造型设计；拥有高清 VA 全贴合液晶仪表、铝合金后扶手、前置储物格、20W 双口（Type A + C）快充、独立铝合金后脚蹬、驻车开关、3/4 座桶空间等配置。NS125FX 搭载五段可调后减震，座高 7",
+    "published_dt_iso": "2026-09-12T18:15:32+08:00"
+  },
+  {
+    "title": "乘联分会崔东树：本轮乘用车市场下行属于阶段性结构性波动",
+    "link": "https://www.ithome.com/1/001/621.htm",
+    "date": "2026-09-12",
+    "published_time": "18:07",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，乘联分会秘书长崔东树今天（12 日）在个人公众号发文称，2026 年 8 月车市零售环比回升 5.5%，是油价高位压制、宏观景气偏弱、政策预期升温、成都车展带动等多重因素交织共振的结果。崔东树表示，地缘冲突持续困扰霍尔木兹海峡的通航，推动国际油价维持高位震荡，2026 年国内汽油价格累计上调已超 1720 元 / 吨，尤其 7 月底以来上涨了 180 元，大幅抬高了燃油车用车成本，国内燃油乘用车消费需求持续剧烈萎缩。数据显示，8 月制造业 PMI 环比回升 0.6% 至 49.8%，仍处于荣枯线之下，终端内需边际虽回暖但力度有限。IT之家从文中获悉，当月上中旬高温假抑制终端到店客流、下旬成都车展带动市场热度回升、月末冲量拉动日均零售修复，终端订单与客流呈现前低",
+    "published_dt_iso": "2026-09-12T18:07:57+08:00"
+  },
+  {
+    "title": "微软承认 Win11 更新引发“代码 10”错误，部分 USB 音频设备无法正常工作",
+    "link": "https://www.ithome.com/1/001/609.htm",
+    "date": "2026-09-12",
+    "published_time": "17:55",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 12 日消息，据外媒 Neowin 今天（11 日）下午报道，此前消息称，微软确认 Windows 11 最新“补丁星期二”更新引发了两个新问题。数小时后，微软又确认了一项新的故障，导致 USB Audio Class 1.0 设备无法正常工作。安装更新后，部分设备会在设备管理器中出现“代码 10”错误，并在多个 Windows 11 版本中完全失去声音输出。故障影响 Windows 11 26H1、25H2 和 24H2，仅涉及客户端设备，服务器版本不受影响。微软承认，受影响用户可能遇到完全无声、音量控制失灵，以及多声道或 3D 音频功能无法使用等情况。IT之家从报道中获悉，微软回应称，目前正调查“永久修复方案”。正式修复推出前，Microsoft Learn 上的部分用",
+    "published_dt_iso": "2026-09-12T17:55:13+08:00"
+  },
+  {
+    "title": "“我已经翻开了一页” -卡马拉对切尔西的交易崩溃",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cj9x7e40gr2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-12",
+    "published_time": "18:07",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "摩纳哥和塞内加尔中场球员拉明·卡马拉（ Lamine Camara ）表示，他正在从失败的4710万英镑转会切尔西。",
+    "published_dt_iso": "2026-09-12T18:07:36+08:00"
+  },
+  {
+    "title": "Sutton的预测v Dorking Wanderers经理Marc White",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c1dlnq215zeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-11",
+    "published_time": "02:47",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育足球专家克里斯·萨顿（ Chris Sutton ）与Dorking Wanderers经理马克·怀特（ Marc White ）以及BBC读者和人工智能进行了对本周末英超联赛的预测。",
+    "published_dt_iso": "2026-09-11T02:47:34+08:00"
+  },
+  {
+    "title": "今日英超联赛：如何观看马刺对埃弗顿，电视频道和直播",
+    "link": "https://www.theguardian.com/football/2026/sep/12/how-to-watch-spurs-everton-premier-league",
+    "date": "2026-09-12",
+    "published_time": "19:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "马刺队和埃弗顿队今天的表现如何？以下是需要了解的信息，包括开球时间、电视频道和直播选项热刺在经历了一个几乎被英超联赛淘汰的赛季之后的复苏尚未实现。事实上，罗伯托·德·泽比的球队仍在寻找他们在联赛赛季的第一场胜利，对周六的比赛给予一定的重视。任何低于马刺的胜利都可能改变气氛",
+    "published_dt_iso": "2026-09-12T19:30:32+08:00"
+  },
+  {
+    "title": "今日英超联赛：如何观看利物浦对富勒姆、电视频道和直播",
+    "link": "https://www.theguardian.com/football/2026/sep/12/how-to-watch-liverpool-fulham-premier-league",
+    "date": "2026-09-12",
+    "published_time": "17:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "利物浦和富勒姆今天的表现如何？以下是需要了解的内容，包括开球时间、电视频道和直播选项2026-27赛季英超联赛的积分榜已经开始成形，利物浦的目标是在上个赛季的压倒性竞选之后更接近积分榜榜首，安菲尔德队获得了第五名。对于富勒姆来说，本赛季可能是关于生存的。山寨队已经失去了他们的三个开场赛程，",
+    "published_dt_iso": "2026-09-12T17:00:31+08:00"
+  },
+  {
+    "title": "兴安盟袁隆平院士工作站耐盐碱水稻亩产超552公斤",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695326.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网兴安盟9月12日电 (记者 张玮)记者12日从兴安盟袁隆平院士工作站获悉，2026年耐盐碱水稻测产活动在内蒙古自治区兴安盟科右中旗举行。经专家团现场实收测定，耐盐碱水稻平均亩产达552.67公斤，再创历史新高。",
+    "published_dt_iso": "2026-09-12T19:35:37+08:00"
+  },
+  {
+    "title": "2026浦江创新论坛开幕 长三角基础研究联合基金重大专项正式启动",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695325.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网上海9月12日电 (记者 孙自法 郑莹莹)2026浦江创新论坛开幕式9月12日在上海举行，国家自然科学基金长三角基础研究联合基金重大专项正式启动。",
+    "published_dt_iso": "2026-09-12T19:35:03+08:00"
+  },
+  {
+    "title": "“麦积山雕塑论坛·2026”探索构建中国雕塑自主知识体系",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695324.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网甘肃天水9月12日电 (记者 应妮)“东方微笑 跨越千年——麦积山雕塑论坛·2026”11日在甘肃省天水市开幕。来自全国40余家文博单位、高校和科研院所的百余位专家学者齐聚一堂。",
+    "published_dt_iso": "2026-09-12T19:22:23+08:00"
+  },
+  {
+    "title": "两岸旅游业界代表江西庐山共商赣台文旅合作新机遇",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695323.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网江西庐山9月12日电 (刘力鑫 黄九顺)11日，恰逢第二十届赣台(庐山)经贸文化合作交流大会举办之际，来自赣台两地及周边省市的文旅业界代表、文旅部门相关负责人齐聚“人文圣山”庐山，围绕产品共建、客源互送、产业协同、青年交流等议题深度研讨，共商赣台文旅合作新机遇。",
+    "published_dt_iso": "2026-09-12T19:21:53+08:00"
+  },
+  {
+    "title": "南北共链“芯”动沈阳 第二届北方芯谷生态伙伴大会启幕",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695311.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网沈阳9月12日电 (记者 赵桂华)9月12日，2026第二届北方芯谷生态伙伴大会暨东北亚半导体装备、零部件、材料展(NAS展)在沈阳市浑南区浑河外滩赛艇中心9号码头启幕。",
+    "published_dt_iso": "2026-09-12T19:15:42+08:00"
+  },
+  {
+    "title": "新华图讯丨习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695372.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "当地时间9月12日下午，国家主席习近平在新德里出席金砖国家领导人第十八次会晤第一阶段会议。",
+    "published_dt_iso": "2026-09-12T19:14:22+08:00"
+  },
+  {
+    "title": "台湾人士：青年乐于走进大陆、看见真实、讲述所见",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695294.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社乌鲁木齐9月12日电 题：台湾人士：青年乐于走进大陆、看见真实、讲述所见",
+    "published_dt_iso": "2026-09-12T19:01:43+08:00"
+  },
+  {
+    "title": "新思想引领新征程丨大力弘扬教育家精神 书写教育强国时代新篇",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-12/10695347.shtml",
+    "date": "2026-09-12",
+    "published_time": "18:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "视频：新思想引领新征程丨大力弘扬教育家精神 书写教育强国时代新篇来源：央视新闻客户端",
+    "published_dt_iso": "2026-09-12T18:40:50+08:00"
+  },
+  {
+    "title": "英国超2000架次航班突然被取消 英媒：一军机输入虚假飞行数据所致",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695391.shtml",
+    "date": "2026-09-12",
+    "published_time": "19:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月12日 据英国《卫报》当地时间12日报道，本周早些时候导致英国数千趟航班停飞的空中交通管制系统故障，据称是由一架军用飞机向系统输入虚假飞行数据所引发的。",
+    "published_dt_iso": "2026-09-12T19:29:47+08:00"
+  },
+  {
+    "title": "普京：欧洲在乌克兰部署军队意味着“与俄罗斯开战”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695356.shtml",
+    "date": "2026-09-12",
+    "published_time": "18:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月12日 综合俄媒报道，俄罗斯总统普京11日表示，俄罗斯没有威胁欧洲国家，也不打算威胁欧洲国家，俄方没有任何理由同欧洲发生冲突。",
+    "published_dt_iso": "2026-09-12T18:53:10+08:00"
+  },
+  {
+    "title": "国际人士热切期待习近平主席出席金砖国家领导人第十八次会晤",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695327.shtml",
+    "date": "2026-09-12",
+    "published_time": "18:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "视频丨国际人士热切期待习近平主席出席金砖国家领导人第十八次会晤",
+    "published_dt_iso": "2026-09-12T18:20:23+08:00"
+  },
+  {
+    "title": "沙特东西输油管道遇袭 伊拉克谴责袭击并启动调查",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695254.shtml",
+    "date": "2026-09-12",
+    "published_time": "15:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月12日电 综合消息：沙特阿拉伯外交部当地时间11日发表声明称，该国东西输油管道遭到来自伊拉克境内的多架无人机袭击，造成人员受伤和部分设施受损。伊拉克政府此后表示谴责袭击事件，并已启动调查。",
+    "published_dt_iso": "2026-09-12T15:36:22+08:00"
+  },
+  {
+    "title": "胡塞武装称夺取也门西部约5400平方公里土地",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695248.shtml",
+    "date": "2026-09-12",
+    "published_time": "15:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月12日电 综合消息：也门胡塞武装当地时间11日称，其本月3日发起的军事行动已将沙特阿拉伯支持的部队驱逐出也门部分地区。此外，3日至10日沙特方面的袭击造成也门82名平民死伤。截至目前，沙特未予以回应或证实。",
+    "published_dt_iso": "2026-09-12T15:36:02+08:00"
+  },
+  {
+    "title": "空座位背后，谁在制造地缘暗流？ | 新漫评",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695261.shtml",
+    "date": "2026-09-12",
+    "published_time": "15:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "2026年9月，第55届太平洋岛国论坛于帕劳科罗尔落幕。据路透社报道，斐济、瓦努阿图、萨摩亚、所罗门群岛总理以及基里巴斯总统均未出席，由部长或高级官员代表与会。",
+    "published_dt_iso": "2026-09-12T15:28:56+08:00"
+  },
+  {
+    "title": "多图读懂金砖力量：中国智慧助推开放包容的合作新机遇",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-12/10695256.shtml",
+    "date": "2026-09-12",
+    "published_time": "15:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月12日电 应印度共和国总理莫迪邀请，国家主席习近平于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。",
+    "published_dt_iso": "2026-09-12T15:26:18+08:00"
+  },
+  {
+    "title": "“红通人员”、外逃职务犯罪嫌疑人曾能贵被引渡回中国",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695307.shtml",
+    "date": "2026-09-12",
+    "published_time": "18:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社北京9月12日电 中国官方12日通报，近日，在中央反腐败协调小组国际追逃追赃工作办公室统筹协调下，经国际执法司法合作，“红通人员”、外逃职务犯罪嫌疑人曾能贵被引渡回国。",
+    "published_dt_iso": "2026-09-12T18:01:42+08:00"
+  },
+  {
+    "title": "人这一辈子，一定要去一趟廊坊！",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695304.shtml",
+    "date": "2026-09-12",
+    "published_time": "17:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "9月11日至13日，",
+    "published_dt_iso": "2026-09-12T17:33:16+08:00"
+  },
+  {
+    "title": "银川“中国之路 塞上湖城”主题自驾游活动启幕 游客深度畅游塞上风光",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695278.shtml",
+    "date": "2026-09-12",
+    "published_time": "17:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月12日电 (记者 李佩珊)9月12日，2026“举杯贺兰山”青年艺术季系列活动——宁夏银川“中国之路 塞上湖城”主题自驾游在横城旅游集散中心正式启程。来自北京、江苏、甘肃、新疆等8个省份的62辆自驾车、近200名游客及文旅达人集结银川，开启为期三天的山水人文深度自驾旅程。",
+    "published_dt_iso": "2026-09-12T17:14:59+08:00"
+  },
+  {
+    "title": "一粒小树籽，竟能缓解失眠！这个小村庄找到了睡眠“解药”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695300.shtml",
+    "date": "2026-09-12",
+    "published_time": "17:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "“今晚又失眠了……”这句话，你是不是也常说？",
+    "published_dt_iso": "2026-09-12T17:00:56+08:00"
+  },
+  {
+    "title": "云南文山：各族民众“下山”启新程 同心共筑新家园",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695273.shtml",
+    "date": "2026-09-12",
+    "published_time": "16:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网文山9月12日电 题：云南文山：各族民众“下山”启新程 同心共筑新家园",
+    "published_dt_iso": "2026-09-12T16:49:23+08:00"
+  },
+  {
+    "title": "通讯：跟毫米较劲的人",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695243.shtml",
+    "date": "2026-09-12",
+    "published_time": "16:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月12日电 题：跟毫米较劲的人",
+    "published_dt_iso": "2026-09-12T16:48:23+08:00"
+  },
+  {
+    "title": "广州集中销毁7吨假冒伪劣商品",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695277.shtml",
+    "date": "2026-09-12",
+    "published_time": "16:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月12日电 (记者 许青青)据广州市市场监管局12日消息，广州市制造业高质量发展工作领导小组知识产权工作组办公室联合越秀区，近日组织开展了2026年侵权假冒伪劣商品统一集中销毁活动。",
+    "published_dt_iso": "2026-09-12T16:27:46+08:00"
+  },
+  {
+    "title": "跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-12/10695260.shtml",
+    "date": "2026-09-12",
+    "published_time": "16:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社北京9月12日电 题：跨越国界的烟火气：印度小伙在华实现“美味”职业新生涯",
+    "published_dt_iso": "2026-09-12T16:22:31+08:00"
+  },
+  {
+    "title": "特朗普如何利用权力扼杀言论",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+    "date": "2026-09-12",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统利用政府各部门限制新闻自由，言论自由倡导者表示，这将产生持久影响。",
+    "published_dt_iso": "2026-09-12T17:02:17+08:00"
+  },
+  {
+    "title": "在Doonbeg ，特朗普的爱尔兰公开访问引发了抗议和赞扬",
+    "link": "https://www.nytimes.com/2026/09/12/world/europe/trump-irish-open-ireland-doonbeg.html",
+    "date": "2026-09-12",
+    "published_time": "18:36",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "当美国总统前往他的Doonbeg酒店参加爱尔兰公开赛时，当地人既表示赞赏度假村的经济利益，也反对他的政治。",
+    "published_dt_iso": "2026-09-12T18:36:33+08:00"
+  },
+  {
+    "title": "签证问题威胁到美国和巴西在犯罪问题上的合作",
+    "link": "https://www.nytimes.com/2026/09/12/world/americas/us-brazil-crime-police-visas-ice.html",
+    "date": "2026-09-12",
+    "published_time": "18:48",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "官员们表示，特朗普政府正在阻止巴西在打击跨国犯罪方面扩大合作的一些努力。",
+    "published_dt_iso": "2026-09-12T18:48:39+08:00"
+  },
+  {
+    "title": "通货膨胀使特朗普对选民的中期宣传复杂化",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html",
+    "date": "2026-09-12",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "天然气价格高企，抵押贷款利率攀升，通胀仍远高于目标，使总统的中期诉求复杂化。",
+    "published_dt_iso": "2026-09-12T17:04:04+08:00"
+  },
+  {
+    "title": "面临中期风险的共和党人试图将民主党人打上共产党人的烙印",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-democrats-communism-midterms.html",
+    "date": "2026-09-12",
+    "published_time": "17:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "用总统的夸张说法，共产主义对国家的威胁比珍珠港事件或9/11袭击事件更严重。这种中期策略是否有效是一个悬而未决的问题。",
+    "published_dt_iso": "2026-09-12T17:00:09+08:00"
+  },
+  {
+    "title": "特朗普想要一张密苏里州的新房子地图。选民反而陷入混乱。",
+    "link": "https://www.nytimes.com/2026/09/11/us/missouri-congressional-redistricting-chaos.html",
+    "date": "2026-09-12",
+    "published_time": "09:11",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "共和党人重新绘制的国会地图的法律争论让选举官员、候选人和选民在11月之前争吵不休。",
+    "published_dt_iso": "2026-09-12T09:11:59+08:00"
+  },
+  {
+    "title": "“我们穿着我们穿的衣服离开了” ：也门人逃离新的战斗",
+    "link": "https://www.nytimes.com/2026/09/12/world/middleeast/yemen-iran-war-houthis.html",
+    "date": "2026-09-12",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "多年来，饥饿和疾病一直折磨着也门。现在，沙特支持的政府与伊朗支持的胡塞武装之间的战斗正在将其推向边缘。",
+    "published_dt_iso": "2026-09-12T17:03:00+08:00"
   }
 ]
