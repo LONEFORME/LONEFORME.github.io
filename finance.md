@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,910.92</span>
-      <span class="ticker-change down">▼ -0.60%</span>
+      <span class="ticker-price ticker-down">3,888.11</span>
+      <span class="ticker-change down">▼ -1.18%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,483.63</span>
-      <span class="ticker-change down">▼ -0.98%</span>
+      <span class="ticker-price ticker-down">13,471.26</span>
+      <span class="ticker-change down">▼ -1.08%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,310.01</span>
-      <span class="ticker-change down">▼ -0.85%</span>
+      <span class="ticker-price ticker-down">3,322.04</span>
+      <span class="ticker-change down">▼ -0.49%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,548.70</span>
-      <span class="ticker-change down">▼ -1.31%</span>
+      <span class="ticker-price ticker-down">1,553.39</span>
+      <span class="ticker-change down">▼ -1.01%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>

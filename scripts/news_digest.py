@@ -294,10 +294,14 @@ def fetch_sina_quote(code):
             if len(parts) < 4:
                 return None
             if code.startswith("sh") or code.startswith("sz"):
-                # A股指数: 名称,当前,昨收,今开,最高,最低,...
+                # 新浪 A 股/指数: 名称,今开,昨收,当前,最高,最低,...
+                # 注意：parts[1] 是今开，不是当前价；当前价在 parts[3]
                 name = parts[0]
-                current = float(parts[1]) if parts[1] else 0
+                open_price = float(parts[1]) if parts[1] else 0
                 prev_close = float(parts[2]) if parts[2] else 0
+                current = float(parts[3]) if len(parts) > 3 and parts[3] else open_price
+                if current <= 0:
+                    current = open_price
                 change = current - prev_close
                 change_pct = (change / prev_close * 100) if prev_close else 0
                 return {"name": name, "current": current, "change": change, "change_pct": change_pct}
