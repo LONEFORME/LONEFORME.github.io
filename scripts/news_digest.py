@@ -1271,9 +1271,57 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
         grid_html += f'  </div>\n'
     grid_html += '</div>\n'
 
-    # 4. 客户端交互脚本（即时搜索 + 已读记忆）
+    # 4. 客户端交互脚本（即时搜索 + 已读记忆 + 超长列表默认收起）
     client_script = '''
 <script>
+const NEWS_COLLAPSE_LIMIT = 10;
+
+function applyNewsCollapse(forceExpand) {
+  document.querySelectorAll('.news-category').forEach(cat => {
+    const items = cat.querySelectorAll('.news-item');
+    let btn = cat.querySelector('.news-expand-btn');
+    if (items.length <= NEWS_COLLAPSE_LIMIT) {
+      cat.removeAttribute('data-collapse');
+      if (btn) btn.remove();
+      return;
+    }
+    if (!btn) {
+      btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'news-expand-btn';
+      cat.appendChild(btn);
+      btn.addEventListener('click', () => {
+        const collapsed = cat.getAttribute('data-collapse') === '1';
+        const next = collapsed ? '0' : '1';
+        cat.setAttribute('data-collapse', next);
+        const total = cat.querySelectorAll('.news-item').length;
+        btn.textContent = next === '1'
+          ? `展开其余 ${total - NEWS_COLLAPSE_LIMIT} 条（共 ${total} 条）`
+          : '收起列表';
+      });
+    }
+    if (forceExpand) {
+      cat.setAttribute('data-collapse', '0');
+      btn.style.display = 'none';
+      btn.textContent = '收起列表';
+    } else {
+      if (cat.getAttribute('data-collapse') !== '0') {
+        cat.setAttribute('data-collapse', '1');
+      }
+      btn.style.display = '';
+      const total = items.length;
+      const collapsed = cat.getAttribute('data-collapse') === '1';
+      btn.textContent = collapsed
+        ? `展开其余 ${total - NEWS_COLLAPSE_LIMIT} 条（共 ${total} 条）`
+        : '收起列表';
+    }
+  });
+}
+
+function restoreNewsCollapse() {
+  applyNewsCollapse(false);
+}
+
 function onNewsSearch(query) {
   query = (query || '').trim().toLowerCase();
   const terms = query.split(/\s+/).filter(Boolean);
@@ -1289,11 +1337,13 @@ function onNewsSearch(query) {
       items.forEach(el => el.style.display = '');
       document.querySelectorAll('.news-category').forEach(cat => cat.style.display = '');
     }
+    restoreNewsCollapse();
     const countEl = document.getElementById('news-search-count');
     if (countEl) countEl.innerText = '';
     return;
   }
 
+  applyNewsCollapse(true);
   items.forEach(el => {
     const title = (el.getAttribute('data-title') || el.innerText || '').toLowerCase();
     const summary = (el.getAttribute('data-summary') || '').toLowerCase();
@@ -1318,6 +1368,7 @@ function onNewsSearch(query) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
+  applyNewsCollapse(false);
   const readKey = 'loneforme_read_news';
   let readLinks = [];
   try {

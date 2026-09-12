@@ -1575,6 +1575,39 @@ body {
   border: 1px solid var(--color-border);
 }
 
+/* 超过 10 条的板块默认收起 */
+.news-category[data-collapse="1"] .news-item:nth-child(n+12) {
+  display: none !important;
+}
+
+.news-expand-btn {
+  margin-top: 12px;
+  width: 100%;
+  padding: 10px 14px;
+  border: 1px dashed var(--color-border-hover);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  color: var(--color-primary);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition), color var(--transition);
+}
+
+.news-expand-btn:hover {
+  background: var(--color-primary-dim);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+[data-theme="light"] .news-expand-btn {
+  color: #047857;
+}
+
+[data-theme="light"] .news-expand-btn:hover {
+  background: rgba(5, 150, 105, 0.08);
+  border-color: #059669;
+}
 
 /* ============================================
    News Modal (kept for compatibility)
