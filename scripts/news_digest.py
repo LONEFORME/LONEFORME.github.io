@@ -1526,7 +1526,7 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · {realtime_count}/{len(indices)} 实时数据</span>
+  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · {realtime_count}/{len(indices)} 项实时行情</span>
 </div>
 
 {ticker_html}
