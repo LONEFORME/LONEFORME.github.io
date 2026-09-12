@@ -73,16 +73,16 @@ title: 热点新闻
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/001/571.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，苹果 iPhone 18 Pro/Pro Max 手机今晚 8 点开启预购，目前苹果官网 Apple Store 已开始维护，提示：“即将与你见面。北京时间晚 8 点接受预购。一会儿见。”苹果在 2026 年秋季发布会上发布了 iPhone 18 Pro 系列手机，其中 iPhone 18 Pro 起售价 9,999 元，iPhone 18 Pro Max 起售价 10,999 元，系列手机今晚 8 点接受预购，9 月 18 日发售。IT之家提醒，苹果首款折叠屏手机 iPhone Duo 将于 10 月 16 日晚 8 点接受预购，10 月 23 日发售，国行定价 15,999 元起。" data-title="苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购" data-date="09-12 14:28" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/001/571.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，苹果 iPhone 18 Pro/Pro Max 手机今晚 8 点开启预购，目前苹果官网 Apple Store 已开始维护，提示：“即将与你见面。北京时间晚 8 点接受预购。一会儿见。”苹果在 2026 年秋季发布会上发布了 iPhone 18 Pro 系列手机，其中 iPhone 18 Pro 起售价 9,999 元，iPhone 18 Pro Max 起售价 10,999 元，系列手机今晚 8 点接受预购，9 月 18 日发售。IT之家提醒，苹果首款折叠屏手机 iPhone Duo 将于 10 月 16 日晚 8 点接受预购，10 月 23 日发售，国行定价 15,999 元起。" data-title="苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购" data-date="09-12 14:28" data-source="IT之家">
       <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+        <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
       <p class="hero-sub-title">苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购</p>
     </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/gj/2026/09-12/10695174.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网巴黎9月12日电 2026巴黎设计周中国创新馆开馆仪式当地时间10日举行。" data-title="2026巴黎设计周中国创新馆开馆仪式举行" data-date="09-12 13:55" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/gj/2026/09-12/10695174.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网巴黎9月12日电 2026巴黎设计周中国创新馆开馆仪式当地时间10日举行。" data-title="2026巴黎设计周中国创新馆开馆仪式举行" data-date="09-12 13:55" data-source="中国新闻网">
       <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+        <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
       <p class="hero-sub-title">2026巴黎设计周中国创新馆开馆仪式举行</p>
@@ -101,7 +101,7 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">10 条</span>
     </div>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695227.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社快讯：当地时间12日中午，国家主席习近平抵达印度新德里，出席金砖国家领导人第十八次会晤。" data-title="习近平抵达新德里，出席金砖国家领导人第十八次会晤" data-date="09-12 14:10" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -109,23 +109,11 @@ title: 热点新闻
           <span class="news-item-date">09-12 14:10</span>
           <span class="news-item-title">习近平抵达新德里，出席金砖国家领导人第十八次会晤</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695223.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月12日电 综合外媒报道，菲律宾客船起火事故已造成35人遇难，54人失联。" data-title="菲律宾客船起火事故致35人死亡、54人失联" data-date="09-12 13:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 13:53</span>
-          <span class="news-item-title">菲律宾客船起火事故致35人死亡、54人失联</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695222.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月12日电 综合美媒报道，美国多地11日举行活动，纪念“9·11”恐怖袭击事件25周年，悼念事件遇难者。" data-title="特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场" data-date="09-12 13:49" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-12 13:49</span>
           <span class="news-item-title">特朗普、拜登、奥巴马、小布什、克林顿……美国总统与多位前总统出席“9·11”纪念活动现场</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695221.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="视频：视频画报｜重温习近平主席在金砖峰会的精彩时刻来源：新华社" data-title="视频画报｜重温习近平主席在金砖峰会的精彩时刻" data-date="09-12 13:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 13:44</span>
-          <span class="news-item-title">视频画报｜重温习近平主席在金砖峰会的精彩时刻</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695219.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="应印度共和国总理莫迪邀请，国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤。" data-title="学习新语｜习近平主席深刻阐述“金砖合作”" data-date="09-12 13:34" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -133,35 +121,11 @@ title: 热点新闻
           <span class="news-item-date">09-12 13:34</span>
           <span class="news-item-title">学习新语｜习近平主席深刻阐述“金砖合作”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695217.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月12日电 (记者 朱延静 实习生 郑亦青 陈颖烯)嘉庆皇帝一生从未踏足台湾，却在台湾民间传说中“游历”了上百年。一个“查无此人”的皇帝，何以成为台湾老百姓口中锄强扶弱的“嘉庆君”？" data-title="一个“查无此人”的皇帝，为何让台湾老百姓念念不忘？" data-date="09-12 13:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 13:11</span>
-          <span class="news-item-title">一个“查无此人”的皇帝，为何让台湾老百姓念念不忘？</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695206.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社西安9月12日电 题：秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华" data-title="秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华" data-date="09-12 12:19" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 12:19</span>
-          <span class="news-item-title">秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695198.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网重庆9月12日电 题：一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”" data-title="一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”" data-date="09-12 12:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 12:18</span>
-          <span class="news-item-title">一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695209.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月12日电 据韩联社报道，韩国联合参谋本部(联参)12日消息称，朝鲜当天上午5时20分许从元山一带向东部海域发射多枚弹道导弹，导弹飞行距离约250公里，韩美正在分析具体参数。" data-title="韩媒：朝鲜向朝鲜半岛东部海域发射多枚弹道导弹" data-date="09-12 12:14" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">09-12 12:14</span>
           <span class="news-item-title">韩媒：朝鲜向朝鲜半岛东部海域发射多枚弹道导弹</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695150.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社马尼拉9月12日电(记者 周璟)首届“KUMUSTA！你好”菲华中学生交流日11日在菲律宾马尼拉举行。来自马尼拉公立中学和菲律宾侨中学院的近60名学生参加活动，通过语言交流和文化体验促进理解、增进友谊。" data-title="菲华中学生交流日在马尼拉举行   近60名学子体验中华文化" data-date="09-12 12:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 12:05</span>
-          <span class="news-item-title">菲华中学生交流日在马尼拉举行   近60名学子体验中华文化</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695133.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月12日电 综合外媒报道，委内瑞拉执政党统一社会主义党11日发布公告说，遭美国关押的马杜罗总统夫妇的辩护团队以健康理由申请暂时释放第一夫人西莉亚·弗洛雷斯。" data-title="马杜罗夫妇辩护团队以健康理由申请暂释第一夫人" data-date="09-12 10:53" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -187,90 +151,36 @@ title: 热点新闻
           <span class="news-item-date">09-12 00:02</span>
           <span class="news-item-title">中情局在9/11恐怖袭击前发布发送给克林顿和布什的关于基地组织的情报</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社马尼拉9月11日电 (记者 周璟)菲律宾海岸警卫队11日表示，在巴拉望省附近海域起火的“June Aster”号客船上发现30具遗体，使事故确认死亡人数增至35人。" data-title="菲律宾海警：巴拉望省近海起火客船发现30具遗体" data-date="09-11 23:53" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/11/nyregion/mamdani-sept-11.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="最近几周，市长Zohran Mamdani访问了纽约市周围的消防站，这是将公众的注意力引向受害者并远离自己的努力的一部分。" data-title="面对伊斯兰恐惧症， Mamdani继续关注9/11受害者" data-date="09-12 05:02" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-12 05:02</span>
+          <span class="news-item-title">面对伊斯兰恐惧症， Mamdani继续关注9/11受害者</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695221.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="视频：视频画报｜重温习近平主席在金砖峰会的精彩时刻来源：新华社" data-title="视频画报｜重温习近平主席在金砖峰会的精彩时刻" data-date="09-12 13:44" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-11 23:53</span>
-          <span class="news-item-title">菲律宾海警：巴拉望省近海起火客船发现30具遗体</span>
+          <span class="news-item-date">09-12 13:44</span>
+          <span class="news-item-title">视频画报｜重温习近平主席在金砖峰会的精彩时刻</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">6 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/001/571.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，苹果 iPhone 18 Pro/Pro Max 手机今晚 8 点开启预购，目前苹果官网 Apple Store 已开始维护，提示：“即将与你见面。北京时间晚 8 点接受预购。一会儿见。”苹果在 2026 年秋季发布会上发布了 iPhone 18 Pro 系列手机，其中 iPhone 18 Pro 起售价 9,999 元，iPhone 18 Pro Max 起售价 10,999 元，系列手机今晚 8 点接受预购，9 月 18 日发售。IT之家提醒，苹果首款折叠屏手机 iPhone Duo 将于 10 月 16 日晚 8 点接受预购，10 月 23 日发售，国行定价 15,999 元起。" data-title="苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购" data-date="09-12 14:28" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 14:28</span>
-          <span class="news-item-title">苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/570.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，美商海盗船推出 SHUGO DDR5 守护者艺术联名版 DDR5 6000 内存条，提供黑曜刃、樱花版两种，32GB（16G×2）CL28 版本 5499 元，现已开售。京东美商海盗船（USCORSAIR）32GB (16Gx2) 套装 SHUGO DDR5 6000 台式机内存条 守护者 艺术联名款 RGB 灯条 CL28 樱花版 5499 元直达链接这款内存条属于典藏款艺术家联名内存，樱花版采用了 SAKURA NOA 樱花主题定制设计，采用原创手绘方案，通过高精度 UV 彩色印刷呈现图案细节，采用铝制散热片，搭配微米级钻孔工艺实现光影通透效果，整体层次感十足，外观设计细腻唯美。这款内存条搭载美商海盗船专利微钻孔 RGB 灯效技术，搭配全域独立可控 RGB" data-title="海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元" data-date="09-12 14:21" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 14:21</span>
-          <span class="news-item-title">海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/568.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，戴尔 14（国行商品标题又写作灵越 14 Air）现已在京东上架，将于 9 月 14 日 10:00 开售，IT之家汇总价格如下：酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、FHD+ 60Hz 屏幕：5999 元酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、QHD+ 120Hz 屏幕：6399 元酷睿 5 320 处理器、16GB 内存、1TB 固态硬盘、QHD+ 120Hz 屏幕：7399 元酷睿 7 350 处理器、16GB 内存、512GB 固态硬盘、QHD+ 120Hz 屏幕：7099 元京东戴尔（DELL）笔记本电脑 灵越 14 Air 第三代酷睿 5 16G 512G5999 元直达链接2026 年数码家电政府" data-title="Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元" data-date="09-12 14:11" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 14:11</span>
-          <span class="news-item-title">Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-12/10695224.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="真相来了丨“圈养雪豹博流量” ？ 救护中心用科普回应谣言" data-title="“圈养雪豹博流量” ？ 救护中心用科普回应谣言" data-date="09-12 13:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 13:56</span>
-          <span class="news-item-title">“圈养雪豹博流量” ？ 救护中心用科普回应谣言</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/563.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，据央视新闻今日报道，近期有多所高校购置存量房源改造学生宿舍，引发社会关注。湖北大学购置校园周边存量商品房，将与阳逻校区一路之隔的武汉城建 · 水岸的一些房源改造为学生公寓，成为高校收购周边商品房改造学生公寓的全国首个案例。从武汉城建 · 水岸学生公寓出发，步行约 5 分钟即可到达湖北大学教学区，每栋楼还配有专属的宿管团队。学生宿舍里，空调热水齐全，4 个独立房间分布在一个单元内。湖北大学研究生谢子莹介绍，公寓下楼配备健身器材，点外卖不用到楼下取，骑手可以直接送到宿舍门口，学校就在马路对面，步行几分钟即可到教学区。谢子莹住的是双人间，每年住宿费 1,320 元，“不用交物业费，但感觉享受了小区业主的待遇”。报道称，除湖北大学外，深圳大学、合肥工业大学、中南大学、" data-title="全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元" data-date="09-12 13:49" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 13:49</span>
-          <span class="news-item-title">全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元</span>
-        </a>
         <a class="news-item" href="https://www.ithome.com/1/001/562.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，阿里宣布旗下企业级通用 Agent 智能体产品千问办公已上架麒麟软件商店，即日起，银河麒麟操作系统用户在软件商店搜索千问办公，即可一键下载安装体验。目前，千问办公已全面支持 Windows、macOS、HarmonyOS、银河麒麟、统信 UOS 等全部主流操作系统。阿里表示，千问办公和麒麟软件团队此前进行了联合攻坚，在系统登录联动、设备互联、技能调用等核心链路展开了深度协作，并针对办公全场景适配优化，实现了千问办公在银河麒麟操作系统上的原生级运行效果，可为用户提供稳定、流畅的 AI 办公体验。例如，银河麒麟操作系统用户不仅可以体验通用办公 Agent 的能力，还可以使用千问办公发送钉钉消息、总结群聊内容、生成周报、预定日程会议、总结会议纪要、创建钉钉文档和 A" data-title="阿里千问办公上架麒麟软件商店，已原生适配全部主流操作系统" data-date="09-12 13:47" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">09-12 13:47</span>
           <span class="news-item-title">阿里千问办公上架麒麟软件商店，已原生适配全部主流操作系统</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/560.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，今天话题“支付宝假 App”在微博登上热搜第一，多位网友发文称有开发者制作“假支付宝应用”，用户可以随意填写金额数字，伪造上亿转账截图，满足“炫富”虚荣心。IT之家参考支付宝文档中心获悉，用户转账给个人支付宝账户，单笔最高 5 万元；转账给企业支付宝账户，单笔最高 10 万元，因此所谓的“上亿转账截图”实际相当蹩脚。对此，“支付宝安全中心”官方账号发布提醒：近日，网友爆料一些以假乱真的支付宝 App 截图，并引发关注。对此，支付宝安全中心提醒，网上流传的所谓 App 截图不一定可信，请注意甄别。官方也将持续配合相关部门打击网络诈骗行为。面对潜在风险可做到以下几点：一、认准官方渠道下载支付宝 App；二、提醒家人特别是长辈，切勿轻信网上流传的金额截图；三、商家交" data-title="可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒" data-date="09-12 13:32" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 13:32</span>
-          <span class="news-item-title">可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/558.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 12 日消息，据央视新闻报道，京雄快线今日正式启动全线贯通试运行。作为京雄一小时都市圈标志性工程，本次全线贯通试运行，标志着京雄快线与北京地铁大兴机场线贯通运营迈出关键性一步。京雄快线起自雄安城际站，跨越京冀两地三市，全长约 86 公里，是国内首条设计时速 200 公里、采用公交化运营模式的轨道快线，线路到达大兴机场后接入北京地铁大兴机场线，贯通运营至北京草桥站，待丽泽站开通后贯通运营至丽泽。京雄快线兼具长途铁路高速优势与城市轨道公交化高密度运营特点，快起快停、随到可乘。这意味着未来乘客从雄安新区出发，乘坐京雄快线可直达北京草桥站，并进一步通达北京地铁全网。乘客只需持有一票一码，即可实现跨区域的便捷换乘。IT之家从报道获悉，本次全线贯通试运行范围为雄安城际站至草桥站，将分两" data-title="国内首条：京雄快线开启全线贯通试运行，设计时速 200 公里、公交化运营模式" data-date="09-12 13:24" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 13:24</span>
-          <span class="news-item-title">国内首条：京雄快线开启全线贯通试运行，设计时速 200 公里、公交化运营模式</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/487653.html" target="_blank" rel="noopener" data-cat="keji" data-summary="25位菲尔兹奖得主联名吹哨" data-title="陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神" data-date="09-12 12:53" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-12 12:53</span>
-          <span class="news-item-title">陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神</span>
-        </a>
         <a class="news-item" href="https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/" target="_blank" rel="noopener" data-cat="keji" data-summary="这家成立两年的初创公司的融资是在Mecka宣布其A轮融资的几个月后进行的。" data-title="在急于获取机器人训练数据之际， Mecka AI对红杉领导的交易的估值接近5亿美元" data-date="09-12 06:58" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
           <span class="news-item-date">09-12 06:58</span>
           <span class="news-item-title">在急于获取机器人训练数据之际， Mecka AI对红杉领导的交易的估值接近5亿美元</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html" target="_blank" rel="noopener" data-cat="keji" data-summary="这一消息短暂地将油价推高至每桶110 $ ，原因是人们对中东冲突扩大的担忧加剧。" data-title="沙特在伊拉克无人机袭击后关闭重要管道" data-date="09-12 06:51" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-12 06:51</span>
-          <span class="news-item-title">沙特在伊拉克无人机袭击后关闭重要管道</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/11/nyregion/mamdani-sept-11.html" target="_blank" rel="noopener" data-cat="keji" data-summary="最近几周，市长Zohran Mamdani访问了纽约市周围的消防站，这是将公众的注意力引向受害者并远离自己的努力的一部分。" data-title="面对伊斯兰恐惧症， Mamdani继续关注9/11受害者" data-date="09-12 05:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-12 05:02</span>
-          <span class="news-item-title">面对伊斯兰恐惧症， Mamdani继续关注9/11受害者</span>
         </a>
         <a class="news-item" href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/" target="_blank" rel="noopener" data-cat="keji" data-summary="Tan希望规模较小的美国开放式人工智能实验室在美国前沿人工智能实验室中使用相同的训练技术，为美国提供一套更强大的非中国开放式权重选择。" data-title="Y Combinator的Garry Tan希望美国开放式人工智能实验室也能“提炼”前沿模型" data-date="09-12 04:59" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -290,25 +200,19 @@ title: 热点新闻
           <span class="news-item-date">09-12 04:44</span>
           <span class="news-item-title">律师在一起谋杀案中因人工智能幻觉证人被罚款5000 $</span>
         </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/487653.html" target="_blank" rel="noopener" data-cat="keji" data-summary="25位菲尔兹奖得主联名吹哨" data-title="陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神" data-date="09-12 12:53" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-12 12:53</span>
+          <span class="news-item-title">陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神</span>
+        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">13 条</span>
+      <span class="news-category-count">11 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695174.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网巴黎9月12日电 2026巴黎设计周中国创新馆开馆仪式当地时间10日举行。" data-title="2026巴黎设计周中国创新馆开馆仪式举行" data-date="09-12 13:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 13:55</span>
-          <span class="news-item-title">2026巴黎设计周中国创新馆开馆仪式举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695171.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网巴黎9月12日电 巴黎国际空间峰会9月9日至10日在巴黎大皇宫举行。本届峰会由法国与德国共同主办，在国际空间合作方面取得一系列成果。" data-title="巴黎国际空间峰会举行 致力于加强航天合作" data-date="09-12 13:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 13:54</span>
-          <span class="news-item-title">巴黎国际空间峰会举行 致力于加强航天合作</span>
-        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cy5zp9llp3ro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="新任队长鲁本·迪亚斯（ Ruben Dias ）表示，曼城带来了“渴望获胜”的夏季签约球员，整个球队正在“接受”新任经理恩佐·马雷斯卡（ Enzo Maresca ）的“想法”。" data-title="新曼城签约迫切希望获胜" data-date="09-12 13:24" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -337,7 +241,7 @@ title: 热点新闻
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
           <span class="news-item-date">09-12 03:00</span>
-          <span class="news-item-title">Ballon d 'Or入围名单显示了英超联赛的进攻失败–但潮流可能正在转变</span>
+          <span class="news-item-title">Ballon d &#39;Or入围名单显示了英超联赛的进攻失败–但潮流可能正在转变</span>
         </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/sep/11/premier-league-team-news-predicted-lineups-for-the-weekend-action" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周日，在桑德兰主办阿森纳之后，曼城前往曼联参加一场有趣的德比比赛周六下午3点场地别墅公园继续阅读..." data-title="英超球队新闻：周末动作的预测阵容" data-date="09-12 01:16" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -380,8 +284,104 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">📰</span>
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">31 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695174.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网巴黎9月12日电 2026巴黎设计周中国创新馆开馆仪式当地时间10日举行。" data-title="2026巴黎设计周中国创新馆开馆仪式举行" data-date="09-12 13:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 13:55</span>
+          <span class="news-item-title">2026巴黎设计周中国创新馆开馆仪式举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695171.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网巴黎9月12日电 巴黎国际空间峰会9月9日至10日在巴黎大皇宫举行。本届峰会由法国与德国共同主办，在国际空间合作方面取得一系列成果。" data-title="巴黎国际空间峰会举行 致力于加强航天合作" data-date="09-12 13:54" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 13:54</span>
+          <span class="news-item-title">巴黎国际空间峰会举行 致力于加强航天合作</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695223.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网9月12日电 综合外媒报道，菲律宾客船起火事故已造成35人遇难，54人失联。" data-title="菲律宾客船起火事故致35人死亡、54人失联" data-date="09-12 13:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 13:53</span>
+          <span class="news-item-title">菲律宾客船起火事故致35人死亡、54人失联</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695217.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网9月12日电 (记者 朱延静 实习生 郑亦青 陈颖烯)嘉庆皇帝一生从未踏足台湾，却在台湾民间传说中“游历”了上百年。一个“查无此人”的皇帝，何以成为台湾老百姓口中锄强扶弱的“嘉庆君”？" data-title="一个“查无此人”的皇帝，为何让台湾老百姓念念不忘？" data-date="09-12 13:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 13:11</span>
+          <span class="news-item-title">一个“查无此人”的皇帝，为何让台湾老百姓念念不忘？</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695206.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社西安9月12日电 题：秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华" data-title="秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华" data-date="09-12 12:19" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 12:19</span>
+          <span class="news-item-title">秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695198.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网重庆9月12日电 题：一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”" data-title="一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”" data-date="09-12 12:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 12:18</span>
+          <span class="news-item-title">一块屏守护老城记忆 重庆江津几江街道数字文保的“加减法”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695150.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社马尼拉9月12日电(记者 周璟)首届“KUMUSTA！你好”菲华中学生交流日11日在菲律宾马尼拉举行。来自马尼拉公立中学和菲律宾侨中学院的近60名学生参加活动，通过语言交流和文化体验促进理解、增进友谊。" data-title="菲华中学生交流日在马尼拉举行   近60名学子体验中华文化" data-date="09-12 12:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 12:05</span>
+          <span class="news-item-title">菲华中学生交流日在马尼拉举行   近60名学子体验中华文化</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-11/10695089.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社马尼拉9月11日电 (记者 周璟)菲律宾海岸警卫队11日表示，在巴拉望省附近海域起火的“June Aster”号客船上发现30具遗体，使事故确认死亡人数增至35人。" data-title="菲律宾海警：巴拉望省近海起火客船发现30具遗体" data-date="09-11 23:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-11 23:53</span>
+          <span class="news-item-title">菲律宾海警：巴拉望省近海起火客船发现30具遗体</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/571.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，苹果 iPhone 18 Pro/Pro Max 手机今晚 8 点开启预购，目前苹果官网 Apple Store 已开始维护，提示：“即将与你见面。北京时间晚 8 点接受预购。一会儿见。”苹果在 2026 年秋季发布会上发布了 iPhone 18 Pro 系列手机，其中 iPhone 18 Pro 起售价 9,999 元，iPhone 18 Pro Max 起售价 10,999 元，系列手机今晚 8 点接受预购，9 月 18 日发售。IT之家提醒，苹果首款折叠屏手机 iPhone Duo 将于 10 月 16 日晚 8 点接受预购，10 月 23 日发售，国行定价 15,999 元起。" data-title="苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购" data-date="09-12 14:28" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 14:28</span>
+          <span class="news-item-title">苹果官网 Apple Store 维护，iPhone 18 Pro 系列今晚开启预购</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/570.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，美商海盗船推出 SHUGO DDR5 守护者艺术联名版 DDR5 6000 内存条，提供黑曜刃、樱花版两种，32GB（16G×2）CL28 版本 5499 元，现已开售。京东美商海盗船（USCORSAIR）32GB (16Gx2) 套装 SHUGO DDR5 6000 台式机内存条 守护者 艺术联名款 RGB 灯条 CL28 樱花版 5499 元直达链接这款内存条属于典藏款艺术家联名内存，樱花版采用了 SAKURA NOA 樱花主题定制设计，采用原创手绘方案，通过高精度 UV 彩色印刷呈现图案细节，采用铝制散热片，搭配微米级钻孔工艺实现光影通透效果，整体层次感十足，外观设计细腻唯美。这款内存条搭载美商海盗船专利微钻孔 RGB 灯效技术，搭配全域独立可控 RGB" data-title="海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元" data-date="09-12 14:21" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 14:21</span>
+          <span class="news-item-title">海盗船推出 SHUGO 艺术联名 DDR5 6000 内存条，32GB 到手价 5499 元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/568.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，戴尔 14（国行商品标题又写作灵越 14 Air）现已在京东上架，将于 9 月 14 日 10:00 开售，IT之家汇总价格如下：酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、FHD+ 60Hz 屏幕：5999 元酷睿 5 320 处理器、16GB 内存、512GB 固态硬盘、QHD+ 120Hz 屏幕：6399 元酷睿 5 320 处理器、16GB 内存、1TB 固态硬盘、QHD+ 120Hz 屏幕：7399 元酷睿 7 350 处理器、16GB 内存、512GB 固态硬盘、QHD+ 120Hz 屏幕：7099 元京东戴尔（DELL）笔记本电脑 灵越 14 Air 第三代酷睿 5 16G 512G5999 元直达链接2026 年数码家电政府" data-title="Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元" data-date="09-12 14:11" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 14:11</span>
+          <span class="news-item-title">Wildcat Lake 款戴尔 14 轻薄本上市：酷睿 5 320 版 5999 元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-12/10695224.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="真相来了丨“圈养雪豹博流量” ？ 救护中心用科普回应谣言" data-title="“圈养雪豹博流量” ？ 救护中心用科普回应谣言" data-date="09-12 13:56" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-12 13:56</span>
+          <span class="news-item-title">“圈养雪豹博流量” ？ 救护中心用科普回应谣言</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/563.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，据央视新闻今日报道，近期有多所高校购置存量房源改造学生宿舍，引发社会关注。湖北大学购置校园周边存量商品房，将与阳逻校区一路之隔的武汉城建 · 水岸的一些房源改造为学生公寓，成为高校收购周边商品房改造学生公寓的全国首个案例。从武汉城建 · 水岸学生公寓出发，步行约 5 分钟即可到达湖北大学教学区，每栋楼还配有专属的宿管团队。学生宿舍里，空调热水齐全，4 个独立房间分布在一个单元内。湖北大学研究生谢子莹介绍，公寓下楼配备健身器材，点外卖不用到楼下取，骑手可以直接送到宿舍门口，学校就在马路对面，步行几分钟即可到教学区。谢子莹住的是双人间，每年住宿费 1,320 元，“不用交物业费，但感觉享受了小区业主的待遇”。报道称，除湖北大学外，深圳大学、合肥工业大学、中南大学、" data-title="全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元" data-date="09-12 13:49" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 13:49</span>
+          <span class="news-item-title">全国多所高校买商品房当学生宿舍：空调洗衣机齐全，双人间一年 1320 元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/560.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，今天话题“支付宝假 App”在微博登上热搜第一，多位网友发文称有开发者制作“假支付宝应用”，用户可以随意填写金额数字，伪造上亿转账截图，满足“炫富”虚荣心。IT之家参考支付宝文档中心获悉，用户转账给个人支付宝账户，单笔最高 5 万元；转账给企业支付宝账户，单笔最高 10 万元，因此所谓的“上亿转账截图”实际相当蹩脚。对此，“支付宝安全中心”官方账号发布提醒：近日，网友爆料一些以假乱真的支付宝 App 截图，并引发关注。对此，支付宝安全中心提醒，网上流传的所谓 App 截图不一定可信，请注意甄别。官方也将持续配合相关部门打击网络诈骗行为。面对潜在风险可做到以下几点：一、认准官方渠道下载支付宝 App；二、提醒家人特别是长辈，切勿轻信网上流传的金额截图；三、商家交" data-title="可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒" data-date="09-12 13:32" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 13:32</span>
+          <span class="news-item-title">可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/001/558.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，据央视新闻报道，京雄快线今日正式启动全线贯通试运行。作为京雄一小时都市圈标志性工程，本次全线贯通试运行，标志着京雄快线与北京地铁大兴机场线贯通运营迈出关键性一步。京雄快线起自雄安城际站，跨越京冀两地三市，全长约 86 公里，是国内首条设计时速 200 公里、采用公交化运营模式的轨道快线，线路到达大兴机场后接入北京地铁大兴机场线，贯通运营至北京草桥站，待丽泽站开通后贯通运营至丽泽。京雄快线兼具长途铁路高速优势与城市轨道公交化高密度运营特点，快起快停、随到可乘。这意味着未来乘客从雄安新区出发，乘坐京雄快线可直达北京草桥站，并进一步通达北京地铁全网。乘客只需持有一票一码，即可实现跨区域的便捷换乘。IT之家从报道获悉，本次全线贯通试运行范围为雄安城际站至草桥站，将分两" data-title="国内首条：京雄快线开启全线贯通试运行，设计时速 200 公里、公交化运营模式" data-date="09-12 13:24" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-12 13:24</span>
+          <span class="news-item-title">国内首条：京雄快线开启全线贯通试运行，设计时速 200 公里、公交化运营模式</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/11/business/diesel-fuel-prices-oil-iran-war.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这一消息短暂地将油价推高至每桶110 $ ，原因是人们对中东冲突扩大的担忧加剧。" data-title="沙特在伊拉克无人机袭击后关闭重要管道" data-date="09-12 06:51" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-12 06:51</span>
+          <span class="news-item-title">沙特在伊拉克无人机袭击后关闭重要管道</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/001/561.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 12 日消息，腾讯 QQ 宣布为 QQ 高校群正式开放“官方认证”功能，官方同步推出蓝色、黄色两套认证标识。随着各高校及学生陆续完成认证，今后新生在群资料页看到群名旁的一枚小图标，即可判断这个群是学校官方所建，还是本校学生自建。其中，蓝色标识对应“高校官方认证群”，仅面向具备法定主体资格的学校本级单位及其院系、职能部门开放，权威性最高，适合发布报到安排、学籍注册、缴费通知等正式事务。申请须先登录 QQ 开放平台完成高校官方主体认证，再在高校社区服务中将普通 QQ 号创建的群绑定至已认证的高校主体，经群主确认后，该群即自动展示蓝色标识。黄色标识对应“高校学生认证群”，面向已通过身份核验的在校学生，群主须为对应高校的学生，常见于学生自发组建的迎新群、年级群、专业互助群。申请流程" data-title="腾讯 QQ 开放高校群认证，旨在防范不法分子私设山寨群聊诈骗新生钱财" data-date="09-12 13:43" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>

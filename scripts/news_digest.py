@@ -771,10 +771,10 @@ def fetch_rss(url, source_name, timeout=20):
 # ===== 细分领域关键词定义 =====
 FOOTBALL_KEYWORDS = [
     "英超", "转会", "足球", "bbc 英超", "天空体育", "卫报", "阿森纳", "曼城", "利物浦", "曼联",
-    "切尔西", "热刺", "皇马", "巴萨", "拜仁", "尤文", "国米", "米兰", "巴黎", "多特", "西甲",
+    "切尔西", "热刺", "皇马", "巴萨", "拜仁", "尤文", "国米", "米兰", "巴黎圣日耳曼", "大巴黎", "多特", "西甲",
     "意甲", "德甲", "法甲", "欧冠", "欧联", "世界杯", "亚冠", "中超", "足球赛", "足协杯", "点球", "任意球", "角球", "越位",
     "arsenal", "man city", "manchester", "liverpool", "chelsea", "tottenham", "spurs",
-    "konsa", "villa", "reijnders", "rashford", "jones", "cherif", "garlick", "root",
+    "konsa", "villa", "reijnders", "rashford", "cherif", "garlick",
     "cricket", "football", "premier league", "transfer", "signing", "striker", "midfielder",
     "defender", "goalkeeper", "manager", "fifa", "uefa"
 ]
@@ -847,6 +847,7 @@ HIGH_PRECISION_SHIZHENG_KEYWORDS = [
     "两会", "政府工作报告", "党风廉政", "反腐败", "严重违纪违法", "接受纪律审查", "开除党籍",
     "开除公职", "双开", "立案审查", "立案调查", "国家治理", "治国理政", "国家安全法", "基本法",
     "爱国者治港", "两岸融合", "对台方针", "涉台事务", "以武谋独", "祖国统一",
+    "习近平", "总书记", "国家主席", "金砖峰会", "金砖国家领导人", "国事访问",
     # 3. 国际组织、首脑峰会与政府首长
     "联合国安理会", "联合国大会", "联合国秘书长", "白宫", "克里姆林宫", "五角大楼", "国会山",
     "美国参议院", "美国众议院", "欧洲议会", "欧盟委员会", "北约", "北约峰会", "g7峰会",
@@ -934,43 +935,74 @@ def classify_item(item):
     if any(mw in text for mw in military_conflict_keywords):
         return "shizheng"
 
-    # 6. 科技创新 & AI 算力（硬核聚焦：AI大模型突破、算法革新、半导体芯片巨头大动作）
-    tech_sources = ["techcrunch", "tom's hardware", "ars technica", "the verge", "it之家", "量子位", "人民网(科技)"]
-    if any(ts in source.lower() or ts in feed_name.lower() for ts in tech_sources):
-        return "keji"
-
-    ai_model_keywords = [
-        "openai", "chatgpt", "gpt-4", "gpt-5", "o1", "o3", "deepseek", "深度求索",
-        "claude", "anthropic", "gemini", "llama", "meta ai", "mistral", "qwen", "通义千问",
-        "kimi", "moonshot", "智谱", "glm", "minimax", "sora", "runway", "kling", "可灵",
-        "大模型", "基座模型", "推理模型", "reasoning model", "多模态", "multimodal", "智能体", "agent",
-        "reinforcement learning", "强化学习", "rlhf", "scaling law", "context window", "token", "ai搜索"
+    # 6. 科技创新 & AI 算力（硬核聚焦：模型/智能体/芯片算力，禁止按整站信源误伤）
+    # 消费数码/民生/交通等即使来自科技媒体，也不进 AI 芯片板块
+    keji_exclusion_keywords = [
+        "内存条", "轻薄本", "笔记本电脑", "预购", "到手价", "开售", "上架",
+        "宿舍", "商品房", "快线", "地铁", "公交化", "防骗", "诈骗", "热搜",
+        "雪豹", "大熊猫", "动物园", "景区", "谣言", "空调", "洗衣机",
+        "折叠屏", "iphone", "ipad", "macbook", "airpods", "智能手表", "手环",
+        "耳机", "充电器", "移动电源", "路由器", "电视盒子", "投影仪",
+        "无人机袭击", "油价", "管道", "9/11", "伊斯兰"
     ]
-    for kw in ai_model_keywords:
-        if kw in text:
+    if any(xkw in text for xkw in keji_exclusion_keywords):
+        # 即使命中排除词，若同时强命中 AI/芯片专有名词仍可进科技（如「iPhone 搭载自研 AI 芯片」）
+        strong_override = [
+            "openai", "chatgpt", "claude", "anthropic", "gemini", "deepseek", "深度求索",
+            "大模型", "智能体", "nvidia", "英伟达", "台积电", "asml", "光刻机", "hbm",
+            "gpu", "算力", "半导体", "先进制程", "chiplet", "昇腾", "寒武纪"
+        ]
+        if not any(kw in text for kw in strong_override):
+            pass  # 先不 return，交给后面的综合/时政规则
+        else:
+            return "keji"
+    else:
+        ai_model_keywords = [
+            "openai", "chatgpt", "gpt-4", "gpt-5", "gpt-6", "deepseek", "深度求索",
+            "claude", "anthropic", "gemini", "llama", "mistral", "qwen", "通义千问",
+            "kimi", "moonshot", "智谱", "glm", "minimax", "sora", "runway", "kling", "可灵",
+            "人工智能", "机器学习", "深度学习", "神经网络", "大语言模型", "llm",
+            "大模型", "基座模型", "推理模型", "reasoning model", "多模态", "multimodal",
+            "智能体", "ai agent", "ai搜索", "ai 办公", "ai办公", "ai解题", "ai 暴力",
+            "reinforcement learning", "强化学习", "rlhf", "scaling law", "context window",
+            "ai绘画", "ai 绘画", "文生图", "文生视频", "世界模型", "具身智能",
+            "人形机器人", "机器人训练", "robot learning", "open-weight", "开源模型",
+            "蒸馏模型", "模型蒸馏", "前沿模型", "frontier model", "ai安全", "ai幻觉",
+            "ai 幻觉", "幻觉证人", "ai治理", "ai 治理"
+        ]
+        semiconductor_keywords = [
+            "nvidia", "英伟达", "amd", "超威", "intel", "英特尔", "tsmc", "台积电", "asml", "阿斯麦",
+            "qualcomm", "高通", "broadcom", "博通", "mediatek", "联发科", "海力士", "sk hynix",
+            "micron", "美光", "华为昇腾", "昇腾", "寒武纪", "海光", "gpu", "npu", "tpu", "blackwell",
+            "b200", "rubin", "h100", "h200", "mi300", "mi325", "mi350", "zen 5", "zen 6",
+            "arrow lake", "panther lake", "lunar lake", "gaudi", "光刻机", "euv", "high-na",
+            "先进制程", "2nm", "3nm", "18a", "14a", "晶圆", "wafer", "cowos", "先进封装",
+            "chiplet", "hbm", "hbm3e", "hbm4", "cpo", "硅光", "量子计算", "quantum",
+            "risc-v", "semiconductor", "半导体", "芯片", "算力", "fpga", "asic",
+            "数据中心芯片", "ai芯片", "ai 芯片", "训练芯片", "推理芯片", "算力集群"
+        ]
+        for kw in ai_model_keywords + semiconductor_keywords:
+            if kw in text:
+                return "keji"
+
+        # 严格整词匹配的英文短词（避免 said/attention/maintain 误伤）
+        if re.search(r'(?<![A-Za-z0-9])ai(?![A-Za-z0-9])', text, re.I) and re.search(
+            r'(model|chip|gpu|semiconductor|inference|training|llm|agent|robot|datacenter|data center|数学|论文|解题|科研)',
+            text
+        ):
             return "keji"
 
-    semiconductor_keywords = [
-        "nvidia", "英伟达", "amd", "超威", "intel", "英特尔", "tsmc", "台积电", "asml", "阿斯麦",
-        "qualcomm", "高通", "broadcom", "博通", "arm", "mediatek", "联发科", "海力士", "sk hynix",
-        "micron", "美光", "华为昇腾", "寒武纪", "海光", "gpu", "cpu", "npu", "tpu", "blackwell",
-        "b200", "rubin", "h100", "h200", "mi300", "mi325", "mi350", "zen 5", "zen 6", "arrow lake",
-        "panther lake", "lunar lake", "gaudi", "光刻机", "euv", "high-na", "先进制程", "2nm", "3nm",
-        "18a", "14a", "晶圆", "wafer", "cowos", "先进封装", "chiplet", "hbm", "hbm3e", "hbm4",
-        "cpo", "硅光", "量子计算", "quantum", "risc-v", "semiconductor", "半导体", "芯片", "算力"
-    ]
-    for kw in semiconductor_keywords:
-        if kw in text:
+        # 国内权威科技源 + 明确前沿叙事（不再按整站 IT之家/TheVer​ge 一刀切）
+        if ("量子位" in source or "量子位" in feed_name) and re.search(
+            r'(模型|智能体|芯片|算力|大模型|agent|gpu|机器人|开源|论文|融资|发布|人工智能|'
+            r'(?<![A-Za-z0-9])AI(?![A-Za-z0-9])|(?<![a-z0-9])ai(?![a-z0-9]))',
+            text,
+            re.I
+        ):
             return "keji"
 
-    clean_tech_text = re.sub(r'（?(无人机|航拍|资料|中新社|新华社)照片）?', '', text)
-    general_tech_keywords = [
-        "科技", "scitech", "ai", "人工智能", "机器人", "具身智能", "算法", "网络安全", "方班", "开源",
-        "航天", "航空", "无人机", "卫星", "科普", "生物医药", "apple", "苹果", "m4", "m5",
-        "google", "谷歌", "microsoft", "微软", "aws", "meta"
-    ]
-    for kw in general_tech_keywords:
-        if kw in clean_tech_text:
+        # 专门 AI 频道 URL（如 theverge /ai-artificial-intelligence/）
+        if re.search(r'/(ai-artificial-intelligence|artificial-intelligence|machine-learning)/', link):
             return "keji"
 
     # 7. 财经 & 宏观 & 产业
