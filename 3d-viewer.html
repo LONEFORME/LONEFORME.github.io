@@ -8,8 +8,8 @@
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #161d29;
-            color: #c9d1d9;
+            background: #eef1f5;
+            color: #24292f;
             overflow: hidden;
         }
         #header {
@@ -18,9 +18,9 @@
             left: 0;
             right: 0;
             height: 56px;
-            background: rgba(24, 31, 43, 0.92);
+            background: rgba(255, 255, 255, 0.92);
             backdrop-filter: blur(10px);
-            border-bottom: 1px solid #3d4757;
+            border-bottom: 1px solid #d0d7de;
             display: flex;
             align-items: center;
             padding: 0 24px;
@@ -28,7 +28,7 @@
         }
         .back-home-btn {
             text-decoration: none;
-            color: #8b949e;
+            color: #57606a;
             display: inline-flex;
             align-items: center;
             gap: 6px;
@@ -36,30 +36,30 @@
             margin-right: 14px;
             padding: 5px 10px;
             border-radius: 6px;
-            border: 1px solid #3d4757;
-            background: #262e3b;
+            border: 1px solid #d0d7de;
+            background: #f6f8fa;
             transition: all 0.2s ease;
         }
         .back-home-btn:hover {
-            color: #58a6ff;
-            border-color: #58a6ff;
-            background: #3d4757;
+            color: #0969da;
+            border-color: #0969da;
+            background: #d0d7de;
         }
         #header h1 {
             font-size: 16px;
             font-weight: 600;
-            color: #58a6ff;
+            color: #0969da;
         }
         #header .subtitle {
             margin-left: 12px;
             font-size: 13px;
-            color: #8b949e;
+            color: #57606a;
         }
         #model-count {
             margin-left: 8px;
             font-size: 12px;
-            color: #8b949e;
-            background: #262e3b;
+            color: #57606a;
+            background: #f6f8fa;
             padding: 2px 8px;
             border-radius: 10px;
         }
@@ -71,12 +71,12 @@
         }
         #model-selector label {
             font-size: 13px;
-            color: #8b949e;
+            color: #57606a;
         }
         #model-select {
-            background: #262e3b;
-            color: #c9d1d9;
-            border: 1px solid #3d4757;
+            background: #f6f8fa;
+            color: #24292f;
+            border: 1px solid #d0d7de;
             border-radius: 6px;
             padding: 6px 12px;
             font-size: 13px;
@@ -85,7 +85,7 @@
             max-width: 280px;
         }
         #model-select:hover {
-            border-color: #58a6ff;
+            border-color: #0969da;
         }
         #canvas-container {
             position: fixed;
@@ -98,9 +98,9 @@
             position: fixed;
             bottom: 24px;
             left: 24px;
-            background: rgba(30, 37, 48, 0.92);
+            background: rgba(255, 255, 255, 0.92);
             backdrop-filter: blur(10px);
-            border: 1px solid #3d4757;
+            border: 1px solid #d0d7de;
             border-radius: 12px;
             padding: 16px 20px;
             max-width: 320px;
@@ -108,36 +108,36 @@
         }
         #info-panel h3 {
             font-size: 14px;
-            color: #58a6ff;
+            color: #0969da;
             margin-bottom: 8px;
             word-break: break-all;
         }
         #info-panel .meta {
             font-size: 12px;
-            color: #8b949e;
+            color: #57606a;
             line-height: 1.8;
         }
         #info-panel .meta span {
-            color: #c9d1d9;
+            color: #24292f;
         }
         #controls-hint {
             position: fixed;
             bottom: 24px;
             right: 24px;
-            background: rgba(30, 37, 48, 0.92);
+            background: rgba(255, 255, 255, 0.92);
             backdrop-filter: blur(10px);
-            border: 1px solid #3d4757;
+            border: 1px solid #d0d7de;
             border-radius: 12px;
             padding: 12px 16px;
             font-size: 12px;
-            color: #8b949e;
+            color: #57606a;
             z-index: 50;
         }
         #controls-hint div {
             margin: 4px 0;
         }
         #controls-hint span {
-            color: #58a6ff;
+            color: #0969da;
             font-weight: 600;
         }
         #loading {
@@ -146,7 +146,7 @@
             left: 50%;
             transform: translate(-50%, -50%);
             font-size: 14px;
-            color: #8b949e;
+            color: #57606a;
             z-index: 200;
             text-align: center;
         }
@@ -154,8 +154,8 @@
             display: inline-block;
             width: 20px;
             height: 20px;
-            border: 2px solid #3d4757;
-            border-top-color: #58a6ff;
+            border: 2px solid #d0d7de;
+            border-top-color: #0969da;
             border-radius: 50%;
             animation: spin 1s linear infinite;
             margin-right: 8px;
@@ -165,9 +165,9 @@
             to { transform: rotate(360deg); }
         }
         .tool-btn {
-            background: #262e3b;
-            color: #c9d1d9;
-            border: 1px solid #3d4757;
+            background: #f6f8fa;
+            color: #24292f;
+            border: 1px solid #d0d7de;
             border-radius: 6px;
             padding: 6px 12px;
             font-size: 12px;
@@ -175,12 +175,12 @@
             margin-left: 8px;
         }
         .tool-btn:hover {
-            border-color: #58a6ff;
-            color: #58a6ff;
+            border-color: #0969da;
+            color: #0969da;
         }
         .tool-btn.active {
-            background: #1f6feb;
-            border-color: #1f6feb;
+            background: #0969da;
+            border-color: #0969da;
             color: white;
         }
         #pick-hint {
@@ -316,7 +316,7 @@
 
         const container = document.getElementById('canvas-container');
         const scene = new THREE.Scene();
-        scene.background = new THREE.Color(0x161d29);
+        scene.background = new THREE.Color(0xe8ecf1);
 
         const camera = new THREE.PerspectiveCamera(
             45,
@@ -330,7 +330,7 @@
         try {
             renderer = new THREE.WebGLRenderer({ antialias: true });
         } catch (e) {
-            container.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#8b949e;font-size:14px;text-align:center;padding:24px;">⚠️ 当前浏览器/设备不支持 WebGL<br>3D 预览无法使用，请更换现代浏览器或开启硬件加速</div>';
+            container.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#57606a;font-size:14px;text-align:center;padding:24px;">⚠️ 当前浏览器/设备不支持 WebGL<br>3D 预览无法使用，请更换现代浏览器或开启硬件加速</div>';
             throw e;
         }
         renderer.setSize(container.clientWidth, container.clientHeight);
@@ -352,7 +352,7 @@
         const ambientLight = new THREE.AmbientLight(0xffffff, 0.65);
         scene.add(ambientLight);
 
-        const hemiLight = new THREE.HemisphereLight(0xdfe7f0, 0x3a4350, 0.5);
+        const hemiLight = new THREE.HemisphereLight(0xffffff, 0xd6dce4, 0.55);
         scene.add(hemiLight);
 
         const directionalLight1 = new THREE.DirectionalLight(0xffffff, 1.1);
@@ -375,13 +375,13 @@
         // 透明阴影接收地面
         const shadowPlane = new THREE.Mesh(
             new THREE.PlaneGeometry(500, 500),
-            new THREE.ShadowMaterial({ opacity: 0.3 })
+            new THREE.ShadowMaterial({ opacity: 0.18 })
         );
         shadowPlane.rotation.x = -Math.PI / 2;
         shadowPlane.receiveShadow = true;
         scene.add(shadowPlane);
 
-        const gridHelper = new THREE.GridHelper(500, 50, 0x414c5c, 0x2e3744);
+        const gridHelper = new THREE.GridHelper(500, 50, 0xc4cdd8, 0xdfe4ea);
         scene.add(gridHelper);
 
         const loader = new STLLoader();
@@ -429,7 +429,7 @@
                     geometry.computeVertexNormals();
 
                     const material = new THREE.MeshPhysicalMaterial({
-                        color: 0x4a9eff,
+                        color: 0x3a7fd5,
                         metalness: 0.1,
                         roughness: 0.4,
                         clearcoat: 0.3,
