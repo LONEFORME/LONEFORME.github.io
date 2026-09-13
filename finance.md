@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+34.0 亿</span>
+      <span class="sector-flow-badge">+25.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+41.3 亿</span>
+      <span class="sector-flow-badge">+42.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+41.7 亿</span>
+      <span class="sector-flow-badge">+42.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+20.7 亿</span>
+      <span class="sector-flow-badge">+49.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,85 +230,13 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">1 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/001/655.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，当地时间 10 日，据路透社援引知情人士消息称，大众汽车预计，上周敲定的重大重组协议将带来约 160 亿欧元（IT之家注：现汇率约合 1,246.92 亿元人民币）成本，主要用于裁员以及可能关闭部分工厂。作为欧洲最大车企，大众汽车正推进公司历史上规模最大的重组。面对中国车企竞争、高额关税和产能过剩等压力，大众汽车直言，当前的处境就是一场“关乎生存”的竞争。根据重组方案，大众汽车将为德国 4 座工厂寻找新的出路，这些工厂将在未来 10 年内陆续面临无车可产的局面。同时，公司计划在此前裁员方案基础上再减少约 5 万个岗位。知情人士告诉路透社，逐步结束埃姆登和茨维考工厂的生产预计将分别耗资约 10 亿欧元（现汇率约合 77.93 亿元人民币），内卡苏尔姆和汉诺威工厂" data-title="大众“史上最大”重组的代价：消息称裁员、关厂将烧掉 160 亿欧元" data-date="09-12 23:09" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/001/756.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 13 日消息，经过数月传闻，特斯拉正式宣布在欧洲推出 Semi 电动半挂卡车。特斯拉上个月确认 Semi 将登陆欧洲市场后，当地官方网站已经上线，面向货运企业公布了车辆技术参数、载重上限以及交付时间表。特斯拉欧洲官方账号在 X 平台发布了这一官宣信息。欧洲地区的客户交付工作定于 2027 年正式启动，方便物流企业规划车队替换，逐步淘汰柴油卡车。适配欧洲的专属参数与 Megacharger 大功率充电方案根据特斯拉新上线的德国 Semi 官网介绍，这款商用电动牵引车预估能耗为每公里 1 千瓦时，在总组合重量满载 40 吨的工况下，续航里程可达 550 公里（约 342 英里，也就是说欧洲上市版本和美国在售的标准续航版 Semi 规格一致）。特斯拉欧洲版 Semi 核心参数一览" data-title="特斯拉发布欧洲版 Semi 电动卡车：满载续航 550km，2027 年交付" data-date="09-13 14:52" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 23:09</span>
-          <span class="news-item-title">大众“史上最大”重组的代价：消息称裁员、关厂将烧掉 160 亿欧元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/654.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，工业和信息化部昨日（9 月 11 日）举行新闻发布会，介绍我国智能网联新能源汽车产业发展有关情况。国家发展改革委产业发展司副司长邵稷出席发布会，他提到，新能源汽车在取得可喜成绩的同时，我们也认识到，当前产业技术路线仍在持续演进，未来还可能出现新的颠覆性技术，在产品质量安全、资源回收利用等方面还有不少提升空间。为此，国家发展改革委将会同有关部门，把技术创新摆在更加突出的位置，持之以恒推动产业提质升级。一是加强部门协同，持续支持企业加强技术研发应用。聚焦新型电子电气架构、全固态电池、汽车操作系统、智能驾驶等前沿领域，支持骨干企业联合产业上下游开展协同攻关，加快突破一批关系产业长远发展的共性技术、基础技术和前沿技术。配合工信部等部门稳步有序开展智能网联汽车准入试点等" data-title="国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组" data-date="09-12 22:58" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 22:58</span>
-          <span class="news-item-title">国家发改委：积极支持大型汽车企业集团开展改革，以市场化、法制化方式推进企业间兼并重组</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/653.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，据《商业内幕》今天（12 日）凌晨报道，谷歌完成了对旧金山 AI 编程初创企业 Mechanize 的人才收购。Mechanize 联合创始人塔迈 · 贝西罗格鲁的 LinkedIn 资料显示，他自 8 月起加入了谷歌 DeepMind 部门，另有报道称，Mechanize 十多名工程师也一同转投 DeepMind。交易财务条款现已公开，据信谷歌此前曾洽谈一笔价值 15 亿美元（IT之家注：现汇率约合 100.88 亿元人民币）的交易，以获得 Mechanize 的技术和人才。Mechanize 今年早些时候曾以 5 亿美元（现汇率约合 33.63 亿元人民币）估值融资 910 万美元（现汇率约合 6,120 万元人民币），目前由吉夫 · 阿萨迪担任 CEO。" data-title="谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板" data-date="09-12 22:53" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 22:53</span>
-          <span class="news-item-title">谷歌完成对创企 Mechanize 的人才收购，旨在补齐自家 AI 编程短板</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695491.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社莫斯科9月12日电(记者侯鸣)9月9日至12日，中共中央政治局委员，全国人大常委会副委员长，中俄友好、和平与发展委员会中方主席李鸿忠在莫斯科出席第七届中俄中小企业实业论坛开幕式并致辞；与俄罗斯联邦委员会主席马特维延科，国家杜马第一副主席梅利尼科夫，中俄友好、和平与发展委员会俄方主席季托夫会见，并访问伊尔库茨克州。" data-title="李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州" data-date="09-12 22:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 22:52</span>
-          <span class="news-item-title">李鸿忠赴俄罗斯出席第七届中俄中小企业实业论坛并访问伊尔库茨克州</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695392.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔9月12日电(记者 金旭)当地时间11日，第14届“亚洲论坛”在韩国首尔举行。本届论坛由韩国纽斯频通讯社、KYD(Korea Youth Dream)共同主办，主题为“能源安全与AI转型：亚洲合作新坐标”。" data-title="第14届“亚洲论坛”在首尔举办" data-date="09-12 19:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 19:59</span>
-          <span class="news-item-title">第14届“亚洲论坛”在首尔举办</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-12/10695323.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网江西庐山9月12日电 (刘力鑫 黄九顺)11日，恰逢第二十届赣台(庐山)经贸文化合作交流大会举办之际，来自赣台两地及周边省市的文旅业界代表、文旅部门相关负责人齐聚“人文圣山”庐山，围绕产品共建、客源互送、产业协同、青年交流等议题深度研讨，共商赣台文旅合作新机遇。" data-title="两岸旅游业界代表江西庐山共商赣台文旅合作新机遇" data-date="09-12 19:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 19:21</span>
-          <span class="news-item-title">两岸旅游业界代表江西庐山共商赣台文旅合作新机遇</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/624.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，据外媒 TechPowerup 当地时间 11 日报道，索尼计划从 2028 年起逐步减少实体光盘生产，然而 Alinea Analytics 分析师里斯 · 埃利奥特分享的数据显示，实体游戏依然为 PlayStation 多款重磅独占游戏贡献了相当可观的收入。《漫威蜘蛛侠 2》总收入达到 12 亿美元（IT之家注：现汇率约合 80.7 亿元人民币），其中 35% 来自实体版；《羊蹄山之魂》4 亿美元（现汇率约合 26.9 亿元人民币）收入中，实体版占比接近 40%。《宇宙机器人》《剑星》和《死亡搁浅 2：冥滩之上》也大致处于同一区间，实体版收入占比达到 32% 至 47%。唯一例外是《绝地潜兵 2》，2.35 亿美元（现汇率约合 15.8 亿元人民币）收入中" data-title="索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入" data-date="09-12 18:42" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 18:42</span>
-          <span class="news-item-title">索尼计划减产实体 PlayStation 光盘，然而独占大作实体版仍能贡献可观收入</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/623.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，据路透社报道，当地时间 10 日，Stellantis 集团 CEO 安东尼奥 · 菲洛萨在一场分析师会议上指出，当前全球汽车市场已经明显分成两部分：美国，以及世界其他地区。Stellantis 目前正面临美国与欧洲等其他地区贸易和政策环境日益分化的问题，车企如何与中国企业合作尤其如此。菲洛萨此次谈到的重点，正是 Stellantis 集团该如何适应这种分化。“我们清楚地看到，世界被分成两个部分：一个是美国…… 另一个是世界其他地区。”对 Stellantis 集团及其竞争对手而言，真正的难题在于如何为美国开发车型。IT之家从报道中获悉，美国是 Stellantis 集团最主要的利润来源，当地法规和消费者需求都与世界其他地区存在明显差异。菲洛萨指出，Stell" data-title="Stellantis CEO 菲洛萨称当今全球车市已明显分成两部分：美国和其他" data-date="09-12 18:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 18:23</span>
-          <span class="news-item-title">Stellantis CEO 菲洛萨称当今全球车市已明显分成两部分：美国和其他</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/12/us/politics/trump-inflation-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="天然气价格高企，抵押贷款利率攀升，通胀仍远高于目标，使总统的中期诉求复杂化。" data-title="通货膨胀使特朗普对选民的中期宣传复杂化" data-date="09-12 17:04" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-12 17:04</span>
-          <span class="news-item-title">通货膨胀使特朗普对选民的中期宣传复杂化</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-12/10695173.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网约翰内斯堡9月12日电 莫桑比克商业协会联合会(CTA)主席阿尔瓦罗·马辛格近日在马普托举行的2026年第二季度企业经营表现及私营部门展望经济吹风会上表示，外汇短缺，尤其是美元供应不足，以及燃油危机，是2026年第二季度影响该国营商环境的主要制约因素。" data-title="莫桑比克商界：外汇短缺和燃油危机制约营商环境" data-date="09-12 13:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-12 13:55</span>
-          <span class="news-item-title">莫桑比克商界：外汇短缺和燃油危机制约营商环境</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/560.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 12 日消息，今天话题“支付宝假 App”在微博登上热搜第一，多位网友发文称有开发者制作“假支付宝应用”，用户可以随意填写金额数字，伪造上亿转账截图，满足“炫富”虚荣心。IT之家参考支付宝文档中心获悉，用户转账给个人支付宝账户，单笔最高 5 万元；转账给企业支付宝账户，单笔最高 10 万元，因此所谓的“上亿转账截图”实际相当蹩脚。对此，“支付宝安全中心”官方账号发布提醒：近日，网友爆料一些以假乱真的支付宝 App 截图，并引发关注。对此，支付宝安全中心提醒，网上流传的所谓 App 截图不一定可信，请注意甄别。官方也将持续配合相关部门打击网络诈骗行为。面对潜在风险可做到以下几点：一、认准官方渠道下载支付宝 App；二、提醒家人特别是长辈，切勿轻信网上流传的金额截图；三、商家交" data-title="可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒" data-date="09-12 13:32" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-12 13:32</span>
-          <span class="news-item-title">可随意伪造上亿转账截图的“支付宝假 App”登微博热搜，官方发布防骗提醒</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/474.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 11 日消息，今年以来，华尔街一直在就 AI 热潮是否已经变成泡沫争论不休。高盛投资银行业务联席主管金 · 波斯内特却认为，真正值得问的问题并不是这个。“大家都在问，我们是不是已经进入 AI 泡沫。但更应该问的是，AI 会不会从根本上改变企业的运营、竞争和价值创造方式。这个问题的答案显然是肯定的。”长期身处美国企业押注 AI 转型最前线的波斯内特，亲眼见证了企业界为这场变化投入多少资源。今年，高盛参与了多笔市场规模最大的交易，还拿下 SpaceX 创纪录 IPO 中备受争夺的牵头位置。在她看来，眼下发生的不是简单的泡沫，而是一轮“AI 投资超级周期”，并将进一步推动企业支出和并购交易增长，而并购正是高盛投行业务的核心领域之一。波斯内特认为，如果把注意力都放在泡沫会不会破、什" data-title="高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值" data-date="09-11 23:48" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-11 23:48</span>
-          <span class="news-item-title">高盛：总是盯着“AI 泡沫会不会破”不放，反而可能会低估 AI 创造的价值</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/11/business/economy/inflation-cpi-august.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在8月份的消费者价格指数报告发布后，美联储下周会议加息25个百分点的几率飙升至90%。" data-title="通货膨胀加剧对美联储加息施加压力" data-date="09-11 23:47" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-11 23:47</span>
-          <span class="news-item-title">通货膨胀加剧对美联储加息施加压力</span>
+          <span class="news-item-date">09-13 14:52</span>
+          <span class="news-item-title">特斯拉发布欧洲版 Semi 电动卡车：满载续航 550km，2027 年交付</span>
         </a>
   </div>
 </div>
@@ -323,4 +251,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-12 23:39（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-13 14:52（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
