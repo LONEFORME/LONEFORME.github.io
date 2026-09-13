@@ -16,6 +16,22 @@
   <meta name="twitter:description" content="{{ site.description }}">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
   <title>{{ page.title }} | {{ site.title }}</title>
+
+  <!-- 主题防闪烁 (FOUC)：在 CSS 应用与首屏绘制前同步设置 data-theme，避免先暗后亮的闪烁 -->
+  <script>
+    (function () {
+      try {
+        var saved = localStorage.getItem('theme');
+        var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var theme = saved || (prefersDark ? 'dark' : 'light');
+        if (theme === 'light') {
+          document.documentElement.setAttribute('data-theme', 'light');
+        } else {
+          document.documentElement.removeAttribute('data-theme');
+        }
+      } catch (e) {}
+    })();
+  </script>
   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}?v={{ site.time | date: '%s' }}">
   {% seo %}
 </head>
@@ -130,15 +146,9 @@
     var sunSvg = '<svg class="theme-svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m4.93 4.93 1.41 1.41"></path><path d="m17.66 17.66 1.41 1.41"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m6.34 17.66-1.41 1.41"></path><path d="m19.07 4.93-1.41 1.41"></path></svg>';
 
     (function() {
-      var saved = localStorage.getItem('theme');
-      var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-      if (saved === 'dark' || (!saved && prefersDark)) {
-        document.documentElement.removeAttribute('data-theme');
-        updateThemeUI('dark');
-      } else if (saved === 'light' || (!saved && !prefersDark)) {
-        document.documentElement.setAttribute('data-theme', 'light');
-        updateThemeUI('light');
-      }
+      // 主题属性已由 <head> 内联 early-init 在首屏绘制前设置，此处仅同步切换按钮的图标与文字
+      var isLight = document.documentElement.getAttribute('data-theme') === 'light';
+      updateThemeUI(isLight ? 'light' : 'dark');
     })();
 
     function updateThemeUI(theme) {
