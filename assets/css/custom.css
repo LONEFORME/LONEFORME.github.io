@@ -385,9 +385,10 @@ body {
 .content-inner {
   flex: 1;
   width: 100%;
-  max-width: 1240px;
+  /* 宽屏看板需要更宽内容区；1240 会在侧栏旁再居中，显得中间被缩小 */
+  max-width: 1560px;
   margin: 0 auto;
-  padding: 36px 48px 24px;
+  padding: 36px 40px 24px;
 }
 
 .content-inner h1 {
@@ -2874,9 +2875,16 @@ body {
    ========================================================================== */
 .finance-ticker-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  /* 9 张卡：宽屏 5 列（5+4），避免最后一行只剩 1 张 */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 14px;
   margin: 20px 0 28px;
+}
+
+@media (min-width: 1280px) {
+  .finance-ticker-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
 }
 
 .ticker-card {
