@@ -382,10 +382,31 @@ body {
   flex-direction: column;
 }
 
+/* 布局宽度约定（见 AGENTS.md）：
+   - layout-wide：首页/热点/财经看板，宽屏要铺满，禁止再压回文章阅读宽
+   - layout-read：文档/说明长文，保持可读行宽
+   历史问题：曾把全站 content-inner 写死 max-width:1240px + margin:auto，
+   宽屏侧栏旁两侧大留白，看板像被缩小。 */
+.layout-wide .content-inner {
+  flex: 1;
+  width: 100%;
+  max-width: 1560px;
+  margin: 0 auto;
+  padding: 36px 40px 24px;
+}
+
+.layout-read .content-inner {
+  flex: 1;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 36px 40px 24px;
+}
+
+/* 无 layout-* 兼容旧页面 */
 .content-inner {
   flex: 1;
   width: 100%;
-  /* 宽屏看板需要更宽内容区；1240 会在侧栏旁再居中，显得中间被缩小 */
   max-width: 1560px;
   margin: 0 auto;
   padding: 36px 40px 24px;

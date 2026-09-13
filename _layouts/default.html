@@ -35,7 +35,7 @@
   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}?v={{ site.time | date: '%s' }}">
   {% seo %}
 </head>
-<body>
+<body class="{% if page.url contains '/finance' or page.url contains '/news' or page.url == '/' %}layout-wide{% else %}layout-read{% endif %}">
   <!-- 顶部阅读进度条 -->
   <div id="readingProgressBar" class="reading-progress-bar"></div>
 
