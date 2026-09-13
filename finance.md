@@ -230,31 +230,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">4 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/001/846.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 13 日消息，据科技日报今日（13 日）报道，由山西潞安化工机械（集团）有限公司制造的全国首台单炉日投煤量 3000 吨的“晋华炉”，已在河南心连心化工新材料项目顺利投运。该项目配置 2 台水煤浆水冷壁气化炉“晋华炉”，采用一开一备模式运行，气化压力 6.5 兆帕，总气量每小时 17 万标准立方米（一氧化碳 + 氢气），依托烟煤实现高效气化转化。IT之家从报道获悉，“晋华炉”由潞安化机与清华大学联合研发，是水煤浆气化设备，具有煤种适应性广、检修和开车时间短、经济效益高等优势，被誉为煤化工行业的“国之重器”，为煤化工行业绿色低碳发展提供了中国方案。" data-title="全国首台：煤化工行业的“国之重器”晋华炉顺利投运，日“吞”3000 吨煤化为气" data-date="09-13 20:46" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/001/862.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 13 日消息，本周推送的 Windows 11 强制更新，终于移除了遭勒索软件大量滥用的 WMIC 工具。如果没有接触过企业运维环境，你大概率从未听说过 WMIC。但它带来的风险并非只存在于企业：只要个人电脑安装了该组件，普通用户同样会受到威胁。WMIC 全称 Windows Management Instrumentation Command-line（Windows 管理规范命令行工具），在 Windows 系统中已存在数十年，它本身并不是恶意软件。这是一款合法的命令行工具，主要供企业用户通过 Windows 管理规范（WMI）查询、管理 Windows 电脑。IT 部门以外的人员也会使用它来管理系统、实现自动化操作，因此消费版 Windows 系统也会预装该工具。微软" data-title="微软：Win11 已移除勒索软件滥用的 WMIC 工具，请勿自行恢复" data-date="09-13 22:33" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-13 20:46</span>
-          <span class="news-item-title">全国首台：煤化工行业的“国之重器”晋华炉顺利投运，日“吞”3000 吨煤化为气</span>
+          <span class="news-item-date">09-13 22:33</span>
+          <span class="news-item-title">微软：Win11 已移除勒索软件滥用的 WMIC 工具，请勿自行恢复</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-13/10695836.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社合肥9月13日电 (记者 张俊)安徽多家脑机接口项目团队近日接受中新社记者采访，探析脑机接口技术如何从实验室走向临床应用。" data-title="“读心”有术 “写脑”有方 安徽脑机接口产业加速落地" data-date="09-13 21:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-13 21:29</span>
+          <span class="news-item-title">“读心”有术 “写脑”有方 安徽脑机接口产业加速落地</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-13/10695762.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杜塞尔多夫9月13日电 (记者 马秀秀)中国驻杜塞尔多夫总领馆12日晚在杜塞尔多夫举行庆祝中华人民共和国成立77周年招待会暨杜塞尔多夫中国周开幕演出。州市代表，经济、教育、媒体、文化、体育界友好人士，北威州领团，华侨华人、中资机构和企业、留学人员代表等300余人出席。" data-title="中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会" data-date="09-13 20:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-13 20:47</span>
+          <span class="news-item-title">中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-13/10695802.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川9月13日电 (记者 于晶)随着盐环定扬水系统最后一台机组平稳停运，9月13日，宁夏引黄灌区2026年夏秋灌工作圆满结束。自3月24日唐正闸开闸供水以来，灌区累计安全行水174天，引黄河水40.2亿立方米，全力保障近1000万亩农田灌溉，为宁夏夏秋粮稳产增收、“六特”产业高质量发展筑牢水安全屏障。" data-title="安全行水174天 宁夏引黄灌区2026年夏秋灌顺利收官" data-date="09-13 20:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-13 20:39</span>
+          <span class="news-item-title">安全行水174天 宁夏引黄灌区2026年夏秋灌顺利收官</span>
         </a>
         <a class="news-item" href="https://www.theverge.com/column/994172/your-car-is-selling-your-data" target="_blank" rel="noopener" data-cat="caijing" data-summary="The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。有关汽车、数据隐私和自动驾驶汽车的更多信息，请关注Andrew J. Hawkins。Stepback将于美国东部时间上午8点到达订阅者的收件箱。在此选择加入The Stepback。今年早些时候，联邦贸易委员会[…]" data-title="您的车辆正在出售您的数据" data-date="09-13 20:00" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
           <span class="news-item-date">09-13 20:00</span>
           <span class="news-item-title">您的车辆正在出售您的数据</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-13/10695738.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网丽水9月13日电(胡丰盛)浙西南莽莽群山之间，823个自然村散落在700多座大山深处。这里是全国唯一的畲族自治县——景宁。留守老人多、村落分布散、服务半径长，是这片土地长期面对的民生课题。" data-title="从“一把剪刀”到“一张地图” “畲乡山花”二十年深耕记" data-date="09-13 19:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-13 19:21</span>
-          <span class="news-item-title">从“一把剪刀”到“一张地图” “畲乡山花”二十年深耕记</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/001/756.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 13 日消息，经过数月传闻，特斯拉正式宣布在欧洲推出 Semi 电动半挂卡车。特斯拉上个月确认 Semi 将登陆欧洲市场后，当地官方网站已经上线，面向货运企业公布了车辆技术参数、载重上限以及交付时间表。特斯拉欧洲官方账号在 X 平台发布了这一官宣信息。欧洲地区的客户交付工作定于 2027 年正式启动，方便物流企业规划车队替换，逐步淘汰柴油卡车。适配欧洲的专属参数与 Megacharger 大功率充电方案根据特斯拉新上线的德国 Semi 官网介绍，这款商用电动牵引车预估能耗为每公里 1 千瓦时，在总组合重量满载 40 吨的工况下，续航里程可达 550 公里（约 342 英里，也就是说欧洲上市版本和美国在售的标准续航版 Semi 规格一致）。特斯拉欧洲版 Semi 核心参数一览" data-title="特斯拉发布欧洲版 Semi 电动卡车：满载续航 550km，2027 年交付" data-date="09-13 14:52" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-13 14:52</span>
-          <span class="news-item-title">特斯拉发布欧洲版 Semi 电动卡车：满载续航 550km，2027 年交付</span>
         </a>
   </div>
 </div>
@@ -269,4 +275,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-13 20:48（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-14 00:30（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
