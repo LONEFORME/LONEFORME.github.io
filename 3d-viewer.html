@@ -199,6 +199,55 @@
         body.pick-mode #canvas-container {
             cursor: crosshair;
         }
+        /* 触屏/鼠标操作提示切换 */
+        .hint-touch { display: none; }
+        @media (pointer: coarse) {
+            .hint-mouse { display: none; }
+            .hint-touch { display: block; }
+        }
+        /* 移动端工具条适配 */
+        @media (max-width: 768px) {
+            #header {
+                padding: 0 12px;
+                height: 50px;
+            }
+            #header h1 {
+                font-size: 14px;
+            }
+            #header .subtitle,
+            #model-selector label {
+                display: none;
+            }
+            #model-count {
+                display: none;
+            }
+            #model-select {
+                max-width: 150px;
+                padding: 5px 8px;
+                font-size: 12px;
+            }
+            .tool-btn {
+                padding: 5px 8px;
+                font-size: 11px;
+                margin-left: 4px;
+            }
+            #canvas-container {
+                top: 50px;
+            }
+            #info-panel {
+                bottom: 12px;
+                left: 12px;
+                right: auto;
+                padding: 10px 14px;
+                max-width: 220px;
+            }
+            #controls-hint {
+                bottom: 12px;
+                right: 12px;
+                padding: 8px 12px;
+                font-size: 11px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -240,16 +289,18 @@
     </div>
 
     <div id="controls-hint">
-        <div><span>左键拖拽</span> 旋转视角</div>
-        <div><span>中键拖拽</span> 平移</div>
-        <div><span>滚轮</span> 缩放</div>
+        <div class="hint-mouse"><span>左键拖拽</span> 旋转视角</div>
+        <div class="hint-mouse"><span>中键拖拽</span> 平移</div>
+        <div class="hint-mouse"><span>滚轮</span> 缩放</div>
+        <div class="hint-touch"><span>单指滑动</span> 旋转视角</div>
+        <div class="hint-touch"><span>双指</span> 平移 / 缩放</div>
     </div>
 
     <script type="importmap">
     {
         "imports": {
-            "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
-            "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+            "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
         }
     }
     </script>
@@ -275,9 +326,15 @@
         );
         camera.position.set(100, 100, 150);
 
-        const renderer = new THREE.WebGLRenderer({ antialias: true });
+        let renderer;
+        try {
+            renderer = new THREE.WebGLRenderer({ antialias: true });
+        } catch (e) {
+            container.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#8b949e;font-size:14px;text-align:center;padding:24px;">⚠️ 当前浏览器/设备不支持 WebGL<br>3D 预览无法使用，请更换现代浏览器或开启硬件加速</div>';
+            throw e;
+        }
         renderer.setSize(container.clientWidth, container.clientHeight);
-        renderer.setPixelRatio(window.devicePixelRatio);
+        renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
         renderer.shadowMap.enabled = true;
         container.appendChild(renderer.domElement);
 

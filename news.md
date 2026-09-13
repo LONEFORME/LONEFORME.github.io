@@ -15,39 +15,39 @@ title: 热点新闻
     </div>
   </div>
 
-  <div class="news-search-bar" style="margin: 12px 0 8px; display: flex; align-items: center; gap: 8px; background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 7px 14px;">
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="opacity: 0.65;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-    <input type="text" id="news-search-input" placeholder="🔍 实时搜索今日全天新闻（输入关键词、球队、公司、人物、信源）..." oninput="onNewsSearch(this.value)" style="flex: 1; background: transparent; border: none; outline: none; color: inherit; font-size: 13px;">
-    <span id="news-search-count" style="font-size: 12px; opacity: 0.7; font-weight: 500;"></span>
+  <div class="news-search-bar">
+    <svg class="news-search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    <input type="text" id="news-search-input" class="news-search-input" placeholder="🔍 实时搜索今日全天新闻（输入关键词、球队、公司、人物、信源）..." oninput="onNewsSearch(this.value)">
+    <span id="news-search-count" class="news-search-count"></span>
   </div>
 
   <div class="news-nav-composite">
     <div class="news-channel-bar">
-      <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
+      <button class="channel-btn active" aria-pressed="true" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
         <span class="channel-count">60</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
+      <button class="channel-btn" aria-pressed="false" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
         <span class="channel-count">15</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
+      <button class="channel-btn" aria-pressed="false" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
         <span class="channel-count">15</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
+      <button class="channel-btn" aria-pressed="false" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
         <span class="channel-count">15</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
+      <button class="channel-btn" aria-pressed="false" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
         <span class="channel-count">15</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
+      <button class="channel-btn" aria-pressed="false" onclick="filterNewsChannel('meimei', this)">
         <span>🌍 西方媒体视角</span>
         <span class="channel-count">0</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('source', this)">
+      <button class="channel-btn" aria-pressed="false" onclick="filterNewsChannel('source', this)">
         <span>🌐 媒体信源</span>
       </button>
     </div>
@@ -566,7 +566,7 @@ function onNewsSearch(query) {
     const date = (el.getAttribute('data-date') || '').toLowerCase();
     const searchTarget = title + ' ' + summary + ' ' + source + ' ' + cat + ' ' + date;
     const isMatch = terms.every(t => searchTarget.includes(t));
-    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'flex' : 'block') : 'none';
+    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'grid' : 'block') : 'none';
     if (isMatch) matched++;
   });
 
@@ -614,7 +614,5 @@ document.addEventListener('DOMContentLoaded', () => {
 }
 </style>
 
-
----
 
 <p class="news-updated">🕐 抓取更新于 2026-09-12 23:39（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

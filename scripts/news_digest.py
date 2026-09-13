@@ -1115,10 +1115,10 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
     </div>
   </div>
 
-  <div class="news-search-bar" style="margin: 12px 0 8px; display: flex; align-items: center; gap: 8px; background: rgba(127,127,127,0.08); border: 1px solid rgba(127,127,127,0.2); border-radius: 8px; padding: 7px 14px;">
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="opacity: 0.65;"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-    <input type="text" id="news-search-input" placeholder="🔍 实时搜索今日全天新闻（输入关键词、球队、公司、人物、信源）..." oninput="onNewsSearch(this.value)" style="flex: 1; background: transparent; border: none; outline: none; color: inherit; font-size: 13px;">
-    <span id="news-search-count" style="font-size: 12px; opacity: 0.7; font-weight: 500;"></span>
+  <div class="news-search-bar">
+    <svg class="news-search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+    <input type="text" id="news-search-input" class="news-search-input" placeholder="🔍 实时搜索今日全天新闻（输入关键词、球队、公司、人物、信源）..." oninput="onNewsSearch(this.value)">
+    <span id="news-search-count" class="news-search-count"></span>
   </div>
 
   <div class="news-nav-composite">
@@ -1356,7 +1356,7 @@ function onNewsSearch(query) {
     const date = (el.getAttribute('data-date') || '').toLowerCase();
     const searchTarget = title + ' ' + summary + ' ' + source + ' ' + cat + ' ' + date;
     const isMatch = terms.every(t => searchTarget.includes(t));
-    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'flex' : 'block') : 'none';
+    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'grid' : 'block') : 'none';
     if (isMatch) matched++;
   });
 
@@ -1696,8 +1696,6 @@ title: 热点新闻
 
 {content_html}
 
----
-
 <p class="news-updated">🕐 抓取更新于 {date_str}（北京时间）· 首页展示最近 {FRONTPAGE_MAX_HOURS} 小时精选动态 · 往期请查阅历史归档</p>
 """
 
@@ -1715,7 +1713,7 @@ title: 新闻存档 - {date_only}
 ---
 
 <h1>📰 新闻存档 - {date_only}</h1>
-<p class="page-subtitle">每日自动聚合 · 来源可溯 · <a href="{{{{ site.url }}}}/news" class="archive-back-link">← 返回最新新闻</a></p>
+<p class="page-subtitle">每日自动聚合 · 来源可溯 · <a href="/news" class="archive-back-link">← 返回最新新闻</a></p>
 
 {archive_content_html}
 
@@ -1752,7 +1750,7 @@ title: 新闻存档 - {date_only}
     cards_html = ""
     for fdate in archive_files:
         is_today = " (今日)" if fdate == date_only else ""
-        cards_html += f"""  <a href="{{{{ site.url }}}}/archive/news-{fdate}" class="archive-day-card">
+        cards_html += f"""  <a href="/archive/news-{fdate}" class="archive-day-card">
     <div class="archive-day-header">
       <span class="archive-day-date">📅 {fdate}{is_today}</span>
       <span class="archive-day-count">每日热点速览</span>
@@ -1770,13 +1768,13 @@ title: 新闻历史档案室
 ---
 
 <h1>📁 新闻历史档案室</h1>
-<p class="page-subtitle">每日热点自动归档 · 往期资讯回溯 · <a href="{{{{ site.url }}}}/news" class="archive-back-link">← 返回今日最新新闻</a></p>
+<p class="page-subtitle">每日热点自动归档 · 往期资讯回溯 · <a href="/news" class="archive-back-link">← 返回今日最新新闻</a></p>
 
 <div class="archive-timeline-grid">
 {cards_html}</div>
 
 <div style="text-align: center; margin: 40px 0 20px;">
-  <a href="{{{{ site.url }}}}/news" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
+  <a href="/news" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
     <span>⚡ 返回今日最新新闻</span>
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
   </a>

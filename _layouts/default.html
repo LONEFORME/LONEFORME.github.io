@@ -11,7 +11,7 @@
   <meta property="og:url" content="{{ site.url }}">
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:type" content="website">
-  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
   <meta name="twitter:description" content="{{ site.description }}">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
@@ -70,12 +70,12 @@
         </a>
       </nav>
       <div class="sidebar-footer">
-        <div class="theme-toggle" onclick="toggleTheme()" title="切换主题">
+        <button type="button" class="theme-toggle" onclick="toggleTheme()" title="切换主题" aria-label="切换明暗主题">
           <span class="theme-icon" id="themeIcon">
             <svg class="theme-svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path></svg>
           </span>
           <span class="theme-label" id="themeLabel">暗色模式</span>
-        </div>
+        </button>
         <div class="contact-info">
           <div class="contact-row">
             <svg class="contact-svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="20" height="16" x="2" y="4" rx="2"></rect><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path></svg>
@@ -255,8 +255,7 @@
 
       var hideTimeout = null;
 
-      function handleMouseEnter(e) {
-        var item = e.currentTarget;
+      function handleMouseEnter(e, item) {
         var summary = item.getAttribute('data-summary') || item.getAttribute('data-detail') || (item.querySelector('.news-item-summary') ? item.querySelector('.news-item-summary').innerText : '');
         var title = item.getAttribute('data-title') || (item.querySelector('.news-item-title, .hero-featured-title, .hero-sub-title') ? item.querySelector('.news-item-title, .hero-featured-title, .hero-sub-title').innerText : '');
         var source = item.getAttribute('data-source') || (item.querySelector('.source-badge') ? item.querySelector('.source-badge').innerText : '权威资讯');
@@ -272,12 +271,6 @@
 
         positionPopover(e);
         popover.classList.add('visible');
-      }
-
-      function handleMouseMove(e) {
-        if (popover.classList.contains('visible')) {
-          positionPopover(e);
-        }
       }
 
       function handleMouseLeave() {
@@ -306,40 +299,50 @@
         popover.style.top = y + 'px';
       }
 
-      function attachNewsListeners() {
-        var targets = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
-        targets.forEach(function(el) {
-          el.removeEventListener('mouseenter', handleMouseEnter);
-          el.removeEventListener('mousemove', handleMouseMove);
-          el.removeEventListener('mouseleave', handleMouseLeave);
+      /* 事件委托：动态增删的卡片无需重新绑定（替代 MutationObserver） */
+      var HOVER_SELECTOR = '.news-item, .hero-featured-card, .hero-sub-card';
 
-          el.addEventListener('mouseenter', handleMouseEnter);
-          el.addEventListener('mousemove', handleMouseMove);
-          el.addEventListener('mouseleave', handleMouseLeave);
-        });
-      }
+      document.addEventListener('mouseover', function(e) {
+        var item = e.target.closest ? e.target.closest(HOVER_SELECTOR) : null;
+        if (!item || popover.contains(e.target)) return;
+        var from = e.relatedTarget;
+        if (from && from.closest && item.contains(from)) return;
+        handleMouseEnter(e, item);
+      });
 
-      attachNewsListeners();
+      document.addEventListener('mouseout', function(e) {
+        var item = e.target.closest ? e.target.closest(HOVER_SELECTOR) : null;
+        if (!item || popover.contains(e.target)) return;
+        var to = e.relatedTarget;
+        if (to && to.closest && item.contains(to)) return;
+        handleMouseLeave();
+      });
 
-      var observer = new MutationObserver(attachNewsListeners);
-      var container = document.querySelector('.content-inner');
-      if (container) {
-        observer.observe(container, { childList: true, subtree: true });
-      }
+      document.addEventListener('mousemove', function(e) {
+        if (!popover.classList.contains('visible') || popover.contains(e.target)) return;
+        var item = e.target.closest ? e.target.closest(HOVER_SELECTOR) : null;
+        if (item) positionPopover(e);
+      });
     });
 
     /* --- 新闻频道 Tab 切换与即时过滤系统 --- */
     function filterNewsChannel(channel, btn) {
       var btns = document.querySelectorAll('.channel-btn');
-      btns.forEach(function(b) { b.classList.remove('active'); });
-      if (btn) btn.classList.add('active');
+      btns.forEach(function(b) {
+        b.classList.remove('active');
+        b.setAttribute('aria-pressed', 'false');
+      });
+      if (btn) {
+        btn.classList.add('active');
+        btn.setAttribute('aria-pressed', 'true');
+      }
 
       var categories = document.querySelectorAll('.news-category');
       var items = document.querySelectorAll('.news-item');
 
       if (channel === 'all' || channel === 'source') {
         categories.forEach(function(cat) { cat.style.display = 'block'; });
-        items.forEach(function(it) { it.style.display = 'flex'; });
+        items.forEach(function(it) { it.style.display = 'grid'; });
       } else {
         categories.forEach(function(cat) {
           var catItems = cat.querySelectorAll('.news-item');
@@ -347,7 +350,7 @@
           catItems.forEach(function(it) {
             var itCat = it.getAttribute('data-cat') || '';
             if (itCat === channel || itCat.indexOf(channel) !== -1) {
-              it.style.display = 'flex';
+              it.style.display = 'grid';
               visibleCount++;
             } else {
               it.style.display = 'none';

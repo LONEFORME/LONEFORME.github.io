@@ -25,7 +25,7 @@ title: 飞行演示
       <div class="theater-screen-ambient" id="theater-ambient"></div>
       <div class="theater-screen-box">
         <video id="main-player" controls preload="metadata" poster="{{ "/assets/images/videos/poster_qrcode.jpg" | relative_url }}">
-          <source id="main-player-src" src="{{ "/assets/videos/二维码.mp4" | relative_url }}" type="video/mp4">
+          <source id="main-player-src" src="{{ "/assets/videos/二维码.mp4" | relative_url | uri_escape }}" type="video/mp4">
           您的浏览器暂不支持 HTML5 视频播放，请升级或更换现代浏览器。
         </video>
       </div>
@@ -254,7 +254,7 @@ title: 飞行演示
 const videoList = [
   {
     title: "📱 二维码识别与自主精准降落",
-    src: "{{ "/assets/videos/二维码.mp4" | relative_url }}",
+    src: "{{ "/assets/videos/二维码.mp4" | relative_url | uri_escape }}",
     poster: "{{ "/assets/images/videos/poster_qrcode.jpg" | relative_url }}",
     badges: [
       { text: "📱 竖屏机载视角", cls: "chip-primary" },
@@ -268,7 +268,7 @@ const videoList = [
   },
   {
     title: "🔥 火源目标识别与协同处理",
-    src: "{{ "/assets/videos/火源.mp4" | relative_url }}",
+    src: "{{ "/assets/videos/火源.mp4" | relative_url | uri_escape }}",
     poster: "{{ "/assets/images/videos/poster_fire.jpg" | relative_url }}",
     badges: [
       { text: "🔥 竖屏机载视角", cls: "chip-primary" },
@@ -282,7 +282,7 @@ const videoList = [
   },
   {
     title: "🎯 复杂多障碍绕杆连续巡航",
-    src: "{{ "/assets/videos/绕杆.mp4" | relative_url }}",
+    src: "{{ "/assets/videos/绕杆.mp4" | relative_url | uri_escape }}",
     poster: "{{ "/assets/images/videos/poster_pole.jpg" | relative_url }}",
     badges: [
       { text: "🎯 横屏全景视角", cls: "chip-secondary" },
@@ -296,7 +296,7 @@ const videoList = [
   },
   {
     title: "🛬 VIO 辅助室内高精度柔性着陆",
-    src: "{{ "/assets/videos/降落.mp4" | relative_url }}",
+    src: "{{ "/assets/videos/降落.mp4" | relative_url | uri_escape }}",
     poster: "{{ "/assets/images/videos/poster_landing.jpg" | relative_url }}",
     badges: [
       { text: "🛬 横屏全景视角", cls: "chip-secondary" },
