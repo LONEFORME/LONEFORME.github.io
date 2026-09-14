@@ -105,7 +105,7 @@ title: 项目
         • 数学圆形度公式（4πA/P²）区分实心圆与空心圆环<br>
         • 双线程并发架构（采集线程 + 预处理线程，帧锁保证线程安全）
       </div>
-      <a href="https://github.com/LONEFORME/opencv-vision-rpi" target="_blank" rel="noopener" class="card-link">查看项目</a>
+      <a href="https://github.com/LONEFORME/opencv-vision-system" target="_blank" rel="noopener" class="card-link">查看项目</a>
     </div>
   </div>
 </div>
