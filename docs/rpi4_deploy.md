@@ -52,12 +52,12 @@ sudo apt install -y ros-humble-slam-toolbox ros-humble-nav2-map-server \
 ## 部署 ROS 工作空间
 
 ```bash
-# 克隆项目
-cd ~
-git clone https://github.com/LONEFORME/N100.git ros2_ws
-cd ros2_ws
+# 初始化工作空间
+mkdir -p ~/ros2_ws/src
+cd ~/ros2_ws
 
-# 删掉 x86 编译产物
+# 放置 lslidar 驱动与 slam_toolbox_config 源码包至 src/ 目录
+# 清理旧编译产物（如有）
 rm -rf build/ install/ log/
 
 # 只编译镭神相关包（跳过宇树）

@@ -43,7 +43,9 @@ title: 文档
       <strong>覆盖：</strong>树莓派4B / N100 / A7A / A7Z / RDK X5 / K230 / RK3506<br>
       <strong>核心：</strong>A/B/C 分类体系 · Fast DDS 组网 · 46个跨板运维脚本 · AI Skill v2.43
     </div>
-    <a href="https://github.com/LONEFORME/embedded-board-reference" target="_blank" rel="noopener" class="card-link">GitHub 仓库</a>
-    <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派指南</a>
+    <div class="card-footer-row">
+      <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派指南</a>
+      <span class="card-status">🔒 规范资产闭源</span>
+    </div>
   </div>
 </div>

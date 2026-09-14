@@ -28,8 +28,10 @@ title: 项目
         • 坐标零点校准 + 静止漂移抑制 + 自研一键启动脚本<br>
         • x86_64 / aarch64 双架构 SDK 支持
       </div>
-      <a href="{{ "docs/unitree_l1" | relative_url }}" class="card-link">查看文档</a>
-      <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">GitHub</a>
+      <div class="card-footer-row">
+        <a href="{{ "docs/unitree_l1" | relative_url }}" class="card-link">查看文档</a>
+        <span class="card-status">🔒 算法闭源</span>
+      </div>
     </div>
 
     <div class="card">
@@ -44,8 +46,10 @@ title: 项目
         • 障碍物检测：BFS 聚类 + PCA 墙识别 + 多帧确认<br>
         • 位姿优化：卡尔曼滤波 + 静止检测 + 未来位置预测
       </div>
-      <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">查看文档</a>
-      <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">GitHub</a>
+      <div class="card-footer-row">
+        <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">查看文档</a>
+        <span class="card-status">🔒 算法闭源</span>
+      </div>
     </div>
   </div>
 </div>
@@ -72,7 +76,10 @@ title: 项目
         • 46 个跨板自动化运维脚本库 + YOLOv8 边缘视觉实时检测<br>
         • AI Skill 唯一真源（v2.43），支持 Codex / DeepSeek / WorkBuddy / Gemini
       </div>
-      <a href="https://github.com/LONEFORME/embedded-board-reference" target="_blank" rel="noopener" class="card-link">查看项目</a>
+      <div class="card-footer-row">
+        <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派实战指南</a>
+        <span class="card-status">🔒 内部规范资产</span>
+      </div>
     </div>
   </div>
 </div>
@@ -124,8 +131,10 @@ title: 项目
         • 嘉楠 K230 边缘视觉端侧 AI + T265 硬件级 VIO 坐标/速度直出<br>
         • 下视激光 ToF 垂直定高 + 历年电赛参考（2022-HUST / NUEDC-2024-D / UAV-2023）
       </div>
-      <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
-      <a href="https://github.com/LONEFORME/lingxiao-drone" target="_blank" rel="noopener" class="card-link">GitHub</a>
+      <div class="card-footer-row">
+        <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
+        <a href="https://github.com/LONEFORME/lingxiao-drone" target="_blank" rel="noopener" class="card-link">GitHub</a>
+      </div>
     </div>
 
     <div class="card">
@@ -141,7 +150,10 @@ title: 项目
         • T265 姿态解算 + OpenCV 目标识别与精准中心对准降落<br>
         • Nextion 串口触控屏地面站（蓝牙无线通信 + 状态语音播报）
       </div>
-      <a href="https://github.com/LONEFORME/xiyue-drone" target="_blank" rel="noopener" class="card-link">查看项目</a>
+      <div class="card-footer-row">
+        <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
+        <span class="card-status">🔒 飞控方案闭源</span>
+      </div>
     </div>
   </div>
 </div>
@@ -168,7 +180,6 @@ title: 项目
         • 站内 WebGL 3D 交互预览器（支持旋转/平移/缩放/底面平放）
       </div>
       <a href="{{ "/3d-viewer" | relative_url }}" class="card-link">在线 3D 预览</a>
-      <a href="https://github.com/LONEFORME/3d-models" target="_blank" rel="noopener" class="card-link">查看项目</a>
     </div>
   </div>
 </div>

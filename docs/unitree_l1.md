@@ -16,11 +16,11 @@ title: 宇树 L1 + FAST-LIO2
 ## 快速开始
 
 ```bash
-# 克隆仓库
+# 进入工作空间源码目录并组织功能包
 cd ~/ros2_ws/src
-git clone https://github.com/LONEFORME/N100.git
+# 放置 unitree_lidar_ros2 与 fast_lio 源码包
 
-# 编译
+# 编译工作空间
 cd ~/ros2_ws
 colcon build --packages-select unilidar_fastlio_ros2
 source install/setup.bash

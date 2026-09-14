@@ -68,7 +68,10 @@ title: 首页
       • 自研障碍物检测：BFS 空间聚类 + PCA 墙识别 + 多帧确认<br>
       • 位姿优化：卡尔曼滤波 + 静止检测 + 零点校准 + 自适应滤波
     </div>
-    <a href="https://github.com/LONEFORME/N100" target="_blank" rel="noopener" class="card-link">查看项目</a>
+    <div class="card-footer-row">
+      <a href="{{ "/docs" | relative_url }}" class="card-link">技术文档专区</a>
+      <span class="card-status">🔒 算法闭源</span>
+    </div>
   </div>
 
   <div class="card">
@@ -88,7 +91,10 @@ title: 首页
       • 46 个跨板自动化运维脚本库 + YOLOv8 边缘视觉实时检测<br>
       • AI Skill 唯一真源（v2.43），支持多端 AI 助手技能自动化分发
     </div>
-    <a href="https://github.com/LONEFORME/embedded-board-reference" target="_blank" rel="noopener" class="card-link">查看项目</a>
+    <div class="card-footer-row">
+      <a href="{{ "/docs" | relative_url }}" class="card-link">开发板技术指南</a>
+      <span class="card-status">🔒 内部规范资产</span>
+    </div>
   </div>
 
   <div class="card">
@@ -101,6 +107,12 @@ title: 首页
       <span class="card-tag">Python 3.8+</span>
       <span class="card-tag">OpenCV 4.7+</span>
       <span class="card-tag">双线程并发</span>
+    </div>
+    <div class="card-details">
+      • 11 种颜色 HSV/BGR 空间自适应精准识别<br>
+      • 几何轮廓形状分类（三角形、矩形、五边形、多边形）<br>
+      • 数学圆形度公式（4πA/P²）区分实心圆与空心圆环<br>
+      • 双线程并发架构（采集线程 + 预处理线程，帧锁保证线程安全）
     </div>
     <a href="https://github.com/LONEFORME/opencv-vision-rpi" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
@@ -116,8 +128,16 @@ title: 首页
       <span class="card-tag">K230 端侧AI</span>
       <span class="card-tag">T265 硬件VIO</span>
     </div>
-    <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
-    <a href="https://github.com/LONEFORME/lingxiao-drone" target="_blank" rel="noopener" class="card-link">查看项目</a>
+    <div class="card-details">
+      • 匿名凌霄飞控官方源码（STM32F407 / MSP432 / TM4C123）<br>
+      • 匿名通信协议 V7 + 独立硬件 IMU 减震固件（.ano）<br>
+      • 嘉楠 K230 边缘视觉端侧 AI + T265 硬件级 VIO 坐标/速度直出<br>
+      • 下视激光 ToF 垂直定高 + 历年电赛实战参考工程
+    </div>
+    <div class="card-footer-row">
+      <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
+      <a href="https://github.com/LONEFORME/lingxiao-drone" target="_blank" rel="noopener" class="card-link">查看项目</a>
+    </div>
   </div>
 
   <div class="card">
@@ -131,7 +151,16 @@ title: 首页
       <span class="card-tag">RDK X5 上位机</span>
       <span class="card-tag">DFS + Dijkstra</span>
     </div>
-    <a href="https://github.com/LONEFORME/xiyue-drone" target="_blank" rel="noopener" class="card-link">查看项目</a>
+    <div class="card-details">
+      • STM32F405 飞控底层（BirdFlight V2.0：PID / ADRC / LQR / uCOS-III）<br>
+      • 地平线 RDK X5 上位机（230400bps 高速串口通信 + 自启动服务）<br>
+      • DFS 9×7 网格全覆盖自主巡航 + Dijkstra 动态实时绕障重规划<br>
+      • T265 姿态解算 + OpenCV 目标识别与精准中心对准降落
+    </div>
+    <div class="card-footer-row">
+      <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
+      <span class="card-status">🔒 飞控方案闭源</span>
+    </div>
   </div>
 
   <div class="card">
@@ -145,8 +174,13 @@ title: 首页
       <span class="card-tag">SolidWorks</span>
       <span class="card-tag">3D 在线预览</span>
     </div>
+    <div class="card-details">
+      • 195+ 款精细模型（114 STL / 45 SolidWorks SLDPRT 源工程 / 36 拓竹 3MF）<br>
+      • 覆盖无人机保护罩/缓震平台、双目云台、小车底盘及激光定高支架<br>
+      • 自研 Python STL 批量 360° 旋转渲染与 GIF 动图生成引擎<br>
+      • 站内 WebGL 3D 交互预览器（支持旋转/平移/缩放/底面平放）
+    </div>
     <a href="{{ "/3d-viewer" | relative_url }}" class="card-link">在线 3D 预览</a>
-    <a href="https://github.com/LONEFORME/3d-models" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 </div>
 
@@ -160,7 +194,7 @@ title: 首页
 <div class="card-mini-list">
   {% include card-mini.html url="docs/unitree_l1" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><circle cx="12" cy="12" r="2"/></svg>' title="宇树 L1 + Point-LIO 建图方案" desc="实时激光雷达-惯性紧耦合里程计 · 室内外 3D 稠密建图指南" %}
   {% include card-mini.html url="docs/leishen_n10p" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>' title="镭神 N10P + SLAM Toolbox 方案" desc="单线 2D 激光雷达 SLAM 方案 · 室内快速建图与避障" %}
-  {% include card-mini.html url="https://github.com/LONEFORME/embedded-board-reference" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/><path d="M9 21v1"/><path d="M9 2v1"/></svg>' title="嵌入式开发板配置参考与 AI 资产库" desc="7款主流开发板一键初始化 · ROS2 多机 Discovery Server · AI Skill v2.43" %}
+  {% include card-mini.html url="docs" icon='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/><path d="M9 21v1"/><path d="M9 2v1"/></svg>' title="嵌入式开发板配置参考与 AI 资产库" desc="7款主流开发板一键初始化 · ROS2 多机 Discovery Server · AI Skill v2.43" %}
 </div>
 
 <div class="section-title">
