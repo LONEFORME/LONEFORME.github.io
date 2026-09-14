@@ -1008,5 +1008,595 @@
     "feed_name": "纽约时报",
     "summary": "民主党参议院候选人在一个明显倾向于共和党的州面临强大阻力。多年来，她一直是一名斗士，也是一名失败者。",
     "published_dt_iso": "2026-09-13T23:27:53+08:00"
+  },
+  {
+    "title": "人工智能行业最新的厄运警告背后是什么？",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "date": "2026-09-14",
+    "published_time": "03:40",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "关于Equity ，我们讨论了人工智能行业关于它是否对人类构成生存威胁的最新辩论。",
+    "published_dt_iso": "2026-09-14T03:40:15+08:00"
+  },
+  {
+    "title": "奥巴马敦促民主党为人工智能保障措施制定“明确计划”",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "date": "2026-09-14",
+    "published_time": "00:30",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "奥巴马最近表示，民主党需要将人工智能作为他们的“核心议程”之一，并“有一个非常明确的计划”来解决对技术的经济影响和安全性的担忧。",
+    "published_dt_iso": "2026-09-14T00:30:00+08:00"
+  },
+  {
+    "title": "特朗普和迈克·约翰逊认为人工智能行业反应过度",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "date": "2026-09-14",
+    "published_time": "03:41",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "昨天， Anthropic首席执行官Dario Amodei发表了一封冗长的公开信，称是时候“加快前沿步伐”并减缓人工智能的发展。OpenAI的Sam Altman和Elon Musk都同意，公开表示支持X。即使是Alphabet的Demis Hassabis也对Amodei的提议表示暂时支持。然而，唐纳德·特朗普和众议院议长迈克·约翰逊[…]",
+    "published_dt_iso": "2026-09-14T03:41:48+08:00"
+  },
+  {
+    "title": "据报道，苹果正在开发iPhone游戏控制器",
+    "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+    "date": "2026-09-14",
+    "published_time": "02:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "彭博社的马克·古尔曼（ Mark Gurman ）表示，苹果正在为iPhone开发两款游戏控制器，并可能以Beats品牌销售。苹果可能进入游戏控制器业务的谣言已经流传了一段时间。但上周， MacRumors报告称，在macOS 26.7的代码中发现了两个引用，指向两个被确定为第一方[…]的游戏控制器",
+    "published_dt_iso": "2026-09-14T02:30:16+08:00"
+  },
+  {
+    "title": "单位的数字刺激是synthpunk完美",
+    "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+    "date": "2026-09-14",
+    "published_time": "01:36",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "这些单位是我发现的一个乐队，部分原因是太空中没有狗。在The Screamers （另一个值得一看的令人难以置信的乐队）的迷你剧中，他们提到synthpunk.org是他们的来源之一。没有更好的方法来吸引我的注意力，而不是结合我最喜欢的两件事-朋克摇滚[…]",
+    "published_dt_iso": "2026-09-14T01:36:10+08:00"
+  },
+  {
+    "title": "AI开始改进“改进自己的方法”，RSI进入平方时代丨MetaRSI",
+    "link": "https://www.qbitai.com/2026/09/488832.html",
+    "date": "2026-09-14",
+    "published_time": "11:45",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "小模型突破瓶颈，旗舰模型打开新空间",
+    "published_dt_iso": "2026-09-14T11:45:46+08:00"
+  },
+  {
+    "title": "中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT",
+    "link": "https://www.qbitai.com/2026/09/488725.html",
+    "date": "2026-09-14",
+    "published_time": "11:18",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "这家中国公司，刚跑完了物理闭环里最难的一段路",
+    "published_dt_iso": "2026-09-14T11:18:42+08:00"
+  },
+  {
+    "title": "奥特曼被骗！A社一脚油门冲刺IPO，募资叫板SpaceX",
+    "link": "https://www.qbitai.com/2026/09/488699.html",
+    "date": "2026-09-14",
+    "published_time": "10:56",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "还是太嫩了啊Dario",
+    "published_dt_iso": "2026-09-14T10:56:45+08:00"
+  },
+  {
+    "title": "智谱提前剧透下一代GLM：完全自训练方法公开了",
+    "link": "https://www.qbitai.com/2026/09/488694.html",
+    "date": "2026-09-14",
+    "published_time": "08:30",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "模型、论文都还没出，没想到先从财务公告上剧透了",
+    "published_dt_iso": "2026-09-14T08:30:56+08:00"
+  },
+  {
+    "title": "暴雪《暗黑破坏神》游戏 IP 全球触达玩家数超 1.3 亿，27 个月净增约 3000 万",
+    "link": "https://www.ithome.com/1/002/095.htm",
+    "date": "2026-09-14",
+    "published_time": "15:16",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 14 日消息，暗黑破坏神官方账号 @Diablo 昨日（9 月 13 日）发布推文，宣布《暗黑破坏神》游戏 IP 触达玩家数量累计已超过 1.3 亿。官方推文称全球已有超过 1.3 亿名玩家进入过“庇护之地”（Sanctuary），参与地狱的无尽战斗。需要注意的是，这里的玩家数量覆盖《暗黑破坏神》整个系列，可能包含试玩、订阅服务用户、免费游玩等玩家数量。IT之家查询公开资料，暗黑破坏神官方账号 @Diablo 曾于 2024 年 6 月发布推文，称《暗黑破坏神》游戏 IP 触达玩家数量累计已超过 1 亿。按照官方公布统计口径，在跨度约 27 个月时间里，《暗黑破坏神》系列玩家数量新增超过 3,000 万玩家，粗略相当于平均每月净增超过 110 万名累计玩家。",
+    "published_dt_iso": "2026-09-14T15:16:59+08:00"
+  },
+  {
+    "title": "OPPO Enco X4 耳机三色亮相，9 月 22 日全球首发",
+    "link": "https://www.ithome.com/1/002/094.htm",
+    "date": "2026-09-14",
+    "published_time": "15:12",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 14 日消息，OPPO Enco X4 耳机将于 9 月 22 日 19:00 全球首发，新品提供柔白、粉金、钛灰三款配色。从图上可以看到，这款新品采用入耳式设计，配备较短耳机柄，整体小巧精致；充电盒采用圆形设计，预计带来不错的手感体验。据博主 @数码闲聊站 本月早些时候爆料，OPPO Enco X4 的 ID 细节和做工相比上代更加精致。音质和降噪体验相比上代有所升级，还落地了苹果同款的 AI 实时翻译，并称其为“真 · 旗舰降噪耳机”。OPPO Find X10 系列手机发布会将于 9 月 22 日举行，届时 OPPO Enco X4 耳机、OPPO Watch S2 手表将同步亮相，感兴趣的朋友可以关注IT之家后续报道。",
+    "published_dt_iso": "2026-09-14T15:12:04+08:00"
+  },
+  {
+    "title": "古尔曼预测：苹果未来会推出 iPhone Duo Max，还有 Duo SE 和 Duo Mini",
+    "link": "https://www.ithome.com/1/002/093.htm",
+    "date": "2026-09-14",
+    "published_time": "15:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 14 日消息，彭博社记者马克 · 古尔曼（Mark Gurman）透露，苹果将在未来几年推出 iPhone Duo Max 机型，并解读了苹果最终选用“Duo”作为后缀、放弃其他名称的原因。IT之家注意到，在 iPhone Duo 正式发布前的数月里，古尔曼曾报道，苹果内部员工一度将这款机型称作 iPhone Ultra，这一叫法大概率是受到了媒体报道与爆料信息的影响。但苹果最终选定了由三个字母组成的“Duo”作为后缀。古尔曼表示，这一命名风格和 Air、Pro 保持一致，还能为后续拓展更多衍生型号留出空间；如果用“Ultra”，后续就很难再叠加其他后缀。古尔曼在最新一期《Power On》专栏中预测，苹果未来会推出 iPhone Duo Max，这款机型大概率会配备更大尺",
+    "published_dt_iso": "2026-09-14T15:09:13+08:00"
+  },
+  {
+    "title": "深光影像推出 AF 18mm F2.2 LE APS-C 相机镜头：首发富士 X 卡口，预售价 649 元",
+    "link": "https://www.ithome.com/1/002/092.htm",
+    "date": "2026-09-14",
+    "published_time": "15:08",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 14 日消息，深光影像今日发布 AF 18mm F2.2 LE APS-C 相机镜头，首发富士 X 卡口，商品页面显示后续将推出 E、Z、M43 卡口，预售价 649 元。这款镜头采用金属镜身，重约 122g，尺寸为 29.5mm × 66mm，最近对焦距离 0.18m；光学结构为 6 组 8 片，搭载 1 枚 ED 低色散镜片、4 枚高折射率镜片，采用 9 枚光圈叶片设计，搭载 STM 静音马达。IT之家附这款镜头详细参数：京东 SGIMAGE 深光 AF18mm F2.2 LE 富士 X 卡口 649 元直达链接",
+    "published_dt_iso": "2026-09-14T15:08:25+08:00"
+  },
+  {
+    "title": "小米卢伟冰：科技家电的未来是主动智能，也是米家下一个十年要走的路",
+    "link": "https://www.ithome.com/1/002/091.htm",
+    "date": "2026-09-14",
+    "published_time": "15:03",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 14 日消息，小米集团合伙人、总裁卢伟冰今日发文谈到了米家品牌。他提到，2016 年小米创立米家品牌，正式进入家电行业。科技家电的未来是主动智能，这也是米家下一个十年，要走的路。未来，会有更多“懂事”的米家产品和大家见面。他表示，家电从能联网、能 App 控制，到能语音、能 AI 交互，“让家电听话”这件事，行业已经做到了极致。但说句实话，再听话，本质还是“遥控器”一-你说一句，它做一件。距离真正的主动智能，还有不小距离。今年上半年，小米研发投入超过 180 亿元。一批硬核技术，开始集中从实验室走进市场：Xiaomi MiMo 大模型累计调用突破一万亿词元，玄戒三芯齐发、撑起人车家全生态的算力底座，IoT 全球设备连接数突破 11 亿。模型、算力、生态，把地基打好了。也正是",
+    "published_dt_iso": "2026-09-14T15:03:18+08:00"
+  },
+  {
+    "title": "OpenAI CEO 奥尔特曼支持控制 AI 发展速度，强调并非停止技术进步",
+    "link": "https://www.ithome.com/1/002/090.htm",
+    "date": "2026-09-14",
+    "published_time": "15:01",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 14 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）于当地时间上周日表态，支持对人工智能的发展采取“控速”思路，避免尖端模型的能力发展速度超出人类可控范围。奥尔特曼的表述与 Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）的观点相近。他称，将工作重心转向安全会付出一定代价，但此举有助于维持外界信心，证明美国企业在研发能力日益强大的人工智能时恪守责任，这份代价值得承担。“无论美国面临多大的竞争压力，都不能成为鲁莽行事的理由，也不能让模型能力的发展领先于对齐技术与监管监测。”这位 OpenAI 负责人在 X 平台发帖写道。他同时强调，保障安全并不等同于停止技术进步：“我们所说的‘控速’，并不是‘叫停’。”IT之家注意到，就",
+    "published_dt_iso": "2026-09-14T15:01:09+08:00"
+  },
+  {
+    "title": "夜深 emo 陪你聊聊天：京造 AI 自适应床垫 9999 元众筹，支持 32 项健康监测",
+    "link": "https://www.ithome.com/1/002/089.htm",
+    "date": "2026-09-14",
+    "published_time": "15:00",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "京东京造 X JoyInside AI 智能床垫今日首发众筹，叠加补贴后低至 9699 元，支持 1 年价保 + 整机 3 年质保（电机 10 年质保）。此款较普通床垫，新增支持：内置压电双模传感器（检测阻塞性呼吸暂停）识别后自动轻柔抬升AI 闹钟智能唤醒AI 语音陪聊 / 控制床垫32 项健康监测（小程序可查看日报 / 周报 / 月报）支持 AI 智能温度控制（石墨烯加热）支持 AI 自适应调节支持左右独立调节软硬 / 温度支持腰部 / 腿部震动舒缓可搭配小程序 / 遥控器使用京东京东京造 AI 智能床垫 1.5*2m JoyInside 联名券后 9699 元领 9 折券京东京东京造 AI 智能床垫 1.8*2m JoyInside 联名券后 9999 元领 9 折券Joy Inside",
+    "published_dt_iso": "2026-09-14T15:00:55+08:00"
+  },
+  {
+    "title": "TrendForce 预测：NOR 闪存增产有限，高容量产品价格 2026H2 恐翻倍",
+    "link": "https://www.ithome.com/1/002/087.htm",
+    "date": "2026-09-14",
+    "published_time": "14:59",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 14 日消息，TrendForce（集邦）今日表示，NOR 闪存市场正经历近十年来最重要的供需结构转变。该领域在 2026 年下半年的按容量计产能增幅有限，高容量产品价格可能会再度翻倍成长。机构认为，尽管相关供应商皆已提高资本支出并扩产，但新增产能必须经过制程微缩、良率爬坡、产品验证以及纳入客户规格、设计导入等流程，无法立即转化为市场可用供给，因此，短期内中高容量市场的缺口仍无法获得满足。除传统的汽车 ADAS、数字座舱与工业控制外，人工智能与航天通信正成为新的 NOR 需求主力。AI 服务器的 NOR 需求显著高于传统服务器，大量重定时器 (Retimer) 都需要配套 NOR；另一方面，NOR 也非常适合航天通信产业对高可靠性存储介质的需求。▲ 图源：TrendForc",
+    "published_dt_iso": "2026-09-14T14:59:47+08:00"
+  },
+  {
+    "title": "裁判机构承认对哈兰德德比冠军的判断错误",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "04:29",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英超联赛裁判机构Pro Ref承认在授予Erling Haaland的曼彻斯特德比冠军时存在判断错误。",
+    "published_dt_iso": "2026-09-14T04:29:58+08:00"
+  },
+  {
+    "title": "马雷斯卡曼城的情报和复原力关键陈述胜利",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "06:20",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "当天比赛专家丹尼·墨菲（ Danny Murphy ）解释了曼城如何在老特拉福德击败曼联，尽管在比赛的大部分时间里只剩下10名男子。",
+    "published_dt_iso": "2026-09-14T06:20:42+08:00"
+  },
+  {
+    "title": "Foden看到Mainoo印象深刻的红色-曼彻斯特德比评级",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c2kwpk5zy23o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "01:27",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "曼联和曼城球员在老特拉福德德比赛中的得分情况。",
+    "published_dt_iso": "2026-09-14T01:27:07+08:00"
+  },
+  {
+    "title": "等待25年-考文垂的噩梦顶级航班回程",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4g7pezw1mjo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "03:32",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "在连续第四次失利后，考文垂市重返英超联赛的梦想开始破灭-但弗兰克·兰帕德能扭转局面吗？",
+    "published_dt_iso": "2026-09-14T03:32:55+08:00"
+  },
+  {
+    "title": "联合-自1992年以来最糟糕的开局和球迷抗议-曼联难忘的一天",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c624d3g15e9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "03:54",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "在周日的德比之前，曼联球迷在老特拉福德内外抗议，然后看到他们的球队输给了10人曼城",
+    "published_dt_iso": "2026-09-14T03:54:56+08:00"
+  },
+  {
+    "title": "Arteta拥抱完美风暴，在自己制作的游戏中扮演受害者| Barney Ronay",
+    "link": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
+    "date": "2026-09-14",
+    "published_time": "04:35",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "由于阿森纳经理帮助创建的微观分析文化，裁判现在是一项不可能的工作。绅士绝不会无意中粗鲁，只有设计。没有人真正知道是谁先说的。但它可以很容易地从精英足球经理指南到新闻发布会（英超联赛版）。因为在这些空间中没有意外发生。在广告中覆盖的板子前面说的每一个字都是",
+    "published_dt_iso": "2026-09-14T04:35:23+08:00"
+  },
+  {
+    "title": "曼联0-1曼城：英超联赛–实际情况",
+    "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
+    "date": "2026-09-14",
+    "published_time": "02:16",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Erling Haaland有争议的进球为曼城带来了巨大的胜利，在Phil Foden的早期红牌之后，他打得非常出色布莱顿的第四个进球是所有人中刘易斯·扣篮的尖叫声，促使史蒂夫·布拉德菲尔德发了这封电子邮件。布莱顿的第四个进球是本月进球的扣篮吗？继续阅读...",
+    "published_dt_iso": "2026-09-14T02:16:13+08:00"
+  },
+  {
+    "title": "曼城从福登红牌中恢复过来，哈兰德在曼联赢得德比",
+    "link": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
+    "date": "2026-09-14",
+    "published_time": "01:32",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "“恩佐，恩佐，恩佐，在你的脑海中”是曼城球迷对恩佐·费尔南德斯（ Enzo Fernández ）的狂热追求，他在令人难忘的胜利中扮演明星角色后，立即获得了邪教英雄地位。第199场德比赛由Erling Haaland在比赛中的第九次罢工赢得，但游客的图腾是他们新的第17号。视频助理裁判在裁定费尔南德斯没有分散注意力时推翻了一个最初因越位而被排除在外的进球，他是其中的关键人物。",
+    "published_dt_iso": "2026-09-14T01:32:15+08:00"
+  },
+  {
+    "title": "2026年国家网络安全宣传周开幕",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696148.shtml",
+    "date": "2026-09-14",
+    "published_time": "15:08",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "2026年国家网络安全宣传周开幕式于9月14日在山东济南举行。《人工智能安全治理框架》3.0、《2026年人工智能技术赋能网络安全应用测试结果》、消费类网联摄像头网络安全标识备案产品等一系列网络安全领域重要成果在开幕式上发布。",
+    "published_dt_iso": "2026-09-14T15:08:22+08:00"
+  },
+  {
+    "title": "外籍人士“走读”延安 品悟历史感受中国发展",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696144.shtml",
+    "date": "2026-09-14",
+    "published_time": "15:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网陕西延安9月14日电 (记者 李一璠)近日，由中共中央对外联络部和中共陕西省委共同主办的“中国共产党的故事——习近平新时代中国特色社会主义思想在陕西的实践”专题宣介会在陕西延安举行。",
+    "published_dt_iso": "2026-09-14T15:03:14+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）四川甘孜：从耕粮糊口到温泉兴业 红色记忆点亮高原藏村",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696138.shtml",
+    "date": "2026-09-14",
+    "published_time": "15:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网甘孜9月14日电 题：四川甘孜：从耕粮糊口到温泉兴业 红色记忆点亮高原藏村",
+    "published_dt_iso": "2026-09-14T15:02:14+08:00"
+  },
+  {
+    "title": "2026国家网络安全宣传周扬州市活动启动 守护百姓身边的数字生活",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696134.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网扬州9月14日电 (徐珊珊 崔佳明)9月14日下午，2026国家网络安全宣传周扬州市活动开幕式在扬州创新中心举行。今年宣传周重点聚焦智能时代网络安全新课题，凝聚全社会力量，共同守护百姓身边的数字生活。",
+    "published_dt_iso": "2026-09-14T14:59:09+08:00"
+  },
+  {
+    "title": "成功跨越黄河！“陇电入浙”工程甘肃段全线贯通",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696132.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月14日，在甘肃省白银市景泰县与靖远县交界处，随着最后一段导线展放就位，甘肃—浙江±800千伏特高压直流输电工程(“陇电入浙”工程)顺利完成黄河大跨越架线施工，这标志着“陇电入浙”工程甘肃段实现全线贯通。",
+    "published_dt_iso": "2026-09-14T14:54:41+08:00"
+  },
+  {
+    "title": "外交部与使馆提醒中国公民暂勿前往塔吉克斯坦和阿富汗边境地区",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696119.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月14日电 据“领事直通车”微信公众号消息，当前，塔吉克斯坦和阿富汗边境地区安全形势复杂严峻，近期发生流弹落入塔吉克斯坦境内及阿富汗人员非法越境事件，造成人员伤亡和财产损失。",
+    "published_dt_iso": "2026-09-14T14:27:19+08:00"
+  },
+  {
+    "title": "“人民的保护神”漳州110：三十余载薪火相传",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-14/10696086.shtml",
+    "date": "2026-09-14",
+    "published_time": "13:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网漳州9月14日电 题：“人民的保护神”漳州110：三十余载薪火相传",
+    "published_dt_iso": "2026-09-14T13:44:57+08:00"
+  },
+  {
+    "title": "核电站数据造假 日本中部电力公司两名高层辞职",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696141.shtml",
+    "date": "2026-09-14",
+    "published_time": "15:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月14日电 据日本共同社报道，当地时间9月14日，日本中部电力公司宣布，社长林欣吾和会长胜野哲将于30日正式辞职，为滨冈核电站抗震设计相关的数据造假问题承担责任。",
+    "published_dt_iso": "2026-09-14T15:13:22+08:00"
+  },
+  {
+    "title": "伊朗和阿曼推迟举行地区会议",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696105.shtml",
+    "date": "2026-09-14",
+    "published_time": "15:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月14日电 综合消息：当地时间13日，伊朗和阿曼分别宣布，双方原计划14日在阿曼举行的地区会议将推迟举行。",
+    "published_dt_iso": "2026-09-14T15:03:02+08:00"
+  },
+  {
+    "title": "特朗普再施压史密森学会 相关举动引发批评",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696143.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月14日电 近日，美国总统特朗普在社交媒体发文，要求史密森学会旗下美国国家历史博物馆举办纪念美国开国总统的特别展览。相关举动引发质疑，批评人士认为，特朗普政府正试图以行政手段介入历史文化机构，重塑美国的历史叙事。",
+    "published_dt_iso": "2026-09-14T14:48:03+08:00"
+  },
+  {
+    "title": "尼泊尔泥石流灾害遇难人数升至1392人",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696112.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "根据尼泊尔警方公布的数据，截至当地时间14日上午11时，尼泊尔泥石流灾害造成的遇难人数升至1392人。",
+    "published_dt_iso": "2026-09-14T14:13:31+08:00"
+  },
+  {
+    "title": "雅万高铁受马来西亚游客青睐  累计乘坐逾40万人次",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696052.shtml",
+    "date": "2026-09-14",
+    "published_time": "12:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社雅加达9月14日电 (记者 李志全)印度尼西亚雅万高铁日益受到马来西亚游客青睐。印尼中国高铁有限公司14日发布消息说，今年1月至8月，该公司累计服务马来西亚籍旅客逾10.5万人次，约占同期雅万高铁外籍旅客总量的40%。",
+    "published_dt_iso": "2026-09-14T12:50:57+08:00"
+  },
+  {
+    "title": "美使馆雇员涉持有儿童不雅影像“被带回美国”，英方斥“极其荒谬”“完全不可接受”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696049.shtml",
+    "date": "2026-09-14",
+    "published_time": "12:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月14日电 综合英国广播公司(BBC)、天空新闻网、《每日电讯报》等外媒当地时间9月13日报道，美国驻英国大使馆一名雇员在被控持有儿童不雅影像后，于8月在其位于英国伦敦的公寓内被美方人员逮捕，并在英方不知情的情况被遣送出境。",
+    "published_dt_iso": "2026-09-14T12:30:54+08:00"
+  },
+  {
+    "title": "突发：日本福冈机场发生拖车与客机相撞事故 机上共有181名乘客",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10696048.shtml",
+    "date": "2026-09-14",
+    "published_time": "12:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月14日电 据日本《朝日新闻》最新报道，当地时间14日10时05分左右，日本福冈机场停机坪发生一起拖车与客机相撞事故。",
+    "published_dt_iso": "2026-09-14T12:23:26+08:00"
+  },
+  {
+    "title": "中东基地被炸损失惨重，美军想用高射炮对付伊朗导弹",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-14/10695900.shtml",
+    "date": "2026-09-14",
+    "published_time": "12:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月14日电(记者 刁炜)近日，美国政府网站发布武器采购信息征询书，拟通过市场调研，为美国空军寻找“能够发射价格合理的弹药、可持续提供对空防御的陆基中口径火炮武器系统。”",
+    "published_dt_iso": "2026-09-14T12:16:35+08:00"
+  },
+  {
+    "title": "海南发布地质灾害气象风险红色（一级）预警",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10695994.shtml",
+    "date": "2026-09-14",
+    "published_time": "15:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月14日电 据“海南气象”微信公众号消息，9月14日12时00分，海南省自然资源和规划厅、海南省气象局联合发布地质灾害气象风险红色(一级)预警：",
+    "published_dt_iso": "2026-09-14T15:16:59+08:00"
+  },
+  {
+    "title": "2026网安周｜读懂AI决策逻辑，莫让算法推荐“牵着走”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696155.shtml",
+    "date": "2026-09-14",
+    "published_time": "15:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "视频：2026网安周｜读懂AI决策逻辑，莫让算法推荐“牵着走”来源：光明网-科普中国",
+    "published_dt_iso": "2026-09-14T15:15:23+08:00"
+  },
+  {
+    "title": "（乡村行·看振兴）延安黄龙：鹿鸣山野产业兴 林下经济赋能乡村振兴",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696133.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网陕西黄龙9月14日电 (李一璠 陈子龙)秋风送爽，走进陕西省延安市黄龙县石堡镇磊庄村梅花鹿养殖基地，依山而建的标准化鹿舍整齐规范，林间放养区草木葱郁，百余头梅花鹿自由觅食、悠然栖息。",
+    "published_dt_iso": "2026-09-14T14:58:45+08:00"
+  },
+  {
+    "title": "清华大学图书馆：浸岁月书香 启时代新知",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696136.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "【校馆弦歌】",
+    "published_dt_iso": "2026-09-14T14:56:33+08:00"
+  },
+  {
+    "title": "贵州遵义坚持走高质量发展新路",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696128.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "黔北大地，遵义会议纪念馆外人头攒动，赤水河畔竹海随风摇曳，产业园区生产线高速运转，和美乡村沃野生机盎然。",
+    "published_dt_iso": "2026-09-14T14:52:25+08:00"
+  },
+  {
+    "title": "保丰产、护生态 “绿色田管+全链条服务”助力希望的田野增产增收",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696126.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "央视网消息：秋粮是全年粮食生产的大头。还有十多天，全国秋粮就将大面积收获。当前大部分秋粮处于灌浆成熟期，主产区大力推广绿色田管模式，筑牢丰收基础。",
+    "published_dt_iso": "2026-09-14T14:49:09+08:00"
+  },
+  {
+    "title": "未来5年 我国将加快完善优质高效整合型医疗卫生服务体系",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696125.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "国务院新闻办公室今天(14日)上午举行“开局起步‘十五五’”系列主题新闻发布会，国家卫生健康委、国家中医药局、国家疾控局等单位介绍推动健康中国建设取得决定性进展有关情况。",
+    "published_dt_iso": "2026-09-14T14:45:34+08:00"
+  },
+  {
+    "title": "智能时代，山东如何织密这张“安全网”？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-14/10696123.shtml",
+    "date": "2026-09-14",
+    "published_time": "14:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "高铁疾驰，穿过黄河与泰山之间的广袤平原。",
+    "published_dt_iso": "2026-09-14T14:41:18+08:00"
+  },
+  {
+    "title": "“赢了就是赢了”？Hyrox北京赛选手失禁夺冠为何引发争议",
+    "link": "https://www.bbc.com/zhongwen/articles/c74e1wv1xkzo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "15:05",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "一名澳洲籍选手在比赛期间怀疑失禁，排泄物沾染赛道和比赛设施，她继续作赛并最终夺冠，事后一度发文称“A win is a win（赢了就是赢了）”。事件引发“体育精神”的争议，也有学者分析HYROX商业化的速度，可能已超过其管理能力。",
+    "published_dt_iso": "2026-09-14T15:05:07+08:00"
+  },
+  {
+    "title": "人工智能踩“刹车”？特朗普：别忘了中美竞争",
+    "link": "https://www.bbc.com/zhongwen/articles/clyrkq2ew44o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "14:43",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "上星期六，达里奥·阿摩迪（Dario Amodei）呼吁放缓发展步伐,以“降低出现严重问题的风险”，奥特曼和马斯克均表示认同。这名Anthropic首席执行官同时强调，任何放缓都必须有所限度，以免让中国反超领先。",
+    "published_dt_iso": "2026-09-14T14:43:31+08:00"
+  },
+  {
+    "title": "中国修订《国防动员法》 专家称：为建立“平战快速转换”制度",
+    "link": "https://www.bbc.com/zhongwen/articles/c4gr202jdzpo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "08:19",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "新法还首次明定，18至60岁男性、18至55岁女性原则上须担负国防勤务；金融、交通、电信、能源、医疗、粮食等关键领域，在动员期间均可采取特别措施。",
+    "published_dt_iso": "2026-09-14T08:19:09+08:00"
+  },
+  {
+    "title": "中国强势下，欧洲电池工业谋求“重新充电”",
+    "link": "https://www.bbc.com/zhongwen/articles/cn8ex870p05o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "08:19",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "欧洲拥有一些前景可期的电池技术，但它能否追回被中国电池巨头拉开的差距？",
+    "published_dt_iso": "2026-09-14T08:19:18+08:00"
+  },
+  {
+    "title": "美国大使馆虐童图片嫌犯 在接受警方讯问前 从英国飞抵美国",
+    "link": "https://www.bbc.com/zhongwen/articles/cn8e1v7xz02o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-14",
+    "published_time": "10:54",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "该人士在伦敦南部沃克斯豪尔的美国大使馆工作，虽然不是外交官，但享有外交保护。",
+    "published_dt_iso": "2026-09-14T10:54:52+08:00"
+  },
+  {
+    "title": "硅谷的一些人质疑人工智能减速的呼声",
+    "link": "https://www.nytimes.com/2026/09/13/technology/silicon-valley-ai-slowdown.html",
+    "date": "2026-09-14",
+    "published_time": "11:12",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "关于人工智能安全性的争论变得越来越个人化，因为关键技术领导人表示，要求政府监管的呼声是自私和错误的。",
+    "published_dt_iso": "2026-09-14T11:12:44+08:00"
+  },
+  {
+    "title": "Anthropic首席执行官Dario Amodei在呼吁放慢人工智能速度时所说的话",
+    "link": "https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html",
+    "date": "2026-09-14",
+    "published_time": "09:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "达里奥·阿莫代（ Dario Amodei ）的3800字信中提出了控制人工智能的三步计划。",
+    "published_dt_iso": "2026-09-14T09:04:20+08:00"
+  },
+  {
+    "title": "查尔斯国王将在呼吁放缓发展的呼声中召集人工智能领导人",
+    "link": "https://www.nytimes.com/2026/09/13/world/europe/king-charles-ai-meeting.html",
+    "date": "2026-09-14",
+    "published_time": "04:23",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "随着人工智能公司最高层的警报不断上升，白金汉宫表示，国王将与高管会面，探讨如何将这项技术用于好的方面。",
+    "published_dt_iso": "2026-09-14T04:23:48+08:00"
+  },
+  {
+    "title": "石油价格因能源供应担忧而飙升",
+    "link": "https://www.nytimes.com/2026/09/13/business/oil-prices-jump-on-energy-supply-worries.html",
+    "date": "2026-09-14",
+    "published_time": "06:29",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "由于担心无人机袭击沙特阿拉伯的一条关键管道将进一步削弱波斯湾的能源供应，油价上涨，股票期货小幅下跌。",
+    "published_dt_iso": "2026-09-14T06:29:36+08:00"
+  },
+  {
+    "title": "环保署将取消发电厂对气候污染的限制",
+    "link": "https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html",
+    "date": "2026-09-14",
+    "published_time": "10:14",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "发电是美国二氧化碳和其他地球变暖气体的第二大来源。",
+    "published_dt_iso": "2026-09-14T10:14:19+08:00"
+  },
+  {
+    "title": "“60分钟”的巴里韦斯时代开始",
+    "link": "https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html",
+    "date": "2026-09-14",
+    "published_time": "10:14",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "长期运行的哥伦比亚广播公司新闻节目在周日重返高压第59个赛季。有了新的记者和更新的秒表，它更多地是调整而不是检修。",
+    "published_dt_iso": "2026-09-14T10:14:34+08:00"
   }
 ]
