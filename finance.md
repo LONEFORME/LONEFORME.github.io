@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,318.45</span>
-      <span class="ticker-change down">▼ -0.05%</span>
+      <span class="ticker-price ticker-down">4,317.94</span>
+      <span class="ticker-change down">▼ -0.06%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,368.44</span>
-      <span class="ticker-change up">▲ +0.00%</span>
+      <span class="ticker-price ticker-down">29,003.06</span>
+      <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7060</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.7131</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,322.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -25.47 (-0.59%)</span>
+      <span class="ticker-price ticker-down">$4,270.57 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -77.78 (-1.79%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥933.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -5.65 (-0.60%)</span>
+      <span class="ticker-price ticker-down">¥923.59 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -9.41 (-1.01%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/002/304.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 14 日消息，今日，3D 打印龙头拓竹官宣将于 9 月 22 日 22:00 发布 R1 激光切割机。8 月 13 日，拓竹已预热激光产品 R1。IT之家注意到，UV 打印机是一种免制版全彩色数码印刷机，不受材料限制，可以在 T 恤、移门、柜门、推拉门、玻璃、板材、各种标牌、水晶、PVC、亚克力、金属、塑料、石材、皮革等表面进行彩色照片级印刷，可以实现部分 3D 浮雕效果，不过整体还是偏向 2D 印刷。作为国内消费级 3D 打印机龙头企业，拓竹科技消费级 3D 打印机国内累计销量已突破 100 万台，距其首款产品上市仅约 4 年。根据拓竹官方的 2025 年国内报告，2025 年拓竹用户的总打印时长超 2.9 亿小时，超 3 万用户的打印机平均每天要工作 7 个多小时。" data-title="3D 打印龙头拓竹官宣 9 月 22 日发布 R1 激光切割机" data-date="09-14 22:09" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-14 22:09</span>
+          <span class="news-item-title">3D 打印龙头拓竹官宣 9 月 22 日发布 R1 激光切割机</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/" target="_blank" rel="noopener" data-cat="caijing" data-summary="9月18日是申请TechCrunch Disrupt 2026展览桌的最后一天。只剩5天了。确保您在世博会大厅的席位，让您的业务面向1万多名创始人、投资者和技术领导者。" data-title="距离2026年TechCrunch Disrupt展会还有5天时间" data-date="09-14 22:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-14 22:00</span>
+          <span class="news-item-title">距离2026年TechCrunch Disrupt展会还有5天时间</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/002/302.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 14 日消息，据 21 汽车 · 一见 Auto 从多方独立信源处获悉，上汽大众新任总经理吴赟（IT之家注读音：yūn）近日签发了一轮经理层任命，涉及市场营销、产品、生产计划、财务控制和供应链五个板块，共有 20 人岗位发生变化：16 人获代理任命，3 人卸任现职后另有安排，1 人不再兼任原职务。任命自 2026 年 9 月 2 日起生效，这是吴赟接掌上汽大众总经理 30 天后，启动首次覆盖新车产品定义、市场推广、生产交付的集中调整。值得一提的是，本轮轮岗的岗位全部标注为代理，而非正式聘任，部分调整如下：销售端原大众品牌华东营销大区总经理陈峰，现代理大众品牌营销事业部门副经理，并兼任大众品牌销售部门经理（代理）原大众品牌销售部门经理郁威，转任大众品牌高端车型 GTM 部门经" data-title="吴赟履新满月，消息称上汽大众启动 20 人中层大轮岗" data-date="09-14 21:49" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-14 21:49</span>
+          <span class="news-item-title">吴赟履新满月，消息称上汽大众启动 20 人中层大轮岗</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-14/10696372.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月14日电 (记者 李映民)泰国曼谷市长差察·西迪汶14日在市政府的新闻发布会上表示，随着数据中心产业发展，曼谷市政府将加强对市内数据中心运营情况的监管，重点关注噪音、环境影响及消防安全等问题。" data-title="泰国曼谷已有49个数据中心 市长称将加强监管" data-date="09-14 21:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-14 21:29</span>
+          <span class="news-item-title">泰国曼谷已有49个数据中心 市长称将加强监管</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/002/296.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 14 日消息，广汽集团今日发布公告，公司与中国第一汽车股份有限公司签署《意向协议》，筹划以发行股份方式购买一汽股份持有的某整车合资公司部分股权，并募集配套资金。公告称，经初步测算，本次交易完成后，一汽股份将成为本公司第二大和具有战略影响力的股东；本次交易预计构成重大资产重组及关联交易，不构成实际控制人变更及重组上市。公司 A 股股票自 2026 年 9 月 14 日开市起停牌，预计停牌时间不超过 10 个交易日。值得关注的是，此次交易标的为一汽股份持有的某整车合资公司部分股权。由于本次重组标的涉及境外上市公司，广汽集团按照相关规则暂缓披露标的资产名称，将在后续重组预案中披露。IT之家此前报道，工业和信息化部 9 月 11 日举行新闻发布会，介绍我国智能网联新能源汽车产业发展" data-title="广汽集团筹划重大资产重组，一汽股份将成其第二大股东" data-date="09-14 21:23" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-14 21:23</span>
+          <span class="news-item-title">广汽集团筹划重大资产重组，一汽股份将成其第二大股东</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-14/10696231.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月14日电 据美国《华尔街日报》近日报道，随着对美贸易谈判破裂，加拿大总理卡尼展开“转向欧洲”战略，其正研究获得欧盟“准成员国”地位的可能性。" data-title="与美国贸易争端加剧 加拿大转向欧洲？" data-date="09-14 16:59" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-14 16:59</span>
+          <span class="news-item-title">与美国贸易争端加剧 加拿大转向欧洲？</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-14/10696141.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月14日电 据日本共同社报道，当地时间9月14日，日本中部电力公司宣布，社长林欣吾和会长胜野哲将于30日正式辞职，为滨冈核电站抗震设计相关的数据造假问题承担责任。" data-title="核电站数据造假 日本中部电力公司两名高层辞职" data-date="09-14 15:13" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -274,30 +310,6 @@ title: 股票财经
           <span class="news-item-date">09-13 22:33</span>
           <span class="news-item-title">微软：Win11 已移除勒索软件滥用的 WMIC 工具，请勿自行恢复</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-13/10695836.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社合肥9月13日电 (记者 张俊)安徽多家脑机接口项目团队近日接受中新社记者采访，探析脑机接口技术如何从实验室走向临床应用。" data-title="“读心”有术 “写脑”有方 安徽脑机接口产业加速落地" data-date="09-13 21:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-13 21:29</span>
-          <span class="news-item-title">“读心”有术 “写脑”有方 安徽脑机接口产业加速落地</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-13/10695762.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杜塞尔多夫9月13日电 (记者 马秀秀)中国驻杜塞尔多夫总领馆12日晚在杜塞尔多夫举行庆祝中华人民共和国成立77周年招待会暨杜塞尔多夫中国周开幕演出。州市代表，经济、教育、媒体、文化、体育界友好人士，北威州领团，华侨华人、中资机构和企业、留学人员代表等300余人出席。" data-title="中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会" data-date="09-13 20:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-13 20:47</span>
-          <span class="news-item-title">中国驻杜塞尔多夫总领馆举行庆祝中华人民共和国成立77周年招待会</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-13/10695802.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川9月13日电 (记者 于晶)随着盐环定扬水系统最后一台机组平稳停运，9月13日，宁夏引黄灌区2026年夏秋灌工作圆满结束。自3月24日唐正闸开闸供水以来，灌区累计安全行水174天，引黄河水40.2亿立方米，全力保障近1000万亩农田灌溉，为宁夏夏秋粮稳产增收、“六特”产业高质量发展筑牢水安全屏障。" data-title="安全行水174天 宁夏引黄灌区2026年夏秋灌顺利收官" data-date="09-13 20:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-13 20:39</span>
-          <span class="news-item-title">安全行水174天 宁夏引黄灌区2026年夏秋灌顺利收官</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/column/994172/your-car-is-selling-your-data" target="_blank" rel="noopener" data-cat="caijing" data-summary="The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。有关汽车、数据隐私和自动驾驶汽车的更多信息，请关注Andrew J. Hawkins。Stepback将于美国东部时间上午8点到达订阅者的收件箱。在此选择加入The Stepback。今年早些时候，联邦贸易委员会[…]" data-title="您的车辆正在出售您的数据" data-date="09-13 20:00" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-13 20:00</span>
-          <span class="news-item-title">您的车辆正在出售您的数据</span>
-        </a>
   </div>
 </div>
 
@@ -311,4 +323,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-14 15:16（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-14 22:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
