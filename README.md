@@ -202,8 +202,8 @@ python scripts/news_digest.py
 | 项目 | 描述 |
 |------|------|
 | [embedded-board-reference](https://github.com/LONEFORME/embedded-board-reference) | 嵌入式开发板配置参考（7款板卡矩阵、Fast DDS Discovery Server 与 AI Skill v2.43） |
-| [N100](https://github.com/LONEFORME/N100) | ROS2 激光雷达驱动 + FAST-LIO2 3D / SLAM Toolbox 2D 建图 |
-| [ZCodeProject](https://github.com/LONEFORME/ZCodeProject) | 综合视觉识别与硬件联动系统（OpenCV 形状/11色分类 + 树莓派 GPIO） |
+| [lidar-slam-nav](https://github.com/LONEFORME/lidar-slam-nav) | 机器人多维激光雷达 SLAM 与自主导航实战库（2D 镭神 N10P + 3D 宇树 L1） |
+| [opencv-vision-rpi](https://github.com/LONEFORME/opencv-vision-rpi) | 综合视觉识别与硬件联动系统（OpenCV 形状/11色分类 + 树莓派 GPIO） |
 | [xiyue-drone](https://github.com/LONEFORME/xiyue-drone) | 2025 年电赛无人机全栈方案（STM32F405 + RDK X5 + DFS/Dijkstra 绕障规划） |
 | [lingxiao-drone](https://github.com/LONEFORME/lingxiao-drone) | 凌霄飞控无人机方案（ANO_LX 全栈工程、K230 边缘视觉与 T265 硬件 VIO） |
 | [3d-models](https://github.com/LONEFORME/3d-models) | 3D 打印模型库（195+ 款模型、SolidWorks 零件源文件与在线 WebGL 预览） |

@@ -90,7 +90,7 @@ title: 项目
       <div class="card-icon-box icon-purple">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/><path d="M12 9v6"/><path d="M9 12h6"/></svg>
       </div>
-      <h3>ZCode 视觉识别系统</h3>
+      <h3>OpenCV 综合视觉与硬件联动系统</h3>
       <p>基于 OpenCV 的综合计算机视觉识别与硬件联动系统，支持 11 种颜色检测、几何轮廓分析与树莓派 GPIO 控制。</p>
       <div class="card-details">
         • 11 种颜色 HSV/BGR 空间自适应精准识别<br>
@@ -98,7 +98,7 @@ title: 项目
         • 双线程并发架构（采集线程 + 预处理线程，帧锁保证线程安全）<br>
         • 树莓派 GPIO 硬件联动（风扇 PWM 调速/正反转 + 蜂鸣器通断）
       </div>
-      <a href="https://github.com/LONEFORME/ZCodeProject" target="_blank" rel="noopener" class="card-link">查看项目</a>
+      <a href="https://github.com/LONEFORME/opencv-vision-rpi" target="_blank" rel="noopener" class="card-link">查看项目</a>
     </div>
   </div>
 </div>
