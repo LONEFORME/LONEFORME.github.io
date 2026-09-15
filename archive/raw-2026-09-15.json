@@ -1028,5 +1028,635 @@
     "feed_name": "纽约时报",
     "summary": "随着最高法院审查对美国邮政服务新选票规则的挑战，政府筛选邮寄选票的计划仍被阻止。",
     "published_dt_iso": "2026-09-14T21:51:56+08:00"
+  },
+  {
+    "title": "黄延生接到特朗普的电话，也炫耀了别的东西",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "date": "2026-09-15",
+    "published_time": "09:50",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "当Jensen Huang接到特朗普的现场电话时，我们中的一些人更专注于他曾经接听的电话。",
+    "published_dt_iso": "2026-09-15T09:50:48+08:00"
+  },
+  {
+    "title": "英伟达首席执行官Jensen Huang告诉特朗普“我们不会让[人工智能放缓]发生”",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "date": "2026-09-15",
+    "published_time": "05:51",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "尽管埃隆·马斯克（ Elon Musk ）和山姆·奥尔特曼（ Sam Altman ）支持达里奥·阿莫代（ Dario Amodei ）关于减缓人工智能发展步伐的呼吁，但黄延森似乎",
+    "published_dt_iso": "2026-09-15T05:51:02+08:00"
+  },
+  {
+    "title": "报告称， OpenAI以3亿美元收购智能手机相机制造商Glass Imaging",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "date": "2026-09-15",
+    "published_time": "04:44",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Glass Imaging由两位前苹果工程师创立，他们曾领导开发苹果肖像模式的团队。",
+    "published_dt_iso": "2026-09-15T04:44:14+08:00"
+  },
+  {
+    "title": "Anthropic表示，人工智能可以在四年内将美国国内生产总值提高32 ％ ，高达44.4万亿美元—经济学模型预测，失业的员工“可能不得不转向电工和护士等工作”",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-ai-can-boost-u-s-gdp-by-32-percent-up-to-usd44-4-trillion-in-four-years-economics-model-predicts-that-displaced-employees-may-have-to-switch-to-jobs-like-electrician-and-nurse",
+    "date": "2026-09-15",
+    "published_time": "02:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Anthropic发表了一篇论文，其中设想了人工智能根深蒂固的经济未来。在最极端的情况下，美国国内生产总值上升，但随着其他人失业，失业率也随之上升。",
+    "published_dt_iso": "2026-09-15T02:50:36+08:00"
+  },
+  {
+    "title": "Valve Steam框架回顾：具备独立VR的能力，但无线流媒体仍然是重点",
+    "link": "https://www.tomshardware.com/virtual-reality/valve-steam-frame-review",
+    "date": "2026-09-15",
+    "published_time": "01:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "盛装打扮，无处可去，总结了元任务3。",
+    "published_dt_iso": "2026-09-15T01:00:00+08:00"
+  },
+  {
+    "title": "人工智能机器人“Timmy”、“Ren”和“Jackie”充斥着社交媒体",
+    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "date": "2026-09-15",
+    "published_time": "05:04",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "“您好，我是几天前的Al特工，住在一个小型特工平台上。”",
+    "published_dt_iso": "2026-09-15T05:04:32+08:00"
+  },
+  {
+    "title": "Valve仍在弄清楚“如何以及何时”进行蒸汽甲板2",
+    "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+    "date": "2026-09-15",
+    "published_time": "08:13",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "现在Valve终于推出了其整个2026年硬件阵容-蒸汽控制器，蒸汽机和今天的蒸汽框架-我们是否更接近下一代蒸汽甲板手持设备？ Valve还没有这么说。该公司正在研究“我们如何以及何时能够提供这样的产品” ，阀门设计师Pierre-Loup […]",
+    "published_dt_iso": "2026-09-15T08:13:47+08:00"
+  },
+  {
+    "title": "大型科技公司的人工智能减速是安全协议还是卡特尔？",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "date": "2026-09-15",
+    "published_time": "06:59",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "当OpenAI首席执行官Sam Altman、Anthropic首席执行官Dario Amodei、谷歌DeepMind联合创始人Demis Hassabis和SpaceX负责人埃隆·马斯克(Elon Musk)上周末大致同意放慢人工智能开发速度时，怀疑论者立即发现了一个不可告人的动机。人工智能巨头宣称他们的目标是“加快前沿” ，至少部分签署了[…]",
+    "published_dt_iso": "2026-09-15T06:59:41+08:00"
+  },
+  {
+    "title": "Apple Home的新安全摄像头功能每月售价高达$ 60",
+    "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+    "date": "2026-09-15",
+    "published_time": "06:28",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "随着iOS 27和tvOS 27的公开发布， Apple Home正在获得Apple Intelligence的注入-但您将不得不为此付出更多。Apple Intelligence for Home将AI驱动的视频摘要带到HomeKit Secure Video ，因此您可以获得有关谁和哪些兼容安全摄像头看到的简短文本描述， […]",
+    "published_dt_iso": "2026-09-15T06:28:52+08:00"
+  },
+  {
+    "title": "高管和政界人士对减缓人工智能发展的看法",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+    "date": "2026-09-15",
+    "published_time": "05:21",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Dario Amodei在过去几天发表了一篇题为“我们必须跟上前沿”的长文，详细说明了为什么人工智能开发应该放慢速度，从而引发了大量关于人工智能安全的声明。其他人工智能领导人和政治家也在支持或反对他的观点，我们已经汇编了一些[…]",
+    "published_dt_iso": "2026-09-15T05:21:42+08:00"
+  },
+  {
+    "title": "特朗普抛弃发电厂气候污染规则",
+    "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+    "date": "2026-09-15",
+    "published_time": "04:45",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "美国环境保护署今天宣布，计划取消关于美国允许温室气体污染发电厂排放多少的剩余标准。此举只会使电力变得更脏，因为人工智能、电动汽车和国内制造业的复苏推高了电力需求。美国环保署今天的提案是[…]",
+    "published_dt_iso": "2026-09-15T04:45:00+08:00"
+  },
+  {
+    "title": "Jensen Huang将特朗普放在扬声器上，宣布机器人不会接管世界",
+    "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+    "date": "2026-09-15",
+    "published_time": "04:03",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Nvidia首席执行官Jensen Huang周一在All-In Podcast的All-In Summit上接听了特朗普总统的电话。这不是黄在工作期间第一次接到总统的电话，但这次他让特朗普在一大群人面前接听了免持话筒。在通话期间，总统启动了他的[…]",
+    "published_dt_iso": "2026-09-15T04:03:37+08:00"
+  },
+  {
+    "title": "Valve的虚拟现实计划触及实际现实",
+    "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+    "date": "2026-09-15",
+    "published_time": "03:48",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Steam Frame耳机在这里，您可能不会感到惊讶：它原本的售价不到$ 1,059。“我们打算推出一款价格更实惠的设备，但全球RAM市场、全球存储市场对我们的影响与对每个人的影响相同，” Valve […]",
+    "published_dt_iso": "2026-09-15T03:48:06+08:00"
+  },
+  {
+    "title": "任天堂“客户赞赏”促销的最佳优惠",
+    "link": "https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale",
+    "date": "2026-09-15",
+    "published_time": "03:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "正如承诺的那样，任天堂已经在亚马逊、百思买和沃尔玛以及自己的数字店面上标记了各种Switch游戏和配件。由于从美国政府收到了与关税相关的退款，其“客户感激”促销活动正在进行，并于太平洋时间9月26日晚上8:59结束。任天堂游戏[…]",
+    "published_dt_iso": "2026-09-15T03:30:58+08:00"
+  },
+  {
+    "title": "9月21日，深圳前海！聊聊工业AI与生态共创的下一步",
+    "link": "https://www.qbitai.com/2026/09/489277.html",
+    "date": "2026-09-15",
+    "published_time": "13:20",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "西门子Xcelerator繁星生态大会，在生态合作中共赢机遇",
+    "published_dt_iso": "2026-09-15T13:20:30+08:00"
+  },
+  {
+    "title": "7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开",
+    "link": "https://www.qbitai.com/2026/09/489227.html",
+    "date": "2026-09-15",
+    "published_time": "10:17",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "几百个Agent参与研发，AI开始造AI",
+    "published_dt_iso": "2026-09-15T10:17:34+08:00"
+  },
+  {
+    "title": "谷歌 DeepMind 前员工警告：AI 有能力灭绝人类，留给我们的时间已不多",
+    "link": "https://www.ithome.com/1/002/547.htm",
+    "date": "2026-09-15",
+    "published_time": "14:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，据路透社报道，谷歌 DeepMind 前员工于周一成为最新一位发出警告的 AI 研究者，他称这项技术有可能“灭绝全人类”，想要避免这一结局，留给人类的时间或许已经不多。公众对人工智能潜在危险的担忧正在加剧。此前 Anthropic 研究员雅各布 · 考克森（Jacob Coxon）上周表示自己已经离职，部分原因是“投身 AI 研发的人真心相信，到本十年末，AI 有可能害死我们所有人”。随后 Anthropic 科学家埃文 · 胡宾格（Evan Hubinger）对考克森的言论作出回应，称他说得没错，并且自己认为未来十年内 AI 灭绝全人类的概率超过 10%。“我近期从谷歌 DeepMind 离职，此前我在那里从事通用人工智能（AGI）安全与对齐研究，”比拉尔 ",
+    "published_dt_iso": "2026-09-15T14:48:40+08:00"
+  },
+  {
+    "title": "苹果 HomePod 软件更新 v27 发布，支持 Apple music 自动过渡",
+    "link": "https://www.ithome.com/1/002/546.htm",
+    "date": "2026-09-15",
+    "published_time": "14:45",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，苹果 HomePod 软件更新 v27.0 现已发布，支持 HomePod（第 1 代）、HomePod mini 以及 HomePod（第 2 代）。IT之家从更新日志了解到，本次更新将让 HomePod 支持 Apple Music 自动过渡，可像 DJ 一样切换歌曲，通过时间延展和节拍匹配提供连续播放体验。同时，本次更新改善了隔空播放性能，在从 iPhone、iPad 或 Mac 共享音乐时提供更快速、响应更灵敏的连接，并为 HomePod 提供错误修复和安全更新。用户可以打开 iPhone、iPad 和 Mac 的“家庭”App，点击“更多”按钮，选择“家庭设置”，然后点击“软件更新”安装 HomePod 更新。如果启用了自动更新，HomePod 会自",
+    "published_dt_iso": "2026-09-15T14:45:59+08:00"
+  },
+  {
+    "title": "沃尔沃卡车启动多款重型电动卡车量产，续航距离可达 700km",
+    "link": "https://www.ithome.com/1/002/544.htm",
+    "date": "2026-09-15",
+    "published_time": "14:37",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，Volvo Trucks（沃尔沃卡车）当地时间 14 日宣布，其 2026 年 4 月发布的新一代电动卡车现已在其瑞典哥德堡图韦工厂实现首批下线，开始向全球客户交付。沃尔沃卡车的新品阵容包括全新设计的 FH Aero Electric 以及新一代的 FH Electric、FM Electric、FMX Electric。其中 FH Aero Electric 凭借全新的电驱动桥技术实现了更大的电池容量，单次充电即可行驶 700km，同时支持 MW 级快速充电；FH Electric、FM Electric、FMX Electric 的续航则能达到 470km。沃尔沃卡车还推出了总重可达 80 吨的 FH Electric 和 FH Aero Electric",
+    "published_dt_iso": "2026-09-15T14:37:00+08:00"
+  },
+  {
+    "title": "我国科学家验证新型水下太阳能电池，海面下 10 米正常充电",
+    "link": "https://www.ithome.com/1/002/543.htm",
+    "date": "2026-09-15",
+    "published_time": "14:36",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，9 月 11 日发表在《焦耳》（Joule）的论文中，云南大学携手西南联合研究生院，展示了一种可在南海 10 米水深运行的功能性水下太阳能电池。这一成果打破了此前的极限。早前水下太阳能收集尝试止步于不到两米深的浅水区，那里阳光仍然充足，但实际应用稀少。研究作者张文华（Wen-Hua Zhang）表示，关于水下太阳能电池的研究报道极少，且都聚焦于仅两米或更浅的极浅水域，这种情形远不能满足实际应用需求。最新研究的太阳能电池可在南海海面下 10 米处正常运行，可在水下工作两小时，可产生 324 兆瓦时的电能，足以给锂离子电池充电；若持续置于 10 米水深的环境中，其运行寿命可达约 5.5 年。团队表示这款高效宽能带隙浸没式太阳能电池，能够吸收从蓝光到橙光的光谱。将电",
+    "published_dt_iso": "2026-09-15T14:36:02+08:00"
+  },
+  {
+    "title": "微信员工辟谣 AI 助手小微“直接读取聊天记录”、“偷看所有隐私”：都是失实的",
+    "link": "https://www.ithome.com/1/002/542.htm",
+    "date": "2026-09-15",
+    "published_time": "14:32",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，微信员工 @客村小蒋 刚刚发文谈及了微信 AI 助手小微，并针对该功能的隐私问题进行了说明。IT之家附微信员工 @客村小蒋 微博原文如下：还是跟大家聊聊我们在小范围内测的微信小微，这是个微信团队自己开发的原生 AI 助手，可以通过文字或语音对话，让小微查天气、查快递、点外卖；另外，在朋友圈、公众号、聊天、视频号等场景，小微也可以在你需要的时候被随时唤起，来总结内容、提供更多信息等。有些朋友对隐私问题比较关注，甚至有一些因为误解引发的担忧，这里也做一下解释：1、小微能接触的信息，不会超过你本人可以查看的信息范围的权限，比如有朋友担心已删除的朋友圈会不会被看到，放心，不会的；2、小微会基于公众号、视频号等的关注、浏览、互动数据，做一些问题的推荐，放心，这里同样遵循",
+    "published_dt_iso": "2026-09-15T14:32:24+08:00"
+  },
+  {
+    "title": "网友测试阿里 Qwen3.8-27B AI 模型极限：单张 RTX 3090 约 5 小时开发出僵尸射击游戏",
+    "link": "https://www.ithome.com/1/002/540.htm",
+    "date": "2026-09-15",
+    "published_time": "14:14",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，网友 u/EcstaticDentist 昨日（9 月 14 日）在 Reddit 社区发帖，在单张超频 RTX 3090 显卡上，耗时约 5 小时，通过 2 套 Harness 方案，调用 Q4KM 量化版 Qwen3.8-27B 模型，成功打造出可玩的第一人称僵尸射击游戏。IT之家曾于 8 月报道，阿里开源 Qwen3.8-27B 模型，较 Qwen3.6-27B，新模型在编程和办公场景的性能大幅提升，表现甚至超越了 Qwen3.7-Plus；同时，模型还新增了 reasoning_effort 功能，根据任务难度控制思考深度，更省资源。该网友表示为了测试 Qwen3.8-27B 模型的性能极限，耗时约 5 小时成功打造出可玩的第一人称僵尸射击游戏。在硬件",
+    "published_dt_iso": "2026-09-15T14:14:32+08:00"
+  },
+  {
+    "title": "拼多多因虚假广告被罚 54 万元",
+    "link": "https://www.ithome.com/1/002/539.htm",
+    "date": "2026-09-15",
+    "published_time": "14:06",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，企查查显示，拼多多关联公司上海寻梦信息技术有限公司因发布虚假广告，于 9 月 3 日被长宁区市场监督管理局罚款 54 万元。处罚公告显示，经核查，当事人作为广告发布者，在拼多多平台广告位上发布了虚假广告。当事人行为涉嫌违反《中华人民共和国广告法》第二十八条的规定。经批准，长宁区市场监督管理局于 2026 年 4 月 4 日对当事人立案调查。经查，当事人于拼多多平台广告位上对外发布涉案违法广告共计 190 条。IT之家查询公开资料获悉，上海寻梦信息技术有限公司成立于 2014 年 1 月，法定代表人为赵佳臻，注册资本 1,000 万人民币，经营范围包括货物进出口、技术进出口、食品经营等，由杭州埃米网络科技有限公司全资持股。",
+    "published_dt_iso": "2026-09-15T14:06:21+08:00"
+  },
+  {
+    "title": "“不可玩”和“近乎完美” - Calvert-Lewin为英格兰召回？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cv1j49220j93o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "06:56",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "多米尼克·卡尔弗特-莱温（ Dominic Calvert-Lewin ）现在已经在利兹过去五场联赛中得分。他准备好接受英格兰的召回了吗？",
+    "published_dt_iso": "2026-09-15T06:56:28+08:00"
+  },
+  {
+    "title": "马雷斯卡如何解决足球不可能完成的工作",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c23xe75827no?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "14:02",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "恩佐·马雷斯卡（ Enzo Maresca ）在夏天在曼城接替传奇人物瓜迪奥拉（ Pep Guardiola ）时似乎承担了一份不可能的工作，但在他任期的早期阶段，这似乎是一项轻松的任务。",
+    "published_dt_iso": "2026-09-15T14:02:27+08:00"
+  },
+  {
+    "title": "谁入选了特洛伊本周的英超联赛球队？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxr50zln2gqro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "06:18",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "在本赛季英超联赛的每一轮比赛之后，特洛伊·迪尼（ Troy Deeney ）都给了我们本周最佳球队。你同意他的选择吗？",
+    "published_dt_iso": "2026-09-15T06:18:48+08:00"
+  },
+  {
+    "title": "卡尔弗特-莱温明星但博特曼挣扎-利兹对纽卡斯尔的球员评分",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6790xr3wvr7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "04:54",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "利兹联队和纽卡斯尔联队的球员在英超比赛后的评分。",
+    "published_dt_iso": "2026-09-15T04:54:23+08:00"
+  },
+  {
+    "title": "利兹联队4-1纽卡斯尔联队：英超联赛–实际情况",
+    "link": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
+    "date": "2026-09-15",
+    "published_time": "05:11",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "利兹的主导表现让他们在纽卡斯尔上空奔跑，并在联赛中排名第三。当然，贾斯尔确实有选择；他可能选择了图雷。但在如此竞争激烈的比赛和如此令人生畏的环境中，他认为一张新面孔就足够了，这是有道理的。不过， Elanga是一个大错过。当他踢年龄组足球时，我真的很喜欢他–他结合了边锋的敏捷性和打击的本能",
+    "published_dt_iso": "2026-09-15T05:11:12+08:00"
+  },
+  {
+    "title": "卡尔弗特-莱温（ Calvert-Lewin ）展示了利兹（ Leeds ）一瘸一拐的纽卡斯尔（ Newcast",
+    "link": "https://www.theguardian.com/football/2026/sep/14/leeds-newcastle-premier-league-match-report",
+    "date": "2026-09-15",
+    "published_time": "05:07",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "在哪个阶段，一个良好的开端会变得更加重要？也许我们还没有完全实现；也许我们已经实现了。但是，当目标在埃兰路的一个混乱的夜晚飞来飞去时，很难不认为对利兹的期望的界限可能会被重新划分。询问那些接近利兹夏季比赛的人，感觉本赛季有可能出现一些特别的事情。在找到他们的f",
+    "published_dt_iso": "2026-09-15T05:07:08+08:00"
+  },
+  {
+    "title": "马珊珊任沈阳市副市长、代理市长",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696750.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月15日，经市十七届人大常委会第三十四次会议通过，决定接受吕志成辞去沈阳市人民政府市长职务的请求，决定任命马珊珊为沈阳市人民政府副市长，并决定其为代理市长。",
+    "published_dt_iso": "2026-09-15T14:38:29+08:00"
+  },
+  {
+    "title": "从事出境入境中介服务的机构和人员9月15日起备案管理",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696714.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月15日电 据国家移民管理局网站消息，9月14日，国家移民管理局和国家市场监督管理总局联合发布公告，发布《从事出境入境中介服务的机构和人员备案管理办法》(以下简称《办法》)，自2026年9月15日起施行。",
+    "published_dt_iso": "2026-09-15T14:37:47+08:00"
+  },
+  {
+    "title": "踏过从戎门！拉萨百余名青年奔赴军营",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696717.shtml",
+    "date": "2026-09-15",
+    "published_time": "13:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网拉萨9月15日电 (贡桑拉姆 余鹏)9月14日，拉萨市2026年秋季新兵入伍欢送仪式在西藏职业技术学院西校区谭冠三纪念园举行。百余名高原青年身着崭新迷彩，胸戴红花，整齐落座，与相关单位负责人、家属代表、学生代表共同参加欢送仪式。",
+    "published_dt_iso": "2026-09-15T13:57:12+08:00"
+  },
+  {
+    "title": "姚华明任大连市代市长",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696719.shtml",
+    "date": "2026-09-15",
+    "published_time": "13:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网大连9月15日电 (记者 杨毅)大连市第十七届人民代表大会常务委员会第四十三次会议9月15日决定，接受李强辞去大连市人民政府市长职务的请求，任命姚华明为大连市人民政府副市长、代市长。",
+    "published_dt_iso": "2026-09-15T13:54:10+08:00"
+  },
+  {
+    "title": "凝聚稳定共识 同促安全治理 第十三届北京香山论坛开启",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696703.shtml",
+    "date": "2026-09-15",
+    "published_time": "13:19",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "凝聚稳定共识 同促安全治理 第十三届北京香山论坛今日开启",
+    "published_dt_iso": "2026-09-15T13:19:00+08:00"
+  },
+  {
+    "title": "第一观察|从战略高度和长远角度看待和发展中印关系",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696691.shtml",
+    "date": "2026-09-15",
+    "published_time": "13:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "",
+    "published_dt_iso": "2026-09-15T13:00:45+08:00"
+  },
+  {
+    "title": "前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696688.shtml",
+    "date": "2026-09-15",
+    "published_time": "12:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月15日电 题：前瞻第十三届北京香山论坛：一场热议、一个窗口、一方平台",
+    "published_dt_iso": "2026-09-15T12:50:34+08:00"
+  },
+  {
+    "title": "金正恩向普京致复谢电：“承诺始终不变地支持普京和俄罗斯人民”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696746.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月15日电 据朝中社15日报道，朝鲜最高领导人金正恩14日向俄罗斯总统普京致复谢电。",
+    "published_dt_iso": "2026-09-15T14:24:10+08:00"
+  },
+  {
+    "title": "北约战斗机击落一架飞入立陶宛领空的无人机",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696739.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月15日电 据立陶宛国家广播电视台报道，当地时间15日凌晨，一架无人机进入立陶宛领空后被执行北约空中警戒任务的战斗机击落，当地警方和军方正在开展调查工作。",
+    "published_dt_iso": "2026-09-15T14:14:45+08:00"
+  },
+  {
+    "title": "也门胡塞武装称打击沙特空军基地 三座沙特城市同日遇袭",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696726.shtml",
+    "date": "2026-09-15",
+    "published_time": "13:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月15日电 综合消息：也门胡塞武装当地时间14日称，该组织当日对位于沙特阿拉伯西南部城市海米斯穆谢特的哈立德国王空军基地发动大规模打击。沙特主导的多国联军15日称，胡塞武装14日对三座沙特城市发动袭击。",
+    "published_dt_iso": "2026-09-15T13:59:04+08:00"
+  },
+  {
+    "title": "黄仁勋峰会现场接到特朗普电话，当场打开免提：“机器人不会接管世界”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696681.shtml",
+    "date": "2026-09-15",
+    "published_time": "12:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月15日电 据美国全国广播公司(NBC)报道，当地时间14日，英伟达首席执行官黄仁勋在美国洛杉矶举行的 All-in Summit 峰会上，接到了美国总统特朗普来电。黄仁勋当场打开免提，两人围绕人工智能的发展展开了交谈。",
+    "published_dt_iso": "2026-09-15T12:03:59+08:00"
+  },
+  {
+    "title": "美法官阻止特朗普政府收紧国际学生逗留期限新规生效",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696591.shtml",
+    "date": "2026-09-15",
+    "published_time": "10:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月15日电 据路透社报道，美国一名联邦法官14日阻止了特朗普政府一项收紧国际学生和外国媒体代表在美逗留期限的新规按期生效。",
+    "published_dt_iso": "2026-09-15T10:29:17+08:00"
+  },
+  {
+    "title": "“东京审判不应被遗忘，正如侵略历史不容篡改”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696620.shtml",
+    "date": "2026-09-15",
+    "published_time": "10:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "“东京审判不应被遗忘，正如侵略历史不容篡改”(铭记历史·捍卫和平)",
+    "published_dt_iso": "2026-09-15T10:26:11+08:00"
+  },
+  {
+    "title": "零时差丨让东京审判走出“遗忘黑洞”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696616.shtml",
+    "date": "2026-09-15",
+    "published_time": "10:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "2010年，法国学者艾蒂安·若代尔出版著作《东京审判：被忘却的纽伦堡》，将东京审判称为20世纪历史的“黑洞”，追问这场与纽伦堡审判一道开创国际战争罪司法实践先例的重大审判，为何长期淡出欧洲公众视野。15年后，同题材纪录片《东京审判：被忘却的纽伦堡审判》登陆法国电视二台。该片由塞德里克·孔东执导，法国历史学者让—伊夫·勒纳乌尔任编剧，再现东京审判的历史进程，呈现司法正义、战后国际秩序与政治角力的复杂关系。",
+    "published_dt_iso": "2026-09-15T10:22:25+08:00"
+  },
+  {
+    "title": "日本冲绳新任知事支持美军基地搬迁 地区军事风险加剧",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696611.shtml",
+    "date": "2026-09-15",
+    "published_time": "10:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "13日，在冲绳县知事选举中，受日本自民党支持的古谢玄太确定当选。古谢玄太支持将位于冲绳县普天间的美军基地从宜野湾市区搬迁至名护市边野古地区，并主张加强与日本中央政府的协调合作。",
+    "published_dt_iso": "2026-09-15T10:18:54+08:00"
+  },
+  {
+    "title": "低保户女孩赴香港追星 全家低保该被取消吗？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696754.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "近日，一名低保户家庭女孩赴香港追星，触发低保对象动态监测预警，引发公众对低保政策边界的讨论。与此同时，关于“低保户家中能不能装空调”的问题也冲上热搜，有网友认为，既然有钱买空调，就不应该再享受低保。",
+    "published_dt_iso": "2026-09-15T14:48:47+08:00"
+  },
+  {
+    "title": "超强厄尔尼诺来袭，建筑如何降温？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696751.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中国新闻周刊记者：杨智杰",
+    "published_dt_iso": "2026-09-15T14:38:41+08:00"
+  },
+  {
+    "title": "8月访港旅客初步统计达546万人次",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696749.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "香港旅游发展局15日公布，今年8月访港旅客初步统计数据达546万人次，同比增长6%，创2019年以来单月新高。",
+    "published_dt_iso": "2026-09-15T14:30:30+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）红军标语映初心 畲乡文旅焕新颜",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696741.shtml",
+    "date": "2026-09-15",
+    "published_time": "14:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网福建永安9月15日电 (雷朝良)初秋时节，福建省永安市青水畲族乡沧海畲族村内，澄江溪蜿蜒穿村而过，白墙灰瓦、吊脚飞檐的古朴民居错落于绿水青山之间。这座畲族人口占90%以上的传统村落，既承载着浓厚的客家文化底蕴，也留存着一段厚重的红色记忆。",
+    "published_dt_iso": "2026-09-15T14:17:18+08:00"
+  },
+  {
+    "title": "买的“八角”数出13个角，一查竟有毒！特别提醒",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696731.shtml",
+    "date": "2026-09-15",
+    "published_time": "13:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "近日，浙江临城的黄女士在家中炖红烧牛肉时放了“八角”，两个小孩好奇问，“为什么叫八角？”孩子一数，锅里的香料竟有13个角。家中智能音箱提示：10个角以上的多是有毒莽草。",
+    "published_dt_iso": "2026-09-15T13:58:14+08:00"
+  },
+  {
+    "title": "四川宝兴：一村民偶遇野生大熊猫 今年已是第4次",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696720.shtml",
+    "date": "2026-09-15",
+    "published_time": "13:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网雅安9月15日电 近日，四川省雅安市宝兴县硗碛藏族乡嘎日村村民杨富亮，在上山看牛途中再次偶遇一只野生大熊猫，这已是他今年第4次偶遇野生大熊猫了。",
+    "published_dt_iso": "2026-09-15T13:57:50+08:00"
+  },
+  {
+    "title": "化石破碎线索稀缺 揭秘科研人员如何复原消失的奥氏马",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696672.shtml",
+    "date": "2026-09-15",
+    "published_time": "11:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网长春9月15日电 (记者 郭佳)近日，吉林大学生物考古实验室联合美国进化科技有限责任公司(Evolutio LLC)，全球首次完成灭绝古马奥氏马的完整形态复原。",
+    "published_dt_iso": "2026-09-15T11:33:47+08:00"
+  },
+  {
+    "title": "从亏本养殖到年入百万 看戈壁牧民夫妇如何凭一杯驼奶逆袭致富",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10696671.shtml",
+    "date": "2026-09-15",
+    "published_time": "11:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网阿拉善9月15日电 题：从亏本养殖到年入百万 看戈壁牧民夫妇如何凭一杯驼奶逆袭致富",
+    "published_dt_iso": "2026-09-15T11:33:13+08:00"
+  },
+  {
+    "title": "星宇股份解约风波：107名应届生“告洋状”揭示中国劳工维权现状",
+    "link": "https://www.bbc.com/zhongwen/articles/c4gkqekn7q7o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "08:17",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "9月9日，就近期在中国引起轰动的“星宇股份解约107位应届生”事件，上交所向星宇股份下发监管工作函，港交所延缓其上市审核，此前，公司董事长周晓萍已公开道歉。",
+    "published_dt_iso": "2026-09-15T08:17:18+08:00"
+  },
+  {
+    "title": "Anthropic联合创办人吁强制设置AI“紧急关机”机制",
+    "link": "https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "11:34",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国总统特朗普驳斥放慢人工智能发展速度的呼吁，并表示有关人工智能“接管世界”的说法是“一场骗局（HOAX）”。",
+    "published_dt_iso": "2026-09-15T11:34:19+08:00"
+  },
+  {
+    "title": "美国取消燃煤和燃气发电厂排放限制",
+    "link": "https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "10:37",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国国家环境保护局（EPA）表示，此举将为国家节省数十亿美元，并降低能源价格。",
+    "published_dt_iso": "2026-09-15T10:37:42+08:00"
+  },
+  {
+    "title": "喜马拉雅山冰川融化加速，印度经济面临什么风险？",
+    "link": "https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "08:17",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "最新研究警告，喜马拉雅山冰川正在加速融化，威胁印度的水资源、经济及社区。",
+    "published_dt_iso": "2026-09-15T08:17:23+08:00"
+  },
+  {
+    "title": "AI巨头前雇员：同业“真诚恐惧”人类遭灭绝，西方必须与中国协调",
+    "link": "https://www.bbc.com/zhongwen/articles/c0qxpyw20q7o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-13",
+    "published_time": "20:25",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "雅各布·考克森（Jacob Coxon）向BBC表示，如果不遏制人工智能的发展速度，人工智能有很大机会导致人类灭绝。",
+    "published_dt_iso": "2026-09-13T20:25:11+08:00"
+  },
+  {
+    "title": "最高法院阻止特朗普政府筛选邮件的计划",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html",
+    "date": "2026-09-15",
+    "published_time": "12:25",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普政府曾要求法官允许一项新的邮政服务计划在中期选举前几周对选票进行筛选。",
+    "published_dt_iso": "2026-09-15T12:25:21+08:00"
+  },
+  {
+    "title": "尽管最高法院败诉，特朗普仍在继续努力维护对选举的控制权",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html",
+    "date": "2026-09-15",
+    "published_time": "09:16",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统发起了广泛的政府努力，以更多地控制国营选举，并对结果产生怀疑。",
+    "published_dt_iso": "2026-09-15T09:16:43+08:00"
+  },
+  {
+    "title": "英伟达的Jensen Huang接到特朗普的舞台电话，特朗普驳回了人工智能安全问题",
+    "link": "https://www.nytimes.com/2026/09/14/technology/trump-ai-safety-jensen-huang.html",
+    "date": "2026-09-15",
+    "published_time": "06:29",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普打电话给英伟达(Nvidia)首席执行官黄延森(Jensen Huang) ，当时黄在洛杉矶的舞台上批评了放慢和监管人工智能的呼吁。",
+    "published_dt_iso": "2026-09-15T06:29:25+08:00"
+  },
+  {
+    "title": "随着人工智能的恐惧加剧，专家建议关注负责人",
+    "link": "https://www.nytimes.com/2026/09/14/us/ai-fears-human-role.html",
+    "date": "2026-09-15",
+    "published_time": "05:53",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Warnings from industry leaders about doomsday scenarios ignore the power that people have to control how artificial intelligence is used, policy experts say. They are urging lawmakers to act now.",
+    "published_dt_iso": "2026-09-15T05:53:49+08:00"
+  },
+  {
+    "title": "Russian Businessman With Putin Ties Paid for Donald Trump Jr.’s Wedding Party",
+    "link": "https://www.nytimes.com/2026/09/14/us/politics/donald-trump-jr-wedding-russian-businessman.html",
+    "date": "2026-09-15",
+    "published_time": "04:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The payments, totaling hundreds of thousands of dollars, represented an extraordinary flouting of ethical norms for an American president’s family member.",
+    "published_dt_iso": "2026-09-15T04:31:38+08:00"
+  },
+  {
+    "title": "Architects of Japan’s Easy-Money Policies Are Changing Their Minds",
+    "link": "https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html",
+    "date": "2026-09-15",
+    "published_time": "12:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.",
+    "published_dt_iso": "2026-09-15T12:00:07+08:00"
   }
 ]

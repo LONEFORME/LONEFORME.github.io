@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,885.33</span>
-      <span class="ticker-change down">▼ -0.07%</span>
+      <span class="ticker-price ticker-down">3,863.92</span>
+      <span class="ticker-change down">▼ -0.55%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,384.57</span>
-      <span class="ticker-change down">▼ -0.64%</span>
+      <span class="ticker-price ticker-down">13,293.58</span>
+      <span class="ticker-change down">▼ -0.68%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,285.58</span>
-      <span class="ticker-change down">▼ -1.10%</span>
+      <span class="ticker-price ticker-down">3,252.26</span>
+      <span class="ticker-change down">▼ -1.01%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,528.27</span>
-      <span class="ticker-change down">▼ -1.62%</span>
+      <span class="ticker-price ticker-up">1,552.24</span>
+      <span class="ticker-change up">▲ +1.57%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,317.94</span>
-      <span class="ticker-change down">▼ -0.06%</span>
+      <span class="ticker-price ticker-down">4,299.25</span>
+      <span class="ticker-change down">▼ -0.43%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,269.02</span>
+      <span class="ticker-price ticker-down">29,127.16</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7088</span>
+      <span class="ticker-price ticker-up">6.7133</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,310.04 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -38.31 (-0.88%)</span>
+      <span class="ticker-price ticker-down">$4,292.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -5.83 (-0.14%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥931.58 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -1.42 (-0.15%)</span>
+      <span class="ticker-price ticker-down">¥928.13 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -4.87 (-0.52%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+19.3 亿</span>
+      <span class="sector-flow-badge">+53.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+43.1 亿</span>
+      <span class="sector-flow-badge">+15.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+41.1 亿</span>
+      <span class="sector-flow-badge">+44.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+52.6 亿</span>
+      <span class="sector-flow-badge">+21.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/002/539.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，企查查显示，拼多多关联公司上海寻梦信息技术有限公司因发布虚假广告，于 9 月 3 日被长宁区市场监督管理局罚款 54 万元。处罚公告显示，经核查，当事人作为广告发布者，在拼多多平台广告位上发布了虚假广告。当事人行为涉嫌违反《中华人民共和国广告法》第二十八条的规定。经批准，长宁区市场监督管理局于 2026 年 4 月 4 日对当事人立案调查。经查，当事人于拼多多平台广告位上对外发布涉案违法广告共计 190 条。IT之家查询公开资料获悉，上海寻梦信息技术有限公司成立于 2014 年 1 月，法定代表人为赵佳臻，注册资本 1,000 万人民币，经营范围包括货物进出口、技术进出口、食品经营等，由杭州埃米网络科技有限公司全资持股。" data-title="拼多多因虚假广告被罚 54 万元" data-date="09-15 14:06" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-15 14:06</span>
+          <span class="news-item-title">拼多多因虚假广告被罚 54 万元</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening." data-title="Architects of Japan’s Easy-Money Policies Are Changing Their Minds" data-date="09-15 12:00" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-15 12:00</span>
+          <span class="news-item-title">Architects of Japan’s Easy-Money Policies Are Changing Their Minds</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国国家环境保护局（EPA）表示，此举将为国家节省数十亿美元，并降低能源价格。" data-title="美国取消燃煤和燃气发电厂排放限制" data-date="09-15 10:37" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-15 10:37</span>
+          <span class="news-item-title">美国取消燃煤和燃气发电厂排放限制</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="最新研究警告，喜马拉雅山冰川正在加速融化，威胁印度的水资源、经济及社区。" data-title="喜马拉雅山冰川融化加速，印度经济面临什么风险？" data-date="09-15 08:17" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-15 08:17</span>
+          <span class="news-item-title">喜马拉雅山冰川融化加速，印度经济面临什么风险？</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/994892/nintendo-customer-appreciation-tariff-refund-deal-sale" target="_blank" rel="noopener" data-cat="caijing" data-summary="正如承诺的那样，任天堂已经在亚马逊、百思买和沃尔玛以及自己的数字店面上标记了各种Switch游戏和配件。由于从美国政府收到了与关税相关的退款，其“客户感激”促销活动正在进行，并于太平洋时间9月26日晚上8:59结束。任天堂游戏[…]" data-title="任天堂“客户赞赏”促销的最佳优惠" data-date="09-15 03:30" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-15 03:30</span>
+          <span class="news-item-title">任天堂“客户赞赏”促销的最佳优惠</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/14/business/bond-market-scott-bessent.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="财政部长敢于打赌“彭博终端兄弟” ，他们做到了。" data-title="债券市场通过发放更高的借贷成本来斥责Bessent" data-date="09-15 00:49" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -293,4 +323,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-15 02:07（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-15 14:51（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
