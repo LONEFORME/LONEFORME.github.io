@@ -1658,5 +1658,605 @@
     "feed_name": "纽约时报",
     "summary": "As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.",
     "published_dt_iso": "2026-09-15T12:00:07+08:00"
+  },
+  {
+    "title": "Salesforce和Nvidia的新推理模型是人工智能实验室应该害怕的一切",
+    "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+    "date": "2026-09-15",
+    "published_time": "20:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Salesforce Koa基于Nvidia的开放式Nemotron模型构建，经过培训，可执行销售、营销和客户支持任务。",
+    "published_dt_iso": "2026-09-15T20:00:00+08:00"
+  },
+  {
+    "title": "据报道， ChatGPT成绩单由人类阅读以改善响应，包括那些具有个人信息的成绩单— “礼来项目”已经看到OpenAI雇佣了数百名承包商来手动审查日志",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-transcripts-are-reportedly-read-by-humans-to-improve-responses-including-those-with-personal-information-project-lilly-has-seen-openai-hire-hundreds-of-contractors-to-manually-review-logs",
+    "date": "2026-09-15",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "404媒体报道称， OpenAI已聘请数百名承包商手动评估ChatGPT回复。",
+    "published_dt_iso": "2026-09-15T19:30:00+08:00"
+  },
+  {
+    "title": "微软推出Windows 11最新补丁的紧急更新—最近的更新导致AMD显卡崩溃、资源管理器挂断以及第三方集成中断",
+    "link": "https://www.tomshardware.com/software/windows/windows-september-2026-update-brings-many-long-requested-features-but-also-surfaces-fresh-bugs-windows-11-update-causes-crashes-on-amd-graphics-explorer-hang-ups-and-broken-third-party-integrations",
+    "date": "2026-09-15",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Windows 2026年9月更新带来了许多长期请求的功能，但也出现了新的错误—新代码导致AMD、HP和联想系统崩溃，并出现音频、资源管理器和远程桌面问题",
+    "published_dt_iso": "2026-09-15T19:00:00+08:00"
+  },
+  {
+    "title": "Minecraft Legacy在C + +中为PS2和Wii端口重写—代码经过调整，即使在PS2微薄的32MB RAM上也能正常工作",
+    "link": "https://www.tomshardware.com/video-games/retro-gaming/minecraft-legacy-gets-re-written-in-c-for-ps2-and-wii-ports-code-is-tuned-so-it-works-well-even-on-the-ps2s-meager-32mb-of-ram",
+    "date": "2026-09-15",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "游戏优化专家OptiProjects （又名OptiJeugos ）发布了针对索尼PlayStation 2和任天堂Wii游戏机的新版Minecraft Legacy。",
+    "published_dt_iso": "2026-09-15T18:30:00+08:00"
+  },
+  {
+    "title": "开发人员构建病毒式3D源代码可视化工具，占用21GB的RAM —以每秒超过120帧的速度飞行约250万行代码",
+    "link": "https://www.tomshardware.com/tech-industry/developer-builds-viral-3d-source-code-visualizer-that-consumes-21gb-of-ram-flies-around-2-5-million-lines-of-code-at-over-120-frames-per-second",
+    "date": "2026-09-15",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "开发人员已构建3D代码可视化工具。",
+    "published_dt_iso": "2026-09-15T18:00:00+08:00"
+  },
+  {
+    "title": "AMD的Radeon RX 9070 GRE显卡恢复到有史以来的最低价格$ 499 —罕见的交易使这款当前一代12GB显卡低于其MSRP发布价格",
+    "link": "https://www.tomshardware.com/pc-components/gpus/amds-radeon-rx-9070-gre-graphics-card-returns-to-its-lowest-ever-price-of-usd499-rare-deal-places-this-current-generation-12gb-gpu-below-its-msrp-launch-price",
+    "date": "2026-09-15",
+    "published_time": "17:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "以低于MSRP发布价格的价格获得新的12GB显卡。",
+    "published_dt_iso": "2026-09-15T17:50:21+08:00"
+  },
+  {
+    "title": "Perplexity的本地AI代理适用于Windows ，但仅适用于具有至少24GB VRAM的RTX GPU —便携式计算机将AI用于兼容PC的多步任务",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/perplexitys-local-ai-agent-comes-to-windows-but-only-for-rtx-gpus-with-at-least-24gb-of-vram-portable-computer-brings-ai-for-multistep-tasks-to-compatible-pcs",
+    "date": "2026-09-15",
+    "published_time": "17:24",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Perplexity和英伟达于9月14日发布了适用于Windows的便携式计算机，将本地首款AI代理引入具有24GB或更多VRAM的GeForce RTX和RTX PRO GPU。",
+    "published_dt_iso": "2026-09-15T17:24:32+08:00"
+  },
+  {
+    "title": "通用汽车更新其卡车的原生软件，与CarPlay共存",
+    "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+    "date": "2026-09-15",
+    "published_time": "19:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "通用汽车正在改进其畅销卡车的软件体验，以减少访问最常用控件所需的危险敲击和滑动量。它还为Apple CarPlay和Android Auto提供了全新的画中画显示器--鉴于通用汽车此前对手机镜像的敌意，这一点值得注意[…]",
+    "published_dt_iso": "2026-09-15T19:00:00+08:00"
+  },
+  {
+    "title": "微软发布紧急Windows 11更新以修复其记录",
+    "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+    "date": "2026-09-15",
+    "published_time": "16:54",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "微软已开始推出紧急带外更新，以解决其破纪录的9月补丁周二更新的问题。这家软件巨头在本月有史以来最大的更新中修补了近1000个漏洞，但也引入了一些影响企业、开发商和游戏玩家的漏洞。9月份的补丁星期二影响了基于Hyper-V的文件夹共享[…]",
+    "published_dt_iso": "2026-09-15T16:54:48+08:00"
+  },
+  {
+    "title": "沃尔沃的插电式混合动力XC60和XC90真的可以走得很远",
+    "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+    "date": "2026-09-15",
+    "published_time": "15:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "如今，大多数插电式混合动力电动汽车（ PHEV ）的平均续航里程约为30-50英里：体面，但不令人兴奋。随着混合动力汽车在当今市场占据主导地位，沃尔沃正在证明其PHEV可以突破极限。今天，这家瑞典汽车制造商透露了其受欢迎的[…]的更新版PHEV",
+    "published_dt_iso": "2026-09-15T15:00:00+08:00"
+  },
+  {
+    "title": "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
+    "link": "https://www.qbitai.com/2026/09/489460.html",
+    "date": "2026-09-15",
+    "published_time": "18:43",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "卡位具身智能规模化落地“最后一公里”！",
+    "published_dt_iso": "2026-09-15T18:43:28+08:00"
+  },
+  {
+    "title": "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
+    "link": "https://www.qbitai.com/2026/09/489389.html",
+    "date": "2026-09-15",
+    "published_time": "18:41",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "智象未来（HiDream.ai）正式发布首个原生全模态视频生成模型 HiDream-O1-Video-1.0",
+    "published_dt_iso": "2026-09-15T18:41:06+08:00"
+  },
+  {
+    "title": "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影",
+    "link": "https://www.qbitai.com/2026/09/489381.html",
+    "date": "2026-09-15",
+    "published_time": "17:58",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "打破分子模拟“不可能三角”",
+    "published_dt_iso": "2026-09-15T17:58:00+08:00"
+  },
+  {
+    "title": "Meta新研究：字节模型蒸馏后，天花板破了",
+    "link": "https://www.qbitai.com/2026/09/489337.html",
+    "date": "2026-09-15",
+    "published_time": "14:37",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-15T14:37:16+08:00"
+  },
+  {
+    "title": "前OpenAI后训练VP回应陶哲轩：说AI毁了数学，可能还是太小瞧AI了",
+    "link": "https://www.qbitai.com/2026/09/489288.html",
+    "date": "2026-09-15",
+    "published_time": "13:39",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "未来的AI不仅能解决问题，还能提出有价值的洞见、建立新的概念框架，让数学家在此基础上继续探索。",
+    "published_dt_iso": "2026-09-15T13:39:10+08:00"
+  },
+  {
+    "title": "上市权益价 10.36 万元起，2027 款埃安 i60 上市",
+    "link": "https://www.ithome.com/1/002/769.htm",
+    "date": "2026-09-15",
+    "published_time": "20:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，广汽埃安旗下 2027 款埃安 i60 已上市，新车共推出 7 款车型，上市权益价 10.36 万元起。作为年度改款车型，新车在智能化配置与实用功能方面进行多项升级，并全系标配广汽自研非晶合金电驱，提供纯电与增程两种动力形式。IT之家注意到，2027 款埃安 i60 整体造型与在售车型基本保持一致。前脸采用新能源车型常见的封闭式设计，搭配贯穿式灯带；侧面为悬浮车顶造型，配备半隐藏式门把手；尾部则走简约化路线，双横条贯通式尾灯中央镶嵌埃安发光 Logo，夜间辨识度较高。内饰延续简约化设计风格，中控屏由现款车型的 14.6 英寸升级为 15.6 英寸 2.5K 屏，显示效果进一步提升。相比老款，新车针对用户日常使用习惯做了不少细节优化：充电口位置后移，取电更加顺手",
+    "published_dt_iso": "2026-09-15T20:48:52+08:00"
+  },
+  {
+    "title": "启境汽车回应 GX7 是否会推纯电版：请留意官方信息，敬请期待",
+    "link": "https://www.ithome.com/1/002/768.htm",
+    "date": "2026-09-15",
+    "published_time": "20:46",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，启境汽车今天（15 日）晚间发布第 12 期答网友问，回应“启境 GX7 是否会推出纯电版”称，启境 GX7 目前推出增程动力版本，后续如有产品新动态，将通过启境汽车官方渠道第一时间发布，请留意官方信息，敬请期待。产品规划上，新车预计 2026 年 9 月底正式上市，届时将同步开启交付。终身质保权益方面，启境 GX7 的整车和核心零部件终身质保权益，除雨刮片、轮胎、空调滤芯、制动片等易损耗零部件外，三电系统（IT之家注：动力电池总成、驱动电机总成、电机控制器总成）、增程器、空气悬架、智慧投影大灯、减振器等高价值部件均在终身质保范围内。此外，启境 GX7 的整车和核心零部件终身质保权益不对车辆的里程进行限制。除了不限制行驶里程外，对维修次数、维修金额、保障时长也",
+    "published_dt_iso": "2026-09-15T20:46:02+08:00"
+  },
+  {
+    "title": "博通 CEO 陈福阳回应 AI 放缓担忧：算力需求仍强劲，长期收入目标不变",
+    "link": "https://www.ithome.com/1/002/767.htm",
+    "date": "2026-09-15",
+    "published_time": "20:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，博通（Broadcom）首席执行官陈福阳（Hock Tan）于当地时间周一回应了市场担忧。针对前沿 AI 模型开发节奏有可能放缓会对这家芯片厂商业务造成冲击的疑问，他在接受 CNBC 采访时表态，公司仍维持长期收入目标不变。就在此前的周末，Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amodei）发表了一篇文章，主张适度放缓大模型的研发速度，这件事令投资者人心惶惶。阿莫代伊的观点得到了 OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）以及埃隆 · 马斯克的认同。受此影响，周一交易日当中，AI 基础设施板块的投资者开始重新评估算力需求前景。Anthropic 本就是博通定制芯片业务最重要的客户之一，博通股价因此下跌 4.8%",
+    "published_dt_iso": "2026-09-15T20:43:20+08:00"
+  },
+  {
+    "title": "因 iOS 18 导致部分 iPhone 15 屏幕绿线，苹果遭印度消费者保护机构调查",
+    "link": "https://www.ithome.com/1/002/765.htm",
+    "date": "2026-09-15",
+    "published_time": "20:41",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，据外媒 Appleinsider 今天报道，印度中央消费者保护局（CCPA）已对苹果公司发起调查，重点审查其软件保修政策，并指控苹果对消费者收取过高维修费用。据报道，本次调查起因源自 2024 年的 iOS 18 系统。当时部分 iPhone 15 用户升级系统后，屏幕出现绿色 / 粉色或白色线条。这些消费者找到苹果售后时，却被要求支付 27,900 卢比（IT之家注：现汇率约合 1,959 元人民币）维修显示屏。印度消费者保护机构已告知苹果，称正在详细调查此次事件。苹果对此回应称，公司不提供软件保修符合全球标准，且 iOS 18 不存在系统性问题。该公司还认为，印度消费者保护机构的主张仅基于 75 起投诉发起，并不能代表广大消费者。此外苹果表示，用户使用 i",
+    "published_dt_iso": "2026-09-15T20:41:14+08:00"
+  },
+  {
+    "title": "因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元",
+    "link": "https://www.ithome.com/1/002/764.htm",
+    "date": "2026-09-15",
+    "published_time": "20:37",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，《The Information》今天（15 日）援引三名了解财务数据的人士消息称，受 AI 投入增加影响，字节跳动今年上半年净利润下降至 200 亿美元（IT之家注：现汇率约合 1,345.04 亿元人民币），降幅为“个位数百分比”。同期内，字节跳动营收为 1,200 亿美元（现汇率约合 8,070.24 亿元人民币），同比增长约 30%。其中，TikTok 国际广告和电商收入强劲增长起到了一定推动作用。这一表现意味着，字节跳动的增长速度较过去两年略有加快。去年，字节跳动营收增长 29% 至约 2,000 亿美元（现汇率约合 1.35 万亿元人民币），2024 年的增速也大致相当；去年净利润则增长 27% 至 420 亿美元（现汇率约合 2,824.58 亿",
+    "published_dt_iso": "2026-09-15T20:37:28+08:00"
+  },
+  {
+    "title": "国补到手价 5099.15 元起，小米电视 S Pro RGB",
+    "link": "https://www.ithome.com/1/002/763.htm",
+    "date": "2026-09-15",
+    "published_time": "20:34",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，小米电视官方今日宣布，小米电视 S Pro RGB-Mini LED 2027 开售，国补到手价 5099.15 元起。65 英寸（2160 控色分区）首销价 5999 元，国补到手价 5099.15 元起75 英寸（2880 控色分区）首销价 6999 元，国补到手价 5949.15 元起85 英寸（3744 控色分区）首销价 8799 元，国补到手价 7479.15 元起98 英寸（4860 控色分区）首销价 12999 元，国补到手价 11499 元起作为小米首款 RGB-Mini LED 电视，小米电视 S Pro RGB-Mini LED 2027 支持 RGB 三色背光、配合大师画质引擎 3.0 双重控色。以 65 英寸版本为例，该产品提供 216",
+    "published_dt_iso": "2026-09-15T20:34:45+08:00"
+  },
+  {
+    "title": "华为发布全球首个 3D 数据中心",
+    "link": "https://www.ithome.com/1/002/762.htm",
+    "date": "2026-09-15",
+    "published_time": "20:30",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，据华为计算官方公众号消息，今日，2026 AIDC 产业发展大会暨 3D 数据中心现场会在安徽芜湖举行。现场华为正式发布全球首个 3D 数据中心，发行《3D 数据中心》专著书籍，并开放了《3D 数据中心概要设计图库》。▲ 华为副董事长、轮值董事长汪涛据介绍，为解决大型 AI 算力中心的安全性和跨不同代际 AI 芯片的兼容性，华为通过系统架构创新，打造新一代 3D 数据中心。3D 数据中心借鉴芯片工厂“动力层”与“生产层”严格分离的理念，将传统数据中心水平部署的各个功能空间垂直叠加，形成从下往上的供冷层、IT 设备层、供电层、备电层的四层架构。华为高级副总裁、常务监事任树录指出，AI 时代高密算力让传统数据中心在空间、供电、散热等方面面临严峻挑战，机柜功率已从风",
+    "published_dt_iso": "2026-09-15T20:30:22+08:00"
+  },
+  {
+    "title": "树莓派 Raspberry Pi OS 更新：新增程序坞、启动台",
+    "link": "https://www.ithome.com/1/002/761.htm",
+    "date": "2026-09-15",
+    "published_time": "20:28",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 15 日消息，据科技媒体 neowin 今天报道，树莓派 Raspberry Pi OS 操作系统近日迎来一系列可选更新，加入许多现代化功能，如程序坞、增强截图对话框等。IT之家从原报道获悉，本次更新可通过运行 sudo apt update 和 sudo apt full-upgrade 命令获取。完成升级后，传统桌面布局仍然会作为默认布局保留，用户需前往控制中心启用可选功能。本次更新最重要的变化是加入图标程序坞，可用于替代任务栏。同时系统还新增了图形化启动台、任务列表等。点击程序坞的树莓图标后，就会看到全新的启动台。据悉，该启动台会显示所有应用图标，默认以首字母顺序排列，用户可通过拖放形式重新调整顺序。左键点击图标即可打开应用，右键可打开上下文彩蛋。此外，该启动台还提供",
+    "published_dt_iso": "2026-09-15T20:28:44+08:00"
+  },
+  {
+    "title": "前托特纳姆中场比苏马将加入阿贾克斯",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "20:16",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "前托特纳姆热刺中场球员Yves Bissouma即将加入阿贾克斯，最初的交易将持续到赛季结束。",
+    "published_dt_iso": "2026-09-15T20:16:29+08:00"
+  },
+  {
+    "title": "大卫·斯奎尔斯（ David Squires ）在……一个重要的周末，在英超联赛中进行有争",
+    "link": "https://www.theguardian.com/football/picture/2026/sep/15/david-squires-on-a-big-weekend-for-controversial-calls-in-the-premier-league",
+    "date": "2026-09-15",
+    "published_time": "18:31",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "我们的漫画家在英国顶级航班上引领了有争议的决定和表演悲伤购买卡通|大卫最喜欢的一些作品以及他的最新著作《盒子里的混乱：现在就得到它》继续阅读...",
+    "published_dt_iso": "2026-09-15T18:31:47+08:00"
+  },
+  {
+    "title": "Promise David如何从马耳他的阴影中脱颖而出，进入英超联赛",
+    "link": "https://www.theguardian.com/football/2026/sep/15/promise-david-brighton-have-albion-canada-world-cup",
+    "date": "2026-09-15",
+    "published_time": "17:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "前队友和教练对布莱顿的夏季签约赞不绝口，他在世界杯上给加拿大留下了深刻的印象。承诺大卫有一个五年计划。他将打进一大堆进球，转会到欧洲顶级联赛，并在2026年世界杯上为加拿大队效力。只有一个问题：除了他的父母、队友和教练之外，足球界似乎没有人知道他的名字。那是2023年，这位前锋在爱沙尼亚的梅斯特里报废了几分钟",
+    "published_dt_iso": "2026-09-15T17:00:31+08:00"
+  },
+  {
+    "title": "曼联是否像早期的英超联赛表所暗示的那样贫穷？",
+    "link": "https://www.theguardian.com/football/2026/sep/15/manchester-united-premier-league-analysis",
+    "date": "2026-09-15",
+    "published_time": "15:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "迈克尔·卡里克（ Michael Carrick ）的球队在四场比赛后排名第13位，但除了城市缓解之外，曼联在英超联赛中排名第13位，在前四场比赛中获得了4分： 2-0击败赫尔， 5-2战胜伊普斯维奇， 2-2战平埃弗顿，周日1-0击败曼城。关于城市倒退的缓解可以在冠军联赛获胜后三天的德比中找到",
+    "published_dt_iso": "2026-09-15T15:00:28+08:00"
+  },
+  {
+    "title": "习言道 | 习近平提笔写下“人民的保护神”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697078.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月15日电 题：习近平提笔写下“人民的保护神”",
+    "published_dt_iso": "2026-09-15T20:45:02+08:00"
+  },
+  {
+    "title": "四川蜀道城乡投资集团有限责任公司副总经理蒲邦彦主动投案 接受纪律审查和监察调查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697036.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网成都9月15日电 (记者 张浪)四川省纪委监委“廉洁四川”15日消息：四川蜀道城乡投资集团有限责任公司副总经理蒲邦彦涉嫌严重违纪违法，主动投案，目前正接受四川省纪委监委驻蜀道集团纪检监察组纪律审查，经四川省监委指定甘孜州监委管辖，甘孜州监委正对其进行监察调查。",
+    "published_dt_iso": "2026-09-15T20:24:11+08:00"
+  },
+  {
+    "title": "海南举办国际友城与全球自贸港伙伴交流座谈会",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697016.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网海口9月15日电(记者 符宇群)海南国际友城与全球自贸港伙伴交流座谈会15日在海口举行。来自柬埔寨、爱尔兰、越南、哈萨克斯坦、阿联酋等5个国家的代表齐聚一堂，围绕“友城＋自贸区(港)合作”主题，共叙友谊、共商合作、共谋发展。",
+    "published_dt_iso": "2026-09-15T20:12:02+08:00"
+  },
+  {
+    "title": "三部门联合发文：优化自然资源配置，推动旅游业规范有序发展",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697004.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月15日电 (陶思阅)自然资源部、文化和旅游部、国家林业和草原局近日联合印发《关于优化自然资源配置推动旅游业规范有序发展的指导意见》(下称《意见》)，从优化空间布局、完善用途管制、创新供地模式等方面出台增量政策，护航旅游业规范化品质化高质量发展，释放内需市场新潜力。",
+    "published_dt_iso": "2026-09-15T20:10:24+08:00"
+  },
+  {
+    "title": "博鳌亚洲论坛亚太区域合作圆桌会在海口举办",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697003.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网海口9月15日电 (记者 王子谦)博鳌亚洲论坛亚太区域合作圆桌会15日在海口举办，来自中国、泰国、马来西亚等国家以及中国香港等地区的约300名代表与会。",
+    "published_dt_iso": "2026-09-15T20:07:08+08:00"
+  },
+  {
+    "title": "中国自主研发MCV数值模式：1小时内完成全球5公里10天天气预报",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697052.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社郑州9月15日电 (张楠)中国自主研发的MCV数值模式(原创高精度可扩展多矩大气模式)15日在河南郑州发布，其依托中国首个全国产十万卡AI超集群“曙光8000”，实现1小时内完成全球5公里分辨率、未来10天的天气预报计算。",
+    "published_dt_iso": "2026-09-15T20:01:55+08:00"
+  },
+  {
+    "title": "刘彬会见日中友好议员联盟青年议员代表团 外交部介绍情况",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10697053.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月15日电 (记者 曾玥)中国外交部部长助理刘彬14日会见来华访问的日中友好议员联盟青年议员代表团。中国外交部发言人郭嘉昆15日在例行记者会上应询介绍此次会见的具体内容及意义。",
+    "published_dt_iso": "2026-09-15T20:00:49+08:00"
+  },
+  {
+    "title": "十四届全国政协原常委、经济委员会原副主任毕井泉一审获刑14年",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-15/10696988.shtml",
+    "date": "2026-09-15",
+    "published_time": "19:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月15日电 (记者 张素)记者从中国最高人民法院获悉，9月15日，山东省济南市中级人民法院一审公开宣判十四届全国政协原常委、经济委员会原副主任毕井泉受贿案。",
+    "published_dt_iso": "2026-09-15T19:49:20+08:00"
+  },
+  {
+    "title": "韩国总统李在明将召开记者会 韩媒：或与支持率下滑有关",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10697077.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月15日电 据韩联社等韩媒报道，韩国总统李在明将于当地时间18日上午10时在总统府青瓦台迎宾馆举行记者会，就各种热点问题阐明立场。",
+    "published_dt_iso": "2026-09-15T20:26:29+08:00"
+  },
+  {
+    "title": "日本自卫队推定：大型无人侦察机“全球鹰”已坠毁",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10697054.shtml",
+    "date": "2026-09-15",
+    "published_time": "19:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月15日电 据日本广播协会(NHK)报道，当地时间15日，日本航空自卫队方面推定，当天失联的“全球鹰”无人侦察机已坠毁。",
+    "published_dt_iso": "2026-09-15T19:58:27+08:00"
+  },
+  {
+    "title": "俄外长：俄罗斯希望结束俄乌冲突",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10697038.shtml",
+    "date": "2026-09-15",
+    "published_time": "19:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月15日电 据俄罗斯卫星通讯社报道，当地时间15日，俄罗斯外长拉夫罗夫表示，俄罗斯希望结束俄乌冲突，俄方始终愿意就乌克兰问题进行谈判。",
+    "published_dt_iso": "2026-09-15T19:23:25+08:00"
+  },
+  {
+    "title": "约旦前首相拉扎兹：中约能源合作潜力巨大",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696921.shtml",
+    "date": "2026-09-15",
+    "published_time": "17:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "日前，约旦前首相奥马尔·拉扎兹接受了总台《高端访谈》栏目专访，在谈及中约两国间合作时，他表示，中国在电池、电动汽车及相关技术领域均处于全球前沿水平，中约两国能源合作潜力巨大。",
+    "published_dt_iso": "2026-09-15T17:01:20+08:00"
+  },
+  {
+    "title": "日媒：冲绳县知事选举暴露“日本本土对冲绳战后最严重歧视”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696911.shtml",
+    "date": "2026-09-15",
+    "published_time": "16:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "【环球网报道】据日本广播协会报道，受日本自民党等政党支持的古谢玄太13日击败寻求连任的玉城丹尼，当选冲绳县知事。日本《周刊文春》网络版15日援引《琉球新报》早些时候报道称，本次冲绳县知事选举期间，很多冲绳县外的声音对反对军事基地和寻求自治的冲绳县民众发起猛烈抨击，这暴露出“日本本土对冲绳战后最严重的歧视”。",
+    "published_dt_iso": "2026-09-15T16:58:37+08:00"
+  },
+  {
+    "title": "用AI技术洗白侵略罪行，日本的危险尝试必须警惕",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696909.shtml",
+    "date": "2026-09-15",
+    "published_time": "16:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "日本政府斥资44亿日元打造、拟向约18万名中央政府职员开放、接入美国闭源大模型的政务生成式AI系统“源内”，正日益暴露其历史叙事的政治底色。这套政务AI系统，也是日本右翼势力将错误历史观注入公共权力体系、以“数字军国主义”争夺历史叙事权的危险尝试。其对客观历史的歪曲，对全球AI数据生态的污染，正在引发国际社会高度警惕。",
+    "published_dt_iso": "2026-09-15T16:56:07+08:00"
+  },
+  {
+    "title": "为什么拉美需要研究学习中国？秘鲁前总理给出一个答案",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696903.shtml",
+    "date": "2026-09-15",
+    "published_time": "16:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "“我这样说，并不是因为我个人对中国抱有某种特殊好感”，当地时间9月14日，秘鲁前总理、前国会主席哈维尔·贝拉斯克斯·克斯肯在首都利马接受《环球时报》记者专访。他表示，中国过去40年使8亿人摆脱贫困，“成就令人惊叹，也是我们应当认真分析和研究的经验”。",
+    "published_dt_iso": "2026-09-15T16:52:11+08:00"
+  },
+  {
+    "title": "最新消息：日本海保飞机发现疑似失联侦察机残骸",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-15/10696892.shtml",
+    "date": "2026-09-15",
+    "published_time": "16:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月15日电 据日本共同社报道，当地时间15日，日本海上保安厅称，在鸟取县附近海域，海保飞机发现了疑似失联侦察机机体一部分的残骸。",
+    "published_dt_iso": "2026-09-15T16:49:05+08:00"
+  },
+  {
+    "title": "偷完就跑还报警 男子“贼喊捉贼”被行拘",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697064.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网西安9月15日电 (记者 阿琳娜)记者15日从西安铁路公安局获悉，西铁警方近日在西安东站快速处置一起闹剧，一名男子因拒付出租车车费报警，不料民警现场核查识破其盗窃他人财物的违法事实，该男子最终被依法行政拘留。",
+    "published_dt_iso": "2026-09-15T20:38:31+08:00"
+  },
+  {
+    "title": "数字模型开路、无人船探底 平陆运河航道建设交出智能建造答卷",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697072.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广西钦州9月15日电 (陈铭智 吴俊)在软硬岩交互、溶洞密布的喀斯特地貌中，中国建设者用BIM(建筑信息模型)、无人船和自研模块化炸礁船，为新中国成立以来首条国家层面统筹建设的通江达海运河——平陆运河的航道建设，注入科技力量，在崇山峻岭与江河湖海之间，以实干破解工程难题，以匠心锻造工程精品。",
+    "published_dt_iso": "2026-09-15T20:38:23+08:00"
+  },
+  {
+    "title": "暴雨袭粤 广东全省最大降雨量逾百毫米",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697056.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月15日电 (记者 王坚)14日白天到15日早晨，暴雨袭扰广东多地，全省最大降雨量达119.5毫米。",
+    "published_dt_iso": "2026-09-15T20:35:47+08:00"
+  },
+  {
+    "title": "黑龙江产业工人代表媒体见面会举行 “大国工匠”谈“匠心”传承",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697046.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网哈尔滨9月15日电(记者 王妮娜)15日，黑龙江省“匠心筑梦技能报国”产业工人代表媒体见面会在哈尔滨举行。全国劳模、大国工匠年度人物刘丽、董礼涛，全国劳模贾春成，全国五一劳动奖章获得者韩锡堂等5位产业工人代表与媒体交流，分享各自在产业一线的从业故事。",
+    "published_dt_iso": "2026-09-15T20:32:17+08:00"
+  },
+  {
+    "title": "2026年中国经济社会论坛杭州举行 中外嘉宾呼吁加强多边协同",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697042.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社杭州9月15日电 (郭其钰)2026年中国经济社会论坛9月15日在浙江杭州举行，中外嘉宾以“完善全球治理体系，迈向人类命运共同体”为主题深入交流，旨在推动国际秩序和全球治理体系朝着更加公正合理的方向发展。",
+    "published_dt_iso": "2026-09-15T20:32:11+08:00"
+  },
+  {
+    "title": "第十二届亚洲教育装备博览会在杭州开幕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697030.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社杭州9月15日电 (曹丹)第十二届亚洲教育装备博览会15日在浙江杭州开幕，来自35个国家和地区的300余家海内外企业参展。展会覆盖学前教育、基础教育、职业教育、特殊教育、高等教育全领域，集中展示海内外教育装备前沿成果与一体化解决方案。",
+    "published_dt_iso": "2026-09-15T20:26:39+08:00"
+  },
+  {
+    "title": "HYROX选手失禁夺冠：精英运动不能只顾“精英”罔顾公共权益",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697074.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "HYROX选手失禁夺冠之后发文“赢了就是赢了”，主办方回应引争议，精英运动不能只顾“精英”罔顾公共权益",
+    "published_dt_iso": "2026-09-15T20:20:28+08:00"
+  },
+  {
+    "title": "黑龙江深化产业工人队伍建设改革 技能人才276.4万人",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-15/10697014.shtml",
+    "date": "2026-09-15",
+    "published_time": "20:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网哈尔滨9月15日电 (记者 王妮娜)记者从15日在哈尔滨举行的黑龙江省深化产业工人队伍建设改革进展情况新闻发布会上获悉，五年来，该省产改工作连续三年获得全国考核优秀等次，技能人才总量达276.4万人，其中高技能人才87.6万人，一支知识型、技能型、创新型产业工人大军正加速成形。",
+    "published_dt_iso": "2026-09-15T20:13:48+08:00"
+  },
+  {
+    "title": "美国首认部署太空武器 中国警告勿搞军事竞赛",
+    "link": "https://www.bbc.com/zhongwen/articles/c6n9wzxjy92lo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "20:18",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国空军部长称，部署太空武器对保护美国免受敌方威胁有其必要性。",
+    "published_dt_iso": "2026-09-15T20:18:38+08:00"
+  },
+  {
+    "title": "威尔士、苏格兰和北爱尔兰一起要“公投权”英国是否面临分裂？",
+    "link": "https://www.bbc.com/zhongwen/articles/c85yd2dnw25vo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "15:37",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "威尔士党、苏格兰民族党和新芬党的领导人表示，英国政府应该为宪政改革做好准备。",
+    "published_dt_iso": "2026-09-15T15:37:34+08:00"
+  },
+  {
+    "title": "随着特朗普的计划被阻止，各州努力恢复对邮件投票的信任",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/mail-ballots-trump-supreme-court-trust.html",
+    "date": "2026-09-15",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统在中期选举前限制邮件投票的努力遭到了最高法院的阻挠，但这些努力在一些选民中造成了混乱和怀疑。",
+    "published_dt_iso": "2026-09-15T17:04:26+08:00"
+  },
+  {
+    "title": "新的民意调查显示民主党人有中期势头，特朗普称A.I.担心“骗局”",
+    "link": "https://www.nytimes.com/2026/09/15/podcasts/the-headlines/new-poll-democrats-midterms-momentum-trump-ai-fears-hoax.html",
+    "date": "2026-09-15",
+    "published_time": "18:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此外，还有电视上最重要的夜晚。",
+    "published_dt_iso": "2026-09-15T18:40:54+08:00"
+  },
+  {
+    "title": "美国主要借款利率接近20年高位，因油价波动",
+    "link": "https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html",
+    "date": "2026-09-15",
+    "published_time": "19:56",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "10年期美国国债收益率突破了2007年的水平，对能源驱动的通胀的担忧加剧，导致债券投资者的焦虑。",
+    "published_dt_iso": "2026-09-15T19:56:22+08:00"
+  },
+  {
+    "title": "随着美联储面临加息压力， Warsh将与特朗普摊牌",
+    "link": "https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html",
+    "date": "2026-09-15",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "预计美联储将于周三加息，这将使美联储主席凯文•沃什(Kevin M. Warsh)在中期选举之前与政府产生分歧。",
+    "published_dt_iso": "2026-09-15T17:04:03+08:00"
+  },
+  {
+    "title": "卡尼将加拿大视为混乱世界中投资稳定的避风港",
+    "link": "https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html",
+    "date": "2026-09-15",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "总理在多伦多召集了大约100名基金经理，以促进加拿大成为他们投资的理想场所。",
+    "published_dt_iso": "2026-09-15T17:04:04+08:00"
+  },
+  {
+    "title": "日本宽松货币政策的设计师正在改变主意",
+    "link": "https://www.nytimes.com/2026/09/15/business/japan-economy-rates-abenomics.html",
+    "date": "2026-09-15",
+    "published_time": "12:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "As the Bank of Japan weighs another rate increase on Friday, a divide over how Japan should confront inflation is widening.",
+    "published_dt_iso": "2026-09-15T12:00:08+08:00"
+  },
+  {
+    "title": "Gulf Arabs Seek Options After U.S. Bases Did Not Deter Iran",
+    "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gulf-us-iran-uae-bahrain-saudi-arabia.html",
+    "date": "2026-09-15",
+    "published_time": "20:27",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The American presence in these countries has not shielded them from retaliation during the Iran war. Now they are hoping direct talks with Iran could help.",
+    "published_dt_iso": "2026-09-15T20:27:29+08:00"
   }
 ]
