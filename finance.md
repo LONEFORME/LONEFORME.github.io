@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,127.16</span>
+      <span class="ticker-price ticker-down">28,959.09</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7104</span>
+      <span class="ticker-price ticker-up">6.7119</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,290.74 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -7.89 (-0.18%)</span>
+      <span class="ticker-price ticker-down">$4,294.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -4.37 (-0.10%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥927.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.20 (-0.02%)</span>
+      <span class="ticker-price ticker-up">¥928.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +0.56 (+0.06%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,73 +230,49 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/002/769.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，广汽埃安旗下 2027 款埃安 i60 已上市，新车共推出 7 款车型，上市权益价 10.36 万元起。作为年度改款车型，新车在智能化配置与实用功能方面进行多项升级，并全系标配广汽自研非晶合金电驱，提供纯电与增程两种动力形式。IT之家注意到，2027 款埃安 i60 整体造型与在售车型基本保持一致。前脸采用新能源车型常见的封闭式设计，搭配贯穿式灯带；侧面为悬浮车顶造型，配备半隐藏式门把手；尾部则走简约化路线，双横条贯通式尾灯中央镶嵌埃安发光 Logo，夜间辨识度较高。内饰延续简约化设计风格，中控屏由现款车型的 14.6 英寸升级为 15.6 英寸 2.5K 屏，显示效果进一步提升。相比老款，新车针对用户日常使用习惯做了不少细节优化：充电口位置后移，取电更加顺手" data-title="上市权益价 10.36 万元起，2027 款埃安 i60 上市" data-date="09-15 20:48" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-15 20:48</span>
-          <span class="news-item-title">上市权益价 10.36 万元起，2027 款埃安 i60 上市</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/002/765.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，据外媒 Appleinsider 今天报道，印度中央消费者保护局（CCPA）已对苹果公司发起调查，重点审查其软件保修政策，并指控苹果对消费者收取过高维修费用。据报道，本次调查起因源自 2024 年的 iOS 18 系统。当时部分 iPhone 15 用户升级系统后，屏幕出现绿色 / 粉色或白色线条。这些消费者找到苹果售后时，却被要求支付 27,900 卢比（IT之家注：现汇率约合 1,959 元人民币）维修显示屏。印度消费者保护机构已告知苹果，称正在详细调查此次事件。苹果对此回应称，公司不提供软件保修符合全球标准，且 iOS 18 不存在系统性问题。该公司还认为，印度消费者保护机构的主张仅基于 75 起投诉发起，并不能代表广大消费者。此外苹果表示，用户使用 i" data-title="因 iOS 18 导致部分 iPhone 15 屏幕绿线，苹果遭印度消费者保护机构调查" data-date="09-15 20:41" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-15 20:41</span>
-          <span class="news-item-title">因 iOS 18 导致部分 iPhone 15 屏幕绿线，苹果遭印度消费者保护机构调查</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/002/764.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，《The Information》今天（15 日）援引三名了解财务数据的人士消息称，受 AI 投入增加影响，字节跳动今年上半年净利润下降至 200 亿美元（IT之家注：现汇率约合 1,345.04 亿元人民币），降幅为“个位数百分比”。同期内，字节跳动营收为 1,200 亿美元（现汇率约合 8,070.24 亿元人民币），同比增长约 30%。其中，TikTok 国际广告和电商收入强劲增长起到了一定推动作用。这一表现意味着，字节跳动的增长速度较过去两年略有加快。去年，字节跳动营收增长 29% 至约 2,000 亿美元（现汇率约合 1.35 万亿元人民币），2024 年的增速也大致相当；去年净利润则增长 27% 至 420 亿美元（现汇率约合 2,824.58 亿" data-title="因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元" data-date="09-15 20:37" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-15 20:37</span>
-          <span class="news-item-title">因 AI 投入加大，消息称字节跳动今年上半年利润降至 200 亿美元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-15/10697046.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨9月15日电(记者 王妮娜)15日，黑龙江省“匠心筑梦技能报国”产业工人代表媒体见面会在哈尔滨举行。全国劳模、大国工匠年度人物刘丽、董礼涛，全国劳模贾春成，全国五一劳动奖章获得者韩锡堂等5位产业工人代表与媒体交流，分享各自在产业一线的从业故事。" data-title="黑龙江产业工人代表媒体见面会举行 “大国工匠”谈“匠心”传承" data-date="09-15 20:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 20:32</span>
-          <span class="news-item-title">黑龙江产业工人代表媒体见面会举行 “大国工匠”谈“匠心”传承</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-15/10697042.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社杭州9月15日电 (郭其钰)2026年中国经济社会论坛9月15日在浙江杭州举行，中外嘉宾以“完善全球治理体系，迈向人类命运共同体”为主题深入交流，旨在推动国际秩序和全球治理体系朝着更加公正合理的方向发展。" data-title="2026年中国经济社会论坛杭州举行 中外嘉宾呼吁加强多边协同" data-date="09-15 20:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 20:32</span>
-          <span class="news-item-title">2026年中国经济社会论坛杭州举行 中外嘉宾呼吁加强多边协同</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-15/10697030.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社杭州9月15日电 (曹丹)第十二届亚洲教育装备博览会15日在浙江杭州开幕，来自35个国家和地区的300余家海内外企业参展。展会覆盖学前教育、基础教育、职业教育、特殊教育、高等教育全领域，集中展示海内外教育装备前沿成果与一体化解决方案。" data-title="第十二届亚洲教育装备博览会在杭州开幕" data-date="09-15 20:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 20:26</span>
-          <span class="news-item-title">第十二届亚洲教育装备博览会在杭州开幕</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-15/10697036.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都9月15日电 (记者 张浪)四川省纪委监委“廉洁四川”15日消息：四川蜀道城乡投资集团有限责任公司副总经理蒲邦彦涉嫌严重违纪违法，主动投案，目前正接受四川省纪委监委驻蜀道集团纪检监察组纪律审查，经四川省监委指定甘孜州监委管辖，甘孜州监委正对其进行监察调查。" data-title="四川蜀道城乡投资集团有限责任公司副总经理蒲邦彦主动投案 接受纪律审查和监察调查" data-date="09-15 20:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 20:24</span>
-          <span class="news-item-title">四川蜀道城乡投资集团有限责任公司副总经理蒲邦彦主动投案 接受纪律审查和监察调查</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-15/10697014.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨9月15日电 (记者 王妮娜)记者从15日在哈尔滨举行的黑龙江省深化产业工人队伍建设改革进展情况新闻发布会上获悉，五年来，该省产改工作连续三年获得全国考核优秀等次，技能人才总量达276.4万人，其中高技能人才87.6万人，一支知识型、技能型、创新型产业工人大军正加速成形。" data-title="黑龙江深化产业工人队伍建设改革 技能人才276.4万人" data-date="09-15 20:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 20:13</span>
-          <span class="news-item-title">黑龙江深化产业工人队伍建设改革 技能人才276.4万人</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/15/business/bond-yields-oil-price-iran.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="10年期美国国债收益率突破了2007年的水平，对能源驱动的通胀的担忧加剧，导致债券投资者的焦虑。" data-title="美国主要借款利率接近20年高位，因油价波动" data-date="09-15 19:56" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/15/us/politics/supreme-court-trump-mail-ballots.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="法官们花时间选择自己的位置，但他们拒绝了总统关于关税、公民身份、国民警卫队以及即将举行的选举的倡议。" data-title="最高法院在邮件投票和几个关键问题上支持特朗普" data-date="09-16 01:04" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-15 19:56</span>
-          <span class="news-item-title">美国主要借款利率接近20年高位，因油价波动</span>
+          <span class="news-item-date">09-16 01:04</span>
+          <span class="news-item-title">最高法院在邮件投票和几个关键问题上支持特朗普</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-15/10696988.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月15日电 (记者 张素)记者从中国最高人民法院获悉，9月15日，山东省济南市中级人民法院一审公开宣判十四届全国政协原常委、经济委员会原副主任毕井泉受贿案。" data-title="十四届全国政协原常委、经济委员会原副主任毕井泉一审获刑14年" data-date="09-15 19:49" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/002/818.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，Meta 今天（15 日）晚间宣布上线的 Meta One 套餐，把 Facebook、Instagram 和 WhatsApp 等独立订阅与更高的 AI 使用额度打包销售，面向“AI 重度用户”及创作者、商业用户。Meta 强调，旗下应用和 Meta AI 的基础核心功能仍可免费使用，Facebook、Instagram 和 WhatsApp 订阅也不会强制与 Meta One 捆绑购买。未来，Edits、AI 眼镜等产品也会陆续加入套餐。个人用户可以选择 Core 和 Premium 两档，月费分别为 7.99 美元（IT之家注：现汇率约合 53.7 元人民币）和 19.99 美元（现汇率约合 134.4 元人民币）。两者都包含 Instagram Plu" data-title="Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元" data-date="09-15 23:57" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-15 23:57</span>
+          <span class="news-item-title">Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/002/814.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，MagicOS AI OS 产品总监王倩宣布，荣耀与引望达成了深度合作，将支持手机应用一碰上车。官方介绍页面显示，该功能将由启境 GX7 车型首发，其他车型后续上线。引望全称为“引望智能技术有限公司”，正式成立于 2024 年 1 月 16 日，最初由华为 100% 持股，是华为旗下致力于智能汽车产业发展，提供汽车智能系统及部件解决方案的子公司。据IT之家今日早些时候报道，博主 @旺仔百事通 今日曝光了双框架鸿蒙车机将支持荣耀手机的 Demo 演示。画面显示，双框架华为鸿蒙车机的新版“超级桌面”功能支持连接荣耀手机和华为手机。Demo 演示中的设备已连接荣耀 Magic8 Pro，支持手机应用流转至车机使用。" data-title="荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发" data-date="09-15 23:35" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-15 23:35</span>
+          <span class="news-item-title">荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-15/10697128.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月15日电 9月15日，2026年国家网络安全宣传周个人信息保护论坛在山东济南举办。本次论坛以“守护个人信息安全，构建个人信息保护长效机制”为主题，着力构建政府监管、企业履责、行业自律、公众监督的个人信息保护综合治理格局，不断提升广大人民群众在网络空间的获得感、幸福感、安全感。" data-title="2026年国家网络安全宣传周个人信息保护论坛在济南举办" data-date="09-15 22:41" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 19:49</span>
-          <span class="news-item-title">十四届全国政协原常委、经济委员会原副主任毕井泉一审获刑14年</span>
+          <span class="news-item-date">09-15 22:41</span>
+          <span class="news-item-title">2026年国家网络安全宣传周个人信息保护论坛在济南举办</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/15/world/canada/carney-pitches-canada-as-a-stable-investment-in-a-chaotic-world.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总理在多伦多召集了大约100名基金经理，以促进加拿大成为他们投资的理想场所。" data-title="卡尼将加拿大视为混乱世界中投资稳定的避风港" data-date="09-15 17:04" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-15/10697119.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月15日电 (吕妍)作为2026年国家网络安全宣传周重要专题活动，数智济南·网络安全融合发展赋能城市高质量发展大会9月15日在山东济南举行。大会汇聚政产学研用多方力量，推动数字产业资源互通联动，为数智济南建设和强省会高质量发展注入强劲动力。" data-title="数智济南·网络安全融合发展赋能城市高质量发展大会举行" data-date="09-15 22:19" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-15 17:04</span>
-          <span class="news-item-title">卡尼将加拿大视为混乱世界中投资稳定的避风港</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-15 22:19</span>
+          <span class="news-item-title">数智济南·网络安全融合发展赋能城市高质量发展大会举行</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Disrupt展览的最后一天是9月18日。还剩4天。10月13日至15日，让您的创业公司与1万多名创始人、投资者、运营商和技术领导者见面。" data-title="距离2026年TechCrunch Disrupt展会还有4天时间" data-date="09-15 22:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-15 22:00</span>
+          <span class="news-item-title">距离2026年TechCrunch Disrupt展会还有4天时间</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-15/10697088.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡9月15日电 (记者 刘育英)马来西亚统计局15日发布的2025年旅游业相关报告显示，2025年马来西亚旅游业增加值达3230亿林吉特(约合5305亿元人民币)，同比增长8.6%，占国内生产总值(GDP)比重达到15.9%，旅游业持续成为马来西亚经济的支柱产业。" data-title="马来西亚2025年旅游业增加值占GDP15.9%" data-date="09-15 21:19" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-15 21:19</span>
+          <span class="news-item-title">马来西亚2025年旅游业增加值占GDP15.9%</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="预计美联储将于周三加息，这将使美联储主席凯文•沃什(Kevin M. Warsh)在中期选举之前与政府产生分歧。" data-title="随着美联储面临加息压力， Warsh将与特朗普摊牌" data-date="09-15 17:04" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -310,17 +286,17 @@ title: 股票财经
           <span class="news-item-date">09-15 17:01</span>
           <span class="news-item-title">约旦前首相拉扎兹：中约能源合作潜力巨大</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues" target="_blank" rel="noopener" data-cat="caijing" data-summary="微软已开始推出紧急带外更新，以解决其破纪录的9月补丁周二更新的问题。这家软件巨头在本月有史以来最大的更新中修补了近1000个漏洞，但也引入了一些影响企业、开发商和游戏玩家的漏洞。9月份的补丁星期二影响了基于Hyper-V的文件夹共享[…]" data-title="微软发布紧急Windows 11更新以修复其记录" data-date="09-15 16:54" data-source="The Verge">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国国家环境保护局（EPA）表示，此举将为国家节省数十亿美元，并降低能源价格。" data-title="美国取消燃煤和燃气发电厂排放限制" data-date="09-15 10:37" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-15 16:54</span>
-          <span class="news-item-title">微软发布紧急Windows 11更新以修复其记录</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-15 10:37</span>
+          <span class="news-item-title">美国取消燃煤和燃气发电厂排放限制</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/002/539.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，企查查显示，拼多多关联公司上海寻梦信息技术有限公司因发布虚假广告，于 9 月 3 日被长宁区市场监督管理局罚款 54 万元。处罚公告显示，经核查，当事人作为广告发布者，在拼多多平台广告位上发布了虚假广告。当事人行为涉嫌违反《中华人民共和国广告法》第二十八条的规定。经批准，长宁区市场监督管理局于 2026 年 4 月 4 日对当事人立案调查。经查，当事人于拼多多平台广告位上对外发布涉案违法广告共计 190 条。IT之家查询公开资料获悉，上海寻梦信息技术有限公司成立于 2014 年 1 月，法定代表人为赵佳臻，注册资本 1,000 万人民币，经营范围包括货物进出口、技术进出口、食品经营等，由杭州埃米网络科技有限公司全资持股。" data-title="拼多多因虚假广告被罚 54 万元" data-date="09-15 14:06" data-source="IT之家">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="最新研究警告，喜马拉雅山冰川正在加速融化，威胁印度的水资源、经济及社区。" data-title="喜马拉雅山冰川融化加速，印度经济面临什么风险？" data-date="09-15 08:17" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-15 14:06</span>
-          <span class="news-item-title">拼多多因虚假广告被罚 54 万元</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-15 08:17</span>
+          <span class="news-item-title">喜马拉雅山冰川融化加速，印度经济面临什么风险？</span>
         </a>
   </div>
 </div>
@@ -335,4 +311,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-15 20:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-16 01:09（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
