@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,893.52</span>
-      <span class="ticker-change up">▲ +0.76%</span>
+      <span class="ticker-price ticker-up">3,891.60</span>
+      <span class="ticker-change up">▲ +0.71%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">13,456.92</span>
-      <span class="ticker-change up">▲ +1.27%</span>
+      <span class="ticker-price ticker-up">13,454.74</span>
+      <span class="ticker-change up">▲ +1.26%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,312.69</span>
-      <span class="ticker-change up">▲ +1.99%</span>
+      <span class="ticker-price ticker-up">3,311.47</span>
+      <span class="ticker-change up">▲ +1.96%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,617.06</span>
-      <span class="ticker-change up">▲ +4.19%</span>
+      <span class="ticker-price ticker-up">1,616.19</span>
+      <span class="ticker-change up">▲ +4.14%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,326.82</span>
-      <span class="ticker-change up">▲ +0.83%</span>
+      <span class="ticker-price ticker-up">4,325.45</span>
+      <span class="ticker-change up">▲ +0.80%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7081</span>
+      <span class="ticker-price ticker-down">6.7071</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,330.51 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +36.58 (+0.85%)</span>
+      <span class="ticker-price ticker-up">$4,343.44 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +49.51 (+1.15%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥935.53 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +7.83 (+0.84%)</span>
+      <span class="ticker-price ticker-up">¥937.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +1.03 (+0.11%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -232,6 +232,54 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-16/10697781.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网永州9月16日电(唐梦)今年以来，湖南永州市冷水滩区通过开展“企业服务年”行动，由人社部门下沉一线推送惠企政策，持续培育乡村车间。通过政策精准滴灌、服务提质增效，当地不断拓宽农村劳动力就近就业渠道，实现群众就业顾家两不误，夯实乡村振兴民生根基。" data-title="政策精准赋能 湖南冷水滩乡村车间稳就业促增收" data-date="09-16 20:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 20:43</span>
+          <span class="news-item-title">政策精准赋能 湖南冷水滩乡村车间稳就业促增收</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/16/business/fed-inflation-stocks-bonds.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="如果美联储在周三选择不加息，投资者可能会提高对通胀的预测，给政府债券市场注入新的动荡。" data-title="美联储会议是债券市场的重要时刻" data-date="09-16 20:37" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-16 20:37</span>
+          <span class="news-item-title">美联储会议是债券市场的重要时刻</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-16/10697789.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社香港9月16日电 《香港特别行政区经济和社会发展第一个五年规划(2026—2030年)》(简称“香港第一个五年规划”)16日公布。中央人民政府驻香港特别行政区联络办公室(简称“中央政府驻港联络办”)发言人同日发表谈话表示，相信香港特区政府和社会各界一定能够齐心协力，把规划“愿景图”转化为发展“实景图”，奋力书写香港由治及兴新篇章，在强国建设、民族复兴进程中发挥更大作用、实现更好发展。" data-title="中央政府驻港联络办发言人：聚力把香港第一个五年规划“愿景图”转化为发展“实景图”" data-date="09-16 20:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 20:35</span>
+          <span class="news-item-title">中央政府驻港联络办发言人：聚力把香港第一个五年规划“愿景图”转化为发展“实景图”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-16/10697799.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月16日电 国务院港澳事务办公室发言人16日发表谈话表示，香港特区经济和社会发展第一个五年规划(2026-2030)今天发布，这是香港特区首次对经济和社会发展进行整体性的顶层设计，对深入推进“一国两制”实践具有里程碑意义，必将引领香港加快由治及兴，在更好融入和服务国家发展中实现高质量发展。" data-title="国务院港澳办发言人：香港特区发布首个五年规划具里程碑意义" data-date="09-16 20:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 20:21</span>
+          <span class="news-item-title">国务院港澳办发言人：香港特区发布首个五年规划具里程碑意义</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/003/277.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 16 日消息，国家电网公司今天（16 日）发布打造现代化用电营商环境赋能经济社会高质量发展若干举措。其中提出，全力护航人民群众绿色出行。推动新建居民小区固定车位 100% 配建私人充电设施或预留安装条件，推广存量居民小区“一小区一证明”，方便客户申请安装私人充电桩。开辟“绿色通道”，支持社区公共充电设施“统建统服”，满足人民群众绿色出行需要。IT之家获悉，其中提出，为新能源、新型储能、源网荷储等新主体新业态提供公平高效的并网服务。规范公开配电网可开放容量信息，保障“十五五”时期年均新增 6000 万千瓦以上分布式电源及时并网。做好电能计量、电费结算服务，积极服务新型主体参与电力市场。其中提出，“十五五”时期完成县域电网联系薄弱区域主干网架升级改造，2030 年全年农网户均停" data-title="国家电网：推动新建居民小区固定车位 100% 配建私人充电设施，或预留安装条件" data-date="09-16 19:54" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-16 19:54</span>
+          <span class="news-item-title">国家电网：推动新建居民小区固定车位 100% 配建私人充电设施，或预留安装条件</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="人们普遍预计央行将在周三加息，距离中期选举不到两个月。" data-title="美联储为动能利率决策做好准备" data-date="09-16 17:04" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-16 17:04</span>
+          <span class="news-item-title">美联储为动能利率决策做好准备</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/16/business/trump-debt-sanctions-global-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着特朗普政府增加债务，加大制裁力度，美国对全球经济稳定的立场开始显得更加动摇。" data-title="世界经济对美国越来越谨慎" data-date="09-16 17:02" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-16 17:02</span>
+          <span class="news-item-title">世界经济对美国越来越谨慎</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="有评论形容，香港制订五年规划是“范式转移”，意味着“从西方式资本主义市场经济，改为接上中国特色社会主义市场经济。”。" data-title="香港施政报告与“一五”同步公布 聚焦北部都会区、国安与鼓励生育" data-date="09-16 15:36" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-16 15:36</span>
+          <span class="news-item-title">香港施政报告与“一五”同步公布 聚焦北部都会区、国安与鼓励生育</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-16/10697468.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社香港9月16日电(黄茜恬)香港特区行政长官李家超16日在特区立法会公布香港第一个五年规划。他表示，将坚持统筹发展和安全，推动城市安全治理向事前防御转型，增强经济和城市韧性。以改革思维引领各项工作，强化风险预警、跨部门协作，厘清分工责任，破除不合理限制与繁琐流程，释放发展活力。" data-title="李家超：坚持统筹发展和安全 着力提高特区治理效能" data-date="09-16 14:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -274,54 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-16 01:04</span>
           <span class="news-item-title">最高法院在邮件投票和几个关键问题上支持特朗普</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/002/818.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，Meta 今天（15 日）晚间宣布上线的 Meta One 套餐，把 Facebook、Instagram 和 WhatsApp 等独立订阅与更高的 AI 使用额度打包销售，面向“AI 重度用户”及创作者、商业用户。Meta 强调，旗下应用和 Meta AI 的基础核心功能仍可免费使用，Facebook、Instagram 和 WhatsApp 订阅也不会强制与 Meta One 捆绑购买。未来，Edits、AI 眼镜等产品也会陆续加入套餐。个人用户可以选择 Core 和 Premium 两档，月费分别为 7.99 美元（IT之家注：现汇率约合 53.7 元人民币）和 19.99 美元（现汇率约合 134.4 元人民币）。两者都包含 Instagram Plu" data-title="Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元" data-date="09-15 23:57" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-15 23:57</span>
-          <span class="news-item-title">Meta One 订阅服务上线：专为“AI 重度用户”、创作者、商业用户准备，最高档每月 499 美元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/002/814.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 15 日消息，在今晚的荣耀 HGDC 2026 荣耀开发者大会上，MagicOS AI OS 产品总监王倩宣布，荣耀与引望达成了深度合作，将支持手机应用一碰上车。官方介绍页面显示，该功能将由启境 GX7 车型首发，其他车型后续上线。引望全称为“引望智能技术有限公司”，正式成立于 2024 年 1 月 16 日，最初由华为 100% 持股，是华为旗下致力于智能汽车产业发展，提供汽车智能系统及部件解决方案的子公司。据IT之家今日早些时候报道，博主 @旺仔百事通 今日曝光了双框架鸿蒙车机将支持荣耀手机的 Demo 演示。画面显示，双框架华为鸿蒙车机的新版“超级桌面”功能支持连接荣耀手机和华为手机。Demo 演示中的设备已连接荣耀 Magic8 Pro，支持手机应用流转至车机使用。" data-title="荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发" data-date="09-15 23:35" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-15 23:35</span>
-          <span class="news-item-title">荣耀与引望达成深度合作：支持手机应用一碰上车，启境 GX7 车型首发</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-15/10697128.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月15日电 9月15日，2026年国家网络安全宣传周个人信息保护论坛在山东济南举办。本次论坛以“守护个人信息安全，构建个人信息保护长效机制”为主题，着力构建政府监管、企业履责、行业自律、公众监督的个人信息保护综合治理格局，不断提升广大人民群众在网络空间的获得感、幸福感、安全感。" data-title="2026年国家网络安全宣传周个人信息保护论坛在济南举办" data-date="09-15 22:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 22:41</span>
-          <span class="news-item-title">2026年国家网络安全宣传周个人信息保护论坛在济南举办</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-15/10697119.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月15日电 (吕妍)作为2026年国家网络安全宣传周重要专题活动，数智济南·网络安全融合发展赋能城市高质量发展大会9月15日在山东济南举行。大会汇聚政产学研用多方力量，推动数字产业资源互通联动，为数智济南建设和强省会高质量发展注入强劲动力。" data-title="数智济南·网络安全融合发展赋能城市高质量发展大会举行" data-date="09-15 22:19" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 22:19</span>
-          <span class="news-item-title">数智济南·网络安全融合发展赋能城市高质量发展大会举行</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Disrupt展览的最后一天是9月18日。还剩4天。10月13日至15日，让您的创业公司与1万多名创始人、投资者、运营商和技术领导者见面。" data-title="距离2026年TechCrunch Disrupt展会还有4天时间" data-date="09-15 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-15 22:00</span>
-          <span class="news-item-title">距离2026年TechCrunch Disrupt展会还有4天时间</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-15/10697088.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡9月15日电 (记者 刘育英)马来西亚统计局15日发布的2025年旅游业相关报告显示，2025年马来西亚旅游业增加值达3230亿林吉特(约合5305亿元人民币)，同比增长8.6%，占国内生产总值(GDP)比重达到15.9%，旅游业持续成为马来西亚经济的支柱产业。" data-title="马来西亚2025年旅游业增加值占GDP15.9%" data-date="09-15 21:19" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 21:19</span>
-          <span class="news-item-title">马来西亚2025年旅游业增加值占GDP15.9%</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/15/business/fed-interest-rates-warsh.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="预计美联储将于周三加息，这将使美联储主席凯文•沃什(Kevin M. Warsh)在中期选举之前与政府产生分歧。" data-title="随着美联储面临加息压力， Warsh将与特朗普摊牌" data-date="09-15 17:04" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-15 17:04</span>
-          <span class="news-item-title">随着美联储面临加息压力， Warsh将与特朗普摊牌</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-15/10696921.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="日前，约旦前首相奥马尔·拉扎兹接受了总台《高端访谈》栏目专访，在谈及中约两国间合作时，他表示，中国在电池、电动汽车及相关技术领域均处于全球前沿水平，中约两国能源合作潜力巨大。" data-title="约旦前首相拉扎兹：中约能源合作潜力巨大" data-date="09-15 17:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-15 17:01</span>
-          <span class="news-item-title">约旦前首相拉扎兹：中约能源合作潜力巨大</span>
-        </a>
   </div>
 </div>
 
@@ -335,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-16 14:55（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-16 20:43（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
