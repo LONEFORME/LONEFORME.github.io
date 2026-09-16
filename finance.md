@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,864.28</span>
-      <span class="ticker-change down">▼ -0.54%</span>
+      <span class="ticker-price ticker-up">3,893.52</span>
+      <span class="ticker-change up">▲ +0.76%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,287.97</span>
-      <span class="ticker-change down">▼ -0.72%</span>
+      <span class="ticker-price ticker-up">13,456.92</span>
+      <span class="ticker-change up">▲ +1.27%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,247.92</span>
-      <span class="ticker-change down">▼ -1.15%</span>
+      <span class="ticker-price ticker-up">3,312.69</span>
+      <span class="ticker-change up">▲ +1.99%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,551.96</span>
-      <span class="ticker-change up">▲ +1.55%</span>
+      <span class="ticker-price ticker-up">1,617.06</span>
+      <span class="ticker-change up">▲ +4.19%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,291.34</span>
-      <span class="ticker-change down">▼ -0.62%</span>
+      <span class="ticker-price ticker-up">4,326.82</span>
+      <span class="ticker-change up">▲ +0.83%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">28,959.09</span>
+      <span class="ticker-price ticker-down">28,937.84</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7119</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.7081</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,294.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -4.37 (-0.10%)</span>
+      <span class="ticker-price ticker-up">$4,330.51 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +36.58 (+0.85%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥928.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +0.56 (+0.06%)</span>
+      <span class="ticker-price ticker-up">¥935.53 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +7.83 (+0.84%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+53.6 亿</span>
+      <span class="sector-flow-badge">+29.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+15.5 亿</span>
+      <span class="sector-flow-badge">+34.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+44.4 亿</span>
+      <span class="sector-flow-badge">+31.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+21.3 亿</span>
+      <span class="sector-flow-badge">+32.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-16/10697468.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社香港9月16日电(黄茜恬)香港特区行政长官李家超16日在特区立法会公布香港第一个五年规划。他表示，将坚持统筹发展和安全，推动城市安全治理向事前防御转型，增强经济和城市韧性。以改革思维引领各项工作，强化风险预警、跨部门协作，厘清分工责任，破除不合理限制与繁琐流程，释放发展活力。" data-title="李家超：坚持统筹发展和安全 着力提高特区治理效能" data-date="09-16 14:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 14:11</span>
+          <span class="news-item-title">李家超：坚持统筹发展和安全 着力提高特区治理效能</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-16/10697469.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="好评中国｜“老手艺”创出“新身价”，8万亿赛道正待起飞" data-title="“老手艺”创出“新身价”，8万亿赛道正待起飞" data-date="09-16 14:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 14:11</span>
+          <span class="news-item-title">“老手艺”创出“新身价”，8万亿赛道正待起飞</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-16/10697461.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社香港9月16日电(记者刘媛媛)香港特区行政长官李家超16日上午在特区立法会公布香港特区首个五年规划时表示，提升民生福祉是政府施政的最终目标，民生改善则带动社会需求，激发市场活力，促进经济发展。统筹推进制度完善和服务优化，不断增进市民的获得感、幸福感、安全感。" data-title="李家超：提升民生福祉 增进市民获得感、幸福感、安全感" data-date="09-16 14:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 14:02</span>
+          <span class="news-item-title">李家超：提升民生福祉 增进市民获得感、幸福感、安全感</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-16/10697403.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="走过20年发展历程，金砖合作机制已从主要新兴经济体之间的对话逐步发展成为推动南南合作和全球治理改革的重要平台。随着全球南方经济实力和国际影响力不断提升，发展中国家对扩大国际代表性、拓展多元合作伙伴关系的需求日益增强，金砖合作机制的重要性进一步凸显。" data-title="国际观察：“四个先锋”推动金砖合作不断取得务实成果" data-date="09-16 13:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 13:47</span>
+          <span class="news-item-title">国际观察：“四个先锋”推动金砖合作不断取得务实成果</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-16/10697353.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="先进制造业，现代化产业体系的骨干。" data-title="把现代化产业体系的“骨架”挺起来" data-date="09-16 13:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 13:47</span>
+          <span class="news-item-title">把现代化产业体系的“骨架”挺起来</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-16/10697443.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社香港9月16日电(黄茜恬)香港特区行政长官李家超16日在特区立法会公布香港特区第一个五年规划。他表示，“十五五”时期是香港主动适应时代潮流，巩固提升自身优势、培养发展新动能、实现经济社会高质量发展的战略机遇期，是香港抓住机遇，加快由治及兴，增进市民福祉，建设更加美好家园的关键五年，是香港在融入和服务国家发展大局中大有可为的五年，肩负着发展自身、贡献国家的双重使命。" data-title="李家超：“十五五”时期香港肩负发展自身、贡献国家双重使命" data-date="09-16 13:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-16 13:47</span>
+          <span class="news-item-title">李家超：“十五五”时期香港肩负发展自身、贡献国家双重使命</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/15/us/politics/supreme-court-trump-mail-ballots.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="法官们花时间选择自己的位置，但他们拒绝了总统关于关税、公民身份、国民警卫队以及即将举行的选举的倡议。" data-title="最高法院在邮件投票和几个关键问题上支持特朗普" data-date="09-16 01:04" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -286,18 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-15 17:01</span>
           <span class="news-item-title">约旦前首相拉扎兹：中约能源合作潜力巨大</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx4gq5qyrnjvo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国国家环境保护局（EPA）表示，此举将为国家节省数十亿美元，并降低能源价格。" data-title="美国取消燃煤和燃气发电厂排放限制" data-date="09-15 10:37" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-15 10:37</span>
-          <span class="news-item-title">美国取消燃煤和燃气发电厂排放限制</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="最新研究警告，喜马拉雅山冰川正在加速融化，威胁印度的水资源、经济及社区。" data-title="喜马拉雅山冰川融化加速，印度经济面临什么风险？" data-date="09-15 08:17" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-15 08:17</span>
-          <span class="news-item-title">喜马拉雅山冰川融化加速，印度经济面临什么风险？</span>
-        </a>
   </div>
 </div>
 
@@ -311,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-16 01:09（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-16 14:55（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

@@ -1018,5 +1018,615 @@
     "feed_name": "纽约时报",
     "summary": "这家科技巨头今年带回家的奖杯最多，打破了HBO和Netflix二十多年来对这些奖项的束缚。",
     "published_dt_iso": "2026-09-16T01:04:22+08:00"
+  },
+  {
+    "title": "Nvidia的Jensen Huang表示，我们不需要人工智能监管—将安全问题留给我们",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "date": "2026-09-16",
+    "published_time": "08:20",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "根据Jensen Huang的说法，人工智能并不是“外星人思维”的新形式。它只是硬件和软件，因此每个人工智能产品制造商都可以设计安全性。",
+    "published_dt_iso": "2026-09-16T08:20:39+08:00"
+  },
+  {
+    "title": "人工智能数据中心的繁荣正在与被大型产业蹂躏的城市相撞",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "date": "2026-09-16",
+    "published_time": "05:47",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "全国对数据中心建设的强烈抗议已经蔓延到费城，官员们建议在一个已经受到现已倒闭的炼油厂影响的社区进行建设。",
+    "published_dt_iso": "2026-09-16T05:47:38+08:00"
+  },
+  {
+    "title": "Meta现在允许人工智能代理处理WhatsApp Business设置的无聊部分",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "date": "2026-09-16",
+    "published_time": "04:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "新的WhatsApp Business MCP服务器允许开发人员使用Claude、Cursor、Codex和ChatGPT等AI编码代理来处理设置、消息传递模板、测试和故障排除。",
+    "published_dt_iso": "2026-09-16T04:12:53+08:00"
+  },
+  {
+    "title": "人工智能墓地：未成功完成的项目和初创公司的运行列表",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "date": "2026-09-16",
+    "published_time": "03:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。",
+    "published_dt_iso": "2026-09-16T03:00:00+08:00"
+  },
+  {
+    "title": "到2035年，美国数据中心的天然气消耗量可能超过德国和日本的总和",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "date": "2026-09-16",
+    "published_time": "02:29",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "人工智能的狂热可能会推动美国数据中心成为世界上最大的天然气消费国之一。",
+    "published_dt_iso": "2026-09-16T02:29:20+08:00"
+  },
+  {
+    "title": "人工智能代理现在有了告密的地方",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "date": "2026-09-16",
+    "published_time": "01:42",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "人工智能联系热线旨在成为一个隐蔽的地方，目睹不当行为的客服代表可以在这里向当局举报。",
+    "published_dt_iso": "2026-09-16T01:42:59+08:00"
+  },
+  {
+    "title": "Boox Palma 3获得了触控笔支持和时尚的重新设计",
+    "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+    "date": "2026-09-16",
+    "published_time": "10:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在Boox智能手机大小的黑白电子阅读器上次更新近两年后，该公司宣布推出Palma 3 ，它具有时尚的重新设计、新功能和一些其他小的更新，这些更新可能证明其显著的价格上涨是合理的，具体取决于您计划如何使用它。Palma 2于2024年推出，售价$ 279.99 ， […]",
+    "published_dt_iso": "2026-09-16T10:00:00+08:00"
+  },
+  {
+    "title": "EOS R8 Mark II是佳能最轻的带稳定功能的全画幅相机",
+    "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+    "date": "2026-09-16",
+    "published_time": "09:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "佳能宣布推出第二代EOS R8 ，采用全新的复古风格重新设计，并增加了车身稳定功能。该功能是2023年推出的原版R8中最值得注意的遗漏之一，它是佳能R6 Mark II的一个更小、更便宜、更易于使用的替代品，适合想要更大[…]的摄影师",
+    "published_dt_iso": "2026-09-16T09:00:00+08:00"
+  },
+  {
+    "title": "人工智能和数据中心在每次民意调查中都非常不受欢迎",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+    "date": "2026-09-16",
+    "published_time": "07:34",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "《纽约时报》和锡耶纳大学周二发布的民意调查数据证实了我们已经看到的情况，以及政客们的回应--人工智能和数据中心非常不受欢迎。当被问及他们是否支持或反对建设数据中心以推动人工智能技术时，在接受调查的1,503名可能的选民中，有61% […]",
+    "published_dt_iso": "2026-09-16T07:34:25+08:00"
+  },
+  {
+    "title": "微软宣布10月7日的Windows和Surface活动",
+    "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+    "date": "2026-09-16",
+    "published_time": "04:36",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "距离上一次Windows重大活动已经过去两年多了，因此微软将于下个月前往旧金山，概述Windows和Surface设备的未来。在10月7日的一次活动中，该公司表示将举办一次“关于本地人工智能将如何塑造[…]的下一章的对话”。",
+    "published_dt_iso": "2026-09-16T04:36:59+08:00"
+  },
+  {
+    "title": "如果社交媒体没有伤害孩子怎么办？",
+    "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+    "date": "2026-09-16",
+    "published_time": "04:13",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "两年前，社会心理学家乔纳森·海特（ Jonathan Haidt ）出版了《纽约时报》畅销书《焦虑的一代》。这本书认为，社交媒体和智能手机使用的兴起在很大程度上归咎于自2010年以来青少年心理健康状况的显著下降。它很快成为社交媒体反弹的中心号召力。Haidt […]",
+    "published_dt_iso": "2026-09-16T04:13:30+08:00"
+  },
+  {
+    "title": "起亚的电动面包车阵容随着PV7的推出而变得越来越有趣",
+    "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
+    "date": "2026-09-16",
+    "published_time": "02:39",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "您可能不知道，但小型货车正在美国卷土重来。环顾四周，您会开始注意到这些带轮子的面包箱有所上升。2025年的销量增长了21% ，这表明这款不起眼的小型货车正在摆脱其“不酷”的耻辱，并在疲惫不堪的SUV大众中找到了新的粉丝。我[…]",
+    "published_dt_iso": "2026-09-16T02:39:44+08:00"
+  },
+  {
+    "title": "对于初学者来说，最好的3D打印机之一几乎是100 $的折扣",
+    "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
+    "date": "2026-09-16",
+    "published_time": "02:02",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "如果高端3D打印机的高昂价格使您无法探索这项爱好，那么这笔交易就是一个很好的切入点。Elegoo的Centauri Carbon 2 Combo以$ 369的价格出售，比通常的$ 449低近$ 100。这款功能强大的3D打印机可以同时处理四个长丝卷， […]",
+    "published_dt_iso": "2026-09-16T02:02:30+08:00"
+  },
+  {
+    "title": "量子位2026人工智能年度榜单，正式启动！",
+    "link": "https://www.qbitai.com/2026/09/490329.html",
+    "date": "2026-09-16",
+    "published_time": "12:16",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "报名通道已开启，欢迎参与！",
+    "published_dt_iso": "2026-09-16T12:16:10+08:00"
+  },
+  {
+    "title": "被英伟达点名的杭州团队，补上了AI for Science的“最后一公里”",
+    "link": "https://www.qbitai.com/2026/09/490185.html",
+    "date": "2026-09-16",
+    "published_time": "11:40",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "从想法到结果，一次对话实现",
+    "published_dt_iso": "2026-09-16T11:40:35+08:00"
+  },
+  {
+    "title": "把记忆交给CPU，大模型会变快",
+    "link": "https://www.qbitai.com/2026/09/489724.html",
+    "date": "2026-09-16",
+    "published_time": "11:07",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "让GPU去忙生成Token",
+    "published_dt_iso": "2026-09-16T11:07:18+08:00"
+  },
+  {
+    "title": "实时互动、实时改视频、探索空间视频，Vidu S2一次放了三个大招",
+    "link": "https://www.qbitai.com/2026/09/490109.html",
+    "date": "2026-09-16",
+    "published_time": "10:58",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-16T10:58:34+08:00"
+  },
+  {
+    "title": "华为GTS让Agent学会“看着网络排障”，双防火墙难题几乎全拿下",
+    "link": "https://www.qbitai.com/2026/09/490098.html",
+    "date": "2026-09-16",
+    "published_time": "10:27",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "任务通过率提升24.2%，token成本最高下降45%",
+    "published_dt_iso": "2026-09-16T10:27:20+08:00"
+  },
+  {
+    "title": "飞傲翡声 JT9 开放式平板头戴有线耳机新增深咖色：95×86mm 单元，999 元",
+    "link": "https://www.ithome.com/1/003/072.htm",
+    "date": "2026-09-16",
+    "published_time": "14:54",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，飞傲翡声 JT9 开放式平板头戴耳机新增深咖色，售价 999 元。官方表示，这款耳机搭载 95x86mm 平板单元，单元采用 1μm 特薄膜片，相比常规平板耳机的 3μm+ 膜片更轻薄，能够重现高频乃至特高频的微弱信号；采用蓝宝石 + 金属铝叠加镀膜，兼顾导电与高刚性，解析更细腻。这款耳机引入半导体行业的 28 纳米芯片级制程工艺，赋予音圈更高生产精度，优化导电线圈牢固度与使用寿命；采用均匀等磁场专利设计，优化强磁布局，使膜片受力同步，从源头抑制失真。这款耳机采用 95dB / mW@1kHz 高灵敏度设计，普通手机搭配小尾巴即可轻松驱动；整体重量约 365g （不含线材），有黑色和深咖色两种颜色，采用人体工学头梁，附赠 3.5mm 单端与 4.4mm 平衡线",
+    "published_dt_iso": "2026-09-16T14:54:30+08:00"
+  },
+  {
+    "title": "小米多款笔记本电脑涨价 400 元起，覆盖 REDMI Book Pro 及 Xiaomi Book Pro 系列",
+    "link": "https://www.ithome.com/1/003/071.htm",
+    "date": "2026-09-16",
+    "published_time": "14:52",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，博主 @懒酱的日记本 今日发现，小米旗下笔记本电脑产品现已迎来新一轮价格调整。REDMI Book Pro 14 2025、REDMI Book Pro 16 2025、Xiaomi Book Pro 14、REDMI Book 16 2026、REDMI Book 14 2026、REDMI Book Pro 16 2026，以及 REDMI Book Pro 14 2026 实际到手价格上涨 400~700 元。IT之家查询发现，REDMI Book Pro 14 2025 在 9 月 15 日还显示为 6799 元，今天已经变为 7299 元；REDMI Book Pro 16 2025 昨日还是 4699 元，今天已经变为 5399 元。京东小米（MI",
+    "published_dt_iso": "2026-09-16T14:52:18+08:00"
+  },
+  {
+    "title": "德勤调研：英国六分之一员工自掏腰包购买 AI 工具用于工作",
+    "link": "https://www.ithome.com/1/003/070.htm",
+    "date": "2026-09-16",
+    "published_time": "14:51",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，据路透社报道，德勤于当地时间周三发布的一项研究显示，英国每六名员工当中，就有一人自掏腰包购买 AI 工具协助完成工作；员工每年为此自行支出的总金额接近 10 亿英镑（IT之家注：现汇率约合 90.61 亿元人民币）。这份首届生成式 AI 职场调研发现，三分之二的职场人员已经试用过 ChatGPT、Claude、谷歌 Gemini 以及微软 Copilot 这类 AI 工具；近四分之一的员工会在日常工作当中每天使用这些工具。调研反馈表明，员工采纳 AI 工具的速度，已经快于企业为员工配备相关工具的进度。约有 31% 的受访员工会在雇主并不知情的情况下使用生成式 AI，这也就是所谓的“影子 AI（shadow AI）”；还有 17% 的员工会自己花钱，至少订阅一款",
+    "published_dt_iso": "2026-09-16T14:51:20+08:00"
+  },
+  {
+    "title": "因有人将关键 Hypervisor 漏洞报告给索尼，PS5 Linux 项目核心开发者宣布放弃开发",
+    "link": "https://www.ithome.com/1/003/068.htm",
+    "date": "2026-09-16",
+    "published_time": "14:51",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，PS5 Linux 核心开发者 Andy Nguyen 今天在 X 平台宣布停止项目开发，并退出 PS5 破解圈。这名开发者情绪激动地表示：“以前破解圈子都是一群才华横溢的研究员，如今全是只会用大语言模型的菜鸟，写出他们根本不懂的破解程序。这些‘脚本小子’发现了 PS5 Pro 仅剩的 Hypervisor 漏洞，然后将其报告给索尼。”他继续说道：“我要求他们至少等到《GTA6》上市再提报，这样人们就有机会合法购买游戏，还能在 PS5 享受 Linux。他们最开始同意等待，但一天都没过去，他们就决定把这个机会浪费掉。我将退出 PS5 破解圈，并停止所有 PS5 Linux 适配工作。我倾注了数月时间，其中还包括计划 2027 年推出的 PS5 Pro 支持，但",
+    "published_dt_iso": "2026-09-16T14:51:03+08:00"
+  },
+  {
+    "title": "2026 蚂蚁电竞新品发布暨生态大会定档 9 月 21 日",
+    "link": "https://www.ithome.com/1/003/067.htm",
+    "date": "2026-09-16",
+    "published_time": "14:50",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，蚂蚁电竞 (ANTGAMER) 昨日宣布，该品牌的 2026 新品发布暨生态大会将于 9 月 21 日在广东珠海的珠海国际会展中心举行。作为惠科 (HKC) 旗下高端电竞品牌，蚂蚁电竞可及时获取母公司的面板资源。该品牌去年发布了多款超高刷新率显示器产品，相信今年的新品能带来更出色的表现。",
+    "published_dt_iso": "2026-09-16T14:50:33+08:00"
+  },
+  {
+    "title": "禾赛发布全球体积最小的超高空间解析力激光雷达 MT 系列：3.5 mm 测距精度，光斑面积缩小 70%",
+    "link": "https://www.ithome.com/1/003/065.htm",
+    "date": "2026-09-16",
+    "published_time": "14:46",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，禾赛科技在德国慕尼黑 InterGEO 2026 上发布了面向高精建模领域的新一代旗舰产品 —— 禾赛超高空间解析力激光雷达 MT 系列。官方表示，MT 是已公开的同类测绘精度产品中体积最小的产品，禾赛 MT 机身直径约 6 cm，体积较上一代产品 XT 缩小 40%；整机重 300 g，较上一代产品 XT 减重 40% 以上。▲ 禾赛 MT（右）与上一代产品体积对比IT之家获悉，禾赛 MT 全面升级激光发射模块与精密光机设计，实现更精细的光束控制，在 20m 距离下，禾赛 MT 的光斑面积较上一代产品 XT 缩小 70%。据悉，更小的光斑能够有效减少单个激光脉冲覆盖范围，使激光雷达可以更加精准地刻画物体边界与结构细节，降低不同目标之间的信息混杂，为高精建模提",
+    "published_dt_iso": "2026-09-16T14:46:35+08:00"
+  },
+  {
+    "title": "新款吉利银河 E5 被曝 9 月 23 日上市：新增激光雷达，动力提升至 245kW",
+    "link": "https://www.ithome.com/1/003/064.htm",
+    "date": "2026-09-16",
+    "published_time": "14:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，据汽车之家今日报道，新款吉利银河 E5 将于 9 月 23 日上市。新车有望搭载吉利 AI 智充技术和新一代神盾短刀电池，并新增激光雷达。这款新车已通过工信部申报，外观延续现款设计并优化，前包围强化，加入新装饰元素和主动式进气格栅。车顶新增激光雷达，翼子板新增摄像头，第二排车窗配备隐私玻璃。IT之家注意到，新车长宽高为 4636/1920/1670mm，轴距 2750mm，车身长度和宽度较现款提升，不再采用隐藏式门把手设计。其轮圈提供 18 英寸和 19 英寸两种规格，对应轮胎尺寸为 225/55 R18 和 235/50 R19。车尾顶部加装摄像头，用于增强尾部环境识别能力。内饰方面，新车延续现款造型，保留大尺寸悬浮中控屏，换装全新三辐式方向盘和水晶旋钮。新",
+    "published_dt_iso": "2026-09-16T14:44:00+08:00"
+  },
+  {
+    "title": "特斯拉推出手风琴式模块化超级充电桩：安装速度更快，建站成本降低 20%",
+    "link": "https://www.ithome.com/1/003/063.htm",
+    "date": "2026-09-16",
+    "published_time": "14:42",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 16 日消息，传统上部署电动汽车充电站，往往要耗时数周，期间还要进行噪音巨大的地面开槽、铺设管线、浇筑混凝土地基，再逐个安装充电桩；而且这一切的前提，还得先找到一块合适的场地。多年以来，特斯拉一直在用工厂预制的施工方式，替代这种进度缓慢、零散的建设流程，而该公司最新的创新，则把模块化建站技术推到了一个全新高度。IT之家注意到，特斯拉官方账号 @TeslaCharging 在 X 平台正式发布了新款手风琴式超级充电桩（Accordion Supercharger）。即便特斯拉无法在路缘后方布设充电车位，依靠这套产品依旧可以建成充电站。这套方案每一辆货运卡车即可装运 16 个充电车位，不仅安装速度更快，建设成本还降低了 20%。特斯拉表示：“我们的目标是在工厂完成所有超级充电桩",
+    "published_dt_iso": "2026-09-16T14:42:04+08:00"
+  },
+  {
+    "title": "为什么曼联在没有球的情况下会更好？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxnvl2nv525ro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-16",
+    "published_time": "13:46",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "在迈克尔·卡里克（ Michael Carrick ）的领导下，当他们拥有超过50 ％的球时，曼联场均得分为1.5分。当他们少于50%时，这个数字是2.6。",
+    "published_dt_iso": "2026-09-16T13:46:28+08:00"
+  },
+  {
+    "title": "贵州省交通运输厅原党委书记、厅长张胤被“双开”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697485.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月16日电 据贵州省纪委监委消息：经贵州省委批准，贵州省纪委监委对贵州省交通运输厅原党委书记、厅长张胤严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-16T14:50:04+08:00"
+  },
+  {
+    "title": "基加利修正案通过十周年 中国超额完成阶段履约目标",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697471.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "今天(9月16日)是国际臭氧层保护日。记者在今天上午召开的纪念《〈关于消耗臭氧层物质的蒙特利尔议定书〉基加利修正案》通过十周年暨2026年国际保护臭氧层日纪念大会上了解到，我国已超额完成阶段履约目标，为推动全球环境治理做出重要贡献。",
+    "published_dt_iso": "2026-09-16T14:20:13+08:00"
+  },
+  {
+    "title": "李家超：坚持统筹发展和安全 着力提高特区治理效能",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697468.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社香港9月16日电(黄茜恬)香港特区行政长官李家超16日在特区立法会公布香港第一个五年规划。他表示，将坚持统筹发展和安全，推动城市安全治理向事前防御转型，增强经济和城市韧性。以改革思维引领各项工作，强化风险预警、跨部门协作，厘清分工责任，破除不合理限制与繁琐流程，释放发展活力。",
+    "published_dt_iso": "2026-09-16T14:11:42+08:00"
+  },
+  {
+    "title": "4年，727亿元，不只是“逆天改命”！全景式解锁平陆运河→",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697465.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "央视网消息：9月16日，新中国成立以来第一条国家层面统筹建设的通江达海运河工程——平陆运河将迎来通航。",
+    "published_dt_iso": "2026-09-16T14:03:30+08:00"
+  },
+  {
+    "title": "李家超：提升民生福祉 增进市民获得感、幸福感、安全感",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697461.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社香港9月16日电(记者刘媛媛)香港特区行政长官李家超16日上午在特区立法会公布香港特区首个五年规划时表示，提升民生福祉是政府施政的最终目标，民生改善则带动社会需求，激发市场活力，促进经济发展。统筹推进制度完善和服务优化，不断增进市民的获得感、幸福感、安全感。",
+    "published_dt_iso": "2026-09-16T14:02:42+08:00"
+  },
+  {
+    "title": "李家超：“十五五”时期香港肩负发展自身、贡献国家双重使命",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697443.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社香港9月16日电(黄茜恬)香港特区行政长官李家超16日在特区立法会公布香港特区第一个五年规划。他表示，“十五五”时期是香港主动适应时代潮流，巩固提升自身优势、培养发展新动能、实现经济社会高质量发展的战略机遇期，是香港抓住机遇，加快由治及兴，增进市民福祉，建设更加美好家园的关键五年，是香港在融入和服务国家发展大局中大有可为的五年，肩负着发展自身、贡献国家的双重使命。",
+    "published_dt_iso": "2026-09-16T13:47:04+08:00"
+  },
+  {
+    "title": "李家超：深化粤港澳大湾区建设 搭建全球合作网络",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697441.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:46",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社香港9月16日电(奚天麒)香港特区行政长官李家超16日上午在特区立法会发表香港特区首个五年规划。他表示，特区政府将深化粤港澳大湾区建设，搭建全球合作网络。香港会充分利用好大湾区各重大合作平台，与区内其他城市共同推进优势互补、错位发展、互利共赢，推动政策创新。",
+    "published_dt_iso": "2026-09-16T13:46:04+08:00"
+  },
+  {
+    "title": "陕晋甘共促区域协调发展 印发《关中平原城市群建设“十五五”实施方案》",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-16/10697408.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网西安9月16日电 (记者 李一璠)记者16日从陕西省发展改革委获悉，《关中平原城市群建设“十五五”实施方案》经陕西、山西、甘肃三省人民政府同意，已于日前印发实施。",
+    "published_dt_iso": "2026-09-16T13:38:46+08:00"
+  },
+  {
+    "title": "新加坡防长援引孟子之言阐述建立互信：以德服人，心悦诚服",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697447.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月16日电(李纯 刘梦青)新加坡公共服务统筹部长兼国防部长陈振声16日在第十三届北京香山论坛上作大会发言时，援引中国古代思想家孟子的话阐述如何建立互信：“以德服人者，中心悦而诚服也。”",
+    "published_dt_iso": "2026-09-16T14:47:48+08:00"
+  },
+  {
+    "title": "埃及总统会见沙特王储  强调维护红海航行安全",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697445.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月16日电 综合消息：埃及总统塞西当地时间15日在埃及首都开罗会见沙特阿拉伯王储兼首相穆罕默德·本·萨勒曼。双方表示，致力于维护红海航线及地区关键海峡的航行安全，呼吁通过政治途径解决也门危机。",
+    "published_dt_iso": "2026-09-16T14:18:20+08:00"
+  },
+  {
+    "title": "扎哈罗娃谈中国谚语“百闻不如一见”：亲身观察才能了解实情",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697410.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月16日电 据俄媒报道，俄罗斯外交部发言人扎哈罗娃于9月14日接受采访时表示，她最近才知道“百闻不如一见”这句谚语来自中国。",
+    "published_dt_iso": "2026-09-16T14:15:54+08:00"
+  },
+  {
+    "title": "国际观察：“四个先锋”推动金砖合作不断取得务实成果",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697403.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "走过20年发展历程，金砖合作机制已从主要新兴经济体之间的对话逐步发展成为推动南南合作和全球治理改革的重要平台。随着全球南方经济实力和国际影响力不断提升，发展中国家对扩大国际代表性、拓展多元合作伙伴关系的需求日益增强，金砖合作机制的重要性进一步凸显。",
+    "published_dt_iso": "2026-09-16T13:47:56+08:00"
+  },
+  {
+    "title": "国际舆论积极评价中方在新德里会晤期间提出的重要倡议和主张",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697372.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "国际舆论积极评价中方在新德里会晤期间提出的重要倡议和主张——",
+    "published_dt_iso": "2026-09-16T13:47:44+08:00"
+  },
+  {
+    "title": "“中拉人权学术研究2026",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697434.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社利马9月15日电 (记者 陈欣怡)第三届中拉人权圆桌会当地时间15日在秘鲁利马举行，会议正式启动了“中拉人权学术研究2026-2030行动计划”。",
+    "published_dt_iso": "2026-09-16T13:43:44+08:00"
+  },
+  {
+    "title": "秘鲁前总理：西方单一人权标准不具有普适性",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697430.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社利马9月15日电 (记者 陈欣怡)当地时间9月15日，第三届中拉人权圆桌会在秘鲁利马举行。秘鲁前总理、前司法与人权部长爱德华多·阿拉纳·伊萨于会议期间接受中新社记者专访时指出，长期以来被推崇的西方单一人权标准并不具有普适性。人权虽有普遍价值，但不存在适用于全球的统一实现模式，各国需立足自身国情推进人权事业，中国聚焦民生的人权实践具有重要借鉴意义。",
+    "published_dt_iso": "2026-09-16T13:43:22+08:00"
+  },
+  {
+    "title": "菲律宾7月现金汇款达32.4亿美元 创今年以来新高",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-16/10697406.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网马尼拉9月16日电 菲律宾中央银行15日公布的数据显示，2026年7月，菲律宾现金汇款达32.4亿美元，同比增长1.9%，创2026年以来单月新高。",
+    "published_dt_iso": "2026-09-16T13:42:52+08:00"
+  },
+  {
+    "title": "“老手艺”创出“新身价”，8万亿赛道正待起飞",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697469.shtml",
+    "date": "2026-09-16",
+    "published_time": "14:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "好评中国｜“老手艺”创出“新身价”，8万亿赛道正待起飞",
+    "published_dt_iso": "2026-09-16T14:11:26+08:00"
+  },
+  {
+    "title": "把现代化产业体系的“骨架”挺起来",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697353.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "先进制造业，现代化产业体系的骨干。",
+    "published_dt_iso": "2026-09-16T13:47:28+08:00"
+  },
+  {
+    "title": "天津：87项特色活动共庆丰收节 多场景搭建农产品展销平台",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697426.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网天津9月16日电 (薛淳月)天津市农业农村委副主任王志林15日在发布会上介绍，今年天津市中国农民丰收节主会场活动将于9月23日在蓟州区穿芳峪镇小穿芳峪村举行，天津市级单位及各涉农区共组织87项特色活动，丰收节期间还将开展京津冀乡村休闲旅游品牌提升暨特色农产品品牌(乡村工匠)推介活动，搭建三地特色资源展示平台。",
+    "published_dt_iso": "2026-09-16T13:43:58+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）长征路上焕“綦”迹：活起来 传下去 用得好",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697421.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网重庆9月16日电 题：长征路上焕“綦”迹：活起来 传下去 用得好",
+    "published_dt_iso": "2026-09-16T13:42:18+08:00"
+  },
+  {
+    "title": "沙海“走”出绿意 甘肃民勤把治沙答卷变成徒步风景线",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697411.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网兰州9月16日电 (马爱彬)金秋时节，在“三北”工程甘肃省武威市民勤县阿拉古山治沙造林高效灌溉试验示范区，百余名徒步爱好者进行试走体验。队伍穿行于沙海与绿洲交汇地带，脚下沙丘起伏，两侧梭梭连片，远处草方格牢牢固定流沙。大家驻足观望，近距离领略大漠风光，实地感受民勤数十年防沙治沙绘就的生态答卷。",
+    "published_dt_iso": "2026-09-16T13:39:28+08:00"
+  },
+  {
+    "title": "新华社独家采访国际大体联主席：长春值得世界期待",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697435.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "视频：新华社独家采访国际大体联主席：长春值得世界期待来源：新华社",
+    "published_dt_iso": "2026-09-16T13:38:14+08:00"
+  },
+  {
+    "title": "全面开渔！我国四大海域伏季休渔结束",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697402.shtml",
+    "date": "2026-09-16",
+    "published_time": "13:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "今天12时，北纬35度至北纬26度30分之间的黄海和东海海域结束了为期四个半月的伏季休渔。至此，我国管辖的渤海、黄海、东海、南海四大海域全面开渔。",
+    "published_dt_iso": "2026-09-16T13:12:16+08:00"
+  },
+  {
+    "title": "沿黄九省区同台炫“面”：百年牛肉面探“新风味”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-16/10697389.shtml",
+    "date": "2026-09-16",
+    "published_time": "12:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社兰州9月16日电 (闫姣 田鹏鹤)第二届沿黄九省区兰州牛肉拉面职业技能大赛15日至16日在兰州举办。来自山西、山东、甘肃、青海、陕西等沿黄九省区的多名拉面能手，将各自本土特色食材、饮食技法融入拉面制作工艺，同台竞技和探索百年牛肉面的“新风味”。",
+    "published_dt_iso": "2026-09-16T12:58:37+08:00"
+  },
+  {
+    "title": "“我接受了11年化疗，却发现从未患癌”",
+    "link": "https://www.bbc.com/zhongwen/articles/cm62eve2y6xeo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-16",
+    "published_time": "08:18",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "贝姬·琼斯（Becky Jones）21岁被告知患有末期脑癌，接受了长达11年的化疗，近期才发现根本不是癌症。和她有类似经历的，还有同一间医院的另外40多名病患。",
+    "published_dt_iso": "2026-09-16T08:18:50+08:00"
+  },
+  {
+    "title": "“九月重启”：你如何也能在此时建立新日常习惯？",
+    "link": "https://www.bbc.com/zhongwen/articles/cqvgyr0kj25eo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-16",
+    "published_time": "08:18",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "这个月，许多人将开启人生的新篇章；以下教你如何强势起步，并保持良好的习惯。",
+    "published_dt_iso": "2026-09-16T08:18:44+08:00"
+  },
+  {
+    "title": "特朗普在真相社交上为A.I.数据中心辩护，评论者回击",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html",
+    "date": "2026-09-16",
+    "published_time": "09:20",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "总统在他创建的社交媒体平台上发布的关于人工智能的帖子遭到了不寻常的批评。",
+    "published_dt_iso": "2026-09-16T09:20:59+08:00"
+  },
+  {
+    "title": "马克·扎克伯格（ Mark Zuckerberg ）在人工智能放缓的辩论中瞄准人类",
+    "link": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+    "date": "2026-09-16",
+    "published_time": "08:19",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在社交媒体上， Meta的首席执行官似乎抨击了Anthropic ，称领先的人工智能实验室应该专注于安全，而不是改进自己的技术。",
+    "published_dt_iso": "2026-09-16T08:19:23+08:00"
+  },
+  {
+    "title": "OpenAI考虑以1.5万亿美元的估值进行新的融资",
+    "link": "https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html",
+    "date": "2026-09-16",
+    "published_time": "12:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这轮融资将使ChatGPT背后的初创公司的价值翻番，并使其成为世界上最有价值的私营公司。",
+    "published_dt_iso": "2026-09-16T12:01:30+08:00"
+  },
+  {
+    "title": "肯尼迪中心不顾法官的命令关门",
+    "link": "https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html",
+    "date": "2026-09-16",
+    "published_time": "07:08",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统表示，如果他的名字没有返回大楼，他将取消2.57亿美元的场地翻修。",
+    "published_dt_iso": "2026-09-16T07:08:55+08:00"
+  },
+  {
+    "title": "在总督的努力下，联邦雇员在2025年不工作的工资为95亿$",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/doge-federal-work-force.html",
+    "date": "2026-09-16",
+    "published_time": "07:47",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "作为政府效率部缩减联邦劳动力计划的一部分，带薪行政假成本增加了435%。",
+    "published_dt_iso": "2026-09-16T07:47:02+08:00"
+  },
+  {
+    "title": "众议院指示特朗普停止与伊朗的战争或获得国会批准",
+    "link": "https://www.nytimes.com/2026/09/15/us/elections/congress-trump-iran-war-approval.html",
+    "date": "2026-09-16",
+    "published_time": "11:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这是共和党控制的国会众议院第五次投票遏制特朗普总统的战争权力，因为选民对冲突的不满情绪日益增长。",
+    "published_dt_iso": "2026-09-16T11:01:01+08:00"
+  },
+  {
+    "title": "特朗普批准向以色列出售28亿美元武器，其中包括4万件",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/trump-israel-bombs.html",
+    "date": "2026-09-16",
+    "published_time": "08:12",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该包裹将是美国向以色列交付的最大军火之一。",
+    "published_dt_iso": "2026-09-16T08:12:57+08:00"
+  },
+  {
+    "title": "五角大楼监察长详细介绍美国在伊朗战争中的损失和挑战",
+    "link": "https://www.nytimes.com/2026/09/15/us/politics/pentagon-inspector-general-iran-war.html",
+    "date": "2026-09-16",
+    "published_time": "10:27",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "根据一份新的报告，从四个国家撤离了用于撤离伤亡人员的直升机，数百个军事设施被摧毁。",
+    "published_dt_iso": "2026-09-16T10:27:56+08:00"
   }
 ]
