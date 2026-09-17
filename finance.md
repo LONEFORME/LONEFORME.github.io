@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,891.60</span>
-      <span class="ticker-change up">▲ +0.71%</span>
+      <span class="ticker-price ticker-down">3,876.33</span>
+      <span class="ticker-change down">▼ -0.39%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">13,454.74</span>
-      <span class="ticker-change up">▲ +1.26%</span>
+      <span class="ticker-price ticker-down">13,412.53</span>
+      <span class="ticker-change down">▼ -0.31%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,311.47</span>
-      <span class="ticker-change up">▲ +1.96%</span>
+      <span class="ticker-price ticker-down">3,298.70</span>
+      <span class="ticker-change down">▼ -0.39%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,616.19</span>
-      <span class="ticker-change up">▲ +4.14%</span>
+      <span class="ticker-price ticker-down">1,606.17</span>
+      <span class="ticker-change down">▼ -0.62%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,325.45</span>
-      <span class="ticker-change up">▲ +0.80%</span>
+      <span class="ticker-price ticker-down">4,313.29</span>
+      <span class="ticker-change down">▼ -0.28%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,139.72</span>
+      <span class="ticker-price ticker-up">28,945.06</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7055</span>
+      <span class="ticker-price ticker-down">6.7063</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,342.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +48.27 (+1.12%)</span>
+      <span class="ticker-price ticker-up">$4,307.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +43.83 (+1.03%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥937.85 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +1.28 (+0.14%)</span>
+      <span class="ticker-price ticker-down">¥930.30 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -6.27 (-0.67%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+29.5 亿</span>
+      <span class="sector-flow-badge">+35.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+34.2 亿</span>
+      <span class="sector-flow-badge">+47.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+31.7 亿</span>
+      <span class="sector-flow-badge">+53.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+32.9 亿</span>
+      <span class="sector-flow-badge">+26.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/003/579.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 17 日消息，今日，零跑汽车与中国一汽在浙江湖州举行签约仪式，零跑汽车分别与中国一汽旗下一汽旗新动力（长春）科技有限公司（下称“旗新动力”）和中汽新能电池科技有限公司（下称“中汽新能”）签署投资意向书和技术合作协议。零跑汽车创始人、董事长兼 CEO 朱江明，中国一汽董事长、党委书记邱现东出席活动并见证签约。零跑汽车官方称，本次签约是继双方 8 月 24 日签署《深化战略合作协议》后，战略共生下产业链落地的重要举措。面向汽车产业电动化、智能化深度变革浪潮，双方积极响应国家九部委关于智能网联新能源汽车高质量发展的最新要求，锚定“十五五”产业提质升级目标，聚力强化产业链协同创新。双方依托长期建立的战略互信，以资本纽带夯实动力总成合作根基，以技术协同攻坚下一代电池技术。根据零跑汽车" data-title="零跑汽车与中国一汽签署合作协议：推动混动发动机、增程器资源共享，攻坚下一代电池技术" data-date="09-17 14:38" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-17 14:38</span>
+          <span class="news-item-title">零跑汽车与中国一汽签署合作协议：推动混动发动机、增程器资源共享，攻坚下一代电池技术</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-17/10698189.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月17日电 据韩联社报道，韩国外交部副部长朴润柱当地时间17日出席国会外交统一委员会全体会议时表示，外交部从确保航行稳定、保障能源供应安全及公民安全的角度看待向霍尔木兹海峡派兵事宜，并不仅仅从韩美关系层面予以考虑。" data-title="韩外交部：研讨向霍尔木兹海峡派兵事宜着眼于确保航行稳定" data-date="09-17 13:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-17 13:51</span>
+          <span class="news-item-title">韩外交部：研讨向霍尔木兹海峡派兵事宜着眼于确保航行稳定</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-17/10698157.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社圣保罗9月17日电 巴西央行16日晚间发表声明，将该国基准利率下调0.25个百分点，从14%降至13.75%，此为巴西连续第五次降息。" data-title="巴西央行将基准利率下调至13.75%" data-date="09-17 13:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-17 13:11</span>
+          <span class="news-item-title">巴西央行将基准利率下调至13.75%</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储自2023年7月以来首次加息是在中期选举前不到两个月。" data-title="美联储在Warsh遏制通货膨胀的第一个重大步骤中提高利率" data-date="09-17 11:06" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-17 11:06</span>
+          <span class="news-item-title">美联储在Warsh遏制通货膨胀的第一个重大步骤中提高利率</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="本月，总统威胁说，如果不降息，他将停止广泛的贸易，他周三再次出现了这种可能性。" data-title="特朗普最新威胁笼罩美联储利率决策" data-date="09-17 08:36" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-17 08:36</span>
+          <span class="news-item-title">特朗普最新威胁笼罩美联储利率决策</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-17/10697946.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社南京9月16日电 (记者 徐珊珊)亚太经合组织(APEC)残疾人就业国际研讨会16日在南京举行，来自14个经济体的200余名代表围绕“协同助就业，科技促消费：释放残疾人双重经济潜力”展开研讨。" data-title="中外代表在南京共议残疾人就业与科技赋能" data-date="09-17 00:35" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -292,12 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-16 21:30</span>
           <span class="news-item-title">《2026 APEC智库报告》读书分享暨专题研讨会在深圳举办</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-16/10697845.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网日内瓦9月16日电 世界贸易组织2026年公共论坛15日在瑞士日内瓦开幕，当日“机遇中国·创享未来”中国文化推介系列活动在世贸组织举办。" data-title="“机遇中国·创享未来”中国文化推介系列活动在世贸组织举办" data-date="09-16 20:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-16 20:59</span>
-          <span class="news-item-title">“机遇中国·创享未来”中国文化推介系列活动在世贸组织举办</span>
-        </a>
   </div>
 </div>
 
@@ -311,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-17 01:10（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-17 14:50（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

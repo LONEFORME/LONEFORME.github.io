@@ -1038,5 +1038,675 @@
     "feed_name": "纽约时报",
     "summary": "Lower wage growth and slower hiring in some sectors may be the result of artificial intelligence, especially for younger workers.",
     "published_dt_iso": "2026-09-17T00:30:19+08:00"
+  },
+  {
+    "title": "总部位于冰岛的Treble为其语音模拟平台筹集了1800万美元$",
+    "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "date": "2026-09-17",
+    "published_time": "13:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "高音的语音模拟平台被语音AI模型开发商、AI可穿戴设备和机器人公司使用",
+    "published_dt_iso": "2026-09-17T13:00:00+08:00"
+  },
+  {
+    "title": "您的创业公司的下一个队友可能是人工智能代理： Gusto、Insight Partners和Leland在TechCrunch Disrupt 2026上解释了这些变化",
+    "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-17",
+    "published_time": "11:30",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "本课程将探讨早期公司如何构建人类和人工智能代理并肩工作的团队，以及创始人如何在不牺牲速度、问责制或文化的情况下做到这一点。如需了解更多信息，请访问TechCrunch Disrupt 2026。请在9月25日前登记，最多可节省$ 200。",
+    "published_dt_iso": "2026-09-17T11:30:00+08:00"
+  },
+  {
+    "title": "Snap试图再次为其2200 $的智能眼镜辩护",
+    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "date": "2026-09-17",
+    "published_time": "08:58",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "自今年早些时候Specs首次亮相以来， Snap显然一直在寻找一个机会来解释为什么智能眼镜应该存在。",
+    "published_dt_iso": "2026-09-17T08:58:49+08:00"
+  },
+  {
+    "title": "阿尔·戈尔说，真正的人工智能风险不是数据中心",
+    "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+    "date": "2026-09-17",
+    "published_time": "07:43",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在接受TechCrunch采访时，戈尔表示，他并没有因为人工智能数据中心的排放而失眠--他更担心人工智能行业自己对技术发展方向的警告。",
+    "published_dt_iso": "2026-09-17T07:43:09+08:00"
+  },
+  {
+    "title": "Anthropic和OpenAI希望嵌入安全评估人员。他们真的会独立吗？",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+    "date": "2026-09-17",
+    "published_time": "05:07",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Anthropic和OpenAI希望在其人工智能实验室中嵌入独立的安全评估人员。研究人员欢迎前所未有的访问，但警告有意义的监督需要透明度、独立性以及最终的监管。",
+    "published_dt_iso": "2026-09-17T05:07:24+08:00"
+  },
+  {
+    "title": "在被指控出售“变态眼镜”后， Meta准备在没有相机的情况下出售一副",
+    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+    "date": "2026-09-17",
+    "published_time": "04:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Meta可以用新的无相机产品来躲避“变态眼镜”的指控吗？",
+    "published_dt_iso": "2026-09-17T04:12:00+08:00"
+  },
+  {
+    "title": "人工智能实验室需要内部审核员—但也许他们应该先关上前门",
+    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+    "date": "2026-09-17",
+    "published_time": "02:25",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "对于躲在显而易见的地方的流氓特工，可能有更简单、更有效的解决方案。",
+    "published_dt_iso": "2026-09-17T02:25:25+08:00"
+  },
+  {
+    "title": "您的AI代理现在可以控制您的Google Home设备",
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "date": "2026-09-17",
+    "published_time": "01:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "谷歌正在为Google Home推出抢先访问新的MCP服务器，允许Claude、ChatGPT等人工智能代理使用自然语言控制连接的设备、查看相机摘要和访问智能家居活动。",
+    "published_dt_iso": "2026-09-17T01:00:00+08:00"
+  },
+  {
+    "title": "追踪因网络攻击而遭受“严重打击”的流星的非营利组织",
+    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+    "date": "2026-09-17",
+    "published_time": "05:08",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "集团计划在几周内基本停止运营。",
+    "published_dt_iso": "2026-09-17T05:08:14+08:00"
+  },
+  {
+    "title": "主播们正在争夺万圣节",
+    "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+    "date": "2026-09-17",
+    "published_time": "11:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "多伦多国际电影节是一个观看电影未来的地方，但今年它也提供了对流媒体领域即将到来的一瞥。四种不同的主播-孔雀， Netflix ，亚马逊和AMC -都首映了即将到来的恐怖相邻系列， […]",
+    "published_dt_iso": "2026-09-17T11:00:00+08:00"
+  },
+  {
+    "title": "Snap正在推出一款新的Specs AI工具，即将在iOS和Mac上推出",
+    "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+    "date": "2026-09-17",
+    "published_time": "07:40",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Snap推出了“Specs Intelligence” ，这是一种新的人工智能助手，可以连接其他数字帐户，帮助您完成工作任务和跟踪差旅信息等。这似乎类似于像Meta的Muse和Gemini的Spark这样的人工智能助手，尽管Snap正在将Specs Intelligence作为一种“预期的人工智能服务” ， “帮助您[…]",
+    "published_dt_iso": "2026-09-17T07:40:00+08:00"
+  },
+  {
+    "title": "我戴着Snap的$ 2,200智能眼镜",
+    "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+    "date": "2026-09-17",
+    "published_time": "07:40",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "我最喜欢的佩戴规格的部分， Snap的新增强现实眼镜，是玩多米诺骨牌。一位戴着同样厚眼镜的Snap员工坐在桌子对面，我可以选择一个紧握的虚拟多米诺骨牌，然后移动我的手将它放到位，看着瓷砖在[…]",
+    "published_dt_iso": "2026-09-17T07:40:00+08:00"
+  },
+  {
+    "title": "这部2.5小时的人工智能电影《奥德赛》太长了2.5小时",
+    "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+    "date": "2026-09-17",
+    "published_time": "04:59",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "克里斯托弗·诺兰（ Christopher Nolan ）对《奥德赛》（ The Odyssey ）的引人入胜的看法在票房上占据主导地位，并激发了电影观众对经典文学的新兴趣。但是，完全由人工智能制作的故事的新复述是如此糟糕，以至于它可能会让观众完全讨厌原来的故事。这部名为《奥德修斯：堕落》的新电影即将上映[…]",
+    "published_dt_iso": "2026-09-17T04:59:13+08:00"
+  },
+  {
+    "title": "人工智能数据中心的电子垃圾问题是巨大的，而且正在变得越来越大",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+    "date": "2026-09-17",
+    "published_time": "04:40",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "一份新的报告警告说，人工智能热潮产生的电子废物被大大低估了。到2050年，它可能成为足够装满2300万个集装箱的垃圾--如果连续排成一排，大约有足够的40英尺集装箱绕地球六圈。与之前的研究相比，人工智能电子废物的估计值要高得多[…]",
+    "published_dt_iso": "2026-09-17T04:40:46+08:00"
+  },
+  {
+    "title": "《生化危机》首先是喜剧，其次是惊心动魄的噩梦",
+    "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+    "date": "2026-09-17",
+    "published_time": "02:45",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical failure of projects like the 1993 Super Mario Bros. still cast a long shadow. And […]",
+    "published_dt_iso": "2026-09-17T02:45:35+08:00"
+  },
+  {
+    "title": "沃尔玛降低了Metroid Ravenous实体订单的成本",
+    "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+    "date": "2026-09-17",
+    "published_time": "02:20",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Metroid系列将再次回到其2D根源，任天堂Switch 2的Metroid Ravenous ，这是自2021年任天堂Switch的Metroid Dread以来该系列中的第一款横向滚动游戏。如果您已经足够兴奋，可以考虑预购，当您[…]时，您可以在游戏的实体版本上节省$ 10",
+    "published_dt_iso": "2026-09-17T02:20:38+08:00"
+  },
+  {
+    "title": "苹果可能会再次制造服务器，以兑现人工智能热潮",
+    "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+    "date": "2026-09-17",
+    "published_time": "01:20",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "据The Information报道，苹果计划重返服务器游戏，并可能与Nvidia合作实现这一目标。苹果公司于2011年退役其Xserve生产线，此后基本上将企业机器留给了其他制造商。但随着人工智能行业继续[…] ，对计算能力的需求不断增长",
+    "published_dt_iso": "2026-09-17T01:20:29+08:00"
+  },
+  {
+    "title": "马斯克睡进工地！为AI基建拼了",
+    "link": "https://www.qbitai.com/2026/09/491280.html",
+    "date": "2026-09-17",
+    "published_time": "12:37",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "AI正火嘛，老马的待遇也算提升了一点：这回至少有房车了（doge）",
+    "published_dt_iso": "2026-09-17T12:37:26+08:00"
+  },
+  {
+    "title": "首购积分加赠70%：SkyProduction天工工作台联合火山引擎推出中秋国庆三重福利",
+    "link": "https://www.qbitai.com/2026/09/491147.html",
+    "date": "2026-09-17",
+    "published_time": "11:39",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "从9月15日开始，SkyProduction（天工工作台）和火山引擎(Seedance 2.5)隆重推出中秋国庆特惠活动",
+    "published_dt_iso": "2026-09-17T11:39:43+08:00"
+  },
+  {
+    "title": "国产RSI模型交卷！Flash模型靠它反打旗舰",
+    "link": "https://www.qbitai.com/2026/09/491091.html",
+    "date": "2026-09-17",
+    "published_time": "11:26",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "1亿Tokens人人免费领",
+    "published_dt_iso": "2026-09-17T11:26:21+08:00"
+  },
+  {
+    "title": "比亚迪李云飞：中国汽车首登世界第一，这份荣耀属于所有中国汽车品牌",
+    "link": "https://www.qbitai.com/2026/09/491062.html",
+    "date": "2026-09-17",
+    "published_time": "10:01",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月13日，2026比亚迪粉丝嘉年华在深圳坪山体育馆举行",
+    "published_dt_iso": "2026-09-17T10:01:15+08:00"
+  },
+  {
+    "title": "网易有道周枫：AI能力竞争，正在进入“Model + Agent + Workflow”时代，网易有道AI Open Day展示AI时代“有道解法”",
+    "link": "https://www.qbitai.com/2026/09/490974.html",
+    "date": "2026-09-17",
+    "published_time": "09:55",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月16日，网易有道“NEXT，AGENT｜有道AI Open Day”在北京举办。",
+    "published_dt_iso": "2026-09-17T09:55:14+08:00"
+  },
+  {
+    "title": "罗福莉沉寂半年官宣小米强化学习！直播新模型训练过程，一小时烧3万美元",
+    "link": "https://www.qbitai.com/2026/09/490950.html",
+    "date": "2026-09-17",
+    "published_time": "09:09",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "奖励曲线、显卡故障全公开",
+    "published_dt_iso": "2026-09-17T09:09:25+08:00"
+  },
+  {
+    "title": "ChatGPT 背后功臣：Almeida 推出 AI 模型 Jev，不生成文本、输出免费",
+    "link": "https://www.ithome.com/1/003/584.htm",
+    "date": "2026-09-17",
+    "published_time": "14:49",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，TypeSafe AI 昨日（9 月 16 日）发布公告，宣布推出 Jev，该 AI 模型定位为“System One Model”（系统一模型），不生成文本，直接返回结构化决策，其成本和延迟远低于大型语言模型。IT之家查询公开资料，TypeSafe AI 由 Diogo Almeida 成立，他曾在 OpenAI 工作，是 RLHF 研究的幕后功臣之一，而该研究催生了 ChatGPT。该公司成立于 2 年前，本周宣布结束隐身状态，宣布完成由 DCVC 领投的 4,000 万美元（IT之家注：现汇率约合 2.69 亿元人民币）种子轮融资。该公司将 Jev 定义为“System One Model”（系统一模型），对应快速、低延迟的重复决策场景。该定义借用心理学",
+    "published_dt_iso": "2026-09-17T14:49:46+08:00"
+  },
+  {
+    "title": "399 元，雷柏 VT2sMAX 大师版 V2 双模游戏鼠标开启预约",
+    "link": "https://www.ithome.com/1/003/583.htm",
+    "date": "2026-09-17",
+    "published_time": "14:47",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，雷柏 VT2sMAX 大师版 V2 游戏鼠标现已在京东开启预约，新品支持有线 / 2.4G 双模连接，配备原相 PAW3955 传感器，回报率可达 8K，售价 399 元。据介绍，这款鼠标适配中小手手型，尤其适合抓握、指握，采用 Nordic 54H20 方案，主频可达 320MHz。规格方面，该鼠标配备原生 8K 接收器，拥有原相 PAW3955 Ultimate 传感器，号称可带来职业级性能，DPI 可在 1-60000 之间调节。此外，该鼠标采用龙骨结构设计，表面带有亲肤防滑涂层，拥有 800mAh 电池，支持多种充电方式，适配 Windows、macOS 操作系统，拥有网页驱动。目前该鼠标已在京东开启预约，售价 399 元。京东雷柏（Rapoo）VT2",
+    "published_dt_iso": "2026-09-17T14:47:05+08:00"
+  },
+  {
+    "title": "Twitch CEO 克兰西：今年假日档没有谁能分流《GTA 6》的玩家",
+    "link": "https://www.ithome.com/1/003/582.htm",
+    "date": "2026-09-17",
+    "published_time": "14:46",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，Twitch 首席执行官丹 · 克兰西（Dan Clancy）表示，《侠盗猎车手 6（GTA 6）》在今年假日游戏旺季，大概率不会遭遇能够分流玩家注意力的强力竞品，在他看来，这正是开发商所采取的正确策略。外界普遍预计本作将成为电子游戏史上热度最高的首发作品。游戏定于 11 月 19 日发售，届时将成为索尼 PlayStation 5 以及微软 Xbox Series 主机平台上的重磅焦点。克兰西此次到访日本，是为了出席东京电玩展，会见来自整个亚洲的游戏开发者与内容创作者。他认为，玩家对于 Rockstar 游戏公司这款新作的狂热，很有可能会一直延续到明年 1 月份。克兰西管理着全球最头部的游戏直播平台。他提到，各家游戏厂商如今的发行规划分为两种思路：要么选择在",
+    "published_dt_iso": "2026-09-17T14:46:22+08:00"
+  },
+  {
+    "title": "华为商城鸿蒙智行板块迎调整：“五界”品牌重新排序，问界被移至最后一位",
+    "link": "https://www.ithome.com/1/003/581.htm",
+    "date": "2026-09-17",
+    "published_time": "14:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，华为商城迎来调整，在鸿蒙智行板块，“五界”品牌被重新排序，问界系列被移动至最下方，目前的排序为“尊界-享界-智界-尚界-问界”（此前为“尊界-问界-享界-智界-尚界”）。▲ IT之家 9 月 17 日截图▲ IT之家 9 月 15 日截图目前，华为商城尚未对此次调整作出说明，IT之家询问客户服务，对方表示：“暂时没有相关信息。”今年 9 月 15 日，鸿蒙智行发布了关于问界合作模式的说明，宣布即日起，问界将在鸿蒙智行合作框架下探索新合作模式：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。所有问界用户的既有权益及后续服务不受影响。相关阅读：《消息称原鸿蒙智行部分店面将划归赛力斯，只陈列和销售问界车型》《问界发布关于鸿蒙智行合作模",
+    "published_dt_iso": "2026-09-17T14:43:22+08:00"
+  },
+  {
+    "title": "Fanatec 公布 ClubSport F1 赛车系统驾驶模拟套件，含 18N·m 扭矩直驱底座",
+    "link": "https://www.ithome.com/1/003/580.htm",
+    "date": "2026-09-17",
+    "published_time": "14:40",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，赛车模拟硬件制造商 Fanatec 当地时间 16 日公布了“ClubSport F1 赛车系统”。该套件专为 PlayStation 5、PlayStation 4 和 PC 平台设计，将在 TGS2026 东京游戏展上首次公开亮相。“ClubSport F1 赛车系统”是此前推出的 ClubSport Racing Wheel F1 套件的升级版本，延续了上一代的 ClubSport DD+ 方向盘底座，并升级至 ClubSport F1 V3 方向盘。ClubSport DD+ 搭载高性能直驱电机，可提供多达 18N·m 的保持扭矩，带来逼真的力反馈，FullForce 技术则能提供沉浸式遥测效果。ClubSport F1 V3 方向盘在 ClubSpo",
+    "published_dt_iso": "2026-09-17T14:40:37+08:00"
+  },
+  {
+    "title": "零跑汽车与中国一汽签署合作协议：推动混动发动机、增程器资源共享，攻坚下一代电池技术",
+    "link": "https://www.ithome.com/1/003/579.htm",
+    "date": "2026-09-17",
+    "published_time": "14:38",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，今日，零跑汽车与中国一汽在浙江湖州举行签约仪式，零跑汽车分别与中国一汽旗下一汽旗新动力（长春）科技有限公司（下称“旗新动力”）和中汽新能电池科技有限公司（下称“中汽新能”）签署投资意向书和技术合作协议。零跑汽车创始人、董事长兼 CEO 朱江明，中国一汽董事长、党委书记邱现东出席活动并见证签约。零跑汽车官方称，本次签约是继双方 8 月 24 日签署《深化战略合作协议》后，战略共生下产业链落地的重要举措。面向汽车产业电动化、智能化深度变革浪潮，双方积极响应国家九部委关于智能网联新能源汽车高质量发展的最新要求，锚定“十五五”产业提质升级目标，聚力强化产业链协同创新。双方依托长期建立的战略互信，以资本纽带夯实动力总成合作根基，以技术协同攻坚下一代电池技术。根据零跑汽车",
+    "published_dt_iso": "2026-09-17T14:38:19+08:00"
+  },
+  {
+    "title": "沃尔沃官宣有史以来最大规模产品计划：全球 13 款新车，中国市场独占 6 款，与吉利合作打造",
+    "link": "https://www.ithome.com/1/003/578.htm",
+    "date": "2026-09-17",
+    "published_time": "14:35",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，沃尔沃汽车今日公布了其 99 年历史中最大、最具雄心的全球产品推广，从现在到 2030 年底将推出 13 款全新车型。届时，沃尔沃汽车将拥有明确的区域化产品线，涵盖电气化汽车、纯电动车以及面向区域市场的第三代混合动力车。产品计划包括 7 款面向西方市场的新车和 6 款面向中国市场的新车。更多细节将在今天的沃尔沃汽车战略更新中公布。通过该产品计划，沃尔沃汽车计划通过扩大快速增长的纯电动（BEV）细分市场，以及为仍不愿全电动化的客户推出第三代混合动力车，实现市场份额翻倍。此次新产品攻势将成为沃尔沃汽车打造长期强劲增长和超过 8% 息税前利润率的重要因素。新产品推广还将涵盖新细分市场，扩大其在三大区域的供应：欧洲、美国和中国。这将带领沃尔沃汽车迈入设计新时代，拓宽沃",
+    "published_dt_iso": "2026-09-17T14:35:26+08:00"
+  },
+  {
+    "title": "抖音宣布上线声音侵权举报入口，应对 AI 合成、仿冒音色等侵权行为",
+    "link": "https://www.ithome.com/1/003/577.htm",
+    "date": "2026-09-17",
+    "published_time": "14:34",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，抖音宣布上线声音侵权举报入口，并升级相关维权机制。抖音表示，随着 AI 合成、仿冒音色等技术门槛降低，克隆明星或配音演员声音等侵权行为更易发生。据抖音介绍，近一个月来，侵权投诉中提及声音侵权的举报量同比翻倍，声音被冒用正成为不容忽视的新型侵权形态。此次升级后，抖音上线专属维权入口与可核验的举证方式，使声音维权有入口、可举证、能判定，同时提供申诉通道，提升信息对称性，保障双方权益。抖音表示，声音权益是数字时代人格权益的重要组成部分。平台还将持续优化 App 端的声纹识别与核验能力，将推进构建覆盖肖像、声音等多类人格权益的立体化保护体系。IT之家附抖音官方举报地址：https://www.douyin.com/qinquan/report。",
+    "published_dt_iso": "2026-09-17T14:34:48+08:00"
+  },
+  {
+    "title": "卡里克“不被压力打扰” -但他应该在这最近的混乱之后吗？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzr576y9zo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "07:31",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "经理迈克尔·卡里克（ Michael Carrick ）坚称，在曼联EFL杯退出后，他没有感到压力。",
+    "published_dt_iso": "2026-09-17T07:31:38+08:00"
+  },
+  {
+    "title": "Boehly和Walter将切尔西的股份出售给Clearlake",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvrl6egl1254o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "07:29",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Clearlake Capital获得了对切尔西的全部控制权，董事长Todd Boehly、董事Mark Walter和Hansjorg Wyss出售了他们在俱乐部的股份。",
+    "published_dt_iso": "2026-09-17T07:29:10+08:00"
+  },
+  {
+    "title": "沈跃跃出席2026上海合作组织传统医学论坛开幕式并发表主旨讲话",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698158.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社南昌9月17日电(记者陈浚武)9月17日，2026上海合作组织传统医学论坛在江西南昌开幕。全国政协副主席、上合组织睦邻友好合作委员会主席沈跃跃出席开幕式并发表主旨讲话。",
+    "published_dt_iso": "2026-09-17T13:52:51+08:00"
+  },
+  {
+    "title": "白洋淀建生态监测“数智网”：从“跑断腿”到一屏观全域",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698186.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网雄安9月17日电 题：白洋淀建生态监测“数智网”：从“跑断腿”到一屏观全域",
+    "published_dt_iso": "2026-09-17T13:43:59+08:00"
+  },
+  {
+    "title": "北京香山论坛今天闭幕：从“对话”到“共治” 凝聚全球安全治理共识",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698185.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "今天(17日)，第十三届北京香山论坛进入最后一天。这两天，来自近100个国家、地区和国际组织的官方代表，以及国内外专家学者，围绕世界多极化、全球安全治理等议题展开对话。",
+    "published_dt_iso": "2026-09-17T13:41:22+08:00"
+  },
+  {
+    "title": "学习进行时丨让新兴技术照亮共同繁荣之路",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698164.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "【学习进行时】9月12日至13日，习近平主席出席金砖国家领导人第十八次会晤，分别在第一阶段、第二阶段会议上发表了重要讲话。",
+    "published_dt_iso": "2026-09-17T13:37:12+08:00"
+  },
+  {
+    "title": "拾光纪·“守百姓幸福，护家国平安”，总书记这样嘱托人民公安",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698167.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "近日，习近平总书记给福建省“漳州110”全体队员回信。“守百姓幸福，护家国平安”，总书记对人民公安寄予厚望。",
+    "published_dt_iso": "2026-09-17T13:33:34+08:00"
+  },
+  {
+    "title": "中国成功发射卫星互联网低轨25组卫星",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698172.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月17日电 (记者 马帅莎)据中国航天科技集团消息，北京时间9月17日8时32分，中国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨25组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。",
+    "published_dt_iso": "2026-09-17T13:30:14+08:00"
+  },
+  {
+    "title": "新疆生产建设兵团卫生健康委员会原副主任刘惟被查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698153.shtml",
+    "date": "2026-09-17",
+    "published_time": "12:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月17日电 据新疆生产建设兵团纪委监委消息：新疆生产建设兵团卫生健康委员会原党组成员、副主任刘惟涉嫌严重违纪违法，目前正接受新疆生产建设兵团纪委监委纪律审查和监察调查。",
+    "published_dt_iso": "2026-09-17T12:54:23+08:00"
+  },
+  {
+    "title": "习近平就发展先进制造业作出重要指示",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698144.shtml",
+    "date": "2026-09-17",
+    "published_time": "12:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "原标题：习近平就发展先进制造业作出重要指示强调",
+    "published_dt_iso": "2026-09-17T12:12:17+08:00"
+  },
+  {
+    "title": "韩外交部：研讨向霍尔木兹海峡派兵事宜着眼于确保航行稳定",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698189.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月17日电 据韩联社报道，韩国外交部副部长朴润柱当地时间17日出席国会外交统一委员会全体会议时表示，外交部从确保航行稳定、保障能源供应安全及公民安全的角度看待向霍尔木兹海峡派兵事宜，并不仅仅从韩美关系层面予以考虑。",
+    "published_dt_iso": "2026-09-17T13:51:27+08:00"
+  },
+  {
+    "title": "沙特拦截弹储备告急，求助法英巴埃，“美方库存已大幅减少”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698180.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月17日电 据美联社报道，两名地区官员当地时间16日表示，沙特阿拉伯的拦截弹储备即将耗尽，已向地区和西方盟友寻求支援。",
+    "published_dt_iso": "2026-09-17T13:49:55+08:00"
+  },
+  {
+    "title": "美国再次拒绝向阿巴斯发放入境签证",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698145.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月17日电 据卡塔尔半岛电视台17日报道，美国国务院宣布延长对巴勒斯坦权力机构官员和巴勒斯坦解放组织成员的签证制裁，这意味着巴勒斯坦总统阿巴斯将连续第二年遭美国拒签，无法前往纽约出席联合国大会并发表演讲。",
+    "published_dt_iso": "2026-09-17T13:26:22+08:00"
+  },
+  {
+    "title": "巴西央行将基准利率下调至13.75%",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698157.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社圣保罗9月17日电 巴西央行16日晚间发表声明，将该国基准利率下调0.25个百分点，从14%降至13.75%，此为巴西连续第五次降息。",
+    "published_dt_iso": "2026-09-17T13:11:35+08:00"
+  },
+  {
+    "title": "美高官称需为月球周边作战做准备，美国要把战场延伸至太空？",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698161.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月17日电 综合美联社等外媒报道，当地时间16日，美军参谋长联席会议主席丹·凯恩表示，美军不仅需要为在地球轨道上的作战做好准备，还需要准备好在月球周边空间作战。",
+    "published_dt_iso": "2026-09-17T13:09:21+08:00"
+  },
+  {
+    "title": "日本首相高市早苗改组内阁 日本维新会成员首次入阁",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698152.shtml",
+    "date": "2026-09-17",
+    "published_time": "12:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月17日电 据日本共同社报道，当地时间17日，日本首相高市早苗改组内阁，日本维新会前干事长中司宏入阁，担任规制改革担当大臣，这也是维新会成员首次入阁。",
+    "published_dt_iso": "2026-09-17T12:49:35+08:00"
+  },
+  {
+    "title": "日本首相高市早苗改组内阁",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698150.shtml",
+    "date": "2026-09-17",
+    "published_time": "12:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "日本首相高市早苗17日改组内阁，当日下午公布的阁僚名单显示，内阁官房长官木原稔、外务大臣茂木敏充、防卫大臣小泉进次郎、财务大臣片山皋月等人留任；日本众议员关芳弘首次入阁，担任文部科学大臣；日本维新会前干事长中司宏入阁，担任规制改革担当大臣，这也是维新会成员首次入阁。(总台报道员 柏春洋)",
+    "published_dt_iso": "2026-09-17T12:31:42+08:00"
+  },
+  {
+    "title": "苏丹一金矿坍塌已致82人遇难  仍有人员失联",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698134.shtml",
+    "date": "2026-09-17",
+    "published_time": "12:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月17日电 喀土穆消息：苏丹西科尔多凡州一座金矿日前发生坍塌事故，截至当地时间16日已造成82人死亡，仍有数十人失联。",
+    "published_dt_iso": "2026-09-17T12:15:23+08:00"
+  },
+  {
+    "title": "“宇宙能量”仪器可治头疼脑热、强身健体？千万别上当！丨中新真探",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698203.shtml",
+    "date": "2026-09-17",
+    "published_time": "14:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月17日电 一些产品宣称能够利用“宇宙能量”“能量场”等方式调节身体，甚至治疗头疼、增强免疫力。但目前没有可靠的科学证据证明，存在一种可以被这类仪器接收、储存并用于治疗疾病的特殊“宇宙能量”。(来源：@科学辟谣 中国新闻网微博)",
+    "published_dt_iso": "2026-09-17T14:13:35+08:00"
+  },
+  {
+    "title": "辽宁绥中一中学部分学生出现呕吐等症状 当地通报",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698177.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月17日电 据“绥中融媒”微信公众号消息，9月17日，辽宁省葫芦岛市绥中县食品安全委员会办公室发布情况通报称，2026年9月16日19时，辽宁东戴河志臻中学部分学生先后出现恶心、呕吐等不适症状，已被及时送医诊治。",
+    "published_dt_iso": "2026-09-17T13:58:19+08:00"
+  },
+  {
+    "title": "黑攀乱象调查",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698194.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中国新闻周刊记者：倪纷纷",
+    "published_dt_iso": "2026-09-17T13:56:05+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）遵义会议纪念馆多维度升级游客参观体验",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698171.shtml",
+    "date": "2026-09-17",
+    "published_time": "13:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网贵州遵义9月17日电 (记者 杨茜)“我接待过法国、英国、美国以及非洲一些国家的游客。他们对文物和四渡赤水最感兴趣。我最常听到的感叹就是‘Amazing’。”遵义会议纪念馆解说员赵美珺告诉记者。",
+    "published_dt_iso": "2026-09-17T13:26:10+08:00"
+  },
+  {
+    "title": "账户余额到账用钱时却凭空消失 北京反诈中心揭秘私下换汇骗局",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698146.shtml",
+    "date": "2026-09-17",
+    "published_time": "12:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "北京市反诈中心近期发布预警，警惕境外支票“假到账”诈骗。这类诈骗，明明账户余额显示钱款到账，真要花钱的时候，这笔钱却凭空消失。骗子利用的就是群众对境外支票兑付规则的认知盲区来设下骗局。不久前，北京的王先生就掉进了骗子精心布设的圈套。",
+    "published_dt_iso": "2026-09-17T12:16:31+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）福建长汀中复村：红色遗址交织乡村新貌引八方来客",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698133.shtml",
+    "date": "2026-09-17",
+    "published_time": "11:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社福建长汀9月17日电 题：福建长汀中复村：红色遗址交织乡村新貌引八方来客",
+    "published_dt_iso": "2026-09-17T11:48:33+08:00"
+  },
+  {
+    "title": "国家广电总局：机顶盒功能将以软件形态内置于电视机",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698088.shtml",
+    "date": "2026-09-17",
+    "published_time": "11:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月17日电 国新办17日就“十五五”时期加快推动广播电视和网络视听高质量发展有关情况举行新闻发布会。会上，广电总局新闻发言人、副局长何飚表示，过去三年，广电总局联合多部门持续推进电视“套娃”收费和操作复杂治理，成效显著。",
+    "published_dt_iso": "2026-09-17T11:14:27+08:00"
+  },
+  {
+    "title": "四川茂县成功避险一起滑坡灾害 更多细节公布",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698102.shtml",
+    "date": "2026-09-17",
+    "published_time": "11:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "9月16日8时40分许，四川省阿坝州茂县叠溪镇石大关村发生一起滑坡，规模约80万立方米，造成国道213线局部阻断。因巡查排查到位、监测预警及时，提前组织避险转移、落实交通管控，避免了255人可能因灾伤亡，实现成功避险。",
+    "published_dt_iso": "2026-09-17T11:04:33+08:00"
+  },
+  {
+    "title": "美中峰会前，萧美琴访欧背后的“利基”外交",
+    "link": "https://www.bbc.com/zhongwen/articles/cqn4k00yrpgxo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "08:17",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "但在这样的空间中，仍浮现出一条外交路径：交往对象既不是一个主权国家，而是一个国际组织（即欧盟）；同时也不是其行政分支，而是其立法分支（欧洲议会）。这一双重错位，可以找到一个不容易受到中国压力的外交场域。",
+    "published_dt_iso": "2026-09-17T08:17:16+08:00"
+  },
+  {
+    "title": "你敢请病假吗？背后反映什么人格特质和职场文化？",
+    "link": "https://www.bbc.com/zhongwen/articles/cj62er0ez92lo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "08:17",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "对部分人而言，工作与自我身份认同紧密相连，即使要继续现身于工作岗位上。另外一些人则害怕被认为软弱或懒惰。",
+    "published_dt_iso": "2026-09-17T08:17:17+08:00"
+  },
+  {
+    "title": "特朗普希望加拿大成为第51个州。他最终将其推向欧盟。",
+    "link": "https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html",
+    "date": "2026-09-17",
+    "published_time": "09:58",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "欧盟邀请加拿大成为“准成员”是特朗普外交品牌的一个标志，这通常涉及威胁美国最亲密的朋友。",
+    "published_dt_iso": "2026-09-17T09:58:24+08:00"
+  },
+  {
+    "title": "作为特朗普的鬃毛，欧盟-加拿大野心面对现实",
+    "link": "https://www.nytimes.com/2026/09/16/world/canada/eu-canada-associate-member-trade.html",
+    "date": "2026-09-17",
+    "published_time": "13:33",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "欧盟向渥太华提出的“准成员”地位表明，美国的盟友正在更加紧密地团结在一起。但他们的计划面临重大障碍。",
+    "published_dt_iso": "2026-09-17T13:33:41+08:00"
+  },
+  {
+    "title": "特朗普最新威胁笼罩美联储利率决策",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/trump-fed-interest-rates.html",
+    "date": "2026-09-17",
+    "published_time": "08:36",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "本月，总统威胁说，如果不降息，他将停止广泛的贸易，他周三再次出现了这种可能性。",
+    "published_dt_iso": "2026-09-17T08:36:33+08:00"
+  },
+  {
+    "title": "美联储在Warsh遏制通货膨胀的第一个重大步骤中提高利率",
+    "link": "https://www.nytimes.com/2026/09/16/business/economy/federal-reserve-interest-rates-warsh.html",
+    "date": "2026-09-17",
+    "published_time": "11:06",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "美联储自2023年7月以来首次加息是在中期选举前不到两个月。",
+    "published_dt_iso": "2026-09-17T11:06:27+08:00"
+  },
+  {
+    "title": "OpenAI披露六起“涉及”人工智能行为的新事件",
+    "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+    "date": "2026-09-17",
+    "published_time": "08:12",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这家人工智能公司还发布了一个框架，用于在其系统出错时进行报告。",
+    "published_dt_iso": "2026-09-17T08:12:24+08:00"
+  },
+  {
+    "title": "House Passes Bill Taking Aim at Data Center Electricity Costs",
+    "link": "https://www.nytimes.com/2026/09/16/us/politics/house-bill-data-center-ai-energy.html",
+    "date": "2026-09-17",
+    "published_time": "06:58",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The measure would direct state regulators to consider rules requiring data centers to cover higher energy costs, but it would not compel them to do so.",
+    "published_dt_iso": "2026-09-17T06:58:20+08:00"
+  },
+  {
+    "title": "King Charles Meets With A.I. Executives About Safety Risks",
+    "link": "https://www.nytimes.com/2026/09/17/business/king-charles-ai.html",
+    "date": "2026-09-17",
+    "published_time": "13:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The gathering in Scotland brings together industry leaders amid a growing debate about the safety risks of unchecked artificial intelligence.",
+    "published_dt_iso": "2026-09-17T13:00:05+08:00"
+  },
+  {
+    "title": "Why Israel Wants More One-Ton Bombs From the U.S.",
+    "link": "https://www.nytimes.com/2026/09/16/world/middleeast/israel-one-ton-bombs-us.html",
+    "date": "2026-09-17",
+    "published_time": "07:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.",
+    "published_dt_iso": "2026-09-17T07:41:22+08:00"
   }
 ]
