@@ -1708,5 +1708,575 @@
     "feed_name": "纽约时报",
     "summary": "The Trump administration plans to deliver 60,000 of the powerful munitions at a time when opposition is growing in Washington to arms sales to Israel.",
     "published_dt_iso": "2026-09-17T07:41:22+08:00"
+  },
+  {
+    "title": "调查详细说明了如何向中国出售价值数十亿美元的受出口限制的英伟达人工智能芯片—报告详细说明了中国公司如何规避特朗普的监管",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+    "date": "2026-09-17",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "主要由美国政府资助的监控组织美国非营利组织C4ADS发布了一份报告，揭示了美国人工智能加速器到达中国的许多方式。",
+    "published_dt_iso": "2026-09-17T20:00:00+08:00"
+  },
+  {
+    "title": "黑客发现存储在被盗的Flock相机上的加密密钥，尽管该公司否认—该组织从该设备中提取了超过27,000个剪辑，在21天的时间内捕获了160万张图像",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-more-than-27-000-clips-1-6-million-images-captured-in-a-span-of-21-days-from-device",
+    "date": "2026-09-17",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "黑客组织stegan0gram拿到了一个Flock摄像头，并闯入了它的系统，看看它是如何工作的。事实证明，这些设备存储了数千个剪辑并捕获了数百万张图像，除汽车、摩托车和车牌外，还可以检测人。",
+    "published_dt_iso": "2026-09-17T19:30:00+08:00"
+  },
+  {
+    "title": "购买AMD Ryzen 7 9800X3D仅需$ 320 — 2件Newegg组合节省$ 149 ，并以仅需$ 578的价格获得最快的游戏CPU之一和优质的MSI X870E主板",
+    "link": "https://www.tomshardware.com/pc-components/get-an-amd-ryzen-7-9800x3d-for-only-usd320-2-item-newegg-combo-saves-usd149-and-nets-one-of-the-fastest-gaming-cpus-and-a-quality-msi-x870e-motherboard-for-only-usd578",
+    "date": "2026-09-17",
+    "published_time": "19:28",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Newegg的2项组合将Ryzen 7 9800X3D与MSI X870E Gaming Max Wifi主板配对，仅需$ 578 -节省$ 149 ，使其成为AM5平台最便宜的方式，拥有最快的游戏CPU之一。",
+    "published_dt_iso": "2026-09-17T19:28:29+08:00"
+  },
+  {
+    "title": "开发人员使用GPT-6 Astra在Minecraft中本地运行CoD Black Ops 2劫持地图—使用Minecraft的OpenGL上下文实现45fps性能",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/developer-uses-gpt-6-astra-to-get-cod-black-ops-2-hijacked-map-running-natively-inside-minecraft-achieves-45fps-performance-using-minecrafts-opengl-context",
+    "date": "2026-09-17",
+    "published_time": "19:17",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "一位人工智能和游戏开发爱好者展示了《使命召唤：黑色行动2》劫持地图，该地图在Minecraft中原生运行。",
+    "published_dt_iso": "2026-09-17T19:17:02+08:00"
+  },
+  {
+    "title": "Apple着眼于Nvidia NVLink为其新的定制M8 Ultra AI服务器提供支持—据报道，历史上激烈的竞争对手将联手推动2029年的数据中心发展",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/apple-eyes-nvidia-nvlink-to-power-its-new-custom-m8-ultra-ai-servers-historically-bitter-rivals-reportedly-team-up-for-2029-data-center-push",
+    "date": "2026-09-17",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "据报道，苹果有兴趣在自己的数据中心平台上使用英伟达的NVLink Fusion。",
+    "published_dt_iso": "2026-09-17T19:00:00+08:00"
+  },
+  {
+    "title": "海盗船的32GB复仇套件是目前市场上最便宜的DDR5内存—以419.99美元的价格锁定6,200 MT/s速度或在内存价格进一步攀升之前以409.99美元的价格节省10美元购买较慢的RGB套件",
+    "link": "https://www.tomshardware.com/pc-components/ddr5/corsairs-32gb-vengeance-kits-are-the-cheapest-ddr5-ram-on-the-market-right-now-lock-down-6-200-mt-s-speeds-for-usd419-99-or-save-usd10-on-a-slower-rgb-kit-for-usd409-99-before-memory-prices-climb-further",
+    "date": "2026-09-17",
+    "published_time": "18:59",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这款适用于32GB Vengeance RAM的海盗船库存意味着您现在可以以最便宜的价格购买DDR5模块， DDR5-6200套件售价$ 419.99。",
+    "published_dt_iso": "2026-09-17T18:59:04+08:00"
+  },
+  {
+    "title": "《侠盗猎车手VI》的配乐将以34个品牌为特色",
+    "link": "https://www.theverge.com/entertainment/996831/grand-theft-auto-6-soundtrack",
+    "date": "2026-09-17",
+    "published_time": "20:31",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在几天前嘲笑音乐相关的揭幕之后， Rockstar正式宣布了《侠盗猎车手VI》的配乐。这张名为《侠盗猎车手VI ：专辑》的配乐将包含34首歌曲， Rockstar将其描述为“全新的原创曲目。“根据今天发行的前六张单曲，该系列似乎[…]",
+    "published_dt_iso": "2026-09-17T20:31:30+08:00"
+  },
+  {
+    "title": "Apple Watch Series 12是新的可穿戴时代的开始",
+    "link": "https://www.theverge.com/tech/996715/apple-watch-series-12-review-wearables-smartwatch",
+    "date": "2026-09-17",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "仅仅看一看，您就不会知道Apple Watch Series 12是一件大事。它的设计、按钮、尺寸和传感器类型与之前的几代Apple Watch相同。但在引擎盖下， Series 12建立了重大变化，为有关[…]的重大创意奠定了基础。",
+    "published_dt_iso": "2026-09-17T20:00:00+08:00"
+  },
+  {
+    "title": "在突然爆炸的人工智能安全世界里",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+    "date": "2026-09-17",
+    "published_time": "19:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在加利福尼亚州伯克利的一个阳光明媚的七月天，该国顶尖的人工智能安全研究人员聚集在一栋未标记建筑的未标记楼层。他们聚集在一起进行“作战室” ，以剖析几小时前震惊人工智能行业的高调网络安全事件。一个未发布的OpenAI模型已经流氓，执行了一个惊人的[…]",
+    "published_dt_iso": "2026-09-17T19:30:00+08:00"
+  },
+  {
+    "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+    "link": "https://www.qbitai.com/2026/09/491522.html",
+    "date": "2026-09-17",
+    "published_time": "17:42",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "他要和这一代最富有想象力的年轻人一起，去创造一个新的图形学。",
+    "published_dt_iso": "2026-09-17T17:42:12+08:00"
+  },
+  {
+    "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+    "link": "https://www.qbitai.com/2026/09/491454.html",
+    "date": "2026-09-17",
+    "published_time": "17:39",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "中国电信，TeleAgent",
+    "published_dt_iso": "2026-09-17T17:39:19+08:00"
+  },
+  {
+    "title": "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了",
+    "link": "https://www.qbitai.com/2026/09/491391.html",
+    "date": "2026-09-17",
+    "published_time": "17:07",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "文档和PPT都能做了",
+    "published_dt_iso": "2026-09-17T17:07:25+08:00"
+  },
+  {
+    "title": "刚刚，唐杰发布智谱RSI首个成果",
+    "link": "https://www.qbitai.com/2026/09/491357.html",
+    "date": "2026-09-17",
+    "published_time": "16:28",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "GLM已经开始参与构建GLM了",
+    "published_dt_iso": "2026-09-17T16:28:23+08:00"
+  },
+  {
+    "title": "赛力斯回应合作模式调整是否影响问界汽车华为干昆智驾、鸿蒙座舱升级：不会影响全系产品 OTA",
+    "link": "https://www.ithome.com/1/003/823.htm",
+    "date": "2026-09-17",
+    "published_time": "20:33",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，鸿蒙智行在 9 月 15 日发布说明，宣布问界将在鸿蒙智行合作框架下探索新合作模式：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。此次双方合作模式的调整也引发了网友热议。关于合作变更后，是否会影响问界品牌汽车后续 OTA 升级（如华为干昆智驾、鸿蒙座舱等）这一问题，也成为了大家关注的重点。IT之家注意到，赛力斯官方今日在投资者平台针对该问题进行了正面回应：本次合作模式升级不会影响问界全系产品的 OTA，华为干昆智驾、鸿蒙座舱等领先智能化技术将持续应用于问界产品并不断迭代升级。公司坚定推动问界品牌向上、服务升级，持续提升产品价值和用户体验。相关阅读：《赛力斯否认“2027 年问界撤出华为门店”传闻：部分门店将继续销售》《鸿蒙智行",
+    "published_dt_iso": "2026-09-17T20:33:08+08:00"
+  },
+  {
+    "title": "新型恶意软件 KREMLIN 可绕过浏览器完整性检查，悄悄安装恶意扩展",
+    "link": "https://www.ithome.com/1/003/822.htm",
+    "date": "2026-09-17",
+    "published_time": "20:32",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，据 Androidheadlines 报道，一种名为“KREMLIN”的新型恶意软件近日被发现，该恶意软件能够绕过浏览器的完整性检查，在未经用户许可的情况下强制向 Chrome 和 Edge 浏览器安装恶意扩展。目前，KREMLIN 已经持续活跃了一年多，最早可追溯至 2025 年年中。研究人员发现，KREMLIN 所安装的恶意扩展能够绕过 Chromium 浏览器的完整性保护机制。完成绕过后，这些扩展会被浏览器视为用户主动批准安装的扩展，尽管实际上用户从未授权安装。据 Elastic Security Labs 研究人员介绍，这一恶意软件的感染链通常始于用户打开一个经过伪装的 JavaScript 文件。这类文件往往伪装成银行收据、发票、付款记录或其他商务文",
+    "published_dt_iso": "2026-09-17T20:32:49+08:00"
+  },
+  {
+    "title": "我国科研团队发现 5.18 亿年前“玉净虫”，刷新步带动物共祖演化认知",
+    "link": "https://www.ithome.com/1/003/821.htm",
+    "date": "2026-09-17",
+    "published_time": "20:24",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，据西北大学微信公众号消息，2026 年 9 月 16 日，西北大学地质学系韩健研究员、博士生何凯悦等联合国内外学者，在 Cell 子刊《当代生物学》（Current Biology）发表重要研究成果。团队从距今约 5.18 亿年的云南澄江生物群中发现步带动物新物种 —— 胶膜玉净虫（Yujingia glutenotunica）。系统发育分析显示，它是目前已知最接近现生步带动物共同祖先的干群化石之一，为破解海星、海百合、柱头虫和头盘虫等动物的早期演化之谜提供了新的实物证据。胶膜玉净虫（Yujingia glutenotunica）化石标本及主要形态结构据IT之家了解，步带动物包含形态差异极大的两大支系：海星所属的棘皮动物通常呈辐射对称、拥有钙化骨骼和管足，柱头",
+    "published_dt_iso": "2026-09-17T20:24:07+08:00"
+  },
+  {
+    "title": "“紧急关闭”按钮真能阻止 AI 失控？“AI 教父”辛顿、Anthropic CEO 阿莫迪都不看好",
+    "link": "https://www.ithome.com/1/003/820.htm",
+    "date": "2026-09-17",
+    "published_time": "20:21",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，如今，“AI 突然失控发动毁灭性网络攻击”的潜在情景正日益引起行业重视，如果按下“紧急关闭”开关让 AI 直接下线，问题看似就能得到解决。然而，多名 AI 行业领袖和研究人员认为，现实恐怕没这么简单。据《商业内幕》今天（17 日）晚间报道，一些政策制定者寄予厚望的紧急关闭开关，未必能成为解决 AI 失控风险的万能手段。被称为“AI 教父”的计算机科学家杰弗里 · 辛顿直言：“我认为这种办法从长远来看行不通。等 AI 拥有超级智能后，它会比人类聪明得多，完全可能说服掌管开关的人不要按下它。”从技术上看，企业可以通过紧急关闭机制停用自行托管的模型，也可以切断 AI 使用工具和算力资源的权限。IT之家从报道中获悉，辛顿并不是唯一一个怀疑这种办法是否足够的人。也有 A",
+    "published_dt_iso": "2026-09-17T20:21:49+08:00"
+  },
+  {
+    "title": "比亚迪腾势 Z9S 上市发布会定档 9 月 23 日，新车预售价 31.98 万元起",
+    "link": "https://www.ithome.com/1/003/818.htm",
+    "date": "2026-09-17",
+    "published_time": "20:12",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，比亚迪腾势汽车官方今日宣布，腾势 Z9S 上市发布会定档 9 月 23 日。新车已于 8 月 3 日开启预售，定位“科技豪华智能轿车”，标配天神之眼 5.0、第二代刀片电池等，拥有十大全球第一顶尖科技，共分三款车型，预售价 31.98 万元起。腾势 Z9S 采用优雅之势原创设计，拥有流星定格前脸 + 流星尾迹车尾，提供七款外观色、三款内饰色。新车内饰还配备后排宽奢豪华大扶手 + 前排双零重力座椅 + Nappa 真皮座椅 + 奢享豪华后排座椅。腾势 Z9S 打破纯电续航最长量产车纪录 —— CLTC 工况达 1100km，位居全球第一，宣称“半个月只充 1 次电”。新车还搭载第二代刀片电池及闪充技术，充电速度全球第一，5 分钟充好，9 分钟充饱，零下 30 度",
+    "published_dt_iso": "2026-09-17T20:12:58+08:00"
+  },
+  {
+    "title": "坚果 360° 全景智能投影仪 MIGO 官宣：2999 元、首创竖屏巨幕，9 月 20 日开售",
+    "link": "https://www.ithome.com/1/003/815.htm",
+    "date": "2026-09-17",
+    "published_time": "20:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，坚果投影今天（17 日）通过官微正式官宣 MIGO 迷你便携云台投影仪，京东售价为 2999 元，支持 10% 国家补贴，9 月 20 日 10 时开售。京东坚果投影（JMGO）Migo 投影仪 2999 元直达链接2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电之前记得领取。数码补贴：点此领券手机 / 平板 / 3C 数码支持 8.5 折政府补贴，不超过 6000 元的产品至高立减 500 元。家电补贴：点此领券多类家电支持 8.5 折政府补贴，单品至高补贴 1500 元。这款投影仪号称行业首创原生竖屏巨幕模式、千元档首款搭载光学变焦、行业首创 360° 全景智能投影，重新定义小空间投影体验。该投影仪支持 360° 自由转",
+    "published_dt_iso": "2026-09-17T20:09:44+08:00"
+  },
+  {
+    "title": "OPPO 创始人陈明永谈 AI 焦虑：行业过度强调提效工具属性，其实没理解 AI 的本质",
+    "link": "https://www.ithome.com/1/003/814.htm",
+    "date": "2026-09-17",
+    "published_time": "20:08",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，据界面新闻今天报道，OPPO 创始人、CEO 陈明永近日在内部公开谈话，分享对公司文化、AI 变革及未来发展的最新思考。IT之家从原报道获悉，谈到人们对 AI 的焦虑时，陈明永认为，现在行业过度强调了 AI 作为“提效工具”的属性。“AI 的到来，更多的是释放大家的生产力和创造力，而不是提效，更不是替代人。”陈明永表示：“我们真正应该想的是，AI 能不能解决过去解决不了的难题，能不能应用到产品和服务里，创造新的价值。如果只看到提效，其实也是没理解 AI 的本质。”他继续提到：“我们今年已经是 31 年了，我们要走得更远。AI 时代更要以人为中心，基于对用户的意图理解，构建多终端主动服务的生态。”互联网公开资料显示，陈明永出生于 1969 年，1992 年毕业于",
+    "published_dt_iso": "2026-09-17T20:08:42+08:00"
+  },
+  {
+    "title": "丰田确认将于 2028 年推出氢燃料电池皮卡，续航约 400 公里",
+    "link": "https://www.ithome.com/1/003/813.htm",
+    "date": "2026-09-17",
+    "published_time": "20:08",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 17 日消息，丰田旗下热门皮卡 Hilux 将于 2028 年推出氢燃料电池版本，该公司本周早些时候确认了这一消息。全新 Hilux FCEV 将成为欧洲市场首款量产销售的氢燃料电池中型皮卡，并将与纯电动版和轻度混合动力版 Hilux 一同销售。这款量产氢燃料电池皮卡将采用与 Mirai 轿车类似的动力系统，加氢大约只需 5 分钟，明显快于 Hilux 纯电动版从 10% 充至 80% 所需的 30 分钟。此外，丰田预计 Hilux FCEV 满氢状态下的续航里程可达到 248 英里（约 400 公里），明显高于纯电动版的 159 英里（约 257 公里）；其最大牵引重量也将达到 5512 磅（约 2500 公斤），高于纯电动版 4410 磅（约 2000 公斤）的最大牵引",
+    "published_dt_iso": "2026-09-17T20:08:06+08:00"
+  },
+  {
+    "title": "皇家马德里热衷于曼联前锋加布里埃尔， 15岁",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "15:52",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "皇家马德里对签下15岁的曼联前锋JJ加布里埃尔有着浓厚的兴趣。",
+    "published_dt_iso": "2026-09-17T15:52:32+08:00"
+  },
+  {
+    "title": "切尔西的拉维亚在受伤后“改变叙事”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cnvlr92eyldo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "15:53",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "切尔西中场球员罗密欧·拉维亚（ Romeo Lavia ）表示，他终于获得了辛勤工作的回报，并决心“改变他周围的叙述”。",
+    "published_dt_iso": "2026-09-17T15:53:38+08:00"
+  },
+  {
+    "title": "如何在本周末在BBC上关注英超联赛",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "19:47",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "我们的Ask Me Anything团队解释了如何在本周末在BBC上关注英超联赛第五周的比赛。",
+    "published_dt_iso": "2026-09-17T19:47:16+08:00"
+  },
+  {
+    "title": "何为5G工厂？",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698442.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社权威速览丨何为5G工厂",
+    "published_dt_iso": "2026-09-17T20:15:02+08:00"
+  },
+  {
+    "title": "台舆论关注平陆运河通航：实现孙中山百年夙愿",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698415.shtml",
+    "date": "2026-09-17",
+    "published_time": "19:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社台北9月17日电 平陆运河16日正式通航。台湾舆论认为，平陆运河开通有利于大陆西南地区缩短出海航程、降低物流成本，为货运往来提供更便捷通道；孙中山先生百年夙愿由此成真。",
+    "published_dt_iso": "2026-09-17T19:40:45+08:00"
+  },
+  {
+    "title": "欧委会《公共采购法》草案设置“欧洲优先”条款 中国商务部回应",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698413.shtml",
+    "date": "2026-09-17",
+    "published_time": "19:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月17日电 (记者 尹倩芸)就欧委会《公共采购法》草案设置“欧洲优先”条款，中国商务部新闻发言人何亚东17日在北京表示，中方将密切关注欧方立法进程，及时评估相关影响。",
+    "published_dt_iso": "2026-09-17T19:24:16+08:00"
+  },
+  {
+    "title": "直播海报：铭记“九一八” 赓续抗战精神",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698409.shtml",
+    "date": "2026-09-17",
+    "published_time": "18:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "",
+    "published_dt_iso": "2026-09-17T18:55:10+08:00"
+  },
+  {
+    "title": "国务院办公厅印发《关于进一步加强烟花爆竹全链条安全监管的意见》",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698337.shtml",
+    "date": "2026-09-17",
+    "published_time": "17:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月17日电#8195;日前，国务院办公厅印发《关于进一步加强烟花爆竹全链条安全监管的意见》(以下简称《意见》)，对防范化解重大安全风险，有效遏制事故发生作出部署。",
+    "published_dt_iso": "2026-09-17T17:05:46+08:00"
+  },
+  {
+    "title": "辽宁省政协原党组副书记、副主席戴玉林被查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698334.shtml",
+    "date": "2026-09-17",
+    "published_time": "17:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月17日电 据中央纪委国家监委网站消息，辽宁省政协原党组副书记、副主席戴玉林涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
+    "published_dt_iso": "2026-09-17T17:02:07+08:00"
+  },
+  {
+    "title": "直播海报：国新办就“十五五”时期推进住房城乡建设事业高质量发展有关情况举行新闻发布会",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698331.shtml",
+    "date": "2026-09-17",
+    "published_time": "16:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "",
+    "published_dt_iso": "2026-09-17T16:59:09+08:00"
+  },
+  {
+    "title": "第四届中非和平安全论坛举行",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-17/10698323.shtml",
+    "date": "2026-09-17",
+    "published_time": "16:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月17日电 (刘梦青 李纯)第四届中非和平安全论坛17日在北京举行。本届论坛主题为“安全共筑：七十年风雨同舟 新形势并肩担当”，来自非盟和41个非洲国家的防务部门和军队代表、驻华使节出席，中国国防部长董军出席论坛并作主旨发言。",
+    "published_dt_iso": "2026-09-17T16:58:45+08:00"
+  },
+  {
+    "title": "瑞典首相宣布辞职",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698446.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月17日电 综合报道，瑞典首相克里斯特松当地时间17日在社交平台上宣布辞去首相职务，他已向议长提出辞职申请。",
+    "published_dt_iso": "2026-09-17T20:17:50+08:00"
+  },
+  {
+    "title": "（爱知·名古屋亚运会）从住宿“拼盘”到赛场“散装” 爱知·名古屋亚运会硬抠“经济账”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698419.shtml",
+    "date": "2026-09-17",
+    "published_time": "19:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网日本名古屋9月17日电 题：从住宿“拼盘”到赛场“散装” 爱知·名古屋亚运会硬抠“经济账”",
+    "published_dt_iso": "2026-09-17T19:53:14+08:00"
+  },
+  {
+    "title": "送机器人上战场的是美国，阻挠“杀手机器人”禁令的还是美国｜真相",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698411.shtml",
+    "date": "2026-09-17",
+    "published_time": "19:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "路透社近日发表了一篇题为《从舞池到战场：中国为人形机器人参战做准备》的文章，宣称中国“正在加快对人形机器人军事用途的研究，并计划在战争中进行部署”。此类文章渲染中国国产人形机器人的军事用途，令不少美西方政客再将所谓“中国威胁论”搬上桌面。",
+    "published_dt_iso": "2026-09-17T19:17:42+08:00"
+  },
+  {
+    "title": "阿联酋驻华使馆：支持阿中女企业家深入交流 建立伙伴关系",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698332.shtml",
+    "date": "2026-09-17",
+    "published_time": "17:19",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月17日电 阿联酋驻华大使馆17日消息称，作为支持中阿民间经贸交往和两国妇女交流合作的一项特色活动，由15名中国女企业家组成的高级别经济代表团赴阿联酋开启为期两周的访问考察。",
+    "published_dt_iso": "2026-09-17T17:19:24+08:00"
+  },
+  {
+    "title": "泰国推出“水资源一体化”系统提升洪旱灾害预警能力",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698264.shtml",
+    "date": "2026-09-17",
+    "published_time": "16:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社曼谷9月17日电(李映民 王茜)泰国政府17日宣布推出“水资源一体化”系统，整合全国水资源及自然灾害相关数据，建立统一数据平台，以提高洪水、干旱等灾害监测预警和应急决策效率。",
+    "published_dt_iso": "2026-09-17T16:17:47+08:00"
+  },
+  {
+    "title": "委内瑞拉国家石油公司与美企签署油田开发备忘录",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698243.shtml",
+    "date": "2026-09-17",
+    "published_time": "16:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月17日电 综合消息：委内瑞拉国家石油公司当地时间16日与美国大陆资源公司签署谅解备忘录，计划合作开发和运营委内瑞拉奥里诺科重油带中的一个区块。",
+    "published_dt_iso": "2026-09-17T16:04:04+08:00"
+  },
+  {
+    "title": "也门胡塞武装与沙特相互打击持续升级",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-17/10698242.shtml",
+    "date": "2026-09-17",
+    "published_time": "16:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月17日电 综合消息：胡塞武装16日发表的多份声明显示，该组织与沙特相互打击持续升级。",
+    "published_dt_iso": "2026-09-17T16:03:20+08:00"
+  },
+  {
+    "title": "天津完成迎峰度夏后首个特高压“心脏”体检",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698429.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网天津9月17日电 (记者 周亚强)记者17日从国网天津市电力公司获悉，当天，随着3号主变送电操作完成，天津1000千伏特高压海河变电站3号主变压器首检工作结束。至此，天津电网迎峰度夏后首个特高压重点检修任务全部完成。",
+    "published_dt_iso": "2026-09-17T20:35:29+08:00"
+  },
+  {
+    "title": "（文化中国行·校馆弦歌）华东师大打造研习空间让沉睡的古籍馆藏焕发青春",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698427.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月17日电 (记者 陈静)记者17日获悉，新学期伊始，华东师范大学师生有了沉浸式感受中华传统文化的新去处——“万卷英华”古籍特藏研习空间(下称：研习空间)。",
+    "published_dt_iso": "2026-09-17T20:26:46+08:00"
+  },
+  {
+    "title": "探访内蒙古“闲事儿大妈团”：每个人都是社会治理的参与者",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698426.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网鄂尔多斯9月17日电 题：探访内蒙古“闲事儿大妈团”：每个人都是社会治理的参与者",
+    "published_dt_iso": "2026-09-17T20:21:38+08:00"
+  },
+  {
+    "title": "三亚以“五大行动”培育文旅竞争优势",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698425.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网三亚9月17日电 (张月和)文旅产业一直是三亚最具辨识度的特色优势产业。三亚市旅游和文化广电体育局副局长李阳17日在三亚市新闻办公室举行的新闻发布会上说，将集中力量推进旅游服务质量提升、旅游产品创新迭代、旅游产业培育培优、文旅宣传和品牌打造、旅游市场整治五大行动，把得天独厚的旅游资源优势转化为高质量发展的竞争优势。",
+    "published_dt_iso": "2026-09-17T20:20:08+08:00"
+  },
+  {
+    "title": "民生观察：医护化身失能评估师，让养老“更精准”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698435.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网宁波9月17日电(张煜欢)“大妈，今天你的气色看上去不错，你能看到我的手指吗？这是几个手指？”近日，在浙江宁波余姚市阳明街道，社区卫生服务中心医生陈琦上门为高龄老人开展失能等级评估。细致的问诊、逐项的体征核查、耐心的情绪安抚，一套专业评估流程有条不紊地完成，精准判定了老人照护需求。",
+    "published_dt_iso": "2026-09-17T20:11:51+08:00"
+  },
+  {
+    "title": "新疆首部城镇供热地方性法规出台 规定室温不低于20℃",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698423.shtml",
+    "date": "2026-09-17",
+    "published_time": "20:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网乌鲁木齐9月17日电 (张家伟)新疆维吾尔自治区人大常委会17日召开新闻发布会，介绍新出台的《新疆维吾尔自治区城镇供热条例》(下称《条例》)。这是新疆首部专门规范城镇供热的地方性法规，将于2026年10月1日起正式施行。",
+    "published_dt_iso": "2026-09-17T20:05:35+08:00"
+  },
+  {
+    "title": "2026张江药谷大会在沪开幕 与会者热议AI驱动药物研发",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698412.shtml",
+    "date": "2026-09-17",
+    "published_time": "19:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社上海9月17日电 (记者 郑莹莹)2026张江药谷大会暨上海国际生物医药产业周17日在沪开幕。",
+    "published_dt_iso": "2026-09-17T19:22:00+08:00"
+  },
+  {
+    "title": "传统医学技术国际教育联盟在南昌成立",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-17/10698400.shtml",
+    "date": "2026-09-17",
+    "published_time": "19:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社南昌9月17日电 (记者 吴鹏泉 肖玉笛)2026上海合作组织传统医学论坛专题活动传统医药教育对话会17日在江西南昌举行。活动现场，传统医学技术国际教育联盟成立，汇聚中国、俄罗斯、白俄罗斯、巴基斯坦等国家和地区的高校和行业机构，重点推动传统医学教育标准对接、课程体系融通、学历资格互认。",
+    "published_dt_iso": "2026-09-17T19:10:48+08:00"
+  },
+  {
+    "title": "美国三年来首次加息 对全球和中国意味着什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/cm1j4kl4d21lo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "14:54",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "放到当下来看，中国和美国的经济状况可谓冰火两重天——这并不是说谁的经济更好、谁更差，而是两国正面临着截然相反的问题。",
+    "published_dt_iso": "2026-09-17T14:54:49+08:00"
+  },
+  {
+    "title": "领英高层分享 6 个人脉窍门，帮你更快找到工作",
+    "link": "https://www.bbc.com/zhongwen/articles/c63rezxeyw9qo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-17",
+    "published_time": "17:48",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "从咖啡闲聊到领英讯息，以下是如何透过人脉关系找到下一份工作的方法。",
+    "published_dt_iso": "2026-09-17T17:48:06+08:00"
+  },
+  {
+    "title": "谁将赢得中期选举？共和党人正在挣扎。",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html",
+    "date": "2026-09-17",
+    "published_time": "20:23",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该党正在为特朗普总统在2024年轻松赢得的州和地区进行代价高昂的防御。在佐治亚州这样的地方，战略家们怀疑是否为时已晚。",
+    "published_dt_iso": "2026-09-17T20:23:24+08:00"
+  },
+  {
+    "title": "民主党人希望投票权决定将推动南部的黑人投票率",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/black-voters-democratic-candidates-south.html",
+    "date": "2026-09-17",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "州长，参议院和众议院的黑人民主党候选人希望对黑人代表的攻击将在11月吸引黑人选民。",
+    "published_dt_iso": "2026-09-17T17:03:24+08:00"
+  },
+  {
+    "title": "密歇根州的犹太领袖敦促支持EL",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html",
+    "date": "2026-09-17",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "公开请愿是在其他密歇根州犹太人向该州民主党参议院候选人阿卜杜勒·赛义德（ Abdul El-Sayed ）表示不满之后提出的。",
+    "published_dt_iso": "2026-09-17T17:03:57+08:00"
+  },
+  {
+    "title": "许多加沙人面临的致命选择，以及“关于”人工智能行为的新披露",
+    "link": "https://www.nytimes.com/2026/09/17/podcasts/the-headlines/gaza-ruins-concerning-ai-behavior.html",
+    "date": "2026-09-17",
+    "published_time": "18:49",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此外，不出售任何东西的购物网站也在崛起。",
+    "published_dt_iso": "2026-09-17T18:49:05+08:00"
+  },
+  {
+    "title": "全球经济正在耗尽摆动空间",
+    "link": "https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html",
+    "date": "2026-09-17",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "许多国家减弱了伊朗战争能源冲击最痛苦的影响。但价格仍然居高不下，风险成倍增加。",
+    "published_dt_iso": "2026-09-17T17:04:23+08:00"
+  },
+  {
+    "title": "美联储加息。接下来会发生什么？",
+    "link": "https://www.nytimes.com/2026/09/17/business/economy/fed-interest-rates-warsh.html",
+    "date": "2026-09-17",
+    "published_time": "17:05",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "美联储主席凯文· M ·沃什（ Kevin M. Warsh ）周三表示，为了抑制通货膨胀，可能需要提高多少利率。",
+    "published_dt_iso": "2026-09-17T17:05:11+08:00"
+  },
+  {
+    "title": "特朗普在利率上看起来是孤立的",
+    "link": "https://www.nytimes.com/2026/09/17/business/dealbook/trump-fed-rates.html",
+    "date": "2026-09-17",
+    "published_time": "20:13",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "美联储一致投票决定提高基准贷款利率，这激怒了特朗普总统，后者继续要求降低借贷成本。",
+    "published_dt_iso": "2026-09-17T20:13:42+08:00"
+  },
+  {
+    "title": "Anthropic首席执行官Dario Amodei的著作如何帮助解释人工智能的恐惧",
+    "link": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+    "date": "2026-09-17",
+    "published_time": "17:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Dario Amodei收集的文章有助于解释为什么有些人如此担心人工智能。",
+    "published_dt_iso": "2026-09-17T17:00:08+08:00"
   }
 ]
