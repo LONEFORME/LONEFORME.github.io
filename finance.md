@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,913.40</span>
-      <span class="ticker-change up">▲ +0.98%</span>
+      <span class="ticker-price ticker-up">3,911.87</span>
+      <span class="ticker-change up">▲ +0.94%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">13,639.01</span>
-      <span class="ticker-change up">▲ +1.71%</span>
+      <span class="ticker-price ticker-up">13,640.87</span>
+      <span class="ticker-change up">▲ +1.72%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,372.07</span>
-      <span class="ticker-change up">▲ +2.24%</span>
+      <span class="ticker-price ticker-up">3,372.68</span>
+      <span class="ticker-change up">▲ +2.25%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,653.04</span>
-      <span class="ticker-change up">▲ +2.91%</span>
+      <span class="ticker-price ticker-up">1,652.63</span>
+      <span class="ticker-change up">▲ +2.89%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,409.48</span>
-      <span class="ticker-change up">▲ +2.29%</span>
+      <span class="ticker-price ticker-up">4,405.50</span>
+      <span class="ticker-change up">▲ +2.20%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6960</span>
+      <span class="ticker-price ticker-down">6.6992</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,395.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +53.77 (+1.24%)</span>
+      <span class="ticker-price ticker-up">$4,367.59 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +25.97 (+0.60%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥947.72 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +13.13 (+1.40%)</span>
+      <span class="ticker-price ticker-down">¥942.52 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -4.59 (-0.48%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -232,6 +232,48 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-18/10699153.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷9月18日电(李映民 王茜)泰国国家能源政策委员会18日批准扩大民众太阳能发电计划，将累计购电目标由原有的5000兆瓦扩大至10000兆瓦，并规定居民向电网出售太阳能发电余电的收购价格为每度2.20泰铢，收购期限为20年。" data-title="泰国扩大民众太阳能计划至10000兆瓦" data-date="09-18 20:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-18 20:06</span>
+          <span class="news-item-title">泰国扩大民众太阳能计划至10000兆瓦</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/313.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，近日，市场监管总局（国家标准委）加强系统布局，集中推动制定一批量子核心器件国家标准。其中，新发布《量子压缩光源技术规范》和《周期极化铌酸锂量子频率转换器件性能测试方法》2 项国家标准，新立项《量子技术连续变量光量子纠缠源技术规范》《电力测量用金刚石氮-空位色心材料性能要求与检测方法》《量子测量固态自旋量子磁强计性能表征及测量方法》等 4 项国家标准计划，《量子技术双光子偏振纠缠源性能表征及测量方法》《量子技术超高反射率光学薄膜性能表征及测量方法》等多项在研标准持续稳步推进，加速构建完善我国量子技术国家标准体系。IT之家从官方介绍获悉，量子技术是我国在新一代技术领域构建新质生产力、开辟未来新赛道、掌控未来产业发展的重要组成部分，事关国家战略布局和经济社会发展。量" data-title="我国集中推动制定一批量子核心器件国家标准，为产品研发设计、生产制造提供依据" data-date="09-18 20:06" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-18 20:06</span>
+          <span class="news-item-title">我国集中推动制定一批量子核心器件国家标准，为产品研发设计、生产制造提供依据</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/311.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，据蔚来与宁德时代官方消息，德国国际汽车及智慧出行博览会期间，蔚来创始人、董事长、CEO 李斌与宁德时代创始人、董事长、CEO 曾毓群就下一阶段战略深入交流，一起加电。公告称，面向未来，双方将进一步扩大合作、深化协同，并持续提升对品质的标准与要求，共同推动新能源汽车产业高质量发展。IT之家注意到，宁德时代与蔚来今年 1 月在安徽合肥签署为期 5 年的全面深化战略合作协议，双方围绕技术、生态、市场三大领域深化合作，共同推动新能源汽车产业技术进步与商业模式创新，助力合肥打造世界级新能源汽车产业集群：在技术端，重点围绕长寿命电池、换电适配技术开展专项联合开发，推进多技术路线协作与新技术优先落地，提升产品综合竞争力。在生态端，共同推进换电技术标准制定与换电网络资源共享，" data-title="蔚来李斌与宁德时代曾毓群合照公布：双方将进一步扩大合作" data-date="09-18 19:51" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-18 19:51</span>
+          <span class="news-item-title">蔚来李斌与宁德时代曾毓群合照公布：双方将进一步扩大合作</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-18/10699155.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社武汉9月18日电(记者龚联康)就网民反映的长江武汉段天兴洲附近水域有船只倾倒黑色泥状物有关问题，湖北省和武汉市联合调查组18日公布调查处理结果。经查，倾倒物为航道清淤疏浚产生的淤泥，属于“其他固体废物”，具有污染特性；抛泥区周边水域及下游取水点水质均符合地表水Ⅱ类标准；涉事企业因违法倾倒固体废物被立案查处，11名相关责任人被追责。" data-title="长江武汉段驳船倾倒黑色泥状物调查结果公布" data-date="09-18 19:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-18 19:51</span>
+          <span class="news-item-title">长江武汉段驳船倾倒黑色泥状物调查结果公布</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/309.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，9 月 18 日，工业和信息化部、国家发展改革委、自然资源部、农业农村部、商务部、国家卫生健康委、应急管理部、国家医保局、国家中医药局、国家药监局等十部门联合发布实施《医药工业发展“十五五”规划》（以下简称《规划》）。《规划》提出到 2030 年的发展目标：生物医药研发应用稳居世界前列，创新驱动效能充分释放，重点领域关键核心技术实现系统性突破，生物医药产业加速成为国家新兴支柱产业。同时，《规划》围绕产业规模效益、创新发展、企业培育与集群发展等方面提出规模以上医药工业企业营业收入、研发投入强度、创新药械上市数量、龙头企业与千亿级园区培育等 10 项具体指标。围绕主要目标，《规划》聚焦创新驱动、韧性安全、数智转型、精准诊疗、效率提升、价值创造、普惠健康、开放共赢等" data-title="工信部等十部门印发《医药工业发展“十五五”规划》：到 2030 年，生物医药研发应用稳居世界前列" data-date="09-18 19:40" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-18 19:40</span>
+          <span class="news-item-title">工信部等十部门印发《医药工业发展“十五五”规划》：到 2030 年，生物医药研发应用稳居世界前列</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/308.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，据雷峰网 · 鲸犀消息，无人机品牌“影翎 Antigravity”已完成新一轮融资交割，融资金额超 10 亿元人民币，投资方为淡马锡等美元基金。多位接近影翎的人士透露，此次是影翎的第二轮融资，于 2025 年底启动，本轮融资估值已达 10 亿美元（IT之家注：现汇率约合 67.22 亿元人民币）。影翎官网显示，该品牌由影石 Insta360 与第三方共同孵化。2025 年 12 月，影翎 Antigravity A1 发布，成为首款将 360° 全景影像、沉浸式飞行视角与体感操控整合于同一系统的无人机。据介绍，影翎 Antigravity A1 深度搭载影石 Insta360 全景拼接技术，打造完美隐形效果，从实时图传到最终成片，A1 机身始终隐形；机身搭载基" data-title="影石等孵化的无人机品牌：消息称影翎完成第二轮融资，估值达 10 亿美元" data-date="09-18 19:15" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-18 19:15</span>
+          <span class="news-item-title">影石等孵化的无人机品牌：消息称影翎完成第二轮融资，估值达 10 亿美元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-18/10699014.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月18日电 据河南省纪委监委消息：中原豫资投资控股集团有限公司原总经理刘学军涉嫌严重违法，目前正接受河南省监委监察调查。" data-title="中原豫资投资控股集团原总经理刘学军接受监察调查" data-date="09-18 16:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-18 16:25</span>
+          <span class="news-item-title">中原豫资投资控股集团原总经理刘学军接受监察调查</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/004/089.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，科技媒体 sammyguru 今天（9 月 18 日）发布博文，报道称欧洲一家大型企业硬件供应商网站已列出 4 类 Galaxy SmartTag 3 配件，包括硅胶保护套、皮革保护套、边框保护壳及黑色 ComforTag 宠物项圈。根据该网站列出的条目信息，硅胶保护套预计提供白色和黑色 2 种配色。该类配件面向日常携带场景，可为定位器提供基础外部防护。皮革保护套预计提供黑色和棕色 2 种配色，其外观可能接近三星 Galaxy 手机的 Kindsuit 保护壳。边框保护壳预计同样提供白色和黑色 2 种配色，定位于需要额外保护的使用场景，包括户外使用及可能发生跌落的环境。页面还显示三星会推出黑色 ComforTag 宠物项圈。该项圈用于将 Galaxy Smar" data-title="三星 Galaxy SmartTag 3 项圈配件曝光，可辅助追踪宠物" data-date="09-18 14:47" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -280,48 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-18 00:10</span>
           <span class="news-item-title">中国储备石油，现在它可以主导能源格局</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/003/869.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 17 日消息，据彭博社报道，当地时间 16 日，波音 CEO 凯利 · 奥特伯格和 CFO 杰伊 · 马拉维在摩根士丹利投资者大会上谈到了公司目前面临的多项问题。长期延误的 777X 还要进行更多测试，部分工作可能拖到明年；737 和 787 等关键机型增产缓慢，也让现金流前景变得更加谨慎。今年以来，波音公司股价累计下跌约 7%。777X 面临的新问题来自发动机。为 777X 提供动力的 GE 航空航天发动机，有一处密封件尚未完成认证。“从现在到年底，这可能会给我们带来一点挑战。部分测试可能会拖到明年，但我们仍计划在 2027 年开始交付。”GE 航空航天发言人称，公司已找到 GE9X 发动机中部密封件耐久性问题的根源，并于 8 月交付首批采用升级版密封件的发动机，目标仍是" data-title="波音 CEO 奥特伯格坦诚公司面临重重挑战：737 等机型增产慢，777X 部分测试或延至明年" data-date="09-17 23:25" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-17 23:25</span>
-          <span class="news-item-title">波音 CEO 奥特伯格坦诚公司面临重重挑战：737 等机型增产慢，777X 部分测试或延至明年</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-17/10698595.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡9月17日电 (记者 刘育英)全球能源市场冲击的滞后效应正逐步传导至马来西亚电力领域。马来西亚经济部长阿克马尔·纳斯鲁拉17日表示，此前主要反映在汽油市场的能源价格波动，如今已扩散至天然气、煤炭等发电燃料，并开始推高国内发电成本。" data-title="全球能源市场冲击推高马来西亚电力成本" data-date="09-17 23:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-17 23:18</span>
-          <span class="news-item-title">全球能源市场冲击推高马来西亚电力成本</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/003/867.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 17 日消息，据新浪科技报道，小鹏集团 CEO 何小鹏今天在 G9L 汽车发布会结束后，与媒体进行对话。他在谈到机器人业务时透露，做机器人的难度大约相当于造车的 20 倍。何小鹏认为：“基本上我们机器人的硬件、软件、设计及供应链都是我们自己的。过去我一直不愿意把机器人拿出来，主要是因为不能量产，市面上很多机器人能力演示都是通过剪辑之后放出来的。”他还表示，小鹏机器人从研发到量产走得非常痛苦，但也快乐。他们已经逐步开始量产，等到（今年）四季度、明年的一季度和二季度，他们机器人的能力可能会有跳跃。IT之家注意到，小鹏 G9L 汽车今天正式上市，该车定位“黄金大五座科技旗舰”，拥有超级增程、纯电两种动力选择，限时优惠价 23.18 万元起。该车拥有华为联合研发百万像素 AI 数字" data-title="何小鹏称做机器人难度是造车的 20 倍，小鹏机器人最快今年四季度实现能力跳跃" data-date="09-17 23:15" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-17 23:15</span>
-          <span class="news-item-title">何小鹏称做机器人难度是造车的 20 倍，小鹏机器人最快今年四季度实现能力跳跃</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-17/10698602.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月17日电 第23届中国－东盟博览会暨中国－东盟商务与投资峰会17日在广西南宁开幕，中共中央政治局常委、国务院副总理丁薛祥出席并致辞。" data-title="丁薛祥出席第23届中国－东盟博览会开幕式并会见与会外国政要" data-date="09-17 23:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-17 23:03</span>
-          <span class="news-item-title">丁薛祥出席第23届中国－东盟博览会开幕式并会见与会外国政要</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-17/10698565.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月17日电 9月17日，中共中央政治局委员、外交部长王毅在北京会见印度尼西亚国家经济委员会主席卢胡特。" data-title="王毅会见印度尼西亚国家经济委员会主席卢胡特" data-date="09-17 22:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-17 22:45</span>
-          <span class="news-item-title">王毅会见印度尼西亚国家经济委员会主席卢胡特</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Disrupt预订展览桌的最后一天是9月18日。还剩两天。10月13日至15日，让您的创业公司与超过1万名创始人、投资者、运营商和技术领导者见面。" data-title="距离2026年TechCrunch Disrupt展会还有2天时间" data-date="09-17 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-17 22:00</span>
-          <span class="news-item-title">距离2026年TechCrunch Disrupt展会还有2天时间</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/17/business/economy/iran-war-energy-prices.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="许多国家减弱了伊朗战争能源冲击最痛苦的影响。但价格仍然居高不下，风险成倍增加。" data-title="全球经济正在耗尽摆动空间" data-date="09-17 21:14" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-17 21:14</span>
-          <span class="news-item-title">全球经济正在耗尽摆动空间</span>
-        </a>
   </div>
 </div>
 
@@ -335,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-18 14:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-18 20:18（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

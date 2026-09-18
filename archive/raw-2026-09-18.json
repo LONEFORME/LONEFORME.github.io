@@ -1648,5 +1648,535 @@
     "feed_name": "纽约时报",
     "summary": "Images captured through the windows of Air Force One showed President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”",
     "published_dt_iso": "2026-09-18T03:10:26+08:00"
+  },
+  {
+    "title": "Modder让Nvidia的DLSS 5在使用WebGPU的Web浏览器中工作— 147MB浏览器端口在非Nvidia GPU和macOS上运行，但每次渲染需要两秒钟",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modder-gets-nvidias-dlss-5-working-in-a-web-browser-using-webgpu-147mb-browser-port-runs-on-non-nvidia-gpus-and-macos-but-takes-two-seconds-per-render",
+    "date": "2026-09-18",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "开发人员的实时WebGPU演示在Web浏览器中运行Nvidia的DLSS 5神经渲染，但显然也在macOS上运行。",
+    "published_dt_iso": "2026-09-18T20:00:00+08:00"
+  },
+  {
+    "title": "美国芯片制造厂面临15.7万名工人的巨大短缺，只有3%的美国工程毕业生进入芯片制造业--尽管薪资高达六位数，但美国芯片制造商迫切需要工程师和技术人员",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
+    "date": "2026-09-18",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "随着20世纪30年代及以后许多半导体工厂和设施上线，一家全球咨询公司表示，这些工厂将需要成千上万的工程师和技术人员，而美国将很难填补。",
+    "published_dt_iso": "2026-09-18T19:30:00+08:00"
+  },
+  {
+    "title": "ASML冷落埃隆·马斯克（ Elon Musk ）支持的粒子加速器芯片制造技术—该公司将用于芯片制造工具的1,000W激光生产等离子系统加倍",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-snubs-elon-musk-backed-particle-accelerator-chipmaking-tech-firm-doubles-down-on-1-000w-laser-produced-plasma-systems-for-chipmaking-tools",
+    "date": "2026-09-18",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "随着ASML在扫描仪的LPP EUV光源方面取得的进展，该公司对采用基于粒子加速器的FEL光源几乎没有兴趣。",
+    "published_dt_iso": "2026-09-18T19:00:00+08:00"
+  },
+  {
+    "title": "这款4K游戏PC节省300 $ ，配备9800X3D和RTX 5070 Ti ，现在为2,599 $ —强大的ABS Stratos II钻机配备32GB DDR5和2TB SSD",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-4k-gaming-pc-with-a-9800x3d-and-rtx-5070-ti-now-usd2-599-powerhouse-abs-stratos-ii-rig-ships-with-32gb-ddr5-and-a-2tb-ssd",
+    "date": "2026-09-18",
+    "published_time": "18:56",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "ABS的4K游戏机，配备强大的RTX 5070 Ti、AMD Ryzen 7 9800X3D、32GB DDR5和2TB SSD ，均售价$ 2,599.99。",
+    "published_dt_iso": "2026-09-18T18:56:24+08:00"
+  },
+  {
+    "title": "华为详细介绍了人工智能加速器路线图，将下一代Ascend NPU提升了几个季度— Ascend 960PR的FP4性能使预期翻了一番",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-details-ai-accelerator-roadmap-pulls-in-next-generation-ascend-npus-by-quarters-fp4-performance-of-the-ascend-960pr-doubles-expectations",
+    "date": "2026-09-18",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "华为模仿英伟达对人工智能工厂的态度，公布了有关下一代Ascend NPU、Kunpeng CPU、横向扩展和横向扩展连接解决方案的详细信息。",
+    "published_dt_iso": "2026-09-18T18:30:00+08:00"
+  },
+  {
+    "title": "黑客将25美分变成460亿个假比特币，窃取$ 770,000 —由于缺乏基本的智能合约检查，共生DeFi交换位",
+    "link": "https://www.tomshardware.com/tech-industry/cryptocurrency/hacker-turns-25-cents-into-46-billion-fake-bitcoins-to-steal-usd770-000-symbiosis-defi-exchange-bit-by-lack-of-basic-bounds-checking-in-smart-contract",
+    "date": "2026-09-18",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "共生DeFi网络因智能合约中缺乏基本边界检查而被黑客入侵，至少价值$ 770,000比特币— DeFi交易所位",
+    "published_dt_iso": "2026-09-18T18:30:00+08:00"
+  },
+  {
+    "title": "一名男子因向卧底警察出售50 $ 3D打印机枪转换套件而被捕— “格洛克开关”将手枪变成全自动武器",
+    "link": "https://www.tomshardware.com/3d-printing/florida-man-arrested-for-selling-usd50-3d-printed-machine-gun-conversion-kits-to-undercover-cops-glock-switches-turn-pistols-into-fully-automatic-weapons",
+    "date": "2026-09-18",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "佛罗里达州杰克逊维尔的Emani Rey Justavino因销售50多台“格洛克开关”转换器而被捕，这些转换器为手枪提供了全自动功能。嫌疑人声称，他在一夜之间3D打印了整个批次，并以折扣价将其全部提供给了一名卧底ATF特工。",
+    "published_dt_iso": "2026-09-18T18:00:00+08:00"
+  },
+  {
+    "title": "山洪暴发可能在没有预警的情况下发生—这项新技术可能会改变",
+    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "date": "2026-09-18",
+    "published_time": "19:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "6月9日上午， Laura Lin在距离肯塔基州边境约15英里的印第安纳州南部乡村小镇Lanesville的家中工作。她正在打Zoom电话，不知道外面的大雨开始淹没她的院子。“我看着那边的谷仓， […]",
+    "published_dt_iso": "2026-09-18T19:00:00+08:00"
+  },
+  {
+    "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
+    "link": "https://www.qbitai.com/2026/09/492015.html",
+    "date": "2026-09-18",
+    "published_time": "17:19",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
+    "published_dt_iso": "2026-09-18T17:19:37+08:00"
+  },
+  {
+    "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+    "link": "https://www.qbitai.com/2026/09/491875.html",
+    "date": "2026-09-18",
+    "published_time": "14:11",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "用通用AI去啃最硬的骨头，这条路走得通",
+    "published_dt_iso": "2026-09-18T14:11:06+08:00"
+  },
+  {
+    "title": "两部门整治机动车排放检验乱象：将严重弄虚作假机构清出市场",
+    "link": "https://www.ithome.com/1/004/315.htm",
+    "date": "2026-09-18",
+    "published_time": "20:19",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，据央视新闻报道，车辆年检、尾气检测是守护空气质量的重要关口。为堵住机动车尾气检测弄虚作假、检测不规范等问题，生态环境部、市场监管总局近日联合印发《关于推进机动车排放检验机构监管改革提升排放检验质量的意见》，今后，严重弄虚作假机构将被坚决清出市场。IT之家获悉，《意见》要求聚焦机动车排放检验机构设备管理、检验操作、日常运维、人员技能等薄弱环节，建立健全权责清晰、运行规范、全程可溯、常态监管的全过程管理体系。要坚持源头严管，指导机动车排放检验机构按照《生态环境法典》要求落实主体责任，提升检验数据质量和检验合规水平。在机构准入和退出管理上，《意见》要求，加强资质认定专家评审，确保排放检验设备和人员符合条件要求，对违法机构和人员依法处罚惩戒，严重弄虚作假机构要被坚决清",
+    "published_dt_iso": "2026-09-18T20:19:37+08:00"
+  },
+  {
+    "title": "全新领克 20 将于 9 月 28 日上市，全系标配激光雷达、800V 高压平台",
+    "link": "https://www.ithome.com/1/004/314.htm",
+    "date": "2026-09-18",
+    "published_time": "20:11",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，据汽车之家消息，领克 20 将于 9 月 28 日正式上市。9 月 8 日，领克汽车宣布全新领克 20 代言人为吴谨言，同时宣布新车开启“先享预订”，下订用户即可获赠价值 3999 元的充电桩。新车定位精致驾趣纯电 SUV，属于领克 Z20 的改款换代产品，基于 SEA 浩瀚架构打造，车长 4495mm、轴距 2755mm。此次“去 Z 回归”的更名，也标志着产品定位和配置的全面跃升，主要卖点包括：动力与补能：全系标配全域 800V 高压平台与 6C 超高充电倍率，最大充电功率可达 460kW，电量从 10% 充至 80% 仅需约 12 分钟。车辆提供 545km 和 630km 两种 CLTC 续航版本。智能驾驶：全系标配激光雷达，由 28 颗高精度智能感知",
+    "published_dt_iso": "2026-09-18T20:11:06+08:00"
+  },
+  {
+    "title": "我国集中推动制定一批量子核心器件国家标准，为产品研发设计、生产制造提供依据",
+    "link": "https://www.ithome.com/1/004/313.htm",
+    "date": "2026-09-18",
+    "published_time": "20:06",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，近日，市场监管总局（国家标准委）加强系统布局，集中推动制定一批量子核心器件国家标准。其中，新发布《量子压缩光源技术规范》和《周期极化铌酸锂量子频率转换器件性能测试方法》2 项国家标准，新立项《量子技术连续变量光量子纠缠源技术规范》《电力测量用金刚石氮-空位色心材料性能要求与检测方法》《量子测量固态自旋量子磁强计性能表征及测量方法》等 4 项国家标准计划，《量子技术双光子偏振纠缠源性能表征及测量方法》《量子技术超高反射率光学薄膜性能表征及测量方法》等多项在研标准持续稳步推进，加速构建完善我国量子技术国家标准体系。IT之家从官方介绍获悉，量子技术是我国在新一代技术领域构建新质生产力、开辟未来新赛道、掌控未来产业发展的重要组成部分，事关国家战略布局和经济社会发展。量",
+    "published_dt_iso": "2026-09-18T20:06:25+08:00"
+  },
+  {
+    "title": "甲骨文烧数十亿美元帮其他企业运行 AI，公司内部推广 AI 却并不顺利",
+    "link": "https://www.ithome.com/1/004/312.htm",
+    "date": "2026-09-18",
+    "published_time": "20:06",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，过去两年，甲骨文花费数十亿美元帮助其他企业运行 AI。然而相比之下，自家公司全面引入 AI 的时间却晚得多。据《商业内幕》今天（18 日）晚间报道，甲骨文联合 CEO 克莱 · 马古尔克在内部员工大会上坦言，直到去年，公司还没有找到让生成式 AI 在整个员工队伍中真正发挥作用的方法。ChatGPT 和 Codex 投入使用后，甲骨文员工编写代码的速度大幅提升，同时也把原本隐藏在其他环节的瓶颈暴露了出来。马古尔克说：“回想一年前的情况，我觉得当时我们还没弄明白，怎样才能真正让 AI 对我们自己这么有用。”去年，甲骨文尝试把 AI 用于客户支持，但开发、财务和销售等部门还没有大范围应用。甲骨文首席信息官杰伊 · 埃文斯告诉员工，转折出现在今年 4 月和 5 月，公",
+    "published_dt_iso": "2026-09-18T20:06:15+08:00"
+  },
+  {
+    "title": "蔚来李斌与宁德时代曾毓群合照公布：双方将进一步扩大合作",
+    "link": "https://www.ithome.com/1/004/311.htm",
+    "date": "2026-09-18",
+    "published_time": "19:51",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，据蔚来与宁德时代官方消息，德国国际汽车及智慧出行博览会期间，蔚来创始人、董事长、CEO 李斌与宁德时代创始人、董事长、CEO 曾毓群就下一阶段战略深入交流，一起加电。公告称，面向未来，双方将进一步扩大合作、深化协同，并持续提升对品质的标准与要求，共同推动新能源汽车产业高质量发展。IT之家注意到，宁德时代与蔚来今年 1 月在安徽合肥签署为期 5 年的全面深化战略合作协议，双方围绕技术、生态、市场三大领域深化合作，共同推动新能源汽车产业技术进步与商业模式创新，助力合肥打造世界级新能源汽车产业集群：在技术端，重点围绕长寿命电池、换电适配技术开展专项联合开发，推进多技术路线协作与新技术优先落地，提升产品综合竞争力。在生态端，共同推进换电技术标准制定与换电网络资源共享，",
+    "published_dt_iso": "2026-09-18T19:51:53+08:00"
+  },
+  {
+    "title": "智谱 ZCode 被质疑“偷传代码”：官方回应称问题已修复，将开源代码库、引入第三方审查",
+    "link": "https://www.ithome.com/1/004/310.htm",
+    "date": "2026-09-18",
+    "published_time": "19:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，针对社区中有关代码库数据上传的讨论，智谱旗下编程产品 ZCode 今天（18 日）通过智谱官方群组向受影响用户致歉，并发布回应称已第一时间完成自查，相关问题目前已经修复。IT之家从官方的回应获悉，此次问题源于 ZCode 的“代码库索引”功能，该功能旨在帮助用户在本地生成仓库索引，以支持包括历史版本在内的会话检查点恢复、历史版本回退及 Repo Wiki（代码仓库知识库）等功能。Repo Wiki 功能在生成 Wiki 页面（知识库页面）时，可能会触发仓库数据上传。Wiki 页面在云端生成后，相关上传数据会立即销毁，不会保存。由于该功能在上线初期默认开启，导致部分用户受到影响。针对外界对数据安全及产品信任的关注，官方宣布近期将开源 ZCode 代码库，并邀请第",
+    "published_dt_iso": "2026-09-18T19:48:08+08:00"
+  },
+  {
+    "title": "工信部等十部门印发《医药工业发展“十五五”规划》：到 2030 年，生物医药研发应用稳居世界前列",
+    "link": "https://www.ithome.com/1/004/309.htm",
+    "date": "2026-09-18",
+    "published_time": "19:40",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，9 月 18 日，工业和信息化部、国家发展改革委、自然资源部、农业农村部、商务部、国家卫生健康委、应急管理部、国家医保局、国家中医药局、国家药监局等十部门联合发布实施《医药工业发展“十五五”规划》（以下简称《规划》）。《规划》提出到 2030 年的发展目标：生物医药研发应用稳居世界前列，创新驱动效能充分释放，重点领域关键核心技术实现系统性突破，生物医药产业加速成为国家新兴支柱产业。同时，《规划》围绕产业规模效益、创新发展、企业培育与集群发展等方面提出规模以上医药工业企业营业收入、研发投入强度、创新药械上市数量、龙头企业与千亿级园区培育等 10 项具体指标。围绕主要目标，《规划》聚焦创新驱动、韧性安全、数智转型、精准诊疗、效率提升、价值创造、普惠健康、开放共赢等",
+    "published_dt_iso": "2026-09-18T19:40:20+08:00"
+  },
+  {
+    "title": "影石等孵化的无人机品牌：消息称影翎完成第二轮融资，估值达 10 亿美元",
+    "link": "https://www.ithome.com/1/004/308.htm",
+    "date": "2026-09-18",
+    "published_time": "19:15",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，据雷峰网 · 鲸犀消息，无人机品牌“影翎 Antigravity”已完成新一轮融资交割，融资金额超 10 亿元人民币，投资方为淡马锡等美元基金。多位接近影翎的人士透露，此次是影翎的第二轮融资，于 2025 年底启动，本轮融资估值已达 10 亿美元（IT之家注：现汇率约合 67.22 亿元人民币）。影翎官网显示，该品牌由影石 Insta360 与第三方共同孵化。2025 年 12 月，影翎 Antigravity A1 发布，成为首款将 360° 全景影像、沉浸式飞行视角与体感操控整合于同一系统的无人机。据介绍，影翎 Antigravity A1 深度搭载影石 Insta360 全景拼接技术，打造完美隐形效果，从实时图传到最终成片，A1 机身始终隐形；机身搭载基",
+    "published_dt_iso": "2026-09-18T19:15:30+08:00"
+  },
+  {
+    "title": "埃克塞特酋长和伯恩茅斯在收购后分享专业知识",
+    "link": "https://www.bbc.co.uk/sport/articles/cmn07zv95le8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "16:47",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "埃克塞特老板罗布·巴克斯特说，英超俱乐部一直在与英超球队伯恩茅斯分享知识。",
+    "published_dt_iso": "2026-09-18T16:47:19+08:00"
+  },
+  {
+    "title": "图切尔解释了亚历山大-阿诺德和帕尔默英格兰的回忆；西班牙队在休达透露：足球新闻–现场",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+    "date": "2026-09-18",
+    "published_time": "20:15",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "⚽ 周五的团队新闻、新闻发布会和分析⚽The Knowledge ：第一批复制品套件是什么时候？联系我们⚽！发送电子邮件给Dom ，提供任何想法Alexander-Arnold、Alex Scott、Cole Palmer和Rio Ngumoha都会参与进来。菲尔·福登（ Phil Foden ）无处可去。所有小队都在下面。继续阅读...",
+    "published_dt_iso": "2026-09-18T20:15:28+08:00"
+  },
+  {
+    "title": "托德·博赫利（ Todd Boehly ）在手指被烧伤后退出切尔西",
+    "link": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
+    "date": "2026-09-18",
+    "published_time": "15:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "这位亿万富翁的离职对俱乐部的日常生活影响不大，但对俱乐部的体育场计划可能意义重大。自从托德·博利（ Todd Boehly ）注定要进军棘手的转会市场以来，他对切尔西的日常生活没有任何真正的影响。四年后，这位美国人与他的投资伙伴马克·沃尔特（ Mark Walter ）一起退出足球界，首先要说的是，斯坦福桥董事会会议室几乎没有什么变化。",
+    "published_dt_iso": "2026-09-18T15:00:12+08:00"
+  },
+  {
+    "title": "重庆首个新建大型灌区工程可行性研究报告获批 新增灌溉面积30万亩",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699103.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网重庆9月18日电 (记者 刘相琳)记者18日从重庆市发展改革委获悉，该委近日正式批复重庆玉滩大型灌区工程可行性研究报告，标志着项目建设取得关键性突破，进入全面推进实施阶段。",
+    "published_dt_iso": "2026-09-18T19:48:46+08:00"
+  },
+  {
+    "title": "中国银行浙江省分行原党委书记、行长程军被“双开”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699112.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 据中央纪委国家监委驻中国银行纪检监察组、天津市纪委监委消息：日前，中央纪委国家监委驻中国银行纪检监察组、天津市监委对中国银行浙江省分行原党委书记、行长程军严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-18T19:48:04+08:00"
+  },
+  {
+    "title": "中石化宁波工程有限公司原党委书记许一君接受审查调查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699065.shtml",
+    "date": "2026-09-18",
+    "published_time": "17:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 据中央纪委国家监委驻中国石化纪检监察组、宁波市纪委监委消息：中石化宁波工程有限公司原党委书记、执行董事许一君涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国石化纪检监察组纪律审查和浙江省宁波市监察委员会监察调查。",
+    "published_dt_iso": "2026-09-18T17:13:01+08:00"
+  },
+  {
+    "title": "九一八事变爆发95周年 日本“自卫”谎言还要骗多久",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699058.shtml",
+    "date": "2026-09-18",
+    "published_time": "16:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "九一八事变是日本蓄谋已久、精心策划的侵略战争行为，但日本民众从日本媒体上看到的却是日本关东军捏造的“中国军队炸毁南满铁路”，以及将日军侵略行为粉饰为“自卫”的虚假报道。",
+    "published_dt_iso": "2026-09-18T16:56:17+08:00"
+  },
+  {
+    "title": "检察机关依法分别对何平、陈伟全、毛建华、陈建林、李明提起公诉",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699013.shtml",
+    "date": "2026-09-18",
+    "published_time": "16:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 据最高人民检察院微信公众号消息，日前，检察机关依法分别对何平、陈伟全、毛建华、陈建林、李明提起公诉",
+    "published_dt_iso": "2026-09-18T16:43:36+08:00"
+  },
+  {
+    "title": "250多公里奔赴，这群70多岁的老人们为何一定要看平陆运河？",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699034.shtml",
+    "date": "2026-09-18",
+    "published_time": "16:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "250多公里奔赴，这群70多岁的老人们为何一定要看平陆运河？｜何以中国·运河之光",
+    "published_dt_iso": "2026-09-18T16:31:56+08:00"
+  },
+  {
+    "title": "中原豫资投资控股集团原总经理刘学军接受监察调查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699014.shtml",
+    "date": "2026-09-18",
+    "published_time": "16:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 据河南省纪委监委消息：中原豫资投资控股集团有限公司原总经理刘学军涉嫌严重违法，目前正接受河南省监委监察调查。",
+    "published_dt_iso": "2026-09-18T16:25:49+08:00"
+  },
+  {
+    "title": "活力中国调研行丨解码农业“育种芯片” 科技创新改变农业生产",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10699020.shtml",
+    "date": "2026-09-18",
+    "published_time": "16:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "金秋稻浪翻涌，瓜果缀满枝头。眼下，大江南北陆续迎来丰收季，各地庆丰收系列活动热闹开场。“活力中国调研行”来到湖北。丰收的热闹背后，种业创新、绿色技术等农业硬实力正在为乡村振兴扎稳产业根基。",
+    "published_dt_iso": "2026-09-18T16:22:33+08:00"
+  },
+  {
+    "title": "中国驻宋卡总领馆举办国庆招待会",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699160.shtml",
+    "date": "2026-09-18",
+    "published_time": "20:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网宋卡9月18日电(记者 李映民)中国驻宋卡总领事馆17日举办庆祝中华人民共和国成立77周年招待会。领区各府府尹、宗教人士、华侨华人、媒体、中资机构、留学生代表等900余人应邀出席。",
+    "published_dt_iso": "2026-09-18T20:07:26+08:00"
+  },
+  {
+    "title": "丝路青年以AI短视频记录“中国文化印记”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699154.shtml",
+    "date": "2026-09-18",
+    "published_time": "20:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社银川9月18日电(记者 李佩珊)“制作漆扇的经历令我十分难忘，这不只是一件手工艺品，更是我要带回祖国的一份中国文化印记。”在第十届“一带一路”青少年创客营与教师研讨活动(中国-阿拉伯国家青少年创客营)18日闭营的现场，印度学生哈娜(Ravikumar Mythili Harsini)如是谈及她的感受。",
+    "published_dt_iso": "2026-09-18T20:07:10+08:00"
+  },
+  {
+    "title": "泰国扩大民众太阳能计划至10000兆瓦",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699153.shtml",
+    "date": "2026-09-18",
+    "published_time": "20:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社曼谷9月18日电(李映民 王茜)泰国国家能源政策委员会18日批准扩大民众太阳能发电计划，将累计购电目标由原有的5000兆瓦扩大至10000兆瓦，并规定居民向电网出售太阳能发电余电的收购价格为每度2.20泰铢，收购期限为20年。",
+    "published_dt_iso": "2026-09-18T20:06:48+08:00"
+  },
+  {
+    "title": "莫桑比克南部交通事故致至少17人死亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699129.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "莫桑比克南部伊尼扬巴内省当地时间17日晚发生一起交通事故，造成至少17人死亡、2人受伤，其中1人伤势严重。",
+    "published_dt_iso": "2026-09-18T19:23:33+08:00"
+  },
+  {
+    "title": "马来西亚前总理纳吉布获准居家服完剩余刑期",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699122.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:19",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社吉隆坡9月18日电(记者 刘育英)马来西亚最高元首易卜拉欣18日批准对前总理纳吉布给予有条件特赦，准许其以居家监禁方式服完剩余刑期，刑期至2028年8月23日。",
+    "published_dt_iso": "2026-09-18T19:19:09+08:00"
+  },
+  {
+    "title": "马来西亚前总理纳吉布将以居家监禁形式继续服刑",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699123.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "当地时间9月18日，马来西亚特赦局宣布，允许马前总理纳吉布以居家监禁的方式服役完剩余刑期，至2028年8月。",
+    "published_dt_iso": "2026-09-18T19:09:54+08:00"
+  },
+  {
+    "title": "大乌龙！外媒曝亚运会韩国队比赛误播朝鲜国歌",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699114.shtml",
+    "date": "2026-09-18",
+    "published_time": "18:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月18日电 综合日本共同社、韩国《东亚日报》报道，在18日举行的韩国队出场的爱知·名古屋亚运会男子曲棍球比赛时，出现了误将朝鲜国歌作为韩国国歌播放的问题。赛事相关人员透露了此事。",
+    "published_dt_iso": "2026-09-18T18:44:30+08:00"
+  },
+  {
+    "title": "巴基斯坦西北部爆炸事故已致16人死亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10699107.shtml",
+    "date": "2026-09-18",
+    "published_time": "18:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "当地时间18日，巴基斯坦西北部开伯尔-普什图省一座清真寺附近发生爆炸。当地警方称，袭击已导致16人死亡。",
+    "published_dt_iso": "2026-09-18T18:01:02+08:00"
+  },
+  {
+    "title": "第九届发展中国家儿童健康论坛在长沙开幕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699173.shtml",
+    "date": "2026-09-18",
+    "published_time": "20:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网长沙9月18日电(刘思妮 丁向)18日，第九届发展中国家儿童健康论坛暨国家儿童区域医疗中心高质量发展交流会在长沙开幕，国内外知名儿科专家、医疗机构代表等近600人参会。",
+    "published_dt_iso": "2026-09-18T20:07:28+08:00"
+  },
+  {
+    "title": "长江武汉段驳船倾倒黑色泥状物调查结果公布",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699155.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新华社武汉9月18日电(记者龚联康)就网民反映的长江武汉段天兴洲附近水域有船只倾倒黑色泥状物有关问题，湖北省和武汉市联合调查组18日公布调查处理结果。经查，倾倒物为航道清淤疏浚产生的淤泥，属于“其他固体废物”，具有污染特性；抛泥区周边水域及下游取水点水质均符合地表水Ⅱ类标准；涉事企业因违法倾倒固体废物被立案查处，11名相关责任人被追责。",
+    "published_dt_iso": "2026-09-18T19:51:12+08:00"
+  },
+  {
+    "title": "国务院食安办部署中秋、国庆期间食品安全工作",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699128.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月18日电 据国家市场监督管理总局网站消息，18日，国务院食安办发布《国务院食安办关于做好2026年中秋、国庆期间食品安全工作的通知》，要求各地食(药)安办要高度重视，坚持底线思维，加强问题导向，督促相关部门切实提高风险防控意识，采取积极措施，着力消除问题隐患，确保人民群众度过欢乐祥和的节日假期。",
+    "published_dt_iso": "2026-09-18T19:49:34+08:00"
+  },
+  {
+    "title": "宁夏启动首批产教评技能生态链建设",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699101.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月18日电 (记者 于晶)9月18日，记者从宁夏回族自治区人力资源和社会保障厅获悉，该单位印发《宁夏回族自治区深化产教评技能生态链建设工作方案》，启动首批遴选申报工作，宁夏产教评技能生态链建设正式全面实施。",
+    "published_dt_iso": "2026-09-18T19:47:02+08:00"
+  },
+  {
+    "title": "海外华文媒体走进山西神池 探访千年非遗“神池月饼”的产业新生",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699136.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网忻州9月18日电 题：海外华文媒体走进山西神池 探访千年非遗“神池月饼”的产业新生",
+    "published_dt_iso": "2026-09-18T19:35:25+08:00"
+  },
+  {
+    "title": "第48届世界技能大赛涉赛人员自上海口岸集中入境",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699138.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:34",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月18日电 (陈静 曹乃文)第48届世界技能大赛开幕在即，来自世界各地的参赛选手、技术专家及其他代表团成员陆续抵沪。",
+    "published_dt_iso": "2026-09-18T19:34:53+08:00"
+  },
+  {
+    "title": "宁夏“双节”推出59项体育赛事 体育+文旅激活假日活力",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699100.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月18日电(于晶 何佳欣)9月18日，记者从宁夏回族自治区体育局获悉，中秋、国庆假期，宁夏统筹谋划59项体育赛事活动，涵盖专业竞技、群众参与、休闲娱乐多个类型，兼顾本地市民与外地游客运动体验需求，以体育赋能假日文旅消费。",
+    "published_dt_iso": "2026-09-18T19:28:07+08:00"
+  },
+  {
+    "title": "雅思官方模考系统中国上线 人工智能赋能诊断式测评",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10699124.shtml",
+    "date": "2026-09-18",
+    "published_time": "19:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月18日电 雅思官方模考系统近日上线。该系统由雅思全科模考、雅思口语模考和雅思写作模考组成，由英国文化教育协会中国团队主导研发。模考面向中国雅思考生和英语教育机构，以诊断式测评为入口，围绕考前摸底、能力诊断、学习反馈和教学支持，帮助学习者认识自身能力表现和提升方向，也为教师和教育机构提供更具参考价值的学情数据。",
+    "published_dt_iso": "2026-09-18T19:21:21+08:00"
+  },
+  {
+    "title": "“运动员无法伸直双腿睡觉”：日本亚运为何爆发住宿争议？",
+    "link": "https://www.bbc.com/zhongwen/articles/ckwyzg2v80elo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "17:24",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "亚运选手将入住木制货柜屋或一艘意大利邮轮。韩国代表团批评，货柜屋宿舍水管漏水，且床铺太小，运动员甚至无法伸直双腿睡觉。",
+    "published_dt_iso": "2026-09-18T17:24:15+08:00"
+  },
+  {
+    "title": "Hyrox失禁风波：澳洲选手道歉、主办方承诺退款",
+    "link": "https://www.bbc.com/zhongwen/articles/cq3d7zld42m0o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "16:46",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "Hyrox已更新赛例，明文规定若参赛者的“血液、呕吐物、尿液或粪便”构成健康风险，可被要求退赛。",
+    "published_dt_iso": "2026-09-18T16:46:00+08:00"
+  },
+  {
+    "title": "为什么独裁者关心人们的想法",
+    "link": "https://www.nytimes.com/2026/09/18/world/europe/putin-russia-election-ideas.html",
+    "date": "2026-09-18",
+    "published_time": "17:47",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "俄罗斯正在举行一场几乎对任何人都不重要的选举--除了弗拉基米尔· V ·普京总统及其核心圈子。",
+    "published_dt_iso": "2026-09-18T17:47:42+08:00"
+  },
+  {
+    "title": "俄罗斯为何举行大选，克里姆林宫如何获得想要的结果",
+    "link": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html",
+    "date": "2026-09-18",
+    "published_time": "15:26",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "像今天开始的议会投票这样的俄罗斯选举几乎是免费的。但作为合法性的来源，它们对政府至关重要。",
+    "published_dt_iso": "2026-09-18T15:26:05+08:00"
+  },
+  {
+    "title": "克里姆林宫如何获得它想要的选举结果， R.F.K. Jr.集会疫苗怀疑论者",
+    "link": "https://www.nytimes.com/2026/09/18/podcasts/the-headlines/russia-election-results-rfk-jr-vaccines.html",
+    "date": "2026-09-18",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此外，还有周五的新闻测验。",
+    "published_dt_iso": "2026-09-18T18:00:08+08:00"
+  },
+  {
+    "title": "爱达荷州的堕胎权利活动家找到自己的主张：让医生回来",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-in-idaho-find-their-pitch-bring-back-the-doctors.html",
+    "date": "2026-09-18",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Organizers of a referendum to repeal an abortion ban in deep-red Idaho are far more focused on how the ban has broadly affected health care in the state.",
+    "published_dt_iso": "2026-09-18T17:02:56+08:00"
+  },
+  {
+    "title": "Ashley Hinson, a Republican ‘Minivan-Driving Mom,’ Steers Away From Trump in Midterm Elections",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/ashley-hinson-trump-iowa-senate-race.html",
+    "date": "2026-09-18",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Representative Ashley Hinson is hoping to keep a crucial Senate seat red in Iowa, where the president has created major headwinds for her party.",
+    "published_dt_iso": "2026-09-18T17:02:24+08:00"
+  },
+  {
+    "title": "Ocasio-Cortez Donates to N.Y. Democrats, Will Barnstorm State Ahead of Midterms",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/alexandria-ocasio-cortez-donation-midterms.html",
+    "date": "2026-09-18",
+    "published_time": "17:04",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The news has reignited speculation about whether the progressive representative from the Bronx is considering a run for senator or president.",
+    "published_dt_iso": "2026-09-18T17:04:35+08:00"
   }
 ]
