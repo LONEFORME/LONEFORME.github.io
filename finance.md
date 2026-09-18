@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,875.60</span>
-      <span class="ticker-change down">▼ -0.41%</span>
+      <span class="ticker-price ticker-up">3,913.40</span>
+      <span class="ticker-change up">▲ +0.98%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,409.91</span>
-      <span class="ticker-change down">▼ -0.33%</span>
+      <span class="ticker-price ticker-up">13,639.01</span>
+      <span class="ticker-change up">▲ +1.71%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,298.31</span>
-      <span class="ticker-change down">▼ -0.40%</span>
+      <span class="ticker-price ticker-up">3,372.07</span>
+      <span class="ticker-change up">▲ +2.24%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,606.29</span>
-      <span class="ticker-change down">▼ -0.61%</span>
+      <span class="ticker-price ticker-up">1,653.04</span>
+      <span class="ticker-change up">▲ +2.91%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,310.74</span>
-      <span class="ticker-change down">▼ -0.34%</span>
+      <span class="ticker-price ticker-up">4,409.48</span>
+      <span class="ticker-change up">▲ +2.29%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,437.41</span>
+      <span class="ticker-price ticker-up">29,446.98</span>
       <span class="ticker-change up">▲ +0.01%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7045</span>
+      <span class="ticker-price ticker-down">6.6960</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,362.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +98.46 (+2.31%)</span>
+      <span class="ticker-price ticker-up">$4,395.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +53.77 (+1.24%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥941.59 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +7.00 (+0.75%)</span>
+      <span class="ticker-price ticker-up">¥947.72 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +13.13 (+1.40%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+35.9 亿</span>
+      <span class="sector-flow-badge">+22.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+47.3 亿</span>
+      <span class="sector-flow-badge">+41.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+53.4 亿</span>
+      <span class="sector-flow-badge">+28.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+26.6 亿</span>
+      <span class="sector-flow-badge">+22.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,50 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/004/089.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，科技媒体 sammyguru 今天（9 月 18 日）发布博文，报道称欧洲一家大型企业硬件供应商网站已列出 4 类 Galaxy SmartTag 3 配件，包括硅胶保护套、皮革保护套、边框保护壳及黑色 ComforTag 宠物项圈。根据该网站列出的条目信息，硅胶保护套预计提供白色和黑色 2 种配色。该类配件面向日常携带场景，可为定位器提供基础外部防护。皮革保护套预计提供黑色和棕色 2 种配色，其外观可能接近三星 Galaxy 手机的 Kindsuit 保护壳。边框保护壳预计同样提供白色和黑色 2 种配色，定位于需要额外保护的使用场景，包括户外使用及可能发生跌落的环境。页面还显示三星会推出黑色 ComforTag 宠物项圈。该项圈用于将 Galaxy Smar" data-title="三星 Galaxy SmartTag 3 项圈配件曝光，可辅助追踪宠物" data-date="09-18 14:47" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-18 14:47</span>
+          <span class="news-item-title">三星 Galaxy SmartTag 3 项圈配件曝光，可辅助追踪宠物</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/086.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，Keychron（渴创）近日在日本市场推出了 K6 Ultra 1K·ZMK 特别版三模机械键盘。这一型号采用 65% 小配列，支持日语 / 英语布局，拥有铝制机身和木制饰边。K6 Ultra 1K·ZMK 特别版支持热插拔，预装 Keychron Apex 开关，可选线性红轴、微段落茶轴、提前段落香蕉轴；搭配 OSA 高度 PBT 材质双色注塑工艺键帽。其采用双层 Gasket 结构，集成北向 RGB 背光；支持三模连接，回报率可达 1kHz；搭载 ZMK 固件，续航可达 600hr；支持 Keychron Launcher 网页端驱动程序。IT之家了解到，这款键盘在日本市场的当前售价为 17,672 日元（IT之家注：现汇率约合 761.9 元人民币）。" data-title="Keychron 推出 K6 Ultra 1K·ZMK 特别版键盘：65% 小配列，木制饰边" data-date="09-18 14:42" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-18 14:42</span>
+          <span class="news-item-title">Keychron 推出 K6 Ultra 1K·ZMK 特别版键盘：65% 小配列，木制饰边</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/084.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，Alphabet 旗下自动驾驶企业 Waymo 当地时间 17 日宣布，计划于 2028 年在新加坡提供有偿 Robotaxi 出行服务。该企业本周早些时候曾表示目标明年在日本东京实现商业化运营。Waymo 计划在未来数月建立新加坡本地业务，完成首批捷豹 I-PACE 车队的入驻；2027 年启动基于真人驾驶的本地化训练；2028 年时则将通过第一方应用向一般公众提供网约车服务。Waymo 联合首席执行官 Tekedra Mawakana 发言称：新加坡打造了世界上最安全、最高效、最具前瞻性的交通生态系统之一。他们对可靠性、可持续性和以人为本的进步的关注，直接反映了我们构建 Waymo 技术和服务的方式。在我们开始这里的旅程时，我们致力于倾听社区声音，创造高技" data-title="Waymo 加速亚太布局，计划 2028 年在新加坡提供 Robotaxi 商用服务" data-date="09-18 14:25" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-18 14:25</span>
+          <span class="news-item-title">Waymo 加速亚太布局，计划 2028 年在新加坡提供 Robotaxi 商用服务</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Mahan Air, a major airline, said it would stop flying to Turkey and Oman just over a week after new restrictions were announced, adding to U.S. pressure on the economy." data-title="Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines" data-date="09-18 13:57" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-18 13:57</span>
+          <span class="news-item-title">Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-18/10698850.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月18日电(记者 邵萌)“内部消息，下周有大利好”“13年经验老手，一对一操盘指导”“进群，分享股市信息差”......你刷到过这些所谓的财经“大V”吗？极具煽动性的话术，背后藏着一条收割流水线。" data-title="中新网评：让伪财经“大V”无处藏身" data-date="09-18 13:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-18 13:55</span>
+          <span class="news-item-title">中新网评：让伪财经“大V”无处藏身</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-18/10698846.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月18日电 (记者 刘亮)面对新一轮科技革命和产业变革趋势，中国就发展先进制造业作出高规格部署，明确提出“坚持智能化、绿色化、融合化方向，持续做大做强先进制造业，提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体经济根基，为推进中国式现代化提供有力支撑”。" data-title="中国高规格部署持续做大做强先进制造业" data-date="09-18 12:32" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-18 12:32</span>
+          <span class="news-item-title">中国高规格部署持续做大做强先进制造业</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-18/10698816.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月18日电 据日本广播协会(NHK)报道，当地时间18日，日本央行在货币政策会议上决定加息，将政策利率从1.0%左右上调至1.25%左右。" data-title="日本央行宣布加息至1.25% 创31年新高" data-date="09-18 11:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-18 11:26</span>
+          <span class="news-item-title">日本央行宣布加息至1.25% 创31年新高</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="与伊朗的战争表明，这个世界上最大的石油进口国对飞机燃料、汽油和柴油的价格和其他国家的供应有多大的影响力。" data-title="中国储备石油，现在它可以主导能源格局" data-date="09-18 00:10" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -280,12 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-17 21:14</span>
           <span class="news-item-title">全球经济正在耗尽摆动空间</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm1j4kl4d21lo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="放到当下来看，中国和美国的经济状况可谓冰火两重天——这并不是说谁的经济更好、谁更差，而是两国正面临着截然相反的问题。" data-title="美国三年来首次加息 对全球和中国意味着什么？" data-date="09-17 14:54" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-17 14:54</span>
-          <span class="news-item-title">美国三年来首次加息 对全球和中国意味着什么？</span>
-        </a>
   </div>
 </div>
 
@@ -299,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-18 01:10（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-18 14:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

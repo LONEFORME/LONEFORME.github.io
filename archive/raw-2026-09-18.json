@@ -1018,5 +1018,635 @@
     "feed_name": "纽约时报",
     "summary": "In a rare interview, Patrick Schiltz, who served as the federal court’s chief judge last winter, called the administration’s actions “a grave threat to the rule of law.”",
     "published_dt_iso": "2026-09-17T17:00:48+08:00"
+  },
+  {
+    "title": "Crusoe筹集了39亿美元用于建设大型数据中心和小型模块化“人工智能工厂”",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "date": "2026-09-18",
+    "published_time": "07:25",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这轮融资对数据中心巨头的估值为309亿美元（ $ 309亿）。",
+    "published_dt_iso": "2026-09-18T07:25:52+08:00"
+  },
+  {
+    "title": "谷歌DeepMind推出机构以扩大AGI辩论",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "date": "2026-09-18",
+    "published_time": "07:21",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "新研究所旨在揭示谷歌、谷歌DeepMind和围绕AGI的更广泛的全球研究社区之间的不同观点。“他们并不总是同意，随着越来越多的数据和信息在快速发展的前沿曝光，他们可能会改变主意。”",
+    "published_dt_iso": "2026-09-18T07:21:17+08:00"
+  },
+  {
+    "title": "PrismML希望其微小的LLM将改变我们所有人使用AI的方式",
+    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+    "date": "2026-09-18",
+    "published_time": "06:34",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "如果人工智能实验室PrismML还没有出现在你的雷达上，它应该是。",
+    "published_dt_iso": "2026-09-18T06:34:09+08:00"
+  },
+  {
+    "title": "美国联邦航空局修复空中交通的计划？价值8.75亿美元的人工智能",
+    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+    "date": "2026-09-18",
+    "published_time": "06:14",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "正在推出一个新的基于人工智能的软件程序，以帮助空中交通管制员更好地驾驭他们作为美国天空过境警卫的工作。",
+    "published_dt_iso": "2026-09-18T06:14:59+08:00"
+  },
+  {
+    "title": "流氓人工智能代理的修复可能是更多的人工智能",
+    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+    "date": "2026-09-18",
+    "published_time": "04:34",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "随着公司将更长、更复杂的任务交给人工智能代理，他们遇到了一个监督问题：代理的行动速度更快、时间更长、数量更大，超出了人类实际审查的范围。",
+    "published_dt_iso": "2026-09-18T04:34:47+08:00"
+  },
+  {
+    "title": "OpenAI发现其模型为继任者留下笔记以隐藏不良行为",
+    "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+    "date": "2026-09-18",
+    "published_time": "04:34",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI披露了GPT-5.6 SOL指示未来上下文隐藏错误和错位行为的实例，突显了随着能力越来越强的人工智能模型学会隐藏错位，检测错位的挑战越来越大。",
+    "published_dt_iso": "2026-09-18T04:34:24+08:00"
+  },
+  {
+    "title": "人工智能安全辩论是关于安全还是控制？",
+    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "date": "2026-09-18",
+    "published_time": "04:19",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "并非所有人都同意Amodei呼吁采取全球协调一致的人工智能安全行动。",
+    "published_dt_iso": "2026-09-18T04:19:37+08:00"
+  },
+  {
+    "title": "联合国转向谷歌，使其全球数据为人工智能特工做好准备",
+    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "date": "2026-09-18",
+    "published_time": "04:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "此前，联合国儿童基金会的一项测试发现，领先的人工智能模型难以准确检索全球发展统计数据。",
+    "published_dt_iso": "2026-09-18T04:00:00+08:00"
+  },
+  {
+    "title": "使用AI水印时， LLM对有害提示的反应不同",
+    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "date": "2026-09-18",
+    "published_time": "02:33",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "SynthID可能会导致模型遵循否则会拒绝的有害指令。",
+    "published_dt_iso": "2026-09-18T02:33:13+08:00"
+  },
+  {
+    "title": "Waymo表示，新加坡将成为其下一个国际机器人出租车城市",
+    "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+    "date": "2026-09-18",
+    "published_time": "10:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Waymo表示，它将于2028年在新加坡推出机器人出租车服务，因为Alphabet旗下的公司将继续关注海外市场的扩张。Waymo表示， Waymo的车辆将在“未来几个月”内开始抵达新加坡，为2027年人类安全驾驶员驾驶的地图绘制和自动测试做准备。Waymo表示[…]",
+    "published_dt_iso": "2026-09-18T10:00:00+08:00"
+  },
+  {
+    "title": "人工智能超级智能减速",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+    "date": "2026-09-18",
+    "published_time": "03:28",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "还记得技术领导者告诉员工“快速行动，打破常规”的时候吗？看来，这也是人工智能的方式。但在一个流氓人工智能代理成为现实的夏天之后，研究人员警告说，人工智能可能会杀死我们所有人，一些美国领先的人工智能公司公开表示，是时候[…]",
+    "published_dt_iso": "2026-09-18T03:28:24+08:00"
+  },
+  {
+    "title": "Claude Code重新启动项目，以管理云中的多个AI代理",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+    "date": "2026-09-18",
+    "published_time": "02:58",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Claude Code中经过改进的项目功能允许用户在同一屋檐下运行多个代理，共享内存、目标以及文件和工件库。与Grok Bot和其他管理人工智能代理组的工具类似，每个项目都有并行运行不同任务的“线程” ，由“协调员”指导一切： […]",
+    "published_dt_iso": "2026-09-18T02:58:05+08:00"
+  },
+  {
+    "title": "购买翻新Apple TV 4K可节省$ 30或更多",
+    "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+    "date": "2026-09-18",
+    "published_time": "01:14",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "大多数硬件价格在2026年飙升，其中包括各种Apple笔记本电脑、平板电脑和智能设备。值得庆幸的是，您可以通过购买公司翻新的Apple TV 4K来抵消部分增加的成本。64GB机型的售价为169美元，比新零售价低30美元。[…]",
+    "published_dt_iso": "2026-09-18T01:14:07+08:00"
+  },
+  {
+    "title": "Manus重生第17天，估值居然就翻倍了",
+    "link": "https://www.qbitai.com/2026/09/491764.html",
+    "date": "2026-09-18",
+    "published_time": "08:37",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "作价40亿美元推进新融资",
+    "published_dt_iso": "2026-09-18T08:37:13+08:00"
+  },
+  {
+    "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+    "link": "https://www.qbitai.com/2026/09/491711.html",
+    "date": "2026-09-18",
+    "published_time": "08:34",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "Git白学了？？？",
+    "published_dt_iso": "2026-09-18T08:34:34+08:00"
+  },
+  {
+    "title": "三星 Galaxy SmartTag 3 项圈配件曝光，可辅助追踪宠物",
+    "link": "https://www.ithome.com/1/004/089.htm",
+    "date": "2026-09-18",
+    "published_time": "14:47",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，科技媒体 sammyguru 今天（9 月 18 日）发布博文，报道称欧洲一家大型企业硬件供应商网站已列出 4 类 Galaxy SmartTag 3 配件，包括硅胶保护套、皮革保护套、边框保护壳及黑色 ComforTag 宠物项圈。根据该网站列出的条目信息，硅胶保护套预计提供白色和黑色 2 种配色。该类配件面向日常携带场景，可为定位器提供基础外部防护。皮革保护套预计提供黑色和棕色 2 种配色，其外观可能接近三星 Galaxy 手机的 Kindsuit 保护壳。边框保护壳预计同样提供白色和黑色 2 种配色，定位于需要额外保护的使用场景，包括户外使用及可能发生跌落的环境。页面还显示三星会推出黑色 ComforTag 宠物项圈。该项圈用于将 Galaxy Smar",
+    "published_dt_iso": "2026-09-18T14:47:20+08:00"
+  },
+  {
+    "title": "消息称理想汽车开始卖技术：马赫芯片、碳化硅、增程器启动外供",
+    "link": "https://www.ithome.com/1/004/087.htm",
+    "date": "2026-09-18",
+    "published_time": "14:45",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，据 36 氪从多位产业人士处获悉，今年以来，理想汽车已经开启了多项核心技术的对外供应计划；而伴随业务拆分，部分业务也有引入外部资金的计划。典型启动外供的业务有自研马赫芯片、碳化硅模组公司斯科半导体及增程器等。目前，马赫芯片、碳化硅模组等都已经成立独立的公司实体，寻求更多外部客户，斯科半导体也准备引入更多外部资金。而其他的动力技术，如增程系统也向外释放出接纳外部客户的信息。但自研电池尚无计划，行业人士表示，“电池的定制化程度很高，外供难度太大。”据悉，理想高层也已经决议批准芯片业务分拆，与此同时，业务拓展等动作也在同步进行。消息人士透露，已经有具身智能公司与理想高层洽谈过，“后者明确推销了马赫芯片”，最终这些具身公司是否使用马赫芯片，可能取决于算法迁移难度。据I",
+    "published_dt_iso": "2026-09-18T14:45:14+08:00"
+  },
+  {
+    "title": "Keychron 推出 K6 Ultra 1K·ZMK 特别版键盘：65% 小配列，木制饰边",
+    "link": "https://www.ithome.com/1/004/086.htm",
+    "date": "2026-09-18",
+    "published_time": "14:42",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，Keychron（渴创）近日在日本市场推出了 K6 Ultra 1K·ZMK 特别版三模机械键盘。这一型号采用 65% 小配列，支持日语 / 英语布局，拥有铝制机身和木制饰边。K6 Ultra 1K·ZMK 特别版支持热插拔，预装 Keychron Apex 开关，可选线性红轴、微段落茶轴、提前段落香蕉轴；搭配 OSA 高度 PBT 材质双色注塑工艺键帽。其采用双层 Gasket 结构，集成北向 RGB 背光；支持三模连接，回报率可达 1kHz；搭载 ZMK 固件，续航可达 600hr；支持 Keychron Launcher 网页端驱动程序。IT之家了解到，这款键盘在日本市场的当前售价为 17,672 日元（IT之家注：现汇率约合 761.9 元人民币）。",
+    "published_dt_iso": "2026-09-18T14:42:56+08:00"
+  },
+  {
+    "title": "M610BB 手机曝光：高通第六代骁龙 8 至尊版芯片，预估为小米 18 Pro",
+    "link": "https://www.ithome.com/1/004/085.htm",
+    "date": "2026-09-18",
+    "published_time": "14:34",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，继型号 M154FF 和 M1544F 两款小米手机跑分曝光后，型号 M610BB 手机也现身 GeekBench 跑分平台，7.0.0 版本单核成绩为 2,831 分、多核成绩 8,843 分。型号方面，科技媒体 GSMArena 认为该机上市后关联小米 18 Pro，由于是工程样机，内存容量、软件调校、温控状态和测试版本都会显著影响跑分成绩，因此相关跑分目前仅供参考。芯片方面，页面信息显示该机配备高通第六代骁龙 8 至尊版（SM8950，英文名称 Snapdragon 8 Elite Gen6），采用 2+3+3 集群方案，相关时钟频率为高通第六代骁龙 8 超级至尊版（SM8975，英文名称 Snapdragon 8 Elite Extreme Gen6）",
+    "published_dt_iso": "2026-09-18T14:34:55+08:00"
+  },
+  {
+    "title": "Waymo 加速亚太布局，计划 2028 年在新加坡提供 Robotaxi 商用服务",
+    "link": "https://www.ithome.com/1/004/084.htm",
+    "date": "2026-09-18",
+    "published_time": "14:25",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，Alphabet 旗下自动驾驶企业 Waymo 当地时间 17 日宣布，计划于 2028 年在新加坡提供有偿 Robotaxi 出行服务。该企业本周早些时候曾表示目标明年在日本东京实现商业化运营。Waymo 计划在未来数月建立新加坡本地业务，完成首批捷豹 I-PACE 车队的入驻；2027 年启动基于真人驾驶的本地化训练；2028 年时则将通过第一方应用向一般公众提供网约车服务。Waymo 联合首席执行官 Tekedra Mawakana 发言称：新加坡打造了世界上最安全、最高效、最具前瞻性的交通生态系统之一。他们对可靠性、可持续性和以人为本的进步的关注，直接反映了我们构建 Waymo 技术和服务的方式。在我们开始这里的旅程时，我们致力于倾听社区声音，创造高技",
+    "published_dt_iso": "2026-09-18T14:25:29+08:00"
+  },
+  {
+    "title": "水月雨 Position 准星入耳式电竞耳机发售：内置 DSP 游戏声卡、10mm 动圈，159 元",
+    "link": "https://www.ithome.com/1/004/083.htm",
+    "date": "2026-09-18",
+    "published_time": "14:22",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，水月雨旗下 Position 准星入耳式电竞耳机现已在京东发售，该耳机配备 USB-C/3.5mm 双接口，内置 DSP 游戏声卡，支持 AI 降噪，定价为 159 元。京东水月雨准星 Position 耳机 159 元直达链接该耳机提供银 / 黑双色可选，使用合金熔铸腔体加以高温烤漆处理提升质感。耳机出音导管前端配备可拆卸装置，用户可以轻松更换防堵塞声学滤波组件。该耳机配备 10mm 铝镁合金复合振膜动圈单元，阻抗 18Ω，灵敏度 119dB / Vrms，频响范围 15Hz-38kHz。其声音基于 HRTF 特征调音，总谐波失真低于 0.5%，确保精准的游戏声音定位。该耳机采用 0.78 双针可换线接口，标配带麦克风的 3.5mm 音频线。产品附带 Hi-",
+    "published_dt_iso": "2026-09-18T14:22:29+08:00"
+  },
+  {
+    "title": "哈弗猛龙 PLUS 力魂版车型 9 月 21 日上市，CLTC 纯电续航 255km",
+    "link": "https://www.ithome.com/1/004/082.htm",
+    "date": "2026-09-18",
+    "published_time": "14:18",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，哈弗猛龙 PLUS 力魂版车型确认将于 9 月 21 日正式上市。新车采用原厂专属外观套件，搭载 Hi4 智能电混四驱系统，CLTC 纯电续航 255km。其外观延续普通版“方盒子”造型，配备专属套件和经典圆灯复古美学升级。所有改装部件由原厂研发、车规级工艺装配，出厂即合规可直接上牌。新车侧裙带有力魂英文标识，配备星影轮毂和全黑行李架，并新增炽烈橙、焰影黑两款车色。车身关键部位钢板强度最高达 2000MPa。空载接近角 25°、离去角 32°，最小离地间隙 221mm。车顶配备激光雷达，预计与在售车型一致，搭载 Coffee Pilot 3 智驾系统，支持高速公路领航辅助、城区道路主动刹车和全自动泊车。动力方面，新车搭载长城自研 Hi4 智能电混四驱系统，由 ",
+    "published_dt_iso": "2026-09-18T14:18:07+08:00"
+  },
+  {
+    "title": "海盗船推出 RS II 风扇、NAUTILUS II 处理器液冷",
+    "link": "https://www.ithome.com/1/004/081.htm",
+    "date": "2026-09-18",
+    "published_time": "14:16",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 18 日消息，CORSAIR（海盗船）美国加州当地时间昨日宣布推出兼具性能与实惠的 RS II 系列 PWM 风扇、NAUTILUS II 处理器一体式 (AIO) 液冷散热器。▲ RS II ARGBRS II 系列 PWM 风扇包括无光和 ARGB 两个分支，每个分支均提供 120mm、140mm、360mm 单框 (3×120mm) 分支，无光版仅有黑色，ARGB 版可选黑 / 白。该系列风扇采用重新设计的 AirGuide 定子结构，拥有优秀的风量与静压表现，磁吸圆顶轴承则确保了静音运行和更长的使用寿命。总而言之，其在不影响散热性能的同时显著降低了噪声。▲ NAUTILUS II RSNAUTILUS II 系列处理器 AIO 液冷散热器包括无光、ARGB、LCD ",
+    "published_dt_iso": "2026-09-18T14:16:50+08:00"
+  },
+  {
+    "title": "轻松决定从纽卡斯尔搬到利物浦",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "13:12",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "前锋亚历山大·伊萨克（ Alexander Isak ）表示，利物浦签下他的雄心壮志和决心是他加入俱乐部的重要原因。",
+    "published_dt_iso": "2026-09-18T13:12:10+08:00"
+  },
+  {
+    "title": "De Zerbi如何解决马刺队的得分问题？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zyv3x5rpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "13:16",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "罗伯托·德·泽比（ Roberto De Zerbi ）的托特纳姆热刺（ Tottenham ）本赛季还没有打进英超联赛的进球，他们如何",
+    "published_dt_iso": "2026-09-18T13:16:05+08:00"
+  },
+  {
+    "title": "保留或出售Cherki ？ FPL游戏周五难题",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c69qr50nynqdo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "14:44",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育频道（ BBC Sport ）的幻想英超联赛（ Fantasy Premier League ）专家海森堡（ FPL Heisenberg ）回答了经理们在游戏第五周面临的一些最大困境。",
+    "published_dt_iso": "2026-09-18T14:44:29+08:00"
+  },
+  {
+    "title": "英超联赛：本周末需要注意的10件事",
+    "link": "https://www.theguardian.com/football/2026/sep/18/premier-league-10-things-to-look-out-for-this-weekend",
+    "date": "2026-09-18",
+    "published_time": "07:01",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "马刺和别墅在绝望的德比中相遇， Andoni Iraola面临着对南海岸回归的考验英超联赛最佳射手：查看最新积分榜切尔西自布伦特福德首个英超联赛赛季以来从未赢得过这场西伦敦德比。自2021年10月1-0获胜以来，每次访问，得分手Ben Chilwell都是平局。本赛季延续了俱乐部各自方法之间的分歧，相比之下，布伦特福德的稳固性和连续性",
+    "published_dt_iso": "2026-09-18T07:01:01+08:00"
+  },
+  {
+    "title": "中国海警局新闻发言人就菲船只碰撞我海警艇发表谈话",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698907.shtml",
+    "date": "2026-09-18",
+    "published_time": "14:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 据中国海警局官方微博消息，中国海警局新闻发言人姜略表示，9月18日，中国海警三洲澳艇依法在中国南沙群岛仙宾礁附近海域开展维权执法行动。菲3015号船无视中方多次严正警告，故意调整航向，突然加速斜插我海警艇船艏，导致发生擦碰。菲方行径严重违反国际法和国际关系基本准则，威胁中国海警船艇、人员安全。中国海警艇操作专业规范、合理合法，有关责任完全在菲方。我们正告菲方，立即停止一切侵权挑衅行径，否则由此引发的一切后果由菲方承担。中国海警将继续在中方管辖海域开展维权执法行动，维护国家领土主权和海洋权益。",
+    "published_dt_iso": "2026-09-18T14:04:47+08:00"
+  },
+  {
+    "title": "中国高规格部署持续做大做强先进制造业",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698846.shtml",
+    "date": "2026-09-18",
+    "published_time": "12:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月18日电 (记者 刘亮)面对新一轮科技革命和产业变革趋势，中国就发展先进制造业作出高规格部署，明确提出“坚持智能化、绿色化、融合化方向，持续做大做强先进制造业，提升产业链自主可控水平，加快构建以先进制造业为骨干的现代化产业体系，巩固壮大实体经济根基，为推进中国式现代化提供有力支撑”。",
+    "published_dt_iso": "2026-09-18T12:32:33+08:00"
+  },
+  {
+    "title": "理论专题片《锻造》第一集丨旗帜鲜明讲政治",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698764.shtml",
+    "date": "2026-09-18",
+    "published_time": "11:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "习近平总书记深刻指出：“105年不懈奋斗，锻造了强大的中国共产党。我们党牢记马克思主义政党的性质宗旨和奋斗目标，大力弘扬伟大建党精神，历经磨难斗志弥坚，千锤百炼更加坚强。”由江苏省广播电视总台精心打造的理论专题片《锻造》聚焦习近平党建思想，紧扣“新时代党的建设总要求”，全景展现中国共产党在自我革命中永葆生机、在人民拥护中不断壮大的伟大征程。以“锻造”为核心叙事动词，纵向贯穿百余年党史，横向围绕党的政治建设、思想建设、组织建设、作风建设、纪律建设、制度建设和反腐败斗争七个方面展开，为观众深入领悟“持之以恒推进全面从严治党”重大命题提供历史镜鉴与思想启迪。全片共7集，每集约25分钟。9月16日起在荔枝新闻、ai荔枝等网络平台正式上线。",
+    "published_dt_iso": "2026-09-18T11:55:04+08:00"
+  },
+  {
+    "title": "中方回应欧洲议会涉港决议：立即停止对“支联会”案说三道四",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698768.shtml",
+    "date": "2026-09-18",
+    "published_time": "11:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网布鲁塞尔9月18日电 中国驻欧盟使团17日回应欧洲议会涉港决议，敦促欧洲议会切实尊重中国主权和香港法治，立即停止对“支联会”案说三道四。",
+    "published_dt_iso": "2026-09-18T11:25:21+08:00"
+  },
+  {
+    "title": "习言道｜“百炼钢做成了绕指柔”，习近平称赞“工艺确实好”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698785.shtml",
+    "date": "2026-09-18",
+    "published_time": "11:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 题：“百炼钢做成了绕指柔”，习近平称赞“工艺确实好”",
+    "published_dt_iso": "2026-09-18T11:13:56+08:00"
+  },
+  {
+    "title": "山东省泰安市委原常委、市政府原副市长刘峰梅被“双开”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698799.shtml",
+    "date": "2026-09-18",
+    "published_time": "11:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 据山东省纪委监委消息，经山东省委批准，山东省纪委监委对泰安市委原常委、市政府原副市长刘峰梅严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-18T11:09:44+08:00"
+  },
+  {
+    "title": "赓续长征精神 奋进复兴征程丨青山多忠烈 薪火照征程",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698699.shtml",
+    "date": "2026-09-18",
+    "published_time": "10:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "1934年10月25日起，中央红军长征主力部队转战粤北，先后经过南雄、仁化、乐昌、连县(今连州)等地，成功突破敌人封锁线，向湖南方向挺进。红军过境粤北，是万里征途中的短暂一程，却铸就了不朽的丰碑。",
+    "published_dt_iso": "2026-09-18T10:51:28+08:00"
+  },
+  {
+    "title": "湖北省咸宁市政协党组成员、副主席刘中英被查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-18/10698775.shtml",
+    "date": "2026-09-18",
+    "published_time": "10:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月18日电 据湖北省纪委监委消息，咸宁市政协党组成员、副主席刘中英涉嫌严重违纪违法，目前正接受湖北省纪委监委纪律审查和监察调查。",
+    "published_dt_iso": "2026-09-18T10:47:36+08:00"
+  },
+  {
+    "title": "厄瓜多尔总统：每年耗资超15亿美元打击有组织犯罪",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698915.shtml",
+    "date": "2026-09-18",
+    "published_time": "14:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月18日电 综合消息：厄瓜多尔总统丹尼尔·诺沃亚当地时间17日表示，该国每年耗资超过15亿美元用于打击与贩毒有关的有组织犯罪，并称相关行动需强化本国力量与国际合作。",
+    "published_dt_iso": "2026-09-18T14:38:47+08:00"
+  },
+  {
+    "title": "美国务院批准向沙特出售F",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698906.shtml",
+    "date": "2026-09-18",
+    "published_time": "14:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月18日电 据路透社报道，当地时间17日，美国国务院发表声明表示，已批准一项可能向沙特阿拉伯出售48架F-35战斗机及相关设备的对外军售，预计总金额高达243亿美元。",
+    "published_dt_iso": "2026-09-18T14:23:14+08:00"
+  },
+  {
+    "title": "李在明：韩国不会向霍尔木兹海峡派兵",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698864.shtml",
+    "date": "2026-09-18",
+    "published_time": "13:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月18日电 据韩国MBC电视台报道，韩国总统李在明18日强调，韩国不会派兵参与或介入伊朗战事。",
+    "published_dt_iso": "2026-09-18T13:52:54+08:00"
+  },
+  {
+    "title": "向胜利纪念碑发难，日本安的什么心？ | 新漫评",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698826.shtml",
+    "date": "2026-09-18",
+    "published_time": "12:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "近日，俄罗斯哈巴罗夫斯克一座纪念战胜日本军国主义的纪念碑正式揭幕。15米高的红军战士雕像，以枪托砸碎刻有日本菊花纹章的界碑。日本首相高市早苗与日本外务省随即提出抗议，声称菊花纹章是日本象征，要求俄方拆除纪念碑。俄外交部发言人扎哈罗娃回应，拆除纪念碑的要求“如同妄想风停、日息”，俄罗斯的历史根植于事实，民族记忆凝固在纪念碑之上。",
+    "published_dt_iso": "2026-09-18T12:05:27+08:00"
+  },
+  {
+    "title": "日本央行宣布加息至1.25% 创31年新高",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698816.shtml",
+    "date": "2026-09-18",
+    "published_time": "11:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月18日电 据日本广播协会(NHK)报道，当地时间18日，日本央行在货币政策会议上决定加息，将政策利率从1.0%左右上调至1.25%左右。",
+    "published_dt_iso": "2026-09-18T11:26:21+08:00"
+  },
+  {
+    "title": "美国向中国返还64件（套）文物艺术品和古生物化石",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698796.shtml",
+    "date": "2026-09-18",
+    "published_time": "11:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社华盛顿/纽约9月17日电 (记者 陈孟统 廖攀)当地时间9月16日、17日，中国国家文物局在华盛顿、纽约分别接收美国国土安全调查局、纽约曼哈顿区检察官办公室向中国返还的两批次共计64件(套)文物艺术品和古生物化石。",
+    "published_dt_iso": "2026-09-18T11:25:21+08:00"
+  },
+  {
+    "title": "作家鲁敏与巴西青年畅谈四张“中国面孔”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698817.shtml",
+    "date": "2026-09-18",
+    "published_time": "11:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网圣保罗9月18日电 题：作家鲁敏与巴西青年畅谈四张“中国面孔”",
+    "published_dt_iso": "2026-09-18T11:24:41+08:00"
+  },
+  {
+    "title": "南非约堡东部两月发现9具女性遗体 警方加强调查",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-18/10698754.shtml",
+    "date": "2026-09-18",
+    "published_time": "10:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网约翰内斯堡9月18日电 (记者 孙翔)南非警方17日证实，在约翰内斯堡东部城市群埃库鲁莱尼再次发现一具女性遗体。自今年7月以来，当地已接连发现9具女性遗体，案件引发广泛关注。",
+    "published_dt_iso": "2026-09-18T10:52:24+08:00"
+  },
+  {
+    "title": "借“维权”之名敲诈商家 起底新型“职业索赔”涉恶犯罪",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698933.shtml",
+    "date": "2026-09-18",
+    "published_time": "14:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "法治在线丨借“维权”之名敲诈商家 起底新型“职业索赔”涉恶犯罪",
+    "published_dt_iso": "2026-09-18T14:39:39+08:00"
+  },
+  {
+    "title": "广东清远通报“个别窝点违法使用硫磺熏蒸麻竹笋”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698896.shtml",
+    "date": "2026-09-18",
+    "published_time": "14:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月18日电 据广东省清远市人民政府网站消息，清远市市场监督管理局18日发布情况通报称，针对网上反映的“我市个别窝点违法使用硫磺熏蒸麻竹笋”的问题，清远市市场监督管理局第一时间会同公安、农业农村等部门开展实地核查调查。经初步核查，视频反映情况属实。",
+    "published_dt_iso": "2026-09-18T14:10:47+08:00"
+  },
+  {
+    "title": "国内号码也可能是境外诈骗 警方查获40多万张手机卡",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698909.shtml",
+    "date": "2026-09-18",
+    "published_time": "14:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "明明显示的是国内号码，接听后那头却是境外诈骗分子。这种被称为“手机口”的诈骗方式，最关键的就是需要大量境内电话卡。前不久，安徽亳州警方打掉一个利用“手机口”实施电诈的犯罪团伙，现场缴获手机卡竟多达40余万张。",
+    "published_dt_iso": "2026-09-18T14:10:39+08:00"
+  },
+  {
+    "title": "受强降雨影响 江西上犹县高峰村发生泥石流险情",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698887.shtml",
+    "date": "2026-09-18",
+    "published_time": "13:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月18日电 据“上犹发布”微信公众号消息，江西省赣州市上犹县应急指挥部18日发布情况通报称，受近期强降雨影响，9月18日凌晨，上犹县五指峰乡高峰村发生泥石流险情，造成4栋空置房屋倒塌，村内部分交通受阻，通信畅通，无人员伤亡和失联被困。",
+    "published_dt_iso": "2026-09-18T13:56:42+08:00"
+  },
+  {
+    "title": "中新网评：让伪财经“大V”无处藏身",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698850.shtml",
+    "date": "2026-09-18",
+    "published_time": "13:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月18日电(记者 邵萌)“内部消息，下周有大利好”“13年经验老手，一对一操盘指导”“进群，分享股市信息差”......你刷到过这些所谓的财经“大V”吗？极具煽动性的话术，背后藏着一条收割流水线。",
+    "published_dt_iso": "2026-09-18T13:55:58+08:00"
+  },
+  {
+    "title": "中秋国庆假期海南岛天气总体较好 部分时段有降雨天气",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698891.shtml",
+    "date": "2026-09-18",
+    "published_time": "13:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网海口9月18日电 (林俊汝 陈明)海南省气象台18日发布天气预报，中秋节和国庆节假日期间，海南岛天气总体较好，热带气旋、区域性暴雨、高温影响可能性小，部分时段有降雨天气。",
+    "published_dt_iso": "2026-09-18T13:50:36+08:00"
+  },
+  {
+    "title": "“九一八”事变爆发95周年 长春各界缅怀先烈铭记国殇",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698876.shtml",
+    "date": "2026-09-18",
+    "published_time": "13:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网长春9月18日电 (刘栋 胡莹 金乔)9月18日9时18分，防空警报声在长春上空响起。在伪满皇宫博物院东北沦陷史陈列馆前，社会各界代表500余人肃立默哀，缅怀抗战牺牲先烈和惨遭侵略者杀戮的无辜同胞。",
+    "published_dt_iso": "2026-09-18T13:48:05+08:00"
+  },
+  {
+    "title": "“蓝翅仙子”现身福建永安 天宝岩保护区蝴蝶记录增至330种",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-18/10698856.shtml",
+    "date": "2026-09-18",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网福建永安9月18日电 (黄中泉 廖金朋)近日，福建省三明永安市资源监测人员在天宝岩国家级自然保护区内发现蝴蝶新记录种——莱灰蝶。这是该保护区有影像记录的第330种蝴蝶，也是三明市的蝴蝶新记录种。",
+    "published_dt_iso": "2026-09-18T13:43:53+08:00"
+  },
+  {
+    "title": "习近平访美前瞻：当白宫举行宴会时，台湾会出现在“菜单”上吗？",
+    "link": "https://www.bbc.com/zhongwen/articles/cq62j7my13l3o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "08:19",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "日媒称美中峰会前，白宫若批准新的对台军售，习近平可能不去华府。对台湾的军售从原则如何变成交易杠杆，台湾的芯片牌仍然有效吗？",
+    "published_dt_iso": "2026-09-18T08:19:45+08:00"
+  },
+  {
+    "title": "澳洲收紧移民政策：管制留学生、背包客，打击“签证跳转”",
+    "link": "https://www.bbc.com/zhongwen/articles/cx24jdd1j59po/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "13:15",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "澳洲政府希望在2028年前，将海外净移民人数降至22.5万人。",
+    "published_dt_iso": "2026-09-18T13:15:07+08:00"
+  },
+  {
+    "title": "美国科技巨头呼吁放缓AI发展速度",
+    "link": "https://www.bbc.com/zhongwen/articles/c8y5z7y521eeo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "09:08",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "随着人工智能以惊人的速度发展，一些业内最杰出的领导者已经警告了它可能带来的潜在风险。然而，世界两大人工智能超级大国——中美之间的激烈竞争，可能会让应对这项威胁的努力变得更加复杂。",
+    "published_dt_iso": "2026-09-18T09:08:10+08:00"
+  },
+  {
+    "title": "美籍缅甸裔学者涉间谍罪在华监禁　其妻吁特朗普晤习近平时重提此案",
+    "link": "https://www.bbc.com/zhongwen/articles/ck980qm3dl3go/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-18",
+    "published_time": "13:50",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "西尔维娅·辛（Sylvia Zin）是多名被关押在中国人士的家属之一，他们正寻求特朗普在下周接待中国领导人时提供协助。",
+    "published_dt_iso": "2026-09-18T13:50:44+08:00"
+  },
+  {
+    "title": "特朗普希望普京结束战争。他可能会首先提供俄罗斯商业交易。",
+    "link": "https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html",
+    "date": "2026-09-18",
+    "published_time": "07:20",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "一项新的制裁法案旨在迫使俄罗斯总统弗拉基米尔· V ·普京（ Vladimir V. Putin ）结束乌克兰战争。但特朗普总统正在加倍采取一种不同的方法：向俄罗斯提供诱惑。",
+    "published_dt_iso": "2026-09-18T07:20:14+08:00"
+  },
+  {
+    "title": "布兰奇的政治竞选活动打破了回到水门事件的道德规范",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html",
+    "date": "2026-09-18",
+    "published_time": "10:06",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "司法部长为共和党人进行的竞选政治活动加剧了司法部水门事件后价值观的退化。",
+    "published_dt_iso": "2026-09-18T10:06:06+08:00"
+  },
+  {
+    "title": "RFK Jr.向疫苗怀疑论者保证他们有一个“白宫朋友”",
+    "link": "https://www.nytimes.com/2026/09/17/health/kennedy-vaccines-childrens-health-defense.html",
+    "date": "2026-09-18",
+    "published_time": "09:35",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "卫生部长在一次关于疫苗的错误信息会议上发表讲话，包括声称脊髓灰质炎疫苗的成功是“欺诈”。",
+    "published_dt_iso": "2026-09-18T09:35:14+08:00"
+  },
+  {
+    "title": "拒绝特朗普，韩国领导人表示他不会向伊朗派遣军队",
+    "link": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+    "date": "2026-09-18",
+    "published_time": "12:58",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
+    "published_dt_iso": "2026-09-18T12:58:13+08:00"
+  },
+  {
+    "title": "Trump Moves Ahead With F-35 Jet Sales to Saudi Arabia Despite Intelligence Concerns",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/trump-f35-jet-saudi-arabia.html",
+    "date": "2026-09-18",
+    "published_time": "10:32",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "U.S. intelligence agencies have warned in internal reports that China could acquire or steal U.S. warplane technology if F-35 jets are sent to Saudi Arabia.",
+    "published_dt_iso": "2026-09-18T10:32:18+08:00"
+  },
+  {
+    "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/yemen-houthis-marib.html",
+    "date": "2026-09-18",
+    "published_time": "06:44",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Clashes between Iranian-backed Houthi fighters and Saudi-backed government forces have been reported near oil-rich Marib Province.",
+    "published_dt_iso": "2026-09-18T06:44:04+08:00"
+  },
+  {
+    "title": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
+    "link": "https://www.nytimes.com/2026/09/17/world/middleeast/iranian-airlines-suspend-flights-us-sanctions.html",
+    "date": "2026-09-18",
+    "published_time": "13:57",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Mahan Air, a major airline, said it would stop flying to Turkey and Oman just over a week after new restrictions were announced, adding to U.S. pressure on the economy.",
+    "published_dt_iso": "2026-09-18T13:57:54+08:00"
+  },
+  {
+    "title": "Trump Air Force One Photos Fuel Kennedy Center Demolition Speculation",
+    "link": "https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html",
+    "date": "2026-09-18",
+    "published_time": "03:10",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Images captured through the windows of Air Force One showed President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”",
+    "published_dt_iso": "2026-09-18T03:10:26+08:00"
   }
 ]
