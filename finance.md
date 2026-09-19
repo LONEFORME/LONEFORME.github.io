@@ -230,8 +230,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-19/10699608.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="问：美东时间9月18日，美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法。该法全面强化对俄制裁，延长对伊有关制裁，并明确可对进口俄罗斯石油或天然气的第三国加征最高100%所谓“次级关税”。有评论认为，中方将是美征税目标之一。请问中方对此有何评论？" data-title="商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问" data-date="09-19 19:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 19:58</span>
+          <span class="news-item-title">商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="俄亥俄州参议院候选人的一个职位试图驳斥共和党对跨性别权利的关注，将其视为对经济问题的分心。" data-title="谢罗德·布朗（ Sherrod Brown ）尝试对跨性别问题的批评进行新的反驳" data-date="09-19 17:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-19 17:03</span>
+          <span class="news-item-title">谢罗德·布朗（ Sherrod Brown ）尝试对跨性别问题的批评进行新的反驳</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统与加拿大的对峙引起了一些边境州和工业州选民的批评，这些州可能在中期决定参议院的控制权。" data-title="特朗普赢得了他们的选票。现在，他的贸易战正在分裂他们。" data-date="09-19 17:01" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-19 17:01</span>
+          <span class="news-item-title">特朗普赢得了他们的选票。现在，他的贸易战正在分裂他们。</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-19/10699454.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="秘鲁中央储备银行行长贝拉尔德当地时间18日说，因厄尔尼诺现象造成的影响超出预期，秘鲁央行将2026年秘鲁经济增长预期从此前的3.4%下调至3.2%。" data-title="秘鲁因厄尔尼诺影响下调今年经济增长预期" data-date="09-19 15:09" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 15:09</span>
+          <span class="news-item-title">秘鲁因厄尔尼诺影响下调今年经济增长预期</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-19/10699425.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网乌鲁木齐9月19日电 (张家伟)新疆生产建设兵团第一师阿拉尔市18日召开新闻发布会，介绍“十四五”以来以生态环境高水平保护助力经济社会高质量发展情况。" data-title="新疆阿拉尔市以生态高水平保护助力经济高质量发展" data-date="09-19 13:22" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -311,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-19 14:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-19 19:59（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
