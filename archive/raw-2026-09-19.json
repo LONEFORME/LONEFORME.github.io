@@ -2138,5 +2138,615 @@
     "feed_name": "纽约时报",
     "summary": "数据科学有助于确定谁会获得博彩奖励，但该公司一直拒绝使用类似的技术来保护有成瘾风险的赌徒。",
     "published_dt_iso": "2026-09-19T17:00:18+08:00"
+  },
+  {
+    "title": "人工智能安全对话变得令人难以置信",
+    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "date": "2026-09-19",
+    "published_time": "23:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "本周，两场关于人工智能安全的对话如火如荼，表明从虚构中辨别人工智能事实是多么困难。",
+    "published_dt_iso": "2026-09-19T23:00:00+08:00"
+  },
+  {
+    "title": "Petlibro的新型人工智能喂食器是多猫房屋的游戏规则改变者",
+    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "date": "2026-09-19",
+    "published_time": "23:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Petlibro的新型Granary 2智能喂食器使用内置比例和（在价格较高的型号上）人工智能摄像头来准确跟踪您的猫吃多少以及何时吃—尽管最昂贵的健康监测功能将花费您额外的订阅费用。",
+    "published_dt_iso": "2026-09-19T23:00:00+08:00"
+  },
+  {
+    "title": "价格将在7天内上涨。立即获取中断工单。",
+    "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+    "date": "2026-09-19",
+    "published_time": "22:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "当前门票价格将于太平洋时间9月25日晚上11:59结束。加入Disrupt的10,000多位创始人、投资者和技术领导者，在此之前节省高达200 $的门票费用。",
+    "published_dt_iso": "2026-09-19T22:00:00+08:00"
+  },
+  {
+    "title": "Vals在Andreessen Horowitz的支持下，希望成为人工智能基准测试的黄金标准",
+    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "date": "2026-09-19",
+    "published_time": "21:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "VALS AI希望在日益被AI模型淹没的世界中，使AI基准测试成为更中立、更值得信赖的资源。",
+    "published_dt_iso": "2026-09-19T21:00:00+08:00"
+  },
+  {
+    "title": "宏碁Nitro XV273U F5游戏显示器回顾：全球最快的液晶显示器之一",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/acer-nitro-xv273u-f5-27-inch-qhd-540-hz-gaming-monitor-review",
+    "date": "2026-09-19",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "宏碁的Nitro XV273U F5可能是地球上速度最快的液晶显示器。这款27英寸QHD IPS面板具有540 Hz和1,000 Hz的高清分辨率。它还提供自适应同步、HDR10、HDR 600和宽色域颜色。",
+    "published_dt_iso": "2026-09-19T21:00:00+08:00"
+  },
+  {
+    "title": "研究人员创建了无需电力即可执行100位计算的DNA计算机—分子系统使用自组装链来执行计算",
+    "link": "https://www.tomshardware.com/tech-industry/researchers-create-dna-computer-that-performs-100-bit-calculations-without-electricity-molecular-system-uses-self-assembling-strands-to-perform-computing",
+    "date": "2026-09-19",
+    "published_time": "20:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "梅努斯大学的研究人员构建了一个脚手架DNA计算机，该计算机使用分子反应在没有电力的情况下进行算术和100位计算。",
+    "published_dt_iso": "2026-09-19T20:30:00+08:00"
+  },
+  {
+    "title": "本周Tom's Hardware Premium ： 2026年9月19日— Steam Frame访谈、杀手级AI模型和DRAM危机加深",
+    "link": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-september-19-2026-steam-frame-interview-killer-ai-models-and-the-dram-crisis-deepens",
+    "date": "2026-09-19",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "本周在Tom's Hardware Premium上，我们将深入探讨蒸汽框架，探索人工智能如何改变消费电子产品的格局，以及尽管受到出口管制，先进的人工智能加速器如何到达东海岸。",
+    "published_dt_iso": "2026-09-19T20:00:00+08:00"
+  },
+  {
+    "title": "双子座流氓，黑了三家公司，谷歌把它藏起来了",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "date": "2026-09-19",
+    "published_time": "23:25",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今年5月，双子座打破了遏制并入侵了三家不同的公司，但谷歌直到《华尔街日报》与该公司接触后才披露这一事件。这些黑客攻击发生在由第三方Irregular运营的模型网络安全功能测试期间，该模型也参与了涉及Meta和OpenAI的类似事件。据《华尔街日报》报道，谷歌没有[…]",
+    "published_dt_iso": "2026-09-19T23:25:03+08:00"
+  },
+  {
+    "title": "Anamanaguchi现在打开了“太多”的浏览器选项卡",
+    "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+    "date": "2026-09-19",
+    "published_time": "23:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Anamanaguchi ，由Peter Berkman、James DeVito、Luke Silas和Ary Warnaar组成的乐队，最著名的是他们的chiptune音乐。像我一样，你可能第一次在游戏配乐中听到他们，比如2010年的Scott Pilgrim vs. the World ： The Game ，或者知道他们与Hatsune Miku的合作（甚至进入了[…]",
+    "published_dt_iso": "2026-09-19T23:00:00+08:00"
+  },
+  {
+    "title": "色彩缤纷、独一无二的Hyte X50个人电脑保护壳可享$ 50折扣",
+    "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+    "date": "2026-09-19",
+    "published_time": "23:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Hyte X50是一款真正脱颖而出的PC保护壳，在2026年9月21日之前，该公司网站的折扣为50 $ ，价格降至99.99 $。这个有吸引力的外壳支持从ITX一直到E-ATX外形的主板，以及[…]的GPU",
+    "published_dt_iso": "2026-09-19T23:00:00+08:00"
+  },
+  {
+    "title": "人工智能是否需要反垄断豁免，所以它不会杀死所有人？ ？ ？ ？",
+    "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+    "date": "2026-09-19",
+    "published_time": "22:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今天在Decoder上，我们有一个关于商业未来的两部分系列中的第一部分，我正在与拜登政府美国司法部前反垄断主管乔纳森·坎特（ Jonathan Kanter ）交谈。如今，他既是WashU的法学教授，也是卡内基梅隆大学的技术政策教授。[…]",
+    "published_dt_iso": "2026-09-19T22:00:00+08:00"
+  },
+  {
+    "title": "不仅仅是LG。每家电视公司都在监视你",
+    "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
+    "date": "2026-09-19",
+    "published_time": "21:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "由于来自Gamers Nexus的2小时15分钟视频声称LG电视正在邪恶地监视您所做的一切，电视世界一直存在争议。他们可以录制和存储音频，即使他们似乎处于关闭状态，跟踪您观看的所有内容，甚至可能被远程黑客攻击并变成秘密监控[…]",
+    "published_dt_iso": "2026-09-19T21:00:00+08:00"
+  },
+  {
+    "title": "人工智能监管的打击还没有结束",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+    "date": "2026-09-19",
+    "published_time": "21:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在本周初，谁是谁的人工智能似乎-至少暂时-在人工智能监管方面。上周末， Anthropic首席执行官Dario Amodei提出了一项减缓人工智能发展的三步计划，包括通过在实验室中嵌入第三方评估人员，协调整个国内行业，以及制定潜在的国际协议[…]",
+    "published_dt_iso": "2026-09-19T21:00:00+08:00"
+  },
+  {
+    "title": "“留给人类阻止AI的时间不多了”",
+    "link": "https://www.qbitai.com/2026/09/492755.html",
+    "date": "2026-09-19",
+    "published_time": "19:53",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "AI有可能终结我们所有人",
+    "published_dt_iso": "2026-09-19T19:53:12+08:00"
+  },
+  {
+    "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+    "link": "https://www.qbitai.com/2026/09/492661.html",
+    "date": "2026-09-19",
+    "published_time": "19:48",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "老马想买倒闭公司数据为哪般",
+    "published_dt_iso": "2026-09-19T19:48:06+08:00"
+  },
+  {
+    "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+    "link": "https://www.qbitai.com/2026/09/492573.html",
+    "date": "2026-09-19",
+    "published_time": "19:43",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "设计、前端一口气全干了，结果后端没来上班",
+    "published_dt_iso": "2026-09-19T19:43:12+08:00"
+  },
+  {
+    "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+    "link": "https://www.qbitai.com/2026/09/492550.html",
+    "date": "2026-09-19",
+    "published_time": "19:36",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "AI能否提出相对论？",
+    "published_dt_iso": "2026-09-19T19:36:11+08:00"
+  },
+  {
+    "title": "消息称索尼延续谨慎供货策略，PS5 Pro 直到明年年初都将供不应求",
+    "link": "https://www.ithome.com/1/004/572.htm",
+    "date": "2026-09-19",
+    "published_time": "23:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，当地时间 9 月 16 日，外媒 PlayFront 援引索尼发给经销合作伙伴的内部消息称，PS5 Pro 供不应求的局面将持续到 2027 年初。PlayFront 获得的一份内部备忘录显示，面对暂时性的市场供应限制和旺盛需求，索尼将继续对 PS5 Pro 采取更谨慎的供货策略。备忘录指出，高需求与有限产能同时存在，供应紧张最早也要到 2027 年初才可能缓解。报道指出，《GTA 6》定于 11 月 19 日发售，很可能成为进一步推高 PS5 Pro 需求的最大因素。近期的实机演示公布后，市场需求明显升温，德国零售商的机器库存几乎随即开始见底，转售市场的报价甚至比官方零售价高出数百欧元。《GTA 6》首发阶段仅登陆主机平台，亦有望进一步刺激需求。由于 PC ",
+    "published_dt_iso": "2026-09-19T23:48:49+08:00"
+  },
+  {
+    "title": "迪士尼首次任命首席技术官：挖来原 Character.AI 首席执行官阿南德，强化 AI 布局",
+    "link": "https://www.ithome.com/1/004/570.htm",
+    "date": "2026-09-19",
+    "published_time": "23:31",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，据美国 CNBC 报道，当地时间 18 日，迪士尼宣布，原 Character.AI CEO 卡兰迪普 · 阿南德将于 10 月 2 日出任高级执行副总裁兼公司首位首席技术官（CTO），直接向 CEO 乔什 · 达马罗汇报。达马罗接掌迪士尼只有数月，此后一直强调利用技术推动公司各项业务发展。按照迪士尼的安排，阿南德将统管企业技术、基础设施、数据和 AI 平台，以及产品与工程业务，同时协调不同技术团队，进一步推动整个迪士尼的技术开发和交付方式现代化。达马罗发表声明称：“卡兰迪普拥有基础设施、消费科技和 AI 领域难得的综合经验，将成为迪士尼高级管理团队的重要成员，帮助我们继续推进三项重点：以优秀叙事为北极星，让技术服务于创意，以及以‘一个迪士尼’的方式协同运营。",
+    "published_dt_iso": "2026-09-19T23:31:54+08:00"
+  },
+  {
+    "title": "美联邦航空管理局斥资 8.75 亿美元打造 AI 空管系统，治理空中交通问题",
+    "link": "https://www.ithome.com/1/004/569.htm",
+    "date": "2026-09-19",
+    "published_time": "22:55",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，据《华尔街日报》当地时间 17 日报道，美国联邦航空官员将在全美最繁忙的航空走廊之一启用一套 AI 空中交通管理工具，最快当地时间 21 日上线。据美国政府和航空业官员透露，这套名为 Smart 的软件将率先在华盛顿特区一带投入使用，随后逐步推广至全美。Smart 旨在帮助美国联邦航空管理局（FAA）和航空公司减少航班延误与取消，并在天气或其他突发状况扰乱空中交通时，为航班重新寻找合适航路。Smart 全称为“空域、航路和轨迹战略管理（IT之家注：取 Strategic Management of Airspace, Routes and Trajectories 的首字母）”。系统可以综合分析航空公司时刻表、天气、机场跑道容量和运行限制等信息，预测空中交通流",
+    "published_dt_iso": "2026-09-19T22:55:04+08:00"
+  },
+  {
+    "title": "马云深度参与：淘宝闪购城市骑士制服获 2026 年法国设计奖最高奖，金奖首次授予一线劳动者职业制服",
+    "link": "https://www.ithome.com/1/004/568.htm",
+    "date": "2026-09-19",
+    "published_time": "22:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，阿里巴巴今日宣布，9 月 19 日，2026 年法国设计奖（French Design Award）颁奖典礼在巴黎举行，淘宝闪购城市骑士制服获颁金奖。据悉，这是该奖设立以来，首次将金奖授予一套面向一线劳动者的职业制服。IT之家注意到，城市骑士制服主设计师杨涛，在致辞和采访中特别感谢了阿里巴巴创始人马云。是他（马云）对这个群体的关注和尊重，是他的 idea 才有了这个设计，他每天晚上都会问设计的进度，他不仅是监制，设计师，还负责试穿和体验面料！据悉，去年夏天，马云深度参与到诸多细节的讨论中，比如提升骑手夜骑安全性、提升长时间骑行舒适度、以及新增配备急救装备等。法国设计奖组委会主席达里奥 · 奥利维罗（Dario Olivero）则表示，这是有巨大社会意义的设计行",
+    "published_dt_iso": "2026-09-19T22:48:34+08:00"
+  },
+  {
+    "title": "阿维塔 06T 猎装骑士版更多官图公布：896 线激光雷达、9 月 20 日上市",
+    "link": "https://www.ithome.com/1/004/567.htm",
+    "date": "2026-09-19",
+    "published_time": "22:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，阿维塔 06T 猎装骑士版公布更多官图，新车将于 9 月 20 日正式上市。结合官方海报可以看到，该车前脸采用家族式设计，配备半隐藏式门把手，车顶搭载 896 线激光雷达，尾部则采用当下流行的贯穿式尾灯，标配太行分布式电驱。IT之家注意到，阿维塔 06T 于今年 4 月上市，全系标配华为干昆 ADS 4、宁德时代 5C 超充电池，定位全场景运动轿车，售价区间为 21.99 万元 ~27.99 万元起。在售车型标配鸿蒙座舱 HarmonySpace 5 + MoLA 大模型，搭载 35.4 英寸 4K 全景星环屏。车身尺寸为 4940×1960×1475mm、轴距 2940mm。在售阿维塔 06T 纯电版四驱三电机峰值功率（前 / 后左 / 后右）210kW /",
+    "published_dt_iso": "2026-09-19T22:48:20+08:00"
+  },
+  {
+    "title": "曾让宇航员滞留太空数月的波音星际客机，被 NASA 希望再负责至少 10 次载人飞行任务",
+    "link": "https://www.ithome.com/1/004/566.htm",
+    "date": "2026-09-19",
+    "published_time": "22:36",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，2024 年的故障滞留事件两年后，据《华尔街日报》当地时间 18 日报道，NASA 正与波音洽谈，希望让星际客机继续承担新的载人飞行任务。知情人士透露，双方讨论的方案包括未来数年安排星际客机执行至少 10 次新任务。波音发言人告诉路透社：“我们将继续支持 NASA 的商业载人航天计划，并期待按照该机构的任务要求执行下一次星际客机任务。”NASA 没有回应路透社的置评请求。尽管星际客机两年前的载人测试任务麻烦不断，这次谈判仍说明，NASA 希望继续保留波音，使其与 SpaceX 共同承担美国载人航天运输任务。2014 年，NASA 选中波音和 SpaceX 开发载人飞船，把宇航员送往空间站。航天飞机退役后，美国一度长期依赖俄罗斯联盟号飞船，两家公司承担的新项目旨",
+    "published_dt_iso": "2026-09-19T22:36:50+08:00"
+  },
+  {
+    "title": "市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”：都是新技术带来的安全缺陷",
+    "link": "https://www.ithome.com/1/004/565.htm",
+    "date": "2026-09-19",
+    "published_time": "22:23",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，据每日经济新闻报道，9 月 19 日，国家市场监督管理总局缺陷产品召回技术中心工业品所所长肖凌云在 2026 中国汽车产业发展（泰达）国际论坛上透露，我国 2025 年召回的车辆中，有一半是企业主动召回。真正能够召回的企业是好的企业、优秀的企业。真正主动去召回的企业，也是质量能够走向优先的企业。数据显示，截至 2025 年底，我国共实施汽车召回 3265 次，涉及车辆 1.21 亿辆，其中受调查影响召回 662 次，涉及车辆 6408.21 万辆，占召回车辆总数的 53.14%。肖凌云表示，今年 8 月 21 日，中国市场召回了接近 800 万辆车，都是一些新技术带来的一些安全缺陷。“召回监管制度对推动我国汽车质量安全水平的提升，发挥了很好的作用。”肖凌云称。",
+    "published_dt_iso": "2026-09-19T22:23:28+08:00"
+  },
+  {
+    "title": "滨口直树：《最终幻想 7：启示录》游戏容量或达 200GB，需“一定程度”突破硬件限制",
+    "link": "https://www.ithome.com/1/004/564.htm",
+    "date": "2026-09-19",
+    "published_time": "22:15",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，《最终幻想 7：启示录》游戏总监滨口直树在 2026 东京电玩展接受外媒 VGC 采访时透露，本作容量可能达到约 200GB。在被问到游戏下载容量是否会超过前两作使用的两张蓝光光盘时，滨口直树回应称：“简单来说，是的。目前还有一些细节没有最终确定，但游戏容量大概会达到 200GB。我知道大家对此有很多不同看法，不过归根结底，我们确实需要在一定程度上突破硬件限制。还有一点我想说，虽然完整游戏内容不会全部装在光盘里，但考虑到光盘可能逐渐退出市场，也可能继续存在，因此对于《最终幻想 7：启示录》，我们无论如何都希望提供某种实体产品。这对我们来说真的非常重要。相信我！”作为对比，《最终幻想 7：重生》2025 年 1 月登陆 PC 时占用 155GB 存储空间。《最终",
+    "published_dt_iso": "2026-09-19T22:15:32+08:00"
+  },
+  {
+    "title": "别墅失败后， “脆弱”的马刺没有复苏的迹象",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "23:33",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "托特纳姆热刺看起来没有更接近解决他们的问题，因为他们滑向阿斯顿维拉的主场失利，加剧了他们的英超联赛痛苦。",
+    "published_dt_iso": "2026-09-19T23:33:20+08:00"
+  },
+  {
+    "title": "Manzambi在别墅击败马刺队时引人注目",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "21:32",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "托特纳姆热刺仍在寻找他们本赛季的第一个英超进球。",
+    "published_dt_iso": "2026-09-19T21:32:46+08:00"
+  },
+  {
+    "title": "曼联穆斯林球迷团体表示，拉特克利夫“必须去”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "22:52",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "曼联穆斯林支持者俱乐部（ Manchester United Muslim Supporters Club ）表示，曼联的共同所有人吉姆·拉特克利夫爵士（ Sir Jim Ratcliffe ）在反对移民并表示该国“处于滑坡期”后“必须离开”。",
+    "published_dt_iso": "2026-09-19T22:52:38+08:00"
+  },
+  {
+    "title": "布伦特福德保持不败，因为他们让三人超越切尔西",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cx980qll9me8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "06:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "布伦特福德在英超联赛中保持了不败的开局，他们在Gtech社区体育场以3比0击败切尔西，打进了三个下半场进球。",
+    "published_dt_iso": "2026-09-19T06:00:19+08:00"
+  },
+  {
+    "title": "利兹在纽卡斯尔惨败，攀升至第三",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c8d3el7mvypo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-15",
+    "published_time": "05:31",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "多米尼克·卡尔弗特-莱温（ Dominic Calvert-Lewin ）出演利兹联队（ Leeds United ） ，在英超联赛中排名第三，表现出色，在埃兰路（ Elland Road ）的纽卡斯尔联队（ Newcast",
+    "published_dt_iso": "2026-09-15T05:31:59+08:00"
+  },
+  {
+    "title": "托特纳姆热刺2-3阿斯顿维拉：英超联赛–事实如此",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+    "date": "2026-09-19",
+    "published_time": "22:05",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "马刺队打进了本赛季的第一个进球，但约翰·曼赞比（ Johan Manzambi ）、尼古拉斯·杰克逊（ Nicolas Jackson ）和埃米·温迪亚（ Emi Buendía ）赢得了维拉的胜利。这是双方的第176场比赛。马刺队以79比62的比分赢得了历史优势。已经进行了32次抽签。继续阅读...",
+    "published_dt_iso": "2026-09-19T22:05:27+08:00"
+  },
+  {
+    "title": "尽管马刺队进球较晚，阿斯顿维拉还是取得了胜利，因为德泽比的球队被嘘声淹没了",
+    "link": "https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report",
+    "date": "2026-09-19",
+    "published_time": "21:57",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "马刺有着非凡的能力来寻找给球迷带来痛苦的新方法，他们在这里再次做到了，从一个强大的开局走向羞辱性的失败，以确认他们有史以来最糟糕的英超联赛开局。从好的方面来看，他们确实进了两个球。他们都是迟到的安慰，但乞丐不能选择。与此同时，阿斯顿维拉无情地宣称他们本赛季的第一场胜利。他们在上半年资本化",
+    "published_dt_iso": "2026-09-19T21:57:04+08:00"
+  },
+  {
+    "title": "跨越海峡的科技对话：每一次握手，都离团圆更近一步",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699723.shtml",
+    "date": "2026-09-19",
+    "published_time": "22:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月19日电 九月的北京，秋意渐起，一场跨越海峡的科技对话正在这里升温。",
+    "published_dt_iso": "2026-09-19T22:33:15+08:00"
+  },
+  {
+    "title": "第29届京台科技论坛侧记：AI浪潮中的台湾“追光者”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699722.shtml",
+    "date": "2026-09-19",
+    "published_time": "22:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月19日电 “科技引领、产业融合、数智赋能、健康未来”，在AI爆发式增长的当下，第29届京台科技论坛的主题切中了两岸产业界最关心的命题。",
+    "published_dt_iso": "2026-09-19T22:32:21+08:00"
+  },
+  {
+    "title": "聚焦新能源汽车制造 业界冀两岸携手打造安全供应链",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml",
+    "date": "2026-09-19",
+    "published_time": "22:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月19日电 (徐雪莹 金志成)“当前全球经贸环境复杂多变，两岸新能源汽车制造产业若加强关键技术合作、强化上下游联动，有助于对冲外部风险。”台湾企业家、东莞美福电子有限公司副总经理陈翔19日在北京受访时表示。",
+    "published_dt_iso": "2026-09-19T22:10:08+08:00"
+  },
+  {
+    "title": "两岸青年以光影为媒 碰撞AI创意火花",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699717.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社武汉9月19日电 (记者 马芙蓉)第十二届“金飞燕”海峡两岸微电影微视频大赛颁奖典礼19日晚在武汉举行，两岸影视专家、青年创作者等240余人见证获奖名单揭晓。",
+    "published_dt_iso": "2026-09-19T21:59:27+08:00"
+  },
+  {
+    "title": "中国科研机构发布“太空交管平台”等三大商业航天成果",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699709.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月19日电 (记者 孙自法)中国科学院空天信息创新研究院(空天院)19日向媒体通报说，其旗下齐鲁空天信息研究院(济南空天信息山东省实验室)当天集中发布三项商业航天领域重要成果，包括先进SAR(合成孔径雷达)卫星载荷、太空交通管理综合服务平台、低轨卫星轨道精密测量服务系统。",
+    "published_dt_iso": "2026-09-19T21:50:04+08:00"
+  },
+  {
+    "title": "台湾摩友在渝打卡摩博会 称大陆摩企令人“大开眼界”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699708.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社重庆9月19日电 (梁钦卿)“期待大陆产摩托车能早日进入台湾市场，让更多岛内摩友感受这场盛会。”在19日于重庆开幕的第二十四届中国国际摩托车博览会(下称“摩博会”)上，来自台湾的陈文仁在试驾多款摩托车后称，如今大陆把不少汽车领域前沿技术应用到摩托车上，让人“大开眼界”。",
+    "published_dt_iso": "2026-09-19T21:49:26+08:00"
+  },
+  {
+    "title": "绿水青山、冰天雪地都是金山银山——黑龙江省漠河市深入践行“两山”理念透视",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699706.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "原标题：绿水青山、冰天雪地都是金山银山",
+    "published_dt_iso": "2026-09-19T21:38:42+08:00"
+  },
+  {
+    "title": "学习卡｜制造业争“先”，习近平指明前进方向",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699594.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月16日至17日，全国先进制造业大会在京召开，会上传达了习近平总书记就发展先进制造业作出的重要指示。总书记强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑。",
+    "published_dt_iso": "2026-09-19T21:29:41+08:00"
+  },
+  {
+    "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699738.shtml",
+    "date": "2026-09-19",
+    "published_time": "23:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "当地时间19日，总台记者从伊朗一位不愿透露姓名的高级别消息人士处获悉，卡塔尔和巴基斯坦作为调解方已告知伊朗，美国已准备好进行谈判并达成协议，且在推进这一进程方面态度认真。",
+    "published_dt_iso": "2026-09-19T23:23:24+08:00"
+  },
+  {
+    "title": "突发：沙特首都主要机场附近出现大量黑烟",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699715.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月19日电 据路透社等外媒当地时间19日报道，沙特首都利雅得主要机场附近当天出现大量黑烟。",
+    "published_dt_iso": "2026-09-19T21:54:56+08:00"
+  },
+  {
+    "title": "认知·锐见｜警惕日本新型“历史洗白术”之一：日本往政务AI系统里输入了什么？",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699707.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "5月27日，日本参议院全体会议上出现了值得警惕的一幕：时任数字大臣松本尚的国会答辩稿，由政务AI系统“源内”起草，经工作人员核验与本人审定后正式提交。所谓“源内”，是日本政府耗资44亿日元、面向公职人员开放的生成式AI大模型，表面是“提升行政效率的数字化系统”，实质却是日本右翼推进历史修正主义的新型认知战武器。“源内”将历史修正主义从舆论宣传升级为算法系统，正在制造具有政府印记的“高权威污染源”。",
+    "published_dt_iso": "2026-09-19T21:18:30+08:00"
+  },
+  {
+    "title": "外媒：迈克尔·马拉当选英国苏格兰工党新任党首",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699660.shtml",
+    "date": "2026-09-19",
+    "published_time": "20:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月19日电 据英国广播公司(BBC)当地时间19日报道，迈克尔·马拉当选为英国苏格兰工党新任党首，接替此前辞职的阿纳斯·萨瓦尔。",
+    "published_dt_iso": "2026-09-19T20:24:05+08:00"
+  },
+  {
+    "title": "外媒：伊朗处决一名被指控为以色列提供情报的男子",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699659.shtml",
+    "date": "2026-09-19",
+    "published_time": "20:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月19日电 据《以色列时报》援引伊朗方面当地时间19日消息，伊朗一名男子被指控向以色列情报机构提供关于伊朗军事基地的情报，已被处决。",
+    "published_dt_iso": "2026-09-19T20:22:25+08:00"
+  },
+  {
+    "title": "四川盐边县泥石流灾害：已致5人失联 搜救仍在紧张进行",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699728.shtml",
+    "date": "2026-09-19",
+    "published_time": "22:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社成都9月19日电 (记者 安源 刘忠俊 岳依桐)9月19日凌晨，四川攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流，已致5人失联。记者19日晚从四川省应急管理厅获悉，搜救工作仍在紧张进行，初步了解，5名失联人员为当地在建高速公路项目施工人员。",
+    "published_dt_iso": "2026-09-19T22:35:17+08:00"
+  },
+  {
+    "title": "广西海事开展平陆运河通航后首次智慧“双线”联动巡航",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699641.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网钦州9月19日电(黄艳梅 蒋瑞卿)为护航平陆运河江海联运体系安全顺畅运行，筑牢水上安全防线，广西海事部门近日组织开展平陆运河通航后首次智慧“双线”联动一体化巡航，采取线上智慧感知、线下实地核查相结合的方式，对平陆运河入海口段通航安全状况开展检查。",
+    "published_dt_iso": "2026-09-19T21:25:27+08:00"
+  },
+  {
+    "title": "2026中俄公众科学素质促进沙龙在黑河开幕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699669.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网黑河9月19日电(记者 赵宇航)9月18日，以“科普赋能发展科创筑就未来”为主题的2026中俄公众科学素质促进沙龙在黑龙江省黑河市开幕。来自中俄现代农业、医疗卫生、科学教育、创新发展等领域专家学者与行业代表，以及黑龙江省各市(地)科协相关负责人齐聚一堂，围绕科普提质、科创协同深入交流，携手探索公众科学素质提升新路径。",
+    "published_dt_iso": "2026-09-19T21:13:00+08:00"
+  },
+  {
+    "title": "山西忻州黄土高原山村蝶变：从靠天吃饭到技术驱动",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699690.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网忻州9月19日电 题：山西忻州黄土高原山村蝶变：从靠天吃饭到技术驱动",
+    "published_dt_iso": "2026-09-19T21:05:48+08:00"
+  },
+  {
+    "title": "四川盐边县泥石流灾害：专业救援力量抵达现场 搜救仍在紧张进行",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699701.shtml",
+    "date": "2026-09-19",
+    "published_time": "21:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网成都9月19日电 (记者 刘忠俊)记者19日晚从四川省应急管理厅获悉，攀枝花市盐边县格萨拉乡支六河村泥石流灾害搜救工作仍在紧张进行，初步了解，5名失联人员为当地在建高速公路项目施工人员。",
+    "published_dt_iso": "2026-09-19T21:02:24+08:00"
+  },
+  {
+    "title": "一泡一饮间，触摸陇湘千年茶脉",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699686.shtml",
+    "date": "2026-09-19",
+    "published_time": "20:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网兰州9月19日电 (记者 闫姣 高莹)循着古丝绸之路的悠悠驼铃，“片叶度关山——万里茶道中国行”采风团19日驻足甘肃兰州，踏访茶马古道遗存、调研西北茶市格局、沉浸式品鉴湘茶韵味，在一泡一饮间，触摸陇湘千年茶脉联结，解码传统边销茶在西北的传承之路与新生活力。",
+    "published_dt_iso": "2026-09-19T20:51:08+08:00"
+  },
+  {
+    "title": "第21届桦甸白桦节启幕 三色业态绘就吉林金秋文旅画卷",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699627.shtml",
+    "date": "2026-09-19",
+    "published_time": "20:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网吉林9月19日电 (记者 苍雁 石洪宇)“白桦之约”第21届吉林·桦甸白桦节19日启幕。作为吉林省金秋文旅的“开篇之作”，本届白桦节突出红、金、绿三色交融的文旅新业态。",
+    "published_dt_iso": "2026-09-19T20:48:10+08:00"
+  },
+  {
+    "title": "男子在举高车上作业  遇碰撞掉在公交车顶被困",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699676.shtml",
+    "date": "2026-09-19",
+    "published_time": "20:46",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网晋中9月19日电 (靳晓 田程鹏)一辆公交车在机动车道内行驶，车顶突然撞上举高车的工作斗，致正在为天桥涂刷油漆的工人跌落在公交车车顶被困。9月19日下午，山西省晋中市消防救援人员采用拉梯担架一体转运技术，将受伤男子转运至地面。",
+    "published_dt_iso": "2026-09-19T20:46:52+08:00"
+  },
+  {
+    "title": "How Trump Is Wielding Power to Stifle Speech",
+    "link": "https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html",
+    "date": "2026-09-12",
+    "published_time": "12:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.",
+    "published_dt_iso": "2026-09-12T12:00:00+08:00"
+  },
+  {
+    "title": "How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html",
+    "date": "2026-09-19",
+    "published_time": "22:35",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "In a handful of border states and industrial states that could decide Senate control, the president’s standoff with Canada has drawn criticism from voters, including some who supported him in 2024.",
+    "published_dt_iso": "2026-09-19T22:35:49+08:00"
+  },
+  {
+    "title": "Sherrod Brown Tries a New Retort to Criticism on Transgender Issues",
+    "link": "https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html",
+    "date": "2026-09-19",
+    "published_time": "21:05",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A spot from the Senate candidate in Ohio seeks to dismiss the Republican Party’s focus on transgender rights as a distraction from economic issues.",
+    "published_dt_iso": "2026-09-19T21:05:23+08:00"
+  },
+  {
+    "title": "At DraftKings, AI Targets the Gamblers Likeliest to Lose",
+    "link": "https://www.nytimes.com/2026/09/19/business/draftkings-ai.html",
+    "date": "2026-09-19",
+    "published_time": "23:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction.",
+    "published_dt_iso": "2026-09-19T23:41:02+08:00"
+  },
+  {
+    "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+    "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+    "date": "2026-09-19",
+    "published_time": "08:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.",
+    "published_dt_iso": "2026-09-19T08:31:38+08:00"
+  },
+  {
+    "title": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
+    "link": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+    "date": "2026-09-19",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how.",
+    "published_dt_iso": "2026-09-19T17:03:05+08:00"
+  },
+  {
+    "title": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+    "date": "2026-09-19",
+    "published_time": "08:53",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The full contours of the deal were unclear, but Denmark and Greenland both indicated they expected an agreement to be signed soon.",
+    "published_dt_iso": "2026-09-19T08:53:24+08:00"
+  },
+  {
+    "title": "Trump’s Security Deal With Greenland: What to Know",
+    "link": "https://www.nytimes.com/2026/09/19/world/europe/greenland-trump-security-deal-what-to-know.html",
+    "date": "2026-09-19",
+    "published_time": "19:56",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "President Trump insisted for months that the Danish territory should be part of the United States. Now, a security deal — not a takeover — seems to be on the table.",
+    "published_dt_iso": "2026-09-19T19:56:48+08:00"
   }
 ]

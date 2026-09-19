@@ -232,6 +232,42 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction." data-title="At DraftKings, AI Targets the Gamblers Likeliest to Lose" data-date="09-19 23:41" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-19 23:41</span>
+          <span class="news-item-title">At DraftKings, AI Targets the Gamblers Likeliest to Lose</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/570.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 19 日消息，据美国 CNBC 报道，当地时间 18 日，迪士尼宣布，原 Character.AI CEO 卡兰迪普 · 阿南德将于 10 月 2 日出任高级执行副总裁兼公司首位首席技术官（CTO），直接向 CEO 乔什 · 达马罗汇报。达马罗接掌迪士尼只有数月，此后一直强调利用技术推动公司各项业务发展。按照迪士尼的安排，阿南德将统管企业技术、基础设施、数据和 AI 平台，以及产品与工程业务，同时协调不同技术团队，进一步推动整个迪士尼的技术开发和交付方式现代化。达马罗发表声明称：“卡兰迪普拥有基础设施、消费科技和 AI 领域难得的综合经验，将成为迪士尼高级管理团队的重要成员，帮助我们继续推进三项重点：以优秀叙事为北极星，让技术服务于创意，以及以‘一个迪士尼’的方式协同运营。" data-title="迪士尼首次任命首席技术官：挖来原 Character.AI 首席执行官阿南德，强化 AI 布局" data-date="09-19 23:31" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-19 23:31</span>
+          <span class="news-item-title">迪士尼首次任命首席技术官：挖来原 Character.AI 首席执行官阿南德，强化 AI 布局</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="In a handful of border states and industrial states that could decide Senate control, the president’s standoff with Canada has drawn criticism from voters, including some who supported him in 2024." data-title="How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate" data-date="09-19 22:35" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-19 22:35</span>
+          <span class="news-item-title">How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699722.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月19日电 “科技引领、产业融合、数智赋能、健康未来”，在AI爆发式增长的当下，第29届京台科技论坛的主题切中了两岸产业界最关心的命题。" data-title="第29届京台科技论坛侧记：AI浪潮中的台湾“追光者”" data-date="09-19 22:32" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 22:32</span>
+          <span class="news-item-title">第29届京台科技论坛侧记：AI浪潮中的台湾“追光者”</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/004/565.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 19 日消息，据每日经济新闻报道，9 月 19 日，国家市场监督管理总局缺陷产品召回技术中心工业品所所长肖凌云在 2026 中国汽车产业发展（泰达）国际论坛上透露，我国 2025 年召回的车辆中，有一半是企业主动召回。真正能够召回的企业是好的企业、优秀的企业。真正主动去召回的企业，也是质量能够走向优先的企业。数据显示，截至 2025 年底，我国共实施汽车召回 3265 次，涉及车辆 1.21 亿辆，其中受调查影响召回 662 次，涉及车辆 6408.21 万辆，占召回车辆总数的 53.14%。肖凌云表示，今年 8 月 21 日，中国市场召回了接近 800 万辆车，都是一些新技术带来的一些安全缺陷。“召回监管制度对推动我国汽车质量安全水平的提升，发挥了很好的作用。”肖凌云称。" data-title="市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”：都是新技术带来的安全缺陷" data-date="09-19 22:23" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-19 22:23</span>
+          <span class="news-item-title">市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”：都是新技术带来的安全缺陷</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月19日电 (徐雪莹 金志成)“当前全球经贸环境复杂多变，两岸新能源汽车制造产业若加强关键技术合作、强化上下游联动，有助于对冲外部风险。”台湾企业家、东莞美福电子有限公司副总经理陈翔19日在北京受访时表示。" data-title="聚焦新能源汽车制造 业界冀两岸携手打造安全供应链" data-date="09-19 22:10" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 22:10</span>
+          <span class="news-item-title">聚焦新能源汽车制造 业界冀两岸携手打造安全供应链</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-19/10699608.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="问：美东时间9月18日，美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法。该法全面强化对俄制裁，延长对伊有关制裁，并明确可对进口俄罗斯石油或天然气的第三国加征最高100%所谓“次级关税”。有评论认为，中方将是美征税目标之一。请问中方对此有何评论？" data-title="商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问" data-date="09-19 19:58" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -286,42 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-19 09:00</span>
           <span class="news-item-title">印度迫使来电显示应用程序向电信公司提供垃圾邮件报告</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-19/10699317.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="国际原子能机构18日表示，已获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。" data-title="国际原子能机构称俄罗斯一核电站冷却塔被无人机击中" data-date="09-19 00:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 00:11</span>
-          <span class="news-item-title">国际原子能机构称俄罗斯一核电站冷却塔被无人机击中</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/004/343.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 18 日消息，日前，21 世纪经济报道援引产业链人士消息称，特斯拉相关团队已于 9 月 16 日落地宁波，并于 17 日开启新一轮针对旗下机器人业务的量产审厂。据称此轮审厂将实质导向机器人 Optimus 的量产，已向供应链企业下达相关订单。按计划，特斯拉今年将下线约 5 万台 Optimus 机器人，在世界各地特斯拉超级工厂中部署。不过，现阶段普通消费者仍无购买渠道。消息称特斯拉去年 9 月在华曾启动一轮机器人审厂工作，涉及的公司包括拓普集团、三花智控、浙江荣泰、新泉股份、均胜电子等传统特斯拉汽车供应链企业。若此轮审厂属实，意味着特斯拉正将更多汽车供应链资源导入机器人业务，为其规模化生产做准备。9 月 18 日，特斯拉方面未对相关情况作出回应。第一财经以投资者身份致电总部" data-title="消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应" data-date="09-18 23:28" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-18 23:28</span>
-          <span class="news-item-title">消息称特斯拉针对 Optimus 机器人业务启动量产审厂，多家供应链企业回应</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Robinhood的Abhishek Fatehpuria在TechCrunch Disrupt 2026上赢得了现代金融消费者。立即注册，在太平洋时间9月25日晚上11:59前节省高达$ 200。" data-title="Robinhood的Abhishek Fatehpuria在TechCrunch Disrupt 2026上赢得现代金融消费者" data-date="09-18 23:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-18 23:00</span>
-          <span class="news-item-title">Robinhood的Abhishek Fatehpuria在TechCrunch Disrupt 2026上赢得现代金融消费者</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-18/10699305.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月18日电 (记者 陈康亮)据中国证监会18日消息，近日，证监会拟根据证券法等相关法律法规，对提供以下案件线索的“吹哨人”依法给予奖励：" data-title="证监会拟对17起案件线索的“吹哨人”给予奖励" data-date="09-18 22:25" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-18 22:25</span>
-          <span class="news-item-title">证监会拟对17起案件线索的“吹哨人”给予奖励</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-18/10699278.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月18日电 9月17日，“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班在北京正式开班。此次研修班聚焦数字经济、绿色发展、智慧城市建设、科技创新和高质量共建“一带一路”等前沿议题，搭建欧亚青年学术交流、互学互鉴、务实合作平台。来自俄罗斯、格鲁吉亚、哈萨克斯坦等11个欧亚国家的41名青年专家学者参与研修。" data-title="“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班开班" data-date="09-18 22:17" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-18 22:17</span>
-          <span class="news-item-title">“数字化绿色化协同转型与高质量发展”欧亚青年学者研修班开班</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Disrupt预订展览桌的最后一天是今天， 9月18日。10月13日至15日，让您的创业公司与1万多名创始人、投资者、运营商和技术领导者见面。" data-title="时间紧迫：在TechCrunch Disrupt 2026上展出的最后24小时" data-date="09-18 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-18 22:00</span>
-          <span class="news-item-title">时间紧迫：在TechCrunch Disrupt 2026上展出的最后24小时</span>
-        </a>
   </div>
 </div>
 
@@ -335,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-19 19:59（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-19 23:58（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
