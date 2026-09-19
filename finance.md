@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,421.56</span>
-      <span class="ticker-change down">▼ -0.00%</span>
+      <span class="ticker-price ticker-up">29,644.17</span>
+      <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6956</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.6943</span>
+      <span class="ticker-change up">▲ +-0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,378.34 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +36.72 (+0.85%)</span>
+      <span class="ticker-price ticker-up">$4,378.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +36.67 (+0.84%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥944.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -3.01 (-0.32%)</span>
+      <span class="ticker-price ticker-down">¥946.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -0.91 (-0.10%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+22.3 亿</span>
+      <span class="sector-flow-badge">+42.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+41.5 亿</span>
+      <span class="sector-flow-badge">+46.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+28.4 亿</span>
+      <span class="sector-flow-badge">+35.8 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+22.9 亿</span>
+      <span class="sector-flow-badge">+35.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-19/10699425.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网乌鲁木齐9月19日电 (张家伟)新疆生产建设兵团第一师阿拉尔市18日召开新闻发布会，介绍“十四五”以来以生态环境高水平保护助力经济社会高质量发展情况。" data-title="新疆阿拉尔市以生态高水平保护助力经济高质量发展" data-date="09-19 13:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 13:22</span>
+          <span class="news-item-title">新疆阿拉尔市以生态高水平保护助力经济高质量发展</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699443.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="好评中国丨深耕先进制造业，奋力布局“全域崛起”" data-title="深耕先进制造业，奋力布局“全域崛起”" data-date="09-19 13:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 13:01</span>
+          <span class="news-item-title">深耕先进制造业，奋力布局“全域崛起”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699373.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨9月19日电(记者 王妮娜)“黑土聚情缘·携手创未来”2026年海内外台胞黑龙江参访交流活动18日下午在哈尔滨举行。活动旨在搭建龙台产业对接平台，推动双方在绿色食品、农业、冰雪经济、数字经济、跨境贸易等领域务实合作，共寻商机、共谋发展。" data-title="2026年海内外台胞黑龙江参访交流活动在哈尔滨举行" data-date="09-19 11:20" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 11:20</span>
+          <span class="news-item-title">2026年海内外台胞黑龙江参访交流活动在哈尔滨举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699385.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="现代化产业体系，中国经济的战略依托；先进制造业，现代化产业体系的骨干。" data-title="持续做大做强先进制造业" data-date="09-19 11:10" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-19 11:10</span>
+          <span class="news-item-title">持续做大做强先进制造业</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Truecaller表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。" data-title="印度迫使来电显示应用程序向电信公司提供垃圾邮件报告" data-date="09-19 09:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-19 09:00</span>
+          <span class="news-item-title">印度迫使来电显示应用程序向电信公司提供垃圾邮件报告</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-19/10699317.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="国际原子能机构18日表示，已获悉俄罗斯库尔斯克核电站一个反应堆机组的冷却塔于17日被无人机击中。" data-title="国际原子能机构称俄罗斯一核电站冷却塔被无人机击中" data-date="09-19 00:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -281,4 +311,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-19 00:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-19 14:47（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

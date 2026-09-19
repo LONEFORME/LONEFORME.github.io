@@ -1028,5 +1028,655 @@
     "feed_name": "纽约时报",
     "summary": "Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.",
     "published_dt_iso": "2026-09-18T23:10:35+08:00"
+  },
+  {
+    "title": "印度迫使来电显示应用程序向电信公司提供垃圾邮件报告",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "date": "2026-09-19",
+    "published_time": "09:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Truecaller表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。",
+    "published_dt_iso": "2026-09-19T09:00:00+08:00"
+  },
+  {
+    "title": "蒂莉·诺伍德（ Tilly Norwood ）的新闻之旅正在进行，正如您对人工智能所期望的那样",
+    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+    "date": "2026-09-19",
+    "published_time": "08:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在一次特别奇怪的采访中，诺伍德似乎出现了故障，开始说中文。",
+    "published_dt_iso": "2026-09-19T08:12:07+08:00"
+  },
+  {
+    "title": "一家建立其他初创公司的初创公司筹集了$ 1亿美元，",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "date": "2026-09-19",
+    "published_time": "07:25",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "UP.Labs现在以Vantora的名义开展业务，正在为工业公司建立初创公司。",
+    "published_dt_iso": "2026-09-19T07:25:01+08:00"
+  },
+  {
+    "title": "Anthropic正在运营一个进行生物学实验的实验室",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "date": "2026-09-19",
+    "published_time": "07:13",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "人工智能领导者一直承诺，人工智能是治愈人类疾病的关键。人类学研究人员也一直在警告说，人工智能可能会杀死我们所有人。",
+    "published_dt_iso": "2026-09-19T07:13:31+08:00"
+  },
+  {
+    "title": "人工智能幻觉几乎引发美军军事行动",
+    "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+    "date": "2026-09-19",
+    "published_time": "07:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "一位GovAI研究学者警告说： “对于服务人员来说，了解LLM固有的不确定性非常重要。”",
+    "published_dt_iso": "2026-09-19T07:12:32+08:00"
+  },
+  {
+    "title": "Anthropic的第一个嵌入式评估者是……埃森哲？",
+    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+    "date": "2026-09-19",
+    "published_time": "05:44",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "埃森哲即将承担其有史以来风险最高的咨询业务。",
+    "published_dt_iso": "2026-09-19T05:44:33+08:00"
+  },
+  {
+    "title": "世界模特公司保守着很多秘密",
+    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "date": "2026-09-19",
+    "published_time": "04:18",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "世界上的每一个模特都坐在一堆现金和大量的嗡嗡声上，但祝你好运，从创始人到自己的数据提供商，任何人都可以告诉你他们实际在建造什么。",
+    "published_dt_iso": "2026-09-19T04:18:14+08:00"
+  },
+  {
+    "title": "来自ChatGPT发明者的一种新型人工智能模型让开发人员兴奋不已",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "date": "2026-09-19",
+    "published_time": "02:49",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Jev是一种新型的人工智能模型，它向开发人员展示了一条更便宜、更快捷的软件智能之路。",
+    "published_dt_iso": "2026-09-19T02:49:30+08:00"
+  },
+  {
+    "title": "AMD分享EPYC “威尼斯” CPU的首个官方基准，以英伟达为目标—该公司声称256核芯片的速度是英伟达Vera的两倍多， 96核型号每核速度快20 ％",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amd-shares-first-official-benchmarks-for-epyc-venice-cpus-targets-nvidia-company-claims-256-core-chip-is-more-than-twice-as-fast-as-nvidia-vera-96-core-model-20-percent-faster-per-core",
+    "date": "2026-09-19",
+    "published_time": "05:51",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "AMD已经发布了其EPYC “威尼斯” CPU的几项基准测试，这对Nvidia来说是一个清晰的镜头。",
+    "published_dt_iso": "2026-09-19T05:51:29+08:00"
+  },
+  {
+    "title": "有关英特尔新一代Nova Lake CPU的详细信息不断泄漏—试图根据我们迄今所了解的信息建立时间表",
+    "link": "https://www.tomshardware.com/pc-components/cpus/details-about-intels-next-gen-nova-lake-cpus-keep-leaking-an-attempt-to-establish-a-timeline-based-on-what-we-know-so-far",
+    "date": "2026-09-19",
+    "published_time": "03:45",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在过去的两周里，我们看到有关英特尔即将推出的Nova Lake CPU的泄漏和谣言有所增加。在这里，我们将听到的内容拼凑在一起，试图建立一个合理的发布时间表。",
+    "published_dt_iso": "2026-09-19T03:45:41+08:00"
+  },
+  {
+    "title": "OpenAI和微软知道他们正在为网络开始一个“厄运循环”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+    "date": "2026-09-19",
+    "published_time": "05:07",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "最近在《纽约时报》针对OpenAI和微软的案件中公开的法庭文件非常令人沮丧。这些公司自己的文件警告说，它正在开始一个会破坏网络的“厄运循环” ，并将其刮取数据来训练其模型描述为“人类历史上最大的劳动力盗窃” ，并且它[…]",
+    "published_dt_iso": "2026-09-19T05:07:24+08:00"
+  },
+  {
+    "title": "弗吉尼亚州州长成立人工智能特别工作组并采取行动限制数据中心",
+    "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+    "date": "2026-09-19",
+    "published_time": "02:29",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "弗吉尼亚州州长阿比盖尔·斯潘伯格（ Abigail Spanberger ）下令州政府采取措施，使当地社区能够在数据中心开发方面拥有更大的发言权，并减缓已经成为世界数据中心之都的州的审批速度。第22号行政命令禁止行政部门官员签署保密协议[…]",
+    "published_dt_iso": "2026-09-19T02:29:17+08:00"
+  },
+  {
+    "title": "迪士尼的第一位首席技术官是Character.AI的前首席执行官",
+    "link": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+    "date": "2026-09-19",
+    "published_time": "02:27",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "你可能会认为，像迪士尼这样的大型多媒体集团现在会有一些首席技术官，但该公司刚刚首次任命了一个人担任该职位。今天，迪士尼宣布Karandeep Anand将加入公司担任新的首席技术官。Anand最近将直接向[…]汇报工作。",
+    "published_dt_iso": "2026-09-19T02:27:04+08:00"
+  },
+  {
+    "title": "IPhone 18 Pro相机的真实故事",
+    "link": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
+    "date": "2026-09-19",
+    "published_time": "01:06",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在iPhone相机升级方面，这是一段时间以来最迷人的一年。iPhone 18 Pro的重要特点是可变光圈主镜头，它可以让您将光圈向上打开，以获得更好的低光拍摄效果，并使光圈更小，从而在[…]中获得更好的景深",
+    "published_dt_iso": "2026-09-19T01:06:37+08:00"
+  },
+  {
+    "title": "Gavin Newsom正在推动AI Kill开关",
+    "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+    "date": "2026-09-19",
+    "published_time": "01:04",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "加利福尼亚州州长Gavin Newsom （ D ）正在定位该州在人工智能监督方面发挥领导作用，包括周五发布的新行政命令可能要求前沿模型进行“杀戮开关”。纽瑟姆的命令指示该州召集一个专家组，该专家组将在两个月内就如何[…]提出建议。",
+    "published_dt_iso": "2026-09-19T01:04:51+08:00"
+  },
+  {
+    "title": "华为朱照生：升腾已经跨越了生态拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态",
+    "link": "https://www.ithome.com/1/004/441.htm",
+    "date": "2026-09-19",
+    "published_time": "14:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，据 21 世纪经济报道，9 月 19 日，华为计算战略与业务发展部部长朱照生表示，升腾已经跨越了生态的拐点，完全有能力、有机会在 Agentic 时代构建 AI 新生态。从社区来看，升腾 CANN 开源社区月均活跃用户数超过 5200 人，自今年 6 月起成为国内活跃度最高的开源社区，社区非华为开发者数量超过华为开发者数量，目前日均新增合入代码超过 3 万行。模型层面，基于升腾完成预训练的大语言模型和多模态模型已超过 40 个，升腾成为国内唯一支持预训练的 AI 算力平台。生态层面，升腾除自身开源 CANN 外，已接入 PyTorch 等主流开源框架。综合IT之家此前报道，华为灵衢升腾 950 智算集群云服务将于 9 月 30 日面向国内市场商用，11 月 3",
+    "published_dt_iso": "2026-09-19T14:44:26+08:00"
+  },
+  {
+    "title": "奥之心 OM SYSTEM PEN 国行开售：14",
+    "link": "https://www.ithome.com/1/004/440.htm",
+    "date": "2026-09-19",
+    "published_time": "14:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，奥之心 OM SYSTEM PEN 相机国行价格 5999 元，套机（14-42mm F3.5-5.6 III）定价 6999 元，今日正式开售。京东奥之心 PEN 微单相机数码照相机类旁轴复古 五轴防抖 智能识别对焦 色彩创作 防尘防水溅（14-42mmIII）银 6999 元直达链接OM SYSTEM PEN 是 PEN 系列首款支持防尘防滴溅的机型（IT之家注：防护等级 IPX1），并内置了约 236 万点的 OLED 电子取景器（EVF），这也是自 2016 年 PEN-F 发布以来该系列再度搭载 EVF。其机身采用约 2037 万有效像素的 4/3 型 Live MOS 传感器与 TruePic IX 图像处理引擎。对焦系统从传统的对比度检测升级为 ",
+    "published_dt_iso": "2026-09-19T14:43:17+08:00"
+  },
+  {
+    "title": "英伟达黄仁勋反对放缓 AI 发展的呼声，称 2030 年不会是世界末日",
+    "link": "https://www.ithome.com/1/004/438.htm",
+    "date": "2026-09-19",
+    "published_time": "14:41",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，在本周放出的 CBS《周日早间》节目中，英伟达首席执行官黄仁勋表示“2030 年不会是世界末日”，并反对放缓 AI 发展的呼声。在过去 1 周时间里，恐慌浪潮席卷 AI 行业，这股浪潮由 Anthropic CEO 达里奥 · 阿莫代伊于 9 月 12 日发表的文章《我们必须控制前沿》所引发，文章呼吁对前沿 AI 模型的开发进行协调管控、放缓节奏。OpenAI CEO 萨姆 · 奥尔特曼对文章观点予以背书，埃隆 · 马斯克也表示认同，这在这些行业最激烈的竞争对手之间实属罕见的同声共气。不过黄仁勋反对这个观点，IT之家此前报道，在 9 月 15 日的 Salesforce 活动中，黄仁勋表示，AI 行业不需要为 AI 安全制定新的法律或监管规定，安全与速度可以兼",
+    "published_dt_iso": "2026-09-19T14:41:03+08:00"
+  },
+  {
+    "title": "当贝 X9 Ultra 投影仪发售：至高 5600 CVIA 亮度、80000:1 动态对比度，7999 元",
+    "link": "https://www.ithome.com/1/004/437.htm",
+    "date": "2026-09-19",
+    "published_time": "14:35",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，当贝 X9 Ultra 投影仪现已在京东发售，该投影仪提供 5600CVIA 亮度，定价为 7999 元，部分国补后低至 7199 元。京东当贝 X9 Ultra 4K7999 元直达链接该机配有一体式调节支架，结合软件四向无损位移功能，可实现 ±135% 垂直与 ±50% 水平画面调节。无需受限于墙面和家具即可进行灵活摆放。该机采用 QuaLas 42 激光器，匹配 0.47''DMD，镜头透光率达 99.6%，提供 5600 CVIA / 6100 ISO 亮度表现，80000:1 动态对比度、ΔE≈0.7 色准。同时还拥有 1.2 至 1.5:1 无损光学变焦、VRR 可变刷新率及 1 ms 游戏低延迟特性。此外，该机内置 MT9681 芯片，带有双 1",
+    "published_dt_iso": "2026-09-19T14:35:48+08:00"
+  },
+  {
+    "title": "马斯克脑机公司 Neuralink 新突破：让失语者“说出我爱你”",
+    "link": "https://www.ithome.com/1/004/436.htm",
+    "date": "2026-09-19",
+    "published_time": "14:27",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，全球首富埃隆 · 马斯克（Elon Musk）联合创立的脑机公司 Neuralink 昨日（9 月 18 日）在 X 平台发布推文，有语言障碍的志愿者 Terry 在植入脑机接口后，可以通过意念向其亲人传达“我爱你”信息。埃隆 · 马斯克称此次演示 \" 令人动容，出乎意料 \"。IT之家附上相关视频如下：在 23 秒的视频中，一名此前丧失语言能力的男子，借助脑机接口将神经信号转化为与其原声高度匹配的合成语音。据介绍，Terry 先通过尝试模拟说话训练算法，随后可仅在脑中思考词语，系统便以其自然声音输出语音。该演示采用 Grok Voice 语音技术；Neuralink 同时强调，其设备仍属研究阶段，尚未获美国 FDA 或其他监管机构批准，个案体验不代表所有受试者",
+    "published_dt_iso": "2026-09-19T14:27:58+08:00"
+  },
+  {
+    "title": "HKC 隐刃 L1 拉伸手机游戏手柄新增“冰川蓝”配色：霍尔摇杆、1KHz 回报率，169 元",
+    "link": "https://www.ithome.com/1/004/435.htm",
+    "date": "2026-09-19",
+    "published_time": "13:56",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，HKC 现已为旗下隐刃 L1 拉伸手机游戏手柄新增“冰川蓝”配色，该产品采用 USB-C 接口，定价为 169 元。京东 HKC 隐刃 L1 游戏手柄 169 元直达链接该手柄采用人体工程学设计，带有 RGB 灯效，重量 230g，手柄背面带有防滑激光纹路和可拆卸硅胶垫片，支持 214mm 长度内手机。该手柄使用微软 Xbox 同类型振动马达，配备 500 万次寿命霍尔摇杆，提供了 1KHz 回报率，配备了可活动 USB-C 接口，支持“充电透传不掉线”。IT之家附手柄参数：京东 618 无门槛红包 面额至高 26618 元，每天抽 3 次：点此抽红包淘宝 618 无门槛红包 面额至高 26888 元，每天抽 1 次：点此抽红包",
+    "published_dt_iso": "2026-09-19T13:56:11+08:00"
+  },
+  {
+    "title": "苹果首款折叠 iPhone Duo 海外媒体评论汇总：CNET 称希望有“单屏版 Duo”",
+    "link": "https://www.ithome.com/1/004/434.htm",
+    "date": "2026-09-19",
+    "published_time": "13:54",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，苹果首款折叠 iPhone Duo 本月发布后，引发全球媒体关注，有盛赞、有质疑，IT之家汇总 12 家海外科技媒体对这款手机的评价和观点。一、苹果首席执行官约翰 · 特努斯（John Ternus）观点：在接受外媒《GQ》采访时，苹果新任首席执行官约翰 · 特努斯（John Ternus）在谈到 iPhone Duo 时，表示：“史蒂夫曾谈到，[做产品时] 应该交汇融合技术与人文，而我认为，iPhone Duo 正是这一理念的绝佳体现。”在谈到 iPhone Duo 时，特努斯表示：“这就是我们工作的意义所在，它 [指 iPhone Duo] 它之所以格外特别，是因为它让我们获得了一次从零开始、以全新方式思考的机会。”二、The VergeThe Verge",
+    "published_dt_iso": "2026-09-19T13:54:25+08:00"
+  },
+  {
+    "title": "戴森空气净化器 BP10 国行上架：提供医护级除醛消杀能力，7699 元",
+    "link": "https://www.ithome.com/1/004/432.htm",
+    "date": "2026-09-19",
+    "published_time": "13:40",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 19 日消息，戴森旗下 BP10 巡航气流消毒净化器（空气净化器）国行现已在京东上架，该产品主打“20 米长气流净化”，拥有“医护级除醛消杀能力”，国行定价为 7699 元，将于 9 月 22 日首销。该净化器外观汲取航空美学，号称以喷气式飞机引擎为灵感。顶部配备星形喷嘴，利用内部导流叶片控制气流。机身支持 350° 旋转与 30° 夹角，能够输出前进式直射气流。最远送风距离达 20m，最大送风量 1300L/s，净化面积 144m²，置于角落即可实现大范围覆盖，官方称净化 12m² 空间需 90s。该净化器内置五重传感器，持续监测 PM2.5、PM10、HCHO、VOC、NO2、CO2 及温湿度这 8 项指标。数据实时显示于机身屏幕，净化器内部配备主动净化模块，可产生负离",
+    "published_dt_iso": "2026-09-19T13:40:00+08:00"
+  },
+  {
+    "title": "切尔西想念若昂·佩德罗……不断失球",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm0qx3yv8z42o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "06:39",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "切尔西的问题是防守，但由于若昂·佩德罗因受伤而被排除在外，进球也成了一个问题。",
+    "published_dt_iso": "2026-09-19T06:39:24+08:00"
+  },
+  {
+    "title": "从近乎被遗忘的地方到欧洲-布莱顿庆祝125周年",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm3wjl29qp4go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "14:30",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "从默默无闻和几乎被遗忘到英超联赛和欧洲-布莱顿庆祝他们成立125周年。",
+    "published_dt_iso": "2026-09-19T14:30:32+08:00"
+  },
+  {
+    "title": "Winless Villa和马刺队面临提前摊牌",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6ly7vg8n7geo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "13:32",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "阿斯顿维拉和托特纳姆在英超联赛中没有获胜-当他们准备在周六面对面时，他们都需要灵感。",
+    "published_dt_iso": "2026-09-19T13:32:46+08:00"
+  },
+  {
+    "title": "诺丁汉森林体育场扩建项目获得批准",
+    "link": "https://www.bbc.co.uk/news/articles/c674kw873545o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "13:14",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "建造更大城市的梦想最终会变成现实吗？",
+    "published_dt_iso": "2026-09-19T13:14:39+08:00"
+  },
+  {
+    "title": "阿森纳在适当情况下对道曼贷款开放",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "05:30",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "阿森纳愿意允许十几岁的神童马克斯·道曼（ Max Dowman ）在本赛季租借离开俱乐部，如果这有助于他的发展的话。",
+    "published_dt_iso": "2026-09-19T05:30:38+08:00"
+  },
+  {
+    "title": "伊戈尔·蒂亚戈的肩膀上的重量-布伦特福德v切尔西评级",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-19",
+    "published_time": "04:57",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "布伦特福德以2比0战胜切尔西，在英超联赛中排名第三-以下是BBC Sport的球员收视率。",
+    "published_dt_iso": "2026-09-19T04:57:06+08:00"
+  },
+  {
+    "title": "今日英超联赛：如何观看马刺v阿斯顿维拉、电视频道和直播",
+    "link": "https://www.theguardian.com/football/2026/sep/19/how-to-watch-spurs-aston-villa-premier-league",
+    "date": "2026-09-19",
+    "published_time": "14:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "托特纳姆热刺和阿斯顿维拉今天的票价如何？以下是需要了解的信息，包括开球时间、电视频道和直播选项热刺和阿斯顿维拉本赛季仍在寻找英超联赛的牵引力，两支球队在前四场比赛中都没有获胜。周六的比赛将在焦虑的背景下进行。热刺还没有打进他们的第一个联赛进球。Roberto De Zerbi的身边",
+    "published_dt_iso": "2026-09-19T14:30:39+08:00"
+  },
+  {
+    "title": "布伦特福德3-0切尔西：英超联赛–事实就是这样",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
+    "date": "2026-09-19",
+    "published_time": "05:42",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "自1938年以来，布伦特福德首次在主场击败切尔西，这要归功于下半场2分钟的狂飙：沙德在刘易斯-波特的一个长球之后，威胁性地向左前进。他在福法纳之前进入禁区，但这位切尔西后卫在追赶、接管控球和刷球方面做得非常出色。Schade声称受到处罚，但没有任何真正的定罪。我们继续比赛。这是一个很好的挑战。切尔西得到了ba",
+    "published_dt_iso": "2026-09-19T05:42:34+08:00"
+  },
+  {
+    "title": "布伦特福德闪电战切尔西，法比奥·卡瓦略（ Fábio Carvalho ）以惊人的第二名出场",
+    "link": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report",
+    "date": "2026-09-19",
+    "published_time": "05:12",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "那些认为切尔西可能是最适合挑战阿森纳的球队的赛季初想法开始显得过于乐观。他们开始的两个混乱的胜利总是难以阅读：它们可能是在通往更坚固结构的道路上获得的有用点，或者它们可能代表了重大问题的证据。经过三场没有胜利的比赛，以及本赛季五场比赛的12个进球，",
+    "published_dt_iso": "2026-09-19T05:12:38+08:00"
+  },
+  {
+    "title": "2026-27赛季英超联赛最佳射手：谁是金靴赛的领跑者？",
+    "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+    "date": "2026-09-19",
+    "published_time": "04:59",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "找出哪位英国顶尖射手正在向进球排行榜射击。继续阅读……",
+    "published_dt_iso": "2026-09-19T04:59:58+08:00"
+  },
+  {
+    "title": "英格兰召回亚历山大-阿诺德和帕尔默;卡里克驳斥了“荒谬”的猜测–因为它发生了",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+    "date": "2026-09-19",
+    "published_time": "01:31",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "在另一个充满动感的足球周末之前，团队新闻、新闻发布会和分析Trent Alexander-Arnold、Alex Scott、Cole Palmer和Rio Ngumoha将参加。菲尔·福登（ Phil Foden ）无处可去。所有小队都在下面。继续阅读...",
+    "published_dt_iso": "2026-09-19T01:31:58+08:00"
+  },
+  {
+    "title": "（文化中国行·校馆弦歌）从读书到“造物” 浙大图书馆的N种打开方式",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699435.shtml",
+    "date": "2026-09-19",
+    "published_time": "13:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网杭州9月19日电 题：从读书到“造物” 浙大图书馆的N种打开方式",
+    "published_dt_iso": "2026-09-19T13:28:05+08:00"
+  },
+  {
+    "title": "深耕先进制造业，奋力布局“全域崛起”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699443.shtml",
+    "date": "2026-09-19",
+    "published_time": "13:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "好评中国丨深耕先进制造业，奋力布局“全域崛起”",
+    "published_dt_iso": "2026-09-19T13:01:31+08:00"
+  },
+  {
+    "title": "这条高铁，藏着中国的百年初心",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699427.shtml",
+    "date": "2026-09-19",
+    "published_time": "12:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "漫画：邓敏 近日，随着G3998次列车正式开行，瑞金与延安两大红色圣地实现高铁直达。这条驰骋在华夏大地的时代干线，不仅是便民利民的交通要道，更是盘活红色资源、串联百年记忆、传承爱国精神、赋能老区振兴的特色文脉廊道，为新时代活化红色底蕴、传递初心力量、书写时代答卷搭建了崭新载体。",
+    "published_dt_iso": "2026-09-19T12:51:18+08:00"
+  },
+  {
+    "title": "探访动车组生产一线：中国速度这样炼成",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699411.shtml",
+    "date": "2026-09-19",
+    "published_time": "12:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "开局之年看中国｜探访动车组生产一线：中国速度这样炼成",
+    "published_dt_iso": "2026-09-19T12:12:30+08:00"
+  },
+  {
+    "title": "《国防公开课》即将开课！亮点先睹为快！",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699410.shtml",
+    "date": "2026-09-19",
+    "published_time": "12:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "第26个全民国防教育日特别节目",
+    "published_dt_iso": "2026-09-19T12:09:28+08:00"
+  },
+  {
+    "title": "2026年海内外台胞黑龙江参访交流活动在哈尔滨举行",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699373.shtml",
+    "date": "2026-09-19",
+    "published_time": "11:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网哈尔滨9月19日电(记者 王妮娜)“黑土聚情缘·携手创未来”2026年海内外台胞黑龙江参访交流活动18日下午在哈尔滨举行。活动旨在搭建龙台产业对接平台，推动双方在绿色食品、农业、冰雪经济、数字经济、跨境贸易等领域务实合作，共寻商机、共谋发展。",
+    "published_dt_iso": "2026-09-19T11:20:07+08:00"
+  },
+  {
+    "title": "红色薪火映粤北 革命老区谱写发展新篇章",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699388.shtml",
+    "date": "2026-09-19",
+    "published_time": "11:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "赓续长征精神 奋进复兴征程｜红色薪火映粤北 革命老区谱写发展新篇章",
+    "published_dt_iso": "2026-09-19T11:11:46+08:00"
+  },
+  {
+    "title": "持续做大做强先进制造业",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-19/10699385.shtml",
+    "date": "2026-09-19",
+    "published_time": "11:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "现代化产业体系，中国经济的战略依托；先进制造业，现代化产业体系的骨干。",
+    "published_dt_iso": "2026-09-19T11:10:16+08:00"
+  },
+  {
+    "title": "美媒：白宫对CNN等三家媒体下“逐客令”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699450.shtml",
+    "date": "2026-09-19",
+    "published_time": "14:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月19日电 综合美媒报道，当地时间18日，美国总统特朗普在社交媒体上发文称，美国有线电视新闻网(CNN)、MS NOW新闻频道和《政治报》由于“持续报道假新闻”而被禁止进入白宫，并称这一指令“立即生效”。",
+    "published_dt_iso": "2026-09-19T14:37:09+08:00"
+  },
+  {
+    "title": "古巴全国断电后逐步恢复",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699371.shtml",
+    "date": "2026-09-19",
+    "published_time": "11:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月19日电 哈瓦那消息：古巴当地时间18日下午发生全国断电。古巴电力联盟当天晚些时候说，已启动恢复程序，电力供应正逐步恢复。",
+    "published_dt_iso": "2026-09-19T11:35:44+08:00"
+  },
+  {
+    "title": "95年了，日本一些人仍活在军国主义迷梦中",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699382.shtml",
+    "date": "2026-09-19",
+    "published_time": "10:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "导读：以三名右翼学者抛出涉台错误主张为代表，日本全然不顾国际准则和国家主权原则，正在走向军国主义扩张的历史覆辙。九一八事变的历史警钟依旧回荡，奉劝日本当局迷途知返，用实际行动赢得亚洲邻国与国际社会信任。",
+    "published_dt_iso": "2026-09-19T10:57:17+08:00"
+  },
+  {
+    "title": "俄罗斯一座纪念碑，为何让日本破防？",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699380.shtml",
+    "date": "2026-09-19",
+    "published_time": "10:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "零时差｜俄罗斯一座纪念碑，为何让日本破防？",
+    "published_dt_iso": "2026-09-19T10:56:03+08:00"
+  },
+  {
+    "title": "揭秘“特别移送” 日本军国主义“国家犯罪”铁证如山",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699375.shtml",
+    "date": "2026-09-19",
+    "published_time": "10:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "今天是“九一八”事变爆发95周年，一起走进哈尔滨市平房区侵华日军第七三一部队罪证陈列馆，了解“特别移送”档案。",
+    "published_dt_iso": "2026-09-19T10:53:07+08:00"
+  },
+  {
+    "title": "日本军演频频 搅动地区安全",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699368.shtml",
+    "date": "2026-09-19",
+    "published_time": "10:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "蓝厅观察丨日本军演频频 搅动地区安全",
+    "published_dt_iso": "2026-09-19T10:39:00+08:00"
+  },
+  {
+    "title": "特朗普称与丹麦和格陵兰岛达成安全事务协议",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699356.shtml",
+    "date": "2026-09-19",
+    "published_time": "10:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社华盛顿9月18日电 (记者 陈孟统)美国总统特朗普18日通过社交媒体表示，美国已与丹麦及其自治领地格陵兰岛达成一项协议，“赋予美国对格陵兰岛安全及其他需求的永久控制权”。",
+    "published_dt_iso": "2026-09-19T10:05:06+08:00"
+  },
+  {
+    "title": "涉美伊战事：美军死亡人数被曝高于国防部公开数据，美防长回应",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-19/10699361.shtml",
+    "date": "2026-09-19",
+    "published_time": "09:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月19日电 据《华盛顿邮报》当地时间18日援引数名官员消息，美伊战事爆发以来，美军死亡人数实际上超过了国防部公开披露的数字。",
+    "published_dt_iso": "2026-09-19T09:57:41+08:00"
+  },
+  {
+    "title": "研究显示格陵兰和南极冰盖40多年损失逾11万亿吨冰",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699451.shtml",
+    "date": "2026-09-19",
+    "published_time": "14:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "瑞典乌普萨拉大学研究人员参与的一项最新国际研究显示，1979年至2023年，格陵兰和南极冰盖共损失约11.3万亿吨冰，对应全球平均海平面上升超过3厘米。",
+    "published_dt_iso": "2026-09-19T14:36:53+08:00"
+  },
+  {
+    "title": "应急管理部针对四川启动国家地质灾害四级应急响应",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699449.shtml",
+    "date": "2026-09-19",
+    "published_time": "14:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月19日电 据应急管理部网站消息，9月19日凌晨，四川攀枝花市盐边县格萨拉乡支六河村石家沟隧道附近突发泥石流，有人员失联。同时，据气象部门预测，未来三天，四川东北部有大雨，局地暴雨。经与自然资源部联合会商研判，四川东北部局部地区发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部启动国家地质灾害四级应急响应，并派出工作组赶赴现场指导抢险救援。",
+    "published_dt_iso": "2026-09-19T14:25:04+08:00"
+  },
+  {
+    "title": "铁路12306持续识别遏制恶意抢票行为 维护公平售票环境",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699442.shtml",
+    "date": "2026-09-19",
+    "published_time": "13:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月19日电 据“中国铁路”微信公众号消息，为营造公平公正购票环境，自9月23日中秋国庆假期运输火车票开售以来，铁路12306持续识别遏制恶意抢票行为，采用大数据分析和风控技术，精准识别频繁大量为非本人购票的铁路12306注册账号和频繁大量为非本人订单支付的支付账户、通过伪造终端设备模仿用户购票操作等异常行为，继续采用相关技术限制措施，将有异常行为的铁路12306注册账号放入慢速队列，对有异常行为的支付账户拒绝出票，这些有异常行为的铁路12306注册账号购票时会显示等待、支付账户支付时会显示购票失败。",
+    "published_dt_iso": "2026-09-19T13:39:11+08:00"
+  },
+  {
+    "title": "（乡村行·看振兴）酥梨贯通全产业链 “世界梨都” 绘就丰收共富图景",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699433.shtml",
+    "date": "2026-09-19",
+    "published_time": "13:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网砀山9月19日电 题：酥梨贯通全产业链 “世界梨都” 绘就丰收共富图景",
+    "published_dt_iso": "2026-09-19T13:25:29+08:00"
+  },
+  {
+    "title": "新疆阿拉尔市以生态高水平保护助力经济高质量发展",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699425.shtml",
+    "date": "2026-09-19",
+    "published_time": "13:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网乌鲁木齐9月19日电 (张家伟)新疆生产建设兵团第一师阿拉尔市18日召开新闻发布会，介绍“十四五”以来以生态环境高水平保护助力经济社会高质量发展情况。",
+    "published_dt_iso": "2026-09-19T13:22:12+08:00"
+  },
+  {
+    "title": "黄金博物馆吉林桦甸开馆 百年金矿焕新文旅地标",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699440.shtml",
+    "date": "2026-09-19",
+    "published_time": "13:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网吉林9月19日电 (记者 苍雁 石洪宇)19日，位于吉林省桦甸市夹皮沟镇的黄金博物馆正式开门迎客，“金色吉林”吉林省秋季文旅推广活动同步启动。",
+    "published_dt_iso": "2026-09-19T13:16:58+08:00"
+  },
+  {
+    "title": "“鸳鸯管家”的守护与共生",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-19/10699441.shtml",
+    "date": "2026-09-19",
+    "published_time": "13:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网兴安盟9月19日电 题：“鸳鸯管家”的守护与共生",
+    "published_dt_iso": "2026-09-19T13:12:32+08:00"
+  },
+  {
+    "title": "特朗普称A.I.害怕恶作剧。在白宫内部，辩论更加复杂。",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html",
+    "date": "2026-09-19",
+    "published_time": "02:09",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "总统似乎主要是由于人工智能是经济增长的途径，任何事情都不能阻挡它。",
+    "published_dt_iso": "2026-09-19T02:09:23+08:00"
+  },
+  {
+    "title": "特朗普如何成为人工智能传播者",
+    "link": "https://www.nytimes.com/video/us/politics/100000011154861/trump-ai-technology.html",
+    "date": "2026-09-19",
+    "published_time": "00:34",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "两年前，特朗普总统在拉斯维加斯举行了一次决定性的会议，在此之前，他对人工智能几乎没有兴趣。现在，特朗普先生将人工智能视为我们这个时代的决定性技术。我们的白宫记者乔纳森·斯旺（ Jonathan Swan ）追踪特朗普的人工智能传道之旅。",
+    "published_dt_iso": "2026-09-19T00:34:21+08:00"
+  },
+  {
+    "title": "Anthropic不顾其人工智能安全警告寻求首次公开募股",
+    "link": "https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html",
+    "date": "2026-09-19",
+    "published_time": "08:23",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该公司今年的年化收入预计将达到1000亿美元($) ，尽管首席执行官达里奥·阿莫代伊(Dario Amodei)呼吁放慢一些先进的人工智能模型的开发速度。",
+    "published_dt_iso": "2026-09-19T08:23:01+08:00"
+  },
+  {
+    "title": "谷歌表示， Gemini AI在测试突破中攻击了三家公司",
+    "link": "https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html",
+    "date": "2026-09-19",
+    "published_time": "08:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "一家第三方测试公司在网络安全测试期间无意中允许互联网访问谷歌的Gemini和其他人工智能模型。",
+    "published_dt_iso": "2026-09-19T08:31:38+08:00"
+  },
+  {
+    "title": "F.A.A.将为华盛顿机场推出新的人工智能工具",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/faa-ai-dc-airports.html",
+    "date": "2026-09-19",
+    "published_time": "04:21",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这个名为SMART的工具将处理调度和天气数据，以预测和避免延误。它将于下周部署在华盛顿地区的三个主要机场。",
+    "published_dt_iso": "2026-09-19T04:21:00+08:00"
+  },
+  {
+    "title": "特朗普称已禁止CNN、MS和Politico进入白宫",
+    "link": "https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html",
+    "date": "2026-09-19",
+    "published_time": "08:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "总统援引媒体的报道称，他认为是“假新闻”。“目前尚不清楚这样的禁令将如何在法庭上得到执行或辩护。",
+    "published_dt_iso": "2026-09-19T08:31:59+08:00"
+  },
+  {
+    "title": "肯尼迪中心的支持者在特朗普被拆除的恐惧中集会",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html",
+    "date": "2026-09-19",
+    "published_time": "10:22",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统审查标题为“肯尼迪中心被拆除”的海报板的照片引发了迄今为止支持表演艺术机构的最大聚会。",
+    "published_dt_iso": "2026-09-19T10:22:10+08:00"
+  },
+  {
+    "title": "特朗普说，美国和丹麦就格陵兰达成安全协议",
+    "link": "https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html",
+    "date": "2026-09-19",
+    "published_time": "08:53",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这笔交易的全部轮廓尚不清楚，但丹麦和格陵兰都表示，他们预计不久将签署一份协议。",
+    "published_dt_iso": "2026-09-19T08:53:23+08:00"
   }
 ]
