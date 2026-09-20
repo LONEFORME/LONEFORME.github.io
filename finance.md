@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+42.1 亿</span>
+      <span class="sector-flow-badge">+51.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+46.4 亿</span>
+      <span class="sector-flow-badge">+42.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+35.8 亿</span>
+      <span class="sector-flow-badge">+45.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+35.5 亿</span>
+      <span class="sector-flow-badge">+51.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,97 +230,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/19/business/draftkings-ai.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction." data-title="At DraftKings, AI Targets the Gamblers Likeliest to Lose" data-date="09-19 23:41" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-19 23:41</span>
-          <span class="news-item-title">At DraftKings, AI Targets the Gamblers Likeliest to Lose</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/004/570.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 19 日消息，据美国 CNBC 报道，当地时间 18 日，迪士尼宣布，原 Character.AI CEO 卡兰迪普 · 阿南德将于 10 月 2 日出任高级执行副总裁兼公司首位首席技术官（CTO），直接向 CEO 乔什 · 达马罗汇报。达马罗接掌迪士尼只有数月，此后一直强调利用技术推动公司各项业务发展。按照迪士尼的安排，阿南德将统管企业技术、基础设施、数据和 AI 平台，以及产品与工程业务，同时协调不同技术团队，进一步推动整个迪士尼的技术开发和交付方式现代化。达马罗发表声明称：“卡兰迪普拥有基础设施、消费科技和 AI 领域难得的综合经验，将成为迪士尼高级管理团队的重要成员，帮助我们继续推进三项重点：以优秀叙事为北极星，让技术服务于创意，以及以‘一个迪士尼’的方式协同运营。" data-title="迪士尼首次任命首席技术官：挖来原 Character.AI 首席执行官阿南德，强化 AI 布局" data-date="09-19 23:31" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/004/809.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 20 日消息，国务院新闻办公室于 2026 年 9 月 20 日（星期日）上午 10 时举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推动市场监管高质量发展有关情况。会上介绍，平台经济连着千行百业、千家万户。关于推动平台经济创新和健康发展，这就要求进一步加强监管，促进平台企业与平台内的经营者、劳动者共赢发展。围绕这个目标要求，“十五五”时期将重点抓好三个方面的工作。IT之家整理如下：一是在法律制度上进一步明确各类主体责任义务。市场监管总局将加快推动《电子商务法》的修改。一方面，在现有法律责任规定的基础上，推动增加比例罚、暂停相关业务等处罚类型，进一步压实平台在商家入驻审核、商品信息管控、消费者安全保障以及商家自主经营权保障等方面主体责任。另一方面，适应平台" data-title="市场监管总局：“十五五”时期将加快推动《电子商务法》的修改，推动增加比例罚、暂停相关业务等处罚类型" data-date="09-20 14:57" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-19 23:31</span>
-          <span class="news-item-title">迪士尼首次任命首席技术官：挖来原 Character.AI 首席执行官阿南德，强化 AI 布局</span>
+          <span class="news-item-date">09-20 14:57</span>
+          <span class="news-item-title">市场监管总局：“十五五”时期将加快推动《电子商务法》的修改，推动增加比例罚、暂停相关业务等处罚类型</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="In a handful of border states and industrial states that could decide Senate control, the president’s standoff with Canada has drawn criticism from voters, including some who supported him in 2024." data-title="How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate" data-date="09-19 22:35" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-20/10700024.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网天津9月20日电 题：从一季秋粮到一间民宿 天津蓟州乡村产业如何接住资金“空档”" data-title="从一季秋粮到一间民宿 天津蓟州乡村产业如何接住资金“空档”" data-date="09-20 14:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-20 14:44</span>
+          <span class="news-item-title">从一季秋粮到一间民宿 天津蓟州乡村产业如何接住资金“空档”</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="俄亥俄州参议院候选人的一个职位试图驳斥共和党对跨性别权利的关注，将其视为对经济问题的分心。" data-title="谢罗德·布朗（ Sherrod Brown ）尝试对跨性别问题的批评进行新的反驳" data-date="09-20 10:39" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-19 22:35</span>
-          <span class="news-item-title">How Trump’s Trade War Could Hurt Republican Efforts to Hold the Senate</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699722.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月19日电 “科技引领、产业融合、数智赋能、健康未来”，在AI爆发式增长的当下，第29届京台科技论坛的主题切中了两岸产业界最关心的命题。" data-title="第29届京台科技论坛侧记：AI浪潮中的台湾“追光者”" data-date="09-19 22:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 22:32</span>
-          <span class="news-item-title">第29届京台科技论坛侧记：AI浪潮中的台湾“追光者”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/004/565.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 19 日消息，据每日经济新闻报道，9 月 19 日，国家市场监督管理总局缺陷产品召回技术中心工业品所所长肖凌云在 2026 中国汽车产业发展（泰达）国际论坛上透露，我国 2025 年召回的车辆中，有一半是企业主动召回。真正能够召回的企业是好的企业、优秀的企业。真正主动去召回的企业，也是质量能够走向优先的企业。数据显示，截至 2025 年底，我国共实施汽车召回 3265 次，涉及车辆 1.21 亿辆，其中受调查影响召回 662 次，涉及车辆 6408.21 万辆，占召回车辆总数的 53.14%。肖凌云表示，今年 8 月 21 日，中国市场召回了接近 800 万辆车，都是一些新技术带来的一些安全缺陷。“召回监管制度对推动我国汽车质量安全水平的提升，发挥了很好的作用。”肖凌云称。" data-title="市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”：都是新技术带来的安全缺陷" data-date="09-19 22:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-19 22:23</span>
-          <span class="news-item-title">市场监管总局肖凌云谈“8 月有一天召回近 800 万辆车”：都是新技术带来的安全缺陷</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699721.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月19日电 (徐雪莹 金志成)“当前全球经贸环境复杂多变，两岸新能源汽车制造产业若加强关键技术合作、强化上下游联动，有助于对冲外部风险。”台湾企业家、东莞美福电子有限公司副总经理陈翔19日在北京受访时表示。" data-title="聚焦新能源汽车制造 业界冀两岸携手打造安全供应链" data-date="09-19 22:10" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 22:10</span>
-          <span class="news-item-title">聚焦新能源汽车制造 业界冀两岸携手打造安全供应链</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-19/10699608.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="问：美东时间9月18日，美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法。该法全面强化对俄制裁，延长对伊有关制裁，并明确可对进口俄罗斯石油或天然气的第三国加征最高100%所谓“次级关税”。有评论认为，中方将是美征税目标之一。请问中方对此有何评论？" data-title="商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问" data-date="09-19 19:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 19:58</span>
-          <span class="news-item-title">商务部新闻发言人就美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法答记者问</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="俄亥俄州参议院候选人的一个职位试图驳斥共和党对跨性别权利的关注，将其视为对经济问题的分心。" data-title="谢罗德·布朗（ Sherrod Brown ）尝试对跨性别问题的批评进行新的反驳" data-date="09-19 17:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-19 17:03</span>
+          <span class="news-item-date">09-20 10:39</span>
           <span class="news-item-title">谢罗德·布朗（ Sherrod Brown ）尝试对跨性别问题的批评进行新的反驳</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/19/us/politics/trump-voters-trade-war-canada-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统与加拿大的对峙引起了一些边境州和工业州选民的批评，这些州可能在中期决定参议院的控制权。" data-title="特朗普赢得了他们的选票。现在，他的贸易战正在分裂他们。" data-date="09-19 17:01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/19/business/india-russia-sanctions-oil.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="印度正在努力确保负担得起的能源，同时保持与华盛顿的关键关系，这一平衡行动因全球能源市场的动荡而变得更加困难。" data-title="印度再次在特朗普关税和俄罗斯石油威胁之间受到挤压" data-date="09-20 02:58" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-19 17:01</span>
-          <span class="news-item-title">特朗普赢得了他们的选票。现在，他的贸易战正在分裂他们。</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-19/10699454.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="秘鲁中央储备银行行长贝拉尔德当地时间18日说，因厄尔尼诺现象造成的影响超出预期，秘鲁央行将2026年秘鲁经济增长预期从此前的3.4%下调至3.2%。" data-title="秘鲁因厄尔尼诺影响下调今年经济增长预期" data-date="09-19 15:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 15:09</span>
-          <span class="news-item-title">秘鲁因厄尔尼诺影响下调今年经济增长预期</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-19/10699425.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网乌鲁木齐9月19日电 (张家伟)新疆生产建设兵团第一师阿拉尔市18日召开新闻发布会，介绍“十四五”以来以生态环境高水平保护助力经济社会高质量发展情况。" data-title="新疆阿拉尔市以生态高水平保护助力经济高质量发展" data-date="09-19 13:22" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 13:22</span>
-          <span class="news-item-title">新疆阿拉尔市以生态高水平保护助力经济高质量发展</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699443.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="好评中国丨深耕先进制造业，奋力布局“全域崛起”" data-title="深耕先进制造业，奋力布局“全域崛起”" data-date="09-19 13:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 13:01</span>
-          <span class="news-item-title">深耕先进制造业，奋力布局“全域崛起”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699373.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨9月19日电(记者 王妮娜)“黑土聚情缘·携手创未来”2026年海内外台胞黑龙江参访交流活动18日下午在哈尔滨举行。活动旨在搭建龙台产业对接平台，推动双方在绿色食品、农业、冰雪经济、数字经济、跨境贸易等领域务实合作，共寻商机、共谋发展。" data-title="2026年海内外台胞黑龙江参访交流活动在哈尔滨举行" data-date="09-19 11:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 11:20</span>
-          <span class="news-item-title">2026年海内外台胞黑龙江参访交流活动在哈尔滨举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-19/10699385.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="现代化产业体系，中国经济的战略依托；先进制造业，现代化产业体系的骨干。" data-title="持续做大做强先进制造业" data-date="09-19 11:10" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-19 11:10</span>
-          <span class="news-item-title">持续做大做强先进制造业</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Truecaller表示，单向共享要求将向电信运营商提供具有商业价值的专有资产。" data-title="印度迫使来电显示应用程序向电信公司提供垃圾邮件报告" data-date="09-19 09:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-19 09:00</span>
-          <span class="news-item-title">印度迫使来电显示应用程序向电信公司提供垃圾邮件报告</span>
+          <span class="news-item-date">09-20 02:58</span>
+          <span class="news-item-title">印度再次在特朗普关税和俄罗斯石油威胁之间受到挤压</span>
         </a>
   </div>
 </div>
@@ -335,4 +269,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-19 23:58（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-20 15:11（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
