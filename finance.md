@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,911.87</span>
-      <span class="ticker-change up">▲ +0.94%</span>
+      <span class="ticker-price ticker-up">3,949.91</span>
+      <span class="ticker-change up">▲ +0.97%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">13,640.87</span>
-      <span class="ticker-change up">▲ +1.72%</span>
+      <span class="ticker-price ticker-up">13,730.02</span>
+      <span class="ticker-change up">▲ +0.65%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,372.68</span>
-      <span class="ticker-change up">▲ +2.25%</span>
+      <span class="ticker-price ticker-up">3,399.59</span>
+      <span class="ticker-change up">▲ +0.80%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,652.63</span>
-      <span class="ticker-change up">▲ +2.89%</span>
+      <span class="ticker-price ticker-up">1,657.48</span>
+      <span class="ticker-change up">▲ +0.29%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,405.50</span>
-      <span class="ticker-change up">▲ +2.20%</span>
+      <span class="ticker-price ticker-up">4,410.02</span>
+      <span class="ticker-change up">▲ +0.10%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6943</span>
-      <span class="ticker-change up">▲ +-0 bp</span>
+      <span class="ticker-price ticker-up">6.6953</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,378.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +36.67 (+0.84%)</span>
+      <span class="ticker-price ticker-down">$4,351.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -26.90 (-0.61%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥946.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.91 (-0.10%)</span>
+      <span class="ticker-price ticker-down">¥938.30 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -8.81 (-0.93%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+51.2 亿</span>
+      <span class="sector-flow-badge">+21.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+42.5 亿</span>
+      <span class="sector-flow-badge">+42.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+45.7 亿</span>
+      <span class="sector-flow-badge">+40.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+51.2 亿</span>
+      <span class="sector-flow-badge">+34.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">3 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-21/10700676.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="近日，日本防卫省公布了2027财年防卫预算申请概要。同往年相比，这份文件主打“以防卫力变革为目标”，突出特点是防卫预算申请额再创新高，“新型作战方式”比重上升，并提出所谓“防卫与经济的良性循环”。这些看似专业的名词背后，反映的是日本防卫政策和军事野心的加速扩张。" data-title="日本防卫预算创新高暴露军事扩张野心" data-date="09-21 13:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-21 13:11</span>
+          <span class="news-item-title">日本防卫预算创新高暴露军事扩张野心</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-20/10700486.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社合肥9月20日电 (记者 张俊)皖台优势产业合作推进会20日在安徽省合肥市举行，本次推进会共促成合作项目36个，投资总额134.4亿元人民币。合肥市台胞台青金融服务驿站(以下简称“驿站”)在会上揭牌。" data-title="合肥市台胞台青金融服务驿站揭牌" data-date="09-20 23:19" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -263,4 +269,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-21 00:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-21 15:20（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
