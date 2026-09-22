@@ -721,6 +721,13 @@ body {
   margin: 16px 0 24px;
 }
 
+/* 首页 6 张项目卡：宽屏 3 列（3+3），避免 auto-fill 宽屏 5 列剩 1 张 */
+@media (min-width: 1280px) {
+  .card-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
 .card {
   background: var(--color-surface);
   border: 1px solid var(--color-border);
@@ -3035,6 +3042,13 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 16px;
   margin: 16px 0 28px;
+}
+
+/* 4 张板块卡：宽屏 2×2，避免超宽单行被拉得过扁 */
+@media (min-width: 1280px) {
+  .finance-sector-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 .sector-card {

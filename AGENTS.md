@@ -4,12 +4,21 @@
 
 | 页面类型 | body class | content-inner max-width | 用途 |
 |----------|------------|-------------------------|------|
-| 首页 / 热点 / 财经 | `layout-wide` | **1560px** | 看板、多列卡片，宽屏要铺满 |
-| 文档 / 项目说明等长文 | `layout-read` | **1100px** | 控制阅读行宽 |
+| 首页 / 热点 / 财经 / 项目 / 飞行演示 / 3D | `layout-wide` | **1560px** | 看板、卡片、播放器 |
+| 文档 / 说明长文 | `layout-read` | **1100px** | 控制阅读行宽 |
 
 **禁止**再把全站 `.content-inner` 写成过小的 `max-width`（例如 1240px）并 `margin: 0 auto` 却不区分页面：宽屏侧栏旁会出现大留白，看板像被缩小。
 
-宽屏多卡网格优先用 `repeat(5, 1fr)` 或 `auto-fit/minmax`，避免「9 张卡只剩末行 1 张」。
+同类网格问题一并避免：
+
+| 场景 | 错误做法 | 正确做法 |
+|------|----------|----------|
+| 9 张行情卡 | auto-fill 宽屏 4 列末行 1 张 | 宽屏 **5 列**（5+4） |
+| 6 张项目卡 | auto-fill 宽屏 5 列剩 1 张 | 宽屏 **3 列**（3+3） |
+| 4 张板块卡 | 超宽单行拉伸 | 宽屏 **2×2** |
+| 视频剧场 / 项目橱窗 | 放进 layout-read 1100px | 用 **layout-wide** |
+
+改完可用 `scripts/scan_layout_issues.py` 自检。
 
 分类逻辑在 `_layouts/default.html` 的 `<body class="...">`；样式在 `assets/css/custom.css` 搜 `layout-wide`。
 
