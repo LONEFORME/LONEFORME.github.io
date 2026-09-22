@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,954.76</span>
-      <span class="ticker-change up">▲ +0.12%</span>
+      <span class="ticker-price ticker-up">3,952.13</span>
+      <span class="ticker-change up">▲ +0.06%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,727.91</span>
-      <span class="ticker-change down">▼ -0.02%</span>
+      <span class="ticker-price ticker-down">13,723.74</span>
+      <span class="ticker-change down">▼ -0.05%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,400.40</span>
-      <span class="ticker-change up">▲ +0.02%</span>
+      <span class="ticker-price ticker-up">3,399.93</span>
+      <span class="ticker-change up">▲ +0.01%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,665.62</span>
-      <span class="ticker-change up">▲ +0.49%</span>
+      <span class="ticker-price ticker-up">1,665.04</span>
+      <span class="ticker-change up">▲ +0.46%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,427.29</span>
-      <span class="ticker-change up">▲ +0.09%</span>
+      <span class="ticker-price ticker-up">4,438.21</span>
+      <span class="ticker-change up">▲ +0.34%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6983</span>
+      <span class="ticker-price ticker-up">6.6994</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,319.15 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -24.37 (-0.56%)</span>
+      <span class="ticker-price ticker-down">$4,332.44 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -11.08 (-0.26%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥931.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -6.23 (-0.66%)</span>
+      <span class="ticker-price ticker-up">¥934.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +2.46 (+0.26%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">14 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/005/940.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 22 日消息，鸿蒙智行在今年 9 月 15 日宣布，与问界合作调整：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。赛力斯集团董事、副总裁康波刚刚分享了赛力斯集团董事长张兴海接受央视财经《微对话》专访的切片视频。在专访中，张兴海首度回应了与华为合作调整一事。总台主持人陈伟鸿就此次合作调整后，网传华为与赛力斯“分手”传闻进行了询问。张兴海表示：没有分手，一直都在一起，今后也在一起。只是我们那个模式继续升了个级。升级，主要还是围绕着专属专营。大品牌、豪华品牌都是专属专营。品牌要升级、服务要升级。据IT之家此前报道，9 月 20 日，引望智能技术有限公司今日发布公告，回应最近网络热议的问界合作事项，表示将一如既往支持好问界的发展，并与问界一起全力保" data-title="赛力斯张兴海首度回应与华为“分手”传闻：没有分手，一直都在一起，今后也在一起" data-date="09-22 20:32" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-22 20:32</span>
+          <span class="news-item-title">赛力斯张兴海首度回应与华为“分手”传闻：没有分手，一直都在一起，今后也在一起</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-22/10701708.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网郑州9月22日电 (陈贵洋)第七届应急管理普法知识竞赛总决赛开幕式22日在河南郑州航空港经济综合实验区中原国际会展中心举行。来自全国各地的52支代表队齐聚一堂，同台竞技。" data-title="第七届应急管理普法知识竞赛总决赛在河南郑州开幕" data-date="09-22 20:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-22 20:31</span>
+          <span class="news-item-title">第七届应急管理普法知识竞赛总决赛在河南郑州开幕</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-22/10701705.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网湛江9月22日电 (记者 王坚)海峡两岸(湛江)现代农业与海洋牧场产业对接交流会(简称“交流会”)22日在广东湛江举办。交流会上，超60家台企与当地产业龙头精准对接，聚焦种业创新、海洋牧场、精深加工、农文旅融合等重点领域，现场达成多项合作签约，推动技术、市场、产业深度联动，开启湛台合作新篇章。" data-title="海峡两岸（湛江）现代农业与海洋牧场产业对接交流会举办" data-date="09-22 20:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-22 20:29</span>
+          <span class="news-item-title">海峡两岸（湛江）现代农业与海洋牧场产业对接交流会举办</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-22/10701693.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月22日电 (李明芮)记者9月22日从山东省人民政府新闻办公室召开的发布会上获悉，2026尼山世界文明论坛(以下简称尼山论坛)将于9月28日至29日在山东曲阜举办。截至目前，已确定参会嘉宾共约340人，包括国内外政要、国际组织负责人、驻华使节、知名专家学者、文化领域代表、华侨华人代表和企业家代表等。" data-title="约340位中外嘉宾将出席2026尼山世界文明论坛" data-date="09-22 20:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-22 20:22</span>
+          <span class="news-item-title">约340位中外嘉宾将出席2026尼山世界文明论坛</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-22/10701624.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨9月22日电 (记者 赵宇航)21日，以“智融工程·技联世界”为主题的第十三届中俄工程技术论坛在哈尔滨开幕。本次活动将持续至23日，设置1场主论坛、6场分论坛和5场交流活动，300余名中俄院士专家和相关机构、企业代表参加。" data-title="第十三届中俄工程技术论坛在哈尔滨开幕" data-date="09-22 19:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-22 19:40</span>
+          <span class="news-item-title">第十三届中俄工程技术论坛在哈尔滨开幕</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/005/711.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 22 日消息，最近一段时间，“去宁德化”在新能源汽车行业被反复炒作。工业和信息化部新闻宣传中心“中国工信新闻”今日刊发评论文章《“去宁德化”论调要不得》，探讨了中国新能源汽车进入高质量发展阶段，究竟需要怎样的产业竞争。中国工信新闻认为，中国新能源汽车发展至今，靠的不是某一家企业单兵突进，而是一整套产业链能力的共同成长。车企调整供应链、增加供应商、布局自研，本是正常的市场行为，却被不断包装成“去宁德化”，甚至渲染成整车企业与动力电池企业之间的对立。文章还提到，一个成熟产业真正需要的，不是削峰填谷，更不是“谁领先就削弱谁”，而是既要有更多优秀企业成长，也要让已经形成全球竞争力的企业继续向前。如果每一家整车企业都追求“大而全”，每一个环节都重复投资，每一种能力都要求内部解决，看似" data-title="工信部旗下媒体：“去宁德化”论调要不得" data-date="09-22 14:54" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -292,30 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-22 10:01</span>
           <span class="news-item-title">日本与特朗普会面，希望得到他在中国的帮助</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/21/world/asia/xi-trump-meeting-china-summit.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="面对一位受战争和政治束缚的美国总统，中国领导人可能会寻求在支撑国内脆弱经济的同时锁定战术休战。" data-title="中国领导人习近平在美国峰会期间寻求与特朗普延长休战" data-date="09-22 10:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-22 10:00</span>
-          <span class="news-item-title">中国领导人习近平在美国峰会期间寻求与特朗普延长休战</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="有经济学者对BBC中文指出，港府希望建立“示范作用”，未来甚至“可能连收税都收人民币”，增加其他国家在香港使用人民币买卖黄金、投资股票的信心。" data-title="香港提出“用人民币支付政府开支”，为何引发“去美元化”忧虑？" data-date="09-22 09:42" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-22 09:42</span>
-          <span class="news-item-title">香港提出“用人民币支付政府开支”，为何引发“去美元化”忧虑？</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the-second-quarter-of-2026-data-center-investments-reportedly-still-on-track-to-hit-usd32-trillion-by-2050" target="_blank" rel="noopener" data-cat="caijing" data-summary="尽管投资仍在增加，但当地对数据中心建设的反对意见在2026年第二季度阻止了价值680亿美元的数据中心项目。" data-title="当地反对派在2026年第二季度阻止了45个价值680亿美元的数据中心项目—据报道，到2050年，数据中心投资仍有望达到32万亿美元" data-date="09-22 00:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-22 00:00</span>
-          <span class="news-item-title">当地反对派在2026年第二季度阻止了45个价值680亿美元的数据中心项目—据报道，到2050年，数据中心投资仍有望达到32万亿美元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-21/10701098.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网威海9月21日电 (记者 王娇妮)21日，“五链融合”发展大会暨2026中国威海·国际英才创新创业大会在山东威海开幕。来自高校院所、投融资机构、重点企业的千余名嘉宾齐聚一堂，共赴“链”上之约。" data-title="山东威海“五链融合”发展大会举办 千余名嘉宾共赴“链”上之约" data-date="09-21 22:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-21 22:13</span>
-          <span class="news-item-title">山东威海“五链融合”发展大会举办 千余名嘉宾共赴“链”上之约</span>
-        </a>
   </div>
 </div>
 
@@ -329,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-22 14:57（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-22 20:45（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

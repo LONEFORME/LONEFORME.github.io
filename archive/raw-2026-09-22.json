@@ -1628,5 +1628,595 @@
     "feed_name": "纽约时报",
     "summary": "Mayor Zohran Mamdani invited the president to his official residence in Manhattan, where the two spoke about policing, immigration and affordable housing.",
     "published_dt_iso": "2026-09-22T08:10:51+08:00"
+  },
+  {
+    "title": "Nscale的IPO将再次测试华尔街对集中人工智能押注的兴趣",
+    "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+    "date": "2026-09-22",
+    "published_time": "20:23",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这家英国人工智能数据中心开发商的大部分收入都依赖于科技巨头微软和Anthropic。",
+    "published_dt_iso": "2026-09-22T20:23:05+08:00"
+  },
+  {
+    "title": "配备RTX 5060、32GB RAM和1TB存储空间的游戏PC可享受500 $的折扣— Newegg预建的ABS Cyclone Aqua功能为1,199 $ ，带代码",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/gaming-pc-with-rtx-5060-32gb-of-ram-and-1tb-of-storage-gets-usd500-discount-neweggs-capable-abs-cyclone-aqua-prebuilt-is-usd1-199-with-code",
+    "date": "2026-09-22",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Newegg预先构建的ABS Cyclone Aqua将英特尔的20核酷睿i7-14700F与英伟达的RTX 5060 8GB和32GB DDR4内存相结合，成本低于构建同类系统的成本",
+    "published_dt_iso": "2026-09-22T19:30:00+08:00"
+  },
+  {
+    "title": "从每个区域来看，内存芯片现在比计算芯片更昂贵—人工智能需求推动DRAM芯片价值超过领先的硅",
+    "link": "https://www.tomshardware.com/pc-components/dram/dram-is-now-more-expensive-than-compute-chips-on-per-area-basis-ai-demand-drives-memory-die-value-past-leading-edge-silicon",
+    "date": "2026-09-22",
+    "published_time": "19:12",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "与台积电的N3晶圆相比， DRAM制造商可能会获得更多的钱。",
+    "published_dt_iso": "2026-09-22T19:12:35+08:00"
+  },
+  {
+    "title": "Raspberry Pi将主板锁定到固件的工厂RAM容量—工程师告诉DIY改装商“不要浪费你的时间”尝试维修或升级，公司引用了阴暗的经销商骗局",
+    "link": "https://www.tomshardware.com/raspberry-pi/raspberry-pi-locks-boards-to-factory-ram-capacities-in-firmware-engineer-tells-diy-modders-dont-waste-your-time-trying-repairs-or-upgrades-company-cites-shady-reseller-scams",
+    "date": "2026-09-22",
+    "published_time": "19:07",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Raspberry Pi用户的固件被阻止更换其SBC上的RAM芯片以进行维修或升级。",
+    "published_dt_iso": "2026-09-22T19:07:17+08:00"
+  },
+  {
+    "title": "这款$ 299 2TB MSI SSD是您现在可以购买的最便宜的PCIe 4.0 SSD之一—每GB仅需10美分，即可快速升级内部存储",
+    "link": "https://www.tomshardware.com/pc-components/this-usd299-2tb-msi-ssd-is-one-of-the-least-expensive-pcie-4-0-ssds-you-can-buy-right-now-just-10-cents-per-gb-yields-a-speedy-upgrade-for-your-internal-storage",
+    "date": "2026-09-22",
+    "published_time": "18:48",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "获得2TB MSI Spatium M461固态硬盘的可靠优惠。促销代码后仅需$ 299 ，即可获得当今最便宜的第4代x4固态硬盘之一。",
+    "published_dt_iso": "2026-09-22T18:48:20+08:00"
+  },
+  {
+    "title": "新的DapuStor SSD将高容量QLC与永久pSLC区域配对—将其QLC容量的6 ％至20 ％换成7倍以上的随机写入速度",
+    "link": "https://www.tomshardware.com/pc-components/ssds/dapustor-splits-qlc-ssd-to-create-a-fast-pslc-region-in-dual-mode-drive-trades-6-percent-to-20-percent-of-its-qlc-capacity-for-more-than-7x-faster-random-writes",
+    "date": "2026-09-22",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "DapuStor的双模J5060 QLC SSD将其部分NAND作为pSLC运行，以4TB的30.72 TB驱动器换取800GB的快速闪存。",
+    "published_dt_iso": "2026-09-22T18:30:00+08:00"
+  },
+  {
+    "title": "中国的CXMT达到12纳米级DRAM里程碑—新的第5代DRAM技术使用四重图案将芯片容量提高50 ％",
+    "link": "https://www.tomshardware.com/pc-components/dram/chinas-cxmt-hits-12nm-class-dram-milestone-new-5th-gen-dram-tech-uses-quadruple-patterning-to-boost-die-capacity-by-50-percent",
+    "date": "2026-09-22",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "中国DRAM冠军CXMT已开始使用其第五代GEB DRAM工艺技术进行批量生产",
+    "published_dt_iso": "2026-09-22T18:00:00+08:00"
+  },
+  {
+    "title": "随着大规模千兆瓦项目的滞后， OpenAI和Anthropic争夺较小的数据中心— 20-30兆瓦的设施，以提供大型结构正在建设中的容量",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-and-anthropic-are-reportedly-seeking-out-smaller-data-center-deals-to-meet-current-demand-20-30-mw-facilities-to-provide-capacity-as-mega-structures-undergo-construction",
+    "date": "2026-09-22",
+    "published_time": "17:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "OpenAI和Anthropic正在寻求通过规模较小的数据中心交易来确保即时容量，以满足当前的需求，尽管在其他地方的大规模交易上花费了数十亿美元。",
+    "published_dt_iso": "2026-09-22T17:30:00+08:00"
+  },
+  {
+    "title": "OPPO的新手机是第一款有三个200",
+    "link": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
+    "date": "2026-09-22",
+    "published_time": "20:18",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今天在中国推出的OPPO全新Find X10 Pro Max旗舰手机是首款在所有三个后置摄像头上使用2亿像素传感器的手机。主摄像头的17档动态范围，得益于Oppo所谓的“DeepPix传感器技术” ，表明百万像素计数将不是这款摄像头唯一的[…]",
+    "published_dt_iso": "2026-09-22T20:18:35+08:00"
+  },
+  {
+    "title": "Peloton带着“更便宜”的折叠跑步机回来了",
+    "link": "https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills",
+    "date": "2026-09-22",
+    "published_time": "20:10",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "去年， Peloton对其硬件进行了全面更新，增加了摄像头、风扇和名为Peloton IQ的人工智能软件。今年，它将专注于其跑步机产品阵容-更新其现有的两款踏板，并将新的，更实惠的Tread Flex添加到折叠中。在纽约市的一次发布会上， Peloton首席执行官[…]",
+    "published_dt_iso": "2026-09-22T20:10:08+08:00"
+  },
+  {
+    "title": "是时候推出Mac NEO了",
+    "link": "https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept",
+    "date": "2026-09-22",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Mac Mini是一款很棒的小型台式电脑，当它的售价为599 $时，很容易推荐给任何想要快速、简单和便宜的东西的人。新的M6型号更好，但它的起价为$ 899 ，它的12核CPU和12核GPU实际上可能对那些[…]",
+    "published_dt_iso": "2026-09-22T20:00:00+08:00"
+  },
+  {
+    "title": "元补丁Muse漏洞利用，让攻击者控制AI代理",
+    "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "date": "2026-09-22",
+    "published_time": "19:53",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在发现一个零日漏洞后， Meta为其Muse macOS应用程序发布了一个补丁，该漏洞可能允许某人控制AI代理。安全研究人员Patrick Wardle发现的漏洞利用了一个未记录的Muse设置，该设置使运行本地代码的潜在攻击者能够从Meta的服务器重定向转录处理[…]",
+    "published_dt_iso": "2026-09-22T19:53:58+08:00"
+  },
+  {
+    "title": "你能忘记你对Meta的感受吗？",
+    "link": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+    "date": "2026-09-22",
+    "published_time": "18:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "2021年，当一名举报人出现关于Facebook正在伤害儿童的戏剧性指控时，首席执行官马克·扎克伯格（ Mark Zuckerberg ）在Facebook上发表了反驳。「我们非常关心安全、福祉和心理健康等问题。很难看到报道歪曲了我们的工作和动机， ”他在给Meta员工的一份说明中写道，他[…]",
+    "published_dt_iso": "2026-09-22T18:00:01+08:00"
+  },
+  {
+    "title": "苹果首个现场音乐表演场馆在英国总部下方开幕",
+    "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+    "date": "2026-09-22",
+    "published_time": "16:35",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Apple正准备在英国开设一个新的“最先进”的现场音乐场所，可容纳600人的空间，用于举办表演、录制会议和视频广播。这个名为Apple Music Hall的场馆位于伦敦标志性的巴特西发电站的Apple欧洲总部下方，定于下周9月28日开放。有关[…]的详细信息",
+    "published_dt_iso": "2026-09-22T16:35:54+08:00"
+  },
+  {
+    "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+    "link": "https://www.qbitai.com/2026/09/494120.html",
+    "date": "2026-09-22",
+    "published_time": "18:06",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月22日，在2026杭州云栖大会企业级Agent实践峰会上，基元律动联合创始人兼CTO韩凯发表演讲《从Harness到RSI飞轮》。",
+    "published_dt_iso": "2026-09-22T18:06:34+08:00"
+  },
+  {
+    "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
+    "link": "https://www.qbitai.com/2026/09/494043.html",
+    "date": "2026-09-22",
+    "published_time": "18:01",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "上传成片和字幕，系统自动从字幕、音画、内容底线三个维度逐集跑一遍，输出可下载、可回填的质检报告。",
+    "published_dt_iso": "2026-09-22T18:01:53+08:00"
+  },
+  {
+    "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
+    "link": "https://www.qbitai.com/2026/09/493865.html",
+    "date": "2026-09-22",
+    "published_time": "16:49",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月22日，在2026云栖大会“AI+文化传媒”技术发展论坛上，虎鲸文娱集团推出行业首个AI影视制作与管理平台“鲸锐AI”",
+    "published_dt_iso": "2026-09-22T16:49:12+08:00"
+  },
+  {
+    "title": "首届中央企业量子人才科创空间产业应用创新大赛在合肥举办 中央企业发布真实业务场景需求",
+    "link": "https://www.qbitai.com/2026/09/493819.html",
+    "date": "2026-09-22",
+    "published_time": "16:35",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月21日，首届中央企业量子人才科创空间产业应用创新大赛发布会在合肥举行",
+    "published_dt_iso": "2026-09-22T16:35:24+08:00"
+  },
+  {
+    "title": "OPPO 33W 口袋充移动电源 10000 开售：新国标、A+C 双口，149 元",
+    "link": "https://www.ithome.com/1/005/948.htm",
+    "date": "2026-09-22",
+    "published_time": "20:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，OPPO 33W 口袋充超级闪充移动电源 10000 现已开售，容量 10000mAh，售价 149 元。这款移动电源重约 204g，尺寸为 110.6×70.6×18.1mm，有卡其香氛和轻盈粉两种颜色可选；获得 2026 新国标认证，支持 ColorOS 系统级互联生态，可查看移动电源的剩余电量、电池健康度、实时温度等信息。这款移动电源配备 A + C 双口输出，兼容 SUPERVOOC、PD、PPS、QC、UFCS 等协议；USB-C 单口和 USB-A 单口最大功率均为 33W ，双口同时输出时最高为 5V 4A；支持自动识别小电流设备，可为智能手表、耳机、手环等小设备稳定充电。这款产品附赠了一条长度 0.2m 的 3A 手提充电线，采用高密度编织材质",
+    "published_dt_iso": "2026-09-22T20:44:40+08:00"
+  },
+  {
+    "title": "1599 元起：OPPO Watch S2/X3 手表发布，8.9mm 轻薄设计、首次搭载超燃脂模式",
+    "link": "https://www.ithome.com/1/005/947.htm",
+    "date": "2026-09-22",
+    "published_time": "20:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，OPPO 今晚召开新品发布会，推出 Find X10 系列新品。除手机产品以外，OPPO 还在发布会带来了 Watch S2 和 Watch X3 手表。新品可选多种配色，采用超薄机身，首次搭载超燃脂模式，升级旗舰健康传感器，定价 1599 元起，9 月 24 日开售。IT之家附 OPPO 新品手表定价如下：OPPO Watch S2：建议零售价 1599 元，首销 1499 元，国补到手价 1274.15 元OPPO Watch X3：建议零售价 2799 元，首销优惠价 2599 元，国补到手价 2209.15 元据介绍，这款手表采用 8.9mm 轻薄设计，可选跃动橙、薄雾粉、山影灰三种配色，拥有竹节运动表带，贴合度提升 15%，厚度减少 19%。运动方面",
+    "published_dt_iso": "2026-09-22T20:43:42+08:00"
+  },
+  {
+    "title": "OPPO Enco X4 耳机发布：无损丹拿音质，首销价 1099 元",
+    "link": "https://www.ithome.com/1/005/946.htm",
+    "date": "2026-09-22",
+    "published_time": "20:42",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，在今晚的 OPPO Find X10 系列新品发布会上，OPPO 还发布了 OPPO Enco X4 耳机，建议零售价 1199 元，首销优惠价 1099 元。据IT之家在发布会现场了解到，OPPO 携手北欧丹拿调音大师联合调音，带来首款“无损丹拿音质”耳机，支持至高 2.3Mbps 高保真无损传输，支持 48kHz/24bit 无损音源规格。OPPO Enco X4 采用第四代同轴双单元结构，双 DAC 分频驱动，音乐层次更分明，超瞬态高分子振膜，鼓点有力不拖沓，同心圆对称磁路，弦乐清透又细腻，全频段低失真，全链路真无损。OPPO Enco X4 芯片制程由上代 12nm 提升至 6nm，全频段降噪及人声降噪能力相较上代全面提升，并采用全新发泡硅胶耳帽，支持",
+    "published_dt_iso": "2026-09-22T20:42:37+08:00"
+  },
+  {
+    "title": "5499 元起：OPPO Find X10 标准版手机发布，天玑 9600M 芯片、双 2 亿镜头群",
+    "link": "https://www.ithome.com/1/005/944.htm",
+    "date": "2026-09-22",
+    "published_time": "20:38",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，OPPO 今晚召开新品发布会，推出 Find X10 标准版手机。新品搭载联发科天玑 9600M 旗舰芯片，配备 8000mAh 冰川电池，拥有新一代 1nit 明眸护眼屏，采用双 2 亿镜头群方案，定价 5499 元起，9 月 24 日起开售。IT之家附 OPPO Find X10 手机各版本定价如下：12+256GB：5499 元12+512GB：5999 元16+512GB：6499 元16+1TB：7499 元IT之家在发布会现场了解到，OPPO Find X10 手机可选冰蓝、清橙、浅钛三种配色，正面拥有 0.99mm 极窄四等边屏幕，带来更沉浸的视觉感受。侧面采用微光金属中框，拥有细腻触感。背面配备绒光玻璃材质，带来通透视觉感受及亲肤触感。支持 I",
+    "published_dt_iso": "2026-09-22T20:38:04+08:00"
+  },
+  {
+    "title": "OPPO Find X10 Pro Max 发布：首发三 2 亿像素镜头群，售价 6799 元起",
+    "link": "https://www.ithome.com/1/005/943.htm",
+    "date": "2026-09-22",
+    "published_time": "20:37",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，在今晚的 OPPO Find X10 系列新品发布会上，OPPO Find X10 Pro Max 正式发布，OPPO 称这不只是 Find 的第一台 Pro Max，更是一台大家前所未见的相机。OPPO Find X10 Pro Max 售价 6799 元起。IT之家附具体售价如下：12+256GB 售价 6799 元12+512GB 售价 7499 元16+512GB 售价 7999 元16GB+1TB 售价 8999 元据IT之家在发布会现场了解到，外观方面，OPPO Find X10 Pro Max 背板拥有哈苏影像印迹，汲取经典相机材质分区灵感，呈现金属平纹与立体编织两种质感，让视觉层次更丰富。贯穿镜头模组的橙光印记，灵感源自经典哈苏相机。银色金属齿",
+    "published_dt_iso": "2026-09-22T20:37:18+08:00"
+  },
+  {
+    "title": "OPPO 推出“AI 心力球”可穿戴新品，体验价 499 元",
+    "link": "https://www.ithome.com/1/005/942.htm",
+    "date": "2026-09-22",
+    "published_time": "20:35",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，OPPO 今天召开新品发布会，除了推出 Find X10 系列手机新品以外，OPPO 本次还带来了全新品类穿戴产品“AI 心力球”。新品体验价为 499 元，主打卖点是“AI 成长教练”，能够帮助用户思考，把事情做成。即日起开启用户招募。IT之家在发布会现场了解到，OPPO AI 心力球是一款别在衣服领口的穿戴产品。其重量为 9.8g，支持 24 小时全天续航、5 米远距离收音。",
+    "published_dt_iso": "2026-09-22T20:35:35+08:00"
+  },
+  {
+    "title": "岚图梦想家 9“新时代旗舰 MPV”上市，41.99 万",
+    "link": "https://www.ithome.com/1/005/941.htm",
+    "date": "2026-09-22",
+    "published_time": "20:34",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，岚图梦想家 9 于今天（22 日）晚间正式上市，新车定位“新时代旗舰 MPV”，售价区间为 41.99 万元至 51.99 万元，提供 Ultra、Ultra+ 和礼尊版三个版型，涵盖插混和纯电两种动力形式，共计 6 个配置。礼尊版：PHEV 51.99 万元，EV 52.99 万元Ultra+ 版：PHEV 45.99 万元，EV 46.99 万元Ultra 版：PHEV 41.99 万元，EV 42.99 万元IT之家附上官方介绍如下图：外观方面，梦想家 9 延续家族直瀑式中网设计，配备全球首款可升降发光立标 —— 由 2520 组精密切割工艺打造，支持自行调节升降及发光，配合 HUAWEI XPIXEL 双百万像素全彩智慧大灯（双侧总像素达 260 万，",
+    "published_dt_iso": "2026-09-22T20:34:35+08:00"
+  },
+  {
+    "title": "赛力斯张兴海首度回应与华为“分手”传闻：没有分手，一直都在一起，今后也在一起",
+    "link": "https://www.ithome.com/1/005/940.htm",
+    "date": "2026-09-22",
+    "published_time": "20:32",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 22 日消息，鸿蒙智行在今年 9 月 15 日宣布，与问界合作调整：产品定义、产品设计、品牌营销、渠道零售、服务体系由赛力斯主导，华为终端参与赋能。赛力斯集团董事、副总裁康波刚刚分享了赛力斯集团董事长张兴海接受央视财经《微对话》专访的切片视频。在专访中，张兴海首度回应了与华为合作调整一事。总台主持人陈伟鸿就此次合作调整后，网传华为与赛力斯“分手”传闻进行了询问。张兴海表示：没有分手，一直都在一起，今后也在一起。只是我们那个模式继续升了个级。升级，主要还是围绕着专属专营。大品牌、豪华品牌都是专属专营。品牌要升级、服务要升级。据IT之家此前报道，9 月 20 日，引望智能技术有限公司今日发布公告，回应最近网络热议的问界合作事项，表示将一如既往支持好问界的发展，并与问界一起全力保",
+    "published_dt_iso": "2026-09-22T20:32:47+08:00"
+  },
+  {
+    "title": "阿尔特塔同意与阿森纳冠军达成新协议",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-22",
+    "published_time": "19:48",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "米克尔·阿尔特塔同意与英超冠军阿森纳签订一份经过改进的新合同。",
+    "published_dt_iso": "2026-09-22T19:48:23+08:00"
+  },
+  {
+    "title": "切尔西在别墅板凳上挣扎-加纳乔面临着决定性的赛季",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c51kxgj43n89o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-22",
+    "published_time": "14:19",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "亚历杭德罗·加纳乔（ Alejandro Garnacho ）从切尔西（ Chelsea ）租借到阿斯顿维拉（ Aston Villa ） ，以开启他的职业生涯，但他在米德兰兹（ Midlands ）的最初几周一直",
+    "published_dt_iso": "2026-09-22T14:19:17+08:00"
+  },
+  {
+    "title": "2026年世界城市日全球主场活动将在福州举行",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701719.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月22日电 (记者 庞无忌)9月22日，2026年世界城市日全球主场活动暨第四届全球可持续发展城市奖(上海奖)颁奖活动新闻发布会在北京举行。住房和城乡建设部副部长陈绍旺，联合国人居署执行主任特别代表、全球解决方案司司长拉夫·图茨，福建省副省长王金福，福州市市长吴贤德出席新闻发布会，介绍有关情况并回答记者提问。",
+    "published_dt_iso": "2026-09-22T20:39:28+08:00"
+  },
+  {
+    "title": "约340位中外嘉宾将出席2026尼山世界文明论坛",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701693.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网济南9月22日电 (李明芮)记者9月22日从山东省人民政府新闻办公室召开的发布会上获悉，2026尼山世界文明论坛(以下简称尼山论坛)将于9月28日至29日在山东曲阜举办。截至目前，已确定参会嘉宾共约340人，包括国内外政要、国际组织负责人、驻华使节、知名专家学者、文化领域代表、华侨华人代表和企业家代表等。",
+    "published_dt_iso": "2026-09-22T20:22:53+08:00"
+  },
+  {
+    "title": "中国国家文物局：中国不可移动文物数量有望突破90万处",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701781.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月22日电 (记者 陈杭)第四次全国文物普查进入省域验收、成果总结收官阶段，不可移动文物数量有望突破90万处；全国老城文物等专项调查全面完成，文物资源家底基本摸清。",
+    "published_dt_iso": "2026-09-22T20:17:03+08:00"
+  },
+  {
+    "title": "聚焦文化遗产与文明互鉴 2026北京文化论坛开幕",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701673.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月22日电 (记者 徐婧 陈杭 吕少威)由中共中央宣传部、中共北京市委、北京市人民政府共同主办的2026北京文化论坛22日下午在北京开幕。",
+    "published_dt_iso": "2026-09-22T20:15:57+08:00"
+  },
+  {
+    "title": "陈祥榕烈士事迹展陈室在福建屏南揭牌",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701678.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网宁德9月22日电 (记者 叶茂)陈祥榕烈士事迹展陈室22日在陈祥榕的家乡——福建省宁德市屏南县甘棠乡下山口村揭牌。",
+    "published_dt_iso": "2026-09-22T20:09:38+08:00"
+  },
+  {
+    "title": "人民日报重磅视频｜建设性战略稳定",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701485.shtml",
+    "date": "2026-09-22",
+    "published_time": "19:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "习近平主席对美国进行国事访问前夕，外交部与人民日报社联合发布重磅视频。从北京到华盛顿，期待中美关系继续沿着建设性战略稳定的正确航向，乘风破浪、不断前行。",
+    "published_dt_iso": "2026-09-22T19:47:49+08:00"
+  },
+  {
+    "title": "第十三届中俄工程技术论坛在哈尔滨开幕",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701624.shtml",
+    "date": "2026-09-22",
+    "published_time": "19:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网哈尔滨9月22日电 (记者 赵宇航)21日，以“智融工程·技联世界”为主题的第十三届中俄工程技术论坛在哈尔滨开幕。本次活动将持续至23日，设置1场主论坛、6场分论坛和5场交流活动，300余名中俄院士专家和相关机构、企业代表参加。",
+    "published_dt_iso": "2026-09-22T19:40:00+08:00"
+  },
+  {
+    "title": "学习手记丨答好保障粮食安全这个“永恒课题”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-22/10701492.shtml",
+    "date": "2026-09-22",
+    "published_time": "19:34",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "秋分将至，广袤田畴上稻谷金黄、玉米灌浆，一派丰收在望的喜人景象。",
+    "published_dt_iso": "2026-09-22T19:34:36+08:00"
+  },
+  {
+    "title": "加拿大一省政府就校园枪击案起诉OpenAI",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701786.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月22日电 据加拿大通讯社报道，加拿大不列颠哥伦比亚省政府于当地时间21日起诉美国开放人工智能研究中心(OpenAI)及其首席执行官萨姆·奥尔特曼，指控该公司未将塔布勒岭枪击案凶手在ChatGPT上的异常对话报告给当地警方。",
+    "published_dt_iso": "2026-09-22T20:27:03+08:00"
+  },
+  {
+    "title": "中哈高原生态文明交流对话活动在阿拉木图举行",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701640.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社哈萨克斯坦阿拉木图9月22日电 (记者 单璐)“山与歌的和鸣：中国—哈萨克斯坦高原生态文明交流对话”活动22日在哈萨克斯坦阿拉木图举行，中哈政界、学界、文化艺术界人士及高校学生代表等120余人出席。",
+    "published_dt_iso": "2026-09-22T20:26:15+08:00"
+  },
+  {
+    "title": "西班牙首相桑切斯：反对任何试图瓦解多边主义的企图",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701796.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月22日电 据外媒当地时间9月22日报道，西班牙首相桑切斯在美国纽约举行的“多边主义伙伴”活动发表讲话，强调捍卫普遍且包容的多边主义，反对任何试图瓦解多边主义的企图。",
+    "published_dt_iso": "2026-09-22T20:21:43+08:00"
+  },
+  {
+    "title": "伊朗称美国若减轻军事压力并解除港口封锁 可7天内重开霍尔木兹海峡",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701791.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月22日电 据路透社当地时间9月22日援引一名伊朗高级官员消息称，如果美国减轻军事压力并解除对伊朗港口的封锁，伊朗可以在7天之内重新开放霍尔木兹海峡。",
+    "published_dt_iso": "2026-09-22T20:15:11+08:00"
+  },
+  {
+    "title": "2026“中国文化日”活动在澳大利亚举行",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701577.shtml",
+    "date": "2026-09-22",
+    "published_time": "17:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网悉尼9月22日电 由中国驻墨尔本总领事馆主办的“中国文化日”活动日前在澳大利亚维多利亚州吉朗学院举行。中国驻墨尔本总领事房新文、驻墨尔本总领馆副总领事刘东源，吉朗学院校长西蒙·扬、吉朗华人协会主席袁茜敏、侨界代表等800余人出席。",
+    "published_dt_iso": "2026-09-22T17:53:53+08:00"
+  },
+  {
+    "title": "在武汉邂逅“微笑天使”江豚，中外代表问出一个引人深思的问题 | 中国不一样",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701428.shtml",
+    "date": "2026-09-22",
+    "published_time": "16:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月22日电 (记者 吴辛茹)近日，“2026世界市长对话·武汉”活动举办。多国嘉宾走进长江江豚繁育保护中心，近距离邂逅被誉为“微笑天使”的长江江豚，实地感受武汉守护长江生态的实践与探索。",
+    "published_dt_iso": "2026-09-22T16:54:16+08:00"
+  },
+  {
+    "title": "调查显示57%美国民众支持对华友好合作",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701545.shtml",
+    "date": "2026-09-22",
+    "published_time": "16:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "新华社华盛顿9月21日电(记者颜亮)美国芝加哥全球事务委员会21日公布的调查报告显示，57%的美国民众认为美国应该同中国开展友好合作与接触，延续了自2024年以来美国民众逐渐转向支持对华接触的趋势。",
+    "published_dt_iso": "2026-09-22T16:50:21+08:00"
+  },
+  {
+    "title": "白宫宣布推出“特朗普电视”：24小时播放、实时更新",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-22/10701490.shtml",
+    "date": "2026-09-22",
+    "published_time": "16:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月22日电 综合外媒报道，美国白宫当地时间21日宣布推出“特朗普电视”。美国媒体称之为“一个在优兔平台全天候24小时播放特朗普政府过往活动的流媒体频道”。",
+    "published_dt_iso": "2026-09-22T16:02:25+08:00"
+  },
+  {
+    "title": "宁夏永宁：金色花海映乡野 走出农旅融合新路径",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701716.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月22日电 (记者 李佩珊)金秋时节，宁夏银川市永宁县李俊镇3000余亩麦后复种油葵次第绽放，连片金色花海随风摇曳，勾勒出诗意盎然的田园画卷，成为秋日乡村独特景致。不少市民、游客慕名前来，漫步田间步道，沉浸式欣赏田园风光，驻足拍照打卡，惬意尽享秋日乡村美景。",
+    "published_dt_iso": "2026-09-22T20:38:20+08:00"
+  },
+  {
+    "title": "第七届应急管理普法知识竞赛总决赛在河南郑州开幕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701708.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网郑州9月22日电 (陈贵洋)第七届应急管理普法知识竞赛总决赛开幕式22日在河南郑州航空港经济综合实验区中原国际会展中心举行。来自全国各地的52支代表队齐聚一堂，同台竞技。",
+    "published_dt_iso": "2026-09-22T20:31:26+08:00"
+  },
+  {
+    "title": "（乡村行·看振兴）山西灵丘西兰花远销海外促增收",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701715.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网大同9月22日电 (白杨 刘小红)近日，山西大同灵丘县一合作社开展西兰花集中采收工作，田间地头有序开展采摘、装筐、转运作业。本地种植的西兰花经统一加工处理，批量发往海外市场，带动村民就近务工增收。",
+    "published_dt_iso": "2026-09-22T20:30:26+08:00"
+  },
+  {
+    "title": "安徽省首办无人机测绘职业技能竞赛 80名选手合肥同台竞技",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701710.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网合肥9月22日电 (赵强 许乃见)2026年安徽省无人机测绘职业技能竞赛22日在合肥开幕。这是安徽省首次举办以实际应用为主的无人机测绘职业技能竞赛，来自全省各地及中铁四局重点建设工程的20支代表队、80名选手同台竞技。",
+    "published_dt_iso": "2026-09-22T20:29:55+08:00"
+  },
+  {
+    "title": "海峡两岸（湛江）现代农业与海洋牧场产业对接交流会举办",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701705.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网湛江9月22日电 (记者 王坚)海峡两岸(湛江)现代农业与海洋牧场产业对接交流会(简称“交流会”)22日在广东湛江举办。交流会上，超60家台企与当地产业龙头精准对接，聚焦种业创新、海洋牧场、精深加工、农文旅融合等重点领域，现场达成多项合作签约，推动技术、市场、产业深度联动，开启湛台合作新篇章。",
+    "published_dt_iso": "2026-09-22T20:29:21+08:00"
+  },
+  {
+    "title": "山西祁县中秋国庆文旅活动发布 乔家大院、昭余古城联动迎客",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701684.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新闻发布会现场。张钰佳 摄 中新网晋中9月22日电(高雨晴)“此次中秋国庆，我们以乔家大院、昭余古城两大核心景区为主阵地，精心策划了一系列形式多样、内涵丰富的主题活动，致力于为游客打造一场穿越古今、融汇文脉的沉浸式文旅体验。”山西晋中祁县文旅局旅游工作负责人白云22日介绍。",
+    "published_dt_iso": "2026-09-22T20:17:25+08:00"
+  },
+  {
+    "title": "七分熟秋葵“入面” 湖南新田晒出乡村振兴好“钱”景",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701675.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网永州9月22日电(蒋军君 周林凤 谢欣怡)中秋节、国庆节临近，在湖南省新田县新隆镇城塘溪村，某秋葵面业公司门前晒场铺开一片“绿金”：几千斤秋葵整齐排列，秋日阳光洒下，空气里混着麦香与秋葵清香。厂房内，负责人谢艳军带着工人赶制5000余斤秋葵面订单，压面、切面、上架、晾晒，一派忙碌的景象。",
+    "published_dt_iso": "2026-09-22T20:10:30+08:00"
+  },
+  {
+    "title": "中国五省区联合发布野生冬虫夏草资源保护行动宣言",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-22/10701774.shtml",
+    "date": "2026-09-22",
+    "published_time": "20:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社西宁9月22日电 (祁增蓓)青海、西藏、四川、云南、甘肃五省区22日联合在青海省西宁市发布《五省区野生冬虫夏草资源保护行动宣言》，划定五条行动红线，协同守护青藏高原高寒草甸生态与野生冬虫夏草种质资源。",
+    "published_dt_iso": "2026-09-22T20:10:18+08:00"
+  },
+  {
+    "title": "香港提出“人民币支付政府开支”为何引发“去美元化”忧虑？",
+    "link": "https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-22",
+    "published_time": "09:42",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "有经济学者对BBC中文指出，港府希望建立“示范作用”，未来甚至“可能连收税都收人民币”，增加其他国家在香港使用人民币买卖黄金、投资股票的信心。",
+    "published_dt_iso": "2026-09-22T09:42:30+08:00"
+  },
+  {
+    "title": "“双休购”的爆红与下架:一个网购平台如何撬动中国劳工权益讨论",
+    "link": "https://www.bbc.com/zhongwen/articles/cr9dw3z7v01yo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-22",
+    "published_time": "18:03",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "提倡双休的民间自发平台“双休购”昙花一现后快速被下架，中国打工人开始在社交媒体上要求双休正当权利。学者指这样的消费抵制是正向的发展。",
+    "published_dt_iso": "2026-09-22T18:03:59+08:00"
+  },
+  {
+    "title": "习近平为何来到华盛顿，白宫电视转播却一片漆黑",
+    "link": "https://www.nytimes.com/2026/09/22/podcasts/the-headlines/xi-jinping-dc-white-house-press-ban.html",
+    "date": "2026-09-22",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "另外，还有那个帮忙在菜单上放虫子的人。",
+    "published_dt_iso": "2026-09-22T18:00:10+08:00"
+  },
+  {
+    "title": "自查理·柯克被杀以来，特朗普如何打击异议",
+    "link": "https://www.nytimes.com/2026/09/22/us/charlie-kirk-trump-free-speech.html",
+    "date": "2026-09-22",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "白宫将批评者列为恐怖分子，将暴力归咎于左翼阴谋，并在一场争夺言论自由的斗争中调查了工会、非营利组织和其他团体。",
+    "published_dt_iso": "2026-09-22T17:01:48+08:00"
+  },
+  {
+    "title": "Alexandria Ocasio-Cortez是否会竞选2028年的总统？这是她说的话。",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/aoc-2028-presidential-race.html",
+    "date": "2026-09-22",
+    "published_time": "20:30",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在一次广泛的采访中，这位纽约女议员就她如何考虑可能的总统竞选提出了迄今为止最详细的见解。",
+    "published_dt_iso": "2026-09-22T20:30:23+08:00"
+  },
+  {
+    "title": "许多民主党人正在避开卡马拉·哈里斯。Abdul El-Sayed欢迎她。",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/kamala-harris-el-sayed-michigan-midterms.html",
+    "date": "2026-09-22",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这位前副总统希望在中期选举中帮助她的政党，但没有多少人接受她的提议。除了密歇根州的参议院提名人，他将于周二与她一起出现。",
+    "published_dt_iso": "2026-09-22T17:02:37+08:00"
+  },
+  {
+    "title": "‘I Was Sold a Bill of Goods’: Americans and the Distrust Election",
+    "link": "https://www.nytimes.com/2026/09/22/us/politics/americans-distrust-election.html",
+    "date": "2026-09-22",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Americans have a pervasive sense they are being lied to. That has created an unpredictability in politics unseen since Donald Trump said he could shoot someone on Fifth Avenue without losing voters.",
+    "published_dt_iso": "2026-09-22T17:01:33+08:00"
   }
 ]
