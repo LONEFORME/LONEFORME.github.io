@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,952.13</span>
-      <span class="ticker-change up">▲ +0.06%</span>
+      <span class="ticker-price ticker-down">3,936.53</span>
+      <span class="ticker-change down">▼ -0.39%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,723.74</span>
-      <span class="ticker-change down">▼ -0.05%</span>
+      <span class="ticker-price ticker-down">13,630.29</span>
+      <span class="ticker-change down">▼ -0.68%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,399.93</span>
-      <span class="ticker-change up">▲ +0.01%</span>
+      <span class="ticker-price ticker-down">3,378.38</span>
+      <span class="ticker-change down">▼ -0.63%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,665.04</span>
-      <span class="ticker-change up">▲ +0.46%</span>
+      <span class="ticker-price ticker-down">1,660.55</span>
+      <span class="ticker-change down">▼ -0.27%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,438.21</span>
-      <span class="ticker-change up">▲ +0.34%</span>
+      <span class="ticker-price ticker-down">4,371.21</span>
+      <span class="ticker-change down">▼ -1.51%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,650.23</span>
+      <span class="ticker-price ticker-up">30,732.40</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6997</span>
+      <span class="ticker-price ticker-up">6.7067</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,338.85 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -4.67 (-0.11%)</span>
+      <span class="ticker-price ticker-down">$4,333.27 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -25.03 (-0.57%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥936.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +4.06 (+0.44%)</span>
+      <span class="ticker-price ticker-up">¥935.47 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +3.43 (+0.37%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+53.3 亿</span>
+      <span class="sector-flow-badge">+52.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+20.6 亿</span>
+      <span class="sector-flow-badge">+52.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+15.9 亿</span>
+      <span class="sector-flow-badge">+50.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+54.9 亿</span>
+      <span class="sector-flow-badge">+18.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,56 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">4 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/006/251.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 23 日消息，奇瑞汽车微博官方账号今日发布了关于公司高管职务调整的公告。全面全球化发展是奇瑞矢志不渝的战略目标。为深入推进奇瑞汽车全球化 3.0 战略，强化奇瑞体系协同和资源赋能，经公司研究决定：张国忠调任奇瑞控股集团有限公司常务副总裁；张贵兵担任奇瑞汽车股份有限公司常务副总裁。奇瑞将坚持品牌向上，加快推进电动化、智能化和经营管理卓越化，持续为全球用户、合作伙伴和投资者创造价值。IT之家查询获悉，张国忠自 1997 年加入奇瑞集团，历任多个重要管理岗位，牵头构建了“奇瑞、星途、捷途、iCAR、智界”品牌矩阵。张贵兵则长期深耕海外市场，并参与了涵盖研发、生产和服务的国际化业务体系的构建，在负责奇瑞海外业务的同时，也负责墨甲机器人业务。延伸阅读奇瑞控股集团有限公司是奇瑞汽车股份" data-title="推进全球化 3.0 战略：奇瑞高管职务调整，原海外负责人张贵兵担任奇瑞汽车股份有限公司常务副总裁" data-date="09-23 14:49" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-23 14:49</span>
+          <span class="news-item-title">推进全球化 3.0 战略：奇瑞高管职务调整，原海外负责人张贵兵担任奇瑞汽车股份有限公司常务副总裁</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/006/248.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 23 日消息，国际数据公司（IDC）今日发布 2026 年二季度全球手持智能影像设备市场数据。期内全球销量达 588.7 万台，同比增长 57.24%；销售额 156.89 亿元人民币。其中云台相机增长最快，销量同比激增 86.9% 至 279.3 万台。中国影像双雄影石、大疆成为本轮增长的核心引擎。影石披露，其相机全球累计出货量已突破 1000 万台，过去一年出货达 470 万台。全景相机领域，影石以 72.5% 的销量领跑行业，实现连续两个季度份额增长。云台相机赛道，市场消息显示，影石首款产品 Luna Ultra 上市当月拿下美国亚马逊 23% 市场，6-8 月保持两成左右份额，打破行业长期以来的单一竞争格局。9 月 17 日，影石创新与立讯精密共同庆祝“影石相机累计" data-title="影石相机全球累计出货量突破 1000 万台，全景相机独占 72.5% 市场份额" data-date="09-23 14:49" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-23 14:49</span>
+          <span class="news-item-title">影石相机全球累计出货量突破 1000 万台，全景相机独占 72.5% 市场份额</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-23/10702194.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网新疆柯坪9月23日电 (张家伟)在新疆阿克苏地区柯坪县，骆驼存栏量已达6万峰，居全疆县域第一，骆驼全产业链产值突破22亿元。" data-title="新疆这座小城，6万峰骆驼“驮”出22亿元产值" data-date="09-23 14:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-23 14:21</span>
+          <span class="news-item-title">新疆这座小城，6万峰骆驼“驮”出22亿元产值</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-23/10702186.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月23日电 (孙倩)“黄河流域是重要的经济地带，也构成重要的生态屏障。”国家知识产权局新闻发言人、办公室主任衡付广22日表示，全国知识产权系统积极助力黄河流域走好绿色发展、创新发展之路。截至今年8月，沿黄九省(区)地理标志产品达1758个，以地理标志作为集体商标和证明商标注册2375件，总量均占中国的三分之一。" data-title="沿黄九省（区）地理标志产品达1758个 总量占中国三分之一" data-date="09-23 14:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-23 14:02</span>
+          <span class="news-item-title">沿黄九省（区）地理标志产品达1758个 总量占中国三分之一</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-23/10702153.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉9月23日电(记者 周璟)亚洲开发银行23日发布《2026年亚洲发展展望(9月版)》。报告称，亚太地区发展中经济体经济增长虽较去年放缓，但仍展现韧性。" data-title="亚行小幅上调亚太发展中经济体2026年增长预期至5%" data-date="09-23 13:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-23 13:27</span>
+          <span class="news-item-title">亚行小幅上调亚太发展中经济体2026年增长预期至5%</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/496124.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="滴滴首次入选2026年民营企业发展新质生产力案例，首次登上2026北京民营企业未来产业先锋榜。" data-title="滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可" data-date="09-23 11:12" data-source="量子位">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-23 11:12</span>
+          <span class="news-item-title">滴滴自动驾驶连获全国工商联及北京市荣誉榜单认可</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-23/10701965.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网金边9月23日电(张堰林 陈刚)9月22日，在柬埔寨西哈努克省海岸，1万尾鱼苗、5万只蟹苗被陆续放入大海。当天，一场由中柬双方共同参与的增殖放流活动在这里举行，为当地海洋生态保护增添新的实践。" data-title="中资企业携手柬埔寨伙伴守护自然生态可持续发展" data-date="09-23 10:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-23 10:23</span>
+          <span class="news-item-title">中资企业携手柬埔寨伙伴守护自然生态可持续发展</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普总统关于石油储备、毒品贸易及其和平努力的言论含有谎言和夸大其词。" data-title="事实核查特朗普在联合国的讲话" data-date="09-23 03:33" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-23 03:33</span>
+          <span class="news-item-title">事实核查特朗普在联合国的讲话</span>
+        </a>
         <a class="news-item" href="https://www.theverge.com/transportation/998762/rivian-r2-climate-impact-carbon-lifecycle-half" target="_blank" rel="noopener" data-cat="caijing" data-summary="Rivian一直计划让其最重要的R2车型比其昂贵的R1车型更便宜，但污染也更少。R2的生产过程将依赖更多的可再生能源，与之前的车型相比，该车本身将采用更多可回收和可生物降解的材料。有了这个和一个[…]" data-title="Rivian的R2提前四年完成了自己的气候目标" data-date="09-23 00:03" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
@@ -250,12 +298,6 @@ title: 股票财经
           <span class="news-item-date">09-22 22:15</span>
           <span class="news-item-title">添加了展览表：在TechCrunch Disrupt 2026上展示您的创业公司的最后一次机会</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c65y501pjww4o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="有经济学者对BBC中文指出，港府希望建立“示范作用”，未来甚至“可能连收税都收人民币”，增加其他国家在香港使用人民币买卖黄金、投资股票的信心。" data-title="香港提出“人民币支付政府开支”为何引发“去美元化”忧虑？" data-date="09-22 09:42" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-22 09:42</span>
-          <span class="news-item-title">香港提出“人民币支付政府开支”为何引发“去美元化”忧虑？</span>
-        </a>
   </div>
 </div>
 
@@ -269,4 +311,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-23 01:06（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-23 14:51（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
