@@ -30,7 +30,7 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,936.53</span>
+      <span class="ticker-price ticker-down">3,936.52</span>
       <span class="ticker-change down">▼ -0.39%</span>
     </div>
     <div class="ticker-footer">
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,630.29</span>
-      <span class="ticker-change down">▼ -0.68%</span>
+      <span class="ticker-price ticker-down">13,636.07</span>
+      <span class="ticker-change down">▼ -0.64%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,378.38</span>
-      <span class="ticker-change down">▼ -0.63%</span>
+      <span class="ticker-price ticker-down">3,379.61</span>
+      <span class="ticker-change down">▼ -0.60%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,660.55</span>
-      <span class="ticker-change down">▼ -0.27%</span>
+      <span class="ticker-price ticker-down">1,660.85</span>
+      <span class="ticker-change down">▼ -0.25%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,371.21</span>
-      <span class="ticker-change down">▼ -1.51%</span>
+      <span class="ticker-price ticker-down">4,379.07</span>
+      <span class="ticker-change down">▼ -1.33%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7067</span>
+      <span class="ticker-price ticker-up">6.7066</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,333.27 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -25.03 (-0.57%)</span>
+      <span class="ticker-price ticker-down">$4,306.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -52.16 (-1.20%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥935.47 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.43 (+0.37%)</span>
+      <span class="ticker-price ticker-down">¥929.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -3.90 (-0.42%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-23/10702510.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南9月23日电(周艺伟)山东省高级人民法院党组副书记、副院长傅国庆23日表示，山东法院精准对接农业农村现代化建设目标任务，着力促进农业高质高效、乡村宜居宜业、农民富裕富足，2023年以来，依法妥善审结各类涉农纠纷5.2万件。" data-title="山东法院深耕涉农司法服务 全方位护航农业农村现代化" data-date="09-23 20:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-23 20:52</span>
+          <span class="news-item-title">山东法院深耕涉农司法服务 全方位护航农业农村现代化</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/23/climate/the-former-fracking-executive-selling-trumps-energy-dominance-vision.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="能源部长克里斯·赖特（ Chris Wright ）正在推销化石燃料丰富的未来。在战争持续和油价飙升的情况下，这并不总是一件容易的事情。" data-title="克里斯·赖特（ Chris Wright ）推销特朗普的“能源主导”愿景" data-date="09-23 20:50" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-23 20:50</span>
+          <span class="news-item-title">克里斯·赖特（ Chris Wright ）推销特朗普的“能源主导”愿景</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-23/10702524.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川9月23日电 (记者 李佩珊)记者23日从宁夏银川市获悉，今年中秋、国庆双节假期，贺兰山东麓紫色大道这条特色廊道将迎来文旅消费旺季。银川市聚焦“交通+文旅+产业+生态”融合发展，通过优化交通保障、升级暖心服务、丰富文旅活动、补齐配套短板，全方位保障假日文旅市场有序运行，将假日客流转化为文旅消费增量。" data-title="双节文旅热度攀升 银川紫色大道多举措护航游客出行" data-date="09-23 20:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-23 20:43</span>
+          <span class="news-item-title">双节文旅热度攀升 银川紫色大道多举措护航游客出行</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/006/459.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 23 日消息，比亚迪旗下腾势汽车全新科技豪华智能轿车腾势 Z9S 正式上市，新车共推出闪充尊荣型、闪充旗舰型、易三方闪充性能型三款车型，官方指导价分别为 25.58 万元、27.58 万元、32.58 万元。作为腾势品牌在中大型纯电轿车市场布局的重磅产品，腾势 Z9S 以 1100 公里纯电续航、第二代刀片电池、易三方技术平台为核心卖点，重构豪华新能源轿车的价值标尺。外观方面，腾势 Z9S 采用优雅之势原创设计，拥有流星定格前脸 + 流星尾迹车尾，提供七款外观色、三款内饰色。新车内饰还配备后排宽奢豪华大扶手 + 前排双零重力座椅 + Nappa 真皮座椅 + 奢享豪华后排座椅。新车车身尺寸为 5090/1980/1490mm，轴距 3025mm，定位准 D 级。车内配备前排" data-title="25.58 万元起、最高 1100km 纯电续航，比亚迪腾势 Z9S 正式上市" data-date="09-23 20:34" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-23 20:34</span>
+          <span class="news-item-title">25.58 万元起、最高 1100km 纯电续航，比亚迪腾势 Z9S 正式上市</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/006/251.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 23 日消息，奇瑞汽车微博官方账号今日发布了关于公司高管职务调整的公告。全面全球化发展是奇瑞矢志不渝的战略目标。为深入推进奇瑞汽车全球化 3.0 战略，强化奇瑞体系协同和资源赋能，经公司研究决定：张国忠调任奇瑞控股集团有限公司常务副总裁；张贵兵担任奇瑞汽车股份有限公司常务副总裁。奇瑞将坚持品牌向上，加快推进电动化、智能化和经营管理卓越化，持续为全球用户、合作伙伴和投资者创造价值。IT之家查询获悉，张国忠自 1997 年加入奇瑞集团，历任多个重要管理岗位，牵头构建了“奇瑞、星途、捷途、iCAR、智界”品牌矩阵。张贵兵则长期深耕海外市场，并参与了涵盖研发、生产和服务的国际化业务体系的构建，在负责奇瑞海外业务的同时，也负责墨甲机器人业务。延伸阅读奇瑞控股集团有限公司是奇瑞汽车股份" data-title="推进全球化 3.0 战略：奇瑞高管职务调整，原海外负责人张贵兵担任奇瑞汽车股份有限公司常务副总裁" data-date="09-23 14:49" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -311,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-23 14:51（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-23 20:54（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
