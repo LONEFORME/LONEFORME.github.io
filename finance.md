@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,892.30</span>
-      <span class="ticker-change down">▼ -1.12%</span>
+      <span class="ticker-price ticker-down">3,888.37</span>
+      <span class="ticker-change down">▼ -1.22%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,327.98</span>
-      <span class="ticker-change down">▼ -2.26%</span>
+      <span class="ticker-price ticker-down">13,316.97</span>
+      <span class="ticker-change down">▼ -2.34%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,293.45</span>
-      <span class="ticker-change down">▼ -2.55%</span>
+      <span class="ticker-price ticker-down">3,288.95</span>
+      <span class="ticker-change down">▼ -2.68%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,624.58</span>
-      <span class="ticker-change down">▼ -2.18%</span>
+      <span class="ticker-price ticker-down">1,621.87</span>
+      <span class="ticker-change down">▼ -2.35%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,7 +86,7 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,361.55</span>
+      <span class="ticker-price ticker-down">4,361.63</span>
       <span class="ticker-change down">▼ -0.40%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7136</span>
+      <span class="ticker-price ticker-up">6.7144</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,274.67 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -12.61 (-0.29%)</span>
+      <span class="ticker-price ticker-down">$4,275.27 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -12.01 (-0.28%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥924.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -9.40 (-1.01%)</span>
+      <span class="ticker-price ticker-down">¥926.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -7.30 (-0.78%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10703363.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口9月24日电 (记者 张茜翼)23次发射任务圆满完成；长征十号乙运载火箭实现全球首次网系回收；火箭链、卫星链、数据链产业体系生态形成……海南商业航天向上生长的同时，正把“质量”嵌入产业链肌理。" data-title="海南商业航天“质量强链”提速" data-date="09-24 20:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-24 20:39</span>
+          <span class="news-item-title">海南商业航天“质量强链”提速</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/006/995.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，据彭博社今天（24 日）晚间报道，新加坡主要金融机构承诺，将为超过 8 万名本地员工培训 AI 技能，以降低 AI 可能冲击白领岗位所带来的就业风险。新加坡副总理兼新加坡金融管理局主席颜金勇称，首批参与计划的 23 家银行、保险公司和资产管理公司已作出承诺，在 2028 年前完成所有新加坡员工的培训，其中过半的员工已经参加获行业协会认可的培训项目。“我们希望 AI 能为新加坡人带来更好的职业发展，并打造生产效率更高的劳动力队伍。”这些机构还将研究各类岗位正在发生的变化，并尝试不同的培训和岗位重新设计方案，首批涵盖管理人员、财富管理人员和运营人员等岗位。金融业约占新加坡经济的 14%，从业专业人员约有 20 万，是当地的关键产业。此次计划延续了一年前启动的行动，" data-title="新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险" data-date="09-24 20:19" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-24 20:19</span>
+          <span class="news-item-title">新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/006/991.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，央视新闻今天（24 日）从中国贸促会汽车行业分会获悉，2027 年北京将新增一场“北京国际新质汽车及未来智慧出行展览会”，这是北京国际车展在单数年的延续，以专业主题展的形式展示。据介绍，以往北京国际车展是以双数年为举办时间，明年举办的这场车展是首次在单数年举办，时间为 2027 年 3 月 27 日至 4 月 5 日，重点将展览“展示的边界向产业制造端及未来前沿领域双向延伸”，包括全球汽车新技术变革浪潮中的新技术新产品以及智慧出行的全新生态，涵盖汽车制造工程、智能生产线、智慧出行工具、前沿技术、配套服务体系等全维度展示。中国贸促会汽车行业分会相关负责人表示，2026 年北京国际汽车展览会国内外上千家企业参展，观众 128 万人次，核心指标刷新全球车展历史纪录。" data-title="中国贸促会汽车行业分会：明年北京将新增一场国际车展，形式为专业主题展" data-date="09-24 19:48" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-24 19:48</span>
+          <span class="news-item-title">中国贸促会汽车行业分会：明年北京将新增一场国际车展，形式为专业主题展</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-24/10703328.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月24日电 北京时间9月24日，美国企业家埃隆·马斯克的母亲梅耶·马斯克在社交媒体X上转发了儿子马斯克接受采访的视频，并称赞中国“干净又安全”。" data-title="马斯克母亲最新发文：“我喜欢去中国，那里干净安全”" data-date="09-24 19:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-24 19:47</span>
+          <span class="news-item-title">马斯克母亲最新发文：“我喜欢去中国，那里干净安全”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-24/10703268.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社柏林9月24日电 (记者 马秀秀)德国五大主要经济研究机构24日发布秋季联合经济预测，预计2026年德国国内生产总值将增长1.3%，较今年春季预测的0.6%大幅上调。" data-title="研究机构大幅上调今年德国经济增长预期" data-date="09-24 19:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-24 19:41</span>
+          <span class="news-item-title">研究机构大幅上调今年德国经济增长预期</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="一家莫斯科公司使用空壳公司和加密货币来洗钱，并使用自定义应用程序来伪造贸易记录，以帮助俄罗斯绕过全面的金融限制。" data-title="俄罗斯规避西方制裁的全球努力背后的“怪物”" data-date="09-24 17:00" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-24 17:00</span>
+          <span class="news-item-title">俄罗斯规避西方制裁的全球努力背后的“怪物”</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/006/789.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日现身合肥鸿蒙智行门店。博主 @电车总裁 分享了余承东在现场的发言视频。据余承东透露，尊界的大型超豪华 SUV 将在明年初上市，并且明年智界、享界、尚界都会有更多更有竞争力的产品。尊界 SUV 测试车的谍照已被多次曝光。最新谍照显示，这款新车将配备尊界 V800 同款尾灯。此前的谍照显示，尊界 SUV 还有另一款尾灯。因此，尊界 SUV 有望提供双尾灯版本选配。另外，该车的前脸部分预计会延续家族式分体大灯设计，并提供传统后视镜方案可选。目前尚不知晓尊界 SUV 是否也会沿用 MPV 的车头大 LOGO 设计。据IT之家了解，2026 年是尊界品牌产品大年，6 月底尊界推出了 200 万元级旗舰车型" data-title="华为余承东“剧透”鸿蒙智行尊界大型超豪华 SUV 明年初上市" data-date="09-24 14:52" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -286,12 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-24 06:09</span>
           <span class="news-item-title">特朗普欢迎习近平，更多美国人对中国持正面看法</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-23/10702619.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社约翰内斯堡9月23日电 (记者 孙翔)南非统计局23日公布数据显示，南非8月消费者价格指数(CPI)同比上涨4.4%，较7月的4.3%小幅回升，略低于市场预期。" data-title="南非8月CPI升至4.4%" data-date="09-23 22:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-23 22:27</span>
-          <span class="news-item-title">南非8月CPI升至4.4%</span>
-        </a>
   </div>
 </div>
 
@@ -305,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-24 14:51（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-24 20:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

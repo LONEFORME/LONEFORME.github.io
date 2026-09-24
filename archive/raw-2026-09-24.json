@@ -1738,5 +1738,515 @@
     "feed_name": "纽约时报",
     "summary": "Balendra Shah, 36, comes to the U.N. as a sun-glassed symbol of Gen Z political power. But concerns about his style are growing at home after devastating floods left thousands dead or missing.",
     "published_dt_iso": "2026-09-24T12:01:05+08:00"
+  },
+  {
+    "title": "Newegg的3项游戏组合可节省$ 149",
+    "link": "https://www.tomshardware.com/pc-components/save-usd149-on-this-3-item-gaming-combo-from-newegg-usd1-050-buys-a-ryzen-7-9800x3d-32gb-of-corsair-ddr5-ram-asus-tuf-gaming-x870e-plus-motherboard-and-a-free-240mm-aio-and-amd-game-bundle",
+    "date": "2026-09-24",
+    "published_time": "20:45",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这款3件套Newegg组合配备Ryzen 7 9800X3D、32GB Corsair Vengeance RAM和华硕TUF X870E主板，只需$ 1,050 ，即可节省$ 149",
+    "published_dt_iso": "2026-09-24T20:45:00+08:00"
+  },
+  {
+    "title": "美光不再推出用于游戏GPU的2GB GDDR7芯片，因为它正在转向用于AI的更高密度内存",
+    "link": "https://www.tomshardware.com/pc-components/ram/micron-discontinues-2gb-gddr7-chips-for-gaming-gpus-as-it-pivots-toward-higher-density-memory-for-ai-chipmaker-reportedly-pivots-to-high-margin-3gb-silicon-for-ai-gpus",
+    "date": "2026-09-24",
+    "published_time": "20:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "据报道，美光即将结束2GB GDDR7芯片的生产，将注意力转向更高密度的3GB部件，这些部件用于更赚钱的专业和专注于人工智能的GPU。",
+    "published_dt_iso": "2026-09-24T20:30:00+08:00"
+  },
+  {
+    "title": "ASML表示， 2026年在欧洲“绝对没有”销售",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+    "date": "2026-09-24",
+    "published_time": "20:10",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "ASML呼吁欧盟当局帮助创造对欧洲芯片的需求，因为欧洲在其收入中的份额在2026年降至0%。",
+    "published_dt_iso": "2026-09-24T20:10:00+08:00"
+  },
+  {
+    "title": "Lucky 3D艺术家在二手市场为Jensen Huang签名的RTX 5090评分，价值高达$ 15,000",
+    "link": "https://www.tomshardware.com/pc-components/gpus/lucky-3d-artist-scores-jensen-huang-signed-rtx-5090-from-used-marketplace-unused-asus-rog-astra-white-oc-expected-to-fetch-usd10-000-to-usd15-000-at-auction",
+    "date": "2026-09-24",
+    "published_time": "19:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "一位想要建造新工作站的3D艺术家从二手市场购买了这款RTX 5090 ，并期待华硕高管亲笔签名。但是当他们打开GPU的盒子时，他们惊讶地发现它实际上是由Jensen Huang本人亲笔签名的。",
+    "published_dt_iso": "2026-09-24T19:50:00+08:00"
+  },
+  {
+    "title": "中国窃取了通过香港转移的机密F-35隐形战斗机零部件",
+    "link": "https://www.tomshardware.com/tech-industry/china-swiped-f-35-stealth-fighter-parts-that-were-diverted-through-hong-kong-rerouted-ups-cargo-triggers-military-investigation-stealth-coating-recipe-feared-compromised-despite-pentagon-downplaying-mishap",
+    "date": "2026-09-24",
+    "published_time": "19:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "据报道，自由世界最先进的战斗机之一的零部件现在掌握在中国人手中。",
+    "published_dt_iso": "2026-09-24T19:40:00+08:00"
+  },
+  {
+    "title": "全新无线Wi-Fi 7外置显卡盒内置4TB固态硬盘，支持本地AI",
+    "link": "https://www.tomshardware.com/pc-components/gpus/wici-one-unveils-wireless-wi-fi-7-egpu-with-built-in-4tb-ssd-for-local-ai-usd1-999-box-leverages-wifi-7-to-present-a-remote-card-as-local",
+    "date": "2026-09-24",
+    "published_time": "19:25",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "带板载存储的WiCi无线外部GPU可通过WiFi 7将AI工作负载覆盖到本地机器。",
+    "published_dt_iso": "2026-09-24T19:25:00+08:00"
+  },
+  {
+    "title": "中国终极游戏GPU突破性能壁垒",
+    "link": "https://www.tomshardware.com/pc-components/gpus/chinas-ultimate-gaming-gpu-hits-a-performance-wall-lx-7g100-barely-crawls-past-amds-nine-year-old-rx-580",
+    "date": "2026-09-24",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Lisuan Tech LX 7G100的最新评论显示性能与AMD的Radeon RX 580相当，但落后于GeForce RTX 2060。",
+    "published_dt_iso": "2026-09-24T19:00:00+08:00"
+  },
+  {
+    "title": "不列颠哥伦比亚省起诉OpenAI和Sam Altman “协助和教唆”校园枪手",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/british-columbia-sues-openai-to-pay-for-new-school-after-tumbler-ridge-shooting-lawsuit-says-openai-identified-shooters-chatgpt-account-eight-months-prior-but-didnt-warn-police",
+    "date": "2026-09-24",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "不列颠哥伦比亚省要求赔偿，因为它说OpenAI的评论员想在袭击前就Tumbler Ridge枪击事件报警。",
+    "published_dt_iso": "2026-09-24T18:30:00+08:00"
+  },
+  {
+    "title": "有一种打破RSA的新方法，比我们以前见过的任何方法都要快",
+    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-24",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "到目前为止，密码学家认为保理是破坏RSA的唯一方法。现在不是了。",
+    "published_dt_iso": "2026-09-24T19:15:44+08:00"
+  },
+  {
+    "title": "控制共振变得很难，但它为您提供了处理它的工具",
+    "link": "https://www.theverge.com/games/999464/control-resonant-assist-mode",
+    "date": "2026-09-24",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Control Resonant不是一款简单的游戏。在任何特定时刻，在探索广阔的开阔区域时，有时您会从一面墙跳到另一面墙再跳到天花板，您可能会被成群的超凡脱俗的敌人包围，试图将您压碎在地上。这可能很多，特别是当敌人有时需要很长时间才能[…]",
+    "published_dt_iso": "2026-09-24T20:00:00+08:00"
+  },
+  {
+    "title": "OpenAI特工入侵澳大利亚政府网站搜索数据",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+    "date": "2026-09-24",
+    "published_time": "19:52",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "OpenAI的人工智能特工入侵了澳大利亚政府网站，并试图入侵许多其他政府和大学网站。这次攻击似乎是首次被证实的流氓人工智能特工入侵政府网站的事件，加剧了人们对先进人工智能系统安全性和[…]责任的担忧。",
+    "published_dt_iso": "2026-09-24T19:52:32+08:00"
+  },
+  {
+    "title": "谷歌DeepMind新任首席执行官表示， Gemini 4即将准备就绪",
+    "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "date": "2026-09-24",
+    "published_time": "17:04",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "据报道，谷歌即将推出期待已久的Gemini 4型号，此前在旗舰人工智能版本上落后于竞争对手开发商。Koray Kavukcuoglu在作为谷歌DeepMind部门负责人的首次媒体亮相期间接受The Information采访时表示， Gemini 4目前正处于完善阶段，该公司正在[…]",
+    "published_dt_iso": "2026-09-24T17:04:18+08:00"
+  },
+  {
+    "title": "GPT-6之后，具身智能走向何方？诺因发布GLOW技术报告，给出机器人“一教就会”的答案",
+    "link": "https://www.qbitai.com/2026/09/496816.html",
+    "date": "2026-09-24",
+    "published_time": "16:20",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "人类演示一次，机器人即可实现跨场景任务复用",
+    "published_dt_iso": "2026-09-24T16:20:12+08:00"
+  },
+  {
+    "title": "苹果 iPhone 4“天线门”发布会完整问答视频流出，乔布斯、库克现场答记者问",
+    "link": "https://www.ithome.com/1/007/002.htm",
+    "date": "2026-09-24",
+    "published_time": "20:51",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，一段时长 47 分钟的苹果 2010 年 iPhone 4“天线门”新闻发布会问答环节视频近日出现在 YouTube 上。视频记录了时任苹果 CEO 史蒂夫 · 乔布斯（Steve Jobs）、蒂姆 · 库克（Tim Cook）以及鲍勃 · 曼斯菲尔德（Bob Mansfield）回答媒体记者提问的完整过程。据IT之家了解，苹果于 2010 年 7 月 16 日召开了这场新闻发布会。当时，部分用户反映，以特定方式握持 iPhone 4 可能导致手机蜂窝网络信号减弱，因此苹果决定对此作出回应。在发布会的预先准备演讲中，乔布斯宣布，符合条件的 iPhone 4 用户可以免费获得保护套，同时苹果还提供 30 天退货选项。苹果后来公开了这部分演讲的视频，但没有发布问答",
+    "published_dt_iso": "2026-09-24T20:51:05+08:00"
+  },
+  {
+    "title": "Meta 承认 Muse 产品设计深受 OpenClaw 启发，但强调从零构建",
+    "link": "https://www.ithome.com/1/006/996.htm",
+    "date": "2026-09-24",
+    "published_time": "20:31",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，Meta 旗下 Muse 的早期用户一直在猜测，这款 AI 之所以表现出色，是不是因为其底层实际上采用了 OpenClaw，只是在此基础上套了一层更加面向普通消费者的产品包装。如今，Meta 方面表示，这种说法并非完全没有依据。IT之家注意到，Meta 超级智能实验室（MSL）产品负责人纳特 · 弗里德曼（Nat Friedman）在社交平台 X 上发文称，Muse“在产品层面确实深受 OpenClaw 启发”。不过，他同时澄清，Muse 本身是“从零开始构建的”。弗里德曼曾担任 GitHub CEO，去年与 Meta 首席 AI 官亚历山大 · 王（Alexandr Wang）一同加入了 Meta。他表示，Meta 团队非常喜欢使用 OpenClaw，因此希",
+    "published_dt_iso": "2026-09-24T20:31:19+08:00"
+  },
+  {
+    "title": "新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险",
+    "link": "https://www.ithome.com/1/006/995.htm",
+    "date": "2026-09-24",
+    "published_time": "20:19",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，据彭博社今天（24 日）晚间报道，新加坡主要金融机构承诺，将为超过 8 万名本地员工培训 AI 技能，以降低 AI 可能冲击白领岗位所带来的就业风险。新加坡副总理兼新加坡金融管理局主席颜金勇称，首批参与计划的 23 家银行、保险公司和资产管理公司已作出承诺，在 2028 年前完成所有新加坡员工的培训，其中过半的员工已经参加获行业协会认可的培训项目。“我们希望 AI 能为新加坡人带来更好的职业发展，并打造生产效率更高的劳动力队伍。”这些机构还将研究各类岗位正在发生的变化，并尝试不同的培训和岗位重新设计方案，首批涵盖管理人员、财富管理人员和运营人员等岗位。金融业约占新加坡经济的 14%，从业专业人员约有 20 万，是当地的关键产业。此次计划延续了一年前启动的行动，",
+    "published_dt_iso": "2026-09-24T20:19:32+08:00"
+  },
+  {
+    "title": "制造商 CRKD 推出 29.99 美元 Atom+ 迷你手柄：能挂在钥匙扣上，但有完整按键配置",
+    "link": "https://www.ithome.com/1/006/993.htm",
+    "date": "2026-09-24",
+    "published_time": "20:06",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，当地时间 23 日，据外媒 VGC 报道，以任天堂 Switch 游戏配件 Nitro Deck 闻名的外设厂商 CRKD 推出了新款 Atom+ 手柄。该产品主打极小体积，方便玩家出门时随身携带。Atom+ 可以直接挂在钥匙扣上，并支持蓝牙，可无线连接任天堂 Switch / Switch 2、PC、手机、平板电脑和智能电视。Atom+ 仍保留了完整的按键配置，提供两个摇杆和四个肩键。扳机键采用数字输入，设计与任天堂 Switch Pro 手柄相同。两个摇杆均采用 TMR（隧道磁阻）技术。TMR 属于磁传感技术，设计功耗低于霍尔摇杆，同时可以避免机械摇杆偶尔出现的摇杆漂移。Atom+ 内置可充电电池，通过 USB-C 充电，还随附腕带。不使用时，玩家可以把手",
+    "published_dt_iso": "2026-09-24T20:06:01+08:00"
+  },
+  {
+    "title": "中国贸促会汽车行业分会：明年北京将新增一场国际车展，形式为专业主题展",
+    "link": "https://www.ithome.com/1/006/991.htm",
+    "date": "2026-09-24",
+    "published_time": "19:48",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，央视新闻今天（24 日）从中国贸促会汽车行业分会获悉，2027 年北京将新增一场“北京国际新质汽车及未来智慧出行展览会”，这是北京国际车展在单数年的延续，以专业主题展的形式展示。据介绍，以往北京国际车展是以双数年为举办时间，明年举办的这场车展是首次在单数年举办，时间为 2027 年 3 月 27 日至 4 月 5 日，重点将展览“展示的边界向产业制造端及未来前沿领域双向延伸”，包括全球汽车新技术变革浪潮中的新技术新产品以及智慧出行的全新生态，涵盖汽车制造工程、智能生产线、智慧出行工具、前沿技术、配套服务体系等全维度展示。中国贸促会汽车行业分会相关负责人表示，2026 年北京国际汽车展览会国内外上千家企业参展，观众 128 万人次，核心指标刷新全球车展历史纪录。",
+    "published_dt_iso": "2026-09-24T19:48:41+08:00"
+  },
+  {
+    "title": "摩尔线程官宣：MTT S5000 适配字节跳动 Protenix",
+    "link": "https://www.ithome.com/1/006/989.htm",
+    "date": "2026-09-24",
+    "published_time": "19:41",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，摩尔线程今天宣布，旗下训推一体智算卡 MTT S5000 正式完成了开源生物分子结构预测模型 Protenix-v2 的全链路推理支持。据IT之家了解，Protenix-v2 开源模型由字节跳动 Seed 团队研发，发布于 2026 年 4 月，在多项核心基准测试中性能持平甚至超越 DeepMind AlphaFold 3，是目前全球少数能够对蛋白质、DNA、RNA 及小分子配体复合物进行高精度端到端预测的开源基座。MTT S5000 此次适配，标志着摩尔线程实现了大分子结构预测、全基因组序列建模与临床医学影像三大 AI for Science（AI4S）核心场景的端到端工程验证，为国内药企及科研机构提供 AI4S 算力底座。",
+    "published_dt_iso": "2026-09-24T19:41:26+08:00"
+  },
+  {
+    "title": "高通宣布与苹果续签全球专利许可协议，2027 年 4 月 1 日起生效",
+    "link": "https://www.ithome.com/1/006/988.htm",
+    "date": "2026-09-24",
+    "published_time": "19:41",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，高通公司今日宣布，已与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。高通技术许可业务（QTL）执行副总裁兼总经理约翰 · 韩（John Han）表示：“我们很高兴能够延长与苹果的许可协议。”据IT之家了解，高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。延伸阅读高通与苹果之间曾经历漫长的专利诉讼。2017 年，苹果在美国、爱尔兰、中国等地起诉高通，指控其按整机售价收取专利费的做法违反 FRAND（公平、合理、非歧视）原则；2019 年 4 月 16 日，两家公司宣布在全球范围内撤",
+    "published_dt_iso": "2026-09-24T19:41:00+08:00"
+  },
+  {
+    "title": "研究警示：美国 AI 基建投入规模空前，潜藏系统性金融风险",
+    "link": "https://www.ithome.com/1/006/987.htm",
+    "date": "2026-09-24",
+    "published_time": "19:26",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，据路透社报道，一项最新研究显示，美国人工智能基础设施建设对经济产出的消耗，可能超过电力、铁路、州际高速公路以及互联网等历史上大型基础设施建设项目，而且围绕 AI 产业形成的融资结构正变得越来越复杂，可能带来系统性金融风险。哥伦比亚大学商学院金融与房地产学教授斯泰恩 · 范 · 纽文伯格（Stijn Van Nieuwerburgh）在为本周布鲁金斯学会（Brookings Institution）一场会议准备的论文中写道，最初由亚马逊、Meta 以及 Alphabet 旗下谷歌等公司利用自身积累的现金进行的 AI 投资，如今已经演变成一项大规模扩张计划。预计到 2032 年，美国每年将有约 3.6% 的国内生产总值（GDP）投入这一领域，累计规模超过 10 万",
+    "published_dt_iso": "2026-09-24T19:26:14+08:00"
+  },
+  {
+    "title": "曼城如何彻底改造他们的球队，从65万",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "17:31",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育频道进入曼城的数据团队，该团队在过去18个月中一直是其重建工作的关键部分。",
+    "published_dt_iso": "2026-09-24T17:31:22+08:00"
+  },
+  {
+    "title": "阿森纳被发现了吗？布莱顿沮丧之后的三大问题",
+    "link": "https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions",
+    "date": "2026-09-24",
+    "published_time": "18:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "本周，我们将围绕英超联赛周末最令人惊讶的结果深入探讨重大问题。在上个周末之前，阿森纳自4月以来没有在英超联赛中输过。连续九场联赛的胜利足以在上赛季结束时加冕枪手为冠军，并坚定地确立他们为本赛季初击败的球队。尽管如此，周六再次击败布莱顿，要击败的球队被击败了。彻底。继续rea",
+    "published_dt_iso": "2026-09-24T18:00:14+08:00"
+  },
+  {
+    "title": "海南商业航天“质量强链”提速",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703363.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网海口9月24日电 (记者 张茜翼)23次发射任务圆满完成；长征十号乙运载火箭实现全球首次网系回收；火箭链、卫星链、数据链产业体系生态形成……海南商业航天向上生长的同时，正把“质量”嵌入产业链肌理。",
+    "published_dt_iso": "2026-09-24T20:39:49+08:00"
+  },
+  {
+    "title": "山东“三秋”生产进入关键期 多措并举确保秋粮丰产丰收",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703359.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网济南9月24日电(记者孙婷婷)当前正值秋粮灌浆增重、产量定型的关键期，也是谋划小麦秋种、夯实来年夏粮丰收基础的重要时期。山东省农业农村厅副厅长王敬东24日在该省“三秋”生产技术和服务情况新闻发布会上介绍说，该省将千方百计确保小麦播种面积稳定在6000万亩以上，重点抓好精细施策保质量、“四良”融合提单产、农技服务提质效，努力建设更高水平“齐鲁粮仓”。",
+    "published_dt_iso": "2026-09-24T20:38:51+08:00"
+  },
+  {
+    "title": "（台湾写真）探访台东凤梨释迦产销链",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703351.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社台湾台东9月24日电 题：探访台东凤梨释迦产销链",
+    "published_dt_iso": "2026-09-24T20:37:35+08:00"
+  },
+  {
+    "title": "中秋、国庆假期中国跨区域人员流动量料达27.8亿人次",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703312.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月24日电 (记者 刘文文)中秋、国庆双节假期(9月25日-27日，10月1日-7日)，预计中国跨区域人员流动量将达27.8亿人次。",
+    "published_dt_iso": "2026-09-24T20:11:28+08:00"
+  },
+  {
+    "title": "三代人坚守“蚊虫王国”，新疆兵团讲解员：“因为这里的每一寸土地，都是中国的！”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703337.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "近日，新疆生产建设兵团第十师185团讲解员侯全凤讲述兵团人为何在“蚊虫王国”坚守的视频感动全网。视频里，身着防蚊面罩的戍边人直面漫天小咬，一句句质朴的守边心声打动着无数网友。",
+    "published_dt_iso": "2026-09-24T20:06:18+08:00"
+  },
+  {
+    "title": "中国国防部：敦促日方停止在南海问题上搬弄是非",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703301.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月24日电 (记者 李纯)中国国防部24日举行例行记者会，新闻发言人蒋斌表示，敦促日方停止在南海问题上搬弄是非，停止破坏南海和平稳定。",
+    "published_dt_iso": "2026-09-24T20:06:10+08:00"
+  },
+  {
+    "title": "第二届中越海警党政工作交流活动在广东成功举办",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703300.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网广州9月24日电 (方伟彬 李典 李昂 匡雷)9月20日至24日，中国海警局与越南海警司令部代表团在广州共同举办第二届中越海警党政工作交流活动，中方代表团团长王小兵、越方代表团团长陈文厚一同主持启动仪式，双方党务工作、政治工作、国际合作等相关人员参加活动。",
+    "published_dt_iso": "2026-09-24T20:06:04+08:00"
+  },
+  {
+    "title": "铁路单日售票量再创历史新高",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10703326.shtml",
+    "date": "2026-09-24",
+    "published_time": "19:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月24日电(记者 李京统)记者从中国国家铁路集团有限公司(下称“国铁集团”)获悉，9月23日，铁路售票量达到2973.7万张，再创单日售票量历史新高。9月9日至23日，铁路已累计发售车票3.04亿张。",
+    "published_dt_iso": "2026-09-24T19:56:53+08:00"
+  },
+  {
+    "title": "马斯克母亲最新发文：“我喜欢去中国，那里干净安全”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10703328.shtml",
+    "date": "2026-09-24",
+    "published_time": "19:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月24日电 北京时间9月24日，美国企业家埃隆·马斯克的母亲梅耶·马斯克在社交媒体X上转发了儿子马斯克接受采访的视频，并称赞中国“干净又安全”。",
+    "published_dt_iso": "2026-09-24T19:47:14+08:00"
+  },
+  {
+    "title": "第八届中国",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10703273.shtml",
+    "date": "2026-09-24",
+    "published_time": "19:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网布鲁塞尔9月24日电 第八届中国—欧盟电影节23日在比利时首都布鲁塞尔拉开帷幕，《日挂中天》《陪你到清晨》《二十四味》等多部影片将与欧洲观众见面，呈现当代中国电影的多元创作。",
+    "published_dt_iso": "2026-09-24T19:42:16+08:00"
+  },
+  {
+    "title": "巴基斯坦宣布对阿富汗10个地点实施打击",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10703271.shtml",
+    "date": "2026-09-24",
+    "published_time": "19:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月24日电 综合消息：巴基斯坦官方24日宣布，对阿富汗10个地点实施空中打击，以回应从阿富汗领土起飞的无人机非法入侵巴基斯坦。",
+    "published_dt_iso": "2026-09-24T19:41:56+08:00"
+  },
+  {
+    "title": "研究机构大幅上调今年德国经济增长预期",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10703268.shtml",
+    "date": "2026-09-24",
+    "published_time": "19:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社柏林9月24日电 (记者 马秀秀)德国五大主要经济研究机构24日发布秋季联合经济预测，预计2026年德国国内生产总值将增长1.3%，较今年春季预测的0.6%大幅上调。",
+    "published_dt_iso": "2026-09-24T19:41:24+08:00"
+  },
+  {
+    "title": "乌克兰称基辅遭导弹袭击致2死6伤",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10703012.shtml",
+    "date": "2026-09-24",
+    "published_time": "19:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月24日电 据乌克兰国家通讯社报道，乌克兰首都基辅当地时间24日凌晨遭俄罗斯导弹袭击，造成2人死亡、6人受伤。",
+    "published_dt_iso": "2026-09-24T19:40:56+08:00"
+  },
+  {
+    "title": "成都：外国留学生街巷“寻诗中秋” 共话“千里婵娟”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703381.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网成都9月24日电 (杨予𬱖)“‘天涯共明月’里这个‘涯’是什么意思？这句诗也是和中秋相关的吗？”24日下午，在四川成都桐梓林社区的一家商铺内，21岁的尼泊尔留学生国王拿着刚刚找到的诗句书签，向身旁的店员询问。",
+    "published_dt_iso": "2026-09-24T20:48:30+08:00"
+  },
+  {
+    "title": "中秋前夕，他们为钢轨焊缝做“B超”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703374.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:46",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网佛山9月24日电 题：中秋前夕，他们为钢轨焊缝做“B超”",
+    "published_dt_iso": "2026-09-24T20:46:40+08:00"
+  },
+  {
+    "title": "北京中秋国庆推出近千项促消费活动",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703368.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月24日电 (记者 吕少威)记者24日从北京市商务局获悉，2026年中秋、国庆双节将至，北京市以“京彩知秋”为主线，统筹全市文商旅体展等资源，聚焦首展首秀、灯光夜游、国风非遗、美食市集、体育亲子、惠民补贴等重点领域，推出近千项促消费活动。",
+    "published_dt_iso": "2026-09-24T20:45:06+08:00"
+  },
+  {
+    "title": "从工地少年到世赛美发金牌得主 田飞鸿以技逐梦",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703365.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月24日电 题：从工地少年到世赛美发金牌得主 田飞鸿以技逐梦",
+    "published_dt_iso": "2026-09-24T20:43:20+08:00"
+  },
+  {
+    "title": "铁路单日售票量再创历史新高 9月23日售票2973.7万张",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703330.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月24日电 据“中国铁路”微信公众号消息，9月23日，铁路售票量达到2973.7万张，再创单日售票量历史新高。9月9日至23日，铁路已累计发售车票3.04亿张。9月24日，铁路部门开始发售10月8日火车票，10月3日至5日大部分方向余票充足。",
+    "published_dt_iso": "2026-09-24T20:39:13+08:00"
+  },
+  {
+    "title": "湖南举办社科普及讲解员大赛 培育文化传播生力军",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703360.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网长沙9月24日电(杜小针)你可曾听过湖南浏阳籍红军团长赵雄埋骨贵州，一场跨越九十载忠魂归乡的感人往事？是否见过西晋青瓷对书俑上，沉淀一千七百年的校勘匠心？是否了解钟掘院士矢志科技报国、为国铸造大国重器的家国情怀？24日，“社科逐梦”2026年湖南省社科普及讲解员大赛总决赛在湖南信息学院塘湾湖大剧院开赛。",
+    "published_dt_iso": "2026-09-24T20:38:59+08:00"
+  },
+  {
+    "title": "宁夏深化“星空+”融合 擦亮“星星的故乡”IP",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703352.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月24日电 (记者 于晶)24日，记者从宁夏回族自治区文化和旅游厅获悉第四届宁夏星空旅游季系列活动开幕式暨星空旅游产品发布会举办后，星空旅游资源交流对接会、“星空+”旅游线路实地踩线等配套活动接续落地，“我的第一张人生银河照”全民星空摄影计划、星空旅游促进计划、首期“西北星空走廊”四省联票线路同步启动。系列活动贯穿中秋、国庆假期，深化跨区域文旅联动，推进旅游资源对接，推动“星空+”多业态融合创新，激活宁夏“星星的故乡”文旅IP。",
+    "published_dt_iso": "2026-09-24T20:37:43+08:00"
+  },
+  {
+    "title": "江门海关完成首批纯血马进境隔离检疫",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10703346.shtml",
+    "date": "2026-09-24",
+    "published_time": "20:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网江门9月24日电 (郭军 罗雨昕)9月24日，51匹来自澳大利亚的纯血马在广东鹤山苏萨马业进境马隔离检疫场顺利完成为期30天的隔离检疫，这是江门海关首次开展进境马匹隔离检疫业务。",
+    "published_dt_iso": "2026-09-24T20:32:39+08:00"
+  },
+  {
+    "title": "特朗普为何亲赴机场，超规格接待习近平？",
+    "link": "https://www.bbc.com/zhongwen/articles/cmkgw6r62jr7o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "18:20",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "这是习近平时隔11年再次国事访问美国。更是相隔64年，再有美国总统亲自迎接他国元首到访。有学者向BBC中文分析特朗普的举动，既是在与中方“做生意打交道”；也是在向美国民众展示自己的能力。",
+    "published_dt_iso": "2026-09-24T18:20:23+08:00"
+  },
+  {
+    "title": "俄罗斯规避西方制裁的全球努力背后的“怪物”",
+    "link": "https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html",
+    "date": "2026-09-24",
+    "published_time": "17:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "一家莫斯科公司使用空壳公司和加密货币来洗钱，并使用自定义应用程序来伪造贸易记录，以帮助俄罗斯绕过全面的金融限制。",
+    "published_dt_iso": "2026-09-24T17:00:15+08:00"
+  },
+  {
+    "title": "欧洲警告俄罗斯的混合攻击，但努力反击",
+    "link": "https://www.nytimes.com/2026/09/24/world/europe/russia-europe-warning-ukraine-war.html",
+    "date": "2026-09-24",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "如果弗拉基米尔· V ·普京总统希望引起欧洲人的注意，他已经成功地进行了一系列近距离通话入侵。现在的问题是他们会怎么做。",
+    "published_dt_iso": "2026-09-24T17:02:18+08:00"
+  },
+  {
+    "title": "法官阻止特朗普对记者的禁令，以及人工智能如何推高医疗保健成本",
+    "link": "https://www.nytimes.com/2026/09/24/podcasts/the-headlines/trump-ban-press-ai-health-care-costs.html",
+    "date": "2026-09-24",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "再加上美国河流的畅通无阻。",
+    "published_dt_iso": "2026-09-24T18:00:57+08:00"
+  },
+  {
+    "title": "在国内陷入困境，一个好战的内塔尼亚胡前往联合国",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
+    "date": "2026-09-24",
+    "published_time": "20:16",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）将在关键的全国大选中为自己的政治未来而战，同时走上世界舞台。",
+    "published_dt_iso": "2026-09-24T20:16:26+08:00"
+  },
+  {
+    "title": "当联合国抗议者谴责内塔尼亚胡时，马姆达尼不会参与其中",
+    "link": "https://www.nytimes.com/2026/09/24/nyregion/mamdani-netanyahu-un-general-assembly.html",
+    "date": "2026-09-24",
+    "published_time": "20:17",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "纽约市长Zohran Mamdani继续称以色列总理为战争罪犯。但马姆达尼周四不会参加反对总理的示威活动。",
+    "published_dt_iso": "2026-09-24T20:17:13+08:00"
+  },
+  {
+    "title": "‘Survival Mode Time’: Republicans Accelerate Their Break With Trump",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-republicans-midterms-break.html",
+    "date": "2026-09-24",
+    "published_time": "20:46",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The dissent reflects growing unease about the party’s prospects in November, as the G.O.P. struggles to overcome the president’s unpopularity.",
+    "published_dt_iso": "2026-09-24T20:46:21+08:00"
   }
 ]
