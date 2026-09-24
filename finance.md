@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,936.52</span>
-      <span class="ticker-change down">▼ -0.39%</span>
+      <span class="ticker-price ticker-down">3,892.30</span>
+      <span class="ticker-change down">▼ -1.12%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,636.07</span>
-      <span class="ticker-change down">▼ -0.64%</span>
+      <span class="ticker-price ticker-down">13,327.98</span>
+      <span class="ticker-change down">▼ -2.26%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,379.61</span>
-      <span class="ticker-change down">▼ -0.60%</span>
+      <span class="ticker-price ticker-down">3,293.45</span>
+      <span class="ticker-change down">▼ -2.55%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,660.85</span>
-      <span class="ticker-change down">▼ -0.25%</span>
+      <span class="ticker-price ticker-down">1,624.58</span>
+      <span class="ticker-change down">▼ -2.18%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,379.07</span>
-      <span class="ticker-change down">▼ -1.33%</span>
+      <span class="ticker-price ticker-down">4,361.55</span>
+      <span class="ticker-change down">▼ -0.40%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,419.49</span>
+      <span class="ticker-price ticker-down">30,470.29</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7120</span>
+      <span class="ticker-price ticker-up">6.7136</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,282.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -76.04 (-1.74%)</span>
+      <span class="ticker-price ticker-down">$4,274.67 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -12.61 (-0.29%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥925.57 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -8.23 (-0.88%)</span>
+      <span class="ticker-price ticker-down">¥924.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -9.40 (-1.01%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+52.0 亿</span>
+      <span class="sector-flow-badge">+43.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+52.9 亿</span>
+      <span class="sector-flow-badge">+48.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+50.7 亿</span>
+      <span class="sector-flow-badge">+22.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+18.3 亿</span>
+      <span class="sector-flow-badge">+54.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,62 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">1 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/006/789.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日现身合肥鸿蒙智行门店。博主 @电车总裁 分享了余承东在现场的发言视频。据余承东透露，尊界的大型超豪华 SUV 将在明年初上市，并且明年智界、享界、尚界都会有更多更有竞争力的产品。尊界 SUV 测试车的谍照已被多次曝光。最新谍照显示，这款新车将配备尊界 V800 同款尾灯。此前的谍照显示，尊界 SUV 还有另一款尾灯。因此，尊界 SUV 有望提供双尾灯版本选配。另外，该车的前脸部分预计会延续家族式分体大灯设计，并提供传统后视镜方案可选。目前尚不知晓尊界 SUV 是否也会沿用 MPV 的车头大 LOGO 设计。据IT之家了解，2026 年是尊界品牌产品大年，6 月底尊界推出了 200 万元级旗舰车型" data-title="华为余承东“剧透”鸿蒙智行尊界大型超豪华 SUV 明年初上市" data-date="09-24 14:52" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-24 14:52</span>
+          <span class="news-item-title">华为余承东“剧透”鸿蒙智行尊界大型超豪华 SUV 明年初上市</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/006/781.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，IT之家从国家市场监督管理总局获悉，日前，捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2026M0120V：自即日起，召回 2021 年 5 月 25 日至 2021 年 7 月 1 日期间生产的部分进口 2022 款路虎卫士插电式混合动力汽车，共计 3 辆。本次召回范围内车辆的高压蓄电池可能出现热过载，极端情况下导致高压蓄电池起火，存在安全隐患。捷豹路虎（宁波）贸易有限公司将通过授权经销商为召回范围内的车辆免费更换高压蓄电池，以消除安全隐患。" data-title="捷豹路虎召回 3 辆进口路虎卫士插混汽车，极端情况下可能电池起火" data-date="09-24 14:44" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-24 14:44</span>
+          <span class="news-item-title">捷豹路虎召回 3 辆进口路虎卫士插混汽车，极端情况下可能电池起火</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/006/782.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，IT之家从国家市场监督管理总局获悉，日前，宝马（中国）汽车贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2026M0119V自 2026 年 11 月 1 日起，召回 2021 年 3 月 15 日至 2023 年 1 月 27 日期间生产的部分进口 5 系汽车，共计 4651 辆；召回 2023 年 6 月 21 日至 2025 年 1 月 9 日期间生产的部分进口 7 系汽车，共计 27 辆；召回 2021 年 3 月 15 日至 2025 年 11 月 25 日期间生产的部分进口 8 系汽车，共计 2403 辆。本次召回范围内的车辆，传动轴与后桥差速器之间的纵向花" data-title="宝马召回超 7000 辆汽车：涵盖进口 5/7/8 系，存在后桥动力中断风险" data-date="09-24 14:42" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-24 14:42</span>
+          <span class="news-item-title">宝马召回超 7000 辆汽车：涵盖进口 5/7/8 系，存在后桥动力中断风险</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10702952.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网佳木斯9月24日电 (韩雪)23日，第四届佳木斯卫星产业发展大会暨商业航天产业技术创新联盟会议在黑龙江省佳木斯市闭幕。会议集中发布15项卫星产业技术成果，展示了中国东北地区商业航天领域的最新探索。" data-title="佳木斯举办第四届卫星产业发展大会 集中发布15项技术成果" data-date="09-24 14:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-24 14:30</span>
+          <span class="news-item-title">佳木斯举办第四届卫星产业发展大会 集中发布15项技术成果</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10702953.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月24日电 9月24日，国新办就“十五五”时期推进文化和旅游高质量发展有关情况举行新闻发布会。会上，文化和旅游部产业发展司司长缪沐阳介绍，“十四五”时期，我国文化产业发展实现了新的跨越。2024年，文化产业增加值占国内生产总值的比重超过4.6%。2025年，全国文化产业资产总计达到了37.4万亿元、实现营业收入超过20万亿元，分别比2020年增长了36.5%、49.6%。" data-title="悟空、哪咤海外火爆出圈 文旅部：推动中国好物加快出海" data-date="09-24 14:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-24 14:30</span>
+          <span class="news-item-title">悟空、哪咤海外火爆出圈 文旅部：推动中国好物加快出海</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10702863.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月24日电 (记者 吕少威)国务院新闻办公室23日在北京市集中式光伏项目暨荒滩治理示范基地举行“新征程上的奋斗者”中外记者见面会。五位能源领域代表围绕“促进能源绿色转型与供应保障”分享奋斗故事。" data-title="保安全、促转型 能源领域工作者谈创新故事" data-date="09-24 12:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-24 12:40</span>
+          <span class="news-item-title">保安全、促转型 能源领域工作者谈创新故事</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqvgyl2k378go/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国国家主席习近平专机抵达首都华盛顿附近的安德鲁斯联合基地，美国总统特朗普（川普）打破惯例，亲自接机。" data-title="特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续“停火”" data-date="09-24 11:13" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-24 11:13</span>
+          <span class="news-item-title">特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续“停火”</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="负责与中国会谈的财政部长表示，两国已同意将贸易休战延长至1月。" data-title="贝森特说，美国和中国同意将贸易休战延长两个月" data-date="09-24 09:32" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-24 09:32</span>
+          <span class="news-item-title">贝森特说，美国和中国同意将贸易休战延长两个月</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="专家们将这种情绪的变化归因于对冠状病毒大流行的记忆逐渐消退，对中国技术创新的认识以及对特朗普总统贸易战的不满。" data-title="特朗普欢迎习近平，更多美国人对中国持正面看法" data-date="09-24 06:09" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-24 06:09</span>
+          <span class="news-item-title">特朗普欢迎习近平，更多美国人对中国持正面看法</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-23/10702619.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社约翰内斯堡9月23日电 (记者 孙翔)南非统计局23日公布数据显示，南非8月消费者价格指数(CPI)同比上涨4.4%，较7月的4.3%小幅回升，略低于市场预期。" data-title="南非8月CPI升至4.4%" data-date="09-23 22:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -251,4 +305,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-24 01:18（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-24 14:51（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

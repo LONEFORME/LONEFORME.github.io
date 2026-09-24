@@ -1038,5 +1038,705 @@
     "feed_name": "纽约时报",
     "summary": "A New York transplant surgeon’s experience waiting for a heart transplant laid bare the challenges of a system he had spent decades trying to fix.",
     "published_dt_iso": "2026-09-23T22:36:41+08:00"
+  },
+  {
+    "title": "Meta的人工智能代理Muse即将推出的所有新功能",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "date": "2026-09-24",
+    "published_time": "09:13",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "首席执行官马克·扎克伯格(Mark Zuckerberg)周三在门洛帕克(Menlo Park)拉开了公司年度Connect活动的序幕，发表了一篇主题演讲，明确表达了一件事情： Meta正在全力投入Muse。它甚至出现在Meta的人工智能眼镜上。",
+    "published_dt_iso": "2026-09-24T09:13:32+08:00"
+  },
+  {
+    "title": "Meta为其Muse AI代理制作了类似Tamagotchi的可穿戴设备",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "date": "2026-09-24",
+    "published_time": "08:46",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这款微型硬件设备为其AI代理Muse创建了另一个移动房屋。",
+    "published_dt_iso": "2026-09-24T08:46:17+08:00"
+  },
+  {
+    "title": "Meta推出摄像头",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "date": "2026-09-24",
+    "published_time": "07:39",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Meta表示，无相机眼镜将更轻，电池续航时间长达12小时。",
+    "published_dt_iso": "2026-09-24T07:39:44+08:00"
+  },
+  {
+    "title": "Anthropic表示，其生物实验室已经发现了一些重要的东西，",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "date": "2026-09-24",
+    "published_time": "06:17",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "但也许最大的启示是， Anthropic并没有让Claude在其生物学实验室中逍遥法外。到目前为止，人类仍然处于循环中。",
+    "published_dt_iso": "2026-09-24T06:17:39+08:00"
+  },
+  {
+    "title": "Enveda获得3.11亿美元，用于将更多自然衍生的人工智能药物纳入临床试验",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "date": "2026-09-24",
+    "published_time": "03:31",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这轮融资对AI生物技术的估值为20 $。它目前正在测试治疗皮肤病并在停止GLP-1s后保持体重的药物。",
+    "published_dt_iso": "2026-09-24T03:31:28+08:00"
+  },
+  {
+    "title": "ChatGPT移动应用获得基于语音的代理功能",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "date": "2026-09-24",
+    "published_time": "01:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Pro和Plus用户将能够使用手机上的“工作”选项卡来完成代理任务。",
+    "published_dt_iso": "2026-09-24T01:00:00+08:00"
+  },
+  {
+    "title": "微软将骁龙X2 Plus引入13英寸Surface笔记本电脑、12英寸Surface Pro",
+    "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-brings-snapdragon-x2-plus-to-13-inch-surface-laptop-12-inch-surface-pro-low-end-systems-finally-get-upgrades",
+    "date": "2026-09-24",
+    "published_time": "04:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "微软的最低端系统正在升级到高通最新的Snapdragon X2 Plus处理器。",
+    "published_dt_iso": "2026-09-24T04:30:00+08:00"
+  },
+  {
+    "title": "Meta正在制作一个独立的Muse AI小工具",
+    "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+    "date": "2026-09-24",
+    "published_time": "08:15",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta正在为其新的Muse AI代理构建专用硬件设备。Meta首席执行官马克·扎克伯格（ Mark Zuckerberg ）在今晚的Meta Connect演示结束时简要展示了这款名为Muse Charm的产品。它看起来几乎像一个没有表带的大块头智能手表-只是一个大屏幕，加上一个小挂绳[…]",
+    "published_dt_iso": "2026-09-24T08:15:20+08:00"
+  },
+  {
+    "title": "Meta Connect 2026 ： 7大公告",
+    "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+    "date": "2026-09-24",
+    "published_time": "08:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta周三在其年度Meta Connect展示会上宣布了一系列新的可穿戴设备。该活动的明星是新的Meta VR眼镜，它将虚拟现实技术集成到一个轻巧的智能眼镜样式框架中，并带有一个系绳冰球。Meta还宣布了一对新的无屏智能眼镜，以及一些新的人工智能[…]",
+    "published_dt_iso": "2026-09-24T08:00:33+08:00"
+  },
+  {
+    "title": "Meta的下一个VR设备不是耳机",
+    "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+    "date": "2026-09-24",
+    "published_time": "07:42",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta正在推出新的VR硬件：一副眼镜。新的Meta VR眼镜像一副典型的眼镜一样戴在耳朵上，而不是被绑在头上，但它们仍然具有用于观看电影、玩游戏和完成工作的沉浸式显示器。想象一副厚重的黑色太阳镜，戴着[…]",
+    "published_dt_iso": "2026-09-24T07:42:10+08:00"
+  },
+  {
+    "title": "Muse即将登陆Meta智能眼镜",
+    "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+    "date": "2026-09-24",
+    "published_time": "07:40",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在推出Muse几周后， Meta宣布它正在“努力”将代理引入其智能眼镜，包括在Meta Connect上推出的新眼镜。用户将能够通过说出其名称并要求它处理诸如指导锻炼、记录[…]等任务来从眼镜中激活Muse",
+    "published_dt_iso": "2026-09-24T07:40:56+08:00"
+  },
+  {
+    "title": "Meta在其最新的智能眼镜上放弃了相机",
+    "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+    "date": "2026-09-24",
+    "published_time": "07:37",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在Meta Connect 2026中漫步，每个人都会佩戴各种形状、颜色和尺寸的智能眼镜。这是一个显着的区别，这是一个科技泡沫，其中“变态眼镜”不是一个问题。Outside Connect是公众对可穿戴式监控技术的强烈反对，这是一个涵盖所有内容的术语，不仅包括智能眼镜，还包括智能手表和[…]",
+    "published_dt_iso": "2026-09-24T07:37:17+08:00"
+  },
+  {
+    "title": "Meta让Muse更加强大，也能让您与它进行视频聊天",
+    "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+    "date": "2026-09-24",
+    "published_time": "07:19",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta正在迅速迭代其新的Muse AI代理，今天宣布了一系列更新，使机器人更有能力，并能够以更多方式与您聊天。Muse代理获得了自己的电子邮件地址，可用于完成任务。您还可以与Muse沟通[…]",
+    "published_dt_iso": "2026-09-24T07:19:42+08:00"
+  },
+  {
+    "title": "Meta Connect 2026 ：重大新闻和公告",
+    "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+    "date": "2026-09-24",
+    "published_time": "06:45",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "现在是该公司年度产品发布会Meta Connect的时候了。今年，鉴于该公司主要关注人工智能和智能眼镜等可穿戴设备，我们很可能会看到首席执行官马克·扎克伯格(Mark Zuckerberg)及其团队对这些类别的更新。该公司一直面临严格的审查，因为一些用户[…]",
+    "published_dt_iso": "2026-09-24T06:45:00+08:00"
+  },
+  {
+    "title": "Meta Connect 2026直播博客：在马克·扎克伯格（ Mark Zuckerberg ）的下一个重大产品发布会上",
+    "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+    "date": "2026-09-24",
+    "published_time": "06:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "现在是Meta年度9月产品发布会的时候了， The Verge正在门洛帕克进行现场直播。梅塔说，今天马克·扎克伯格（ Mark Zuckerberg ）的主题演讲将是关于“梅塔如何为每个人构建未来” --他在最近的一次演讲中详细描述了这一点[…]",
+    "published_dt_iso": "2026-09-24T06:30:00+08:00"
+  },
+  {
+    "title": "Stripe Tour 中国首秀：构建 AI 经济基础设施，赋能全球商业增长",
+    "link": "https://www.qbitai.com/2026/09/496779.html",
+    "date": "2026-09-24",
+    "published_time": "13:46",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "Stripe Managed Payments (SMP) 现已全面上线",
+    "published_dt_iso": "2026-09-24T13:46:10+08:00"
+  },
+  {
+    "title": "教机器人干活，光“刷课时”可不够！灵初这次较真数据质量",
+    "link": "https://www.qbitai.com/2026/09/496778.html",
+    "date": "2026-09-24",
+    "published_time": "13:45",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "专治人机动作对不齐",
+    "published_dt_iso": "2026-09-24T13:45:20+08:00"
+  },
+  {
+    "title": "5分钟完成机器人纳管、10秒启动跨集群任务，清华大学联合无问芯穹开源具身智能云原生平台RLark",
+    "link": "https://www.qbitai.com/2026/09/496767.html",
+    "date": "2026-09-24",
+    "published_time": "13:19",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "开源一座具身智能的新“塔台”",
+    "published_dt_iso": "2026-09-24T13:19:55+08:00"
+  },
+  {
+    "title": "出海Agent“小元AI”入驻腾讯WorkBuddy：找买家写开发信谈生意",
+    "link": "https://www.qbitai.com/2026/09/496740.html",
+    "date": "2026-09-24",
+    "published_time": "12:11",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "懂出海，能记忆，自进化",
+    "published_dt_iso": "2026-09-24T12:11:51+08:00"
+  },
+  {
+    "title": "海信新一代性能旗舰E7S Pro+正式发布，原生真彩再进阶",
+    "link": "https://www.qbitai.com/2026/09/496658.html",
+    "date": "2026-09-24",
+    "published_time": "10:51",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "9月23日，2026海信电视秋季新品发布会上，定位“原生真彩，性能旗舰”的RGB-Mini LED新品E7S Pro+正式发布",
+    "published_dt_iso": "2026-09-24T10:51:18+08:00"
+  },
+  {
+    "title": "Meta靠自研Manus翻身！股价一夜暴涨11%，登顶苹果商店，增速反超ChatGPT",
+    "link": "https://www.qbitai.com/2026/09/496647.html",
+    "date": "2026-09-24",
+    "published_time": "10:23",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "美国也开启了全民养虾狂潮",
+    "published_dt_iso": "2026-09-24T10:23:12+08:00"
+  },
+  {
+    "title": "成立九年，中科类脑把积累装进Token工厂",
+    "link": "https://www.qbitai.com/2026/09/496615.html",
+    "date": "2026-09-24",
+    "published_time": "08:48",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-24T08:48:02+08:00"
+  },
+  {
+    "title": "华为余承东“剧透”鸿蒙智行尊界大型超豪华 SUV 明年初上市",
+    "link": "https://www.ithome.com/1/006/789.htm",
+    "date": "2026-09-24",
+    "published_time": "14:52",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日现身合肥鸿蒙智行门店。博主 @电车总裁 分享了余承东在现场的发言视频。据余承东透露，尊界的大型超豪华 SUV 将在明年初上市，并且明年智界、享界、尚界都会有更多更有竞争力的产品。尊界 SUV 测试车的谍照已被多次曝光。最新谍照显示，这款新车将配备尊界 V800 同款尾灯。此前的谍照显示，尊界 SUV 还有另一款尾灯。因此，尊界 SUV 有望提供双尾灯版本选配。另外，该车的前脸部分预计会延续家族式分体大灯设计，并提供传统后视镜方案可选。目前尚不知晓尊界 SUV 是否也会沿用 MPV 的车头大 LOGO 设计。据IT之家了解，2026 年是尊界品牌产品大年，6 月底尊界推出了 200 万元级旗舰车型",
+    "published_dt_iso": "2026-09-24T14:52:39+08:00"
+  },
+  {
+    "title": "微星便携显示器 PRO MP161E6 上架：15.6\" FHD 60Hz 低色域，659 元",
+    "link": "https://www.ithome.com/1/006/788.htm",
+    "date": "2026-09-24",
+    "published_time": "14:52",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，微星 (MSI) 现已在电商平台销售便携显示器 PRO MP161E6，到手价低至 659 元。PRO MP161E6 采用一块 15.6\" 的 FHD 60Hz IPS LCD 面板，亮度 250nits，静态对比度 1000:1，色深 6bit+FRC，色域 45.1% sRGB，支持防闪烁、减蓝光、防眩光。其提供 2 个全功能 USB-C、1 个 Mini HDMI 1.4b，集成 2 个 1W 扬声器，支持 0~180° 开合调节，提供 1/4\" 三脚架接口，兼容 75×75 (mm) 的 VESA 壁挂规范。京东微星 PRO MP161E6 便携显示器 659 元直达链接",
+    "published_dt_iso": "2026-09-24T14:52:07+08:00"
+  },
+  {
+    "title": "宾利首款纯电 Torcal 发布：875 马力、零百加速最快 2.9 秒，WLTP 续航 600 公里",
+    "link": "https://www.ithome.com/1/006/787.htm",
+    "date": "2026-09-24",
+    "published_time": "14:50",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，科技媒体 Ars Technica 今天（9 月 24 日）发布博文，报道称宾利（Bentley）正式发布其首款纯电动车型 Torcal，该车将作为 2028 款车型于 2027 年年初上市。Torcal 车身尺寸小于添越（Bentayga），吸收 EXP 15 概念车的部分设计元素，前脸最具辨识度的是“悬浮钻石格栅”（Floating Diamond Grille），宾利用 76 颗手工装配的水晶状菱形元素，置于透明聚碳酸酯面板后方，并在解锁时呈现渐变点亮的欢迎灯效。车身侧面强调“长轴距、短前后悬、骄傲的前脸比例”，形成直立而优雅的姿态；腰线干净，减少多余折线，让光影在车身上流动来塑造性格。宾利将其侧面与后轮拱的饱满外扩称为“Resting Beast（静卧",
+    "published_dt_iso": "2026-09-24T14:50:34+08:00"
+  },
+  {
+    "title": "长城大狗 PLUS 混动版 9 月 28 日上市，两驱版本油耗 5.2L/100km",
+    "link": "https://www.ithome.com/1/006/786.htm",
+    "date": "2026-09-24",
+    "published_time": "14:49",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，长城哈弗今天宣布，长城大狗 PLUS 混动版将于 9 月 28 日正式上市，新车延续大狗系列方盒子造型，搭载全新混动系统。IT之家从原报道获悉，该车提供多种前脸设计方案，除保留现款车型格栅样式外，新车新增半封闭式中网饰板版本，部分版本还提供三色点状装饰件。前面的复古圆形大灯得到保留，外扩轮眉搭配铆钉装饰。车身侧面造型与现款基本保持一致，顶部标配车顶行李架和天窗。同时，该车还将搭载 Coffee Pilot 3 Lite 辅助驾驶系统，拥有 4D 毫米波雷达，支持高速、城市 NOA，无需依赖高精地图。该车预计将搭载 1.5T 混动系统，发动机最大功率 115 千瓦。车辆系统综合扭矩可达 670 牛 · 米，零百加速 6.6 秒。配备电控机械牙嵌式差速锁、iTVC",
+    "published_dt_iso": "2026-09-24T14:49:33+08:00"
+  },
+  {
+    "title": "小米首款全彩夜视室内摄像机开启众筹：4K 超清、AI 检测，429 元",
+    "link": "https://www.ithome.com/1/006/785.htm",
+    "date": "2026-09-24",
+    "published_time": "14:49",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，小米智能摄像机 5 Pro 全彩夜视现已在小米有品开启众筹，活动时间为 9 月 23 日 10 点-9 月 30 日 10 点，众筹价 429 元（点击前往）。作为小米首款全彩夜视室内摄像机，新品配备 8MP+4MP 双镜头协同，可拍摄 4K 高清画面，支持多种夜视模式，满足不同场景使用需求。IT之家从商品页面获悉，新品可开启机身小夜灯进行补光，摄像机可实现整夜彩色成像。无人时黑白成像，识别到人自动开启小夜灯并自动切换彩色画面。内置 940nm 红外补光灯，镜头无红曝干扰，夜间呈现清晰黑白影像。新品采用独特外观结构，内置柔光小夜灯。夜间识别人形、宠物自动柔和亮灯；定制光学透镜搭配磨砂透光面，光线匀散不刺眼，兼顾看护与夜间微光照明。新品搭载 1.5T 高算力芯片",
+    "published_dt_iso": "2026-09-24T14:49:31+08:00"
+  },
+  {
+    "title": "宝马召回超 7000 辆汽车：涵盖进口 5/7/8 系，存在后桥动力中断风险",
+    "link": "https://www.ithome.com/1/006/782.htm",
+    "date": "2026-09-24",
+    "published_time": "14:42",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，IT之家从国家市场监督管理总局获悉，日前，宝马（中国）汽车贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2026M0119V自 2026 年 11 月 1 日起，召回 2021 年 3 月 15 日至 2023 年 1 月 27 日期间生产的部分进口 5 系汽车，共计 4651 辆；召回 2023 年 6 月 21 日至 2025 年 1 月 9 日期间生产的部分进口 7 系汽车，共计 27 辆；召回 2021 年 3 月 15 日至 2025 年 11 月 25 日期间生产的部分进口 8 系汽车，共计 2403 辆。本次召回范围内的车辆，传动轴与后桥差速器之间的纵向花",
+    "published_dt_iso": "2026-09-24T14:42:23+08:00"
+  },
+  {
+    "title": "捷豹路虎召回 3 辆进口路虎卫士插混汽车，极端情况下可能电池起火",
+    "link": "https://www.ithome.com/1/006/781.htm",
+    "date": "2026-09-24",
+    "published_time": "14:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，IT之家从国家市场监督管理总局获悉，日前，捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2026M0120V：自即日起，召回 2021 年 5 月 25 日至 2021 年 7 月 1 日期间生产的部分进口 2022 款路虎卫士插电式混合动力汽车，共计 3 辆。本次召回范围内车辆的高压蓄电池可能出现热过载，极端情况下导致高压蓄电池起火，存在安全隐患。捷豹路虎（宁波）贸易有限公司将通过授权经销商为召回范围内的车辆免费更换高压蓄电池，以消除安全隐患。",
+    "published_dt_iso": "2026-09-24T14:44:27+08:00"
+  },
+  {
+    "title": "特斯拉向北美 HW3 版 Model S/X 推送 FSD v14.2 Lite",
+    "link": "https://www.ithome.com/1/006/783.htm",
+    "date": "2026-09-24",
+    "published_time": "14:46",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 24 日消息，特斯拉首次开始向北美搭载 HW3 硬件的 Model S 和 Model X 推送 FSD v14.2 Lite。此前，搭载 HW3 的 Model 3 和 Model Y 已于今年 7 月获得 FSD v14 Lite，这是更新后的 FSD 技术栈首次推送至 Model S 和 Model X。此次软件更新随 2026.27.10 和 2026.27.11 版本一同发布，这两个版本也是目前最新的 FSD 更新。不过，特斯拉目前尚未向所有符合条件的车辆推送该更新。现阶段收到更新的 Model S 和 Model X 数量非常少，特斯拉可能希望先确认不会出现严重问题，再进一步扩大推送范围。特斯拉自动驾驶软件负责人埃隆 · 阿肖克（Ashok Elluswamy）",
+    "published_dt_iso": "2026-09-24T14:46:53+08:00"
+  },
+  {
+    "title": "为什么这次休息对De Zerbi & Spurs来说是最糟糕的时刻",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crd68ev059y8o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "13:37",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC体育专栏作家托尼·普利斯（ Tony Pulis ）解释了不同的因素，这意味着热刺老板罗伯托·德·泽比（ Roberto de Zerbi ）需要时间和他的球员一起打造一支",
+    "published_dt_iso": "2026-09-24T13:37:24+08:00"
+  },
+  {
+    "title": "英超联赛：周末行动的10个谈话要点",
+    "link": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
+    "date": "2026-09-21",
+    "published_time": "15:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "利物浦在后面看起来更强壮，年轻人为布莱顿和布伦特福德闪耀，詹姆斯·特拉福德在利兹超级联赛桌上展示了他的英格兰案例|最佳射手在本周， 16岁的马克斯·道曼（ Max Dowman ）被推入聚光灯下，另一位青少年让我们瞥见了布莱顿在击败阿森纳时令人印象深刻的胜利中的未来。Charalampos Kostoulas –在家乡被昵称为“Babis” ，向前阿根廷前锋Gabrie致敬",
+    "published_dt_iso": "2026-09-21T15:00:37+08:00"
+  },
+  {
+    "title": "陕西省农民丰收节体育健身活动启幕 竞技赛场赓续农耕文脉",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702954.shtml",
+    "date": "2026-09-24",
+    "published_time": "14:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网陕西杨凌9月24日电 (记者 张一辰)2026年陕西省农民丰收节体育健身活动23日在杨凌示范区揉谷镇揉谷中心广场举行，活动为期两天。来自陕西全省的85支参赛队伍齐聚此间，现场参与总规模约1500人。",
+    "published_dt_iso": "2026-09-24T14:45:49+08:00"
+  },
+  {
+    "title": "佳木斯举办第四届卫星产业发展大会 集中发布15项技术成果",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702952.shtml",
+    "date": "2026-09-24",
+    "published_time": "14:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网佳木斯9月24日电 (韩雪)23日，第四届佳木斯卫星产业发展大会暨商业航天产业技术创新联盟会议在黑龙江省佳木斯市闭幕。会议集中发布15项卫星产业技术成果，展示了中国东北地区商业航天领域的最新探索。",
+    "published_dt_iso": "2026-09-24T14:30:32+08:00"
+  },
+  {
+    "title": "悟空、哪咤海外火爆出圈 文旅部：推动中国好物加快出海",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702953.shtml",
+    "date": "2026-09-24",
+    "published_time": "14:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月24日电 9月24日，国新办就“十五五”时期推进文化和旅游高质量发展有关情况举行新闻发布会。会上，文化和旅游部产业发展司司长缪沐阳介绍，“十四五”时期，我国文化产业发展实现了新的跨越。2024年，文化产业增加值占国内生产总值的比重超过4.6%。2025年，全国文化产业资产总计达到了37.4万亿元、实现营业收入超过20万亿元，分别比2020年增长了36.5%、49.6%。",
+    "published_dt_iso": "2026-09-24T14:30:08+08:00"
+  },
+  {
+    "title": "中哈媒体圆桌会在阿拉木图举行 探讨数智时代新闻合作",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702941.shtml",
+    "date": "2026-09-24",
+    "published_time": "14:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "【中亚专线】中哈媒体圆桌会在阿拉木图举行 探讨数智时代新闻合作",
+    "published_dt_iso": "2026-09-24T14:13:21+08:00"
+  },
+  {
+    "title": "百余名网络人士齐聚明月山 开启“寻美江西 泉月宜春”共创之旅",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702873.shtml",
+    "date": "2026-09-24",
+    "published_time": "12:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网宜春9月24日电(记者 刘力鑫)23日晚，“寻美江西 泉月宜春”暨网络人士共创大会在江西宜春启动，来自全国各地的百余名网络人士齐聚明月山，将在为期3天的时间里，展开面对面交流和采风创作。",
+    "published_dt_iso": "2026-09-24T12:50:22+08:00"
+  },
+  {
+    "title": "保安全、促转型 能源领域工作者谈创新故事",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702863.shtml",
+    "date": "2026-09-24",
+    "published_time": "12:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月24日电 (记者 吕少威)国务院新闻办公室23日在北京市集中式光伏项目暨荒滩治理示范基地举行“新征程上的奋斗者”中外记者见面会。五位能源领域代表围绕“促进能源绿色转型与供应保障”分享奋斗故事。",
+    "published_dt_iso": "2026-09-24T12:40:27+08:00"
+  },
+  {
+    "title": "英国向中国返还12件流失文物艺术品",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702909.shtml",
+    "date": "2026-09-24",
+    "published_time": "12:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社伦敦9月24日电 (记者 欧阳开宇)当地时间9月23日，英国向中国返还12件流失文物艺术品的交接仪式在中国驻英国使馆举行。中国文化和旅游部副部长、国家文物局局长饶权视频致辞，中国驻英国大使郑泽光，英国伦敦大都会警察厅，英国外交发展部，英国数字、文化、媒体和体育部，欧洲安全与合作组织代表出席仪式。",
+    "published_dt_iso": "2026-09-24T12:13:38+08:00"
+  },
+  {
+    "title": "中英少年同台以秦腔为桥觅共鸣",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-24/10702852.shtml",
+    "date": "2026-09-24",
+    "published_time": "12:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月24日电 (记者 周昕)由世界知识出版社主办的“走进中华文明——传承历史·共创未来”主题人文交流活动23日在北京王府学校举办。英国北爱尔兰米尔本小学师生访华团与中方师生相聚校园，同台体验秦腔艺术，在戏曲互动之中探寻文化共鸣。",
+    "published_dt_iso": "2026-09-24T12:06:15+08:00"
+  },
+  {
+    "title": "“天涯共此时·中国味道”文旅品鉴交流会在伦敦举办",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702897.shtml",
+    "date": "2026-09-24",
+    "published_time": "13:08",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网伦敦9月24日电(记者 欧阳开宇)中秋佳节来临之际，中国驻伦敦旅游办事处携手英国中华餐饮文化协会，23日在伦敦举办“天涯共此时·中国味道”文旅品鉴交流会。活动依托文化和旅游部两大国家级文旅推广品牌，以中秋民俗和中华美食为载体，搭建中英文旅交流与民间友好往来平台。",
+    "published_dt_iso": "2026-09-24T13:08:35+08:00"
+  },
+  {
+    "title": "南非夸纳省枪击事件致11人死亡  警方启动72小时追捕行动",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702841.shtml",
+    "date": "2026-09-24",
+    "published_time": "10:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网约翰内斯堡9月24日电(记者 孙翔)南非代理国家警察总监普伦·迪姆帕内(Puleng Dimpane)23日指示夸祖卢-纳塔尔省(简称夸纳省)警察总监立即启动为期72小时的追捕行动，搜捕涉嫌枪杀11人的3名男子。",
+    "published_dt_iso": "2026-09-24T10:56:17+08:00"
+  },
+  {
+    "title": "香港共享基金会柬埔寨消除白内障致盲项目向磅通省推展",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702777.shtml",
+    "date": "2026-09-24",
+    "published_time": "10:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网金边9月24日电 (杨强 张堰林)当地时间9月23日，在顺利完结柬埔寨磅士卑省消除白内障致盲项目后，中国香港共享基金会与合作医疗团队转移至磅通省开展新一站免费白内障手术任务。",
+    "published_dt_iso": "2026-09-24T10:11:22+08:00"
+  },
+  {
+    "title": "也门胡塞武装称近期超400艘商船通过曼德海峡",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702797.shtml",
+    "date": "2026-09-24",
+    "published_time": "10:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月24日电 综合消息：也门胡塞武装当地时间23日表示，9月11日至21日，共有408艘商船通过曼德海峡，这一数字高于本月1日至10日期间记录的393艘商船。",
+    "published_dt_iso": "2026-09-24T10:04:40+08:00"
+  },
+  {
+    "title": "伊朗总统联大发言：致力对话谈判，绝不屈膝投降",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702709.shtml",
+    "date": "2026-09-24",
+    "published_time": "07:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社联合国9月23日电(记者 王帆)伊朗总统佩泽希齐扬23日在纽约联合国总部举行的第81届联大一般性辩论上发言表示，伊朗始终致力于对话谈判，但面对武力威胁绝不会屈膝投降。",
+    "published_dt_iso": "2026-09-24T07:25:30+08:00"
+  },
+  {
+    "title": "伊朗总统在联大演讲 誓言“永不屈膝投降”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-24/10702704.shtml",
+    "date": "2026-09-24",
+    "published_time": "06:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月24日电 综合外媒报道，伊朗总统佩泽希齐扬当地时间23日在联合国大会一般性辩论发言中表示，伊朗“永不低头、也不会屈膝投降”，并呼吁各国共同努力实现和平。",
+    "published_dt_iso": "2026-09-24T06:54:11+08:00"
+  },
+  {
+    "title": "“空中李云龙”？歼",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702939.shtml",
+    "date": "2026-09-24",
+    "published_time": "14:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月24日电(记者 刁炜)近日，歼-35A官方代号公布：云龙。此举表明歼-35A延续空军命名传统，正式加入新锐云集的“龙”系列国产战斗机家族，与歼-20“威龙”、歼-16“潜龙”、歼-11“应龙”、歼-10“猛龙”共同构成空军新一代主战装备的剑锋刀刃。",
+    "published_dt_iso": "2026-09-24T14:14:51+08:00"
+  },
+  {
+    "title": "文旅部：严厉打击强迫购物、非法网络招徕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702945.shtml",
+    "date": "2026-09-24",
+    "published_time": "13:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月24日电 9月24日，国新办就“十五五”时期推进文化和旅游高质量发展有关情况举行新闻发布会。会上，文化和旅游部资源开发司司长满宏卫介绍，“十五五”期间，将在三个方面发力，让更多的人民群众通过旅游体会到获得感、幸福感和安全感。",
+    "published_dt_iso": "2026-09-24T13:55:32+08:00"
+  },
+  {
+    "title": "成品允许误差仅0.02毫米 拆解世赛珠宝加工“盲盒考题”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702944.shtml",
+    "date": "2026-09-24",
+    "published_time": "13:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "珠宝加工，考验毫厘之间的手工精度与耐心。从起版到镶嵌、抛光，每一道工序都没有捷径，都需要把工匠精神发挥到极致。",
+    "published_dt_iso": "2026-09-24T13:44:35+08:00"
+  },
+  {
+    "title": "14国青年在滇池之畔与中国农民共享花“漾”秋景共庆丰收佳节",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702905.shtml",
+    "date": "2026-09-24",
+    "published_time": "13:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网昆明9月24日电 (缪超 袁鸿凯 李嘉娴)9月23日是第九个中国农民丰收节，滇池畔花好迎月圆，稻穗翻金浪。当天，来自泰国、老挝、印度、俄罗斯等14个国家的50名青年代表，在云南省昆明市呈贡区与当地农民共享花“漾”秋景，共庆丰收佳节。",
+    "published_dt_iso": "2026-09-24T13:05:21+08:00"
+  },
+  {
+    "title": "AI破译地下成矿密码 为金矿“攻深找盲”装上数字引擎",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702903.shtml",
+    "date": "2026-09-24",
+    "published_time": "13:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网济南9月24日电 题：AI破译地下成矿密码 为金矿“攻深找盲”装上数字引擎",
+    "published_dt_iso": "2026-09-24T13:00:49+08:00"
+  },
+  {
+    "title": "西藏亚东出入境边防检查站开展普法宣传",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702900.shtml",
+    "date": "2026-09-24",
+    "published_time": "12:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网拉萨9月24日电 (李林)日前，西藏亚东出入境边防检查站立足戍边本职，在亚东县城、仁青岗边贸市场和各边境执勤点位同步开展综合普法宣传活动，以法治力量守护边疆安宁。",
+    "published_dt_iso": "2026-09-24T12:59:22+08:00"
+  },
+  {
+    "title": "一张写真尽展中华家风：延边文旅出圈厚植民族文脉",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702866.shtml",
+    "date": "2026-09-24",
+    "published_time": "12:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网延边9月24日电 (高龙安 李彦国)一手握相机，一手为游客演示摆拍姿势，身材健硕的朝鲜族小伙吴权吉，示范动作透着温婉柔美，游客们被逗得合不拢嘴，笑称摄影师的姿势比女生更有韵味。",
+    "published_dt_iso": "2026-09-24T12:47:48+08:00"
+  },
+  {
+    "title": "湖北赤壁把“三国故事”搬出景区 全城设比武擂台",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-24/10702858.shtml",
+    "date": "2026-09-24",
+    "published_time": "11:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网咸宁9月24日电 (胡传林 童金健 但唐静)“十一”黄金周期间，湖北赤壁市将推出“三国赤壁擂台英雄汇”主题活动，打破景区边界，把三国故事延伸至城市各处，在赤壁北站、摩尔城、三国赤壁古战场、羊楼洞古镇等7个点位设置比武擂台，邀八方游客前来参与“武斗”“文斗”“艺斗”。",
+    "published_dt_iso": "2026-09-24T11:44:36+08:00"
+  },
+  {
+    "title": "习近平访美首日看点：谁同行？第一夫人角色？高规格接待引反弹？",
+    "link": "https://www.bbc.com/zhongwen/articles/cjzxze5peg76o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "13:12",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "BBC中文整理，习近平抵达华盛顿一刻，外界关注的重点看点：谁是习近平访美团成员？美国共和党及人民对中国的态度为何？",
+    "published_dt_iso": "2026-09-24T13:12:12+08:00"
+  },
+  {
+    "title": "特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续“停火”",
+    "link": "https://www.bbc.com/zhongwen/articles/cqvgyl2k378go/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "11:13",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "中国国家主席习近平专机抵达首都华盛顿附近的安德鲁斯联合基地，美国总统特朗普（川普）打破惯例，亲自接机。",
+    "published_dt_iso": "2026-09-24T11:13:29+08:00"
+  },
+  {
+    "title": "习近平抵美，特朗普罕有接机",
+    "link": "https://www.bbc.com/zhongwen/articles/cx980mjemv73o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "07:46",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国总统亲赴机场迎接外国元首极为罕见。若不计教宗访美的特例，这将是超过 60 年来美国总统首次以这种方式迎接他国元首。",
+    "published_dt_iso": "2026-09-24T07:46:37+08:00"
+  },
+  {
+    "title": "OpenAI智能体入侵澳洲政府网站窃取资料 官方两月后才发觉",
+    "link": "https://www.bbc.com/zhongwen/articles/cq39me0emplyo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "14:35",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "OpenAI在事发后两个月才察觉事件，并迟至本月中，才用一般电邮的方式通知澳洲政府。澳洲政府形容事件令人震惊，批评OpenAI的处理手法“不可接受”。",
+    "published_dt_iso": "2026-09-24T14:35:13+08:00"
+  },
+  {
+    "title": "俄罗斯占领乌克兰城市：居民靠院中野菜维生，死者无法下葬，遗体“弃置街头”",
+    "link": "https://www.bbc.com/zhongwen/articles/c6zjzl7gl9ero/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "11:56",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "BBC采访了遭俄罗斯占领的乌克兰城镇奥列什基居民，他们表示自己正“持续不断遭受炮击”。",
+    "published_dt_iso": "2026-09-24T11:56:37+08:00"
+  },
+  {
+    "title": "习近平访美晤特朗普：中美AI超级强国的雄心成为焦点",
+    "link": "https://www.bbc.com/zhongwen/articles/c9kgv31pg8eeo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "07:30",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国与中国正争夺人工智能领先地位，同时寻求确保这项技术仍在人类掌控之中。",
+    "published_dt_iso": "2026-09-24T07:30:08+08:00"
+  },
+  {
+    "title": "中国希望伊朗战争结束，但不是以特朗普想要的方式",
+    "link": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-24",
+    "published_time": "06:52",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "分析人士指，北京可能推动德黑兰重启谈判，但不太可能停止购买伊朗石油。",
+    "published_dt_iso": "2026-09-24T06:52:14+08:00"
+  },
+  {
+    "title": "习近平：从失去一切的“太子”到中国最有权势的领导人",
+    "link": "https://www.bbc.com/zhongwen/articles/c98r687436nvo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-22",
+    "published_time": "10:49",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "现年73岁的习近平，早已不再是那名访美时的县级官员。在近14年的中国领导人任期内，他改变了中国共产党以及这个国家在世界上的地位。",
+    "published_dt_iso": "2026-09-22T10:49:58+08:00"
+  },
+  {
+    "title": "法院阻止特朗普对CNN、MS NOW和Politico的白宫禁令",
+    "link": "https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html",
+    "date": "2026-09-24",
+    "published_time": "14:45",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "法官蒂莫西· J ·凯利（ Timothy J. Kelly ）发布了临时限制令，并告诉白宫立即恢复三家新闻媒体员工的新闻证书。",
+    "published_dt_iso": "2026-09-24T14:45:16+08:00"
+  },
+  {
+    "title": "爱荷华州法官驳回特朗普对得梅因登记处的诉讼",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/des-moines-register-trump-lawsuit.html",
+    "date": "2026-09-24",
+    "published_time": "10:07",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该诉讼挑战了一项民意调查，该民意调查显示特朗普在2024年比赛的最后几周落后于卡马拉·哈里斯。一名法官警告说，类似的法律挑战可能会对新闻报道产生寒蝉效应。",
+    "published_dt_iso": "2026-09-24T10:07:27+08:00"
+  },
+  {
+    "title": "当习近平访问华盛顿时，特朗普贬低中国对美国利益的行动",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/trump-xi-china-visit.html",
+    "date": "2026-09-24",
+    "published_time": "05:14",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "尽管美国和中国之间存在竞争，但特朗普总统一再想方设法让中国国家主席习近平获得通行证，将他描绘成私人朋友而不是竞争对手。",
+    "published_dt_iso": "2026-09-24T05:14:18+08:00"
+  },
+  {
+    "title": "贝森特说，美国和中国同意将贸易休战延长两个月",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html",
+    "date": "2026-09-24",
+    "published_time": "09:32",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "负责与中国会谈的财政部长表示，两国已同意将贸易休战延长至1月。",
+    "published_dt_iso": "2026-09-24T09:32:50+08:00"
+  },
+  {
+    "title": "特朗普欢迎习近平，更多美国人对中国持正面看法",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html",
+    "date": "2026-09-24",
+    "published_time": "06:09",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "专家们将这种情绪的变化归因于对冠状病毒大流行的记忆逐渐消退，对中国技术创新的认识以及对特朗普总统贸易战的不满。",
+    "published_dt_iso": "2026-09-24T06:09:12+08:00"
+  },
+  {
+    "title": "玛丽·佩尔托拉（ Mary Peltola ）在阿拉斯加州的参议院竞选活动受到愤怒爆发和诽谤的震撼",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/mary-peltola-alaska-senate-race.html",
+    "date": "2026-09-24",
+    "published_time": "11:24",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Democrats hope that Mary Peltola can flip a Republican Senate seat in Alaska. Former aides describe a campaign and congressional office marked by chaos.",
+    "published_dt_iso": "2026-09-24T11:24:57+08:00"
+  },
+  {
+    "title": "Timothy Mellon, a G.O.P. Billionaire, Pulls Back His Money From Senate Republicans",
+    "link": "https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html",
+    "date": "2026-09-24",
+    "published_time": "09:42",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority.",
+    "published_dt_iso": "2026-09-24T09:42:58+08:00"
+  },
+  {
+    "title": "From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations",
+    "link": "https://www.nytimes.com/2026/09/24/world/asia/un-general-assembly-nepal-balen-shah.html",
+    "date": "2026-09-24",
+    "published_time": "12:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Balendra Shah, 36, comes to the U.N. as a sun-glassed symbol of Gen Z political power. But concerns about his style are growing at home after devastating floods left thousands dead or missing.",
+    "published_dt_iso": "2026-09-24T12:01:05+08:00"
   }
 ]
