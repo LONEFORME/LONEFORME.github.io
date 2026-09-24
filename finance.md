@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,470.29</span>
+      <span class="ticker-price ticker-down">30,436.50</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7144</span>
+      <span class="ticker-price ticker-up">6.7161</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,275.27 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -12.01 (-0.28%)</span>
+      <span class="ticker-price ticker-down">$4,262.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -24.86 (-0.58%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -230,25 +230,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10703363.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口9月24日电 (记者 张茜翼)23次发射任务圆满完成；长征十号乙运载火箭实现全球首次网系回收；火箭链、卫星链、数据链产业体系生态形成……海南商业航天向上生长的同时，正把“质量”嵌入产业链肌理。" data-title="海南商业航天“质量强链”提速" data-date="09-24 20:39" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="上涨发生在政府债务大幅抛售的第二天。" data-title="债券市场波动，油价上涨" data-date="09-25 01:09" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-25 01:09</span>
+          <span class="news-item-title">债券市场波动，油价上涨</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/" target="_blank" rel="noopener" data-cat="caijing" data-summary="TechCrunch创始人峰会于11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建立和扩展公司的战术见解。" data-title="TechCrunch创始人峰会2026 ：您需要了解的一切" data-date="09-25 00:46" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-25 00:46</span>
+          <span class="news-item-title">TechCrunch创始人峰会2026 ：您需要了解的一切</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703527.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州9月25日电(吕明)“闽宁同行三十载 福隆共画山海情”隆德县农文旅推介招商活动24日晚在福州启幕。活动以农文旅招商推介、政企对接、企业间采购签约等形式，持续深化两地协作，续写闽侯对口帮扶隆德县的山海协作新篇章。" data-title="六盘山好物入闽 宁夏隆德农文旅推介招商活动福州启幕" data-date="09-25 00:26" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-24 20:39</span>
-          <span class="news-item-title">海南商业航天“质量强链”提速</span>
+          <span class="news-item-date">09-25 00:26</span>
+          <span class="news-item-title">六盘山好物入闽 宁夏隆德农文旅推介招商活动福州启幕</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/006/995.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，据彭博社今天（24 日）晚间报道，新加坡主要金融机构承诺，将为超过 8 万名本地员工培训 AI 技能，以降低 AI 可能冲击白领岗位所带来的就业风险。新加坡副总理兼新加坡金融管理局主席颜金勇称，首批参与计划的 23 家银行、保险公司和资产管理公司已作出承诺，在 2028 年前完成所有新加坡员工的培训，其中过半的员工已经参加获行业协会认可的培训项目。“我们希望 AI 能为新加坡人带来更好的职业发展，并打造生产效率更高的劳动力队伍。”这些机构还将研究各类岗位正在发生的变化，并尝试不同的培训和岗位重新设计方案，首批涵盖管理人员、财富管理人员和运营人员等岗位。金融业约占新加坡经济的 14%，从业专业人员约有 20 万，是当地的关键产业。此次计划延续了一年前启动的行动，" data-title="新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险" data-date="09-24 20:19" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/007/042.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，Rockstar 今日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，售价 400 美元（IT之家注：现汇率约合 2,689 元人民币）。该礼盒现已开启预购，限量发售，内含手办、帽子、太阳镜、海报等多种周边，但唯独就是没有《侠盗猎车手 VI》游戏本体。据官方介绍，该收藏礼盒包含以下物品：鳄鱼麦加手办正在享用烟卷和一杯火烈鸟血红马天尼的麦加手办，附有可以拧开的底座，可用于藏储您的珍藏之物。Oakley Frogskins 太阳镜用一副哑光黑色 Oakley® Frogskins™太阳镜挡住雷奥奈达的烈日，配备 Prizm Sapphire 镜片，带有罪恶城粉 GTAVI 徽标。雷奥奈达礁岛群斜挎包用这款防撕裂斜挎包带上您的必需品，包含黑色与粉色图案衬里、" data-title="R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体" data-date="09-24 23:34" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-24 20:19</span>
-          <span class="news-item-title">新加坡主要金融机构承诺将为超 8 万名本地员工培训 AI 技能，降低潜在就业风险</span>
+          <span class="news-item-date">09-24 23:34</span>
+          <span class="news-item-title">R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/006/991.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，央视新闻今天（24 日）从中国贸促会汽车行业分会获悉，2027 年北京将新增一场“北京国际新质汽车及未来智慧出行展览会”，这是北京国际车展在单数年的延续，以专业主题展的形式展示。据介绍，以往北京国际车展是以双数年为举办时间，明年举办的这场车展是首次在单数年举办，时间为 2027 年 3 月 27 日至 4 月 5 日，重点将展览“展示的边界向产业制造端及未来前沿领域双向延伸”，包括全球汽车新技术变革浪潮中的新技术新产品以及智慧出行的全新生态，涵盖汽车制造工程、智能生产线、智慧出行工具、前沿技术、配套服务体系等全维度展示。中国贸促会汽车行业分会相关负责人表示，2026 年北京国际汽车展览会国内外上千家企业参展，观众 128 万人次，核心指标刷新全球车展历史纪录。" data-title="中国贸促会汽车行业分会：明年北京将新增一场国际车展，形式为专业主题展" data-date="09-24 19:48" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Ando已从Accel、Index Ventures和Emergence等投资者那里筹集了2000万美元的种子前和种子资金$。" data-title="Ando希望通过团队消息应用程序与Slack对抗，该应用程序可以让人员和客服代表协同工作" data-date="09-24 22:31" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-24 19:48</span>
-          <span class="news-item-title">中国贸促会汽车行业分会：明年北京将新增一场国际车展，形式为专业主题展</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-24 22:31</span>
+          <span class="news-item-title">Ando希望通过团队消息应用程序与Slack对抗，该应用程序可以让人员和客服代表协同工作</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-24/10703328.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月24日电 北京时间9月24日，美国企业家埃隆·马斯克的母亲梅耶·马斯克在社交媒体X上转发了儿子马斯克接受采访的视频，并称赞中国“干净又安全”。" data-title="马斯克母亲最新发文：“我喜欢去中国，那里干净安全”" data-date="09-24 19:47" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -262,65 +274,11 @@ title: 股票财经
           <span class="news-item-date">09-24 19:41</span>
           <span class="news-item-title">研究机构大幅上调今年德国经济增长预期</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/business/russia-sanctions-evasion-a7.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="一家莫斯科公司使用空壳公司和加密货币来洗钱，并使用自定义应用程序来伪造贸易记录，以帮助俄罗斯绕过全面的金融限制。" data-title="俄罗斯规避西方制裁的全球努力背后的“怪物”" data-date="09-24 17:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-24 17:00</span>
-          <span class="news-item-title">俄罗斯规避西方制裁的全球努力背后的“怪物”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/006/789.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日现身合肥鸿蒙智行门店。博主 @电车总裁 分享了余承东在现场的发言视频。据余承东透露，尊界的大型超豪华 SUV 将在明年初上市，并且明年智界、享界、尚界都会有更多更有竞争力的产品。尊界 SUV 测试车的谍照已被多次曝光。最新谍照显示，这款新车将配备尊界 V800 同款尾灯。此前的谍照显示，尊界 SUV 还有另一款尾灯。因此，尊界 SUV 有望提供双尾灯版本选配。另外，该车的前脸部分预计会延续家族式分体大灯设计，并提供传统后视镜方案可选。目前尚不知晓尊界 SUV 是否也会沿用 MPV 的车头大 LOGO 设计。据IT之家了解，2026 年是尊界品牌产品大年，6 月底尊界推出了 200 万元级旗舰车型" data-title="华为余承东“剧透”鸿蒙智行尊界大型超豪华 SUV 明年初上市" data-date="09-24 14:52" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-24 14:52</span>
-          <span class="news-item-title">华为余承东“剧透”鸿蒙智行尊界大型超豪华 SUV 明年初上市</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/006/781.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，IT之家从国家市场监督管理总局获悉，日前，捷豹路虎（宁波）贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2026M0120V：自即日起，召回 2021 年 5 月 25 日至 2021 年 7 月 1 日期间生产的部分进口 2022 款路虎卫士插电式混合动力汽车，共计 3 辆。本次召回范围内车辆的高压蓄电池可能出现热过载，极端情况下导致高压蓄电池起火，存在安全隐患。捷豹路虎（宁波）贸易有限公司将通过授权经销商为召回范围内的车辆免费更换高压蓄电池，以消除安全隐患。" data-title="捷豹路虎召回 3 辆进口路虎卫士插混汽车，极端情况下可能电池起火" data-date="09-24 14:44" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-24 14:44</span>
-          <span class="news-item-title">捷豹路虎召回 3 辆进口路虎卫士插混汽车，极端情况下可能电池起火</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/006/782.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，IT之家从国家市场监督管理总局获悉，日前，宝马（中国）汽车贸易有限公司根据《缺陷汽车产品召回管理条例》《缺陷汽车产品召回管理条例实施办法》的要求，向国家市场监督管理总局备案了召回计划。召回编号 S2026M0119V自 2026 年 11 月 1 日起，召回 2021 年 3 月 15 日至 2023 年 1 月 27 日期间生产的部分进口 5 系汽车，共计 4651 辆；召回 2023 年 6 月 21 日至 2025 年 1 月 9 日期间生产的部分进口 7 系汽车，共计 27 辆；召回 2021 年 3 月 15 日至 2025 年 11 月 25 日期间生产的部分进口 8 系汽车，共计 2403 辆。本次召回范围内的车辆，传动轴与后桥差速器之间的纵向花" data-title="宝马召回超 7000 辆汽车：涵盖进口 5/7/8 系，存在后桥动力中断风险" data-date="09-24 14:42" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-24 14:42</span>
-          <span class="news-item-title">宝马召回超 7000 辆汽车：涵盖进口 5/7/8 系，存在后桥动力中断风险</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10702952.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网佳木斯9月24日电 (韩雪)23日，第四届佳木斯卫星产业发展大会暨商业航天产业技术创新联盟会议在黑龙江省佳木斯市闭幕。会议集中发布15项卫星产业技术成果，展示了中国东北地区商业航天领域的最新探索。" data-title="佳木斯举办第四届卫星产业发展大会 集中发布15项技术成果" data-date="09-24 14:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-24 14:30</span>
-          <span class="news-item-title">佳木斯举办第四届卫星产业发展大会 集中发布15项技术成果</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10702953.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月24日电 9月24日，国新办就“十五五”时期推进文化和旅游高质量发展有关情况举行新闻发布会。会上，文化和旅游部产业发展司司长缪沐阳介绍，“十四五”时期，我国文化产业发展实现了新的跨越。2024年，文化产业增加值占国内生产总值的比重超过4.6%。2025年，全国文化产业资产总计达到了37.4万亿元、实现营业收入超过20万亿元，分别比2020年增长了36.5%、49.6%。" data-title="悟空、哪咤海外火爆出圈 文旅部：推动中国好物加快出海" data-date="09-24 14:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-24 14:30</span>
-          <span class="news-item-title">悟空、哪咤海外火爆出圈 文旅部：推动中国好物加快出海</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-24/10702863.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月24日电 (记者 吕少威)国务院新闻办公室23日在北京市集中式光伏项目暨荒滩治理示范基地举行“新征程上的奋斗者”中外记者见面会。五位能源领域代表围绕“促进能源绿色转型与供应保障”分享奋斗故事。" data-title="保安全、促转型 能源领域工作者谈创新故事" data-date="09-24 12:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-24 12:40</span>
-          <span class="news-item-title">保安全、促转型 能源领域工作者谈创新故事</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqvgyl2k378go/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国国家主席习近平专机抵达首都华盛顿附近的安德鲁斯联合基地，美国总统特朗普（川普）打破惯例，亲自接机。" data-title="特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续“停火”" data-date="09-24 11:13" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-24 11:13</span>
           <span class="news-item-title">特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续“停火”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/23/us/politics/china-trade-truce-tariffs.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="负责与中国会谈的财政部长表示，两国已同意将贸易休战延长至1月。" data-title="贝森特说，美国和中国同意将贸易休战延长两个月" data-date="09-24 09:32" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-24 09:32</span>
-          <span class="news-item-title">贝森特说，美国和中国同意将贸易休战延长两个月</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/23/us/politics/polls-us-china-trump-xi.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="专家们将这种情绪的变化归因于对冠状病毒大流行的记忆逐渐消退，对中国技术创新的认识以及对特朗普总统贸易战的不满。" data-title="特朗普欢迎习近平，更多美国人对中国持正面看法" data-date="09-24 06:09" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-24 06:09</span>
-          <span class="news-item-title">特朗普欢迎习近平，更多美国人对中国持正面看法</span>
         </a>
   </div>
 </div>
@@ -335,4 +293,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-24 20:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-25 01:23（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
