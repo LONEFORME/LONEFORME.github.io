@@ -1028,5 +1028,645 @@
     "feed_name": "纽约时报",
     "summary": "What happens when a trad influencer leaves her husband, questions her beliefs, stops selling anti-feminism T-shirts — and still needs to make a living online?",
     "published_dt_iso": "2026-09-25T00:28:29+08:00"
+  },
+  {
+    "title": "LIGHTSPEED的目标是新印度基金$ 2.5亿，重点是早期",
+    "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+    "date": "2026-09-25",
+    "published_time": "13:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这家风险投资公司首次将其印度筹资周期与其全球基金保持一致，因为它将转向更短的投资周期。",
+    "published_dt_iso": "2026-09-25T13:00:00+08:00"
+  },
+  {
+    "title": "携带您的联合创始人、合作伙伴或同事，获得第二张TechCrunch Disrupt 2026通行证五折优惠",
+    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "date": "2026-09-25",
+    "published_time": "03:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "购买TechCrunch Disrupt 2026的一张通行证，即可享受相同门票类型的一秒半价优惠。请在太平洋时间10月13日上午8点开始活动前登记。",
+    "published_dt_iso": "2026-09-25T03:15:00+08:00"
+  },
+  {
+    "title": "PrismML将其微小的LLM带入高通驱动的智能眼镜",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "date": "2026-09-25",
+    "published_time": "03:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Prism更大的目标是在设备上运行的开放式人工智能，并更好地利用他们已经拥有的计算能力。",
+    "published_dt_iso": "2026-09-25T03:00:42+08:00"
+  },
+  {
+    "title": "甲骨文就其新墨西哥州Stargate数据中心发出不可抗力通知",
+    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "date": "2026-09-25",
+    "published_time": "02:11",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "该通知将允许甲骨文在该设施未达到2028年上线目标的情况下推迟付款。",
+    "published_dt_iso": "2026-09-25T02:11:44+08:00"
+  },
+  {
+    "title": "Meta的Muse Charm看起来像Tamagotchi ，但它正在进入一个更新的趋势",
+    "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "date": "2026-09-25",
+    "published_time": "01:39",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Meta的新AI小工具可能看起来像Tamagotchi ，但其悬挂的外形尺寸利用了更广泛的Z世代趋势，包括手袋吊饰、复古科技以及将小工具变成时尚配饰。",
+    "published_dt_iso": "2026-09-25T01:39:24+08:00"
+  },
+  {
+    "title": "ElevenLabs的首席执行官了解利润率、IPO时间，并告诉客户他们正在与机器人交谈",
+    "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+    "date": "2026-09-25",
+    "published_time": "00:35",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "ElevenLabs为许多客户服务电话的另一端的人工智能语音提供支持，其首席执行官本周告诉我，企业可能应该告诉你—至少在获得机器之前是每个人都期望的。",
+    "published_dt_iso": "2026-09-25T00:35:13+08:00"
+  },
+  {
+    "title": "OpenAI专员进入澳大利亚的Medicare STATS门户网站，通知延迟了84天",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site",
+    "date": "2026-09-25",
+    "published_time": "04:34",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "澳大利亚表示， OpenAI代理商在6月份通过了Medicare统计门户网站的屏蔽。OpenAI的通知于9月到达。",
+    "published_dt_iso": "2026-09-25T04:34:31+08:00"
+  },
+  {
+    "title": "索尼专利可以将PlayStation控制器变成轻触即付的信用卡终端",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/sony-patent-could-turn-playstation-controllers-into-tap-to-pay-credit-card-terminals-nfc-and-bluetooth-also-support-phones-and-gift-cards-for-instant-purchases",
+    "date": "2026-09-25",
+    "published_time": "01:09",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "一项新的专利申请详细说明了未来PlayStation控制器接受信用卡和礼品卡付款的潜力。",
+    "published_dt_iso": "2026-09-25T01:09:31+08:00"
+  },
+  {
+    "title": "领先的半导体分析师表示，应调查AMD对中国受限芯片可用性的“叛国罪”",
+    "link": "https://www.tomshardware.com/tech-industry/leading-semiconductor-analyst-accuses-amd-of-treason-over-restricted-chips-availability-in-china-amd-blames-diversion-of-export-controlled-rfsoc-usd36-000-radar-silicon-allegedly-quoted-at-usd1-000-for-crowdfunding-project",
+    "date": "2026-09-24",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "顶级半导体分析公司指责AMD叛国， AMD表示这可能是对出口控制的自适应无线电平台的“转移”。",
+    "published_dt_iso": "2026-09-24T21:00:44+08:00"
+  },
+  {
+    "title": "这是特斯拉半挂车……又来了",
+    "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+    "date": "2026-09-25",
+    "published_time": "10:12",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "还记得特斯拉Semi吗？这款于2017年首次以概念形式推出的长途重型卡车最终于2026年4月量产，比首次推出晚了近十年。周四晚上，该公司为Semi举办了另一场活动，向客户和投资者展示了漫长的等待[…]",
+    "published_dt_iso": "2026-09-25T10:12:57+08:00"
+  },
+  {
+    "title": "微软正在淘汰“Copilot Plus PC”品牌",
+    "link": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+    "date": "2026-09-25",
+    "published_time": "09:25",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "还记得微软希望每个人都知道“Copilot Plus PC”是可以获得的，因为这些PC具有足够的内置AI功能来完成任务？两年半后，微软和高通似乎承认该品牌已经死亡。Windows Central的Zac Bowden报告[…]",
+    "published_dt_iso": "2026-09-25T09:25:53+08:00"
+  },
+  {
+    "title": "Meta员工在打击儿童安全披露的同时订购了“律师/客户特权”帽子",
+    "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+    "date": "2026-09-25",
+    "published_time": "07:50",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta的律师辩称，在针对涉嫌伤害青少年安全和心理健康的诉讼中，以律师-客户特权为由，某些证据应从公众视野中隐瞒。起诉该公司的律师本周表示，该标签的适用范围过于广泛，同时指出最近未密封的文件[…]",
+    "published_dt_iso": "2026-09-25T07:50:55+08:00"
+  },
+  {
+    "title": "高通公司的新“Elite”声音芯片可能最终提供Wi",
+    "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+    "date": "2026-09-25",
+    "published_time": "07:42",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "如果您的无线耳机（或音频眼镜）可以传输高质量的无损音频，而当您将手机放在床边充电器上或埋在沙发上时，这些音频不会中断，该怎么办？高通公司的新款Snapdragon Sound Elite Gen 2是其首款将“微功率Wi-Fi 6E”直接集成到芯片中的产品，因此它们可以[…]",
+    "published_dt_iso": "2026-09-25T07:42:39+08:00"
+  },
+  {
+    "title": "微软让布拉德·史密斯负责沟通",
+    "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+    "date": "2026-09-25",
+    "published_time": "06:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Microsoft正在将其通信部门从营销部门转移到公司、外部和法律事务(CELA)部门。出人意料的变化是，微软副董事长兼总裁布拉德·史密斯（ Brad Smith ）将负责通信，而该公司正在寻找首席通信官弗兰克·肖（ Frank Shaw ）的替代人选，后者将于今年晚些时候离微软首席执行官Satya […]",
+    "published_dt_iso": "2026-09-25T06:08:22+08:00"
+  },
+  {
+    "title": "Gemini 3.8 Live with Live Avatar为谷歌的人工智能提供了一张脸",
+    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+    "date": "2026-09-25",
+    "published_time": "03:59",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "谷歌的新Gemini 3.8实时更新允许用户在观看动画AI角色实时响应的同时与模型进行对话。“Live Avatar”将在对话期间同步并显示不同的面部表情，但目前仅适用于Gemini Enterprise客户。正如谷歌所指出的， Live Avatar可以在97 […]之间转换",
+    "published_dt_iso": "2026-09-25T03:59:26+08:00"
+  },
+  {
+    "title": "遗憾的是，这款配备$ 1,549 RTX 5070的游戏电脑非常划算",
+    "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+    "date": "2026-09-25",
+    "published_time": "02:19",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "虽然PC组件价格仍然很高，但通过购买预建的台式机，您可以在系统上节省大量资金。沃尔玛有一台设备齐全的CyberPowerPC游戏PC ，售价为1,549美元，比原价2,139美元低近600美元。它由英特尔酷睿i7-14700KF处理器提供动力，并与32GB的6000MHz […]",
+    "published_dt_iso": "2026-09-25T02:19:23+08:00"
+  },
+  {
+    "title": "Jensen Huang像超级恶棍一样谈论人工智能和气候变化",
+    "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+    "date": "2026-09-25",
+    "published_time": "02:04",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "正如Jensen Huang所说，人工智能可以帮助应对气候变化--但前提是它首先造成“巨大的痛苦和苦难”。这位英伟达首席执行官在最新一期的《以斯拉·克莱因秀》中讨论了能源的未来和人工智能对我们星球的影响。但他的评论可以归结为[…]",
+    "published_dt_iso": "2026-09-25T02:04:44+08:00"
+  },
+  {
+    "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
+    "link": "https://www.qbitai.com/2026/09/497012.html",
+    "date": "2026-09-25",
+    "published_time": "13:52",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-25T13:52:18+08:00"
+  },
+  {
+    "title": "海贝 RS2 音乐播放器发售：R2R 技术达尔文三代架构，2798 元起",
+    "link": "https://www.ithome.com/1/007/137.htm",
+    "date": "2026-09-25",
+    "published_time": "14:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，海贝本周三发布了 RS2 便携无损音乐播放器，标准版（铝合金 / 墨绿色）定价 2798 元，限量版（黄铜） 3498 元。据介绍，这款播放器采用旗舰型号 RS8 二代同款第三代达尔文架构 (DARWIN III)，由 HiBy 全程自主研发，重构底层核心处理架构，重塑高清音频处理全流程。第三代达尔文架构采用全新 FPGA 数字引擎，逻辑单元数量突破 35K，拥有 40 个高速、高性能 DSP，为可调纯 FIR 滤波算法、多样 DARWIN 滤波器、谐波控制器等特色功能提供强大算力基础，实现全柔性架构、全流程自主可控。第三代达尔文架构配备两颗飞秒级低相噪音频专用晶振，分别为 45.158MHz、 49.152MHz，可有效降低相位噪声以及时钟抖动，低至 -14",
+    "published_dt_iso": "2026-09-25T14:43:38+08:00"
+  },
+  {
+    "title": "日均 240 万人次，中秋、国庆假期民航旅客量有望再创同期新高",
+    "link": "https://www.ithome.com/1/007/135.htm",
+    "date": "2026-09-25",
+    "published_time": "14:31",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，据央视新闻报道，24 日，民航局相关负责人表示，中秋、国庆假期也是民航旅客出行的高峰，环线游、出境游增速非常明显。假日出行还呈现出去程渐次达峰、回程集中抵离的特点。民航的旅客量有望再创历史同期新高。中国民航局副局长马兵表示，整体来看，从 9 月 25 日到 10 月 7 日，全国民航预计运输旅客量 3119 万人次，日均 240 万人次，增长率 3.6%。单日峰值有望突破 260 万人次，超过去年同期水平。据介绍，大城市航空客流保持高位，特色旅游城市客流快速增长。十大航空枢纽（IT之家注：中国民航 10 个国际航空枢纽为北京、上海、广州、成都、昆明、深圳、重庆、西安、乌鲁木齐、哈尔滨）目前日均机票预订量已超过了 49 万张，同比增长了 3.9%。截至目前，“双",
+    "published_dt_iso": "2026-09-25T14:31:47+08:00"
+  },
+  {
+    "title": "全球首台全天候浮空器在川首发：可连续驻空五年，覆盖面积约 2000 平方公里",
+    "link": "https://www.ithome.com/1/007/134.htm",
+    "date": "2026-09-25",
+    "published_time": "14:31",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，北京驭风飞行科技有限公司宣布，全球首台全天候浮空器 —— 云哨 M1000-CNS 首发仪式于 9 月 22 日在四川自贡荣县云哨浮空器产教融合总部基地举行。这一可连续驻空五年、通导监气一体化的空基平台直径 21 米、总长 24 米，集成风电、光伏与储能一体化供电系统，能够抵御风雨、冰雪、雷电等复杂天气条件，具备全天候作业能力。与传统柔式浮空器不同，该产品将柔性升力体蒙皮与刚性载荷舱、能源及系留系统进行一体化承载与姿态控制，外蒙皮仅负责耐耗，内部设置多个浮力囊体负责气密，从而降低了整体制造成本。IT之家注：浮空器是指利用轻于空气的气体提供升力、可长时间驻留空中的飞行器，常见形式包括系留气球和飞艇。驭风飞行董事长兼 CEO 史智广在现场介绍称，云哨 M1000-",
+    "published_dt_iso": "2026-09-25T14:31:09+08:00"
+  },
+  {
+    "title": "蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级",
+    "link": "https://www.ithome.com/1/007/133.htm",
+    "date": "2026-09-25",
+    "published_time": "14:24",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，蔚来今日宣布，蔚来“Cedar S 雪松”智能系统 1.6.0 版本已全量推送。为 ES6、EC6、ET5、ET5T 带来全维度智能的智能座舱、更全能的得力助手 NOMI、专属驾乘体验、智能辅助驾驶四大板块，超 30 项功能体验新增与升级。IT之家附本次更新内容如下：中控屏交互体验新增桌面随挡位自动切换：P 挡进入艺境桌面，D 挡进入地图桌面手势切换主题：支持五指抓握屏幕手势，便捷进入艺境主题切换页优化无限画布布局：进入后保留底部导航栏底部导航栏自定义：优化操作交互快捷控制卡片交互：点击儿童座椅卡片可直跳对应设置页HUD 交互体验新增HUD 极简模式：仅保留车速、限速、车道指引等核心信息，支持显示转向盲点影像挡位数值直观显示：调节高度与角度时实时显示挡位数值地",
+    "published_dt_iso": "2026-09-25T14:24:29+08:00"
+  },
+  {
+    "title": "哈伊高铁 9 月 28 日开通运营：哈尔滨至伊春最快 1 小时 46 分钟，实施市场化票价机制",
+    "link": "https://www.ithome.com/1/007/132.htm",
+    "date": "2026-09-25",
+    "published_time": "14:16",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，国铁集团今日宣布，哈尔滨至伊春高速铁路将于 9 月 28 日开通运营。IT之家注意到，相关车次已上架铁路 12306，但目前处于暂停发售状态。哈伊高铁开通后，哈尔滨至伊春间最快 1 小时 46 分钟可达，绥化、伊春等地市接入全国高铁网。为满足旅客不同出行需求，铁路部门在哈伊高铁实施灵活折扣、差异化的市场化票价机制，为旅客出行提供更多选择，具体票价可通过铁路 12306 查询。哈伊高铁起自哈尔滨站，途经黑龙江省哈尔滨市、绥化市、铁力市，终至伊春市，线路全长 318 公里，设计时速 250 公里。全线共设哈尔滨、哈尔滨北、呼兰北、兴隆镇西、绥化南、庆安南、铁力、日月峡、伊春西 9 座车站。其中哈尔滨站、哈尔滨北站为既有车站，铁力站为既有车站改建站，其余均为新建车站",
+    "published_dt_iso": "2026-09-25T14:16:38+08:00"
+  },
+  {
+    "title": "谷歌网页版 Gmail 星标和“重要”标签默认设为蓝色，用户抱怨导致收件箱杂乱无章",
+    "link": "https://www.ithome.com/1/007/131.htm",
+    "date": "2026-09-25",
+    "published_time": "14:15",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，科技媒体 Android Authority 今天（9 月 25 日）发布博文，报道称谷歌调整网页版 Gmail 的星标和“重要”标记，默认统一变成蓝色，这引发了用户的广泛抱怨。谷歌于 9 月 17 日通过 X 平台发布推文，表示为了符合现代无障碍标准，将默认的星标和“重要”标签颜色从黄色更新为蓝色。此项更改确保收件箱更清晰、更易读，并且对所有人都更友好。IT之家附上相关图片如下：报道指出 Gmail 长期使用黄色图标，帮助用户快速识别邮件状态。本次更新将默认黄色星标和黄色重要性箭头，均改为高饱和度蓝色，引发不少用户吐槽。部分用户认为，相同的饱和蓝色削弱了收件箱的视觉层级。用户还表示，新图标在邮件列表中更加醒目，增加了界面杂乱感。谷歌暂未提供恢复经典黄色配色的",
+    "published_dt_iso": "2026-09-25T14:15:09+08:00"
+  },
+  {
+    "title": "瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能",
+    "link": "https://www.ithome.com/1/007/130.htm",
+    "date": "2026-09-25",
+    "published_time": "14:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，康宁公司于 9 月 24 日宣布，将扩大 Polarcor 玻璃偏振片的制造产能，以应对 AI 数据中心和计算应用持续增长的需求。此次产能扩建将提升康宁工程化玻璃偏振片的生产能力。该类产品广泛应用于光隔离器及其他激光光学器件，是先进光学和光子系统的重要组成部分。与此同时，康宁与一家领先的有源光子技术企业达成了一项新的多年期供货协议。据康宁介绍，这项多年期供货协议将为关键客户提供长期稳定的供应保障。随着 AI 工作负载规模不断扩大，数据中心对光学和光子技术的依赖程度持续加深，以实现海量数据的高速高效传输。光互连在系统性能中扮演的角色日益关键，对光信号进行精准可靠的控制也因此变得更为重要。康宁的 Polarcor 工程化玻璃偏振片正是面向这一需求设计，能够控制偏振",
+    "published_dt_iso": "2026-09-25T14:09:48+08:00"
+  },
+  {
+    "title": "Nothing Headphone（1）Pro 耳机渲染图曝光：支持主动降噪、满电续航 60 小时",
+    "link": "https://www.ithome.com/1/007/127.htm",
+    "date": "2026-09-25",
+    "published_time": "14:03",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，德国科技媒体 WinFuture 昨日（9 月 24 日）发布博文，分享了一组渲染图，展示了 Nothing Headphone（1）Pro，并透露称这款高端耳机将于 2027 年 9 月 29 日发布（原文显示为明年，可能是笔误，此前消息称今年发布），售价为 349 欧元（IT之家注：现汇率约合 2,665 元人民币）。外观方面，机身延续 Nothing 的设计语言，加入透明元素和圆润边角，预计提供黑色与白色版本，内置 10 个麦克风，可支持自适应主动降噪。材质方面，产品机身据称采用铝合金和防刮玻璃。其防护等级为 IP52，具备有限的防尘和防溅能力。耳罩加入填充结构，并配备实体控制部件，可用于操控语音助手和通话。音频方面，耳机每侧配备 3 个扬声器单元。其中",
+    "published_dt_iso": "2026-09-25T14:03:13+08:00"
+  },
+  {
+    "title": "为什么青少年已经成为足球转会市场的重要组成部分",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "14:32",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育频道探讨了为什么英格兰足球顶级俱乐部越来越多地交易学院球员，以及对年轻人本身的影响。",
+    "published_dt_iso": "2026-09-25T14:32:33+08:00"
+  },
+  {
+    "title": "欧足联担心英超联赛支出对转会市场的影响",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c639merx84jno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "06:09",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "欧足联认为，由于今年夏天英超俱乐部的巨额支出， “明确的双速系统”正在转会市场出现。",
+    "published_dt_iso": "2026-09-25T06:09:28+08:00"
+  },
+  {
+    "title": "曼联再借入9000万£ ，债务超过11亿£",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "06:22",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "曼联证实，自6月30日以来，他们又借了9000万£ ，使他们的总债务超过11亿£。",
+    "published_dt_iso": "2026-09-25T06:22:43+08:00"
+  },
+  {
+    "title": "英超热衷于解决EFL资金僵局",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmly4qkly434o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "01:52",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英超联赛希望“尽快”与EFL就其资助模式达成协议。",
+    "published_dt_iso": "2026-09-25T01:52:44+08:00"
+  },
+  {
+    "title": "习言道｜中美关系又站在新的历史起点上",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703664.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "当地时间9月24日晚，国家主席习近平和夫人彭丽媛在白宫出席美国总统特朗普和夫人梅拉尼娅举行的欢迎宴会。习近平主席发表致辞。他指出——",
+    "published_dt_iso": "2026-09-25T13:43:56+08:00"
+  },
+  {
+    "title": "17国研修班结束四川访问 盼深化交流合作",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703647.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网成都9月25日电 (记者 岳依桐)由马来西亚国会上议院副议长努尔·贾兹兰为团长，17国国际和平组织与安全智库领导人组成的研修班一行25日结束了对四川为期4天的访问。",
+    "published_dt_iso": "2026-09-25T13:41:05+08:00"
+  },
+  {
+    "title": "习近平：共同浇灌中美友谊的美丽花朵",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703669.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会。习近平在祝酒辞中说——",
+    "published_dt_iso": "2026-09-25T13:33:21+08:00"
+  },
+  {
+    "title": "韩正会见保加利亚总统约托娃",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703633.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社纽约9月24日电 当地时间9月24日，中国国家副主席韩正在纽约出席联合国大会期间会见保加利亚总统约托娃。",
+    "published_dt_iso": "2026-09-25T13:32:19+08:00"
+  },
+  {
+    "title": "韩正会见塞尔维亚总统武契奇",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703631.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社纽约9月24日电 当地时间9月24日，中国国家副主席韩正在纽约出席联合国大会期间会见塞尔维亚总统武契奇。",
+    "published_dt_iso": "2026-09-25T13:32:03+08:00"
+  },
+  {
+    "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703632.shtml",
+    "date": "2026-09-25",
+    "published_time": "12:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社华盛顿9月24日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。",
+    "published_dt_iso": "2026-09-25T12:40:30+08:00"
+  },
+  {
+    "title": "“温水煮青蛙” 日本渐进式布局军用AI暗藏多重风险",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703709.shtml",
+    "date": "2026-09-25",
+    "published_time": "14:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "日本政府及执政党相关人士近日透露，日本政府已着手探讨启动将人形机器人用于防卫领域的相关研究。详情显示，日本政府计划年底修改“安保三文件”，全面运用人工智能(AI)将成为强化防卫力的核心。",
+    "published_dt_iso": "2026-09-25T14:26:18+08:00"
+  },
+  {
+    "title": "走进美国希望中文学校：做美中文化民间交流的桥梁",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703651.shtml",
+    "date": "2026-09-25",
+    "published_time": "12:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社华盛顿9月24日电 题：走进美国希望中文学校：做美中文化民间交流的桥梁",
+    "published_dt_iso": "2026-09-25T12:42:06+08:00"
+  },
+  {
+    "title": "中国驻墨尔本总领馆举办庆祝中华人民共和国成立77周年招待会",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703635.shtml",
+    "date": "2026-09-25",
+    "published_time": "12:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网悉尼9月25日电 中国驻墨尔本总领馆近日举行庆祝中华人民共和国成立77周年招待会。",
+    "published_dt_iso": "2026-09-25T12:39:58+08:00"
+  },
+  {
+    "title": "也门胡塞武装称袭击沙特多地目标",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703614.shtml",
+    "date": "2026-09-25",
+    "published_time": "12:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月25日电 综合消息：也门胡塞武装方面当地时间24日表示，该组织武装部队对沙特阿拉伯首都利雅得一处“敏感地点”、西部城市延布的沙特阿美石油公司设施，以及西南部吉赞地区多处军事目标发动袭击。",
+    "published_dt_iso": "2026-09-25T12:38:56+08:00"
+  },
+  {
+    "title": "驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703575.shtml",
+    "date": "2026-09-25",
+    "published_time": "09:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网堪培拉9月25日电 (记者 薄雯雯)中国驻澳大利亚大使馆24日举行庆祝中华人民共和国成立77周年暨刘劲松大使到任招待会。澳大利亚总督官方秘书马丁、总理内阁部副秘书长韩家思、外交贸易部代理副秘书长高志磊、各界友人、驻澳使节及华侨华人、中资机构和留学生代表等400余人出席。",
+    "published_dt_iso": "2026-09-25T09:14:41+08:00"
+  },
+  {
+    "title": "比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703567.shtml",
+    "date": "2026-09-25",
+    "published_time": "09:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网布鲁塞尔9月25日电 (记者 德永健)案发3年半后，比利时知名艺术品收藏家米莉亚姆·尤伦斯遭枪杀案24日开审，嫌疑人米莉亚姆·尤伦斯的继子尼古拉·尤伦斯将接受法庭审判。",
+    "published_dt_iso": "2026-09-25T09:13:35+08:00"
+  },
+  {
+    "title": "马克龙：法国正在尽一切努力避免燃油短缺",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703549.shtml",
+    "date": "2026-09-25",
+    "published_time": "07:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社巴黎9月24日电 (记者 李洋)法国总统马克龙当地时间24日晚表示，法国正在尽一切努力避免燃油短缺。",
+    "published_dt_iso": "2026-09-25T07:02:53+08:00"
+  },
+  {
+    "title": "哈尔滨至伊春高铁9月28日开通运营 将实施市场化票价机制",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703705.shtml",
+    "date": "2026-09-25",
+    "published_time": "14:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "记者从国铁集团获悉，哈尔滨至伊春高速铁路(以下简称哈伊高铁)将于9月28日开通运营，哈尔滨至伊春间最快1小时46分钟可达，绥化、伊春等地市接入全国高铁网，为新时代东北全面振兴注入新动能。",
+    "published_dt_iso": "2026-09-25T14:16:30+08:00"
+  },
+  {
+    "title": "产业迭代，需求升级，新职业成为青年就业新选项",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703702.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "【育见青春·Hello新职业】",
+    "published_dt_iso": "2026-09-25T13:59:16+08:00"
+  },
+  {
+    "title": "瓯江之畔，浙江丽水“巴比松”探讨数字时代“新可能”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703663.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网丽水9月25日电(黄彦君)瓯江流淌，青山如黛，入秋的浙江省丽水市莲都区古堰画乡，宛如一幅风景画。",
+    "published_dt_iso": "2026-09-25T13:55:40+08:00"
+  },
+  {
+    "title": "辽宁抚顺举办主题活动传承红色薪火",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703650.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网抚顺9月25日电 “传承红色薪火，争做党和人民的红孩子”主题汇报展示暨“青少年党史学习月”推进会近日在抚顺市雷锋纪念馆雷锋讲坛隆重举行。",
+    "published_dt_iso": "2026-09-25T13:50:02+08:00"
+  },
+  {
+    "title": "通途畅行，满载“欣悦”赴远方",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703690.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "铁路中秋国庆假期运输9月23日启动，至10月8日结束，为期16天，全国铁路预计发送旅客2.84亿人次，日均计划开行旅客列车约1.3万列，10月1日将迎来客流最高峰。",
+    "published_dt_iso": "2026-09-25T13:49:16+08:00"
+  },
+  {
+    "title": "联动全球13条运河 第四届北京国际运河艺术周开幕",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703636.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月25日电 (记者 徐婧)第四届北京国际运河艺术周24日开幕。活动开展文艺演出、主题市集、多地快闪等，联动德国多特蒙德-埃姆斯运河、罗马尼亚多瑙-黑海运河等全球13条运河，让古老运河焕发时代新貌。",
+    "published_dt_iso": "2026-09-25T13:32:45+08:00"
+  },
+  {
+    "title": "五千年良渚古城里的“共建”故事",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703670.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州9月25日电 题：五千年良渚古城里的“共建”故事",
+    "published_dt_iso": "2026-09-25T13:32:41+08:00"
+  },
+  {
+    "title": "擦亮美食IP 浙江台州探索如何“吃出圈”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703676.shtml",
+    "date": "2026-09-25",
+    "published_time": "13:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网台州9月25日电(周健)浙江台州“山珍海味一盘收”，独特的地理格局孕育了“无鲜勿落饭”的饮食哲学。从“鲜嗒嗒、糯叽叽、甜蜜蜜”的鲜明标签引爆网络，到米其林指南榜单发布仪式、中国餐饮产业发展大会先后落地，台州美食已成为拉动消费增长、展示城市气质、赋能文旅融合的支柱产业。",
+    "published_dt_iso": "2026-09-25T13:23:02+08:00"
+  },
+  {
+    "title": "习近平访美：白宫国宴谁出席、谁缺席？意味了什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "14:00",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "多名美国科技和金融界巨头有份出席，部分人士更与两国领导人同桌。但近日高调警告人工智能风险的企业Anthropic代表未有出席。",
+    "published_dt_iso": "2026-09-25T14:00:47+08:00"
+  },
+  {
+    "title": "习近平获特朗普红地毡迎接，但并非事事如愿",
+    "link": "https://www.bbc.com/zhongwen/articles/ckvgyjmq84g4o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "12:54",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "中国希望在贸易、科技和台湾议题上取得进展，但成果未如预期。",
+    "published_dt_iso": "2026-09-25T12:54:32+08:00"
+  },
+  {
+    "title": "为何特朗普在国宴上送习近平一座华丽的白头海雕雕像？",
+    "link": "https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "12:56",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "从红杉木长椅到DVD，馈赠礼物一直是外交艺术的重要一环。",
+    "published_dt_iso": "2026-09-25T12:56:06+08:00"
+  },
+  {
+    "title": "习近平访美排场十足，但迄今进展甚微",
+    "link": "https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "07:51",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "有分析人士表示，峰会至今主要着眼于营造“正面气氛”，但仍有多项迫切议题有待讨论。",
+    "published_dt_iso": "2026-09-25T07:51:17+08:00"
+  },
+  {
+    "title": "“让女性感到被看见”：为何荷兰人为阴唇创造了一个新词？",
+    "link": "https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "08:03",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "倡议人士希望，这些新词语能减少对身体的羞辱，并推动更正向的性观念。",
+    "published_dt_iso": "2026-09-25T08:03:23+08:00"
+  },
+  {
+    "title": "在特朗普的白宫，中国的独裁者受到欢迎。美国媒体，不是这样。",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html",
+    "date": "2026-09-25",
+    "published_time": "08:38",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统部分媒体禁令的摊牌在他欢迎习近平主席的同时进行，习近平政府是世界上最具压制性的政府之一。",
+    "published_dt_iso": "2026-09-25T08:38:46+08:00"
+  },
+  {
+    "title": "特朗普和习近平在美国的飞越和熊猫掩盖了分歧",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html",
+    "date": "2026-09-25",
+    "published_time": "11:10",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "随着中国国家主席习近平十多年来首次访问白宫，特朗普总统推出了他个人的外交品牌。",
+    "published_dt_iso": "2026-09-25T11:10:18+08:00"
+  },
+  {
+    "title": "在特朗普主持纪念习近平的国宴之际，请参阅菜单",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html",
+    "date": "2026-09-25",
+    "published_time": "14:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "白宫表示，包括海鲈鱼和白菜在内的三道菜菜单以美国食材为特色，具有“微妙的中国影响”。",
+    "published_dt_iso": "2026-09-25T14:41:26+08:00"
+  },
+  {
+    "title": "内塔尼亚胡在联合国发言时谴责以色列的批评者是“道德懦夫”",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html",
+    "date": "2026-09-25",
+    "published_time": "08:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）也对接待他的市长佐赫兰·马姆达尼（ Zohran Mamdani ）感到愤怒。",
+    "published_dt_iso": "2026-09-25T08:40:57+08:00"
+  },
+  {
+    "title": "马姆达尼指责内塔尼亚胡在联合国演讲后散布“毫无根据的谎言”",
+    "link": "https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html",
+    "date": "2026-09-25",
+    "published_time": "08:57",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The Israeli prime minister accused Mayor Zohran Mamdani, an outspoken critic of Israel, of antisemitism. The mayor has become a political foil for the prime minister.",
+    "published_dt_iso": "2026-09-25T08:57:28+08:00"
+  },
+  {
+    "title": "About 100 Are Arrested in Protests Against Netanyahu",
+    "link": "https://www.nytimes.com/2026/09/24/nyregion/un-protest-netanyahu-israel-gaza.html",
+    "date": "2026-09-25",
+    "published_time": "08:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Large groups gathered in Midtown Manhattan to demonstrate as the Israeli prime minister spoke to the General Assembly.",
+    "published_dt_iso": "2026-09-25T08:03:00+08:00"
+  },
+  {
+    "title": "Iran Proposes 7",
+    "link": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
+    "date": "2026-09-25",
+    "published_time": "13:27",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived.",
+    "published_dt_iso": "2026-09-25T13:27:17+08:00"
+  },
+  {
+    "title": "Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/senate-iran-war-powers-trump.html",
+    "date": "2026-09-25",
+    "published_time": "04:44",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The vote came as a growing number of Republicans have broken from President Trump on the conflict, reflecting voters’ concerns ahead of midterm elections.",
+    "published_dt_iso": "2026-09-25T04:44:21+08:00"
   }
 ]

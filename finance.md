@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,361.63</span>
-      <span class="ticker-change down">▼ -0.40%</span>
+      <span class="ticker-price ticker-down">4,294.50</span>
+      <span class="ticker-change down">▼ -1.53%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,436.50</span>
-      <span class="ticker-change down">▼ -0.00%</span>
+      <span class="ticker-price ticker-up">30,478.86</span>
+      <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7161</span>
+      <span class="ticker-price ticker-up">6.7179</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,262.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -24.86 (-0.58%)</span>
+      <span class="ticker-price ticker-up">$4,276.27 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +2.51 (+0.06%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+43.5 亿</span>
+      <span class="sector-flow-badge">+30.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+48.6 亿</span>
+      <span class="sector-flow-badge">+52.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+22.3 亿</span>
+      <span class="sector-flow-badge">+48.7 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+54.9 亿</span>
+      <span class="sector-flow-badge">+23.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,56 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/007/130.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，康宁公司于 9 月 24 日宣布，将扩大 Polarcor 玻璃偏振片的制造产能，以应对 AI 数据中心和计算应用持续增长的需求。此次产能扩建将提升康宁工程化玻璃偏振片的生产能力。该类产品广泛应用于光隔离器及其他激光光学器件，是先进光学和光子系统的重要组成部分。与此同时，康宁与一家领先的有源光子技术企业达成了一项新的多年期供货协议。据康宁介绍，这项多年期供货协议将为关键客户提供长期稳定的供应保障。随着 AI 工作负载规模不断扩大，数据中心对光学和光子技术的依赖程度持续加深，以实现海量数据的高速高效传输。光互连在系统性能中扮演的角色日益关键，对光信号进行精准可靠的控制也因此变得更为重要。康宁的 Polarcor 工程化玻璃偏振片正是面向这一需求设计，能够控制偏振" data-title="瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能" data-date="09-25 14:09" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 14:09</span>
+          <span class="news-item-title">瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/127.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，德国科技媒体 WinFuture 昨日（9 月 24 日）发布博文，分享了一组渲染图，展示了 Nothing Headphone（1）Pro，并透露称这款高端耳机将于 2027 年 9 月 29 日发布（原文显示为明年，可能是笔误，此前消息称今年发布），售价为 349 欧元（IT之家注：现汇率约合 2,665 元人民币）。外观方面，机身延续 Nothing 的设计语言，加入透明元素和圆润边角，预计提供黑色与白色版本，内置 10 个麦克风，可支持自适应主动降噪。材质方面，产品机身据称采用铝合金和防刮玻璃。其防护等级为 IP52，具备有限的防尘和防溅能力。耳罩加入填充结构，并配备实体控制部件，可用于操控语音助手和通话。音频方面，耳机每侧配备 3 个扬声器单元。其中" data-title="Nothing Headphone（1）Pro 耳机渲染图曝光：支持主动降噪、满电续航 60 小时" data-date="09-25 14:03" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 14:03</span>
+          <span class="news-item-title">Nothing Headphone（1）Pro 耳机渲染图曝光：支持主动降噪、满电续航 60 小时</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703702.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【育见青春·Hello新职业】" data-title="产业迭代，需求升级，新职业成为青年就业新选项" data-date="09-25 13:59" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 13:59</span>
+          <span class="news-item-title">产业迭代，需求升级，新职业成为青年就业新选项</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703676.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网台州9月25日电(周健)浙江台州“山珍海味一盘收”，独特的地理格局孕育了“无鲜勿落饭”的饮食哲学。从“鲜嗒嗒、糯叽叽、甜蜜蜜”的鲜明标签引爆网络，到米其林指南榜单发布仪式、中国餐饮产业发展大会先后落地，台州美食已成为拉动消费增长、展示城市气质、赋能文旅融合的支柱产业。" data-title="擦亮美食IP 浙江台州探索如何“吃出圈”" data-date="09-25 13:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 13:23</span>
+          <span class="news-item-title">擦亮美食IP 浙江台州探索如何“吃出圈”</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/" target="_blank" rel="noopener" data-cat="caijing" data-summary="这家风险投资公司首次将其印度筹资周期与其全球基金保持一致，因为它将转向更短的投资周期。" data-title="LIGHTSPEED的目标是新印度基金$ 2.5亿，重点是早期" data-date="09-25 13:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-25 13:00</span>
+          <span class="news-item-title">LIGHTSPEED的目标是新印度基金$ 2.5亿，重点是早期</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ckvgyjmq84g4o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国希望在贸易、科技和台湾议题上取得进展，但成果未如预期。" data-title="习近平获特朗普红地毡迎接，但并非事事如愿" data-date="09-25 12:54" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-25 12:54</span>
+          <span class="news-item-title">习近平获特朗普红地毡迎接，但并非事事如愿</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer" target="_blank" rel="noopener" data-cat="caijing" data-summary="还记得特斯拉Semi吗？这款于2017年首次以概念形式推出的长途重型卡车最终于2026年4月量产，比首次推出晚了近十年。周四晚上，该公司为Semi举办了另一场活动，向客户和投资者展示了漫长的等待[…]" data-title="这是特斯拉半挂车……又来了" data-date="09-25 10:12" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-25 10:12</span>
+          <span class="news-item-title">这是特斯拉半挂车……又来了</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703575.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网堪培拉9月25日电 (记者 薄雯雯)中国驻澳大利亚大使馆24日举行庆祝中华人民共和国成立77周年暨刘劲松大使到任招待会。澳大利亚总督官方秘书马丁、总理内阁部副秘书长韩家思、外交贸易部代理副秘书长高志磊、各界友人、驻澳使节及华侨华人、中资机构和留学生代表等400余人出席。" data-title="驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会" data-date="09-25 09:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 09:14</span>
+          <span class="news-item-title">驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="上涨发生在政府债务大幅抛售的第二天。" data-title="债券市场波动，油价上涨" data-date="09-25 01:09" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -274,12 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-24 19:41</span>
           <span class="news-item-title">研究机构大幅上调今年德国经济增长预期</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqvgyl2k378go/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国国家主席习近平专机抵达首都华盛顿附近的安德鲁斯联合基地，美国总统特朗普（川普）打破惯例，亲自接机。" data-title="特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续“停火”" data-date="09-24 11:13" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-24 11:13</span>
-          <span class="news-item-title">特朗普迎接习近平开展对美国事访问 贝森特宣布两国贸易战继续“停火”</span>
-        </a>
   </div>
 </div>
 
@@ -293,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-25 01:23（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-25 14:46（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
