@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,478.86</span>
+      <span class="ticker-price ticker-up">30,642.01</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7239</span>
+      <span class="ticker-price ticker-up">6.7236</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,299.56 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +25.80 (+0.60%)</span>
+      <span class="ticker-price ticker-up">$4,290.56 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +16.80 (+0.39%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -230,49 +230,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/007/229.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，长安汽车 9 月 24 日公布投资者关系活动记录表，回答了钠电池量产时间等问题。长安汽车表示，公司在钠离子电池领域已取得阶段性进展，钠离子电池突破高功率极片单点技术，提升极端温况续航体验；此外公司深化与宁德时代合作，钠新换电技术项目立项，共同研发新体系电池。IT之家注意到，去年 4 月 21 日，宁德时代在首个超级科技日上发布全球首个大规模量产的钠电池 —— 宁德时代钠新，正式开启钠电产品从 0 到 N 的广泛应用。作为宁德时代全新的钠离子电池品牌，宁德时代钠新包含“钠新动力电池”和“钠新-24V 重卡启驻一体蓄电池”两类产品，均可实现零下 40℃ 至零上 70℃ 的全温域征服。宁德时代此前称，钠新乘用车电池将彻底解决用户在极寒场景下的车辆性能衰减难题。以常见" data-title="长安汽车：深化与宁德时代合作，钠新换电技术项目立项" data-date="09-25 20:24" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 20:24</span>
-          <span class="news-item-title">长安汽车：深化与宁德时代合作，钠新换电技术项目立项</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/203.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，据外媒 VGC 今天（25 日）晚间报道，任天堂在一起 Switch 游戏盗版案中获赔 450 万美元（IT之家注：现汇率约合 3,022.8 万元人民币）。被告是网名 Archbox 的 Reddit 版主詹姆斯 · 威廉姆斯，他复制、传播盗版 Switch 游戏，同时分发运行游戏所需的工具。去年，任天堂向美国华盛顿西区联邦地区法院申请对威廉姆斯作出缺席判决，因为他没有回应任天堂于 2024 年提起的诉讼。最终，法院批准任天堂的全部申请，并判给任天堂 450 万美元（现汇率约合 3,022.8 万元人民币）全额赔偿。美国联邦地区法院法官劳伦 · 金指出，威廉姆斯完全知晓此案，不能以不知情为由辩解；他此前还聘请律师，对向谷歌发出的传票提出异议。法院命令指出，威" data-title="Reddit 版主大规模复制、传播盗版 Switch 游戏，被判赔偿任天堂 450 万美元" data-date="09-25 18:59" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 18:59</span>
-          <span class="news-item-title">Reddit 版主大规模复制、传播盗版 Switch 游戏，被判赔偿任天堂 450 万美元</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars." data-title="Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy" data-date="09-25 17:02" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="缓解与华盛顿的紧张局势为北京提供了解决国内经济困难的空间，同时也降低了其面对美国压力的脆弱性。" data-title="中国与特朗普的休战为它赢得了宝贵的时间" data-date="09-26 00:38" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 17:02</span>
-          <span class="news-item-title">Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy</span>
+          <span class="news-item-date">09-26 00:38</span>
+          <span class="news-item-title">中国与特朗普的休战为它赢得了宝贵的时间</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/130.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，康宁公司于 9 月 24 日宣布，将扩大 Polarcor 玻璃偏振片的制造产能，以应对 AI 数据中心和计算应用持续增长的需求。此次产能扩建将提升康宁工程化玻璃偏振片的生产能力。该类产品广泛应用于光隔离器及其他激光光学器件，是先进光学和光子系统的重要组成部分。与此同时，康宁与一家领先的有源光子技术企业达成了一项新的多年期供货协议。据康宁介绍，这项多年期供货协议将为关键客户提供长期稳定的供应保障。随着 AI 工作负载规模不断扩大，数据中心对光学和光子技术的依赖程度持续加深，以实现海量数据的高速高效传输。光互连在系统性能中扮演的角色日益关键，对光信号进行精准可靠的控制也因此变得更为重要。康宁的 Polarcor 工程化玻璃偏振片正是面向这一需求设计，能够控制偏振" data-title="瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能" data-date="09-25 14:09" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 14:09</span>
-          <span class="news-item-title">瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/127.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，德国科技媒体 WinFuture 昨日（9 月 24 日）发布博文，分享了一组渲染图，展示了 Nothing Headphone（1）Pro，并透露称这款高端耳机将于 2027 年 9 月 29 日发布（原文显示为明年，可能是笔误，此前消息称今年发布），售价为 349 欧元（IT之家注：现汇率约合 2,665 元人民币）。外观方面，机身延续 Nothing 的设计语言，加入透明元素和圆润边角，预计提供黑色与白色版本，内置 10 个麦克风，可支持自适应主动降噪。材质方面，产品机身据称采用铝合金和防刮玻璃。其防护等级为 IP52，具备有限的防尘和防溅能力。耳罩加入填充结构，并配备实体控制部件，可用于操控语音助手和通话。音频方面，耳机每侧配备 3 个扬声器单元。其中" data-title="Nothing Headphone（1）Pro 耳机渲染图曝光：支持主动降噪、满电续航 60 小时" data-date="09-25 14:03" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 14:03</span>
-          <span class="news-item-title">Nothing Headphone（1）Pro 耳机渲染图曝光：支持主动降噪、满电续航 60 小时</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703702.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【育见青春·Hello新职业】" data-title="产业迭代，需求升级，新职业成为青年就业新选项" data-date="09-25 13:59" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-26/10703962.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳9月25日电 (记者 单璐)当地时间25日，首届哈萨克斯坦—中国投资论坛在阿拉木图市举行。哈萨克斯坦总统托卡耶夫当天在开幕式上表示，哈中永久全面战略伙伴关系建立在坚实的基础上，两国多领域合作不断深化。" data-title="哈萨克斯坦总统：哈中多领域合作不断深化" data-date="09-26 00:21" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:59</span>
-          <span class="news-item-title">产业迭代，需求升级，新职业成为青年就业新选项</span>
+          <span class="news-item-date">09-26 00:21</span>
+          <span class="news-item-title">哈萨克斯坦总统：哈中多领域合作不断深化</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703676.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网台州9月25日电(周健)浙江台州“山珍海味一盘收”，独特的地理格局孕育了“无鲜勿落饭”的饮食哲学。从“鲜嗒嗒、糯叽叽、甜蜜蜜”的鲜明标签引爆网络，到米其林指南榜单发布仪式、中国餐饮产业发展大会先后落地，台州美食已成为拉动消费增长、展示城市气质、赋能文旅融合的支柱产业。" data-title="擦亮美食IP 浙江台州探索如何“吃出圈”" data-date="09-25 13:23" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October." data-title="Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections" data-date="09-25 23:38" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:23</span>
-          <span class="news-item-title">擦亮美食IP 浙江台州探索如何“吃出圈”</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-25 23:38</span>
+          <span class="news-item-title">Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/251.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，影石今日宣布，首家美国旗舰店于纽约时代广场正式开业。据此前官方介绍，这也是首个在纽约时代广场开业的中国影像品牌。截至目前，影石在全球体验零售店已超 10000 家，品牌旗舰店超 300 家。IT之家注意到，国际数据公司（IDC） 9 月 23 日发布 2026 年二季度全球手持智能影像设备市场数据。期内全球销量达 588.7 万台，同比增长 57.24%；销售额 156.89 亿元人民币。其中云台相机增长最快，销量同比激增 86.9% 至 279.3 万台。中国影像双雄影石、大疆成为本轮增长的核心引擎。影石披露，其相机全球累计出货量已突破 1000 万台，过去一年出货达 470 万台。全景相机领域，影石以 72.5% 的销量领跑行业，实现连续两个季度份额增长。" data-title="首个入驻纽约时代广场的中国影像品牌，影石首家美国旗舰店开业" data-date="09-25 23:23" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 23:23</span>
+          <span class="news-item-title">首个入驻纽约时代广场的中国影像品牌，影石首家美国旗舰店开业</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/interest-rates-economy-markets-inflation-mortgages.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="History shows that the markets and the economy flourished when rates were even higher than today’s. But, our columnist notes, those times didn’t last." data-title="Rising Interest Rates Are Causing Alarm. Here’s What to Know." data-date="09-25 17:35" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-25 17:35</span>
+          <span class="news-item-title">Rising Interest Rates Are Causing Alarm. Here’s What to Know.</span>
         </a>
         <a class="news-item" href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/" target="_blank" rel="noopener" data-cat="caijing" data-summary="这家风险投资公司首次将其印度筹资周期与其全球基金保持一致，因为它将转向更短的投资周期。" data-title="LIGHTSPEED的目标是新印度基金$ 2.5亿，重点是早期" data-date="09-25 13:00" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -285,42 +273,6 @@ title: 股票财经
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-25 12:54</span>
           <span class="news-item-title">习近平获特朗普红地毡迎接，但并非事事如愿</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer" target="_blank" rel="noopener" data-cat="caijing" data-summary="还记得特斯拉Semi吗？这款于2017年首次以概念形式推出的长途重型卡车最终于2026年4月量产，比首次推出晚了近十年。周四晚上，该公司为Semi举办了另一场活动，向客户和投资者展示了漫长的等待[…]" data-title="这是特斯拉半挂车……又来了" data-date="09-25 10:12" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 10:12</span>
-          <span class="news-item-title">这是特斯拉半挂车……又来了</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703575.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网堪培拉9月25日电 (记者 薄雯雯)中国驻澳大利亚大使馆24日举行庆祝中华人民共和国成立77周年暨刘劲松大使到任招待会。澳大利亚总督官方秘书马丁、总理内阁部副秘书长韩家思、外交贸易部代理副秘书长高志磊、各界友人、驻澳使节及华侨华人、中资机构和留学生代表等400余人出席。" data-title="驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会" data-date="09-25 09:14" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 09:14</span>
-          <span class="news-item-title">驻澳大利亚使馆举行庆祝中华人民共和国成立77周年招待会</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/business/oil-bonds-stocks-prices.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="上涨发生在政府债务大幅抛售的第二天。" data-title="债券市场波动，油价上涨" data-date="09-25 01:09" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 01:09</span>
-          <span class="news-item-title">债券市场波动，油价上涨</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/" target="_blank" rel="noopener" data-cat="caijing" data-summary="TechCrunch创始人峰会于11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建立和扩展公司的战术见解。" data-title="TechCrunch创始人峰会2026 ：您需要了解的一切" data-date="09-25 00:46" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-25 00:46</span>
-          <span class="news-item-title">TechCrunch创始人峰会2026 ：您需要了解的一切</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703527.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州9月25日电(吕明)“闽宁同行三十载 福隆共画山海情”隆德县农文旅推介招商活动24日晚在福州启幕。活动以农文旅招商推介、政企对接、企业间采购签约等形式，持续深化两地协作，续写闽侯对口帮扶隆德县的山海协作新篇章。" data-title="六盘山好物入闽 宁夏隆德农文旅推介招商活动福州启幕" data-date="09-25 00:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 00:26</span>
-          <span class="news-item-title">六盘山好物入闽 宁夏隆德农文旅推介招商活动福州启幕</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/042.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 24 日消息，Rockstar 今日在官网上架《GTA6：欢乐之州-罪恶都市合集》收藏礼盒，售价 400 美元（IT之家注：现汇率约合 2,689 元人民币）。该礼盒现已开启预购，限量发售，内含手办、帽子、太阳镜、海报等多种周边，但唯独就是没有《侠盗猎车手 VI》游戏本体。据官方介绍，该收藏礼盒包含以下物品：鳄鱼麦加手办正在享用烟卷和一杯火烈鸟血红马天尼的麦加手办，附有可以拧开的底座，可用于藏储您的珍藏之物。Oakley Frogskins 太阳镜用一副哑光黑色 Oakley® Frogskins™太阳镜挡住雷奥奈达的烈日，配备 Prizm Sapphire 镜片，带有罪恶城粉 GTAVI 徽标。雷奥奈达礁岛群斜挎包用这款防撕裂斜挎包带上您的必需品，包含黑色与粉色图案衬里、" data-title="R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体" data-date="09-24 23:34" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-24 23:34</span>
-          <span class="news-item-title">R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体</span>
         </a>
   </div>
 </div>
@@ -335,4 +287,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-25 20:52（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-26 01:22（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
