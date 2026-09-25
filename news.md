@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-25 14:46 抓取更新</span>
+      <span>2026-09-25 20:52 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">53</span>
+        <span class="channel-count">57</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">7</span>
+        <span class="channel-count">11</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="白宫表示，包括海鲈鱼和白菜在内的三道菜菜单以美国食材为特色，具有“微妙的中国影响”。" data-title="在特朗普主持纪念习近平的国宴之际，请参阅菜单" data-date="09-25 14:41" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.nytimes.com/2026/09/25/podcasts/the-headlines/trump-white-house-reporters-meta-glasses.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="此外，还有周五的新闻测验。" data-title="特朗普与白宫记者的对峙以及“变态眼镜”的兴衰" data-date="09-25 19:35" data-source="纽约时报">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 09-25 14:41</span>
+        <span class="hero-featured-date">🕒 09-25 19:35</span>
       </div>
-      <h2 class="hero-featured-title">在特朗普主持纪念习近平的国宴之际，请参阅菜单</h2>
+      <h2 class="hero-featured-title">特朗普与白宫记者的对峙以及“变态眼镜”的兴衰</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/007/137.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 25 日消息，海贝本周三发布了 RS2 便携无损音乐播放器，标准版（铝合金 / 墨绿色）定价 2798 元，限量版（黄铜） 3498 元。据介绍，这款播放器采用旗舰型号 RS8 二代同款第三代达尔文架构 (DARWIN III)，由 HiBy 全程自主研发，重构底层核心处理架构，重塑高清音频处理全流程。第三代达尔文架构采用全新 FPGA 数字引擎，逻辑单元数量突破 35K，拥有 40 个高速、高性能 DSP，为可调纯 FIR 滤波算法、多样 DARWIN 滤波器、谐波控制器等特色功能提供强大算力基础，实现全柔性架构、全流程自主可控。第三代达尔文架构配备两颗飞秒级低相噪音频专用晶振，分别为 45.158MHz、 49.152MHz，可有效降低相位噪声以及时钟抖动，低至 -14" data-title="海贝 RS2 音乐播放器发售：R2R 技术达尔文三代架构，2798 元起" data-date="09-25 14:43" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/007/230.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 25 日消息，今天（25 日）晚间，微软正式发布新版 Copilot“超级应用”。新版 Copilot 把聊天、编程和智能体三类 AI 能力集中到同一个界面中。微软为其给出的新定位是“为工作而生的 AI”，甚至把 Copilot 与 Office 当年对生产力的影响相提并论。微软 AI 工作业务首席营销官贾里德 · 斯帕塔罗表示：“正如 Office 定义了 PC 时代的工作方式，新 Copilot 旨在定义 AI 时代的工作方式。”新版 Copilot 分为 Home、Code 和 Autopilot 三个标签页。Home 把 Copilot Chat 和 Cowork 整合到一起，也是用户打开 Copilot 后默认进入的页面。微软还计划在 Home 中加入 Today" data-title="聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”" data-date="09-25 20:37" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">海贝 RS2 音乐播放器发售：R2R 技术达尔文三代架构，2798 元起</p>
+      <p class="hero-sub-title">聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育频道探讨了为什么英格兰足球顶级俱乐部越来越多地交易学院球员，以及对年轻人本身的影响。" data-title="为什么青少年已经成为足球转会市场的重要组成部分" data-date="09-25 14:32" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/gj/2026/09-25/10703858.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网伦敦9月25日电 (记者 欧阳开宇)“先驱者颜福庆”海外巡展英国站日前在利物浦举行。一封写于1909年的颜福庆英文手写信件，成为展览开篇，向观众讲述这位中国现代医学先驱当年在利物浦求学、即将启程归国的往事。" data-title="“先驱者颜福庆”海外巡展英国站在利物浦举行" data-date="09-25 20:38" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-bbc">🇬🇧 BBC</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">为什么青少年已经成为足球转会市场的重要组成部分</p>
+      <p class="hero-sub-title">“先驱者颜福庆”海外巡展英国站在利物浦举行</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/1/007/135.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，据央视新闻报道，24 日，民航局相关负责人表示，中秋、国庆假期也是民航旅客出行的高峰，环线游、出境游增速非常明显。假日出行还呈现出去程渐次达峰、回程集中抵离的特点。民航的旅客量有望再创历史同期新高。中国民航局副局长马兵表示，整体来看，从 9 月 25 日到 10 月 7 日，全国民航预计运输旅客量 3119 万人次，日均 240 万人次，增长率 3.6%。单日峰值有望突破 260 万人次，超过去年同期水平。据介绍，大城市航空客流保持高位，特色旅游城市客流快速增长。十大航空枢纽（IT之家注：中国民航 10 个国际航空枢纽为北京、上海、广州、成都、昆明、深圳、重庆、西安、乌鲁木齐、哈尔滨）目前日均机票预订量已超过了 49 万张，同比增长了 3.9%。截至目前，“双" data-title="日均 240 万人次，中秋、国庆假期民航旅客量有望再创同期新高" data-date="09-25 14:31" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在被告未能出庭并回应指控后，华盛顿一家法院判处任天堂美国公司450万$的缺席判决。该公司声称它发出了一封停止信，受访者甚至通过电子邮件回复说他们将遵守并合作，但此后他们已经切断了沟通。" data-title="任天堂默认赢得对Switch盗版的$ 450万诉讼" data-date="09-25 20:26" data-source="Tom's Hardware">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
       </div>
-      <p class="hero-sub-title">日均 240 万人次，中秋、国庆假期民航旅客量有望再创同期新高</p>
+      <p class="hero-sub-title">任天堂默认赢得对Switch盗版的$ 450万诉讼</p>
     </a>
   </div>
 </div>
@@ -103,95 +103,95 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="白宫表示，包括海鲈鱼和白菜在内的三道菜菜单以美国食材为特色，具有“微妙的中国影响”。" data-title="在特朗普主持纪念习近平的国宴之际，请参阅菜单" data-date="09-25 14:41" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/25/podcasts/the-headlines/trump-white-house-reporters-meta-glasses.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="此外，还有周五的新闻测验。" data-title="特朗普与白宫记者的对峙以及“变态眼镜”的兴衰" data-date="09-25 19:35" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 14:41</span>
-          <span class="news-item-title">在特朗普主持纪念习近平的国宴之际，请参阅菜单</span>
+          <span class="news-item-date">09-25 19:35</span>
+          <span class="news-item-title">特朗普与白宫记者的对峙以及“变态眼镜”的兴衰</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703664.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间9月24日晚，国家主席习近平和夫人彭丽媛在白宫出席美国总统特朗普和夫人梅拉尼娅举行的欢迎宴会。习近平主席发表致辞。他指出——" data-title="习言道｜中美关系又站在新的历史起点上" data-date="09-25 13:43" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703816.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中秋象征着团圆和思念。这一中国传统节日，以其独特的文化魅力和深厚的情感内涵，越来越受到各国友人的喜爱。" data-title="遇见中国丨巴西青年布雷诺：中秋的月光照在北京也照在圣保罗" data-date="09-25 19:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:43</span>
-          <span class="news-item-title">习言道｜中美关系又站在新的历史起点上</span>
+          <span class="news-item-date">09-25 19:11</span>
+          <span class="news-item-title">遇见中国丨巴西青年布雷诺：中秋的月光照在北京也照在圣保罗</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703647.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网成都9月25日电 (记者 岳依桐)由马来西亚国会上议院副议长努尔·贾兹兰为团长，17国国际和平组织与安全智库领导人组成的研修班一行25日结束了对四川为期4天的访问。" data-title="17国研修班结束四川访问 盼深化交流合作" data-date="09-25 13:41" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703800.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月25日电 (记者 曾玥)谈及被中国国家主席习近平在白宫国宴致辞中提及的心情，美国友人“赛考斯”(本名罗纳德·萨科尔斯基)在华盛顿当地时间24日晚接受中新社记者视频连线专访时直呼难以置信，并表示期盼美中两国成为朋友。" data-title="在白宫国宴上被习近平提及，赛考斯盼美中成为朋友" data-date="09-25 18:50" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:41</span>
-          <span class="news-item-title">17国研修班结束四川访问 盼深化交流合作</span>
+          <span class="news-item-date">09-25 18:50</span>
+          <span class="news-item-title">在白宫国宴上被习近平提及，赛考斯盼美中成为朋友</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703669.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎宴会。习近平在祝酒辞中说——" data-title="习近平：共同浇灌中美友谊的美丽花朵" data-date="09-25 13:33" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703749.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网厦门9月25日电 (吴冠标 付佳萍)玉兔灯盏、圆月挂饰、中秋团扇……9月25日是中秋节，厦门五通客运码头边检大厅处处点缀着中秋元素饰品，厦金“小三通”客运航线迎来客流高峰。" data-title="半小时跨海赴团圆 厦金“小三通”迎来中秋客流高峰" data-date="09-25 18:45" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:33</span>
-          <span class="news-item-title">习近平：共同浇灌中美友谊的美丽花朵</span>
+          <span class="news-item-date">09-25 18:45</span>
+          <span class="news-item-title">半小时跨海赴团圆 厦金“小三通”迎来中秋客流高峰</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703633.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社纽约9月24日电 当地时间9月24日，中国国家副主席韩正在纽约出席联合国大会期间会见保加利亚总统约托娃。" data-title="韩正会见保加利亚总统约托娃" data-date="09-25 13:32" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703721.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="跨越太平洋的又一次握手，牵动全球目光。" data-title="第一观察丨从习主席抵美书面讲话中感悟大国胸怀担当" data-date="09-25 18:36" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:32</span>
-          <span class="news-item-title">韩正会见保加利亚总统约托娃</span>
+          <span class="news-item-date">09-25 18:36</span>
+          <span class="news-item-title">第一观察丨从习主席抵美书面讲话中感悟大国胸怀担当</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703631.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社纽约9月24日电 当地时间9月24日，中国国家副主席韩正在纽约出席联合国大会期间会见塞尔维亚总统武契奇。" data-title="韩正会见塞尔维亚总统武契奇" data-date="09-25 13:32" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703795.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社华盛顿9月24日电 “中美关系希望在人民、未来在青年。这里，我愿宣布，未来5年，中方将邀请10万名美国青少年来华交流学习。”正在美国进行国事访问的习近平主席24日在白宫欢迎仪式上致辞时说。" data-title="“5年10万”，习近平主席向美国青少年发出新邀约" data-date="09-25 18:33" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:32</span>
-          <span class="news-item-title">韩正会见塞尔维亚总统武契奇</span>
+          <span class="news-item-date">09-25 18:33</span>
+          <span class="news-item-title">“5年10万”，习近平主席向美国青少年发出新邀约</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c3qjkx1wdyyxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="从红杉木长椅到DVD，馈赠礼物一直是外交艺术的重要一环。" data-title="为何特朗普在国宴上送习近平一座华丽的白头海雕雕像？" data-date="09-25 12:56" data-source="BBC">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703722.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="原标题：近镜头｜中美建设性战略稳定关系──迈向正确相处之道的重要一步" data-title="中美建设性战略稳定关系──迈向正确相处之道的重要一步" data-date="09-25 18:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 18:28</span>
+          <span class="news-item-title">中美建设性战略稳定关系──迈向正确相处之道的重要一步</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="分析指出，北京此次的表述更为直接，并试图掌握峰会后的叙事主导权，未来台湾在美中台三角关系中的角色可能进一步被“边缘化”。" data-title="习近平促特朗普“反对台独”，北京措辞升级要的是什么？" data-date="09-25 18:23" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-25 12:56</span>
-          <span class="news-item-title">为何特朗普在国宴上送习近平一座华丽的白头海雕雕像？</span>
+          <span class="news-item-date">09-25 18:23</span>
+          <span class="news-item-title">习近平促特朗普“反对台独”，北京措辞升级要的是什么？</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703651.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社华盛顿9月24日电 题：走进美国希望中文学校：做美中文化民间交流的桥梁" data-title="走进美国希望中文学校：做美中文化民间交流的桥梁" data-date="09-25 12:42" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703798.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国青年网昆明9月23日电(实习生 吴丹希 记者 张亚云 见习记者 菅浩云)近日，记者跟随“青春华章·学以报国”网络主题活动媒体行走进昆明翠湖之畔的朱德旧居纪念馆。一根扁担、一张党证、一本账本，串联起这位开国元勋在云南的革命起点与“万里寻党”历程。" data-title="青春华章·学以报国｜一根扁担、一张党证、一本账：昆明朱德旧居里的初心印记" data-date="09-25 18:10" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 12:42</span>
-          <span class="news-item-title">走进美国希望中文学校：做美中文化民间交流的桥梁</span>
+          <span class="news-item-date">09-25 18:10</span>
+          <span class="news-item-title">青春华章·学以报国｜一根扁担、一张党证、一本账：昆明朱德旧居里的初心印记</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703632.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社华盛顿9月24日电 (记者 郭金超 黄钰钦 郭超凯)当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅为中国国家主席习近平和夫人彭丽媛在白宫举行欢迎国宴。" data-title="习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴" data-date="09-25 12:40" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703766.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月25日电 题：白宫会晤特朗普，习近平特别谈到“钉钉子精神”" data-title="白宫会晤特朗普，习近平特别谈到“钉钉子精神”" data-date="09-25 18:06" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 12:40</span>
-          <span class="news-item-title">习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴</span>
+          <span class="news-item-date">09-25 18:06</span>
+          <span class="news-item-title">白宫会晤特朗普，习近平特别谈到“钉钉子精神”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703635.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网悉尼9月25日电 中国驻墨尔本总领馆近日举行庆祝中华人民共和国成立77周年招待会。" data-title="中国驻墨尔本总领馆举办庆祝中华人民共和国成立77周年招待会" data-date="09-25 12:39" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703785.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月25日电 (记者 孙自法)中国商用飞机有限责任公司(中国商飞)9月25日消息，“五官健康C909飞机医院”吉尔吉斯斯坦公益行活动9月24日在比什凯克玛纳斯国际机场举办。当天，来自复旦大学附属眼耳鼻喉科医院的专业医疗团队在C909医疗机上成功开展全球首台耳鼻喉科机上手术。" data-title="中国C909医疗机赴吉尔吉斯斯坦开展医疗公益活动" data-date="09-25 17:58" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 12:39</span>
-          <span class="news-item-title">中国驻墨尔本总领馆举办庆祝中华人民共和国成立77周年招待会</span>
+          <span class="news-item-date">09-25 17:58</span>
+          <span class="news-item-title">中国C909医疗机赴吉尔吉斯斯坦开展医疗公益活动</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703614.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月25日电 综合消息：也门胡塞武装方面当地时间24日表示，该组织武装部队对沙特阿拉伯首都利雅得一处“敏感地点”、西部城市延布的沙特阿美石油公司设施，以及西南部吉赞地区多处军事目标发动袭击。" data-title="也门胡塞武装称袭击沙特多地目标" data-date="09-25 12:38" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703781.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="“赛考斯”回应被习近平主席提及：太不可思议了！听到习主席讲我们的故事，我的电量直接回至满格，今晚会很难入睡" data-title="“赛考斯”回应被习近平主席提及：太不可思议了" data-date="09-25 17:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 12:38</span>
-          <span class="news-item-title">也门胡塞武装称袭击沙特多地目标</span>
+          <span class="news-item-date">09-25 17:57</span>
+          <span class="news-item-title">“赛考斯”回应被习近平主席提及：太不可思议了</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="随着中国国家主席习近平十多年来首次访问白宫，特朗普总统推出了他个人的外交品牌。" data-title="特朗普和习近平在美国的飞越和熊猫掩盖了分歧" data-date="09-25 11:10" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 11:10</span>
-          <span class="news-item-title">特朗普和习近平在美国的飞越和熊猫掩盖了分歧</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703567.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网布鲁塞尔9月25日电 (记者 德永健)案发3年半后，比利时知名艺术品收藏家米莉亚姆·尤伦斯遭枪杀案24日开审，嫌疑人米莉亚姆·尤伦斯的继子尼古拉·尤伦斯将接受法庭审判。" data-title="比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审" data-date="09-25 09:13" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-25/10703765.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月25日电 (记者 李京泽)“这里，我愿宣布，未来5年，中方将邀请10万名美国青少年来华交流学习。”" data-title="“5年10万”，习近平升级中美“跨洋之约”" data-date="09-25 17:48" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 09:13</span>
-          <span class="news-item-title">比利时知名艺术品收藏家“尤伦斯夫人”遭枪杀案开审</span>
+          <span class="news-item-date">09-25 17:48</span>
+          <span class="news-item-title">“5年10万”，习近平升级中美“跨洋之约”</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/nyregion/un-protest-netanyahu-israel-gaza.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Large groups gathered in Midtown Manhattan to demonstrate as the Israeli prime minister spoke to the General Assembly." data-title="About 100 Are Arrested in Protests Against Netanyahu" data-date="09-25 08:03" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703780.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社华盛顿9月24日电 当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。特朗普在白宫欢迎仪式上的讲话内容如下：" data-title="特朗普在白宫欢迎仪式上的讲话" data-date="09-25 17:37" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 08:03</span>
-          <span class="news-item-title">About 100 Are Arrested in Protests Against Netanyahu</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 17:37</span>
+          <span class="news-item-title">特朗普在白宫欢迎仪式上的讲话</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqpvew870ezko/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="有分析人士表示，峰会至今主要着眼于营造“正面气氛”，但仍有多项迫切议题有待讨论。" data-title="习近平访美排场十足，但迄今进展甚微" data-date="09-25 07:51" data-source="BBC">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703760.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月25日电 据美国广播公司(ABC)报道，当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅在白宫举行欢迎宴会。特朗普的外孙女、伊万卡·特朗普的女儿阿拉贝拉受邀出席。" data-title="特朗普会中文的外孙女，现身白宫欢迎宴会，18个月大就开始学中文，4岁用中文唱歌，还会背《三字经》" data-date="09-25 16:49" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-25 07:51</span>
-          <span class="news-item-title">习近平访美排场十足，但迄今进展甚微</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 16:49</span>
+          <span class="news-item-title">特朗普会中文的外孙女，现身白宫欢迎宴会，18个月大就开始学中文，4岁用中文唱歌，还会背《三字经》</span>
         </a>
   </div>
   <div class="news-category">
@@ -200,6 +200,78 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/007/230.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 25 日消息，今天（25 日）晚间，微软正式发布新版 Copilot“超级应用”。新版 Copilot 把聊天、编程和智能体三类 AI 能力集中到同一个界面中。微软为其给出的新定位是“为工作而生的 AI”，甚至把 Copilot 与 Office 当年对生产力的影响相提并论。微软 AI 工作业务首席营销官贾里德 · 斯帕塔罗表示：“正如 Office 定义了 PC 时代的工作方式，新 Copilot 旨在定义 AI 时代的工作方式。”新版 Copilot 分为 Home、Code 和 Autopilot 三个标签页。Home 把 Copilot Chat 和 Cowork 整合到一起，也是用户打开 Copilot 后默认进入的页面。微软还计划在 Home 中加入 Today" data-title="聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”" data-date="09-25 20:37" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 20:37</span>
+          <span class="news-item-title">聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="外界关注的人工智能、稀土等迫切议题，两国似乎未有明显进展。但有学者向BBC中文分析，会谈最重要的成就在于展示两国关系“正面友好的氛围和形象”。" data-title="美中各从“白宫习特会”得到什么？" data-date="09-25 20:15" data-source="BBC">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-25 20:15</span>
+          <span class="news-item-title">美中各从“白宫习特会”得到什么？</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program" target="_blank" rel="noopener" data-cat="keji" data-summary="微软正在将Copilot改造成一个单一的AI工作区，将您的项目和代理混合在一起。它还将能够支持第三方前沿模型。" data-title="微软通过新工具改造Copilot ，支持前沿模型" data-date="09-25 20:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 20:00</span>
+          <span class="news-item-title">微软通过新工具改造Copilot ，支持前沿模型</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/intel-expects-14a-to-be-within-5-percent-the-performance-of-tsmcs-a14-conservative-forecast-clashes-with-18as-frequency-lead-and-promised-20-percent-gains" target="_blank" rel="noopener" data-cat="keji" data-summary="英特尔的Naga Chandrasekaran现在声称，英特尔14A节点将提供台积电A14技术“5%以内”的性能，这一说法需要仔细研究。" data-title="英特尔预计14A的性能将“在台积电A14的5%以内”" data-date="09-25 20:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 20:00</span>
+          <span class="news-item-title">英特尔预计14A的性能将“在台积电A14的5%以内”</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot" target="_blank" rel="noopener" data-cat="keji" data-summary="在上个月推出其新的Copilot “超级应用”之后，微软今天正式推出它。重新设计的Copilot应用程序将三种AI功能捆绑到聊天、编码和代理的单一界面中。作为发布的一部分，微软还将今年早些时候在Build上推出的人工智能个人助理Scout更名为Autopilot。[…]" data-title="微软认为其新的Copilot “超级应用”将与Office一样具有影响力" data-date="09-25 20:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-25 20:00</span>
+          <span class="news-item-title">微软认为其新的Copilot “超级应用”将与Office一样具有影响力</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/206.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 25 日消息，据央视新闻报道，9 月 22 日至 27 日，第 48 届世界技能大赛在中国上海举行。本届世赛上，人工智能走进赛题、操作台，成为选手训练和比赛的一部分。本届世赛 64 个项目中，与 AI 直接相关的赛项有 8 个：智慧安防技术、软件测试、数字交互媒体设计、自主移动机器人、工业 4.0、云计算、网络安全、3D 数字游戏艺术。其中智慧安防技术、软件测试、数字交互媒体设计是本届新增，新增数量创历届之最。这些赛项的 AI 含量，体现在具体的工作场景里。智慧安防技术，选手要应用深度学习算法和大模型基础原理，让监控系统自动识别异常。软件测试，AI 已从工具升级为协作伙伴，选手调用多个智能体自主进行测试，自己则从更宏观的行业视角分析问题。数字交互媒体设计，要求选手完成沉浸式" data-title="第 48 届世界技能大赛在沪举办，新增 3 项人工智能相关赛项创历届之最" data-date="09-25 19:31" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 19:31</span>
+          <span class="news-item-title">第 48 届世界技能大赛在沪举办，新增 3 项人工智能相关赛项创历届之最</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/205.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 25 日消息，据台媒《经济日报》今天（25 日）晚间报道，英特尔 CEO 陈立武近期接受采访时称，会维持在台积电前十大客户名单之列。陈立武表示，美国拥有芯片设计和制造能力十分重要。随着先进制程节点不断微缩、复杂度持续提升，公司将推动相关领域取得进展。同时，英特尔仍是台积电的密切合作伙伴，也是台积电前十大客户之一。陈立武称，即使自己喜欢赢，也不会把别人视为竞争对手。商业领域往往并非零和博弈，没有人能够把所有事情都包揽下来，因此总是需要寻找合作伙伴，而他自己也相当重视合作伙伴。IT之家从报道中获悉，陈立武自曝“很敬佩”台积电创始人张忠谋，认为其为半导体产业作出了巨大贡献。英特尔一直与台积电保持密切合作，也是台积电前十大客户之一，今后还会继续保持这种合作关系。" data-title="陈立武：英特尔会维持在台积电前十大客户之列，我很敬佩张忠谋" data-date="09-25 19:21" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 19:21</span>
+          <span class="news-item-title">陈立武：英特尔会维持在台积电前十大客户之列，我很敬佩张忠谋</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues" target="_blank" rel="noopener" data-cat="keji" data-summary="DataOne数据中心因未经许可操作便携式涡轮发电机而面临创纪录的107万美元罚款。居民说，对于这些大型科技公司来说，罚款是一笔巨款。" data-title="新泽西州击中与微软相关的人工智能数据中心，对62台未经许可的发电机处以创纪录的罚款，发布45天关闭截止日期" data-date="09-25 19:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 19:00</span>
+          <span class="news-item-title">新泽西州击中与微软相关的人工智能数据中心，对62台未经许可的发电机处以创纪录的罚款，发布45天关闭截止日期</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/grab-this-4k-ready-rtx-5070-ti-gaming-pc-from-hp-for-under-usd1-900-right-now-powerful-omen-35l-machine-is-a-serious-bargain-with-a-20-core-intel-cpu-32gb-ddr5-ram-and-a-1tb-ssd" target="_blank" rel="noopener" data-cat="keji" data-summary="这款史诗级的惠普Omen 45L游戏机是您现在可以购买的最便宜的RTX 5070 Ti PC之一，配备英特尔酷睿i7-14700F、32GB DDR RAM和1TB SSD ，价格仅为$ 1,899.99。" data-title="立即从惠普购买这款支持4K的RTX 5070 Ti游戏PC ，价格不到1900 $" data-date="09-25 18:51" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 18:51</span>
+          <span class="news-item-title">立即从惠普购买这款支持4K的RTX 5070 Ti游戏PC ，价格不到1900 $</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits" target="_blank" rel="noopener" data-cat="keji" data-summary="QuasarZone测试显示， GeForce RTX 5090上的16针电源连接器在峰值功耗接近650W时达到90摄氏度以上的温度。" data-title="英伟达DLSS 5功耗达到647W ，因为电源连接器运行温度高于GPU芯片，可提高帧速率和火焰温度16" data-date="09-25 18:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 18:30</span>
+          <span class="news-item-title">英伟达DLSS 5功耗达到647W ，因为电源连接器运行温度高于GPU芯片，可提高帧速率和火焰温度16</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/09/497108.html" target="_blank" rel="noopener" data-cat="keji" data-summary="大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。" data-title="亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源" data-date="09-25 18:00" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-25 18:00</span>
+          <span class="news-item-title">亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units" target="_blank" rel="noopener" data-cat="keji" data-summary="谷歌将于10月1日将一颗实验卫星送入轨道，并携带四个张量处理单元。" data-title="谷歌的轨道人工智能数据中心测试包装了四个TPU和1000瓦的太阳能" data-date="09-25 18:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 18:00</span>
+          <span class="news-item-title">谷歌的轨道人工智能数据中心测试包装了四个TPU和1000瓦的太阳能</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/007/137.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 25 日消息，海贝本周三发布了 RS2 便携无损音乐播放器，标准版（铝合金 / 墨绿色）定价 2798 元，限量版（黄铜） 3498 元。据介绍，这款播放器采用旗舰型号 RS8 二代同款第三代达尔文架构 (DARWIN III)，由 HiBy 全程自主研发，重构底层核心处理架构，重塑高清音频处理全流程。第三代达尔文架构采用全新 FPGA 数字引擎，逻辑单元数量突破 35K，拥有 40 个高速、高性能 DSP，为可调纯 FIR 滤波算法、多样 DARWIN 滤波器、谐波控制器等特色功能提供强大算力基础，实现全柔性架构、全流程自主可控。第三代达尔文架构配备两颗飞秒级低相噪音频专用晶振，分别为 45.158MHz、 49.152MHz，可有效降低相位噪声以及时钟抖动，低至 -14" data-title="海贝 RS2 音乐播放器发售：R2R 技术达尔文三代架构，2798 元起" data-date="09-25 14:43" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -212,96 +284,60 @@ title: 热点新闻
           <span class="news-item-date">09-25 14:26</span>
           <span class="news-item-title">“温水煮青蛙” 日本渐进式布局军用AI暗藏多重风险</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5zjzl8n2epxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="多名美国科技和金融界巨头有份出席，部分人士更与两国领导人同桌。但近日高调警告人工智能风险的企业Anthropic代表未有出席。" data-title="习近平访美：白宫国宴谁出席、谁缺席？意味了什么？" data-date="09-25 14:00" data-source="BBC">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-25 14:00</span>
-          <span class="news-item-title">习近平访美：白宫国宴谁出席、谁缺席？意味了什么？</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/497012.html" target="_blank" rel="noopener" data-cat="keji" data-summary="给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了" data-title="给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了" data-date="09-25 13:52" data-source="量子位">
+        <a class="news-item" href="https://www.qbitai.com/2026/09/497075.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Agent的手越伸越长" data-title="别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill" data-date="09-25 14:20" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-25 13:52</span>
-          <span class="news-item-title">给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand" target="_blank" rel="noopener" data-cat="keji" data-summary="还记得微软希望每个人都知道“Copilot Plus PC”是可以获得的，因为这些PC具有足够的内置AI功能来完成任务？两年半后，微软和高通似乎承认该品牌已经死亡。Windows Central的Zac Bowden报告[…]" data-title="微软正在淘汰“Copilot Plus PC”品牌" data-date="09-25 09:25" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 09:25</span>
-          <span class="news-item-title">微软正在淘汰“Copilot Plus PC”品牌</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/nyregion/netanyahu-mamdani-un-speech.html" target="_blank" rel="noopener" data-cat="keji" data-summary="The Israeli prime minister accused Mayor Zohran Mamdani, an outspoken critic of Israel, of antisemitism. The mayor has become a political foil for the prime minister." data-title="马姆达尼指责内塔尼亚胡在联合国演讲后散布“毫无根据的谎言”" data-date="09-25 08:57" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 08:57</span>
-          <span class="news-item-title">马姆达尼指责内塔尼亚胡在联合国演讲后散布“毫无根据的谎言”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-israel-un.html" target="_blank" rel="noopener" data-cat="keji" data-summary="总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）也对接待他的市长佐赫兰·马姆达尼（ Zohran Mamdani ）感到愤怒。" data-title="内塔尼亚胡在联合国发言时谴责以色列的批评者是“道德懦夫”" data-date="09-25 08:40" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 08:40</span>
-          <span class="news-item-title">内塔尼亚胡在联合国发言时谴责以色列的批评者是“道德懦夫”</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/australian-pm-says-openai-took-84-days-to-email-agency-after-agent-hacked-its-national-health-care-portal-incident-is-believed-to-be-the-first-known-case-of-ai-breaching-a-government-site" target="_blank" rel="noopener" data-cat="keji" data-summary="澳大利亚表示， OpenAI代理商在6月份通过了Medicare统计门户网站的屏蔽。OpenAI的通知于9月到达。" data-title="OpenAI专员进入澳大利亚的Medicare STATS门户网站，通知延迟了84天" data-date="09-25 04:34" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-25 04:34</span>
-          <span class="news-item-title">OpenAI专员进入澳大利亚的Medicare STATS门户网站，通知延迟了84天</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face" target="_blank" rel="noopener" data-cat="keji" data-summary="谷歌的新Gemini 3.8实时更新允许用户在观看动画AI角色实时响应的同时与模型进行对话。“Live Avatar”将在对话期间同步并显示不同的面部表情，但目前仅适用于Gemini Enterprise客户。正如谷歌所指出的， Live Avatar可以在97 […]之间转换" data-title="Gemini 3.8 Live with Live Avatar为谷歌的人工智能提供了一张脸" data-date="09-25 03:59" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 03:59</span>
-          <span class="news-item-title">Gemini 3.8 Live with Live Avatar为谷歌的人工智能提供了一张脸</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/" target="_blank" rel="noopener" data-cat="keji" data-summary="Prism更大的目标是在设备上运行的开放式人工智能，并更好地利用他们已经拥有的计算能力。" data-title="PrismML将其微小的LLM带入高通驱动的智能眼镜" data-date="09-25 03:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-25 03:00</span>
-          <span class="news-item-title">PrismML将其微小的LLM带入高通驱动的智能眼镜</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale" target="_blank" rel="noopener" data-cat="keji" data-summary="虽然PC组件价格仍然很高，但通过购买预建的台式机，您可以在系统上节省大量资金。沃尔玛有一台设备齐全的CyberPowerPC游戏PC ，售价为1,549美元，比原价2,139美元低近600美元。它由英特尔酷睿i7-14700KF处理器提供动力，并与32GB的6000MHz […]" data-title="遗憾的是，这款配备$ 1,549 RTX 5070的游戏电脑非常划算" data-date="09-25 02:19" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 02:19</span>
-          <span class="news-item-title">遗憾的是，这款配备$ 1,549 RTX 5070的游戏电脑非常划算</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain" target="_blank" rel="noopener" data-cat="keji" data-summary="正如Jensen Huang所说，人工智能可以帮助应对气候变化--但前提是它首先造成“巨大的痛苦和苦难”。这位英伟达首席执行官在最新一期的《以斯拉·克莱因秀》中讨论了能源的未来和人工智能对我们星球的影响。但他的评论可以归结为[…]" data-title="Jensen Huang像超级恶棍一样谈论人工智能和气候变化" data-date="09-25 02:04" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 02:04</span>
-          <span class="news-item-title">Jensen Huang像超级恶棍一样谈论人工智能和气候变化</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem" target="_blank" rel="noopener" data-cat="keji" data-summary="一对开发人员表示，在很少提示的情况下， Meta的Muse将与您共享其整个文件系统。彼得·詹姆斯（ Peter James ）和乔尼·桑德斯（ Jonny L. Saunders ）表示，他们都独立地诱使Muse压缩并共享其根文件系统、Ubuntu系统文件、应用程序模板和内部文档的全部内容。桑德斯于[…]发布" data-title="Muse显然会让您下载其整个文件系统" data-date="09-25 01:14" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 01:14</span>
-          <span class="news-item-title">Muse显然会让您下载其整个文件系统</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike" target="_blank" rel="noopener" data-cat="keji" data-summary="我们似乎正在进入人工智能特工的复兴。据Apptopia估计， Meta新的面向消费者的人工智能代理商Muse在发布后不久就登上了App Store排行榜的榜首，并在美国拥有60万日活跃用户。而人工智能代理平台Instinct ，其同名创作者正在以25亿美元的估值筹集资金，已经[…]" data-title="Muse看起来很像OpenClaw" data-date="09-25 01:10" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 01:10</span>
-          <span class="news-item-title">Muse看起来很像OpenClaw</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能功能从您的照片中构建了一个虚拟衣柜，在6月首次向Android用户推出后，现在可以广泛使用。" data-title="Google相册“Clueless”风格的虚拟衣柜现已在Android和iOS上推出" data-date="09-25 01:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-25 01:00</span>
-          <span class="news-item-title">Google相册“Clueless”风格的虚拟衣柜现已在Android和iOS上推出</span>
+          <span class="news-item-date">09-25 14:20</span>
+          <span class="news-item-title">别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">7 条</span>
+      <span class="news-category-count">11 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703858.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网伦敦9月25日电 (记者 欧阳开宇)“先驱者颜福庆”海外巡展英国站日前在利物浦举行。一封写于1909年的颜福庆英文手写信件，成为展览开篇，向观众讲述这位中国现代医学先驱当年在利物浦求学、即将启程归国的往事。" data-title="“先驱者颜福庆”海外巡展英国站在利物浦举行" data-date="09-25 20:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 20:38</span>
+          <span class="news-item-title">“先驱者颜福庆”海外巡展英国站在利物浦举行</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/228.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 9 月 25 日消息，据英国《卫报》今天（25 日）报道，英国政府曾大力宣传的埃塞克斯郡劳顿大型数据中心项目将无法按原计划于明年启用，甚至可能拖到 2030 年代中期。劳顿项目 2025 年公布时被称为英国最大的 AI 超级计算机，但供电难题意味着项目距离投入运行仍有很长一段时间。当前，该项目因无法在原定 2027 年启用前获得足够电力而面临新的问题。该超算由英国初创企业 Nscale 负责建设，这家企业今年又计划以 350 亿美元（IT之家注：现汇率约合 2,351.04 亿元人民币）估值上市。报道披露，负责把项目接入当地电网的 UK Power Networks（UKPN）已告知 Nscale，电网要到 2030 年代初至中期才能为数据中心提供足够电力。Nscale 回应称，劳" data-title="英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期" data-date="09-25 20:19" data-source="IT之家">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 20:19</span>
+          <span class="news-item-title">英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英超联赛与其欧洲三大同行一道，呼吁对世界足球管理机构国际足联的运作方式进行“根本性”改革。" data-title="英超联赛呼吁国际足联改革" data-date="09-25 19:53" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-25 19:53</span>
+          <span class="news-item-title">英超联赛呼吁国际足联改革</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/crvgyw9qnpl3o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="切尔西被足球协会指控涉嫌球迷在8月份在富勒姆的胜利期间的歧视行为。" data-title="切尔西因歧视性诵经被FA指控" data-date="09-25 18:19" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-25 18:19</span>
+          <span class="news-item-title">切尔西因歧视性诵经被FA指控</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="四个联赛表示国际足联的治理“不符合目的”他们批评“扩张主义”并希望更多的投入英超联赛已与西甲、意甲和德甲联赛联手，在世界杯抛售崩溃（ FFE ）之后，随着詹尼·因凡蒂诺（ Gianni Infantino ）准备寻求第四个总统任期，呼吁国际足联进行紧急治理改革。他们措辞强烈的声明是英凡蒂诺愿意进行外部治理的最新迹象" data-title="欧洲顶级联赛加大了对Infantino的压力，呼吁国际足联进行重大变革" data-date="09-25 17:28" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-25 17:28</span>
+          <span class="news-item-title">欧洲顶级联赛加大了对Infantino的压力，呼吁国际足联进行重大变革</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育频道探讨了为什么英格兰足球顶级俱乐部越来越多地交易学院球员，以及对年轻人本身的影响。" data-title="为什么青少年已经成为足球转会市场的重要组成部分" data-date="09-25 14:32" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-25 14:32</span>
           <span class="news-item-title">为什么青少年已经成为足球转会市场的重要组成部分</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育频道探讨了为什么英格兰足球顶级俱乐部越来越多地交易学院球员，以及对年轻人本身的影响。" data-title="为什么男生已经成为足球转会市场的重要组成部分" data-date="09-25 14:32" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-25 14:32</span>
+          <span class="news-item-title">为什么男生已经成为足球转会市场的重要组成部分</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703636.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网北京9月25日电 (记者 徐婧)第四届北京国际运河艺术周24日开幕。活动开展文艺演出、主题市集、多地快闪等，联动德国多特蒙德-埃姆斯运河、罗马尼亚多瑙-黑海运河等全球13条运河，让古老运河焕发时代新貌。" data-title="联动全球13条运河 第四届北京国际运河艺术周开幕" data-date="09-25 13:32" data-source="中国新闻网">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -327,18 +363,6 @@ title: 热点新闻
           <span class="news-item-date">09-25 01:52</span>
           <span class="news-item-title">英超热衷于解决EFL资金僵局</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="本周，我们将围绕英超联赛周末最令人惊讶的结果深入探讨重大问题。在上个周末之前，阿森纳自4月以来没有在英超联赛中输过。连续九场联赛的胜利足以在上赛季结束时加冕枪手为冠军，并坚定地确立他们为本赛季初击败的球队。尽管如此，周六再次击败布莱顿，要击败的球队被击败了。彻底。继续rea" data-title="阿森纳被发现了吗？布莱顿沮丧之后的三大问题" data-date="09-24 18:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-24 18:00</span>
-          <span class="news-item-title">阿森纳被发现了吗？布莱顿沮丧之后的三大问题</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育频道进入曼城的数据团队，该团队在过去18个月中一直是其重建工作的关键部分。" data-title="曼城如何彻底改造他们的球队，从65万" data-date="09-24 17:31" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-24 17:31</span>
-          <span class="news-item-title">曼城如何彻底改造他们的球队，从65万</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -346,95 +370,95 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/007/135.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，据央视新闻报道，24 日，民航局相关负责人表示，中秋、国庆假期也是民航旅客出行的高峰，环线游、出境游增速非常明显。假日出行还呈现出去程渐次达峰、回程集中抵离的特点。民航的旅客量有望再创历史同期新高。中国民航局副局长马兵表示，整体来看，从 9 月 25 日到 10 月 7 日，全国民航预计运输旅客量 3119 万人次，日均 240 万人次，增长率 3.6%。单日峰值有望突破 260 万人次，超过去年同期水平。据介绍，大城市航空客流保持高位，特色旅游城市客流快速增长。十大航空枢纽（IT之家注：中国民航 10 个国际航空枢纽为北京、上海、广州、成都、昆明、深圳、重庆、西安、乌鲁木齐、哈尔滨）目前日均机票预订量已超过了 49 万张，同比增长了 3.9%。截至目前，“双" data-title="日均 240 万人次，中秋、国庆假期民航旅客量有望再创同期新高" data-date="09-25 14:31" data-source="IT之家">
+        <a class="news-item" href="https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在被告未能出庭并回应指控后，华盛顿一家法院判处任天堂美国公司450万$的缺席判决。该公司声称它发出了一封停止信，受访者甚至通过电子邮件回复说他们将遵守并合作，但此后他们已经切断了沟通。" data-title="任天堂默认赢得对Switch盗版的$ 450万诉讼" data-date="09-25 20:26" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 20:26</span>
+          <span class="news-item-title">任天堂默认赢得对Switch盗版的$ 450万诉讼</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/225.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，今日，针对消费者反映的交个朋友直播间所售万向轮溜溜凳存在木板发霉、填充物不合格等问题，交个朋友直播间发布声明。IT之家附原文如下：交个朋友直播间关于万向轮溜溜凳质量问题的正式说明近日，有消费者反映交个朋友直播间销售的万向轮溜溜凳存在木板发霉、填充物不合格等问题。我们第一时间进行了全面清查，发现确有其事。经核查，该产品在“交个朋友智能家居爆品榜”等六个直播间销售过，我们在此向购买过该产品的消费者郑重道歉。事发后，交个朋友旗下所有直播间第一时间全面下架了该产品，终止了与该品牌的合作，并在第一时间启动了退赔处理流程。对于个别商家在送检、抽检环节提供优质合格品，而实际发货时却以次充好的恶劣行径，我们绝不姑息，一经发现立刻下架商品并永久拉黑该商家。接下来我们对该商家依法" data-title="“交个朋友”就所售万向轮溜溜凳木板发霉等致歉：全面下架，启动退赔处理流程" data-date="09-25 20:05" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 14:31</span>
-          <span class="news-item-title">日均 240 万人次，中秋、国庆假期民航旅客量有望再创同期新高</span>
+          <span class="news-item-date">09-25 20:05</span>
+          <span class="news-item-title">“交个朋友”就所售万向轮溜溜凳木板发霉等致歉：全面下架，启动退赔处理流程</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/134.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，北京驭风飞行科技有限公司宣布，全球首台全天候浮空器 —— 云哨 M1000-CNS 首发仪式于 9 月 22 日在四川自贡荣县云哨浮空器产教融合总部基地举行。这一可连续驻空五年、通导监气一体化的空基平台直径 21 米、总长 24 米，集成风电、光伏与储能一体化供电系统，能够抵御风雨、冰雪、雷电等复杂天气条件，具备全天候作业能力。与传统柔式浮空器不同，该产品将柔性升力体蒙皮与刚性载荷舱、能源及系留系统进行一体化承载与姿态控制，外蒙皮仅负责耐耗，内部设置多个浮力囊体负责气密，从而降低了整体制造成本。IT之家注：浮空器是指利用轻于空气的气体提供升力、可长时间驻留空中的飞行器，常见形式包括系留气球和飞艇。驭风飞行董事长兼 CEO 史智广在现场介绍称，云哨 M1000-" data-title="全球首台全天候浮空器在川首发：可连续驻空五年，覆盖面积约 2000 平方公里" data-date="09-25 14:31" data-source="IT之家">
+        <a class="news-item" href="https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview" target="_blank" rel="noopener" data-cat="zonghe" data-summary="它的名字就在那里： “Insta360”制作360度相机，可以同时从各个角度拍摄，因此您可以先拍摄，然后再拍摄。它没有发明这个想法，但Insta360已经成为360相机的代名词，以至于它以73%的全球市场份额主导了该类别。它正准备运送这么多[…]" data-title="Insta360征服了360相机—现在它正在盯着眼镜" data-date="09-25 20:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-25 20:00</span>
+          <span class="news-item-title">Insta360征服了360相机—现在它正在盯着眼镜</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/212.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，据灯塔专业版，截至今日 18 时 55 分，2026 年中秋节（9 月 25 日）票房突破 1 亿。《复仇者联盟 4：终局之战（加码臻享版）》《欢迎来龙餐馆》《八仙！》暂列票房前三。IT之家附榜单如下：《复仇者联盟 4：终局之战（加码臻享版）》3586.85 万元《欢迎来龙餐厅》1708.50 万元《八仙！》1062.54 万元《老江湖》925.63 万元《敦煌英雄》711.47 万元据悉，漫威《复仇者联盟 4：终局之战（加码臻享版）》（加码臻享版）于今日起正式登陆全国影院。此次重映版本总片长 185 分钟，较 2019 年原版的 181 分钟多出约 4 分钟全新内容，覆盖 IMAX、杜比影院、CINITY、中国巨幕等高规格影厅制式，同时提供 2D 与 3D" data-title="2026 中秋节电影票房破亿：时隔七年重映漫威《复仇者联盟 4》加码臻享版登顶" data-date="09-25 19:47" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 14:31</span>
-          <span class="news-item-title">全球首台全天候浮空器在川首发：可连续驻空五年，覆盖面积约 2000 平方公里</span>
+          <span class="news-item-date">09-25 19:47</span>
+          <span class="news-item-title">2026 中秋节电影票房破亿：时隔七年重映漫威《复仇者联盟 4》加码臻享版登顶</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/133.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，蔚来今日宣布，蔚来“Cedar S 雪松”智能系统 1.6.0 版本已全量推送。为 ES6、EC6、ET5、ET5T 带来全维度智能的智能座舱、更全能的得力助手 NOMI、专属驾乘体验、智能辅助驾驶四大板块，超 30 项功能体验新增与升级。IT之家附本次更新内容如下：中控屏交互体验新增桌面随挡位自动切换：P 挡进入艺境桌面，D 挡进入地图桌面手势切换主题：支持五指抓握屏幕手势，便捷进入艺境主题切换页优化无限画布布局：进入后保留底部导航栏底部导航栏自定义：优化操作交互快捷控制卡片交互：点击儿童座椅卡片可直跳对应设置页HUD 交互体验新增HUD 极简模式：仅保留车速、限速、车道指引等核心信息，支持显示转向盲点影像挡位数值直观显示：调节高度与角度时实时显示挡位数值地" data-title="蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级" data-date="09-25 14:24" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 14:24</span>
-          <span class="news-item-title">蔚来“Cedar S 雪松”智能系统 1.6.0 版本全量推送，智能座舱、NOMI、驾乘体验、辅助驾驶升级</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/132.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，国铁集团今日宣布，哈尔滨至伊春高速铁路将于 9 月 28 日开通运营。IT之家注意到，相关车次已上架铁路 12306，但目前处于暂停发售状态。哈伊高铁开通后，哈尔滨至伊春间最快 1 小时 46 分钟可达，绥化、伊春等地市接入全国高铁网。为满足旅客不同出行需求，铁路部门在哈伊高铁实施灵活折扣、差异化的市场化票价机制，为旅客出行提供更多选择，具体票价可通过铁路 12306 查询。哈伊高铁起自哈尔滨站，途经黑龙江省哈尔滨市、绥化市、铁力市，终至伊春市，线路全长 318 公里，设计时速 250 公里。全线共设哈尔滨、哈尔滨北、呼兰北、兴隆镇西、绥化南、庆安南、铁力、日月峡、伊春西 9 座车站。其中哈尔滨站、哈尔滨北站为既有车站，铁力站为既有车站改建站，其余均为新建车站" data-title="哈伊高铁 9 月 28 日开通运营：哈尔滨至伊春最快 1 小时 46 分钟，实施市场化票价机制" data-date="09-25 14:16" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 14:16</span>
-          <span class="news-item-title">哈伊高铁 9 月 28 日开通运营：哈尔滨至伊春最快 1 小时 46 分钟，实施市场化票价机制</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703705.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="记者从国铁集团获悉，哈尔滨至伊春高速铁路(以下简称哈伊高铁)将于9月28日开通运营，哈尔滨至伊春间最快1小时46分钟可达，绥化、伊春等地市接入全国高铁网，为新时代东北全面振兴注入新动能。" data-title="哈尔滨至伊春高铁9月28日开通运营 将实施市场化票价机制" data-date="09-25 14:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 14:16</span>
-          <span class="news-item-title">哈尔滨至伊春高铁9月28日开通运营 将实施市场化票价机制</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/131.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 25 日消息，科技媒体 Android Authority 今天（9 月 25 日）发布博文，报道称谷歌调整网页版 Gmail 的星标和“重要”标记，默认统一变成蓝色，这引发了用户的广泛抱怨。谷歌于 9 月 17 日通过 X 平台发布推文，表示为了符合现代无障碍标准，将默认的星标和“重要”标签颜色从黄色更新为蓝色。此项更改确保收件箱更清晰、更易读，并且对所有人都更友好。IT之家附上相关图片如下：报道指出 Gmail 长期使用黄色图标，帮助用户快速识别邮件状态。本次更新将默认黄色星标和黄色重要性箭头，均改为高饱和度蓝色，引发不少用户吐槽。部分用户认为，相同的饱和蓝色削弱了收件箱的视觉层级。用户还表示，新图标在邮件列表中更加醒目，增加了界面杂乱感。谷歌暂未提供恢复经典黄色配色的" data-title="谷歌网页版 Gmail 星标和“重要”标签默认设为蓝色，用户抱怨导致收件箱杂乱无章" data-date="09-25 14:15" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 14:15</span>
-          <span class="news-item-title">谷歌网页版 Gmail 星标和“重要”标签默认设为蓝色，用户抱怨导致收件箱杂乱无章</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703663.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网丽水9月25日电(黄彦君)瓯江流淌，青山如黛，入秋的浙江省丽水市莲都区古堰画乡，宛如一幅风景画。" data-title="瓯江之畔，浙江丽水“巴比松”探讨数字时代“新可能”" data-date="09-25 13:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:55</span>
-          <span class="news-item-title">瓯江之畔，浙江丽水“巴比松”探讨数字时代“新可能”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703650.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网抚顺9月25日电 “传承红色薪火，争做党和人民的红孩子”主题汇报展示暨“青少年党史学习月”推进会近日在抚顺市雷锋纪念馆雷锋讲坛隆重举行。" data-title="辽宁抚顺举办主题活动传承红色薪火" data-date="09-25 13:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:50</span>
-          <span class="news-item-title">辽宁抚顺举办主题活动传承红色薪火</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703690.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="铁路中秋国庆假期运输9月23日启动，至10月8日结束，为期16天，全国铁路预计发送旅客2.84亿人次，日均计划开行旅客列车约1.3万列，10月1日将迎来客流最高峰。" data-title="通途畅行，满载“欣悦”赴远方" data-date="09-25 13:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:49</span>
-          <span class="news-item-title">通途畅行，满载“欣悦”赴远方</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703670.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网杭州9月25日电 题：五千年良渚古城里的“共建”故事" data-title="五千年良渚古城里的“共建”故事" data-date="09-25 13:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-25 13:32</span>
-          <span class="news-item-title">五千年良渚古城里的“共建”故事</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived." data-title="Iran Proposes 7" data-date="09-25 13:27" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/25/us/ice-surge-immigration-arrests.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="对摄像头拍摄的数十起事件的审查，为在很大程度上无形的镇压提供了新的视角。" data-title="今年夏天，安静的冰川涌动“一次性覆盖所有地方”" data-date="09-25 19:40" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 13:27</span>
-          <span class="news-item-title">Iran Proposes 7</span>
+          <span class="news-item-date">09-25 19:40</span>
+          <span class="news-item-title">今年夏天，安静的冰川涌动“一次性覆盖所有地方”</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqx2z782j7y7o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="倡议人士希望，这些新词语能减少对身体的羞辱，并推动更正向的性观念。" data-title="“让女性感到被看见”：为何荷兰人为阴唇创造了一个新词？" data-date="09-25 08:03" data-source="BBC">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/cyber-security/asus-online-store-hit-by-data-breach-customer-contact-details-and-order-information-revealed" target="_blank" rel="noopener" data-cat="zonghe" data-summary="华硕eShop遭遇数据泄露—客户联系方式和订单信息泄露" data-title="华硕确认eShop数据泄露暴露了客户订单记录和联系方式—支付数据安全，但公司警告有针对性的网络钓鱼诈骗" data-date="09-25 19:30" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-25 08:03</span>
-          <span class="news-item-title">“让女性感到被看见”：为何荷兰人为阴唇创造了一个新词？</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-25 19:30</span>
+          <span class="news-item-title">华硕确认eShop数据泄露暴露了客户订单记录和联系方式—支付数据安全，但公司警告有针对性的网络钓鱼诈骗</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Meta的律师辩称，在针对涉嫌伤害青少年安全和心理健康的诉讼中，以律师-客户特权为由，某些证据应从公众视野中隐瞒。起诉该公司的律师本周表示，该标签的适用范围过于广泛，同时指出最近未密封的文件[…]" data-title="Meta员工在打击儿童安全披露的同时订购了“律师/客户特权”帽子" data-date="09-25 07:50" data-source="The Verge">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703770.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网天津9月25日电(薛淳月 江莹)天津市政府新闻办24日举行新闻发布会介绍《天津市应急管理“十五五”规划》(下称“规划”)。天津市应急管理局局长张军武在会上表示，规划明确法治筑基、安全治理、灾害防治、应急救援、要素支撑、共建共治六方面20项重点任务，到2030年将建成集中统一、权威高效的应急管理体制，城市本质安全、韧性水平全面提升。" data-title="天津发布应急管理“十五五”规划 明确6方面20项重点任务" data-date="09-25 19:09" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 07:50</span>
-          <span class="news-item-title">Meta员工在打击儿童安全披露的同时订购了“律师/客户特权”帽子</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 19:09</span>
+          <span class="news-item-title">天津发布应急管理“十五五”规划 明确6方面20项重点任务</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如果您的无线耳机（或音频眼镜）可以传输高质量的无损音频，而当您将手机放在床边充电器上或埋在沙发上时，这些音频不会中断，该怎么办？高通公司的新款Snapdragon Sound Elite Gen 2是其首款将“微功率Wi-Fi 6E”直接集成到芯片中的产品，因此它们可以[…]" data-title="高通公司的新“Elite”声音芯片可能最终提供Wi" data-date="09-25 07:42" data-source="The Verge">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703788.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社上海9月25日电 (记者 陈舒一)第48届世界技能大赛正在上海举行。25日恰逢中国传统节日中秋节，两位外籍“全球技能梦想大使”体验月饼制作，感受不同文化背景下的技艺交流与碰撞。" data-title="世赛遇中秋：一枚月饼“品”出技能新滋味" data-date="09-25 19:03" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 07:42</span>
-          <span class="news-item-title">高通公司的新“Elite”声音芯片可能最终提供Wi</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 19:03</span>
+          <span class="news-item-title">世赛遇中秋：一枚月饼“品”出技能新滋味</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Microsoft正在将其通信部门从营销部门转移到公司、外部和法律事务(CELA)部门。出人意料的变化是，微软副董事长兼总裁布拉德·史密斯（ Brad Smith ）将负责通信，而该公司正在寻找首席通信官弗兰克·肖（ Frank Shaw ）的替代人选，后者将于今年晚些时候离微软首席执行官Satya […]" data-title="微软让布拉德·史密斯负责沟通" data-date="09-25 06:08" data-source="The Verge">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703786.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网银川9月25日电 (记者 李佩珊)9月25日，2026年贺兰山“晒秋艺术季”在银川市西夏区兰一生态园启幕。本次活动以“丰收成景·醉美西夏·万物共创”为主题，活动持续至10月6日，覆盖中秋、国庆双节假日，着力打造贺兰山东麓标志性秋日文旅IP。" data-title="贺兰山晒秋艺术季启幕 品读塞上金秋丰收盛景" data-date="09-25 19:01" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-25 06:08</span>
-          <span class="news-item-title">微软让布拉德·史密斯负责沟通</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 19:01</span>
+          <span class="news-item-title">贺兰山晒秋艺术季启幕 品读塞上金秋丰收盛景</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703783.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网福州9月25日电 (叶秋云)由福州市文化和旅游局主办的“福满金秋遇见福州遇见你——2026福州文旅金秋推广活动”25日在福州鼓山举办。" data-title="2026福州文旅金秋推广活动举办 推出十大秋季文旅产品" data-date="09-25 19:00" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 19:00</span>
+          <span class="news-item-title">2026福州文旅金秋推广活动举办 推出十大秋季文旅产品</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703775.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海9月25日电 (记者 王笈)第48届世界技能大赛(以下简称“世赛”)正在国家会展中心(上海)举行。哪咤、兵马俑、中国象棋、十二生肖……一系列3D数智·香道工坊作品亮相场馆，让年轻观众对中国传统香文化产生了浓厚兴趣，发出好奇之问：“‘香’是怎么做出这么多造型的？”“制作工艺有何不同？”" data-title="“以香构万象”的她，解码世界技能大赛的智造之奇" data-date="09-25 18:59" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 18:59</span>
+          <span class="news-item-title">“以香构万象”的她，解码世界技能大赛的智造之奇</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-25/10703804.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社阿斯塔纳9月25日电 (记者 单璐)哈萨克斯坦国防部25日通报，里海军事演习事故中最后两名失踪军人的遗体已找到，搜救行动结束。此次事故共造成14名军人遇难。" data-title="哈萨克斯坦里海军演事故致14人遇难 搜救行动结束" data-date="09-25 18:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 18:49</span>
+          <span class="news-item-title">哈萨克斯坦里海军演事故致14人遇难 搜救行动结束</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/trump-xi-jinping-chinese-executives.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="American chief executives turned out in force to see Xi Jinping, while their Chinese counterparts were absent, a sign of how drastically business ties have changed." data-title="Xi Jinping Didn’t Bring a CEO Entourage. What That Says About China" data-date="09-25 18:49" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-25 18:49</span>
+          <span class="news-item-title">Xi Jinping Didn’t Bring a CEO Entourage. What That Says About China</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703698.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海9月25日电(记者 陈静)25日，记者从复旦大学附属眼耳鼻喉科医院获悉，“五官健康C909飞机医院(下称：“飞机医院”)”吉尔吉斯斯坦公益行项目在该国首都比什凯克玛纳斯国际机场启动。" data-title="“飞机医院”吉尔吉斯斯坦公益行传递光明与健康" data-date="09-25 18:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 18:33</span>
+          <span class="news-item-title">“飞机医院”吉尔吉斯斯坦公益行传递光明与健康</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-25/10703796.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="央视网消息(焦点访谈)：万里清辉寄乡愁，一轮明月祝团圆。中秋，是中华民族的传统佳节，也是中华优秀传统文化的重要符号之一。从9月24日起，焦点访谈推出中秋特别节目《月明千秋》。中秋节，承载着“月圆人团圆”的美好愿景，是传承中华优秀传统文化、弘扬优良家风的重要载体，更是凝聚家国情感的重要纽带。“明月几时有？把酒问青天。”九百五十年前，苏东坡举杯问月，写下这阕千古绝唱。“人有悲欢离合，月有阴晴圆缺”——正因月有圆缺，人间的团圆才更显珍贵。" data-title="焦点访谈｜中秋话家风 佳节共团圆" data-date="09-25 18:00" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-25 18:00</span>
+          <span class="news-item-title">焦点访谈｜中秋话家风 佳节共团圆</span>
         </a>
   </div>
   <div class="news-category">
@@ -580,4 +604,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-09-25 14:46（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-25 20:52（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

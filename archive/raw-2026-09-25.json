@@ -1668,5 +1668,595 @@
     "feed_name": "纽约时报",
     "summary": "The vote came as a growing number of Republicans have broken from President Trump on the conflict, reflecting voters’ concerns ahead of midterm elections.",
     "published_dt_iso": "2026-09-25T04:44:21+08:00"
+  },
+  {
+    "title": "任天堂默认赢得对Switch盗版的$ 450万诉讼",
+    "link": "https://www.tomshardware.com/video-games/nintendo/nintendo-wins-usd4-5-million-lawsuit-against-switch-pirate-by-default-defendant-allegedly-moderated-r-switchpirates-and-sold-pirated-switch-games",
+    "date": "2026-09-25",
+    "published_time": "20:26",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在被告未能出庭并回应指控后，华盛顿一家法院判处任天堂美国公司450万$的缺席判决。该公司声称它发出了一封停止信，受访者甚至通过电子邮件回复说他们将遵守并合作，但此后他们已经切断了沟通。",
+    "published_dt_iso": "2026-09-25T20:26:21+08:00"
+  },
+  {
+    "title": "微软通过新工具改造Copilot ，支持前沿模型",
+    "link": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-revamps-copilot-with-new-tools-support-for-frontier-models-available-now-through-frontier-program",
+    "date": "2026-09-25",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "微软正在将Copilot改造成一个单一的AI工作区，将您的项目和代理混合在一起。它还将能够支持第三方前沿模型。",
+    "published_dt_iso": "2026-09-25T20:00:00+08:00"
+  },
+  {
+    "title": "英特尔预计14A的性能将“在台积电A14的5%以内”",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/intel-expects-14a-to-be-within-5-percent-the-performance-of-tsmcs-a14-conservative-forecast-clashes-with-18as-frequency-lead-and-promised-20-percent-gains",
+    "date": "2026-09-25",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "英特尔的Naga Chandrasekaran现在声称，英特尔14A节点将提供台积电A14技术“5%以内”的性能，这一说法需要仔细研究。",
+    "published_dt_iso": "2026-09-25T20:00:00+08:00"
+  },
+  {
+    "title": "华硕确认eShop数据泄露暴露了客户订单记录和联系方式—支付数据安全，但公司警告有针对性的网络钓鱼诈骗",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/asus-online-store-hit-by-data-breach-customer-contact-details-and-order-information-revealed",
+    "date": "2026-09-25",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "华硕eShop遭遇数据泄露—客户联系方式和订单信息泄露",
+    "published_dt_iso": "2026-09-25T19:30:00+08:00"
+  },
+  {
+    "title": "新泽西州击中与微软相关的人工智能数据中心，对62台未经许可的发电机处以创纪录的罚款，发布45天关闭截止日期",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/new-jersey-fines-data-center-for-using-unpermitted-power-generators-microsoft-linked-site-also-in-trouble-with-community-for-noise-pollution-other-issues",
+    "date": "2026-09-25",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "DataOne数据中心因未经许可操作便携式涡轮发电机而面临创纪录的107万美元罚款。居民说，对于这些大型科技公司来说，罚款是一笔巨款。",
+    "published_dt_iso": "2026-09-25T19:00:00+08:00"
+  },
+  {
+    "title": "立即从惠普购买这款支持4K的RTX 5070 Ti游戏PC ，价格不到1900 $",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/grab-this-4k-ready-rtx-5070-ti-gaming-pc-from-hp-for-under-usd1-900-right-now-powerful-omen-35l-machine-is-a-serious-bargain-with-a-20-core-intel-cpu-32gb-ddr5-ram-and-a-1tb-ssd",
+    "date": "2026-09-25",
+    "published_time": "18:51",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这款史诗级的惠普Omen 45L游戏机是您现在可以购买的最便宜的RTX 5070 Ti PC之一，配备英特尔酷睿i7-14700F、32GB DDR RAM和1TB SSD ，价格仅为$ 1,899.99。",
+    "published_dt_iso": "2026-09-25T18:51:36+08:00"
+  },
+  {
+    "title": "英伟达DLSS 5功耗达到647W ，因为电源连接器运行温度高于GPU芯片，可提高帧速率和火焰温度16",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-dlss-5-upscales-frame-rates-and-flame-temps-on-16-pin-power-connector-ai-gaming-tech-pushes-connector-to-uncomfortable-thermal-and-power-limits",
+    "date": "2026-09-25",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "QuasarZone测试显示， GeForce RTX 5090上的16针电源连接器在峰值功耗接近650W时达到90摄氏度以上的温度。",
+    "published_dt_iso": "2026-09-25T18:30:00+08:00"
+  },
+  {
+    "title": "谷歌的轨道人工智能数据中心测试包装了四个TPU和1000瓦的太阳能",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/google-is-blasting-an-experimental-ai-data-center-into-orbit-first-satellite-will-feature-just-four-tensor-processing-units",
+    "date": "2026-09-25",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "谷歌将于10月1日将一颗实验卫星送入轨道，并携带四个张量处理单元。",
+    "published_dt_iso": "2026-09-25T18:00:00+08:00"
+  },
+  {
+    "title": "Insta360征服了360相机—现在它正在盯着眼镜",
+    "link": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
+    "date": "2026-09-25",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "它的名字就在那里： “Insta360”制作360度相机，可以同时从各个角度拍摄，因此您可以先拍摄，然后再拍摄。它没有发明这个想法，但Insta360已经成为360相机的代名词，以至于它以73%的全球市场份额主导了该类别。它正准备运送这么多[…]",
+    "published_dt_iso": "2026-09-25T20:00:00+08:00"
+  },
+  {
+    "title": "微软认为其新的Copilot “超级应用”将与Office一样具有影响力",
+    "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+    "date": "2026-09-25",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在上个月推出其新的Copilot “超级应用”之后，微软今天正式推出它。重新设计的Copilot应用程序将三种AI功能捆绑到聊天、编码和代理的单一界面中。作为发布的一部分，微软还将今年早些时候在Build上推出的人工智能个人助理Scout更名为Autopilot。[…]",
+    "published_dt_iso": "2026-09-25T20:00:00+08:00"
+  },
+  {
+    "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
+    "link": "https://www.qbitai.com/2026/09/497108.html",
+    "date": "2026-09-25",
+    "published_time": "18:00",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
+    "published_dt_iso": "2026-09-25T18:00:14+08:00"
+  },
+  {
+    "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
+    "link": "https://www.qbitai.com/2026/09/497075.html",
+    "date": "2026-09-25",
+    "published_time": "14:20",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "Agent的手越伸越长",
+    "published_dt_iso": "2026-09-25T14:20:56+08:00"
+  },
+  {
+    "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
+    "link": "https://www.qbitai.com/2026/09/497070.html",
+    "date": "2026-09-25",
+    "published_time": "14:14",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "一场物理世界的基模实验",
+    "published_dt_iso": "2026-09-25T14:14:07+08:00"
+  },
+  {
+    "title": "呃…小扎“自研Manus”刚成Meta太子，就塌房了",
+    "link": "https://www.qbitai.com/2026/09/497060.html",
+    "date": "2026-09-25",
+    "published_time": "14:11",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "人工外包团队",
+    "published_dt_iso": "2026-09-25T14:11:10+08:00"
+  },
+  {
+    "title": "聊天、编程、智能体三合一，微软正式发布新版 Copilot“超级应用”",
+    "link": "https://www.ithome.com/1/007/230.htm",
+    "date": "2026-09-25",
+    "published_time": "20:37",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，今天（25 日）晚间，微软正式发布新版 Copilot“超级应用”。新版 Copilot 把聊天、编程和智能体三类 AI 能力集中到同一个界面中。微软为其给出的新定位是“为工作而生的 AI”，甚至把 Copilot 与 Office 当年对生产力的影响相提并论。微软 AI 工作业务首席营销官贾里德 · 斯帕塔罗表示：“正如 Office 定义了 PC 时代的工作方式，新 Copilot 旨在定义 AI 时代的工作方式。”新版 Copilot 分为 Home、Code 和 Autopilot 三个标签页。Home 把 Copilot Chat 和 Cowork 整合到一起，也是用户打开 Copilot 后默认进入的页面。微软还计划在 Home 中加入 Today",
+    "published_dt_iso": "2026-09-25T20:37:23+08:00"
+  },
+  {
+    "title": "长安汽车：深化与宁德时代合作，钠新换电技术项目立项",
+    "link": "https://www.ithome.com/1/007/229.htm",
+    "date": "2026-09-25",
+    "published_time": "20:24",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，长安汽车 9 月 24 日公布投资者关系活动记录表，回答了钠电池量产时间等问题。长安汽车表示，公司在钠离子电池领域已取得阶段性进展，钠离子电池突破高功率极片单点技术，提升极端温况续航体验；此外公司深化与宁德时代合作，钠新换电技术项目立项，共同研发新体系电池。IT之家注意到，去年 4 月 21 日，宁德时代在首个超级科技日上发布全球首个大规模量产的钠电池 —— 宁德时代钠新，正式开启钠电产品从 0 到 N 的广泛应用。作为宁德时代全新的钠离子电池品牌，宁德时代钠新包含“钠新动力电池”和“钠新-24V 重卡启驻一体蓄电池”两类产品，均可实现零下 40℃ 至零上 70℃ 的全温域征服。宁德时代此前称，钠新乘用车电池将彻底解决用户在极寒场景下的车辆性能衰减难题。以常见",
+    "published_dt_iso": "2026-09-25T20:24:18+08:00"
+  },
+  {
+    "title": "英国最大 AI 超算面临供电问题：原定明年上线，或拖到 2030 年代中期",
+    "link": "https://www.ithome.com/1/007/228.htm",
+    "date": "2026-09-25",
+    "published_time": "20:19",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，据英国《卫报》今天（25 日）报道，英国政府曾大力宣传的埃塞克斯郡劳顿大型数据中心项目将无法按原计划于明年启用，甚至可能拖到 2030 年代中期。劳顿项目 2025 年公布时被称为英国最大的 AI 超级计算机，但供电难题意味着项目距离投入运行仍有很长一段时间。当前，该项目因无法在原定 2027 年启用前获得足够电力而面临新的问题。该超算由英国初创企业 Nscale 负责建设，这家企业今年又计划以 350 亿美元（IT之家注：现汇率约合 2,351.04 亿元人民币）估值上市。报道披露，负责把项目接入当地电网的 UK Power Networks（UKPN）已告知 Nscale，电网要到 2030 年代初至中期才能为数据中心提供足够电力。Nscale 回应称，劳",
+    "published_dt_iso": "2026-09-25T20:19:29+08:00"
+  },
+  {
+    "title": "“交个朋友”就所售万向轮溜溜凳木板发霉等致歉：全面下架，启动退赔处理流程",
+    "link": "https://www.ithome.com/1/007/225.htm",
+    "date": "2026-09-25",
+    "published_time": "20:05",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，今日，针对消费者反映的交个朋友直播间所售万向轮溜溜凳存在木板发霉、填充物不合格等问题，交个朋友直播间发布声明。IT之家附原文如下：交个朋友直播间关于万向轮溜溜凳质量问题的正式说明近日，有消费者反映交个朋友直播间销售的万向轮溜溜凳存在木板发霉、填充物不合格等问题。我们第一时间进行了全面清查，发现确有其事。经核查，该产品在“交个朋友智能家居爆品榜”等六个直播间销售过，我们在此向购买过该产品的消费者郑重道歉。事发后，交个朋友旗下所有直播间第一时间全面下架了该产品，终止了与该品牌的合作，并在第一时间启动了退赔处理流程。对于个别商家在送检、抽检环节提供优质合格品，而实际发货时却以次充好的恶劣行径，我们绝不姑息，一经发现立刻下架商品并永久拉黑该商家。接下来我们对该商家依法",
+    "published_dt_iso": "2026-09-25T20:05:11+08:00"
+  },
+  {
+    "title": "2026 中秋节电影票房破亿：时隔七年重映漫威《复仇者联盟 4》加码臻享版登顶",
+    "link": "https://www.ithome.com/1/007/212.htm",
+    "date": "2026-09-25",
+    "published_time": "19:47",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，据灯塔专业版，截至今日 18 时 55 分，2026 年中秋节（9 月 25 日）票房突破 1 亿。《复仇者联盟 4：终局之战（加码臻享版）》《欢迎来龙餐馆》《八仙！》暂列票房前三。IT之家附榜单如下：《复仇者联盟 4：终局之战（加码臻享版）》3586.85 万元《欢迎来龙餐厅》1708.50 万元《八仙！》1062.54 万元《老江湖》925.63 万元《敦煌英雄》711.47 万元据悉，漫威《复仇者联盟 4：终局之战（加码臻享版）》（加码臻享版）于今日起正式登陆全国影院。此次重映版本总片长 185 分钟，较 2019 年原版的 181 分钟多出约 4 分钟全新内容，覆盖 IMAX、杜比影院、CINITY、中国巨幕等高规格影厅制式，同时提供 2D 与 3D ",
+    "published_dt_iso": "2026-09-25T19:47:31+08:00"
+  },
+  {
+    "title": "第 48 届世界技能大赛在沪举办，新增 3 项人工智能相关赛项创历届之最",
+    "link": "https://www.ithome.com/1/007/206.htm",
+    "date": "2026-09-25",
+    "published_time": "19:31",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，据央视新闻报道，9 月 22 日至 27 日，第 48 届世界技能大赛在中国上海举行。本届世赛上，人工智能走进赛题、操作台，成为选手训练和比赛的一部分。本届世赛 64 个项目中，与 AI 直接相关的赛项有 8 个：智慧安防技术、软件测试、数字交互媒体设计、自主移动机器人、工业 4.0、云计算、网络安全、3D 数字游戏艺术。其中智慧安防技术、软件测试、数字交互媒体设计是本届新增，新增数量创历届之最。这些赛项的 AI 含量，体现在具体的工作场景里。智慧安防技术，选手要应用深度学习算法和大模型基础原理，让监控系统自动识别异常。软件测试，AI 已从工具升级为协作伙伴，选手调用多个智能体自主进行测试，自己则从更宏观的行业视角分析问题。数字交互媒体设计，要求选手完成沉浸式",
+    "published_dt_iso": "2026-09-25T19:31:56+08:00"
+  },
+  {
+    "title": "陈立武：英特尔会维持在台积电前十大客户之列，我很敬佩张忠谋",
+    "link": "https://www.ithome.com/1/007/205.htm",
+    "date": "2026-09-25",
+    "published_time": "19:21",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，据台媒《经济日报》今天（25 日）晚间报道，英特尔 CEO 陈立武近期接受采访时称，会维持在台积电前十大客户名单之列。陈立武表示，美国拥有芯片设计和制造能力十分重要。随着先进制程节点不断微缩、复杂度持续提升，公司将推动相关领域取得进展。同时，英特尔仍是台积电的密切合作伙伴，也是台积电前十大客户之一。陈立武称，即使自己喜欢赢，也不会把别人视为竞争对手。商业领域往往并非零和博弈，没有人能够把所有事情都包揽下来，因此总是需要寻找合作伙伴，而他自己也相当重视合作伙伴。IT之家从报道中获悉，陈立武自曝“很敬佩”台积电创始人张忠谋，认为其为半导体产业作出了巨大贡献。英特尔一直与台积电保持密切合作，也是台积电前十大客户之一，今后还会继续保持这种合作关系。",
+    "published_dt_iso": "2026-09-25T19:21:20+08:00"
+  },
+  {
+    "title": "Reddit 版主大规模复制、传播盗版 Switch 游戏，被判赔偿任天堂 450 万美元",
+    "link": "https://www.ithome.com/1/007/203.htm",
+    "date": "2026-09-25",
+    "published_time": "18:59",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 25 日消息，据外媒 VGC 今天（25 日）晚间报道，任天堂在一起 Switch 游戏盗版案中获赔 450 万美元（IT之家注：现汇率约合 3,022.8 万元人民币）。被告是网名 Archbox 的 Reddit 版主詹姆斯 · 威廉姆斯，他复制、传播盗版 Switch 游戏，同时分发运行游戏所需的工具。去年，任天堂向美国华盛顿西区联邦地区法院申请对威廉姆斯作出缺席判决，因为他没有回应任天堂于 2024 年提起的诉讼。最终，法院批准任天堂的全部申请，并判给任天堂 450 万美元（现汇率约合 3,022.8 万元人民币）全额赔偿。美国联邦地区法院法官劳伦 · 金指出，威廉姆斯完全知晓此案，不能以不知情为由辩解；他此前还聘请律师，对向谷歌发出的传票提出异议。法院命令指出，威",
+    "published_dt_iso": "2026-09-25T18:59:30+08:00"
+  },
+  {
+    "title": "英超联赛呼吁国际足联改革",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq62k9pzy21do?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "19:53",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英超联赛与其欧洲三大同行一道，呼吁对世界足球管理机构国际足联的运作方式进行“根本性”改革。",
+    "published_dt_iso": "2026-09-25T19:53:25+08:00"
+  },
+  {
+    "title": "切尔西因歧视性诵经被FA指控",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crvgyw9qnpl3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "18:19",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "切尔西被足球协会指控涉嫌球迷在8月份在富勒姆的胜利期间的歧视行为。",
+    "published_dt_iso": "2026-09-25T18:19:05+08:00"
+  },
+  {
+    "title": "为什么男生已经成为足球转会市场的重要组成部分",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "14:32",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育频道探讨了为什么英格兰足球顶级俱乐部越来越多地交易学院球员，以及对年轻人本身的影响。",
+    "published_dt_iso": "2026-09-25T14:32:33+08:00"
+  },
+  {
+    "title": "欧洲顶级联赛加大了对Infantino的压力，呼吁国际足联进行重大变革",
+    "link": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a",
+    "date": "2026-09-25",
+    "published_time": "17:28",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "四个联赛表示国际足联的治理“不符合目的”他们批评“扩张主义”并希望更多的投入英超联赛已与西甲、意甲和德甲联赛联手，在世界杯抛售崩溃（ FFE ）之后，随着詹尼·因凡蒂诺（ Gianni Infantino ）准备寻求第四个总统任期，呼吁国际足联进行紧急治理改革。他们措辞强烈的声明是英凡蒂诺愿意进行外部治理的最新迹象",
+    "published_dt_iso": "2026-09-25T17:28:33+08:00"
+  },
+  {
+    "title": "在白宫国宴上被习近平提及，赛考斯盼美中成为朋友",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703800.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月25日电 (记者 曾玥)谈及被中国国家主席习近平在白宫国宴致辞中提及的心情，美国友人“赛考斯”(本名罗纳德·萨科尔斯基)在华盛顿当地时间24日晚接受中新社记者视频连线专访时直呼难以置信，并表示期盼美中两国成为朋友。",
+    "published_dt_iso": "2026-09-25T18:50:07+08:00"
+  },
+  {
+    "title": "半小时跨海赴团圆 厦金“小三通”迎来中秋客流高峰",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703749.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:45",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网厦门9月25日电 (吴冠标 付佳萍)玉兔灯盏、圆月挂饰、中秋团扇……9月25日是中秋节，厦门五通客运码头边检大厅处处点缀着中秋元素饰品，厦金“小三通”客运航线迎来客流高峰。",
+    "published_dt_iso": "2026-09-25T18:45:02+08:00"
+  },
+  {
+    "title": "第一观察丨从习主席抵美书面讲话中感悟大国胸怀担当",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703721.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "跨越太平洋的又一次握手，牵动全球目光。",
+    "published_dt_iso": "2026-09-25T18:36:40+08:00"
+  },
+  {
+    "title": "“5年10万”，习近平主席向美国青少年发出新邀约",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703795.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社华盛顿9月24日电 “中美关系希望在人民、未来在青年。这里，我愿宣布，未来5年，中方将邀请10万名美国青少年来华交流学习。”正在美国进行国事访问的习近平主席24日在白宫欢迎仪式上致辞时说。",
+    "published_dt_iso": "2026-09-25T18:33:26+08:00"
+  },
+  {
+    "title": "中美建设性战略稳定关系──迈向正确相处之道的重要一步",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703722.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "原标题：近镜头｜中美建设性战略稳定关系──迈向正确相处之道的重要一步",
+    "published_dt_iso": "2026-09-25T18:28:56+08:00"
+  },
+  {
+    "title": "青春华章·学以报国｜一根扁担、一张党证、一本账：昆明朱德旧居里的初心印记",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703798.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中国青年网昆明9月23日电(实习生 吴丹希 记者 张亚云 见习记者 菅浩云)近日，记者跟随“青春华章·学以报国”网络主题活动媒体行走进昆明翠湖之畔的朱德旧居纪念馆。一根扁担、一张党证、一本账本，串联起这位开国元勋在云南的革命起点与“万里寻党”历程。",
+    "published_dt_iso": "2026-09-25T18:10:03+08:00"
+  },
+  {
+    "title": "白宫会晤特朗普，习近平特别谈到“钉钉子精神”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703766.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月25日电 题：白宫会晤特朗普，习近平特别谈到“钉钉子精神”",
+    "published_dt_iso": "2026-09-25T18:06:24+08:00"
+  },
+  {
+    "title": "“5年10万”，习近平升级中美“跨洋之约”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-25/10703765.shtml",
+    "date": "2026-09-25",
+    "published_time": "17:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月25日电 (记者 李京泽)“这里，我愿宣布，未来5年，中方将邀请10万名美国青少年来华交流学习。”",
+    "published_dt_iso": "2026-09-25T17:48:19+08:00"
+  },
+  {
+    "title": "“先驱者颜福庆”海外巡展英国站在利物浦举行",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703858.shtml",
+    "date": "2026-09-25",
+    "published_time": "20:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网伦敦9月25日电 (记者 欧阳开宇)“先驱者颜福庆”海外巡展英国站日前在利物浦举行。一封写于1909年的颜福庆英文手写信件，成为展览开篇，向观众讲述这位中国现代医学先驱当年在利物浦求学、即将启程归国的往事。",
+    "published_dt_iso": "2026-09-25T20:38:48+08:00"
+  },
+  {
+    "title": "遇见中国丨巴西青年布雷诺：中秋的月光照在北京也照在圣保罗",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703816.shtml",
+    "date": "2026-09-25",
+    "published_time": "19:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中秋象征着团圆和思念。这一中国传统节日，以其独特的文化魅力和深厚的情感内涵，越来越受到各国友人的喜爱。",
+    "published_dt_iso": "2026-09-25T19:11:54+08:00"
+  },
+  {
+    "title": "哈萨克斯坦里海军演事故致14人遇难 搜救行动结束",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703804.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社阿斯塔纳9月25日电 (记者 单璐)哈萨克斯坦国防部25日通报，里海军事演习事故中最后两名失踪军人的遗体已找到，搜救行动结束。此次事故共造成14名军人遇难。",
+    "published_dt_iso": "2026-09-25T18:49:53+08:00"
+  },
+  {
+    "title": "中国C909医疗机赴吉尔吉斯斯坦开展医疗公益活动",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703785.shtml",
+    "date": "2026-09-25",
+    "published_time": "17:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月25日电 (记者 孙自法)中国商用飞机有限责任公司(中国商飞)9月25日消息，“五官健康C909飞机医院”吉尔吉斯斯坦公益行活动9月24日在比什凯克玛纳斯国际机场举办。当天，来自复旦大学附属眼耳鼻喉科医院的专业医疗团队在C909医疗机上成功开展全球首台耳鼻喉科机上手术。",
+    "published_dt_iso": "2026-09-25T17:58:11+08:00"
+  },
+  {
+    "title": "“赛考斯”回应被习近平主席提及：太不可思议了",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703781.shtml",
+    "date": "2026-09-25",
+    "published_time": "17:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "“赛考斯”回应被习近平主席提及：太不可思议了！听到习主席讲我们的故事，我的电量直接回至满格，今晚会很难入睡",
+    "published_dt_iso": "2026-09-25T17:57:17+08:00"
+  },
+  {
+    "title": "特朗普在白宫欢迎仪式上的讲话",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703780.shtml",
+    "date": "2026-09-25",
+    "published_time": "17:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "新华社华盛顿9月24日电 当地时间9月24日上午，美国总统特朗普在白宫举行隆重仪式，热烈欢迎中国国家主席习近平对美国进行国事访问。特朗普在白宫欢迎仪式上的讲话内容如下：",
+    "published_dt_iso": "2026-09-25T17:37:00+08:00"
+  },
+  {
+    "title": "特朗普会中文的外孙女，现身白宫欢迎宴会，18个月大就开始学中文，4岁用中文唱歌，还会背《三字经》",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-25/10703760.shtml",
+    "date": "2026-09-25",
+    "published_time": "16:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月25日电 据美国广播公司(ABC)报道，当地时间9月24日晚，美国总统特朗普和夫人梅拉尼娅在白宫举行欢迎宴会。特朗普的外孙女、伊万卡·特朗普的女儿阿拉贝拉受邀出席。",
+    "published_dt_iso": "2026-09-25T16:49:39+08:00"
+  },
+  {
+    "title": "天津发布应急管理“十五五”规划 明确6方面20项重点任务",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703770.shtml",
+    "date": "2026-09-25",
+    "published_time": "19:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网天津9月25日电(薛淳月 江莹)天津市政府新闻办24日举行新闻发布会介绍《天津市应急管理“十五五”规划》(下称“规划”)。天津市应急管理局局长张军武在会上表示，规划明确法治筑基、安全治理、灾害防治、应急救援、要素支撑、共建共治六方面20项重点任务，到2030年将建成集中统一、权威高效的应急管理体制，城市本质安全、韧性水平全面提升。",
+    "published_dt_iso": "2026-09-25T19:09:56+08:00"
+  },
+  {
+    "title": "世赛遇中秋：一枚月饼“品”出技能新滋味",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703788.shtml",
+    "date": "2026-09-25",
+    "published_time": "19:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社上海9月25日电 (记者 陈舒一)第48届世界技能大赛正在上海举行。25日恰逢中国传统节日中秋节，两位外籍“全球技能梦想大使”体验月饼制作，感受不同文化背景下的技艺交流与碰撞。",
+    "published_dt_iso": "2026-09-25T19:03:48+08:00"
+  },
+  {
+    "title": "贺兰山晒秋艺术季启幕 品读塞上金秋丰收盛景",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703786.shtml",
+    "date": "2026-09-25",
+    "published_time": "19:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川9月25日电 (记者 李佩珊)9月25日，2026年贺兰山“晒秋艺术季”在银川市西夏区兰一生态园启幕。本次活动以“丰收成景·醉美西夏·万物共创”为主题，活动持续至10月6日，覆盖中秋、国庆双节假日，着力打造贺兰山东麓标志性秋日文旅IP。",
+    "published_dt_iso": "2026-09-25T19:01:56+08:00"
+  },
+  {
+    "title": "2026福州文旅金秋推广活动举办 推出十大秋季文旅产品",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703783.shtml",
+    "date": "2026-09-25",
+    "published_time": "19:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网福州9月25日电 (叶秋云)由福州市文化和旅游局主办的“福满金秋遇见福州遇见你——2026福州文旅金秋推广活动”25日在福州鼓山举办。",
+    "published_dt_iso": "2026-09-25T19:00:44+08:00"
+  },
+  {
+    "title": "“以香构万象”的她，解码世界技能大赛的智造之奇",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703775.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月25日电 (记者 王笈)第48届世界技能大赛(以下简称“世赛”)正在国家会展中心(上海)举行。哪咤、兵马俑、中国象棋、十二生肖……一系列3D数智·香道工坊作品亮相场馆，让年轻观众对中国传统香文化产生了浓厚兴趣，发出好奇之问：“‘香’是怎么做出这么多造型的？”“制作工艺有何不同？”",
+    "published_dt_iso": "2026-09-25T18:59:39+08:00"
+  },
+  {
+    "title": "“飞机医院”吉尔吉斯斯坦公益行传递光明与健康",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703698.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月25日电(记者 陈静)25日，记者从复旦大学附属眼耳鼻喉科医院获悉，“五官健康C909飞机医院(下称：“飞机医院”)”吉尔吉斯斯坦公益行项目在该国首都比什凯克玛纳斯国际机场启动。",
+    "published_dt_iso": "2026-09-25T18:33:28+08:00"
+  },
+  {
+    "title": "焦点访谈｜中秋话家风 佳节共团圆",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703796.shtml",
+    "date": "2026-09-25",
+    "published_time": "18:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "央视网消息(焦点访谈)：万里清辉寄乡愁，一轮明月祝团圆。中秋，是中华民族的传统佳节，也是中华优秀传统文化的重要符号之一。从9月24日起，焦点访谈推出中秋特别节目《月明千秋》。中秋节，承载着“月圆人团圆”的美好愿景，是传承中华优秀传统文化、弘扬优良家风的重要载体，更是凝聚家国情感的重要纽带。“明月几时有？把酒问青天。”九百五十年前，苏东坡举杯问月，写下这阕千古绝唱。“人有悲欢离合，月有阴晴圆缺”——正因月有圆缺，人间的团圆才更显珍贵。",
+    "published_dt_iso": "2026-09-25T18:00:42+08:00"
+  },
+  {
+    "title": "湖南东安千年古镇摆百家宴 邻里温情欢度中秋",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-25/10703689.shtml",
+    "date": "2026-09-25",
+    "published_time": "17:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网永州9月25日电(唐涛华 陈俊宏 王荣)中秋将至，古韵传情。23日，湖南永州市东安县紫溪市镇向阳街社区热闹非凡，一场充满乡土气息的邻里百家宴温情开席，居民围坐古街、品美食、话家常、庆团圆，氛围感十足。",
+    "published_dt_iso": "2026-09-25T17:43:57+08:00"
+  },
+  {
+    "title": "美中各从“白宫习特会”得到什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "20:15",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "外界关注的人工智能、稀土等迫切议题，两国似乎未有明显进展。但有学者向BBC中文分析，会谈最重要的成就在于展示两国关系“正面友好的氛围和形象”。",
+    "published_dt_iso": "2026-09-25T20:15:11+08:00"
+  },
+  {
+    "title": "习近平促特朗普“反对台独”，北京措辞升级要的是什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "18:23",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "分析指出，北京此次的表述更为直接，并试图掌握峰会后的叙事主导权，未来台湾在美中台三角关系中的角色可能进一步被“边缘化”。",
+    "published_dt_iso": "2026-09-25T18:23:53+08:00"
+  },
+  {
+    "title": "数百艘中国渔船出现在越南外海，北京想要什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/ck1l6ynmmvlvo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "15:22",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "近年愈来愈多中国渔船在越南外海活动，部分更有执法和政府船只伴随。研究人员认为，这不只是捕鱼，也涉及北京在南海的主权声索和地缘政治盘算，而越南渔民的生计和作业空间正受到愈来愈大压力。",
+    "published_dt_iso": "2026-09-25T15:22:44+08:00"
+  },
+  {
+    "title": "今年夏天，安静的冰川涌动“一次性覆盖所有地方”",
+    "link": "https://www.nytimes.com/2026/09/25/us/ice-surge-immigration-arrests.html",
+    "date": "2026-09-25",
+    "published_time": "19:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "对摄像头拍摄的数十起事件的审查，为在很大程度上无形的镇压提供了新的视角。",
+    "published_dt_iso": "2026-09-25T19:40:24+08:00"
+  },
+  {
+    "title": "未使用的帐篷和未食用的食物：看门狗在移民镇压中发现“浪费”",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/gao-report-finds-waste-immigrant-detention.html",
+    "date": "2026-09-25",
+    "published_time": "08:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在周四的一份报告中，政府问责办公室表示，特朗普政府浪费了数百万美元来扩大拘留范围。",
+    "published_dt_iso": "2026-09-25T08:00:24+08:00"
+  },
+  {
+    "title": "特朗普与白宫记者的对峙以及“变态眼镜”的兴衰",
+    "link": "https://www.nytimes.com/2026/09/25/podcasts/the-headlines/trump-white-house-reporters-meta-glasses.html",
+    "date": "2026-09-25",
+    "published_time": "19:35",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此外，还有周五的新闻测验。",
+    "published_dt_iso": "2026-09-25T19:35:27+08:00"
+  },
+  {
+    "title": "Flyovers and Pandas Masked Divides in Trump and Xi’s U.S.",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-summit-china.html",
+    "date": "2026-09-25",
+    "published_time": "11:10",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "President Trump pressed his personal brand of diplomacy as President Xi Jinping of China made his first trip to the White House in more than a decade.",
+    "published_dt_iso": "2026-09-25T11:10:18+08:00"
+  },
+  {
+    "title": "Xi Jinping Didn’t Bring a CEO Entourage. What That Says About China",
+    "link": "https://www.nytimes.com/2026/09/25/business/trump-xi-jinping-chinese-executives.html",
+    "date": "2026-09-25",
+    "published_time": "18:49",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "American chief executives turned out in force to see Xi Jinping, while their Chinese counterparts were absent, a sign of how drastically business ties have changed.",
+    "published_dt_iso": "2026-09-25T18:49:38+08:00"
+  },
+  {
+    "title": "As Trump Hosts State Dinner Honoring Xi, See the Menu",
+    "link": "https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html",
+    "date": "2026-09-25",
+    "published_time": "14:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The White House said that the three-course menu, including sea bass and bok choy, featured American ingredients with a “subtle Chinese influence.”",
+    "published_dt_iso": "2026-09-25T14:41:26+08:00"
+  },
+  {
+    "title": "Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy",
+    "link": "https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html",
+    "date": "2026-09-25",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars.",
+    "published_dt_iso": "2026-09-25T17:02:55+08:00"
   }
 ]

@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,294.50</span>
-      <span class="ticker-change down">▼ -1.53%</span>
+      <span class="ticker-price ticker-down">4,311.78</span>
+      <span class="ticker-change down">▼ -1.13%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7179</span>
+      <span class="ticker-price ticker-up">6.7239</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,276.27 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +2.51 (+0.06%)</span>
+      <span class="ticker-price ticker-up">$4,299.56 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +25.80 (+0.60%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -232,6 +232,24 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/007/229.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，长安汽车 9 月 24 日公布投资者关系活动记录表，回答了钠电池量产时间等问题。长安汽车表示，公司在钠离子电池领域已取得阶段性进展，钠离子电池突破高功率极片单点技术，提升极端温况续航体验；此外公司深化与宁德时代合作，钠新换电技术项目立项，共同研发新体系电池。IT之家注意到，去年 4 月 21 日，宁德时代在首个超级科技日上发布全球首个大规模量产的钠电池 —— 宁德时代钠新，正式开启钠电产品从 0 到 N 的广泛应用。作为宁德时代全新的钠离子电池品牌，宁德时代钠新包含“钠新动力电池”和“钠新-24V 重卡启驻一体蓄电池”两类产品，均可实现零下 40℃ 至零上 70℃ 的全温域征服。宁德时代此前称，钠新乘用车电池将彻底解决用户在极寒场景下的车辆性能衰减难题。以常见" data-title="长安汽车：深化与宁德时代合作，钠新换电技术项目立项" data-date="09-25 20:24" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 20:24</span>
+          <span class="news-item-title">长安汽车：深化与宁德时代合作，钠新换电技术项目立项</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/203.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，据外媒 VGC 今天（25 日）晚间报道，任天堂在一起 Switch 游戏盗版案中获赔 450 万美元（IT之家注：现汇率约合 3,022.8 万元人民币）。被告是网名 Archbox 的 Reddit 版主詹姆斯 · 威廉姆斯，他复制、传播盗版 Switch 游戏，同时分发运行游戏所需的工具。去年，任天堂向美国华盛顿西区联邦地区法院申请对威廉姆斯作出缺席判决，因为他没有回应任天堂于 2024 年提起的诉讼。最终，法院批准任天堂的全部申请，并判给任天堂 450 万美元（现汇率约合 3,022.8 万元人民币）全额赔偿。美国联邦地区法院法官劳伦 · 金指出，威廉姆斯完全知晓此案，不能以不知情为由辩解；他此前还聘请律师，对向谷歌发出的传票提出异议。法院命令指出，威" data-title="Reddit 版主大规模复制、传播盗版 Switch 游戏，被判赔偿任天堂 450 万美元" data-date="09-25 18:59" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-25 18:59</span>
+          <span class="news-item-title">Reddit 版主大规模复制、传播盗版 Switch 游戏，被判赔偿任天堂 450 万美元</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/25/world/europe/ukraine-russia-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The economic damage from Russian strikes, resulting in lost sales, disrupted workdays and logistical snarls, is in the billions of dollars." data-title="Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy" data-date="09-25 17:02" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-25 17:02</span>
+          <span class="news-item-title">Stuck on the Battlefield, Russia Wages ‘Total War’ on Ukraine’s Economy</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/007/130.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，康宁公司于 9 月 24 日宣布，将扩大 Polarcor 玻璃偏振片的制造产能，以应对 AI 数据中心和计算应用持续增长的需求。此次产能扩建将提升康宁工程化玻璃偏振片的生产能力。该类产品广泛应用于光隔离器及其他激光光学器件，是先进光学和光子系统的重要组成部分。与此同时，康宁与一家领先的有源光子技术企业达成了一项新的多年期供货协议。据康宁介绍，这项多年期供货协议将为关键客户提供长期稳定的供应保障。随着 AI 工作负载规模不断扩大，数据中心对光学和光子技术的依赖程度持续加深，以实现海量数据的高速高效传输。光互连在系统性能中扮演的角色日益关键，对光信号进行精准可靠的控制也因此变得更为重要。康宁的 Polarcor 工程化玻璃偏振片正是面向这一需求设计，能够控制偏振" data-title="瞄准 AI 数据中心光学需求，康宁扩大 Polarcor 玻璃偏振片产能" data-date="09-25 14:09" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -304,24 +322,6 @@ title: 股票财经
           <span class="news-item-date">09-24 23:34</span>
           <span class="news-item-title">R 星官宣 400 美元《GTA6》收藏礼盒：含手办、太阳镜、海报等周边，无游戏本体</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Ando已从Accel、Index Ventures和Emergence等投资者那里筹集了2000万美元的种子前和种子资金$。" data-title="Ando希望通过团队消息应用程序与Slack对抗，该应用程序可以让人员和客服代表协同工作" data-date="09-24 22:31" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-24 22:31</span>
-          <span class="news-item-title">Ando希望通过团队消息应用程序与Slack对抗，该应用程序可以让人员和客服代表协同工作</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-24/10703328.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月24日电 北京时间9月24日，美国企业家埃隆·马斯克的母亲梅耶·马斯克在社交媒体X上转发了儿子马斯克接受采访的视频，并称赞中国“干净又安全”。" data-title="马斯克母亲最新发文：“我喜欢去中国，那里干净安全”" data-date="09-24 19:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-24 19:47</span>
-          <span class="news-item-title">马斯克母亲最新发文：“我喜欢去中国，那里干净安全”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-24/10703268.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社柏林9月24日电 (记者 马秀秀)德国五大主要经济研究机构24日发布秋季联合经济预测，预计2026年德国国内生产总值将增长1.3%，较今年春季预测的0.6%大幅上调。" data-title="研究机构大幅上调今年德国经济增长预期" data-date="09-24 19:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-24 19:41</span>
-          <span class="news-item-title">研究机构大幅上调今年德国经济增长预期</span>
-        </a>
   </div>
 </div>
 
@@ -335,4 +335,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-25 14:46（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-25 20:52（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
