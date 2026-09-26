@@ -230,49 +230,13 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">1 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/007/358.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 26 日消息，科技媒体 Wccftech 昨日（9 月 25 日）发布博文，报道称猫头鹰（Noctua）预热 WireView Pro II Noctua 版显卡供电监控配件，上市后预估售价为 199 欧元（IT之家注：现汇率约合 1,523 元人民币）。该产品由德国“暴力熊”（Thermal Grizzly）与猫头鹰（Noctua）联合打造，面向采用 12V-2x6 供电接口的现代显卡，其原型曾亮相 2026 年台北国际电脑展。消息称该合作款采用 Noctua NF-A4x10 风扇，支持半被动散热模式。相比标准 WireView Pro II 使用的 30mm 风扇，该合作款换装了尺寸更大的 40mm 风扇。为了容纳新风扇，“暴力熊”修改了 PCB，并略微增大产品外壳。" data-title="猫头鹰预热 WireView Pro II Noctua 显卡供电配件，配 40mm 风扇" data-date="09-26 14:28" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-26 14:28</span>
-          <span class="news-item-title">猫头鹰预热 WireView Pro II Noctua 显卡供电配件，配 40mm 风扇</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-26/10703987.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社布鲁塞尔9月25日电 (记者 德永健)欧盟25日启动违规程序，要求成员国在能源、金融、打击人口走私等多个领域限期落实欧盟指令。" data-title="欧盟启动违规程序要求成员国限期落实多项指令" data-date="09-26 07:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-26 07:12</span>
-          <span class="news-item-title">欧盟启动违规程序要求成员国限期落实多项指令</span>
-        </a>
         <a class="news-item" href="https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Mark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建设业务。" data-title="Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的" data-date="09-26 02:48" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
           <span class="news-item-date">09-26 02:48</span>
           <span class="news-item-title">Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="缓解与华盛顿的紧张局势为北京提供了解决国内经济困难的空间，同时也降低了其面对美国压力的脆弱性。" data-title="中国与特朗普的休战为它赢得了宝贵的时间" data-date="09-26 00:38" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-26 00:38</span>
-          <span class="news-item-title">中国与特朗普的休战为它赢得了宝贵的时间</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-26/10703962.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳9月25日电 (记者 单璐)当地时间25日，首届哈萨克斯坦—中国投资论坛在阿拉木图市举行。哈萨克斯坦总统托卡耶夫当天在开幕式上表示，哈中永久全面战略伙伴关系建立在坚实的基础上，两国多领域合作不断深化。" data-title="哈萨克斯坦总统：哈中多领域合作不断深化" data-date="09-26 00:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-26 00:21</span>
-          <span class="news-item-title">哈萨克斯坦总统：哈中多领域合作不断深化</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/fed-interest-rates-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Financial markets are placing nearly 70 percent odds on the Federal Reserve raising interest rates in late October." data-title="Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections" data-date="09-25 23:38" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 23:38</span>
-          <span class="news-item-title">Fed Faces Prospect of Another Interest Rate Increase Just Before Midterm Elections</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/251.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 25 日消息，影石今日宣布，首家美国旗舰店于纽约时代广场正式开业。据此前官方介绍，这也是首个在纽约时代广场开业的中国影像品牌。截至目前，影石在全球体验零售店已超 10000 家，品牌旗舰店超 300 家。IT之家注意到，国际数据公司（IDC） 9 月 23 日发布 2026 年二季度全球手持智能影像设备市场数据。期内全球销量达 588.7 万台，同比增长 57.24%；销售额 156.89 亿元人民币。其中云台相机增长最快，销量同比激增 86.9% 至 279.3 万台。中国影像双雄影石、大疆成为本轮增长的核心引擎。影石披露，其相机全球累计出货量已突破 1000 万台，过去一年出货达 470 万台。全景相机领域，影石以 72.5% 的销量领跑行业，实现连续两个季度份额增长。" data-title="首个入驻纽约时代广场的中国影像品牌，影石首家美国旗舰店开业" data-date="09-25 23:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-25 23:23</span>
-          <span class="news-item-title">首个入驻纽约时代广场的中国影像品牌，影石首家美国旗舰店开业</span>
         </a>
   </div>
 </div>
@@ -287,4 +251,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-26 20:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-27 00:32（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
