@@ -1628,5 +1628,515 @@
     "feed_name": "纽约时报",
     "summary": "CNN won’t be able to join President Trump on a Saturday trip to Tennessee. He had banned CNN and two other news outlets from the White House, but a court order on Thursday restored their access.",
     "published_dt_iso": "2026-09-26T10:31:15+08:00"
+  },
+  {
+    "title": "新型攻击削减了破解教科书RSA加密所需的计算能力",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels",
+    "date": "2026-09-26",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "目前还不太实用，但可以作为未来改进的基础。",
+    "published_dt_iso": "2026-09-26T20:00:00+08:00"
+  },
+  {
+    "title": "据称， PNY拒绝覆盖由本地电源电缆供电的熔融RTX 5090",
+    "link": "https://www.tomshardware.com/pc-components/gpus/pny-allegedly-refuses-to-cover-melted-rtx-5090-powered-by-native-power-supply-cable-company-closes-users-ticket-when-questioned-on-policy",
+    "date": "2026-09-26",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "用户的GeForce RTX 5090在12V-2x6连接器熔化时死亡，然后PNY根据保修政策中甚至不存在的技术细节拒绝了他的保修索赔。",
+    "published_dt_iso": "2026-09-26T19:30:00+08:00"
+  },
+  {
+    "title": "爱好者用冷罐La Croix苏打水冷却iPhone 18 Pro ；基准测试显示持续性能提高25%",
+    "link": "https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling",
+    "date": "2026-09-26",
+    "published_time": "19:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "马特·伯奇勒（ Matt Birchler ）在iPhone 18 Pro的背面放了一个冷饮罐，看看在长时间的基准测试中，它会提升多少性能。结果显示，冷饮的持续性能提高了25% ，显示了“液体冷却”的有效性。",
+    "published_dt_iso": "2026-09-26T19:00:00+08:00"
+  },
+  {
+    "title": "联邦法案将强制VPN提供商、互联网服务提供商和DNS服务商屏蔽外国盗版网站",
+    "link": "https://www.tomshardware.com/software/vpn/federal-bill-would-force-vpn-providers-isps-and-dns-services-to-block-foreign-piracy-sites-yet-fuzzy-location-rules-could-trigger-heavy-handed-bans",
+    "date": "2026-09-26",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "拟议的联邦法案将迫使互联网服务提供商、DNS服务和VPN提供商阻止外国盗版网站，但“来自美国”的定义变得模糊不清",
+    "published_dt_iso": "2026-09-26T18:30:00+08:00"
+  },
+  {
+    "title": "ChatGPT-6 Astra在两天内破解了85岁的1941年Enigma编码消息",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005",
+    "date": "2026-09-26",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "GTP-Astra在短短两天内破解了85年前的德国陆军Enigma传输，称为MVUEH消息。",
+    "published_dt_iso": "2026-09-26T18:00:00+08:00"
+  },
+  {
+    "title": "「eSUV」电动自行车真的可以从一条小路骑到另一个城镇吗？",
+    "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+    "date": "2026-09-26",
+    "published_time": "15:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "您是否曾经想要一辆电动自行车，可以轻松地从城市沥青的苦差事转变为砾石和泥土的冒险？这就是所谓的“电动SUV” （ eSUV ）电动自行车的子类所声称的，它们拥有宽阔的全地形轮胎和前后悬架，以及挡泥板和机架等实用配件。所以，这就是[…]",
+    "published_dt_iso": "2026-09-26T15:00:00+08:00"
+  },
+  {
+    "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+    "link": "https://www.qbitai.com/2026/09/498478.html",
+    "date": "2026-09-26",
+    "published_time": "19:49",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+    "published_dt_iso": "2026-09-26T19:49:43+08:00"
+  },
+  {
+    "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate",
+    "link": "https://www.qbitai.com/2026/09/498271.html",
+    "date": "2026-09-26",
+    "published_time": "17:07",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+    "published_dt_iso": "2026-09-26T17:07:41+08:00"
+  },
+  {
+    "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+    "link": "https://www.qbitai.com/2026/09/497624.html",
+    "date": "2026-09-26",
+    "published_time": "17:01",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+    "published_dt_iso": "2026-09-26T17:01:00+08:00"
+  },
+  {
+    "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+    "link": "https://www.qbitai.com/2026/09/497613.html",
+    "date": "2026-09-26",
+    "published_time": "15:18",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+    "published_dt_iso": "2026-09-26T15:18:05+08:00"
+  },
+  {
+    "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
+    "link": "https://www.qbitai.com/2026/09/497425.html",
+    "date": "2026-09-26",
+    "published_time": "15:12",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "vLLM人马创业公司团队出品",
+    "published_dt_iso": "2026-09-26T15:12:05+08:00"
+  },
+  {
+    "title": "OpenAI失控Agent还找DeepSeek、Kimi当外援！近百万条作案短链曝光",
+    "link": "https://www.qbitai.com/2026/09/497382.html",
+    "date": "2026-09-26",
+    "published_time": "15:04",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "还把“密钥”叫战利品",
+    "published_dt_iso": "2026-09-26T15:04:15+08:00"
+  },
+  {
+    "title": "荣耀 Magic9 Pro Max 手机搭载自研至臻黑钻屏：反射率 1.5%、峰值亮度 1 万尼特",
+    "link": "https://www.ithome.com/1/007/429.htm",
+    "date": "2026-09-26",
+    "published_time": "20:16",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，全新荣耀 Magic9 系列手机将于 9 月 28 日 14:30 发布并开售。荣耀工作人员王飞今日发文表示，荣耀 Magic9 Pro Max 搭载自研至臻黑钻屏，包含 5600 层氮化硅镀膜，反射率降低至 1.5%。官方海报显示，荣耀 Magic9 Pro Max 手机的屏幕支持 25 倍耐摔、15 倍耐刮，峰值亮度可达 10000 尼特。博主 @数码闲聊站 已曝光荣耀 Magic9 Pro Max 手机规格信息，IT之家整理如下：6.8\"2868*1320p 1.5K+120Hz LTPO 大直屏，大 R 角极窄四等边骁龙 8EE6 处理器（第六代骁龙 8 超级至尊版），8800mAh 大电池 +100W 有线充 +80W 无线充55Mp F2.0 1:",
+    "published_dt_iso": "2026-09-26T20:16:23+08:00"
+  },
+  {
+    "title": "英国第二大图书馆：牛津大学博德利图书馆藏书被曝用于 OpenAI 模型训练",
+    "link": "https://www.ithome.com/1/007/426.htm",
+    "date": "2026-09-26",
+    "published_time": "20:01",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，据英媒卫报消息，正值各大科技公司在学术机构中四处搜寻全新语料之际，牛津大学已允许 ChatGPT 开发商 OpenAI 利用其博德利图书馆（Bodleian Library）的历史典籍来训练其人工智能模型。IT之家注：博德利图书馆是英国牛津大学主要的研究图书馆，是英国规模仅次于大英图书馆的第二大图书馆。一份内部文件显示，由 OpenAI 完成数字化的博德利藏书已被用来“构建 OpenAI 的训练集”。牛津大学于 2025 年 3 月宣布与该公司达成合作，使用 OpenAI 的软件对该校这座享誉世界的图书馆藏书进行数字化处理。校方当时表示，此举将让广大学生和研究人员更便捷地查阅这些文献资料。然而，当时的合作公告并未提及这些资料会被用于训练 OpenAI 的模型。",
+    "published_dt_iso": "2026-09-26T20:01:03+08:00"
+  },
+  {
+    "title": "李小龙：华为大疆联名款 Osmo Pocket 4 云台相机有更多协同功能",
+    "link": "https://www.ithome.com/1/007/424.htm",
+    "date": "2026-09-26",
+    "published_time": "19:26",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，华为官方今日宣布，HUAWEI × DJI Osmo Pocket 4 官宣 9 月 26 日起陆续到店。预热图显示，进店的 DJI Osmo Pocket 4 将印上“HUAWEI”的 LOGO。IT之家注意到，华为终端 BG CTO 李小龙刚刚发文透露，这款华为大疆联名款的 Osmo Pocket 4 有更多协同功能，更好用。具体支持哪些功能，李小龙暂未公布，但预计会支持与华为设备的联动。作为参考，今年 4 月，大疆正式发布全新一英寸口袋云台相机 Osmo Pocket 4，该机搭载全新升级的一英寸 CMOS，拥有 14 级宽广动态范围，并支持 10‑bit D‑Log 专业色彩模式，定价为 2999 元起。Osmo Pocket 4 搭载智能跟随 7.0",
+    "published_dt_iso": "2026-09-26T19:26:19+08:00"
+  },
+  {
+    "title": "华为 Mate 60、Pura 70 等机型推送 HarmonyOS 7.0.0.109 SP6 版本，新增智能识别信息内容等功能",
+    "link": "https://www.ithome.com/1/007/422.htm",
+    "date": "2026-09-26",
+    "published_time": "19:14",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，华为今日面向老机型推送了鸿蒙 HarmonyOS 7.0.0.109 SP6 版本，覆盖 Mate 60、Pura 70 等系列设备。据介绍，本次更新优化了部分场景的显示效果，同时提升了整机系统稳定性。▲ IT之家开箱：华为 Mate60 Pro+“宣白”图赏IT之家附新版本更新内容如下：信息智能识别信息内容，挪车提醒、候补车票成功等信息可通过实况窗展示，提醒更及时关怀和无障碍文本通话支持声音修复，当发音不清晰时，使用该功能可让对方听得更清晰，轻松实现无障碍沟通（设置 > 关怀和无障碍 > 文本通话，需通过应用市场将小艺更新至 11.7.7.301 及以上版本）显示优化控制中心部分场景的显示效果图库优化图库稳定性及部分界面的显示效果音频优化部分场景连接耳机的使",
+    "published_dt_iso": "2026-09-26T19:14:18+08:00"
+  },
+  {
+    "title": "OpenCode 宣布为 DeepSeek V4.1 Flash 永久提供 60 美元额度",
+    "link": "https://www.ithome.com/1/007/421.htm",
+    "date": "2026-09-26",
+    "published_time": "19:07",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，OpenCode 昨日宣布启动“Operation Cheepseek”第二阶段，DeepSeek V4.1 Flash 在 OpenCode Go 中原本限时提供的 60 美元（IT之家注：现汇率约合 403.5 元人民币）额度现调整为永久有效。此前，OpenCode 曾将 DeepSeek V4.1 Flash 的使用额度临时提升至原标准的 4 倍，即从 15 美元提高至 60 美元，并计划于 9 月 20 日结束该活动。OpenCode 当前 Go 页面已将该模型的额度标注为 60 美元，原 15 美元额度被划线标记。DeepSeek 最新发布的 V4.1 Flash 采用 5520 亿参数的 MoE 架构，输入侧激活参数量为 80 亿，输出侧为 160",
+    "published_dt_iso": "2026-09-26T19:07:36+08:00"
+  },
+  {
+    "title": "中国天眼 FAST 联合 DESI 观测：恒星“减产”并非燃料耗尽，宇宙缺的不是气而是“加工”能力",
+    "link": "https://www.ithome.com/1/007/420.htm",
+    "date": "2026-09-26",
+    "published_time": "18:59",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，中国科学院国家天文台、上海天文台、上海交通大学等组成的国际合作团队，利用“中国天眼”（FAST）与国际暗能量光谱仪（DESI）联合观测，对过去 45 亿年的宇宙中性氢演化进行高精度测量。研究发现，宇宙恒星形成活动显著减弱的同时，中性氢储备并未同步枯竭。相关成果发表于《自然 · 天文》杂志。恒星形成率下降是星系演化领域的核心问题。一个流行解释是，孕育恒星的冷气体不断被消耗，导致造星活动衰退。如果这一图景成立，恒星形成率下降应伴随冷气体储备的同步骤减。但此次测量给出了不同答案。中性氢是星系中重要的冷气体储备，通过极其微弱的 21 厘米射电谱线发出信号（该谱线频率约 1420MHz，是中性氢原子的特征辐射）。遥远星系的单个信号常淹没在背景噪声中，过去观测长期受限于“",
+    "published_dt_iso": "2026-09-26T18:59:56+08:00"
+  },
+  {
+    "title": "微软 Xbox 新一轮重组波及多家工作室：黑曜石划归贝塞斯达后引发员工担忧和不满，忍者理论出售未果面临关闭",
+    "link": "https://www.ithome.com/1/007/419.htm",
+    "date": "2026-09-26",
+    "published_time": "18:46",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，微软于当地时间 9 月 22 日宣布对旗下游戏工作室进行新一轮架构调整，同时裁撤 268 个岗位。这是继 2026 年 7 月首轮裁员后的又一次重大变动。据《The Game Business》，Xbox 近期重组后，部分工作室被重新划分至动视和 ZeniMax 旗下，引发了开发团队对工作室自主权、项目成本及未来项目命运的担忧。其中，黑曜石（Obsidian）的员工对工作室被纳入贝塞斯达（Bethesda）体系并不满意。消息人士称，黑曜石过去拥有较高的自主权，可以自由决定开发项目，而此次组织架构调整可能改变这一状况。Bethesda 此前公开表示，不希望此次调整影响黑曜石的独立运作方式。不过，目前尚无法确认新架构下黑曜石的实际决策权限是否会发生变化。《The ",
+    "published_dt_iso": "2026-09-26T18:46:21+08:00"
+  },
+  {
+    "title": "小天才推出 E6 耳夹耳机：耳机仓可为手表应急补电，599 元",
+    "link": "https://www.ithome.com/1/007/418.htm",
+    "date": "2026-09-26",
+    "published_time": "18:45",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 26 日消息，小天才于 9 月 24 日推出了 E6 耳夹耳机，这款耳机现已开售，售价 599 元。小天才 E6 为环绕式耳夹设计，单只 7.5g 重量；采用钛丝弧形结构，自带 9 克预紧力加持，自适应夹紧耳廓。IT之家获悉，这是小天才首款反向充电耳机仓，可为手表应急补电。小天才 E6 单边内置 12mm 双喇叭单元，采用自研定向声场技术，能够让声场更加聚焦，贴合耳道；耳机左右耳可随意佩戴，佩戴后会自动校准声道；支持 IPX4 防汗防雨，支持两台蓝牙设备同时连接，可在学习机、手表之间快捷切换。续航方面，小天才 E6 耳机单次续航 11 小时，充电盒额外提供 41 小时续航，总续航可达 52 小时。京东小天才 E6 雾银白 599 元直达链接",
+    "published_dt_iso": "2026-09-26T18:45:29+08:00"
+  },
+  {
+    "title": "曼城法律斗争可能失控",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26",
+    "published_time": "19:03",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "一位前顶级俱乐部高管警告说，曼城与英超联赛的法律斗争有可能“螺旋式失控”。",
+    "published_dt_iso": "2026-09-26T19:03:53+08:00"
+  },
+  {
+    "title": "沃德任命利物浦体育总监",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3x2zkvkez48o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26",
+    "published_time": "17:08",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "朱利安·沃德（ Julian Ward ）在理查德·休斯（ Richard Hughes ）离职后第二次成为利物浦的体育总监。",
+    "published_dt_iso": "2026-09-26T17:08:17+08:00"
+  },
+  {
+    "title": "恩佐·马雷斯卡（ Enzo Maresca ）在曼城有罪判决后发布“我一无所知”的消息",
+    "link": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
+    "date": "2026-09-26",
+    "published_time": "19:53",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Noel Gallagher, fan and Oasis star, ‘shocked and sad’David Bernstein: a fine is ‘not sufficient’ if appeal failsManchester City’s manager Enzo Maresca posted a cryptic message on social media reading “I know nothing” after the club was found guilty on virtually all counts of breaching Premier League financial rules.News broke on Friday that City ha",
+    "published_dt_iso": "2026-09-26T19:53:50+08:00"
+  },
+  {
+    "title": "曼城的判决：接下来会发生什么，俱乐部会吸引人吗？他们会被降级吗？",
+    "link": "https://www.theguardian.com/football/2026/sep/26/manchester-city-verdict-what-happens-next-appeal-relegated",
+    "date": "2026-09-26",
+    "published_time": "15:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "我们分析了曼城必须做些什么来上诉，为什么即使这可能不是法律纠纷的结束，以及如果维持判决可能等待的处罚曼城被判犯有英超联赛对他们提出的134项纪律指控中的绝大多数。继续阅读...",
+    "published_dt_iso": "2026-09-26T15:00:30+08:00"
+  },
+  {
+    "title": "外交部：关于人工智能表述问题，中方重视美方立场也尊重美方提法",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704210.shtml",
+    "date": "2026-09-26",
+    "published_time": "19:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月26日电 中国外交部发言人26日就人工智能问题答记者问时表示，关于人工智能表述问题，中方重视美方的立场，也尊重美方的提法。",
+    "published_dt_iso": "2026-09-26T19:07:01+08:00"
+  },
+  {
+    "title": "戈壁深处，一座摄影图书馆的“和合”故事",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704204.shtml",
+    "date": "2026-09-26",
+    "published_time": "19:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网杭州9月26日电 (钱晨菲)从杭州一路向西，穿过2700多公里，可以抵达青海茫崖。那里城市与城市之间相隔甚远，戈壁、盐湖、星空构成了独特的地理景观，也让其被称为“中国最孤独的城市”。",
+    "published_dt_iso": "2026-09-26T19:06:17+08:00"
+  },
+  {
+    "title": "开辟大国相处正确之道 书写中美关系历史新篇——中共中央政治局委员、外交部长王毅谈习近平主席对美国进行国事访问",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704199.shtml",
+    "date": "2026-09-26",
+    "published_time": "18:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月26日电 开辟大国相处正确之道 书写中美关系历史新篇",
+    "published_dt_iso": "2026-09-26T18:50:05+08:00"
+  },
+  {
+    "title": "外交部发言人就人工智能问题答记者问",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704194.shtml",
+    "date": "2026-09-26",
+    "published_time": "18:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "今天，外交部发言人就人工智能问题答记者问。",
+    "published_dt_iso": "2026-09-26T18:27:04+08:00"
+  },
+  {
+    "title": "走进世界技能博览会 乐享技能嘉年华",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704164.shtml",
+    "date": "2026-09-26",
+    "published_time": "17:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "视频：走进世界技能博览会 乐享技能嘉年华来源：新华社",
+    "published_dt_iso": "2026-09-26T17:32:19+08:00"
+  },
+  {
+    "title": "世界技能大赛：拼到最后，全是“手搓”硬实力",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704161.shtml",
+    "date": "2026-09-26",
+    "published_time": "17:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "被誉为“世界技能奥林匹克”的世界技能大赛正在上海举行，不少观众与专业人士来到现场观摩选手竞赛。人们发现，与体育运动会不同，技能大赛的竞技项目与我们的生活息息相关：这里有家具制作、烹饪、软件测试，还有酒店服务、轨道车辆技术、无人机系统……工业机械、网络安全、3D数字游戏艺术项目究竟考验选手哪些能力？又如何选择最终的优胜者？",
+    "published_dt_iso": "2026-09-26T17:23:00+08:00"
+  },
+  {
+    "title": "（近观中国）中美元首白宫茶叙，六字共识举世瞩目",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704157.shtml",
+    "date": "2026-09-26",
+    "published_time": "17:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京9月26日电 (记者 谢雁冰)当地时间9月25日上午，中国国家主席习近平和夫人彭丽媛同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。两国元首同意进一步丰富中美关系定位的内涵，共同构建“基于尊重、公平、对等的建设性战略稳定关系”。",
+    "published_dt_iso": "2026-09-26T17:09:19+08:00"
+  },
+  {
+    "title": "世赛现场看高手较量：全盲赛制、毫厘功夫、分秒必争",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-26/10704156.shtml",
+    "date": "2026-09-26",
+    "published_time": "16:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社上海9月26日电 有人搭凉亭，有人挖坑造景，有人捏翻糖熊猫，有人细细打磨门板……走进第48届世界技能大赛的赛场，64个赛项、千余名选手，记者一时不知道该先看哪双手。",
+    "published_dt_iso": "2026-09-26T16:59:18+08:00"
+  },
+  {
+    "title": "“中医药海外进基层”义诊巡诊活动走进柬埔寨菩萨省",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704174.shtml",
+    "date": "2026-09-26",
+    "published_time": "18:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网金边9月26日电 (杨强 张堰林)第5批援柬埔寨中国医疗队(中医)26日赴菩萨省开展义诊巡诊活动。这是援柬中国医疗队“中医药海外进基层”大型义诊巡诊活动的其中一站，也是这支队伍又一次将优质中医药服务送到当地基层民众“家门口”。",
+    "published_dt_iso": "2026-09-26T18:23:48+08:00"
+  },
+  {
+    "title": "泰国曼谷持续强降雨  政府加强生活物资保供稳价",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704152.shtml",
+    "date": "2026-09-26",
+    "published_time": "17:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社曼谷9月26日电 (李映民 王茜)受持续强降雨影响，泰国曼谷出现大面积积水，部分道路通行受到影响。泰国政府26日要求商业部门加强受灾地区生活必需品供应和价格监管，以防止商品短缺及不合理涨价。",
+    "published_dt_iso": "2026-09-26T17:17:08+08:00"
+  },
+  {
+    "title": "2026全球南方现代化论坛将在埃及开罗举行",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704108.shtml",
+    "date": "2026-09-26",
+    "published_time": "16:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网约翰内斯堡9月26日电 2026全球南方现代化论坛将于9月30日在埃及开罗举行。论坛将以“人工智能浪潮：全球南方现代化的机遇与挑战”为主题。",
+    "published_dt_iso": "2026-09-26T16:03:35+08:00"
+  },
+  {
+    "title": "毛宁发布多张现场图片，记录习近平主席访美重要时刻",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-26/10704131.shtml",
+    "date": "2026-09-26",
+    "published_time": "15:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月26日电 当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。习近平主席访美期间，中国外交部发言人毛宁在海外社交平台X上发布多张现场图片，记录一个又一个重要时刻。",
+    "published_dt_iso": "2026-09-26T15:47:40+08:00"
+  },
+  {
+    "title": "假期观察：药膳月饼走红，轻养生背后的“食”之有道",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704229.shtml",
+    "date": "2026-09-26",
+    "published_time": "20:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州9月26日电(张煜欢)这个中秋假期，月饼市场悄然迎来一场味觉与健康观念的迭代。除了人们熟悉的传统广式、苏式月饼，一批由医疗机构研发的药膳月饼持续出圈，多家医院出品的节令点心成为社交平台热议话题。",
+    "published_dt_iso": "2026-09-26T20:11:37+08:00"
+  },
+  {
+    "title": "在“红飘带”起点续写“新长征故事”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704221.shtml",
+    "date": "2026-09-26",
+    "published_time": "19:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "视频：新华视点丨在“红飘带”起点续写“新长征故事”来源：新华社",
+    "published_dt_iso": "2026-09-26T19:36:36+08:00"
+  },
+  {
+    "title": "青春华章·智生万物｜最高72岁！西电花甲教师舞忆长征峥嵘，为新生带来沉浸式红色公开课",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704216.shtml",
+    "date": "2026-09-26",
+    "published_time": "19:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "视频：青春华章·智生万物｜最高72岁！西电花甲教师舞忆长征峥嵘，为新生带来沉浸式红色公开课来源：中国青年网",
+    "published_dt_iso": "2026-09-26T19:33:04+08:00"
+  },
+  {
+    "title": "青春华章·豫见未来｜跨越32年的“光明接力”照亮乡村讲台",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704212.shtml",
+    "date": "2026-09-26",
+    "published_time": "19:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "视频：青春华章·豫见未来｜跨越32年的“光明接力”照亮乡村讲台来源：中国青年网",
+    "published_dt_iso": "2026-09-26T19:14:53+08:00"
+  },
+  {
+    "title": "“林海孤岛”不孤：中秋，他们守在北纬53度",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704198.shtml",
+    "date": "2026-09-26",
+    "published_time": "18:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网呼伦贝尔9月26日电 题：“林海孤岛”不孤：中秋，他们守在北纬53度",
+    "published_dt_iso": "2026-09-26T18:54:18+08:00"
+  },
+  {
+    "title": "中秋假期 山西五台山景区古建游热度攀升",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704175.shtml",
+    "date": "2026-09-26",
+    "published_time": "18:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网忻州9月26日电 (范丽芳 史文勇)中秋假期，山西忻州五台山景区古建游热度攀升，游客纷纷走进古建群落，在层林渐染的秋色中感受千年古刹的独特韵味。",
+    "published_dt_iso": "2026-09-26T18:21:00+08:00"
+  },
+  {
+    "title": "外国朋友在新疆过中秋节是种什么体验？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704191.shtml",
+    "date": "2026-09-26",
+    "published_time": "18:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "视频：外国朋友在新疆过中秋节是种什么体验？来源：石榴云/新疆日报原创",
+    "published_dt_iso": "2026-09-26T18:14:28+08:00"
+  },
+  {
+    "title": "《珠江片河流泥沙公报2025》发布",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-26/10704172.shtml",
+    "date": "2026-09-26",
+    "published_time": "18:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月26日电 (记者 王坚)据水利部珠江水利委员会(下称“珠江委”)26日消息，该委近日发布了《珠江片河流泥沙公报2025》(以下简称《公报》)。",
+    "published_dt_iso": "2026-09-26T18:12:45+08:00"
+  },
+  {
+    "title": "“僵尸化” CDC ，因削减而步履蹒跚，努力完成科学使命",
+    "link": "https://www.nytimes.com/2026/09/26/health/cdc-staff-cuts-rfk-jr.html",
+    "date": "2026-09-26",
+    "published_time": "20:16",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "随着卫生部长小罗伯特· F ·肯尼迪（ Robert F. Kennedy Jr. ）及其同事加强控制，该机构失去了独立性，近三分之一的员工失去了独立性。",
+    "published_dt_iso": "2026-09-26T20:16:41+08:00"
+  },
+  {
+    "title": "美国拒绝接受联合国关于为未来大流行病做好准备的声明",
+    "link": "https://www.nytimes.com/2026/09/25/us/politics/us-rejects-un-declaration-on-preparing-for-pandemics.html",
+    "date": "2026-09-26",
+    "published_time": "09:29",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "大多数成员国发言支持该宣言，但一些富裕国家强烈反对。",
+    "published_dt_iso": "2026-09-26T09:29:51+08:00"
+  },
+  {
+    "title": "OpenAI的人工智能流氓并干涉美国政府网站",
+    "link": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+    "date": "2026-09-26",
+    "published_time": "09:37",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该公司直到最近才得知其技术干扰了教育和商务部门以及证券交易委员会的网站。",
+    "published_dt_iso": "2026-09-26T09:37:20+08:00"
+  },
+  {
+    "title": "OpenAI的流氓人工智能特工如何试图欺骗机器人探测器",
+    "link": "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html",
+    "date": "2026-09-26",
+    "published_time": "04:26",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "湾区一家名为Parse的初创公司的一份新报告为一起震惊人工智能世界的事件增加了细节，并导致人们呼吁加强政府监管。",
+    "published_dt_iso": "2026-09-26T04:26:49+08:00"
+  },
+  {
+    "title": "关于特朗普和媒体的7天对峙",
+    "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-press-ban.html",
+    "date": "2026-09-26",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "突如其来的法令、网络抵制、法律干预和不安的缓和：这不是总统与其记者团之间的典型斗争。",
+    "published_dt_iso": "2026-09-26T17:03:11+08:00"
+  },
+  {
+    "title": "Powerful Nor’easter Bears Down on East Coast",
+    "link": "https://www.nytimes.com/live/2026/09/26/nyregion/noreaster-storm-rain-nyc-boston",
+    "date": "2026-09-26",
+    "published_time": "19:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Rain, flooding and damaging winds are in the forecast, with more than a dozen counties in New York and New Jersey under a state of emergency.",
+    "published_dt_iso": "2026-09-26T19:31:41+08:00"
+  },
+  {
+    "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
+    "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
+    "date": "2026-09-26",
+    "published_time": "12:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan.",
+    "published_dt_iso": "2026-09-26T12:00:08+08:00"
   }
 ]

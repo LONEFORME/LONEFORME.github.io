@@ -230,7 +230,7 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
         <a class="news-item" href="https://www.ithome.com/1/007/358.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 26 日消息，科技媒体 Wccftech 昨日（9 月 25 日）发布博文，报道称猫头鹰（Noctua）预热 WireView Pro II Noctua 版显卡供电监控配件，上市后预估售价为 199 欧元（IT之家注：现汇率约合 1,523 元人民币）。该产品由德国“暴力熊”（Thermal Grizzly）与猫头鹰（Noctua）联合打造，面向采用 12V-2x6 供电接口的现代显卡，其原型曾亮相 2026 年台北国际电脑展。消息称该合作款采用 Noctua NF-A4x10 风扇，支持半被动散热模式。相比标准 WireView Pro II 使用的 30mm 风扇，该合作款换装了尺寸更大的 40mm 风扇。为了容纳新风扇，“暴力熊”修改了 PCB，并略微增大产品外壳。" data-title="猫头鹰预热 WireView Pro II Noctua 显卡供电配件，配 40mm 风扇" data-date="09-26 14:28" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -274,12 +274,6 @@ title: 股票财经
           <span class="news-item-date">09-25 23:23</span>
           <span class="news-item-title">首个入驻纽约时代广场的中国影像品牌，影石首家美国旗舰店开业</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/interest-rates-economy-markets-inflation-mortgages.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="History shows that the markets and the economy flourished when rates were even higher than today’s. But, our columnist notes, those times didn’t last." data-title="Rising Interest Rates Are Causing Alarm. Here’s What to Know." data-date="09-25 17:35" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-25 17:35</span>
-          <span class="news-item-title">Rising Interest Rates Are Causing Alarm. Here’s What to Know.</span>
-        </a>
   </div>
 </div>
 
@@ -293,4 +287,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-26 14:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-26 20:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
