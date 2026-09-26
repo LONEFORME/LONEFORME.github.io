@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,642.01</span>
+      <span class="ticker-price ticker-up">30,608.13</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7236</span>
+      <span class="ticker-price ticker-up">6.7227</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,290.56 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +16.80 (+0.39%)</span>
+      <span class="ticker-price ticker-up">$4,285.12 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +11.36 (+0.27%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+30.1 亿</span>
+      <span class="sector-flow-badge">+44.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+52.1 亿</span>
+      <span class="sector-flow-badge">+23.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+48.7 亿</span>
+      <span class="sector-flow-badge">+23.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+23.6 亿</span>
+      <span class="sector-flow-badge">+39.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/007/358.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 26 日消息，科技媒体 Wccftech 昨日（9 月 25 日）发布博文，报道称猫头鹰（Noctua）预热 WireView Pro II Noctua 版显卡供电监控配件，上市后预估售价为 199 欧元（IT之家注：现汇率约合 1,523 元人民币）。该产品由德国“暴力熊”（Thermal Grizzly）与猫头鹰（Noctua）联合打造，面向采用 12V-2x6 供电接口的现代显卡，其原型曾亮相 2026 年台北国际电脑展。消息称该合作款采用 Noctua NF-A4x10 风扇，支持半被动散热模式。相比标准 WireView Pro II 使用的 30mm 风扇，该合作款换装了尺寸更大的 40mm 风扇。为了容纳新风扇，“暴力熊”修改了 PCB，并略微增大产品外壳。" data-title="猫头鹰预热 WireView Pro II Noctua 显卡供电配件，配 40mm 风扇" data-date="09-26 14:28" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-26 14:28</span>
+          <span class="news-item-title">猫头鹰预热 WireView Pro II Noctua 显卡供电配件，配 40mm 风扇</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-26/10703987.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社布鲁塞尔9月25日电 (记者 德永健)欧盟25日启动违规程序，要求成员国在能源、金融、打击人口走私等多个领域限期落实欧盟指令。" data-title="欧盟启动违规程序要求成员国限期落实多项指令" data-date="09-26 07:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-26 07:12</span>
+          <span class="news-item-title">欧盟启动违规程序要求成员国限期落实多项指令</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Mark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建设业务。" data-title="Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的" data-date="09-26 02:48" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-26 02:48</span>
+          <span class="news-item-title">Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/25/business/china-trump-xi-truce.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="缓解与华盛顿的紧张局势为北京提供了解决国内经济困难的空间，同时也降低了其面对美国压力的脆弱性。" data-title="中国与特朗普的休战为它赢得了宝贵的时间" data-date="09-26 00:38" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -262,18 +280,6 @@ title: 股票财经
           <span class="news-item-date">09-25 17:35</span>
           <span class="news-item-title">Rising Interest Rates Are Causing Alarm. Here’s What to Know.</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/" target="_blank" rel="noopener" data-cat="caijing" data-summary="这家风险投资公司首次将其印度筹资周期与其全球基金保持一致，因为它将转向更短的投资周期。" data-title="LIGHTSPEED的目标是新印度基金$ 2.5亿，重点是早期" data-date="09-25 13:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-25 13:00</span>
-          <span class="news-item-title">LIGHTSPEED的目标是新印度基金$ 2.5亿，重点是早期</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ckvgyjmq84g4o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国希望在贸易、科技和台湾议题上取得进展，但成果未如预期。" data-title="习近平获特朗普红地毡迎接，但并非事事如愿" data-date="09-25 12:54" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-25 12:54</span>
-          <span class="news-item-title">习近平获特朗普红地毡迎接，但并非事事如愿</span>
-        </a>
   </div>
 </div>
 
@@ -287,4 +293,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-26 01:22（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-26 14:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
