@@ -1,8 +1,8 @@
 ---
 layout: null
 ---
+{% assign first = true %}
 [
-  {% assign first = true %}
   {% for page in site.pages %}
     {% if page.title and page.url != '/404.html' and page.url != '/search.json' and page.url != '/feed.xml' and page.url != '/robots.txt' %}
       {% unless page.url contains '.json' or page.url contains '.xml' or page.url contains 'assets' %}
@@ -11,10 +11,61 @@ layout: null
           "title": {{ page.title | jsonify }},
           "url": {{ page.url | relative_url | jsonify }},
           "category": {% if page.url contains '/docs/' %}"技术文档"{% elsif page.url contains '/projects' %}"核心项目"{% elsif page.url contains '/news' %}"科技热点"{% elsif page.url contains '/finance' %}"财经动态"{% elsif page.url contains '/3d-viewer' %}"3D模型"{% elsif page.url contains '/slides' %}"演示稿"{% else %}"综合页面"{% endif %},
-          "summary": {{ page.content | strip_html | normalize_whitespace | truncate: 160 | jsonify }}
+          "summary": {{ page.content | strip_html | normalize_whitespace | truncate: 140 | jsonify }},
+          "content": {{ page.content | strip_html | normalize_whitespace | truncate: 4000 | jsonify }}
         }
         {% assign first = false %}
       {% endunless %}
     {% endif %}
   {% endfor %}
+  ,
+  {
+    "title": "凌霄飞控无人机全栈方案",
+    "url": "{{ '/projects.html#lingxiao' | relative_url }}",
+    "category": "无人机工程",
+    "summary": "基于匿名凌霄飞控（ANO_LX）的全国电赛全栈开发体系与实战工程，支持 STM32F407 / K230 边缘视觉端侧 AI 与 T265 硬件级 VIO 空间导航。",
+    "content": "凌霄飞控无人机方案 匿名凌霄飞控 ANO_LX STM32F407 MSP432 TM4C123 匿名通信协议V7 独立硬件IMU减震 嘉楠K230 边缘视觉 T265 VIO 下视激光ToF定高 飞行演示 姿态控制 光流融合"
+  },
+  {
+    "title": "锡月无人机自主巡航方案",
+    "url": "{{ '/projects.html#xiyue' | relative_url }}",
+    "category": "无人机工程",
+    "summary": "2025 年全国大学生电赛无人机全栈方案，基于 STM32F405 飞控（BirdFlight V2.0）、地平线 RDK X5 上位机与 Nextion 触控地面站。",
+    "content": "锡月无人机方案 STM32F405 BirdFlight V2.0 uCOS-III 地平线 RDK X5 230400bps 串口通信 DFS 9x7 网格自主巡航 Dijkstra 绕障重规划 T265 Nextion 串口屏地面站 电赛飞控 激光测距"
+  },
+  {
+    "title": "地瓜派 RDK X5 多模态智能空间安防系统",
+    "url": "{{ '/docs/security_system.html' | relative_url }}",
+    "category": "旗舰方案",
+    "summary": "基于地平线 8 核 A55 边缘计算平台与 10 TOPS BPU 的软硬件一体化安防中枢，深度融合激光雷达空间感知、InsightFace 人脸识别、半导体指纹与自适应齿条门禁。",
+    "content": "地瓜派 RDK X5 多模态安防 激光雷达 镭神N10P BPU 10 TOPS YOLOv8 NV12 InsightFace ArcFace 512维 ML-FPM007 面阵半导体指纹 UART 360度伺服舵机 尼龙齿条门禁 TI ADS1115 声学破拆 AHT10 温湿度 火警联动 FastAPI WebSocket 720P MJPEG"
+  },
+  {
+    "title": "宇树 Unitree L1 + FAST-LIO2 3D 激光雷达建图",
+    "url": "{{ '/docs/unitree_l1.html' | relative_url }}",
+    "category": "SLAM技术",
+    "summary": "Unitree L1 3D 激光雷达 + FAST-LIO2 激光惯性里程计，基于 IKD-Tree 动态点云树与 6-DoF 紧耦合位姿估计。",
+    "content": "宇树 L1 Unitree FAST-LIO2 FAST-LIO 3D 激光雷达 激光惯性里程计 IKD-Tree 动态点云树 6-DoF 紧耦合位姿估计 ROS2 Humble 点云建图"
+  },
+  {
+    "title": "镭神 N10P + SLAM Toolbox 2D 激光雷达建图",
+    "url": "{{ '/docs/leishen_n10p.html' | relative_url }}",
+    "category": "SLAM技术",
+    "summary": "Leishen N10P 单线激光雷达 + SLAM Toolbox，2D 栅格地图建图，配套自研障碍物检测与位姿滤波。",
+    "content": "镭神 N10P Leishen SLAM Toolbox 单线激光雷达 2D 栅格地图 回环检测 障碍物检测 BFS 聚类 PCA 墙识别 卡尔曼滤波 460800 波特率"
+  },
+  {
+    "title": "OpenCV 综合计算机视觉系统",
+    "url": "{{ '/projects.html' | relative_url }}",
+    "category": "计算机视觉",
+    "summary": "基于 OpenCV 的综合计算机视觉识别系统，支持 11 种颜色自适应检测、几何轮廓分析与实心/空心圆分类。",
+    "content": "OpenCV 计算机视觉 颜色识别 HSV BGR 轮廓形状检测 圆形度 实心圆 空心圆 双线程并发 图像处理"
+  },
+  {
+    "title": "嵌入式开发板配置参考与 AI 资产库",
+    "url": "{{ '/projects.html' | relative_url }}",
+    "category": "嵌入式开发",
+    "summary": "7 款主流开发板从零到可用的一键自动化部署参考、ROS2 跨板网络通信与 AI Skill 多平台同步体系。",
+    "content": "开发板 嵌入式 Linux 树莓派 4B N100 Cubie A7A A7Z RDK X5 RK3506 K230 ROS2 Humble Fast DDS Discovery Server 自动化脚本"
+  }
 ]

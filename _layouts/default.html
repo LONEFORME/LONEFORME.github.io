@@ -496,19 +496,119 @@
       }
     });
 
+    function getSnippet(content, summary, keyword) {
+      var text = summary || content || '';
+      if (!keyword) return text;
+      var words = keyword.trim().toLowerCase().split(/\s+/).filter(Boolean);
+      if (words.length === 0) return text;
+
+      // 优先看 summary 里是否已包含任一关键词
+      var sLower = (summary || '').toLowerCase();
+      var inSummary = words.some(function(w) { return sLower.indexOf(w) !== -1; });
+      if (inSummary && summary) {
+        return summary;
+      }
+
+      // 否则在 content 中查找首个命中的关键词位置并截取动态上下文片段
+      var cText = content || summary || '';
+      var cLower = cText.toLowerCase();
+      var firstIdx = -1;
+      var matchedWordLen = 0;
+
+      for (var i = 0; i < words.length; i++) {
+        var idx = cLower.indexOf(words[i]);
+        if (idx !== -1 && (firstIdx === -1 || idx < firstIdx)) {
+          firstIdx = idx;
+          matchedWordLen = words[i].length;
+        }
+      }
+
+      if (firstIdx !== -1) {
+        var start = Math.max(0, firstIdx - 35);
+        var end = Math.min(cText.length, firstIdx + matchedWordLen + 65);
+        var snippet = cText.substring(start, end).trim();
+        if (start > 0) snippet = '...' + snippet;
+        if (end < cText.length) snippet = snippet + '...';
+        return snippet;
+      }
+
+      return summary || cText.substring(0, 100);
+    }
+
+    function escapeHtml(str) {
+      return (str || '').replace(/[&<>"']/g, function(m) {
+        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m];
+      });
+    }
+
+    function highlightKeyword(text, keyword) {
+      if (!text) return '';
+      var escaped = escapeHtml(text);
+      if (!keyword) return escaped;
+      var words = keyword.trim().split(/\s+/).filter(Boolean);
+      if (words.length === 0) return escaped;
+      var pattern = words.map(function(w) {
+        return escapeHtml(w).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      }).join('|');
+      var reg = new RegExp('(' + pattern + ')', 'gi');
+      return escaped.replace(reg, '<mark>$1</mark>');
+    }
+
     function performSearch(query) {
       var resultsBox = document.getElementById('searchResults');
-      query = (query || '').trim().toLowerCase();
+      query = (query || '').trim();
       if (!query) {
         resultsBox.innerHTML = '<div class="search-empty-tip">输入关键词开始检索全站技术资源...</div>';
         return;
       }
+      var qLower = query.toLowerCase();
+      var keywords = qLower.split(/\s+/).filter(Boolean);
+
       loadSearchIndex().then(function(items) {
-        var matches = items.filter(function(item) {
-          return (item.title && item.title.toLowerCase().indexOf(query) !== -1) ||
-                 (item.summary && item.summary.toLowerCase().indexOf(query) !== -1) ||
-                 (item.category && item.category.toLowerCase().indexOf(query) !== -1);
-        }).slice(0, 10);
+        var scoredItems = [];
+
+        items.forEach(function(item) {
+          var tLower = (item.title || '').toLowerCase();
+          var sLower = (item.summary || '').toLowerCase();
+          var cLower = (item.content || '').toLowerCase();
+          var catLower = (item.category || '').toLowerCase();
+
+          // 基础匹配：必须所有分词都出现在 (title + summary + content + category) 中
+          var fullText = tLower + ' ' + sLower + ' ' + cLower + ' ' + catLower;
+          var matchAll = keywords.every(function(kw) {
+            return fullText.indexOf(kw) !== -1;
+          });
+
+          if (!matchAll) return;
+
+          // 计算相关度得分进行排序（标题全匹配 > 标题包含 > 分类 > 摘要 > 正文全文）
+          var score = 0;
+          if (tLower === qLower) score += 200;
+          if (tLower.indexOf(qLower) !== -1) score += 100;
+          if (catLower.indexOf(qLower) !== -1) score += 50;
+          if (sLower.indexOf(qLower) !== -1) score += 40;
+          if (cLower.indexOf(qLower) !== -1) score += 15;
+
+          // 额外分词加权
+          keywords.forEach(function(kw) {
+            if (tLower.indexOf(kw) !== -1) score += 30;
+            if (sLower.indexOf(kw) !== -1) score += 15;
+            if (cLower.indexOf(kw) !== -1) score += 5;
+          });
+
+          scoredItems.push({
+            item: item,
+            score: score
+          });
+        });
+
+        scoredItems.sort(function(a, b) {
+          return b.score - a.score;
+        });
+
+        var matches = scoredItems.slice(0, 10).map(function(wrapper) {
+          return wrapper.item;
+        });
 
         if (matches.length === 0) {
           resultsBox.innerHTML = '<div class="search-empty-tip">未找到与 “' + escapeHtml(query) + '” 相关的资源</div>';
@@ -519,11 +619,12 @@
         var html = '';
         matches.forEach(function(item, idx) {
           var highlightedTitle = highlightKeyword(item.title, query);
-          var highlightedSummary = highlightKeyword(item.summary, query);
+          var snippet = getSnippet(item.content, item.summary, query);
+          var highlightedSummary = highlightKeyword(snippet, query);
           html += '<a href="' + item.url + '" class="search-result-item ' + (idx === 0 ? 'selected' : '') + '" data-index="' + idx + '">';
           html += '  <div class="search-item-header">';
           html += '    <span class="search-item-title">' + highlightedTitle + '</span>';
-          html += '    <span class="search-item-cat">' + item.category + '</span>';
+          html += '    <span class="search-item-cat">' + escapeHtml(item.category || '综合') + '</span>';
           html += '  </div>';
           html += '  <div class="search-item-summary">' + highlightedSummary + '</div>';
           html += '</a>';
@@ -541,19 +642,6 @@
           it.classList.remove('selected');
         }
       });
-    }
-
-    function escapeHtml(str) {
-      return (str || '').replace(/[&<>"']/g, function(m) {
-        return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m];
-      });
-    }
-
-    function highlightKeyword(text, keyword) {
-      if (!text) return '';
-      var escaped = escapeHtml(text);
-      var reg = new RegExp('(' + keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'gi');
-      return escaped.replace(reg, '<mark>$1</mark>');
     }
 
     function bindSearchEvents() {
