@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+44.9 亿</span>
+      <span class="sector-flow-badge">+40.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+23.1 亿</span>
+      <span class="sector-flow-badge">+43.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+23.2 亿</span>
+      <span class="sector-flow-badge">+53.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+39.0 亿</span>
+      <span class="sector-flow-badge">+22.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,13 +230,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">1 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Mark Wahlberg加入Disrupt的Bruce K. Lee ，讨论投资、创业、医疗保健、健康和建设业务。" data-title="Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的" data-date="09-26 02:48" data-source="TechCrunch">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-27/10704403.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月27日电 据英国广播公司(BBC)报道，当地时间26日，美国总统特朗普拒绝了伊朗提出的在一周内重新开放霍尔木兹海峡供商业航运的提议。" data-title="特朗普拒绝了伊朗提出的七天内重新开放霍尔木兹海峡的协议" data-date="09-27 13:21" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-26 02:48</span>
-          <span class="news-item-title">Mark Wahlberg即将来到TechCrunch Disrupt 2026 ，他想谈谈你的工作，而不是他的</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-27 13:21</span>
+          <span class="news-item-title">特朗普拒绝了伊朗提出的七天内重新开放霍尔木兹海峡的协议</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704361.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="生物制造是当前全球科技创新和产业创新重要前沿，是“十五五”时期重点发展的未来产业新赛道。它将微小的细胞当作“生产车间”，通过绿色、低碳、可持续的生物合成方式，把糖类、秸秆甚至二氧化碳等原料，转化为生产生活所需的药品、食品、化工、能源等重要产品，具有重塑传统物质生产方式的巨大潜力，可为更好保障国家粮食和能源安全、增进人民健康福祉、加快发展全面绿色转型提供重要支撑。" data-title="生物制造为未来产业发展打造新引擎" data-date="09-27 10:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-27 10:27</span>
+          <span class="news-item-title">生物制造为未来产业发展打造新引擎</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国的经济和科技发展迅猛，但也有很多令Z世代担忧的事情。" data-title="中国年轻人的“学术偶像”项飙：他读懂了一代人的焦虑" data-date="09-27 09:35" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-27 09:35</span>
+          <span class="news-item-title">中国年轻人的“学术偶像”项飙：他读懂了一代人的焦虑</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/26/climate/trump-fuel-economy-car-rules.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普总统周六表示，新的燃油经济性标准将扼杀联邦政府加快向电动汽车过渡的努力。" data-title="特朗普政府计划制定清洁汽车规则" data-date="09-27 06:55" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-27 06:55</span>
+          <span class="news-item-title">特朗普政府计划制定清洁汽车规则</span>
         </a>
   </div>
 </div>
@@ -251,4 +269,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-27 00:32（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-27 15:14（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
