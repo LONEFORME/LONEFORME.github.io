@@ -3419,6 +3419,35 @@ body {
   color: var(--color-heading);
 }
 
+/* 亮色模式弹窗适配 */
+[data-theme="light"] .search-modal-panel {
+  background: #ffffff;
+  border-color: #cbd5e1;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15), 0 0 30px rgba(5, 150, 105, 0.08);
+}
+[data-theme="light"] .search-result-item:hover,
+[data-theme="light"] .search-result-item.selected {
+  background: #f1f5f9;
+  border-color: #cbd5e1;
+}
+[data-theme="light"] .search-modal-footer {
+  background: #f8fafc;
+  border-top-color: #e2e8f0;
+}
+[data-theme="light"] .search-modal-header {
+  border-bottom-color: #e2e8f0;
+}
+[data-theme="light"] .search-modal-close {
+  background: #f1f5f9;
+  border-color: #e2e8f0;
+  color: #475569;
+}
+[data-theme="light"] .search-result-item mark {
+  background: rgba(5, 150, 105, 0.2);
+  color: #065f46;
+}
+
+
 /* --- 首页日历更新热力看板 (Calendar Heatmap) --- */
 .heatmap-container-card {
   background: var(--color-surface);
