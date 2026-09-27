@@ -1508,5 +1508,485 @@
     "feed_name": "纽约时报",
     "summary": "The president said the deal was not “acceptable” and demurred on whether he would restart military strikes after the midterm elections.",
     "published_dt_iso": "2026-09-27T05:02:42+08:00"
+  },
+  {
+    "title": "技嘉1000GM PG5 1000W电源评论：具有T-Guard热保护的令人印象深刻的铂金级效率",
+    "link": "https://www.tomshardware.com/pc-components/power-supplies/gigabyte-1000gm-pg5-1000w-power-supply-review",
+    "date": "2026-09-27",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Gigabyte的新游戏系列旗舰产品Gigabyte 1000GM PG5 1000W将12V-2x6连接器的HEC构建平台与全日本电容器、铂金级效率和T-Guard热保护配对。",
+    "published_dt_iso": "2026-09-27T21:00:00+08:00"
+  },
+  {
+    "title": "PS5模拟器以可播放的60 FPS成功运行六个游戏",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support",
+    "date": "2026-09-27",
+    "published_time": "20:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "SharpEmu的最新版本可以以60 fps的速度运行六个经过测试的PS5游戏，随着开发人员改进着色器翻译和Vulkan支持， 55个游戏中的12个现在达到了游戏状态。",
+    "published_dt_iso": "2026-09-27T20:40:00+08:00"
+  },
+  {
+    "title": "Linux爱好者将看到10秒钟的内核编译时间",
+    "link": "https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk",
+    "date": "2026-09-27",
+    "published_time": "20:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "由于PC硬件的进步和人工智能辅助编译器的优化， Linux爱好者很快就能在10秒内完成干净的内核构建。",
+    "published_dt_iso": "2026-09-27T20:20:00+08:00"
+  },
+  {
+    "title": "Flock试图将安全研究人员的Flock摄像头地图取下",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide",
+    "date": "2026-09-27",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Flock网站上的一个漏洞允许安全研究人员访问其第三方提供商，下载超过30万个Flock摄像头的位置和描述。他还指出， Flock系统可以用来跟踪往返五角大楼和中央情报局总部等敏感地点的人员。",
+    "published_dt_iso": "2026-09-27T20:00:00+08:00"
+  },
+  {
+    "title": "开发人员表示， AI决策模型Jev在一周内击败了Pokémon Red",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends",
+    "date": "2026-09-27",
+    "published_time": "19:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "TypeSafe AI的Jev在一周内击败了Pokémon Red ，最终进入了名人堂。",
+    "published_dt_iso": "2026-09-27T19:30:00+08:00"
+  },
+  {
+    "title": "美国和英国海军成功地从机器人无人机潜艇发射了3700磅的潜艇沉没鱼雷，这是历史性的首次",
+    "link": "https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months",
+    "date": "2026-09-27",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "美国海军和皇家海军已经成功地从英国无人驾驶的XV Excalibur潜艇发射了一枚3,700磅重的Mk 48重型鱼雷，这标志着该武器首次从自主水下航行器发射",
+    "published_dt_iso": "2026-09-27T18:30:00+08:00"
+  },
+  {
+    "title": "假冒黑胶唱片制造商在获得350万美元后被判处三年监禁",
+    "link": "https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers",
+    "date": "2026-09-27",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在BPI测试购买后，当局查获了数千份伪造记录和专业制造设备，这有助于揭露长期运行的运营。",
+    "published_dt_iso": "2026-09-27T18:00:00+08:00"
+  },
+  {
+    "title": "台湾芯片护身符零食在94%罢工投票后面临停产",
+    "link": "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase",
+    "date": "2026-09-27",
+    "published_time": "17:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "随着Guai Guai公司面临罢工行动，台湾的科技护身符零食生产可能会停止。",
+    "published_dt_iso": "2026-09-27T17:30:00+08:00"
+  },
+  {
+    "title": "为什么OLPC的$ 100笔记本电脑从来没有机会",
+    "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+    "date": "2026-09-27",
+    "published_time": "20:25",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "这个想法是巨大的，令人兴奋的，鼓舞人心的：如果我们能让世界上的每个孩子都能使用电脑呢？对于硅谷的一群思想家和高管来说，这似乎是解决一切问题的方法。但是， “每个孩子一台笔记本电脑”计划和XO-1笔记本电脑设计为赠送， […]",
+    "published_dt_iso": "2026-09-27T20:25:00+08:00"
+  },
+  {
+    "title": "Googlebooks可能是真正的交易",
+    "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+    "date": "2026-09-27",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "嗨，朋友们！欢迎来到145号安装商，这是世界上最好、最边缘的东西的指南。（如果您是新来的，欢迎光临，我很高兴能够完成一段时间的旅行，您也可以在安装程序主页上阅读所有旧版本。）本周，我飞往旧金山尝试[…]",
+    "published_dt_iso": "2026-09-27T20:00:00+08:00"
+  },
+  {
+    "title": "智能家居墓地越来越拥挤",
+    "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+    "date": "2026-09-27",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。有关连接设备的脆弱状态的更多信息，请关注Jennifer Pattison Tuohy。Stepback将于美国东部时间周日上午8点到达订阅者的收件箱。在此选择加入The Stepback。它是如何在十年前开始的， […]",
+    "published_dt_iso": "2026-09-27T20:00:00+08:00"
+  },
+  {
+    "title": "啥题啊能干崩OpenAI最强模型训练…",
+    "link": "https://www.qbitai.com/2026/09/498546.html",
+    "date": "2026-09-27",
+    "published_time": "17:44",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-27T17:44:16+08:00"
+  },
+  {
+    "title": "国家邮政局：1 至 8 月全国日均揽收快递 5.23 亿件，全力做好中秋国庆假期寄递服务保障工作",
+    "link": "https://www.ithome.com/1/007/602.htm",
+    "date": "2026-09-27",
+    "published_time": "21:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，9 月 24 日，国务院新闻办公室举行新闻发布会。国家邮政局副局长周召华出席发布会并回答记者提问。周召华介绍，今年中秋、国庆“双节”叠加，消费场景更加丰富多元，假日经济与文旅经济深度融合，邮政快递业运行总体呈现节前节令物品寄递需求集中、节日期间文旅寄递需求明显、节后恢复高位运行的鲜明特点。随着节日临近，快递揽收量稳步上升，今年 1 至 8 月全国日均揽收快递 5.23 亿件，进入 9 月以来日均揽收快件攀升至 5.85 亿件，单日峰值超 6.1 亿件。图源：PexelsIT之家注意到，为保障全国人民欢乐祥和度过“双节”，国家邮政局重点做好三方面工作。一是保障寄递网络畅通无阻，指导寄递企业科学调配运力、人力和场地资源，重点保障枢纽转运中心和末端网点畅通。二是确保",
+    "published_dt_iso": "2026-09-27T21:09:29+08:00"
+  },
+  {
+    "title": "消息称苹果 iPhone 18 Pro 系列手机开售 7 天国内销量接近 130 万台，约为 iPhone 17 Pro 系列同期的 115%",
+    "link": "https://www.ithome.com/1/007/601.htm",
+    "date": "2026-09-27",
+    "published_time": "21:05",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料，iPhone 18 Pro 系列开售 7 天时销量（Sell out）已经接近 1300K（130 万），同期约为 iPhone 17 Pro 系列的 115%，iPhone 17 系列的 90%。博主此前爆料，苹果 iPhone 18 Pro 系列手机的开售日销量约为 32.28 万台，约为 iPhone 17 Pro 系列的 130%。据IT之家此前报道，在 9 月 10 日的苹果 2026 年秋季发布会上，iPhone 18 Pro 系列正式发布，包括 18 Pro 和 18 Pro Max，起售价分别为 9999 元和 10999 元。iPhone 18 Pro 系列首发搭载 2 纳米制程工艺 ",
+    "published_dt_iso": "2026-09-27T21:05:41+08:00"
+  },
+  {
+    "title": "比亚迪腾势汽车李慧：如果用户需要更长的续航，那做 1200、1300 公里也是 OK 的",
+    "link": "https://www.ithome.com/1/007/599.htm",
+    "date": "2026-09-27",
+    "published_time": "20:58",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，比亚迪旗下腾势汽车腾势 Z9S 于 9 月 23 日上市，官方指导价 25.58 万元起，其中售价 27.58 万元的闪充旗舰型车型 CLTC 续航可达 1100km。据广东广播电视台《今日关注》栏目报道，9 月 24 日，比亚迪腾势汽车总经理李慧在接受采访时提到，腾势有能力继续往上突破，但后续续航规划，会更多贴合用户真实需求。1100 公里纯电续航是目前全球最长的纯电续航里程，没有之一。是否还会不断往上去涨，能力是有的。那我们看用户需不需要我们做更长的续航，如果需要我们做出更长的续航，那要我做 1200 公里、1300 公里我们也是 OK 的。据IT之家此前报道，比亚迪在本月公布的投资者关系活动记录表中表示，第二代刀片电池是闪充车型的核心基础，进入 2026",
+    "published_dt_iso": "2026-09-27T20:58:21+08:00"
+  },
+  {
+    "title": "消息称长安汽车成立 AD 协同发展部，阿维塔与深蓝开启实质整合",
+    "link": "https://www.ithome.com/1/007/598.htm",
+    "date": "2026-09-27",
+    "published_time": "20:53",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，据第一财经今日报道，长安汽车旗下的深蓝和阿维塔两大品牌整合已开始进入实质性推进环节，具体措施为，长安汽车通知成立 AD（阿维塔和深蓝首字母）协同发展部，定义为一级部门。在此一级部门之下，成立规划与合作部、市场产品部、人力共享中心、财务共享中心、综合部等多个二级部门，承接深蓝汽车、阿维塔委托的对应业务。长安汽车方面还建议，阿维塔成立造型设计、产品开发、平台技术等多个共享或协同中心，承接深蓝委托的相关业务；而深蓝汽车则是撤销多个业务单元及下设组织。据IT之家此前报道，长安汽车集团全球战略发布会于 4 月 21 日举行，长安汽车董事长朱华荣表示，将持续打造阿维塔、深蓝、长安启源三大数智新能源品牌，目标到 2030 年实现新能源汽车产销 240 万辆，奋斗 360 万",
+    "published_dt_iso": "2026-09-27T20:53:36+08:00"
+  },
+  {
+    "title": "2026 WSBK 意大利克雷莫纳站第二回合：张雪机车德比斯排名第五",
+    "link": "https://www.ithome.com/1/007/597.htm",
+    "date": "2026-09-27",
+    "published_time": "20:38",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，2026 世界超级摩托车锦标赛 WSBK 意大利克雷莫纳站 WorldSSP 第二回合正赛刚刚结束，来自张雪机车的 53 号瓦伦丁 · 德比斯排名第五，主场作战的 64 号卡里卡苏洛最终排名第八。IT之家注：WSBK 意大利克雷莫纳站是本赛季第十站，赛道全长 3.768 公里，共 13 个弯道，为当前 WSBK 赛历中最短赛道。值得一提的是，张雪机车创始人张雪兑现此前公开承诺，包机带领约 200 人团队飞赴意大利，现场观看 WSBK 世界超级摩托车锦标赛意大利克雷莫纳站比赛。不过，有团队成员发视频称，乘坐的大巴车遭盗匪光顾，多名人员被偷，丢失物品包括背包、衣服、运动相机、现金、充电宝等。团队已报警处理。10 月 9-11 日，2026 年 WSBK 世界超级摩",
+    "published_dt_iso": "2026-09-27T20:38:49+08:00"
+  },
+  {
+    "title": "年轻人的第一台 RGB 游戏电视，小米 REDMI X 系列 RGB",
+    "link": "https://www.ithome.com/1/007/596.htm",
+    "date": "2026-09-27",
+    "published_time": "20:22",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，小米 REDMI 电视 X 系列 RGB-Mini LED 2027 竞技版上架盲订，号称“年轻人的第一台 RGB 游戏电视”。该产品提供 55 英寸、65 英寸、75 英寸、85 英寸版本，10 月 12 日晚 8 点开售。IT之家注意到，官方暂未公布该系列新品的售价及详细配置信息。作为参考，小米 REDMI 电视 X 2026 系列 55/65/75 英寸版本于 2025 年 12 月开售，价格为 2499 元起。小米 REDMI 电视 X 2026 系列采用 Mini LED 技术，拥有 1200 尼特峰值亮度、94% DCI-P3 色域、4K 144Hz 高刷、小米青山护眼，以及 4GB + 64GB 存储，运行小米澎湃 OS 3，还有 2K 或 10",
+    "published_dt_iso": "2026-09-27T20:22:21+08:00"
+  },
+  {
+    "title": "乘联分会崔东树：2026 年 8 月中国汽车进口 2.3 万辆，同比下降 51%",
+    "link": "https://www.ithome.com/1/007/595.htm",
+    "date": "2026-09-27",
+    "published_time": "20:19",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，乘联分会秘书长崔东树今日发文，2026 年 8 月进口车进口 2.3 万辆，同比下降 51%，环比下降 48%。2026 年 1-8 月进口汽车 27 万辆，同比下降 17%。据悉，2026 年 1-8 月乘用车中的进口轿车占比 49%，但 8 月进口占比降到 38%。IT之家获悉，2026 年 8 月进口最高的前 10 国家是：德国 7393 辆美国 4972 辆斯洛伐克 3645 辆英国 2366 辆日本 2173 辆墨西哥 681 辆意大利 335 辆奥地利 306 辆泰国 246 辆波兰 67 辆2026 年 1-8 月进口最高的前 10 国家是：日本 129253 辆德国 59183 辆美国 27559 辆斯洛伐克 19004 辆英国 16315 辆",
+    "published_dt_iso": "2026-09-27T20:19:06+08:00"
+  },
+  {
+    "title": "李斌：蔚来已投入运营 4125 座换电站，可以组成 8GWh 储能网",
+    "link": "https://www.ithome.com/1/007/594.htm",
+    "date": "2026-09-27",
+    "published_time": "20:09",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 27 日消息，蔚来创始人、董事长、CEO 李斌在 Power UP 2026 蔚来加电日现场表示，蔚来已投入运营 4,125 座换电站，基于每座换电站约储电 2,000 度的电池储备，可以组成 8GWh 储能网为车主乃至社会服务。据介绍，每一座换电站本质上就是一个分布式储能单元，换电站理论上具备参与电网削峰填谷的硬件基础。蔚来新疆星星峡离网光储换电站已经实现“光伏发电‑就地储电‑换电补能”闭环，也是验证了换电 + 储能在偏远地区落地的可行性。据IT之家此前报道，9 月 26 日，随着第 4,125 座蔚来换电站在赛里木湖上线运营，蔚来丝绸之路换电路线正式全线贯通。路线东起陕西西安，西至新疆霍尔果斯，全程 3,605 公里，沿途布局 33 座蔚来换电站。路线贯通后，从全国任意",
+    "published_dt_iso": "2026-09-27T20:09:27+08:00"
+  },
+  {
+    "title": "曼城？我觉得被骗了-斯托克城什么时候拿到我们的足总杯？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-27",
+    "published_time": "14:50",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育专栏作家托尼·普利斯（ Tony Pulis ）解释了他和所有斯托克球迷在曼城被判犯有他们所面临的115项指控中的大多数之后的想法。",
+    "published_dt_iso": "2026-09-27T14:50:09+08:00"
+  },
+  {
+    "title": "观看：曼城vs英超联赛",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0032vgq?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26",
+    "published_time": "01:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC Sport追踪了针对曼城的纪律案件是如何展开的。",
+    "published_dt_iso": "2026-09-26T01:00:00+08:00"
+  },
+  {
+    "title": "近镜头｜习近平主席讲述中美人民友好故事",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704563.shtml",
+    "date": "2026-09-27",
+    "published_time": "21:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "国之交在于民相亲。当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎国宴。宴会上，习近平主席深情讲述两国人民友好交往故事，一段段珍贵记忆，揭示了一个朴素而深刻的道理：中美人文交流有利于促进两国人民心灵沟通，为中美友好合作厚植了民意基础。双方要携手并进，共同浇灌中美友谊的美丽花朵，共同书写中美友好的崭新篇章。",
+    "published_dt_iso": "2026-09-27T21:11:33+08:00"
+  },
+  {
+    "title": "《中国式现代化“六观”》丛书西语版落地马德里 开启中西文明对话",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704561.shtml",
+    "date": "2026-09-27",
+    "published_time": "20:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网重庆9月27日电 (梁钦卿)当地时间9月26日，“中西新时代文明对话：中国式现代化的世界意义”国际学术研讨会在西班牙马德里举行。活动以《中国式现代化“六观”》丛书(下称《六观》丛书)西语版为核心载体，汇聚中国和西班牙两国政界、学界、出版界代表，围绕中国式现代化的理论创新、实践价值与世界意义展开学术交流。",
+    "published_dt_iso": "2026-09-27T20:51:44+08:00"
+  },
+  {
+    "title": "韩正出席第81届联合国大会一般性辩论并发表讲话",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704559.shtml",
+    "date": "2026-09-27",
+    "published_time": "20:08",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社联合国9月27日电 当地时间9月26日，中国国家副主席韩正在纽约联合国总部出席第81届联合国大会一般性辩论并发表讲话。",
+    "published_dt_iso": "2026-09-27T20:08:48+08:00"
+  },
+  {
+    "title": "直播海报：国新办就落实“十五五”规划，推动中央企业高质量发展情况举行新闻发布会",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704531.shtml",
+    "date": "2026-09-27",
+    "published_time": "18:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "",
+    "published_dt_iso": "2026-09-27T18:56:49+08:00"
+  },
+  {
+    "title": "大熊猫“平平”“福双”抵达美国",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704530.shtml",
+    "date": "2026-09-27",
+    "published_time": "18:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "美国东部时间27日晨，中国大熊猫“平平”“福双”搭乘包机抵达美国亚特兰大国际机场。根据中美双方安排，这对大熊猫将在亚特兰大动物园开启为期10年的旅居生活。",
+    "published_dt_iso": "2026-09-27T18:54:44+08:00"
+  },
+  {
+    "title": "学而时习之｜为中美友好合作厚植民意基础",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704476.shtml",
+    "date": "2026-09-27",
+    "published_time": "18:32",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "二十多年前，美国人赛考斯资助中国治沙人殷玉珍种下树苗。当他重回故地，昔日沙地已成林海。这段跨越太平洋的友谊，被习近平主席在美国总统特朗普举行的欢迎宴会上亲切提起。这个故事生动诠释了“中美关系的根基由人民浇筑”。",
+    "published_dt_iso": "2026-09-27T18:32:23+08:00"
+  },
+  {
+    "title": "习言道｜习近平美国之行：中美关系从温故到知新",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704511.shtml",
+    "date": "2026-09-27",
+    "published_time": "18:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月27日电 题：习近平美国之行：中美关系从温故到知新",
+    "published_dt_iso": "2026-09-27T18:29:09+08:00"
+  },
+  {
+    "title": "赓续长征精神 奋进复兴征程丨黔山贵水见证长征中的军民鱼水情",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-27/10704467.shtml",
+    "date": "2026-09-27",
+    "published_time": "16:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社贵阳9月25日电 题：黔山贵水见证长征中的军民鱼水情",
+    "published_dt_iso": "2026-09-27T16:21:13+08:00"
+  },
+  {
+    "title": "武契奇宣布即将辞去总统职务",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704555.shtml",
+    "date": "2026-09-27",
+    "published_time": "20:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "新华社贝尔格莱德9月27日电(记者张璇 石中玉)当地时间27日中午，塞尔维亚总统武契奇在接受塞尔维亚广播电视台采访时表示，他将于当地时间27日晚8时左右正式提交辞呈，辞去总统职务。",
+    "published_dt_iso": "2026-09-27T20:02:09+08:00"
+  },
+  {
+    "title": "南非豪登省发生枪击事件致17人死亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-27/10704455.shtml",
+    "date": "2026-09-27",
+    "published_time": "17:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网约翰内斯堡9月27日电 (记者 孙翔)南非警察局27日称，南非豪登省西兰德地区(West Rand District)一处酒馆26日晚发生枪击事件，造成17人死亡、15人受伤。",
+    "published_dt_iso": "2026-09-27T17:50:22+08:00"
+  },
+  {
+    "title": "哈尔滨启动五花山赏秋月 滑雪胜地变身秋游景点",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704569.shtml",
+    "date": "2026-09-27",
+    "published_time": "21:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网哈尔滨9月27日电 (记者 王琳)2026哈尔滨五花山赏秋月系列活动于27日在亚布力滑雪旅游度假区启幕，以“秋访冰城邂逅山河”为主题，展现滑雪胜地亚布力的金秋山水风貌，推动哈尔滨文旅四季发展。",
+    "published_dt_iso": "2026-09-27T21:07:47+08:00"
+  },
+  {
+    "title": "新时尚学院在沪亮相 将成为国际化、交叉融合的平台型学院",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704566.shtml",
+    "date": "2026-09-27",
+    "published_time": "21:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月27日电 (记者 陈静)新时尚学院27日在沪正式亮相，将成为国际化、交叉融合的平台型学院。",
+    "published_dt_iso": "2026-09-27T21:06:03+08:00"
+  },
+  {
+    "title": "外国游客爱上“Chinamaxxing” 文旅行业如何接招？",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704586.shtml",
+    "date": "2026-09-27",
+    "published_time": "20:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "喝热水、练八段锦、泡脚养生、追中国剧……最近，“Chinamaxxing”在海外社交媒体迅速走红。“Maxxing”是欧美年轻人常用的网络后缀，意思是把一件事做到“最大化”；“Chinamaxxing”指的是把中国化生活方式体验到极致。短短几个月，相关标签累计浏览量突破数十亿次。越来越多外国游客不再满足于隔着屏幕点赞、隔着时差想象，而是亲自来到中国，从城市漫步(city walk)到乡村漫游(country walk)，用日常触摸中国的温度。",
+    "published_dt_iso": "2026-09-27T20:58:56+08:00"
+  },
+  {
+    "title": "中秋假期北京接待游客超878万人次 旅游总花费逾115亿元",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704542.shtml",
+    "date": "2026-09-27",
+    "published_time": "20:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社北京9月27日电 (记者 徐婧)北京市文化和旅游局27日发布统计数据显示，中秋假期(9月25日至27日)，北京累计接待游客878.3万人次，实现旅游总花费115.4亿元(人民币，下同)。其中，接待入境游客8.3万人次，实现入境游客花费7.8亿元。",
+    "published_dt_iso": "2026-09-27T20:00:39+08:00"
+  },
+  {
+    "title": "2026上海大学生旅游嘉年华全新升级 点亮青春文旅场景",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704550.shtml",
+    "date": "2026-09-27",
+    "published_time": "19:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月27日电(记者 陈静)以“青春焕彩 花YOUNG出发”为主题的上海大学生旅游嘉年华主题活动(下称：嘉年华)27日傍晚在灰仓艺术空间启幕。",
+    "published_dt_iso": "2026-09-27T19:52:02+08:00"
+  },
+  {
+    "title": "水利部和中国气象局联合发布黄色山洪灾害气象预警",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704538.shtml",
+    "date": "2026-09-27",
+    "published_time": "19:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月27日电 据中央气象台网站消息，水利部和中国气象局9月27日18时联合发布黄色山洪灾害气象预警：预计，9月27日20时至28日20时，湖北西北部、四川东北部、重庆北部、陕西南部等地部分地区可能发生山洪灾害(蓝色预警)，其中，四川东北部、重庆北部、陕西南部等地部分地区发生山洪灾害可能性较大(黄色预警)。其他地区也可能因局地短历时强降水引发山洪灾害，请各地注意做好实时监测、防汛预警和转移避险等防范工作。",
+    "published_dt_iso": "2026-09-27T19:27:35+08:00"
+  },
+  {
+    "title": "自然资源部与中国气象局联合发布黄色地质灾害气象风险预警",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704537.shtml",
+    "date": "2026-09-27",
+    "published_time": "19:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月27日电 据中央气象台网站消息，自然资源部与中国气象局9月27日18时联合发布黄色地质灾害气象风险预警：预计，9月27日20时至28日20时，湖北西部、重庆北部、西藏西南部、陕西东南部等地部分地区发生地质灾害的气象风险较高(黄色预警)。各级政府及有关部门按照应急预案做好地质灾害防御工作。请社会公众及时关注地质灾害气象风险预警信息，谨慎前往地质灾害预警区域。黄色预警区内人员，请随时关注预警信息变化，注意附近警示标志，避免在沟谷、斜坡、陡崖(坎)等高风险地带逗留。",
+    "published_dt_iso": "2026-09-27T19:26:49+08:00"
+  },
+  {
+    "title": "中秋假期北京市属公园迎客超128万人次 国庆游园活动陆续登场",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-27/10704528.shtml",
+    "date": "2026-09-27",
+    "published_time": "19:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月27日电 (记者 徐婧)北京市公园管理中心27日发布的数据显示，中秋假期(9月25日至27日)，北京市属公园共接待市民游客128.56万人次，游客量排名前三位的是天坛公园、颐和园、北海公园。",
+    "published_dt_iso": "2026-09-27T19:06:28+08:00"
+  },
+  {
+    "title": "特习峰会成果盘点：关税休战、AI对话、未提台湾、暗指日本",
+    "link": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-27",
+    "published_time": "19:35",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "BBC中文梳理两国展现了什么成果，以及外界如何解读二人的举措。",
+    "published_dt_iso": "2026-09-27T19:35:41+08:00"
+  },
+  {
+    "title": "TikTok与阿拉巴马州和解：支付一亿美元，限儿童使用时长、禁用美妆滤镜",
+    "link": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-27",
+    "published_time": "16:05",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "阿拉巴马州原计划就TikTok涉嫌故意让年轻用户上瘾一事对其提起诉讼。",
+    "published_dt_iso": "2026-09-27T16:05:39+08:00"
+  },
+  {
+    "title": "随着人工智能的加速，政府越来越落后",
+    "link": "https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html",
+    "date": "2026-09-27",
+    "published_time": "19:22",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "人工智能技术与政策制定之间的差距比以往任何时候都要大，随着人工智能模型的迅速发展，全球政策真空也随之消失。",
+    "published_dt_iso": "2026-09-27T19:22:48+08:00"
+  },
+  {
+    "title": "“她是我们中的一员” ：玛丽·佩尔托拉（ Mary Peltola ）颠簸地崛起为政治权力",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html",
+    "date": "2026-09-27",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "阿拉斯加州民主党参议员候选人佩尔托拉女士的政治很复杂：她支持枪支、石油和天然气，但也支持环境，尤其是鱼类。",
+    "published_dt_iso": "2026-09-27T17:01:36+08:00"
+  },
+  {
+    "title": "一个“大问题” ：特朗普与伊朗的战争在中期选举中拖累了共和党人",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html",
+    "date": "2026-09-27",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "随着11月形势黯淡，汽油和柴油价格飙升，一些支持战争数月的共和党人现在正在改变他们的调子。",
+    "published_dt_iso": "2026-09-27T17:01:33+08:00"
+  },
+  {
+    "title": "华盛顿对其百万富翁征税。现在富人希望它被废除。",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html",
+    "date": "2026-09-27",
+    "published_time": "17:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "华盛顿州选民将有机会接受或拒绝立法机构批准的百万富翁9.9 ％的所得税，这打破了该州反对征收所得税的禁忌。",
+    "published_dt_iso": "2026-09-27T17:00:47+08:00"
+  },
+  {
+    "title": "White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers",
+    "link": "https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html",
+    "date": "2026-09-27",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The ledger used by a task force created by President Trump is difficult to verify and includes cases that were identified and went to trial during the Biden administration.",
+    "published_dt_iso": "2026-09-27T17:01:11+08:00"
+  },
+  {
+    "title": "TV Networks to Resume Trump Coverage, Even as White House Excludes CNN",
+    "link": "https://www.nytimes.com/2026/09/26/business/media/trump-white-house-tv-pool-cnn.html",
+    "date": "2026-09-27",
+    "published_time": "10:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The White House TV pool went dark this past week amid a standoff between CNN and the president. Network leaders, however, believe an indefinite suspension may be untenable.",
+    "published_dt_iso": "2026-09-27T10:40:41+08:00"
   }
 ]
