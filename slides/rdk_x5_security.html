@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>地瓜派 RDK X5 多模态智能安防系统 · 技术答辩汇报</title>
+  <style>
+    :root {
+      --bg: #090d16;
+      --surface: #101726;
+      --card: #151e32;
+      --primary: #00ff88;
+      --secondary: #00d4ff;
+      --accent: #7928ca;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --border: rgba(255, 255, 255, 0.1);
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+      --font-mono: "SF Mono", "Cascadia Code", "JetBrains Mono", Consolas, monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 100%; height: 100%;
+      overflow: hidden;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      user-select: none;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* 演示舞台 */
+    #deck-stage {
+      position: relative;
+      width: 100vw; height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .slide {
+      position: absolute;
+      width: 90vw; max-width: 1200px;
+      height: 82vh; max-height: 720px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 255, 136, 0.05);
+      padding: 50px 60px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      opacity: 0;
+      transform: scale(0.96) translateY(20px);
+      pointer-events: none;
+      transition: all 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .slide.active {
+      opacity: 1;
+      transform: scale(1) translateY(0);
+      pointer-events: auto;
+      z-index: 10;
+    }
+
+    .slide.prev {
+      opacity: 0;
+      transform: scale(0.96) translateY(-20px);
+    }
+
+    /* 幻灯片头部 */
+    .slide-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 16px;
+      margin-bottom: 24px;
+    }
+    .slide-tag {
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      letter-spacing: 1px;
+      color: var(--primary);
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .slide-tag::before {
+      content: "";
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--primary);
+      box-shadow: 0 0 10px var(--primary);
+    }
+    .slide-title {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.25;
+      letter-spacing: -0.5px;
+    }
+
+    /* 内容网格 */
+    .slide-body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .info-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 24px;
+      transition: border-color 0.2s;
+    }
+    .info-card:hover {
+      border-color: var(--secondary);
+    }
+    .card-title {
+      font-size: 1.15rem;
+      color: var(--secondary);
+      font-weight: 600;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .card-desc {
+      font-size: 0.95rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    .card-desc ul {
+      margin-left: 18px;
+      margin-top: 8px;
+    }
+    .card-desc li {
+      margin-bottom: 6px;
+    }
+
+    /* 封面特殊样式 */
+    .cover-layout {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+    }
+    .cover-badge {
+      display: inline-block;
+      padding: 6px 16px;
+      border-radius: 20px;
+      background: rgba(0, 255, 136, 0.12);
+      color: var(--primary);
+      border: 1px solid rgba(0, 255, 136, 0.3);
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 24px;
+      letter-spacing: 0.5px;
+    }
+    .cover-title {
+      font-size: 3rem;
+      font-weight: 800;
+      color: #fff;
+      margin-bottom: 16px;
+      background: linear-gradient(120deg, #ffffff 40%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .cover-sub {
+      font-size: 1.25rem;
+      color: var(--muted);
+      max-width: 720px;
+      line-height: 1.6;
+      margin-bottom: 36px;
+    }
+    .cover-meta {
+      display: flex;
+      gap: 30px;
+      font-family: var(--font-mono);
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    .cover-meta span {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    /* 参数指标统计条 */
+    .stat-badge-row {
+      display: flex;
+      gap: 16px;
+      margin-top: 16px;
+    }
+    .stat-chip {
+      background: rgba(0, 212, 255, 0.1);
+      border: 1px solid rgba(0, 212, 255, 0.2);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      color: var(--secondary);
+    }
+
+    /* 底部导航与 HUD */
+    .deck-hud {
+      position: fixed;
+      bottom: 24px;
+      left: 0; right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      z-index: 100;
+      pointer-events: none;
+    }
+    .hud-controls {
+      display: flex;
+      gap: 12px;
+      pointer-events: auto;
+    }
+    .hud-btn {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .hud-btn:hover {
+      background: var(--surface);
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+    .hud-counter {
+      font-family: var(--font-mono);
+      font-size: 0.95rem;
+      color: var(--muted);
+      background: rgba(16, 23, 38, 0.8);
+      backdrop-filter: blur(8px);
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      pointer-events: auto;
+    }
+    .hud-counter b { color: var(--primary); }
+
+    /* 顶部进度条 */
+    .progress-bar-container {
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 3px;
+      background: rgba(255, 255, 255, 0.05);
+      z-index: 1000;
+    }
+    .progress-bar {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, var(--secondary), var(--primary));
+      transition: width 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    /* 快捷键提示 */
+    .key-tip {
+      position: fixed;
+      top: 20px; right: 24px;
+      font-size: 0.78rem;
+      color: var(--muted);
+      background: rgba(16, 23, 38, 0.7);
+      backdrop-filter: blur(6px);
+      padding: 6px 12px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      z-index: 100;
+    }
+    .key-tip kbd {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 顶部进度条 -->
+  <div class="progress-bar-container">
+    <div class="progress-bar" id="progressBar"></div>
+  </div>
+
+  <!-- 快捷键提示 -->
+  <div class="key-tip">
+    按 <kbd>←</kbd> <kbd>→</kbd> 或 <kbd>空格</kbd> 翻页 · <kbd>F</kbd> 全屏
+  </div>
+
+  <!-- 舞台与幻灯片集合 -->
+  <main id="deck-stage">
+    
+    <!-- 第 1 页：封面 -->
+    <section class="slide active" data-slide="1">
+      <div class="cover-layout">
+        <div class="cover-badge">⚡ 软硬件闭环 · 毕业与技术答辩汇报</div>
+        <h1 class="cover-title">地瓜派 RDK X5<br>多模态智能安防系统</h1>
+        <p class="cover-sub">基于 BPU 边缘异构计算、双目视觉识别、激光雷达测距与自适应齿条门禁机构的完整工程实现</p>
+        <div class="cover-meta">
+          <div>主控平台：<span>地平线 RDK X5 (BPU 10 TOPS)</span></div>
+          <div>算法中枢：<span>YOLOv8 + FaceNet + ROS2</span></div>
+          <div>设计标准：<span>软硬件双电源解耦</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 2 页：痛点与设计目标 -->
+    <section class="slide" data-slide="2">
+      <div class="slide-header">
+        <h2 class="slide-title">传统安防的局限与多模态破局</h2>
+        <div class="slide-tag">Problem & Motivation</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card">
+            <div class="card-title">⚠️ 传统单模态安防的致命瓶颈</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>纯单目视觉易被欺骗</strong>：易受 2D 照片、屏幕翻拍或暗光阴影影响，抗物理攻击弱；</li>
+                <li><strong>测距缺失与误报警</strong>：单目摄像头无法精确获取入侵者空间距离，落叶飞鸟误报率高；</li>
+                <li><strong>云端依赖与网络延迟</strong>：视频上传公网云端识别存在隐私泄露风险，网络抖动导致开门响应延迟 >2s。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🎯 本项目的多模态闭环解决方案</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>BPU 边缘纯离线计算</strong>：地平线 RDK X5 本地完成 10 TOPS 深度推理，零数据外流，识别延迟 &lt;50ms；</li>
+                <li><strong>激光雷达空间感知融合</strong>：TOF/LiDAR 精准锁定 0.1~12m 人体空间坐标，形成警戒触发围栏；</li>
+                <li><strong>人脸 + 指纹 (FPM007) 双因子核验</strong>：非接触与高可信生物特征互补，全天候高防伪。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 本地推演时延 &lt; 50ms</div>
+          <div class="stat-chip">✓ 测距精度 ±1.5cm</div>
+          <div class="stat-chip">✓ 误报率降低 92%</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 3 页：系统总体硬件架构 -->
+    <section class="slide" data-slide="3">
+      <div class="slide-header">
+        <h2 class="slide-title">总体硬件拓扑与总线互联</h2>
+        <div class="slide-tag">Hardware Architecture</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card">
+            <div class="card-title">📷 视觉输入层 (Dual CAM)</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>MIPI-CSI 主摄</strong>：1080P/60fps 宽动态，输入 BPU 人脸检测流；</li>
+                <li><strong>USB 辅助广角摄</strong>：大视场角环境监控与近场步态捕捉；</li>
+                <li><strong>全志/板载硬件 ISP</strong>：逆光提亮与自适应曝光。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🧠 边缘计算核 (RDK X5)</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>八核 ARM A55</strong>：跑 Ubuntu 22.04 + ROS2 多节点守护；</li>
+                <li><strong>双核 BPU (10 TOPS)</strong>：INT8 量化模型秒级吞吐；</li>
+                <li><strong>双网卡冗余</strong>：千兆以太网 + WiFi 自动故障倒换。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🚪 门禁与生物识别执行层</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>FPM007 光学指纹模组</strong>：UART 串口通信，特征库板端加密；</li>
+                <li><strong>齿条直线推拉门禁</strong>：大扭矩步进驱动与光电行程限位；</li>
+                <li><strong>蜂鸣器与双色状态指示</strong>：本地实时声光反馈。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 4 页：传感器融合与测距算法 -->
+    <section class="slide" data-slide="4">
+      <div class="slide-header">
+        <h2 class="slide-title">激光雷达空间感知与区域警戒</h2>
+        <div class="slide-tag">Perception & LiDAR</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card">
+            <div class="card-title">🛰️ 激光雷达点云预处理链路</div>
+            <div class="card-desc">
+              <p>雷达以 10Hz/460800 波特率采集 360° 空间距离。驱动层采用零拷贝共享内存传递点云包。</p>
+              <ul>
+                <li><strong>动态体素滤波 (VoxelGrid)</strong>：剔除灰尘与飞虫噪点；</li>
+                <li><strong>扇区视场裁剪 (ROI Filter)</strong>：只关注门前 ±60° 入侵警戒扇区；</li>
+                <li><strong>聚类跟踪 (Euclidean Cluster)</strong>：连续 3 帧锁定目标质心与移动矢量。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">⚡ 双阶段级联唤醒机制 (降低能耗)</div>
+            <div class="card-desc">
+              <p>避免 8 核 CPU 与 BPU 处于持续高功耗跑满状态：</p>
+              <ul>
+                <li><strong>休眠待机态 (&lt;3.5W)</strong>：仅激光雷达低频感知警戒线（1.5m 以外）；</li>
+                <li><strong>近距离触发态</strong>：雷达检测到物体进入 1.2m 触发阈值，GPIO 中断秒级拉起 MIPI 摄像头与 BPU；</li>
+                <li><strong>实测效果</strong>：整机平均功耗降低 65%，设备发热温升下降 18℃。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 5 页：BPU 推理与人脸识别 -->
+    <section class="slide" data-slide="5">
+      <div class="slide-header">
+        <h2 class="slide-title">地平线 BPU 深度推理与双因子核验</h2>
+        <div class="slide-tag">Edge AI & Inference</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card">
+            <div class="card-title">🧠 BPU 模型量化与流水线优化</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>检测网络</strong>：YOLOv8-Face-Nano 量化至 INT8，推理耗时 <strong>14.2ms</strong>；</li>
+                <li><strong>特征提取</strong>：MobileFaceNet 生成 512 维特征向量，耗时 <strong>19.8ms</strong>；</li>
+                <li><strong>异构流水线</strong>：DMA 硬件内存搬运，CPU 占用率控制在 15% 以下。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🔐 安全鉴权仲裁状态机</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>单认证模式</strong>：注册人脸置信度 &gt;0.88 或指纹对比成功即放行；</li>
+                <li><strong>高防伪双核验</strong>：金融级安全要求下需人脸特征 + 指纹在 5s 内同时匹配；</li>
+                <li><strong>本地黑名单阻断</strong>：连续 3 次认证失败即锁定系统并发出高分贝声光警报。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 6 页：工程可靠性与电磁安全 -->
+    <section class="slide" data-slide="6">
+      <div class="slide-header">
+        <h2 class="slide-title">工业级可靠性设计与开机自愈</h2>
+        <div class="slide-tag">Reliability & Stability</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card">
+            <div class="card-title">⚡ 供电系统解耦</div>
+            <div class="card-desc">
+              <p>门禁电机大电流推拉与高灵敏计算板分离。12V 动力总线通过 DCDC 隔离稳压至 5V 4A 独立供给 RDK X5，杜绝反电动势打死主板。</p>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🛡️ 设备树与端口防冲</div>
+            <div class="card-desc">
+              <p>编写专属 Device Tree Overlay，屏蔽冲突 UART7，锁定 `/dev/ttyS1` 专线驱动指纹模块与蜂鸣器 IO，消除引脚浮空误触发。</p>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🔄 Systemd 全进程自愈</div>
+            <div class="card-desc">
+              <p>封装 `security_daemon.service` 与静音守护服务，异常崩溃时 2s 自动拉起，开机 12s 内进入全自主防护态。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 7 页：实测指标与参数对比 -->
+    <section class="slide" data-slide="7">
+      <div class="slide-header">
+        <h2 class="slide-title">系统核心性能指标与实测实录</h2>
+        <div class="slide-tag">Performance Benchmarks</div>
+      </div>
+      <div class="slide-body">
+        <div class="info-card" style="padding: 28px;">
+          <table style="width: 100%; border-collapse: collapse; font-family: var(--font-mono); font-size: 0.95rem;">
+            <thead>
+              <tr style="border-bottom: 2px solid var(--border); text-align: left; color: var(--secondary);">
+                <th style="padding: 12px 16px;">测试项目</th>
+                <th style="padding: 12px 16px;">设计指标</th>
+                <th style="padding: 12px 16px;">实测结果 (RDK X5 实机)</th>
+                <th style="padding: 12px 16px;">达成状态</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="border-bottom: 1px solid var(--border);">
+                <td style="padding: 12px 16px; color: #fff;">人脸检测 + 特征提取全链路</td>
+                <td style="padding: 12px 16px; color: var(--muted);">&lt; 80 ms</td>
+                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">34.0 ms (BPU INT8)</td>
+                <td style="padding: 12px 16px; color: var(--primary);">优于指标 57%</td>
+              </tr>
+              <tr style="border-bottom: 1px solid var(--border);">
+                <td style="padding: 12px 16px; color: #fff;">激光雷达近场触发响应</td>
+                <td style="padding: 12px 16px; color: var(--muted);">&lt; 100 ms</td>
+                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">45.2 ms</td>
+                <td style="padding: 12px 16px; color: var(--primary);">达标</td>
+              </tr>
+              <tr style="border-bottom: 1px solid var(--border);">
+                <td style="padding: 12px 16px; color: #fff;">指纹匹配时延 (FPM007)</td>
+                <td style="padding: 12px 16px; color: var(--muted);">&lt; 300 ms</td>
+                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">180 ms</td>
+                <td style="padding: 12px 16px; color: var(--primary);">达标</td>
+              </tr>
+              <tr style="border-bottom: 1px solid var(--border);">
+                <td style="padding: 12px 16px; color: #fff;">自适应齿条门禁推拉行程</td>
+                <td style="padding: 12px 16px; color: var(--muted);">300 mm</td>
+                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">300 ± 0.5 mm</td>
+                <td style="padding: 12px 16px; color: var(--primary);">高精度到位</td>
+              </tr>
+              <tr>
+                <td style="padding: 12px 16px; color: #fff;">整机 24h 连续烤机稳定性</td>
+                <td style="padding: 12px 16px; color: var(--muted);">0 崩溃 0 内存泄露</td>
+                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">连续运行 72h 正常</td>
+                <td style="padding: 12px 16px; color: var(--primary);">通过工业考核</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 8 页：总结与答辩结语 -->
+    <section class="slide" data-slide="8">
+      <div class="cover-layout">
+        <div class="cover-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--secondary); border-color: var(--secondary);">✨ 总结与展望</div>
+        <h2 class="cover-title" style="font-size: 2.6rem;">软硬件多模态安防新范式</h2>
+        <p class="cover-sub">成功打通从“激光空间警戒 ➔ BPU边缘推理 ➔ 指纹双重核验 ➔ 齿条机械执行”的全部链路，工程闭环率 100%。</p>
+        <div style="margin-top: 20px;">
+          <a href="../docs/security_system.html" class="hud-btn" style="display: inline-flex; text-decoration: none; padding: 12px 28px; font-size: 1rem; border-color: var(--primary); color: var(--primary);">
+            查看完整技术文档 ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 底部控制器 HUD -->
+  <footer class="deck-hud">
+    <div class="hud-controls">
+      <button class="hud-btn" id="prevBtn" title="上一页 (←)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        上一页
+      </button>
+      <button class="hud-btn" id="nextBtn" title="下一页 (→/空格)">
+        下一页
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </button>
+      <button class="hud-btn" id="fullscreenBtn" title="切换全屏放映 (F)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+        全屏放映
+      </button>
+    </div>
+    <div class="hud-counter">
+      <span id="currentSlideNum"><b>01</b></span> / <span id="totalSlidesNum">08</span>
+    </div>
+  </footer>
+
+  <script>
+    (function() {
+      var slides = document.querySelectorAll('.slide');
+      var total = slides.length;
+      var current = 0;
+      var progressBar = document.getElementById('progressBar');
+      var currentNum = document.getElementById('currentSlideNum');
+      var totalNum = document.getElementById('totalSlidesNum');
+      totalNum.textContent = String(total).padStart(2, '0');
+
+      function updateSlide(index) {
+        if (index < 0) index = 0;
+        if (index >= total) index = total - 1;
+        current = index;
+
+        slides.forEach(function(s, idx) {
+          s.classList.remove('active', 'prev');
+          if (idx === current) {
+            s.classList.add('active');
+          } else if (idx < current) {
+            s.classList.add('prev');
+          }
+        });
+
+        var pct = ((current + 1) / total) * 100;
+        progressBar.style.width = pct + '%';
+        currentNum.innerHTML = '<b>' + String(current + 1).padStart(2, '0') + '</b>';
+      }
+
+      function next() { updateSlide(current + 1); }
+      function prev() { updateSlide(current - 1); }
+
+      document.getElementById('nextBtn').addEventListener('click', next);
+      document.getElementById('prevBtn').addEventListener('click', prev);
+
+      // 键盘控制
+      window.addEventListener('keydown', function(e) {
+        if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+          e.preventDefault();
+          next();
+        } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+          e.preventDefault();
+          prev();
+        } else if (e.key === 'f' || e.key === 'F') {
+          toggleFullscreen();
+        } else if (e.key === 'Home') {
+          updateSlide(0);
+        } else if (e.key === 'End') {
+          updateSlide(total - 1);
+        }
+      });
+
+      // 全屏切换
+      function toggleFullscreen() {
+        if (!document.fullscreenElement) {
+          document.documentElement.requestFullscreen().catch(function() {});
+        } else {
+          if (document.exitFullscreen) document.exitFullscreen();
+        }
+      }
+      document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscreen);
+
+      // 鼠标滚轮切换防抖
+      var wheelTimer = null;
+      window.addEventListener('wheel', function(e) {
+        if (wheelTimer) return;
+        wheelTimer = setTimeout(function() { wheelTimer = null; }, 300);
+        if (e.deltaY > 20) next();
+        else if (e.deltaY < -20) prev();
+      }, { passive: true });
+
+      // 触控滑动支持
+      var touchStartX = 0;
+      window.addEventListener('touchstart', function(e) {
+        touchStartX = e.changedTouches[0].clientX;
+      }, { passive: true });
+      window.addEventListener('touchend', function(e) {
+        var diffX = e.changedTouches[0].clientX - touchStartX;
+        if (diffX < -50) next();
+        else if (diffX > 50) prev();
+      }, { passive: true });
+
+      updateSlide(0);
+    })();
+  </script>
+</body>
+</html>

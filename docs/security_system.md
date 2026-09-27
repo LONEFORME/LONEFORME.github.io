@@ -53,6 +53,45 @@ title: 地瓜派 RDK X5 多模态智能空间安防系统
 
 ---
 
+
+<div class="mermaid">
+flowchart TD
+    subgraph SENSORS["多模态物理感知输入层"]
+        L["ToF 激光雷达 N10P<br>(12Hz 点云空间滤波)"]
+        C["工业双目摄像头<br>(720P NV12 视频流)"]
+        FP["FPM007 指纹模组<br>(UART1 触控中断)"]
+        MIC["ADS1115 破拆拾音<br>(瞬态冲击波检测)"]
+        ENV["AHT10 温湿度<br>(微气象火警监测)"]
+    end
+
+    subgraph CORE["边缘 AI 推理与多模态仲裁核"]
+        BPU["地平线 BPU 10 TOPS<br>(YOLOv8 15ms + ArcFace 512D)"]
+        FSM["有限状态机 FSM<br>(MONITOR ➔ WARN ➔ ALARM)"]
+        AUTH["双因子生物认证引擎<br>(人脸 2D 姿态校正 + 指纹 1:N)"]
+    end
+
+    subgraph ACTUATORS["执行机构与物理反馈"]
+        MOTOR["自适应齿条移门<br>(PWM 舵机行程控制)"]
+        OLED["0.96寸 OLED 仪表盘<br>(I2C-5 中文字幕显示)"]
+        BUZZ["声光警报器<br>(GPIO12 蜂鸣器驱动)"]
+    end
+
+    L -->|近场区域警戒| FSM
+    C -->|硬件 DMA 搬运| BPU
+    BPU -->|人体定位与人脸追踪| FSM
+    BPU -->|512D 特征向量| AUTH
+    FP -->|指纹匹配信号| AUTH
+    MIC -->|破拆振动超限| FSM
+    ENV -->|超温火警联动| FSM
+
+    AUTH -->|认证成功放行| MOTOR
+    FSM -->|系统运行状态| OLED
+    FSM -->|非法入侵触发| BUZZ
+</div>
+
+
+---
+
 ## 二、硬件选型与资源分配
 
 ### 1. 核心硬件元器件清单

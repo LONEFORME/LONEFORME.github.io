@@ -1,0 +1,20 @@
+---
+layout: null
+---
+[
+  {% assign first = true %}
+  {% for page in site.pages %}
+    {% if page.title and page.url != '/404.html' and page.url != '/search.json' and page.url != '/feed.xml' and page.url != '/robots.txt' %}
+      {% unless page.url contains '.json' or page.url contains '.xml' or page.url contains 'assets' %}
+        {% unless first %},{% endunless %}
+        {
+          "title": {{ page.title | jsonify }},
+          "url": {{ page.url | relative_url | jsonify }},
+          "category": {% if page.url contains '/docs/' %}"技术文档"{% elsif page.url contains '/projects' %}"核心项目"{% elsif page.url contains '/news' %}"科技热点"{% elsif page.url contains '/finance' %}"财经动态"{% elsif page.url contains '/3d-viewer' %}"3D模型"{% elsif page.url contains '/slides' %}"演示稿"{% else %}"综合页面"{% endif %},
+          "summary": {{ page.content | strip_html | normalize_whitespace | truncate: 160 | jsonify }}
+        }
+        {% assign first = false %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+]
