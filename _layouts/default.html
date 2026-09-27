@@ -15,6 +15,7 @@
   <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}">
   <meta name="twitter:description" content="{{ site.description }}">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+  <meta name="theme-color" content="#080c14" id="metaThemeColor">
   <title>{{ page.title }} | {{ site.title }}</title>
 
   <!-- 主题防闪烁 (FOUC)：在 CSS 应用与首屏绘制前同步设置 data-theme，避免先暗后亮的闪烁 -->
@@ -24,10 +25,13 @@
         var saved = localStorage.getItem('theme');
         var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
         var theme = saved || (prefersDark ? 'dark' : 'light');
+        var metaTheme = document.getElementById('metaThemeColor');
         if (theme === 'light') {
           document.documentElement.setAttribute('data-theme', 'light');
+          if (metaTheme) metaTheme.setAttribute('content', '#f0f2f5');
         } else {
           document.documentElement.removeAttribute('data-theme');
+          if (metaTheme) metaTheme.setAttribute('content', '#080c14');
         }
       } catch (e) {}
     })();
@@ -191,14 +195,17 @@
       var icon = document.getElementById('themeIcon');
       var label = document.getElementById('themeLabel');
       var mobileIcon = document.getElementById('mobileThemeIcon');
+      var metaTheme = document.getElementById('metaThemeColor');
       if (theme === 'light') {
         if (icon) icon.innerHTML = sunSvg;
         if (label) label.textContent = '亮色模式';
         if (mobileIcon) mobileIcon.innerHTML = sunSvg;
+        if (metaTheme) metaTheme.setAttribute('content', '#f0f2f5');
       } else {
         if (icon) icon.innerHTML = moonSvg;
         if (label) label.textContent = '暗色模式';
         if (mobileIcon) mobileIcon.innerHTML = moonSvg;
+        if (metaTheme) metaTheme.setAttribute('content', '#080c14');
       }
     }
 
@@ -424,11 +431,12 @@
       <div class="search-modal-header">
         <svg class="search-input-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
         <input type="text" id="searchInput" class="search-modal-input" placeholder="搜索项目、文档、SLAM、RDK X5、硬件参数..." autocomplete="off">
+        <button type="button" class="search-input-clear" id="searchClearBtn" onclick="clearSearchInput()" aria-label="清空输入" title="清空">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        </button>
         <button type="button" class="search-modal-close" onclick="closeSearchModal()" aria-label="关闭搜索">Esc</button>
       </div>
-      <div class="search-results-box" id="searchResults">
-        <div class="search-empty-tip">输入关键词开始检索全站技术资源...</div>
-      </div>
+      <div class="search-results-box" id="searchResults"></div>
       <div class="search-modal-footer">
         <span><kbd>↑</kbd> <kbd>↓</kbd> 切换选项</span>
         <span><kbd>Enter</kbd> 跳转</span>
@@ -441,6 +449,53 @@
     /* --- 全站客户端秒级搜索 --- */
     var searchIndex = null;
     var searchSelectedIndex = -1;
+
+    function getSearchInitialHtml() {
+      return '<div class="search-chips-box">' +
+             '  <div class="search-chips-title">' +
+             '    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>' +
+             '    <span>推荐快速检索：</span>' +
+             '  </div>' +
+             '  <div class="search-chips-grid">' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'凌霄飞控\')">⚡ 凌霄飞控</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'地瓜派 RDK X5\')">🛡️ 地瓜派 RDK X5</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'FAST-LIO2\')">🤖 FAST-LIO2</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'锡月\')">🛰️ 锡月巡航</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'镭神 N10P\')">📡 镭神 N10P</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'指纹\')">🔐 半导体指纹</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'OpenCV\')">👁️ OpenCV 视觉</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'树莓派\')">🍓 树莓派 4B</button>' +
+             '    <button type="button" class="search-chip-btn" onclick="applySearchTag(\'演示稿\')">📊 答辩演示稿</button>' +
+             '  </div>' +
+             '</div>';
+    }
+
+    function toggleClearBtn(show) {
+      var btn = document.getElementById('searchClearBtn');
+      if (btn) {
+        if (show) btn.classList.add('visible');
+        else btn.classList.remove('visible');
+      }
+    }
+
+    function applySearchTag(tag) {
+      var input = document.getElementById('searchInput');
+      if (!input) return;
+      input.value = tag;
+      input.focus();
+      toggleClearBtn(true);
+      performSearch(tag);
+    }
+
+    function clearSearchInput() {
+      var input = document.getElementById('searchInput');
+      if (!input) return;
+      input.value = '';
+      input.focus();
+      toggleClearBtn(false);
+      searchSelectedIndex = -1;
+      document.getElementById('searchResults').innerHTML = getSearchInitialHtml();
+    }
 
     function loadSearchIndex() {
       if (searchIndex) return Promise.resolve(searchIndex);
@@ -467,9 +522,11 @@
       var modal = document.getElementById('searchModal');
       var input = document.getElementById('searchInput');
       modal.classList.add('active');
+      document.body.style.overflow = 'hidden';
       input.value = '';
+      toggleClearBtn(false);
       searchSelectedIndex = -1;
-      document.getElementById('searchResults').innerHTML = '<div class="search-empty-tip">输入关键词开始检索全站技术资源...</div>';
+      document.getElementById('searchResults').innerHTML = getSearchInitialHtml();
       setTimeout(function() { input.focus(); }, 50);
       loadSearchIndex();
     }
@@ -477,6 +534,7 @@
     function closeSearchModal() {
       var modal = document.getElementById('searchModal');
       if (modal) modal.classList.remove('active');
+      document.body.style.overflow = '';
     }
 
     function handleSearchBackdropClick(e) {
@@ -558,9 +616,11 @@
       var resultsBox = document.getElementById('searchResults');
       query = (query || '').trim();
       if (!query) {
-        resultsBox.innerHTML = '<div class="search-empty-tip">输入关键词开始检索全站技术资源...</div>';
+        toggleClearBtn(false);
+        resultsBox.innerHTML = getSearchInitialHtml();
         return;
       }
+      toggleClearBtn(true);
       var qLower = query.toLowerCase();
       var keywords = qLower.split(/\s+/).filter(Boolean);
 
@@ -611,7 +671,10 @@
         });
 
         if (matches.length === 0) {
-          resultsBox.innerHTML = '<div class="search-empty-tip">未找到与 “' + escapeHtml(query) + '” 相关的资源</div>';
+          resultsBox.innerHTML = '<div class="search-empty-tip">' +
+            '<p>未找到与 “<strong>' + escapeHtml(query) + '</strong>” 相关的资源</p>' +
+            '<p style="font-size: 12px; margin-top: 8px; color: var(--color-muted);">💡 建议尝试：凌霄、飞控、雷达、RDK、SLAM、FAST-LIO、指纹、演示稿</p>' +
+            '</div>';
           return;
         }
 
@@ -675,6 +738,16 @@
           }
         }
       });
+
+      // 点击搜索结果条目时自动关闭弹窗（适配同页锚点跳转）
+      var resultsBox = document.getElementById('searchResults');
+      if (resultsBox) {
+        resultsBox.addEventListener('click', function(e) {
+          if (e.target.closest('.search-result-item')) {
+            closeSearchModal();
+          }
+        });
+      }
     }
 
     if (document.readyState === 'loading') {
