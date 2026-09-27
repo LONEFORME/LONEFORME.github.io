@@ -5,7 +5,7 @@ layout_class: layout-wide
 ---
 
 <h1>文档</h1>
-<p class="page-subtitle">激光雷达 SLAM 方案 · 硬件驱动 · 快速上手指南</p>
+<p class="page-subtitle">激光雷达 SLAM · 嵌入式边缘 AI · 多模态智能安防 · 快速上手指南</p>
 
 <div class="card-grid">
   <div class="card">
@@ -74,6 +74,29 @@ layout_class: layout-wide
     <div class="card-footer-row">
       <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派实战指南</a>
       <span class="card-status">🔒 规范资产闭源</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-icon-box icon-purple">
+      <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+    </div>
+    <h3>地瓜派 RDK X5 多模态智能安防系统</h3>
+    <p>深度融合激光雷达空间测距、BPU 视觉推理、人脸/指纹双重生物识别与自适应齿条门禁的多模态边缘安防中枢。</p>
+    <div class="card-tags">
+      <span class="card-tag">地瓜派 RDK X5</span>
+      <span class="card-tag">10 TOPS BPU</span>
+      <span class="card-tag">雷达/人脸/指纹</span>
+    </div>
+    <div class="card-details">
+      • 异构边缘计算：BPU 硬件加速 YOLOv8 目标检测，零 CPU 占用人/物分离<br>
+      • 工业生物识别：InsightFace 512维人脸（Roll角校正+偏航角拦截）+ 半导体指纹<br>
+      • 空间连续感知：镭神 N10P 跨0°闭环防区判定 + 3秒自适应背景差分 + 欧氏聚类<br>
+      • 智能门禁中枢：360° 舵机毫秒微积分虚拟编码器（断电开度记忆）+ 车规声学破拆
+    </div>
+    <div class="card-footer-row">
+      <a href="{{ "docs/security_system" | relative_url }}" class="card-link">系统设计方案</a>
+      <span class="card-status">🔒 专有工程</span>
     </div>
   </div>
 </div>

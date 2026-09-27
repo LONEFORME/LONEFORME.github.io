@@ -4,7 +4,55 @@ title: 项目
 ---
 
 <h1>项目</h1>
-<p class="page-subtitle">ROS2 驱动 · SLAM 建图 · 计算机视觉 · 无人机 · 工具脚本</p>
+<p class="page-subtitle">多模态智能安防 · ROS2 驱动 · SLAM 建图 · 计算机视觉 · 无人机 · 工具脚本</p>
+
+<div class="project-group">
+  <div class="section-title">
+    <span class="section-icon-box">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+    </span>
+    <h2>地瓜派 RDK X5 · 多模态智能空间安防系统</h2>
+  </div>
+  <p class="group-desc">基于地平线 8 核 A55 边缘计算平台与 10 TOPS BPU 的软硬件一体化安防中枢，深度融合激光雷达空间感知、InsightFace 工业级人脸识别、半导体指纹与自适应齿条门禁。</p>
+
+  <div class="card-grid">
+    <div class="card">
+      <div class="card-icon-box icon-purple">
+        <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      </div>
+      <h3>多模态边缘感知与 AI 推理中枢</h3>
+      <p>BPU 硬件加速视觉推理、InsightFace 姿态校正人脸识别与激光雷达空间点云聚类决策引擎。</p>
+      <div class="card-details">
+        • 10 TOPS BPU 硬件加速 YOLOv8 NV12 推理（15~25ms），零 CPU 负荷实时人/物解耦<br>
+        • InsightFace SCRFD + ArcFace 512维人脸：双眼 Roll 旋转校正 + 归一化 Yaw 偏航角过滤（≤35°侧脸拦截）<br>
+        • 镭神 N10P 跨 0° 闭环防区几何判定 + 3秒自适应背景差分 + 欧氏聚类过滤噪声<br>
+        • 有限状态机（FSM）三级威胁仲裁：MONITOR 监控 → WARN 预警 → ALARM 告警
+      </div>
+      <div class="card-footer-row">
+        <a href="{{ "docs/security_system" | relative_url }}" class="card-link">技术方案设计</a>
+        <span class="card-status">🔒 专有工程</span>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-icon-box icon-orange">
+        <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M7 7h10"/><path d="M7 12h10"/><path d="M7 17h10"/></svg>
+      </div>
+      <h3>智能物理执行联动与态势大屏</h3>
+      <p>ML-FPM007 半导体指纹模组、360° 伺服舵机自适应齿条门禁、车规声学破拆感知与 Web 态势大屏。</p>
+      <div class="card-details">
+        • ML-FPM007 面阵半导体指纹：UART 小端序 LE 驱动 + 3次按压采集合成 + Pin 11 触控中断唤醒<br>
+        • 360° 连续旋转伺服舵机门禁：毫秒微积分虚拟绝对编码器 + 残余时间动态补偿 + 断电记忆开度持久化<br>
+        • TI ADS1115 16位差分声学破拆检测（撬锁冲击波响应≤30ms）+ AHT10 微气象温湿度火警联动<br>
+        • FastAPI + 10Hz WebSocket 全双工大屏，双路 720P MJPEG 视频推流 + FIFO 50张自动抓拍相册
+      </div>
+      <div class="card-footer-row">
+        <a href="{{ "docs/security_system" | relative_url }}" class="card-link">技术方案设计</a>
+        <span class="card-status">🔒 专有工程</span>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="project-group">
   <div class="section-title">
