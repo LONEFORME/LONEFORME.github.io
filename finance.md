@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,298.29</span>
-      <span class="ticker-change down">▼ -0.31%</span>
+      <span class="ticker-price ticker-down">4,296.00</span>
+      <span class="ticker-change down">▼ -0.37%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,608.13</span>
-      <span class="ticker-change up">▲ +0.00%</span>
+      <span class="ticker-price ticker-down">30,206.76</span>
+      <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7158</span>
+      <span class="ticker-price ticker-down">6.7137</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,152.61 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -132.51 (-3.09%)</span>
+      <span class="ticker-price ticker-down">$4,118.13 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -166.99 (-3.90%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥900.35 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -25.45 (-2.75%)</span>
+      <span class="ticker-price ticker-down">¥891.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -9.29 (-1.03%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,50 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/008/062.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络，售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元）。据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。规格方面，该手机配备一块 1.8 英寸 QQVGA（120*160）显示屏，运行 S30+ 操作系统。配备 3.5mm 耳机接口，支持 FM 收音机，拥有 microSD 卡槽，最高支持 32GB 存储卡。此外，该手机拥有后置摄像头，可拍摄 320*240 分辨率的照片。配备 1000mAh 可拆卸电池，从渲染图来看，这款手机应该搭载了 USB-C 接口。" data-title="HMD 106 Pure 手机悄然发布，仅支持 2G 网络" data-date="09-28 23:19" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 23:19</span>
+          <span class="news-item-title">HMD 106 Pure 手机悄然发布，仅支持 2G 网络</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在美国的支持下，交易员抵达并达成交易。到目前为止，这项投资未能改善采矿业的惨淡状况。" data-title="我们在一个委内瑞拉黄金城看到了什么" data-date="09-28 22:08" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-28 22:08</span>
+          <span class="news-item-title">我们在一个委内瑞拉黄金城看到了什么</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/" target="_blank" rel="noopener" data-cat="caijing" data-summary="预订Disrupt 2026展览桌的最后一天是太平洋时间10月2日（星期五）晚上11:59。10月13日至15日，在旧金山Moscone West ，确保您的展台安全，让您的创业公司面对10,000多名创始人、投资者和技术领导者。" data-title="您在TechCrunch Disrupt 2026上获得展台的最后机会是10月2日" data-date="09-28 22:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-28 22:00</span>
+          <span class="news-item-title">您在TechCrunch Disrupt 2026上获得展台的最后机会是10月2日</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10705090.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都9月28日电 (记者 张浪)四川省泸州市纪委监委28日消息：中国(四川)自由贸易试验区川南临港片区党工委书记谭荣兵涉嫌严重违纪违法，主动投案，目前正接受泸州市纪委监委纪律审查和监察调查。" data-title="中国（四川）自由贸易试验区川南临港片区党工委书记谭荣兵主动投案 接受纪律审查和监察调查" data-date="09-28 20:37" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 20:37</span>
+          <span class="news-item-title">中国（四川）自由贸易试验区川南临港片区党工委书记谭荣兵主动投案 接受纪律审查和监察调查</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10705055.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口9月28日电 (记者 符宇群)凝聚琼港澳台青年共识、汇聚青年华侨心声、集聚国际青年才智，海南正努力将自由贸易港打造成为面向港澳台青年同胞、海外青年侨胞、华裔新生代及各国青年交往的“青年会客厅”。共青团海南省委员会书记刘芳颖28日在海南省新闻办公室举办的促进青年全面发展专场新闻发布会上如是表示。" data-title="深化交流互鉴 海南打造自贸港青年会客厅" data-date="09-28 19:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 19:47</span>
+          <span class="news-item-title">深化交流互鉴 海南打造自贸港青年会客厅</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10705017.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月28日电 (记者 唐小晴)近年来，湖南长沙县跳出传统观光旅游单一模式，持续推进文旅业态迭代、场景更新、模式创新，因地制宜培育差异化文旅新业态，形成“一镇一特色、一域一业态”的发展格局，推动乡村文旅从“单一观光”向“深度体验、过夜消费、产业增收”转型，全面激活近郊微度假市场活力，打造长沙乡村文旅融合发展标杆。" data-title="业态迭代破圈、农旅融合提质 湖南长沙县解锁近郊微度假新范式" data-date="09-28 18:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 18:53</span>
+          <span class="news-item-title">业态迭代破圈、农旅融合提质 湖南长沙县解锁近郊微度假新范式</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704909.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月28日电 第48届世界技能大赛9月22日到27日在上海举办，多家外媒关注此次大赛盛况，并聚焦中国选手表现。报道指出，中国高度重视前沿技术创新发展，通过在世界技能大赛上的亮眼成绩，体现了强大的产业竞争力。" data-title="外媒关注第48届世界技能大赛：中国技能惊艳世界，凸显产业竞争力" data-date="09-28 16:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 16:18</span>
+          <span class="news-item-title">外媒关注第48届世界技能大赛：中国技能惊艳世界，凸显产业竞争力</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/007/847.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 28 日消息，在今日举行的智界 RX 及鸿蒙智行新品发布会上，智界 R7 焕新款上市，新车号称 5 亿投资升级，拥有 8 项重大更新，23.98 万元起：智界 R7 Max 版：23.98 万元智界 R7 Max+ 版：25.98 万元智界 R7 Max+ 长续航版：28.98 万元智界 R7 Ultra 版：31.98 万元尺寸方面，新车长宽高分别为 4982/1981/1634（1650）mm，轴距为 2950mm；采用全新的半隐藏式门把手。IT之家注意到，智界 R7 焕新款延续了家族化设计语言，依然采用标志性的星环式贯穿灯组；车顶配备了华为的 896 线双光路图像级激光雷达，新增了钛空银和星玫粉全新车色。智界 R7 焕新款搭载鸿蒙 ALPS 健康座舱，提供星云红、羽砂" data-title="鸿蒙智行智界 R7 焕新款上市，23.98 万元起" data-date="09-28 15:40" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -256,30 +298,6 @@ title: 股票财经
           <span class="news-item-date">09-28 12:31</span>
           <span class="news-item-title">Tom Kean Jr.在伊朗和关税问题上支持特朗普，如果不是地方问题</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/606.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 27 日消息，世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量件完工暨发运仪式今日在国机重装德阳基地举行。IT之家注：可控核聚变被称为人类终极能源，被誉为“人造太阳”。BEST 装置肩负填补从“实验堆”到“示范堆”工程化空白的重大使命。TF 线圈盒是超导磁体系统核心部件，要在超低温、超强磁场、极高应力下长期运行，对制造材料要求极高。官方表示，该批 TF 线圈盒投入使用后，将服务于紧凑型聚变能实验装置 BEST 建设，助力国家可控核聚变战略实施，推动相关产业链完善与升级。延伸阅读据中国科学院公布的研究计划，BEST 全称为紧凑型聚变能实验装置，建设地点位于安徽合肥未来大科学城，计划于 2027 年底建成，此后开展氘氚燃烧等离子体实验，目标聚变功率达到 20 兆瓦至 2" data-title="助力我国可控核聚变战略实施，世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量交付" data-date="09-27 21:45" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-27 21:45</span>
-          <span class="news-item-title">助力我国可控核聚变战略实施，世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量交付</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/602.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 27 日消息，9 月 24 日，国务院新闻办公室举行新闻发布会。国家邮政局副局长周召华出席发布会并回答记者提问。周召华介绍，今年中秋、国庆“双节”叠加，消费场景更加丰富多元，假日经济与文旅经济深度融合，邮政快递业运行总体呈现节前节令物品寄递需求集中、节日期间文旅寄递需求明显、节后恢复高位运行的鲜明特点。随着节日临近，快递揽收量稳步上升，今年 1 至 8 月全国日均揽收快递 5.23 亿件，进入 9 月以来日均揽收快件攀升至 5.85 亿件，单日峰值超 6.1 亿件。图源：PexelsIT之家注意到，为保障全国人民欢乐祥和度过“双节”，国家邮政局重点做好三方面工作。一是保障寄递网络畅通无阻，指导寄递企业科学调配运力、人力和场地资源，重点保障枢纽转运中心和末端网点畅通。二是确保" data-title="国家邮政局：1 至 8 月全国日均揽收快递 5.23 亿件，全力做好中秋国庆假期寄递服务保障工作" data-date="09-27 21:09" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-27 21:09</span>
-          <span class="news-item-title">国家邮政局：1 至 8 月全国日均揽收快递 5.23 亿件，全力做好中秋国庆假期寄递服务保障工作</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="BBC中文梳理两国展现了什么成果，以及外界如何解读二人的举措。" data-title="特习峰会成果盘点：关税休战、AI对话、未提台湾、暗指日本" data-date="09-27 19:35" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-27 19:35</span>
-          <span class="news-item-title">特习峰会成果盘点：关税休战、AI对话、未提台湾、暗指日本</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704531.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="直播海报：国新办就落实“十五五”规划，推动中央企业高质量发展情况举行新闻发布会" data-title="直播海报：国新办就落实“十五五”规划，推动中央企业高质量发展情况举行新闻发布会" data-date="09-27 18:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 18:56</span>
-          <span class="news-item-title">直播海报：国新办就落实“十五五”规划，推动中央企业高质量发展情况举行新闻发布会</span>
-        </a>
   </div>
 </div>
 
@@ -293,4 +311,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-28 15:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-28 23:46（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
