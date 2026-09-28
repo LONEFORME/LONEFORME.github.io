@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,206.76</span>
+      <span class="ticker-price ticker-down">30,283.20</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7137</span>
+      <span class="ticker-price ticker-down">6.7127</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,118.13 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -166.99 (-3.90%)</span>
+      <span class="ticker-price ticker-down">$4,128.04 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -157.08 (-3.67%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥891.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -9.29 (-1.03%)</span>
+      <span class="ticker-price ticker-down">¥894.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -6.08 (-0.68%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,31 +230,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国运输部今天最终确定了削弱燃油效率标准的计划，称其为“第二届特朗普政府下最大的放松管制行动之一。“这是拜登时代标准的钉子，该标准要求车队的平均燃油经济性到2031年达到每加仑50.4英里。唐纳德总统[…]" data-title="特朗普最终确定规则，降低汽车的燃油效率" data-date="09-29 02:39" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-29 02:39</span>
+          <span class="news-item-title">特朗普最终确定规则，降低汽车的燃油效率</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/28/climate/trump-gas-cars-mileage-standards.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The move marked the final step in the administration’s efforts to dismantle policies aimed at speeding the shift to electric vehicles." data-title="Trump Sharply Scales Back Fuel Economy Rules for New Cars" data-date="09-29 02:29" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-29 02:29</span>
+          <span class="news-item-title">Trump Sharply Scales Back Fuel Economy Rules for New Cars</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705184.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京9月28日电 中共中央政治局委员、中央外办主任王毅28日在北京会见日本国际贸易促进协会会长岩屋毅。" data-title="王毅会见日本国际贸易促进协会会长岩屋毅" data-date="09-29 00:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-29 00:33</span>
+          <span class="news-item-title">王毅会见日本国际贸易促进协会会长岩屋毅</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/008/062.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络，售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元）。据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。规格方面，该手机配备一块 1.8 英寸 QQVGA（120*160）显示屏，运行 S30+ 操作系统。配备 3.5mm 耳机接口，支持 FM 收音机，拥有 microSD 卡槽，最高支持 32GB 存储卡。此外，该手机拥有后置摄像头，可拍摄 320*240 分辨率的照片。配备 1000mAh 可拆卸电池，从渲染图来看，这款手机应该搭载了 USB-C 接口。" data-title="HMD 106 Pure 手机悄然发布，仅支持 2G 网络" data-date="09-28 23:19" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">09-28 23:19</span>
           <span class="news-item-title">HMD 106 Pure 手机悄然发布，仅支持 2G 网络</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/28/world/americas/what-we-saw-in-one-venezuelan-gold-town.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在美国的支持下，交易员抵达并达成交易。到目前为止，这项投资未能改善采矿业的惨淡状况。" data-title="我们在一个委内瑞拉黄金城看到了什么" data-date="09-28 22:08" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-28 22:08</span>
-          <span class="news-item-title">我们在一个委内瑞拉黄金城看到了什么</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/" target="_blank" rel="noopener" data-cat="caijing" data-summary="预订Disrupt 2026展览桌的最后一天是太平洋时间10月2日（星期五）晚上11:59。10月13日至15日，在旧金山Moscone West ，确保您的展台安全，让您的创业公司面对10,000多名创始人、投资者和技术领导者。" data-title="您在TechCrunch Disrupt 2026上获得展台的最后机会是10月2日" data-date="09-28 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-28 22:00</span>
-          <span class="news-item-title">您在TechCrunch Disrupt 2026上获得展台的最后机会是10月2日</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10705090.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都9月28日电 (记者 张浪)四川省泸州市纪委监委28日消息：中国(四川)自由贸易试验区川南临港片区党工委书记谭荣兵涉嫌严重违纪违法，主动投案，目前正接受泸州市纪委监委纪律审查和监察调查。" data-title="中国（四川）自由贸易试验区川南临港片区党工委书记谭荣兵主动投案 接受纪律审查和监察调查" data-date="09-28 20:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-28 20:37</span>
-          <span class="news-item-title">中国（四川）自由贸易试验区川南临港片区党工委书记谭荣兵主动投案 接受纪律审查和监察调查</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10705055.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口9月28日电 (记者 符宇群)凝聚琼港澳台青年共识、汇聚青年华侨心声、集聚国际青年才智，海南正努力将自由贸易港打造成为面向港澳台青年同胞、海外青年侨胞、华裔新生代及各国青年交往的“青年会客厅”。共青团海南省委员会书记刘芳颖28日在海南省新闻办公室举办的促进青年全面发展专场新闻发布会上如是表示。" data-title="深化交流互鉴 海南打造自贸港青年会客厅" data-date="09-28 19:47" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -274,30 +274,6 @@ title: 股票财经
           <span class="news-item-date">09-28 16:18</span>
           <span class="news-item-title">外媒关注第48届世界技能大赛：中国技能惊艳世界，凸显产业竞争力</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/847.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 28 日消息，在今日举行的智界 RX 及鸿蒙智行新品发布会上，智界 R7 焕新款上市，新车号称 5 亿投资升级，拥有 8 项重大更新，23.98 万元起：智界 R7 Max 版：23.98 万元智界 R7 Max+ 版：25.98 万元智界 R7 Max+ 长续航版：28.98 万元智界 R7 Ultra 版：31.98 万元尺寸方面，新车长宽高分别为 4982/1981/1634（1650）mm，轴距为 2950mm；采用全新的半隐藏式门把手。IT之家注意到，智界 R7 焕新款延续了家族化设计语言，依然采用标志性的星环式贯穿灯组；车顶配备了华为的 896 线双光路图像级激光雷达，新增了钛空银和星玫粉全新车色。智界 R7 焕新款搭载鸿蒙 ALPS 健康座舱，提供星云红、羽砂" data-title="鸿蒙智行智界 R7 焕新款上市，23.98 万元起" data-date="09-28 15:40" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-28 15:40</span>
-          <span class="news-item-title">鸿蒙智行智界 R7 焕新款上市，23.98 万元起</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/843.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 28 日消息，鸿蒙智行智界汽车官方刚刚宣布，智界 R7 轿跑 SUV 累计交付已突破 12 万辆。智界 RX 及鸿蒙智行新品发布会正在进行中。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正在介绍智界 R7 焕新款，新车号称 5 亿投资升级，拥有 8 项重大更新。据IT之家了解，智界 R7 焕新款纯电续航至高 855km，拥有羽砂紫、全新星云红内饰色；主驾搭载 26 英寸超高清 HUD、流媒体内后视镜；前配备双 17.2 英寸蝶羽双联屏；支持华为干昆智驾 ADS 5。" data-title="鸿蒙智行智界 R7 轿跑 SUV 累计交付突破 12 万辆" data-date="09-28 15:31" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-28 15:31</span>
-          <span class="news-item-title">鸿蒙智行智界 R7 轿跑 SUV 累计交付突破 12 万辆</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704847.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="工业和信息化部等七部门近日印发《新型电池产业发展“十五五”规划》。" data-title="新型电池产业发展“十五五”规划发布" data-date="09-28 14:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-28 14:35</span>
-          <span class="news-item-title">新型电池产业发展“十五五”规划发布</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在与民主党人丽贝卡·贝内特（ Rebecca Bennett ）的辩论中，这位新泽西州共和党人表示，他愿意就哈德逊河隧道项目的资金问题接受总统。" data-title="Tom Kean Jr.在伊朗和关税问题上支持特朗普，如果不是地方问题" data-date="09-28 12:31" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-28 12:31</span>
-          <span class="news-item-title">Tom Kean Jr.在伊朗和关税问题上支持特朗普，如果不是地方问题</span>
-        </a>
   </div>
 </div>
 
@@ -311,4 +287,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-28 23:46（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-29 03:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
