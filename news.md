@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-28 01:06 抓取更新</span>
+      <span>2026-09-28 15:49 抓取更新</span>
     </div>
   </div>
 
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="阿拉斯加州民主党参议员候选人佩尔托拉女士的政治很复杂：她支持枪支、石油和天然气，但也支持环境，尤其是鱼类。" data-title="“她是我们中的一员” ：玛丽·佩尔托拉（ Mary Peltola ）颠簸地崛起为政治权力" data-date="09-27 23:48" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-28/10704899.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月28日电 (记者 谢雁冰)中国外交部发言人郭嘉昆28日主持例行记者会。有记者就今天是中国和古巴建交66年纪念日提问。" data-title="外交部：坚定支持古巴维护国家主权 反对外来干涉" data-date="09-28 15:49" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 09-27 23:48</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 09-28 15:49</span>
       </div>
-      <h2 class="hero-featured-title">“她是我们中的一员” ：玛丽·佩尔托拉（ Mary Peltola ）颠簸地崛起为政治权力</h2>
+      <h2 class="hero-featured-title">外交部：坚定支持古巴维护国家主权 反对外来干涉</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/" target="_blank" rel="noopener" data-cat="keji" data-summary="“人工智能是魔鬼，我是创造者。”" data-title="Anthropic的Dario Amodei接受SNL治疗" data-date="09-28 00:30" data-source="TechCrunch">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/007/849.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 28 日消息，据韩媒 News1 昨天（27 日）报道，当地时间 28 日，英伟达 CEO 黄仁勋将在美国纽约会见三星电子会长李在镕和 SK 集团会长崔泰源。全球 AI 半导体供应链三家核心企业的掌门人也将在两个月后再次聚首，下一代高带宽内存（HBM）和 AI 基础设施合作会谈到哪些内容因此备受关注。韩国商界 27 日消息称，李在镕和崔泰源计划参加 28 日在纽约举行的韩国协会年度晚宴，黄仁勋也会出席当天活动。英伟达、三星和 SK 又都是全球 AI 半导体供应链的重要企业，因此各方是否会讨论进一步合作成为外界关注的焦点。业界预计，HBM 将是此次会面的重点之一，三星电子和 SK 海力士均是英伟达在全球 HBM 市场的主要内存供应商。三星电子 DS 部门负责人全永铉今年 6" data-title="AI 半导体供应链三巨头时隔两月再聚首，曝英伟达黄仁勋、三星李在镕、SK 崔泰源将在美会面" data-date="09-28 15:42" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">Anthropic的Dario Amodei接受SNL治疗</p>
+      <p class="hero-sub-title">AI 半导体供应链三巨头时隔两月再聚首，曝英伟达黄仁勋、三星李在镕、SK 崔泰源将在美会面</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="如果对俱乐部多项财务错误报告的有罪判决得到支持，那么它在现代取得的成就将永远受到玷污。在英超联赛最伟大时刻的调查中，足球支持者经常为塞尔吉奥·阿圭罗（ Sergio Agüero ）在2012年赢得曼城冠军的目标感到自豪。本赛季最后一天在伤病时间得分，阿奎罗对皇后公园巡游者的罢工首次" data-title="卫报对曼城的看法：一种奇怪的荣耀|社论" data-date="09-28 00:25" data-source="卫报">
+    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/ckjrxw02e7q3o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Big Bang 在伦敦托特纳姆热刺体育场举行了演唱会，这标志着这个帮助奠定现代 K-pop 蓝图的组合回归，可谓是万众期待。" data-title="BigBang伦敦开唱：K" data-date="09-28 14:40" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">卫报对曼城的看法：一种奇怪的荣耀|社论</p>
+      <p class="hero-sub-title">BigBang伦敦开唱：K</p>
     </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/09-28/10704634.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社上海9月27日电 (记者 许婧)第48届世界技能大赛27日在上海闭幕。64个赛项最终成绩全部揭晓，中国代表团成功登顶本届大赛金牌榜。本届世界技能大赛，是全球技能青年同台角逐、拼尽全力证明自己的竞技舞台，也是一座跨越国界、联通产教、融通文明的技能之桥。" data-title="以技能之桥联通世界 第48届世界技能大赛闭幕" data-date="09-28 00:01" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/007/854.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 28 日消息，新奥集团今日宣布，新奥氢硼聚变商业化在 2026 年 9 月下旬取得重大突破：“玄龙-50U”装置实现氢硼聚变反应。这是全球商业化聚变公司在自有装置上首次实现氢硼聚变反应，也是我国磁约束聚变装置首次实现加注先进燃料（氢硼、氘氦 3）的清洁无中子聚变反应。氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α 粒子），但相对于氘氚聚变，其反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 108/秒的氢硼聚变反应率。这表明新奥氢硼聚变迈入燃烧等离子体相关实验阶段，是中国多路径聚变能发展的重大突破。来自全球多个国家科研院所与知名高校的十余位聚变权威专家" data-title="全球首次：新奥氢硼聚变商业化取得重大突破，2035 年前实现稳态大功率发电" data-date="09-28 15:50" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">以技能之桥联通世界 第48届世界技能大赛闭幕</p>
+      <p class="hero-sub-title">全球首次：新奥氢硼聚变商业化取得重大突破，2035 年前实现稳态大功率发电</p>
     </a>
   </div>
 </div>
@@ -103,95 +103,95 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="阿拉斯加州民主党参议员候选人佩尔托拉女士的政治很复杂：她支持枪支、石油和天然气，但也支持环境，尤其是鱼类。" data-title="“她是我们中的一员” ：玛丽·佩尔托拉（ Mary Peltola ）颠簸地崛起为政治权力" data-date="09-27 23:48" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704899.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月28日电 (记者 谢雁冰)中国外交部发言人郭嘉昆28日主持例行记者会。有记者就今天是中国和古巴建交66年纪念日提问。" data-title="外交部：坚定支持古巴维护国家主权 反对外来干涉" data-date="09-28 15:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 15:49</span>
+          <span class="news-item-title">外交部：坚定支持古巴维护国家主权 反对外来干涉</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704864.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网天津9月28日电 (记者 周亚强)中国新型政党制度理论研讨会28日在天津召开，会上发布《中国新型政党制度自主知识体系研究报告》。" data-title="中国新型政党制度自主知识体系研究报告在天津发布" data-date="09-28 15:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 15:25</span>
+          <span class="news-item-title">中国新型政党制度自主知识体系研究报告在天津发布</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704857.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月28日电 据外媒报道，德国方面9月27日发布的一项最新民调结果显示，德国总理默茨领导的联盟党(基民盟/基社盟)支持率降至19%，为本届联邦议会选举周期以来最低水平，与选择党相差10个百分点。" data-title="外媒：默茨领导的联盟党支持率跌至议会选举期以来最低" data-date="09-28 15:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 15:13</span>
+          <span class="news-item-title">外媒：默茨领导的联盟党支持率跌至议会选举期以来最低</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704849.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网昆明9月28日电 (记者 韩帅南)9月28日，云南省生态环境厅举行“环境安全，我们在行动——听民声、防风险、护家园”专题新闻发布会通报称，截至9月，今年以来云南省生态环境部门职责范围内投诉举报件按期办结率达100%；全省重点环境风险区域已实现4小时应急物资保障圈；曲靖花山化工园区突发水污染事件环境应急三级防控体系建设试点8月顺利通过国家验收。" data-title="云南重点环境风险区域实现4小时应急物资保障圈" data-date="09-28 14:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 14:57</span>
+          <span class="news-item-title">云南重点环境风险区域实现4小时应急物资保障圈</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704843.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网广州9月28日电 (记者 方伟彬)广州法治大厦项目28日正式开工。同日，作为拟入驻机构的广州互联网法院迎来挂牌成立8周年，其建设发展迈入新阶段。" data-title="广州法治大厦项目正式开工" data-date="09-28 14:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 14:44</span>
+          <span class="news-item-title">广州法治大厦项目正式开工</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704837.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月28日电 北京时间9月27日晚，英国歌唱家莎拉·布莱曼在社交媒体平台上悼念中国音乐家刘欢。" data-title="英国歌唱家莎拉·布莱曼发文悼念刘欢：将永远怀念他" data-date="09-28 14:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 14:14</span>
+          <span class="news-item-title">英国歌唱家莎拉·布莱曼发文悼念刘欢：将永远怀念他</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704823.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网乌鲁木齐9月28日电 (袁鹏冲)从校园课堂的思政浸润，到中华优秀传统文化的滋养熏陶，再到跨城研学的心灵牵手，近年来，新疆和田地区各族青少年在多层次、全方位的援疆育人举措中茁壮成长。" data-title="京和同心育新苗 “六位一体”铸牢新疆和田少年中华魂" data-date="09-28 13:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 13:50</span>
+          <span class="news-item-title">京和同心育新苗 “六位一体”铸牢新疆和田少年中华魂</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704810.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月28日电(记者 刁炜)俄著名智库“俄罗斯国际事务委员会”近日刊文披露，澳大利亚已允许日本自卫队使用该国靶场，开展包括高超音速武器在内的新型导弹测试。" data-title="提供12万平方公里靶场，澳大利亚要帮日本测试高超音速导弹" data-date="09-28 13:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 13:44</span>
+          <span class="news-item-title">提供12万平方公里靶场，澳大利亚要帮日本测试高超音速导弹</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704737.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月28日电 综合消息：以色列方面当地时间27日表示，决定不再承认荷兰驻拉姆安拉代表处外交人员的外交身份，其享有的外交特权与豁免权将在7天后到期。" data-title="以色列取消荷兰驻拉姆安拉外交人员外交豁免" data-date="09-28 11:00" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 11:00</span>
+          <span class="news-item-title">以色列取消荷兰驻拉姆安拉外交人员外交豁免</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704702.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网比勒陀利亚9月28日电(记者 孙翔)“同一轮圆月！”“同一种友谊！”9月26日至27日，2026中南中秋文化交流节在南非行政首都比勒陀利亚时代广场举行。舞台上下，一呼一应，不同的族群、语言与文化，在这一刻汇入同一片掌声与喝彩。" data-title="“同一轮圆月，同一种友谊”：中国中秋节与南非文化遗产月相遇" data-date="09-28 10:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 10:36</span>
+          <span class="news-item-title">“同一轮圆月，同一种友谊”：中国中秋节与南非文化遗产月相遇</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704719.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月28日电 贝尔格莱德消息：塞尔维亚总统武契奇当地时间27日晚提交辞呈，辞去总统职务。他表示此后将以“普通公民”身份参加下届政府总理竞选。" data-title="塞尔维亚总统武契奇辞职 将竞选政府总理" data-date="09-28 10:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 10:36</span>
+          <span class="news-item-title">塞尔维亚总统武契奇辞职 将竞选政府总理</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704708.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国新闻周刊记者：杨智杰" data-title="非洲电商“新蓝海”" data-date="09-28 10:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 10:06</span>
+          <span class="news-item-title">非洲电商“新蓝海”</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="“我拒绝他们的协议，”特朗普周六表示，并补充美国已对该海峡拥有“完全控制权”，“大量石油”经此通行，导致全球油价大幅上涨，消费者燃料成本急升。" data-title="中美峰会后 伊朗提出七天达成协议 被特朗普拒绝" data-date="09-28 08:10" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-28 08:10</span>
+          <span class="news-item-title">中美峰会后 伊朗提出七天达成协议 被特朗普拒绝</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/27/us/politics/trump-weapons-sale-china.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="特朗普总统向中国领导人习近平提出了这一提议，驻华大使大卫·珀杜（ David Perdue ）说。白宫后来表示，美国没有计划进行此类销售。" data-title="美国大使说，特朗普提出向中国出售武器" data-date="09-28 07:33" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-27 23:48</span>
-          <span class="news-item-title">“她是我们中的一员” ：玛丽·佩尔托拉（ Mary Peltola ）颠簸地崛起为政治权力</span>
+          <span class="news-item-date">09-28 07:33</span>
+          <span class="news-item-title">美国大使说，特朗普提出向中国出售武器</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-27/10704632.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据美国方面当地时间9月27日消息，美国总统特朗普接受采访时表示，预计本周将与伊朗继续举行谈判。此前一天，特朗普拒绝了伊朗提出的结束战争方案。" data-title="特朗普称预计本周继续与伊朗谈判" data-date="09-27 23:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 23:39</span>
-          <span class="news-item-title">特朗普称预计本周继续与伊朗谈判</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="随着他们的中期前景变暗，天然气和柴油价格飙升，一些支持战争数月的共和党人现在正在改变他们的调子。" data-title="特朗普与伊朗的战争在中期选举中拖累共和党人" data-date="09-27 23:16" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/27/us/politics/trump-ad-government-campaign.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="伦理专家称，这则广告可能违反了联邦法律。这则广告显示，特朗普誓言要“将战争贩子驱逐出政府，与“深层国家”作斗争，即使他正在与伊朗开战。" data-title="特朗普2024竞选广告回归，现在由政府带给您" data-date="09-28 06:12" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-27 23:16</span>
-          <span class="news-item-title">特朗普与伊朗的战争在中期选举中拖累共和党人</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704546.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社联合国9月26日电" data-title="韩正在第81届联大一般性辩论上的讲话（全文）" data-date="09-27 22:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 22:20</span>
-          <span class="news-item-title">韩正在第81届联大一般性辩论上的讲话（全文）</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704600.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="“法治同开放相伴而行，对外开放向前推进一步，涉外法治建设就要跟进一步。”2023年11月27日，习近平总书记在二十届中央政治局第十次集体学习时强调。" data-title="良法善治·回响｜何以“跟进一步”" data-date="09-27 22:15" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 22:15</span>
-          <span class="news-item-title">良法善治·回响｜何以“跟进一步”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-27/10704611.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社曼谷9月27日电 (梁峻祥 李映民)泰国总理阿努廷27日提前结束海外行程返回泰国，并着手指挥抗击曼谷及周边洪涝灾害。" data-title="泰国曼谷洪灾持续 总理提前返泰应对" data-date="09-27 21:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 21:59</span>
-          <span class="news-item-title">泰国曼谷洪灾持续 总理提前返泰应对</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704577.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月27日电 据“中国驻菲律宾大使馆”微信公众号27日消息，中国驻菲律宾使馆发言人就菲防长特奥多罗涉华消极言论表明立场。" data-title="中国驻菲使馆发言人就菲防长涉华消极言论表明立场" data-date="09-27 21:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 21:16</span>
-          <span class="news-item-title">中国驻菲使馆发言人就菲防长涉华消极言论表明立场</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704562.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="跨越太平洋，万里启新程。" data-title="视频画报｜习近平主席的华盛顿时间：继往开来万里行" data-date="09-27 21:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 21:12</span>
-          <span class="news-item-title">视频画报｜习近平主席的华盛顿时间：继往开来万里行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704563.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="国之交在于民相亲。当地时间9月24日晚，国家主席习近平和夫人彭丽媛出席美国总统特朗普和夫人梅拉尼娅在白宫举行的欢迎国宴。宴会上，习近平主席深情讲述两国人民友好交往故事，一段段珍贵记忆，揭示了一个朴素而深刻的道理：中美人文交流有利于促进两国人民心灵沟通，为中美友好合作厚植了民意基础。双方要携手并进，共同浇灌中美友谊的美丽花朵，共同书写中美友好的崭新篇章。" data-title="近镜头｜习近平主席讲述中美人民友好故事" data-date="09-27 21:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 21:11</span>
-          <span class="news-item-title">近镜头｜习近平主席讲述中美人民友好故事</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-27/10704559.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社联合国9月27日电 当地时间9月26日，中国国家副主席韩正在纽约联合国总部出席第81届联合国大会一般性辩论并发表讲话。" data-title="韩正出席第81届联合国大会一般性辩论并发表讲话" data-date="09-27 20:08" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 20:08</span>
-          <span class="news-item-title">韩正出席第81届联合国大会一般性辩论并发表讲话</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-27/10704555.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社贝尔格莱德9月27日电(记者张璇 石中玉)当地时间27日中午，塞尔维亚总统武契奇在接受塞尔维亚广播电视台采访时表示，他将于当地时间27日晚8时左右正式提交辞呈，辞去总统职务。" data-title="武契奇宣布即将辞去总统职务" data-date="09-27 20:02" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 20:02</span>
-          <span class="news-item-title">武契奇宣布即将辞去总统职务</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Flock网站上的一个漏洞允许安全研究人员访问其第三方提供商，下载超过30万个Flock摄像头的位置和描述。他还指出， Flock系统可以用来跟踪往返五角大楼和中央情报局总部等敏感地点的人员。" data-title="Flock试图将安全研究人员的Flock摄像头地图取下" data-date="09-27 20:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-27 20:00</span>
-          <span class="news-item-title">Flock试图将安全研究人员的Flock摄像头地图取下</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-27/10704455.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网约翰内斯堡9月27日电 (记者 孙翔)南非警察局27日称，南非豪登省西兰德地区(West Rand District)一处酒馆26日晚发生枪击事件，造成17人死亡、15人受伤。" data-title="南非豪登省发生枪击事件致17人死亡" data-date="09-27 17:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 17:50</span>
-          <span class="news-item-title">南非豪登省发生枪击事件致17人死亡</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/27/us/politics/white-house-fraud-task-force.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="The ledger used by a task force created by President Trump is difficult to verify and includes cases that were identified and went to trial during the Biden administration." data-title="White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers" data-date="09-27 17:01" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-27 17:01</span>
-          <span class="news-item-title">White House Claim of Finding $250 Billion in Fraud Uses Questionable Numbers</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-27/10704371.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月27日电 综合消息：伊朗外交部长阿拉格齐当地时间26日表示，伊朗在第81届联合国大会一般性辩论举行期间的各场会晤活动中，重点阐述了重新开放霍尔木兹海峡的条件。虽然美国总统特朗普已经公开拒绝伊方相关方案，但伊方仍在等待斡旋方正式传达美方的明确意见。" data-title="伊朗外长：仍等待美国明确回应霍尔木兹海峡重开方案" data-date="09-27 13:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 13:21</span>
-          <span class="news-item-title">伊朗外长：仍等待美国明确回应霍尔木兹海峡重开方案</span>
+          <span class="news-item-date">09-28 06:12</span>
+          <span class="news-item-title">特朗普2024竞选广告回归，现在由政府带给您</span>
         </a>
   </div>
   <div class="news-category">
@@ -200,6 +200,54 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/007/849.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 28 日消息，据韩媒 News1 昨天（27 日）报道，当地时间 28 日，英伟达 CEO 黄仁勋将在美国纽约会见三星电子会长李在镕和 SK 集团会长崔泰源。全球 AI 半导体供应链三家核心企业的掌门人也将在两个月后再次聚首，下一代高带宽内存（HBM）和 AI 基础设施合作会谈到哪些内容因此备受关注。韩国商界 27 日消息称，李在镕和崔泰源计划参加 28 日在纽约举行的韩国协会年度晚宴，黄仁勋也会出席当天活动。英伟达、三星和 SK 又都是全球 AI 半导体供应链的重要企业，因此各方是否会讨论进一步合作成为外界关注的焦点。业界预计，HBM 将是此次会面的重点之一，三星电子和 SK 海力士均是英伟达在全球 HBM 市场的主要内存供应商。三星电子 DS 部门负责人全永铉今年 6" data-title="AI 半导体供应链三巨头时隔两月再聚首，曝英伟达黄仁勋、三星李在镕、SK 崔泰源将在美会面" data-date="09-28 15:42" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:42</span>
+          <span class="news-item-title">AI 半导体供应链三巨头时隔两月再聚首，曝英伟达黄仁勋、三星李在镕、SK 崔泰源将在美会面</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/848.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 28 日消息，据韩媒 smedaily 当地时间今日报道，SK 海力士驳斥了“日本东北地区晶圆厂项目已启动”的传闻，称这“纯属无稽之谈”。消息人士此前表示，一座与 SK 海力士有关的日本晶圆厂已在进行基础工程施工，尚不清楚是独资还是与铠侠合资；SK 海力士近期要求韩国零部件企业扩大供应规模，以应对内存供应短缺。相关阅读：《SK 集团会长崔泰源：SK 海力士正考虑在日本设厂事宜》" data-title="SK 海力士驳斥“日本东北地区晶圆厂动工”传闻，称“纯属无稽之谈”" data-date="09-28 15:41" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:41</span>
+          <span class="news-item-title">SK 海力士驳斥“日本东北地区晶圆厂动工”传闻，称“纯属无稽之谈”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704888.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="新华社北京9月28日电(记者吴梦桐、冯歆然)外交部发言人郭嘉昆28日在例行记者会上答问时表示，中方始终秉持建设性、负责任态度参与人工智能全球治理，持续不断贡献中国方案。中方一贯主张应当坚持发挥联合国主渠道作用，构建公正合理的全球人工智能治理体系。同时，我们也愿同美方通过人工智能政府间对话等渠道保持沟通交流。这既是促进全球人工智能向善普惠发展的重要路径，也是构建“基于尊重、公平、对等的中美建设性战略稳定关系”的应有之义。" data-title="外交部：愿同美方通过人工智能政府间对话等渠道保持沟通" data-date="09-28 15:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 15:39</span>
+          <span class="news-item-title">外交部：愿同美方通过人工智能政府间对话等渠道保持沟通</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704825.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社北京9月28日电 (记者 孙自法)中国科学院28日消息，作为其未来五年的总体“路线图”和具体“施工图”，该院“十五五”发展规划近日正式发布，其中明确提出，积极拥抱人工智能(AI)蓬勃发展战略机遇，赋能科技创新和科研管理变革。" data-title="中国科学院发布“十五五”规划：积极拥抱人工智能" data-date="09-28 13:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 13:52</span>
+          <span class="news-item-title">中国科学院发布“十五五”规划：积极拥抱人工智能</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music" target="_blank" rel="noopener" data-cat="keji" data-summary="音乐创业公司Thoughtful Things刚刚推出了其首款乐器Engram的Kickstarter活动。它是一个采样器和Groovebox ，使用AI来破坏传入的音频，甚至使全新的声音产生幻觉。不过，这不是盒子里的苏诺。这不是一个“按钮，让歌声响起”的设备，旨在创造一些听起来已经准备好进入40强的设备[…]" data-title="Engram是一个将破碎的人工智能幻觉转化为音乐的采样器" data-date="09-28 04:46" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-28 04:46</span>
+          <span class="news-item-title">Engram是一个将破碎的人工智能幻觉转化为音乐的采样器</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/" target="_blank" rel="noopener" data-cat="keji" data-summary="这将是Dario Amodei和唐纳德·特朗普之间的首次一对一会面" data-title="Anthropic首席执行官即将与特朗普总统共进晚餐" data-date="09-28 04:34" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-28 04:34</span>
+          <span class="news-item-title">Anthropic首席执行官即将与特朗普总统共进晚餐</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/" target="_blank" rel="noopener" data-cat="keji" data-summary="关于Equity ，我们讨论了Meta的人工智能公告如何设法从OpenAI和Anthropic抢走聚光灯。" data-title="Muse能否克服Meta的信任问题？" data-date="09-28 03:57" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-28 03:57</span>
+          <span class="news-item-title">Muse能否克服Meta的信任问题？</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website" target="_blank" rel="noopener" data-cat="keji" data-summary="安全研究员罗恩·霍华德-琼斯（ Rowan Howard-Jones ）表示， OpenAI特工在4月至6月期间扫描了联合国贸易和发展会议（ UNCTAD ）的统计数据网站超过16,000次。虽然该事件并未达到拥抱面部黑客攻击或最近对美国政府网站的攻击的水平，但这是另一个令人担忧的人工智能[…]的例子。" data-title="OpenAI特工试图“蛮力”联合国网站" data-date="09-28 01:21" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-28 01:21</span>
+          <span class="news-item-title">OpenAI特工试图“蛮力”联合国网站</span>
+        </a>
         <a class="news-item" href="https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/" target="_blank" rel="noopener" data-cat="keji" data-summary="“人工智能是魔鬼，我是创造者。”" data-title="Anthropic的Dario Amodei接受SNL治疗" data-date="09-28 00:30" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
@@ -242,54 +290,6 @@ title: 热点新闻
           <span class="news-item-date">09-27 21:57</span>
           <span class="news-item-title">量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/498584.html" target="_blank" rel="noopener" data-cat="keji" data-summary="中秋假期文具OpenRouter调用日榜榜首" data-title="又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录" data-date="09-27 21:40" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-27 21:40</span>
-          <span class="news-item-title">又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/603.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 27 日消息，为防范人工智能彻底失控，Anthropic 的数位资深员工正在悄然制定具体的应急预案。据华尔街日报于当地时间 9 月 26 日报道，最近数周内，Anthropic 的部分早期员工曾向业界同行透露，他们正打算在美国偏远荒僻的地区购置土地建造隐匿点，以便在“AI 走向失控反噬”之际举家撤离避难。对这个圈子而言，“逃离 AI”的念头早已屡见不鲜。据早期离职员工回忆，早在 Anthropic 创立初期的公司聚餐中，大家就曾热烈推演过一种极具“曼哈顿计划式假想”的情景：他们未来可能随时被政府征调至荒芜的沙漠深处，在具备全套防电磁脉冲屏蔽功能的绝密军事基地内，闭门继续研发前沿 AI。IT之家从报道获悉，Anthropic 员工们在内部的私密 Slack 频道中推演各类末日" data-title="部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”" data-date="09-27 21:31" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-27 21:31</span>
-          <span class="news-item-title">部分 Anthropic 资深员工考虑在偏远地区购置土地，以防“AI 失控”</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk" target="_blank" rel="noopener" data-cat="keji" data-summary="由于PC硬件的进步和人工智能辅助编译器的优化， Linux爱好者很快就能在10秒内完成干净的内核构建。" data-title="Linux爱好者将看到10秒钟的内核编译时间" data-date="09-27 20:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-27 20:20</span>
-          <span class="news-item-title">Linux爱好者将看到10秒钟的内核编译时间</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends" target="_blank" rel="noopener" data-cat="keji" data-summary="TypeSafe AI的Jev在一周内击败了Pokémon Red ，最终进入了名人堂。" data-title="开发人员表示， AI决策模型Jev在一周内击败了Pokémon Red" data-date="09-27 19:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-27 19:30</span>
-          <span class="news-item-title">开发人员表示， AI决策模型Jev在一周内击败了Pokémon Red</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能技术与政策制定之间的差距比以往任何时候都要大，随着人工智能模型的迅速发展，全球政策真空也随之消失。" data-title="随着人工智能的加速，政府越来越落后" data-date="09-27 19:22" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-27 19:22</span>
-          <span class="news-item-title">随着人工智能的加速，政府越来越落后</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/498546.html" target="_blank" rel="noopener" data-cat="keji" data-summary="啥题啊能干崩OpenAI最强模型训练…" data-title="啥题啊能干崩OpenAI最强模型训练…" data-date="09-27 17:44" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-27 17:44</span>
-          <span class="news-item-title">啥题啊能干崩OpenAI最强模型训练…</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/" target="_blank" rel="noopener" data-cat="keji" data-summary="有限的测试涵盖部分产品和用户，并计划于10月下旬进行更广泛的推广。" data-title="谷歌在印度测试通过Gemini和AI Mode从沃尔玛旗下的Flipkart购物" data-date="09-27 09:30" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-27 09:30</span>
-          <span class="news-item-title">谷歌在印度测试通过Gemini和AI Mode从沃尔玛旗下的Flipkart购物</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/" target="_blank" rel="noopener" data-cat="keji" data-summary="Blue Cross Blue Shield表示，医院使用人工智能工具导致两年内医疗支出增加了9.42亿美元$。" data-title="保险公司声称人工智能已经在增加医疗保健成本" data-date="09-27 05:02" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-27 05:02</span>
-          <span class="news-item-title">保险公司声称人工智能已经在增加医疗保健成本</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -297,6 +297,18 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">4 条</span>
     </div>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ckjrxw02e7q3o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Big Bang 在伦敦托特纳姆热刺体育场举行了演唱会，这标志着这个帮助奠定现代 K-pop 蓝图的组合回归，可谓是万众期待。" data-title="BigBang伦敦开唱：K" data-date="09-28 14:40" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-28 14:40</span>
+          <span class="news-item-title">BigBang伦敦开唱：K</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmn45n5d8wq7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在控球率超过60%的球队中，只有36%的球队在本赛季赢得了英超联赛的冠军。BBC Sport着眼于为什么？" data-title="英超联赛控球比赛即将结束吗？" data-date="09-28 14:10" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-28 14:10</span>
+          <span class="news-item-title">英超联赛控球比赛即将结束吗？</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="如果对俱乐部多项财务错误报告的有罪判决得到支持，那么它在现代取得的成就将永远受到玷污。在英超联赛最伟大时刻的调查中，足球支持者经常为塞尔吉奥·阿圭罗（ Sergio Agüero ）在2012年赢得曼城冠军的目标感到自豪。本赛季最后一天在伤病时间得分，阿奎罗对皇后公园巡游者的罢工首次" data-title="卫报对曼城的看法：一种奇怪的荣耀|社论" data-date="09-28 00:25" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
@@ -309,18 +321,6 @@ title: 热点新闻
           <span class="news-item-date">09-27 22:24</span>
           <span class="news-item-title">为什么英超在曼城统治后面临不确定性和混乱</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英超联赛可能会受到严重打击，而曼城球迷可能知道他们花了30年时间才从1906年的有罪判决中恢复过来，所以事实证明这些都不是真实的。在2009-10赛季和2017-18赛季之间，英格兰足球界没有发生任何涉及曼城的事情。城市在老特拉福德以6比1击败曼联？ Fake。Sergio Agüero在2012年获得第94分钟冠军？想象力的虚构" data-title="你有没有觉得自己被骗了？在曼城有罪判决后，后果可能是深远的|乔纳森·威尔逊" data-date="09-27 15:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-27 15:00</span>
-          <span class="news-item-title">你有没有觉得自己被骗了？在曼城有罪判决后，后果可能是深远的|乔纳森·威尔逊</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育专栏作家托尼·普利斯（ Tony Pulis ）解释了他和所有斯托克球迷在曼城被判犯有他们所面临的115项指控中的大多数之后的想法。" data-title="曼城？我觉得被骗了-斯托克城什么时候拿到我们的足总杯？" data-date="09-27 14:50" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-27 14:50</span>
-          <span class="news-item-title">曼城？我觉得被骗了-斯托克城什么时候拿到我们的足总杯？</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -328,95 +328,95 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704634.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社上海9月27日电 (记者 许婧)第48届世界技能大赛27日在上海闭幕。64个赛项最终成绩全部揭晓，中国代表团成功登顶本届大赛金牌榜。本届世界技能大赛，是全球技能青年同台角逐、拼尽全力证明自己的竞技舞台，也是一座跨越国界、联通产教、融通文明的技能之桥。" data-title="以技能之桥联通世界 第48届世界技能大赛闭幕" data-date="09-28 00:01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/007/854.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 28 日消息，新奥集团今日宣布，新奥氢硼聚变商业化在 2026 年 9 月下旬取得重大突破：“玄龙-50U”装置实现氢硼聚变反应。这是全球商业化聚变公司在自有装置上首次实现氢硼聚变反应，也是我国磁约束聚变装置首次实现加注先进燃料（氢硼、氘氦 3）的清洁无中子聚变反应。氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α 粒子），但相对于氘氚聚变，其反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 108/秒的氢硼聚变反应率。这表明新奥氢硼聚变迈入燃烧等离子体相关实验阶段，是中国多路径聚变能发展的重大突破。来自全球多个国家科研院所与知名高校的十余位聚变权威专家" data-title="全球首次：新奥氢硼聚变商业化取得重大突破，2035 年前实现稳态大功率发电" data-date="09-28 15:50" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:50</span>
+          <span class="news-item-title">全球首次：新奥氢硼聚变商业化取得重大突破，2035 年前实现稳态大功率发电</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/850.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 28 日消息，鸿蒙智行旗下享界品牌首款 MPV—— 享界 V8 今日正式开启预订，官方预售价 32.98 万元起，现在下订可享价值 6000 元权益。新车定位家庭智慧旗舰 MPV，提供纯电与增程两种动力形式，全系标配 800V 高压平台和华为干昆智驾系统。享界 V8 纯电版搭载 120 kWh 超大电池，CLTC 工况续航最高达 830km，四驱版续航为 775km。增程版则搭载 1.5T 增程器，最大功率 118kW，提供 56kWh 与 75.4kWh 两种电池规格，WLTC 纯电续航分别为 260km、275km 和 339km，CLTC 综合续航超过 1400km。享界 V8 车身尺寸为 5335/2005/1805mm，轴距 3250mm，采用 2+2+3 七座布" data-title="32.98 万元起鸿蒙智行享界 V8 开启预订：全系 800V 高压平台 + 华为干昆智驾，纯电续航 830km" data-date="09-28 15:44" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:44</span>
+          <span class="news-item-title">32.98 万元起鸿蒙智行享界 V8 开启预订：全系 800V 高压平台 + 华为干昆智驾，纯电续航 830km</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/846.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 28 日消息，森海塞尔 MOMENTUM 5 头戴式耳机现已新增焦糖棕、薰衣草两种配色，定价均为 3299 元。京东森海塞尔 MOMENTUM5 头戴式耳机 3299 元直达链接IT之家从商品页面获悉，新品采用森海塞尔自主研发的 42 毫米动圈驱动单元，其灵感源自经久不衰的高保真 HD600 系列，搭配数十年的声学调校经验。新品兼容 SBC、AAC、aptX、aptX HD、aptX Adaptive 等主流编解码器，更搭载骁龙畅听 TT 技术，支持 aptX Lossless 编解码器，可以通过蓝牙实现 CD 品质的无损音频传输（16 bit/44.1kHz）。配合 Hi-Res 认证，支持无线高解析音频、杜比全景声空间音频。森海塞尔提升了 MOMENTUM5 无线耳机的" data-title="森海塞尔 MOMENTUM 5 头戴式耳机新增焦糖棕、薰衣草配色，3299 元" data-date="09-28 15:39" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:39</span>
+          <span class="news-item-title">森海塞尔 MOMENTUM 5 头戴式耳机新增焦糖棕、薰衣草配色，3299 元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704885.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="千里秦岭不再是天堑，南北烟火从此双向奔赴！" data-title="西康高铁开通！肉夹馍离重庆火锅不远啦！" data-date="09-28 15:32" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-28 00:01</span>
-          <span class="news-item-title">以技能之桥联通世界 第48届世界技能大赛闭幕</span>
+          <span class="news-item-date">09-28 15:32</span>
+          <span class="news-item-title">西康高铁开通！肉夹馍离重庆火锅不远啦！</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="英国反恐警察表示，这三名男子是在周日早些时候三辆可疑车辆似乎正前往费尔福德皇家空军基地（ R.A.F. Fairford ）后被捕的。" data-title="5名男子因涉嫌在美国使用的空军基地费尔福德皇家空军基地附近犯下恐怖主义罪行而被捕" data-date="09-27 23:19" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/007/841.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 28 日消息，极米 Z 系列投影仪新品今天在京东开启新品预约，价格暂未公布，预计将于 10 月 15 日 20:00 开售。京东极米 Z 系列 投影仪新品未公布立即预约据官方介绍，该投影仪主打“经典焕新”，相比此前产品全面升级。现阶段预约可享加赠芒果 TV 会员月卡。截至目前，极米暂未公布这款新品的详细信息，IT之家将持续关注，第一时间带来最新消息。" data-title="极米 Z 系列投影仪新品开启预约，预计 10 月 15 日开售" data-date="09-28 15:24" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:24</span>
+          <span class="news-item-title">极米 Z 系列投影仪新品开启预约，预计 10 月 15 日开售</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704863.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社圣保罗9月28日电 (记者 林春茵)当地时间27日，可纳千余人的巴西圣保罗保罗·奥特朗剧院座无虚席。“中巴文化年”中外经典歌剧选段音乐会在此间举行，来自中国中央歌剧院的音乐家们与巴西歌唱家联袂演出，以乐会友。" data-title="“中巴文化年”中外经典歌剧选段音乐会在圣保罗举行" data-date="09-28 15:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 15:21</span>
+          <span class="news-item-title">“中巴文化年”中外经典歌剧选段音乐会在圣保罗举行</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/28/world/europe/raf-fairford-incident-air-base-terrorism-uk.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Five men were arrested Sunday as they approached R.A.F. Fairford, a British installation used by the U.S. in its war against Iran. The men are being held on suspicion of terrorism." data-title="英国皇家空军费尔福德空军基地可能发生的恐怖阴谋：我们所知道的" data-date="09-28 15:20" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-27 23:19</span>
-          <span class="news-item-title">5名男子因涉嫌在美国使用的空军基地费尔福德皇家空军基地附近犯下恐怖主义罪行而被捕</span>
+          <span class="news-item-date">09-28 15:20</span>
+          <span class="news-item-title">英国皇家空军费尔福德空军基地可能发生的恐怖阴谋：我们所知道的</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-27/10704621.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社上海9月27日电 第48届世界技能大赛9月27日晚在上海闭幕，中国代表团获得41枚金牌、11枚银牌、4枚铜牌，6个优胜奖，第五次位居金牌榜和团体总分世界第一，创造了中国参加世界技能大赛以来的历史最好成绩。" data-title="中国蝉联世界技能大赛金牌榜榜首 创历史最好成绩" data-date="09-27 23:09" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704852.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="法治在线丨半分钟广告弹窗近20次 防不胜防的手机广告弹窗该如何治？" data-title="半分钟广告弹窗近20次 防不胜防的手机广告弹窗该如何治？" data-date="09-28 15:01" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 23:09</span>
-          <span class="news-item-title">中国蝉联世界技能大赛金牌榜榜首 创历史最好成绩</span>
+          <span class="news-item-date">09-28 15:01</span>
+          <span class="news-item-title">半分钟广告弹窗近20次 防不胜防的手机广告弹窗该如何治？</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-27/10704622.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网唐山9月27日电 (王夏菲)9月27日，第四届“长城之约”全球推广活动暨世界文化遗产对话在河北唐山迁安市启幕。来自国内外知名专家学者、摄影师围绕长城文化遗产保护与文明交流互鉴等内容进行了主旨演讲和对话交流。" data-title="第四届“长城之约”全球推广活动暨世界文化遗产对话在河北迁安举行" data-date="09-27 23:07" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704841.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海9月28日电 (记者 陈静)“我也想站到那个最高的世界舞台上，让大家看到中国男护士的力量和温度。”第48届世界技能大赛(下称：世赛)“健康和社会照护”项目金牌获得者——上海健康医学院2022级护理学专业本科生闵思达曾这样说。他真的做到了。" data-title="世赛金牌获得者闵思达：让世界看到中国男护士的力量和温度" data-date="09-28 14:46" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 23:07</span>
-          <span class="news-item-title">第四届“长城之约”全球推广活动暨世界文化遗产对话在河北迁安举行</span>
+          <span class="news-item-date">09-28 14:46</span>
+          <span class="news-item-title">世赛金牌获得者闵思达：让世界看到中国男护士的力量和温度</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/611.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 27 日消息，9 月 26 日，腾讯 FPS 游戏《三角洲行动》官宣联动国产武侠游戏《影之刃零》，敬请期待。《影之刃零》游戏确定于 10 月 29 日正式发售，各平台预购已经开放。游戏首发登陆 PS5、PS5 Pro，以及 Steam、Epic、WeGame、TapTap PC 平台。国区定价分为两档，数字标准版 268 元，数字豪华版 328 元，预购可获得专属游戏奖励。除此之外，灵游坊还提供了限量 20000 套的实体收藏版礼盒。参考IT之家此前报道，《影之刃零》采用虚幻 5 引擎开发，是一款暗黑武侠动作游戏。故事讲述主角只剩 66 天寿命，需在混乱的武林中追查阴谋。游戏提供 30 多款主武器，可搭配不同副武器，每把武器均有专属招式，兼顾新手与硬核玩家的游玩需求。" data-title="腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》" data-date="09-27 23:02" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-27 23:02</span>
-          <span class="news-item-title">腾讯《三角洲行动》官宣联动国产武侠游戏《影之刃零》</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-27/10704616.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="记者从第48届世界技能大赛闭幕式上获悉，中国选手何晓嫚在轨道车辆技术项目中以全场最高分荣获阿尔伯特·维达大奖，这也是我国第3次获得该奖项。该奖项在世界技能大赛中被誉为“冠军中的冠军”。" data-title="“冠军中的冠军”！中国选手何晓嫚获得阿尔伯特·维达大奖" data-date="09-27 22:56" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704846.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据国家移民管理局通报，今年中秋节假期全国边检机关共保障670.9万人次中外人员出入境，日均223.6万人次，较去年中秋节期间增长16.8%；单日出入境通关最高峰出现在9月26日，达234.2万人次。其中：" data-title="中秋节假期670.9万人次出入境" data-date="09-28 14:32" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 22:56</span>
-          <span class="news-item-title">“冠军中的冠军”！中国选手何晓嫚获得阿尔伯特·维达大奖</span>
+          <span class="news-item-date">09-28 14:32</span>
+          <span class="news-item-title">中秋节假期670.9万人次出入境</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/610.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 27 日消息，宝马集团官方宣布，第八代宝马 3 系将于 9 月 30 日迎来全球首发，新车将首次同时覆盖纯电和燃油动力。IT之家注意到，今年 8 月，宝马 BMW 3 系中国累计销量突破 200 万辆。宝马 3 系是宝马公司生产的中型豪华运动轿车，自 1975 年推出以来历经七代革新，全球累计销量超千万辆，被誉为品牌最具代表性的车型。2026 年 3 月 3 日，宝马集团宣布 2026 款宝马 3 系等马年版车型正式上市，售价 31.8 万元起。此前消息显示，宝马新 3 系在设计风格上仍会保留 Neue Klasse 时代的基本前脸，大灯和双肾格栅可能略有不同，该车继续使用升级后的 CLAR 平台。不过内饰预计会与 i3 和 iX3 保持高度一致，采用宝马最新的信息娱乐系统" data-title="第八代宝马 3 系 9 月 30 日全球首发，首次同时覆盖纯电和燃油动力" data-date="09-27 22:40" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-27 22:40</span>
-          <span class="news-item-title">第八代宝马 3 系 9 月 30 日全球首发，首次同时覆盖纯电和燃油动力</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity" target="_blank" rel="noopener" data-cat="zonghe" data-summary="一位嗜热者订购了一台特别版迷你电脑，配备24克拉纯金的被动式底盘，售价约为170万美元$。" data-title="定制24K金迷你电脑售价约170万$ ，重量近29磅，传热速度高达50%" data-date="09-27 22:40" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-27 22:40</span>
-          <span class="news-item-title">定制24K金迷你电脑售价约170万$ ，重量近29磅，传热速度高达50%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-27/10704613.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="第48届世界技能大赛于9月27日晚在上海闭幕，中国代表团获得41枚金牌、11枚银牌、4枚铜牌，6个优胜奖，第五次位居金牌榜和团体总分世界第一，创造了我国参加世界技能大赛以来的历史最好成绩。" data-title="41金11银4铜 中国创参加世界技能大赛最好成绩" data-date="09-27 22:27" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704840.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网广州9月28日电 (记者 王坚)广东省水利厅28日通报称，广东今年把“推动建设超100条(个)幸福河湖，超5个县(市、区)开展全域幸福河湖建设”列入广东省十件民生实事。截至目前，全省第一批16个县(市、区)全域幸福河湖建设实施方案已全部印发，106条(个)“母亲河”、骨干河湖幸福河湖开工建设，标志着广东省首批全域幸福河湖建设由蓝图绘制转入全面实施。" data-title="广东首批县（市、区）全域幸福河湖建设全面实施" data-date="09-28 14:29" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 22:27</span>
-          <span class="news-item-title">41金11银4铜 中国创参加世界技能大赛最好成绩</span>
+          <span class="news-item-date">09-28 14:29</span>
+          <span class="news-item-title">广东首批县（市、区）全域幸福河湖建设全面实施</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/608.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 27 日消息，近日，有一张带有爱奇艺播放界面的截图在网上流传，显示弹出“请勿眨眼”提示：“系统无法确定你眨眼时是否错过了广告。为确保广告完整播放，将从你上一次眨眼的位置重新开始。”IT之家注意到，今晚，爱奇艺公司官方发言人 @桃厂上线了 发文回应：“大过节的，别恶搞造谣了！”" data-title="爱奇艺回应网传“请勿眨眼”广告：大过节的，别恶搞造谣了" data-date="09-27 22:23" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-27 22:23</span>
-          <span class="news-item-title">爱奇艺回应网传“请勿眨眼”广告：大过节的，别恶搞造谣了</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/007/607.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 27 日消息，9 月 25 日，字节跳动旗下豆包手机助手发布声明称，从 9 月 24 日晚上开始陆续收到多条用户反馈，在搭载了豆包手机助手的努比亚 NaviX Ultra 上，登录《王者荣耀》或进行匹配对战时，会出现提示设备环境异常、被强制踢下线的情况。豆包手机助手在声明中提到，经过确认全程未对腾讯游戏系统进行任何操作，AI 也不存在任何违规点击、外挂或模拟行为。目前团队仍在持续与腾讯相关方接洽沟通，但截至目前暂未收到对方的明确回复。“对此我们深表歉意。同时，也建议用户暂时不要在努比亚 NaviX Ultra 上反复尝试登录《王者荣耀》。如果您的账号已经出现被封禁等情况，建议同步通过官方游戏客服渠道进行申诉 / 投诉，以便更快恢复账号。”声明提到。9 月 27 日，另有知情" data-title="“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整" data-date="09-27 21:57" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-27 21:57</span>
-          <span class="news-item-title">“第二代豆包手机”努比亚 NaviX Ultra 玩《王者荣耀》遭强制下线？知情人士称有安全风险策略保障游戏公平，未有任何针对性调整</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-27/10704601.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海9月27日电 (记者 许婧)27日晚间，在上海举办的第48届世界技能大赛(以下简称“世赛”)闭幕式上，中国“00后”选手李金泽摘得本届大赛全新设立的智慧安防技术项目金牌。" data-title="上海交大“00后”学生李金泽摘得第48届世界技能大赛智慧安防技术项目金牌" data-date="09-27 21:57" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704829.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海9月28日电(记者 高萌)现象级电视剧《繁花》不仅带火了海派文化，更作为优质国产IP走出国门。而伴随热度而来的，还有猖獗的跨境盗版乱象。面对一起零口供、高对抗的《繁花》等影视作品跨境盗版案件，检察机关是如何击碎犯罪分子逍遥法外幻想的？" data-title="《繁花》等影视作品跨境盗版案背后：检察护航文化出海" data-date="09-28 13:55" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 21:57</span>
-          <span class="news-item-title">上海交大“00后”学生李金泽摘得第48届世界技能大赛智慧安防技术项目金牌</span>
+          <span class="news-item-date">09-28 13:55</span>
+          <span class="news-item-title">《繁花》等影视作品跨境盗版案背后：检察护航文化出海</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-27/10704607.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网晋中9月27日电 题：山西和顺深耕月饼非遗技艺 传统美食创新拓宽市场" data-title="山西和顺深耕月饼非遗技艺 传统美食创新拓宽市场" data-date="09-27 21:55" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-28/10704817.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网昌吉9月28日电 题：天山小院里一个社区自助养老院的母女“接力”" data-title="天山小院里 一个社区自助养老院的母女“接力”" data-date="09-28 13:49" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 21:55</span>
-          <span class="news-item-title">山西和顺深耕月饼非遗技艺 传统美食创新拓宽市场</span>
+          <span class="news-item-date">09-28 13:49</span>
+          <span class="news-item-title">天山小院里 一个社区自助养老院的母女“接力”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-27/10704603.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网丽水9月27日电(胡丰盛)中秋月圆，浙江丽水瓯江畔的古堰画乡热闹非凡。鱼灯踩街、丞相派月、音乐嘉年华轮番登场，白天是流动的国风画卷，夜晚是山水间的音乐现场。" data-title="宋韵中秋夜 浙江古镇“新中式”赏月消费观察" data-date="09-27 21:55" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704816.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网郑州9月28日电 (刘鹏 杨震) 中国铁路郑州局集团有限公司(以下简称“国铁集团郑州局”)28日消息，9月25日至27日，中秋假期3天，国铁集团郑州局累计加开临客列车210列，发送旅客202.7万人次。" data-title="国铁郑州局中秋假期累计加开临客210列 发送旅客超202万人次" data-date="09-28 13:48" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 21:55</span>
-          <span class="news-item-title">宋韵中秋夜 浙江古镇“新中式”赏月消费观察</span>
+          <span class="news-item-date">09-28 13:48</span>
+          <span class="news-item-title">国铁郑州局中秋假期累计加开临客210列 发送旅客超202万人次</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/power-supplies/gigabyte-1000gm-pg5-1000w-power-supply-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Gigabyte的新游戏系列旗舰产品Gigabyte 1000GM PG5 1000W将12V-2x6连接器的HEC构建平台与全日本电容器、铂金级效率和T-Guard热保护配对。" data-title="技嘉1000GM PG5 1000W电源评论：具有T-Guard热保护的令人印象深刻的铂金级效率" data-date="09-27 21:00" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crgjq913xgxgo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="声称入侵美国联邦调查局（FBI）的网络罪犯表示，他们掌握数以千计特工极为敏感的医疗资料。现任及前任特工向BBC讲述事件带来的毁灭性影响。" data-title="FBI遭黑客入侵起底 特工们的恐惧与愤怒" data-date="09-28 13:45" data-source="BBC">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-27 21:00</span>
-          <span class="news-item-title">技嘉1000GM PG5 1000W电源评论：具有T-Guard热保护的令人印象深刻的铂金级效率</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-28 13:45</span>
+          <span class="news-item-title">FBI遭黑客入侵起底 特工们的恐惧与愤怒</span>
         </a>
   </div>
 </div>
@@ -549,4 +549,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-09-28 01:06（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-28 15:49（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

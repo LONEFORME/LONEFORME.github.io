@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,888.37</span>
-      <span class="ticker-change down">▼ -1.22%</span>
+      <span class="ticker-price ticker-down">3,823.62</span>
+      <span class="ticker-change down">▼ -1.67%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">13,316.97</span>
-      <span class="ticker-change down">▼ -2.34%</span>
+      <span class="ticker-price ticker-down">12,858.75</span>
+      <span class="ticker-change down">▼ -3.44%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,288.95</span>
-      <span class="ticker-change down">▼ -2.68%</span>
+      <span class="ticker-price ticker-down">3,139.82</span>
+      <span class="ticker-change down">▼ -4.53%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,621.87</span>
-      <span class="ticker-change down">▼ -2.35%</span>
+      <span class="ticker-price ticker-down">1,555.98</span>
+      <span class="ticker-change down">▼ -4.06%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,311.78</span>
-      <span class="ticker-change down">▼ -1.13%</span>
+      <span class="ticker-price ticker-down">4,298.29</span>
+      <span class="ticker-change down">▼ -0.31%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7227</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.7158</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,285.12 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +11.36 (+0.27%)</span>
+      <span class="ticker-price ticker-down">$4,152.61 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -132.51 (-3.09%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥926.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -7.30 (-0.78%)</span>
+      <span class="ticker-price ticker-down">¥900.35 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -25.45 (-2.75%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+40.9 亿</span>
+      <span class="sector-flow-badge">+19.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+43.1 亿</span>
+      <span class="sector-flow-badge">+20.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+53.3 亿</span>
+      <span class="sector-flow-badge">+38.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+22.9 亿</span>
+      <span class="sector-flow-badge">+22.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/007/847.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 28 日消息，在今日举行的智界 RX 及鸿蒙智行新品发布会上，智界 R7 焕新款上市，新车号称 5 亿投资升级，拥有 8 项重大更新，23.98 万元起：智界 R7 Max 版：23.98 万元智界 R7 Max+ 版：25.98 万元智界 R7 Max+ 长续航版：28.98 万元智界 R7 Ultra 版：31.98 万元尺寸方面，新车长宽高分别为 4982/1981/1634（1650）mm，轴距为 2950mm；采用全新的半隐藏式门把手。IT之家注意到，智界 R7 焕新款延续了家族化设计语言，依然采用标志性的星环式贯穿灯组；车顶配备了华为的 896 线双光路图像级激光雷达，新增了钛空银和星玫粉全新车色。智界 R7 焕新款搭载鸿蒙 ALPS 健康座舱，提供星云红、羽砂" data-title="鸿蒙智行智界 R7 焕新款上市，23.98 万元起" data-date="09-28 15:40" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:40</span>
+          <span class="news-item-title">鸿蒙智行智界 R7 焕新款上市，23.98 万元起</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/007/843.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 28 日消息，鸿蒙智行智界汽车官方刚刚宣布，智界 R7 轿跑 SUV 累计交付已突破 12 万辆。智界 RX 及鸿蒙智行新品发布会正在进行中。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正在介绍智界 R7 焕新款，新车号称 5 亿投资升级，拥有 8 项重大更新。据IT之家了解，智界 R7 焕新款纯电续航至高 855km，拥有羽砂紫、全新星云红内饰色；主驾搭载 26 英寸超高清 HUD、流媒体内后视镜；前配备双 17.2 英寸蝶羽双联屏；支持华为干昆智驾 ADS 5。" data-title="鸿蒙智行智界 R7 轿跑 SUV 累计交付突破 12 万辆" data-date="09-28 15:31" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-28 15:31</span>
+          <span class="news-item-title">鸿蒙智行智界 R7 轿跑 SUV 累计交付突破 12 万辆</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10704847.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="工业和信息化部等七部门近日印发《新型电池产业发展“十五五”规划》。" data-title="新型电池产业发展“十五五”规划发布" data-date="09-28 14:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-28 14:35</span>
+          <span class="news-item-title">新型电池产业发展“十五五”规划发布</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/28/nyregion/tom-kean-jr-rebecca-bennett-debate-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在与民主党人丽贝卡·贝内特（ Rebecca Bennett ）的辩论中，这位新泽西州共和党人表示，他愿意就哈德逊河隧道项目的资金问题接受总统。" data-title="Tom Kean Jr.在伊朗和关税问题上支持特朗普，如果不是地方问题" data-date="09-28 12:31" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-28 12:31</span>
+          <span class="news-item-title">Tom Kean Jr.在伊朗和关税问题上支持特朗普，如果不是地方问题</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/007/606.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 27 日消息，世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量件完工暨发运仪式今日在国机重装德阳基地举行。IT之家注：可控核聚变被称为人类终极能源，被誉为“人造太阳”。BEST 装置肩负填补从“实验堆”到“示范堆”工程化空白的重大使命。TF 线圈盒是超导磁体系统核心部件，要在超低温、超强磁场、极高应力下长期运行，对制造材料要求极高。官方表示，该批 TF 线圈盒投入使用后，将服务于紧凑型聚变能实验装置 BEST 建设，助力国家可控核聚变战略实施，推动相关产业链完善与升级。延伸阅读据中国科学院公布的研究计划，BEST 全称为紧凑型聚变能实验装置，建设地点位于安徽合肥未来大科学城，计划于 2027 年底建成，此后开展氘氚燃烧等离子体实验，目标聚变功率达到 20 兆瓦至 2" data-title="助力我国可控核聚变战略实施，世界首个紧凑型聚变能实验装置 BEST TF 线圈盒批量交付" data-date="09-27 21:45" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -256,18 +280,6 @@ title: 股票财经
           <span class="news-item-date">09-27 18:56</span>
           <span class="news-item-title">直播海报：国新办就落实“十五五”规划，推动中央企业高质量发展情况举行新闻发布会</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-27/10704403.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月27日电 据英国广播公司(BBC)报道，当地时间26日，美国总统特朗普拒绝了伊朗提出的在一周内重新开放霍尔木兹海峡供商业航运的提议。" data-title="特朗普拒绝了伊朗提出的七天内重新开放霍尔木兹海峡的协议" data-date="09-27 13:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-27 13:21</span>
-          <span class="news-item-title">特朗普拒绝了伊朗提出的七天内重新开放霍尔木兹海峡的协议</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国的经济和科技发展迅猛，但也有很多令Z世代担忧的事情。" data-title="中国年轻人的“学术偶像”项飙：他读懂了一代人的焦虑" data-date="09-27 09:35" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-27 09:35</span>
-          <span class="news-item-title">中国年轻人的“学术偶像”项飙：他读懂了一代人的焦虑</span>
-        </a>
   </div>
 </div>
 
@@ -281,4 +293,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-28 01:06（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-28 15:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
