@@ -1,0 +1,1042 @@
+[
+  {
+    "title": "OpenAI推出了与ChatGPT自己的办公套件非常相似的功能，与微软展开竞争",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "date": "2026-09-30",
+    "published_time": "01:45",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI新推出的办公功能套件使其与更传统的软件公司直接竞争。",
+    "published_dt_iso": "2026-09-30T01:45:51+08:00"
+  },
+  {
+    "title": "人工智能应用程序制造商Wabi转向消息传递体验",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "date": "2026-09-30",
+    "published_time": "01:20",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Wabi正在将其基于提示的应用构建器重新定位为个人AI代理，该代理可以根据需要创建界面，将聊天、应用和正在进行的任务结合起来。",
+    "published_dt_iso": "2026-09-30T01:20:00+08:00"
+  },
+  {
+    "title": "OpenAI推出冒泡特工头像Dots",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "date": "2026-09-30",
+    "published_time": "01:17",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "DOT旨在独立于任何特定硬件或接口运行，以最少的监督在后台持续追求用户定义的目标。",
+    "published_dt_iso": "2026-09-30T01:17:15+08:00"
+  },
+  {
+    "title": "OpenAI通过类似应用程序的界面和自动化扩展了ChatGPT的插件",
+    "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+    "date": "2026-09-30",
+    "published_time": "01:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI正在扩展ChatGPT插件，包括专用侧边栏主页、交互式面板、文件查看器、改进的发现以及对自动化的支持。",
+    "published_dt_iso": "2026-09-30T01:15:00+08:00"
+  },
+  {
+    "title": "OpenAI推出GPT-6.1 Sol ，称其几乎与GPT-6 Astra相匹配，成本更低",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+    "date": "2026-09-30",
+    "published_time": "01:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI表示， GPT-6.1 SOL在复杂的专业任务方面比GPT-6 SOL有显著改进，包括代码编写和调试、文档理解以及执行多步骤业务工作流程。",
+    "published_dt_iso": "2026-09-30T01:15:00+08:00"
+  },
+  {
+    "title": "OpenAI为Codex提供了跨设备工作的可重用云环境",
+    "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+    "date": "2026-09-30",
+    "published_time": "01:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI正在通过可重用的云开发环境、经过改进的语音控制CLI、新的代码审查工具以及用于扫描存储库和准备修复程序的以安全为重点的产品来扩展Codex。",
+    "published_dt_iso": "2026-09-30T01:15:00+08:00"
+  },
+  {
+    "title": "聊天机器人可以修复政府迷宫吗？白宫即将发现",
+    "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+    "date": "2026-09-30",
+    "published_time": "00:55",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "America.gov旨在简化政府官僚机构的导航过程，但语言模型不完善，仍然容易产生幻觉，这可能会导致新的问题。",
+    "published_dt_iso": "2026-09-30T00:55:56+08:00"
+  },
+  {
+    "title": "Instinct创始人表示，平台上超过50%的交易是旅行",
+    "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+    "date": "2026-09-29",
+    "published_time": "23:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Instinct创始人表示，该平台每天都在增长10% ，交易量以类似的速度增长。",
+    "published_dt_iso": "2026-09-29T23:12:07+08:00"
+  },
+  {
+    "title": "尽管Zotac提供三年保修期，但仅一年后就拒绝为印度的RTX 3060所有者提供保修支持",
+    "link": "https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date",
+    "date": "2026-09-29",
+    "published_time": "23:17",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "尽管Zotac在印度提供三年标准保修，但印度Zotac RTX 3060的所有者在2025年购买该卡后仅一年就被拒绝保修。该公司声称，保修从进口日期开始，而不是销售日期，并且该卡是在2023年进口的。",
+    "published_dt_iso": "2026-09-29T23:17:35+08:00"
+  },
+  {
+    "title": "以有史以来最低的亚马逊英国价格获得Nintendo Switch 2 ，现在仅需£ 354.99",
+    "link": "https://www.tomshardware.com/video-games/nintendo/score-the-nintendo-switch-2-at-its-lowest-ever-amazon-uk-price-now-just-gbp354-99-pocket-a-gbp65-discount-on-nintendos-portable-gaming-console-with-a-7-9-inch-1080p-screen-4k-dock-and-magnetic-controllers",
+    "date": "2026-09-29",
+    "published_time": "23:11",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Nintendo Switch 2现在在英国亚马逊上处于创纪录的低价，仅为354.99 £。",
+    "published_dt_iso": "2026-09-29T23:11:18+08:00"
+  },
+  {
+    "title": "在伊朗和朝鲜国家行为体以及与俄罗斯有关的团体的推动下，区块链辅助网络攻击激增了五倍",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks",
+    "date": "2026-09-29",
+    "published_time": "22:10",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "一份新的报告称，区块链的死掉攻击增加了440% ，与国家相关的犯罪集团使用交易、智能合约，甚至是虚拟钱包来隐藏公共区块链上的恶意软件有效负载和C2基础设施。",
+    "published_dt_iso": "2026-09-29T22:10:00+08:00"
+  },
+  {
+    "title": "Anthropic在IPO招股说明书中将“人类生存风险”列为其风险因素之一",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut",
+    "date": "2026-09-29",
+    "published_time": "21:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Anthropic在其IPO招股说明书中发出了可怕的警告，称流氓模式可能导致人类的终结，从而导致其业务的终结。尽管如此，投资者仍然希望公司上市后估值达到2万$。",
+    "published_dt_iso": "2026-09-29T21:30:00+08:00"
+  },
+  {
+    "title": "我们测试了13个充电宝，帮助您选择最佳充电宝",
+    "link": "https://www.tomshardware.com/peripherals/usb/we-tested-13-power-banks-to-help-you-choose-the-best-one-from-10-25k-mah-and-20-220w",
+    "date": "2026-09-29",
+    "published_time": "21:10",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "我们测试了来自Anker、Belkin、Baseus、Cuktech和Sharge的13个移动电源，跟踪充电时间、输出、温度和容量，以查看哪些实际支持。",
+    "published_dt_iso": "2026-09-29T21:10:00+08:00"
+  },
+  {
+    "title": "Silicon开始设计硅--人工智能在芯片制造中的应用，从EDA工具到OpenAI的Jalapeño等等",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond",
+    "date": "2026-09-29",
+    "published_time": "20:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "人工智能与设计其运行的相同芯片有多接近？我们探讨了人工智能如何在当今的现代芯片设计中使用。",
+    "published_dt_iso": "2026-09-29T20:40:00+08:00"
+  },
+  {
+    "title": "购买全新经济型游戏键盘，立省40%",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/save-40-percent-on-a-new-budget-gaming-keyboard-steelseries-apex-3-is-just-usd29-in-woot-deal",
+    "date": "2026-09-29",
+    "published_time": "20:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在Woot购买这款SteelSeries Apex 3游戏键盘可节省40 ％",
+    "published_dt_iso": "2026-09-29T20:20:00+08:00"
+  },
+  {
+    "title": "随着发布的临近，英特尔的下一代Nova Lake平台通过USB和PCIe标准机构的合规性认证",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-platforms-pass-compliance-at-pci-sig-usb-if-as-launch-looms",
+    "date": "2026-09-29",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "英特尔正在为Core Ultra 400系列“Nova Lake”平台的发布做准备，因为CPU和芯片组通过了与PCI-SIG和USB-IF的互操作性和合规性测试。",
+    "published_dt_iso": "2026-09-29T20:00:00+08:00"
+  },
+  {
+    "title": "你叔叔的冰冻Mac说它在观看谷歌广告后感染了。现在怎么办？",
+    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "date": "2026-09-26",
+    "published_time": "03:38",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "互联网上出现的广告试图欺骗人们。",
+    "published_dt_iso": "2026-09-26T03:38:59+08:00"
+  },
+  {
+    "title": "有一种打破RSA的新方法，比我们以前见过的任何方法都要快",
+    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-24",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "到目前为止，密码学家认为保理是破坏RSA的唯一方法。现在不是了。",
+    "published_dt_iso": "2026-09-24T19:15:44+08:00"
+  },
+  {
+    "title": "微软颠覆了人工智能辅助平台，该平台入侵了12,000个账户",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "date": "2026-09-23",
+    "published_time": "03:45",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "EvilTokens提供了一个端到端的平台，使大规模妥协更快、更容易。",
+    "published_dt_iso": "2026-09-23T03:45:47+08:00"
+  },
+  {
+    "title": "IT错误抹去了11年的医院产科记录查看历史记录",
+    "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+    "date": "2026-09-23",
+    "published_time": "00:55",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "英国医院仅恢复患者护理数据。",
+    "published_dt_iso": "2026-09-23T00:55:40+08:00"
+  },
+  {
+    "title": "Muse ， Meta的超级特权AI助手，有一个严重的0",
+    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "date": "2026-09-22",
+    "published_time": "06:24",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "简单的ClickFix攻击只是完全劫持新代理的一种方法。",
+    "published_dt_iso": "2026-09-22T06:24:38+08:00"
+  },
+  {
+    "title": "一名卧底谷歌分析师渗透了一个臭名昭著的供应",
+    "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "date": "2026-09-20",
+    "published_time": "19:07",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "谷歌的威胁情报小组表示，它在TeamPCP的内部圈子里有一名间谍。",
+    "published_dt_iso": "2026-09-20T19:07:00+08:00"
+  },
+  {
+    "title": "使用AI水印时， LLM对有害提示的反应不同",
+    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "date": "2026-09-18",
+    "published_time": "02:33",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "SynthID可能会导致模型遵循否则会拒绝的有害指令。",
+    "published_dt_iso": "2026-09-18T02:33:13+08:00"
+  },
+  {
+    "title": "追踪因网络攻击而遭受“严重打击”的流星的非营利组织",
+    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+    "date": "2026-09-17",
+    "published_time": "05:08",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "集团计划在几周内基本停止运营。",
+    "published_dt_iso": "2026-09-17T05:08:14+08:00"
+  },
+  {
+    "title": "人工智能研究人员发布视频称超级智能“与听起来一样危险”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "date": "2026-09-30",
+    "published_time": "01:35",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "“在我看来，人类灭绝的可能性是抛硬币，”前OpenAI和谷歌DeepMind员工杰弗里·欧文(Geoffrey Irving)在一次新的采访中说。这是对人工智能研究人员的十几次采访之一，其中包括OpenAI、Google和Anthropic的现任和前任员工。Palisade Research表示，这是一个研究AI的非营利组织[…]",
+    "published_dt_iso": "2026-09-30T01:35:03+08:00"
+  },
+  {
+    "title": "雷蛇的低延迟无线游戏键盘几乎半价",
+    "link": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
+    "date": "2026-09-30",
+    "published_time": "01:19",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Woot的Razer DeathStalker V2 Pro TKL以130 $的价格出售，比通常的219.99 $的价格低很多。这款键盘专为竞争性游戏而设计，具有低延迟2.4GHz无线连接，以及低配置线性光学开关，可实现比常规机械开关更轻触摸的快速激活。TKL布局[…]",
+    "published_dt_iso": "2026-09-30T01:19:07+08:00"
+  },
+  {
+    "title": "OpenAI推出Muse竞争对手Dots",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "date": "2026-09-30",
+    "published_time": "01:15",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "OpenAI正在用自己的代理助手Dots来回应Meta的热门Muse AI。在周二的DevDay主题演讲中， OpenAI宣布Dots将担任始终在线的人工智能助手，可以在后台跨连接的应用程序“做几乎任何事情” ，同时随着时间的推移了解您的偏好。该公司强大的GPT-6 Astra型号[…]",
+    "published_dt_iso": "2026-09-30T01:15:00+08:00"
+  },
+  {
+    "title": "抗议者聚集在OpenAI的开发日",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+    "date": "2026-09-30",
+    "published_time": "01:12",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "周二， OpenAI的年度DevDay活动以抗议、传单和圣歌开始。“山姆·奥尔特曼，下车吧，把人们置于利润之上，”一群抗议者在一系列标语前围成一圈，标语上写着“人们置于利润之上”。“十几个组织聚集在一起，赞助了外面的集会[…]",
+    "published_dt_iso": "2026-09-30T01:12:27+08:00"
+  },
+  {
+    "title": "Xbox的神话成就在这里，它们就像PlayStation Platinum奖杯一样",
+    "link": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+    "date": "2026-09-30",
+    "published_time": "00:17",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "微软今天正式宣布其新的Xbox神话成就，它们已经可供Xbox预览体验者测试。神话成就与索尼的PlayStation白金奖杯非常相似，一旦您获得游戏的所有原始成就，即可解锁。“神话成就已添加到您过去完成的合格游戏中， […]",
+    "published_dt_iso": "2026-09-30T00:17:01+08:00"
+  },
+  {
+    "title": "苹果新任首席执行官在推出手机和笔记本电脑时可能会发生变化",
+    "link": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+    "date": "2026-09-30",
+    "published_time": "00:09",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "根据彭博社的一份报告，苹果新任首席执行官约翰·特纳斯（ John Ternus ）希望苹果在秋季和春季推出产品的频率高于其通常的引人注目的时刻，该报告详细介绍了特纳斯对公司的一些初步计划。苹果公司定期在9月份举办iPhone发布会，并经常在今年晚些时候和[…]宣布产品。",
+    "published_dt_iso": "2026-09-30T00:09:44+08:00"
+  },
+  {
+    "title": "OpenAI DevDay 2026 ：最大的新闻和公告",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+    "date": "2026-09-30",
+    "published_time": "00:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "秋季科技活动日历轮到OpenAI了。该公司将于9月29日在旧金山举办年度DevDay ，首先是首席执行官Sam Altman的现场主题演讲。该公司正在取笑“20多次发布” ，奥特曼说“我们发现了一个新东西” ，有传言称它可能会推出一个消费者[…]",
+    "published_dt_iso": "2026-09-30T00:00:00+08:00"
+  },
+  {
+    "title": "这可能是我们第一次看到谷歌的Pixel 11A",
+    "link": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
+    "date": "2026-09-29",
+    "published_time": "23:57",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "从Android Headlines共享的漏洞来看，谷歌并未对其即将推出的中端Pixel更新进行任何重大设计更改。OnLeaks制作的图像渲染可能是我们第一次看到Pixel 11A ，它除了有一个稍微圆润的椭圆形后置摄像头模块外，看起来几乎与Pixel 10A […]",
+    "published_dt_iso": "2026-09-29T23:57:10+08:00"
+  },
+  {
+    "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+    "link": "https://www.qbitai.com/2026/09/499239.html",
+    "date": "2026-09-29",
+    "published_time": "18:56",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+    "published_dt_iso": "2026-09-29T18:56:33+08:00"
+  },
+  {
+    "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest",
+    "link": "https://www.qbitai.com/2026/09/499188.html",
+    "date": "2026-09-29",
+    "published_time": "15:59",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-29T15:59:46+08:00"
+  },
+  {
+    "title": "OpenAI因新模型太强叫停发布",
+    "link": "https://www.qbitai.com/2026/09/499140.html",
+    "date": "2026-09-29",
+    "published_time": "15:49",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "AGI计划暂停。",
+    "published_dt_iso": "2026-09-29T15:49:20+08:00"
+  },
+  {
+    "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+    "link": "https://www.qbitai.com/2026/09/499135.html",
+    "date": "2026-09-29",
+    "published_time": "15:10",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "诺因从Demo走向家庭",
+    "published_dt_iso": "2026-09-29T15:10:59+08:00"
+  },
+  {
+    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+    "link": "https://www.qbitai.com/2026/09/499098.html",
+    "date": "2026-09-29",
+    "published_time": "08:49",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "李飞飞将入职AMD首席科学家",
+    "published_dt_iso": "2026-09-29T08:49:30+08:00"
+  },
+  {
+    "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+    "link": "https://www.qbitai.com/2026/09/498877.html",
+    "date": "2026-09-28",
+    "published_time": "20:43",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+    "published_dt_iso": "2026-09-28T20:43:53+08:00"
+  },
+  {
+    "title": "HC归来，华为正重新定义AIDC基础设施",
+    "link": "https://www.qbitai.com/2026/09/498787.html",
+    "date": "2026-09-28",
+    "published_time": "19:18",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "AI基础设施下一站：算电协同",
+    "published_dt_iso": "2026-09-28T19:18:27+08:00"
+  },
+  {
+    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+    "link": "https://www.qbitai.com/2026/09/498633.html",
+    "date": "2026-09-27",
+    "published_time": "22:20",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-27T22:20:35+08:00"
+  },
+  {
+    "title": "OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化",
+    "link": "https://www.ithome.com/1/008/528.htm",
+    "date": "2026-09-30",
+    "published_time": "02:08",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布升级插件扩展。借助插件扩展，开发者可以直接在 ChatGPT 中构建丰富的应用内体验。现在，用户可以为插件在侧边栏中设置专属入口，构建可供用户一边对话一边工作的交互面板，或为产品支持的文件类型创建查看器。此外，插件创建工具可以帮助开发者构建插件，重新设计的提交流程则提供更清晰的反馈。OpenAI 还在改进插件目录和对话中的插件排序与推荐方式，帮助用户找到相关插件。用户始终可以自主选择使用哪些插件，并逐一批准其访问权限。现在，用户可以将受支持的 ChatGPT 插件接入自己构建的站点，让工作空间中的团队成员凭各自的权限登录同一应用，并使用各自连接的数据",
+    "published_dt_iso": "2026-09-30T02:08:00+08:00"
+  },
+  {
+    "title": "同性能下最高性价比 AI 模型：OpenAI 发布 GPT-6.1 Sol，性能媲美 Astra、费用仅为 1/5",
+    "link": "https://www.ithome.com/1/008/527.htm",
+    "date": "2026-09-30",
+    "published_time": "02:06",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者活动日中，官方正式宣布推出 GPT-6.1 Sol 模型，在性能接近 Astra 的同时，其费用仅为 Astra 的五分之一，官方称这是“在目前同等性能下性价比最高的模型”。GPT‑6 Astra 是 OpenAI 在 2026 年 9 月推出的旗舰级大语言模型，官方定位是“迄今最智能、最对齐（最符合人类意图）”的模型，重点面向长程多步骤任务与专业工作流。费用方面，根据官网公布的费用细节，IT之家附上相关售价信息如下：gpt-6.1-sol 全模式定价表（短上下文，输入 tokens ≤ 272,000）模式输入 (Input)缓存输入 (Cached input)缓存写入 (Cache writes)输出 (Output)S",
+    "published_dt_iso": "2026-09-30T02:06:51+08:00"
+  },
+  {
+    "title": "OpenAI Codex CLI 升级支持语音对话，更新终端界面",
+    "link": "https://www.ithome.com/1/008/526.htm",
+    "date": "2026-09-30",
+    "published_time": "01:56",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布 Codex CLI 迎来焕新升级。Codex CLI 现已支持语音对话，用户可以直接与 Codex 对话来启动任务并引导任务推进。借助全新的 /agents 视图，用户可以将工作分配给多个智能体，并轻松跟踪多项任务的进度。OpenAI 还改进了日常工作流程，包括编辑提示词、恢复会话以及新增内置工作树支持，同时更新了终端界面，让界面更简洁、长会话更易读。IT之家获悉，本次更新适用于所有套餐。",
+    "published_dt_iso": "2026-09-30T01:56:00+08:00"
+  },
+  {
+    "title": "OpenAI 推出每月 500 美元的 Pro 套餐，专享 Astra Ultrafast 最快模型",
+    "link": "https://www.ithome.com/1/008/525.htm",
+    "date": "2026-09-30",
+    "published_time": "01:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布为了满足更高的构建需求，推出每月 500 美元（IT之家注：现汇率约合 3,361 元人民币）的 Pro 套餐。Pro 500 套餐可提供最高用量限额，还可专享 Astra Ultrafast —— OpenAI 速度最快的前沿模型。在“ChatGPT 工作”和 Codex 中，其速度最高可达标准版 Astra 的 8 倍。此外，Pro 200 套餐也再次对新订阅开放。需要注意的是，在 Pro 套餐中，Ultrafast 仅支持 Pro 500 套餐。",
+    "published_dt_iso": "2026-09-30T01:44:59+08:00"
+  },
+  {
+    "title": "最高每秒 300 个词元：OpenAI 推出 GPT‑6 Astra Ultrafast 服务",
+    "link": "https://www.ithome.com/1/008/524.htm",
+    "date": "2026-09-30",
+    "published_time": "01:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，在今天召开的 2026 年 OpenAI 开发者日活动日中，官方推出 Ultrafast 全新服务层级，在 Codex 中可提供最高 8 倍词元（Token）生成速度，在 API 调用时最高可以实现 6 倍生成速度。API 调用费用方面，IT之家查询官方信息，附上售价如下：模型价格类型短上下文（输入＜ 272K Token）长上下文（输入＞ 272K Token）gpt-6-astra输入（Input）$60.00 / 1M tokens$120.00 / 1M tokensgpt-6-astra缓存输入（Cached input）$6.00 / 1M tokens$12.00 / 1M tokensgpt-6-astra缓存写入（Cache writes）$",
+    "published_dt_iso": "2026-09-30T01:43:14+08:00"
+  },
+  {
+    "title": "OpenAI 发布 dots 全天候智能助理：可爱卡通形象，Astra 模型加持",
+    "link": "https://www.ithome.com/1/008/523.htm",
+    "date": "2026-09-30",
+    "published_time": "01:23",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 发布了 dots。dots 是一个全天候在线的智能体，采用四个可爱的卡通形象，可以帮助用户规划议程、设计网站、测试应用、修改笔记等。此外，它会随着时间的推移逐渐了解用户的工作习惯，以及用户想要将注意力集中在哪些方面。它能够查看夜间收到的信息，并在早晨开始一天的工作之前，将所有紧急事项及时通知用户。dots 还可以帮用户处理生活中的小事，比如订机票、晚餐时间，或者用户一直拖着没做的家装；用户也可以和 dots 语音打电话聊天。根据 OpenAI 官方说法，dots 还可与 ChatGPT 平台上的 4,000 多款应用协同工作。当用户将设备接入系统时，它将",
+    "published_dt_iso": "2026-09-30T01:23:22+08:00"
+  },
+  {
+    "title": "OpenAI 在 Codex 上线 GPT-6.1 Sol 模型：性能接近 Astra，价格仅为 1/5",
+    "link": "https://www.ithome.com/1/008/522.htm",
+    "date": "2026-09-30",
+    "published_time": "01:20",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者日活动中，官方在 Codex 和 ChatGPT Work 中推出 GPT 6.1 Sol 模型，官方表示：“GPT-6.1 Sol 在处理复杂任务时，性能接近 Astra，但成本低于 Astra。”IT之家翻译官方介绍如下：GPT-6.1 Sol 在处理复杂任务时，性能接近 Astra，但成本低于 Astra。它适用于代码、应用程序和文档中重复性、长时间运行的任务。可用性取决于您的套餐、客户端和工作区设置。定价方面，根据 @LuminaBench 透露信息：每 100 万 tokens 输入费用为 2 美元（IT之家注：现汇率约合 13.4 元人民币），每 100 万 tokens 缓存输入费用为 0.1 美元（现汇率约合 ",
+    "published_dt_iso": "2026-09-30T01:20:45+08:00"
+  },
+  {
+    "title": "微信鸿蒙版 App 获 8.0.22.35 尝鲜升级，修复了一些已知问题",
+    "link": "https://www.ithome.com/1/008/517.htm",
+    "date": "2026-09-29",
+    "published_time": "23:39",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，继 8.0.22.34 之后，微信鸿蒙版 App 在华为应用市场（App Gallery）紧接着开启了 8.0.22.35 (8394275) 版本尝鲜升级，测试时间为 2026/9/29-2026/10/29。微信鸿蒙版 App 尝鲜可能量少，有需要的朋友可通过应用市场-我的-应用尝鲜-点击搜索框搜索。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。IT之家附网友 @伤心萨摩耶 和 MeoW 整理的最新版本已知灰度测试内容（不绑定版本号）：微信鸿蒙版 8.0.22 版本新发现内容：1.个人资料新增我的发票抬头；2.聊天界面支持点击时间切换日期、星期、时间显示；3.服务号主页-设置-通知消息管理新增“接收私信时，以重要通知的方式提醒我”开关；4.朋友资",
+    "published_dt_iso": "2026-09-29T23:39:40+08:00"
+  },
+  {
+    "title": "曼城的故事和115项指控",
+    "link": "https://www.bbc.co.uk/sport/extra/x3s96hvhqb/the-story-of-manchester-city-and-115-charges?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "08:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "这是英超历史上最大的纪律处分案件。在这里，我们将曼城的现场努力与他们所谓的不法行为拼凑在一起。",
+    "published_dt_iso": "2026-09-29T08:00:00+08:00"
+  },
+  {
+    "title": "曼城首席执行官对英超联赛指控的反抗",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "02:53",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC Sport获悉，曼城首席执行官Ferran Soriano向其他球队的高管发出了一个挑衅的信息，即该俱乐部被判犯有大部分英超联赛指控。",
+    "published_dt_iso": "2026-09-29T02:53:30+08:00"
+  },
+  {
+    "title": "利物浦日益增加的全球青年投资",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6e3077kkde3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "15:19",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "利物浦在寻找全球青年人才方面变得越来越积极主动。英国广播公司体育频道（ BBC Sport ）近距离观看。",
+    "published_dt_iso": "2026-09-29T15:19:52+08:00"
+  },
+  {
+    "title": "英超联赛控球比赛即将结束吗？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmn45n5d8wq7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "published_time": "14:10",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "在比赛中控球率超过60%的球队中，只有36%的球队在本赛季赢得了英超联赛的冠军。BBC Sport着眼于为什么会发生这种情况。",
+    "published_dt_iso": "2026-09-28T14:10:34+08:00"
+  },
+  {
+    "title": "曼城统治后英超联赛的四个“下一步是什么？”场景",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "01:37",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "花了两年多的时间，但似乎终于对针对曼城的115项指控做出了判决。以下是它的含义。",
+    "published_dt_iso": "2026-09-30T01:37:54+08:00"
+  },
+  {
+    "title": "曼城？我觉得被骗了-斯托克城什么时候拿到我们的足总杯？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-27",
+    "published_time": "14:50",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育专栏作家托尼·普利斯（ Tony Pulis ）解释了他和所有斯托克球迷在曼城被判犯有他们所面临的115项指控中的大多数之后的想法。",
+    "published_dt_iso": "2026-09-27T14:50:09+08:00"
+  },
+  {
+    "title": "英超联赛无意剥夺曼城的头衔",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26",
+    "published_time": "21:26",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "在被判犯有115项违反英超联赛的指控中的大部分罪名之后，曼彻斯特市真的会被剥夺八个奖杯吗？",
+    "published_dt_iso": "2026-09-26T21:26:40+08:00"
+  },
+  {
+    "title": "观看：曼城vs英超联赛",
+    "link": "https://www.bbc.co.uk/iplayer/episode/m0032vgq?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-26",
+    "published_time": "01:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC Sport追踪了针对曼城的纪律案件是如何展开的。",
+    "published_dt_iso": "2026-09-26T01:00:00+08:00"
+  },
+  {
+    "title": "对于追逐英超冠军的球队来说，快速起步有多重要？",
+    "link": "https://www.theguardian.com/football/2026/sep/29/premier-league-fast-start-teams-manchester-city",
+    "date": "2026-09-29",
+    "published_time": "20:41",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "曼城以连续五场胜利拉开了比赛的序幕，但冠军争夺战是一场马拉松而不是短跑Opta Analyst第一个国际窗口让我们有时间进行评估，并了解英超赛季前几周发生的事情。曼城是唯一一支赢得所有五场比赛的球队。他们在瓜迪奥拉之后以最好的方式在球场上开始生活，开了一个三分球",
+    "published_dt_iso": "2026-09-29T20:41:56+08:00"
+  },
+  {
+    "title": "曼城的“虚假”赛季：他们的表现和谁负责",
+    "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-sham-seasons-how-they-fared-and-who-was-in-charge",
+    "date": "2026-09-30",
+    "published_time": "02:02",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "一个独立委员会发现，曼城在2009-10赛季和2017-18赛季之间严重违反英超联赛财务规则的所有指控被判有罪，曼城违反了英超联赛财务规则，创建了“虚假”合同，以帮助夸大收入，并在九年内降低成本超过9亿英镑。俱乐部说他们对这些指控是无辜的。以下是",
+    "published_dt_iso": "2026-09-30T02:02:38+08:00"
+  },
+  {
+    "title": "曼城在9亿英镑的“虚假”合同后因英超联赛指控而有罪",
+    "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+    "date": "2026-09-30",
+    "published_time": "00:05",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "委员会：一个独立委员会发现，俱乐部在九个赛季期间违反了规则曼城将在周五截止日期前对判决提出上诉，曼城违反了英超联赛的财务规则，创建了“虚假”合同，以帮助在九年内夸大收入并降低成本超过9亿英镑。联盟周二宣布，曼城已被判犯有与严重违反其SEA之间财务规则有关的所有指控",
+    "published_dt_iso": "2026-09-30T00:05:21+08:00"
+  },
+  {
+    "title": "韦恩·鲁尼（ Wayne Rooney ）表示，曼城不应因违反规则而被剥夺冠军头衔",
+    "link": "https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules",
+    "date": "2026-09-30",
+    "published_time": "00:04",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "“我不会感到舒服......我不认为我们应该得到它”曼联在2011-12赛季排名第二鲁尼不认为曼城因违反英超联赛财务规则而被剥夺冠军头衔是不合适的，即使这给了他另一枚英超联赛冠军奖牌，因为这对努力取得成功的曼城球员和工作人员来说是不公平的。城市正在等待找出什么制裁",
+    "published_dt_iso": "2026-09-30T00:04:34+08:00"
+  },
+  {
+    "title": "曼城的案例向我们展示了全球超级富豪现在如何期望不受惩罚地运营| Jonathan Liew",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity",
+    "date": "2026-09-29",
+    "published_time": "21:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "当跨国联盟几乎没有减弱时，据称俱乐部的运营方式提供了一个由蛮力和财富驱动的世界的黯淡愿景。Der Spiegel于2018年发布了最终导致曼城陷入危机的泄露电子邮件和文件的缓存，而俱乐部沟通的基调往往与其内容一样令人震惊。市主席Khaldoon al-Mubarak",
+    "published_dt_iso": "2026-09-29T21:30:10+08:00"
+  },
+  {
+    "title": "曼城酋长坚持认为俱乐部是无辜的，因为竞争对手正在推动公布判决",
+    "link": "https://www.theguardian.com/football/2026/sep/28/manchester-city-chief-executive-ferran-soriano-premier-league-rivals-urge-commission-publish-verdict",
+    "date": "2026-09-29",
+    "published_time": "04:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "费兰·索里亚诺（ Ferran Soriano ）告诉欧洲俱乐部曼城将与判决作斗争英超联赛俱乐部抱怨时间表“无效”一些英超联赛俱乐部正在推动尽快公布曼城的判决，俱乐部正在进行长期的斗争，以清除他们的名字。曼城首席执行官费兰·索里亚诺（ Ferran Soriano ）周一在欧洲足球俱乐部董事会会议上表示，他们将努力证明自己是无辜的。",
+    "published_dt_iso": "2026-09-29T04:30:45+08:00"
+  },
+  {
+    "title": "城市的惩罚规模是唯一的故事，但英超联赛必须承担一些责任| Barney Ronay",
+    "link": "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges",
+    "date": "2026-09-29",
+    "published_time": "03:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "曼城已经出来反对有罪判决，但英超面临着自己的问题什么都没有结束，什么也没做。或者至少不是从勇气来判断，曼城主席Khaldoon al-Mubarak的信心仍然坚信过去三天的鞭打只是大揭露之前的鼓声，这是一些有力证据的前奏，这些证据将冲刷掉gu的最初发现",
+    "published_dt_iso": "2026-09-29T03:30:19+08:00"
+  },
+  {
+    "title": "曼奇尼提到“双重”曼城合同，并说“这不是我的问题”",
+    "link": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
+    "date": "2026-09-29",
+    "published_time": "01:52",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "据称教练因顾问工作而获得报酬他还声称俱乐部“无罪” ，尽管判决罗伯托·曼奇尼似乎承认在管理曼城期间有“双重合同” ，但坚称俱乐部在被发现违反英超联赛财务规则后无罪。曼奇尼在曼彻斯特的四年时间里带领曼城在2012年获得了他们的第一个英超联赛冠军。他现在负责意大利国家队，",
+    "published_dt_iso": "2026-09-29T01:52:36+08:00"
+  },
+  {
+    "title": "公安部公布8起新型涉黑恶犯罪典型案例",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705933.shtml",
+    "date": "2026-09-29",
+    "published_time": "22:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "为深入贯彻落实党中央关于开展深化扫黑除恶专项斗争的决策部署，公安部组织指挥全国公安机关开展集中收网行动，打掉一批犯罪团伙，侦破一批涉黑恶案件。为有力震慑犯罪，今日，公安部公布其中8起新型涉黑恶犯罪典型案例。",
+    "published_dt_iso": "2026-09-29T22:41:55+08:00"
+  },
+  {
+    "title": "2026年世界互联网大会乌镇峰会将于11月2日至5日举行",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705927.shtml",
+    "date": "2026-09-29",
+    "published_time": "22:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "世界互联网大会今天(29日)召开新闻发布会，记者从发布会上了解到，2026年世界互联网大会乌镇峰会将于11月2日至5日在浙江省乌镇举行。本次乌镇峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，将邀请来自全球的政府、国际组织、企业、专家学者代表，围绕人工智能开源开放发展的理念与实践，从创新发展、安全治理、文明交流、国际合作等多个维度展开深入交流，共同探索在人工智能快速发展的新阶段，如何进一步推动技术开放、创新协作和成果共享。",
+    "published_dt_iso": "2026-09-29T22:00:32+08:00"
+  },
+  {
+    "title": "首届“两岸创新发展周”在上海举行 冀数智科技产业加大合作",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705925.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社上海9月29日电 (记者 缪璐)“会议一结束，我就要去和大陆企业谈合作了。”29日举行的首届“两岸创新发展周”上，台企安捷莉娜创始人江文舜在圆桌论坛时透露。",
+    "published_dt_iso": "2026-09-29T21:56:19+08:00"
+  },
+  {
+    "title": "孙中山与华侨华人学术研讨会在北京举行",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705921.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月29日电 (记者 张杨彬)为纪念孙中山先生诞辰160周年，由民革中央主办的孙中山与华侨华人学术研讨会29日在北京举行。",
+    "published_dt_iso": "2026-09-29T21:50:23+08:00"
+  },
+  {
+    "title": "单霁翔、刘兰芳等50余位辽籍文化人才回乡共讲辽宁故事",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705914.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网沈阳9月29日电 (记者 李𬀪)“情系桑梓 赋能振兴——辽宁籍文化人才回乡行动”9月28日在沈阳启动。单霁翔、刘兰芳、冯巩、于魁智、李梓萌等50余位辽宁籍文化人才回乡，畅谈对家乡的深厚情感，分享各自创作历程中的辽宁印记。",
+    "published_dt_iso": "2026-09-29T21:42:37+08:00"
+  },
+  {
+    "title": "“为劳动者放歌”慰问首都职工文艺演出在京举办",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705908.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月29日电 (记者 余湛奕)9月29日晚，全总文工团、北京市总工会在京联合举办“为劳动者放歌”慰问首都职工文艺演出。首都劳模工匠、新就业形态劳动者和一线职工代表1000余人现场观看。",
+    "published_dt_iso": "2026-09-29T21:41:09+08:00"
+  },
+  {
+    "title": "青年如何传承卢作孚爱国精神？重庆合川举办青年主题对话沙龙",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705896.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网重庆9月29日电 (记者 钟旖)穿越时光，中国近代爱国实业家卢作孚的爱国精神如何照亮新时代青年的前行路？29日，在卢作孚的故乡——重庆市合川区，“作孚爱国精神与新时代青年担当”青年主题对话沙龙活动举行，40余位专家学者、青年代表“面对面”交流，在传承、弘扬作孚爱国精神中凝聚青年担当。",
+    "published_dt_iso": "2026-09-29T21:39:49+08:00"
+  },
+  {
+    "title": "从尼山出发 以文明对话求索秩序与公理",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705876.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网山东曲阜9月29日电(周艺伟 孙婷婷)为期两天的2026尼山世界文明论坛(简称“尼山论坛”)29日在孔子诞生地山东曲阜落下帷幕。",
+    "published_dt_iso": "2026-09-29T21:36:26+08:00"
+  },
+  {
+    "title": "俄军一架图",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705946.shtml",
+    "date": "2026-09-29",
+    "published_time": "23:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社莫斯科9月29日电 俄罗斯媒体29日援引俄国防部消息报道称，一架图-95战略轰炸机当天在俄远东地区阿穆尔州执行训练飞行任务时坠毁，造成6名机组人员遇难、1人受伤。",
+    "published_dt_iso": "2026-09-29T23:57:15+08:00"
+  },
+  {
+    "title": "无人机300米高度投弹，胡塞武装飞手肉眼瞄准炸坦克",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705788.shtml",
+    "date": "2026-09-29",
+    "published_time": "20:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月29日电(记者 刁炜)近期在也门战场上，胡塞武装大量投放包括第一视角无人机(FPV)在内的小型旋翼无人机，用于侦察敌情和打击对手的人员装备，取得一系列战果。",
+    "published_dt_iso": "2026-09-29T20:26:20+08:00"
+  },
+  {
+    "title": "“中国大使杯围棋赛",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705641.shtml",
+    "date": "2026-09-29",
+    "published_time": "17:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网莫斯科9月29日电 (记者 田冰) “中国大使杯围棋赛—2026”9月26日-27日在俄罗斯首都莫斯科成功举办，吸引来自全俄45个城市的400余位棋手参赛。中国驻俄大使张汉晖、俄罗斯联邦委员会国际事务委员会第一副主席杰尼索夫、俄围棋协会主席沃尔科夫等出席开幕式并致辞。",
+    "published_dt_iso": "2026-09-29T17:15:28+08:00"
+  },
+  {
+    "title": "“陆海讲读堂”走进马德里：讲述一杯酒里的中西文明对话",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705640.shtml",
+    "date": "2026-09-29",
+    "published_time": "17:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网重庆9月29日电 (梁钦卿)重庆市委宣传部29日对外公布，“陆海讲读堂”西班牙站活动于当地时间9月28日在马德里举办。本次活动以《绯色盛宴：葡萄酒的全球史》为主题，吸引约200名中西文化、出版、教育、媒体领域从业者及读者代表参与。",
+    "published_dt_iso": "2026-09-29T17:14:56+08:00"
+  },
+  {
+    "title": "阿根廷称将就马岛海狮油田项目启动国际仲裁",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705579.shtml",
+    "date": "2026-09-29",
+    "published_time": "17:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网北京9月29日电 布宜诺斯艾利斯消息：阿根廷总统府当地时间28日发表声明说，阿根廷总统米莱已指示外交部和政府法律团队启动《联合国海洋法公约》附件七规定的仲裁程序，以阻止英国在马尔维纳斯群岛(简称马岛，英称福克兰群岛)附近通过海狮油田项目开发油气资源。",
+    "published_dt_iso": "2026-09-29T17:14:18+08:00"
+  },
+  {
+    "title": "俄罗斯警告日本：不相信日方承诺 将准备回应措施",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705585.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月29日电 据俄罗斯卫星通讯社28日报道，俄罗斯副外长鲁坚科表示，俄罗斯不相信日本有关在联合军演结束后撤走美国“堤丰”中程导弹系统的承诺，俄方将准备回应措施。",
+    "published_dt_iso": "2026-09-29T15:59:29+08:00"
+  },
+  {
+    "title": "澳大利亚央行加息至4.6%  创近15年新高",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705531.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社悉尼9月29日电 (记者 薄雯雯)澳大利亚储备银行(央行)29日宣布，将基准利率上调25个基点至4.6%。这是澳央行今年第四次加息，利率升至2011年底以来最高水平。",
+    "published_dt_iso": "2026-09-29T15:15:39+08:00"
+  },
+  {
+    "title": "特朗普吐槽加拿大：“全世界最糟糕的国家之一”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705499.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月29日电 据美媒报道，当地时间28日，美国总统特朗普加大了对加拿大的抨击力度，批评加拿大是“全世界最糟糕的国家之一”。",
+    "published_dt_iso": "2026-09-29T14:37:12+08:00"
+  },
+  {
+    "title": "“外媒看中国”活动走进黑龙江 见证农业“智”变",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705929.shtml",
+    "date": "2026-09-29",
+    "published_time": "22:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社黑龙江佳木斯9月29日电 (记者 王妮娜)“稻田一眼望不到边，看不到人，只有无人驾驶收割机在自动收割水稻，很震撼。”新加坡《海峡时报》记者游润恬29日在黑龙江佳木斯富锦市万亩水稻科技示范园参观时说。",
+    "published_dt_iso": "2026-09-29T22:10:33+08:00"
+  },
+  {
+    "title": "2026年“上海环球美食汇·风味无界”活动启动 7大环球美食地标发布",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705923.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月29日电 (记者 姜煜)2026年“上海环球美食汇·风味无界”活动29日下午在青浦区蟠龙古镇启动。启动仪式由上海市商务委员会、青浦区人民政府主办，青浦区商务委员会、上海市商业联合会承办。",
+    "published_dt_iso": "2026-09-29T21:52:15+08:00"
+  },
+  {
+    "title": "膏方养生文化节启幕 中医建言摆脱亚健康困扰",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705890.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月29日电 (记者 张素)秋冬时节被称为膏方进补调养的“窗口期”。29日在北京举行的一场中医药文化惠民活动上，中医医师介绍特色膏方，建言如何摆脱亚健康困扰。",
+    "published_dt_iso": "2026-09-29T21:43:13+08:00"
+  },
+  {
+    "title": "全国文旅气象服务智能体基座建设示范计划启动",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705913.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网陕西渭南9月29日电 (记者 阿琳娜)9月29日，在第四届气象旅游发展大会上，全国文旅气象服务智能体基座建设示范计划正式启动。该计划由中国气象局公共气象服务中心(以下简称：公共服务中心)发起，旨在推动人工智能与气象、文化和旅游深度融合，打造统一的文旅气象服务智能体基座和工具能力平台，以国家级集约建设、地方按需组装模式，提升文旅气象服务能力。",
+    "published_dt_iso": "2026-09-29T21:42:33+08:00"
+  },
+  {
+    "title": "武两高速“起点门户”打通 平桥南枢纽互通T梁架设完成",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705912.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网重庆9月29日电(记者 肖江川)29日，随着红荷岭右线1号拼宽桥最后一片T梁精准平稳落位，重庆武隆至两江新区高速公路(平桥至大顺段)平桥南枢纽互通439片T梁全部架设完成。作为武两高速的“起点门户”，这一节点的完成，标志着重庆高速路网向渝东南片区延伸的又一关键环节被打通。",
+    "published_dt_iso": "2026-09-29T21:42:31+08:00"
+  },
+  {
+    "title": "新西兰少年的海南“友谊礼”：竹竿跃，锡刻韵，青春之约",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705894.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网海口9月29日电 题：新西兰少年的海南“友谊礼”：竹竿跃，锡刻韵，青春之约",
+    "published_dt_iso": "2026-09-29T21:41:57+08:00"
+  },
+  {
+    "title": "广东预计国庆假期高速公路车流整体保持高位运行",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705899.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州9月29日电 (记者 蔡敏婕)广东省交通运输厅29日发布消息称，2026年国庆假期(10月1日至7日，共计7天)，预计高速公路车流整体保持高位运行，以景区间串联漫游、跨区域长途流转为主，同时会出现一定规模的长途自驾返乡探亲出行。",
+    "published_dt_iso": "2026-09-29T21:41:45+08:00"
+  },
+  {
+    "title": "北京鳌游美术馆开门迎客 密云增添艺术新地标",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705904.shtml",
+    "date": "2026-09-29",
+    "published_time": "21:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京9月29日电 (记者 陈杭)记者29日从北京市密云区获悉，北京鳌游美术馆正式开门迎客。户外广场上30余个动物装置变身“涂鸦雕塑”，近300平方米的挡墙粉刷一新化作“露天画布”，孩子们手持画笔认真涂色，描绘着自己喜爱的图案。",
+    "published_dt_iso": "2026-09-29T21:41:43+08:00"
+  },
+  {
+    "title": "亦敌亦友：澳洲如何在超级大国竞争中找平衡？",
+    "link": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "13:46",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "澳洲越来越担心中国的军事实力——但北京也是其最大的贸易伙伴。",
+    "published_dt_iso": "2026-09-29T13:46:42+08:00"
+  },
+  {
+    "title": "美国检方重启调查康奈尔大学轮奸案指控",
+    "link": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "12:30",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "此前，一名女子提起民事诉讼，声称她在2024年于一所兄弟会会所被下药并遭到强奸。",
+    "published_dt_iso": "2026-09-29T12:30:30+08:00"
+  },
+  {
+    "title": "伊朗女歌手演出不戴头巾遭判笞刑74鞭 上诉遭驳回",
+    "link": "https://www.bbc.com/zhongwen/articles/cq5yj1dd5wxyo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "15:00",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "帕拉斯托·阿赫玛迪因在一场直播音乐会中身穿无袖连身裙演唱，被裁定犯有“冒犯公共道德”罪。",
+    "published_dt_iso": "2026-09-29T15:00:12+08:00"
+  },
+  {
+    "title": "特朗普习近平峰会：没有说出口的议题可能更重要",
+    "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "11:48",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "白宫峰会最耐人寻味之处，或许在于中美两国领导人没有说哪些事，以及我们至今仍不知道哪些事。",
+    "published_dt_iso": "2026-09-29T11:48:29+08:00"
+  },
+  {
+    "title": "在印尼一座热带岛屿上，备受珍视的“永恒积雪”即将永远消失",
+    "link": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "08:07",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "气候变化正改变着印尼巴布亚长年被积雪覆盖的山峰，而这些山峰不但具有科学价值，还有其精神意义。",
+    "published_dt_iso": "2026-09-29T08:07:17+08:00"
+  },
+  {
+    "title": "特习峰会成果盘点：关税休战、AI对话、未提台湾、暗指日本",
+    "link": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-27",
+    "published_time": "19:35",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "BBC中文梳理两国展现了什么成果，以及外界如何解读二人的举措。",
+    "published_dt_iso": "2026-09-27T19:35:41+08:00"
+  },
+  {
+    "title": "习近平促特朗普“反对台独”，北京措辞升级要的是什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/cm3eqkqq1pweo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "18:23",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "分析指出，北京此次的表述更为直接，并试图掌握峰会后的叙事主导权，未来台湾在美中台三角关系中的角色可能进一步被“边缘化”。",
+    "published_dt_iso": "2026-09-25T18:23:53+08:00"
+  },
+  {
+    "title": "美中各从“白宫习特会”得到什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/cq2dwkw2j0r4o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-25",
+    "published_time": "20:15",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "外界关注的人工智能、稀土等迫切议题，两国似乎未有明显进展。但有学者向BBC中文分析，会谈最重要的成就在于展示两国关系“正面友好的氛围和形象”。",
+    "published_dt_iso": "2026-09-25T20:15:11+08:00"
+  },
+  {
+    "title": "OpenAI忽略了员工关于安全测试人工智能模型的警告",
+    "link": "https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html",
+    "date": "2026-09-30",
+    "published_time": "01:33",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "员工和安全研究人员表示，他们曾警告该公司安全测试其人工智能模型并加强其企业基础设施，但OpenAI没有听。",
+    "published_dt_iso": "2026-09-30T01:33:42+08:00"
+  },
+  {
+    "title": "OpenAI为澳大利亚Medicare黑客事件道歉",
+    "link": "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html",
+    "date": "2026-09-29",
+    "published_time": "13:23",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该公司详细说明了人工智能代理如何访问四个政府网站，并承认处理不当。",
+    "published_dt_iso": "2026-09-29T13:23:15+08:00"
+  },
+  {
+    "title": "大学生在AI投资狂潮中发挥自己的力量",
+    "link": "https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html",
+    "date": "2026-09-29",
+    "published_time": "23:31",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Dorm Room Fund是一项让大学生投资同龄人的计划，随着年轻创始人竞争的加剧，它筹集了一个新的5000万$基金。",
+    "published_dt_iso": "2026-09-29T23:31:45+08:00"
+  },
+  {
+    "title": "ICE Plans 5,000 New Hires to Help With Deportation Drive",
+    "link": "https://www.nytimes.com/2026/09/29/us/ice-hiring-immigration-enforcement-vetting.html",
+    "date": "2026-09-29",
+    "published_time": "23:23",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A similar surge last year resulted in undervetted officers initially being let in and then removed as the agency skipped basic checks for new recruits.",
+    "published_dt_iso": "2026-09-29T23:23:36+08:00"
+  },
+  {
+    "title": "Man Shot by ICE Agent in Austin Is Charged With Assault",
+    "link": "https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html",
+    "date": "2026-09-30",
+    "published_time": "01:59",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Prosecutors say the man struck an agent with his car’s mirror before another agent shot him. The charge reveals the existence of body camera footage of the shooting, though that has not been released.",
+    "published_dt_iso": "2026-09-30T01:59:25+08:00"
+  },
+  {
+    "title": "Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens",
+    "link": "https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html",
+    "date": "2026-09-29",
+    "published_time": "22:15",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration.",
+    "published_dt_iso": "2026-09-29T22:15:47+08:00"
+  },
+  {
+    "title": "Victor Marx, Colorado Governor Nominee With Sensational Past, Splinters the G.O.P.",
+    "link": "https://www.nytimes.com/2026/09/29/us/victor-marx-colorado-republican-governor-candidate.html",
+    "date": "2026-09-30",
+    "published_time": "01:49",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Some Republicans in the state fear that the sensational biography of Victor Marx, their party’s candidate for governor, could drag down the rest of the ticket.",
+    "published_dt_iso": "2026-09-30T01:49:28+08:00"
+  },
+  {
+    "title": "His Jet vs. Her Jeep: How Wealth Is Playing in the Midterms",
+    "link": "https://www.nytimes.com/2026/09/29/us/vivek-ramaswamy-amy-acton-wealth-class-ohio-midterms.html",
+    "date": "2026-09-29",
+    "published_time": "19:19",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "In the so-called affordability election, two candidates for governor of Ohio are sparring over whether billionaires are the problem or the solution.",
+    "published_dt_iso": "2026-09-29T19:19:11+08:00"
+  }
+]
