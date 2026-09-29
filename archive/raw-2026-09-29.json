@@ -1028,5 +1028,545 @@
     "feed_name": "纽约时报",
     "summary": "Mr. Bailey, who was part of a three-person leadership team atop the bureau, lasted barely a year.",
     "published_dt_iso": "2026-09-29T01:40:04+08:00"
+  },
+  {
+    "title": "Anthropic的招股说明书详细说明了亏损、增长，以及，是的，关于其人工智能可能会终结人类的警告",
+    "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+    "date": "2026-09-29",
+    "published_time": "13:13",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在其招股说明书中， Anthropic刚刚告诉投资者，它每年损失数百亿美元，但也在疯狂增长，而且—哦，是的—它自己的人工智能可能对人类构成生存风险。",
+    "published_dt_iso": "2026-09-29T13:13:43+08:00"
+  },
+  {
+    "title": "Peak XV将种子投资上限飙升至500万$ ，推出18个",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "date": "2026-09-29",
+    "published_time": "08:30",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在Peak XV最新的Surge队列中， 18家初创公司中有13家瞄准全球市场，而超过一半的初创公司位于印度。",
+    "published_dt_iso": "2026-09-29T08:30:00+08:00"
+  },
+  {
+    "title": "据报道， OpenAI因安全问题而放弃了模型",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "date": "2026-09-29",
+    "published_time": "07:39",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "人工智能实验室的一位高级管理人员告诉《华尔街日报》，该模型在服从命令方面表现不佳。",
+    "published_dt_iso": "2026-09-29T07:39:20+08:00"
+  },
+  {
+    "title": "资料来源：推理提供商Modal Labs以157.5亿美元的估值接近7.5亿美元",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "date": "2026-09-29",
+    "published_time": "05:29",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "新融资预计将使这家AI基础设施初创公司的估值比四个月前增加两倍以上。",
+    "published_dt_iso": "2026-09-29T05:29:18+08:00"
+  },
+  {
+    "title": "AMD将以82亿美元收购李飞飞的世界实验室（ $ Fei-Fei Li's World Labs ）",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "date": "2026-09-29",
+    "published_time": "04:39",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "此次收购将使世界实验室创始人李飞飞加入AMD ，担任执行副总裁兼首席科学家。",
+    "published_dt_iso": "2026-09-29T04:39:33+08:00"
+  },
+  {
+    "title": "人工智能热潮接管了气候周，并非所有人都对此感到高兴",
+    "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+    "date": "2026-09-29",
+    "published_time": "03:21",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "就像美国其他地区一样，数据中心和人工智能正在分裂气候技术创始人和投资者。",
+    "published_dt_iso": "2026-09-29T03:21:59+08:00"
+  },
+  {
+    "title": "没有什么新的旗舰耳机1专业版让您进入工作室",
+    "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
+    "date": "2026-09-29",
+    "published_time": "09:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今年没有任何音频损坏，发布了坚固的耳机A和令人惊讶的好耳朵3A耳塞。耳机A的发布价格为$ 199 ，而耳机价格低于$ 100 ，为更豪华的东西留出了空间。那东西就是Nothing Headphone 1 Pro ，该公司新推出的$ 399的旗舰头戴式耳机[…]",
+    "published_dt_iso": "2026-09-29T09:00:00+08:00"
+  },
+  {
+    "title": "AMD将以超过80亿美元的价格收购人工智能公司World Labs",
+    "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+    "date": "2026-09-29",
+    "published_time": "05:31",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "AMD今天宣布，它将以约82亿美元的全股票交易收购由着名研究员李飞飞博士共同创立的人工智能研究实验室World Labs。World Labs成立于2024年，在短短几个月内估值达到10亿美元。这家初创公司推出了第一款商业产品，即世界一代模型[…]",
+    "published_dt_iso": "2026-09-29T05:31:35+08:00"
+  },
+  {
+    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+    "link": "https://www.qbitai.com/2026/09/499098.html",
+    "date": "2026-09-29",
+    "published_time": "08:49",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "李飞飞将入职AMD首席科学家",
+    "published_dt_iso": "2026-09-29T08:49:30+08:00"
+  },
+  {
+    "title": "169 元：绿联 65W 旅行转换充电器开售，适用欧美日韩英港澳等地",
+    "link": "https://www.ithome.com/1/008/311.htm",
+    "date": "2026-09-29",
+    "published_time": "15:33",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，绿联 65W 旅行转换充电器现已开售，新品适配全球 200+ 国家或地区，支持 100V-240V 宽幅电压，售价 169 元。据介绍，这款充电器采用新一代 360° 无极旋转插脚，可在美规、澳规、欧规、英规之间自由切换，支持 100V-240V 宽幅电压，可在美国、日本、泰国、澳大利亚、新西兰、韩国、欧洲、英国、新加坡、香港特别行政区、澳门特别行政区等地使用。这款充电器配备 2C+1A 三接口设计，兼容 PD、PPS、QC、FCP、SCP 等协议，支持三台设备同时充电：其中两个 USB-C 接口单口输出最高 65W，USB-A 接口输出最高 22.5W。IT之家附该充电器详细参数如下：目前该充电器已在京东开售，定价 169 元。京东绿联 65W 旋转多国充电",
+    "published_dt_iso": "2026-09-29T15:33:13+08:00"
+  },
+  {
+    "title": "2026 年世界互联网大会乌镇峰会 11 月 2 日至 5 日举行：设 27 个分论坛，聚焦人工智能开源开放",
+    "link": "https://www.ithome.com/1/008/310.htm",
+    "date": "2026-09-29",
+    "published_time": "15:27",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，世界互联网大会官方今日召开新闻发布会，宣布 2026 年世界互联网大会乌镇峰会将于 11 月 2 日至 5 日在浙江省乌镇举行。本次峰会主题为“开源开放共建共享 —— 携手构建网络空间命运共同体”。本届峰会将邀请全球政府、国际组织、企业、专家学者代表，围绕人工智能开源开放发展的理念与实践，从创新发展、安全治理、文明交流、国际合作等多个维度展开交流。IT之家从官方获悉，今年乌镇峰会将设置 27 个分论坛，围绕全球治理倡议网络空间合作、数智时代的理论与政策、机器人与具身智能等话题展开讨论。主论坛将设置“人工智能乌镇对话”环节，邀请全球领军科技企业、知名开源大模型企业负责人以及人工智能科学家同台对话，围绕全球人工智能开源生态构建等议题展开交流。“携手构建网络空间命运",
+    "published_dt_iso": "2026-09-29T15:27:55+08:00"
+  },
+  {
+    "title": "LPDDR6 内存加持 AI 推理 ASIC，SEMIFIVE 接获规格交接型芯片设计订单",
+    "link": "https://www.ithome.com/1/008/309.htm",
+    "date": "2026-09-29",
+    "published_time": "15:27",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，韩国芯片设计服务企业 SEMIFIVE 当地时间今日宣布，将为一家美国无晶圆厂 AI 设计芯片企业开发一款支持 LPDDR6、PCIe Gen5 的数据中心级“大芯片”推理加速器。IT之家注意到，这是高带宽低功耗的 LPDDR6 成为 ASIC 片外缓存选择的早期案例之一。这颗芯片预计 2027H1 流片，2028 年量产出货。SEMIFIVE 获得的这份订单采用“规格交接”模式：客户提供核心性能和规格指标，设计服务企业负责从详细设计到封装、测试、量产乃至软件开发的整个流程。该订单是 SEMIFIVE 在北美市场斩获首个同类型项目。其以约 703 亿韩元（IT之家注：现汇率约合 3.48 亿元人民币）的总价成为 SEMIFIVE 历史上最大的单笔合同，已高于企",
+    "published_dt_iso": "2026-09-29T15:27:03+08:00"
+  },
+  {
+    "title": "科技部：我国成为创新力上升最快的国家之一",
+    "link": "https://www.ithome.com/1/008/307.htm",
+    "date": "2026-09-29",
+    "published_time": "15:20",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，据央视新闻，在国务院新闻办公室今天（29 日）举行的“开局起步‘十五五’”系列主题新闻发布会上，科技部部长阴和俊介绍，过去五年，我国科技创新跃上新台阶，科技强国建设迈出坚实步伐，有力支撑高质量发展和民生改善。IT之家从发言获悉，2025 年全社会研发投入超过 3.92 万亿元，占 GDP 比重达 2.8%，首次超过经济合作与发展组织（OECD）成员国平均水平；PCT 国际专利申请量和高水平国际期刊论文数量连续多年保持世界第一；九章、天问、嫦娥等重大原创成果加速涌现，芯片攻关取得新突破，开源大模型领跑全球，新能源汽车、机器人等新兴产业蓬勃发展，创新药、农作物新品种等一批科技成果惠及广大民众。中国科技发展战略研究院《国家创新指数报告 2025》显示，我国国家创新能",
+    "published_dt_iso": "2026-09-29T15:20:38+08:00"
+  },
+  {
+    "title": "Kubb 打造纯金无风扇迷你主机：13 公斤重、售价约 170 万美元",
+    "link": "https://www.ithome.com/1/008/306.htm",
+    "date": "2026-09-29",
+    "published_time": "15:20",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，据外媒 VideoCardz 今天报道，Kubb 近日为一名富埒陶白的客户定制一台 Kubb Fanless 纯金无风扇迷你主机。这款产品使用 24K 金打造，重约 13 公斤，售价约 170 万美元（IT之家注：现汇率约合 1,142.7 万元人民币）。据介绍，这款迷你主机由于使用了纯金外壳，其导热能力相比铝高出 30%-50%。当然，这名客户要求使用纯金外壳显然不是为了追求实用。此外，Kubb Fanless 支持选配英特尔酷睿 Ultra 5 225H、酷睿 Ultra 5 358H 或 AMD 锐龙 AI 5 340 处理器，内存最高可选 128GB DDR5，标配 1TB M.2 NVMe 固态硬盘。不过，我们目前并不知道这名神秘买家是谁，也无从得知",
+    "published_dt_iso": "2026-09-29T15:20:25+08:00"
+  },
+  {
+    "title": "第三方工具 4t Tray Minimizer 不兼容微软 9 月 Win10 更新，导致文件管理器频繁崩溃",
+    "link": "https://www.ithome.com/1/008/303.htm",
+    "date": "2026-09-29",
+    "published_time": "15:19",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，科技媒体 Wccftech 昨日（9 月 28 日）发布博文，报道称微软 9 月 8 日面向 Windows 10 系统推送的 KB5126256 更新存在兼容性问题，在装有第三方工具 4t Tray Minimizer 的设备上导致文件管理器频繁崩溃。IT之家注：KB5126256 适用于 Windows 10 21H2 和 22H2，是扩展安全更新（ESU）的授权准备包，仅用于准备授权和注册，不会单独启用 ESU 或直接安装安全更新。Reddit 网友 tarikhyoga 报告称，安装 Windows 10 更新 KB5126256 后，每次在文件资源管理器中点击任意文件，系统即自动后台启动 Copilot 进程 mscopilot_proxy.exe。",
+    "published_dt_iso": "2026-09-29T15:19:07+08:00"
+  },
+  {
+    "title": "《GTA 6》带火主机需求：PS5 Pro 日本卖断货，索尼开启抽签购买活动",
+    "link": "https://www.ithome.com/1/008/302.htm",
+    "date": "2026-09-29",
+    "published_time": "15:14",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，随着《GTA 6》发售日益临近，游戏主机的需求不出意料地出现上涨。正如施特劳斯 · 泽尔尼克（Strauss Zelnick）此前所预测的那样，Xbox Series X|S 以及 PS5 两款主机都受到玩家追捧，但从游戏预购数据的占比情况来看，大部分玩家会选择后者来游玩《GTA 6》。到目前为止，这款 Rockstar 出品游戏的大部分预购收入都来自索尼的这台主机，同时也带动了 PS5 本身的销量。现如今 PS5 的市场需求十分旺盛，就连性能升级版 PS5 Pro 在日本都已经售罄。PlayStation 方面已经宣布，PS5 Pro 在日本面临库存短缺的问题。为此索尼开启了抽签购买机制。玩家如果想要从索尼官方渠道购入 PS5 Pro，需要提交申请，并且满足",
+    "published_dt_iso": "2026-09-29T15:14:12+08:00"
+  },
+  {
+    "title": "OpenAI 提出前沿 AI 训练安全指导原则：高级管理人员应有否决权",
+    "link": "https://www.ithome.com/1/008/301.htm",
+    "date": "2026-09-29",
+    "published_time": "15:10",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 29 日消息，OpenAI 今天通过官方新闻稿提出了一套指导原则，要求企业在开展前沿 AI 强化学习训练前提交结构化的安全论证文件。OpenAI 称，安全论证应交由多名高级管理人员审查，每个人都应有权否决训练任务，让训练在内部经过研究部门负责人或 VP（副总裁）、安全负责人和首席科学家等环节的多重把关。此外，研究部门负责人、研究副总裁等负责训练任务的高级管理人员，应对安全论证以及任何事故响应承担责任，包括把这些内容纳入绩效考核，以此促使训练团队主动推动安全和对齐工作。OpenAI 称，如果高优先级安全警报没有在规定时限内得到确认，受影响的训练任务应自动暂停。这些建议已经进入落实过程，今后预计还会继续调整。此外，训练流程应能方便地识别未对齐模型的所有下游用途（IT之家注：例如",
+    "published_dt_iso": "2026-09-29T15:10:22+08:00"
+  },
+  {
+    "title": "曼城酋长坚持认为俱乐部是无辜的，因为竞争对手正在推动公布判决",
+    "link": "https://www.theguardian.com/football/2026/sep/28/manchester-city-chief-executive-ferran-soriano-premier-league-rivals-urge-commission-publish-verdict",
+    "date": "2026-09-29",
+    "published_time": "04:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "费兰·索里亚诺（ Ferran Soriano ）告诉欧洲俱乐部曼城将与判决作斗争英超联赛俱乐部抱怨时间表“无效”一些英超联赛俱乐部正在推动尽快公布曼城的判决，俱乐部正在进行长期的斗争，以清除他们的名字。曼城首席执行官费兰·索里亚诺（ Ferran Soriano ）周一在欧洲足球俱乐部董事会会议上表示，他们将努力证明自己是无辜的。",
+    "published_dt_iso": "2026-09-29T04:30:45+08:00"
+  },
+  {
+    "title": "中方回应菲律宾发布所谓新版“海图”：严重侵犯中国领土主权，是非法、无效的",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705562.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月29日电 (记者 曾玥 郭超凯)中国外交部发言人郭嘉昆29日主持例行记者会。",
+    "published_dt_iso": "2026-09-29T15:30:35+08:00"
+  },
+  {
+    "title": "《中日联合声明》发表54周年 中方再次敦促日本当政者切实反思纠错",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705561.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月29日电 (记者 曾玥)中国外交部发言人郭嘉昆29日主持例行记者会。",
+    "published_dt_iso": "2026-09-29T15:29:49+08:00"
+  },
+  {
+    "title": "外交部：只有真正恪守中日四个政治文件精神 两国关系才能不偏航、不脱轨",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705560.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "9月29日，外交部发言人郭嘉昆主持例行记者会。总台央视记者问：今天是《中日联合声明》发表54周年纪念日。当前中日关系面临严重困难，请问中方如何看待《中日联合声明》等四个政治文件的历史和现实意义？",
+    "published_dt_iso": "2026-09-29T15:29:11+08:00"
+  },
+  {
+    "title": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705536.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月29日电 据“中国海警”微信公众号消息，中国海警局新闻发言人姜略表示，9月29日，中国海警朱家尖舰编队位中国台湾岛以东海域依法开展常态化执法巡查。9月以来，朱家尖舰编队持续加强相关海域管控，有力保障正常航行和作业秩序，切实维护包括台湾同胞在内的中国民众合法正当权益和生命财产安全。中国海警将持续加强在中国管辖海域执法巡查，坚决维护国家领土主权和海洋权益。",
+    "published_dt_iso": "2026-09-29T15:26:39+08:00"
+  },
+  {
+    "title": "青海省黄南州人大常委会原副主任张文生被\"双开\"",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705530.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月29日电 据青海省纪委监委消息：经中共青海省委批准，青海省纪委监委对黄南州人大常委会原党组副书记、副主任张文生严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-29T15:26:11+08:00"
+  },
+  {
+    "title": "吉林省梅河新区党工委原副书记刘铁铎接受审查调查",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705525.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月29日电 据吉林省纪委监委消息：吉林省梅河新区党工委原副书记、管委会原主任，梅河口市委原副书记、市政府原市长刘铁铎涉嫌严重违纪违法，目前正接受吉林省纪委监委纪律审查和监察调查。",
+    "published_dt_iso": "2026-09-29T15:25:53+08:00"
+  },
+  {
+    "title": "姚华明当选辽宁省大连市市长",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705543.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网大连9月29日电 (记者 杨毅)大连市第十七届人民代表大会第六次会议9月29日选举姚华明为大连市人民政府市长。",
+    "published_dt_iso": "2026-09-29T15:25:27+08:00"
+  },
+  {
+    "title": "吴晓军当选甘肃省人大常委会主任 孔绍逊当选甘肃省省长",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-29/10705556.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社兰州9月29日电 甘肃省第十四届人民代表大会第五次会议9月29日选举吴晓军为甘肃省人大常委会主任，选举孔绍逊为甘肃省人民政府省长。",
+    "published_dt_iso": "2026-09-29T15:23:19+08:00"
+  },
+  {
+    "title": "澳大利亚央行加息至4.6%  创近15年新高",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705531.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:15",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社悉尼9月29日电 (记者 薄雯雯)澳大利亚储备银行(央行)29日宣布，将基准利率上调25个基点至4.6%。这是澳央行今年第四次加息，利率升至2011年底以来最高水平。",
+    "published_dt_iso": "2026-09-29T15:15:39+08:00"
+  },
+  {
+    "title": "特朗普吐槽加拿大：“全世界最糟糕的国家之一”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705499.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月29日电 据美媒报道，当地时间28日，美国总统特朗普加大了对加拿大的抨击力度，批评加拿大是“全世界最糟糕的国家之一”。",
+    "published_dt_iso": "2026-09-29T14:37:12+08:00"
+  },
+  {
+    "title": "以色列总理和防长发表联合声明：打死一名哈马斯指挥官",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705497.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月29日电 综合《以色列时报》等报道，当地时间29日，以色列总理内塔尼亚胡与国防部长卡茨发表联合声明称，28日夜间至29日凌晨期间的一次空袭行动中，以军打死巴勒斯坦伊斯兰抵抗运动(哈马斯)加沙北部旅指挥官伊兹·丁·比克。",
+    "published_dt_iso": "2026-09-29T14:27:05+08:00"
+  },
+  {
+    "title": "日媒：日本总人口降至1.2297亿 较上次调查减少约317万人",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705478.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月29日电 据日本共同社报道，日本总务省29日公布的2025年人口普查确定值显示，截至2025年10月1日，包含外国人在内的日本总人口约为1.2297亿，较2020年的上次调查减少约317万人，降幅为2.5%。",
+    "published_dt_iso": "2026-09-29T14:02:16+08:00"
+  },
+  {
+    "title": "名古屋亚运会再出状况 巴基斯坦队被大巴拉错赛场",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705448.shtml",
+    "date": "2026-09-29",
+    "published_time": "13:38",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月29日电 爱知·名古屋亚运会赛事组织工作再出状况。据法新社报道，参加爱知·名古屋亚运会的巴基斯坦男子排球队在28日比赛开始前被大客车拉至错误赛场，导致比赛被迫推迟了45分钟，巴基斯坦男排队长抱怨东道主组织不力。",
+    "published_dt_iso": "2026-09-29T13:38:00+08:00"
+  },
+  {
+    "title": "美计划让波音“星际客机”2028年重返载人飞行",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705398.shtml",
+    "date": "2026-09-29",
+    "published_time": "11:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "美国国家航空航天局28日公布波音“星际客机”最新进展及任务安排，计划最早于今年12月或明年1月执行“星际客机-1”不载人飞往国际空间站任务，并计划于2028年执行“星际客机-2”载人飞行任务。",
+    "published_dt_iso": "2026-09-29T11:18:04+08:00"
+  },
+  {
+    "title": "法国总统将对西班牙进行国事访问",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705395.shtml",
+    "date": "2026-09-29",
+    "published_time": "11:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "根据西班牙首相府和法国总统府发表的联合声明，29日至30日，法国总统马克龙将对西班牙进行访问。法国总统府表示，这是2009年以来，法国总统首次对西班牙进行国事访问。",
+    "published_dt_iso": "2026-09-29T11:16:56+08:00"
+  },
+  {
+    "title": "南非贫民区的“破碎生长”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-29/10705372.shtml",
+    "date": "2026-09-29",
+    "published_time": "10:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中国新闻周刊记者：曹然",
+    "published_dt_iso": "2026-09-29T10:50:12+08:00"
+  },
+  {
+    "title": "应急管理部公布3起化工非法生产典型案例",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705526.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月29日电 据应急管理部网站消息，为进一步推动各地区、有关部门、企业单位和社会公众深刻认识化工非法生产的严重危害性和“打非”工作的严峻复杂性，举一反三提升社会安全意识，保持严查严治、常抓不懈的高压态势，切实保护人民群众生命安全，应急管理部近日公布3起化工非法生产典型案例。",
+    "published_dt_iso": "2026-09-29T15:26:05+08:00"
+  },
+  {
+    "title": "《气象数据管理办法》发布 11月1日起实施",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705548.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中国气象局今天发布《气象数据管理办法》，将于11月1日起正式实施。《办法》围绕数据供给、数据流通利用、数据安全保障及监督管理等方面，建立了气象数据领域一系列规则制度。",
+    "published_dt_iso": "2026-09-29T15:18:35+08:00"
+  },
+  {
+    "title": "以收孩子学杂费为由诈骗 警惕家长群里的高仿“班主任”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705546.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新学期，家长群出现缴费通知看起来挺正常。但谁能想到，群消息背后，可能藏着精心设计的骗局。湖北武汉警方就侦办了这样一起案件，有人潜入学校家长群，冒充班主任发布收费通知，短短十多分钟，就有三十多位家长被骗。",
+    "published_dt_iso": "2026-09-29T15:16:47+08:00"
+  },
+  {
+    "title": "武汉多维发力构建绿色出行体系",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705520.shtml",
+    "date": "2026-09-29",
+    "published_time": "15:08",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网武汉9月29日电 (张芹 梅赞超)武汉市2026年绿色出行宣传月和公交出行宣传周活动启动仪式29日在东湖绿道湖光序曲广场举行，此次活动以“绿色出行 美好生活”为主题，引导广大市民优先选择公共交通、步行、骑行等绿色出行方式，共同营造安全、便捷、文明、绿色的城市出行环境。",
+    "published_dt_iso": "2026-09-29T15:08:54+08:00"
+  },
+  {
+    "title": "青春何为？“青春华章·日月光华共璀璨”网络主题活动给出答案",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705501.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月29日电 (记者 陈静)28日晚间在复旦大学举行的“青春华章·日月光华共璀璨”网络主题活动以“青春何为”为核心之问，以“选择”为叙事线索，将历史、科技、家国情怀与青年表达融入课堂，为线上线下青年带来一堂有思想、有温度、有网感的“大思政课”。",
+    "published_dt_iso": "2026-09-29T14:43:38+08:00"
+  },
+  {
+    "title": "玩手机就能轻松赚钱？“游戏测试”兼职背后竟有黑灰产业链",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705504.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "电信诈骗手段不断翻新，有不少诈骗团伙把陷阱搬到线下，以高薪兼职为诱饵套取公民个人信息。只需坐一晚上，就能轻松赚到一两百元，这样的兼职你会心动吗？",
+    "published_dt_iso": "2026-09-29T14:40:58+08:00"
+  },
+  {
+    "title": "上海专家最新研究：及时听力重建可使部分老人认知功能回归正常",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705494.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海9月29日电(记者 陈静)听力与脑健康的关联已成为全球脑科学、听觉医学、老年医学与神经科学共同关注的前沿方向之一。",
+    "published_dt_iso": "2026-09-29T14:27:36+08:00"
+  },
+  {
+    "title": "四川推进制售假劣肉制品专项治理 全链条守护群众“舌尖上的安全”",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-29/10705493.shtml",
+    "date": "2026-09-29",
+    "published_time": "14:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网成都9月29日电 (尧欣雨)29日，四川省食品安全委员会办公室(以下简称“四川省食安办”)在成都举行新闻发布会，介绍全省治理制售假劣肉制品问题专项行动阶段性工作开展情况。今年以来，四川依托多部门联动、全链条监管、科技化赋能、社会化共治，持续严打肉制品领域违法乱象，全力守护群众“舌尖上的安全”。",
+    "published_dt_iso": "2026-09-29T14:26:37+08:00"
+  },
+  {
+    "title": "亦敌亦友：澳洲如何在超级大国竞争中找平衡？",
+    "link": "https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "13:46",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "澳洲越来越担心中国的军事实力——但北京也是其最大的贸易伙伴。",
+    "published_dt_iso": "2026-09-29T13:46:42+08:00"
+  },
+  {
+    "title": "特朗普习近平峰会：没有说出口的议题可能更重要",
+    "link": "https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "11:48",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "白宫峰会最耐人寻味之处，或许在于中美两国领导人没有说哪些事，以及我们至今仍不知道哪些事。",
+    "published_dt_iso": "2026-09-29T11:48:29+08:00"
+  },
+  {
+    "title": "美国检方重启调查康奈尔大学轮奸案指控",
+    "link": "https://www.bbc.com/zhongwen/articles/cm3wjgpxdjxxo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "12:30",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "此前，一名女子提起民事诉讼，声称她在2024年于一所兄弟会会所被下药并遭到强奸。",
+    "published_dt_iso": "2026-09-29T12:30:30+08:00"
+  },
+  {
+    "title": "伊朗女歌手演出不戴头巾遭判笞刑74鞭 上诉遭驳回",
+    "link": "https://www.bbc.com/zhongwen/articles/cq5yj1dd5wxyo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "15:00",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "帕拉斯托·阿赫玛迪因在一场直播音乐会中身穿无袖连身裙演唱，被裁定犯有“冒犯公共道德”罪。",
+    "published_dt_iso": "2026-09-29T15:00:12+08:00"
+  },
+  {
+    "title": "在印尼一座热带岛屿上，备受珍视的“永恒积雪”即将永远消失",
+    "link": "https://www.bbc.com/zhongwen/articles/cwly54drj5l1o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "08:07",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "气候变化正改变着印尼巴布亚长年被积雪覆盖的山峰，而这些山峰不但具有科学价值，还有其精神意义。",
+    "published_dt_iso": "2026-09-29T08:07:17+08:00"
+  },
+  {
+    "title": "美国对加拿大实施部分乳制品和酒类产品禁令",
+    "link": "https://www.nytimes.com/2026/09/29/business/economy/canada-tariffs-ban.html",
+    "date": "2026-09-29",
+    "published_time": "12:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "对某些加拿大产品的彻底禁令于周二生效，加剧了这两个北美盟国之间破坏性的贸易战。",
+    "published_dt_iso": "2026-09-29T12:01:13+08:00"
+  },
+  {
+    "title": "美国有线电视新闻网、MS NOW和Politico寻求白宫禁令的更长缓刑",
+    "link": "https://www.nytimes.com/2026/09/28/business/trump-cnn-ms-now-politico-white-house-ban.html",
+    "date": "2026-09-29",
+    "published_time": "11:59",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "联邦法院上周暂时解除了禁令。网点希望在起诉以恢复访问权限时有更长的暂停时间。",
+    "published_dt_iso": "2026-09-29T11:59:22+08:00"
+  },
+  {
+    "title": "埃文·格什科维奇带回家的俄罗斯监狱",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/evan-gershkovich-interview.html",
+    "date": "2026-09-29",
+    "published_time": "12:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在一次采访中，被关押在俄罗斯长达16个月的《华尔街日报》记者格什科维奇描述了他所经历的磨难，以及他差点崩溃的那一刻。",
+    "published_dt_iso": "2026-09-29T12:01:07+08:00"
+  },
+  {
+    "title": "参议院响亮地批准全面的大学体育措施",
+    "link": "https://www.nytimes.com/2026/09/28/us/politics/senate-college-sports.html",
+    "date": "2026-09-29",
+    "published_time": "10:47",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "旨在稳定不稳定的大学生体育格局的立法前景在众议院尚不确定。这是国会在中期选举之前的最后一次行动。",
+    "published_dt_iso": "2026-09-29T10:47:13+08:00"
+  },
+  {
+    "title": "特朗普官员修改第九条性别歧视规则的执行方式",
+    "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-administration-revises-sex-discrimination-rules.html",
+    "date": "2026-09-29",
+    "published_time": "06:33",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The change follows a court ruling barring Title IX from protecting L.G.B.T.Q. people and has angered advocates for sexual assault survivors.",
+    "published_dt_iso": "2026-09-29T06:33:01+08:00"
+  },
+  {
+    "title": "A Turkish Doughnut Maker Whose Sweets Honor the Dead",
+    "link": "https://www.nytimes.com/2026/09/29/world/middleeast/doughnuts-istanbul.html",
+    "date": "2026-09-29",
+    "published_time": "12:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "For one Istanbul confectioner, distributing fried dough balls as memorials is not just a job. It’s personal.",
+    "published_dt_iso": "2026-09-29T12:01:09+08:00"
+  },
+  {
+    "title": "How a Planned Steel Mill in Iowa Reveals Trump’s Midterm Strategy",
+    "link": "https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html",
+    "date": "2026-09-29",
+    "published_time": "10:18",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "As President Trump travels the country, he is expected to focus on his economic accomplishments at a time when Americans have expressed deep frustration with his policies.",
+    "published_dt_iso": "2026-09-29T10:18:56+08:00"
   }
 ]

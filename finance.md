@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,823.62</span>
-      <span class="ticker-change down">▼ -1.67%</span>
+      <span class="ticker-price ticker-up">3,830.45</span>
+      <span class="ticker-change up">▲ +0.18%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">12,858.75</span>
-      <span class="ticker-change down">▼ -3.44%</span>
+      <span class="ticker-price ticker-up">12,901.95</span>
+      <span class="ticker-change up">▲ +0.34%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,139.82</span>
-      <span class="ticker-change down">▼ -4.53%</span>
+      <span class="ticker-price ticker-up">3,142.56</span>
+      <span class="ticker-change up">▲ +0.09%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,555.98</span>
-      <span class="ticker-change down">▼ -4.06%</span>
+      <span class="ticker-price ticker-up">1,569.34</span>
+      <span class="ticker-change up">▲ +0.86%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,296.00</span>
-      <span class="ticker-change down">▼ -0.37%</span>
+      <span class="ticker-price ticker-down">4,254.03</span>
+      <span class="ticker-change down">▼ -0.98%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,283.20</span>
+      <span class="ticker-price ticker-down">30,276.81</span>
       <span class="ticker-change down">▼ -0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7127</span>
+      <span class="ticker-price ticker-down">6.7052</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,128.04 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -157.08 (-3.67%)</span>
+      <span class="ticker-price ticker-up">$4,144.96 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +30.03 (+0.73%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥894.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -6.08 (-0.68%)</span>
+      <span class="ticker-price ticker-down">¥897.15 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -3.22 (-0.36%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+19.5 亿</span>
+      <span class="sector-flow-badge">+36.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+20.2 亿</span>
+      <span class="sector-flow-badge">+28.8 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+38.9 亿</span>
+      <span class="sector-flow-badge">+48.8 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+22.1 亿</span>
+      <span class="sector-flow-badge">+26.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-29/10705526.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月29日电 据应急管理部网站消息，为进一步推动各地区、有关部门、企业单位和社会公众深刻认识化工非法生产的严重危害性和“打非”工作的严峻复杂性，举一反三提升社会安全意识，保持严查严治、常抓不懈的高压态势，切实保护人民群众生命安全，应急管理部近日公布3起化工非法生产典型案例。" data-title="应急管理部公布3起化工非法生产典型案例" data-date="09-29 15:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-29 15:26</span>
+          <span class="news-item-title">应急管理部公布3起化工非法生产典型案例</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705531.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社悉尼9月29日电 (记者 薄雯雯)澳大利亚储备银行(央行)29日宣布，将基准利率上调25个基点至4.6%。这是澳央行今年第四次加息，利率升至2011年底以来最高水平。" data-title="澳大利亚央行加息至4.6%  创近15年新高" data-date="09-29 15:15" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-29 15:15</span>
+          <span class="news-item-title">澳大利亚央行加息至4.6%  创近15年新高</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-29/10705504.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="电信诈骗手段不断翻新，有不少诈骗团伙把陷阱搬到线下，以高薪兼职为诱饵套取公民个人信息。只需坐一晚上，就能轻松赚到一两百元，这样的兼职你会心动吗？" data-title="玩手机就能轻松赚钱？“游戏测试”兼职背后竟有黑灰产业链" data-date="09-29 14:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-29 14:40</span>
+          <span class="news-item-title">玩手机就能轻松赚钱？“游戏测试”兼职背后竟有黑灰产业链</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="澳洲越来越担心中国的军事实力——但北京也是其最大的贸易伙伴。" data-title="亦敌亦友：澳洲如何在超级大国竞争中找平衡？" data-date="09-29 13:46" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-29 13:46</span>
+          <span class="news-item-title">亦敌亦友：澳洲如何在超级大国竞争中找平衡？</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/29/business/economy/canada-tariffs-ban.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="对某些加拿大产品的彻底禁令于周二生效，加剧了这两个北美盟国之间破坏性的贸易战。" data-title="美国对加拿大实施部分乳制品和酒类产品禁令" data-date="09-29 12:01" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-29 12:01</span>
+          <span class="news-item-title">美国对加拿大实施部分乳制品和酒类产品禁令</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Peak XV最新的Surge队列中， 18家初创公司中有13家瞄准全球市场，而超过一半的初创公司位于印度。" data-title="Peak XV将种子投资上限飙升至500万$ ，推出18个" data-date="09-29 08:30" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">09-29 08:30</span>
+          <span class="news-item-title">Peak XV将种子投资上限飙升至500万$ ，推出18个</span>
+        </a>
         <a class="news-item" href="https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国运输部今天最终确定了削弱燃油效率标准的计划，称其为“第二届特朗普政府下最大的放松管制行动之一。“这是拜登时代标准的钉子，该标准要求车队的平均燃油经济性到2031年达到每加仑50.4英里。唐纳德总统[…]" data-title="特朗普最终确定规则，降低汽车的燃油效率" data-date="09-29 02:39" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
@@ -287,4 +323,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-29 03:44（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-29 15:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
