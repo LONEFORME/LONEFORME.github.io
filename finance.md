@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,254.03</span>
-      <span class="ticker-change down">▼ -0.98%</span>
+      <span class="ticker-price ticker-down">4,247.61</span>
+      <span class="ticker-change down">▼ -1.13%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,8 +100,8 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,276.81</span>
-      <span class="ticker-change down">▼ -0.00%</span>
+      <span class="ticker-price ticker-up">30,330.90</span>
+      <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7052</span>
+      <span class="ticker-price ticker-down">6.7079</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,144.96 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +30.03 (+0.73%)</span>
+      <span class="ticker-price ticker-up">$4,166.83 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +51.90 (+1.26%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥897.15 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -3.22 (-0.36%)</span>
+      <span class="ticker-price ticker-up">¥901.44 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +4.83 (+0.54%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -230,8 +230,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">14 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705925.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海9月29日电 (记者 缪璐)“会议一结束，我就要去和大陆企业谈合作了。”29日举行的首届“两岸创新发展周”上，台企安捷莉娜创始人江文舜在圆桌论坛时透露。" data-title="首届“两岸创新发展周”在上海举行 冀数智科技产业加大合作" data-date="09-29 21:56" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-29 21:56</span>
+          <span class="news-item-title">首届“两岸创新发展周”在上海举行 冀数智科技产业加大合作</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/008/492.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 29 日消息，Windows Latest 今日发现，微软 Win11 26H2 年度功能更新已进入发布前最后阶段，安装镜像中最核心的 ESD 文件已出现在微软内部服务器中（对应版本号为 Build 26300.9457），这通常意味着微软可能在未来数天甚至接下来几个小时正式开启推送。Windows 11 26H2 是微软面向 2026 年推出的年度功能更新，但这次更新并未带来面向普通消费者的新功能，整体更偏向稳定性与企业管理能力的改进，感兴趣的用户可通过安装启用包提前升级到 26H2。对于企业版用户，设备将默认启用两项重要功能。其中，Point-in-time Restore（系统时间点恢复功能）将在所有 PC 上默认开启，当系统出现问题时，可将 Windows 回滚到此" data-title="Win11 26H2 发布在即：Build 26300.9457 正式版 ESD 文件现身微软内部服务器" data-date="09-29 21:51" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-29 21:51</span>
+          <span class="news-item-title">Win11 26H2 发布在即：Build 26300.9457 正式版 ESD 文件现身微软内部服务器</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/28/us/politics/trump-steel-plant-iowa-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着特朗普总统在全国各地旅行，在美国人对他的政策深表沮丧之际，他预计将专注于自己的经济成就。" data-title="爱荷华州计划中的钢铁厂如何揭示特朗普的中期战略" data-date="09-29 21:22" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-29 21:22</span>
+          <span class="news-item-title">爱荷华州计划中的钢铁厂如何揭示特朗普的中期战略</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/peripherals/gaming-keyboards/save-40-percent-on-a-new-budget-gaming-keyboard-steelseries-apex-3-is-just-usd29-in-woot-deal" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Woot购买这款SteelSeries Apex 3游戏键盘可节省40 ％" data-title="购买全新经济型游戏键盘，立省40%" data-date="09-29 20:20" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-29 20:20</span>
+          <span class="news-item-title">购买全新经济型游戏键盘，立省40%</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-29/10705526.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月29日电 据应急管理部网站消息，为进一步推动各地区、有关部门、企业单位和社会公众深刻认识化工非法生产的严重危害性和“打非”工作的严峻复杂性，举一反三提升社会安全意识，保持严查严治、常抓不懈的高压态势，切实保护人民群众生命安全，应急管理部近日公布3起化工非法生产典型案例。" data-title="应急管理部公布3起化工非法生产典型案例" data-date="09-29 15:26" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -292,24 +316,6 @@ title: 股票财经
           <span class="news-item-date">09-28 23:19</span>
           <span class="news-item-title">HMD 106 Pure 手机悄然发布，仅支持 2G 网络</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10705055.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口9月28日电 (记者 符宇群)凝聚琼港澳台青年共识、汇聚青年华侨心声、集聚国际青年才智，海南正努力将自由贸易港打造成为面向港澳台青年同胞、海外青年侨胞、华裔新生代及各国青年交往的“青年会客厅”。共青团海南省委员会书记刘芳颖28日在海南省新闻办公室举办的促进青年全面发展专场新闻发布会上如是表示。" data-title="深化交流互鉴 海南打造自贸港青年会客厅" data-date="09-28 19:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-28 19:47</span>
-          <span class="news-item-title">深化交流互鉴 海南打造自贸港青年会客厅</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-28/10705017.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙9月28日电 (记者 唐小晴)近年来，湖南长沙县跳出传统观光旅游单一模式，持续推进文旅业态迭代、场景更新、模式创新，因地制宜培育差异化文旅新业态，形成“一镇一特色、一域一业态”的发展格局，推动乡村文旅从“单一观光”向“深度体验、过夜消费、产业增收”转型，全面激活近郊微度假市场活力，打造长沙乡村文旅融合发展标杆。" data-title="业态迭代破圈、农旅融合提质 湖南长沙县解锁近郊微度假新范式" data-date="09-28 18:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-28 18:53</span>
-          <span class="news-item-title">业态迭代破圈、农旅融合提质 湖南长沙县解锁近郊微度假新范式</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-28/10704909.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月28日电 第48届世界技能大赛9月22日到27日在上海举办，多家外媒关注此次大赛盛况，并聚焦中国选手表现。报道指出，中国高度重视前沿技术创新发展，通过在世界技能大赛上的亮眼成绩，体现了强大的产业竞争力。" data-title="外媒关注第48届世界技能大赛：中国技能惊艳世界，凸显产业竞争力" data-date="09-28 16:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-28 16:18</span>
-          <span class="news-item-title">外媒关注第48届世界技能大赛：中国技能惊艳世界，凸显产业竞争力</span>
-        </a>
   </div>
 </div>
 
@@ -323,4 +329,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-29 15:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-29 22:14（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
