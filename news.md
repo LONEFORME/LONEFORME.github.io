@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-30 15:35 抓取更新</span>
+      <span>2026-09-30 22:04 抓取更新</span>
     </div>
   </div>
 
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-30/10706225.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京9月30日电#8195;10月1日出版的第19期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。" data-title="《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》" data-date="09-30 15:21" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-30/10706535.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="庆祝中华人民共和国成立77周年招待会9月30日在人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。他强调——" data-title="习言道｜我们对中国式现代化的光明前景充满信心" data-date="09-30 21:41" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 09-30 15:21</span>
+        <span class="hero-featured-date">🕒 09-30 21:41</span>
       </div>
-      <h2 class="hero-featured-title">《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》</h2>
+      <h2 class="hero-featured-title">习言道｜我们对中国式现代化的光明前景充满信心</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/008/762.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dynamic AMOLED 2X，分辨率 2960×1848，支持 120Hz 刷新率，S Pen 随盒附赠。IT之家附上相关图片如下：该机型尺寸为 208.5×326.3×5.1mm，重量 695 克，具备 IP68 防护等级。电池容量 11600mAh，支持 45W 充电，并配备指纹识别、Wi‑Fi" data-title="三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能" data-date="09-30 15:28" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/008/918.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，三星电子今天宣布推出 Galaxy Tab S12 系列平板，包含 Tab S12+ 和 Tab S12 Ultra 两个机型。两款机器均采用轻薄设计，提供更强性能和全新 AI 功能，10 月 7 日起陆续在全球各地上市。据介绍，三星 Galaxy Tab S12 系列平板配备沉浸式显示屏，附赠符合人体工学设计的 S Pen 手写笔，可轻松记录笔记，满足工作和学习要求。其中，Tab S12 Ultra 机身厚度仅 5.1mm，是三星迄今为止最薄的平板。规格方面，Galaxy Tab S12+ 平板配备 12.6 英寸屏幕，Ultra 提供 14.6 英寸大屏。两款机型均为 AMOLED 2X 屏幕，最高亮度可达 1600nits，可在室外呈现清晰画面。配备四扬" data-title="三星 Galaxy Tab S12+/S12 Ultra 平板发布：天玑 9500 芯片，12.6/14.6 英寸 AMOLED 大屏" data-date="09-30 21:42" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能</p>
+      <p class="hero-sub-title">三星 Galaxy Tab S12+/S12 Ultra 平板发布：天玑 9500 芯片，12.6/14.6 英寸 AMOLED 大屏</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC Sport analyses Manchester City&#39;s dominance of English football during the period in which they were breaching financial rules." data-title="£1.2bn on transfers with £830m inflated in accounts - Man City&#39;s &#39;asterisk era&#39;" data-date="09-30 14:26" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/008/916.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 9 月 30 日消息，英国《泰晤士高等教育》（THE）今日公布 2027 年度世界大学排名。清华大学排名升至全球第 11 位，成为亚洲排名最高的高校，并首次超过欧洲大陆排名最高的瑞士苏黎世联邦理工学院（ETH Zurich）。这是亚洲高校首次在该榜单中超过欧洲大陆高校。本次排名共纳入来自 118 个国家和地区的 2297 所大学。英国牛津大学连续第 11 年位居榜首，麻省理工学院（MIT）排名第二，普林斯顿大学与斯坦福大学并列第三。全球前十名仍全部由英国和美国高校占据，其中美国高校占据 7 席。前 15 名学院国家今年排名去年排名牛津大学英国11麻省理工学院美国22普林斯顿大学美国33斯坦福大学美国35剑桥大学英国53哈佛大学美国65加州理工学院美国77伦敦帝国理工学院英国88加州" data-title="清华大学跻身 THE 2027 全球大学第 11 名及亚洲第一，亚洲高校首次超越欧洲" data-date="09-30 21:41" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-bbc">🇬🇧 BBC</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'</p>
+      <p class="hero-sub-title">清华大学跻身 THE 2027 全球大学第 11 名及亚洲第一，亚洲高校首次超越欧洲</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/1/008/769.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，今天（30 日）下午，比亚迪海洋网销售事业部总经理张卓发布第二代海鸥内饰细节的预告，并通过长图详细介绍了部分配置。IT之家从预告获悉，新车座舱采用以白色为主的内饰，并搭载怀挡，营造通透、典雅的氛围。具体到配置上，新车将搭载多色氛围灯、前排电动调节座椅（主驾支持按摩）、自动空调、磁吸灵动按键，后排空间也将迎来提升。空间方面，该车将搭载 94 升前备箱，后备箱容量最高可达 1380 升（需放倒第二排座椅），二排座椅下方还设置了隐藏式储物盒。第二代海鸥此前已完成工信部申报。新车采用最新设计语言，前脸造型焕新，配备三叉戟样式灯组。侧面来看，新车腰线上扬，营造俯冲姿态，并采用悬浮车顶设计。车身尺寸方面，申报信息显示新车尺寸为 4205×1810 ×1570mm、轴距 2" data-title="比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车" data-date="09-30 15:36" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/008/921.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，珍艾碧丝官方今天宣布，《红色沙漠》游戏首个 DLC《未知征途》将延期至 10 月 30 日发售，相比原定的 10 月 16 日晚两周。官方表示，红色沙漠团队一直在全力推进《红色沙漠：增强版-未知征途》DLC 的开发。但经过评估，要达到更高的完成度并提供更稳定的游戏体验，他们还需要额外的开发时间。因此决定将该 DLC 发售日期推迟两周，调整至 10 月 30 日。此外，该 DLC 将加入全新剧情、乘船探索、水下探索、新敌人和新战斗等内容。IT之家附官方介绍大意如下：帕卫尔海岸之外，新的冒险正在等待玩家。玩家可以驾驶自己的船只扬帆出海，探索未知岛屿，发现熟悉海岸线之外的世界。在海面之下，玩家还可以寻找水下宝藏、沉没的遗迹和隐藏的秘密，开辟新的探索路线。无论水面之上" data-title="《红色沙漠》游戏首个 DLC《未知征途》跳票两周，10 月 30 日见" data-date="09-30 22:04" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车</p>
+      <p class="hero-sub-title">《红色沙漠》游戏首个 DLC《未知征途》跳票两周，10 月 30 日见</p>
     </a>
   </div>
 </div>
@@ -103,6 +103,42 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706535.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="庆祝中华人民共和国成立77周年招待会9月30日在人民大会堂举行。中共中央总书记、国家主席、中央军委主席习近平出席招待会并发表重要讲话。他强调——" data-title="习言道｜我们对中国式现代化的光明前景充满信心" data-date="09-30 21:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:41</span>
+          <span class="news-item-title">习言道｜我们对中国式现代化的光明前景充满信心</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706522.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网悉尼9月30日电 (记者 薄雯雯)中国驻悉尼总领馆28日晚举办庆祝中华人民共和国成立77周年招待会。新州政府、议会、市镇，驻悉尼领团，政、商、学等各界友人，中资机构代表等200余人参加。" data-title="驻悉尼总领馆举办庆祝中华人民共和国成立77周年招待会" data-date="09-30 21:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:30</span>
+          <span class="news-item-title">驻悉尼总领馆举办庆祝中华人民共和国成立77周年招待会</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706509.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网昆明9月30日电 (黄笛)中国能建葛洲坝集团9月30日消息，由该集团承建的安哥拉凯凯水电站项目关键线路和控制性工程——尾水隧洞1号洞衬砌混凝土浇筑完成，较原计划提前77天，标志着该隧洞全面转入固结灌浆及附属工程施工阶段。" data-title="中企承建安哥拉凯凯水电站控制性工程提前77天完工" data-date="09-30 21:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:30</span>
+          <span class="news-item-title">中企承建安哥拉凯凯水电站控制性工程提前77天完工</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706506.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网纽约9月30日电 (记者 王帆)当地时间9月29日晚，中国常驻联合国代表团在纽约驻地举行庆祝中华人民共和国成立77周年招待会。中国常驻联合国代表傅聪大使夫妇、副代表孙磊大使同联合国秘书长办公厅主任拉特雷等9位联合国副秘书长、100多国常驻联合国代表及美东各界友人逾400人出席活动。" data-title="中国常驻联合国代表团举行国庆77周年招待会" data-date="09-30 21:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:29</span>
+          <span class="news-item-title">中国常驻联合国代表团举行国庆77周年招待会</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706510.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网广州9月30日电 (记者 程景伟)据广州市中山纪念堂管理中心9月30日消息，广州中山纪念堂孙中山铜像及基座专项保养维护工作已于近日提前完成。国庆假期起，焕然一新的孙中山铜像可供市民和游客瞻仰。" data-title="广州中山纪念堂孙中山铜像完成保养维护" data-date="09-30 21:00" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:00</span>
+          <span class="news-item-title">广州中山纪念堂孙中山铜像完成保养维护</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cq74e2y0x2jno/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="老板表示，他选择这个名字，是因为希望经营“韩国最好的中餐馆”。" data-title="韩国“习近平餐馆”遭中国人跨境喷漆袭击" data-date="09-30 16:23" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 16:23</span>
+          <span class="news-item-title">韩国“习近平餐馆”遭中国人跨境喷漆袭击</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706225.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京9月30日电#8195;10月1日出版的第19期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。" data-title="《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》" data-date="09-30 15:21" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -157,42 +193,6 @@ title: 热点新闻
           <span class="news-item-date">09-30 14:00</span>
           <span class="news-item-title">“转折之城” 长征故事代代传</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706114.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月30日电 拉巴特消息：摩洛哥国王穆罕默德六世于当地时间9月29日在首都拉巴特王宫任命法蒂玛·宰赫拉·曼苏里为新首相，并授权她组建新政府。曼苏里由此成为摩洛哥历史上首位女性政府首脑。" data-title="曼苏里成为摩洛哥首位女首相" data-date="09-30 13:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 13:41</span>
-          <span class="news-item-title">曼苏里成为摩洛哥首位女首相</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706038.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社开罗9月30日电 (记者 马秀秀)当地时间9月29日，在埃及开罗举行的“中国学的世界对话·阿拉伯国家专场”活动上，开罗大学研究生与科研事务副校长马哈茂德·萨义德在致辞中提出，包括埃及在内的阿拉伯世界出现日益明显的“向东看”趋势。" data-title="中东学者：阿拉伯世界出现日益明显的“向东看”趋势" data-date="09-30 13:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 13:41</span>
-          <span class="news-item-title">中东学者：阿拉伯世界出现日益明显的“向东看”趋势</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706015.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="日本政府旨在强化情报能力的专家会议28日召开首次会议。高市政府借所谓安全议题加紧完善国家级情报顶层设计，持续突破战后安保约束，相关动向引人担忧。" data-title="日本冲击战后和平体制 加剧地区安全困境" data-date="09-30 09:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 09:39</span>
-          <span class="news-item-title">日本冲击战后和平体制 加剧地区安全困境</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10705981.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="联合国秘书长发言人迪雅里克29日在纽约联合国总部表示，联合国秘书长古特雷斯对乌克兰危机中不断升级的袭击及平民伤亡表示关切，谴责任何针对平民和民用基础设施的袭击，并呼吁立即停止当前“危险的升级循环”，推动实现立即、全面、无条件停火。" data-title="联合国呼吁停止升级乌克兰局势" data-date="09-30 08:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 08:56</span>
-          <span class="news-item-title">联合国呼吁停止升级乌克兰局势</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel’s conduct in the West Bank, as some in the party propose punishing settlement activity with sanctions." data-title="Democrats in Congress Embrace a More Punitive Posture Toward Israel" data-date="09-30 08:46" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 08:46</span>
-          <span class="news-item-title">Democrats in Congress Embrace a More Punitive Posture Toward Israel</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10705970.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月30日电 据朝中社30日报道，朝鲜劳动党中央委员会部长金与正29日发表谈话，称“挑衅的肇事者必须为自导自演剧付出代价做好思想准备”。" data-title="金与正批韩国借所谓地雷事件挑衅朝鲜： “低级拙劣的表演”" data-date="09-30 07:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 07:55</span>
-          <span class="news-item-title">金与正批韩国借所谓地雷事件挑衅朝鲜： “低级拙劣的表演”</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -200,95 +200,95 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/008/762.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dynamic AMOLED 2X，分辨率 2960×1848，支持 120Hz 刷新率，S Pen 随盒附赠。IT之家附上相关图片如下：该机型尺寸为 208.5×326.3×5.1mm，重量 695 克，具备 IP68 防护等级。电池容量 11600mAh，支持 45W 充电，并配备指纹识别、Wi‑Fi" data-title="三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能" data-date="09-30 15:28" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/008/918.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，三星电子今天宣布推出 Galaxy Tab S12 系列平板，包含 Tab S12+ 和 Tab S12 Ultra 两个机型。两款机器均采用轻薄设计，提供更强性能和全新 AI 功能，10 月 7 日起陆续在全球各地上市。据介绍，三星 Galaxy Tab S12 系列平板配备沉浸式显示屏，附赠符合人体工学设计的 S Pen 手写笔，可轻松记录笔记，满足工作和学习要求。其中，Tab S12 Ultra 机身厚度仅 5.1mm，是三星迄今为止最薄的平板。规格方面，Galaxy Tab S12+ 平板配备 12.6 英寸屏幕，Ultra 提供 14.6 英寸大屏。两款机型均为 AMOLED 2X 屏幕，最高亮度可达 1600nits，可在室外呈现清晰画面。配备四扬" data-title="三星 Galaxy Tab S12+/S12 Ultra 平板发布：天玑 9500 芯片，12.6/14.6 英寸 AMOLED 大屏" data-date="09-30 21:42" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:28</span>
-          <span class="news-item-title">三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能</span>
+          <span class="news-item-date">09-30 21:42</span>
+          <span class="news-item-title">三星 Galaxy Tab S12+/S12 Ultra 平板发布：天玑 9500 芯片，12.6/14.6 英寸 AMOLED 大屏</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/758.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，当地时间 29 日，据《商业内幕》报道，沃尔玛明确禁止门店使用“AI 垃圾内容”。长期以来，沃尔玛不允许门店自行定制印刷标识，最近更新的规定又进一步强调，AI 生成的海报同样不得使用。规定明确写道：“门店不得展示使用 AI 工具制作的标识。”新规针对的是零售店和餐厅经理越来越常见的一种做法：不用专业平面设计师，直接拿 ChatGPT、Claude 或 Gemini 等 AI 工具制作公告和促销物料。好处是既省钱，也省事，坏处自然是成品质量往往难以保证。现如今，熟食店和杂货店尤其热衷用 AI 内容制作菜单和招牌。此前中外社交媒体上已经出现不少例子，顾客对此普遍反感。报道指出，这种临时拼凑出来的印刷物料，也存在破坏母公司长期维持的品牌形象和统一标准的风险。IT之家" data-title="沃尔玛对超市门店内的 AI 生成海报说“不”" data-date="09-30 15:17" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/008/917.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，当地时间 9 月 30 日，新思科技宣布与亚马逊达成多年期定制芯片 IP 战略合作协议，合作范围进一步拓展至云端及 AI 赋能的工程研发领域。官方表示，通过引入新思科技的芯片知识产权以及 AI 驱动的工程软件解决方案，将加速亚马逊定制芯片与 AWS 基础设施的工程研发进程。双方达成多年期、总额超 10 亿美元（IT之家注：现汇率约合 67.18 亿元人民币）的合作协议，新思科技将借助 AWS 服务加快自身产品迭代步伐，并与亚马逊协同针对 Trainium 与 Graviton 芯片深度优化新思科技旗下的软件工具。此外，新思科技工程团队还将全面引入亚马逊弹性计算云（Amazon EC2）与 Amazon Bedrock，以此加速其前沿产品的开发效率。" data-title="新思科技与亚马逊签署多年期超 10 亿美元协议，推进定制芯片合作" data-date="09-30 21:42" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:17</span>
-          <span class="news-item-title">沃尔玛对超市门店内的 AI 生成海报说“不”</span>
+          <span class="news-item-date">09-30 21:42</span>
+          <span class="news-item-title">新思科技与亚马逊签署多年期超 10 亿美元协议，推进定制芯片合作</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706181.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网9月30日电 综合美媒报道，当地时间29日，美国总统特朗普发布行政令，称在法律允许的最大范围内，联邦行政部门今后将在官方通信、公开声明、政府网站、报告、政策文件及其他非法定文件中，使用“超级智能”(Super Intelligence，SI)取代“人工智能”(Artificial Intelligence，AI)这一表述。" data-title="特朗普签令：将“人工智能”改称为“超级智能”" data-date="09-30 14:02" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/30/business/china-ai-deepseek-huawei.html" target="_blank" rel="noopener" data-cat="keji" data-summary="In China’s push for self-reliance in artificial intelligence, DeepSeek and Huawei have teamed up to develop software tools for advanced chips." data-title="DeepSeek和华为瞄准英伟达人工智能主导地位的关键来源" data-date="09-30 21:36" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-30 21:36</span>
+          <span class="news-item-title">DeepSeek和华为瞄准英伟达人工智能主导地位的关键来源</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/008/914.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，哔哩哔哩 Index LLM 团队今日正式发布 Index-Translate 模型，2B / 9B / 35B-A3B（preview）文本模型权重在 Hugging Face 与 ModelScope 开放。Index-Translate 是基于 Qwen3.5 构建的多语言翻译模型家族。文本模型覆盖包括中文、英文在内的 150 种语言，支持术语、格式、保留内容等翻译指令，并将共同的多语基础扩展到语音、音节可控翻译和长文档翻译。Index-Translate：翻译文本、结构化内容与社区表达。Index-Echo：生成目标语言字幕或配音，配音时参考源语音的说话人声音特征。Index-Homura：根据指定的目标音节数调整译文。Index-NativeLong" data-title="B站开源 Index-Translate 多语言翻译模型家族，文本模型支持 150 种语言" data-date="09-30 21:24" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 21:24</span>
+          <span class="news-item-title">B站开源 Index-Translate 多语言翻译模型家族，文本模型支持 150 种语言</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/florida-attorney-general-asks-judge-to-bar-openai-from-developing-new-ai-models-without-third-party-approval-openai-says-it-already-paused-training-its-most-capable-models-last-week" target="_blank" rel="noopener" data-cat="keji" data-summary="佛罗里达州要求法院禁止OpenAI在未经第三方批准的情况下开发新的人工智能模型，并禁止未成年人使用ChatGPT。" data-title="佛罗里达州总检察长要求法官禁止OpenAI开发新的人工智能模型" data-date="09-30 21:20" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-30 21:20</span>
+          <span class="news-item-title">佛罗里达州总检察长要求法官禁止OpenAI开发新的人工智能模型</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/policy/trump-tells-federal-agencies-to-use-the-term-super-intelligence-instead-of-artificial-intelligence-president-insists-that-ai-is-only-suffering-from-a-branding-problem" target="_blank" rel="noopener" data-cat="keji" data-summary="唐纳德·特朗普总统发布了一项行政命令，指示所有联邦机构停止使用“人工智能”一词，而是将其称为“超级智能”。“总统说，新术语将解决人工智能的品牌问题，它&#39;更恰当地抓住了这些技术的前景、潜力和快速发展的能力。”" data-title="特朗普告诉联邦机构使用“超级智能”一词而不是人工智能" data-date="09-30 20:51" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-30 20:51</span>
+          <span class="news-item-title">特朗普告诉联邦机构使用“超级智能”一词而不是人工智能</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/the-price-of-ai-is-crashing-faster-than-the-rate-of-moores-law-report-suggests-intelligence-costs-are-in-freefall-outpacing-comparative-technologies-like-compute-dna-sequencing-and-lithium-batteries" target="_blank" rel="noopener" data-cat="keji" data-summary="根据一些估计，人工智能“智能”的价格近年来急剧下降，比历史上任何其他转型技术都要快。这引发了一个严重的问题，即当前沿能力如此迅速地出现在其他地方时，是否需要保留对前沿能力的访问权限。" data-title="报告显示，人工智能的价格崩溃速度快于摩尔定律的速度" data-date="09-30 20:40" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-30 20:40</span>
+          <span class="news-item-title">报告显示，人工智能的价格崩溃速度快于摩尔定律的速度</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706501.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网北京9月30日电 (记者 孙自法)中国科协主办的科技成就教育品牌——“新天工开物”科技成就发布会，9月30日首播人工智能(AI)专场，发布中国人工智能技术领域自主创新的“深度自然语言理解和生成关键技术及应用”“材料大模型的构建及应用”两项科技成就，分别对应“立知”“材华”两款大模型。" data-title="聚焦AI 中国科协“新天工开物”科技成就发布“立知”和“材华”大模型" data-date="09-30 20:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 14:02</span>
-          <span class="news-item-title">特朗普签令：将“人工智能”改称为“超级智能”</span>
+          <span class="news-item-date">09-30 20:27</span>
+          <span class="news-item-title">聚焦AI 中国科协“新天工开物”科技成就发布“立知”和“材华”大模型</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/499308.html" target="_blank" rel="noopener" data-cat="keji" data-summary="DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）" data-title="DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec" data-date="09-30 13:18" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-30 13:18</span>
-          <span class="news-item-title">DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/499280.html" target="_blank" rel="noopener" data-cat="keji" data-summary="机器人上市，风向有变" data-title="36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了" data-date="09-30 12:42" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-30 12:42</span>
-          <span class="news-item-title">36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="美国总统继续拒绝为人工智能设立监管措施的呼吁，认为这将扼杀人工智能的发展。" data-title="特朗普排除美中合作开发人工智能" data-date="09-30 12:39" data-source="BBC">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-30 12:39</span>
-          <span class="news-item-title">特朗普排除美中合作开发人工智能</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/499263.html" target="_blank" rel="noopener" data-cat="keji" data-summary="DeepSeek官方开源升腾基础组件，与升腾共建高效易用的AI芯片软件生态" data-title="DeepSeek官方开源升腾基础组件，与升腾共建高效易用的AI芯片软件生态" data-date="09-30 10:53" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-30 10:53</span>
-          <span class="news-item-title">DeepSeek官方开源升腾基础组件，与升腾共建高效易用的AI芯片软件生态</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="有研究机构发现月之暗面的Kimi模型可以绕过开发者的安全限制，提供制造生化武器的资讯。" data-title="中国人工智能工具“教导”研究人员制造生物武器" data-date="09-30 10:20" data-source="BBC">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-30 10:20</span>
-          <span class="news-item-title">中国人工智能工具“教导”研究人员制造生物武器</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety" target="_blank" rel="noopener" data-cat="keji" data-summary="For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won&#39;t happen until the company can make better promises about model safety, with no firm timeline in sight. &quot;We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]" data-title="Sam Altman says OpenAI won’t go public until its models are safe" data-date="09-30 08:19" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs" target="_blank" rel="noopener" data-cat="keji" data-summary="我们现在有了特朗普总统昨天宣布的“具有道德约束力”的人工智能安全协议的全部细节，其中高管们同意自我监管他们的人工智能技术。该协议的正式名称为“关于前沿责任的联合承诺” ，由技术创始人兼总统顾问大卫·萨克斯在线分享，并已由[…]签署" data-title="以下是根据特朗普的交易，技术领导者将如何自我监管人工智能安全" data-date="09-30 20:24" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-30 08:19</span>
-          <span class="news-item-title">Sam Altman says OpenAI won’t go public until its models are safe</span>
+          <span class="news-item-date">09-30 20:24</span>
+          <span class="news-item-title">以下是根据特朗普的交易，技术领导者将如何自我监管人工智能安全</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html" target="_blank" rel="noopener" data-cat="keji" data-summary="A Republican eager to prove the former special counsel was dishonest appeared to instead demonstrate his own confusion over basic facts." data-title="Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart" data-date="09-30 07:37" data-source="纽约时报">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers" target="_blank" rel="noopener" data-cat="keji" data-summary="Cadence、Synopsys和西门子都为芯片设计提供代理AI ，主要基于英伟达的堆栈构建，具有不同的自主性主张。" data-title="2026年芯片设计工具中智能AI的状态" data-date="09-30 20:20" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 07:37</span>
-          <span class="news-item-title">Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-30 20:20</span>
+          <span class="news-item-title">2026年芯片设计工具中智能AI的状态</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/09/499246.html" target="_blank" rel="noopener" data-cat="keji" data-summary="今年devday牙膏挤爆" data-title="OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了" data-date="09-30 07:01" data-source="量子位">
+        <a class="news-item" href="https://www.qbitai.com/2026/09/499605.html" target="_blank" rel="noopener" data-cat="keji" data-summary="什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？" data-title="直播回顾：工业AI的下一个机会在哪？" data-date="09-30 20:11" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">09-30 07:01</span>
-          <span class="news-item-title">OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了</span>
+          <span class="news-item-date">09-30 20:11</span>
+          <span class="news-item-title">直播回顾：工业AI的下一个机会在哪？</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai" target="_blank" rel="noopener" data-cat="keji" data-summary="The US executive branch is no longer acknowledging the existence of &quot;artificial intelligence.&quot; Going forward, official policy websites, policy documents, and press releases will refer only to &quot;Super Intelligence,&quot; thanks to a new executive order signed by President Donald Trump. &quot;The word super is the best word of all, and it&#39;s the simplest,&quot; Trump" data-title="Trump orders US government to call AI ‘Super Intelligence’" data-date="09-30 06:25" data-source="The Verge">
+        <a class="news-item" href="https://www.tomshardware.com/networking/the-ethernet-spec-was-first-drafted-on-this-day-in-1980-dec-intel-and-xerox-defined-the-standard-several-years-before-the-internet-existed" target="_blank" rel="noopener" data-cat="keji" data-summary="1980年的这一天， Digital Equipment Corporation （ DEC ）、Intel和Xerox发布了以太网规范1.0版。" data-title="以太网规范于1980年的这一天首次起草" data-date="09-30 20:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-30 20:00</span>
+          <span class="news-item-title">以太网规范于1980年的这一天首次起草</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/news/1002563/apple-smart-home-hub-homepad-rumor-launch-date" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道，传闻已久的苹果智能家居中心将于10月13日揭晓。彭博社的马克·古尔曼（ Mark Gurman ）报道说，智能家居设备将与新的HomePod mini和升级的Apple TV设备一起发布。这三款产品都将展示苹果经过大修的人工智能助手Siri AI。智能家居中心，一种新产品[…]" data-title="据报道，苹果的“HomePad”将于10月13日推出" data-date="09-30 19:11" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-30 06:25</span>
-          <span class="news-item-title">Trump orders US government to call AI ‘Super Intelligence’</span>
+          <span class="news-item-date">09-30 19:11</span>
+          <span class="news-item-title">据报道，苹果的“HomePad”将于10月13日推出</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/" target="_blank" rel="noopener" data-cat="keji" data-summary="Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk&#39;s xAI had already acquired the domain name &quot;dot.com,&quot; which now redirects to the Grok chatbot download page." data-title="The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch" data-date="09-30 06:20" data-source="TechCrunch">
+        <a class="news-item" href="https://www.qbitai.com/2026/09/499597.html" target="_blank" rel="noopener" data-cat="keji" data-summary="实测说GLM-5.3很强" data-title="Anthropic，你是来给智谱打广告的吧！" data-date="09-30 18:04" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 06:20</span>
-          <span class="news-item-title">The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-30 18:04</span>
+          <span class="news-item-title">Anthropic，你是来给智谱打广告的吧！</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html" target="_blank" rel="noopener" data-cat="keji" data-summary="A Staten Island judge sided with a group of homeowners who had sued the city over its introduction of the tax, dealing a blow to Mayor Zohran Mamdani." data-title="Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over" data-date="09-30 06:01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html" target="_blank" rel="noopener" data-cat="keji" data-summary="此外， nepo婴儿参加脂肪熊周。" data-title="美国在二十年后从伊拉克撤军，特朗普告诉人工智能巨头自己警察" data-date="09-30 18:00" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 06:01</span>
-          <span class="news-item-title">Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike." data-title="OpenAI’s latest features take direct aim at the app store model" data-date="09-30 04:15" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 04:15</span>
-          <span class="news-item-title">OpenAI’s latest features take direct aim at the app store model</span>
+          <span class="news-item-date">09-30 18:00</span>
+          <span class="news-item-title">美国在二十年后从伊拉克撤军，特朗普告诉人工智能巨头自己警察</span>
         </a>
   </div>
   <div class="news-category">
@@ -297,11 +297,53 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/008/916.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 9 月 30 日消息，英国《泰晤士高等教育》（THE）今日公布 2027 年度世界大学排名。清华大学排名升至全球第 11 位，成为亚洲排名最高的高校，并首次超过欧洲大陆排名最高的瑞士苏黎世联邦理工学院（ETH Zurich）。这是亚洲高校首次在该榜单中超过欧洲大陆高校。本次排名共纳入来自 118 个国家和地区的 2297 所大学。英国牛津大学连续第 11 年位居榜首，麻省理工学院（MIT）排名第二，普林斯顿大学与斯坦福大学并列第三。全球前十名仍全部由英国和美国高校占据，其中美国高校占据 7 席。前 15 名学院国家今年排名去年排名牛津大学英国11麻省理工学院美国22普林斯顿大学美国33斯坦福大学美国35剑桥大学英国53哈佛大学美国65加州理工学院美国77伦敦帝国理工学院英国88加州" data-title="清华大学跻身 THE 2027 全球大学第 11 名及亚洲第一，亚洲高校首次超越欧洲" data-date="09-30 21:41" data-source="IT之家">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 21:41</span>
+          <span class="news-item-title">清华大学跻身 THE 2027 全球大学第 11 名及亚洲第一，亚洲高校首次超越欧洲</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英国广播公司体育台（ BBC Sport ）审视了曼城（ Manchester City ）被判有罪判决后的关键问题。" data-title="刑事调查？降级还是驱逐？曼城的关键问题" data-date="09-30 21:17" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 21:17</span>
+          <span class="news-item-title">刑事调查？降级还是驱逐？曼城的关键问题</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/30/manchester-city-premier-league-legal-costs" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="俱乐部被判犯有违反财务规则的罪行曼城否认有不当行为，称这是一个“阴谋论”曼城在被判犯有几乎所有针对他们的指控后，将欠英超联赛数千万英镑的法律费用。英超联赛周二宣布，一个独立委员会已确定俱乐部在九年内人为地将他们的收入增加了9亿£" data-title="曼城可能被迫向英超支付高达5000万英镑的法律费用" data-date="09-30 20:16" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 20:16</span>
+          <span class="news-item-title">曼城可能被迫向英超支付高达5000万英镑的法律费用</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="前经理佩普·瓜迪奥拉（ Pep Guardiola ）表示，在他们被判犯有与违反英超财务规则有关的所有指控后，他将“永远”落后于曼城。" data-title="瓜迪奥拉在有罪判决后支持曼城" data-date="09-30 18:07" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 18:07</span>
+          <span class="news-item-title">瓜迪奥拉在有罪判决后支持曼城</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="前曼联队长罗伊·基恩（ Roy Keane ）表示，如果他是曼城球员，他将把“奖牌扔进垃圾桶” ，因为英超联赛周二确认俱乐部犯有与财务规则相关的所有指控，并在与商业部门安排“虚假合同”后将他们的收入增加了9亿多£" data-title="“把你的奖牌扔进垃圾桶，”罗伊·基恩告诉曼城球员" data-date="09-30 17:53" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 17:53</span>
+          <span class="news-item-title">“把你的奖牌扔进垃圾桶，”罗伊·基恩告诉曼城球员</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706317.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网雅加达9月30日电 当地时间9月29日，中国驻登巴萨总领馆举办庆祝中华人民共和国成立77周年招待会。中国驻登巴萨总领事张志升、印度尼西亚巴厘省省长考斯特以及领区三省政府、议会、警察、军队、宗教界、华侨华人、中资机构和孔子学院代表等400余人出席。" data-title="中国驻登巴萨总领馆举办庆祝中华人民共和国成立77周年招待会" data-date="09-30 17:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 17:17</span>
+          <span class="news-item-title">中国驻登巴萨总领馆举办庆祝中华人民共和国成立77周年招待会</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC Sport analyses Manchester City&#39;s dominance of English football during the period in which they were breaching financial rules." data-title="£1.2bn on transfers with £830m inflated in accounts - Man City&#39;s &#39;asterisk era&#39;" data-date="09-30 14:26" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-30 14:26</span>
           <span class="news-item-title">£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC Sport分析了曼城在违反财务规则期间对英格兰足球的主导地位。" data-title="转账12亿英镑，赞助资金8.3亿英镑-曼城的“星号时代”" data-date="09-30 14:26" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 14:26</span>
+          <span class="news-item-title">转账12亿英镑，赞助资金8.3亿英镑-曼城的“星号时代”</span>
         </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="After the Premier League published the ‘core decision’ of its independent commission, we pick out the main elementsThe independent commission’s “core decision” is a 40-page document which appears to confirm the worst interpretation of Manchester City’s behaviour. Central to the finding that the club were guilty of all charges of breaching the Premi" data-title="Disguised funding and dishonest witnesses: key findings in Manchester City case" data-date="09-30 05:02" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -309,11 +351,23 @@ title: 热点新闻
           <span class="news-item-date">09-30 05:02</span>
           <span class="news-item-title">Disguised funding and dishonest witnesses: key findings in Manchester City case</span>
         </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在英超联赛发布其独立委员会的“核心决定”之后，我们挑选出主要内容。独立委员会的“核心决定”是一份长达40页的文件，似乎证实了对曼城行为的最糟糕解释。俱乐部违反英超联赛财务规则的所有指控的核心结论是，曼城利润丰厚的赞助安排是" data-title="伪装的资金和不诚实的证人：曼城案件的主要调查结果" data-date="09-30 05:02" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 05:02</span>
+          <span class="news-item-title">伪装的资金和不诚实的证人：曼城案件的主要调查结果</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here&#39;s what it sets out." data-title="The intricate web Man City spun to con the Premier League" data-date="09-30 04:58" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-30 04:58</span>
           <span class="news-item-title">The intricate web Man City spun to con the Premier League</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这份长达40页的文件证实，曼城因夸大赞助收入而被判有罪，这本书读起来很有趣。以下是它所阐述的内容。" data-title="错综复杂的网络曼城转向英超联赛" data-date="09-30 04:58" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 04:58</span>
+          <span class="news-item-title">错综复杂的网络曼城转向英超联赛</span>
         </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="How can Manchester City be trusted under these owners after they were found to have devised £900m of ‘sham’ contracts? How bad could it be, really? How serious can a breach of arcane financial regulations be, really? Just how damning can accountancy be? Even after Friday’s revelation that Manchester City had been found guilty of all but one of the" data-title="Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson" data-date="09-30 04:30" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -321,71 +375,17 @@ title: 热点新闻
           <span class="news-item-date">09-30 04:30</span>
           <span class="news-item-title">Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson</span>
         </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在他们被发现设计了9亿英镑的“虚假”合同后，如何信任这些业主？真的，情况会有多糟糕？违反神秘财务法规的严重程度到底有多严重？会计究竟能有多糟糕？即使在周五披露曼城被判犯有英超联赛对他们提出的指控之一之外的所有罪名之后，也许很难掌握" data-title="虚假城市：对财务违规的判决是严厉的，惩罚必须严厉|乔纳森·威尔逊" data-date="09-30 04:30" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 04:30</span>
+          <span class="news-item-title">虚假城市：对财务违规的判决是严厉的，惩罚必须严厉|乔纳森·威尔逊</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sounds/play/p0pd2w9y?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Kelly Somers is joined by Dale Johnson, Kieran Maguire, John Murray and Paul Robinson" data-title="Football Daily" data-date="09-30 03:30" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">09-30 03:30</span>
           <span class="news-item-title">Football Daily</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-ceo-soriano-says-guilty-verdicts-are-a-premier-league-conspiracy-theory" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Soriano: the case is based on ‘a single false accusation’Club to appeal after verdict on more than 100 chargesManchester City’s chief executive, Ferran Soriano, has said the guilty verdicts against the club for breaches of financial rules are based on “a single false accusation” and a “Premier League conspiracy theory”, as he maintained City’s inno" data-title="Manchester City CEO Soriano says guilty verdicts are ‘a Premier League conspiracy theory’" data-date="09-30 02:39" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-30 02:39</span>
-          <span class="news-item-title">Manchester City CEO Soriano says guilty verdicts are ‘a Premier League conspiracy theory’</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18." data-title="Man City guilty of &#39;sham&#39; contracts and £830m &#39;disguised funding scheme&#39;" data-date="09-30 02:12" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-30 02:12</span>
-          <span class="news-item-title">Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-sham-seasons-how-they-fared-and-who-was-in-charge" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="一个独立委员会发现，曼城在2009-10赛季和2017-18赛季之间严重违反英超联赛财务规则的所有指控被判有罪，曼城违反了英超联赛财务规则，创建了“虚假”合同，以帮助夸大收入，并在九年内降低成本超过9亿英镑。俱乐部说他们对这些指控是无辜的。以下是" data-title="曼城的“虚假”赛季：他们的表现和谁负责" data-date="09-30 02:02" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-30 02:02</span>
-          <span class="news-item-title">曼城的“虚假”赛季：他们的表现和谁负责</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-sham-seasons-how-they-fared-and-who-was-in-charge" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="A season-by-season breakdown after City were found guilty on all charges related to serious breaches of Premier League financial rules between the 2009-10 and 2017-18 campaignsManchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an i" data-title="Manchester City’s ‘sham’ seasons: how they fared and who was in charge" data-date="09-30 02:02" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-30 02:02</span>
-          <span class="news-item-title">Manchester City’s ‘sham’ seasons: how they fared and who was in charge</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="花了两年多的时间，但似乎终于对针对曼城的115项指控做出了判决。以下是它的含义。" data-title="曼城统治后英超联赛的四个“下一步是什么？”场景" data-date="09-30 01:37" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-30 01:37</span>
-          <span class="news-item-title">曼城统治后英超联赛的四个“下一步是什么？”场景</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="委员会：一个独立委员会发现，俱乐部在九个赛季期间违反了规则曼城将在周五截止日期前对判决提出上诉，曼城违反了英超联赛的财务规则，创建了“虚假”合同，以帮助在九年内夸大收入并降低成本超过9亿英镑。联盟周二宣布，曼城已被判犯有与严重违反其SEA之间财务规则有关的所有指控" data-title="曼城在9亿英镑的“虚假”合同后因英超联赛指控而有罪" data-date="09-30 00:05" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-30 00:05</span>
-          <span class="news-item-title">曼城在9亿英镑的“虚假”合同后因英超联赛指控而有罪</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Commission: club broke rules over nine-season periodCity will appeal against verdict before Friday deadlineThe Premier League has confirmed Manchester City have been found guilty of all charges of breaching its financial rules over a nine-year period, with the club found to have boosted their income by a staggering amount of more than £900m.In a bo" data-title="Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts" data-date="09-30 00:05" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-30 00:05</span>
-          <span class="news-item-title">Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="“我不会感到舒服......我不认为我们应该得到它”曼联在2011-12赛季排名第二鲁尼不认为曼城因违反英超联赛财务规则而被剥夺冠军头衔是不合适的，即使这给了他另一枚英超联赛冠军奖牌，因为这对努力取得成功的曼城球员和工作人员来说是不公平的。城市正在等待找出什么制裁" data-title="韦恩·鲁尼（ Wayne Rooney ）表示，曼城不应因违反规则而被剥夺冠军头衔" data-date="09-30 00:04" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-30 00:04</span>
-          <span class="news-item-title">韦恩·鲁尼（ Wayne Rooney ）表示，曼城不应因违反规则而被剥夺冠军头衔</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="‘I wouldn’t feel comfortable … I don’t think we deserved it’Manchester United finished second to City in 2011-12Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him another Premier League winner’s medal, as that would be unfair of the Cit" data-title="Wayne Rooney says Manchester City should not be stripped of titles for rules breach" data-date="09-30 00:04" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-30 00:04</span>
-          <span class="news-item-title">Wayne Rooney says Manchester City should not be stripped of titles for rules breach</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="当跨国联盟几乎没有减弱时，据称俱乐部的运营方式提供了一个由蛮力和财富驱动的世界的黯淡愿景。Der Spiegel于2018年发布了最终导致曼城陷入危机的泄露电子邮件和文件的缓存，而俱乐部沟通的基调往往与其内容一样令人震惊。市主席Khaldoon al-Mubarak" data-title="曼城的案例向我们展示了全球超级富豪现在如何期望不受惩罚地运营| Jonathan Liew" data-date="09-29 21:30" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-29 21:30</span>
-          <span class="news-item-title">曼城的案例向我们展示了全球超级富豪现在如何期望不受惩罚地运营| Jonathan Liew</span>
         </a>
   </div>
   <div class="news-category">
@@ -394,95 +394,95 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/008/769.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，今天（30 日）下午，比亚迪海洋网销售事业部总经理张卓发布第二代海鸥内饰细节的预告，并通过长图详细介绍了部分配置。IT之家从预告获悉，新车座舱采用以白色为主的内饰，并搭载怀挡，营造通透、典雅的氛围。具体到配置上，新车将搭载多色氛围灯、前排电动调节座椅（主驾支持按摩）、自动空调、磁吸灵动按键，后排空间也将迎来提升。空间方面，该车将搭载 94 升前备箱，后备箱容量最高可达 1380 升（需放倒第二排座椅），二排座椅下方还设置了隐藏式储物盒。第二代海鸥此前已完成工信部申报。新车采用最新设计语言，前脸造型焕新，配备三叉戟样式灯组。侧面来看，新车腰线上扬，营造俯冲姿态，并采用悬浮车顶设计。车身尺寸方面，申报信息显示新车尺寸为 4205×1810 ×1570mm、轴距 2" data-title="比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车" data-date="09-30 15:36" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/008/921.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，珍艾碧丝官方今天宣布，《红色沙漠》游戏首个 DLC《未知征途》将延期至 10 月 30 日发售，相比原定的 10 月 16 日晚两周。官方表示，红色沙漠团队一直在全力推进《红色沙漠：增强版-未知征途》DLC 的开发。但经过评估，要达到更高的完成度并提供更稳定的游戏体验，他们还需要额外的开发时间。因此决定将该 DLC 发售日期推迟两周，调整至 10 月 30 日。此外，该 DLC 将加入全新剧情、乘船探索、水下探索、新敌人和新战斗等内容。IT之家附官方介绍大意如下：帕卫尔海岸之外，新的冒险正在等待玩家。玩家可以驾驶自己的船只扬帆出海，探索未知岛屿，发现熟悉海岸线之外的世界。在海面之下，玩家还可以寻找水下宝藏、沉没的遗迹和隐藏的秘密，开辟新的探索路线。无论水面之上" data-title="《红色沙漠》游戏首个 DLC《未知征途》跳票两周，10 月 30 日见" data-date="09-30 22:04" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:36</span>
-          <span class="news-item-title">比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车</span>
+          <span class="news-item-date">09-30 22:04</span>
+          <span class="news-item-title">《红色沙漠》游戏首个 DLC《未知征途》跳票两周，10 月 30 日见</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706251.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网成都9月30日电 题：从千年文明到市井烟火 驻华外交官发现四川之美" data-title="从千年文明到市井烟火 驻华外交官发现四川之美" data-date="09-30 15:30" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706562.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据气象部门预测，9月30日至10月3日，青藏高原东部、西南地区东部、江汉、江淮、江南、华南等地有小到中雨或雷阵雨，重庆、贵州等地部分地区有大到暴雨，局地大暴雨。经与自然资源部会商研判，重庆北部、贵州东部发生地质灾害的风险较高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于9月30日针对贵州启动国家地质灾害四级应急响应。" data-title="应急管理部针对贵州启动国家地质灾害四级应急响应" data-date="09-30 21:52" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 15:30</span>
-          <span class="news-item-title">从千年文明到市井烟火 驻华外交官发现四川之美</span>
+          <span class="news-item-date">09-30 21:52</span>
+          <span class="news-item-title">应急管理部针对贵州启动国家地质灾害四级应急响应</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/761.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，vivo X500 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起：12GB+256GB：5499 元12GB+512GB：5999 元12GB+1TB：6999 元IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本，售价 6499 元。京东 vivo X500 16GB+512GB6499 元直达链接vivo X500 手机搭载了一块 6.59 英寸 1.5K 144Hz LTPS 直屏，有大地回声、晴天、晨曦、摄夜四种颜色可选；首发搭载天玑 9600M 处理器，内置 7500mAh 电池，支持 90W 有线充电和 40W 无线充电。vivo X500 手机搭载 X 系列" data-title="vivo X500 手机新增 16GB+512GB 版本，6499 元" data-date="09-30 15:28" data-source="IT之家">
+        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/ibuypower-slate-gaming-desktop-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IBuyPower Slate将Ryzen 7 7700X3D和RTX 5070搭配在时尚的RGB机箱中，提供强大的游戏性能和令人惊讶的额外功能，尽管生产力性能落后于一些价格相似的竞争对手。" data-title="iBuyPower Slate Gaming Desktop评论：强大的游戏价值和附加功能" data-date="09-30 21:50" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:28</span>
-          <span class="news-item-title">vivo X500 手机新增 16GB+512GB 版本，6499 元</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-30 21:50</span>
+          <span class="news-item-title">iBuyPower Slate Gaming Desktop评论：强大的游戏价值和附加功能</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/760.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，掌阅官方今天在公众号平台发文预告 Ocean 6 Pro 电纸书阅读器。新品提供孤山（黑）、浅草（绿）两种配色，将于 10 月发布。据介绍，这款阅读器采用全新背板设计，手感相比前代有所提升。配备凹屏 + 云曦柔光屏，清晰度更上一层楼。此外，该产品正面右侧带有实体翻页按键，方便用户单手操作。截至目前，官方暂未公布该机的详细参数，感兴趣的小伙伴们可以关注IT之家后续报道。" data-title="掌阅预告 Ocean 6 Pro 电纸书阅读器，10 月见" data-date="09-30 15:19" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:19</span>
-          <span class="news-item-title">掌阅预告 Ocean 6 Pro 电纸书阅读器，10 月见</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/759.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，小米今日宣布，米家冰箱 Pro 439L 法式自动制冰现已开售，售价 4999 元，国补到手价 4249.15 元。该冰箱支持 -30℃ 深冷瞬冻，运行噪音 32 分贝，日均耗电 0.69 度，压缩机提供 10 年包修服务。它还支持四档可调变温空间，可切换母婴、干货、零度、果蔬四种模式。配备水分子筛高保湿技术，果蔬保湿鲜存 7 天；支持 -30℃ 深冷瞬冻。其机身宽度 702mm，深度 597mm，占地面积 0.42m²，相比前代老款减少 7.1%。容积率提升至 54.40%，总容量保持 439L。这款冰箱采用双系统设计，冷藏冷冻独立制冷；支持全自动制冰，最快 55 分钟制出实心厚冰；支持全链路抗菌，支持 3 分钟自清洁，抗菌率 99%，并支持手机智能提醒和预" data-title="小米“米家冰箱 Pro 439L 法式自动制冰”开售，4999 元" data-date="09-30 15:17" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:17</span>
-          <span class="news-item-title">小米“米家冰箱 Pro 439L 法式自动制冰”开售，4999 元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/757.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，科学家在加利福尼亚州拉森火山国家公园的热水塘中，发现了一种能在前所未有的高温环境中生存的多细胞极端微生物。这项发现对于地外生命搜寻工作具有潜在意义，拓展了有可能孕育复杂生命体的环境范围。可以在极端环境下存活的生物被统称为极端微生物。如果这类极端环境以高温为主，对应的极端微生物就被叫作嗜热生物。这种在火山水域中新发现的嗜热生物被命名为 Incendiamoeba cascadensis，昵称“火变形虫（fire amoeba）”。实验发现，它可以在 63 摄氏度的条件下通过细胞分裂完成自我繁殖；到 64 摄氏度时，它依旧可以保持完全活性，只是不再进行繁殖。即便处于 66 摄氏度环境，该变形虫仍保留部分生理活性；70 摄氏度时它虽然会停止生命活动，但后续还可以恢复" data-title="63℃ 照样繁殖！神奇火变形虫拓宽地外生命搜寻边界" data-date="09-30 15:13" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:13</span>
-          <span class="news-item-title">63℃ 照样繁殖！神奇火变形虫拓宽地外生命搜寻边界</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706238.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新华社北京9月30日电(记者魏弘毅、邹雨沁)水利部部长李国英9月30日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，将加快构建流域防洪减灾体系。力争到“十五五”末，新增水库库容150亿立方米。" data-title="“十五五”末力争新增水库库容150亿立方米" data-date="09-30 15:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 15:12</span>
-          <span class="news-item-title">“十五五”末力争新增水库库容150亿立方米</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/750.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，ELECOM（宜丽客）日本当地时间今日发布了无线游戏耳机新品 GH600。这一型号支持 2.4GHz 和蓝牙连接，内置 39.5mm 动态驱动单元，机身质量（含麦克风）仅 174g。GH600 采用覆耳式头戴设计，配备可拆卸的全向收音驻极体电容柔性吊杆麦克风；支持 SBC 音频编解码器，拥有射击 / 动作 2 种游戏音频预设；2.4GHz 续航可达 33.5hr、蓝牙模式续航可达 54hr；支持折叠收纳，耳罩高度可根据自身喜好调节。IT之家注意到，ELECOM GH600 耳机含税售价为 8,480 日元（IT之家注：现汇率约合 361.8 元人民币）。" data-title="ELECOM 发布无线游戏耳机 GH600：39.5mm 单元，174g 质量" data-date="09-30 15:08" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 15:08</span>
-          <span class="news-item-title">ELECOM 发布无线游戏耳机 GH600：39.5mm 单元，174g 质量</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706212.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社南京9月30日电 (记者 朱晓颖)2026年是中国共产党成立105周年、中国工农红军长征胜利90周年。9月30日，江苏南京举办烈士纪念日系列活动缅怀革命先烈。" data-title="江苏南京举办烈士纪念日系列活动缅怀革命先烈" data-date="09-30 15:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 15:06</span>
-          <span class="news-item-title">江苏南京举办烈士纪念日系列活动缅怀革命先烈</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706216.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近期，我国多地有车主在社交平台发帖表示，自己的爱车莫名出现了一个个小圆洞，一些装饰条、电线护套等塑料部件，也出现了细密的啃咬痕迹。这些小洞从何而来？不少网友认为，罪魁祸首是一只“虫子”。" data-title="小心被虫啃出小圆洞 经常户外停车的要注意这类树" data-date="09-30 14:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 14:54</span>
-          <span class="news-item-title">小心被虫啃出小圆洞 经常户外停车的要注意这类树</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706204.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如今线上货运便捷高效，但网上下单如果遭遇接单司机临时加价、恶意索费、扣货要挟的情况，就需要提高警惕了。湖北宜昌警方就侦破了一起利用AI合成人脸技术盗取货运账号，以软暴力胁迫货主加价的物流领域新型“软敲诈”案。" data-title="恶意索费扣货要挟！起底物流领域新型“软敲诈”犯罪" data-date="09-30 14:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 14:43</span>
-          <span class="news-item-title">恶意索费扣货要挟！起底物流领域新型“软敲诈”犯罪</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706192.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新闻发布会现场。杨蓓 摄 中新网晋中9月30日电 (高雨晴)今年国庆假期，山西寿阳以“怡然见晋中·休闲来寿阳”为主题，推出4大特色主题活动、5条精品线路和5个“乐享套餐”，打造一场覆盖多元体验的文旅盛宴，邀八方游客共庆佳节。" data-title="山西寿阳国庆“文旅菜单”出炉 邀客游田园、访古村、享山水" data-date="09-30 14:22" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 14:22</span>
-          <span class="news-item-title">山西寿阳国庆“文旅菜单”出炉 邀客游田园、访古村、享山水</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="District Attorney Matthew Van Houten said a woman’s report to police in 2024 saying she had been raped at a fraternity did not support a criminal case. But he said he is now reaching out to her." data-title="D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence" data-date="09-30 13:44" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 13:44</span>
-          <span class="news-item-title">D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据说曾启发反光道路标记发明数十年后，猫眼的形状和“发光”现象如今正被工程师仿效，用于设计高科技相机。" data-title="猫眼如何启发机器人的照相机技术发展" data-date="09-30 12:54" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cvj64l3xyzlyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="我们的Ask Me Anything团队查看为国家联赛出场释放球员而支付的俱乐部。" data-title="俱乐部为国联球员赚了多少钱？" data-date="09-30 21:47" data-source="BBC">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-30 12:54</span>
-          <span class="news-item-title">猫眼如何启发机器人的照相机技术发展</span>
+          <span class="news-item-date">09-30 21:47</span>
+          <span class="news-item-title">俱乐部为国联球员赚了多少钱？</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity party since they were first made in 2024 and led the reporting on the case." data-title="Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years" data-date="09-30 09:29" data-source="纽约时报">
+        <a class="news-item" href="https://www.tomshardware.com/networking/network-switches/grab-this-10-port-gigabit-poe-switch-with-up-to-60w-of-power-for-under-usd38-a-new-record-low-ugreen-switch-upgrades-your-home-network-with-eight-power-delivery-ports-for-cameras-and-wi-fi-extenders" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这款Ugreen 10端口非托管以太网交换机达到了创纪录的低价$ 37.79 ，解锁了八个PoE +端口，为摄像头和WiFi扩展器提供高达60W的功率输出，以及两个额外的端口，用于连接到您现有网络的千兆上行链路。" data-title="这款10端口千兆PoE +交换机功耗高达60W ，价格低于$ 38 ，创历史新低" data-date="09-30 21:40" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 09:29</span>
-          <span class="news-item-title">Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-30 21:40</span>
+          <span class="news-item-title">这款10端口千兆PoE +交换机功耗高达60W ，价格低于$ 38 ，创历史新低</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706538.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网雄安9月30日电 (韩冰 李玉素)9月30日，雄安新区中苑水上游线启航仪式在启动区城苑轩码头举行。随着两艘游船解缆离岸，“水城共融”从规划理念变成了可游可亲的现实体验。" data-title="雄安新区中苑水上游线精彩亮相" data-date="09-30 21:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:39</span>
+          <span class="news-item-title">雄安新区中苑水上游线精彩亮相</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706534.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网昆明9月30日电 (罗婕)9月30日18时31分，云南省昆明市发生4.3级地震。云南省应急管理厅消息，截至目前，昆明市盘龙区、五华区、西山区、官渡区、呈贡区暂未接到人员伤亡情况报告，电力、交通、通信均正常。" data-title="云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应" data-date="09-30 21:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:39</span>
+          <span class="news-item-title">云南昆明4.3级地震暂无人员伤亡报告 启动地震四级应急响应</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706547.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网9月30日电 据国家文物局微信公众号消息，9月29日，第四次全国文物普查领导小组办公室组织完成西藏自治区和青海省第四次全国文物普查省域整体验收工作。至此，全国31个省、自治区、直辖市及新疆生产建设兵团的普查省域整体验收全面完成。" data-title="第四次全国文物普查省域整体验收全面完成" data-date="09-30 21:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:33</span>
+          <span class="news-item-title">第四次全国文物普查省域整体验收全面完成</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706544.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网9月30日电 据日媒报道，对于日本爱知·名古屋亚运会期间出现的大量问题，名古屋市长、亚组委代理会长广泽一郎当地时间30日在新闻发布会上道歉，称将“认真反思”。" data-title="日本亚运会问题频发，名古屋市长道歉" data-date="09-30 21:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:31</span>
+          <span class="news-item-title">日本亚运会问题频发，名古屋市长道歉</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/008/915.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，据新华社，中国科学院推进一流科技期刊建设新闻发布会今日在京举行。会上，北京中科期刊出版传媒集团有限公司正式挂牌成立。该集团是国内首个专注于科技期刊的出版集团，标志着中国科学院一流科技期刊建设取得阶段性进展，我国科技期刊出版从“分散办刊”向“集约运营”迈出关键一步。科技期刊是科技基础能力的重要组成部分，体现国家科技竞争力与文化软实力。作为国家战略科技力量，中国科学院主管科技期刊 400 余种，覆盖自然科学主要学科领域。2025 年以来，中国科学院支持创办前沿交叉、空白领域新刊 110 余种，约 30 种已经出刊。98 种主管期刊入选 2025 年度世界一流科技期刊目录。预计 2026 年，中国科学院一流期刊发文量较 2024 年增长约 30%。其打造的 SciE" data-title="国内首个科技期刊出版集团：中科期刊出版集团挂牌成立" data-date="09-30 21:25" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 21:25</span>
+          <span class="news-item-title">国内首个科技期刊出版集团：中科期刊出版集团挂牌成立</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706532.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网9月30日电 据自然资源部微信公众号消息，气象部门预报，未来三天，重庆、贵州等地部分地区有大到暴雨，局地大暴雨。经自然资源部地质灾害技术指导中心研判 ，重庆北部、 贵州东部发生地质灾害的风险较高。自然资源部于年9月30日18时对重庆、贵州启动地质灾害防御IV级响应。" data-title="自然资源部对重庆贵州启动地质灾害防御IV级响应" data-date="09-30 21:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:12</span>
+          <span class="news-item-title">自然资源部对重庆贵州启动地质灾害防御IV级响应</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706531.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网唐山9月30日电 题：从戍边后裔到长城保护员：中国农民俞海文的守护与相遇" data-title="从戍边后裔到长城保护员：中国农民俞海文的守护与相遇" data-date="09-30 21:08" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:08</span>
+          <span class="news-item-title">从戍边后裔到长城保护员：中国农民俞海文的守护与相遇</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706528.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网哈尔滨9月30日电 (记者 刘锡菊)9月30日，记者从哈尔滨市城市体检和更新工作专班获悉，哈尔滨市少年宫片区城市原点广场活化利用修缮项目已全部完成，片区内国民街84号历史建筑完成保护性修缮，正式投入使用，少年宫片区城市更新示范项目实现公共空间与历史建筑同步活化，百年历史院落面向广大市民开放。" data-title="哈尔滨市：少年宫片区完成更新改造 推动老建筑由封闭闲置转向活化利用" data-date="09-30 21:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:02</span>
+          <span class="news-item-title">哈尔滨市：少年宫片区完成更新改造 推动老建筑由封闭闲置转向活化利用</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新的Fire TV Stick 4K将比亚马逊之前的4K流媒体棒更容易设置，因为它不再需要电源适配器。您可以直接从电视的USB端口为设备供电，例如今年早些时候推出的更新入门级Fire TV Stick Amazon。Fire TV Stick […]" data-title="亚马逊的新款Fire TV Stick 4K可以直接从您的电视中提取电源" data-date="09-30 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-30 21:00</span>
+          <span class="news-item-title">亚马逊的新款Fire TV Stick 4K可以直接从您的电视中提取电源</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1002122/sonos-ace-ultra-headphones-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="最初的Sonos Ace耳机应该是新产品类别的胜利入口。相反，他们被Sonos灾难性的应用程序重新设计所掩盖。虽然原版Ace构造精良，声音良好，非常舒适，但它们不是很好的Sonos耳机：它们的旗舰功能可让您从Sonos条形音箱重新路由音频[…]" data-title="Sonos Ace Ultra是Sonos首次推出的耳机" data-date="09-30 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-30 21:00</span>
+          <span class="news-item-title">Sonos Ace Ultra是Sonos首次推出的耳机</span>
         </a>
   </div>
 </div>
@@ -615,4 +615,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-09-30 15:35（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-30 22:04（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

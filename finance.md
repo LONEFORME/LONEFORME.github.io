@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,254.94</span>
-      <span class="ticker-change up">▲ +0.12%</span>
+      <span class="ticker-price ticker-up">4,253.89</span>
+      <span class="ticker-change up">▲ +0.10%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,339.33</span>
+      <span class="ticker-price ticker-up">30,602.57</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7062</span>
+      <span class="ticker-price ticker-down">6.7051</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,198.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +16.33 (+0.39%)</span>
+      <span class="ticker-price ticker-down">$4,181.37 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -0.50 (-0.01%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -230,8 +230,56 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">12 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706559.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网悉尼9月30日电 中国驻阿德莱德总领馆29日举办庆祝中华人民共和国成立77周年招待会。南澳大利亚州议会下院议长库克、澳联邦众议员克拉特汉姆，南澳政商学界、大中小学学生、产业界青年、领团，华侨华人、中资机构、留学生代表等约250人出席。" data-title="驻阿德莱德总领馆举办国庆77周年招待会" data-date="09-30 21:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:58</span>
+          <span class="news-item-title">驻阿德莱德总领馆举办国庆77周年招待会</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/008/920.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 30 日消息，亚马逊刚刚推出了新款 Fire TV Stick 4K 电视棒和重新设计的 Fire TV Remote 遥控器，并将 Fire TV 流媒体棒产品线简化为三档。新款 4K 电视棒官方定价 59.99 美元（IT之家注：现汇率约合 403 元人民币），其中美国市场在亚马逊 Prime Big Deal Days 大促期间限时 29.99 美元（现汇率约合 201.5 元人民币），而新 Fire TV Remote 单独购买则为 14.99 美元（现汇率约合 100.7 元人民币），预计 10 月底开始发货。亚马逊称，新款 Fire TV Stick 4K 从开机到播放内容，比同价位其他品牌 4K 电视棒快约 20% 至 40%。亚马逊称，在测试中，其应用启动速" data-title="亚马逊发布新款 Fire TV Stick 4K 电视棒：59.99 美元，新款遥控器按键可触摸识别" data-date="09-30 21:48" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 21:48</span>
+          <span class="news-item-title">亚马逊发布新款 Fire TV Stick 4K 电视棒：59.99 美元，新款遥控器按键可触摸识别</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/008/919.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 30 日消息，江淮汽车今日公告称，公司股票于 9 月 28 日、29 日、30 日连续三个交易日收盘价格涨幅偏离值累计超过 20%，属于股票交易异常波动。近期，公司关注到有部分媒体在相关媒体平台发布公司拟与华为、Stellantis 开展合作的报道。经核实，公司与华为、Stellantis 三方确有沟洽合作意向，但合作内容、合作形式等均未确定，也未签署任何有约束力的正式协议，后续相关合作事项推进尚存在较大不确定性。IT之家注意到，意大利媒体 Milano Finanza 本月曾报道，Stellantis 集团正就旗下玛莎拉蒂与华为、江淮汽车开展长期产业合作谈判。报道称，三方计划将华为鸿蒙智行平台应用于玛莎拉蒂车型，目标在 2027 年底推出首款联合开发的量产车。合作模式可能" data-title="江淮汽车：公司与华为、Stellantis 三方确有沟洽合作意向" data-date="09-30 21:46" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 21:46</span>
+          <span class="news-item-title">江淮汽车：公司与华为、Stellantis 三方确有沟洽合作意向</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706540.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月30日电 题：北京市政协建言发展京郊现代乡村产业" data-title="北京市政协建言发展京郊现代乡村产业" data-date="09-30 21:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:40</span>
+          <span class="news-item-title">北京市政协建言发展京郊现代乡村产业</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706543.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月30日电 据文化和旅游部网站消息，为深入贯彻党的二十届四中全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》等部署，文化和旅游部近日印发《艺术发展“十五五”规划》(以下简称《规划》)。" data-title="文化和旅游部印发《艺术发展“十五五”规划》" data-date="09-30 21:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 21:35</span>
+          <span class="news-item-title">文化和旅游部印发《艺术发展“十五五”规划》</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706465.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社悉尼9月30日电 (记者 薄雯雯)澳大利亚统计局9月30日公布的数据显示，该国8月份消费者价格指数(CPI)同比上涨4%，涨幅较7月扩大0.5个百分点。" data-title="澳大利亚8月CPI同比上涨4%" data-date="09-30 19:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 19:39</span>
+          <span class="news-item-title">澳大利亚8月CPI同比上涨4%</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706429.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社开罗9月30日电 (记者 马秀秀)“发展需要安全。没有安全，就没有发展；没有安全，就无法投资于人。”" data-title="阿拉伯学者谈中东安全：短期护航之外，还需解决长期矛盾" data-date="09-30 19:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 19:39</span>
+          <span class="news-item-title">阿拉伯学者谈中东安全：短期护航之外，还需解决长期矛盾</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/30/business/situational-awareness-stock-market-leverage.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="A meltdown at Situational Awareness, an A.I.-focused investment firm, is raising tough questions about the Wall Street banks that lent billions to the upstart firm." data-title="Troubles at Situational Awareness Point to Record Stock Market Leverage" data-date="09-30 17:02" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-30 17:02</span>
+          <span class="news-item-title">Troubles at Situational Awareness Point to Record Stock Market Leverage</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706217.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西安9月30日电 (记者 张一辰)记者30日从西安市未央区人民法院(以下简称：未央法院)获悉，该院依法审结一起街头团伙养老诈骗案，五名被告人结伙冒充“聋哑算命先生”，专门针对老年人实施诈骗，其行为均已构成诈骗罪，五名被告人全部获刑并被责令向各被害人退赔全部经济损失。" data-title="冒充聋哑人街头算命行骗 西安一养老诈骗团伙获刑" data-date="09-30 14:55" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -256,18 +304,6 @@ title: 股票财经
           <span class="news-item-date">09-29 23:17</span>
           <span class="news-item-title">Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705925.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海9月29日电 (记者 缪璐)“会议一结束，我就要去和大陆企业谈合作了。”29日举行的首届“两岸创新发展周”上，台企安捷莉娜创始人江文舜在圆桌论坛时透露。" data-title="首届“两岸创新发展周”在上海举行 冀数智科技产业加大合作" data-date="09-29 21:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:56</span>
-          <span class="news-item-title">首届“两岸创新发展周”在上海举行 冀数智科技产业加大合作</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/peripherals/gaming-keyboards/save-40-percent-on-a-new-budget-gaming-keyboard-steelseries-apex-3-is-just-usd29-in-woot-deal" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Woot购买这款SteelSeries Apex 3游戏键盘可节省40 ％" data-title="购买全新经济型游戏键盘，立省40%" data-date="09-29 20:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-29 20:20</span>
-          <span class="news-item-title">购买全新经济型游戏键盘，立省40%</span>
-        </a>
   </div>
 </div>
 
@@ -281,4 +317,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-30 15:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-30 22:04（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
