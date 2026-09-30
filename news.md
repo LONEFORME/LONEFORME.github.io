@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-09-30 02:09 抓取更新</span>
+      <span>2026-09-30 15:35 抓取更新</span>
     </div>
   </div>
 
@@ -25,11 +25,11 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">55</span>
+        <span class="channel-count">60</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">14</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">11</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -61,38 +61,38 @@ title: 热点新闻
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/" target="_blank" rel="noopener" data-cat="shizheng" data-summary="America.gov旨在简化政府官僚机构的导航过程，但语言模型不完善，仍然容易产生幻觉，这可能会导致新的问题。" data-title="聊天机器人可以修复政府迷宫吗？白宫即将发现" data-date="09-30 00:55" data-source="TechCrunch">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/09-30/10706225.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京9月30日电#8195;10月1日出版的第19期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。" data-title="《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》" data-date="09-30 15:21" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-        <span class="hero-featured-date">🕒 09-30 00:55</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 09-30 15:21</span>
       </div>
-      <h2 class="hero-featured-title">聊天机器人可以修复政府迷宫吗？白宫即将发现</h2>
+      <h2 class="hero-featured-title">《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/008/528.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布升级插件扩展。借助插件扩展，开发者可以直接在 ChatGPT 中构建丰富的应用内体验。现在，用户可以为插件在侧边栏中设置专属入口，构建可供用户一边对话一边工作的交互面板，或为产品支持的文件类型创建查看器。此外，插件创建工具可以帮助开发者构建插件，重新设计的提交流程则提供更清晰的反馈。OpenAI 还在改进插件目录和对话中的插件排序与推荐方式，帮助用户找到相关插件。用户始终可以自主选择使用哪些插件，并逐一批准其访问权限。现在，用户可以将受支持的 ChatGPT 插件接入自己构建的站点，让工作空间中的团队成员凭各自的权限登录同一应用，并使用各自连接的数据" data-title="OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化" data-date="09-30 02:08" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/008/762.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dynamic AMOLED 2X，分辨率 2960×1848，支持 120Hz 刷新率，S Pen 随盒附赠。IT之家附上相关图片如下：该机型尺寸为 208.5×326.3×5.1mm，重量 695 克，具备 IP68 防护等级。电池容量 11600mAh，支持 45W 充电，并配备指纹识别、Wi‑Fi" data-title="三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能" data-date="09-30 15:28" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化</p>
+      <p class="hero-sub-title">三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-sham-seasons-how-they-fared-and-who-was-in-charge" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="一个独立委员会发现，曼城在2009-10赛季和2017-18赛季之间严重违反英超联赛财务规则的所有指控被判有罪，曼城违反了英超联赛财务规则，创建了“虚假”合同，以帮助夸大收入，并在九年内降低成本超过9亿英镑。俱乐部说他们对这些指控是无辜的。以下是" data-title="曼城的“虚假”赛季：他们的表现和谁负责" data-date="09-30 02:02" data-source="卫报">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC Sport analyses Manchester City&#39;s dominance of English football during the period in which they were breaching financial rules." data-title="£1.2bn on transfers with £830m inflated in accounts - Man City&#39;s &#39;asterisk era&#39;" data-date="09-30 14:26" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">曼城的“虚假”赛季：他们的表现和谁负责</p>
+      <p class="hero-sub-title">£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'</p>
     </a>
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Prosecutors say the man struck an agent with his car’s mirror before another agent shot him. The charge reveals the existence of body camera footage of the shooting, though that has not been released." data-title="Man Shot by ICE Agent in Austin Is Charged With Assault" data-date="09-30 01:59" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/008/769.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，今天（30 日）下午，比亚迪海洋网销售事业部总经理张卓发布第二代海鸥内饰细节的预告，并通过长图详细介绍了部分配置。IT之家从预告获悉，新车座舱采用以白色为主的内饰，并搭载怀挡，营造通透、典雅的氛围。具体到配置上，新车将搭载多色氛围灯、前排电动调节座椅（主驾支持按摩）、自动空调、磁吸灵动按键，后排空间也将迎来提升。空间方面，该车将搭载 94 升前备箱，后备箱容量最高可达 1380 升（需放倒第二排座椅），二排座椅下方还设置了隐藏式储物盒。第二代海鸥此前已完成工信部申报。新车采用最新设计语言，前脸造型焕新，配备三叉戟样式灯组。侧面来看，新车腰线上扬，营造俯冲姿态，并采用悬浮车顶设计。车身尺寸方面，申报信息显示新车尺寸为 4205×1810 ×1570mm、轴距 2" data-title="比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车" data-date="09-30 15:36" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">Man Shot by ICE Agent in Austin Is Charged With Assault</p>
+      <p class="hero-sub-title">比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车</p>
     </a>
   </div>
 </div>
@@ -101,91 +101,97 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">14 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/" target="_blank" rel="noopener" data-cat="shizheng" data-summary="America.gov旨在简化政府官僚机构的导航过程，但语言模型不完善，仍然容易产生幻觉，这可能会导致新的问题。" data-title="聊天机器人可以修复政府迷宫吗？白宫即将发现" data-date="09-30 00:55" data-source="TechCrunch">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 00:55</span>
-          <span class="news-item-title">聊天机器人可以修复政府迷宫吗？白宫即将发现</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705946.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社莫斯科9月29日电 俄罗斯媒体29日援引俄国防部消息报道称，一架图-95战略轰炸机当天在俄远东地区阿穆尔州执行训练飞行任务时坠毁，造成6名机组人员遇难、1人受伤。" data-title="俄军一架图" data-date="09-29 23:57" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706225.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京9月30日电#8195;10月1日出版的第19期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。" data-title="《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》" data-date="09-30 15:21" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 23:57</span>
-          <span class="news-item-title">俄军一架图</span>
+          <span class="news-item-date">09-30 15:21</span>
+          <span class="news-item-title">《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705933.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="为深入贯彻落实党中央关于开展深化扫黑除恶专项斗争的决策部署，公安部组织指挥全国公安机关开展集中收网行动，打掉一批犯罪团伙，侦破一批涉黑恶案件。为有力震慑犯罪，今日，公安部公布其中8起新型涉黑恶犯罪典型案例。" data-title="公安部公布8起新型涉黑恶犯罪典型案例" data-date="09-29 22:41" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706241.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京9月30日电(记者魏弘毅、邹雨沁)水利部部长李国英9月30日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，将协同推进各层级水网协同融合建设，打通水网“最后一公里”。力争到“十五五”末，国家水网覆盖范围占国土面积的比例达到82%。(完)" data-title="“十五五”末力争水网覆盖范围占国土面积82%" data-date="09-30 15:21" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 22:41</span>
-          <span class="news-item-title">公安部公布8起新型涉黑恶犯罪典型案例</span>
+          <span class="news-item-date">09-30 15:21</span>
+          <span class="news-item-title">“十五五”末力争水网覆盖范围占国土面积82%</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705921.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月29日电 (记者 张杨彬)为纪念孙中山先生诞辰160周年，由民革中央主办的孙中山与华侨华人学术研讨会29日在北京举行。" data-title="孙中山与华侨华人学术研讨会在北京举行" data-date="09-29 21:50" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706248.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月30日电 (记者 李京泽)中国外交部发言人郭嘉昆30日主持例行记者会。" data-title="中方：拥有核武器不是日方想不想讨论的问题" data-date="09-30 15:20" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:50</span>
-          <span class="news-item-title">孙中山与华侨华人学术研讨会在北京举行</span>
+          <span class="news-item-date">09-30 15:20</span>
+          <span class="news-item-title">中方：拥有核武器不是日方想不想讨论的问题</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705914.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网沈阳9月29日电 (记者 李𬀪)“情系桑梓 赋能振兴——辽宁籍文化人才回乡行动”9月28日在沈阳启动。单霁翔、刘兰芳、冯巩、于魁智、李梓萌等50余位辽宁籍文化人才回乡，畅谈对家乡的深厚情感，分享各自创作历程中的辽宁印记。" data-title="单霁翔、刘兰芳等50余位辽籍文化人才回乡共讲辽宁故事" data-date="09-29 21:42" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706235.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月30日电 据山东省纪委监委消息：经山东省委批准，山东省纪委监委对烟台市委原常委、市政府原副市长包华严重违纪违法问题进行了立案审查调查。" data-title="山东省烟台市委原常委包华被“双开”" data-date="09-30 15:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:42</span>
-          <span class="news-item-title">单霁翔、刘兰芳等50余位辽籍文化人才回乡共讲辽宁故事</span>
+          <span class="news-item-date">09-30 15:11</span>
+          <span class="news-item-title">山东省烟台市委原常委包华被“双开”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705908.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月29日电 (记者 余湛奕)9月29日晚，全总文工团、北京市总工会在京联合举办“为劳动者放歌”慰问首都职工文艺演出。首都劳模工匠、新就业形态劳动者和一线职工代表1000余人现场观看。" data-title="“为劳动者放歌”慰问首都职工文艺演出在京举办" data-date="09-29 21:41" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706206.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京9月30日电 9月30日，国家主席习近平同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年。" data-title="习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电" data-date="09-30 14:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:41</span>
-          <span class="news-item-title">“为劳动者放歌”慰问首都职工文艺演出在京举办</span>
+          <span class="news-item-date">09-30 14:56</span>
+          <span class="news-item-title">习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705896.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网重庆9月29日电 (记者 钟旖)穿越时光，中国近代爱国实业家卢作孚的爱国精神如何照亮新时代青年的前行路？29日，在卢作孚的故乡——重庆市合川区，“作孚爱国精神与新时代青年担当”青年主题对话沙龙活动举行，40余位专家学者、青年代表“面对面”交流，在传承、弘扬作孚爱国精神中凝聚青年担当。" data-title="青年如何传承卢作孚爱国精神？重庆合川举办青年主题对话沙龙" data-date="09-29 21:39" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706184.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月30日电 据“开福市场监管”微信公众号消息，9月30日，湖南省长沙市开福区市场监督管理局发布情况通报：2026年9月29日晚，有网民发布“清泉阁包子铺店员在操作台上剪脚趾甲”视频，引发关注。该局高度重视，第一时间组织执法人员开展调查处置，向涉事门店下达《责令整改通知书》，责令立即停业整顿。" data-title="长沙通报“一包子铺店员在操作台上剪脚趾甲”：停业整顿" data-date="09-30 14:26" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:39</span>
-          <span class="news-item-title">青年如何传承卢作孚爱国精神？重庆合川举办青年主题对话沙龙</span>
+          <span class="news-item-date">09-30 14:26</span>
+          <span class="news-item-title">长沙通报“一包子铺店员在操作台上剪脚趾甲”：停业整顿</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705876.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网山东曲阜9月29日电(周艺伟 孙婷婷)为期两天的2026尼山世界文明论坛(简称“尼山论坛”)29日在孔子诞生地山东曲阜落下帷幕。" data-title="从尼山出发 以文明对话求索秩序与公理" data-date="09-29 21:36" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706013.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网纽约9月29日电 (记者 王帆)中国驻纽约总领馆当地时间28日晚举行庆祝中华人民共和国成立77周年招待会，领区各界人士及外国驻纽约总领馆官员等400余人出席。" data-title="中国驻纽约总领馆举行国庆77周年招待会" data-date="09-30 14:09" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:36</span>
-          <span class="news-item-title">从尼山出发 以文明对话求索秩序与公理</span>
+          <span class="news-item-date">09-30 14:09</span>
+          <span class="news-item-title">中国驻纽约总领馆举行国庆77周年招待会</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705788.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月29日电(记者 刁炜)近期在也门战场上，胡塞武装大量投放包括第一视角无人机(FPV)在内的小型旋翼无人机，用于侦察敌情和打击对手的人员装备，取得一系列战果。" data-title="无人机300米高度投弹，胡塞武装飞手肉眼瞄准炸坦克" data-date="09-29 20:26" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706180.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="2026年是中国工农红军长征胜利90周年" data-title="《峥嵘岁月 家国记忆》卢元顺：一场四天阻击战 一生赤胆报家国" data-date="09-30 14:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 20:26</span>
-          <span class="news-item-title">无人机300米高度投弹，胡塞武装飞手肉眼瞄准炸坦克</span>
+          <span class="news-item-date">09-30 14:02</span>
+          <span class="news-item-title">《峥嵘岁月 家国记忆》卢元顺：一场四天阻击战 一生赤胆报家国</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705640.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网重庆9月29日电 (梁钦卿)重庆市委宣传部29日对外公布，“陆海讲读堂”西班牙站活动于当地时间9月28日在马德里举办。本次活动以《绯色盛宴：葡萄酒的全球史》为主题，吸引约200名中西文化、出版、教育、媒体领域从业者及读者代表参与。" data-title="“陆海讲读堂”走进马德里：讲述一杯酒里的中西文明对话" data-date="09-29 17:14" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706179.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="原标题：赓续长征精神 奋进复兴征程｜“转折之城” 长征故事代代传" data-title="“转折之城” 长征故事代代传" data-date="09-30 14:00" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 17:14</span>
-          <span class="news-item-title">“陆海讲读堂”走进马德里：讲述一杯酒里的中西文明对话</span>
+          <span class="news-item-date">09-30 14:00</span>
+          <span class="news-item-title">“转折之城” 长征故事代代传</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705579.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京9月29日电 布宜诺斯艾利斯消息：阿根廷总统府当地时间28日发表声明说，阿根廷总统米莱已指示外交部和政府法律团队启动《联合国海洋法公约》附件七规定的仲裁程序，以阻止英国在马尔维纳斯群岛(简称马岛，英称福克兰群岛)附近通过海狮油田项目开发油气资源。" data-title="阿根廷称将就马岛海狮油田项目启动国际仲裁" data-date="09-29 17:14" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706114.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京9月30日电 拉巴特消息：摩洛哥国王穆罕默德六世于当地时间9月29日在首都拉巴特王宫任命法蒂玛·宰赫拉·曼苏里为新首相，并授权她组建新政府。曼苏里由此成为摩洛哥历史上首位女性政府首脑。" data-title="曼苏里成为摩洛哥首位女首相" data-date="09-30 13:41" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 17:14</span>
-          <span class="news-item-title">阿根廷称将就马岛海狮油田项目启动国际仲裁</span>
+          <span class="news-item-date">09-30 13:41</span>
+          <span class="news-item-title">曼苏里成为摩洛哥首位女首相</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705585.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月29日电 据俄罗斯卫星通讯社28日报道，俄罗斯副外长鲁坚科表示，俄罗斯不相信日本有关在联合军演结束后撤走美国“堤丰”中程导弹系统的承诺，俄方将准备回应措施。" data-title="俄罗斯警告日本：不相信日方承诺 将准备回应措施" data-date="09-29 15:59" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706038.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社开罗9月30日电 (记者 马秀秀)当地时间9月29日，在埃及开罗举行的“中国学的世界对话·阿拉伯国家专场”活动上，开罗大学研究生与科研事务副校长马哈茂德·萨义德在致辞中提出，包括埃及在内的阿拉伯世界出现日益明显的“向东看”趋势。" data-title="中东学者：阿拉伯世界出现日益明显的“向东看”趋势" data-date="09-30 13:41" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 15:59</span>
-          <span class="news-item-title">俄罗斯警告日本：不相信日方承诺 将准备回应措施</span>
+          <span class="news-item-date">09-30 13:41</span>
+          <span class="news-item-title">中东学者：阿拉伯世界出现日益明显的“向东看”趋势</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705499.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月29日电 据美媒报道，当地时间28日，美国总统特朗普加大了对加拿大的抨击力度，批评加拿大是“全世界最糟糕的国家之一”。" data-title="特朗普吐槽加拿大：“全世界最糟糕的国家之一”" data-date="09-29 14:37" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706015.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="日本政府旨在强化情报能力的专家会议28日召开首次会议。高市政府借所谓安全议题加紧完善国家级情报顶层设计，持续突破战后安保约束，相关动向引人担忧。" data-title="日本冲击战后和平体制 加剧地区安全困境" data-date="09-30 09:39" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 14:37</span>
-          <span class="news-item-title">特朗普吐槽加拿大：“全世界最糟糕的国家之一”</span>
+          <span class="news-item-date">09-30 09:39</span>
+          <span class="news-item-title">日本冲击战后和平体制 加剧地区安全困境</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmzxzl450p2no/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="白宫峰会最耐人寻味之处，或许在于中美两国领导人没有说哪些事，以及我们至今仍不知道哪些事。" data-title="特朗普习近平峰会：没有说出口的议题可能更重要" data-date="09-29 11:48" data-source="BBC">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10705981.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="联合国秘书长发言人迪雅里克29日在纽约联合国总部表示，联合国秘书长古特雷斯对乌克兰危机中不断升级的袭击及平民伤亡表示关切，谴责任何针对平民和民用基础设施的袭击，并呼吁立即停止当前“危险的升级循环”，推动实现立即、全面、无条件停火。" data-title="联合国呼吁停止升级乌克兰局势" data-date="09-30 08:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-29 11:48</span>
-          <span class="news-item-title">特朗普习近平峰会：没有说出口的议题可能更重要</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 08:56</span>
+          <span class="news-item-title">联合国呼吁停止升级乌克兰局势</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel’s conduct in the West Bank, as some in the party propose punishing settlement activity with sanctions." data-title="Democrats in Congress Embrace a More Punitive Posture Toward Israel" data-date="09-30 08:46" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-30 08:46</span>
+          <span class="news-item-title">Democrats in Congress Embrace a More Punitive Posture Toward Israel</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10705970.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网9月30日电 据朝中社30日报道，朝鲜劳动党中央委员会部长金与正29日发表谈话，称“挑衅的肇事者必须为自导自演剧付出代价做好思想准备”。" data-title="金与正批韩国借所谓地雷事件挑衅朝鲜： “低级拙劣的表演”" data-date="09-30 07:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 07:55</span>
+          <span class="news-item-title">金与正批韩国借所谓地雷事件挑衅朝鲜： “低级拙劣的表演”</span>
         </a>
   </div>
   <div class="news-category">
@@ -194,108 +200,156 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/008/528.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布升级插件扩展。借助插件扩展，开发者可以直接在 ChatGPT 中构建丰富的应用内体验。现在，用户可以为插件在侧边栏中设置专属入口，构建可供用户一边对话一边工作的交互面板，或为产品支持的文件类型创建查看器。此外，插件创建工具可以帮助开发者构建插件，重新设计的提交流程则提供更清晰的反馈。OpenAI 还在改进插件目录和对话中的插件排序与推荐方式，帮助用户找到相关插件。用户始终可以自主选择使用哪些插件，并逐一批准其访问权限。现在，用户可以将受支持的 ChatGPT 插件接入自己构建的站点，让工作空间中的团队成员凭各自的权限登录同一应用，并使用各自连接的数据" data-title="OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化" data-date="09-30 02:08" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/008/762.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dynamic AMOLED 2X，分辨率 2960×1848，支持 120Hz 刷新率，S Pen 随盒附赠。IT之家附上相关图片如下：该机型尺寸为 208.5×326.3×5.1mm，重量 695 克，具备 IP68 防护等级。电池容量 11600mAh，支持 45W 充电，并配备指纹识别、Wi‑Fi" data-title="三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能" data-date="09-30 15:28" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 02:08</span>
-          <span class="news-item-title">OpenAI ChatGPT 插件扩展升级：改进排序与推荐方式，支持 MCP 事件自动化</span>
+          <span class="news-item-date">09-30 15:28</span>
+          <span class="news-item-title">三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/527.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者活动日中，官方正式宣布推出 GPT-6.1 Sol 模型，在性能接近 Astra 的同时，其费用仅为 Astra 的五分之一，官方称这是“在目前同等性能下性价比最高的模型”。GPT‑6 Astra 是 OpenAI 在 2026 年 9 月推出的旗舰级大语言模型，官方定位是“迄今最智能、最对齐（最符合人类意图）”的模型，重点面向长程多步骤任务与专业工作流。费用方面，根据官网公布的费用细节，IT之家附上相关售价信息如下：gpt-6.1-sol 全模式定价表（短上下文，输入 tokens ≤ 272,000）模式输入 (Input)缓存输入 (Cached input)缓存写入 (Cache writes)输出 (Output)S" data-title="同性能下最高性价比 AI 模型：OpenAI 发布 GPT-6.1 Sol，性能媲美 Astra、费用仅为 1/5" data-date="09-30 02:06" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/008/758.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，当地时间 29 日，据《商业内幕》报道，沃尔玛明确禁止门店使用“AI 垃圾内容”。长期以来，沃尔玛不允许门店自行定制印刷标识，最近更新的规定又进一步强调，AI 生成的海报同样不得使用。规定明确写道：“门店不得展示使用 AI 工具制作的标识。”新规针对的是零售店和餐厅经理越来越常见的一种做法：不用专业平面设计师，直接拿 ChatGPT、Claude 或 Gemini 等 AI 工具制作公告和促销物料。好处是既省钱，也省事，坏处自然是成品质量往往难以保证。现如今，熟食店和杂货店尤其热衷用 AI 内容制作菜单和招牌。此前中外社交媒体上已经出现不少例子，顾客对此普遍反感。报道指出，这种临时拼凑出来的印刷物料，也存在破坏母公司长期维持的品牌形象和统一标准的风险。IT之家" data-title="沃尔玛对超市门店内的 AI 生成海报说“不”" data-date="09-30 15:17" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 02:06</span>
-          <span class="news-item-title">同性能下最高性价比 AI 模型：OpenAI 发布 GPT-6.1 Sol，性能媲美 Astra、费用仅为 1/5</span>
+          <span class="news-item-date">09-30 15:17</span>
+          <span class="news-item-title">沃尔玛对超市门店内的 AI 生成海报说“不”</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/526.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布 Codex CLI 迎来焕新升级。Codex CLI 现已支持语音对话，用户可以直接与 Codex 对话来启动任务并引导任务推进。借助全新的 /agents 视图，用户可以将工作分配给多个智能体，并轻松跟踪多项任务的进度。OpenAI 还改进了日常工作流程，包括编辑提示词、恢复会话以及新增内置工作树支持，同时更新了终端界面，让界面更简洁、长会话更易读。IT之家获悉，本次更新适用于所有套餐。" data-title="OpenAI Codex CLI 升级支持语音对话，更新终端界面" data-date="09-30 01:56" data-source="IT之家">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706181.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网9月30日电 综合美媒报道，当地时间29日，美国总统特朗普发布行政令，称在法律允许的最大范围内，联邦行政部门今后将在官方通信、公开声明、政府网站、报告、政策文件及其他非法定文件中，使用“超级智能”(Super Intelligence，SI)取代“人工智能”(Artificial Intelligence，AI)这一表述。" data-title="特朗普签令：将“人工智能”改称为“超级智能”" data-date="09-30 14:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 01:56</span>
-          <span class="news-item-title">OpenAI Codex CLI 升级支持语音对话，更新终端界面</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 14:02</span>
+          <span class="news-item-title">特朗普签令：将“人工智能”改称为“超级智能”</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI新推出的办公功能套件使其与更传统的软件公司直接竞争。" data-title="OpenAI推出了与ChatGPT自己的办公套件非常相似的功能，与微软展开竞争" data-date="09-30 01:45" data-source="TechCrunch">
+        <a class="news-item" href="https://www.qbitai.com/2026/09/499308.html" target="_blank" rel="noopener" data-cat="keji" data-summary="DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）" data-title="DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec" data-date="09-30 13:18" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 01:45</span>
-          <span class="news-item-title">OpenAI推出了与ChatGPT自己的办公套件非常相似的功能，与微软展开竞争</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-30 13:18</span>
+          <span class="news-item-title">DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/525.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 宣布为了满足更高的构建需求，推出每月 500 美元（IT之家注：现汇率约合 3,361 元人民币）的 Pro 套餐。Pro 500 套餐可提供最高用量限额，还可专享 Astra Ultrafast —— OpenAI 速度最快的前沿模型。在“ChatGPT 工作”和 Codex 中，其速度最高可达标准版 Astra 的 8 倍。此外，Pro 200 套餐也再次对新订阅开放。需要注意的是，在 Pro 套餐中，Ultrafast 仅支持 Pro 500 套餐。" data-title="OpenAI 推出每月 500 美元的 Pro 套餐，专享 Astra Ultrafast 最快模型" data-date="09-30 01:44" data-source="IT之家">
+        <a class="news-item" href="https://www.qbitai.com/2026/09/499280.html" target="_blank" rel="noopener" data-cat="keji" data-summary="机器人上市，风向有变" data-title="36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了" data-date="09-30 12:42" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 01:44</span>
-          <span class="news-item-title">OpenAI 推出每月 500 美元的 Pro 套餐，专享 Astra Ultrafast 最快模型</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-30 12:42</span>
+          <span class="news-item-title">36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/524.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在今天召开的 2026 年 OpenAI 开发者日活动日中，官方推出 Ultrafast 全新服务层级，在 Codex 中可提供最高 8 倍词元（Token）生成速度，在 API 调用时最高可以实现 6 倍生成速度。API 调用费用方面，IT之家查询官方信息，附上售价如下：模型价格类型短上下文（输入＜ 272K Token）长上下文（输入＞ 272K Token）gpt-6-astra输入（Input）$60.00 / 1M tokens$120.00 / 1M tokensgpt-6-astra缓存输入（Cached input）$6.00 / 1M tokens$12.00 / 1M tokensgpt-6-astra缓存写入（Cache writes）$" data-title="最高每秒 300 个词元：OpenAI 推出 GPT‑6 Astra Ultrafast 服务" data-date="09-30 01:43" data-source="IT之家">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="美国总统继续拒绝为人工智能设立监管措施的呼吁，认为这将扼杀人工智能的发展。" data-title="特朗普排除美中合作开发人工智能" data-date="09-30 12:39" data-source="BBC">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 01:43</span>
-          <span class="news-item-title">最高每秒 300 个词元：OpenAI 推出 GPT‑6 Astra Ultrafast 服务</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 12:39</span>
+          <span class="news-item-title">特朗普排除美中合作开发人工智能</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews" target="_blank" rel="noopener" data-cat="keji" data-summary="“在我看来，人类灭绝的可能性是抛硬币，”前OpenAI和谷歌DeepMind员工杰弗里·欧文(Geoffrey Irving)在一次新的采访中说。这是对人工智能研究人员的十几次采访之一，其中包括OpenAI、Google和Anthropic的现任和前任员工。Palisade Research表示，这是一个研究AI的非营利组织[…]" data-title="人工智能研究人员发布视频称超级智能“与听起来一样危险”" data-date="09-30 01:35" data-source="The Verge">
+        <a class="news-item" href="https://www.qbitai.com/2026/09/499263.html" target="_blank" rel="noopener" data-cat="keji" data-summary="DeepSeek官方开源升腾基础组件，与升腾共建高效易用的AI芯片软件生态" data-title="DeepSeek官方开源升腾基础组件，与升腾共建高效易用的AI芯片软件生态" data-date="09-30 10:53" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-30 10:53</span>
+          <span class="news-item-title">DeepSeek官方开源升腾基础组件，与升腾共建高效易用的AI芯片软件生态</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="有研究机构发现月之暗面的Kimi模型可以绕过开发者的安全限制，提供制造生化武器的资讯。" data-title="中国人工智能工具“教导”研究人员制造生物武器" data-date="09-30 10:20" data-source="BBC">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 10:20</span>
+          <span class="news-item-title">中国人工智能工具“教导”研究人员制造生物武器</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety" target="_blank" rel="noopener" data-cat="keji" data-summary="For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won&#39;t happen until the company can make better promises about model safety, with no firm timeline in sight. &quot;We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]" data-title="Sam Altman says OpenAI won’t go public until its models are safe" data-date="09-30 08:19" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-30 01:35</span>
-          <span class="news-item-title">人工智能研究人员发布视频称超级智能“与听起来一样危险”</span>
+          <span class="news-item-date">09-30 08:19</span>
+          <span class="news-item-title">Sam Altman says OpenAI won’t go public until its models are safe</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html" target="_blank" rel="noopener" data-cat="keji" data-summary="员工和安全研究人员表示，他们曾警告该公司安全测试其人工智能模型并加强其企业基础设施，但OpenAI没有听。" data-title="OpenAI忽略了员工关于安全测试人工智能模型的警告" data-date="09-30 01:33" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html" target="_blank" rel="noopener" data-cat="keji" data-summary="A Republican eager to prove the former special counsel was dishonest appeared to instead demonstrate his own confusion over basic facts." data-title="Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart" data-date="09-30 07:37" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 01:33</span>
-          <span class="news-item-title">OpenAI忽略了员工关于安全测试人工智能模型的警告</span>
+          <span class="news-item-date">09-30 07:37</span>
+          <span class="news-item-title">Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/523.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在北京时间 9 月 30 日凌晨 1 点举行的 OpenAI DevDay 2026 活动中，OpenAI 发布了 dots。dots 是一个全天候在线的智能体，采用四个可爱的卡通形象，可以帮助用户规划议程、设计网站、测试应用、修改笔记等。此外，它会随着时间的推移逐渐了解用户的工作习惯，以及用户想要将注意力集中在哪些方面。它能够查看夜间收到的信息，并在早晨开始一天的工作之前，将所有紧急事项及时通知用户。dots 还可以帮用户处理生活中的小事，比如订机票、晚餐时间，或者用户一直拖着没做的家装；用户也可以和 dots 语音打电话聊天。根据 OpenAI 官方说法，dots 还可与 ChatGPT 平台上的 4,000 多款应用协同工作。当用户将设备接入系统时，它将" data-title="OpenAI 发布 dots 全天候智能助理：可爱卡通形象，Astra 模型加持" data-date="09-30 01:23" data-source="IT之家">
+        <a class="news-item" href="https://www.qbitai.com/2026/09/499246.html" target="_blank" rel="noopener" data-cat="keji" data-summary="今年devday牙膏挤爆" data-title="OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了" data-date="09-30 07:01" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 01:23</span>
-          <span class="news-item-title">OpenAI 发布 dots 全天候智能助理：可爱卡通形象，Astra 模型加持</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">09-30 07:01</span>
+          <span class="news-item-title">OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/522.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 9 月 30 日消息，在今天召开的 OpenAI 开发者日活动中，官方在 Codex 和 ChatGPT Work 中推出 GPT 6.1 Sol 模型，官方表示：“GPT-6.1 Sol 在处理复杂任务时，性能接近 Astra，但成本低于 Astra。”IT之家翻译官方介绍如下：GPT-6.1 Sol 在处理复杂任务时，性能接近 Astra，但成本低于 Astra。它适用于代码、应用程序和文档中重复性、长时间运行的任务。可用性取决于您的套餐、客户端和工作区设置。定价方面，根据 @LuminaBench 透露信息：每 100 万 tokens 输入费用为 2 美元（IT之家注：现汇率约合 13.4 元人民币），每 100 万 tokens 缓存输入费用为 0.1 美元（现汇率约合" data-title="OpenAI 在 Codex 上线 GPT-6.1 Sol 模型：性能接近 Astra，价格仅为 1/5" data-date="09-30 01:20" data-source="IT之家">
+        <a class="news-item" href="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai" target="_blank" rel="noopener" data-cat="keji" data-summary="The US executive branch is no longer acknowledging the existence of &quot;artificial intelligence.&quot; Going forward, official policy websites, policy documents, and press releases will refer only to &quot;Super Intelligence,&quot; thanks to a new executive order signed by President Donald Trump. &quot;The word super is the best word of all, and it&#39;s the simplest,&quot; Trump" data-title="Trump orders US government to call AI ‘Super Intelligence’" data-date="09-30 06:25" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 01:20</span>
-          <span class="news-item-title">OpenAI 在 Codex 上线 GPT-6.1 Sol 模型：性能接近 Astra，价格仅为 1/5</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">09-30 06:25</span>
+          <span class="news-item-title">Trump orders US government to call AI ‘Super Intelligence’</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/" target="_blank" rel="noopener" data-cat="keji" data-summary="Wabi正在将其基于提示的应用构建器重新定位为个人AI代理，该代理可以根据需要创建界面，将聊天、应用和正在进行的任务结合起来。" data-title="人工智能应用程序制造商Wabi转向消息传递体验" data-date="09-30 01:20" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 01:20</span>
-          <span class="news-item-title">人工智能应用程序制造商Wabi转向消息传递体验</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/" target="_blank" rel="noopener" data-cat="keji" data-summary="DOT旨在独立于任何特定硬件或接口运行，以最少的监督在后台持续追求用户定义的目标。" data-title="OpenAI推出冒泡特工头像Dots" data-date="09-30 01:17" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/" target="_blank" rel="noopener" data-cat="keji" data-summary="Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk&#39;s xAI had already acquired the domain name &quot;dot.com,&quot; which now redirects to the Grok chatbot download page." data-title="The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch" data-date="09-30 06:20" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 01:17</span>
-          <span class="news-item-title">OpenAI推出冒泡特工头像Dots</span>
+          <span class="news-item-date">09-30 06:20</span>
+          <span class="news-item-title">The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI正在扩展ChatGPT插件，包括专用侧边栏主页、交互式面板、文件查看器、改进的发现以及对自动化的支持。" data-title="OpenAI通过类似应用程序的界面和自动化扩展了ChatGPT的插件" data-date="09-30 01:15" data-source="TechCrunch">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html" target="_blank" rel="noopener" data-cat="keji" data-summary="A Staten Island judge sided with a group of homeowners who had sued the city over its introduction of the tax, dealing a blow to Mayor Zohran Mamdani." data-title="Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over" data-date="09-30 06:01" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-30 06:01</span>
+          <span class="news-item-title">Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike." data-title="OpenAI’s latest features take direct aim at the app store model" data-date="09-30 04:15" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 01:15</span>
-          <span class="news-item-title">OpenAI通过类似应用程序的界面和自动化扩展了ChatGPT的插件</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI表示， GPT-6.1 SOL在复杂的专业任务方面比GPT-6 SOL有显著改进，包括代码编写和调试、文档理解以及执行多步骤业务工作流程。" data-title="OpenAI推出GPT-6.1 Sol ，称其几乎与GPT-6 Astra相匹配，成本更低" data-date="09-30 01:15" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 01:15</span>
-          <span class="news-item-title">OpenAI推出GPT-6.1 Sol ，称其几乎与GPT-6 Astra相匹配，成本更低</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI正在通过可重用的云开发环境、经过改进的语音控制CLI、新的代码审查工具以及用于扫描存储库和准备修复程序的以安全为重点的产品来扩展Codex。" data-title="OpenAI为Codex提供了跨设备工作的可重用云环境" data-date="09-30 01:15" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 01:15</span>
-          <span class="news-item-title">OpenAI为Codex提供了跨设备工作的可重用云环境</span>
+          <span class="news-item-date">09-30 04:15</span>
+          <span class="news-item-title">OpenAI’s latest features take direct aim at the app store model</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">11 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC Sport analyses Manchester City&#39;s dominance of English football during the period in which they were breaching financial rules." data-title="£1.2bn on transfers with £830m inflated in accounts - Man City&#39;s &#39;asterisk era&#39;" data-date="09-30 14:26" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 14:26</span>
+          <span class="news-item-title">£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="After the Premier League published the ‘core decision’ of its independent commission, we pick out the main elementsThe independent commission’s “core decision” is a 40-page document which appears to confirm the worst interpretation of Manchester City’s behaviour. Central to the finding that the club were guilty of all charges of breaching the Premi" data-title="Disguised funding and dishonest witnesses: key findings in Manchester City case" data-date="09-30 05:02" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 05:02</span>
+          <span class="news-item-title">Disguised funding and dishonest witnesses: key findings in Manchester City case</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here&#39;s what it sets out." data-title="The intricate web Man City spun to con the Premier League" data-date="09-30 04:58" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 04:58</span>
+          <span class="news-item-title">The intricate web Man City spun to con the Premier League</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="How can Manchester City be trusted under these owners after they were found to have devised £900m of ‘sham’ contracts? How bad could it be, really? How serious can a breach of arcane financial regulations be, really? Just how damning can accountancy be? Even after Friday’s revelation that Manchester City had been found guilty of all but one of the" data-title="Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson" data-date="09-30 04:30" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 04:30</span>
+          <span class="news-item-title">Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sounds/play/p0pd2w9y?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Kelly Somers is joined by Dale Johnson, Kieran Maguire, John Murray and Paul Robinson" data-title="Football Daily" data-date="09-30 03:30" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 03:30</span>
+          <span class="news-item-title">Football Daily</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-ceo-soriano-says-guilty-verdicts-are-a-premier-league-conspiracy-theory" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Soriano: the case is based on ‘a single false accusation’Club to appeal after verdict on more than 100 chargesManchester City’s chief executive, Ferran Soriano, has said the guilty verdicts against the club for breaches of financial rules are based on “a single false accusation” and a “Premier League conspiracy theory”, as he maintained City’s inno" data-title="Manchester City CEO Soriano says guilty verdicts are ‘a Premier League conspiracy theory’" data-date="09-30 02:39" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 02:39</span>
+          <span class="news-item-title">Manchester City CEO Soriano says guilty verdicts are ‘a Premier League conspiracy theory’</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18." data-title="Man City guilty of &#39;sham&#39; contracts and £830m &#39;disguised funding scheme&#39;" data-date="09-30 02:12" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 02:12</span>
+          <span class="news-item-title">Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-sham-seasons-how-they-fared-and-who-was-in-charge" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="一个独立委员会发现，曼城在2009-10赛季和2017-18赛季之间严重违反英超联赛财务规则的所有指控被判有罪，曼城违反了英超联赛财务规则，创建了“虚假”合同，以帮助夸大收入，并在九年内降低成本超过9亿英镑。俱乐部说他们对这些指控是无辜的。以下是" data-title="曼城的“虚假”赛季：他们的表现和谁负责" data-date="09-30 02:02" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
           <span class="news-item-date">09-30 02:02</span>
           <span class="news-item-title">曼城的“虚假”赛季：他们的表现和谁负责</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-sham-seasons-how-they-fared-and-who-was-in-charge" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="A season-by-season breakdown after City were found guilty on all charges related to serious breaches of Premier League financial rules between the 2009-10 and 2017-18 campaignsManchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an i" data-title="Manchester City’s ‘sham’ seasons: how they fared and who was in charge" data-date="09-30 02:02" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 02:02</span>
+          <span class="news-item-title">Manchester City’s ‘sham’ seasons: how they fared and who was in charge</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="花了两年多的时间，但似乎终于对针对曼城的115项指控做出了判决。以下是它的含义。" data-title="曼城统治后英超联赛的四个“下一步是什么？”场景" data-date="09-30 01:37" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -309,53 +363,29 @@ title: 热点新闻
           <span class="news-item-date">09-30 00:05</span>
           <span class="news-item-title">曼城在9亿英镑的“虚假”合同后因英超联赛指控而有罪</span>
         </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Commission: club broke rules over nine-season periodCity will appeal against verdict before Friday deadlineThe Premier League has confirmed Manchester City have been found guilty of all charges of breaching its financial rules over a nine-year period, with the club found to have boosted their income by a staggering amount of more than £900m.In a bo" data-title="Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts" data-date="09-30 00:05" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 00:05</span>
+          <span class="news-item-title">Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="“我不会感到舒服......我不认为我们应该得到它”曼联在2011-12赛季排名第二鲁尼不认为曼城因违反英超联赛财务规则而被剥夺冠军头衔是不合适的，即使这给了他另一枚英超联赛冠军奖牌，因为这对努力取得成功的曼城球员和工作人员来说是不公平的。城市正在等待找出什么制裁" data-title="韦恩·鲁尼（ Wayne Rooney ）表示，曼城不应因违反规则而被剥夺冠军头衔" data-date="09-30 00:04" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
           <span class="news-item-date">09-30 00:04</span>
           <span class="news-item-title">韦恩·鲁尼（ Wayne Rooney ）表示，曼城不应因违反规则而被剥夺冠军头衔</span>
         </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="‘I wouldn’t feel comfortable … I don’t think we deserved it’Manchester United finished second to City in 2011-12Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him another Premier League winner’s medal, as that would be unfair of the Cit" data-title="Wayne Rooney says Manchester City should not be stripped of titles for rules breach" data-date="09-30 00:04" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">09-30 00:04</span>
+          <span class="news-item-title">Wayne Rooney says Manchester City should not be stripped of titles for rules breach</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="当跨国联盟几乎没有减弱时，据称俱乐部的运营方式提供了一个由蛮力和财富驱动的世界的黯淡愿景。Der Spiegel于2018年发布了最终导致曼城陷入危机的泄露电子邮件和文件的缓存，而俱乐部沟通的基调往往与其内容一样令人震惊。市主席Khaldoon al-Mubarak" data-title="曼城的案例向我们展示了全球超级富豪现在如何期望不受惩罚地运营| Jonathan Liew" data-date="09-29 21:30" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
           <span class="news-item-date">09-29 21:30</span>
           <span class="news-item-title">曼城的案例向我们展示了全球超级富豪现在如何期望不受惩罚地运营| Jonathan Liew</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/29/premier-league-fast-start-teams-manchester-city" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城以连续五场胜利拉开了比赛的序幕，但冠军争夺战是一场马拉松而不是短跑Opta Analyst第一个国际窗口让我们有时间进行评估，并了解英超赛季前几周发生的事情。曼城是唯一一支赢得所有五场比赛的球队。他们在瓜迪奥拉之后以最好的方式在球场上开始生活，开了一个三分球" data-title="对于追逐英超冠军的球队来说，快速起步有多重要？" data-date="09-29 20:41" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-29 20:41</span>
-          <span class="news-item-title">对于追逐英超冠军的球队来说，快速起步有多重要？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c6e3077kkde3o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利物浦在寻找全球青年人才方面变得越来越积极主动。英国广播公司体育频道（ BBC Sport ）近距离观看。" data-title="利物浦日益增加的全球青年投资" data-date="09-29 15:19" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-29 15:19</span>
-          <span class="news-item-title">利物浦日益增加的全球青年投资</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/extra/x3s96hvhqb/the-story-of-manchester-city-and-115-charges?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这是英超历史上最大的纪律处分案件。在这里，我们将曼城的现场努力与他们所谓的不法行为拼凑在一起。" data-title="曼城的故事和115项指控" data-date="09-29 08:00" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-29 08:00</span>
-          <span class="news-item-title">曼城的故事和115项指控</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/28/manchester-city-chief-executive-ferran-soriano-premier-league-rivals-urge-commission-publish-verdict" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="费兰·索里亚诺（ Ferran Soriano ）告诉欧洲俱乐部曼城将与判决作斗争英超联赛俱乐部抱怨时间表“无效”一些英超联赛俱乐部正在推动尽快公布曼城的判决，俱乐部正在进行长期的斗争，以清除他们的名字。曼城首席执行官费兰·索里亚诺（ Ferran Soriano ）周一在欧洲足球俱乐部董事会会议上表示，他们将努力证明自己是无辜的。" data-title="曼城酋长坚持认为俱乐部是无辜的，因为竞争对手正在推动公布判决" data-date="09-29 04:30" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-29 04:30</span>
-          <span class="news-item-title">曼城酋长坚持认为俱乐部是无辜的，因为竞争对手正在推动公布判决</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城已经出来反对有罪判决，但英超面临着自己的问题什么都没有结束，什么也没做。或者至少不是从勇气来判断，曼城主席Khaldoon al-Mubarak的信心仍然坚信过去三天的鞭打只是大揭露之前的鼓声，这是一些有力证据的前奏，这些证据将冲刷掉gu的最初发现" data-title="城市的惩罚规模是唯一的故事，但英超联赛必须承担一些责任| Barney Ronay" data-date="09-29 03:30" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">09-29 03:30</span>
-          <span class="news-item-title">城市的惩罚规模是唯一的故事，但英超联赛必须承担一些责任| Barney Ronay</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC Sport获悉，曼城首席执行官Ferran Soriano向其他球队的高管发出了一个挑衅的信息，即该俱乐部被判犯有大部分英超联赛指控。" data-title="曼城首席执行官对英超联赛指控的反抗" data-date="09-29 02:53" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-29 02:53</span>
-          <span class="news-item-title">曼城首席执行官对英超联赛指控的反抗</span>
         </a>
   </div>
   <div class="news-category">
@@ -364,95 +394,95 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/us/ice-shooting-driver-austin-charges-body-camera.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Prosecutors say the man struck an agent with his car’s mirror before another agent shot him. The charge reveals the existence of body camera footage of the shooting, though that has not been released." data-title="Man Shot by ICE Agent in Austin Is Charged With Assault" data-date="09-30 01:59" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 01:59</span>
-          <span class="news-item-title">Man Shot by ICE Agent in Austin Is Charged With Assault</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/us/victor-marx-colorado-republican-governor-candidate.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Some Republicans in the state fear that the sensational biography of Victor Marx, their party’s candidate for governor, could drag down the rest of the ticket." data-title="Victor Marx, Colorado Governor Nominee With Sensational Past, Splinters the G.O.P." data-date="09-30 01:49" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-30 01:49</span>
-          <span class="news-item-title">Victor Marx, Colorado Governor Nominee With Sensational Past, Splinters the G.O.P.</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Woot的Razer DeathStalker V2 Pro TKL以130 $的价格出售，比通常的219.99 $的价格低很多。这款键盘专为竞争性游戏而设计，具有低延迟2.4GHz无线连接，以及低配置线性光学开关，可实现比常规机械开关更轻触摸的快速激活。TKL布局[…]" data-title="雷蛇的低延迟无线游戏键盘几乎半价" data-date="09-30 01:19" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-30 01:19</span>
-          <span class="news-item-title">雷蛇的低延迟无线游戏键盘几乎半价</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature" target="_blank" rel="noopener" data-cat="zonghe" data-summary="微软今天正式宣布其新的Xbox神话成就，它们已经可供Xbox预览体验者测试。神话成就与索尼的PlayStation白金奖杯非常相似，一旦您获得游戏的所有原始成就，即可解锁。“神话成就已添加到您过去完成的合格游戏中， […]" data-title="Xbox的神话成就在这里，它们就像PlayStation Platinum奖杯一样" data-date="09-30 00:17" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-30 00:17</span>
-          <span class="news-item-title">Xbox的神话成就在这里，它们就像PlayStation Platinum奖杯一样</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy" target="_blank" rel="noopener" data-cat="zonghe" data-summary="根据彭博社的一份报告，苹果新任首席执行官约翰·特纳斯（ John Ternus ）希望苹果在秋季和春季推出产品的频率高于其通常的引人注目的时刻，该报告详细介绍了特纳斯对公司的一些初步计划。苹果公司定期在9月份举办iPhone发布会，并经常在今年晚些时候和[…]宣布产品。" data-title="苹果新任首席执行官在推出手机和笔记本电脑时可能会发生变化" data-date="09-30 00:09" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-30 00:09</span>
-          <span class="news-item-title">苹果新任首席执行官在推出手机和笔记本电脑时可能会发生变化</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look" target="_blank" rel="noopener" data-cat="zonghe" data-summary="从Android Headlines共享的漏洞来看，谷歌并未对其即将推出的中端Pixel更新进行任何重大设计更改。OnLeaks制作的图像渲染可能是我们第一次看到Pixel 11A ，它除了有一个稍微圆润的椭圆形后置摄像头模块外，看起来几乎与Pixel 10A […]" data-title="这可能是我们第一次看到谷歌的Pixel 11A" data-date="09-29 23:57" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">09-29 23:57</span>
-          <span class="news-item-title">这可能是我们第一次看到谷歌的Pixel 11A</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/517.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 29 日消息，继 8.0.22.34 之后，微信鸿蒙版 App 在华为应用市场（App Gallery）紧接着开启了 8.0.22.35 (8394275) 版本尝鲜升级，测试时间为 2026/9/29-2026/10/29。微信鸿蒙版 App 尝鲜可能量少，有需要的朋友可通过应用市场-我的-应用尝鲜-点击搜索框搜索。和往常一样，本次更新的说明依旧为“修复了一些已知问题”。IT之家附网友 @伤心萨摩耶 和 MeoW 整理的最新版本已知灰度测试内容（不绑定版本号）：微信鸿蒙版 8.0.22 版本新发现内容：1.个人资料新增我的发票抬头；2.聊天界面支持点击时间切换日期、星期、时间显示；3.服务号主页-设置-通知消息管理新增“接收私信时，以重要通知的方式提醒我”开关；4.朋友资" data-title="微信鸿蒙版 App 获 8.0.22.35 尝鲜升级，修复了一些已知问题" data-date="09-29 23:39" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/008/769.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，今天（30 日）下午，比亚迪海洋网销售事业部总经理张卓发布第二代海鸥内饰细节的预告，并通过长图详细介绍了部分配置。IT之家从预告获悉，新车座舱采用以白色为主的内饰，并搭载怀挡，营造通透、典雅的氛围。具体到配置上，新车将搭载多色氛围灯、前排电动调节座椅（主驾支持按摩）、自动空调、磁吸灵动按键，后排空间也将迎来提升。空间方面，该车将搭载 94 升前备箱，后备箱容量最高可达 1380 升（需放倒第二排座椅），二排座椅下方还设置了隐藏式储物盒。第二代海鸥此前已完成工信部申报。新车采用最新设计语言，前脸造型焕新，配备三叉戟样式灯组。侧面来看，新车腰线上扬，营造俯冲姿态，并采用悬浮车顶设计。车身尺寸方面，申报信息显示新车尺寸为 4205×1810 ×1570mm、轴距 2" data-title="比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车" data-date="09-30 15:36" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-29 23:39</span>
-          <span class="news-item-title">微信鸿蒙版 App 获 8.0.22.35 尝鲜升级，修复了一些已知问题</span>
+          <span class="news-item-date">09-30 15:36</span>
+          <span class="news-item-title">比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date" target="_blank" rel="noopener" data-cat="zonghe" data-summary="尽管Zotac在印度提供三年标准保修，但印度Zotac RTX 3060的所有者在2025年购买该卡后仅一年就被拒绝保修。该公司声称，保修从进口日期开始，而不是销售日期，并且该卡是在2023年进口的。" data-title="尽管Zotac提供三年保修期，但仅一年后就拒绝为印度的RTX 3060所有者提供保修支持" data-date="09-29 23:17" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706251.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网成都9月30日电 题：从千年文明到市井烟火 驻华外交官发现四川之美" data-title="从千年文明到市井烟火 驻华外交官发现四川之美" data-date="09-30 15:30" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-29 23:17</span>
-          <span class="news-item-title">尽管Zotac提供三年保修期，但仅一年后就拒绝为印度的RTX 3060所有者提供保修支持</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 15:30</span>
+          <span class="news-item-title">从千年文明到市井烟火 驻华外交官发现四川之美</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Instinct创始人表示，该平台每天都在增长10% ，交易量以类似的速度增长。" data-title="Instinct创始人表示，平台上超过50%的交易是旅行" data-date="09-29 23:12" data-source="TechCrunch">
+        <a class="news-item" href="https://www.ithome.com/1/008/761.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，vivo X500 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起：12GB+256GB：5499 元12GB+512GB：5999 元12GB+1TB：6999 元IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本，售价 6499 元。京东 vivo X500 16GB+512GB6499 元直达链接vivo X500 手机搭载了一块 6.59 英寸 1.5K 144Hz LTPS 直屏，有大地回声、晴天、晨曦、摄夜四种颜色可选；首发搭载天玑 9600M 处理器，内置 7500mAh 电池，支持 90W 有线充电和 40W 无线充电。vivo X500 手机搭载 X 系列" data-title="vivo X500 手机新增 16GB+512GB 版本，6499 元" data-date="09-30 15:28" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-29 23:12</span>
-          <span class="news-item-title">Instinct创始人表示，平台上超过50%的交易是旅行</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 15:28</span>
+          <span class="news-item-title">vivo X500 手机新增 16GB+512GB 版本，6499 元</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/video-games/nintendo/score-the-nintendo-switch-2-at-its-lowest-ever-amazon-uk-price-now-just-gbp354-99-pocket-a-gbp65-discount-on-nintendos-portable-gaming-console-with-a-7-9-inch-1080p-screen-4k-dock-and-magnetic-controllers" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Nintendo Switch 2现在在英国亚马逊上处于创纪录的低价，仅为354.99 £。" data-title="以有史以来最低的亚马逊英国价格获得Nintendo Switch 2 ，现在仅需£ 354.99" data-date="09-29 23:11" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.ithome.com/1/008/760.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，掌阅官方今天在公众号平台发文预告 Ocean 6 Pro 电纸书阅读器。新品提供孤山（黑）、浅草（绿）两种配色，将于 10 月发布。据介绍，这款阅读器采用全新背板设计，手感相比前代有所提升。配备凹屏 + 云曦柔光屏，清晰度更上一层楼。此外，该产品正面右侧带有实体翻页按键，方便用户单手操作。截至目前，官方暂未公布该机的详细参数，感兴趣的小伙伴们可以关注IT之家后续报道。" data-title="掌阅预告 Ocean 6 Pro 电纸书阅读器，10 月见" data-date="09-30 15:19" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-29 23:11</span>
-          <span class="news-item-title">以有史以来最低的亚马逊英国价格获得Nintendo Switch 2 ，现在仅需£ 354.99</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 15:19</span>
+          <span class="news-item-title">掌阅预告 Ocean 6 Pro 电纸书阅读器，10 月见</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/09/29/business/irs-tax-returns-citizenship.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The new question, included on a draft version of the primary tax form, comes as part of an anti-immigrant turn at an agency that long prioritized tax administration." data-title="Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens" data-date="09-29 22:15" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/008/759.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，小米今日宣布，米家冰箱 Pro 439L 法式自动制冰现已开售，售价 4999 元，国补到手价 4249.15 元。该冰箱支持 -30℃ 深冷瞬冻，运行噪音 32 分贝，日均耗电 0.69 度，压缩机提供 10 年包修服务。它还支持四档可调变温空间，可切换母婴、干货、零度、果蔬四种模式。配备水分子筛高保湿技术，果蔬保湿鲜存 7 天；支持 -30℃ 深冷瞬冻。其机身宽度 702mm，深度 597mm，占地面积 0.42m²，相比前代老款减少 7.1%。容积率提升至 54.40%，总容量保持 439L。这款冰箱采用双系统设计，冷藏冷冻独立制冷；支持全自动制冰，最快 55 分钟制出实心厚冰；支持全链路抗菌，支持 3 分钟自清洁，抗菌率 99%，并支持手机智能提醒和预" data-title="小米“米家冰箱 Pro 439L 法式自动制冰”开售，4999 元" data-date="09-30 15:17" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 15:17</span>
+          <span class="news-item-title">小米“米家冰箱 Pro 439L 法式自动制冰”开售，4999 元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/008/757.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，科学家在加利福尼亚州拉森火山国家公园的热水塘中，发现了一种能在前所未有的高温环境中生存的多细胞极端微生物。这项发现对于地外生命搜寻工作具有潜在意义，拓展了有可能孕育复杂生命体的环境范围。可以在极端环境下存活的生物被统称为极端微生物。如果这类极端环境以高温为主，对应的极端微生物就被叫作嗜热生物。这种在火山水域中新发现的嗜热生物被命名为 Incendiamoeba cascadensis，昵称“火变形虫（fire amoeba）”。实验发现，它可以在 63 摄氏度的条件下通过细胞分裂完成自我繁殖；到 64 摄氏度时，它依旧可以保持完全活性，只是不再进行繁殖。即便处于 66 摄氏度环境，该变形虫仍保留部分生理活性；70 摄氏度时它虽然会停止生命活动，但后续还可以恢复" data-title="63℃ 照样繁殖！神奇火变形虫拓宽地外生命搜寻边界" data-date="09-30 15:13" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 15:13</span>
+          <span class="news-item-title">63℃ 照样繁殖！神奇火变形虫拓宽地外生命搜寻边界</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706238.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新华社北京9月30日电(记者魏弘毅、邹雨沁)水利部部长李国英9月30日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，将加快构建流域防洪减灾体系。力争到“十五五”末，新增水库库容150亿立方米。" data-title="“十五五”末力争新增水库库容150亿立方米" data-date="09-30 15:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 15:12</span>
+          <span class="news-item-title">“十五五”末力争新增水库库容150亿立方米</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/008/750.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 9 月 30 日消息，ELECOM（宜丽客）日本当地时间今日发布了无线游戏耳机新品 GH600。这一型号支持 2.4GHz 和蓝牙连接，内置 39.5mm 动态驱动单元，机身质量（含麦克风）仅 174g。GH600 采用覆耳式头戴设计，配备可拆卸的全向收音驻极体电容柔性吊杆麦克风；支持 SBC 音频编解码器，拥有射击 / 动作 2 种游戏音频预设；2.4GHz 续航可达 33.5hr、蓝牙模式续航可达 54hr；支持折叠收纳，耳罩高度可根据自身喜好调节。IT之家注意到，ELECOM GH600 耳机含税售价为 8,480 日元（IT之家注：现汇率约合 361.8 元人民币）。" data-title="ELECOM 发布无线游戏耳机 GH600：39.5mm 单元，174g 质量" data-date="09-30 15:08" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">09-30 15:08</span>
+          <span class="news-item-title">ELECOM 发布无线游戏耳机 GH600：39.5mm 单元，174g 质量</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706212.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社南京9月30日电 (记者 朱晓颖)2026年是中国共产党成立105周年、中国工农红军长征胜利90周年。9月30日，江苏南京举办烈士纪念日系列活动缅怀革命先烈。" data-title="江苏南京举办烈士纪念日系列活动缅怀革命先烈" data-date="09-30 15:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 15:06</span>
+          <span class="news-item-title">江苏南京举办烈士纪念日系列活动缅怀革命先烈</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706216.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近期，我国多地有车主在社交平台发帖表示，自己的爱车莫名出现了一个个小圆洞，一些装饰条、电线护套等塑料部件，也出现了细密的啃咬痕迹。这些小洞从何而来？不少网友认为，罪魁祸首是一只“虫子”。" data-title="小心被虫啃出小圆洞 经常户外停车的要注意这类树" data-date="09-30 14:54" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 14:54</span>
+          <span class="news-item-title">小心被虫啃出小圆洞 经常户外停车的要注意这类树</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706204.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如今线上货运便捷高效，但网上下单如果遭遇接单司机临时加价、恶意索费、扣货要挟的情况，就需要提高警惕了。湖北宜昌警方就侦破了一起利用AI合成人脸技术盗取货运账号，以软暴力胁迫货主加价的物流领域新型“软敲诈”案。" data-title="恶意索费扣货要挟！起底物流领域新型“软敲诈”犯罪" data-date="09-30 14:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 14:43</span>
+          <span class="news-item-title">恶意索费扣货要挟！起底物流领域新型“软敲诈”犯罪</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706192.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新闻发布会现场。杨蓓 摄 中新网晋中9月30日电 (高雨晴)今年国庆假期，山西寿阳以“怡然见晋中·休闲来寿阳”为主题，推出4大特色主题活动、5条精品线路和5个“乐享套餐”，打造一场覆盖多元体验的文旅盛宴，邀八方游客共庆佳节。" data-title="山西寿阳国庆“文旅菜单”出炉 邀客游田园、访古村、享山水" data-date="09-30 14:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 14:22</span>
+          <span class="news-item-title">山西寿阳国庆“文旅菜单”出炉 邀客游田园、访古村、享山水</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="District Attorney Matthew Van Houten said a woman’s report to police in 2024 saying she had been raped at a fraternity did not support a criminal case. But he said he is now reaching out to her." data-title="D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence" data-date="09-30 13:44" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">09-29 22:15</span>
-          <span class="news-item-title">Trump Administration Prepares to Ask Tax Filers if They Are U.S. Citizens</span>
+          <span class="news-item-date">09-30 13:44</span>
+          <span class="news-item-title">D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-29/10705929.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社黑龙江佳木斯9月29日电 (记者 王妮娜)“稻田一眼望不到边，看不到人，只有无人驾驶收割机在自动收割水稻，很震撼。”新加坡《海峡时报》记者游润恬29日在黑龙江佳木斯富锦市万亩水稻科技示范园参观时说。" data-title="“外媒看中国”活动走进黑龙江 见证农业“智”变" data-date="09-29 22:10" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据说曾启发反光道路标记发明数十年后，猫眼的形状和“发光”现象如今正被工程师仿效，用于设计高科技相机。" data-title="猫眼如何启发机器人的照相机技术发展" data-date="09-30 12:54" data-source="BBC">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 22:10</span>
-          <span class="news-item-title">“外媒看中国”活动走进黑龙江 见证农业“智”变</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">09-30 12:54</span>
+          <span class="news-item-title">猫眼如何启发机器人的照相机技术发展</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks" target="_blank" rel="noopener" data-cat="zonghe" data-summary="一份新的报告称，区块链的死掉攻击增加了440% ，与国家相关的犯罪集团使用交易、智能合约，甚至是虚拟钱包来隐藏公共区块链上的恶意软件有效负载和C2基础设施。" data-title="在伊朗和朝鲜国家行为体以及与俄罗斯有关的团体的推动下，区块链辅助网络攻击激增了五倍" data-date="09-29 22:10" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity party since they were first made in 2024 and led the reporting on the case." data-title="Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years" data-date="09-30 09:29" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">09-29 22:10</span>
-          <span class="news-item-title">在伊朗和朝鲜国家行为体以及与俄罗斯有关的团体的推动下，区块链辅助网络攻击激增了五倍</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-29/10705923.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海9月29日电 (记者 姜煜)2026年“上海环球美食汇·风味无界”活动29日下午在青浦区蟠龙古镇启动。启动仪式由上海市商务委员会、青浦区人民政府主办，青浦区商务委员会、上海市商业联合会承办。" data-title="2026年“上海环球美食汇·风味无界”活动启动 7大环球美食地标发布" data-date="09-29 21:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:52</span>
-          <span class="news-item-title">2026年“上海环球美食汇·风味无界”活动启动 7大环球美食地标发布</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-29/10705890.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京9月29日电 (记者 张素)秋冬时节被称为膏方进补调养的“窗口期”。29日在北京举行的一场中医药文化惠民活动上，中医医师介绍特色膏方，建言如何摆脱亚健康困扰。" data-title="膏方养生文化节启幕 中医建言摆脱亚健康困扰" data-date="09-29 21:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 21:43</span>
-          <span class="news-item-title">膏方养生文化节启幕 中医建言摆脱亚健康困扰</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">09-30 09:29</span>
+          <span class="news-item-title">Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years</span>
         </a>
   </div>
 </div>
@@ -585,4 +615,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-09-30 02:09（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-09-30 15:35（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

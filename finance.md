@@ -30,8 +30,8 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,830.45</span>
-      <span class="ticker-change up">▲ +0.18%</span>
+      <span class="ticker-price ticker-up">3,842.19</span>
+      <span class="ticker-change up">▲ +0.31%</span>
     </div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
@@ -44,8 +44,8 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">12,901.95</span>
-      <span class="ticker-change up">▲ +0.34%</span>
+      <span class="ticker-price ticker-down">12,887.62</span>
+      <span class="ticker-change down">▼ -0.11%</span>
     </div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
@@ -58,8 +58,8 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,142.56</span>
-      <span class="ticker-change up">▲ +0.09%</span>
+      <span class="ticker-price ticker-down">3,135.28</span>
+      <span class="ticker-change down">▼ -0.23%</span>
     </div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
@@ -72,8 +72,8 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,569.34</span>
-      <span class="ticker-change up">▲ +0.86%</span>
+      <span class="ticker-price ticker-down">1,530.01</span>
+      <span class="ticker-change down">▼ -2.51%</span>
     </div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,247.61</span>
-      <span class="ticker-change down">▼ -1.13%</span>
+      <span class="ticker-price ticker-up">4,254.94</span>
+      <span class="ticker-change up">▲ +0.12%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,283.83</span>
+      <span class="ticker-price ticker-up">30,339.33</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7086</span>
+      <span class="ticker-price ticker-down">6.7062</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,162.87 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +47.94 (+1.17%)</span>
+      <span class="ticker-price ticker-up">$4,198.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +16.33 (+0.39%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -142,8 +142,8 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥899.34 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +2.73 (+0.30%)</span>
+      <span class="ticker-price ticker-up">¥906.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +10.19 (+1.14%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+36.9 亿</span>
+      <span class="sector-flow-badge">+36.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+28.8 亿</span>
+      <span class="sector-flow-badge">+26.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+48.8 亿</span>
+      <span class="sector-flow-badge">+16.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+26.5 亿</span>
+      <span class="sector-flow-badge">+41.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,13 +230,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">5 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/09-30/10706217.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西安9月30日电 (记者 张一辰)记者30日从西安市未央区人民法院(以下简称：未央法院)获悉，该院依法审结一起街头团伙养老诈骗案，五名被告人结伙冒充“聋哑算命先生”，专门针对老年人实施诈骗，其行为均已构成诈骗罪，五名被告人全部获刑并被责令向各被害人退赔全部经济损失。" data-title="冒充聋哑人街头算命行骗 西安一养老诈骗团伙获刑" data-date="09-30 14:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 14:55</span>
+          <span class="news-item-title">冒充聋哑人街头算命行骗 西安一养老诈骗团伙获刑</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10705999.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="近期，受中东局势影响，欧洲多国能源价格持续高企。西班牙与奥地利已宣布对能源价格实施干预。同时，多家油企已经在意大利采取限价措施。" data-title="西班牙与奥地利宣布对能源价格实施干预" data-date="09-30 09:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">09-30 09:28</span>
+          <span class="news-item-title">西班牙与奥地利宣布对能源价格实施干预</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/09/29/technology/dorm-room-fund-ai-investment.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Dorm Room Fund是一项让大学生投资同龄人的计划，随着年轻创始人竞争的加剧，它筹集了一个新的5000万$基金。" data-title="大学生在AI投资狂潮中发挥自己的力量" data-date="09-29 23:31" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">09-29 23:31</span>
           <span class="news-item-title">大学生在AI投资狂潮中发挥自己的力量</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date" target="_blank" rel="noopener" data-cat="caijing" data-summary="The owner of a Zotac RTX 3060 in India was denied warranty coverage just one year after buying the card in 2025, despite Zotac&#39;s offer of a three-year standard warranty in the country. The company claims that the warranty begins from the date of import, not the date of sale, and that the card was imported in 2023." data-title="Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage" data-date="09-29 23:17" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">09-29 23:17</span>
+          <span class="news-item-title">Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-29/10705925.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海9月29日电 (记者 缪璐)“会议一结束，我就要去和大陆企业谈合作了。”29日举行的首届“两岸创新发展周”上，台企安捷莉娜创始人江文舜在圆桌论坛时透露。" data-title="首届“两岸创新发展周”在上海举行 冀数智科技产业加大合作" data-date="09-29 21:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -249,18 +267,6 @@ title: 股票财经
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">09-29 20:20</span>
           <span class="news-item-title">购买全新经济型游戏键盘，立省40%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-29/10705531.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社悉尼9月29日电 (记者 薄雯雯)澳大利亚储备银行(央行)29日宣布，将基准利率上调25个基点至4.6%。这是澳央行今年第四次加息，利率升至2011年底以来最高水平。" data-title="澳大利亚央行加息至4.6%  创近15年新高" data-date="09-29 15:15" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-29 15:15</span>
-          <span class="news-item-title">澳大利亚央行加息至4.6%  创近15年新高</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6lyq5d3g9j8o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="澳洲越来越担心中国的军事实力——但北京也是其最大的贸易伙伴。" data-title="亦敌亦友：澳洲如何在超级大国竞争中找平衡？" data-date="09-29 13:46" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">09-29 13:46</span>
-          <span class="news-item-title">亦敌亦友：澳洲如何在超级大国竞争中找平衡？</span>
         </a>
   </div>
 </div>
@@ -275,4 +281,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-09-30 02:09（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-09-30 15:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

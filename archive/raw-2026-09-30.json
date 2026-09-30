@@ -1038,5 +1038,965 @@
     "feed_name": "纽约时报",
     "summary": "In the so-called affordability election, two candidates for governor of Ohio are sparring over whether billionaires are the problem or the solution.",
     "published_dt_iso": "2026-09-29T19:19:11+08:00"
+  },
+  {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "date": "2026-09-30",
+    "published_time": "07:30",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+    "published_dt_iso": "2026-09-30T07:30:55+08:00"
+  },
+  {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "date": "2026-09-30",
+    "published_time": "06:20",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+    "published_dt_iso": "2026-09-30T06:20:59+08:00"
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "date": "2026-09-30",
+    "published_time": "04:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "published_dt_iso": "2026-09-30T04:15:47+08:00"
+  },
+  {
+    "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "date": "2026-09-30",
+    "published_time": "03:52",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+    "published_dt_iso": "2026-09-30T03:52:37+08:00"
+  },
+  {
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "date": "2026-09-30",
+    "published_time": "02:35",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+    "published_dt_iso": "2026-09-30T02:35:00+08:00"
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "date": "2026-09-30",
+    "published_time": "01:45",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+    "published_dt_iso": "2026-09-30T01:45:51+08:00"
+  },
+  {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "date": "2026-09-30",
+    "published_time": "01:20",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "published_dt_iso": "2026-09-30T01:20:00+08:00"
+  },
+  {
+    "title": "OpenAI launches Dots, its bubbly agentic avatar",
+    "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+    "date": "2026-09-30",
+    "published_time": "01:17",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+    "published_dt_iso": "2026-09-30T01:17:15+08:00"
+  },
+  {
+    "title": "Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage",
+    "link": "https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date",
+    "date": "2026-09-29",
+    "published_time": "23:17",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "The owner of a Zotac RTX 3060 in India was denied warranty coverage just one year after buying the card in 2025, despite Zotac's offer of a three-year standard warranty in the country. The company claims that the warranty begins from the date of import, not the date of sale, and that the card was imported in 2023.",
+    "published_dt_iso": "2026-09-29T23:17:35+08:00"
+  },
+  {
+    "title": "Score the Nintendo Switch 2 at its lowest ever Amazon UK price, now just £354.99",
+    "link": "https://www.tomshardware.com/video-games/nintendo/score-the-nintendo-switch-2-at-its-lowest-ever-amazon-uk-price-now-just-gbp354-99-pocket-a-gbp65-discount-on-nintendos-portable-gaming-console-with-a-7-9-inch-1080p-screen-4k-dock-and-magnetic-controllers",
+    "date": "2026-09-29",
+    "published_time": "23:11",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "The Nintendo Switch 2 is now at a record low price on Amazon UK at just £354.99.",
+    "published_dt_iso": "2026-09-29T23:11:18+08:00"
+  },
+  {
+    "title": "Blockchain-assisted cyberattacks surge fivefold, driven by Iranian and North Korean state actors, Russia-linked groups",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/blockchain-assisted-cyberattacks-surge-fivefold-driven-by-iranian-and-north-korean-state-actors-russia-linked-groups-open-weight-llms-are-linked-to-an-increase-in-attacks",
+    "date": "2026-09-29",
+    "published_time": "22:10",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "A new report says blockchain dead-drop attacks have risen 440%, with state-linked and criminal groups using transactions, smart contracts, and even phantom wallets to hide malware payloads and C2 infrastructure on public blockchains.",
+    "published_dt_iso": "2026-09-29T22:10:00+08:00"
+  },
+  {
+    "title": "Anthropic lists ‘existential risks to humanity’ as one of its risk factors in IPO prospectus",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-lists-existential-risks-to-humanity-as-one-of-its-risk-factors-in-ipo-prospectus-80-pages-of-risk-factors-dwarf-business-description-as-firm-eyes-usd2-trillion-debut",
+    "date": "2026-09-29",
+    "published_time": "21:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Anthropic serves a dire warning in its IPO prospectus, saying how a rogue model could lead to the end of humanity and, consequentially, its business. Nevertheless, investors are still hoping for a $2-trillion valuation once the company goes public.",
+    "published_dt_iso": "2026-09-29T21:30:00+08:00"
+  },
+  {
+    "title": "We tested 13 power banks to help you choose the best one",
+    "link": "https://www.tomshardware.com/peripherals/usb/we-tested-13-power-banks-to-help-you-choose-the-best-one-from-10-25k-mah-and-20-220w",
+    "date": "2026-09-29",
+    "published_time": "21:10",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "We tested 13 power banks from Anker, Belkin, Baseus, Cuktech, and Sharge, tracking charge times, output, temps, and capacity to see which actually hold up.",
+    "published_dt_iso": "2026-09-29T21:10:00+08:00"
+  },
+  {
+    "title": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond",
+    "date": "2026-09-29",
+    "published_time": "20:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today.",
+    "published_dt_iso": "2026-09-29T20:40:00+08:00"
+  },
+  {
+    "title": "Save 40% on a new budget gaming keyboard",
+    "link": "https://www.tomshardware.com/peripherals/gaming-keyboards/save-40-percent-on-a-new-budget-gaming-keyboard-steelseries-apex-3-is-just-usd29-in-woot-deal",
+    "date": "2026-09-29",
+    "published_time": "20:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Save 40% on this SteelSeries Apex 3 gaming keyboard at Woot",
+    "published_dt_iso": "2026-09-29T20:20:00+08:00"
+  },
+  {
+    "title": "Intel's next-gen Nova Lake platforms pass compliance at USB and PCIe standards bodies as launch looms",
+    "link": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-platforms-pass-compliance-at-pci-sig-usb-if-as-launch-looms",
+    "date": "2026-09-29",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Intel is prepping Core Ultra 400-series 'Nova Lake' platform launches as CPUs and chipsets pass interoperability and compliance tests with PCI-SIG and USB-IF.",
+    "published_dt_iso": "2026-09-29T20:00:00+08:00"
+  },
+  {
+    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "date": "2026-09-26",
+    "published_time": "03:38",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Ads appearing all over the Internet are trying to scam people.",
+    "published_dt_iso": "2026-09-26T03:38:59+08:00"
+  },
+  {
+    "title": "There's a new way to break RSA that's faster than anything we've seen before",
+    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-24",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+    "published_dt_iso": "2026-09-24T19:15:44+08:00"
+  },
+  {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "date": "2026-09-23",
+    "published_time": "03:45",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "published_dt_iso": "2026-09-23T03:45:47+08:00"
+  },
+  {
+    "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
+    "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+    "date": "2026-09-23",
+    "published_time": "00:55",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "The English hospitals recovered patient care data only.",
+    "published_dt_iso": "2026-09-23T00:55:40+08:00"
+  },
+  {
+    "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0",
+    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "date": "2026-09-22",
+    "published_time": "06:24",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+    "published_dt_iso": "2026-09-22T06:24:38+08:00"
+  },
+  {
+    "title": "An undercover Google analyst infiltrated a notorious supply",
+    "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "date": "2026-09-20",
+    "published_time": "19:07",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
+    "published_dt_iso": "2026-09-20T19:07:00+08:00"
+  },
+  {
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "date": "2026-09-18",
+    "published_time": "02:33",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+    "published_dt_iso": "2026-09-18T02:33:13+08:00"
+  },
+  {
+    "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+    "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+    "date": "2026-09-17",
+    "published_time": "05:08",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Group plans to be largely out of commission for several weeks.",
+    "published_dt_iso": "2026-09-17T05:08:14+08:00"
+  },
+  {
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "date": "2026-09-30",
+    "published_time": "08:19",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
+    "published_dt_iso": "2026-09-30T08:19:13+08:00"
+  },
+  {
+    "title": "Trump orders US government to call AI ‘Super Intelligence’",
+    "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+    "date": "2026-09-30",
+    "published_time": "06:25",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order signed by President Donald Trump. \"The word super is the best word of all, and it's the simplest,\" Trump",
+    "published_dt_iso": "2026-09-30T06:25:45+08:00"
+  },
+  {
+    "title": "BMW’s revamped i3 boasts up to 468 miles of range",
+    "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+    "date": "2026-09-30",
+    "published_time": "06:01",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says […]",
+    "published_dt_iso": "2026-09-30T06:01:00+08:00"
+  },
+  {
+    "title": "Suspected ShinyHunters leader arrested in the Netherlands",
+    "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+    "date": "2026-09-30",
+    "published_time": "05:50",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch authorities state that they arrested the suspect on September 15th - just days before the hacking gr",
+    "published_dt_iso": "2026-09-30T05:50:31+08:00"
+  },
+  {
+    "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+    "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "date": "2026-09-30",
+    "published_time": "05:49",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a [",
+    "published_dt_iso": "2026-09-30T05:49:09+08:00"
+  },
+  {
+    "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+    "date": "2026-09-30",
+    "published_time": "01:35",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at OpenAI, Google, and Anthropic. Palisade Research, which says it's a nonprofit studying AIs' […]",
+    "published_dt_iso": "2026-09-30T01:35:03+08:00"
+  },
+  {
+    "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
+    "link": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
+    "date": "2026-09-30",
+    "published_time": "01:19",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and low-profile linear optical switches for faster activations that require a lighter touch than regular mechanical switches. The TKL la",
+    "published_dt_iso": "2026-09-30T01:19:07+08:00"
+  },
+  {
+    "title": "OpenAI launches Dots, its Muse competitor",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+    "date": "2026-09-30",
+    "published_time": "01:15",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the background while learning your preferences over time. The company's capable GPT-6 Astra model powers […]",
+    "published_dt_iso": "2026-09-30T01:15:00+08:00"
+  },
+  {
+    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+    "link": "https://www.qbitai.com/2026/09/499308.html",
+    "date": "2026-09-30",
+    "published_time": "13:18",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+    "published_dt_iso": "2026-09-30T13:18:05+08:00"
+  },
+  {
+    "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+    "link": "https://www.qbitai.com/2026/09/499280.html",
+    "date": "2026-09-30",
+    "published_time": "12:42",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "机器人上市，风向有变",
+    "published_dt_iso": "2026-09-30T12:42:22+08:00"
+  },
+  {
+    "title": "DeepSeek官方开源升腾基础组件，与升腾共建高效易用的AI芯片软件生态",
+    "link": "https://www.qbitai.com/2026/09/499263.html",
+    "date": "2026-09-30",
+    "published_time": "10:53",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-09-30T10:53:17+08:00"
+  },
+  {
+    "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+    "link": "https://www.qbitai.com/2026/09/499246.html",
+    "date": "2026-09-30",
+    "published_time": "07:01",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "今年devday牙膏挤爆",
+    "published_dt_iso": "2026-09-30T07:01:05+08:00"
+  },
+  {
+    "title": "比亚迪预告第二代海鸥内饰：主驾按摩座椅、二排隐藏式储物盒上车",
+    "link": "https://www.ithome.com/1/008/769.htm",
+    "date": "2026-09-30",
+    "published_time": "15:36",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，今天（30 日）下午，比亚迪海洋网销售事业部总经理张卓发布第二代海鸥内饰细节的预告，并通过长图详细介绍了部分配置。IT之家从预告获悉，新车座舱采用以白色为主的内饰，并搭载怀挡，营造通透、典雅的氛围。具体到配置上，新车将搭载多色氛围灯、前排电动调节座椅（主驾支持按摩）、自动空调、磁吸灵动按键，后排空间也将迎来提升。空间方面，该车将搭载 94 升前备箱，后备箱容量最高可达 1380 升（需放倒第二排座椅），二排座椅下方还设置了隐藏式储物盒。第二代海鸥此前已完成工信部申报。新车采用最新设计语言，前脸造型焕新，配备三叉戟样式灯组。侧面来看，新车腰线上扬，营造俯冲姿态，并采用悬浮车顶设计。车身尺寸方面，申报信息显示新车尺寸为 4205×1810 ×1570mm、轴距 2",
+    "published_dt_iso": "2026-09-30T15:36:44+08:00"
+  },
+  {
+    "title": "三星 Galaxy Tab S12 Ultra 平板宣传图曝光：7 年安卓更新、主打 AI 技能",
+    "link": "https://www.ithome.com/1/008/762.htm",
+    "date": "2026-09-30",
+    "published_time": "15:28",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，科技媒体 sammyguru 今天（9 月 30 日）发布博文，分享了一组来自电商平台的图片，展示了三星 Galaxy Tab S12 Ultra 和 Galaxy Tab S12+，并显示两款平板 10 月 7 日发布。Galaxy Tab S12 Ultra 最高提供 16GB 内存与 1TB 存储，搭载联发科天玑 9500 芯片。屏幕为 14.6 英寸 Dynamic AMOLED 2X，分辨率 2960×1848，支持 120Hz 刷新率，S Pen 随盒附赠。IT之家附上相关图片如下：该机型尺寸为 208.5×326.3×5.1mm，重量 695 克，具备 IP68 防护等级。电池容量 11600mAh，支持 45W 充电，并配备指纹识别、Wi‑Fi",
+    "published_dt_iso": "2026-09-30T15:28:28+08:00"
+  },
+  {
+    "title": "vivo X500 手机新增 16GB+512GB 版本，6499 元",
+    "link": "https://www.ithome.com/1/008/761.htm",
+    "date": "2026-09-30",
+    "published_time": "15:28",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，vivo X500 手机于 9 月 21 日发布，9 月 24 日开售，此前仅有 12GB 内存版本可选，售价 5499 元起：12GB+256GB：5499 元12GB+512GB：5999 元12GB+1TB：6999 元IT之家注意到，vivo 现已在电商平台上架了 16GB+512GB 规格版本，售价 6499 元。京东 vivo X500 16GB+512GB6499 元直达链接vivo X500 手机搭载了一块 6.59 英寸 1.5K 144Hz LTPS 直屏，有大地回声、晴天、晨曦、摄夜四种颜色可选；首发搭载天玑 9600M 处理器，内置 7500mAh 电池，支持 90W 有线充电和 40W 无线充电。vivo X500 手机搭载 X 系列",
+    "published_dt_iso": "2026-09-30T15:28:21+08:00"
+  },
+  {
+    "title": "掌阅预告 Ocean 6 Pro 电纸书阅读器，10 月见",
+    "link": "https://www.ithome.com/1/008/760.htm",
+    "date": "2026-09-30",
+    "published_time": "15:19",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，掌阅官方今天在公众号平台发文预告 Ocean 6 Pro 电纸书阅读器。新品提供孤山（黑）、浅草（绿）两种配色，将于 10 月发布。据介绍，这款阅读器采用全新背板设计，手感相比前代有所提升。配备凹屏 + 云曦柔光屏，清晰度更上一层楼。此外，该产品正面右侧带有实体翻页按键，方便用户单手操作。截至目前，官方暂未公布该机的详细参数，感兴趣的小伙伴们可以关注IT之家后续报道。",
+    "published_dt_iso": "2026-09-30T15:19:28+08:00"
+  },
+  {
+    "title": "小米“米家冰箱 Pro 439L 法式自动制冰”开售，4999 元",
+    "link": "https://www.ithome.com/1/008/759.htm",
+    "date": "2026-09-30",
+    "published_time": "15:17",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，小米今日宣布，米家冰箱 Pro 439L 法式自动制冰现已开售，售价 4999 元，国补到手价 4249.15 元。该冰箱支持 -30℃ 深冷瞬冻，运行噪音 32 分贝，日均耗电 0.69 度，压缩机提供 10 年包修服务。它还支持四档可调变温空间，可切换母婴、干货、零度、果蔬四种模式。配备水分子筛高保湿技术，果蔬保湿鲜存 7 天；支持 -30℃ 深冷瞬冻。其机身宽度 702mm，深度 597mm，占地面积 0.42m²，相比前代老款减少 7.1%。容积率提升至 54.40%，总容量保持 439L。这款冰箱采用双系统设计，冷藏冷冻独立制冷；支持全自动制冰，最快 55 分钟制出实心厚冰；支持全链路抗菌，支持 3 分钟自清洁，抗菌率 99%，并支持手机智能提醒和预",
+    "published_dt_iso": "2026-09-30T15:17:23+08:00"
+  },
+  {
+    "title": "沃尔玛对超市门店内的 AI 生成海报说“不”",
+    "link": "https://www.ithome.com/1/008/758.htm",
+    "date": "2026-09-30",
+    "published_time": "15:17",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，当地时间 29 日，据《商业内幕》报道，沃尔玛明确禁止门店使用“AI 垃圾内容”。长期以来，沃尔玛不允许门店自行定制印刷标识，最近更新的规定又进一步强调，AI 生成的海报同样不得使用。规定明确写道：“门店不得展示使用 AI 工具制作的标识。”新规针对的是零售店和餐厅经理越来越常见的一种做法：不用专业平面设计师，直接拿 ChatGPT、Claude 或 Gemini 等 AI 工具制作公告和促销物料。好处是既省钱，也省事，坏处自然是成品质量往往难以保证。现如今，熟食店和杂货店尤其热衷用 AI 内容制作菜单和招牌。此前中外社交媒体上已经出现不少例子，顾客对此普遍反感。报道指出，这种临时拼凑出来的印刷物料，也存在破坏母公司长期维持的品牌形象和统一标准的风险。IT之家",
+    "published_dt_iso": "2026-09-30T15:17:11+08:00"
+  },
+  {
+    "title": "63℃ 照样繁殖！神奇火变形虫拓宽地外生命搜寻边界",
+    "link": "https://www.ithome.com/1/008/757.htm",
+    "date": "2026-09-30",
+    "published_time": "15:13",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，科学家在加利福尼亚州拉森火山国家公园的热水塘中，发现了一种能在前所未有的高温环境中生存的多细胞极端微生物。这项发现对于地外生命搜寻工作具有潜在意义，拓展了有可能孕育复杂生命体的环境范围。可以在极端环境下存活的生物被统称为极端微生物。如果这类极端环境以高温为主，对应的极端微生物就被叫作嗜热生物。这种在火山水域中新发现的嗜热生物被命名为 Incendiamoeba cascadensis，昵称“火变形虫（fire amoeba）”。实验发现，它可以在 63 摄氏度的条件下通过细胞分裂完成自我繁殖；到 64 摄氏度时，它依旧可以保持完全活性，只是不再进行繁殖。即便处于 66 摄氏度环境，该变形虫仍保留部分生理活性；70 摄氏度时它虽然会停止生命活动，但后续还可以恢复",
+    "published_dt_iso": "2026-09-30T15:13:19+08:00"
+  },
+  {
+    "title": "ELECOM 发布无线游戏耳机 GH600：39.5mm 单元，174g 质量",
+    "link": "https://www.ithome.com/1/008/750.htm",
+    "date": "2026-09-30",
+    "published_time": "15:08",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 9 月 30 日消息，ELECOM（宜丽客）日本当地时间今日发布了无线游戏耳机新品 GH600。这一型号支持 2.4GHz 和蓝牙连接，内置 39.5mm 动态驱动单元，机身质量（含麦克风）仅 174g。GH600 采用覆耳式头戴设计，配备可拆卸的全向收音驻极体电容柔性吊杆麦克风；支持 SBC 音频编解码器，拥有射击 / 动作 2 种游戏音频预设；2.4GHz 续航可达 33.5hr、蓝牙模式续航可达 54hr；支持折叠收纳，耳罩高度可根据自身喜好调节。IT之家注意到，ELECOM GH600 耳机含税售价为 8,480 日元（IT之家注：现汇率约合 361.8 元人民币）。",
+    "published_dt_iso": "2026-09-30T15:08:51+08:00"
+  },
+  {
+    "title": "£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "14:26",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules.",
+    "published_dt_iso": "2026-09-30T14:26:34+08:00"
+  },
+  {
+    "title": "The intricate web Man City spun to con the Premier League",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "04:58",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out.",
+    "published_dt_iso": "2026-09-30T04:58:17+08:00"
+  },
+  {
+    "title": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "02:12",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "The Premier League confirms that Manchester City have been found guilty of all charges related to breaches of Premier League financial rules between 2009-10 and 2017-18.",
+    "published_dt_iso": "2026-09-30T02:12:33+08:00"
+  },
+  {
+    "title": "The story of Manchester City and the 115 charges",
+    "link": "https://www.bbc.co.uk/sport/extra/x3s96hvhqb/the-story-of-manchester-city-and-115-charges?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "08:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "It is the biggest disciplinary case in Premier League history. Here we piece together Man City's on-field endeavours with their alleged wrongdoings.",
+    "published_dt_iso": "2026-09-29T08:00:00+08:00"
+  },
+  {
+    "title": "Man City CEO defiant over Premier League charges",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "02:53",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Manchester City chief executive Ferran Soriano issues a defiant message to the executives of other teams about the club being found guilty of a majority of Premier League charges, BBC Sport has been told.",
+    "published_dt_iso": "2026-09-29T02:53:30+08:00"
+  },
+  {
+    "title": "Football Daily",
+    "link": "https://www.bbc.co.uk/sounds/play/p0pd2w9y?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "03:30",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Kelly Somers is joined by Dale Johnson, Kieran Maguire, John Murray and Paul Robinson",
+    "published_dt_iso": "2026-09-30T03:30:00+08:00"
+  },
+  {
+    "title": "Inside Liverpool's increasing global investment in youth",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6e3077kkde3o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-29",
+    "published_time": "15:19",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Liverpool are becoming increasingly proactive in their search for global young talent. BBC Sport takes a closer look.",
+    "published_dt_iso": "2026-09-29T15:19:52+08:00"
+  },
+  {
+    "title": "Is Premier League possession football on the way out?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmn45n5d8wq7o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-28",
+    "published_time": "14:10",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Only 36% of teams with more than 60% possession in games have won this season in the Premier League. BBC Sport looks at why this might be happening.",
+    "published_dt_iso": "2026-09-28T14:10:34+08:00"
+  },
+  {
+    "title": "How important is a fast start for teams chasing the Premier League title?",
+    "link": "https://www.theguardian.com/football/2026/sep/29/premier-league-fast-start-teams-manchester-city",
+    "date": "2026-09-29",
+    "published_time": "20:41",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Manchester City have kicked off the campaign with five victories in a row but the title race is a marathon not a sprintBy Opta AnalystThe first international window gives us time to take stock and make sense of what has happened in the early weeks of the Premier League season. Manchester City are the only team to have won all five of their matches.",
+    "published_dt_iso": "2026-09-29T20:41:56+08:00"
+  },
+  {
+    "title": "Disguised funding and dishonest witnesses: key findings in Manchester City case",
+    "link": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league",
+    "date": "2026-09-30",
+    "published_time": "05:02",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "After the Premier League published the ‘core decision’ of its independent commission, we pick out the main elementsThe independent commission’s “core decision” is a 40-page document which appears to confirm the worst interpretation of Manchester City’s behaviour. Central to the finding that the club were guilty of all charges of breaching the Premi",
+    "published_dt_iso": "2026-09-30T05:02:02+08:00"
+  },
+  {
+    "title": "Sham City: verdict on financial breaches is damning and punishment must be severe | Jonathan Wilson",
+    "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-financial-breaches-verdict-premier-league",
+    "date": "2026-09-30",
+    "published_time": "04:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "How can Manchester City be trusted under these owners after they were found to have devised £900m of ‘sham’ contracts? How bad could it be, really? How serious can a breach of arcane financial regulations be, really? Just how damning can accountancy be? Even after Friday’s revelation that Manchester City had been found guilty of all but one of the ",
+    "published_dt_iso": "2026-09-30T04:30:10+08:00"
+  },
+  {
+    "title": "Manchester City CEO Soriano says guilty verdicts are ‘a Premier League conspiracy theory’",
+    "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-ceo-soriano-says-guilty-verdicts-are-a-premier-league-conspiracy-theory",
+    "date": "2026-09-30",
+    "published_time": "02:39",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Soriano: the case is based on ‘a single false accusation’Club to appeal after verdict on more than 100 chargesManchester City’s chief executive, Ferran Soriano, has said the guilty verdicts against the club for breaches of financial rules are based on “a single false accusation” and a “Premier League conspiracy theory”, as he maintained City’s inno",
+    "published_dt_iso": "2026-09-30T02:39:14+08:00"
+  },
+  {
+    "title": "Manchester City’s ‘sham’ seasons: how they fared and who was in charge",
+    "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-sham-seasons-how-they-fared-and-who-was-in-charge",
+    "date": "2026-09-30",
+    "published_time": "02:02",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "A season-by-season breakdown after City were found guilty on all charges related to serious breaches of Premier League financial rules between the 2009-10 and 2017-18 campaignsManchester City breached Premier League financial rules by creating “sham” contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an i",
+    "published_dt_iso": "2026-09-30T02:02:38+08:00"
+  },
+  {
+    "title": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts",
+    "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+    "date": "2026-09-30",
+    "published_time": "00:05",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Commission: club broke rules over nine-season periodCity will appeal against verdict before Friday deadlineThe Premier League has confirmed Manchester City have been found guilty of all charges of breaching its financial rules over a nine-year period, with the club found to have boosted their income by a staggering amount of more than £900m.In a bo",
+    "published_dt_iso": "2026-09-30T00:05:21+08:00"
+  },
+  {
+    "title": "Wayne Rooney says Manchester City should not be stripped of titles for rules breach",
+    "link": "https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules",
+    "date": "2026-09-30",
+    "published_time": "00:04",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "‘I wouldn’t feel comfortable … I don’t think we deserved it’Manchester United finished second to City in 2011-12Wayne Rooney does not believe it would be appropriate for Manchester City to be stripped of titles for breaching Premier League financial rules, even if it gave him another Premier League winner’s medal, as that would be unfair of the Cit",
+    "published_dt_iso": "2026-09-30T00:04:34+08:00"
+  },
+  {
+    "title": "The Manchester City case shows us how the global mega-rich now expect to operate with impunity | Jonathan Liew",
+    "link": "https://www.theguardian.com/commentisfree/2026/sep/29/manchester-city-global-mega-rich-impunity",
+    "date": "2026-09-29",
+    "published_time": "21:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "When transnational alliances have scarcely been weaker, the way the club was allegedly run offers a bleak vision of a world driven by brute power and wealthThe cache of leaked emails and documents that would eventually lead to the crisis in which Manchester City are now embroiled was published by Der Spiegel in 2018, and often it was the tone of th",
+    "published_dt_iso": "2026-09-29T21:30:10+08:00"
+  },
+  {
+    "title": "《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706225.shtml",
+    "date": "2026-09-30",
+    "published_time": "15:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月30日电#8195;10月1日出版的第19期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强普惠性、基础性、兜底性民生建设》。这是习近平总书记2012年11月至2026年1月期间有关重要论述的节录。",
+    "published_dt_iso": "2026-09-30T15:21:39+08:00"
+  },
+  {
+    "title": "“十五五”末力争水网覆盖范围占国土面积82%",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706241.shtml",
+    "date": "2026-09-30",
+    "published_time": "15:21",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月30日电(记者魏弘毅、邹雨沁)水利部部长李国英9月30日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，将协同推进各层级水网协同融合建设，打通水网“最后一公里”。力争到“十五五”末，国家水网覆盖范围占国土面积的比例达到82%。(完)",
+    "published_dt_iso": "2026-09-30T15:21:03+08:00"
+  },
+  {
+    "title": "中方：拥有核武器不是日方想不想讨论的问题",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706248.shtml",
+    "date": "2026-09-30",
+    "published_time": "15:20",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京9月30日电 (记者 李京泽)中国外交部发言人郭嘉昆30日主持例行记者会。",
+    "published_dt_iso": "2026-09-30T15:20:35+08:00"
+  },
+  {
+    "title": "山东省烟台市委原常委包华被“双开”",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706235.shtml",
+    "date": "2026-09-30",
+    "published_time": "15:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网9月30日电 据山东省纪委监委消息：经山东省委批准，山东省纪委监委对烟台市委原常委、市政府原副市长包华严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-09-30T15:11:21+08:00"
+  },
+  {
+    "title": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706206.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京9月30日电 9月30日，国家主席习近平同文莱苏丹哈桑纳尔互致贺电，庆祝两国建交35周年。",
+    "published_dt_iso": "2026-09-30T14:56:18+08:00"
+  },
+  {
+    "title": "《峥嵘岁月 家国记忆》卢元顺：一场四天阻击战 一生赤胆报家国",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706180.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "2026年是中国工农红军长征胜利90周年",
+    "published_dt_iso": "2026-09-30T14:02:11+08:00"
+  },
+  {
+    "title": "“转折之城” 长征故事代代传",
+    "link": "https://www.chinanews.com.cn/gn/2026/09-30/10706179.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "原标题：赓续长征精神 奋进复兴征程｜“转折之城” 长征故事代代传",
+    "published_dt_iso": "2026-09-30T14:00:47+08:00"
+  },
+  {
+    "title": "中国驻纽约总领馆举行国庆77周年招待会",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706013.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网纽约9月29日电 (记者 王帆)中国驻纽约总领馆当地时间28日晚举行庆祝中华人民共和国成立77周年招待会，领区各界人士及外国驻纽约总领馆官员等400余人出席。",
+    "published_dt_iso": "2026-09-30T14:09:13+08:00"
+  },
+  {
+    "title": "特朗普签令：将“人工智能”改称为“超级智能”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706181.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月30日电 综合美媒报道，当地时间29日，美国总统特朗普发布行政令，称在法律允许的最大范围内，联邦行政部门今后将在官方通信、公开声明、政府网站、报告、政策文件及其他非法定文件中，使用“超级智能”(Super Intelligence，SI)取代“人工智能”(Artificial Intelligence，AI)这一表述。",
+    "published_dt_iso": "2026-09-30T14:02:33+08:00"
+  },
+  {
+    "title": "曼苏里成为摩洛哥首位女首相",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706114.shtml",
+    "date": "2026-09-30",
+    "published_time": "13:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京9月30日电 拉巴特消息：摩洛哥国王穆罕默德六世于当地时间9月29日在首都拉巴特王宫任命法蒂玛·宰赫拉·曼苏里为新首相，并授权她组建新政府。曼苏里由此成为摩洛哥历史上首位女性政府首脑。",
+    "published_dt_iso": "2026-09-30T13:41:59+08:00"
+  },
+  {
+    "title": "中东学者：阿拉伯世界出现日益明显的“向东看”趋势",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706038.shtml",
+    "date": "2026-09-30",
+    "published_time": "13:41",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社开罗9月30日电 (记者 马秀秀)当地时间9月29日，在埃及开罗举行的“中国学的世界对话·阿拉伯国家专场”活动上，开罗大学研究生与科研事务副校长马哈茂德·萨义德在致辞中提出，包括埃及在内的阿拉伯世界出现日益明显的“向东看”趋势。",
+    "published_dt_iso": "2026-09-30T13:41:03+08:00"
+  },
+  {
+    "title": "日本冲击战后和平体制 加剧地区安全困境",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10706015.shtml",
+    "date": "2026-09-30",
+    "published_time": "09:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "日本政府旨在强化情报能力的专家会议28日召开首次会议。高市政府借所谓安全议题加紧完善国家级情报顶层设计，持续突破战后安保约束，相关动向引人担忧。",
+    "published_dt_iso": "2026-09-30T09:39:32+08:00"
+  },
+  {
+    "title": "西班牙与奥地利宣布对能源价格实施干预",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705999.shtml",
+    "date": "2026-09-30",
+    "published_time": "09:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "近期，受中东局势影响，欧洲多国能源价格持续高企。西班牙与奥地利已宣布对能源价格实施干预。同时，多家油企已经在意大利采取限价措施。",
+    "published_dt_iso": "2026-09-30T09:28:01+08:00"
+  },
+  {
+    "title": "联合国呼吁停止升级乌克兰局势",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705981.shtml",
+    "date": "2026-09-30",
+    "published_time": "08:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "联合国秘书长发言人迪雅里克29日在纽约联合国总部表示，联合国秘书长古特雷斯对乌克兰危机中不断升级的袭击及平民伤亡表示关切，谴责任何针对平民和民用基础设施的袭击，并呼吁立即停止当前“危险的升级循环”，推动实现立即、全面、无条件停火。",
+    "published_dt_iso": "2026-09-30T08:56:21+08:00"
+  },
+  {
+    "title": "金与正批韩国借所谓地雷事件挑衅朝鲜： “低级拙劣的表演”",
+    "link": "https://www.chinanews.com.cn/gj/2026/09-30/10705970.shtml",
+    "date": "2026-09-30",
+    "published_time": "07:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网9月30日电 据朝中社30日报道，朝鲜劳动党中央委员会部长金与正29日发表谈话，称“挑衅的肇事者必须为自导自演剧付出代价做好思想准备”。",
+    "published_dt_iso": "2026-09-30T07:55:49+08:00"
+  },
+  {
+    "title": "从千年文明到市井烟火 驻华外交官发现四川之美",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706251.shtml",
+    "date": "2026-09-30",
+    "published_time": "15:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网成都9月30日电 题：从千年文明到市井烟火 驻华外交官发现四川之美",
+    "published_dt_iso": "2026-09-30T15:30:16+08:00"
+  },
+  {
+    "title": "“十五五”末力争新增水库库容150亿立方米",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706238.shtml",
+    "date": "2026-09-30",
+    "published_time": "15:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新华社北京9月30日电(记者魏弘毅、邹雨沁)水利部部长李国英9月30日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，将加快构建流域防洪减灾体系。力争到“十五五”末，新增水库库容150亿立方米。",
+    "published_dt_iso": "2026-09-30T15:12:25+08:00"
+  },
+  {
+    "title": "江苏南京举办烈士纪念日系列活动缅怀革命先烈",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706212.shtml",
+    "date": "2026-09-30",
+    "published_time": "15:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社南京9月30日电 (记者 朱晓颖)2026年是中国共产党成立105周年、中国工农红军长征胜利90周年。9月30日，江苏南京举办烈士纪念日系列活动缅怀革命先烈。",
+    "published_dt_iso": "2026-09-30T15:06:35+08:00"
+  },
+  {
+    "title": "冒充聋哑人街头算命行骗 西安一养老诈骗团伙获刑",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706217.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网西安9月30日电 (记者 张一辰)记者30日从西安市未央区人民法院(以下简称：未央法院)获悉，该院依法审结一起街头团伙养老诈骗案，五名被告人结伙冒充“聋哑算命先生”，专门针对老年人实施诈骗，其行为均已构成诈骗罪，五名被告人全部获刑并被责令向各被害人退赔全部经济损失。",
+    "published_dt_iso": "2026-09-30T14:55:40+08:00"
+  },
+  {
+    "title": "小心被虫啃出小圆洞 经常户外停车的要注意这类树",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706216.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "近期，我国多地有车主在社交平台发帖表示，自己的爱车莫名出现了一个个小圆洞，一些装饰条、电线护套等塑料部件，也出现了细密的啃咬痕迹。这些小洞从何而来？不少网友认为，罪魁祸首是一只“虫子”。",
+    "published_dt_iso": "2026-09-30T14:54:23+08:00"
+  },
+  {
+    "title": "恶意索费扣货要挟！起底物流领域新型“软敲诈”犯罪",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706204.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "如今线上货运便捷高效，但网上下单如果遭遇接单司机临时加价、恶意索费、扣货要挟的情况，就需要提高警惕了。湖北宜昌警方就侦破了一起利用AI合成人脸技术盗取货运账号，以软暴力胁迫货主加价的物流领域新型“软敲诈”案。",
+    "published_dt_iso": "2026-09-30T14:43:09+08:00"
+  },
+  {
+    "title": "长沙通报“一包子铺店员在操作台上剪脚趾甲”：停业整顿",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706184.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网9月30日电 据“开福市场监管”微信公众号消息，9月30日，湖南省长沙市开福区市场监督管理局发布情况通报：2026年9月29日晚，有网民发布“清泉阁包子铺店员在操作台上剪脚趾甲”视频，引发关注。该局高度重视，第一时间组织执法人员开展调查处置，向涉事门店下达《责令整改通知书》，责令立即停业整顿。",
+    "published_dt_iso": "2026-09-30T14:26:20+08:00"
+  },
+  {
+    "title": "山西寿阳国庆“文旅菜单”出炉 邀客游田园、访古村、享山水",
+    "link": "https://www.chinanews.com.cn/sh/2026/09-30/10706192.shtml",
+    "date": "2026-09-30",
+    "published_time": "14:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "新闻发布会现场。杨蓓 摄 中新网晋中9月30日电 (高雨晴)今年国庆假期，山西寿阳以“怡然见晋中·休闲来寿阳”为主题，推出4大特色主题活动、5条精品线路和5个“乐享套餐”，打造一场覆盖多元体验的文旅盛宴，邀八方游客共庆佳节。",
+    "published_dt_iso": "2026-09-30T14:22:10+08:00"
+  },
+  {
+    "title": "特朗普排除美中合作开发人工智能",
+    "link": "https://www.bbc.com/zhongwen/articles/cm5ye14v6n8xo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "12:39",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国总统继续拒绝为人工智能设立监管措施的呼吁，认为这将扼杀人工智能的发展。",
+    "published_dt_iso": "2026-09-30T12:39:30+08:00"
+  },
+  {
+    "title": "中国人工智能工具“教导”研究人员制造生物武器",
+    "link": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "10:20",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "有研究机构发现月之暗面的Kimi模型可以绕过开发者的安全限制，提供制造生化武器的资讯。",
+    "published_dt_iso": "2026-09-30T10:20:26+08:00"
+  },
+  {
+    "title": "美军撤离伊拉克：驻军20年留下什么遗产？接下来会发生什么？",
+    "link": "https://www.bbc.com/zhongwen/articles/cr5ye133p55qo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "08:18",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "美国计划于9月30日前从伊拉克撤出剩余部队，结束自2003年美国领导的推翻萨达姆·侯赛因政权的入侵以来在伊拉克的军事存在。",
+    "published_dt_iso": "2026-09-30T08:18:50+08:00"
+  },
+  {
+    "title": "我付了3万英镑读个“网红”学位，这是为什么",
+    "link": "https://www.bbc.com/zhongwen/articles/ck0e3v1zjvj9o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "08:18",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "内容创作学位旨在帮助人们透过社群媒体贴文赚钱。",
+    "published_dt_iso": "2026-09-30T08:18:57+08:00"
+  },
+  {
+    "title": "猫眼如何启发机器人的照相机技术发展",
+    "link": "https://www.bbc.com/zhongwen/articles/crz9zd51289jo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "12:54",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "据说曾启发反光道路标记发明数十年后，猫眼的形状和“发光”现象如今正被工程师仿效，用于设计高科技相机。",
+    "published_dt_iso": "2026-09-30T12:54:09+08:00"
+  },
+  {
+    "title": "Jack Smith Defends Trump Charges as Senator’s Perjury Claim Falls Apart",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html",
+    "date": "2026-09-30",
+    "published_time": "07:37",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A Republican eager to prove the former special counsel was dishonest appeared to instead demonstrate his own confusion over basic facts.",
+    "published_dt_iso": "2026-09-30T07:37:56+08:00"
+  },
+  {
+    "title": "Democrats in Congress Embrace a More Punitive Posture Toward Israel",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/democrats-congress-israel.html",
+    "date": "2026-09-30",
+    "published_time": "08:46",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Nearly every Democratic senator voted to advance a measure calling for a human rights report on Israel’s conduct in the West Bank, as some in the party propose punishing settlement activity with sanctions.",
+    "published_dt_iso": "2026-09-30T08:46:16+08:00"
+  },
+  {
+    "title": "Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html",
+    "date": "2026-09-30",
+    "published_time": "06:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A Staten Island judge sided with a group of homeowners who had sued the city over its introduction of the tax, dealing a blow to Mayor Zohran Mamdani.",
+    "published_dt_iso": "2026-09-30T06:01:28+08:00"
+  },
+  {
+    "title": "D.A. in Cornell Case Hopes to Speak to Accuser as He Weighs New Evidence",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/van-houten-cornell-district-attorney.html",
+    "date": "2026-09-30",
+    "published_time": "13:44",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "District Attorney Matthew Van Houten said a woman’s report to police in 2024 saying she had been raped at a fraternity did not support a criminal case. But he said he is now reaching out to her.",
+    "published_dt_iso": "2026-09-30T13:44:01+08:00"
+  },
+  {
+    "title": "Cornell University Rape Investigation: What We Know",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html",
+    "date": "2026-09-30",
+    "published_time": "05:42",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Prosecutors have reopened the case of a woman who said she was sexually assaulted on campus in 2024. The woman’s lawsuit brought renewed pressure to reopen the investigation.",
+    "published_dt_iso": "2026-09-30T05:42:31+08:00"
+  },
+  {
+    "title": "Students at Cornell Daily Sun Pursued Sexual Assault Case for Two Years",
+    "link": "https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html",
+    "date": "2026-09-30",
+    "published_time": "09:29",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity party since they were first made in 2024 and led the reporting on the case.",
+    "published_dt_iso": "2026-09-30T09:29:50+08:00"
+  },
+  {
+    "title": "Cornell’s Chi Phi Chapter Faces Scrutiny Over Assault Accusations",
+    "link": "https://www.nytimes.com/2026/09/29/us/chi-phi-fraternity-scrutiny-cornell-accusations.html",
+    "date": "2026-09-30",
+    "published_time": "07:52",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Chi Phi’s Cornell chapter was shuttered after a woman said its members sexually assaulted her. It was one of the oldest fraternities at the school, where Greek life has thrived.",
+    "published_dt_iso": "2026-09-30T07:52:41+08:00"
+  },
+  {
+    "title": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
+    "link": "https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html",
+    "date": "2026-09-30",
+    "published_time": "06:20",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The court also announced it would hear arguments in December on the legality of the Trump administration policy to swiftly deport immigrants to countries not their own.",
+    "published_dt_iso": "2026-09-30T06:20:50+08:00"
   }
 ]
