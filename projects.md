@@ -109,7 +109,7 @@ title: 项目
     </span>
     <h2>嵌入式开发板与多机通信</h2>
   </div>
-  <p class="group-desc">覆盖 7 款主流开发板的通用配置参考、A/B/C 分类部署、Fast DDS Discovery Server 多机跨网段通信与 AI Skill 资产库（v2.43）。</p>
+  <p class="group-desc">覆盖 7 款主流开发板的通用配置参考、A/B/C 分类部署、Fast DDS Discovery Server 多机跨网段通信与 AI Skill 资产库（v2.44）。</p>
 
   <div class="card-grid">
     <div class="card">
@@ -122,7 +122,7 @@ title: 项目
         • A/B/C 三类板精准分类（Ubuntu裸装 / Debian+LXC / 边缘AI与串口）<br>
         • Fast DDS Discovery Server 中枢组网（A7Z:11811 打通跨设备互通）<br>
         • 46 个跨板自动化运维脚本库 + YOLOv8 边缘视觉实时检测<br>
-        • AI Skill 唯一真源（v2.43），支持 Codex / DeepSeek / WorkBuddy / Gemini
+        • AI Skill 唯一真源（v2.44），支持 Codex / DeepSeek / WorkBuddy / Gemini
       </div>
       <div class="card-footer-row">
         <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派实战指南</a>

@@ -63,7 +63,7 @@ layout_class: layout-wide
     <div class="card-tags">
       <span class="card-tag">7款开发板</span>
       <span class="card-tag">Fast DDS 组网</span>
-      <span class="card-tag">AI Skill v2.43</span>
+      <span class="card-tag">AI Skill v2.44</span>
     </div>
     <div class="card-details">
       • 覆盖树莓派 4B / N100 / A7A / A7Z / RDK X5 / K230 / RK3506<br>

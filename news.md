@@ -43,10 +43,6 @@ title: 热点新闻
         <span>📰 综合与社会</span>
         <span class="channel-count">15</span>
       </button>
-      <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
-        <span>🌍 西方媒体视角</span>
-        <span class="channel-count">0</span>
-      </button>
       <button class="channel-btn" onclick="filterNewsChannel('source', this)">
         <span>🌐 媒体信源</span>
       </button>

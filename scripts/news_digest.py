@@ -1131,6 +1131,8 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
     for sec in SECTIONS_CONFIG:
         sec_id = sec["id"]
         sec_count = len(categorized_map.get(sec_id, []))
+        if sec_count == 0:
+            continue  # 空板块不渲染渠道按钮，避免出现 0 条死标签
         header_html += f'''      <button class="channel-btn" onclick="filterNewsChannel('{sec_id}', this)">
         <span>{sec["tab_name"]}</span>
         <span class="channel-count">{sec_count}</span>
