@@ -206,7 +206,7 @@ python scripts/news_digest.py
 | [lidar-slam-nav](https://loneforme.github.io/docs) | 🔒 专有/文档 | 机器人多维激光雷达 SLAM 与自主导航实战方案（2D 镭神 N10P + 3D 宇树 L1） |
 | [embedded-board-reference](https://loneforme.github.io/docs) | 🔒 内部资产 | 嵌入式开发板配置参考（7款板卡矩阵、Fast DDS Discovery Server 与 AI Skill v2.44） |
 | [xiyue-drone](https://loneforme.github.io/videos) | 🔒 专有/演示 | 2025 年电赛无人机全栈方案（STM32F405 + RDK X5 + DFS/Dijkstra 绕障规划） |
-| [3d-models](https://loneforme.github.io/3d-viewer) | 🔒 在线预览 | 3D 打印模型库（195+ 款精细模型、SolidWorks 零件源文件与站内 WebGL 交互预览器） |
+| [3d-models](https://loneforme.github.io/3d-viewer) | 🔒 在线预览 | 3D 打印模型库（195+ 款精细模型、SolidWorks 零件源文件；站内 WebGL 预览收录 74 款 STL） |
 
 ---
 

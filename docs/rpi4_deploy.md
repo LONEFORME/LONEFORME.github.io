@@ -234,9 +234,9 @@ ls -l /dev/wheeltec_lidar
 sudo usermod -a -G dialout $USER
 # 重新登录后生效
 
-# 检查串口
+# 检查串口（镭神 N10P 默认波特率 460800）
 sudo apt install minicom
-minicom -D /dev/ttyACM0 -b 921600
+minicom -D /dev/ttyACM0 -b 460800
 ```
 
 ### SLAM 卡顿
