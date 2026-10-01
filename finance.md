@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,571.12</span>
+      <span class="ticker-price ticker-up">30,408.50</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7089</span>
+      <span class="ticker-price ticker-up">6.7175</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,150.47 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -31.40 (-0.75%)</span>
+      <span class="ticker-price ticker-up">$4,164.86 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +8.01 (+0.19%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+36.6 亿</span>
+      <span class="sector-flow-badge">+20.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+26.6 亿</span>
+      <span class="sector-flow-badge">+48.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+16.2 亿</span>
+      <span class="sector-flow-badge">+45.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+41.1 亿</span>
+      <span class="sector-flow-badge">+25.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/008/990.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。上汽通用五菱：132,045 辆，同比下降 15.13%，环比增长 0.9%（备注：2026 年 1—9 月，上汽通用五菱全球累计销量达 1,058,169 辆。值得一提的是，新能源车型 1—9 月累计销量达 569,640 辆，占公司总销量的 53.8%。华境 S 为旗下与华为合作的首款大六座 SUV；华境 S：连续 5 个月增长；累计交付已突破 3 万台；2026 年 8 月交付 7306 台、7 月交付 7203 台、6 月交付 5689 台；5 月 8 日上市；标配华为干昆智驾 ADS 5 Pro）。其中：华境 S：7,416 辆，环比增长 1.51" data-title="2026 年 9 月汽车销量 / 交付汇总（持续更新）：鸿蒙智行 37,490 辆" data-date="10-01 09:36" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-01 09:36</span>
+          <span class="news-item-title">2026 年 9 月汽车销量 / 交付汇总（持续更新）：鸿蒙智行 37,490 辆</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/008/944.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 30 日消息，三星电子今日宣布推出新一代 Galaxy SmartTag3 追踪器。该产品体积比前代小约 35%，重量轻 33%，单个售价 29.99 美元（现汇率约合 201.5 元人民币），四件装 99.99 美元（IT之家注：现汇率约合 671.7 元人民币），将于 11 月初上市，提供白、黑两色，还可单独购买硅胶保护壳和环扣保护壳等配件。三星 Galaxy SmartTag3 标准使用续航最长 550 天，省电模式下最长 790 天（前代 SmartTag 2 对应续航为 500 天和 700 天）。Galaxy SmartTag3 首次支持跨系统兼容，除 Galaxy 设备外，也可与 iOS 设备配合使用。通过 SmartThings Find，用户可在支持设备上" data-title="三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天" data-date="09-30 23:46" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -287,4 +293,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-01 02:02（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-01 15:54（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
