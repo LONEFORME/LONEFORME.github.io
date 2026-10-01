@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,408.50</span>
+      <span class="ticker-price ticker-up">30,426.11</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7175</span>
+      <span class="ticker-price ticker-up">6.7176</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,164.86 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +8.01 (+0.19%)</span>
+      <span class="ticker-price ticker-up">$4,168.99 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +12.14 (+0.29%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -230,8 +230,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/009/163.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，华为移动影像迎来全新升级 —— 正式发布华为睿影 XMAGE。余承东表示：睿观万象，聚光成影，“睿”，既是技术创新赋予影像的智慧，也是我们对影像背后的人、生活和情感更深的理解。我们希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌，定义智能影像时代的影像力量！据IT之家今日早些时候报道，在华为 Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 典藏版“睿影 Z10 模块化相机”正式发布，定价 5999 元。搭配 Mate 90 Pro Max 典藏版套装定价 19499 元。该产品系华为全栈自研产品，匹配 HyperClick 超级卡口，利用 1 英寸" data-title="余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布" data-date="10-01 22:39" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-01 22:39</span>
+          <span class="news-item-title">余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/156.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今天在微博宣布，享界 V8 开启预订 72 小时，订单突破 8200 台。据IT之家了解，享界 V8 是鸿蒙智行旗下享界品牌首款 MPV，官方预售价 32.98 万元起。该车提供纯电与增程两种动力形式，全系标配 800V 高压平台和华为干昆智驾系统。享界 V8 纯电版搭载 120 kWh 超大电池，CLTC 工况续航最高达 830km，四驱版续航为 775km。增程版则搭载 1.5T 增程器，最大功率 118kW，提供 56kWh 与 75.4kWh 两种电池规格，WLTC 纯电续航分别为 260km、275km 和 339km，CLTC 综合续航超过 1400km。享界 V8 车身尺寸为 5335" data-title="华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台" data-date="10-01 21:42" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-01 21:42</span>
+          <span class="news-item-title">华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-01/10706791.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网布鲁塞尔10月1日电(记者 德永健)针对媒体报道欧盟相关成员国推动欧盟委员会打造欧版“301”工具，欧盟中国商会9月30日发表声明，呼吁国际贸易工具不应陷入“逐底竞争”，更不应以单边措施替代多边规则。" data-title="欧盟中国商会关切欧盟讨论打造“301”工具 呼吁国际贸易工具勿陷“逐底竞争”" data-date="10-01 16:54" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-01 16:54</span>
+          <span class="news-item-title">欧盟中国商会关切欧盟讨论打造“301”工具 呼吁国际贸易工具勿陷“逐底竞争”</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/008/990.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。上汽通用五菱：132,045 辆，同比下降 15.13%，环比增长 0.9%（备注：2026 年 1—9 月，上汽通用五菱全球累计销量达 1,058,169 辆。值得一提的是，新能源车型 1—9 月累计销量达 569,640 辆，占公司总销量的 53.8%。华境 S 为旗下与华为合作的首款大六座 SUV；华境 S：连续 5 个月增长；累计交付已突破 3 万台；2026 年 8 月交付 7306 台、7 月交付 7203 台、6 月交付 5689 台；5 月 8 日上市；标配华为干昆智驾 ADS 5 Pro）。其中：华境 S：7,416 辆，环比增长 1.51" data-title="2026 年 9 月汽车销量 / 交付汇总（持续更新）：鸿蒙智行 37,490 辆" data-date="10-01 09:36" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -243,42 +261,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">09-30 23:46</span>
           <span class="news-item-title">三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/" target="_blank" rel="noopener" data-cat="caijing" data-summary="还有三天时间在TechCrunch Disrupt 2026上展出。在太平洋时间10月2日晚上11:59之前预订，向10,000多位创始人、投资者、运营商和技术领导者展示您的创业公司。" data-title="距离参展还有3天：在TechCrunch Disrupt 2026上将可见性转化为您的下一个机会" data-date="09-30 22:15" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">09-30 22:15</span>
-          <span class="news-item-title">距离参展还有3天：在TechCrunch Disrupt 2026上将可见性转化为您的下一个机会</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706559.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网悉尼9月30日电 中国驻阿德莱德总领馆29日举办庆祝中华人民共和国成立77周年招待会。南澳大利亚州议会下院议长库克、澳联邦众议员克拉特汉姆，南澳政商学界、大中小学学生、产业界青年、领团，华侨华人、中资机构、留学生代表等约250人出席。" data-title="驻阿德莱德总领馆举办国庆77周年招待会" data-date="09-30 21:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 21:58</span>
-          <span class="news-item-title">驻阿德莱德总领馆举办国庆77周年招待会</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706540.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京9月30日电 题：北京市政协建言发展京郊现代乡村产业" data-title="北京市政协建言发展京郊现代乡村产业" data-date="09-30 21:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 21:40</span>
-          <span class="news-item-title">北京市政协建言发展京郊现代乡村产业</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/09-30/10706543.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网9月30日电 据文化和旅游部网站消息，为深入贯彻党的二十届四中全会精神，落实《中华人民共和国国民经济和社会发展第十五个五年规划纲要》等部署，文化和旅游部近日印发《艺术发展“十五五”规划》(以下简称《规划》)。" data-title="文化和旅游部印发《艺术发展“十五五”规划》" data-date="09-30 21:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 21:35</span>
-          <span class="news-item-title">文化和旅游部印发《艺术发展“十五五”规划》</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706465.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社悉尼9月30日电 (记者 薄雯雯)澳大利亚统计局9月30日公布的数据显示，该国8月份消费者价格指数(CPI)同比上涨4%，涨幅较7月扩大0.5个百分点。" data-title="澳大利亚8月CPI同比上涨4%" data-date="09-30 19:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 19:39</span>
-          <span class="news-item-title">澳大利亚8月CPI同比上涨4%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/09-30/10706429.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社开罗9月30日电 (记者 马秀秀)“发展需要安全。没有安全，就没有发展；没有安全，就无法投资于人。”" data-title="阿拉伯学者谈中东安全：短期护航之外，还需解决长期矛盾" data-date="09-30 19:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">09-30 19:39</span>
-          <span class="news-item-title">阿拉伯学者谈中东安全：短期护航之外，还需解决长期矛盾</span>
         </a>
   </div>
 </div>
@@ -293,4 +275,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-01 15:54（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-01 22:40（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
