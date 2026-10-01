@@ -190,10 +190,10 @@ title: 项目
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="4"/><circle cx="4" cy="4" r="2.5"/><circle cx="20" cy="4" r="2.5"/><circle cx="4" cy="20" r="2.5"/><circle cx="20" cy="20" r="2.5"/></svg>
       </div>
       <h3>锡月无人机方案</h3>
-      <p>2025 年全国大学生电赛无人机全栈方案，基于 STM32F405 飞控、地平线 RDK X5 上位机与 Nextion 触控地面站。</p>
+      <p>2025 年全国大学生电赛无人机全栈方案，基于 STM32F405 飞控、树莓派上位机与 Nextion 触控地面站。</p>
       <div class="card-details">
         • STM32F405 飞控底层（BirdFlight V2.0：PID / ADRC / LQR / uCOS-III）<br>
-        • 地平线 RDK X5 上位机（230400bps 高速串口通信 + 自启动服务）<br>
+        • 树莓派上位机（230400bps 高速串口通信 + 自启动服务）<br>
         • DFS 9×7 网格全覆盖自主巡航 + Dijkstra 动态实时绕障重规划<br>
         • T265 姿态解算 + OpenCV 目标识别与精准中心对准降落<br>
         • Nextion 串口触控屏地面站（蓝牙无线通信 + 状态语音播报）
