@@ -30,7 +30,7 @@ layout: null
     "title": "锡月无人机自主巡航方案",
     "url": "{{ '/projects.html#xiyue' | relative_url }}",
     "category": "无人机工程",
-    "summary": "2025 年全国大学生电赛无人机全栈方案，基于 STM32F405 飞控（BirdFlight V2.0）、地平线 RDK X5 上位机与 Nextion 触控地面站。",
+    "summary": "2025 年全国大学生电赛无人机全栈方案，基于 STM32F405 飞控（BirdFlight V2.0）、树莓派上位机与 Nextion 触控地面站。",
     "content": "锡月无人机方案 STM32F405 BirdFlight V2.0 uCOS-III 树莓派上位机 230400bps 串口通信 DFS 9x7 网格自主巡航 Dijkstra 绕障重规划 T265 Nextion 串口屏地面站 电赛飞控 激光测距"
   },
   {
