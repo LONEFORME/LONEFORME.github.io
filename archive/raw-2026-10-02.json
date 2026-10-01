@@ -1,0 +1,1042 @@
+[
+  {
+    "title": "据《华尔街日报》报道， OpenAI与3名安全研究人员断绝了联系",
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "date": "2026-10-02",
+    "published_time": "02:14",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "报告称， OpenAI已与三名安全研究人员分道扬镳，此前内部调查发现他们对敏感的公司信息处理不当。",
+    "published_dt_iso": "2026-10-02T02:14:42+08:00"
+  },
+  {
+    "title": "Opus 5.5喜欢告诉你“这很重要” （以及其他人工智能写作讲述）",
+    "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "date": "2026-10-02",
+    "published_time": "01:50",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Opus 5.5最能说明问题的是“可靠”这个词，它出现的频率是人类样本的23倍。",
+    "published_dt_iso": "2026-10-02T01:50:19+08:00"
+  },
+  {
+    "title": "随着决策模型在网络上泛滥，亚马逊发布了自己的JEV克隆",
+    "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+    "date": "2026-10-02",
+    "published_time": "00:49",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Amazon Web Services的Strand Labs发布了最新的Jevalike决策模型Strands Decider 2B。",
+    "published_dt_iso": "2026-10-02T00:49:22+08:00"
+  },
+  {
+    "title": "Shopify推出Canvas ，这是一种通过与AI聊天来构建在线商店的方式",
+    "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "date": "2026-10-02",
+    "published_time": "00:44",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Shopify的新Canvas网站构建器允许商家通过与其AI代理Sidekick聊天来创建和自定义他们的在线商店，同时实时观看发生的变化。",
+    "published_dt_iso": "2026-10-02T00:44:35+08:00"
+  },
+  {
+    "title": "Brian Chesky访谈：人工智能代理需要自己的操作系统",
+    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "date": "2026-10-01",
+    "published_time": "23:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "布莱恩·切斯基（ Brian Chesky ）谈论如何打造对爱彼迎用户友好的社区支持代表、消费者人工智能的现状，以及为什么世界需要人工智能原生操作系统。",
+    "published_dt_iso": "2026-10-01T23:12:00+08:00"
+  },
+  {
+    "title": "Photon为移动应用举行了葬礼。现在，它有$ 450万来帮助他们更换代理。",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "date": "2026-10-01",
+    "published_time": "22:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这家初创公司帮助开发人员构建在iMessage、SMS/RCS、电子邮件和其他消息传递平台上工作的人工智能代理。我们敢打赌，消费者将越来越多地使用代理，而不是下载应用程序。",
+    "published_dt_iso": "2026-10-01T22:00:00+08:00"
+  },
+  {
+    "title": "听力科技创业公司Legato推出人工智能助听器",
+    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "date": "2026-10-01",
+    "published_time": "21:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "这款眼镜源于初创公司的目标，即通过解决与传统助听器相关的成本、舒适度和耻辱感，使听力保健更容易获得。",
+    "published_dt_iso": "2026-10-01T21:00:00+08:00"
+  },
+  {
+    "title": "由前谷歌和SpaceX产品经理创立的Satlyt筹集了800万美元，用于在卫星上运行人工智能",
+    "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "date": "2026-10-01",
+    "published_time": "20:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Satlyt希望成为轨道计算的Android ，提供适用于许多公司卫星的开放软件，而不是SpaceX的封闭式一体化iPhone风格方法。",
+    "published_dt_iso": "2026-10-01T20:00:00+08:00"
+  },
+  {
+    "title": "首款采用固态AirJet技术冷却的英特尔Panther Lake迷你个人电脑，工作分贝低于21分贝",
+    "link": "https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals",
+    "date": "2026-10-01",
+    "published_time": "23:27",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Aaeon的UP Xtreme PTL Edge Air是我们见过的第一款采用AirJet技术的Panther Lake迷你个人电脑，用于超低噪音主动冷却。",
+    "published_dt_iso": "2026-10-01T23:27:09+08:00"
+  },
+  {
+    "title": "英伟达推出开放式代理安全平台，以物理方式约束流氓AI代理",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+    "date": "2026-10-01",
+    "published_time": "22:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "英伟达新的开放代理安全平台将OpenShell沙盒与BlueField支持的Sentry硬件相结合，以监控和快速隔离流氓AI代理",
+    "published_dt_iso": "2026-10-01T22:30:00+08:00"
+  },
+  {
+    "title": "随着自主工具的接管，人工智能的芯片制造前沿可能面临专利侵权障碍",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ais-chipmaking-frontier-may-face-patent-infringement-hurdles-as-autonomous-tools-take-over-ai-can-spread-a-copied-design-or-infringed-patent-across-thousands-of-chips-before-anyone-notices-says-expert",
+    "date": "2026-10-01",
+    "published_time": "22:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "人工智能能否超越人类思维和设计的聪明才智？如果是，这对专有IP意味着什么？我们探索工具和潜在的陷阱。",
+    "published_dt_iso": "2026-10-01T22:20:00+08:00"
+  },
+  {
+    "title": "DeepSeek和华为发布开源Ascend AI编程工具，以减少对Nvidia生态系统的依赖",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseek-and-huawei-release-open-source-ascend-ai-programming-tools-to-reduce-reliance-on-nvidia-ecosystem-tools-include-compute-and-communication-libraries-as-well-as-ascend-support-for-tilelang",
+    "date": "2026-10-01",
+    "published_time": "22:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "DeepSeek和华为发布了适用于Ascend 950 AI芯片的开源编程工具，包括计算和通信库，旨在使华为硬件更易于编程和优化。",
+    "published_dt_iso": "2026-10-01T22:00:00+08:00"
+  },
+  {
+    "title": "Maingear的新计划为游戏PC买家提供即时折价",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/maingears-new-program-offers-instant-trade-ins-for-gaming-pc-buyers-delivers-quotes-for-old-laptops-phones-tablets-smartwatches-headphones-cameras-lenses-and-microphones-in-minutes",
+    "date": "2026-10-01",
+    "published_time": "21:45",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "美国定制和预制电脑销售商Maingear通过SELLIT9推出了一项新的即时折价计划。",
+    "published_dt_iso": "2026-10-01T21:45:00+08:00"
+  },
+  {
+    "title": "这款Cherry Xtrfy MX 3.1有线机械游戏键盘可享受超过70%的折扣",
+    "link": "https://www.tomshardware.com/pc-components/get-over-70-percent-off-this-cherry-xtrfy-mx-3-1-wired-mechanical-gaming-keyboard-just-usd34-buys-a-quality-full-size-keeb-with-cherry-mx2a-switches",
+    "date": "2026-10-01",
+    "published_time": "21:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "购买全尺寸Cherry Xtrfy MX 3.1机械游戏键盘，促销代码WOOTCHERRY仅需$ 34。折扣超过70 ％ ，创历史新低，新的Woot客户可以将其降价$ 29",
+    "published_dt_iso": "2026-10-01T21:20:00+08:00"
+  },
+  {
+    "title": "Gears of War E-Day是一款非同寻常的CPU密集型虚幻引擎5游戏",
+    "link": "https://www.tomshardware.com/pc-components/cpus/gears-of-war-e-day-is-an-uncharacteristically-cpu-heavy-unreal-engine-5-game-benchmarking-25-cpus-from-intel-and-amd-and-investigating-low-core-mode",
+    "date": "2026-10-01",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Gears of War E-Day是一款CPU上令人惊讶的沉重虚幻引擎5游戏。我们使用25个处理器对游戏进行了基准测试，并调查了“低核模式”的实际功能。",
+    "published_dt_iso": "2026-10-01T21:00:00+08:00"
+  },
+  {
+    "title": "惠普登上MacBook NEO竞争对手列车",
+    "link": "https://www.tomshardware.com/laptops/hp-boards-the-macbook-neo-competitor-train-omnibook-5-comes-in-four-colors-with-wildcat-lake-and-starts-at-usd699-99",
+    "date": "2026-10-01",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "新款惠普OmniBook 5 （ 14英寸）使用Wildcat Lake和各种颜色与MacBook Neo竞争。",
+    "published_dt_iso": "2026-10-01T21:00:00+08:00"
+  },
+  {
+    "title": "攻击者一直在利用Zimbra的关键漏洞窃取电子邮件",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "date": "2026-10-01",
+    "published_time": "04:44",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "一个简单的电子邮件使攻击者能够远程注入操作系统命令。",
+    "published_dt_iso": "2026-10-01T04:44:48+08:00"
+  },
+  {
+    "title": "Cloudflare计划颁发量子安全TLS证书",
+    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "date": "2026-09-30",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "此举将是对网站身份验证生态系统进行重大改革的一部分。",
+    "published_dt_iso": "2026-09-30T19:15:14+08:00"
+  },
+  {
+    "title": "你叔叔的冰冻Mac说它在观看谷歌广告后感染了。现在怎么办？",
+    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "date": "2026-09-26",
+    "published_time": "03:38",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "互联网上出现的广告试图欺骗人们。",
+    "published_dt_iso": "2026-09-26T03:38:59+08:00"
+  },
+  {
+    "title": "有一种打破RSA的新方法，比我们以前见过的任何方法都要快",
+    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-24",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "到目前为止，密码学家认为保理是破坏RSA的唯一方法。现在不是了。",
+    "published_dt_iso": "2026-09-24T19:15:44+08:00"
+  },
+  {
+    "title": "微软颠覆了人工智能辅助平台，该平台入侵了12,000个账户",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "date": "2026-09-23",
+    "published_time": "03:45",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "EvilTokens提供了一个端到端的平台，使大规模妥协更快、更容易。",
+    "published_dt_iso": "2026-09-23T03:45:47+08:00"
+  },
+  {
+    "title": "IT错误抹去了11年的医院产科记录查看历史记录",
+    "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+    "date": "2026-09-23",
+    "published_time": "00:55",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "英国医院仅恢复患者护理数据。",
+    "published_dt_iso": "2026-09-23T00:55:40+08:00"
+  },
+  {
+    "title": "Muse ， Meta的超级特权AI助手，有一个严重的0",
+    "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "date": "2026-09-22",
+    "published_time": "06:24",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "简单的ClickFix攻击只是完全劫持新代理的一种方法。",
+    "published_dt_iso": "2026-09-22T06:24:38+08:00"
+  },
+  {
+    "title": "一名卧底谷歌分析师渗透了一个臭名昭著的供应",
+    "link": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "date": "2026-09-20",
+    "published_time": "19:07",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "谷歌的威胁情报小组表示，它在TeamPCP的内部圈子里有一名间谍。",
+    "published_dt_iso": "2026-09-20T19:07:00+08:00"
+  },
+  {
+    "title": "法官驳回谷歌人工智能概览的反垄断诉讼",
+    "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+    "date": "2026-10-02",
+    "published_time": "01:12",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "正如路透社早些时候报道的那样，一名联邦法官驳回了Chegg和Rolling Stone母公司Penske Media Corporation提起的两起反垄断诉讼，该诉讼指控谷歌利用其人工智能驱动的搜索功能驱散了网络流量。美国地方法院法官阿米特·梅塔（ Amit Mehta ）在周三的裁决中支持谷歌，他写道， PMC […]",
+    "published_dt_iso": "2026-10-02T01:12:21+08:00"
+  },
+  {
+    "title": "索尼将AI图形升级到常规PS5",
+    "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+    "date": "2026-10-02",
+    "published_time": "00:53",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "索尼专门为常规PS5推出了一种新的人工智能升级技术。根据一篇博客文章，这项名为快速光谱超分辨率（ QSSR ）的新技术是一种“人工智能升级的新性能层” ，这是索尼紫水晶项目与AMD合作的结果。索尼表示， PlayStation Spectral Super Resolution (PSSR) […]",
+    "published_dt_iso": "2026-10-02T00:53:39+08:00"
+  },
+  {
+    "title": "VR眼镜能拯救VR吗？",
+    "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
+    "date": "2026-10-02",
+    "published_time": "00:10",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "我很确定我不会买$ 1,299的Meta VR眼镜。在今天的经济中，这对我来说太丰富了，我对梅塔的感情是……矛盾的。但我想让你明白， Meta刚刚改变了游戏规则。我们有过眼镜，但我们从来没有过这样的眼镜。Meta VR眼镜[…]",
+    "published_dt_iso": "2026-10-02T00:10:32+08:00"
+  },
+  {
+    "title": "微软Office和Teams主管即将离职",
+    "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
+    "date": "2026-10-02",
+    "published_time": "00:02",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在LinkedIn和微软工作近18年后， Ryan Roslansky将离开公司。Roslansky最近担任LinkedIn的首席执行官，去年被提升为办公室负责人，然后在今年早些时候接管了Microsoft Teams。罗斯兰斯基的离职引发了微软内部的另一次领导层洗牌。“Ryan离开了组织[…]",
+    "published_dt_iso": "2026-10-02T00:02:37+08:00"
+  },
+  {
+    "title": "在微软的Copilot内部重新思考",
+    "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+    "date": "2026-10-02",
+    "published_time": "00:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "上周，微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）为其一些主要企业客户的领导者举办了一场仅限受邀者参加的私密活动。纳德拉没有举办华丽的媒体活动，而是直接向微软真正关心的客户概述了Copilot的未来，并将其最新的人工智能助手重新思考为“工作操作系统”。“微软是[…]",
+    "published_dt_iso": "2026-10-02T00:00:00+08:00"
+  },
+  {
+    "title": "纽约市现在是美国第一个禁止粗略订阅的城市",
+    "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+    "date": "2026-10-01",
+    "published_time": "22:49",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "努力摆脱经常性订阅费的纽约市居民现在可以向市政府提交投诉。截至周四，该市的点击取消规则已经生效，该规则要求企业取消订阅与注册一样简单。这意味着健身房可以让您[…]",
+    "published_dt_iso": "2026-10-01T22:49:25+08:00"
+  },
+  {
+    "title": "OpenAI的新代理是Meta的一个机会—但它能与免费竞争吗？",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+    "date": "2026-10-01",
+    "published_time": "22:36",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在OpenAI的年度DevDay大会上，该公司竭尽全力与竞争对手竞争，主要是Meta ，其Muse AI代理平台取得了早期的成功。首席执行官萨姆·奥尔特曼（ Sam Altman ）走上舞台欢呼，并宣布了Dots ，这是一个由GPT-6 Astra提供支持的“真正的人工智能”代理， “灵感来自我们[…]",
+    "published_dt_iso": "2026-10-01T22:36:50+08:00"
+  },
+  {
+    "title": "在我们对Kevin O’Leary的犹他州数据中心事故长达数月的调查中",
+    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+    "date": "2026-10-01",
+    "published_time": "22:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今天，我正在与The Verge的长期特写作家Josh Dzieza谈论Kevin O’Leary计划在犹他州建立一个大型数据中心的计划。我们的想法是建立世界上最大的数据中心--一个占地4万英亩的人工智能园区，拥有9千兆瓦的电力，是中国平均电力使用量的两倍多。",
+    "published_dt_iso": "2026-10-01T22:00:00+08:00"
+  },
+  {
+    "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+    "link": "https://www.qbitai.com/2026/10/499812.html",
+    "date": "2026-10-01",
+    "published_time": "23:06",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "用ImageNet训练encoder",
+    "published_dt_iso": "2026-10-01T23:06:30+08:00"
+  },
+  {
+    "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+    "link": "https://www.qbitai.com/2026/10/499663.html",
+    "date": "2026-10-01",
+    "published_time": "23:02",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "价格只有Astra一半",
+    "published_dt_iso": "2026-10-01T23:02:14+08:00"
+  },
+  {
+    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+    "link": "https://www.qbitai.com/2026/09/499654.html",
+    "date": "2026-09-30",
+    "published_time": "22:03",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+    "published_dt_iso": "2026-09-30T22:03:43+08:00"
+  },
+  {
+    "title": "直播回顾：工业AI的下一个机会在哪？",
+    "link": "https://www.qbitai.com/2026/09/499605.html",
+    "date": "2026-09-30",
+    "published_time": "20:11",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+    "published_dt_iso": "2026-09-30T20:11:24+08:00"
+  },
+  {
+    "title": "Anthropic，你是来给智谱打广告的吧！",
+    "link": "https://www.qbitai.com/2026/09/499597.html",
+    "date": "2026-09-30",
+    "published_time": "18:04",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "实测说GLM-5.3很强",
+    "published_dt_iso": "2026-09-30T18:04:12+08:00"
+  },
+  {
+    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+    "link": "https://www.qbitai.com/2026/09/499592.html",
+    "date": "2026-09-30",
+    "published_time": "15:58",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "给Agent配上手机号，再拉个群",
+    "published_dt_iso": "2026-09-30T15:58:37+08:00"
+  },
+  {
+    "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+    "link": "https://www.qbitai.com/2026/09/499493.html",
+    "date": "2026-09-30",
+    "published_time": "15:54",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "让GPT把机器人技能当工具调用",
+    "published_dt_iso": "2026-09-30T15:54:54+08:00"
+  },
+  {
+    "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+    "link": "https://www.qbitai.com/2026/09/499308.html",
+    "date": "2026-09-30",
+    "published_time": "13:18",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+    "published_dt_iso": "2026-09-30T13:18:05+08:00"
+  },
+  {
+    "title": "长安汽车 9 月交付 22.89 万辆，海外 96200 辆同比增长 73.8%",
+    "link": "https://www.ithome.com/1/009/170.htm",
+    "date": "2026-10-01",
+    "published_time": "23:47",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，长安汽车 9 月交付 22.89 万辆新车，其中海外交付 96200 辆同比增长 73.8%。IT之家从官方获悉，长安汽车 9 月交付新能源汽车 113200 辆，同比增长 13.9%。细分来看，长安汽车 9 月交付新车 50300 辆，长安启源 9 月交付 46507 辆，长安启源累计销量突破 100 万辆。另外，深蓝汽车 9 月销量达 30185 辆。阿维塔 9 月交付 8183 辆。长安凯程 9 月交付 19000 辆，海外交付同比增长 38%。",
+    "published_dt_iso": "2026-10-01T23:47:33+08:00"
+  },
+  {
+    "title": "英伟达为 GTX 700-10 系显卡发布 582.78 安全更新，修复 114 个漏洞",
+    "link": "https://www.ithome.com/1/009/169.htm",
+    "date": "2026-10-01",
+    "published_time": "23:35",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，英伟达于当地时间 30 日推出 GeForce 安全更新驱动程序 582.78，适用于 Maxwell、Pascal 和 Volta 架构显卡，涵盖 GTX 700 系、GTX 900 系、GTX 10 系显卡及 Tesla V100、Titan V 等专业卡。据IT之家了解，英伟达已经不会为上述显卡发布常规 Game Ready 驱动更新，但仍然会不时推出安全更新。该更新支持 Windows 10 和 Windows 11 操作系统，大小为 912.74 MB。同时，该更新修复了显示驱动程序和 vGPU 的 114 个漏洞，其中大多数漏洞直接影响显卡驱动程序，包括 76 个高危漏洞和 37 个中危漏洞。此外，此次驱动更新适用于 GeForce GTX 745",
+    "published_dt_iso": "2026-10-01T23:35:42+08:00"
+  },
+  {
+    "title": "Epic 喜加二：《网络奇兵 2：25 周年纪念版重制版》《深埋之星》游戏免费领取",
+    "link": "https://www.ithome.com/1/009/167.htm",
+    "date": "2026-10-01",
+    "published_time": "23:05",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，Epic 本周送出的游戏是《网络奇兵 2：25 周年纪念版重制版》以及《深埋之星》，下周送出的游戏是《虎视眈眈 (Out of Sight)》，《愿景之城》。领取链接：《网络奇兵 2：25 周年纪念版重制版》，《深埋之星》IT之家附《网络奇兵 2：25 周年纪念版重制版》游戏简介如下：本作设定在公元 2114 年，玩家醒来时身处满是变异体和机器人危机的 FTL 飞船“冯 · 布劳恩号”(Von Braun) 上，面对失控的叛逆人工智能 SHODAN。玩家可在三大军事分支（O.S.A.超能力者、海军陆战队、海军）中选择自己的成长路线。本作不支持中文字幕 / 界面，最低配置要求为双核 2.0GHz 处理器、2GB 内存，开发商为 Nightdive Studios",
+    "published_dt_iso": "2026-10-01T23:05:16+08:00"
+  },
+  {
+    "title": "2026 年 9 月汽车销量 / 交付榜出炉：比亚迪 46.36 万辆稳坐头把交椅，小米澎程上市首月交付破万",
+    "link": "https://www.ithome.com/1/009/168.htm",
+    "date": "2026-10-01",
+    "published_time": "23:16",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，2026 年 9 月汽车销量 / 交付数据现已陆续公布。比亚迪拿出交付 463,561 辆的答卷，继续稳坐头把交椅。上汽集团凭销售 40.6 万辆的成绩持续位居亚军。奇瑞集团拿出 29.23 万辆的成果，持续位居季军。在 9 月，进入“20 万辆俱乐部”的车企有比亚迪、上汽、奇瑞、吉利。榜单中同比增长幅度最大的是零跑汽车，当月交出 10.57 万辆答卷，增幅达 58.51%。同时，小米汽车 9 月交付量超过 40,000 台，其中小米澎程首月交付超过 10,000 台（IT之家注：澎程汽车交付始于 9 月 12 日，小米将于 10 月 7 日公布该系列车型首销月数据）。“蔚小理”9 月分别交出 3.74 万辆、4.13 万辆、3.18 万辆成绩。IT之家汇总 ",
+    "published_dt_iso": "2026-10-01T23:16:31+08:00"
+  },
+  {
+    "title": "华为 Pura 70 Pro / Pro+ / Ultra 获 HarmonyOS 7.0.0.109SP8 升级，文本通话支持声音修复等功能",
+    "link": "https://www.ithome.com/1/009/166.htm",
+    "date": "2026-10-01",
+    "published_time": "23:01",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，华为官方宣布，Pura 70 Pro / Pro+ / Ultra 机型迎来了鸿蒙 HarmonyOS 7.0.0.109SP8 版本升级。新版本已于昨日不限量开放升级（升级方式：设置 > 搜索“软件更新”> 检查更新）。▲ IT之家开箱：华为 Pura 70 Pro+“光织银”图赏IT之家附更新日志如下：信息智能识别信息内容，挪车提醒、候补车票成功等信息可通过实况窗展示，提醒更及时关怀和无障碍文本通话支持声音修复，当发音不清晰时，使用该功能可让对方听得更清晰，轻松实现无障碍沟通 (设置> 关怀和无障碍 > 文本通话，需通过应用市场将小艺更新至 11.7.7.301 及以上版本 )显示优化控制中心部分场景的显示效果图库优化图库稳定性及部分界面的显示效果音频优化",
+    "published_dt_iso": "2026-10-01T23:01:19+08:00"
+  },
+  {
+    "title": "奇安信盘古石取证宣布适配 Android 17：支持微信已删除多媒体碎片重组",
+    "link": "https://www.ithome.com/1/009/165.htm",
+    "date": "2026-10-01",
+    "published_time": "22:59",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，奇安信旗下盘古石取证团队昨日宣布，盘古石手机取证 R8.8.0 版本完成多项升级，围绕提取、解析、安全管控三大方向进行更新。提取能力方面，该版本完成 Android 17 系统提权适配，并新增适配三星、小米系列设备的 Android 16 提权提取。IT之家注：提权指利用系统机制获取更高操作权限。智能截屏辅证功能同步升级，截屏识别后的文字可保留原始页面排版样式。除此之外，新版本还提升了华为鸿蒙设备 IMEI 提取稳定性；OPPO Wi-Fi 提取新增对私密空间数据的支持；设备连接后可识别是否处于 MTP 模式，帮助发现连接设置问题；提取前增加低电量识别及提示，降低任务中断风险。解析能力方面，针对微信多媒体资源散落、加密混淆及删除后关联断裂等问题，新版本可定位并",
+    "published_dt_iso": "2026-10-01T22:59:04+08:00"
+  },
+  {
+    "title": "任天堂《宝可梦传说 Z-A》Switch 2 卡带 + 超次元爆涌 DLC 版 10 月 29 日发售",
+    "link": "https://www.ithome.com/1/009/164.htm",
+    "date": "2026-10-01",
+    "published_time": "22:42",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，任天堂宣布将于 10 月 29 日推出新的《宝可梦传说 Z-A》Nintendo Switch 2 版实体扩充包，将“超次元爆涌”（Mega Dimension）DLC 一并收录其中。不含 DLC 的《宝可梦传说 Z-A》Nintendo Switch 2 版已于 2025 年 10 月 16 日发售，数字版和实体版港区定价均为 359~409 港币（IT之家注：现汇率约合 307.3 ~ 350.1 元人民币）。据介绍，Nintendo Switch 2 版针对性能、分辨率和帧率进行了优化；因此，玩家也可以先购买实体卡带，之后再升级至 Nintendo Switch 2。另外，实体版还将附赠 100 个高级球（Ultra Ball）的兑换码（每个存档只能兑换",
+    "published_dt_iso": "2026-10-01T22:42:54+08:00"
+  },
+  {
+    "title": "余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布",
+    "link": "https://www.ithome.com/1/009/163.htm",
+    "date": "2026-10-01",
+    "published_time": "22:39",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，华为移动影像迎来全新升级 —— 正式发布华为睿影 XMAGE。余承东表示：睿观万象，聚光成影，“睿”，既是技术创新赋予影像的智慧，也是我们对影像背后的人、生活和情感更深的理解。我们希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌，定义智能影像时代的影像力量！据IT之家今日早些时候报道，在华为 Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 典藏版“睿影 Z10 模块化相机”正式发布，定价 5999 元。搭配 Mate 90 Pro Max 典藏版套装定价 19499 元。该产品系华为全栈自研产品，匹配 HyperClick 超级卡口，利用 1 英寸 ",
+    "published_dt_iso": "2026-10-01T22:39:18+08:00"
+  },
+  {
+    "title": "HMRC敦促审查曼城案件的税务影响",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "02:21",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "负责监督HMRC的财政委员会已敦促该机构仔细审查曼城判决的税务影响。",
+    "published_dt_iso": "2026-10-02T02:21:22+08:00"
+  },
+  {
+    "title": "Jaissle在5岁肿瘤后学到了很多关于生活的知识",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq7702n27ynxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "14:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "纽卡斯尔联队主教练马蒂亚斯·贾斯尔（ Matthias Jaissle ）一度无法移动他的脖子，但在开始在泰恩赛德（ Tyneside ）的教练生涯之前，他继续打球。",
+    "published_dt_iso": "2026-10-01T14:00:06+08:00"
+  },
+  {
+    "title": "赫尔的Gourna-Douath在训练场附近坠毁",
+    "link": "https://www.bbc.co.uk/news/articles/cm89j90gv57vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "20:02",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "涉及Lucas Gourna-Douath的坠机事件发生在涉及Sorba Thomas的类似事件之后。",
+    "published_dt_iso": "2026-10-01T20:02:20+08:00"
+  },
+  {
+    "title": "其他俱乐部负责人说，本赛季惩罚曼城",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "04:38",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "高级足球人物告诉BBC Sport ，曼城对违反英超联赛规则的惩罚应该在本赛季结束前传下来。",
+    "published_dt_iso": "2026-10-01T04:38:22+08:00"
+  },
+  {
+    "title": "瓜迪奥拉在有罪判决后支持曼城",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "18:07",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "前曼城老板瓜迪奥拉表示，在他们被判犯有财务指控后，他将“永远”支持俱乐部。",
+    "published_dt_iso": "2026-09-30T18:07:23+08:00"
+  },
+  {
+    "title": "俱乐部为国联球员赚了多少钱？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvj64l3xyzlyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "21:47",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "我们的Ask Me Anything团队查看为国家联赛出场释放球员而支付的俱乐部。",
+    "published_dt_iso": "2026-09-30T21:47:34+08:00"
+  },
+  {
+    "title": "刑事调查？降级还是驱逐？曼城的关键问题",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "21:17",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英国广播公司体育台（ BBC Sport ）审视了曼城（ Manchester City ）被判有罪判决后的关键问题。",
+    "published_dt_iso": "2026-09-30T21:17:44+08:00"
+  },
+  {
+    "title": "转账12亿英镑，赞助资金8.3亿英镑-曼城的“星号时代”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "14:26",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC Sport分析了曼城在违反财务规则期间对英格兰足球的主导地位。",
+    "published_dt_iso": "2026-09-30T14:26:34+08:00"
+  },
+  {
+    "title": "城市举报人Rui Pinto失去受保护证人身份后的恐惧",
+    "link": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
+    "date": "2026-10-02",
+    "published_time": "02:20",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Pinto的私人文件泄露引发了对曼城的调查，据了解，他担心自己的安全。Rui Pinto在2015年国际足联丑闻引发的十字军东征中建立了Football Leaks网站十多年后，他发现自己正处于日益严重的风暴之中。这位前历史系学生曾经是商标，头发尖刺，曾经赚取额外的现金出售有关第二次世界大战的书籍，他的统计数据并没有阻止他",
+    "published_dt_iso": "2026-10-02T02:20:48+08:00"
+  },
+  {
+    "title": "安迪·伯纳姆（ Andy Burnham ）的曼城评论引发了英超联赛的新紧张局势",
+    "link": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
+    "date": "2026-10-02",
+    "published_time": "02:10",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "据说政府对缺乏警告感到不满财政委员会主席希望HMRC参与城市案件安迪·伯纳姆（ Andy Burnham ）在曼城辩论中的干预重新引发了英超联赛与首相之间的紧张关系。据了解，政府官员感到不满的是，他们没有得到通知，独立委员会对9亿英镑金融操纵和“虚假合同”的诅咒判决将于本周公布，",
+    "published_dt_iso": "2026-10-02T02:10:38+08:00"
+  },
+  {
+    "title": "曼城球迷感到愤怒是正确的–现在他们需要直接向老板| Will Unwin",
+    "link": "https://www.theguardian.com/football/2026/oct/01/manchester-city-premier-league-financial-rule-breaches-fans-anger-owners",
+    "date": "2026-10-01",
+    "published_time": "22:04",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "在阿布扎比政权下取得的成功让支持者感到自豪，但他们只能在新监护人的领导下真正恢复这些感受。在写作和谈到曼城被判犯有严重违反英超联赛规则的数十万字中，罗伯托·曼奇尼（ Roberto Mancini ）在宣布“不关我的事”时可能是最尖锐的。为什么会这样？他从其中一份“虚假合同”中赚了数百万美元，并享受了他的",
+    "published_dt_iso": "2026-10-01T22:04:07+08:00"
+  },
+  {
+    "title": "亿万富翁酋长和“虚假”合同：曼城丑闻",
+    "link": "https://www.theguardian.com/news/audio/2026/oct/01/billionaire-sheiks-and-sham-contracts-the-manchester-city-scandal-podcast",
+    "date": "2026-10-01",
+    "published_time": "10:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "乔纳森·刘（ Jonathan Liew ）解释了对曼城的指控，西蒙·哈滕斯通（ Simon Hattenstone ）解释了作为《卫报》的特写作家西蒙·哈滕斯通（ Simon Hattenstone ）作为曼城球迷50多年的感受。当他开始与父亲在家乡参加比赛时，他还很年轻，从童年时期几乎要死的疾病中恢复过来。很长一段时间，这是一段建立在偶尔的高潮和",
+    "published_dt_iso": "2026-10-01T10:00:24+08:00"
+  },
+  {
+    "title": "城市赞助商阿提哈德航空考虑对英超采取法律行动",
+    "link": "https://www.theguardian.com/football/2026/sep/30/etihad-airways-considering-legal-action-premier-league-manchester-city",
+    "date": "2026-10-01",
+    "published_time": "05:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "航空公司“断然拒绝”委员会的有罪判决自2009年以来，埃蒂哈德一直是俱乐部的主要球衣赞助商曼城的主要赞助商阿提哈德航空公司（ Etihad Airways ）正在考虑对英超联赛采取法律行动，此前该公司公布了独立委员会对俱乐部违反财务规则的100多项调查结果的核心决定。阿提哈德在周三晚上发布的一份声明中表示，它“断然拒绝”这一罪行",
+    "published_dt_iso": "2026-10-01T05:30:33+08:00"
+  },
+  {
+    "title": "曼城举报人Rui Pinto在葡萄牙不再是受保护的证人",
+    "link": "https://www.theguardian.com/football/2026/sep/30/manchester-city-whistleblower-rui-pinto-no-longer-protected-witness-premier-league-portuguese-police",
+    "date": "2026-10-01",
+    "published_time": "03:40",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "工作提供了有关曼城财务的信息他称曼城的决定对英格兰足球来说是“历史性的”鲁伊·平托（ Rui Pinto ）的私人文件泄露有助于引发英超联赛对曼城金融事务的调查，他将不再作为证人受到葡萄牙当局的保护，这可以被揭露。根据卫队看到的文件，周三决定解除对举报人的保护",
+    "published_dt_iso": "2026-10-01T03:40:04+08:00"
+  },
+  {
+    "title": "对手俱乐部认为将曼城降级为冠军是不够的",
+    "link": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
+    "date": "2026-10-01",
+    "published_time": "02:55",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "英超联赛高管推动严厉惩罚曼城坚持认为他们是“无辜的指控”英超联赛将面临来自曼城竞争对手的压力，要求在俱乐部被判犯有100多项违反财务规则的指控后，要求长期缺席顶级联赛。许多英超联赛俱乐部的高管告诉《卫报》，扣分将降低",
+    "published_dt_iso": "2026-10-01T02:55:24+08:00"
+  },
+  {
+    "title": "安迪·伯纳姆（ Andy Burnham ）承认，如果曼城在有罪判决后失去主人，他会“担心”",
+    "link": "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
+    "date": "2026-10-01",
+    "published_time": "02:31",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "俱乐部是建设现代曼彻斯特独立足球监管机构监控案件的巨大合作伙伴安迪·伯纳姆（ Andy Burnham ）表示，由于俱乐部被判犯有100多项违反英超联赛规则的罪行，他将“非常担心”失去曼城的所有者。在独立足球监管机构确认其有权调查阿布扎比联赛集团是否适合在英超联赛结束后拥有一家英格兰俱乐部",
+    "published_dt_iso": "2026-10-01T02:31:05+08:00"
+  },
+  {
+    "title": "我使馆回应村田晃大持刀侵闯案开庭：敦促日方拿出应有态度 严惩凶犯",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706962.shtml",
+    "date": "2026-10-01",
+    "published_time": "22:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "10月1日，东京地方法院对非法持刀侵闯中国驻日本大使馆的原自卫队官员村田晃大进行首次公开庭审。中国驻日本大使馆发言人就此回答记者提问。",
+    "published_dt_iso": "2026-10-01T22:27:07+08:00"
+  },
+  {
+    "title": "红船起航地浙江嘉兴上演“花式”快闪：为祖国送上祝福",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706883.shtml",
+    "date": "2026-10-01",
+    "published_time": "19:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网嘉兴10月1日电(傅飞扬)10月1日，国庆假期首日，浙江嘉兴各地街头巷尾节日氛围浓厚，各类迎国庆活动陆续开展。",
+    "published_dt_iso": "2026-10-01T19:54:55+08:00"
+  },
+  {
+    "title": "“闪身步”闪到台湾，社交媒体“全民跟风”，有运动员赛后“边哭边跳”",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706830.shtml",
+    "date": "2026-10-01",
+    "published_time": "19:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "现在上网冲浪，谁来了都得高低“闪两步”。",
+    "published_dt_iso": "2026-10-01T19:16:47+08:00"
+  },
+  {
+    "title": "上海举办国庆红色主题活动 青少年沉浸式感悟红色初心",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706794.shtml",
+    "date": "2026-10-01",
+    "published_time": "16:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网上海10月1日电 (记者 许婧)国庆假期，上海多地举办红色主题活动，以升旗仪式、情景演出、红色课堂、青年宣讲等形式厚植爱国情怀，传承红色血脉。",
+    "published_dt_iso": "2026-10-01T16:59:20+08:00"
+  },
+  {
+    "title": "蝴蝶翅膀为何炫目？国际最新研究揭示在飞行中制造视错觉御敌",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706726.shtml",
+    "date": "2026-10-01",
+    "published_time": "16:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京10月1日电 (记者 孙自法)国际学术期刊《自然》最新发表一篇生态学研究指出，蝴蝶翅膀上对比度高的图案可以在飞行中制造视错觉，让捕食者更难判断蝴蝶的飞行速度和方向。这项研究结果显示，翅膀图案和拍打动作能共同形成一套抵御攻击的机制。",
+    "published_dt_iso": "2026-10-01T16:09:41+08:00"
+  },
+  {
+    "title": "2026年全国科普月：中国科技馆主场多元模式打造沉浸式科普体验",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706685.shtml",
+    "date": "2026-10-01",
+    "published_time": "14:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京10月1日电 (记者 孙自法)刚刚过去的9月，2026年全国科普月为公众献上持续一个月的科普“盛宴”。作为全国科普月主场之一，中国科技馆推出一系列丰富多彩活动，融前沿科技、学风建设与人文关怀于一体，以“科学+艺术+联动+交流”的多元模式，带来可看、可感、可参与的沉浸式科普体验。",
+    "published_dt_iso": "2026-10-01T14:09:52+08:00"
+  },
+  {
+    "title": "聚焦AI时代科普变革 2026年全国科普月系列主题活动共探科普转型",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706680.shtml",
+    "date": "2026-10-01",
+    "published_time": "14:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京10月1日电 (记者 孙自法)刚刚过去的2026年全国科普月期间，在国家科技传播中心举办的人工智能(AI)时代科普变革系列主题活动颇受关注。聚焦科普方法创新、AI技术冲击与场景变革，科普界、教育界及产业界多位专家学者代表，应邀共同探寻智能时代科普转型方向。",
+    "published_dt_iso": "2026-10-01T14:01:37+08:00"
+  },
+  {
+    "title": "何超琼称遭骚扰恐吓，获批永久禁制令",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-01/10706677.shtml",
+    "date": "2026-10-01",
+    "published_time": "13:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "香港高等法院原讼法庭暂委法官周昭雯，于9月30日颁布裁决理由，就何超琼起诉陈芃余骚扰、恐吓民事诉讼一案，对陈芃余批出永久禁制令。",
+    "published_dt_iso": "2026-10-01T13:51:44+08:00"
+  },
+  {
+    "title": "美国“龙”飞船送新一批宇航员飞赴国际空间站",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10706980.shtml",
+    "date": "2026-10-02",
+    "published_time": "00:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "美国太空探索技术公司的“龙”飞船10月1日搭载4名宇航员升空，开启前往国际空间站的载人飞行任务。",
+    "published_dt_iso": "2026-10-02T00:05:17+08:00"
+  },
+  {
+    "title": "日本突发5.1级地震",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706944.shtml",
+    "date": "2026-10-01",
+    "published_time": "21:08",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月1日电 综合报道，据日本气象厅消息，日本千叶县东北部10月1日发生5.1级地震。此次地震不会引发海啸。",
+    "published_dt_iso": "2026-10-01T21:08:36+08:00"
+  },
+  {
+    "title": "俄外交部宣布驱逐部分匈牙利外交人员",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706892.shtml",
+    "date": "2026-10-01",
+    "published_time": "20:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社莫斯科10月1日电 俄罗斯外交部10月1日发布消息说，俄外交部当天召见匈牙利驻俄临时代办加博尔·盖尔吉奇，就匈方驱逐俄外交人员一事提出强烈抗议。",
+    "published_dt_iso": "2026-10-01T20:10:16+08:00"
+  },
+  {
+    "title": "中国迎国庆，美国务卿鲁比奥发文祝愿中国人民和平、健康、幸福",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706889.shtml",
+    "date": "2026-10-01",
+    "published_time": "19:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月1日电 据美国国务院网站消息，美国国务卿鲁比奥当地时间9月30日在美国务院网站发表简短声明，在中国国庆节之际祝愿中国人民和平、健康、幸福。",
+    "published_dt_iso": "2026-10-01T19:48:01+08:00"
+  },
+  {
+    "title": "欧盟中国商会关切欧盟讨论打造“301”工具 呼吁国际贸易工具勿陷“逐底竞争”",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706791.shtml",
+    "date": "2026-10-01",
+    "published_time": "16:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网布鲁塞尔10月1日电(记者 德永健)针对媒体报道欧盟相关成员国推动欧盟委员会打造欧版“301”工具，欧盟中国商会9月30日发表声明，呼吁国际贸易工具不应陷入“逐底竞争”，更不应以单边措施替代多边规则。",
+    "published_dt_iso": "2026-10-01T16:54:04+08:00"
+  },
+  {
+    "title": "巴基斯坦袭击阿富汗已致多人死亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706714.shtml",
+    "date": "2026-10-01",
+    "published_time": "16:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月1日电 综合消息：阿富汗政府发言人扎比乌拉·穆贾希德当地时间10月1日通过社交媒体表示，巴基斯坦对阿富汗库纳尔省与赫尔曼德省发动空袭，造成包括妇女和儿童在内的9人死亡，另有11人受伤。",
+    "published_dt_iso": "2026-10-01T16:53:24+08:00"
+  },
+  {
+    "title": "短短20天，伊朗捕获两艘美军无人智能潜航器",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706710.shtml",
+    "date": "2026-10-01",
+    "published_time": "16:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月1日电(记者 刁炜)继9月8日捕获一艘美军Dive-LD无人潜航器之后，阿联酋《海湾新闻报》9月28日称，伊朗革命卫队当天凌晨在霍尔木兹海峡，又缴获一艘美军REMUS 600无人潜航器。",
+    "published_dt_iso": "2026-10-01T16:52:42+08:00"
+  },
+  {
+    "title": "中埃文明圆桌对话会暨精品图书赠书仪式在埃及开罗举办",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-01/10706697.shtml",
+    "date": "2026-10-01",
+    "published_time": "16:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社开罗10月1日电(记者 马秀秀)当地时间9月30日下午，“中埃文明圆桌对话会暨精品图书赠书仪式”在位于埃及开罗的大埃及博物馆举行，中埃文化、学术、出版界代表约70人出席。",
+    "published_dt_iso": "2026-10-01T16:51:27+08:00"
+  },
+  {
+    "title": "侗族多耶节启幕 广西侗乡上演民俗文化盛宴",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706958.shtml",
+    "date": "2026-10-01",
+    "published_time": "21:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社广西柳州10月1日电 (记者 黄艳梅)第二十三届(柳州·三江)侗族多耶节10月1日晚在广西柳州市三江侗族自治县启幕，当地民众及海内外游客欢聚一堂，共同领略多姿多彩的侗族文化盛宴。",
+    "published_dt_iso": "2026-10-01T21:54:16+08:00"
+  },
+  {
+    "title": "冷空气袭扰长三角 雨水降温伴随国庆假期",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706957.shtml",
+    "date": "2026-10-01",
+    "published_time": "21:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社杭州10月1日电 (记者 王逸飞)10月1日是国庆假期首日。受冷空气影响，长三角地区普遍出现降温降水天气。其中，浙江杭州迎六年来最早入秋；上海市区徐家汇站最低气温在下半年以来首次降至20℃以下。",
+    "published_dt_iso": "2026-10-01T21:52:22+08:00"
+  },
+  {
+    "title": "北京警方护航国庆假期旅游市场安全有序",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706941.shtml",
+    "date": "2026-10-01",
+    "published_time": "21:05",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京10月1日电 今年中秋、国庆假期相连，群众出游、探亲需求集中释放，北京成为全国热门旅游目的地之一，加之全市各大公园景区推出百余项丰富多彩的文娱活动，热门景点人流车流集中态势明显。为切实做好国庆假期期间旅游安保工作，北京警方提前谋划、系统组织，统筹各警种与属地分局因地制宜制定方案预案，严密落实各项安保举措，全力确保广大在京游客度过欢乐、安全、舒心的假期。",
+    "published_dt_iso": "2026-10-01T21:05:52+08:00"
+  },
+  {
+    "title": "台青“登陆”创业近二十载 踩准时代节拍转型升级",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706938.shtml",
+    "date": "2026-10-01",
+    "published_time": "21:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社杭州10月1日电 (郭其钰)10月1日，虽然进入假期时间，但在浙江杭州钛芯智冷科技有限公司实验室里，台青李卓谕依旧带领团队在进行多组芯片散热模组的稳定性测试。",
+    "published_dt_iso": "2026-10-01T21:01:38+08:00"
+  },
+  {
+    "title": "彻夜守候见证“中国红” 广西南宁国庆升国旗仪式“超燃”",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706928.shtml",
+    "date": "2026-10-01",
+    "published_time": "20:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网南宁10月1日电(黄艳梅 陈沿佑)10月1日，广西南宁市民族广场举行升国旗仪式，大批民众从四面八方赶来，共同见证五星红旗冉冉升起，表达对祖国的诚挚祝福。",
+    "published_dt_iso": "2026-10-01T20:58:01+08:00"
+  },
+  {
+    "title": "四川乐山：玉兔起舞九尾狐穿行 东坡楼上演“汉代奇遇”",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706929.shtml",
+    "date": "2026-10-01",
+    "published_time": "20:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网成都10月1日电 (记者 刘忠俊)看一段玉兔起舞，听一回神话故事，再和“苏东坡”聊聊江上清风……10月1日，在四川乐山大佛景区东坡楼，上演了一场跨越时空的文化相遇。九尾狐、玉兔、羽人从汉代画像中“走”了出来，和游客合影互动；演员扮成的“苏东坡”当起向导，带着大家走进古时南安的烟火人间与神话世界。",
+    "published_dt_iso": "2026-10-01T20:56:29+08:00"
+  },
+  {
+    "title": "国庆假期首日 海南自贸港重点项目施工忙",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706932.shtml",
+    "date": "2026-10-01",
+    "published_time": "20:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网海口10月1日电 (记者 王子谦)1日，2026年国庆假期首日，海南自贸港多个重点项目建设现场机械轰鸣、塔吊运转，建设者坚守一线抢抓施工黄金期，冲刺节点目标。",
+    "published_dt_iso": "2026-10-01T20:55:43+08:00"
+  },
+  {
+    "title": "浙江客流最大县级火车站：国庆假期预计日均发送旅客5.13万人次",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-01/10706922.shtml",
+    "date": "2026-10-01",
+    "published_time": "20:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网义乌10月1日电(董易鑫)义乌是浙江人口最多的县级市，铁路义乌站是该省客流量最大的县级火车站。10月1日，铁路义乌站官方公布一则数据，今年国庆假期该站预计日均发送旅客5.13万人次。",
+    "published_dt_iso": "2026-10-01T20:47:10+08:00"
+  },
+  {
+    "title": "香港国安处以“23条”拘捕网媒记者，与8.31事件相关",
+    "link": "https://www.bbc.com/zhongwen/articles/c6wyzy7ykn5go/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "16:48",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "香港记者协会关注事件，指邓浩荣是首名在涉嫌违反《维护国家安全条例》（俗称“23条”）生效后，于公众领域中因该例煽动罪被捕的新闻工作者。",
+    "published_dt_iso": "2026-10-01T16:48:59+08:00"
+  },
+  {
+    "title": "中国开始打击AI恋爱关系，是过度干预还是先见之明？",
+    "link": "https://www.bbc.com/zhongwen/articles/cmz9z9e4247vo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "16:12",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "北京正在打击那些能够模拟人际关系的AI聊天机器人。专家质疑这是否是正确的做法。",
+    "published_dt_iso": "2026-10-01T16:12:13+08:00"
+  },
+  {
+    "title": "日本收紧外国人居留条件，申请费用上调二十倍",
+    "link": "https://www.bbc.com/zhongwen/articles/cxyvzvqp0z01o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "15:38",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "这次加费是高市政府收紧移民政策的一环，目的是管理快速增长的外国人口。",
+    "published_dt_iso": "2026-10-01T15:38:15+08:00"
+  },
+  {
+    "title": "军情五处警告：中国资助英国研究，成果交予北京间谍机关",
+    "link": "https://www.bbc.com/zhongwen/articles/cmwyz8y494xvo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "00:46",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "当局敦促英国各大学，停止与中国通用技术研究院往来，该研究院与中国国家安全部有联系。",
+    "published_dt_iso": "2026-10-01T00:46:19+08:00"
+  },
+  {
+    "title": "钠离子电池：“美国制造”能超越中国吗？",
+    "link": "https://www.bbc.com/zhongwen/articles/cwx2ze4g2d2go/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "09:58",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "基于钠离子技术的电池可以在美国使用本地采购的材料生产。",
+    "published_dt_iso": "2026-10-01T09:58:40+08:00"
+  },
+  {
+    "title": "FirstDate：新加坡用诺贝尔奖算法，为公务员配对约会对象",
+    "link": "https://www.bbc.com/zhongwen/articles/c60e3e4yn858o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "12:43",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "FirstDate推出之际，这个人口老化的国家正面临历来最低的生育率。",
+    "published_dt_iso": "2026-10-01T12:43:34+08:00"
+  },
+  {
+    "title": "中国人工智能工具“教导”研究人员制造生物武器",
+    "link": "https://www.bbc.com/zhongwen/articles/c64grn5g7em2o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "10:20",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "有研究机构发现月之暗面的Kimi模型可以绕过开发者的安全限制，提供制造生化武器的资讯。",
+    "published_dt_iso": "2026-09-30T10:20:26+08:00"
+  },
+  {
+    "title": "感情走下坡还有救吗？伴侣治疗师谈修复关系的要素",
+    "link": "https://www.bbc.com/zhongwen/articles/cqvgy2z0r958o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "10:35",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "批评、轻蔑、防卫、冷处理——这四种行为显示你的关系可能正走向分手。但感情还是能挽救的，伴侣治疗师提出了一些具体建议。",
+    "published_dt_iso": "2026-10-01T10:35:05+08:00"
+  },
+  {
+    "title": "警方在康奈尔州袭击案中撰写的声明忽略了她声称自己被强奸的说法",
+    "link": "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html",
+    "date": "2026-10-01",
+    "published_time": "21:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "《纽约时报》获得的文件显示，康奈尔大学校园警察向检察官发送了一份浓缩声明，检察官随后拒绝提起诉讼。",
+    "published_dt_iso": "2026-10-01T21:40:09+08:00"
+  },
+  {
+    "title": "在康奈尔大学性侵犯诉讼中被指控的Chi Phi成员提供了不同的夜间账户",
+    "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html",
+    "date": "2026-10-02",
+    "published_time": "02:05",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "《纽约时报》获得的数百页调查文件中详细描述了他们的叙述，这些叙述是脱节的，有时甚至是矛盾的。所有人都否认有任何不法行为。",
+    "published_dt_iso": "2026-10-02T02:05:31+08:00"
+  },
+  {
+    "title": "康奈尔大学学生如何从羞耻走向行动",
+    "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html",
+    "date": "2026-10-01",
+    "published_time": "23:20",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这位被称为“Jane Doe”的女士最初对2024年兄弟会派对上发生的事情感到尴尬，但很快得出结论： “我被殴打了。”",
+    "published_dt_iso": "2026-10-01T23:20:51+08:00"
+  },
+  {
+    "title": "Christa Pike做了什么？关于田纳西州拙劣处决的须知事项。",
+    "link": "https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html",
+    "date": "2026-10-02",
+    "published_time": "01:34",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "50岁的派克女士在田纳西州的两次致命注射中幸存下来。她因1995年谋杀一名同学而被判处死刑。",
+    "published_dt_iso": "2026-10-02T01:34:59+08:00"
+  },
+  {
+    "title": "随着抵押贷款利率达到2023年以来的最高水平，买家关注ARM",
+    "link": "https://www.nytimes.com/2026/10/01/business/adjustable-mortgage-rates.html",
+    "date": "2026-10-02",
+    "published_time": "02:18",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "平均30年期固定利率住房贷款从一年前的6.34%上升至7.28%。越来越多的买家现在转向可调整利率的抵押贷款。",
+    "published_dt_iso": "2026-10-02T02:18:36+08:00"
+  },
+  {
+    "title": "美国债券收益率触及2002年以来最高水平",
+    "link": "https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html",
+    "date": "2026-10-02",
+    "published_time": "02:28",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon.",
+    "published_dt_iso": "2026-10-02T02:28:21+08:00"
+  },
+  {
+    "title": "Trump’s Threat to Ban Diesel Exports Sets Off Global Alarms",
+    "link": "https://www.nytimes.com/2026/10/01/business/diesel-prices-us-exports.html",
+    "date": "2026-10-02",
+    "published_time": "01:10",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A reduction in refineries has already driven the price of diesel to record highs, threatening economies. An U.S. export ban would be “tremendous shock and blow.”",
+    "published_dt_iso": "2026-10-02T01:10:27+08:00"
+  },
+  {
+    "title": "A Bloody Attack on a FlyDubai Plane Headed to Israel, and a Terrifying Plunge",
+    "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-attack-israel-uae.html",
+    "date": "2026-10-01",
+    "published_time": "09:56",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "“I don’t deserve to die like this,” said one passenger on Flight 1073 from Dubai to Tel Aviv. The motive of the cockpit stabbing remains unknown, officials said.",
+    "published_dt_iso": "2026-10-01T09:56:20+08:00"
+  }
+]

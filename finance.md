@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,426.11</span>
+      <span class="ticker-price ticker-up">30,521.98</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7176</span>
+      <span class="ticker-price ticker-up">6.7167</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,168.99 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +12.14 (+0.29%)</span>
+      <span class="ticker-price ticker-up">$4,172.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +15.43 (+0.37%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -230,37 +230,49 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">5 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon." data-title="美国债券收益率触及2002年以来最高水平" data-date="10-02 02:28" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-02 02:28</span>
+          <span class="news-item-title">美国债券收益率触及2002年以来最高水平</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality" target="_blank" rel="noopener" data-cat="caijing" data-summary="我很确定我不会买$ 1,299的Meta VR眼镜。在今天的经济中，这对我来说太丰富了，我对梅塔的感情是……矛盾的。但我想让你明白， Meta刚刚改变了游戏规则。我们有过眼镜，但我们从来没有过这样的眼镜。Meta VR眼镜[…]" data-title="VR眼镜能拯救VR吗？" data-date="10-02 00:10" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-02 00:10</span>
+          <span class="news-item-title">VR眼镜能拯救VR吗？</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/170.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，长安汽车 9 月交付 22.89 万辆新车，其中海外交付 96200 辆同比增长 73.8%。IT之家从官方获悉，长安汽车 9 月交付新能源汽车 113200 辆，同比增长 13.9%。细分来看，长安汽车 9 月交付新车 50300 辆，长安启源 9 月交付 46507 辆，长安启源累计销量突破 100 万辆。另外，深蓝汽车 9 月销量达 30185 辆。阿维塔 9 月交付 8183 辆。长安凯程 9 月交付 19000 辆，海外交付同比增长 38%。" data-title="长安汽车 9 月交付 22.89 万辆，海外 96200 辆同比增长 73.8%" data-date="10-01 23:47" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-01 23:47</span>
+          <span class="news-item-title">长安汽车 9 月交付 22.89 万辆，海外 96200 辆同比增长 73.8%</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule" target="_blank" rel="noopener" data-cat="caijing" data-summary="努力摆脱经常性订阅费的纽约市居民现在可以向市政府提交投诉。截至周四，该市的点击取消规则已经生效，该规则要求企业取消订阅与注册一样简单。这意味着健身房可以让您[…]" data-title="纽约市现在是美国第一个禁止粗略订阅的城市" data-date="10-01 22:49" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-01 22:49</span>
+          <span class="news-item-title">纽约市现在是美国第一个禁止粗略订阅的城市</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/164.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，任天堂宣布将于 10 月 29 日推出新的《宝可梦传说 Z-A》Nintendo Switch 2 版实体扩充包，将“超次元爆涌”（Mega Dimension）DLC 一并收录其中。不含 DLC 的《宝可梦传说 Z-A》Nintendo Switch 2 版已于 2025 年 10 月 16 日发售，数字版和实体版港区定价均为 359~409 港币（IT之家注：现汇率约合 307.3 ~ 350.1 元人民币）。据介绍，Nintendo Switch 2 版针对性能、分辨率和帧率进行了优化；因此，玩家也可以先购买实体卡带，之后再升级至 Nintendo Switch 2。另外，实体版还将附赠 100 个高级球（Ultra Ball）的兑换码（每个存档只能兑换" data-title="任天堂《宝可梦传说 Z-A》Switch 2 卡带 + 超次元爆涌 DLC 版 10 月 29 日发售" data-date="10-01 22:42" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-01 22:42</span>
+          <span class="news-item-title">任天堂《宝可梦传说 Z-A》Switch 2 卡带 + 超次元爆涌 DLC 版 10 月 29 日发售</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/163.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，华为移动影像迎来全新升级 —— 正式发布华为睿影 XMAGE。余承东表示：睿观万象，聚光成影，“睿”，既是技术创新赋予影像的智慧，也是我们对影像背后的人、生活和情感更深的理解。我们希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌，定义智能影像时代的影像力量！据IT之家今日早些时候报道，在华为 Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 典藏版“睿影 Z10 模块化相机”正式发布，定价 5999 元。搭配 Mate 90 Pro Max 典藏版套装定价 19499 元。该产品系华为全栈自研产品，匹配 HyperClick 超级卡口，利用 1 英寸" data-title="余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布" data-date="10-01 22:39" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">10-01 22:39</span>
           <span class="news-item-title">余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/156.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今天在微博宣布，享界 V8 开启预订 72 小时，订单突破 8200 台。据IT之家了解，享界 V8 是鸿蒙智行旗下享界品牌首款 MPV，官方预售价 32.98 万元起。该车提供纯电与增程两种动力形式，全系标配 800V 高压平台和华为干昆智驾系统。享界 V8 纯电版搭载 120 kWh 超大电池，CLTC 工况续航最高达 830km，四驱版续航为 775km。增程版则搭载 1.5T 增程器，最大功率 118kW，提供 56kWh 与 75.4kWh 两种电池规格，WLTC 纯电续航分别为 260km、275km 和 339km，CLTC 综合续航超过 1400km。享界 V8 车身尺寸为 5335" data-title="华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台" data-date="10-01 21:42" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-01 21:42</span>
-          <span class="news-item-title">华为余承东：享界 V8 开启预订 72 小时，订单突破 8200 台</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-01/10706791.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网布鲁塞尔10月1日电(记者 德永健)针对媒体报道欧盟相关成员国推动欧盟委员会打造欧版“301”工具，欧盟中国商会9月30日发表声明，呼吁国际贸易工具不应陷入“逐底竞争”，更不应以单边措施替代多边规则。" data-title="欧盟中国商会关切欧盟讨论打造“301”工具 呼吁国际贸易工具勿陷“逐底竞争”" data-date="10-01 16:54" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-01 16:54</span>
           <span class="news-item-title">欧盟中国商会关切欧盟讨论打造“301”工具 呼吁国际贸易工具勿陷“逐底竞争”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/990.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，各大车企今日起陆续交出了 2026 年 9 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。上汽通用五菱：132,045 辆，同比下降 15.13%，环比增长 0.9%（备注：2026 年 1—9 月，上汽通用五菱全球累计销量达 1,058,169 辆。值得一提的是，新能源车型 1—9 月累计销量达 569,640 辆，占公司总销量的 53.8%。华境 S 为旗下与华为合作的首款大六座 SUV；华境 S：连续 5 个月增长；累计交付已突破 3 万台；2026 年 8 月交付 7306 台、7 月交付 7203 台、6 月交付 5689 台；5 月 8 日上市；标配华为干昆智驾 ADS 5 Pro）。其中：华境 S：7,416 辆，环比增长 1.51" data-title="2026 年 9 月汽车销量 / 交付汇总（持续更新）：鸿蒙智行 37,490 辆" data-date="10-01 09:36" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-01 09:36</span>
-          <span class="news-item-title">2026 年 9 月汽车销量 / 交付汇总（持续更新）：鸿蒙智行 37,490 辆</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/008/944.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 9 月 30 日消息，三星电子今日宣布推出新一代 Galaxy SmartTag3 追踪器。该产品体积比前代小约 35%，重量轻 33%，单个售价 29.99 美元（现汇率约合 201.5 元人民币），四件装 99.99 美元（IT之家注：现汇率约合 671.7 元人民币），将于 11 月初上市，提供白、黑两色，还可单独购买硅胶保护壳和环扣保护壳等配件。三星 Galaxy SmartTag3 标准使用续航最长 550 天，省电模式下最长 790 天（前代 SmartTag 2 对应续航为 500 天和 700 天）。Galaxy SmartTag3 首次支持跨系统兼容，除 Galaxy 设备外，也可与 iOS 设备配合使用。通过 SmartThings Find，用户可在支持设备上" data-title="三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天" data-date="09-30 23:46" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">09-30 23:46</span>
-          <span class="news-item-title">三星发布 Galaxy SmartTag 3 追踪器：体积缩小 35%，续航最长 790 天</span>
         </a>
   </div>
 </div>
@@ -275,4 +287,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-01 22:40（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-02 02:29（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
