@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 文档
 layout_class: layout-wide
 ---
@@ -26,7 +26,7 @@ layout_class: layout-wide
       • x86_64 / aarch64 双架构 SDK 支持与低延迟调优
     </div>
     <div class="card-footer-row">
-      <a href="{{ "docs/unitree_l1" | relative_url }}" class="card-link">宇树建图指南</a>
+      <a href="/docs/unitree_l1" class="card-link">宇树建图指南</a>
       <span class="card-status">🔒 算法闭源</span>
     </div>
   </div>
@@ -49,7 +49,7 @@ layout_class: layout-wide
       • 树莓派 4B / RDK X5 嵌入式端轻量化与低 CPU 占用调优
     </div>
     <div class="card-footer-row">
-      <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">镭神建图指南</a>
+      <a href="/docs/leishen_n10p" class="card-link">镭神建图指南</a>
       <span class="card-status">🔒 算法闭源</span>
     </div>
   </div>
@@ -72,7 +72,7 @@ layout_class: layout-wide
       • 46 个自动化运维脚本库与端侧 AI 视觉部署参考手册
     </div>
     <div class="card-footer-row">
-      <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派实战指南</a>
+      <a href="/docs/rpi4_deploy" class="card-link">树莓派实战指南</a>
       <span class="card-status">🔒 规范资产闭源</span>
     </div>
   </div>
@@ -95,7 +95,7 @@ layout_class: layout-wide
       • 智能门禁中枢：360° 舵机毫秒微积分虚拟编码器（断电开度记忆）+ 车规声学破拆
     </div>
     <div class="card-footer-row">
-      <a href="{{ "docs/security_system" | relative_url }}" class="card-link">系统设计方案</a>
+      <a href="/docs/security_system" class="card-link">系统设计方案</a>
       <span class="card-status">🔒 专有工程</span>
     </div>
   </div>

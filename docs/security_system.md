@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 地瓜派 RDK X5 多模态智能空间安防系统
 ---
 

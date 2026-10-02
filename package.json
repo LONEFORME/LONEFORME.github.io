@@ -1,0 +1,16 @@
+{
+  "name": "loneforme-site",
+  "version": "2.0.0",
+  "description": "LONEFORME 个人技术网站 · 机器人感知与无人机全栈知识库",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "markdown-it-mathjax3": "^5.2.0",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.13"
+  }
+}

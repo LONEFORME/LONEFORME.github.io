@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 宇树 L1 + FAST-LIO2
 ---
 

@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>01 硬件底座与电气规范 | 旧梦如常</title>
+    <meta name="description" content="机器人感知与导航 · 嵌入式系统 · 激光雷达 SLAM · 无人机全栈知识库">
+    <meta name="generator" content="VitePress v1.6.4">
+    <link rel="preload stylesheet" href="/assets/style.DMlp7XUy.css" as="style">
+    <link rel="preload stylesheet" href="/vp-icons.css" as="style">
+    
+    <script type="module" src="/assets/app.D6Eohp5z.js"></script>
+    <link rel="preload" href="/assets/inter-roman-latin.Di8DUHzh.woff2" as="font" type="font/woff2" crossorigin="">
+    <link rel="modulepreload" href="/assets/chunks/theme.N0Irpajh.js">
+    <link rel="modulepreload" href="/assets/chunks/framework.BggH7w1f.js">
+    <link rel="modulepreload" href="/assets/01_硬件底座与电气规范.md.C4_AEQDF.lean.js">
+    <script id="check-dark-mode">(()=>{const e=localStorage.getItem("vitepress-theme-appearance")||"auto",a=window.matchMedia("(prefers-color-scheme: dark)").matches;(!e||e==="auto"?a:e==="dark")&&document.documentElement.classList.add("dark")})();</script>
+    <script id="check-mac-os">document.documentElement.classList.toggle("mac",/Mac|iPhone|iPod|iPad/i.test(navigator.platform));</script>
+  </head>
+  <body>
+    <div id="app"><div class="Layout" data-v-05e52251><!--[--><!--]--><!--[--><span tabindex="-1" data-v-fa3024b8></span><a href="#VPContent" class="VPSkipLink visually-hidden" data-v-fa3024b8>Skip to content</a><!--]--><!----><header class="VPNav" data-v-05e52251 data-v-310dbed8><div class="VPNavBar" data-v-310dbed8 data-v-18731e98><div class="wrapper" data-v-18731e98><div class="container" data-v-18731e98><div class="title" data-v-18731e98><div class="VPNavBarTitle" data-v-18731e98 data-v-a17e6738><a class="title" href="/" data-v-a17e6738><!--[--><!--]--><!----><span data-v-a17e6738>旧梦如常</span><!--[--><!--]--></a></div></div><div class="content" data-v-18731e98><div class="content-body" data-v-18731e98><!--[--><!--]--><div class="VPNavBarSearch search" data-v-18731e98><!--[--><!----><div id="local-search"><button type="button" class="DocSearch DocSearch-Button" aria-label="搜索文档"><span class="DocSearch-Button-Container"><span class="vp-icon DocSearch-Search-Icon"></span><span class="DocSearch-Button-Placeholder">搜索文档</span></span><span class="DocSearch-Button-Keys"><kbd class="DocSearch-Button-Key"></kbd><kbd class="DocSearch-Button-Key">K</kbd></span></button></div><!--]--></div><nav aria-labelledby="main-nav-aria-label" class="VPNavBarMenu menu" data-v-18731e98 data-v-67faaf85><span id="main-nav-aria-label" class="visually-hidden" data-v-67faaf85> Main Navigation </span><!--[--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/" tabindex="0" data-v-67faaf85 data-v-2260681b><!--[--><span data-v-2260681b>🏠 首页</span><!--]--></a><!--]--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/drone/INDEX" tabindex="0" data-v-67faaf85 data-v-2260681b><!--[--><span data-v-2260681b>🚁 无人机知识库</span><!--]--></a><!--]--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/docs/" tabindex="0" data-v-67faaf85 data-v-2260681b><!--[--><span data-v-2260681b>📖 技术文档</span><!--]--></a><!--]--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/projects" tabindex="0" data-v-67faaf85 data-v-2260681b><!--[--><span data-v-2260681b>📂 项目展示</span><!--]--></a><!--]--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/news" tabindex="0" data-v-67faaf85 data-v-2260681b><!--[--><span data-v-2260681b>📰 每日热点</span><!--]--></a><!--]--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/finance" tabindex="0" data-v-67faaf85 data-v-2260681b><!--[--><span data-v-2260681b>📈 股票财经</span><!--]--></a><!--]--><!--[--><a class="VPLink link VPNavBarMenuLink" href="/3d-viewer.html" target="_self" tabindex="0" data-v-67faaf85 data-v-2260681b><!--[--><span data-v-2260681b>🧊 3D 预览</span><!--]--></a><!--]--><!--]--></nav><!----><div class="VPNavBarAppearance appearance" data-v-18731e98 data-v-a73b2bc5><button class="VPSwitch VPSwitchAppearance" type="button" role="switch" title aria-checked="false" data-v-a73b2bc5 data-v-c162ea10 data-v-5222298c><span class="check" data-v-5222298c><span class="icon" data-v-5222298c><!--[--><span class="vpi-sun sun" data-v-c162ea10></span><span class="vpi-moon moon" data-v-c162ea10></span><!--]--></span></span></button></div><div class="VPSocialLinks VPNavBarSocialLinks social-links" data-v-18731e98 data-v-ed60eb06 data-v-756dacd3><!--[--><a class="VPSocialLink no-icon" href="https://github.com/LONEFORME" aria-label="github" target="_blank" rel="noopener" data-v-756dacd3 data-v-f9a56b1e><span class="vpi-social-github"></span></a><!--]--></div><div class="VPFlyout VPNavBarExtra extra" data-v-18731e98 data-v-115aa891 data-v-33eeb07f><button type="button" class="button" aria-haspopup="true" aria-expanded="false" aria-label="extra navigation" data-v-33eeb07f><span class="vpi-more-horizontal icon" data-v-33eeb07f></span></button><div class="menu" data-v-33eeb07f><div class="VPMenu" data-v-33eeb07f data-v-237f8464><!----><!--[--><!--[--><!----><div class="group" data-v-115aa891><div class="item appearance" data-v-115aa891><p class="label" data-v-115aa891>Appearance</p><div class="appearance-action" data-v-115aa891><button class="VPSwitch VPSwitchAppearance" type="button" role="switch" title aria-checked="false" data-v-115aa891 data-v-c162ea10 data-v-5222298c><span class="check" data-v-5222298c><span class="icon" data-v-5222298c><!--[--><span class="vpi-sun sun" data-v-c162ea10></span><span class="vpi-moon moon" data-v-c162ea10></span><!--]--></span></span></button></div></div></div><div class="group" data-v-115aa891><div class="item social-links" data-v-115aa891><div class="VPSocialLinks social-links-list" data-v-115aa891 data-v-756dacd3><!--[--><a class="VPSocialLink no-icon" href="https://github.com/LONEFORME" aria-label="github" target="_blank" rel="noopener" data-v-756dacd3 data-v-f9a56b1e><span class="vpi-social-github"></span></a><!--]--></div></div></div><!--]--><!--]--></div></div></div><!--[--><!--]--><button type="button" class="VPNavBarHamburger hamburger" aria-label="mobile navigation" aria-expanded="false" aria-controls="VPNavScreen" data-v-18731e98 data-v-2fec23b7><span class="container" data-v-2fec23b7><span class="top" data-v-2fec23b7></span><span class="middle" data-v-2fec23b7></span><span class="bottom" data-v-2fec23b7></span></span></button></div></div></div></div><div class="divider" data-v-18731e98><div class="divider-line" data-v-18731e98></div></div></div><!----></header><div class="VPLocalNav empty fixed" data-v-05e52251 data-v-aa51f14b><div class="container" data-v-aa51f14b><!----><div class="VPLocalNavOutlineDropdown" style="--vp-vh:0px;" data-v-aa51f14b data-v-6fe42c09><button data-v-6fe42c09>Return to top</button><!----></div></div></div><!----><div class="VPContent" id="VPContent" data-v-05e52251 data-v-5fe689b6><div class="VPDoc has-aside" data-v-5fe689b6 data-v-45ba2e9d><!--[--><!--]--><div class="container" data-v-45ba2e9d><div class="aside" data-v-45ba2e9d><div class="aside-curtain" data-v-45ba2e9d></div><div class="aside-container" data-v-45ba2e9d><div class="aside-content" data-v-45ba2e9d><div class="VPDocAside" data-v-45ba2e9d data-v-3d2a69fc><!--[--><!--]--><!--[--><!--]--><nav aria-labelledby="doc-outline-aria-label" class="VPDocAsideOutline" data-v-3d2a69fc data-v-176912c6><div class="content" data-v-176912c6><div class="outline-marker" data-v-176912c6></div><div aria-level="2" class="outline-title" id="doc-outline-aria-label" role="heading" data-v-176912c6>On this page</div><ul class="VPDocOutlineItem root" data-v-176912c6 data-v-99797b21><!--[--><!--]--></ul></div></nav><!--[--><!--]--><div class="spacer" data-v-3d2a69fc></div><!--[--><!--]--><!----><!--[--><!--]--><!--[--><!--]--></div></div></div></div><div class="content" data-v-45ba2e9d><div class="content-container" data-v-45ba2e9d><!--[--><!--]--><main class="main" data-v-45ba2e9d><div style="position:relative;" class="vp-doc _01_%E7%A1%AC%E4%BB%B6%E5%BA%95%E5%BA%A7%E4%B8%8E%E7%94%B5%E6%B0%94%E8%A7%84%E8%8C%83" data-v-45ba2e9d><div><h1 id="_01-硬件底座与电气规范" tabindex="-1">01 硬件底座与电气规范 <a class="header-anchor" href="#_01-硬件底座与电气规范" aria-label="Permalink to &quot;01 硬件底座与电气规范&quot;">​</a></h1><blockquote><p>本文档属于 [[00_文档指南与历年赛题/全栈技术知识库/INDEX|全栈技术知识库]]。 涵盖四旋翼整机动力学匹配、分级供电系统设计、飞控硬件原理图引脚分配、T265 避坑铁律以及室内传感器选型。</p></blockquote><hr><h2 id="_1-动力系统匹配与推重比设计" tabindex="-1">1. 动力系统匹配与推重比设计 <a class="header-anchor" href="#_1-动力系统匹配与推重比设计" aria-label="Permalink to &quot;1. 动力系统匹配与推重比设计&quot;">​</a></h2><p>在全国大学生电子设计竞赛（NUEDC）中，无人机赛题均有严格的物理尺寸和安全防护限制（例如：最大外轮廓尺寸 <span id="mjx-442d5b7"><style>
+      #mjx-442d5b7{
+        display:contents;
+        mjx-assistive-mml {
+          user-select: text !important;
+          clip: auto !important;
+          color: rgba(0,0,0,0);
+        }
+        
+mjx-container[jax=&quot;SVG&quot;] {
+  direction: ltr;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display=&quot;block&quot;] {
+  width: 100% !important;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] {
+  display: flex;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] {
+  text-align: left;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] {
+  text-align: right;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; g &gt; svg {
+  overflow: visible;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool &gt; mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool &gt; mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node=&quot;maction&quot;][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax=&quot;SVG&quot;] path[data-c], mjx-container[jax=&quot;SVG&quot;] use[data-c] {
+  stroke-width: 3;
+}
+
+g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+.MathJax g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+      }
+      </style><mjx-container class="MathJax" jax="SVG" style="position:relative;"><svg style="vertical-align:-0.312ex;" xmlns="http://www.w3.org/2000/svg" width="7.54ex" height="1.844ex" role="img" focusable="false" viewBox="0 -677 3332.8 815" aria-hidden="true"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2264" d="M674 636Q682 636 688 630T694 615T687 601Q686 600 417 472L151 346L399 228Q687 92 691 87Q694 81 694 76Q694 58 676 56H670L382 192Q92 329 90 331Q83 336 83 348Q84 359 96 365Q104 369 382 500T665 634Q669 636 674 636ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g><g data-mml-node="mn" transform="translate(1055.8,0)"><path data-c="34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"></path><path data-c="35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z" transform="translate(500,0)"></path></g><g data-mml-node="mtext" transform="translate(2055.8,0)"><path data-c="63" d="M370 305T349 305T313 320T297 358Q297 381 312 396Q317 401 317 402T307 404Q281 408 258 408Q209 408 178 376Q131 329 131 219Q131 137 162 90Q203 29 272 29Q313 29 338 55T374 117Q376 125 379 127T395 129H409Q415 123 415 120Q415 116 411 104T395 71T366 33T318 2T249 -11Q163 -11 99 53T34 214Q34 318 99 383T250 448T370 421T404 357Q404 334 387 320Z"></path><path data-c="6D" d="M41 46H55Q94 46 102 60V68Q102 77 102 91T102 122T103 161T103 203Q103 234 103 269T102 328V351Q99 370 88 376T43 385H25V408Q25 431 27 431L37 432Q47 433 65 434T102 436Q119 437 138 438T167 441T178 442H181V402Q181 364 182 364T187 369T199 384T218 402T247 421T285 437Q305 442 336 442Q351 442 364 440T387 434T406 426T421 417T432 406T441 395T448 384T452 374T455 366L457 361L460 365Q463 369 466 373T475 384T488 397T503 410T523 422T546 432T572 439T603 442Q729 442 740 329Q741 322 741 190V104Q741 66 743 59T754 49Q775 46 803 46H819V0H811L788 1Q764 2 737 2T699 3Q596 3 587 0H579V46H595Q656 46 656 62Q657 64 657 200Q656 335 655 343Q649 371 635 385T611 402T585 404Q540 404 506 370Q479 343 472 315T464 232V168V108Q464 78 465 68T468 55T477 49Q498 46 526 46H542V0H534L510 1Q487 2 460 2T422 3Q319 3 310 0H302V46H318Q379 46 379 62Q380 64 380 200Q379 335 378 343Q372 371 358 385T334 402T308 404Q263 404 229 370Q202 343 195 315T187 232V168V108Q187 78 188 68T191 55T200 49Q221 46 249 46H265V0H257L234 1Q210 2 183 2T145 3Q42 3 33 0H25V46H41Z" transform="translate(444,0)"></path></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>≤</mo><mn>45</mn><mtext>cm</mtext></math></mjx-assistive-mml></mjx-container></span> 、必须加装全包覆安全防护网）。加装安全网后，无人机将面临额外的空气阻力与气流扰动，因此动力系统的推重比（Thrust-to-Weight Ratio）是整机设计的生命线。</p><h3 id="_1-1-推重比黄金法则" tabindex="-1">1.1 推重比黄金法则 <a class="header-anchor" href="#_1-1-推重比黄金法则" aria-label="Permalink to &quot;1.1 推重比黄金法则&quot;">​</a></h3><ul><li><strong>及格线</strong>： <span id="mjx-56ff83b"><style>
+      #mjx-56ff83b{
+        display:contents;
+        mjx-assistive-mml {
+          user-select: text !important;
+          clip: auto !important;
+          color: rgba(0,0,0,0);
+        }
+        
+mjx-container[jax=&quot;SVG&quot;] {
+  direction: ltr;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display=&quot;block&quot;] {
+  width: 100% !important;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] {
+  display: flex;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] {
+  text-align: left;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] {
+  text-align: right;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; g &gt; svg {
+  overflow: visible;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool &gt; mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool &gt; mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node=&quot;maction&quot;][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax=&quot;SVG&quot;] path[data-c], mjx-container[jax=&quot;SVG&quot;] use[data-c] {
+  stroke-width: 3;
+}
+
+g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+.MathJax g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+      }
+      </style><mjx-container class="MathJax" jax="SVG" style="position:relative;"><svg style="vertical-align:-0.566ex;" xmlns="http://www.w3.org/2000/svg" width="14.021ex" height="2.262ex" role="img" focusable="false" viewBox="0 -750 6197.1 1000" aria-hidden="true"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D447" d="M40 437Q21 437 21 445Q21 450 37 501T71 602L88 651Q93 669 101 677H569H659Q691 677 697 676T704 667Q704 661 687 553T668 444Q668 437 649 437Q640 437 637 437T631 442L629 445Q629 451 635 490T641 551Q641 586 628 604T573 629Q568 630 515 631Q469 631 457 630T439 622Q438 621 368 343T298 60Q298 48 386 46Q418 46 427 45T436 36Q436 31 433 22Q429 4 424 1L422 0Q419 0 415 0Q410 0 363 1T228 2Q99 2 64 0H49Q43 6 43 9T45 27Q49 40 55 46H83H94Q174 46 189 55Q190 56 191 56Q196 59 201 76T241 233Q258 301 269 344Q339 619 339 625Q339 630 310 630H279Q212 630 191 624Q146 614 121 583T67 467Q60 445 57 441T43 437H40Z"></path></g><g data-mml-node="TeXAtom" data-mjx-texclass="ORD" transform="translate(704,0)"><g data-mml-node="mo"><path data-c="2F" d="M423 750Q432 750 438 744T444 730Q444 725 271 248T92 -240Q85 -250 75 -250Q68 -250 62 -245T56 -231Q56 -221 230 257T407 740Q411 750 423 750Z"></path></g></g><g data-mml-node="mi" transform="translate(1204,0)"><path data-c="1D44A" d="M436 683Q450 683 486 682T553 680Q604 680 638 681T677 682Q695 682 695 674Q695 670 692 659Q687 641 683 639T661 637Q636 636 621 632T600 624T597 615Q597 603 613 377T629 138L631 141Q633 144 637 151T649 170T666 200T690 241T720 295T759 362Q863 546 877 572T892 604Q892 619 873 628T831 637Q817 637 817 647Q817 650 819 660Q823 676 825 679T839 682Q842 682 856 682T895 682T949 681Q1015 681 1034 683Q1048 683 1048 672Q1048 666 1045 655T1038 640T1028 637Q1006 637 988 631T958 617T939 600T927 584L923 578L754 282Q586 -14 585 -15Q579 -22 561 -22Q546 -22 542 -17Q539 -14 523 229T506 480L494 462Q472 425 366 239Q222 -13 220 -15T215 -19Q210 -22 197 -22Q178 -22 176 -15Q176 -12 154 304T131 622Q129 631 121 633T82 637H58Q51 644 51 648Q52 671 64 683H76Q118 680 176 680Q301 680 313 683H323Q329 677 329 674T327 656Q322 641 318 637H297Q236 634 232 620Q262 160 266 136L501 550L499 587Q496 629 489 632Q483 636 447 637Q428 637 422 639T416 648Q416 650 418 660Q419 664 420 669T421 676T424 680T428 682T436 683Z"></path></g><g data-mml-node="mo" transform="translate(2529.8,0)"><path data-c="2265" d="M83 616Q83 624 89 630T99 636Q107 636 253 568T543 431T687 361Q694 356 694 346T687 331Q685 329 395 192L107 56H101Q83 58 83 76Q83 77 83 79Q82 86 98 95Q117 105 248 167Q326 204 378 228L626 346L360 472Q291 505 200 548Q112 589 98 597T83 616ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g><g data-mml-node="mn" transform="translate(3585.6,0)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path data-c="2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z" transform="translate(500,0)"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(778,0)"></path></g><g data-mml-node="mo" transform="translate(5141.3,0)"><path data-c="3A" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z"></path></g><g data-mml-node="mn" transform="translate(5697.1,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mi>T</mi><mrow data-mjx-texclass="ORD"><mo>/</mo></mrow><mi>W</mi><mo>≥</mo><mn>2.0</mn><mo>:</mo><mn>1</mn></math></mjx-assistive-mml></mjx-container></span> （整机全备重量 1000g 时，四轴最大总拉力需达到 2000g 以上）；</li><li><strong>推荐区间</strong>： <span id="mjx-da81a3d8"><style>
+      #mjx-da81a3d8{
+        display:contents;
+        mjx-assistive-mml {
+          user-select: text !important;
+          clip: auto !important;
+          color: rgba(0,0,0,0);
+        }
+        
+mjx-container[jax=&quot;SVG&quot;] {
+  direction: ltr;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display=&quot;block&quot;] {
+  width: 100% !important;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] {
+  display: flex;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] {
+  text-align: left;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] {
+  text-align: right;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; g &gt; svg {
+  overflow: visible;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool &gt; mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool &gt; mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node=&quot;maction&quot;][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax=&quot;SVG&quot;] path[data-c], mjx-container[jax=&quot;SVG&quot;] use[data-c] {
+  stroke-width: 3;
+}
+
+g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+.MathJax g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+      }
+      </style><mjx-container class="MathJax" jax="SVG" style="position:relative;"><svg style="vertical-align:-0.05ex;" xmlns="http://www.w3.org/2000/svg" width="14.834ex" height="1.557ex" role="img" focusable="false" viewBox="0 -666 6556.7 688" aria-hidden="true"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path data-c="2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z" transform="translate(500,0)"></path><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z" transform="translate(778,0)"></path></g><g data-mml-node="mo" transform="translate(1555.8,0)"><path data-c="3A" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z"></path></g><g data-mml-node="mn" transform="translate(2111.6,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g><g data-mml-node="mo" transform="translate(2889.3,0)"><path data-c="223C" d="M55 166Q55 241 101 304T222 367Q260 367 296 349T362 304T421 252T484 208T554 189Q616 189 655 236T694 338Q694 350 698 358T708 367Q722 367 722 334Q722 260 677 197T562 134H554Q517 134 481 152T414 196T355 248T292 293T223 311Q179 311 145 286Q109 257 96 218T80 156T69 133Q55 133 55 166Z"></path></g><g data-mml-node="mn" transform="translate(3945.1,0)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path data-c="2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z" transform="translate(500,0)"></path><path data-c="35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z" transform="translate(778,0)"></path></g><g data-mml-node="mo" transform="translate(5500.9,0)"><path data-c="3A" d="M78 370Q78 394 95 412T138 430Q162 430 180 414T199 371Q199 346 182 328T139 310T96 327T78 370ZM78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z"></path></g><g data-mml-node="mn" transform="translate(6056.7,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2.2</mn><mo>:</mo><mn>1</mn><mo>∼</mo><mn>2.5</mn><mo>:</mo><mn>1</mn></math></mjx-assistive-mml></mjx-container></span> ；</li><li><strong>为什么不能低于 2.0</strong>：当加装全包覆防护网后，旋翼下洗气流受阻，电机效率下降约 15%~20%；若推重比不足，无人机在执行急刹车、打偏航、或快速下降进入地面效应区时，将没有足够的动力裕量进行姿态自愈，导致不可逆的侧翻掉高。</li></ul><h3 id="_1-2-经典电赛四轴动力推荐配置表" tabindex="-1">1.2 经典电赛四轴动力推荐配置表 <a class="header-anchor" href="#_1-2-经典电赛四轴动力推荐配置表" aria-label="Permalink to &quot;1.2 经典电赛四轴动力推荐配置表&quot;">​</a></h3><table tabindex="0"><thead><tr><th style="text-align:left;">部件</th><th style="text-align:left;">推荐型号 / 参数</th><th style="text-align:left;">关键选型考量</th></tr></thead><tbody><tr><td style="text-align:left;"><strong>无刷电机</strong></td><td style="text-align:left;"><strong>2205 / 2306</strong> (2300KV ~ 2450KV)</td><td style="text-align:left;">定子直径 22~23mm，低速大扭矩，支持 4S 瞬态爆发响应</td></tr><tr><td style="text-align:left;"><strong>螺旋桨</strong></td><td style="text-align:left;"><strong>5045 / 5146 三叶桨</strong></td><td style="text-align:left;">5 寸高刚性桨叶，抗振动形变，兼顾升力与响应速度</td></tr><tr><td style="text-align:left;"><strong>动力电调</strong></td><td style="text-align:left;"><strong>30A ~ 45A 四合一电调 (BLHeli_S / BLHeli_32)</strong></td><td style="text-align:left;">支持 DShot300/DShot600 数字油门协议或 400Hz 传统 PWM</td></tr><tr><td style="text-align:left;"><strong>动力电池</strong></td><td style="text-align:left;"><strong>4S 1500mAh 100C 锂聚合物电池 (LiPo)</strong></td><td style="text-align:left;">单片满电 4.2V（整组 16.8V），截止保护 3.6V，持续大电流放电</td></tr><tr><td style="text-align:left;"><strong>整机全备质量</strong></td><td style="text-align:left;"><strong>900g ~ 1100g</strong>（含防护网、机载电脑、T265、摄像头）</td><td style="text-align:left;">严格控制机载配重，重心（CG）必须落在四轴对角线几何交点</td></tr></tbody></table><hr><h2 id="_2-强电动力与弱电控制分级供电架构" tabindex="-1">2. 强电动力与弱电控制分级供电架构 <a class="header-anchor" href="#_2-强电动力与弱电控制分级供电架构" aria-label="Permalink to &quot;2. 强电动力与弱电控制分级供电架构&quot;">​</a></h2><p>电赛无人机系统集成了大电流无刷电机、高速单片机、图像处理器（树莓派/RDK X5）以及高灵敏度传感器（陀螺仪/磁力计），必须执行严格的三级供电隔离：</p><div class="language-text vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>       ┌────────────────────────┐</span></span>
+<span class="line"><span>       │   4S 动力锂电池 (14.8V~16.8V) │</span></span>
+<span class="line"><span>       └───────────┬────────────┘</span></span>
+<span class="line"><span>                   │ 大电流动力母线 (XT60)</span></span>
+<span class="line"><span>         ┌─────────┴─────────┐</span></span>
+<span class="line"><span>         ▼                   ▼</span></span>
+<span class="line"><span>┌──────────────────┐  ┌────────────────────────────────┐</span></span>
+<span class="line"><span>│ 四合一动力电调 (ESC)│  │   DC-DC 开关降压电源模块 (BEC)  │</span></span>
+<span class="line"><span>│ 直接驱动 4 个电机 │  │ 输出: 5V / 3A~5A 持续大电流    │</span></span>
+<span class="line"><span>└──────────────────┘  └───────────────┬────────────────┘</span></span>
+<span class="line"><span>                                      │ 纯净 5V 总线</span></span>
+<span class="line"><span>                        ┌─────────────┴─────────────┐</span></span>
+<span class="line"><span>                        ▼                           ▼</span></span>
+<span class="line"><span>              ┌──────────────────┐        ┌──────────────────┐</span></span>
+<span class="line"><span>              │  机载上位机计算机 │        │  飞控底板与微控制器│</span></span>
+<span class="line"><span>              │ 树莓派 4 / RDK X5 │        │  STM32F405 / 407 │</span></span>
+<span class="line"><span>              └──────────────────┘        └─────────┬────────┘</span></span>
+<span class="line"><span>                                                    │</span></span>
+<span class="line"><span>                                                    ▼ LDO 线性降压</span></span>
+<span class="line"><span>                                          ┌──────────────────┐</span></span>
+<span class="line"><span>                                          │ 3.3V 极其纯净微电总线│</span></span>
+<span class="line"><span>                                          │ MPU6500 / 气压计 / │</span></span>
+<span class="line"><span>                                          │ 磁力计 / 单片机内核│</span></span>
+<span class="line"><span>                                          └──────────────────┘</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br><span class="line-number">16</span><br><span class="line-number">17</span><br><span class="line-number">18</span><br><span class="line-number">19</span><br><span class="line-number">20</span><br><span class="line-number">21</span><br><span class="line-number">22</span><br><span class="line-number">23</span><br><span class="line-number">24</span><br></div></div><h3 id="_2-1-供电抗干扰铁律" tabindex="-1">2.1 供电抗干扰铁律 <a class="header-anchor" href="#_2-1-供电抗干扰铁律" aria-label="Permalink to &quot;2.1 供电抗干扰铁律&quot;">​</a></h3><ol><li><strong>地线（GND）单点汇流</strong>：动力强电地线与微弱信号地线严禁形成闭合环路（Ground Loop），避免电机高速换向的高频杂波反串击穿单片机；</li><li><strong>电源退耦电容</strong>：在主电源入口处必须并联一只 <strong>35V 1000μF 高频低阻电解电容</strong>，吸收电机急刹车时的反电动势浪涌电压；</li><li><strong>机载电脑独立供电</strong>：严禁直接利用飞控板载的微型 5V 接口给树莓派或 RDK X5 供电（板载供电通常仅 500mA~1A，机载电脑满载拉满时会导致飞控失压瞬间掉电重启炸机）。</li></ol><hr><h2 id="_3-飞控底层硬件原理图与引脚分配" tabindex="-1">3. 飞控底层硬件原理图与引脚分配 <a class="header-anchor" href="#_3-飞控底层硬件原理图与引脚分配" aria-label="Permalink to &quot;3. 飞控底层硬件原理图与引脚分配&quot;">​</a></h2><p>本工作区包含两大主流微控制器飞控底板，其设计图纸均已在本地资料包中收纳：</p><ul><li>锡月无人机原理图：<code>01_锡月无人机实战系统/06_官方培训资料包/1、入门/无人机教学试验平台资料/03. 飞控原理图/</code></li><li>凌霄无人机原理图：<code>05_凌霄官方原厂资料包/06.原理图_PCB/</code></li></ul><h3 id="_3-1-核心主控引脚映射对照表" tabindex="-1">3.1 核心主控引脚映射对照表 <a class="header-anchor" href="#_3-1-核心主控引脚映射对照表" aria-label="Permalink to &quot;3.1 核心主控引脚映射对照表&quot;">​</a></h3><table tabindex="0"><thead><tr><th style="text-align:left;">外设功能</th><th style="text-align:left;">硬件总线标准</th><th style="text-align:left;">STM32F405 (锡月 BirdFlight)</th><th style="text-align:left;">STM32F407 (凌霄 ANO_LX)</th><th style="text-align:left;">工程配置与调试注意事项</th></tr></thead><tbody><tr><td style="text-align:left;"><strong>机载上位机通信</strong></td><td style="text-align:left;">USART / TTL</td><td style="text-align:left;">USART1 (PA9/PA10) @ <strong>230400</strong></td><td style="text-align:left;">UART4 / USART2 @ <strong>460800</strong></td><td style="text-align:left;">⚠️ 两套方案波特率绝不同，不可混淆</td></tr><tr><td style="text-align:left;"><strong>板载六轴 IMU</strong></td><td style="text-align:left;">高速 SPI</td><td style="text-align:left;">SPI1 (SCK/MISO/MOSI) @ 10MHz</td><td style="text-align:left;">独立硬件通信核 (内部封装)</td><td style="text-align:left;">MPU6500/ICM20602，需配置 1KHz 硬件中断</td></tr><tr><td style="text-align:left;"><strong>高度传感器 (ToF)</strong></td><td style="text-align:left;">I2C / USART</td><td style="text-align:left;">I2C1 (PB6/PB7) 或 UART3</td><td style="text-align:left;">UART3 扩展测距口</td><td style="text-align:left;">室内测距频率 <span id="mjx-44dfaee"><style>
+      #mjx-44dfaee{
+        display:contents;
+        mjx-assistive-mml {
+          user-select: text !important;
+          clip: auto !important;
+          color: rgba(0,0,0,0);
+        }
+        
+mjx-container[jax=&quot;SVG&quot;] {
+  direction: ltr;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display=&quot;block&quot;] {
+  width: 100% !important;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] {
+  display: flex;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] {
+  text-align: left;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] {
+  text-align: right;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; g &gt; svg {
+  overflow: visible;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool &gt; mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool &gt; mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node=&quot;maction&quot;][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax=&quot;SVG&quot;] path[data-c], mjx-container[jax=&quot;SVG&quot;] use[data-c] {
+  stroke-width: 3;
+}
+
+g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+.MathJax g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+      }
+      </style><mjx-container class="MathJax" jax="SVG" style="position:relative;"><svg style="vertical-align:-0.312ex;" xmlns="http://www.w3.org/2000/svg" width="7.352ex" height="1.857ex" role="img" focusable="false" viewBox="0 -683 3249.8 821" aria-hidden="true"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2265" d="M83 616Q83 624 89 630T99 636Q107 636 253 568T543 431T687 361Q694 356 694 346T687 331Q685 329 395 192L107 56H101Q83 58 83 76Q83 77 83 79Q82 86 98 95Q117 105 248 167Q326 204 378 228L626 346L360 472Q291 505 200 548Q112 589 98 597T83 616ZM84 -118Q84 -108 99 -98H678Q694 -104 694 -118Q694 -130 679 -138H98Q84 -131 84 -118Z"></path></g><g data-mml-node="mn" transform="translate(1055.8,0)"><path data-c="35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path></g><g data-mml-node="mtext" transform="translate(2055.8,0)"><path data-c="48" d="M128 622Q121 629 117 631T101 634T58 637H25V683H36Q57 680 180 680Q315 680 324 683H335V637H302Q262 636 251 634T233 622L232 500V378H517V622Q510 629 506 631T490 634T447 637H414V683H425Q446 680 569 680Q704 680 713 683H724V637H691Q651 636 640 634T622 622V61Q628 51 639 49T691 46H724V0H713Q692 3 569 3Q434 3 425 0H414V46H447Q489 47 498 49T517 61V332H232V197L233 61Q239 51 250 49T302 46H335V0H324Q303 3 180 3Q45 3 36 0H25V46H58Q100 47 109 49T128 61V622Z"></path><path data-c="7A" d="M42 263Q44 270 48 345T53 423V431H393Q399 425 399 415Q399 403 398 402L381 378Q364 355 331 309T265 220L134 41L182 40H206Q254 40 283 46T331 77Q352 105 359 185L361 201Q361 202 381 202H401V196Q401 195 393 103T384 6V0H209L34 1L31 3Q28 8 28 17Q28 30 29 31T160 210T294 394H236Q169 393 152 388Q127 382 113 367Q89 344 82 264V255H42V263Z" transform="translate(750,0)"></path></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mo>≥</mo><mn>50</mn><mtext>Hz</mtext></math></mjx-assistive-mml></mjx-container></span></td></tr><tr><td style="text-align:left;"><strong>光流定位模组</strong></td><td style="text-align:left;">USART</td><td style="text-align:left;">UART2 / UART3</td><td style="text-align:left;">专用光流通信串口</td><td style="text-align:left;">结合高度数据解算对地平移速度</td></tr><tr><td style="text-align:left;"><strong>四路电机 PWM</strong></td><td style="text-align:left;">高级定时器 TIM</td><td style="text-align:left;">TIM1 (CH1~CH4) 或 TIM3/TIM4</td><td style="text-align:left;">TIM3 / TIM4 (CH1~CH4)</td><td style="text-align:left;">输出频率 <span id="mjx-61d645b8"><style>
+      #mjx-61d645b8{
+        display:contents;
+        mjx-assistive-mml {
+          user-select: text !important;
+          clip: auto !important;
+          color: rgba(0,0,0,0);
+        }
+        
+mjx-container[jax=&quot;SVG&quot;] {
+  direction: ltr;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg {
+  overflow: visible;
+  min-height: 1px;
+  min-width: 1px;
+}
+
+mjx-container[jax=&quot;SVG&quot;] &gt; svg a {
+  fill: blue;
+  stroke: blue;
+}
+
+mjx-assistive-mml {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding: 1px 0px 0px 0px !important;
+  border: 0px !important;
+  display: block !important;
+  width: auto !important;
+  overflow: hidden !important;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+mjx-assistive-mml[display=&quot;block&quot;] {
+  width: 100% !important;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;] {
+  display: block;
+  text-align: center;
+  margin: 1em 0;
+}
+
+mjx-container[jax=&quot;SVG&quot;][display=&quot;true&quot;][width=&quot;full&quot;] {
+  display: flex;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;left&quot;] {
+  text-align: left;
+}
+
+mjx-container[jax=&quot;SVG&quot;][justify=&quot;right&quot;] {
+  text-align: right;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; g {
+  fill: red;
+  stroke: red;
+}
+
+g[data-mml-node=&quot;merror&quot;] &gt; rect[data-background] {
+  fill: yellow;
+  stroke: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; line[data-line], svg[data-table] &gt; g &gt; line[data-line] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; rect[data-frame], svg[data-table] &gt; g &gt; rect[data-frame] {
+  stroke-width: 70px;
+  fill: none;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dashed, svg[data-table] &gt; g &gt; .mjx-dashed {
+  stroke-dasharray: 140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; .mjx-dotted, svg[data-table] &gt; g &gt; .mjx-dotted {
+  stroke-linecap: round;
+  stroke-dasharray: 0,140;
+}
+
+g[data-mml-node=&quot;mtable&quot;] &gt; g &gt; svg {
+  overflow: visible;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool {
+  display: inline-block;
+  position: relative;
+  width: 0;
+  height: 0;
+}
+
+[jax=&quot;SVG&quot;] mjx-tool &gt; mjx-tip {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+mjx-tool &gt; mjx-tip {
+  display: inline-block;
+  padding: .2em;
+  border: 1px solid #888;
+  font-size: 70%;
+  background-color: #F8F8F8;
+  color: black;
+  box-shadow: 2px 2px 5px #AAAAAA;
+}
+
+g[data-mml-node=&quot;maction&quot;][data-toggle] {
+  cursor: pointer;
+}
+
+mjx-status {
+  display: block;
+  position: fixed;
+  left: 1em;
+  bottom: 1em;
+  min-width: 25%;
+  padding: .2em .4em;
+  border: 1px solid #888;
+  font-size: 90%;
+  background-color: #F8F8F8;
+  color: black;
+}
+
+foreignObject[data-mjx-xml] {
+  font-family: initial;
+  line-height: normal;
+  overflow: visible;
+}
+
+mjx-container[jax=&quot;SVG&quot;] path[data-c], mjx-container[jax=&quot;SVG&quot;] use[data-c] {
+  stroke-width: 3;
+}
+
+g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+.MathJax g[data-mml-node=&quot;xypic&quot;] path {
+  stroke-width: inherit;
+}
+
+      }
+      </style><mjx-container class="MathJax" jax="SVG" style="position:relative;"><svg style="vertical-align:-0.05ex;" xmlns="http://www.w3.org/2000/svg" width="6.095ex" height="1.595ex" role="img" focusable="false" viewBox="0 -683 2694 705" aria-hidden="true"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"></path><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(1000,0)"></path></g><g data-mml-node="mtext" transform="translate(1500,0)"><path data-c="48" d="M128 622Q121 629 117 631T101 634T58 637H25V683H36Q57 680 180 680Q315 680 324 683H335V637H302Q262 636 251 634T233 622L232 500V378H517V622Q510 629 506 631T490 634T447 637H414V683H425Q446 680 569 680Q704 680 713 683H724V637H691Q651 636 640 634T622 622V61Q628 51 639 49T691 46H724V0H713Q692 3 569 3Q434 3 425 0H414V46H447Q489 47 498 49T517 61V332H232V197L233 61Q239 51 250 49T302 46H335V0H324Q303 3 180 3Q45 3 36 0H25V46H58Q100 47 109 49T128 61V622Z"></path><path data-c="7A" d="M42 263Q44 270 48 345T53 423V431H393Q399 425 399 415Q399 403 398 402L381 378Q364 355 331 309T265 220L134 41L182 40H206Q254 40 283 46T331 77Q352 105 359 185L361 201Q361 202 381 202H401V196Q401 195 393 103T384 6V0H209L34 1L31 3Q28 8 28 17Q28 30 29 31T160 210T294 394H236Q169 393 152 388Q127 382 113 367Q89 344 82 264V255H42V263Z" transform="translate(750,0)"></path></g></g></g></svg><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><mn>400</mn><mtext>Hz</mtext></math></mjx-assistive-mml></mjx-container></span> ，占空比 1000~2000μs</td></tr><tr><td style="text-align:left;"><strong>遥控接收机</strong></td><td style="text-align:left;">单线串口</td><td style="text-align:left;">USART (支持反相器输入)</td><td style="text-align:left;">专用 SBUS 接收端口</td><td style="text-align:left;">100kbps 8E2 负逻辑协议，16 通道输入</td></tr></tbody></table><hr><h2 id="_4-t265-硬件连接与冷启动避坑规范-现场实测实锤" tabindex="-1">4. T265 硬件连接与冷启动避坑规范（现场实测实锤） <a class="header-anchor" href="#_4-t265-硬件连接与冷启动避坑规范-现场实测实锤" aria-label="Permalink to &quot;4. T265 硬件连接与冷启动避坑规范（现场实测实锤）&quot;">​</a></h2><p>Intel RealSense T265 采用双目鱼眼相机与内置 Movidius Myriad 2 VPU 进行端侧自主 VIO 解算，在树莓派 4B / 机载 Linux 环境部署时，存在一个致命的底层时序陷阱：</p><h3 id="_4-1-硬件时序死锁机理剖析" tabindex="-1">4.1 硬件时序死锁机理剖析 <a class="header-anchor" href="#_4-1-硬件时序死锁机理剖析" aria-label="Permalink to &quot;4.1 硬件时序死锁机理剖析&quot;">​</a></h3><ul><li><strong>现象</strong>：将 T265 插在树莓派 4B 上，冷启动开机后，代码无法调用相机，<code>lsusb</code> 找不到设备或提示 <code>03e7:2150</code> 初始态无法加载固件，必须人手拔下 USB 线重新插一次才能正常工作；</li><li><strong>根因</strong>：树莓派 4B 的蓝色 USB 3.0 端口由独立的 <strong>VIA VL805 PCIe 主控芯片</strong>驱动。在开机上电瞬间，VL805 会对 USB 3.0 总线发起 5Gbps 的 SuperSpeed 链路时序协商；而 T265 内部的 Movidius 引导固件在上电瞬态极易发生超时，导致芯片的 USB PHY 硬件死锁挂起，内核疯狂报错：<div class="language-text vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">text</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>[ 4397.068068] usb usb2-port1: Cannot enable. Maybe the USB cable is bad?</span></span>
+<span class="line"><span>[ 4397.068327] usb usb2-port1: unable to enumerate USB device</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div>此时芯片进入总线假死状态，无法响应任何固件刷写指令。</li></ul><h3 id="_4-2-三大铁律解决方案" tabindex="-1">4.2 三大铁律解决方案 <a class="header-anchor" href="#_4-2-三大铁律解决方案" aria-label="Permalink to &quot;4.2 三大铁律解决方案&quot;">​</a></h3><ol><li><strong>物理接口铁律：必须插黑色 USB 2.0 口，严禁插蓝色 USB 3.0 口！</strong><ul><li>黑色 USB 2.0 走原生 High-Speed（480Mbps）协商，绝不触发 VL805 的 SuperSpeed 链路死锁；</li><li>T265 仅向外传输 6-DoF 位姿浮点数据，数据吞吐量不足 100KB/s，USB 2.0 带宽充裕 1000 倍以上，且实现<strong>开机 100% 免拔插秒级自启激活</strong>。</li></ul></li><li><strong>udev 权限终结赋值（<code>:=</code>）</strong>： <ul><li>在 <code>/etc/udev/rules.d/99-realsense-libusb.rules</code> 中，必须使用 <strong><code>:=</code></strong>（终结操作符），防止权限被系统其他规则篡改：<div class="language-udev vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">udev</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span>SUBSYSTEMS==&quot;usb&quot;, ATTRS{idVendor}==&quot;03e7&quot;, ATTRS{idProduct}==&quot;2150&quot;, MODE:=&quot;0666&quot;, GROUP:=&quot;plugdev&quot;</span></span>
+<span class="line"><span>SUBSYSTEMS==&quot;usb&quot;, ATTRS{idVendor}==&quot;8087&quot;, ATTRS{idProduct}==&quot;0b37&quot;, MODE:=&quot;0666&quot;, GROUP:=&quot;plugdev&quot;</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div></li></ul></li><li><strong>免拔插软复位应急工具</strong>： <ul><li>在 Linux 端安装 <code>sudo apt install usbutils</code>；若因异常断电卡在 <code>03e7:2150</code> 态，可通过后台执行：<div class="language-bash vp-adaptive-theme line-numbers-mode"><button title="Copy Code" class="copy"></button><span class="lang">bash</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0"><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0;">sudo</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> usbreset</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF;"> 03e7:2150</span></span></code></pre><div class="line-numbers-wrapper" aria-hidden="true"><span class="line-number">1</span><br></div></div>向端口发送 <code>USBDEVFS_RESET</code> 控制包，实现毫秒级软件“拔插”自愈。</li></ul></li></ol><hr><h2 id="_5-室内自主定位传感器横向实测对比" tabindex="-1">5. 室内自主定位传感器横向实测对比 <a class="header-anchor" href="#_5-室内自主定位传感器横向实测对比" aria-label="Permalink to &quot;5. 室内自主定位传感器横向实测对比&quot;">​</a></h2><table tabindex="0"><thead><tr><th style="text-align:left;">传感器类型</th><th style="text-align:left;">代表型号</th><th style="text-align:left;">工作原理</th><th style="text-align:left;">室内电赛环境优缺点</th><th style="text-align:left;">推荐应用场景</th></tr></thead><tbody><tr><td style="text-align:left;"><strong>双目 VIO</strong></td><td style="text-align:left;"><strong>Intel RealSense T265</strong></td><td style="text-align:left;">双目鱼眼视觉 + 硬件 IMU 自主紧耦合 SLAM</td><td style="text-align:left;"><strong>优点</strong>：厘米级 3D 绝对坐标输出，无累积漂移，不占上位机 CPU。<br><strong>缺点</strong>：对地面光照纹理有一定要求，怕强漫反射。</td><td style="text-align:left;"><strong>室内全局大范围航线循迹、穿框与网格自主巡查（首选）</strong></td></tr><tr><td style="text-align:left;"><strong>激光 ToF 定高</strong></td><td style="text-align:left;"><strong>TF-Luna / VL53L1X</strong></td><td style="text-align:left;">940nm 飞行时间测距（单点激光）</td><td style="text-align:left;"><strong>优点</strong>：毫米级对地测距，不受门窗气流和气压突变影响。<br><strong>缺点</strong>：遇吸光黑色地毯或镜面水面会偶尔丢锁。</td><td style="text-align:left;"><strong>室内定高闭环唯一推荐传感器（绝对替代传统气压计）</strong></td></tr><tr><td style="text-align:left;"><strong>光流计 (Flow)</strong></td><td style="text-align:left;"><strong>LC302 / PMW3901</strong></td><td style="text-align:left;">微型底视图像帧间互相关测速</td><td style="text-align:left;"><strong>优点</strong>：极轻（数克），不挑主控，直连飞控即可定点悬停。<br><strong>缺点</strong>：只测速度不测绝对坐标，长距离巡航存在累积漂移。</td><td style="text-align:left;"><strong>低成本轻量机型微距稳定悬停辅助</strong></td></tr><tr><td style="text-align:left;"><strong>气压计</strong></td><td style="text-align:left;"><strong>MS5611 / SPL06</strong></td><td style="text-align:left;">大气压差换算海拔高度</td><td style="text-align:left;"><strong>优点</strong>：全天候室外宏观高度计。<br><strong>缺点</strong>：<strong>室内赛场严禁单用</strong>（开门关风扇产生的大气压扰动会导致飞机瞬间掉地 30cm）。</td><td style="text-align:left;">仅作为室外宏观定高辅助，室内必须以激光 ToF 为准</td></tr></tbody></table></div></div></main><footer class="VPDocFooter" data-v-45ba2e9d data-v-74181024><!--[--><!--]--><!----><!----></footer><!--[--><!--]--></div></div></div><!--[--><!--]--></div></div><footer class="VPFooter" data-v-05e52251 data-v-a57785a3><div class="container" data-v-a57785a3><p class="message" data-v-a57785a3>Released under the PolyForm Noncommercial License 1.0.0</p><p class="copyright" data-v-a57785a3>Copyright © 2026 LONEFORME (旧梦如常)</p></div></footer><!--[--><!--]--></div></div>
+    <script>window.__VP_HASH_MAP__=JSON.parse("{\"01_硬件底座与电气规范.md\":\"C4_AEQDF\",\"02_飞控系统与控制算法.md\":\"B7F2-NYw\",\"03_室内自主定位与避障.md\":\"BNaMiw1a\",\"04_机器视觉与目标检测.md\":\"CQ29Yiax\",\"05_路径规划与自主决策.md\":\"BiAvJ6nO\",\"06_合规交互与机械结构.md\":\"BdznzPDh\",\"guides_01_电赛无人机方向入门指南.md\":\"509Qw1PH\",\"guides_02_电赛无人机全栈开发学习路径与实战指南.md\":\"D-A3mrmT\",\"guides_03_大一新生零基础成长路线与实战指引.md\":\"KGfDaVUO\",\"guides_04_锡月无人机上手方案.md\":\"BxmxpeoB\",\"guides_05_凌霄无人机上手方案.md\":\"Bgm56WU-\",\"index.md\":\"Bv71D1hD\"}");window.__VP_SITE_DATA__=JSON.parse("{\"lang\":\"zh-CN\",\"dir\":\"ltr\",\"title\":\"旧梦如常\",\"description\":\"机器人感知与导航 · 嵌入式系统 · 激光雷达 SLAM · 无人机全栈知识库\",\"base\":\"/\",\"head\":[],\"router\":{\"prefetchLinks\":true},\"appearance\":true,\"themeConfig\":{\"siteTitle\":\"旧梦如常\",\"nav\":[{\"text\":\"🏠 首页\",\"link\":\"/\"},{\"text\":\"🚁 无人机知识库\",\"link\":\"/drone/INDEX\"},{\"text\":\"📖 技术文档\",\"link\":\"/docs/\"},{\"text\":\"📂 项目展示\",\"link\":\"/projects\"},{\"text\":\"📰 每日热点\",\"link\":\"/news\"},{\"text\":\"📈 股票财经\",\"link\":\"/finance\"},{\"text\":\"🧊 3D 预览\",\"link\":\"/3d-viewer.html\",\"target\":\"_self\"}],\"sidebar\":{\"/drone/\":[{\"text\":\"🚁 无人机全栈技术体系\",\"collapsed\":false,\"items\":[{\"text\":\"🧭 知识库总览 (Index)\",\"link\":\"/drone/INDEX\"},{\"text\":\"01 硬件底座与电气规范\",\"link\":\"/drone/01_硬件底座与电气规范\"},{\"text\":\"02 飞控系统与控制算法\",\"link\":\"/drone/02_飞控系统与控制算法\"},{\"text\":\"03 室内自主定位与避障\",\"link\":\"/drone/03_室内自主定位与避障\"},{\"text\":\"04 机器视觉与目标检测\",\"link\":\"/drone/04_机器视觉与目标检测\"},{\"text\":\"05 路径规划与自主决策\",\"link\":\"/drone/05_路径规划与自主决策\"},{\"text\":\"06 合规交互与机械结构\",\"link\":\"/drone/06_合规交互与机械结构\"}]},{\"text\":\"🏆 赛题指南与工程上手\",\"collapsed\":false,\"items\":[{\"text\":\"01 电赛无人机入门指南\",\"link\":\"/drone/guides/01_电赛无人机方向入门指南\"},{\"text\":\"02 全栈开发路径与实战指南\",\"link\":\"/drone/guides/02_电赛无人机全栈开发学习路径与实战指南\"},{\"text\":\"03 新生零基础成长路线与实战指引\",\"link\":\"/drone/guides/03_大一新生零基础成长路线与实战指引\"},{\"text\":\"04 锡月无人机上手方案\",\"link\":\"/drone/guides/04_锡月无人机上手方案\"},{\"text\":\"05 凌霄无人机上手方案\",\"link\":\"/drone/guides/05_凌霄无人机上手方案\"}]}],\"/docs/\":[{\"text\":\"📖 激光雷达与硬件专区\",\"collapsed\":false,\"items\":[{\"text\":\"📑 技术文档导航\",\"link\":\"/docs/\"},{\"text\":\"镭神 N10P + SLAM Toolbox 建图\",\"link\":\"/docs/leishen_n10p\"},{\"text\":\"宇树 L1 + Point-LIO 3D 建图\",\"link\":\"/docs/unitree_l1\"},{\"text\":\"树莓派 4B 低功耗部署与调优\",\"link\":\"/docs/rpi4_deploy\"},{\"text\":\"雷达安防多模态系统设计\",\"link\":\"/docs/security_system\"}]}]},\"search\":{\"provider\":\"local\",\"options\":{\"translations\":{\"button\":{\"buttonText\":\"搜索文档\",\"buttonAriaLabel\":\"搜索文档\"},\"modal\":{\"noResultsText\":\"无法找到相关结果\",\"resetButtonTitle\":\"清除查询条件\",\"footer\":{\"selectText\":\"选择\",\"navigateText\":\"切换\",\"closeText\":\"关闭\"}}}}},\"socialLinks\":[{\"icon\":\"github\",\"link\":\"https://github.com/LONEFORME\"}],\"footer\":{\"message\":\"Released under the PolyForm Noncommercial License 1.0.0\",\"copyright\":\"Copyright © 2026 LONEFORME (旧梦如常)\"}},\"locales\":{},\"scrollOffset\":134,\"cleanUrls\":true}");</script>
+    
+  </body>
+</html>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 树莓派 4B 部署
 ---
 

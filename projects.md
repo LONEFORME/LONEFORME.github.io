@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 项目
 ---
 
@@ -31,7 +31,7 @@ title: 项目
         • 有限状态机（FSM）三级威胁仲裁：MONITOR 监控 → WARN 预警 → ALARM 告警
       </div>
       <div class="card-footer-row">
-        <a href="{{ "docs/security_system" | relative_url }}" class="card-link">技术方案设计</a>
+        <a href="/docs/security_system" class="card-link">技术方案设计</a>
         <span class="card-status">🔒 专有工程</span>
       </div>
     </div>
@@ -49,7 +49,7 @@ title: 项目
         • FastAPI + 10Hz WebSocket 全双工大屏，双路 720P MJPEG 视频推流 + FIFO 50张自动抓拍相册
       </div>
       <div class="card-footer-row">
-        <a href="{{ "docs/security_system" | relative_url }}" class="card-link">技术方案设计</a>
+        <a href="/docs/security_system" class="card-link">技术方案设计</a>
         <span class="card-status">🔒 专有工程</span>
       </div>
     </div>
@@ -79,7 +79,7 @@ title: 项目
         • x86_64 / aarch64 双架构 SDK 支持
       </div>
       <div class="card-footer-row">
-        <a href="{{ "docs/unitree_l1" | relative_url }}" class="card-link">查看文档</a>
+        <a href="/docs/unitree_l1" class="card-link">查看文档</a>
         <span class="card-status">🔒 算法闭源</span>
       </div>
     </div>
@@ -97,7 +97,7 @@ title: 项目
         • 位姿优化：卡尔曼滤波 + 静止检测 + 未来位置预测
       </div>
       <div class="card-footer-row">
-        <a href="{{ "docs/leishen_n10p" | relative_url }}" class="card-link">查看文档</a>
+        <a href="/docs/leishen_n10p" class="card-link">查看文档</a>
         <span class="card-status">🔒 算法闭源</span>
       </div>
     </div>
@@ -127,7 +127,7 @@ title: 项目
         • AI Skill 唯一真源（v2.44），支持 Codex / DeepSeek / WorkBuddy / Gemini
       </div>
       <div class="card-footer-row">
-        <a href="{{ "docs/rpi4_deploy" | relative_url }}" class="card-link">树莓派实战指南</a>
+        <a href="/docs/rpi4_deploy" class="card-link">树莓派实战指南</a>
         <span class="card-status">🔒 内部规范资产</span>
       </div>
     </div>
@@ -182,7 +182,7 @@ title: 项目
         • 历年参考（2022-HUST / 2024-D / UAV-2023）+ 4 段实飞演示 + 目录中文化
       </div>
       <div class="card-footer-row">
-        <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
+        <a href="//videos" class="card-link">飞行演示</a>
         <a href="https://github.com/LONEFORME/lingxiao-drone" target="_blank" rel="noopener" class="card-link">GitHub</a>
       </div>
     </div>
@@ -201,7 +201,7 @@ title: 项目
         • Nextion 串口触控屏地面站（蓝牙无线通信 + 状态语音播报）
       </div>
       <div class="card-footer-row">
-        <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
+        <a href="//videos" class="card-link">飞行演示</a>
         <span class="card-status">🔒 飞控方案闭源</span>
       </div>
     </div>
@@ -230,7 +230,7 @@ title: 项目
         • 自研 Python STL 批量 360° 旋转渲染与 GIF 动图生成引擎<br>
         • 站内 WebGL 3D 交互预览器（支持旋转/平移/缩放/底面平放）
       </div>
-      <a href="{{ "/3d-viewer" | relative_url }}" class="card-link">在线 3D 预览</a>
+      <a href="//3d-viewer" class="card-link">在线 3D 预览</a>
     </div>
   </div>
 </div>

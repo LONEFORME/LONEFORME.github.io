@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 镭神 N10P + SLAM Toolbox 操作手册
 ---
 

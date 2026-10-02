@@ -6,3 +6,5 @@ Gemfile.lock
 .session_log.md
 __pycache__/
 *.pyc
+node_modules/
+.vitepress/cache/

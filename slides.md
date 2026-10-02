@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 演示稿库
 layout_class: layout-wide
 permalink: /slides/
@@ -46,7 +46,7 @@ permalink: /slides/
         <span class="tag">系统答辩</span>
       </div>
       <div class="slide-action-row">
-        <a href="{{ '/slides/rdk_x5_security.html' | relative_url }}" target="_blank" class="card-link slide-play-btn">
+        <a href="//slides/rdk_x5_security.html" target="_blank" class="card-link slide-play-btn">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
           立即在线放映 (全屏) ↗
         </a>

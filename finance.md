@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 股票财经
 ---
 
@@ -297,7 +297,7 @@ title: 股票财经
 
 
 <div style="text-align: center; margin: 36px 0 20px;">
-  <a href="{{ "/news" | relative_url }}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
+  <a href="//news" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
     <span>📰 返回综合热点新闻专区</span>
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
   </a>
