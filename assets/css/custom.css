@@ -3971,3 +3971,62 @@ html {
 .contact-grid {
   margin-bottom: 24px;
 }
+
+
+/* ============ 黄金文档流布局 (彻底消除左侧荒芜空白，TOC与正文自然咬合) ============ */
+.layout-read .content-body-wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 36px;
+  padding: 36px 44px 36px 44px; /* 舒适左边距，彻底告别左侧空洞 */
+  max-width: 1360px;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0; /* 靠左自然展开 */
+}
+
+.layout-read .content-inner {
+  flex: 1 1 auto;
+  max-width: 980px;
+  min-width: 0;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* TOC 目录：告别 fixed 飞出屏幕，升级为伴随正文自然 sticky 吸顶 */
+#doc-toc {
+  position: sticky !important;
+  top: 96px !important;
+  width: 220px !important;
+  flex-shrink: 0 !important;
+  max-height: calc(100vh - 130px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 16px 14px;
+  border-radius: 14px;
+  background: rgba(13, 20, 26, 0.78);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--color-border);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  box-sizing: border-box;
+  display: block !important;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 255, 136, 0.2) transparent;
+}
+
+[data-theme="light"] #doc-toc {
+  background: rgba(255, 255, 255, 0.88);
+  border-color: rgba(0, 0, 0, 0.08);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+}
+
+@media (max-width: 1320px) {
+  #doc-toc {
+    display: none !important; /* 屏幕较窄时自动隐藏目录，保护正文行宽 */
+  }
+  .layout-read .content-body-wrap {
+    padding: 32px 36px;
+    max-width: 100%;
+  }
+}

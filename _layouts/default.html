@@ -170,8 +170,10 @@
         </div>
       </div>
 
-      <div class="content-inner">
-        {{ content }}
+      <div class="content-body-wrap">
+        <div class="content-inner">
+          {{ content }}
+        </div>
       </div>
       <footer class="site-footer">
         <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }} · 探索嵌入式与智能机器人 · <a href="https://github.com/LONEFORME" style="color:inherit;text-decoration:none;" title="PolyForm Noncommercial 1.0.0 — 仅限非商业用途，禁止商用与倒卖">仅限非商业使用</a></span>
@@ -797,7 +799,7 @@
         if (h.tagName === 'H3') a.className = 'lv3';
         toc.appendChild(a);
       });
-      document.querySelector('main').appendChild(toc);
+      (document.querySelector('.content-body-wrap') || document.querySelector('main')).appendChild(toc);
       window.addEventListener('scroll', function(){
         var cur = null;
         heads.forEach(function(h){ if (h.getBoundingClientRect().top < 120) cur = h.id; });
