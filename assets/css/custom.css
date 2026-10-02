@@ -3767,7 +3767,12 @@ html {
 .filter-btn{font-size:13.5px;padding:7px 18px;border-radius:20px;border:1px solid rgba(0,255,136,.35);background:rgba(0,255,136,.04);color:#8b98a5;cursor:pointer;transition:all .2s;letter-spacing:.5px}
 .filter-btn.active,.filter-btn:hover{background:rgba(0,255,136,.14);color:#00d47a;border-color:rgba(0,255,136,.65);box-shadow:0 0 10px rgba(0,255,136,.15)}
 .filter-hide{display:none!important}
-.card-grid.align-start{align-items:start}
-.card-grid.align-start .card{display:flex;flex-direction:column}
-.card-grid.align-start .card-details{flex:1 1 auto}
-.card-grid.align-start .card-footer-row{margin-top:auto}
+/* 特色横幅卡（凌霄，通栏左图右文） */
+.card-featured{grid-column:1/-1;display:grid;grid-template-columns:minmax(300px,1.05fr) 1fr;overflow:hidden;padding:0}
+.card-featured .card-media{aspect-ratio:auto;height:100%;min-height:260px;margin:0;border-radius:0;cursor:zoom-in}
+.card-featured .card-featured-body{padding:24px 26px;display:flex;flex-direction:column}
+.card-featured .cf-head{display:flex;align-items:center;gap:14px;margin-bottom:10px}
+.card-featured .cf-head .card-icon-box{margin:0;flex:none}
+.card-featured h3{margin:0}
+.card-featured .card-tags{margin:0 0 12px}
+.card-featured .card-footer-row{margin-top:auto}
