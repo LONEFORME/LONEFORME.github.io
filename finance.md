@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,961.87</span>
+      <span class="ticker-price ticker-up">30,780.44</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7025</span>
+      <span class="ticker-price ticker-down">6.7066</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,190.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +12.93 (+0.31%)</span>
+      <span class="ticker-price ticker-down">$4,133.91 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -43.36 (-1.04%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -230,19 +230,49 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">14 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天是在TechCrunch Disrupt 2026上预订展台的最后一天。10月13日至15日，超过1万名创始人、投资者、运营商和技术领导者将抵达旧金山的Moscone West ，寻找值得了解的公司、产品、创意和人才。问题是：他们会找到你的创业公司吗？" data-title="过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者" data-date="10-02 22:00" data-source="TechCrunch">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs." data-title="U.S. Labor Market Shifts to a Lower Gear" data-date="10-03 01:09" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-03 01:09</span>
+          <span class="news-item-title">U.S. Labor Market Shifts to a Lower Gear</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions" target="_blank" rel="noopener" data-cat="caijing" data-summary="Beehiiv是一个创作者平台，作为Substack的替代品越来越受欢迎，它正在提高价格，许多用户对此并不满意。在一篇解释这一增长的帖子中， Beehiiv联合创始人兼首席执行官Tyler Denk表示，这将使公司“继续投资于我们的核心平台体验。“作为变革的一部分， […]" data-title="Beehiiv创作者热议新的价格上涨" data-date="10-03 00:51" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-03 00:51</span>
+          <span class="news-item-title">Beehiiv创作者热议新的价格上涨</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-02/10707337.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月2日，七国集团领导人召开视频会议，应对油价飙升及能源供应压力，同意采取协调行动，稳定市场、缓解家庭和企业负担，并增强能源体系长期韧性。" data-title="七国集团就推动主要炼油国家增产增加柴油供应达成一致" data-date="10-02 23:24" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-02 23:24</span>
+          <span class="news-item-title">七国集团就推动主要炼油国家增产增加柴油供应达成一致</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/369.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，派拉蒙天舞公司（Paramount SkyDance）首席执行官埃里森（David Ellison）今日宣布，在公司下周完成与华纳兄弟探索（WBD）的合并后，合并后的实体将命名为“Skydance”。按照今年 2 月达成的协议，派拉蒙将以 1,100 亿美元（IT之家注：现汇率约合 7,386.01 亿元人民币）收购华纳兄弟，在这场持续数月的竞购中击败 Netflix，这项交易预计于 10 月 6 日达成。大卫 · 埃里森此前宣布，1,100 亿美元收购华纳兄弟探索公司的交易完成后，美泰前 CEO 伊农 · 克雷兹将与他共同执掌合并后的公司，出任联席 CEO。派拉蒙公告称，埃里森将继续担任合并后公司的董事长，公司高管将同时向两人汇报。IT之家注意到，任命克雷兹" data-title="1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”" data-date="10-02 23:00" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-02 23:00</span>
+          <span class="news-item-title">1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/367.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，特斯拉今日宣布，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车，交付了超 48.6 万辆；储能产品装机量达 13.7 吉瓦时。官方公告显示，2026 年第三季度特斯拉 Model 3/Y 生成 457,387 辆，交付 478,237 辆；其他车型生产 7,004 辆，交付 8,295 辆。IT之家查询获悉，特斯拉 2025 年第三季度汽车交付量为 497,099 辆。经计算可以得出，特斯拉今年第三季度交付量同比下降 2%。" data-title="特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%" data-date="10-02 22:36" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-02 22:36</span>
+          <span class="news-item-title">特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/366.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，乘联分会今日公布数据，9 月 1-27 日，全国乘用车市场零售 125.8 万辆，同比去年 9 月同期下降 29%，较上月同期增长 1%，今年以来累计零售 1,297.3 万辆，同比下降 22%。9 月 1-27 日，全国乘用车厂商批发 147.4 万辆，同比去年 9 月同期下降 30%，较上月同期下降 12%，今年以来累计批发 1,865.7 万辆，同比下降 7%。新能源：9 月 1-27 日，全国乘用车新能源市场零售 82.7 万辆，同比去年 9 月同期下降 20%，较上月同期增长 2%，今年以来累计零售 750.1 万辆，同比下降 13%；9 月 1-27 日，全国乘用车厂商新能源批发 103.2 万辆，同比去年 9 月同期下降 11%，较上月同期下降" data-title="乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%" data-date="10-02 22:09" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-02 22:09</span>
+          <span class="news-item-title">乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天是您在TechCrunch Disrupt 2026上预订展台的最后一天。10月13日至15日，超过1万名创始人、投资者、运营商和技术领导者将抵达旧金山的Moscone West ，寻找值得了解的公司、产品、创意和人才。问题是：他们会找到你的创业公司吗？" data-title="过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者" data-date="10-02 22:00" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
           <span class="news-item-date">10-02 22:00</span>
           <span class="news-item-title">过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump" target="_blank" rel="noopener" data-cat="caijing" data-summary="特斯拉第三季度的汽车销量低于一年前，当时消费者急于兑现即将到期的电动汽车购买联邦税收抵免。但该公司仍高于华尔街的估计，表明其复苏仍在轨道上。特斯拉表示，它总共生产了464,391辆[…]" data-title="特斯拉的复苏遇到了减速带" data-date="10-02 21:08" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-02 21:08</span>
-          <span class="news-item-title">特斯拉的复苏遇到了减速带</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-02/10707322.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州10月2日电 (记者 郭军)记者2日从交通运输部珠江航务管理局(简称“珠航局”)了解到，2026年国庆假期首日(10月1日)，琼州海峡客滚运输发送实航284班次，运送旅客112657人次、车辆28277辆次，相比2024年同期分别增长9.7%、增长21.4%、增长19.3%。新能源车运量增长较快，单日运输6873辆次，创国庆假期历史新高。" data-title="2026年国庆假期首日琼州海峡客滚运输平稳运行" data-date="10-02 20:55" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -255,66 +285,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-02 20:49</span>
           <span class="news-item-title">我国首个百兆瓦级 这个巨型“充电宝”成功并网</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/356.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，据央视财经今日报道，近期，北京市公安局海淀分局接到了市民王先生的报警，称自己因购买低价机票遭遇诈骗，但是令他疑惑不解的是，订票过程中，他明明拨打了官方平台的客服电话进行查询，也确实查到了自己的“机票信息”，但还是被骗了。警方调查发现，该订单虽然真实存在，却一直处于“未付款”状态。诈骗分子只是预先用王先生的信息占座下单，制造出“票已订好”的假象。见王先生已经上钩，诈骗分子继续以“交易仍未成功”为由，要求他下载指定的通联软件，并引导王先生开启屏幕共享。向对方提供的账户进行转款。经查，王先生共计损失二十九万余元。目前，案件仍在进一步办理中。警方表示，此类节假日票务诈骗套路基本如下：骗子依托二手平台发布所谓超低价“特价票、内部票、员工票、捡漏票”等，利用大家想省钱、怕" data-title="央视曝光二手平台低价机票陷阱，一男子被骗近 30 万元" data-date="10-02 20:44" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-02 20:44</span>
-          <span class="news-item-title">央视曝光二手平台低价机票陷阱，一男子被骗近 30 万元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/307.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，当地时间 1 日，据外媒 Engadget 报道，纽约市一项要求商家简化退订流程的“点击即可取消”规定正式生效。其核心要求很直接：消费者取消订阅，不能比注册更麻烦。报道举了“订阅陷阱”一例：注册某健身房的会员时，几步就能完成，等到想取消时却要经历一套繁琐得近乎荒诞的流程。纽约市政府在博客文章中指出：“顾名思义，这项规定禁止企业让你在线注册时只需轻松点击几个选项，却在退订时逼你在电话和信鸽组成的拜占庭式迷宫里兜圈子。”这项规定由纽约市消费者和工人保护局负责执行。违规企业将面临民事罚款，起罚金额为 525 美元（IT之家注：现汇率约合 3,525 元人民币），消费者还有可能拿回此前被企业从银行账户中扣走的钱。从今天起，企业必须把订阅条款向消费者说明清楚，并完整告知" data-title="纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦" data-date="10-02 15:39" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-02 15:39</span>
-          <span class="news-item-title">纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/301.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，据台媒“经济日报”，特斯拉透露公司正在持续推进 FSD 监管版辅助驾驶系统在中国台湾地区市场落地的申请流程，公司已于近日召开的技术审查会议上提交道路测试计划架构，后续将根据审查意见进行相关准备工作。销量方面，特斯拉表示，2026 年 9 月其在中国台湾地区市场新车挂牌量位居电动汽车品牌第一，2026 年累计挂牌量达到 18,632 辆，年销量排名升至所有汽车品牌第三。9 月台湾地区电动车市场中，特斯拉市占率达到 75.4%。进入第四季度，特斯拉在台湾市场推出“0 首付轻松购”方案，Model 3 和 Model Y 两款车型均可选择零首付购车，或选择每月 9,999 新台币（IT之家注：现汇率约合 2,105 元人民币）的低月供方案。此外，相关购车方案还可叠加" data-title="特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划" data-date="10-02 15:22" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-02 15:22</span>
-          <span class="news-item-title">特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-02/10707071.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月2日电 据国家能源局微信公众号消息，国庆假期，新能源汽车出行热度持续攀升。为深入贯彻落实党中央、国务院决策部署，有效应对国庆假期新能源汽车出行高峰，国家能源局前瞻部署、系统谋划，指导各地落实设备节前检修维护、隐患清零，提前增设移动充电设备，加强充电车辆调度引导，护航人民群众探亲访友、绿色出游。" data-title="国庆假期首日高速公路充电量同比增长60.4%" data-date="10-02 12:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-02 12:55</span>
-          <span class="news-item-title">国庆假期首日高速公路充电量同比增长60.4%</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon." data-title="美国债券收益率触及2002年以来最高水平" data-date="10-02 02:28" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-02 02:28</span>
-          <span class="news-item-title">美国债券收益率触及2002年以来最高水平</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality" target="_blank" rel="noopener" data-cat="caijing" data-summary="我很确定我不会买$ 1,299的Meta VR眼镜。在今天的经济中，这对我来说太丰富了，我对梅塔的感情是……矛盾的。但我想让你明白， Meta刚刚改变了游戏规则。我们有过眼镜，但我们从来没有过这样的眼镜。Meta VR眼镜[…]" data-title="VR眼镜能拯救VR吗？" data-date="10-02 00:10" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-02 00:10</span>
-          <span class="news-item-title">VR眼镜能拯救VR吗？</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/170.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，长安汽车 9 月交付 22.89 万辆新车，其中海外交付 96200 辆同比增长 73.8%。IT之家从官方获悉，长安汽车 9 月交付新能源汽车 113200 辆，同比增长 13.9%。细分来看，长安汽车 9 月交付新车 50300 辆，长安启源 9 月交付 46507 辆，长安启源累计销量突破 100 万辆。另外，深蓝汽车 9 月销量达 30185 辆。阿维塔 9 月交付 8183 辆。长安凯程 9 月交付 19000 辆，海外交付同比增长 38%。" data-title="长安汽车 9 月交付 22.89 万辆，海外 96200 辆同比增长 73.8%" data-date="10-01 23:47" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-01 23:47</span>
-          <span class="news-item-title">长安汽车 9 月交付 22.89 万辆，海外 96200 辆同比增长 73.8%</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule" target="_blank" rel="noopener" data-cat="caijing" data-summary="努力摆脱经常性订阅费的纽约市居民现在可以向市政府提交投诉。截至周四，该市的点击取消规则已经生效，该规则要求企业取消订阅与注册一样简单。这意味着健身房可以让您[…]" data-title="纽约市现在是美国第一个禁止粗略订阅的城市" data-date="10-01 22:49" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-01 22:49</span>
-          <span class="news-item-title">纽约市现在是美国第一个禁止粗略订阅的城市</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/164.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，任天堂宣布将于 10 月 29 日推出新的《宝可梦传说 Z-A》Nintendo Switch 2 版实体扩充包，将“超次元爆涌”（Mega Dimension）DLC 一并收录其中。不含 DLC 的《宝可梦传说 Z-A》Nintendo Switch 2 版已于 2025 年 10 月 16 日发售，数字版和实体版港区定价均为 359~409 港币（IT之家注：现汇率约合 307.3 ~ 350.1 元人民币）。据介绍，Nintendo Switch 2 版针对性能、分辨率和帧率进行了优化；因此，玩家也可以先购买实体卡带，之后再升级至 Nintendo Switch 2。另外，实体版还将附赠 100 个高级球（Ultra Ball）的兑换码（每个存档只能兑换" data-title="任天堂《宝可梦传说 Z-A》Switch 2 卡带 + 超次元爆涌 DLC 版 10 月 29 日发售" data-date="10-01 22:42" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-01 22:42</span>
-          <span class="news-item-title">任天堂《宝可梦传说 Z-A》Switch 2 卡带 + 超次元爆涌 DLC 版 10 月 29 日发售</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/163.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 1 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，华为移动影像迎来全新升级 —— 正式发布华为睿影 XMAGE。余承东表示：睿观万象，聚光成影，“睿”，既是技术创新赋予影像的智慧，也是我们对影像背后的人、生活和情感更深的理解。我们希望从全栈自研影像技术品牌，成长为走向世界的影像文化品牌，定义智能影像时代的影像力量！据IT之家今日早些时候报道，在华为 Mate 90 系列及全场景新品发布会中，华为 Mate 90 Pro Max 典藏版“睿影 Z10 模块化相机”正式发布，定价 5999 元。搭配 Mate 90 Pro Max 典藏版套装定价 19499 元。该产品系华为全栈自研产品，匹配 HyperClick 超级卡口，利用 1 英寸" data-title="余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布" data-date="10-01 22:39" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-01 22:39</span>
-          <span class="news-item-title">余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布</span>
         </a>
   </div>
 </div>
@@ -329,4 +299,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-02 22:00（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-03 01:56（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
