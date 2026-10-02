@@ -785,6 +785,11 @@
     var heads = Array.prototype.slice.call(document.querySelectorAll('.content-inner h2, .content-inner h3'));
     if (heads.length) {
       var toc = document.createElement('nav'); toc.id = 'doc-toc';
+      var title = document.createElement('div');
+      title.className = 'toc-title';
+      title.textContent = '📑 本文目录';
+      toc.appendChild(title);
+
       heads.forEach(function(h){
         if (!h.id) h.id = 'h-' + h.textContent.trim().slice(0, 24);
         var a = document.createElement('a');

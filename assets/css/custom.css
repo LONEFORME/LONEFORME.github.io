@@ -3758,11 +3758,92 @@ html {
 .card:hover .card-media::after{opacity:1}
 #lightbox-overlay{position:fixed;inset:0;background:rgba(0,0,0,.88);display:none;align-items:center;justify-content:center;z-index:10002;cursor:zoom-out}
 #lightbox-overlay img{max-width:92vw;max-height:90vh;border-radius:10px;box-shadow:0 0 40px rgba(0,255,136,.25)}
-#doc-toc{position:fixed;top:90px;right:calc((100vw - min(100vw - 48px,1560px))/2 - 210px);width:180px;max-height:70vh;overflow:auto;font-size:12.5px;border-left:1px solid rgba(0,255,136,.25);padding-left:10px;display:none}
-@media(min-width:1500px){#doc-toc{display:block}}
-#doc-toc a{display:block;color:#8b98a5;padding:3px 0;text-decoration:none}
-#doc-toc a:hover,#doc-toc a.active{color:#00ff88}
-#doc-toc .lv3{padding-left:14px}
+/* ============ 极精致文档右侧悬浮目录 (TOC Aside) ============ */
+#doc-toc {
+  position: fixed;
+  top: 96px;
+  right: 32px; /* 彻底告别贴边，保持 32px 舒适安全呼吸距离 */
+  width: 210px;
+  max-height: calc(100vh - 140px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 16px 14px;
+  border-radius: 14px;
+  background: rgba(13, 20, 26, 0.78);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid var(--color-border);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2), 0 0 1px rgba(0, 255, 136, 0.2);
+  z-index: 99;
+  display: none;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 255, 136, 0.2) transparent;
+}
+
+/* 亮色模式毛玻璃质感 */
+[data-theme="light"] #doc-toc {
+  background: rgba(255, 255, 255, 0.88);
+  border-color: rgba(0, 0, 0, 0.08);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+}
+
+@media (min-width: 1400px) {
+  #doc-toc {
+    display: block;
+  }
+}
+
+#doc-toc .toc-title {
+  font-size: 11.5px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: var(--color-muted);
+  margin-bottom: 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+#doc-toc a {
+  display: block;
+  font-size: 12px;
+  line-height: 1.5;
+  color: var(--color-muted);
+  padding: 5px 8px;
+  margin: 2px 0;
+  border-radius: 6px;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: relative;
+}
+
+#doc-toc a:hover {
+  color: var(--color-heading);
+  background: rgba(0, 255, 136, 0.08);
+}
+
+#doc-toc a.active {
+  color: #00ff88;
+  font-weight: 600;
+  background: rgba(0, 255, 136, 0.12);
+}
+
+[data-theme="light"] #doc-toc a.active {
+  color: #00a862;
+  background: rgba(0, 180, 110, 0.1);
+}
+
+#doc-toc .lv3 {
+  padding-left: 18px;
+  font-size: 11.5px;
+  opacity: 0.9;
+}
 .filter-bar{display:flex;gap:10px;flex-wrap:wrap;margin:4px 0 26px;padding:2px 0}
 .filter-btn{font-size:13.5px;padding:7px 18px;border-radius:20px;border:1px solid rgba(0,150,110,.35);background:rgba(0,150,110,.05);color:#3d7a5c;cursor:pointer;transition:all .2s;letter-spacing:.5px}
 [data-theme="dark"] .filter-btn, html:not([data-theme]) .filter-btn{border-color:rgba(0,255,136,.35);background:rgba(0,255,136,.04);color:#8b98a5}
