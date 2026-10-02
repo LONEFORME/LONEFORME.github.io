@@ -185,27 +185,27 @@
         "size": 197384
       },
       {
-        "name": "shexaingtou—duoji",
+        "name": "舵机俯仰摄像头云台架",
         "category": "02-摄像头系统",
-        "url": "models/02-摄像头系统/stl/shexaingtou—duoji.stl",
+        "url": "models/02-摄像头系统/stl/舵机俯仰摄像头云台架.stl",
         "size": 24284
       },
       {
-        "name": "shexiangtou__saoma",
+        "name": "扫码专用摄像头固定架",
         "category": "02-摄像头系统",
-        "url": "models/02-摄像头系统/stl/shexiangtou__saoma.stl",
+        "url": "models/02-摄像头系统/stl/扫码专用摄像头固定架.stl",
         "size": 24284
       },
       {
-        "name": "shexiangtou—down",
+        "name": "下视降落对准摄像头支架",
         "category": "02-摄像头系统",
-        "url": "models/02-摄像头系统/stl/shexiangtou—down.stl",
+        "url": "models/02-摄像头系统/stl/下视降落对准摄像头支架.stl",
         "size": 73484
       },
       {
-        "name": "shexiangtou—last",
+        "name": "前视摄像头固定座_最终版",
         "category": "02-摄像头系统",
-        "url": "models/02-摄像头系统/stl/shexiangtou—last.stl",
+        "url": "models/02-摄像头系统/stl/前视摄像头固定座_最终版.stl",
         "size": 79184
       },
       {
@@ -235,9 +235,9 @@
         "size": 378884
       },
       {
-        "name": "che",
+        "name": "地面小车承重底板",
         "category": "03-小车底盘",
-        "url": "models/03-小车底盘/stl/che.stl",
+        "url": "models/03-小车底盘/stl/地面小车承重底板.stl",
         "size": 198284
       },
       {
@@ -247,9 +247,9 @@
         "size": 1722425
       },
       {
-        "name": "kuozhan",
+        "name": "30mm立方设备扩展连接件",
         "category": "03-小车底盘",
-        "url": "models/03-小车底盘/stl/kuozhan.stl",
+        "url": "models/03-小车底盘/stl/30mm立方设备扩展连接件.stl",
         "size": 37084
       },
       {
@@ -309,9 +309,9 @@
     ],
     "04-激光与传感器": [
       {
-        "name": "7cun__taojinchidibu",
+        "name": "陶晶驰7寸大屏手持地面站底壳",
         "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/7cun__taojinchidibu.stl",
+        "url": "models/04-激光与传感器/stl/陶晶驰7寸大屏手持地面站底壳.stl",
         "size": 34584
       },
       {
@@ -321,21 +321,21 @@
         "size": 33784
       },
       {
-        "name": "dingpingtai",
+        "name": "顶层机载传感器扩展板",
         "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/dingpingtai.stl",
+        "url": "models/04-激光与传感器/stl/顶层机载传感器扩展板.stl",
         "size": 41884
       },
       {
-        "name": "ji_gaung_dian_gao_tai_mian",
+        "name": "激光定高传感器垫高底座",
         "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/ji_gaung_dian_gao_tai_mian.stl",
+        "url": "models/04-激光与传感器/stl/激光定高传感器垫高底座.stl",
         "size": 40684
       },
       {
-        "name": "tao_jing_chi",
+        "name": "陶晶驰3.5寸串口屏固定背板",
         "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/tao_jing_chi.stl",
+        "url": "models/04-激光与传感器/stl/陶晶驰3.5寸串口屏固定背板.stl",
         "size": 34184
       },
       {
@@ -421,9 +421,9 @@
     ],
     "06-其他零件": [
       {
-        "name": "111",
+        "name": "四轴机身下层挂载底板",
         "category": "06-其他零件",
-        "url": "models/06-其他零件/stl/111.stl",
+        "url": "models/06-其他零件/stl/四轴机身下层挂载底板.stl",
         "size": 684
       },
       {
@@ -433,15 +433,15 @@
         "size": 33484
       },
       {
-        "name": "123123",
+        "name": "微型传感器双孔固定转接座",
         "category": "06-其他零件",
-        "url": "models/06-其他零件/stl/123123.stl",
+        "url": "models/06-其他零件/stl/微型传感器双孔固定转接座.stl",
         "size": 76384
       },
       {
-        "name": "321312",
+        "name": "前视摄像头短臂紧凑支架",
         "category": "06-其他零件",
-        "url": "models/06-其他零件/stl/321312.stl",
+        "url": "models/06-其他零件/stl/前视摄像头短臂紧凑支架.stl",
         "size": 80184
       },
       {
@@ -451,9 +451,9 @@
         "size": 59484
       },
       {
-        "name": "da——tou",
+        "name": "前视摄像头长臂伸出支架",
         "category": "06-其他零件",
-        "url": "models/06-其他零件/stl/da——tou.stl",
+        "url": "models/06-其他零件/stl/前视摄像头长臂伸出支架.stl",
         "size": 35884
       }
     ]
