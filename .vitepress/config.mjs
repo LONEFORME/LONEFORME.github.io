@@ -1,6 +1,26 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+    head: [
+      ['style', {}, `
+        mjx-assistive-mml {
+          display: none !important;
+          position: absolute !important;
+          top: 0 !important;
+          left: 0 !important;
+          width: 1px !important;
+          height: 1px !important;
+          padding: 0 !important;
+          overflow: hidden !important;
+          clip: rect(1px, 1px, 1px, 1px) !important;
+          border: 0 !important;
+          opacity: 0 !important;
+          user-select: none !important;
+          pointer-events: none !important;
+        }
+      `]
+    ],
+
   title: '电赛无人机全栈技术知识库',
   description: '机器人感知与导航 · 嵌入式系统 · 激光雷达 SLAM · 计算机视觉 · 电赛无人机全栈工程',
   lang: 'zh-CN',
