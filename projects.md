@@ -66,7 +66,7 @@ title: 项目
   <p class="group-desc">整合宇树 L1（3D）与镭神 N10P（2D）双雷达，配套 FAST-LIO2 与 SLAM Toolbox 双建图方案，含自研障碍物检测与位姿优化节点，即拿即用的机器人感知与导航参考实现。</p>
 
   <div class="card-grid">
-    <div class="card" data-tags="雷达 SLAM 无人机">
+    <div class="card" data-tags="雷达SLAM 无人机">
       <div class="card-icon-box icon-green">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><circle cx="12" cy="12" r="2"/></svg>
       </div>
@@ -84,7 +84,7 @@ title: 项目
       </div>
     </div>
 
-    <div class="card" data-tags="雷达 SLAM 无人机">
+    <div class="card" data-tags="雷达SLAM 无人机">
       <div class="card-icon-box icon-blue">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>
       </div>
@@ -114,7 +114,7 @@ title: 项目
   <p class="group-desc">覆盖 7 款主流开发板的通用配置参考、A/B/C 分类部署、Fast DDS Discovery Server 多机跨网段通信与 AI Skill 资产库（v2.44）。</p>
 
   <div class="card-grid">
-    <div class="card" data-tags="嵌入式 开发板 ROS2">
+    <div class="card" data-tags="嵌入式">
       <div class="card-icon-box icon-cyan">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="16" x="4" y="4" rx="2"/><rect width="6" height="6" x="9" y="9" rx="1"/><path d="M15 2v2"/><path d="M15 20v2"/><path d="M2 15h2"/><path d="M2 9h2"/><path d="M20 15h2"/><path d="M20 9h2"/><path d="M9 21v1"/><path d="M9 2v1"/></svg>
       </div>
@@ -143,7 +143,7 @@ title: 项目
   </div>
 
   <div class="card-grid">
-    <div class="card" data-tags="视觉 OpenCV">
+    <div class="card" data-tags="视觉">
       <div class="card-icon-box icon-purple">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"/><circle cx="12" cy="12" r="3"/><path d="M12 9v6"/><path d="M9 12h6"/></svg>
       </div>
@@ -217,7 +217,7 @@ title: 项目
   </div>
 
   <div class="card-grid">
-    <div class="card" data-tags="3D打印 结构">
+    <div class="card" data-tags="3D打印">
       <div class="card-icon-box icon-pink">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
       </div>

@@ -766,7 +766,6 @@
 (function(){
   var path = location.pathname.replace(/\.html$/, '').replace(/\/$/, '');
   var isDocs = path.indexOf('/docs/') === 0;
-  var isIndex = path === '' || path === '/';
 
   /* 返回顶部（全站） */
   var bt = document.getElementById('back-top');
@@ -866,21 +865,6 @@
     }
   }
 
-  /* 首页：tagline 打字机（渐进增强，无 CDN 则保持静态） */
-  if (isIndex) {
-    var slot = document.getElementById('typed-slot');
-    if (slot) {
-      var words = ['无人机飞控与机载视觉', '激光雷达 SLAM 与避障', '边缘 AI 部署', '空地协同系统'];
-      var wi = 0, ci = 0, del = false;
-      (function tick(){
-        var w = words[wi];
-        slot.textContent = w.slice(0, ci);
-        if (!del && ci++ === w.length) { del = true; return setTimeout(tick, 1600); }
-        if (del && ci-- === 0) { del = false; wi = (wi + 1) % words.length; }
-        setTimeout(tick, del ? 40 : 90);
-      })();
-    }
-  }
 })();
 </script>
 </body>
