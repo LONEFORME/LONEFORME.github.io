@@ -169,7 +169,7 @@ title: 项目
   </div>
 
   <div class="card-grid">
-    <div class="card" id="lingxiao">
+    <div class="card" id="lingxiao" data-tags="无人机">
       <div class="card-icon-box icon-green">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="4"/><circle cx="4" cy="4" r="2.5"/><circle cx="20" cy="4" r="2.5"/><circle cx="4" cy="20" r="2.5"/><circle cx="20" cy="20" r="2.5"/></svg>
       </div>
@@ -187,7 +187,7 @@ title: 项目
       </div>
     </div>
 
-    <div class="card" id="xiyue">
+    <div class="card" id="xiyue" data-tags="无人机 视觉">
       <div class="card-icon-box icon-orange">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v20M2 12h20"/><circle cx="12" cy="12" r="4"/><circle cx="4" cy="4" r="2.5"/><circle cx="20" cy="4" r="2.5"/><circle cx="4" cy="20" r="2.5"/><circle cx="20" cy="20" r="2.5"/></svg>
       </div>
