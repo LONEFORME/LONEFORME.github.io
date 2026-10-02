@@ -834,7 +834,10 @@
           cards.forEach(function(c){
             c.style.display = (val === '' || c.dataset.tags.indexOf(val) >= 0) ? '' : 'none';
           });
-          document.querySelectorAll('.project-group, h2').forEach(function(){});
+          document.querySelectorAll('.project-group').forEach(function(g){
+            var any = Array.from(g.querySelectorAll('.card[data-tags]')).some(function(c){ return c.style.display !== 'none'; });
+            g.style.display = any ? '' : 'none';
+          });
         });
         bar.appendChild(b);
       }
