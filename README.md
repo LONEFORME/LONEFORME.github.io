@@ -11,7 +11,7 @@
 [![Jekyll](https://img.shields.io/badge/Jekyll-4.x-CC342D?logo=jekyll)](https://jekyllrb.com)
 [![News](https://img.shields.io/badge/每日新闻-自动更新-green.svg)]()
 [![Finance](https://img.shields.io/badge/财经看板-实时数据-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-blue)](#许可证)
+[![License](https://img.shields.io/badge/License-PolyForm--NC--1.0.0-red)](#许可证)
 
 </div>
 
@@ -222,7 +222,11 @@ python scripts/news_digest.py
 
 ## 📄 许可证
 
-**MIT License**
+**PolyForm Noncommercial 1.0.0**
+
+仅限非商业用途 · 禁止商用与倒卖 · 商业授权请联系作者
+
+[完整许可文本](LICENSE)
 
 *© 2026 LONEFORME · Made with ❤️*
 
