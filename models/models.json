@@ -1,25 +1,7 @@
 {
-  "total": 74,
+  "total": 46,
   "categories": {
     "01-飞控与无人机": [
-      {
-        "name": "01科技k230",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/01科技k230.STL",
-        "size": 51884
-      },
-      {
-        "name": "01科技k230背板",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/01科技k230背板.STL",
-        "size": 107284
-      },
-      {
-        "name": "T265-45.",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/T265-45..STL",
-        "size": 167184
-      },
       {
         "name": "上板",
         "category": "01-飞控与无人机",
@@ -45,12 +27,6 @@
         "size": 174684
       },
       {
-        "name": "上板雷达改进",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/上板雷达改进.STL",
-        "size": 100384
-      },
-      {
         "name": "下板265",
         "category": "01-飞控与无人机",
         "url": "models/01-飞控与无人机/stl/下板265.stl",
@@ -63,34 +39,10 @@
         "size": 375084
       },
       {
-        "name": "下板改进版",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/下板改进版.STL",
-        "size": 744984
-      },
-      {
         "name": "侧方舵机",
         "category": "01-飞控与无人机",
         "url": "models/01-飞控与无人机/stl/侧方舵机.stl",
         "size": 18884
-      },
-      {
-        "name": "侧方舵机_2",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/侧方舵机_2.STL",
-        "size": 28684
-      },
-      {
-        "name": "保护栏",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/保护栏.STL",
-        "size": 17884
-      },
-      {
-        "name": "保护栏20.5",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/保护栏20.5.STL",
-        "size": 17884
       },
       {
         "name": "保护浆PLUS",
@@ -135,12 +87,6 @@
         "size": 197384
       },
       {
-        "name": "摄像头固定前支架2020",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/摄像头固定前支架2020.STL",
-        "size": 20284
-      },
-      {
         "name": "摄像头顶部",
         "category": "01-飞控与无人机",
         "url": "models/01-飞控与无人机/stl/摄像头顶部.stl",
@@ -151,12 +97,6 @@
         "category": "01-飞控与无人机",
         "url": "models/01-飞控与无人机/stl/电源转换.stl",
         "size": 24284
-      },
-      {
-        "name": "竖装01 k230",
-        "category": "01-飞控与无人机",
-        "url": "models/01-飞控与无人机/stl/竖装01 k230.STL",
-        "size": 76684
       },
       {
         "name": "飞控小板",
@@ -178,12 +118,6 @@
       }
     ],
     "02-摄像头系统": [
-      {
-        "name": "cyber上",
-        "category": "02-摄像头系统",
-        "url": "models/02-摄像头系统/stl/cyber上.STL",
-        "size": 197384
-      },
       {
         "name": "舵机俯仰摄像头云台架",
         "category": "02-摄像头系统",
@@ -219,12 +153,6 @@
         "category": "02-摄像头系统",
         "url": "models/02-摄像头系统/stl/摄像头架35.9.stl",
         "size": 32284
-      },
-      {
-        "name": "摄像头背板",
-        "category": "02-摄像头系统",
-        "url": "models/02-摄像头系统/stl/摄像头背板.STL",
-        "size": 24484
       }
     ],
     "03-小车底盘": [
@@ -241,40 +169,10 @@
         "size": 198284
       },
       {
-        "name": "four_wheel_chassis_front_right_3p5mm",
-        "category": "03-小车底盘",
-        "url": "models/03-小车底盘/stl/four_wheel_chassis_front_right_3p5mm.stl",
-        "size": 1722425
-      },
-      {
         "name": "30mm立方设备扩展连接件",
         "category": "03-小车底盘",
         "url": "models/03-小车底盘/stl/30mm立方设备扩展连接件.stl",
         "size": 37084
-      },
-      {
-        "name": "t265-小车",
-        "category": "03-小车底盘",
-        "url": "models/03-小车底盘/stl/t265-小车.STL",
-        "size": 141384
-      },
-      {
-        "name": "大车底盘",
-        "category": "03-小车底盘",
-        "url": "models/03-小车底盘/stl/大车底盘.STL",
-        "size": 858484
-      },
-      {
-        "name": "小车-t265-延长",
-        "category": "03-小车底盘",
-        "url": "models/03-小车底盘/stl/小车-t265-延长.STL",
-        "size": 242984
-      },
-      {
-        "name": "小车t265",
-        "category": "03-小车底盘",
-        "url": "models/03-小车底盘/stl/小车t265.STL",
-        "size": 178784
       },
       {
         "name": "小车二轮底板",
@@ -315,12 +213,6 @@
         "size": 34584
       },
       {
-        "name": "7寸-淘金池上",
-        "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/7寸-淘金池上.STL",
-        "size": 33784
-      },
-      {
         "name": "顶层机载传感器扩展板",
         "category": "04-激光与传感器",
         "url": "models/04-激光与传感器/stl/顶层机载传感器扩展板.stl",
@@ -345,24 +237,6 @@
         "size": 16284
       },
       {
-        "name": "测试灰度遮挡1",
-        "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/测试灰度遮挡1.STL",
-        "size": 13884
-      },
-      {
-        "name": "激光1111",
-        "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/激光1111.STL",
-        "size": 58684
-      },
-      {
-        "name": "激光固定",
-        "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/激光固定.STL",
-        "size": 26684
-      },
-      {
         "name": "激光定高板",
         "category": "04-激光与传感器",
         "url": "models/04-激光与传感器/stl/激光定高板.stl",
@@ -373,27 +247,9 @@
         "category": "04-激光与传感器",
         "url": "models/04-激光与传感器/stl/激光架.stl",
         "size": 57484
-      },
-      {
-        "name": "灰度1",
-        "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/灰度1.STL",
-        "size": 31884
-      },
-      {
-        "name": "灰度2",
-        "category": "04-激光与传感器",
-        "url": "models/04-激光与传感器/stl/灰度2.STL",
-        "size": 39884
       }
     ],
     "05-树莓派相关": [
-      {
-        "name": "无线图传",
-        "category": "05-树莓派相关",
-        "url": "models/05-树莓派相关/stl/无线图传.STL",
-        "size": 51084
-      },
       {
         "name": "树莓派usb摄像头固定",
         "category": "05-树莓派相关",
@@ -405,18 +261,6 @@
         "category": "05-树莓派相关",
         "url": "models/05-树莓派相关/stl/树莓派上-雷达.stl",
         "size": 63384
-      },
-      {
-        "name": "树莓派移位板",
-        "category": "05-树莓派相关",
-        "url": "models/05-树莓派相关/stl/树莓派移位板.STL",
-        "size": 112284
-      },
-      {
-        "name": "树莓派雷达",
-        "category": "05-树莓派相关",
-        "url": "models/05-树莓派相关/stl/树莓派雷达.STL",
-        "size": 63584
       }
     ],
     "06-其他零件": [
@@ -425,12 +269,6 @@
         "category": "06-其他零件",
         "url": "models/06-其他零件/stl/四轴机身下层挂载底板.stl",
         "size": 684
-      },
-      {
-        "name": "111_2",
-        "category": "06-其他零件",
-        "url": "models/06-其他零件/stl/111_2.STL",
-        "size": 33484
       },
       {
         "name": "微型传感器双孔固定转接座",
@@ -443,12 +281,6 @@
         "category": "06-其他零件",
         "url": "models/06-其他零件/stl/前视摄像头短臂紧凑支架.stl",
         "size": 80184
-      },
-      {
-        "name": "A7Z",
-        "category": "06-其他零件",
-        "url": "models/06-其他零件/stl/A7Z.STL",
-        "size": 59484
       },
       {
         "name": "前视摄像头长臂伸出支架",
