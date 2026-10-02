@@ -16,7 +16,7 @@ export default defineConfig({
   themeConfig: {
     siteTitle: '🚁 无人机全栈知识库',
     nav: [
-      { text: '🧭 知识库首页', link: '/INDEX' },
+      { text: '🧭 知识库首页', link: '/' },
       { text: '🏠 个人主页', link: 'https://loneforme.github.io/' },
       { text: '📂 精选项目', link: 'https://loneforme.github.io/projects' },
       { text: '🧊 3D 预览', link: 'https://loneforme.github.io/3d-viewer.html' },
@@ -27,7 +27,7 @@ export default defineConfig({
         text: '🚁 六大核心技术模块',
         collapsed: false,
         items: [
-          { text: '🧭 知识库总览 (Index)', link: '/INDEX' },
+          { text: '🧭 知识库总览 (Index)', link: '/' },
           { text: '01 硬件底座与电气规范', link: '/01_硬件底座与电气规范' },
           { text: '02 飞控系统与控制算法', link: '/02_飞控系统与控制算法' },
           { text: '03 室内自主定位与避障', link: '/03_室内自主定位与避障' },
