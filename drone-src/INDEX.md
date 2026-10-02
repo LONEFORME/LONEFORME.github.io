@@ -6,31 +6,291 @@
 
 ---
 
-## 🧭 六大核心模块全景导航
+## 🧭 六大核心技术模块 · 全景交互导航
 
-```text
-                               ┌────────────────────────────────────────────────────────┐
-                               │   00_文档指南与历年赛题 / 全栈技术知识库 (Index)         │
-                               └───────────────────────────┬────────────────────────────┘
-                                                           │
-        ┌───────────────────┬───────────────────┬──────┴────────────┬───────────────────┬───────────────────┐
-        ▼                   ▼                   ▼                   ▼                   ▼                   ▼
-┌───────────────┐   ┌───────────────┐   ┌───────────────┐   ┌───────────────┐   ┌───────────────┐   ┌───────────────┐
-│ 01 硬件与底座  │   │ 02 飞控控制律  │   │ 03 定位与避障  │   │ 04 机器视觉   │   │ 05 路径规划   │   │ 06 交互与结构  │
-│ 动力/供电/引脚 │   │ 串级PID/ADRC  │   │ T265/雷达避障 │   │ OpenCV/YOLO   │   │ 拓扑图/DFS/FSM│   │ Nextion/3D打印│
-└───────────────┘   └───────────────┘   └───────────────┘   └───────────────┘   └───────────────┘   └───────────────┘
-```
+<div class="nav-overview-chain">
+  <div class="chain-node">🛠️ 机械结构</div>
+  <div class="chain-arrow">➔</div>
+  <div class="chain-node">⚡ 硬件底座</div>
+  <div class="chain-arrow">➔</div>
+  <div class="chain-node">🎛️ 飞控算法</div>
+  <div class="chain-arrow">➔</div>
+  <div class="chain-node">📍 自主定位</div>
+  <div class="chain-arrow">➔</div>
+  <div class="chain-node">👁️ 机器视觉</div>
+  <div class="chain-arrow">➔</div>
+  <div class="chain-node">🧭 路径决策</div>
+  <div class="chain-arrow">➔</div>
+  <div class="chain-node">📡 地面交互</div>
+</div>
 
-| 章节与模块名称 | 核心知识点与攻坚难点 | 重点解决的技术痛点 | 对应实战工程落点 |
-| :--- | :--- | :--- | :--- |
-| 📖 [**01 硬件底座与电气规范**](01_硬件底座与电气规范.md) | 动力推重比计算（2.0~2.5:1）、三级分级供电（动力强电/5V BEC/3.3V LDO）、STM32F405/407 原理图引脚 | **彻底消除 T265 开机死锁**（树莓派 4B 必须插黑色 USB 2.0，udev 规则 `MODE:="0666"` 终结赋值） | `05_凌霄资料包/06.原理图_PCB/`<br>`01_锡月/06_官方培训包/` |
-| 📖 [**02 飞控系统与控制算法**](02_飞控系统与控制算法.md) | 四旋翼欠驱动动力学模型、串级双闭环 PID（角速度内环+角度外环）、ADRC（自抗扰）与 LQR 现代控制律 | **双飞控架构与波特率隔离**（锡月 BirdFlight 自研全开源 @ **230400** vs 凌霄 ANO_LX 闭环 IMU 核 @ **460800**） | `01_锡月/01_飞控固件/BirdFlight_V2.0/`<br>`02_凌霄/自研系统/飞控源码/` |
-| 📖 [**03 室内自主定位与避障**](03_室内自主定位与避障.md) | T265 双目 VIO 四元数转航空欧拉角与大地系（NED）映射、T265 硬件看门狗自愈、2D 镭神雷达免 ROS 直驱、3D Point-LIO | **免 ROS 轻量化雷达直驱与细立柱锁定**（自带 16 项 pytest 单元测试验证，解算延迟 $< 15\text{ms}$） | `03_激光雷达SLAM避障/`<br>`02_凌霄/自研系统/部署/watchdog/` |
-| 📖 [**04 机器视觉与目标检测**](04_机器视觉与目标检测.md) | 赛场工频光源频闪抑制（手动锁定曝光）、11 色自适应阈值分割、同心圆靶标（$C = 4\pi A/P^2$）判据、单目针孔反投影 | **丢失的 OpenVision.py 真源解密**（UDP 图像直方图高频流传输与局域网广播自动寻找地面站 IP 握手） | `04_OpenCV视觉检测系统/`<br>`01_锡月/04_视觉识别/OpenVision.py` |
-| 📖 [**05 路径规划与自主决策**](05_路径规划与自主决策.md) | 赛场连续空间离散化（450×350cm 转 63 单元格拓扑图）、DFS 蛇形全覆盖无死角遍历、Dijkstra 动态重规划 | **有限状态机（FSM）全自主流转**（IDLE→TAKEOFF→NAVIGATE→DESCEND→HOVER→LAND 闭环调度，拒绝阻塞式死循环） | `01_锡月/02_树莓派机载主控/自启动/`（`path_generator.py` 与 `A_fly_deal.py`） |
-| 📖 [**06 合规交互与机械结构**](06_合规交互与机械结构.md) | 电赛严禁通用计算机红线应对、Nextion 串口触摸屏协议封包（`0xFF 0xFF 0xFF` 结束符）、蓝牙多进程通信、语音报靶 | **100 款规范化 3D 打印结构件选型**（45cm 一体化全包覆框、44mm 长臂前视支架、双目云台、拓竹切片参数） | `01_锡月/03_地面站/`<br>`06_3D打印结构模型库/` |
+<div class="module-cards-grid">
 
----
+  <!-- 模块 01 -->
+  <a href="./01_硬件底座与电气规范" class="module-nav-card">
+    <div class="module-card-header">
+      <span class="module-badge">MODULE 01</span>
+      <span class="module-arrow">深入研读 ➔</span>
+    </div>
+    <div class="module-card-title">⚡ 硬件底座与电气规范</div>
+    <div class="module-card-body">
+      <div class="module-item">
+        <span class="item-label">核心攻坚：</span>
+        <span class="item-text">动力推重比计算（2.0~2.5:1）、三级分级供电网络、STM32F4 硬件原理与引脚映射。</span>
+      </div>
+      <div class="module-item pain-point">
+        <span class="item-label">🔥 关键突破：</span>
+        <span class="item-text">彻底解决 T265 开机死锁与电源倒灌，固化 Linux udev 底层访问权限。</span>
+      </div>
+      <div class="module-item meta-target">
+        <span class="item-label">📁 关联工程：</span>
+        <span class="item-text"><code>05_凌霄资料包/06.原理图_PCB/</code> · <code>01_锡月/06_官方培训包/</code></span>
+      </div>
+    </div>
+  </a>
+
+  <!-- 模块 02 -->
+  <a href="./02_飞控系统与控制算法" class="module-nav-card">
+    <div class="module-card-header">
+      <span class="module-badge">MODULE 02</span>
+      <span class="module-arrow">深入研读 ➔</span>
+    </div>
+    <div class="module-card-title">🎛️ 飞控系统与控制算法</div>
+    <div class="module-card-body">
+      <div class="module-item">
+        <span class="item-label">核心攻坚：</span>
+        <span class="item-text">四旋翼欠驱动动力学解算、串级双闭环 PID（角速度+角度）、ADRC 自抗扰与 LQR 控制。</span>
+      </div>
+      <div class="module-item pain-point">
+        <span class="item-label">🔥 关键突破：</span>
+        <span class="item-text">攻克双飞控架构与通信隔离（锡月自研控制律 @ 230400 vs 凌霄 IMU 闭环 @ 460800）。</span>
+      </div>
+      <div class="module-item meta-target">
+        <span class="item-label">📁 关联工程：</span>
+        <span class="item-text"><code>01_锡月/01_飞控固件/BirdFlight_V2.0/</code> · <code>02_凌霄/自研系统/飞控源码/</code></span>
+      </div>
+    </div>
+  </a>
+
+  <!-- 模块 03 -->
+  <a href="./03_室内自主定位与避障" class="module-nav-card">
+    <div class="module-card-header">
+      <span class="module-badge">MODULE 03</span>
+      <span class="module-arrow">深入研读 ➔</span>
+    </div>
+    <div class="module-card-title">📍 室内自主定位与避障</div>
+    <div class="module-card-body">
+      <div class="module-item">
+        <span class="item-label">核心攻坚：</span>
+        <span class="item-text">T265 双目 VIO 姿态解算与 NED 坐标映射、T265 看门狗自愈、2D 镭神雷达免 ROS 直驱。</span>
+      </div>
+      <div class="module-item pain-point">
+        <span class="item-label">🔥 关键突破：</span>
+        <span class="item-text">免 ROS 超轻量化雷达直驱与细立柱快速锁定（解算延迟 &lt; 15ms，16 项 pytest 全绿）。</span>
+      </div>
+      <div class="module-item meta-target">
+        <span class="item-label">📁 关联工程：</span>
+        <span class="item-text"><code>03_激光雷达SLAM避障/</code> · <code>02_凌霄/自研系统/部署/watchdog/</code></span>
+      </div>
+    </div>
+  </a>
+
+  <!-- 模块 04 -->
+  <a href="./04_机器视觉与目标检测" class="module-nav-card">
+    <div class="module-card-header">
+      <span class="module-badge">MODULE 04</span>
+      <span class="module-arrow">深入研读 ➔</span>
+    </div>
+    <div class="module-card-title">👁️ 机器视觉与目标检测</div>
+    <div class="module-card-body">
+      <div class="module-item">
+        <span class="item-label">核心攻坚：</span>
+        <span class="item-text">赛场光照频闪抑制与自动曝光锁定、11 色自适应阈值分割、同心圆起降靶心严格几何判定。</span>
+      </div>
+      <div class="module-item pain-point">
+        <span class="item-label">🔥 关键突破：</span>
+        <span class="item-text">单目针孔相机结合 ToF 激光将像素偏差精准反投影为厘米级世界位移量。</span>
+      </div>
+      <div class="module-item meta-target">
+        <span class="item-label">📁 关联工程：</span>
+        <span class="item-text"><code>04_OpenCV视觉检测系统/</code> · <code>01_锡月/04_视觉识别/OpenVision.py</code></span>
+      </div>
+    </div>
+  </a>
+
+  <!-- 模块 05 -->
+  <a href="./05_路径规划与自主决策" class="module-nav-card">
+    <div class="module-card-header">
+      <span class="module-badge">MODULE 05</span>
+      <span class="module-arrow">深入研读 ➔</span>
+    </div>
+    <div class="module-card-title">🧭 路径规划与自主决策</div>
+    <div class="module-card-body">
+      <div class="module-item">
+        <span class="item-label">核心攻坚：</span>
+        <span class="item-text">赛场连续空间离散化为 63 单元格拓扑图、DFS 蛇形全覆盖遍历、Dijkstra 动态重规划。</span>
+      </div>
+      <div class="module-item pain-point">
+        <span class="item-label">🔥 关键突破：</span>
+        <span class="item-text">有限状态机（FSM）闭环流转，彻底解决机载端异步任务调度与防死锁保护。</span>
+      </div>
+      <div class="module-item meta-target">
+        <span class="item-label">📁 关联工程：</span>
+        <span class="item-text"><code>01_锡月/02_树莓派机载主控/自启动/</code>（<code>path_generator.py</code> 与 <code>A_fly_deal.py</code>）</span>
+      </div>
+    </div>
+  </a>
+
+  <!-- 模块 06 -->
+  <a href="./06_合规交互与机械结构" class="module-nav-card">
+    <div class="module-card-header">
+      <span class="module-badge">MODULE 06</span>
+      <span class="module-arrow">深入研读 ➔</span>
+    </div>
+    <div class="module-card-title">🛡️ 合规交互与机械结构</div>
+    <div class="module-card-body">
+      <div class="module-item">
+        <span class="item-label">核心攻坚：</span>
+        <span class="item-text">电赛严禁通用计算机红线应对、Nextion 串口触摸屏协议封包、蓝牙通信、语音报靶。</span>
+      </div>
+      <div class="module-item pain-point">
+        <span class="item-label">🔥 关键突破：</span>
+        <span class="item-text">45cm 严苛尺寸包络设计、全包覆安全防撞网、多款云台与传感器高刚性减震选型。</span>
+      </div>
+      <div class="module-item meta-target">
+        <span class="item-label">📁 关联工程：</span>
+        <span class="item-text"><code>01_锡月/03_地面站/</code> · <code>06_3D打印结构模型库/</code></span>
+      </div>
+    </div>
+  </a>
+
+</div>
+
+<style>
+/* 流程链视觉样式 */
+.nav-overview-chain {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 14px 18px;
+  margin: 18px 0 26px;
+  font-size: 13.5px;
+  font-weight: 600;
+}
+.chain-node {
+  color: var(--vp-c-text-1);
+}
+.chain-arrow {
+  color: var(--vp-c-brand-1);
+  font-size: 14px;
+}
+
+/* 模块网格 */
+.module-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 18px;
+  margin: 20px 0 32px;
+}
+@media (min-width: 960px) {
+  .module-cards-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1300px) {
+  .module-cards-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* 模块导航卡片 */
+.module-nav-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 12px;
+  padding: 20px;
+  text-decoration: none !important;
+  color: inherit !important;
+  transition: all 0.25s ease;
+  position: relative;
+  overflow: hidden;
+}
+.module-nav-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+.module-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.module-badge {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
+}
+.module-arrow {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  opacity: 0.85;
+  transition: transform 0.2s ease;
+}
+.module-nav-card:hover .module-arrow {
+  transform: translateX(3px);
+  opacity: 1;
+}
+.module-card-title {
+  margin: 0 0 12px !important;
+  padding: 0 !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  color: var(--vp-c-text-1) !important;
+  border: none !important;
+  line-height: 1.4 !important;
+}
+.module-card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--vp-c-text-2);
+}
+.module-item {
+  display: flex;
+  flex-direction: column;
+}
+.item-label {
+  font-weight: 600;
+  color: var(--vp-c-text-1);
+  margin-bottom: 2px;
+}
+.pain-point .item-label {
+  color: #e06c75;
+}
+.meta-target {
+  margin-top: 4px;
+  font-size: 12px;
+}
+.meta-target code {
+  font-size: 11.5px;
+  padding: 2px 4px;
+}
+</style>
 
 ## 🎓 推荐梯次化研读顺序
 
