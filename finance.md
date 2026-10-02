@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,253.89</span>
-      <span class="ticker-change up">▲ +0.10%</span>
+      <span class="ticker-price ticker-down">4,143.48</span>
+      <span class="ticker-change down">▼ -2.60%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,521.98</span>
+      <span class="ticker-price ticker-up">30,501.56</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,8 +114,8 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7167</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.7014</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,172.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +15.43 (+0.37%)</span>
+      <span class="ticker-price ticker-up">$4,182.57 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +5.30 (+0.13%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+20.4 亿</span>
+      <span class="sector-flow-badge">+53.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+48.9 亿</span>
+      <span class="sector-flow-badge">+52.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+45.6 亿</span>
+      <span class="sector-flow-badge">+17.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+25.2 亿</span>
+      <span class="sector-flow-badge">+18.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/009/307.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，当地时间 1 日，据外媒 Engadget 报道，纽约市一项要求商家简化退订流程的“点击即可取消”规定正式生效。其核心要求很直接：消费者取消订阅，不能比注册更麻烦。报道举了“订阅陷阱”一例：注册某健身房的会员时，几步就能完成，等到想取消时却要经历一套繁琐得近乎荒诞的流程。纽约市政府在博客文章中指出：“顾名思义，这项规定禁止企业让你在线注册时只需轻松点击几个选项，却在退订时逼你在电话和信鸽组成的拜占庭式迷宫里兜圈子。”这项规定由纽约市消费者和工人保护局负责执行。违规企业将面临民事罚款，起罚金额为 525 美元（IT之家注：现汇率约合 3,525 元人民币），消费者还有可能拿回此前被企业从银行账户中扣走的钱。从今天起，企业必须把订阅条款向消费者说明清楚，并完整告知" data-title="纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦" data-date="10-02 15:39" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-02 15:39</span>
+          <span class="news-item-title">纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/301.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，据台媒“经济日报”，特斯拉透露公司正在持续推进 FSD 监管版辅助驾驶系统在中国台湾地区市场落地的申请流程，公司已于近日召开的技术审查会议上提交道路测试计划架构，后续将根据审查意见进行相关准备工作。销量方面，特斯拉表示，2026 年 9 月其在中国台湾地区市场新车挂牌量位居电动汽车品牌第一，2026 年累计挂牌量达到 18,632 辆，年销量排名升至所有汽车品牌第三。9 月台湾地区电动车市场中，特斯拉市占率达到 75.4%。进入第四季度，特斯拉在台湾市场推出“0 首付轻松购”方案，Model 3 和 Model Y 两款车型均可选择零首付购车，或选择每月 9,999 新台币（IT之家注：现汇率约合 2,105 元人民币）的低月供方案。此外，相关购车方案还可叠加" data-title="特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划" data-date="10-02 15:22" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-02 15:22</span>
+          <span class="news-item-title">特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-02/10707071.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月2日电 据国家能源局微信公众号消息，国庆假期，新能源汽车出行热度持续攀升。为深入贯彻落实党中央、国务院决策部署，有效应对国庆假期新能源汽车出行高峰，国家能源局前瞻部署、系统谋划，指导各地落实设备节前检修维护、隐患清零，提前增设移动充电设备，加强充电车辆调度引导，护航人民群众探亲访友、绿色出游。" data-title="国庆假期首日高速公路充电量同比增长60.4%" data-date="10-02 12:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-02 12:55</span>
+          <span class="news-item-title">国庆假期首日高速公路充电量同比增长60.4%</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/10/01/business/bond-yields-10-year-treasury.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The higher yields, which are pressuring consumer and corporate borrowers and increasingly weighing on certain corners of the stock market, are unlikely to dissipate soon." data-title="美国债券收益率触及2002年以来最高水平" data-date="10-02 02:28" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -287,4 +305,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-02 02:29（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-02 15:38（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

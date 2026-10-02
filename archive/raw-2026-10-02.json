@@ -1038,5 +1038,535 @@
     "feed_name": "纽约时报",
     "summary": "“I don’t deserve to die like this,” said one passenger on Flight 1073 from Dubai to Tel Aviv. The motive of the cockpit stabbing remains unknown, officials said.",
     "published_dt_iso": "2026-10-01T09:56:20+08:00"
+  },
+  {
+    "title": "据报道，马斯克的人工智能聊天机器人Grok鼓励特朗普抓捕委内瑞拉总统",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "date": "2026-10-02",
+    "published_time": "05:08",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "据报道，特朗普总统在入侵委内瑞拉并抓获尼古拉斯·马杜罗之前征求了格罗克的意见。",
+    "published_dt_iso": "2026-10-02T05:08:11+08:00"
+  },
+  {
+    "title": "ChatGPT现在可以虚拟地为您试穿衣服",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "date": "2026-10-02",
+    "published_time": "03:21",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI正在为ChatGPT推出新的购物功能，允许用户使用自己的照片虚拟试穿服装和配饰，并将他们喜欢的产品保存到收藏夹库。",
+    "published_dt_iso": "2026-10-02T03:21:53+08:00"
+  },
+  {
+    "title": "谷歌认为SpaceX的星际飞船必须发射1800次才能让太空数据中心起飞",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "date": "2026-10-02",
+    "published_time": "03:18",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "谷歌推出了首个进入轨道的先进芯片，为太空数据中心铺平了道路。",
+    "published_dt_iso": "2026-10-02T03:18:03+08:00"
+  },
+  {
+    "title": "一个月内2个联邦机构的黑客攻击泄露了大量敏感数据",
+    "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "date": "2026-10-02",
+    "published_time": "04:28",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "对于联邦政府的网络安全来说，这是一个糟糕的月份。",
+    "published_dt_iso": "2026-10-02T04:28:45+08:00"
+  },
+  {
+    "title": "内存高管预计RAM短缺将持续到2028年",
+    "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "date": "2026-10-02",
+    "published_time": "01:49",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "2027年售出的内存价格“远高于2026年的价格。”",
+    "published_dt_iso": "2026-10-02T01:49:56+08:00"
+  },
+  {
+    "title": "据报道，苹果正在开发一种不录制视频的智能家居摄像头",
+    "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+    "date": "2026-10-02",
+    "published_time": "06:51",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "苹果公司对智能家居技术的传闻可能包括智能家居安全摄像头，该摄像头仅为用户提供文本事件描述，而不是视频片段。马克·古尔曼（ Mark Gurman ）在Power On播客的第一集中表示，该摄像头将与传闻中的苹果智能家居[…]一起成为“新的苹果智能家居生态系统”的一部分。",
+    "published_dt_iso": "2026-10-02T06:51:36+08:00"
+  },
+  {
+    "title": "谷歌的新引导视觉功能可以帮助您阅读",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "date": "2026-10-02",
+    "published_time": "03:47",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Guided Vision今天在兼容的Android设备上推出Gemini Live ，使用人工智能为您对准手机摄像头的任何内容提供实时音频描述。通过在Gemini Live中共享相机，您可以让Google的人工智能帮助您阅读小文本、描述周围环境、查找或识别[…]周围的物体",
+    "published_dt_iso": "2026-10-02T03:47:51+08:00"
+  },
+  {
+    "title": "Android Central “将继续” ，尽管其员工已被解雇",
+    "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+    "date": "2026-10-02",
+    "published_time": "03:20",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "专注于Android生态系统的博客Android Central昨天解雇了员工，但其所有者Future向The Verge证实，该网站将继续发布。昨天， Android Central员工页面上的六名员工中有四名公开发布了有关裁员的信息，其中包括Shruti Shekar、Derrek Lee、Harish Jonnalagadda和Nicholas Sutrich ，以及前[…]",
+    "published_dt_iso": "2026-10-02T03:20:29+08:00"
+  },
+  {
+    "title": "蒸汽甲板2 ： AMD Gainsborough是Valve一直在等待的芯片吗？",
+    "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+    "date": "2026-10-02",
+    "published_time": "02:52",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Steam Deck已有四年半的历史，手持游戏玩家热切期待Steam Deck 2 ，但Valve一直表示，在构建续集之前，它需要一款性能和效率“跨越一代”的新芯片。有理由相信芯片现在已经打破了封面： AMD […]",
+    "published_dt_iso": "2026-10-02T02:52:58+08:00"
+  },
+  {
+    "title": "纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦",
+    "link": "https://www.ithome.com/1/009/307.htm",
+    "date": "2026-10-02",
+    "published_time": "15:39",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，当地时间 1 日，据外媒 Engadget 报道，纽约市一项要求商家简化退订流程的“点击即可取消”规定正式生效。其核心要求很直接：消费者取消订阅，不能比注册更麻烦。报道举了“订阅陷阱”一例：注册某健身房的会员时，几步就能完成，等到想取消时却要经历一套繁琐得近乎荒诞的流程。纽约市政府在博客文章中指出：“顾名思义，这项规定禁止企业让你在线注册时只需轻松点击几个选项，却在退订时逼你在电话和信鸽组成的拜占庭式迷宫里兜圈子。”这项规定由纽约市消费者和工人保护局负责执行。违规企业将面临民事罚款，起罚金额为 525 美元（IT之家注：现汇率约合 3,525 元人民币），消费者还有可能拿回此前被企业从银行账户中扣走的钱。从今天起，企业必须把订阅条款向消费者说明清楚，并完整告知",
+    "published_dt_iso": "2026-10-02T15:39:12+08:00"
+  },
+  {
+    "title": "《战争机器：事变日》游戏发售宣传片公开：首发支持 DLSS 4.5 及光追，10 月 7 日正式发售",
+    "link": "https://www.ithome.com/1/009/306.htm",
+    "date": "2026-10-02",
+    "published_time": "15:33",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，《战争机器：事变日（Gears of War：E-Day）》开发商 The Coalition 现已公布游戏发售宣传片，本作将于北京时间 10 月 7 日正式发售，登陆 XBOX Series X|S 与 PC 平台（包括 Steam 与 Microsoft Store），首发加入 XBOX Game Pass。游戏在 PC 平台首发支持英伟达 DLSS 4.5 技术以及硬件光线追踪功能。价格方面，本作标准版 298 元，预购高级版（428 元）的玩家可提前最多 5 天抢先体验，并可在游戏发售时解锁“Exfil Dom”角色皮肤与“Exfil”武器皮肤套装。IT之家附游戏商品页（https://store.steampowered.com/app/301085",
+    "published_dt_iso": "2026-10-02T15:33:42+08:00"
+  },
+  {
+    "title": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
+    "link": "https://www.ithome.com/1/009/304.htm",
+    "date": "2026-10-02",
+    "published_time": "15:28",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，OpenAI 宣布进一步升级 ChatGPT 的购物功能，新增虚拟试穿和 Favorites（收藏）两项功能，用户现在可以上传自己的照片，让 ChatGPT 生成穿着特定服饰或配饰后的效果图，同时也可以将感兴趣的商品保存下来，方便之后继续查看。IT之家注意到，去年 OpenAI 曾为 ChatGPT 推出专门的 Shopping Research 购物研究功能，主要面向较为复杂的购物需求。其不仅仅局限于“简单提供商品链接”，用户可以通过自然语言告知 ChatGPT 自己预算和需求，之后 ChatGPT 便会在全网搜索相关商品，并根据不同产品的优缺点生成个性化购买指南，同时提供购买链接。而如今，OpenAI 为 ChatGPT 新增的虚拟试穿功能将以“Try o",
+    "published_dt_iso": "2026-10-02T15:28:56+08:00"
+  },
+  {
+    "title": "交通运输部：10 月 1 日全社会跨区域人员流动量 32949.5 万人次，同比下降 1.9%",
+    "link": "https://www.ithome.com/1/009/303.htm",
+    "date": "2026-10-02",
+    "published_time": "15:28",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，交通运输部今日公布的最新数据显示，2026 年 10 月 1 日（国庆假期第 1 日），全社会跨区域人员流动量 32949.5 万人次，环比增长 50.2%，比 2025 年同期（10 月 1 日，中秋国庆假期第 1 日，下同）下降 1.9%。IT之家附 2026 年 10 月 1 日具体数据如下：铁路客运量 2520.4 万人次，环比增长 29.0%，同比增长 9.0%公路人员流动量 30036 万人次，环比增长 52.8%，同比下降 2.8%公路营业性客运量 4471 万人次，环比增长 22.2%，同比增长 8.5%高速公路及普通国省道非营业性小客车人员出行量 25565 万人次，环比增长 59.8%，同比下降 4.5%水路客运量 141.6 万人次，环比",
+    "published_dt_iso": "2026-10-02T15:28:35+08:00"
+  },
+  {
+    "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店，开启定金预定",
+    "link": "https://www.ithome.com/1/009/302.htm",
+    "date": "2026-10-02",
+    "published_time": "15:26",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，极米记得 AI 显示眼镜 MemoMind One 明日登陆全国 56 家线下门店、INNO100 全球创新旗舰店。10 月 3 日到 10 月 14 日，到店预付 100 元定金预定，即可获赠价值 199 元墨镜夹片 1 副。据官方介绍，它是一副可以长期佩戴的专业 AI 眼镜，也是一副能帮你“记得”的专业 AI 眼镜，AI 能记忆、能导航、能提词。目前，官方暂未公布这款新品的配置信息。官方预热显示，“极米记得 AI 显示眼镜 MemoMind One”是一副可以长期佩戴的专业 AI 眼镜，它集极米显示、蔡司光学、哈曼声学于一体，可以将所有重要信息，第一时间自然呈现在用户眼前，帮助用户从容应对多线程任务，把专注留给更重要的事。",
+    "published_dt_iso": "2026-10-02T15:26:33+08:00"
+  },
+  {
+    "title": "特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划",
+    "link": "https://www.ithome.com/1/009/301.htm",
+    "date": "2026-10-02",
+    "published_time": "15:22",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，据台媒“经济日报”，特斯拉透露公司正在持续推进 FSD 监管版辅助驾驶系统在中国台湾地区市场落地的申请流程，公司已于近日召开的技术审查会议上提交道路测试计划架构，后续将根据审查意见进行相关准备工作。销量方面，特斯拉表示，2026 年 9 月其在中国台湾地区市场新车挂牌量位居电动汽车品牌第一，2026 年累计挂牌量达到 18,632 辆，年销量排名升至所有汽车品牌第三。9 月台湾地区电动车市场中，特斯拉市占率达到 75.4%。进入第四季度，特斯拉在台湾市场推出“0 首付轻松购”方案，Model 3 和 Model Y 两款车型均可选择零首付购车，或选择每月 9,999 新台币（IT之家注：现汇率约合 2,105 元人民币）的低月供方案。此外，相关购车方案还可叠加",
+    "published_dt_iso": "2026-10-02T15:22:04+08:00"
+  },
+  {
+    "title": "沃尔沃汽车 2026 年第三季度全球销量同比下降 10.7%，大中华区暴降 40.6%",
+    "link": "https://www.ithome.com/1/009/300.htm",
+    "date": "2026-10-02",
+    "published_time": "15:18",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，沃尔沃汽车今日公布数据显示，2026 年第三季度，其全球销量为 141,609 辆，同比下降 10.7%。沃尔沃汽车首席商务官埃里克 · 塞维林森（Erik Severinson）表示，中国市场的低迷态势未见任何缓解，而美国豪华车细分市场的复苏步伐也慢于此前预期。这直接冲击了我们第三季度的销量表现。面对同样严峻的市场环境，第三方分析机构也已纷纷下调 2026 年豪华车市场的整体销量预期。本季度，沃尔沃纯电动车型销量同比增长 29%，在总销量中占比达 32%。若包含纯电动与插电式混合动力在内的电气化车型，占当季总销量的 53%。IT之家附各区域市场表现如下：欧洲及世界其他地区：零售交付表现平稳，销量达 90,548 辆，同比增长 2%。其中纯电动汽车销量大涨 5",
+    "published_dt_iso": "2026-10-02T15:18:17+08:00"
+  },
+  {
+    "title": "AOC 推出“U27G4FD”27 英寸裸眼 3D 显示器：4K 180Hz、配双 5W 扬声器",
+    "link": "https://www.ithome.com/1/009/299.htm",
+    "date": "2026-10-02",
+    "published_time": "15:15",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，AOC 宣布推出一款型号为“U27G4FD”的裸眼 3D 显示器，该机为 4K 180Hz 规格，国行将于近期上市。该产品采用 27 英寸 4K UHD 分辨率 180Hz 刷新率氧化物制程 Fast IPS 面板，提供 0.5ms（MPRT）、1ms GtG 响应时间，搭配 MBR / MBR Sync 低运动模糊技术，拥有英伟达 G-SYNC Compatible、AMD FreeSync Premium 双重认证，同时支持 Adaptive-Sync 智能同步技术。显示器覆盖 100% sRGB、95% DCI-P3，支持色彩 6 轴调整与 HDR10。官方表示，用户只需在电脑端安装官方 Windows 3D 配套软件，即可解锁显示器裸眼 3D 相关功能",
+    "published_dt_iso": "2026-10-02T15:15:26+08:00"
+  },
+  {
+    "title": "曼城的成功如何帮助Andy Burnham掌权",
+    "link": "https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power",
+    "date": "2026-10-02",
+    "published_time": "02:53",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "PM称赞阿布扎比集团是重塑曼彻斯特的“巨大合作伙伴” ，但批评人士表示，这忽视了城市转型的公共成本。2016年7月，曼城球员YayaTouré漫步在北京工人体育场附近的一个小酒吧里，当数十名中国球迷冲向他时，他露出了困惑的微笑。曼城刚刚在Sheikh Mansour的阿布扎比联合集团和",
+    "published_dt_iso": "2026-10-02T02:53:05+08:00"
+  },
+  {
+    "title": "犯罪分子还是救世主？ Rui Pinto在曼城泄密后被葡萄牙当局遗弃",
+    "link": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
+    "date": "2026-10-02",
+    "published_time": "02:40",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "一名男子的私人文件泄露促使对城市的调查被建议不要回家，联系家人或访问拥挤的地方。Rui Pinto在2015年国际足联丑闻引发的十字军东征中建立了Football Leaks网站十多年后，他发现自己正处于日益严重的风暴之中。这位前历史系学生有着标志性的尖刺头发，曾经赚取额外的现金出售有关第二次世界大战的书籍",
+    "published_dt_iso": "2026-10-02T02:40:17+08:00"
+  },
+  {
+    "title": "全国秋粮收获过三成",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707136.shtml",
+    "date": "2026-10-02",
+    "published_time": "14:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华社北京10月2日电(记者胡璐)记者2日从农业农村部了解到，截至10月1日，全国秋粮收获过三成。",
+    "published_dt_iso": "2026-10-02T14:14:58+08:00"
+  },
+  {
+    "title": "从真实出发，以《过海》讲述跨越海峡的归乡之路",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707127.shtml",
+    "date": "2026-10-02",
+    "published_time": "14:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社北京10月2日电 题：从真实出发，以《过海》讲述跨越海峡的归乡之路",
+    "published_dt_iso": "2026-10-02T14:09:20+08:00"
+  },
+  {
+    "title": "“科学与中国”科普助力乡村振兴行动走进江西大余活动顺利举办",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707094.shtml",
+    "date": "2026-10-02",
+    "published_time": "14:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京10月2日电 (记者 孙自法)记者从中国科学院科技创新发展中心获悉，由中国科学院学部科学普及与教育工作委员会主办、该中心承办的“科学与中国”科普助力乡村振兴行动，国庆节前夕在中国科学院对口支援的江西省赣州市大余县顺利举办。",
+    "published_dt_iso": "2026-10-02T14:03:20+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）遵义会议纪念馆：一棵“活文物”承载历史",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707077.shtml",
+    "date": "2026-10-02",
+    "published_time": "13:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社贵州遵义10月2日电 (记者 杨茜)“比个耶(两根手指成V字形)！”在遵义会议纪念馆的老槐树下，这是络绎不绝的游客留影时最常用的一种手势。",
+    "published_dt_iso": "2026-10-02T13:40:02+08:00"
+  },
+  {
+    "title": "中国驻美大使阐述中美关系新定位内涵",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707066.shtml",
+    "date": "2026-10-02",
+    "published_time": "13:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社华盛顿10月1日电 中国驻美大使谢锋近日在接受美国《新闻周刊》专访时说，中国国家主席习近平访美最重要的政治成果之一，就是两国元首进一步拓展了中美关系新定位的内涵，同意构建“基于尊重、公平、对等的中美建设性战略稳定关系”。",
+    "published_dt_iso": "2026-10-02T13:31:40+08:00"
+  },
+  {
+    "title": "中国驻美大使：习近平主席对美国事访问创造中美交往的历史",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707065.shtml",
+    "date": "2026-10-02",
+    "published_time": "13:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社华盛顿10月1日电 中国驻美大使谢锋近日在接受美媒专访时表示，中国国家主席习近平对美国事访问创造了中美交往的历史，具有里程碑意义。这是习近平主席时隔11年再次对美国进行国事访问，是双方对新时期中美关系战略价值的再确认。",
+    "published_dt_iso": "2026-10-02T13:31:28+08:00"
+  },
+  {
+    "title": "“台湾哥”在大陆的田园生活",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707075.shtml",
+    "date": "2026-10-02",
+    "published_time": "13:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社河南平顶山10月2日电 题：“台湾哥”在大陆的田园生活",
+    "published_dt_iso": "2026-10-02T13:30:34+08:00"
+  },
+  {
+    "title": "国庆假期首日高速公路充电量同比增长60.4%",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707071.shtml",
+    "date": "2026-10-02",
+    "published_time": "12:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网10月2日电 据国家能源局微信公众号消息，国庆假期，新能源汽车出行热度持续攀升。为深入贯彻落实党中央、国务院决策部署，有效应对国庆假期新能源汽车出行高峰，国家能源局前瞻部署、系统谋划，指导各地落实设备节前检修维护、隐患清零，提前增设移动充电设备，加强充电车辆调度引导，护航人民群众探亲访友、绿色出游。",
+    "published_dt_iso": "2026-10-02T12:55:03+08:00"
+  },
+  {
+    "title": "中国驻日使馆：村田晃大侵闯使馆案不容任何抵赖",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707119.shtml",
+    "date": "2026-10-02",
+    "published_time": "13:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月2日电 据中国驻日本大使馆微信公众号10月1日消息，中国驻日本大使馆发言人就村田晃大非法持刀侵闯中国驻日本大使馆案首次开庭答记者问。",
+    "published_dt_iso": "2026-10-02T13:44:54+08:00"
+  },
+  {
+    "title": "菲律宾一矿井发生疑似有害气体中毒事件  致7人死亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707079.shtml",
+    "date": "2026-10-02",
+    "published_time": "13:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社马尼拉10月2日电(记者 周璟)据菲律宾媒体2日报道，菲律宾北部本格特省伊托贡镇一处矿井隧道日前发生疑似有害气体中毒事件，造成7名男子死亡。",
+    "published_dt_iso": "2026-10-02T13:24:37+08:00"
+  },
+  {
+    "title": "多国政要祝贺新中国成立77周年：盛赞中国发展成就 期待与中国加深互利合作",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707073.shtml",
+    "date": "2026-10-02",
+    "published_time": "13:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月2日电 近日，中国驻外使领馆使团在全球多地举办招待会等活动，隆重庆祝中华人民共和国成立77周年。多国政要出席活动，向中国政府和人民致以诚挚祝贺，高度评价中国发展成就，期待与中国加深互利合作。",
+    "published_dt_iso": "2026-10-02T13:09:06+08:00"
+  },
+  {
+    "title": "美媒：美国向沙特和卡塔尔增派“爱国者”导弹系统，以保护当地能源设施",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707069.shtml",
+    "date": "2026-10-02",
+    "published_time": "12:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月2日电 据美国阿克西奥斯新闻网站10月1日报道，两名美国官员和一名地区消息人士透露，近几周，美军向沙特阿拉伯和卡塔尔增派了两套“爱国者”导弹系统，以保护当地石油和天然气设施。",
+    "published_dt_iso": "2026-10-02T12:06:48+08:00"
+  },
+  {
+    "title": "苏丹一大学遭无人机袭击 致5死47伤",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707061.shtml",
+    "date": "2026-10-02",
+    "published_time": "11:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月2日电 喀土穆消息：当地时间10月1日，苏丹民间机构“苏丹医生网”发布消息称，苏丹准军事组织快速支援部队(RSF)当日对苏丹北科尔多凡州的一所大学发动无人机袭击，造成5人死亡，47人受伤。",
+    "published_dt_iso": "2026-10-02T11:33:14+08:00"
+  },
+  {
+    "title": "厄立特里亚宣布与埃塞俄比亚断交",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707027.shtml",
+    "date": "2026-10-02",
+    "published_time": "11:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月2日电 阿斯马拉消息：当地时间10月1日，厄立特里亚外交部发布声明，宣布与埃塞俄比亚断绝所有外交关系。",
+    "published_dt_iso": "2026-10-02T11:24:42+08:00"
+  },
+  {
+    "title": "美媒爆料：美国向中东增派第三个航母打击群和至多1万名兵力",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707038.shtml",
+    "date": "2026-10-02",
+    "published_time": "10:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月2日电 综合《华尔街日报》、美联社等美媒10月1日报道，美国官员透露，五角大楼正向中东派遣第三个航母打击群和更多海军陆战队舰艇，此举将为该地区增加9千至1万名兵力。",
+    "published_dt_iso": "2026-10-02T10:55:32+08:00"
+  },
+  {
+    "title": "普京瓦尔代年会讲话释放哪些信息？",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707028.shtml",
+    "date": "2026-10-02",
+    "published_time": "10:30",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社莫斯科10月2日电 题：普京瓦尔代年会讲话释放哪些信息？",
+    "published_dt_iso": "2026-10-02T10:30:52+08:00"
+  },
+  {
+    "title": "东莞碧道总长度突破1000里 基本实现无缝衔接",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707167.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网东莞10月2日电 (记者 许青青)由东莞市“百千万工程”指挥部办公室牵头组织的2026东莞沿东江引领区碧道骑行嘉年华于1日举行。随着这条沿东江碧道全线启用，东莞碧道总长度突破1000里，基本实现全域碧道无缝衔接。",
+    "published_dt_iso": "2026-10-02T15:28:09+08:00"
+  },
+  {
+    "title": "10月1日全国铁路发送旅客2520.4万人次",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707169.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:27",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网10月2日电 据“中国铁路”微信公众号消息，10月1日全国铁路发送旅客2520.4万人次，创单日旅客发送量历史新高，运输安全平稳有序。10月2日，全国铁路预计发送旅客2039万人次，加开列车1462列。",
+    "published_dt_iso": "2026-10-02T15:27:33+08:00"
+  },
+  {
+    "title": "新疆G217线独库公路10月8日20时起实施冬季封闭",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707171.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "记者从新疆维吾尔自治区交通运输厅了解到，经交通运输、公安、文旅、气象等部门联合研判，预计10月上旬G217线独库公路全线进入冬季。沿线山区路段将出现降雪天气，路面积雪结冰，通行存在较大安全隐患。",
+    "published_dt_iso": "2026-10-02T15:26:05+08:00"
+  },
+  {
+    "title": "浙江铁道一线国庆守归途：愿每一场团圆都不负期许",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707147.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网台州10月2日电(奚金燕 王莹莹)金秋送爽，一年一度的国庆长假如期而至，万家奔赴团圆、畅游山海，浙江交通集团金温铁道公司临海南站也迎来客流高峰。熙熙攘攘的候车大厅、往来不息的行人、穿梭驰骋的列车，勾勒出假期最热闹的图景。",
+    "published_dt_iso": "2026-10-02T15:23:39+08:00"
+  },
+  {
+    "title": "宁夏银川：拼豆手作带来假日新体验 在地文化邂逅青年潮流",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707152.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:16",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网银川10月2日电 (记者 李佩珊)国庆假期，不少游客的休闲选择更加多元，不再将奔波打卡景点当作出游的首选。10月2日，在宁夏银川阅彩城举办的“举杯贺兰山”2026银川文旅拼豆嘉年华，将这股流行的手作热潮引入城市文旅消费场景，也呈现出当下国内旅游市场的新动向，越来越多年轻群体更加看重旅行过程中的亲身参与感与情绪体验。",
+    "published_dt_iso": "2026-10-02T15:16:56+08:00"
+  },
+  {
+    "title": "江南古镇假日“上新”拥抱年轻人",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707158.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州10月2日电(记者 王逸飞)当下，“沉浸式、情绪化”“愿意为自然深度体验买单”等成为中国年轻人出游的鲜明特征。今年国庆假期，在浙江，多座江南古镇纷纷推出新玩法，以重体验、重潮流的全新形象吸引年轻游客“打卡”。",
+    "published_dt_iso": "2026-10-02T15:14:14+08:00"
+  },
+  {
+    "title": "（乡村行·看振兴）从观光到沉浸 浙江吴兴乡村玩法焕新引客来",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707155.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网湖州10月2日电(黄彦君 姚国琴)陆羽古道的茶园石阶上，背包客三五成群；义皋古村内实景游戏上演，游客沉浸式“入戏”；夜幕低垂，铁花飞溅点亮古村夜空……国庆假期期间，浙江省湖州市吴兴区深挖山野与古村资源，以多元创意“唤醒”乡村文旅活力。",
+    "published_dt_iso": "2026-10-02T15:09:40+08:00"
+  },
+  {
+    "title": "杭州西湖仿生青鱼下水 守护国庆水域平安",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707154.shtml",
+    "date": "2026-10-02",
+    "published_time": "15:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网杭州10月2日电 (钱晨菲)国庆期间，杭州西湖水域迎来一位特殊的“巡逻员”，由杭州市公安局西湖景区分局联合中国科学院自动化研究所研发的仿生机器鱼“西湖青鱼”正式下水，投入西湖水域的生态警务实战。",
+    "published_dt_iso": "2026-10-02T15:07:56+08:00"
+  },
+  {
+    "title": "美国女囚死刑执行失败：注射两剂药物仍存活，接下来将如何发展？",
+    "link": "https://www.bbc.com/zhongwen/articles/c6x2z2dqv080o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "15:14",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "这名被定罪的杀人犯在两次致命注射后仍然生还，目前正在田纳西州的医院接受治疗。这是当地半年内第二宗死刑执行失败事件，引发许多疑问。",
+    "published_dt_iso": "2026-10-02T15:14:39+08:00"
+  },
+  {
+    "title": "西班牙与中国愈走愈近，欧盟多方为何不满？",
+    "link": "https://www.bbc.com/zhongwen/articles/cx9808vgjy09o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "13:09",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "全球局势动荡之际，西班牙与中国意外走近，但这并非唯一不寻常的伙伴关系。",
+    "published_dt_iso": "2026-10-02T13:09:30+08:00"
+  },
+  {
+    "title": "康乃尔大学轮奸案调查：我们目前知道多少？",
+    "link": "https://www.bbc.com/zhongwen/articles/ck0j3j415x0go/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "10:31",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "该女子指称，两年前她在该大学一处兄弟会宿舍遭人下药并遭到性侵。",
+    "published_dt_iso": "2026-10-02T10:31:44+08:00"
+  },
+  {
+    "title": "“我喜欢证明别人错了”：这些女性拿起工具，自己做装修和水喉工程",
+    "link": "https://www.bbc.com/zhongwen/articles/cq36lg32d362o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "09:42",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "女性DIY专家和女性工匠谈及她们如何改变传统男性主导的领域。",
+    "published_dt_iso": "2026-10-02T09:42:08+08:00"
+  },
+  {
+    "title": "俄罗斯正计划以迄今为止最强大的打击来试图冻结乌克兰",
+    "link": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
+    "date": "2026-10-02",
+    "published_time": "12:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "乌克兰向欧洲合作伙伴展示了它所说的俄罗斯今年冬天切断主要城市供电、供暖和供水的计划。",
+    "published_dt_iso": "2026-10-02T12:00:49+08:00"
+  },
+  {
+    "title": "边境前线：俄罗斯如何利用移民作为对抗欧洲的武器",
+    "link": "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html",
+    "date": "2026-10-02",
+    "published_time": "12:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "该计划是俄罗斯在西方播下不和的大战略的一部分，如果比最近指责克里姆林宫的其他行动更微妙的话。",
+    "published_dt_iso": "2026-10-02T12:01:10+08:00"
+  },
+  {
+    "title": "Hochul任命Letitia James为康奈尔案特别检察官",
+    "link": "https://www.nytimes.com/2026/10/01/nyregion/letitia-james-cornell-rape-prosecutor.html",
+    "date": "2026-10-02",
+    "published_time": "10:21",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "州长凯西·霍丘尔（ Kathy Hochul ）任命州检察长调查一名前康奈尔大学学生的强奸指控。这名女子因涉嫌殴打而起诉了七名男子。",
+    "published_dt_iso": "2026-10-02T10:21:54+08:00"
+  },
+  {
+    "title": "康奈尔大学学生在激烈的公开会议上呼吁变革",
+    "link": "https://www.nytimes.com/2026/10/01/nyregion/cornell-public-hearing.html",
+    "date": "2026-10-02",
+    "published_time": "08:36",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "一些学生泪流满面，分享了他们经历过的攻击故事，而另一些学生则大声批评管理人员，并要求改进关于同意的培训。",
+    "published_dt_iso": "2026-10-02T08:36:06+08:00"
+  },
+  {
+    "title": "国会呜咽着离开，共和党为中期疼痛做准备",
+    "link": "https://www.nytimes.com/2026/10/01/us/politics/republicans-congress-midterm-elections-trump-affordability.html",
+    "date": "2026-10-02",
+    "published_time": "03:48",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Republicans lined up a series of doomed votes in their final hours, hoping to portray Democrats as obstructionists. But some conceded that their party was more likely to be punished.",
+    "published_dt_iso": "2026-10-02T03:48:38+08:00"
+  },
+  {
+    "title": "Trump Puts on a Midterms Show for an Audience That’s Already Sold",
+    "link": "https://www.nytimes.com/2026/10/01/us/politics/trump-puts-on-a-midterms-show-for-an-audience-thats-already-sold.html",
+    "date": "2026-10-02",
+    "published_time": "11:58",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "President Trump spent the day preaching to his most fervent fans, not the voters he will need to help elect or re-elect a slate of Republicans fighting in states from Alaska to Maine.",
+    "published_dt_iso": "2026-10-02T11:58:49+08:00"
   }
 ]
