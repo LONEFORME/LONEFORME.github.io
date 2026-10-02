@@ -38,6 +38,7 @@
   </script>
   <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}?v={{ site.time | date: '%s' }}">
   {% seo %}
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/atom.xml" | relative_url }}"/>
 
   <!-- KaTeX 数学公式支持 (异步预取，零渲染阻塞) -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
@@ -756,5 +757,131 @@
       bindSearchEvents();
     }
   </script>
+
+<!-- ===== 2026-10-02 体验增强（TOC/进度条/上下篇/返回顶部/灯箱/复制/筛选/typed） ===== -->
+<div id="doc-progress"></div>
+<div id="back-top" title="返回顶部">↑</div>
+<div id="lightbox-overlay"><img alt="预览大图"></div>
+<script>
+(function(){
+  var path = location.pathname.replace(/\.html$/, '').replace(/\/$/, '');
+  var isDocs = path.indexOf('/docs/') === 0;
+  var isIndex = path === '' || path === '/';
+
+  /* 返回顶部（全站） */
+  var bt = document.getElementById('back-top');
+  window.addEventListener('scroll', function(){ bt.style.display = (window.scrollY > 500) ? 'flex' : 'none'; });
+  bt.addEventListener('click', function(){ window.scrollTo({top:0, behavior:'smooth'}); });
+
+  /* 灯箱（.card-media 与正文大图） */
+  var lb = document.getElementById('lightbox-overlay'), lbImg = lb.querySelector('img');
+  document.addEventListener('click', function(e){
+    var t = e.target;
+    if (t.matches('.card-media img, .content-inner img[src*="assets"]')) {
+      if (t.closest('a')) return;
+      lbImg.src = t.src; lb.style.display = 'flex'; e.preventDefault();
+    } else if (t === lb) { lb.style.display = 'none'; }
+  });
+
+  /* 代码块复制按钮 */
+  document.querySelectorAll('.content-inner pre').forEach(function(pre){
+    var btn = document.createElement('button');
+    btn.className = 'copy-btn'; btn.textContent = '复制';
+    btn.addEventListener('click', function(){
+      navigator.clipboard.writeText(pre.innerText).then(function(){
+        btn.textContent = '已复制 ✓'; btn.classList.add('ok');
+        setTimeout(function(){ btn.textContent = '复制'; btn.classList.remove('ok'); }, 1500);
+      });
+    });
+    pre.style.position = 'relative'; pre.appendChild(btn);
+  });
+
+  /* 文档页：阅读进度条 + 目录 + 上下篇 */
+  if (isDocs) {
+    var bar = document.getElementById('doc-progress');
+    var heads = Array.prototype.slice.call(document.querySelectorAll('.content-inner h2, .content-inner h3'));
+    if (heads.length) {
+      var toc = document.createElement('nav'); toc.id = 'doc-toc';
+      heads.forEach(function(h){
+        if (!h.id) h.id = 'h-' + h.textContent.trim().slice(0, 24);
+        var a = document.createElement('a');
+        a.href = '#' + h.id; a.textContent = h.textContent.trim();
+        if (h.tagName === 'H3') a.className = 'lv3';
+        toc.appendChild(a);
+      });
+      document.querySelector('main').appendChild(toc);
+      window.addEventListener('scroll', function(){
+        var doc = document.documentElement;
+        bar.style.width = (doc.scrollTop / (doc.scrollHeight - doc.clientHeight) * 100) + '%';
+        var cur = null;
+        heads.forEach(function(h){ if (h.getBoundingClientRect().top < 120) cur = h.id; });
+        toc.querySelectorAll('a').forEach(function(a){ a.classList.toggle('active', a.getAttribute('href') === '#' + cur); });
+      });
+    } else { window.addEventListener('scroll', function(){ var d=document.documentElement; bar.style.width=(d.scrollTop/(d.scrollHeight-d.clientHeight)*100)+'%'; }); }
+
+    var ORDER = [
+      ['/docs/security_system', '地瓜派 RDK X5 多模态智能安防系统'],
+      ['/docs/unitree_l1', '宇树 L1 + FAST-LIO2 建图方案'],
+      ['/docs/leishen_n10p', '镭神 N10P + SLAM Toolbox 方案'],
+      ['/docs/rpi4_deploy', '树莓派 4B 部署调优']
+    ];
+    var idx = ORDER.findIndex(function(o){ return path === o[0]; });
+    if (idx >= 0) {
+      var nav = document.createElement('div');
+      nav.style.cssText = 'display:flex;justify-content:space-between;gap:12px;margin:34px 0 6px';
+      function mk(dir, href, txt){
+        var a = document.createElement('a');
+        a.href = href; a.style.cssText = 'font-size:14px;color:#00ff88;text-decoration:none;border:1px solid rgba(0,255,136,.3);padding:10px 14px;border-radius:10px';
+        a.textContent = (dir < 0 ? '← 上一篇：' : '下一篇：') + txt;
+        if (dir > 0) nav.appendChild(a); else nav.insertBefore(a, nav.firstChild);
+      }
+      if (idx > 0) mk(-1, ORDER[idx-1][0], ORDER[idx-1][1]);
+      if (idx < ORDER.length-1) mk(1, ORDER[idx+1][0], ORDER[idx+1][1]);
+      document.querySelector('.content-inner').appendChild(nav);
+    }
+  }
+
+  /* projects 页：标签筛选 */
+  if (path === '/projects') {
+    var bar = document.getElementById('project-filter');
+    var cards = document.querySelectorAll('.card[data-tags]');
+    if (bar && cards.length) {
+      var tags = new Set();
+      cards.forEach(function(c){ c.dataset.tags.split(/\s+/).forEach(function(t){ if (t) tags.add(t); }); });
+      function mkBtn(txt, val){
+        var b = document.createElement('button');
+        b.className = 'filter-btn' + (val === '' ? ' active' : ''); b.textContent = txt;
+        b.addEventListener('click', function(){
+          bar.querySelectorAll('.filter-btn').forEach(function(x){ x.classList.remove('active'); });
+          b.classList.add('active');
+          cards.forEach(function(c){
+            c.style.display = (val === '' || c.dataset.tags.indexOf(val) >= 0) ? '' : 'none';
+          });
+          document.querySelectorAll('.project-group, h2').forEach(function(){});
+        });
+        bar.appendChild(b);
+      }
+      mkBtn('全部', '');
+      Array.from(tags).forEach(function(t){ mkBtn(t, t); });
+    }
+  }
+
+  /* 首页：tagline 打字机（渐进增强，无 CDN 则保持静态） */
+  if (isIndex) {
+    var slot = document.getElementById('typed-slot');
+    if (slot) {
+      var words = ['无人机飞控与机载视觉', '激光雷达 SLAM 与避障', '边缘 AI 部署', '空地协同系统'];
+      var wi = 0, ci = 0, del = false;
+      (function tick(){
+        var w = words[wi];
+        slot.textContent = w.slice(0, ci);
+        if (!del && ci++ === w.length) { del = true; return setTimeout(tick, 1600); }
+        if (del && ci-- === 0) { del = false; wi = (wi + 1) % words.length; }
+        setTimeout(tick, del ? 40 : 90);
+      })();
+    }
+  }
+})();
+</script>
 </body>
 </html>

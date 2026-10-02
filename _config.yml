@@ -13,3 +13,9 @@ social:
 
 plugins:
   - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og-image.png
