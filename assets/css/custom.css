@@ -3973,59 +3973,63 @@ html {
 }
 
 
-/* ============ 现代饱满自适应双栏文档布局 (左右对称48px，消除一切单侧留白) ============ */
+/* ============ 黄金数学级对称三栏文档布局 (左右绝对等距46px，彻底消除任何一侧偏心留白) ============ */
 .layout-read .content-body-wrap {
   display: flex !important;
   align-items: flex-start !important;
-  gap: 40px !important;
-  padding: 36px 48px 48px 48px !important; /* 左右边距严格对称 48px */
+  justify-content: center !important; /* 核心：整体在主可视区内完美居中对称 */
+  gap: 32px !important;
+  padding: 36px 46px 48px 46px !important;
   width: 100% !important;
-  max-width: 100% !important; /* 彻底打破 1360px 限制，完全充满大屏视野 */
-  margin: 0 !important;
   box-sizing: border-box !important;
+  margin: 0 auto !important;
 }
 
 .layout-read .content-inner {
-  flex: 1 1 auto !important; /* 正文饱满伸展，吸收所有中间空间 */
+  flex: 0 1 1020px !important; /* 舒展黄金正文宽度 */
+  max-width: 1020px !important;
   min-width: 0 !important;
-  max-width: none !important; /* 宽度随屏幕自然伸展，代码块与表格更舒展 */
+  width: 100% !important;
   margin: 0 !important;
   padding: 0 !important;
 }
 
-/* 右侧 TOC 目录：优雅居右，与右边界保持与左侧完全对称的 48px 间距 */
+/* 右侧 TOC 目录：精致收敛，消除诡异的绿色悬浮细线，完美卡片边框 */
 #doc-toc {
   position: sticky !important;
   top: 96px !important;
-  width: 240px !important;
-  flex-shrink: 0 !important;
+  width: 200px !important;
+  flex: 0 0 200px !important;
   max-height: calc(100vh - 130px) !important;
   overflow-y: auto !important;
   overflow-x: hidden !important;
-  padding: 18px 16px !important;
-  border-radius: 14px !important;
-  background: rgba(13, 20, 26, 0.78) !important;
-  backdrop-filter: blur(14px) !important;
-  -webkit-backdrop-filter: blur(14px) !important;
+  padding: 16px 14px !important;
+  border-radius: 12px !important;
+  background: var(--color-surface) !important;
   border: 1px solid var(--color-border) !important;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
   box-sizing: border-box !important;
   display: block !important;
-  scrollbar-width: thin;
-  scrollbar-color: rgba(0, 255, 136, 0.2) transparent;
+  scrollbar-width: none !important; /* 彻底隐藏突兀的滚动条 */
+}
+#doc-toc::-webkit-scrollbar {
+  display: none !important;
 }
 
 [data-theme="light"] #doc-toc {
-  background: rgba(255, 255, 255, 0.9) !important;
-  border-color: rgba(0, 0, 0, 0.08) !important;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06) !important;
+  background: #ffffff !important;
+  border-color: rgba(0, 0, 0, 0.1) !important;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05) !important;
 }
 
-/* 屏幕较窄时平滑适配 */
-@media (max-width: 1200px) {
+@media (max-width: 1320px) {
   #doc-toc {
     display: none !important;
   }
+  .layout-read .content-body-wrap {
+    padding: 28px 24px !important;
+  }
+}
   .layout-read .content-body-wrap {
     padding: 28px 24px !important;
   }
