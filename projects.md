@@ -6,13 +6,13 @@ title: 项目
 <h1>项目</h1>
 <p class="page-subtitle">多模态智能安防 · ROS2 驱动 · SLAM 建图 · 计算机视觉 · 无人机 · 工具脚本</p>
 
+<div class="filter-bar" id="project-filter"></div>
+
 <div class="project-group">
   <div class="section-title">
     <span class="section-icon-box">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
     </span>
-    <div class="filter-bar" id="project-filter"></div>
-
 <h2>地瓜派 RDK X5 · 多模态智能空间安防系统</h2>
   </div>
   <p class="group-desc">基于地平线 8 核 A55 边缘计算平台与 10 TOPS BPU 的软硬件一体化安防中枢，深度融合激光雷达空间感知、InsightFace 工业级人脸识别、半导体指纹与自适应齿条门禁。</p>

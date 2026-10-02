@@ -3764,8 +3764,10 @@ html {
 #doc-toc a:hover,#doc-toc a.active{color:#00ff88}
 #doc-toc .lv3{padding-left:14px}
 .filter-bar{display:flex;gap:10px;flex-wrap:wrap;margin:4px 0 26px;padding:2px 0}
-.filter-btn{font-size:13.5px;padding:7px 18px;border-radius:20px;border:1px solid rgba(0,255,136,.35);background:rgba(0,255,136,.04);color:#8b98a5;cursor:pointer;transition:all .2s;letter-spacing:.5px}
-.filter-btn.active,.filter-btn:hover{background:rgba(0,255,136,.14);color:#00d47a;border-color:rgba(0,255,136,.65);box-shadow:0 0 10px rgba(0,255,136,.15)}
+.filter-btn{font-size:13.5px;padding:7px 18px;border-radius:20px;border:1px solid rgba(0,150,110,.35);background:rgba(0,150,110,.05);color:#3d7a5c;cursor:pointer;transition:all .2s;letter-spacing:.5px}
+[data-theme="dark"] .filter-btn, html:not([data-theme]) .filter-btn{border-color:rgba(0,255,136,.35);background:rgba(0,255,136,.04);color:#8b98a5}
+.filter-btn.active,.filter-btn:hover{background:rgba(0,180,120,.16);color:#0a8a5c;border-color:rgba(0,160,110,.7);box-shadow:0 0 10px rgba(0,180,120,.15)}
+[data-theme="dark"] .filter-btn.active, html:not([data-theme]) .filter-btn.active, html:not([data-theme]) .filter-btn:hover{background:rgba(0,255,136,.14);color:#00d47a;border-color:rgba(0,255,136,.65);box-shadow:0 0 10px rgba(0,255,136,.15)}
 .filter-hide{display:none!important}
 /* 特色横幅卡（凌霄，通栏左图右文） */
 .card-featured{grid-column:1/-1;display:grid;grid-template-columns:minmax(300px,1.05fr) 1fr;overflow:hidden;padding:0}
