@@ -56,6 +56,57 @@
       securityLevel: 'loose'
     });
   </script>
+
+  <!-- 文档长文全屏自适应充满布局（消除任何单侧大留白） -->
+  <style>
+    .layout-read .content-body-wrap {
+      display: flex !important;
+      align-items: flex-start !important;
+      gap: 40px !important;
+      padding: 36px 48px 48px 48px !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      margin: 0 !important;
+      box-sizing: border-box !important;
+    }
+    .layout-read .content-inner {
+      flex: 1 1 auto !important;
+      min-width: 0 !important;
+      max-width: none !important;
+      width: auto !important;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+    #doc-toc {
+      position: sticky !important;
+      top: 96px !important;
+      width: 240px !important;
+      flex-shrink: 0 !important;
+      margin-left: auto !important;
+      max-height: calc(100vh - 130px) !important;
+      overflow-y: auto !important;
+      overflow-x: hidden !important;
+      padding: 18px 16px !important;
+      border-radius: 14px !important;
+      background: rgba(13, 20, 26, 0.78) !important;
+      backdrop-filter: blur(14px) !important;
+      -webkit-backdrop-filter: blur(14px) !important;
+      border: 1px solid var(--color-border) !important;
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15) !important;
+      box-sizing: border-box !important;
+      display: block !important;
+    }
+    [data-theme="light"] #doc-toc {
+      background: rgba(255, 255, 255, 0.92) !important;
+      border-color: rgba(0, 0, 0, 0.08) !important;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06) !important;
+    }
+    @media (max-width: 1200px) {
+      #doc-toc { display: none !important; }
+      .layout-read .content-body-wrap { padding: 28px 24px !important; }
+    }
+  </style>
+
 </head>
 <body class="{% if page.layout_class %}{{ page.layout_class }}{% elsif page.url contains '/finance' or page.url contains '/news' or page.url contains '/projects' or page.url contains '/videos' or page.url contains '/3d-viewer' or page.url contains '/slides' or page.url == '/' or page.url == '/docs' or page.url == '/docs/' or page.url == '/docs.html' %}layout-wide{% else %}layout-read{% endif %}">
   <!-- 顶部阅读进度条 -->
