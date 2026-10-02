@@ -3748,3 +3748,22 @@ html {
 }
 
 
+
+
+/* ============ 2026-10-02 新增：卡片配图 / 灯箱 / 文档TOC / 筛选条（与 9.27 旧增强不重复） ============ */
+.card-media{position:relative;overflow:hidden;border-radius:10px;margin:0 0 14px;aspect-ratio:16/9;background:#0d141a;cursor:zoom-in}
+.card-media img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease}
+.card:hover .card-media img{transform:scale(1.06)}
+.card-media::after{content:"🔍 点击查看大图";position:absolute;left:10px;bottom:10px;font-size:11px;color:#dfffe9;background:rgba(0,0,0,.55);padding:3px 8px;border-radius:6px;opacity:0;transition:opacity .3s}
+.card:hover .card-media::after{opacity:1}
+#lightbox-overlay{position:fixed;inset:0;background:rgba(0,0,0,.88);display:none;align-items:center;justify-content:center;z-index:10002;cursor:zoom-out}
+#lightbox-overlay img{max-width:92vw;max-height:90vh;border-radius:10px;box-shadow:0 0 40px rgba(0,255,136,.25)}
+#doc-toc{position:fixed;top:90px;right:calc((100vw - min(100vw - 48px,1560px))/2 - 210px);width:180px;max-height:70vh;overflow:auto;font-size:12.5px;border-left:1px solid rgba(0,255,136,.25);padding-left:10px;display:none}
+@media(min-width:1500px){#doc-toc{display:block}}
+#doc-toc a{display:block;color:#8b98a5;padding:3px 0;text-decoration:none}
+#doc-toc a:hover,#doc-toc a.active{color:#00ff88}
+#doc-toc .lv3{padding-left:14px}
+.filter-bar{display:flex;gap:10px;flex-wrap:wrap;margin:4px 0 26px;padding:2px 0}
+.filter-btn{font-size:13.5px;padding:7px 18px;border-radius:20px;border:1px solid rgba(0,255,136,.35);background:rgba(0,255,136,.04);color:#8b98a5;cursor:pointer;transition:all .2s;letter-spacing:.5px}
+.filter-btn.active,.filter-btn:hover{background:rgba(0,255,136,.14);color:#00d47a;border-color:rgba(0,255,136,.65);box-shadow:0 0 10px rgba(0,255,136,.15)}
+.filter-hide{display:none!important}
