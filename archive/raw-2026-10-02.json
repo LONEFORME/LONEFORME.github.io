@@ -1568,5 +1568,615 @@
     "feed_name": "纽约时报",
     "summary": "President Trump spent the day preaching to his most fervent fans, not the voters he will need to help elect or re-elect a slate of Republicans fighting in states from Alaska to Maine.",
     "published_dt_iso": "2026-10-02T11:58:49+08:00"
+  },
+  {
+    "title": "过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者",
+    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+    "date": "2026-10-02",
+    "published_time": "22:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "今天是在TechCrunch Disrupt 2026上预订展台的最后一天。10月13日至15日，超过1万名创始人、投资者、运营商和技术领导者将抵达旧金山的Moscone West ，寻找值得了解的公司、产品、创意和人才。问题是：他们会找到你的创业公司吗？",
+    "published_dt_iso": "2026-10-02T22:00:00+08:00"
+  },
+  {
+    "title": "亚马逊和Synopsys签署多年知识产权协议，达成数十亿美元协议，以加快人工智能芯片设计工作",
+    "link": "https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities",
+    "date": "2026-10-02",
+    "published_time": "21:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "亚马逊和芯片设计工具制造商Synopsys签署了一项价值超过10亿美元的多年合作伙伴关系。作为协议的一部分，亚马逊将许可Synopsys的芯片设计及其设计工具，以创建和优化新的人工智能芯片。Synopsys将采用Amazon Bedrock构建和部署AI代理，并采用AWS计算和存储服务，同时为Amazon硬件优化自己的工具。",
+    "published_dt_iso": "2026-10-02T21:50:00+08:00"
+  },
+  {
+    "title": "由于隐私问题，在美国一些城市部署了配备摄像头的无人机，作为急救人员",
+    "link": "https://www.tomshardware.com/tech-industry/drones/flock-drones-with-cameras-deployed-as-first-responders-in-some-us-cities-amid-privacy-concerns-uavs-connect-to-wider-emergency-services-system-and-streams-video-to-dispatchers-officers",
+    "date": "2026-10-02",
+    "published_time": "21:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "美国城市考虑部署可自动响应紧急呼叫的Flock无人机。然而，由于隐私和其他问题，其他司法管辖区正在抵制这项服务。",
+    "published_dt_iso": "2026-10-02T21:20:00+08:00"
+  },
+  {
+    "title": "英伟达推出64GB DGX Spark ，在RAMpocalypse中为本地AI粉丝提供生命线",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+    "date": "2026-10-02",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "英伟达正在推出64GB版本的DGX Spark本地AI工作站，该工作站专为新一代高度智能且紧凑的本地模型量身定制。起价为4999 $ ，更实惠的配置与原来的128GB Spark及其GB10兄弟相同。",
+    "published_dt_iso": "2026-10-02T21:00:00+08:00"
+  },
+  {
+    "title": "OpenAI的Jalapeño ASIC与AMD EPYC “Turin” CPU一起部署为主机，而不是英伟达的Vera",
+    "link": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level",
+    "date": "2026-10-02",
+    "published_time": "20:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "OpenAI选择将其Jalapeño ASIC的机架规模部署与AMD EPYC Turin CPU配对，而不是像Arm的AGI或Nvidia的Vera这样的高性能代理芯片浪潮。",
+    "published_dt_iso": "2026-10-02T20:40:00+08:00"
+  },
+  {
+    "title": "这款配备五个2.5G以太网端口的TP-Link Wi-Fi 7路由器可享受$ 80折扣，现价$ 169.99",
+    "link": "https://www.tomshardware.com/networking/routers/grab-an-usd80-discount-on-this-tp-link-wi-fi-7-router-with-five-2-5g-ethernet-ports-limited-time-deal-on-the-archer-be550-nets-a-tri-band-router-with-fast-speeds-to-upgrade-your-home-network",
+    "date": "2026-10-02",
+    "published_time": "20:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "TP-Link Archer BE550 Wi-Fi 7路由器仅限时销售，价格低至$ 169.99 ，配备6根天线和5个2.5G以太网端口，功能强大。",
+    "published_dt_iso": "2026-10-02T20:20:00+08:00"
+  },
+  {
+    "title": "购买Elgato最大的Stream Deck ，立省$ 50",
+    "link": "https://www.tomshardware.com/peripherals/save-usd50-on-elgatos-biggest-stream-deck-this-32-key-monster-macro-pad-is-now-down-to-usd199",
+    "date": "2026-10-02",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Elgato的Stream Deck在亚马逊享受20%的折扣。只需$ 199即可购买Stream Deck XL。",
+    "published_dt_iso": "2026-10-02T20:00:00+08:00"
+  },
+  {
+    "title": "由于价格上涨推动利润增长，美光现在在消费者记忆上有88%的利润率",
+    "link": "https://www.tomshardware.com/pc-components/dram/micron-now-has-an-88-percent-margin-on-consumer-memory-price-hikes-drive-revenue-client-business-is-microns-only-unit-that-shipped-less-memory-this-quarter",
+    "date": "2026-10-02",
+    "published_time": "19:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "根据该公司2026年第四季度财务报告，美光的消费者业务利润率最高，尽管该季度的内存较少。",
+    "published_dt_iso": "2026-10-02T19:40:00+08:00"
+  },
+  {
+    "title": "Micro Center要求购买RTX 5090游戏GPU需要带照片的身份证和签署的无出口承诺",
+    "link": "https://www.tomshardware.com/pc-components/gpus/micro-center-requires-photo-id-and-signed-no-export-pledge-to-buy-rtx-5090-gaming-gpu-buyer-forced-to-sign-declaration-disclosing-install-location-and-promise-gpu-will-remain-in-the-us",
+    "date": "2026-10-02",
+    "published_time": "19:15",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "该表格要求RTX 5090买家在获得批准进行购买之前输入他们的个人数据。但是，目前尚不清楚Micro Center如何使用这些信息来跟踪非法出口的GPU。",
+    "published_dt_iso": "2026-10-02T19:15:00+08:00"
+  },
+  {
+    "title": "派拉蒙的华纳兄弟巨型合并将被称为Skydance",
+    "link": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+    "date": "2026-10-02",
+    "published_time": "21:42",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "派拉蒙Skydance首席执行官大卫·埃里森（ David Ellison ）宣布，当该公司下周完成与华纳兄弟发现公司（ Warner Bros. Discovery ）的1100亿美元合并时，该公司将被称为Skydance。Ellison在X上的一篇文章中写道： “我们想要一个名字，让合并后的公司拥有自己的身份，同时允许派拉蒙和[…]",
+    "published_dt_iso": "2026-10-02T21:42:36+08:00"
+  },
+  {
+    "title": "特斯拉的复苏遇到了减速带",
+    "link": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
+    "date": "2026-10-02",
+    "published_time": "21:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "特斯拉第三季度的汽车销量低于一年前，当时消费者急于兑现即将到期的电动汽车购买联邦税收抵免。但该公司仍高于华尔街的估计，表明其复苏仍在轨道上。特斯拉表示，它总共生产了464,391辆[…]",
+    "published_dt_iso": "2026-10-02T21:08:16+08:00"
+  },
+  {
+    "title": "Home Assistant说： “大科技毁了云，所以我们出局了”",
+    "link": "https://www.theverge.com/tech/1003936/home-assistant-says-big-tech-ruined-the-cloud-so-were-out",
+    "date": "2026-10-02",
+    "published_time": "21:02",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "开源智能家居平台Home Assistant正在将云计算踢到路边--至少名义上是这样。“我们将Home Assistant Cloud更名为Home Assistant Link ，因为我们讨厌云，”创始人Paulus Schoutsen在今天宣布之前接受采访时告诉The Verge。“大科技毁了云，所以我们出局了。“这[…]",
+    "published_dt_iso": "2026-10-02T21:02:52+08:00"
+  },
+  {
+    "title": "Pocket Advance几乎完美了我最喜欢的任天堂手持设备",
+    "link": "https://www.theverge.com/tech/993521/ayaneo-konkr-pocket-advance-nintendo-game-boy-advance-handheld",
+    "date": "2026-10-02",
+    "published_time": "21:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "虽然我把最初的Game Boy视为我最初的技术痴迷之一，但我仍然认为任天堂的Game Boy Advance是我有史以来最喜欢的游戏机，这要归功于它更舒适的水平设计（适合我的大手）和它广泛的优秀32位和16位游戏目录。Ayaneo并不是第一家[…]",
+    "published_dt_iso": "2026-10-02T21:00:00+08:00"
+  },
+  {
+    "title": "《星球大战：银河赛车手》是我童年的追逐梦想成真",
+    "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
+    "date": "2026-10-02",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "《幽灵的威胁》中的播客场景是我有史以来最喜欢的电影片段之一。太酷了：未来赛车手在危险的塔图因地形上撕裂，而各种星球大战外星人用难以理解的科幻语言互相吠叫。最终，一个年轻的阿纳金·天行者证明了他的勇气，他从[…]",
+    "published_dt_iso": "2026-10-02T20:00:00+08:00"
+  },
+  {
+    "title": "人工智能幻觉使有资格的客户变得更糟",
+    "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+    "date": "2026-10-02",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Madison是纽约市的一家服务员，他向每张桌子打招呼，询问每个餐厅的过敏情况。最近，有一些亲密的电话。“有时人们会告诉我他们对贝类过敏，我会回来的，他们不会问我任何问题，”麦迪逊说，她要求将她的姓氏隐瞒给[…]",
+    "published_dt_iso": "2026-10-02T20:00:00+08:00"
+  },
+  {
+    "title": "如果数据中心被伪装在树林里，有人会讨厌它吗？",
+    "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+    "date": "2026-10-02",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "圣安东尼奥市议会议员里克·加尔文（ Ric Galvan ）记得2000年代数据中心首次进入他的城市时，看起来像相对不起眼的办公楼。但近年来情况发生了变化，数据中心已经发展成为跨越数百万平方英尺的大型“超大规模”设施，并容纳了人工智能的物理基础设施。现在有更多[…]",
+    "published_dt_iso": "2026-10-02T20:00:00+08:00"
+  },
+  {
+    "title": "亚马逊撰写可怕的博客，警告社区不要封锁数据中心",
+    "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+    "date": "2026-10-02",
+    "published_time": "19:52",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "亚马逊呼吁人们支持人工智能数据中心项目，否则将对美国经济和国家安全造成无法弥补的伤害。在今天发布的一篇3000多字的博客中，亚马逊网络服务首席执行官马特·加曼（ Matt Garman ）反驳了公众对数据中心可能对就业、电力需求和[…]产生影响的担忧。",
+    "published_dt_iso": "2026-10-02T19:52:20+08:00"
+  },
+  {
+    "title": "openJiuwen X-Router自演进模型路由技术首发，升腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+    "link": "https://www.qbitai.com/2026/10/500098.html",
+    "date": "2026-10-02",
+    "published_time": "15:34",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+    "published_dt_iso": "2026-10-02T15:34:15+08:00"
+  },
+  {
+    "title": "丘成桐新论文致谢了GPT和Claude",
+    "link": "https://www.qbitai.com/2026/10/499991.html",
+    "date": "2026-10-02",
+    "published_time": "15:27",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "44年前被亲自列入问题清单",
+    "published_dt_iso": "2026-10-02T15:27:03+08:00"
+  },
+  {
+    "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+    "link": "https://www.qbitai.com/2026/10/499958.html",
+    "date": "2026-10-02",
+    "published_time": "14:46",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "换区也没用",
+    "published_dt_iso": "2026-10-02T14:46:32+08:00"
+  },
+  {
+    "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
+    "link": "https://www.ithome.com/1/009/365.htm",
+    "date": "2026-10-02",
+    "published_time": "22:01",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，眼镜会更多结合用户眼前的实际环境进行描述，例如提示“在前方黄色房子处左转”，让语音导航更加自然。同时官方还为导航新增“骑行”和“公共交通”两种模式。在通知功能方面，用户现在能够自由控制眼镜显示的通知，并选择需要关闭的通知类型，从而进一步减少无关信息对使用体验的干扰。此外，Meta 计划在今年晚些时候向美国地区参与 Early Access 计划的用户推送 Hologram 虚拟化身功能，首批支持 WhatsApp 视频通话。用户",
+    "published_dt_iso": "2026-10-02T22:01:00+08:00"
+  },
+  {
+    "title": "焕新极氪 007GT 色彩上新：推出“河谷绿”车色、“墨绿”内饰",
+    "link": "https://www.ithome.com/1/009/364.htm",
+    "date": "2026-10-02",
+    "published_time": "21:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布，焕新极氪 007GT 色彩上新，带来全新外饰色河谷绿、全新内饰色墨绿。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 007GT 可享更多限时权益。IT之家注意到，焕新极氪 007/007GT 于今年 4 月正式上市，定价 20.39 万元起，限时 19.39 万元起。系列车型标配 19 英寸轮毂，其中焕新极氪 007 前脸新增动感通风口造型，并提供碳纤维套件选装服务，强化运动属性。两款车型搭载算力更强的 NVIDIA DRIVE Thor-U 智驾芯片，智能化水平显著提升。规格方面，焕新极氪 007 长宽高为 4858（4880）x 1900 x 1450mm，轴距 2925mm。而 007GT 车身尺寸微调至 4858（",
+    "published_dt_iso": "2026-10-02T21:43:44+08:00"
+  },
+  {
+    "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
+    "link": "https://www.ithome.com/1/009/363.htm",
+    "date": "2026-10-02",
+    "published_time": "21:38",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，Meta 宣布旗下 AI 智能体 Muse 将于近期登陆智能眼镜，用户无需拿出手机，只需通过语音下达指令，Muse 就能在后台代用户完成一系列任务。Meta 表示，Muse 基于 Muse Spark AI 模型运行，其核心运行环境是一台部署在云端的私有持久化 Linux 虚拟机，配备独立的网页浏览器、文件系统和终端。即使用户关闭应用，这些组件仍会持续运行。为了完成用户交代的任务，Muse 可以自行决定编写并运行代码，也可以将工作分配给多个子智能体，还能创建定时任务。此外，Muse 还能够生成文档、PDF、网站以及消费记录追踪器、数据仪表盘等交互式工具。与主要面向开发者和专业用户的其他 AI 智能体相比，Muse 的定位更加偏向普通消费者。其界面采用类似即时通",
+    "published_dt_iso": "2026-10-02T21:38:14+08:00"
+  },
+  {
+    "title": "B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕",
+    "link": "https://www.ithome.com/1/009/362.htm",
+    "date": "2026-10-02",
+    "published_time": "21:18",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，B 站 App 宣布上架鸿蒙手表端应用市场，用户在华为 WATCH 系列手表上就能看视频、刷弹幕、听播客。官方表示，用户只需前往应用市场，即可下载安装哔哩哔哩手表端，相应 App 提供收藏、倍速、循环播放、下载缓存等各种特性，适合早高峰地铁、夜跑、做饭、洗碗、排队、等人等各种场景，精彩内容抬腕即达。",
+    "published_dt_iso": "2026-10-02T21:18:14+08:00"
+  },
+  {
+    "title": "桌面 AI 超算新选择：英伟达 NVIDIA DGX Spark 64GB 内存版正式发布，4999 美元",
+    "link": "https://www.ithome.com/1/009/359.htm",
+    "date": "2026-10-02",
+    "published_time": "21:00",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，英伟达今天正式对外披露 DGX Spark 产品更新，推出 64GB 内存版本 DGX Spark 桌面 AI 计算机，起售价 4,999 美元（现汇率约合 33,566 元人民币），将于 10 月 23 日正式发售，宏碁、戴尔、华硕、技嘉、微星、H3C 等众多 OEM 厂商均会推出基于该平台的整机产品。官方此前推出的 128GB 版本同步更新定价，128GB FE 版本售价 6,950 美元（IT之家注：现汇率约合 46,666 元人民币）。硬件层面，DGX Spark 基于 GB10 Grace‑Blackwell 超算芯片，依靠统一内存架构打通 CPU 与 GPU 内存空间，本次新增 64GB 内存版本，整机总内存 64GB，系统预留约 8GB 内存，可",
+    "published_dt_iso": "2026-10-02T21:00:00+08:00"
+  },
+  {
+    "title": "HKC“神盾 25Q360B”24.5 英寸显示器发售：2K 360Hz QD-Mini LED，2221 元（国补后 1999 元）",
+    "link": "https://www.ithome.com/1/009/358.htm",
+    "date": "2026-10-02",
+    "published_time": "20:51",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，HKC 旗下“神盾 25Q360B”24.5 英寸电竞显示器现已在京东发售，定价为 2221 元，部分地区国补后低至 1999 元。京东 HKC 神盾 25Q360B 显示器 2221 元直达链接该机搭载一块 2560×1440 分辨率 1152 分区 QD-Mini LED 背光 360Hz 刷新率 Fast IPS 面板，GtG 响应速度 1ms，拥有 1400nit HDR 峰值亮度，对比度达到 300000:1。覆盖 98.5% DCI-P3、98.5% Adobe RGB、100% sRGB，出厂逐台校色达到 ΔE≤2 专业级色准。它搭载 HKC 自研 DIC 2.0 动态模糊消除技术，通过 MiniLED 精密分区控光技术结合同步插黑帧技术，三档可",
+    "published_dt_iso": "2026-10-02T20:51:14+08:00"
+  },
+  {
+    "title": "上海市委网信办：督促平台重点防范化解七类涉未成年人心理健康风险，哔哩哔哩、小红书、拼多多等参会",
+    "link": "https://www.ithome.com/1/009/357.htm",
+    "date": "2026-10-02",
+    "published_time": "20:49",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，9 月 30 日，上海市委网信办组织召开未成年人网络保护专题指导会，聚焦压实网站平台主体责任，深入推进未成年人网络保护专项行动，重点加强心理健康工作，全方位守护未成年人上网环境。属地哔哩哔哩、小红书、拼多多、喜马拉雅、SOUL、阅文集团、米哈游等 17 家重点平台参会。IT之家注意到，会议通报了专项行动期间涉未成年人违法违规和不良信息典型案例，重点部署进一步加强未成年人心理健康工作，督促平台严格落实主体责任，重点防范化解七类涉未成年人心理健康风险。一是网络沉迷成瘾风险，避免造成未成年人作息失调、注意力下降、厌学逃避等问题；二是网络欺凌风险，防范其造成未成年人长期心理创伤；三是容貌身材焦虑扩散风险，警惕由此滋生未成年人自卑心理等；四是自残自杀类消极有害信息传播风",
+    "published_dt_iso": "2026-10-02T20:49:56+08:00"
+  },
+  {
+    "title": "央视曝光二手平台低价机票陷阱，一男子被骗近 30 万元",
+    "link": "https://www.ithome.com/1/009/356.htm",
+    "date": "2026-10-02",
+    "published_time": "20:44",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 2 日消息，据央视财经今日报道，近期，北京市公安局海淀分局接到了市民王先生的报警，称自己因购买低价机票遭遇诈骗，但是令他疑惑不解的是，订票过程中，他明明拨打了官方平台的客服电话进行查询，也确实查到了自己的“机票信息”，但还是被骗了。警方调查发现，该订单虽然真实存在，却一直处于“未付款”状态。诈骗分子只是预先用王先生的信息占座下单，制造出“票已订好”的假象。见王先生已经上钩，诈骗分子继续以“交易仍未成功”为由，要求他下载指定的通联软件，并引导王先生开启屏幕共享。向对方提供的账户进行转款。经查，王先生共计损失二十九万余元。目前，案件仍在进一步办理中。警方表示，此类节假日票务诈骗套路基本如下：骗子依托二手平台发布所谓超低价“特价票、内部票、员工票、捡漏票”等，利用大家想省钱、怕",
+    "published_dt_iso": "2026-10-02T20:44:56+08:00"
+  },
+  {
+    "title": "曼城确认对有罪判决的上诉",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "16:50",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "俱乐部的声明称，该裁决“在法律、原则和事实方面存在明显的重大错误，是不安全的”。",
+    "published_dt_iso": "2026-10-02T16:50:24+08:00"
+  },
+  {
+    "title": "我国首个百兆瓦级 这个巨型“充电宝”成功并网",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707319.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "今天(10月2日)，我国首个百兆瓦级压缩二氧化碳储能项目——中国华电新疆木垒压缩二氧化碳储能项目成功并网，开辟了大容量压缩二氧化碳储能绿色、零碳、高效、经济的新路线。",
+    "published_dt_iso": "2026-10-02T20:49:43+08:00"
+  },
+  {
+    "title": "第169次中老缅泰湄公河联合巡逻执法行动结束",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707299.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:39",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "【东盟专线】第169次中老缅泰湄公河联合巡逻执法行动结束",
+    "published_dt_iso": "2026-10-02T20:39:02+08:00"
+  },
+  {
+    "title": "国庆假期第二天全国道路交通总体平稳有序 公安部交管局发布道路出行安全提示",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707292.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网10月2日电 据公安部交通管理局微信公众号消息，国庆假期第二天，全国公路交通流量较昨天有所下降，除京津冀、长三角、珠三角、成渝等地大城市周边出入城方向部分路段有局部车多缓行情况外，主干公路通行总体有序。各地公安交管部门结合道路交通流量、交通违法的规律特点，加强交通安全态势分析评估，加大警力投入和巡查频次，严查严处“三超一疲劳”、酒驾醉驾等肇事突出交通违法，广泛开展安全宣传警示，全力维护群众假期出行安全。",
+    "published_dt_iso": "2026-10-02T20:22:15+08:00"
+  },
+  {
+    "title": "第169次中老缅泰湄公河联合巡逻执法行动圆满结束",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707248.shtml",
+    "date": "2026-10-02",
+    "published_time": "18:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "10月2日，中方53108艇顺利返航，安全靠泊云南西双版纳景哈警务码头，标志着为期12天的第169次中老缅泰湄公河联合巡逻执法行动圆满结束。",
+    "published_dt_iso": "2026-10-02T18:52:40+08:00"
+  },
+  {
+    "title": "山海作田垄，八闽有群人",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707228.shtml",
+    "date": "2026-10-02",
+    "published_time": "18:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网福州10月2日电 (郑江洛)近期，“八闽楷模”福建省科技特派员群体先进事迹发布仪式在福州举行。多年来，福建科技特派员走出实验室、扎根田野乡间，把论文写在八闽大地上，将科研技术成果持续转化为富民兴农实效。",
+    "published_dt_iso": "2026-10-02T18:09:05+08:00"
+  },
+  {
+    "title": "台青文旅博主李天启：行走中品味大陆",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707200.shtml",
+    "date": "2026-10-02",
+    "published_time": "17:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社南京10月2日电 题：台青文旅博主李天启：行走中品味大陆",
+    "published_dt_iso": "2026-10-02T17:53:28+08:00"
+  },
+  {
+    "title": "一抹中国红，见证跨越时代的奔赴",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-02/10707185.shtml",
+    "date": "2026-10-02",
+    "published_time": "16:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新华鲜报｜一抹中国红，见证跨越时代的奔赴",
+    "published_dt_iso": "2026-10-02T16:09:48+08:00"
+  },
+  {
+    "title": "印度一起交通事故导致至少7人死亡19人受伤",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707323.shtml",
+    "date": "2026-10-02",
+    "published_time": "21:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月2日电 新德里消息：当地时间10月2日凌晨，印度西部马哈拉施特拉邦发生一起交通事故，导致至少7人死亡、19人受伤。",
+    "published_dt_iso": "2026-10-02T21:22:09+08:00"
+  },
+  {
+    "title": "吉尔吉斯斯坦首颗卫星成功入轨",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707297.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社阿斯塔纳10月2日电 比什凯克消息：吉尔吉斯斯坦总统府网站2日发布消息称，该国首颗卫星于当地时间1日在美国发射升空并成功入轨，将用于自然资源监测和灾害预警等领域。",
+    "published_dt_iso": "2026-10-02T20:50:21+08:00"
+  },
+  {
+    "title": "金与正谴责韩方企图把朝鲜半岛局势再次拖入危险境地",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707296.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月2日电 据朝中社2日报道，朝鲜劳动党中央委员会部长金与正当天就日前发生在朝韩非军事区的地雷爆炸事件发表谈话，谴责韩方企图把朝鲜半岛局势再次拖入危险境地。",
+    "published_dt_iso": "2026-10-02T20:49:53+08:00"
+  },
+  {
+    "title": "阿联酋总统顾问称迪拜航空驾驶舱冲突系“恐袭”",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707280.shtml",
+    "date": "2026-10-02",
+    "published_time": "19:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "2日，据相关消息，阿联酋总统顾问安瓦尔·加尔贾什当天表示，迪拜航空公司客机驾驶舱冲突事件是一起“恐袭行为”。",
+    "published_dt_iso": "2026-10-02T19:35:38+08:00"
+  },
+  {
+    "title": "金与正：韩方企图把朝鲜半岛局势再次拖入危险境地",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707246.shtml",
+    "date": "2026-10-02",
+    "published_time": "19:17",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月2日电 据朝中社10月2日报道，朝鲜劳动党中央委员会部长金与正当天发表谈话，就日前发生在朝韩非军事区的地雷爆炸事件，谴责韩方企图把朝鲜半岛局势再次拖入危险境地。",
+    "published_dt_iso": "2026-10-02T19:17:11+08:00"
+  },
+  {
+    "title": "巴基斯坦安全部队在反恐行动中击毙7名恐怖分子",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707238.shtml",
+    "date": "2026-10-02",
+    "published_time": "18:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月2日电 伊斯兰堡消息：当地时间10月2日，巴基斯坦安全部队在该国开伯尔-普什图省(KP)北瓦济里斯坦地区展开的一次反恐行动中，共击毙7名恐怖分子。",
+    "published_dt_iso": "2026-10-02T18:50:51+08:00"
+  },
+  {
+    "title": "韩国检察制度迎重大改革 检察厅退出历史舞台",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707244.shtml",
+    "date": "2026-10-02",
+    "published_time": "18:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月2日电 韩国检察制度10月2日迎来重大改革。据韩联社报道，韩国公诉厅和重大犯罪调查厅10月2日正式成立，取代10月1日结束最后一个工作日的韩国检察厅。1948年成立、运行了78年的韩国检察厅正式退出历史舞台。",
+    "published_dt_iso": "2026-10-02T18:35:07+08:00"
+  },
+  {
+    "title": "哈兰德起诉挪威航空",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-02/10707242.shtml",
+    "date": "2026-10-02",
+    "published_time": "18:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月2日电 综合外媒10月1日报道，挪威球员哈兰德正起诉挪威航空，指控后者非法使用其肖像。航空公司方面回应称，难以理解此项诉讼，并表示“遗憾”。",
+    "published_dt_iso": "2026-10-02T18:26:20+08:00"
+  },
+  {
+    "title": "2026年国庆假期首日琼州海峡客滚运输平稳运行",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707322.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:55",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州10月2日电 (记者 郭军)记者2日从交通运输部珠江航务管理局(简称“珠航局”)了解到，2026年国庆假期首日(10月1日)，琼州海峡客滚运输发送实航284班次，运送旅客112657人次、车辆28277辆次，相比2024年同期分别增长9.7%、增长21.4%、增长19.3%。新能源车运量增长较快，单日运输6873辆次，创国庆假期历史新高。",
+    "published_dt_iso": "2026-10-02T20:55:49+08:00"
+  },
+  {
+    "title": "国庆假期首日 古都南京“热”力全开",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707321.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网南京10月2日电 (张传明 唐娟)国庆假期首日，南京“热”力全开。途牛平台数据显示，南京成为国庆假期首日境内游热门目的地；去哪儿旅行数据显示，南京是国庆假期首日酒店入住热门城市。热度背后，是这座历史文化名城以文博、夜游、演艺、乡村、商业等多元场景，为游客奉上充满文化气息的文旅“盛宴”。",
+    "published_dt_iso": "2026-10-02T20:52:11+08:00"
+  },
+  {
+    "title": "广东超70个镇街遭遇暴雨  全省最大降雨量达125毫米",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707298.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:36",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社广州10月2日电 (记者 王坚)在冷空气影响下，广东广州、深圳、江门、肇庆等地2日遭遇强降雨。当日白天，全省有71个镇街出现暴雨、大暴雨，全省最大降雨量达125毫米。",
+    "published_dt_iso": "2026-10-02T20:36:58+08:00"
+  },
+  {
+    "title": "苏通大桥国庆假期首日流量达16.59万辆 创开通以来单日流量新高",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707263.shtml",
+    "date": "2026-10-02",
+    "published_time": "20:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网南通10月2日电(记者 谷华)2日，据江苏南通市公安局交管支队消息，国庆假期首日，苏通长江公路大桥(以下简称：苏通大桥)全天总流量达16.59万辆，创下大桥开通以来单日流量历史新高。",
+    "published_dt_iso": "2026-10-02T20:04:56+08:00"
+  },
+  {
+    "title": "湖南祁阳“补丁田”变“聚宝田” 五指毛桃铺就富民路",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707284.shtml",
+    "date": "2026-10-02",
+    "published_time": "19:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网祁阳10月2日电(汪洋 何艳飞 陈依然)走进湖南祁阳市龚家坪镇，连片的山间垄田里，一株株五指毛桃枝叶青翠、迎风舒展。数十名村民头戴草帽，分散在田间除草、巡查苗情，一派繁忙的农耕景象。",
+    "published_dt_iso": "2026-10-02T19:51:23+08:00"
+  },
+  {
+    "title": "福建霞浦美食街上的“台湾味”：同一片海，同一抹鲜",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707283.shtml",
+    "date": "2026-10-02",
+    "published_time": "19:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社福建宁德10月2日电 (吴允杰)姜母鸭的麻油香、大肠包小肠的炭火气、土魠鱼羹的鲜味交织弥漫……于2日正在福建省宁德市霞浦县举办的2026霞浦渔歌美食交流活动上，跨海而来的“台湾味”成为一道靓丽风景线。",
+    "published_dt_iso": "2026-10-02T19:47:09+08:00"
+  },
+  {
+    "title": "青春华章·学以报国｜山河为卷，云岭青年接力作答",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707253.shtml",
+    "date": "2026-10-02",
+    "published_time": "18:59",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中国青年网讯(记者 宋莉 张亚云)9月29日，“青春华章·学以报国”网络主题活动分享会在云南师范大学举行。现场，张伯苓的“爱国三问”穿越九十余载岁月再次响起：“你是中国人吗？你爱中国吗？你愿意中国好吗？”",
+    "published_dt_iso": "2026-10-02T18:59:42+08:00"
+  },
+  {
+    "title": "多地冷空气接连到来 国庆出游穿衣指南来了",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-02/10707250.shtml",
+    "date": "2026-10-02",
+    "published_time": "18:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "视频丨多地冷空气接连到来 国庆出游穿衣指南来了",
+    "published_dt_iso": "2026-10-02T18:54:54+08:00"
+  },
+  {
+    "title": "“救了174人的生命”：迪拜航空劫机案，遭刺伤的印度机师是谁？",
+    "link": "https://www.bbc.com/zhongwen/articles/c61585j4vlkgo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "16:24",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "迪拜航空这班飞往特拉维夫的航班上，斯米特·马查尔机长（Capt Smit Machchhar）遭另一名机师袭击。以色列总理内塔尼亚胡赞扬他是“真正的英雄”，“拯救了174人的生命”，并阻止了一场“灾难性的空中事故”。",
+    "published_dt_iso": "2026-10-02T16:24:10+08:00"
+  },
+  {
+    "title": "为什么检察官在康奈尔大学的调查中可能面临法律障碍",
+    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-investigation-prosecution-challenges.html",
+    "date": "2026-10-02",
+    "published_time": "21:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "性侵犯案件的专家表示，对于Jane Doe对兄弟会成员提出的强奸指控，要赢得定罪可能并不容易。",
+    "published_dt_iso": "2026-10-02T21:41:11+08:00"
+  },
+  {
+    "title": "《纽约时报》如何报道康奈尔强奸调查",
+    "link": "https://www.nytimes.com/2026/10/01/insider/cornell-rape-investigation-news-reporting.html",
+    "date": "2026-10-02",
+    "published_time": "06:27",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "《泰晤士报》编辑探讨了我们报道校园和国家爆发的爆炸性指控背后的想法。",
+    "published_dt_iso": "2026-10-02T06:27:44+08:00"
+  },
+  {
+    "title": "选民放弃特朗普的地方，以及新癌症治疗的障碍",
+    "link": "https://www.nytimes.com/2026/10/02/podcasts/voters-abandoning-trump-new-cancer-treatments.html",
+    "date": "2026-10-02",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此外，还有周五的新闻测验。",
+    "published_dt_iso": "2026-10-02T18:00:14+08:00"
+  },
+  {
+    "title": "支撑股票和经济的强大而脆弱的力量",
+    "link": "https://www.nytimes.com/2026/10/02/business/ai-stocks-bonds-economy.html",
+    "date": "2026-10-02",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "我们的专栏作家说，人工智能的繁荣推高了股市，即使利率已经拉低了它。",
+    "published_dt_iso": "2026-10-02T17:03:43+08:00"
+  },
+  {
+    "title": "AIPAC正在花费数百万美元来选举朋友。它也在制造敌人。",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/aipac-midterm-elections-spending-israel.html",
+    "date": "2026-10-02",
+    "published_time": "17:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The American Israel Public Affairs Committee has increasingly become a campaign issue unto itself. Some candidates have worn opposition from AIPAC as a badge of honor or made a point of rejecting the group’s support.",
+    "published_dt_iso": "2026-10-02T17:00:39+08:00"
+  },
+  {
+    "title": "Russia Is Planning Its Most Powerful Blow Yet to Try to Freeze Ukraine",
+    "link": "https://www.nytimes.com/2026/10/02/world/europe/russia-ukraine-winter.html",
+    "date": "2026-10-02",
+    "published_time": "19:25",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Ukraine showed European partners what it said were intercepted Russian plans to cut off major cities from power, heat and water this winter.",
+    "published_dt_iso": "2026-10-02T19:25:29+08:00"
+  },
+  {
+    "title": "A Front Line at the Border: How Russia Uses Migrants as Weapons Against Europe",
+    "link": "https://www.nytimes.com/2026/10/02/world/europe/latvia-immigration-russia.html",
+    "date": "2026-10-02",
+    "published_time": "12:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The scheme is part of Russia’s larger strategy for sowing discord in the West, if more subtle than other recent operations blamed on the Kremlin.",
+    "published_dt_iso": "2026-10-02T12:01:10+08:00"
+  },
+  {
+    "title": "Truckers Are ‘Just Trying to Hang On’ When a Fill",
+    "link": "https://www.nytimes.com/2026/10/02/us/truckers-diesel-costs.html",
+    "date": "2026-10-02",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Truckers are among the hardest hit by the soaring cost of diesel fuel. High prices are forcing some to stay on the road for months and others to park their rigs.",
+    "published_dt_iso": "2026-10-02T17:01:09+08:00"
   }
 ]

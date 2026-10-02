@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 新闻历史档案室
 ---
 

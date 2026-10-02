@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: 股票财经
 ---
 
@@ -86,8 +86,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,143.48</span>
-      <span class="ticker-change down">▼ -2.60%</span>
+      <span class="ticker-price ticker-down">4,157.94</span>
+      <span class="ticker-change down">▼ -2.26%</span>
     </div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,501.56</span>
+      <span class="ticker-price ticker-up">30,961.87</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7014</span>
+      <span class="ticker-price ticker-down">6.7025</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,182.57 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +5.30 (+0.13%)</span>
+      <span class="ticker-price ticker-up">$4,190.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +12.93 (+0.31%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -230,8 +230,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">14 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天是在TechCrunch Disrupt 2026上预订展台的最后一天。10月13日至15日，超过1万名创始人、投资者、运营商和技术领导者将抵达旧金山的Moscone West ，寻找值得了解的公司、产品、创意和人才。问题是：他们会找到你的创业公司吗？" data-title="过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者" data-date="10-02 22:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-02 22:00</span>
+          <span class="news-item-title">过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump" target="_blank" rel="noopener" data-cat="caijing" data-summary="特斯拉第三季度的汽车销量低于一年前，当时消费者急于兑现即将到期的电动汽车购买联邦税收抵免。但该公司仍高于华尔街的估计，表明其复苏仍在轨道上。特斯拉表示，它总共生产了464,391辆[…]" data-title="特斯拉的复苏遇到了减速带" data-date="10-02 21:08" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-02 21:08</span>
+          <span class="news-item-title">特斯拉的复苏遇到了减速带</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-02/10707322.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州10月2日电 (记者 郭军)记者2日从交通运输部珠江航务管理局(简称“珠航局”)了解到，2026年国庆假期首日(10月1日)，琼州海峡客滚运输发送实航284班次，运送旅客112657人次、车辆28277辆次，相比2024年同期分别增长9.7%、增长21.4%、增长19.3%。新能源车运量增长较快，单日运输6873辆次，创国庆假期历史新高。" data-title="2026年国庆假期首日琼州海峡客滚运输平稳运行" data-date="10-02 20:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-02 20:55</span>
+          <span class="news-item-title">2026年国庆假期首日琼州海峡客滚运输平稳运行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-02/10707319.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天(10月2日)，我国首个百兆瓦级压缩二氧化碳储能项目——中国华电新疆木垒压缩二氧化碳储能项目成功并网，开辟了大容量压缩二氧化碳储能绿色、零碳、高效、经济的新路线。" data-title="我国首个百兆瓦级 这个巨型“充电宝”成功并网" data-date="10-02 20:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-02 20:49</span>
+          <span class="news-item-title">我国首个百兆瓦级 这个巨型“充电宝”成功并网</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/356.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，据央视财经今日报道，近期，北京市公安局海淀分局接到了市民王先生的报警，称自己因购买低价机票遭遇诈骗，但是令他疑惑不解的是，订票过程中，他明明拨打了官方平台的客服电话进行查询，也确实查到了自己的“机票信息”，但还是被骗了。警方调查发现，该订单虽然真实存在，却一直处于“未付款”状态。诈骗分子只是预先用王先生的信息占座下单，制造出“票已订好”的假象。见王先生已经上钩，诈骗分子继续以“交易仍未成功”为由，要求他下载指定的通联软件，并引导王先生开启屏幕共享。向对方提供的账户进行转款。经查，王先生共计损失二十九万余元。目前，案件仍在进一步办理中。警方表示，此类节假日票务诈骗套路基本如下：骗子依托二手平台发布所谓超低价“特价票、内部票、员工票、捡漏票”等，利用大家想省钱、怕" data-title="央视曝光二手平台低价机票陷阱，一男子被骗近 30 万元" data-date="10-02 20:44" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-02 20:44</span>
+          <span class="news-item-title">央视曝光二手平台低价机票陷阱，一男子被骗近 30 万元</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/307.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，当地时间 1 日，据外媒 Engadget 报道，纽约市一项要求商家简化退订流程的“点击即可取消”规定正式生效。其核心要求很直接：消费者取消订阅，不能比注册更麻烦。报道举了“订阅陷阱”一例：注册某健身房的会员时，几步就能完成，等到想取消时却要经历一套繁琐得近乎荒诞的流程。纽约市政府在博客文章中指出：“顾名思义，这项规定禁止企业让你在线注册时只需轻松点击几个选项，却在退订时逼你在电话和信鸽组成的拜占庭式迷宫里兜圈子。”这项规定由纽约市消费者和工人保护局负责执行。违规企业将面临民事罚款，起罚金额为 525 美元（IT之家注：现汇率约合 3,525 元人民币），消费者还有可能拿回此前被企业从银行账户中扣走的钱。从今天起，企业必须把订阅条款向消费者说明清楚，并完整告知" data-title="纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦" data-date="10-02 15:39" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -286,18 +316,12 @@ title: 股票财经
           <span class="news-item-date">10-01 22:39</span>
           <span class="news-item-title">余承东宣布华为移动影像升级，华为睿影 XMAGE 正式发布</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-01/10706791.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网布鲁塞尔10月1日电(记者 德永健)针对媒体报道欧盟相关成员国推动欧盟委员会打造欧版“301”工具，欧盟中国商会9月30日发表声明，呼吁国际贸易工具不应陷入“逐底竞争”，更不应以单边措施替代多边规则。" data-title="欧盟中国商会关切欧盟讨论打造“301”工具 呼吁国际贸易工具勿陷“逐底竞争”" data-date="10-01 16:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-01 16:54</span>
-          <span class="news-item-title">欧盟中国商会关切欧盟讨论打造“301”工具 呼吁国际贸易工具勿陷“逐底竞争”</span>
-        </a>
   </div>
 </div>
 
 
 <div style="text-align: center; margin: 36px 0 20px;">
-  <a href="//news" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
+  <a href="{{ "/news" | relative_url }}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
     <span>📰 返回综合热点新闻专区</span>
     <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
   </a>
@@ -305,4 +329,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-02 15:38（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-02 22:00（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
