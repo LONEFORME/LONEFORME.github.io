@@ -3751,7 +3751,7 @@ html {
 
 
 /* ============ 2026-10-02 新增：卡片配图 / 灯箱 / 文档TOC / 筛选条（与 9.27 旧增强不重复） ============ */
-.card-media{position:relative;overflow:hidden;border-radius:10px;margin:0 0 14px;aspect-ratio:16/9;background:#0d141a;cursor:zoom-in}
+.card-media{position:relative;overflow:hidden;border-radius:10px;margin:0 0 14px;aspect-ratio:2/1;background:#0d141a;cursor:zoom-in}
 .card-media img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .45s ease}
 .card:hover .card-media img{transform:scale(1.06)}
 .card-media::after{content:"🔍 点击查看大图";position:absolute;left:10px;bottom:10px;font-size:11px;color:#dfffe9;background:rgba(0,0,0,.55);padding:3px 8px;border-radius:6px;opacity:0;transition:opacity .3s}
