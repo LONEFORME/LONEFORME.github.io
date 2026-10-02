@@ -66,7 +66,7 @@ title: 项目
   <p class="group-desc">整合宇树 L1（3D）与镭神 N10P（2D）双雷达，配套 FAST-LIO2 与 SLAM Toolbox 双建图方案，含自研障碍物检测与位姿优化节点，即拿即用的机器人感知与导航参考实现。</p>
 
   <div class="card-grid">
-    <div class="card" data-tags="雷达SLAM 无人机">
+    <div class="card" data-tags="雷达SLAM">
       <div class="card-icon-box icon-green">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><circle cx="12" cy="12" r="2"/></svg>
       </div>
@@ -84,7 +84,7 @@ title: 项目
       </div>
     </div>
 
-    <div class="card" data-tags="雷达SLAM 无人机">
+    <div class="card" data-tags="雷达SLAM">
       <div class="card-icon-box icon-blue">
         <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4.9 19.1C1 15.2 1 8.8 4.9 4.9"/><path d="M7.8 16.2c-2.3-2.3-2.3-6.1 0-8.5"/><circle cx="12" cy="12" r="2"/><path d="M16.2 7.8c2.3 2.3 2.3 6.1 0 8.5"/><path d="M19.1 4.9C23 8.8 23 15.1 19.1 19"/></svg>
       </div>
