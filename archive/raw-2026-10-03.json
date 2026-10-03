@@ -2208,5 +2208,465 @@
     "feed_name": "中国新闻网(国际)",
     "summary": "中国常驻联合国副代表孙磊2日在联合国安理会制裁除名协调人非正式对话会上发言，强调安理会制裁体系要持续完善。",
     "published_dt_iso": "2026-10-03T14:35:42+08:00"
+  },
+  {
+    "title": "恶意VPN配置文件可让攻击者在华硕路由器上运行命令",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/malicious-vpn-config-files-can-let-attackers-run-commands-on-asus-routers-companys-patch-also-fixes-a-bug-that-lets-a-logged-in-attacker-switch-on-telnet-with-root-access",
+    "date": "2026-10-03",
+    "published_time": "20:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在更新华硕3.0.0.6_102固件上的路由器之前，该公司表示不导入不受信任的VPN文件。",
+    "published_dt_iso": "2026-10-03T20:30:00+08:00"
+  },
+  {
+    "title": "在大量无效的AI SLOP提交中，谷歌冻结了开源漏洞奖励计划",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+    "date": "2026-10-03",
+    "published_time": "20:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "由于大量无效的人工智能驱动报告涌入，谷歌暂停向其开源软件漏洞奖励计划（ OSS VRP ）提交产品漏洞报告。",
+    "published_dt_iso": "2026-10-03T20:00:00+08:00"
+  },
+  {
+    "title": "$ 5,245预制RTX 5090 PC的连接器在装箱一年后熔化",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/usd5-245-prebuilt-rtx-5090-pcs-connectors-melt-after-sitting-boxed-for-a-year-digital-storm-and-pny-deny-warranty-claims-over-expired-coverage-and-third-party-cables",
+    "date": "2026-10-03",
+    "published_time": "19:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "当一个游戏玩家的预制电脑有GPU并且电源线烧坏时，他们不知道该向哪里求助：系统制造商或GPU制造商。它变成了不同政策和保证的令人头疼的问题。",
+    "published_dt_iso": "2026-10-03T19:40:00+08:00"
+  },
+  {
+    "title": "加利福尼亚州传唤OpenAI打击进行黑客攻击的流氓人工智能代理",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility",
+    "date": "2026-10-03",
+    "published_time": "19:15",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "加利福尼亚州总检察长Rob Bonta向OpenAI发出传票，迫使其提交有关其模型参与的黑客事件的信息。虽然调查人员尚未确定该公司是否违反了任何规则或法规，但Bonta表示，开发人员应对其构建的模型负责，如果他们实施网络攻击，应承担法律责任。",
+    "published_dt_iso": "2026-10-03T19:15:00+08:00"
+  },
+  {
+    "title": "亚马逊承诺在数据中心附近的社区投资10亿美元($ 10亿美元) ，但批评人士予以回击",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments",
+    "date": "2026-10-03",
+    "published_time": "18:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "AWS首席执行官Matt Garman在公司博客文章中表示，它将在五年内拨款10亿美元用于数据中心社区提出的关键问题，包括教育、劳动力途径、能源负担能力等。这相当于每年拨款2亿美元，即使该公司在2026年为数据中心基础设施拨款2200亿美元。",
+    "published_dt_iso": "2026-10-03T18:50:00+08:00"
+  },
+  {
+    "title": "AMD的秘密Zen 3游戏CPU拥有128MB的游戏提升L3缓存，但从未见过光明",
+    "link": "https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault",
+    "date": "2026-10-03",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "来自中国Chiphell论坛的用户展示了AMD未发布的Ryzen 9 5900X3D ，这是Ryzen 9 5900X的X3D变体。",
+    "published_dt_iso": "2026-10-03T18:30:00+08:00"
+  },
+  {
+    "title": "ChatGPT-6 Astra扮演魔兽世界“盲人” ，在40分钟内清除兽人起始区，没有死亡",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
+    "date": "2026-10-03",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "该模型在私有服务器上创建了自己的魔兽世界探路者，并在OpenAI的Codex中提示。",
+    "published_dt_iso": "2026-10-03T18:00:00+08:00"
+  },
+  {
+    "title": "3D电影终于值得一看",
+    "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+    "date": "2026-10-03",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "为什么在3D成为有史以来最大的技术失败之一之后，我突然购买了我能找到的每张3D蓝光？这项技术终于为3D电影的闪耀做好了准备，自詹姆斯·卡梅隆（ James Cameron ）的《阿凡达》（ Avatar ）在大屏幕上让我惊叹并继续成为票房最高的电影以来，已经超过15年了[…]",
+    "published_dt_iso": "2026-10-03T20:00:00+08:00"
+  },
+  {
+    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+    "link": "https://www.qbitai.com/2026/10/501381.html",
+    "date": "2026-10-03",
+    "published_time": "15:54",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "岗位JD甩了篇技术报告",
+    "published_dt_iso": "2026-10-03T15:54:43+08:00"
+  },
+  {
+    "title": "荣耀推出 HONOR Life 充气泵 Lite：具备照明功能、标称“42 秒充满一条自行车胎”，248 元",
+    "link": "https://www.ithome.com/1/009/538.htm",
+    "date": "2026-10-03",
+    "published_time": "20:32",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，荣耀现已在京东上架 HONOR Life 充气泵 Lite，该产品具备充气、胎压检测和照明功能，定价为 248 元。京东荣耀 HONOR Life 充气泵 Lite248 元直达链接该充气泵采用黑色修长机身，尺寸为 160x63x62mm，净重 583g，官方称其整体尺寸类似一瓶 500ml 矿泉水，可放入车门格或水杯位。充气泵正面配有数显屏（实时显示胎压，支持 PSI、BAR、KPA、Kg / cm² 四种单位切换），内部采用贯穿式风道散热，顶部设有应急照明灯。该充气泵提供汽车、摩托车、自行车、球类及自定义 5 种充气模式，充气速度为 25-30L/min，气压范围为 0.1-11BAR（最高 160PSI）。产品支持吊装充气，标称 17s 可充满一个篮球，",
+    "published_dt_iso": "2026-10-03T20:32:44+08:00"
+  },
+  {
+    "title": "小米 Vision GT 十月入驻，GT 系列游戏将首次推出电车驾驶教学",
+    "link": "https://www.ithome.com/1/009/537.htm",
+    "date": "2026-10-03",
+    "published_time": "20:26",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，小米汽车今日发文称，GT World Series 新加坡站，小米汽车欧洲研发中心设计负责人 Jean 与 GT 系列制作人山内一典共同宣布：GT 将首次推出电车驾驶教学。IT之家注意到，小米汽车今日早些时候宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / GT 赛车 7），成为游戏史上的首台中国 Vision GT。据悉，Vision GT 是由 Gran Turismo 系列制作人山内一典发起的一个全球性虚拟概念车合作项目。该项目邀请全球顶尖汽车制造商，抛开一切现实技术、材料等限制，自由设计并打造代表其终极梦想的概念车，专注于对未来驾驶体验的无限畅想。",
+    "published_dt_iso": "2026-10-03T20:26:40+08:00"
+  },
+  {
+    "title": "泰坦军团推出“P326MV Ultra”31.5 英寸 4K 200Hz / FHD 400Hz 双模显示器：XDR 亮度 2200 尼特 + 双扬，3888 元（国补后 3499.2 元）",
+    "link": "https://www.ithome.com/1/009/536.htm",
+    "date": "2026-10-03",
+    "published_time": "20:16",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，泰坦军团现已在京东上架一款型号为“P326MV Ultra”的 31.5 英寸显示器，该机主打 4K 200Hz / 1080P 400Hz 双模 QD-Mini LED，定价为 4410 元，首发价 3888 元，部分地区国补后低至 3499.2 元，10 月 8 日首销。京东泰坦军团 P326MV Ultra 显示器 3888 元直达链接该机配备的 2304 分区 QD-Mini LED 背光 Fast IPS 面板支持以 3840x2160 分辨率 200Hz 或 1920x1080 分辨率 400Hz 显示，其 XDR 峰值亮度达 2200 尼特，HDR 峰值亮度 1400 尼特，GtG 响应速度 1ms，覆盖 100% sRGB、99% DCI-P3",
+    "published_dt_iso": "2026-10-03T20:16:42+08:00"
+  },
+  {
+    "title": "前索尼高管吉田修平谈《GTA 6》超高热度：未来再有此关注度，可能得《GTA 7》或等中国厂商出手",
+    "link": "https://www.ithome.com/1/009/535.htm",
+    "date": "2026-10-03",
+    "published_time": "20:07",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，近日，前索尼互动娱乐全球工作室总裁吉田修平在接受媒体 The Verge 采访时谈到了《GTA 6》所带来的巨大关注度。当被问及未来是否可能还会有其他作品能达到类似的热度与影响力时，他认为，或许还得等到《GTA 7》，不过未来中国厂商可能也会参与到这场竞争中。他表示，《GTA 6》之后可能还会有十几年的空白期，所以中国厂商或许会带来类似的作品。他强调道：“任何人都不应该低估中国游戏厂商的实力。”《GTA 6》数字版定于 2026 年 11 月 19 日登陆 Xbox Series X|S 和 PlayStation 5。收藏版也会同步推出，但不包含游戏本体。实体原声带同样得到官宣，CD 和黑胶版均已开放预购。R 星确认，《GTA 6》的地图规模超过其此前制作的",
+    "published_dt_iso": "2026-10-03T20:07:27+08:00"
+  },
+  {
+    "title": "航嘉推出重火力 AX1000P 三叉戟白金全模组电源：7 年质保，759 元",
+    "link": "https://www.ithome.com/1/009/534.htm",
+    "date": "2026-10-03",
+    "published_time": "20:03",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，航嘉现已在京东上架重火力 AX1000P 三叉戟白金全模组电源，提供 7 年质保，定价为 759 元。京东航嘉重火力 AX1000P 氮化镓白金电源 759 元直达链接该电源采用黑色方正壳体，顶部设有条形散热格栅与品牌标识，侧面印有规格铭牌。随附压纹工艺的黑色蟒纹线。该电源符合英特尔 ATX 3.1 规范，在 230V 典型负载下转换效率达 94%。原生配备 PCIe 5.1 12V-2x6 接口，单接口支持 600W 输出，并标配 8-pin 常规接口兼容不同平台。该电源搭载英诺赛科氮化镓开关管，同时配备日系电容，内置双滚珠风扇，在 27°C 室温满载运行 1 小时温度控制在 52°C 左右。电源提供 SCP 短路保护、OPP 过功率保护、OVP 过压保护、",
+    "published_dt_iso": "2026-10-03T20:03:26+08:00"
+  },
+  {
+    "title": "VGN 推出霓虹 75 Turbo 磁轴键盘：0.005mm RT 精度、双 8KHz 回报率，439 元",
+    "link": "https://www.ithome.com/1/009/533.htm",
+    "date": "2026-10-03",
+    "published_time": "19:45",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，VGN 现已京东上架霓虹 75 Turbo 磁轴键盘，将于 10 月 9 日开启首销，定价为 439 元。京东 VGN 霓虹 75Turbo 磁轴键盘 439 元直达链接该键盘尺寸为 323x138x20mm，提供粉色渐变、粉蓝渐变和黑金雾透三种配色，匹配 CNC 工艺面壳，带有霓虹氛围灯带，键盘底部配二段式脚撑，内置 8000mAh 电池。该键盘为 Gasket 结构，采用战魂 MVP V2 磁轴方案，具备 0.005mm RT 精度、128K 通道扫描率与 0.1ms 延迟，在有线及 2.4GHz 模式下支持双 8K 回报率。键盘匹配原厂高度键帽，采用天霸 Turbo 轴体，初始压力 35±5gf，触底压力 50±5gf，总行程 3.5±0.2mm。IT之",
+    "published_dt_iso": "2026-10-03T19:45:13+08:00"
+  },
+  {
+    "title": "V社 Steam Frame 头显第三方摄像头模块 Arcturus Vision 上市：可提供高分辨率彩透效果，售 150 美元",
+    "link": "https://www.ithome.com/1/009/531.htm",
+    "date": "2026-10-03",
+    "published_time": "19:30",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，制造商 Arcturus 宣布为 V 社 Steam Frame 头显推出一款 Vision Camera 彩透外置摄像头模块，可以显著提升头显的透视（Passthrough）画面质量，定价 150 美元（IT之家注：现汇率约合 1,007 元人民币）。该模块重量仅 10 克，采用即插即用设计，与 Steam Frame 的机身高度融合，可以直接安装在 Steam Frame 鼻梁下方隐藏的扩展接口中。安装后无需重启头显，系统即可自动切换至 Arcturus 摄像头。原本使用 Steam Frame 内置透视画面的场景，例如 SteamVR 背景以及混合现实游戏，都会改为使用 Vision Camera 提供的画面。外媒 RoadtoVR 上手后认为，Visi",
+    "published_dt_iso": "2026-10-03T19:30:34+08:00"
+  },
+  {
+    "title": "外媒试玩 VR 游戏《新世纪福音战士：ΔCROSS REFLECTIONS》：线性叙事结构、支持体感战斗",
+    "link": "https://www.ithome.com/1/009/530.htm",
+    "date": "2026-10-03",
+    "published_time": "19:15",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 3 日消息，韩国工作室 Pixelity 将于明年推出基于经典动画《新世纪福音战士》改编的 VR 游戏《EVANGELION：Δ CROSS REFLECTIONS》，目前媒体 RoadtoVR 提前体验了游戏早期版本中的“Story Mode（故事模式）”和“Battle Mode（战斗模式）”，IT之家汇总该媒体报告如下：从目前试玩内容来看，本作围绕原版《新世纪福音战士》动画展开，整体采用较为线性的叙事结构，与部分视觉小说类 VR 作品类似。游戏大量剧情通过电影化场景呈现，同时穿插针对 VR 设计的互动内容。例如使徒会从玩家头顶跃过并摧毁城市，玩家则需要在特定场景中进行射击等操作，整体逻辑类似于游戏厅里的传统射击光枪游戏，只是改成了 VR 形式。外媒表示，本作主要采用",
+    "published_dt_iso": "2026-10-03T19:15:48+08:00"
+  },
+  {
+    "title": "曼城举报人随时准备为英国当局提供帮助，以换取保护",
+    "link": "https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection",
+    "date": "2026-10-03",
+    "published_time": "19:12",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "《卫报》了解到， Rui Pinto在葡萄牙面临证人保护的损失有关城市事务的更多文件可能会提供Rui Pinto ，他的泄密有助于引发英超联赛对曼城金融事务的调查，他准备帮助英国当局处理法律案件，以换取免受威胁的保护。尽管周五发起了众筹活动，为离开公关后的新生活提供资金",
+    "published_dt_iso": "2026-10-03T19:12:48+08:00"
+  },
+  {
+    "title": "美方称星巴克在新疆开设门店“道德沦丧” 外交部回应",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707597.shtml",
+    "date": "2026-10-03",
+    "published_time": "20:06",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网10月3日电 据外交部网站消息，10月3日，外交部发言人郭嘉昆答记者问。",
+    "published_dt_iso": "2026-10-03T20:06:49+08:00"
+  },
+  {
+    "title": "外交部：中方欢迎普京总统出席APEC深圳峰会",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707596.shtml",
+    "date": "2026-10-03",
+    "published_time": "20:02",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网10月3日电 据外交部网站消息，10月3日，外交部发言人郭嘉昆答记者问。",
+    "published_dt_iso": "2026-10-03T20:02:11+08:00"
+  },
+  {
+    "title": "“大秦雄风",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707595.shtml",
+    "date": "2026-10-03",
+    "published_time": "20:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社台中10月3日电 (记者 朱贺)由秦始皇帝陵博物院策划的“大秦雄风——兵马俑与秦始皇帝陵特展”3日起在台湾台中展出，运用高精度3D打印技术重现秦俑造型，展现秦代文化。",
+    "published_dt_iso": "2026-10-03T20:01:11+08:00"
+  },
+  {
+    "title": "湄洲妈祖分灵埃塞俄比亚   妈祖文化“出海”版图再扩容",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707593.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社福建莆田10月3日电 (叶秋云 林力轩)湄洲妈祖分灵埃塞俄比亚仪式10月3日在福建莆田湄洲妈祖祖庙举行。埃塞俄比亚由此成为湄洲妈祖分灵的第52个国家和地区，妈祖文化“出海”版图进一步扩大。",
+    "published_dt_iso": "2026-10-03T19:53:08+08:00"
+  },
+  {
+    "title": "公安机关发布国庆假期防范电信网络诈骗安全提示",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707572.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网10月3日电 据公安部微信公众号消息，国庆假期期间，旅游出行、休闲娱乐、购物消费活动增多，为提高广大群众的防范意识，针对假期高发的诈骗类型，公安机关发布防范安全提示。",
+    "published_dt_iso": "2026-10-03T19:52:38+08:00"
+  },
+  {
+    "title": "厦门大学海外教育暨国际中文教育70周年：真正的教育是双向奔赴",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707580.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网厦门10月3日电 (记者 李思源)“一到厦门大学就有宾至如归的感觉，没想到自己会在这里扎根，不是短短两年，而是度过余生。”厦门大学美籍教授潘维廉颇为感慨。3日，厦门大学海外教育暨国际中文教育70周年高质量发展大会在该校翔安校区举行。作为校友代表，潘维廉上台致辞：“我亲眼见证中国向世界广泛学习。但真正的教育，从来都是双向奔赴，世界同样有许多东西可以向中国学习。”",
+    "published_dt_iso": "2026-10-03T19:11:40+08:00"
+  },
+  {
+    "title": "“放牧就是为国守边” 塔吉克族少年雪域高原的国旗情缘",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707583.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "新疆塔什库尔干塔吉克自治县地处帕米尔高原，边境线长达888.5公里，跟三国相邻，当地的塔吉克族牧民世代践行“放牧就是为国守边”的传统。",
+    "published_dt_iso": "2026-10-03T19:07:25+08:00"
+  },
+  {
+    "title": "冷空气遇上渔汛及旅游旺季 浙江台州筑牢海上安全屏障",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707563.shtml",
+    "date": "2026-10-03",
+    "published_time": "18:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网台州10月3日电(周健 张聆听)连日来，在浙江台州沿海，海面翻涌起层层白浪，海风裹着凉意扑面而来。天色刚亮，台州海事局海巡艇便缓缓离泊，劈浪驶向渔船最密集的水域。指挥中心里，执法队员紧盯着屏幕，屏幕上密密麻麻的光点，是正在海上撒网作业的渔船。",
+    "published_dt_iso": "2026-10-03T18:57:48+08:00"
+  },
+  {
+    "title": "日本高市“智囊”身陷“预算门”丑闻",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707582.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "日本新内阁上任仅半个月，内阁成员就被曝出丑闻。据日本方面10月2日消息，新任农林水产大臣簗和生被指曾滥用职权，肆意削减不支持他的地方政府预算，引发广泛批评。",
+    "published_dt_iso": "2026-10-03T19:03:11+08:00"
+  },
+  {
+    "title": "阿联酋检方认定迪拜航空涉事副驾驶企图实施“恐怖活动”",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707529.shtml",
+    "date": "2026-10-03",
+    "published_time": "17:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月3日电 阿布扎比消息：当地时间10月3日，阿联酋检方表示，对迪拜航空公司客机驾驶舱冲突事件的调查显示，涉事副驾驶企图实施“恐怖活动”。",
+    "published_dt_iso": "2026-10-03T17:48:06+08:00"
+  },
+  {
+    "title": "巴基斯坦安全部队击毙11名恐怖分子",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707509.shtml",
+    "date": "2026-10-03",
+    "published_time": "16:48",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月3日电 伊斯兰堡消息：当地时间10月3日，巴基斯坦安全部队分别在开伯尔-普什图省和俾路支省开展反恐行动，共计击毙11名恐怖分子。",
+    "published_dt_iso": "2026-10-03T16:48:24+08:00"
+  },
+  {
+    "title": "外媒关注中国国庆假期：出游热度“拉满”，祝福远播至太空",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707507.shtml",
+    "date": "2026-10-03",
+    "published_time": "15:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月3日电 10月1日，新中国迎来77周年华诞，全国各地举行丰富多彩的庆祝活动，很多民众选择假期出游。",
+    "published_dt_iso": "2026-10-03T15:52:09+08:00"
+  },
+  {
+    "title": "冈本三成接任日本在野党公明党党首",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707492.shtml",
+    "date": "2026-10-03",
+    "published_time": "15:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "日本在野党公明党3日举行党大会，正式批准日本众议员冈本三成接替竹谷敏子担任党首。",
+    "published_dt_iso": "2026-10-03T15:09:57+08:00"
+  },
+  {
+    "title": "在钱江源头，守护生态渐成山乡自觉",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707600.shtml",
+    "date": "2026-10-03",
+    "published_time": "20:37",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网衢州10月3日电(董易鑫)近年来，亲近自然成为不少年轻人的假日选择。10月3日，杭州姑娘萧潇和朋友们来到位于浙江开化的钱江源国家森林公园徒步。",
+    "published_dt_iso": "2026-10-03T20:37:39+08:00"
+  },
+  {
+    "title": "北京密云古北妙街开街 古韵新生点亮假日经济",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707604.shtml",
+    "date": "2026-10-03",
+    "published_time": "20:34",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网北京10月3日电 (记者 陈杭)北京密云的古北妙街2日正式开街。这条1.4公里的老街，依托古镇原生街巷、老院落、历史建筑改造升级，经过半年多的筹备，以全新面貌亮相京郊长城脚下。",
+    "published_dt_iso": "2026-10-03T20:34:49+08:00"
+  },
+  {
+    "title": "东航再通报“空姐下跪道歉”事件：已报案",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707556.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网10月3日电 据中国东方航空微博消息，10月3日，东航发布情况通报：在9月28日MU6741航班客舱事件前期复盘调查基础上，公司已基本完成证据固定、事实核查与法律评估工作。公司认为，该航班旅客欧某某相关行为涉嫌扰乱民用航空器内秩序，严重侵害公司员工人格尊严和履职权益。针对上述侵权扰序行为，公司已正式向公安机关报案。公司正积极配合有关部门开展调查取证工作，依法维护员工合法权益和公共安全秩序。",
+    "published_dt_iso": "2026-10-03T19:52:14+08:00"
+  },
+  {
+    "title": "长沙开启国庆非遗系列活动 多元体验感受湖湘传统文化",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707579.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网长沙10月3日电 (谭芳)为丰富国庆群众文化生活，传承弘扬中华优秀传统文化，厚植家国情怀，今年国庆假期期间，“星城时序非遗万象——我们的节日·国庆”长沙非遗系列活动举行。",
+    "published_dt_iso": "2026-10-03T19:11:34+08:00"
+  },
+  {
+    "title": "长沙地铁开启21天晚安计划：昼夜双语音服务传递城市温情",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707578.shtml",
+    "date": "2026-10-03",
+    "published_time": "19:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网长沙10月3日电 (谢雁雄)十点之后，星城长沙的夜色渐浓，地铁里的声音也变得温柔起来。10月1日至21日，每日晚间十点以后，搭乘长沙地铁的乘客，便能听见一声声暖心的晚安问候。",
+    "published_dt_iso": "2026-10-03T19:07:53+08:00"
+  },
+  {
+    "title": "数字赋能沉浸体验 “青瓷之都”掀起假期文旅热",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707564.shtml",
+    "date": "2026-10-03",
+    "published_time": "18:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网丽水10月3日电(傅飞扬 蒋加丽)正值国庆假期，在浙江丽水龙泉市，焕新升级后的龙泉青瓷博物馆正式对外开放，大批市民游客慕名而来，打卡全新展厅，近距离感受龙泉青瓷跨越千年的海丝传奇。",
+    "published_dt_iso": "2026-10-03T18:53:32+08:00"
+  },
+  {
+    "title": "假日古城墙上的手写温情",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707550.shtml",
+    "date": "2026-10-03",
+    "published_time": "18:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社西安10月3日电 (记者 张一辰 党田野)“很久没寄过明信片了，今天特意写一张寄给家人。现在大家都捧着手机发消息，虽说传递得快，但纸质的祝福似乎更有温度。”“十一”长假期间，在西安城墙主题邮局里，来自天津的游客王晨把祝福写入一张明信片中。",
+    "published_dt_iso": "2026-10-03T18:35:41+08:00"
+  },
+  {
+    "title": "（乡村行·看振兴）浙江磐安：药香入膳守传承 匠心烹出幸福味",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707547.shtml",
+    "date": "2026-10-03",
+    "published_time": "18:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网金华10月3日电(张煜欢)药香漫过金华磐安，锅勺起落间，道地药材与烟火滋味交融。9月28日至10月2日，2026浙江省中药材博览会暨第十九届磐安中药材博览会在“江南药镇”金华磐安举行。作为本届药博会重头戏，第二届“浙里中医·食养有味”药膳职业技能竞赛决赛在此举行，各地选手同台比拼，一勺一菜之间，诠释“寓医于食”的东方食养智慧。",
+    "published_dt_iso": "2026-10-03T18:25:19+08:00"
+  },
+  {
+    "title": "美俄关于乌克兰的谈判现在涉及与特朗普盟友相关的石油协议",
+    "link": "https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html",
+    "date": "2026-10-03",
+    "published_time": "20:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "弗拉基米尔· V ·普京(Vladimir V. Putin)总统向特朗普总统的特使贾里德·库什纳(Jared Kushner)和史蒂夫·维特科夫(Steve Witkoff)提出了出售俄罗斯能源资产的问题，推动了一项引发利益冲突新问题的协议",
+    "published_dt_iso": "2026-10-03T20:40:16+08:00"
+  },
+  {
+    "title": "特朗普、普京、乌克兰和石油协议： 5个要点",
+    "link": "https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html",
+    "date": "2026-10-03",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "即使是一个经常将个人商业利益与外交政策混为一谈的政府，通过购买俄罗斯能源资产来加强与克里姆林宫关系的建议也引人注目。",
+    "published_dt_iso": "2026-10-03T17:03:58+08:00"
+  },
+  {
+    "title": "俄罗斯转向打击基辅的桥梁，威胁着重要的生命线",
+    "link": "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+    "date": "2026-10-03",
+    "published_time": "19:59",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The bridges, used by many commuters in the Ukrainian capital, are the latest target in a broad Russian bombing campaign against infrastructure.",
+    "published_dt_iso": "2026-10-03T19:59:06+08:00"
+  },
+  {
+    "title": "Senate Races in Republican States Tilt Toward Democrats, Polls Find",
+    "link": "https://www.nytimes.com/2026/10/03/us/senate-polls-texas-kansas-ohio-alaska-iowa.html",
+    "date": "2026-10-03",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Democrats are performing strongly in five reliably Republican states where they are trying to flip Senate seats to win control of the chamber, new New York Times/Siena polls found.",
+    "published_dt_iso": "2026-10-03T17:02:26+08:00"
+  },
+  {
+    "title": "Democrats May Have Found the Recipe for Flipping Red",
+    "link": "https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html",
+    "date": "2026-10-03",
+    "published_time": "19:29",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Five new Times/Siena polls continue a run of strong results for the party in states that President Trump won easily in 2024.",
+    "published_dt_iso": "2026-10-03T19:29:57+08:00"
+  },
+  {
+    "title": "In Texas, Talarico Inspires a Recurring Blue",
+    "link": "https://www.nytimes.com/2026/10/03/us/politics/texas-talarico.html",
+    "date": "2026-10-03",
+    "published_time": "17:45",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "After a dry spell of more than three decades, Democrats are daring (yet again) to believe they can win one or more top-of-the-ballot races in a vast and stubbornly red state.",
+    "published_dt_iso": "2026-10-03T17:45:14+08:00"
+  },
+  {
+    "title": "Cornell Case Revives Anger About Handling of Campus Sexual Assault Cases",
+    "link": "https://www.nytimes.com/2026/10/03/us/cornell-rape-campus-sexual-assault.html",
+    "date": "2026-10-03",
+    "published_time": "17:02",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A lawsuit alleging rape at Cornell has led to an outpouring of women sharing stories about sexual violence on college campuses.",
+    "published_dt_iso": "2026-10-03T17:02:40+08:00"
   }
 ]

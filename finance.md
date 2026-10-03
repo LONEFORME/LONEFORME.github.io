@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-03 15:11（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-03 20:40（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -314,6 +314,30 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="弗拉基米尔· V ·普京(Vladimir V. Putin)总统向特朗普总统的特使贾里德·库什纳(Jared Kushner)和史蒂夫·维特科夫(Steve Witkoff)提出了出售俄罗斯能源资产的问题，推动了一项引发利益冲突新问题的协议" data-title="美俄关于乌克兰的谈判现在涉及与特朗普盟友相关的石油协议" data-date="10-03 20:40" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-03 20:40</span>
+          <span class="news-item-title">美俄关于乌克兰的谈判现在涉及与特朗普盟友相关的石油协议</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707604.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月3日电 (记者 陈杭)北京密云的古北妙街2日正式开街。这条1.4公里的老街，依托古镇原生街巷、老院落、历史建筑改造升级，经过半年多的筹备，以全新面貌亮相京郊长城脚下。" data-title="北京密云古北妙街开街 古韵新生点亮假日经济" data-date="10-03 20:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 20:34</span>
+          <span class="news-item-title">北京密云古北妙街开街 古韵新生点亮假日经济</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments" target="_blank" rel="noopener" data-cat="caijing" data-summary="AWS首席执行官Matt Garman在公司博客文章中表示，它将在五年内拨款10亿美元用于数据中心社区提出的关键问题，包括教育、劳动力途径、能源负担能力等。这相当于每年拨款2亿美元，即使该公司在2026年为数据中心基础设施拨款2200亿美元。" data-title="亚马逊承诺在数据中心附近的社区投资10亿美元($ 10亿美元) ，但批评人士予以回击" data-date="10-03 18:50" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-03 18:50</span>
+          <span class="news-item-title">亚马逊承诺在数据中心附近的社区投资10亿美元($ 10亿美元) ，但批评人士予以回击</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="即使是一个经常将个人商业利益与外交政策混为一谈的政府，通过购买俄罗斯能源资产来加强与克里姆林宫关系的建议也引人注目。" data-title="特朗普、普京、乌克兰和石油协议： 5个要点" data-date="10-03 17:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-03 17:03</span>
+          <span class="news-item-title">特朗普、普京、乌克兰和石油协议： 5个要点</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/479.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，上汽 MG 宣布上线 MG4 交车等待礼，10 月下定并锁单 MG4，交车等待超 30 天，每日补偿 5000 MG Live 积分（100 积分等值于 1 元人民币），上不封顶。据IT之家此前报道，2026 款上汽 MG4 于 4 月 24 日北京车展正式上市，官方指导价区间 6.88-10.28 万元；限时补贴价区间 6.58-9.98 万元。2026 款车型延续家族式设计，主要新增冰晶蓝、杏仁米两款外观配色；搭载 8.88 英寸液晶仪表屏以及 15.6 英寸 2.5K 中控屏，车辆搭载地平线智能驾驶辅助方案，同时升级哨兵模式、新增无线苹果 Carplay 功能。2026 款上汽 MG4 配备容量 42.8kWh 和 53.9kWh 的电池组，CLTC 工" data-title="上汽 MG4 交车等待礼上线：10 月下定并锁单，交车等待超 30 天每日补偿 5000 MG Live 积分" data-date="10-03 15:11" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -380,30 +404,6 @@ title: 股票财经
           <span class="news-item-date">10-03 00:51</span>
           <span class="news-item-title">Beehiiv creators are buzzing about a new price increase</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-02/10707337.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月2日，七国集团领导人召开视频会议，应对油价飙升及能源供应压力，同意采取协调行动，稳定市场、缓解家庭和企业负担，并增强能源体系长期韧性。" data-title="七国集团就推动主要炼油国家增产增加柴油供应达成一致" data-date="10-02 23:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-02 23:24</span>
-          <span class="news-item-title">七国集团就推动主要炼油国家增产增加柴油供应达成一致</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/369.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，派拉蒙天舞公司（Paramount SkyDance）首席执行官埃里森（David Ellison）今日宣布，在公司下周完成与华纳兄弟探索（WBD）的合并后，合并后的实体将命名为“Skydance”。按照今年 2 月达成的协议，派拉蒙将以 1,100 亿美元（IT之家注：现汇率约合 7,386.01 亿元人民币）收购华纳兄弟，在这场持续数月的竞购中击败 Netflix，这项交易预计于 10 月 6 日达成。大卫 · 埃里森此前宣布，1,100 亿美元收购华纳兄弟探索公司的交易完成后，美泰前 CEO 伊农 · 克雷兹将与他共同执掌合并后的公司，出任联席 CEO。派拉蒙公告称，埃里森将继续担任合并后公司的董事长，公司高管将同时向两人汇报。IT之家注意到，任命克雷兹" data-title="1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”" data-date="10-02 23:00" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-02 23:00</span>
-          <span class="news-item-title">1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/367.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，特斯拉今日宣布，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车，交付了超 48.6 万辆；储能产品装机量达 13.7 吉瓦时。官方公告显示，2026 年第三季度特斯拉 Model 3/Y 生成 457,387 辆，交付 478,237 辆；其他车型生产 7,004 辆，交付 8,295 辆。IT之家查询获悉，特斯拉 2025 年第三季度汽车交付量为 497,099 辆。经计算可以得出，特斯拉今年第三季度交付量同比下降 2%。" data-title="特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%" data-date="10-02 22:36" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-02 22:36</span>
-          <span class="news-item-title">特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/366.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 2 日消息，乘联分会今日公布数据，9 月 1-27 日，全国乘用车市场零售 125.8 万辆，同比去年 9 月同期下降 29%，较上月同期增长 1%，今年以来累计零售 1,297.3 万辆，同比下降 22%。9 月 1-27 日，全国乘用车厂商批发 147.4 万辆，同比去年 9 月同期下降 30%，较上月同期下降 12%，今年以来累计批发 1,865.7 万辆，同比下降 7%。新能源：9 月 1-27 日，全国乘用车新能源市场零售 82.7 万辆，同比去年 9 月同期下降 20%，较上月同期增长 2%，今年以来累计零售 750.1 万辆，同比下降 13%；9 月 1-27 日，全国乘用车厂商新能源批发 103.2 万辆，同比去年 9 月同期下降 11%，较上月同期下降" data-title="乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%" data-date="10-02 22:09" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-02 22:09</span>
-          <span class="news-item-title">乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%</span>
-        </a>
   </div>
 </div>
 
@@ -417,4 +417,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-03 15:11（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-03 20:40（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
