@@ -1038,5 +1038,915 @@
     "feed_name": "纽约时报",
     "summary": "The artificial intelligence boom has pushed up the stock market, even as interest rates have pulled it down, our columnist says.",
     "published_dt_iso": "2026-10-02T17:03:43+08:00"
+  },
+  {
+    "title": "Meta希望您的下一个小工具是Muse",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "date": "2026-10-03",
+    "published_time": "08:45",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Meta希望将Muse放入您的电视和烤面包机中，因此它会免费提供代码。",
+    "published_dt_iso": "2026-10-03T08:45:39+08:00"
+  },
+  {
+    "title": "Sean Parker正在围绕音乐重建稳定AI",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "date": "2026-10-03",
+    "published_time": "05:09",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "肖恩·帕克（ Sean Parker ）曾经教过音乐界什么是请求原谅，现在又带着唱片公司的祝福和金钱回来了。",
+    "published_dt_iso": "2026-10-03T05:09:14+08:00"
+  },
+  {
+    "title": "受裁员影响？不要错过TechCrunch Disrupt 2026 Expo + Pass的$ 75优惠",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "date": "2026-10-03",
+    "published_time": "03:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "您的下一个机会可能是一次对话。只需$ 75 ，即可获得博览会+通行证。仅限前100名符合条件的人士。",
+    "published_dt_iso": "2026-10-03T03:15:51+08:00"
+  },
+  {
+    "title": "苹果表示，由于人工智能代理的新风险，它正在加强macOS的“全磁盘访问”控制",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "date": "2026-10-03",
+    "published_time": "02:11",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "苹果表示，它将围绕macOS的完整磁盘访问权限添加新的控件，并警告说，功能日益强大的人工智能代理会增加对用户文件、消息、邮件和浏览历史记录的广泛访问风险。",
+    "published_dt_iso": "2026-10-03T02:11:27+08:00"
+  },
+  {
+    "title": "Apple更改全磁盘访问权限，以遏制AI代理的滥用",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "date": "2026-10-03",
+    "published_time": "07:03",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Meta说， FDA不足以让Muse阅读信息。苹果恕我直言。",
+    "published_dt_iso": "2026-10-03T07:03:16+08:00"
+  },
+  {
+    "title": "用于制作Muse AI小工具的元开源代码",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "date": "2026-10-03",
+    "published_time": "05:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta现在允许您制作自己的Muse小工具，该小工具具有公司开源的新AI代理代码。该公司建议将Muse加载到彩色E Ink显示屏上以显示提醒，将其添加到HDMI棒中以便您可以在大屏幕上显示Muse ，或[…]",
+    "published_dt_iso": "2026-10-03T05:08:37+08:00"
+  },
+  {
+    "title": "Netflix正在远离声望",
+    "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+    "date": "2026-10-03",
+    "published_time": "04:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Netflix最受好评的许多热门歌曲都是其与David Fincher和Shawn Levy等著名导演达成的多年制作协议的产物。然而，在过去的几周里，流媒体已经结束了其中一些合作伙伴关系，这表明了更大的战略转变。与竞争对手[…]",
+    "published_dt_iso": "2026-10-03T04:30:26+08:00"
+  },
+  {
+    "title": "苹果将限制Mac磁盘访问，因为人工智能代理“大幅增加”风险",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "date": "2026-10-03",
+    "published_time": "04:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "正如TechCrunch早些时候报道的那样，苹果将为Mac上的“完整磁盘访问”增加新的限制，以应对人工智能代理带来的风险。在周五的更新中，苹果表示将推出新的控制措施，以“确保真正希望授予应用这种非凡访问权限的用户只能[…]",
+    "published_dt_iso": "2026-10-03T04:08:40+08:00"
+  },
+  {
+    "title": "Sling TV放弃一台",
+    "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+    "date": "2026-10-03",
+    "published_time": "04:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "据The Desk报道， Dish拥有的Sling TV将不再提供Sling Pass功能，允许人们一次购买一天的有线电视节目。该功能于去年宣布，并提供一日通行证，周末通行证和为期一周的通行证选项，以便能够[…]",
+    "published_dt_iso": "2026-10-03T04:00:20+08:00"
+  },
+  {
+    "title": "OpenAI的Dot代理是企业软件，也可以订购您的晚餐",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "date": "2026-10-03",
+    "published_time": "02:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "这是一个与上周一样古老的故事： OpenAI的新代理平台，名为Dots ，充满了可爱的小家伙，他们可以为您出价。但与超级接近的Meta Muse不同， Dots非常喜欢使用工作场所软件，恰好可以为您订购墨西哥卷饼-强调工作。OpenAI宣布[…]",
+    "published_dt_iso": "2026-10-03T02:00:00+08:00"
+  },
+  {
+    "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+    "link": "https://www.qbitai.com/2026/10/500148.html",
+    "date": "2026-10-03",
+    "published_time": "10:38",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "",
+    "published_dt_iso": "2026-10-03T10:38:19+08:00"
+  },
+  {
+    "title": "曼城举报人Rui Pinto因安全担忧离开葡萄牙",
+    "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears",
+    "date": "2026-10-03",
+    "published_time": "03:43",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Pinto已被取消证人保护身份他的律师将提出上诉，并表示他的情况“危急”。Rui Pinto透露，他准备离开葡萄牙，因为在被告知他参与该国的证人保护计划已被终止后，他担心自己的安全。Football Leaks创始人声称他收到了“多次死亡威胁” ，并面临“针对我的暗杀企图的严重风险”",
+    "published_dt_iso": "2026-10-03T03:43:59+08:00"
+  },
+  {
+    "title": "中国新发现一种有羽毛恐龙化石 为飞行特征差异演化提供新证据",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707421.shtml",
+    "date": "2026-10-03",
+    "published_time": "12:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京10月3日电 (记者 孙自法)施普林格·自然旗下学术期刊《自然-通讯》最新发表一篇古生物学论文称，研究人员在中国东北约1.45亿年至1亿年前的地层中，新发现一种有羽毛恐龙化石，命名为巴氏诺瑞龙，对其研究分析为“不同类群的鸟状恐龙在飞行相关特征演化上存在差异”这一理论提供了新证据。",
+    "published_dt_iso": "2026-10-03T12:03:45+08:00"
+  },
+  {
+    "title": "（文化中国行·校馆弦歌）西安交大钱学森图书馆里的精神传承",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707412.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:33",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网西安10月3日电 题：西安交大钱学森图书馆里的精神传承",
+    "published_dt_iso": "2026-10-03T11:33:37+08:00"
+  },
+  {
+    "title": "最新研究发现海平面上升助长入侵海洋物种扩散",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707389.shtml",
+    "date": "2026-10-03",
+    "published_time": "10:35",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网北京10月3日电 (记者 孙自法)海平面上升对生态环境有何影响？施普林格·自然旗下专业学术期刊《自然-生态与演化》最新发表一篇中国科学家领衔完成的生态学论文称，到21世纪中叶和末期，全球新近被海水淹没的海岸线中，超过三分之二可能成为122种非原生海洋物种的适宜栖息地，其中包括中华绒螯蟹、太平洋牡蛎和斑节对虾。",
+    "published_dt_iso": "2026-10-03T10:35:17+08:00"
+  },
+  {
+    "title": "追光的你｜我在",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707383.shtml",
+    "date": "2026-10-03",
+    "published_time": "10:31",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "当千家万户围坐一堂",
+    "published_dt_iso": "2026-10-03T10:31:19+08:00"
+  },
+  {
+    "title": "杭州有个机器人学校 首批30名“新生”已入学",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-03/10707371.shtml",
+    "date": "2026-10-03",
+    "published_time": "09:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "首批30名“新生”分科实训，持证上岗——",
+    "published_dt_iso": "2026-10-03T09:26:21+08:00"
+  },
+  {
+    "title": "印边防人员印巴边境打死两名巴基斯坦人",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707405.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:03",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月3日电 伊斯兰堡消息：当地时间10月2日，巴基斯坦安全部门消息人士称，印度边防人员当天在巴东部旁遮普省卡苏尔地区印巴边境附近开枪打死两名巴基斯坦人。",
+    "published_dt_iso": "2026-10-03T11:03:11+08:00"
+  },
+  {
+    "title": "尼日利亚东北部遭疑似极端组织袭击　至少15人死亡",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707377.shtml",
+    "date": "2026-10-03",
+    "published_time": "10:28",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社北京10月3日电 阿布贾消息：当地时间10月2日，尼日利亚警方通报称，疑似“博科圣地”极端组织的武装分子，日前在尼日利亚东北部博尔诺州发动袭击，并杀害了至少15名普通民众。",
+    "published_dt_iso": "2026-10-03T10:28:49+08:00"
+  },
+  {
+    "title": "外媒：一艘油轮在霍尔木兹海峡附近遭袭",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707375.shtml",
+    "date": "2026-10-03",
+    "published_time": "09:53",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月3日电 据外媒报道，英国海上贸易行动办公室当地时间3日发布通报称，一艘油轮在霍尔木兹海峡附近遭袭。",
+    "published_dt_iso": "2026-10-03T09:53:18+08:00"
+  },
+  {
+    "title": "澳大利亚发生汽车冲撞人群事件 致数人受伤",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707358.shtml",
+    "date": "2026-10-03",
+    "published_time": "08:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月3日电 据澳大利亚广播公司(ABC)报道，澳大利亚新南威尔士州救护车服务中心证实，当地时间3日，纽卡斯尔市发生一起汽车冲撞人群事件，导致数人受伤。",
+    "published_dt_iso": "2026-10-03T08:52:28+08:00"
+  },
+  {
+    "title": "特朗普：与伊朗的战事将“很快结束”",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707354.shtml",
+    "date": "2026-10-03",
+    "published_time": "08:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "美国总统特朗普2日称，与伊朗的战事将“很快结束，伊朗永远不会拥有核武器”。",
+    "published_dt_iso": "2026-10-03T08:29:23+08:00"
+  },
+  {
+    "title": "马克龙：七国集团成员国将释放至多1亿桶战略石油储备",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml",
+    "date": "2026-10-03",
+    "published_time": "06:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。",
+    "published_dt_iso": "2026-10-03T06:44:20+08:00"
+  },
+  {
+    "title": "美国9月非农就业增加2.9万 失业率4.2%",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml",
+    "date": "2026-10-03",
+    "published_time": "06:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。",
+    "published_dt_iso": "2026-10-03T06:42:06+08:00"
+  },
+  {
+    "title": "美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-03/10707345.shtml",
+    "date": "2026-10-03",
+    "published_time": "06:40",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新社华盛顿10月2日电 (记者 沙晗汀)美国联邦航空管理局(FAA)当地时间2日表示，波音公司737 MAX部分机型出现的软件故障不构成安全威胁。",
+    "published_dt_iso": "2026-10-03T06:40:20+08:00"
+  },
+  {
+    "title": "江苏泗洪大圆塘垂钓大赛开赛 千余名钓手洪泽湖畔角逐百万大奖",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707414.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网宿迁10月3日电(刘林 谷华)2日上午，随着发令枪声响起，第十八届泗洪国际大圆塘百万钓鱼大赛在江苏泗洪国际大圆塘垂钓中心开赛。来自全国各地近千名垂钓选手齐聚洪泽湖畔，以垂钓赛事欢度国庆假期。经过激烈角逐，河南周口选手从志辉斩获冠军，拿下百万大奖；广东河源选手任军纺获亚军；四川内江选手代启贤获季军。",
+    "published_dt_iso": "2026-10-03T11:29:55+08:00"
+  },
+  {
+    "title": "国庆不眠井场：大庆钻探工人连夜攻坚 以坚守诠释最美担当",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707413.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网大庆10月3日电 题：国庆不眠井场：大庆钻探工人连夜攻坚 以坚守诠释最美担当",
+    "published_dt_iso": "2026-10-03T11:26:58+08:00"
+  },
+  {
+    "title": "考古工地变“课堂”  公众感知千年前文明",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707411.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:26",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网郑州10月3日电 (记者 韩章云)国庆假期，文博游延续往年火热态势。在河南郑州，“城市考古体验课堂”受到公众青睐，考古工地敞开大门，游客在此体验考古工具、观看文物修复、参与互动游戏等，感知千年前文明。",
+    "published_dt_iso": "2026-10-03T11:26:14+08:00"
+  },
+  {
+    "title": "长假自驾 带好这份安全攻略！",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707415.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "国庆长假户外游玩",
+    "published_dt_iso": "2026-10-03T11:24:06+08:00"
+  },
+  {
+    "title": "高铁上有自行车“专座”了！新增13座试点车站",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707406.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:01",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "带上自行车坐高铁",
+    "published_dt_iso": "2026-10-03T11:01:51+08:00"
+  },
+  {
+    "title": "（乡村行·看振兴）福州点洋村焕新迎客 闽台合力绘就乡村新图景",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707403.shtml",
+    "date": "2026-10-03",
+    "published_time": "11:00",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网福州10月3日电 题：福州点洋村焕新迎客 闽台合力绘就乡村新图景",
+    "published_dt_iso": "2026-10-03T11:00:17+08:00"
+  },
+  {
+    "title": "浮雕与护栏创意融合  “民生轮启航雕塑”成重庆合川文化新地标",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707402.shtml",
+    "date": "2026-10-03",
+    "published_time": "10:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网重庆10月3日电 (记者 钟旖)2026年恰逢“民生轮”于合川启航一百周年。国庆假期，位于重庆合川小南门码头的“民生轮启航雕塑”前，不少家长带着孩子驻足观看浮雕，讲述发生在这片土地上的实业报国故事。",
+    "published_dt_iso": "2026-10-03T10:58:32+08:00"
+  },
+  {
+    "title": "古树引来如潮人流 浙江松阳跳出树下“打卡即走”困境",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-03/10707400.shtml",
+    "date": "2026-10-03",
+    "published_time": "10:56",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网丽水10月3日电(周健 毛江东)国庆长假，浙江丽水松阳县三都乡杨家堂村、竹源乡后畲村的古树前人头攒动。百年“夫妻樟”和形态奇绝的苦槠树，成为游客争相打卡之处。",
+    "published_dt_iso": "2026-10-03T10:56:36+08:00"
+  },
+  {
+    "title": "特朗普指示将纳税人的钱用于赞美其总统职位的广告",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
+    "date": "2026-10-03",
+    "published_time": "05:28",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "政府资助的广告显示了特朗普总统能够将联邦资金用于他自己的目的的程度。",
+    "published_dt_iso": "2026-10-03T05:28:50+08:00"
+  },
+  {
+    "title": "美国国家科学基金会挪用国会授权的14亿美元科学基金",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
+    "date": "2026-10-03",
+    "published_time": "02:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此举影响了美国国家科学基金会约五分之一的主要研究预算，是白宫如何对拨款进行更多控制的最新迹象。",
+    "published_dt_iso": "2026-10-03T02:41:42+08:00"
+  },
+  {
+    "title": "Judge Blocks Border Wall Construction in Big Bend in Texas",
+    "link": "https://www.nytimes.com/2026/10/02/us/border-wall-big-bend-texas.html",
+    "date": "2026-10-03",
+    "published_time": "07:06",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The ruling dealt a setback to the Trump administration’s plans for hundreds of miles of barriers that have drawn local opposition.",
+    "published_dt_iso": "2026-10-03T07:06:16+08:00"
+  },
+  {
+    "title": "New York Governor Criticizes Handling of Cornell Case",
+    "link": "https://www.nytimes.com/2026/10/02/briefing/new-york-governor-cornell-jobs-report.html",
+    "date": "2026-10-03",
+    "published_time": "05:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Also, U.S. hiring slowed down. Here’s the latest at the end of Friday.",
+    "published_dt_iso": "2026-10-03T05:40:08+08:00"
+  },
+  {
+    "title": "D.A. in Cornell Rape Inquiry Declined to Review Additional Evidence",
+    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-lawsuit-da-evidence.html",
+    "date": "2026-10-03",
+    "published_time": "09:13",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Records show that campus police officers informed Tompkins County prosecutors that they had conducted additional interviews beyond taking a statement from the woman who said she was raped.",
+    "published_dt_iso": "2026-10-03T09:13:51+08:00"
+  },
+  {
+    "title": "Hochul Denounces D.A. and Cornell Police in Handling of Sex Assault Case",
+    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-rape-jane-doe-hochul.html",
+    "date": "2026-10-03",
+    "published_time": "08:12",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Gov. Kathy Hochul appointed Letitia James, the attorney general, to investigate the original allegations and why a police report omitted crucial information.",
+    "published_dt_iso": "2026-10-03T08:12:29+08:00"
+  },
+  {
+    "title": "Letitia James Is in Charge of the Cornell Rape Inquiry. What Comes Next?",
+    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-university-jane-doe-investigation.html",
+    "date": "2026-10-03",
+    "published_time": "06:44",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "As a special prosecutor, Ms. James has wide powers over the handling of the investigation, but legal experts say the case comes with potential obstacles.",
+    "published_dt_iso": "2026-10-03T06:44:21+08:00"
+  },
+  {
+    "title": "Man Accused of Sex Assault Seeks to Expunge Cornell’s Finding of Related Violation",
+    "link": "https://www.nytimes.com/2026/10/02/nyregion/cornell-accused-man-punishment-appeal.html",
+    "date": "2026-10-03",
+    "published_time": "03:12",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "A panel found the man responsible for attempted sexual exploitation, barred him from contact with the woman and required him to take a class and write a paper.",
+    "published_dt_iso": "2026-10-03T03:12:31+08:00"
+  },
+  {
+    "title": "Meta wants your next gadget to be Muse",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "date": "2026-10-03",
+    "published_time": "08:45",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+    "published_dt_iso": "2026-10-03T08:45:39+08:00"
+  },
+  {
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "date": "2026-10-03",
+    "published_time": "05:09",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+    "published_dt_iso": "2026-10-03T05:09:14+08:00"
+  },
+  {
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "date": "2026-10-03",
+    "published_time": "03:15",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+    "published_dt_iso": "2026-10-03T03:15:51+08:00"
+  },
+  {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "date": "2026-10-03",
+    "published_time": "02:11",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+    "published_dt_iso": "2026-10-03T02:11:27+08:00"
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "date": "2026-10-03",
+    "published_time": "01:56",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are puttin",
+    "published_dt_iso": "2026-10-03T01:56:00+08:00"
+  },
+  {
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "date": "2026-10-03",
+    "published_time": "01:48",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are puttin",
+    "published_dt_iso": "2026-10-03T01:48:16+08:00"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+    "date": "2026-10-03",
+    "published_time": "01:32",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+    "published_dt_iso": "2026-10-03T01:32:05+08:00"
+  },
+  {
+    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+    "date": "2026-10-03",
+    "published_time": "01:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test dummies\" to solve that.",
+    "published_dt_iso": "2026-10-03T01:00:00+08:00"
+  },
+  {
+    "title": "Toshiba to double HDD production capacity amid devastating shortages",
+    "link": "https://www.tomshardware.com/pc-components/hdds/toshiba-to-double-hdd-production-capacity-as-30tb-class-loom-65tb-100tb-drives-on-the-roadmap-for-2030-and-beyond",
+    "date": "2026-10-03",
+    "published_time": "00:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Toshiba doubles HDD capacity in the Philippines in fiscal 2027, in time for 30TB-class HDD ramp in 2027.",
+    "published_dt_iso": "2026-10-03T00:00:45+08:00"
+  },
+  {
+    "title": "Leaked Intel Nova Lake product list has three 'BFC' chips with up to 144MB of game",
+    "link": "https://www.tomshardware.com/pc-components/cpus/rumored-intel-nova-lake-table-lists-three-bfc-chips-with-up-to-144mb-of-l3-next-gen-cpu-lineup-takes-shape-with-up-to-28-cores-in-core-ultra-9-4970k-bfc",
+    "date": "2026-10-02",
+    "published_time": "23:34",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "A table rumored to hold Intel's upcoming models for Nova Lake processors as surfaced, now referring to the heavily-rumored bLLC as \"BFC.\"",
+    "published_dt_iso": "2026-10-02T23:34:13+08:00"
+  },
+  {
+    "title": "California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork",
+    "date": "2026-10-02",
+    "published_time": "22:53",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "U.S. authorities have arrested a California man accused of smuggling more than $300 million worth of export-controlled Nvidia-powered servers to China through Malaysia and Singapore, allegedly using false paperwork to conceal their final destination",
+    "published_dt_iso": "2026-10-02T22:53:41+08:00"
+  },
+  {
+    "title": "BiWin's CL 100 Mini is a particularly puny but potent SSD for portable gaming",
+    "link": "https://www.tomshardware.com/pc-components/storage/biwins-cl-100-mini-is-a-particularly-puny-but-potent-ssd-for-portable-gaming-15-x-17-mm-in-size-and-up-to-2tb-in-capacity",
+    "date": "2026-10-02",
+    "published_time": "22:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "BiWin's CL 100 Mini is a particularly puny but potent SSD for portable gaming — 15 x 17mm in size and up to 2 TB in capacity",
+    "published_dt_iso": "2026-10-02T22:30:00+08:00"
+  },
+  {
+    "title": "Sony brings AI-powered upscaling to the standard PS5",
+    "link": "https://www.tomshardware.com/video-games/console-gaming/sony-brings-ai-powered-upscaling-to-the-standard-ps5-new-qssr-technology-to-deliver-a-taste-of-the-ps5-pro-experience-streamlined-neural-network-tech-built-with-amd",
+    "date": "2026-10-02",
+    "published_time": "22:10",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "The base PS5 is getting an optimized version of Sony's AI-powered upscaling technology, offering developers a new way to improve image quality and stability without demanding more powerful hardware.",
+    "published_dt_iso": "2026-10-02T22:10:00+08:00"
+  },
+  {
+    "title": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts",
+    "link": "https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities",
+    "date": "2026-10-02",
+    "published_time": "21:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Amazon and chip design tool maker Synopsys have inked a multi-year partnership worth over a billion dollars. As part of the arrangement, Amazon will license Synopsys' chip designs and its design tools to create and optimize new AI chips. Synopsys will adopt Amazon Bedrock to build and deploy AI agents, and adopt AWS computing and storage services, ",
+    "published_dt_iso": "2026-10-02T21:50:00+08:00"
+  },
+  {
+    "title": "Flock drones with cameras deployed as first responders in some US cities amid privacy concerns",
+    "link": "https://www.tomshardware.com/tech-industry/drones/flock-drones-with-cameras-deployed-as-first-responders-in-some-us-cities-amid-privacy-concerns-uavs-connect-to-wider-emergency-services-system-and-streams-video-to-dispatchers-officers",
+    "date": "2026-10-02",
+    "published_time": "21:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "U.S. cities consider deploying Flock drones that automatically respond to emergency calls. However, other jurisdictions are pushing back against the service due to privacy and other concerns.",
+    "published_dt_iso": "2026-10-02T21:20:00+08:00"
+  },
+  {
+    "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
+    "date": "2026-10-02",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Nvidia is introducing a 64GB version of its DGX Spark local AI workstation that's tailored for a new generation of highly intelligent yet compact local models. Starting at $4999, the more affordable configuration is otherwise identical to the original 128GB Spark and its GB10 siblings.",
+    "published_dt_iso": "2026-10-02T21:00:00+08:00"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "date": "2026-10-03",
+    "published_time": "07:03",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+    "published_dt_iso": "2026-10-03T07:03:16+08:00"
+  },
+  {
+    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+    "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "date": "2026-10-02",
+    "published_time": "04:28",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "It has been a bad month for federal government cybersecurity.",
+    "published_dt_iso": "2026-10-02T04:28:45+08:00"
+  },
+  {
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "date": "2026-10-02",
+    "published_time": "01:49",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+    "published_dt_iso": "2026-10-02T01:49:56+08:00"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "date": "2026-10-01",
+    "published_time": "04:44",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+    "published_dt_iso": "2026-10-01T04:44:48+08:00"
+  },
+  {
+    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "date": "2026-09-30",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+    "published_dt_iso": "2026-09-30T19:15:14+08:00"
+  },
+  {
+    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "date": "2026-09-26",
+    "published_time": "03:38",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Ads appearing all over the Internet are trying to scam people.",
+    "published_dt_iso": "2026-09-26T03:38:59+08:00"
+  },
+  {
+    "title": "There's a new way to break RSA that's faster than anything we've seen before",
+    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-24",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
+    "published_dt_iso": "2026-09-24T19:15:44+08:00"
+  },
+  {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "date": "2026-09-23",
+    "published_time": "03:45",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
+    "published_dt_iso": "2026-09-23T03:45:47+08:00"
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "date": "2026-10-03",
+    "published_time": "05:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or […]",
+    "published_dt_iso": "2026-10-03T05:08:37+08:00"
+  },
+  {
+    "title": "Netflix is pivoting away from prestige",
+    "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+    "date": "2026-10-03",
+    "published_time": "04:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to an end in a way that feels indicative of a larger strategic shift. With rival […]",
+    "published_dt_iso": "2026-10-03T04:30:26+08:00"
+  },
+  {
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "date": "2026-10-03",
+    "published_time": "04:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an app this extraordinary level of access can only do […]",
+    "published_dt_iso": "2026-10-03T04:08:40+08:00"
+  },
+  {
+    "title": "Sling TV drops its one",
+    "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+    "date": "2026-10-03",
+    "published_time": "04:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and a week-long pass option to be able to […]",
+    "published_dt_iso": "2026-10-03T04:00:20+08:00"
+  },
+  {
+    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "date": "2026-10-03",
+    "published_time": "02:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced […]",
+    "published_dt_iso": "2026-10-03T02:00:00+08:00"
+  },
+  {
+    "title": "Breaking up (with Elon Musk) is hard to do",
+    "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+    "date": "2026-10-03",
+    "published_time": "01:37",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted […]",
+    "published_dt_iso": "2026-10-03T01:37:36+08:00"
+  },
+  {
+    "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
+    "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+    "date": "2026-10-03",
+    "published_time": "01:15",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in production and a 45 percent jump in deliveries. (F",
+    "published_dt_iso": "2026-10-03T01:15:03+08:00"
+  },
+  {
+    "title": "Beehiiv creators are buzzing about a new price increase",
+    "link": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+    "date": "2026-10-03",
+    "published_time": "00:51",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to \"continue investing in our core platform experience.\" As part of the change, […]",
+    "published_dt_iso": "2026-10-03T00:51:49+08:00"
+  },
+  {
+    "title": "Man City confirm appeal against guilty verdict",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-03",
+    "published_time": "01:43",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact, and is unsafe\".",
+    "published_dt_iso": "2026-10-03T01:43:48+08:00"
+  },
+  {
+    "title": "HMRC urged to scrutinise tax implications of Man City case",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-02",
+    "published_time": "02:21",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+    "published_dt_iso": "2026-10-02T02:21:22+08:00"
+  },
+  {
+    "title": "Jaissle learned a lot about life after tumour aged five",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq7702n27ynxo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "14:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Newcastle United head coach Matthias Jaissle could not move his neck at one point, but went on to play before embarking on a coaching career that sees him in Tyneside.",
+    "published_dt_iso": "2026-10-01T14:00:06+08:00"
+  },
+  {
+    "title": "Hull's Gourna-Douath crashes near training ground",
+    "link": "https://www.bbc.co.uk/news/articles/cm89j90gv57vo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "20:02",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "The crash, involving Lucas Gourna-Douath, follows a similar incident involving Sorba Thomas.",
+    "published_dt_iso": "2026-10-01T20:02:20+08:00"
+  },
+  {
+    "title": "Punish Man City this season, say other club chiefs",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-01",
+    "published_time": "04:38",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Manchester City's punishment for breaching Premier League rules should be handed down before the end of this season, senior football figures tell BBC Sport.",
+    "published_dt_iso": "2026-10-01T04:38:22+08:00"
+  },
+  {
+    "title": "Guardiola backing Man City after guilty verdicts",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "18:07",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Former Man City boss Pep Guardiola says he will \"always\" be behind the club after they were found guilty of financial charges.",
+    "published_dt_iso": "2026-09-30T18:07:23+08:00"
+  },
+  {
+    "title": "How much money do clubs get for Nations League players?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvj64l3xyzlyo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "21:47",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "Our Ask Me Anything team look at what clubs are paid for releasing players for Nations League appearances.",
+    "published_dt_iso": "2026-09-30T21:47:34+08:00"
+  },
+  {
+    "title": "Criminal investigation? Relegation or expulsion? The key Man City questions",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c9y7zr4l6de1o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-09-30",
+    "published_time": "21:17",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC Sport takes a look at the key questions following the guilty verdicts handed down to Manchester City.",
+    "published_dt_iso": "2026-09-30T21:17:44+08:00"
+  },
+  {
+    "title": "Manchester City whistleblower Rui Pinto to leave Portugal over safety fears",
+    "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears",
+    "date": "2026-10-03",
+    "published_time": "03:43",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Pinto has witness protection status removedHis lawyers will appeal and say his situation is ‘critical’Rui Pinto has revealed he is preparing to leave Portugal because he fears for his safety after being informed that his participation in the country’s witness protection programme has been terminated.The Football Leaks founder claimed he has receive",
+    "published_dt_iso": "2026-10-03T03:43:59+08:00"
+  },
+  {
+    "title": "How success of Manchester City helped put Andy Burnham in power",
+    "link": "https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power",
+    "date": "2026-10-02",
+    "published_time": "02:53",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "PM has praised Abu Dhabi group as ‘huge partner’ in reshaping Manchester, but critics say this ignores public cost of city’s transformationIn July 2016, the Manchester City player Yaya Touré ambled into a small bar near Beijing’s Workers’ Stadium and offered a bemused smile as dozens of Chinese fans rushed towards him.Manchester City had just won t",
+    "published_dt_iso": "2026-10-02T02:53:05+08:00"
+  },
+  {
+    "title": "Criminal or saviour? Rui Pinto abandoned by Portuguese authorities after Manchester City leaks",
+    "link": "https://www.theguardian.com/football/2026/oct/01/fears-manchester-city-whistleblower-rui-pinto-loses-protected-witness-status",
+    "date": "2026-10-02",
+    "published_time": "02:40",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Man whose leaks of private documents prompted the investigation into City has been advised not to return home, contact family members or visit crowded placesMore than a decade after Rui Pinto set up the Football Leaks website in a crusade triggered by the Fifa scandal in 2015, he finds himself in the middle of a growing storm. The former history st",
+    "published_dt_iso": "2026-10-02T02:40:17+08:00"
+  },
+  {
+    "title": "Andy Burnham’s Manchester City comments stir fresh tensions with Premier League",
+    "link": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
+    "date": "2026-10-02",
+    "published_time": "02:10",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Government said to be unhappy at lack of warningTreasury committee chair wants HMRC involved in caseAndy Burnham’s intervention in the Manchester City debate has revived tensions between the Premier League and the prime minister.Government officials are understood to be unhappy they were not given notice that the independent commission’s damning ju",
+    "published_dt_iso": "2026-10-02T02:10:38+08:00"
+  },
+  {
+    "title": "Manchester City fans are right to feel angry – now they need to direct it at the owners | Will Unwin",
+    "link": "https://www.theguardian.com/football/2026/oct/01/manchester-city-premier-league-financial-rule-breaches-fans-anger-owners",
+    "date": "2026-10-01",
+    "published_time": "22:04",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Success under the Abu Dhabi regime made supporters feel proud, but they can only really get those feelings back under new custodiansAmid the hundreds of thousands of words written and spoken about Manchester City being found guilty of serious breaches of Premier League rules, maybe Roberto Mancini’s were the most poignant when he announced it was “",
+    "published_dt_iso": "2026-10-01T22:04:07+08:00"
+  },
+  {
+    "title": "Billionaire Sheiks and ‘sham’ contracts: the Manchester City scandal",
+    "link": "https://www.theguardian.com/news/audio/2026/oct/01/billionaire-sheiks-and-sham-contracts-the-manchester-city-scandal-podcast",
+    "date": "2026-10-01",
+    "published_time": "10:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Jonathan Liew explains the accusations against Manchester City – and Simon Hattenstone explains how it feels to be a fan Simon Hattenstone, a features writer for the Guardian, has been a Manchester City fan for more than 50 years. He was very young – and recovering from a childhood illness that had nearly killed him – when he started going to match",
+    "published_dt_iso": "2026-10-01T10:00:24+08:00"
+  },
+  {
+    "title": "City sponsor Etihad Airways considering legal action against the Premier League",
+    "link": "https://www.theguardian.com/football/2026/sep/30/etihad-airways-considering-legal-action-premier-league-manchester-city",
+    "date": "2026-10-01",
+    "published_time": "05:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Airline ‘categorically rejects’ commission’s guilty verdictEtihad has been club’s principal shirt sponsor since 2009Manchester City’s main sponsor, Etihad Airways, is considering legal action against the Premier League following its publication of the independent commission’s core decision on more than 100 findings of financial rule breaches by the",
+    "published_dt_iso": "2026-10-01T05:30:33+08:00"
+  },
+  {
+    "title": "Manchester City whistleblower Rui Pinto no longer a protected witness in Portugal",
+    "link": "https://www.theguardian.com/football/2026/sep/30/manchester-city-whistleblower-rui-pinto-no-longer-protected-witness-premier-league-portuguese-police",
+    "date": "2026-10-01",
+    "published_time": "03:40",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Work provided information concerning City’s financesHe called City decision ‘historic for English football’Rui Pinto, whose leaks of private documents helped to trigger the Premier League’s investigation into Manchester City’s financial affairs, will no longer be protected as a witness by the Portuguese authorities, it can be revealed. The removal ",
+    "published_dt_iso": "2026-10-01T03:40:04+08:00"
+  },
+  {
+    "title": "Trump Directed Use of Taxpayer Money for Ads Praising His Presidency",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/trump-ads.html",
+    "date": "2026-10-03",
+    "published_time": "05:28",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The government-funded ads show just how much President Trump has been able to use federal money for his own aims.",
+    "published_dt_iso": "2026-10-03T05:28:50+08:00"
+  },
+  {
+    "title": "National Science Foundation Diverted $1.4 Billion in Science Funds Mandated by Congress",
+    "link": "https://www.nytimes.com/2026/10/02/us/politics/national-science-foundation-research-funds.html",
+    "date": "2026-10-03",
+    "published_time": "02:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The move, affecting about one-fifth of the National Science Foundation’s primary research budget, is the latest sign of how the White House is asserting more control over grants.",
+    "published_dt_iso": "2026-10-03T02:41:42+08:00"
   }
 ]

@@ -100,7 +100,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,780.44</span>
+      <span class="ticker-price ticker-up">30,807.93</span>
       <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-footer">
@@ -114,7 +114,7 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7066</span>
+      <span class="ticker-price ticker-down">6.7061</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
@@ -128,8 +128,8 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,133.91 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -43.36 (-1.04%)</span>
+      <span class="ticker-price ticker-down">$4,139.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -37.99 (-0.91%)</span>
     </div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
@@ -165,7 +165,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+53.2 亿</span>
+      <span class="sector-flow-badge">+24.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -178,7 +178,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+52.9 亿</span>
+      <span class="sector-flow-badge">+36.8 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -191,7 +191,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+17.3 亿</span>
+      <span class="sector-flow-badge">+29.8 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -204,7 +204,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+18.4 亿</span>
+      <span class="sector-flow-badge">+39.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -230,8 +230,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">12 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707375.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月3日电 据外媒报道，英国海上贸易行动办公室当地时间3日发布通报称，一艘油轮在霍尔木兹海峡附近遭袭。" data-title="外媒：一艘油轮在霍尔木兹海峡附近遭袭" data-date="10-03 09:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 09:53</span>
+          <span class="news-item-title">外媒：一艘油轮在霍尔木兹海峡附近遭袭</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2" target="_blank" rel="noopener" data-cat="caijing" data-summary="Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in production and a 45 percent jump in deliveries. (F" data-title="Rivian’s sales pop as the company’s big R2 bet starts to pay off" data-date="10-03 01:15" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-03 01:15</span>
+          <span class="news-item-title">Rivian’s sales pop as the company’s big R2 bet starts to pay off</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs." data-title="U.S. Labor Market Shifts to a Lower Gear" data-date="10-03 01:09" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -243,6 +255,12 @@ title: 股票财经
           <span class="source-badge source-theverge">🌐 The Verge</span>
           <span class="news-item-date">10-03 00:51</span>
           <span class="news-item-title">Beehiiv创作者热议新的价格上涨</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions" target="_blank" rel="noopener" data-cat="caijing" data-summary="Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren&#39;t happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to &quot;continue investing in our core platform experience.&quot; As part of the change, […]" data-title="Beehiiv creators are buzzing about a new price increase" data-date="10-03 00:51" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-03 00:51</span>
+          <span class="news-item-title">Beehiiv creators are buzzing about a new price increase</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-02/10707337.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月2日，七国集团领导人召开视频会议，应对油价飙升及能源供应压力，同意采取协调行动，稳定市场、缓解家庭和企业负担，并增强能源体系长期韧性。" data-title="七国集团就推动主要炼油国家增产增加柴油供应达成一致" data-date="10-02 23:24" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -299,4 +317,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-03 01:56（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-03 12:10（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

@@ -1100,6 +1100,24 @@ def build_archive_chips(date_only):
 def build_page_html(categorized_map, date_only, crawled_time=""):
     """生成完整的美观新闻页面 HTML"""
     total_count = sum(len(items) for sec in SECTIONS_CONFIG for items in [categorized_map.get(sec["id"], [])])
+
+    # ---- 今日概览统计 + 多源印证映射（借鉴信源分级知识库形态）----
+    all_items_flat = [it for sec in SECTIONS_CONFIG for it in categorized_map.get(sec["id"], [])]
+    unique_sources = sorted({str(it.get("source", "")).strip() for it in all_items_flat if it.get("source")})
+    src_counts = {}
+    for it in all_items_flat:
+        src = str(it.get("source", "")).strip()
+        if src: src_counts[src] = src_counts.get(src, 0) + 1
+    top_srcs = sorted(src_counts.items(), key=lambda x: -x[1])[:2]
+    top_srcs_text = " · ".join(f"{k}×{v}" for k, v in top_srcs)
+    overview_html = f'''<div class="news-overview-bar">
+  <div class="ov-item"><span class="ov-num">{total_count}</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">{len(unique_sources)}</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">{len(SECTIONS_CONFIG)}</span><span class="ov-label">覆盖频道</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">{top_srcs_text}</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
+</div>
+'''
     update_badge = f"{date_only} 今日更新" if not crawled_time else f"{crawled_time} 抓取更新"
 
     # 1. 复合 Header 控制台 (标题 + 频道 Tab + 搜索框 + 往期历史入口)
@@ -1273,6 +1291,13 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
             grid_html += f'          <span class="source-badge {src_css}">{flag} {it["source"]}</span>\n'
             grid_html += f'          <span class="news-item-date">{it_date}</span>\n'
             grid_html += f'          <span class="news-item-title">{it["title"]}</span>\n'
+            vp_raw = str(it.get("summary") or "").strip()
+            if vp_raw:
+                vp = re.split(r"[。！？；]", vp_raw)[0].strip()
+                if len(vp) > 72:
+                    vp = vp[:72] + "…"
+                if vp:
+                    grid_html += f'          <span class="news-value-point">💡 {vp}</span>\n'
             grid_html += f'        </a>\n'
         grid_html += f'  </div>\n'
     grid_html += '</div>\n'
@@ -1407,7 +1432,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 '''
 
-    return header_html + hero_html + grid_html + client_script
+    return header_html + overview_html + hero_html + grid_html + client_script
 
 
 def build_finance_ticker_html(indices):

@@ -4028,3 +4028,16 @@ html {
   }
 }
 
+
+
+/* ============ 新闻页：今日概览统计条 + 价值点 + 多源印证徽章 (2026-10-03) ============ */
+.news-overview-bar{display:flex;flex-wrap:wrap;gap:14px;align-items:center;background:var(--color-surface);border:1px solid var(--color-border);border-radius:12px;padding:14px 20px;margin:0 0 18px}
+.news-overview-bar .ov-item{display:flex;flex-direction:column;align-items:flex-start;min-width:72px}
+.news-overview-bar .ov-num{font-size:20px;font-weight:800;color:#00d47a;line-height:1.1}
+[data-theme="light"] .news-overview-bar .ov-num{color:#0a8a5c}
+.news-overview-bar .ov-label{font-size:11.5px;color:var(--color-muted);margin-top:2px}
+.news-overview-bar .ov-note{margin-left:auto;font-size:11.5px;color:var(--color-muted);opacity:.8}
+.news-item .news-value-point{display:block;font-size:12px;line-height:1.55;color:var(--color-body);background:rgba(255,193,7,.08);border-left:3px solid #ffc107;padding:4px 8px;margin:6px 0 2px;border-radius:0 6px 6px 0}
+[data-theme="light"] .news-item .news-value-point{background:rgba(255,193,7,.12);color:#5a4a1a}
+.news-item .source-verify-badge{display:inline-flex;align-items:center;gap:3px;font-size:10.5px;font-weight:600;color:#00d47a;border:1px solid rgba(0,212,122,.4);border-radius:10px;padding:1px 7px;margin-top:5px}
+[data-theme="light"] .news-item .source-verify-badge{color:#0a8a5c;border-color:rgba(0,150,100,.45)}
