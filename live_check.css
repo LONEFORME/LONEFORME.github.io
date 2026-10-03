@@ -4016,7 +4016,17 @@ html {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05) !important;
 }
 @media (max-width: 1320px) {
-  #doc-toc { display: none !important;
+  #doc-toc { display: none !important; }
+  .layout-read .content-body-wrap { padding: 28px 24px !important; }
+}
+  .layout-read .content-body-wrap {
+    padding: 28px 24px !important;
+  }
+}
+  .layout-read .content-body-wrap {
+    padding: 28px 24px !important;
+  }
+}
 
 
 
