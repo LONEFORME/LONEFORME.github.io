@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-03 20:40（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-04 00:32（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -312,12 +312,24 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="弗拉基米尔· V ·普京(Vladimir V. Putin)总统向特朗普总统的特使贾里德·库什纳(Jared Kushner)和史蒂夫·维特科夫(Steve Witkoff)提出了出售俄罗斯能源资产的问题，推动了一项引发利益冲突新问题的协议" data-title="美俄关于乌克兰的谈判现在涉及与特朗普盟友相关的石油协议" data-date="10-03 20:40" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/009/575.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文称，前阵子，星河通信团队开着享界 G9 去了趟独库公路，实测车载星河通信在独库公路的表现，反复测试下来 98.7% 以上的路段信号都非常不错。他表示：“星河通信是鸿蒙智行六大独有核心技术之一。华为在通信领域积累了几十年，我们也把这些技术带到了车上，希望大家开车走到更远的地方，都能保持稳定通信，出行更有底。国庆准备自驾的朋友，路上如果遇到弱网，可以打开车上热点，给同行的家人朋友共享网络”。IT之家注意到，去年 2 月发布的尊界 S800 车型首发搭载华为星河通信，该技术支持主动智能选网、双网双待，可实现三网连接和弱网加速，并支持将网络共享至手机、平板等设备。在无地面网络时，支持通过车载卫星完成" data-title="余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好" data-date="10-03 22:45" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 22:45</span>
+          <span class="news-item-title">余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707663.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="这个国庆假期，我国深水油田产油量再获新突破。今天，我国首个深水油田——流花油田二次开发项目累计生产原油突破200万吨。截至目前，油田已生产原油超过4000万吨，日产量达到了投产22年来的新高，为保障国家能源安全提供了坚实保障。" data-title="我国首个深水油田流花油田取得新突破 “国之重器”协同运转" data-date="10-03 22:10" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 22:10</span>
+          <span class="news-item-title">我国首个深水油田流花油田取得新突破 “国之重器”协同运转</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="弗拉基米尔· V ·普京(Vladimir V. Putin)总统向特朗普总统的特使贾里德·库什纳(Jared Kushner)和史蒂夫·维特科夫(Steve Witkoff)提出了出售俄罗斯能源资产的问题，推动了一项引发利益冲突新问题的协议" data-title="美俄关于乌克兰的谈判现在涉及与特朗普盟友相关的石油协议" data-date="10-03 22:07" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-03 20:40</span>
+          <span class="news-item-date">10-03 22:07</span>
           <span class="news-item-title">美俄关于乌克兰的谈判现在涉及与特朗普盟友相关的石油协议</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707604.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月3日电 (记者 陈杭)北京密云的古北妙街2日正式开街。这条1.4公里的老街，依托古镇原生街巷、老院落、历史建筑改造升级，经过半年多的筹备，以全新面貌亮相京郊长城脚下。" data-title="北京密云古北妙街开街 古韵新生点亮假日经济" data-date="10-03 20:34" data-source="中国新闻网">
@@ -326,83 +338,17 @@ title: 股票财经
           <span class="news-item-date">10-03 20:34</span>
           <span class="news-item-title">北京密云古北妙街开街 古韵新生点亮假日经济</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments" target="_blank" rel="noopener" data-cat="caijing" data-summary="AWS首席执行官Matt Garman在公司博客文章中表示，它将在五年内拨款10亿美元用于数据中心社区提出的关键问题，包括教育、劳动力途径、能源负担能力等。这相当于每年拨款2亿美元，即使该公司在2026年为数据中心基础设施拨款2200亿美元。" data-title="亚马逊承诺在数据中心附近的社区投资10亿美元($ 10亿美元) ，但批评人士予以回击" data-date="10-03 18:50" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-03 18:50</span>
-          <span class="news-item-title">亚马逊承诺在数据中心附近的社区投资10亿美元($ 10亿美元) ，但批评人士予以回击</span>
-        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="即使是一个经常将个人商业利益与外交政策混为一谈的政府，通过购买俄罗斯能源资产来加强与克里姆林宫关系的建议也引人注目。" data-title="特朗普、普京、乌克兰和石油协议： 5个要点" data-date="10-03 17:03" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">10-03 17:03</span>
           <span class="news-item-title">特朗普、普京、乌克兰和石油协议： 5个要点</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/479.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，上汽 MG 宣布上线 MG4 交车等待礼，10 月下定并锁单 MG4，交车等待超 30 天，每日补偿 5000 MG Live 积分（100 积分等值于 1 元人民币），上不封顶。据IT之家此前报道，2026 款上汽 MG4 于 4 月 24 日北京车展正式上市，官方指导价区间 6.88-10.28 万元；限时补贴价区间 6.58-9.98 万元。2026 款车型延续家族式设计，主要新增冰晶蓝、杏仁米两款外观配色；搭载 8.88 英寸液晶仪表屏以及 15.6 英寸 2.5K 中控屏，车辆搭载地平线智能驾驶辅助方案，同时升级哨兵模式、新增无线苹果 Carplay 功能。2026 款上汽 MG4 配备容量 42.8kWh 和 53.9kWh 的电池组，CLTC 工" data-title="上汽 MG4 交车等待礼上线：10 月下定并锁单，交车等待超 30 天每日补偿 5000 MG Live 积分" data-date="10-03 15:11" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 15:11</span>
-          <span class="news-item-title">上汽 MG4 交车等待礼上线：10 月下定并锁单，交车等待超 30 天每日补偿 5000 MG Live 积分</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/474.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，10 月 2 日，汽车博主 @韩路 在微博上发文称，美团高德大众点评可随意造假评论。韩路表示，他的饭馆 10 月 2 日 17 点才试营业，连店还没开门，但在美团、高德、大众点评就上冒出一堆造假抹黑已经吃过了的差评点评。韩路写道：“实体经济本来就不好弄，平台为了评论热闹，把真实点评的门槛去掉，任何人可随意可以造假真实评论抹黑商家，也没任何审核机制，完全不需要上传任何吃过这家的证据，造假抹黑成本为 0，这样对于商家真是太不公平和打击了。”IT之家注意到，10 月 2 日晚间，高德地图客户服务团队通过微博私信回应了韩路的投诉。回应称：“亲，您反馈的店铺评论问题已经收到。经核实，该店铺尚未开业，页面上的大量评论属于虚假异常评论，目前已完成审核并处理。非常感谢您的反馈" data-title="高德回应“店铺未开业先收差评”：可通过平台提交投诉举报，将持续完善评论机制" data-date="10-03 15:06" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 15:06</span>
-          <span class="news-item-title">高德回应“店铺未开业先收差评”：可通过平台提交投诉举报，将持续完善评论机制</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/473.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="综合外媒 PC Gamer 报道，近期一名用户 FurinaDeFontaine 在 Reddit 平台发文，称自己使用爱彼迎 Airbnb 订民宿退房后，房主用 AI 生成了一张所谓的“马桶漏水”照片，试图向其勒索 1,700 美元（IT之家注：现汇率约合 11,414 元人民币）“维修费”。据 FurinaDeFontaine 介绍，涉事房东据称隶属澳大利亚当地规模较大的一家民宿运营公司，在自己退房后，房东随即向其发送了所谓的“马桶漏水”照片，但 FurinaDeFontaine 很快注意到照片存在明显疑点“涉事厕所楼层下面实际上还有一层楼。如果真的有几英寸深的积水，那么下面整层楼理论上都应该出现明显的进水情况，不符合常理”，因此认为照片很有可能为虚假生成。之后，FurinaDeFont" data-title="爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破" data-date="10-03 15:05" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 15:05</span>
-          <span class="news-item-title">爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/460.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，法国游戏发行与外设企业 NACON 近日宣布推出获得 Sony（索尼）PlayStation 5 授权的 Revolution 5 Unlimited (R5U) 手柄控制器。这一产品定价 199.99 美元（IT之家注：现汇率约合 1,343 元人民币）。NACON R5U 采用非对称式布局，支持三模连接，PC 端回报率可达 1kHz。其配备 TMR 传感器摇杆、霍尔效应传感器 / 机械双切扳机、微动开关动作与方向按钮，集成六轴陀螺仪，另有 7 个可编程快捷键。R5U 集成小尺寸控制屏幕，配套 3 对 6 种摇杆帽、3 对 6 种配重、4 个摇杆保护圈、2 种方向键帽，随附收纳盒和专用 Pogo-Pin 磁吸充电底座。" data-title="NACON 推出 PS5 授权手柄 Revolution 5 Unlimited，配备 TMR 摇杆与控制屏" data-date="10-03 14:57" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 14:57</span>
-          <span class="news-item-title">NACON 推出 PS5 授权手柄 Revolution 5 Unlimited，配备 TMR 摇杆与控制屏</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/457.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，据民政部官网，近期一些非法养老 App 以“民惠通”等为名实施诈骗。不法分子伪造文件、冒充民政部工作人员，宣称可“发放高龄补贴”等，要求先交所谓“保险金”“保证金”“激活费”。随后，骗局还可能以“签到赚钱”“高额返利”“拉人头返佣”等方式诱导继续充值或投资，最终出现无法提现。图谱把这条链路拆成四步：制造官方感、承诺补贴、要求先付款、用返利推动追加投入。民政部提示，其从未设立或批准设立“民惠通”等项目，也未推出任何类似产品和相关 App，请广大公众提高警惕，不要轻信来源不明的信息和不实宣传，避免上当受骗。对于已经参与或可能遭受损失的用户，建议尽快向属地公安部门报案，避免造成进一步损失；如遇可疑情况，请立即拨打 110 报警或拨打 96110 咨询举报。" data-title="民政部：防范非法养老 App 以“民惠通”等为名诈骗" data-date="10-03 14:50" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 14:50</span>
-          <span class="news-item-title">民政部：防范非法养老 App 以“民惠通”等为名诈骗</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707430.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="央视网消息：记者10月2日从国家能源局了解到，国庆假期，新能源汽车出行热度持续攀升。假期首日，全国高速公路充电量达到2804.69万千瓦时，较2025年“十一”国庆假期首日增长60.4%，创历史节假日单日新高。" data-title="@新能源车主，国庆假日出行 请查收这份“充电服务清单”↓" data-date="10-03 12:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 12:34</span>
-          <span class="news-item-title">@新能源车主，国庆假日出行 请查收这份“充电服务清单”↓</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707375.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月3日电 据外媒报道，英国海上贸易行动办公室当地时间3日发布通报称，一艘油轮在霍尔木兹海峡附近遭袭。" data-title="外媒：一艘油轮在霍尔木兹海峡附近遭袭" data-date="10-03 09:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 09:53</span>
-          <span class="news-item-title">外媒：一艘油轮在霍尔木兹海峡附近遭袭</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2" target="_blank" rel="noopener" data-cat="caijing" data-summary="Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in production and a 45 percent jump in deliveries. (F" data-title="Rivian’s sales pop as the company’s big R2 bet starts to pay off" data-date="10-03 01:15" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-03 01:15</span>
-          <span class="news-item-title">Rivian’s sales pop as the company’s big R2 bet starts to pay off</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/02/business/economy/jobs-report-unemployment.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The economy added fewer jobs in September and unemployment ticked up, while inflation has maintained pressure on markets and raised costs." data-title="U.S. Labor Market Shifts to a Lower Gear" data-date="10-03 01:09" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up." data-title="Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring" data-date="10-03 17:03" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-03 01:09</span>
-          <span class="news-item-title">U.S. Labor Market Shifts to a Lower Gear</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions" target="_blank" rel="noopener" data-cat="caijing" data-summary="Beehiiv是一个创作者平台，作为Substack的替代品越来越受欢迎，它正在提高价格，许多用户对此并不满意。在一篇解释这一增长的帖子中， Beehiiv联合创始人兼首席执行官Tyler Denk表示，这将使公司“继续投资于我们的核心平台体验。“作为变革的一部分， […]" data-title="Beehiiv创作者热议新的价格上涨" data-date="10-03 00:51" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-03 00:51</span>
-          <span class="news-item-title">Beehiiv创作者热议新的价格上涨</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions" target="_blank" rel="noopener" data-cat="caijing" data-summary="Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren&#39;t happy. In a post explaining the increase, Beehiiv cofounder and CEO Tyler Denk says it will allow the company to &quot;continue investing in our core platform experience.&quot; As part of the change, […]" data-title="Beehiiv creators are buzzing about a new price increase" data-date="10-03 00:51" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-03 00:51</span>
-          <span class="news-item-title">Beehiiv creators are buzzing about a new price increase</span>
+          <span class="news-item-date">10-03 17:03</span>
+          <span class="news-item-title">Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring</span>
         </a>
   </div>
 </div>
@@ -417,4 +363,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-03 20:40（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-04 00:32（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
