@@ -375,7 +375,7 @@ def fetch_all_market_indices():
     for idx in MARKET_INDICES:
         log(f"  [财经] 获取 {idx['name']}...")
         quote = fetch_sina_quote(idx["code"])
-        trend = fetch_index_trend(idx["code"]) if idx["code"].startswith(("sh", "sz")) else []
+        trend = fetch_history_trend(idx)
         if quote and quote["current"] > 0:
             if trend and quote["current"] > 0 and abs(trend[-1] - quote["current"]) / max(quote["current"], 1) < 0.02:
                 trend[-1] = quote["current"]  # 用实时价校正最后一根收盘
@@ -415,6 +415,70 @@ def fetch_index_trend(symbol, datalen=10):
             return []
         data = json.loads("[" + m.group(1) + "]")
         return [float(x["close"]) for x in data if x.get("close")]
+    except Exception:
+        return []
+
+
+# 各市场历史趋势数据源映射（真实日K回填；未列出的走自积累）
+TREND_SOURCES = {
+    "上证指数": ("sina_kline", "sh000001"),
+    "深证成指": ("sina_kline", "sz399001"),
+    "创业板指": ("sina_kline", "sz399006"),
+    "科创50": ("sina_kline", "sh000688"),
+    "恒生科技": ("tencent", "hkHSTECH"),
+    "恒生指数": ("tencent", "hkHSI"),
+    "纳斯达克100": ("tencent", "usNDX"),
+    "道琼斯工业指数": ("tencent", "usDJI"),
+    "美元/离岸人民币": ("sina_fx", "fx_susdcnh"),
+}
+
+
+def fetch_history_trend(idx):
+    """按市场类型拉取真实历史收盘序列（10 日），无源的返回 []"""
+    src = TREND_SOURCES.get(idx["name"])
+    if not src:
+        return []
+    kind, code = src
+    if kind == "sina_kline":
+        return fetch_index_trend(code)
+    if kind == "tencent":
+        return fetch_tencent_kline(code)
+    if kind == "sina_fx":
+        return fetch_fx_history(code)
+    return []
+
+
+def fetch_tencent_kline(code, datalen=10):
+    """腾讯行情日K：返回最近 datalen 个收盘价（支持港/美指数），失败返回 []"""
+    try:
+        url = f"https://web.ifzq.gtimg.cn/appstock/app/fqkline/get?param={code},day,,,{datalen},qfq"
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+        r = requests.get(url, headers=headers, timeout=10)
+        data = json.loads(r.text).get("data", {})
+        node = data.get(code, {})
+        day = node.get("day") or []
+        return [float(row[2]) for row in day if len(row) > 2]
+    except Exception:
+        return []
+
+
+def fetch_fx_history(symbol, datalen=10):
+    """新浪汇率日K历史：返回最近 datalen 个收盘价，失败返回 []"""
+    try:
+        url = f"https://vip.stock.finance.sina.com.cn/forex/api/jsonp.php/var%20_fx=/NewForexService.getDayKLine?symbol={symbol}"
+        r = requests.get(url, timeout=10)
+        m = re.search(r'\("([^"]*)"\)', r.text)
+        if not m:
+            return []
+        closes = []
+        for seg in m.group(1).split("|"):
+            parts = seg.strip().rstrip(",").split(",")
+            if len(parts) >= 5:
+                try:
+                    closes.append(float(parts[4]))
+                except ValueError:
+                    pass
+        return closes[-datalen:]
     except Exception:
         return []
 

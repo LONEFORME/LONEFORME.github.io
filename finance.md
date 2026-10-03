@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-03 13:35（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-03 14:04（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -97,7 +97,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">4,157.94</span>
       <span class="ticker-change down">▼ -2.26%</span>
     </div>
-    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg63399" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,9.7 L25.3,7.7 L46.7,6.0 L68.0,12.8 L89.3,14.8 L110.7,20.4 L132.0,22.2 L153.3,27.5 L174.7,27.0 L196.0,38.0 L196,40 Z" fill="url(#sg63399)"/><polyline points="4.0,9.7 25.3,7.7 46.7,6.0 68.0,12.8 89.3,14.8 110.7,20.4 132.0,22.2 153.3,27.5 174.7,27.0 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -129,7 +129,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">6.7061</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg77712" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L25.3,31.5 L46.7,18.7 L68.0,13.4 L89.3,6.0 L110.7,16.7 L132.0,21.6 L153.3,20.9 L174.7,16.1 L196.0,23.6 L196,40 Z" fill="url(#sg77712)"/><polyline points="4.0,38.0 25.3,31.5 46.7,18.7 68.0,13.4 89.3,6.0 110.7,16.7 132.0,21.6 153.3,20.9 174.7,16.1 196.0,23.6" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="23.6" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
@@ -177,7 +177,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">23,972.29</span>
       <span class="ticker-change down">▼ -2.60%</span>
     </div>
-    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg73400" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,15.7 L25.3,7.3 L46.7,6.0 L68.0,13.3 L89.3,15.4 L110.7,22.6 L132.0,18.8 L153.3,22.2 L174.7,19.6 L196.0,38.0 L196,40 Z" fill="url(#sg73400)"/><polyline points="4.0,15.7 25.3,7.3 46.7,6.0 68.0,13.3 89.3,15.4 110.7,22.6 132.0,18.8 153.3,22.2 174.7,19.6 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -405,4 +405,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-03 13:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-03 14:04（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
