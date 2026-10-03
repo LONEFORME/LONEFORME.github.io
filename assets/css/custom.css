@@ -3973,33 +3973,30 @@ html {
 }
 
 
-/* ============ 黄金数学级对称三栏文档布局 (左右绝对等距46px，彻底消除任何一侧偏心留白) ============ */
+/* ============ 文档区完全充满布局（正文占满侧栏与目录之间全部空间，零留白） ============ */
 .layout-read .content-body-wrap {
   display: flex !important;
   align-items: flex-start !important;
-  justify-content: center !important; /* 核心：整体在主可视区内完美居中对称 */
-  gap: 32px !important;
-  padding: 36px 46px 48px 46px !important;
+  gap: 40px !important;
+  padding: 36px 48px 48px 48px !important;
   width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
   box-sizing: border-box !important;
-  margin: 0 auto !important;
 }
-
 .layout-read .content-inner {
-  flex: 0 1 1020px !important; /* 舒展黄金正文宽度 */
-  max-width: 1020px !important;
+  flex: 1 1 auto !important;
   min-width: 0 !important;
-  width: 100% !important;
+  max-width: none !important;
+  width: auto !important;
   margin: 0 !important;
   padding: 0 !important;
 }
-
-/* 右侧 TOC 目录：精致收敛，消除诡异的绿色悬浮细线，完美卡片边框 */
 #doc-toc {
   position: sticky !important;
   top: 96px !important;
-  width: 200px !important;
-  flex: 0 0 200px !important;
+  width: 240px !important;
+  flex: 0 0 240px !important;
   max-height: calc(100vh - 130px) !important;
   overflow-y: auto !important;
   overflow-x: hidden !important;
@@ -4010,22 +4007,18 @@ html {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08) !important;
   box-sizing: border-box !important;
   display: block !important;
-  scrollbar-width: none !important; /* 彻底隐藏突兀的滚动条 */
+  scrollbar-width: none !important;
 }
-#doc-toc::-webkit-scrollbar {
-  display: none !important;
-}
-
+#doc-toc::-webkit-scrollbar { display: none !important; }
 [data-theme="light"] #doc-toc {
   background: #ffffff !important;
   border-color: rgba(0, 0, 0, 0.1) !important;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05) !important;
 }
-
 @media (max-width: 1320px) {
-  #doc-toc {
-    display: none !important;
-  }
+  #doc-toc { display: none !important; }
+  .layout-read .content-body-wrap { padding: 28px 24px !important; }
+}
   .layout-read .content-body-wrap {
     padding: 28px 24px !important;
   }
