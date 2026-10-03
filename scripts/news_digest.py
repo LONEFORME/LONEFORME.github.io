@@ -375,7 +375,10 @@ def fetch_all_market_indices():
     for idx in MARKET_INDICES:
         log(f"  [财经] 获取 {idx['name']}...")
         quote = fetch_sina_quote(idx["code"])
+        trend = fetch_index_trend(idx["code"]) if idx["code"].startswith(("sh", "sz")) else []
         if quote and quote["current"] > 0:
+            if trend and quote["current"] > 0 and abs(trend[-1] - quote["current"]) / max(quote["current"], 1) < 0.02:
+                trend[-1] = quote["current"]  # 用实时价校正最后一根收盘
             results.append({
                 **idx,
                 "current": quote["current"],
@@ -383,7 +386,8 @@ def fetch_all_market_indices():
                 "change_pct": quote["change_pct"],
                 "is_up": quote["change"] >= 0,
                 "source": "实时",
-                "quote_time": quote.get("quote_time", "")
+                "quote_time": quote.get("quote_time", ""),
+                "trend": trend
             })
         else:
             d = DEFAULT_INDICES.get(idx["name"], {"current": 0, "change": 0, "change_pct": 0})
@@ -394,9 +398,68 @@ def fetch_all_market_indices():
                 "change_pct": d["change_pct"],
                 "is_up": d["change"] >= 0,
                 "source": "参考",
-                "quote_time": ""
+                "quote_time": "",
+                "trend": []
             })
     return results
+
+
+def fetch_index_trend(symbol, datalen=10):
+    """新浪日K线接口：返回最近 datalen 个收盘价（仅支持 sh/sz 代码），失败返回 []"""
+    try:
+        url = f"https://quotes.sina.cn/cn/api/jsonp_v2.php/var/CN_MarketDataService.getKLineData?symbol={symbol}&scale=240&ma=no&datalen={datalen}"
+        headers = {"User-Agent": "Mozilla/5.0", "Referer": "https://finance.sina.com.cn"}
+        r = requests.get(url, headers=headers, timeout=10)
+        m = re.search(r"\[([^\]]*)\]", r.text, re.S)
+        if not m:
+            return []
+        data = json.loads("[" + m.group(1) + "]")
+        return [float(x["close"]) for x in data if x.get("close")]
+    except Exception:
+        return []
+
+
+def load_finance_history():
+    """自积累历史快照：archive/finance-history.json"""
+    try:
+        with open("archive/finance-history.json", "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+
+def save_finance_history(history, max_points=120):
+    try:
+        with open("archive/finance-history.json", "w", encoding="utf-8") as f:
+            json.dump(history[-max_points:], f, ensure_ascii=False)
+    except Exception as e:
+        log(f"  [ERROR] 保存历史快照失败: {e}")
+
+
+def build_sparkline_svg(values, up=True, width=200, height=44):
+    """构建内联 SVG 迷你趋势图（零依赖，构建期生成）"""
+    if not values or len(values) < 2:
+        return ""
+    lo, hi = min(values), max(values)
+    span = (hi - lo) or 1
+    pts = []
+    n = len(values)
+    for i, v in enumerate(values):
+        x = round(i / (n - 1) * (width - 8) + 4, 1)
+        y = round(height - 6 - (v - lo) / span * (height - 12), 1)
+        pts.append(f"{x},{y}")
+    line = " ".join(pts)
+    last_x, last_y = pts[-1].split(",")
+    area = f"M4,{height-4} L{line.replace(' ', ' L')} L{width-4},{height-4} Z"
+    color = "#00d47a" if up else "#ff5b6a"
+    gid = "sg" + str(abs(hash(tuple(values))) % 99999)
+    return (f'<svg class="ticker-sparkline" viewBox="0 0 {width} {height}" preserveAspectRatio="none" role="img" aria-label="近期走势">'
+            f'<defs><linearGradient id="{gid}" x1="0" y1="0" x2="0" y2="1">'
+            f'<stop offset="0%" stop-color="{color}" stop-opacity="0.28"/>'
+            f'<stop offset="100%" stop-color="{color}" stop-opacity="0.02"/></linearGradient></defs>'
+            f'<path d="{area}" fill="url(#{gid})"/>'
+            f'<polyline points="{line}" fill="none" stroke="{color}" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>'
+            f'<circle cx="{last_x}" cy="{last_y}" r="2.6" fill="{color}"/></svg>')
 
 
 def format_number(num, decimals=2):
@@ -1457,6 +1520,7 @@ def build_finance_ticker_html(indices):
     """生成股指看板 HTML"""
     html = '<div class="finance-ticker-grid">\n'
     for idx in indices:
+        sparkline_html = build_sparkline_svg(idx.get("trend") or [], idx["is_up"])
         price_class = "ticker-up" if idx["is_up"] else "ticker-down"
         change_class = "up" if idx["is_up"] else "down"
         arrow = "▲" if idx["is_up"] else "▼"
@@ -1483,6 +1547,7 @@ def build_finance_ticker_html(indices):
       <span class="ticker-price {price_class}">{price_str}</span>
       <span class="ticker-change {change_class}">{arrow} {change_str}</span>
     </div>
+    <div class="ticker-sparkline-box">{sparkline_html if sparkline_html else '<span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span>'}</div>
     <div class="ticker-footer">
       <span>{idx["desc"]}</span>
       {source_badge}
@@ -1550,6 +1615,23 @@ def generate_finance_page(finance_items, date_str, date_only):
     log("[财经] 开始生成财经页面...")
     indices = fetch_all_market_indices()
     log(f"[财经] 获取 {len(indices)} 个股指数据")
+
+    # 自积累历史快照：每次生成记录一个点（去重：同一小时仅保留最新）
+    history = load_finance_history()
+    now_key = date_str[:13]
+    history = [h for h in history if not str(h.get("ts", "")).startswith(now_key)]
+    history.append({
+        "ts": date_str,
+        "values": {idx["name"]: idx["current"] for idx in indices}
+    })
+    save_finance_history(history)
+    hist_len = len(history)
+    log(f"[财经] 历史快照累计 {hist_len} 个点")
+
+    # 为非 A 股卡附加自积累趋势（≥2 个点才有走势）
+    for idx in indices:
+        if "trend" not in idx:
+            idx["trend"] = [h["values"].get(idx["name"]) for h in history if h["values"].get(idx["name"]) is not None][-30:]
     realtime_count = sum(1 for idx in indices if idx["source"] == "实时")
     ticker_html = build_finance_ticker_html(indices)
     sectors_html = build_finance_sectors_html()

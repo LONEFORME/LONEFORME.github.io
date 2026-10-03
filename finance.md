@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-03 12:31（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-03 13:35（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -33,6 +33,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">3,842.19</span>
       <span class="ticker-change up">▲ +0.31%</span>
     </div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg25810" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,21.1 L25.3,25.1 L46.7,16.0 L68.0,6.6 L89.3,6.0 L110.7,9.9 L132.0,21.9 L153.3,38.0 L174.7,36.3 L196.0,33.4 L196,40 Z" fill="url(#sg25810)"/><polyline points="4.0,21.1 25.3,25.1 46.7,16.0 68.0,6.6 89.3,6.0 110.7,9.9 132.0,21.9 153.3,38.0 174.7,36.3 196.0,33.4" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="33.4" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
       
@@ -48,6 +49,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">12,887.62</span>
       <span class="ticker-change down">▼ -0.11%</span>
     </div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg93334" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,16.1 L25.3,17.8 L46.7,9.3 L68.0,6.0 L89.3,6.2 L110.7,9.5 L132.0,21.2 L153.3,38.0 L174.7,36.4 L196.0,36.9 L196,40 Z" fill="url(#sg93334)"/><polyline points="4.0,16.1 25.3,17.8 46.7,9.3 68.0,6.0 89.3,6.2 110.7,9.5 132.0,21.2 153.3,38.0 174.7,36.4 196.0,36.9" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="36.9" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
       
@@ -63,6 +65,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">3,135.28</span>
       <span class="ticker-change down">▼ -0.23%</span>
     </div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg50634" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,16.7 L25.3,18.3 L46.7,9.3 L68.0,6.0 L89.3,6.0 L110.7,8.5 L132.0,19.4 L153.3,37.5 L174.7,37.1 L196.0,38.0 L196,40 Z" fill="url(#sg50634)"/><polyline points="4.0,16.7 25.3,18.3 46.7,9.3 68.0,6.0 89.3,6.0 110.7,8.5 132.0,19.4 153.3,37.5 174.7,37.1 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
       
@@ -78,6 +81,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">1,530.01</span>
       <span class="ticker-change down">▼ -2.51%</span>
     </div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg39953" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,17.6 L25.3,19.9 L46.7,8.9 L68.0,7.8 L89.3,6.0 L110.7,7.0 L132.0,16.2 L153.3,31.8 L174.7,28.7 L196.0,38.0 L196,40 Z" fill="url(#sg39953)"/><polyline points="4.0,17.6 25.3,19.9 46.7,8.9 68.0,7.8 89.3,6.0 110.7,7.0 132.0,16.2 153.3,31.8 174.7,28.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
       
@@ -93,6 +97,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">4,157.94</span>
       <span class="ticker-change down">▼ -2.26%</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -108,6 +113,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">30,807.93</span>
       <span class="ticker-change up">▲ +1.00%</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
@@ -123,6 +129,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">6.7061</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
@@ -138,6 +145,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">$4,139.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
       <span class="ticker-change down">▼ -37.99 (-0.91%)</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
@@ -153,6 +161,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">¥906.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
       <span class="ticker-change up">▲ +10.19 (+1.14%)</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
@@ -168,6 +177,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">23,972.29</span>
       <span class="ticker-change down">▼ -2.60%</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -183,6 +193,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">46,247.29</span>
       <span class="ticker-change up">▲ +0.65%</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>美股蓝筹风向标</span>
       
@@ -198,6 +209,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">9,284.83</span>
       <span class="ticker-change up">▲ +0.77%</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>欧洲市场开盘参照</span>
       
@@ -213,6 +225,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">44,946.64</span>
       <span class="ticker-change down">▼ -0.90%</span>
     </div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>亚太早盘情绪指标</span>
       
@@ -299,8 +312,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707430.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="央视网消息：记者10月2日从国家能源局了解到，国庆假期，新能源汽车出行热度持续攀升。假期首日，全国高速公路充电量达到2804.69万千瓦时，较2025年“十一”国庆假期首日增长60.4%，创历史节假日单日新高。" data-title="@新能源车主，国庆假日出行 请查收这份“充电服务清单”↓" data-date="10-03 12:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 12:34</span>
+          <span class="news-item-title">@新能源车主，国庆假日出行 请查收这份“充电服务清单”↓</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707375.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月3日电 据外媒报道，英国海上贸易行动办公室当地时间3日发布通报称，一艘油轮在霍尔木兹海峡附近遭袭。" data-title="外媒：一艘油轮在霍尔木兹海峡附近遭袭" data-date="10-03 09:53" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -386,4 +405,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-03 12:31（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-03 13:35（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

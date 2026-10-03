@@ -4035,3 +4035,9 @@ html {
 
 /* ============ 财经行情卡时间戳 (2026-10-03) ============ */
 .ticker-quote-time{font-size:10.5px;color:var(--color-muted);border-top:1px dashed var(--color-border);margin-top:10px;padding-top:8px;opacity:.85}
+
+
+/* ============ 财经行情卡迷你趋势图 (2026-10-03) ============ */
+.ticker-sparkline-box{margin:10px 0 2px;min-height:46px;display:flex;align-items:center}
+.ticker-sparkline{width:100%;height:46px;display:block}
+.sparkline-empty{font-size:11px;color:var(--color-muted);opacity:.7}
