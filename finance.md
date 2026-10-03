@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-03 14:04（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-03 15:11（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -312,8 +312,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/009/479.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，上汽 MG 宣布上线 MG4 交车等待礼，10 月下定并锁单 MG4，交车等待超 30 天，每日补偿 5000 MG Live 积分（100 积分等值于 1 元人民币），上不封顶。据IT之家此前报道，2026 款上汽 MG4 于 4 月 24 日北京车展正式上市，官方指导价区间 6.88-10.28 万元；限时补贴价区间 6.58-9.98 万元。2026 款车型延续家族式设计，主要新增冰晶蓝、杏仁米两款外观配色；搭载 8.88 英寸液晶仪表屏以及 15.6 英寸 2.5K 中控屏，车辆搭载地平线智能驾驶辅助方案，同时升级哨兵模式、新增无线苹果 Carplay 功能。2026 款上汽 MG4 配备容量 42.8kWh 和 53.9kWh 的电池组，CLTC 工" data-title="上汽 MG4 交车等待礼上线：10 月下定并锁单，交车等待超 30 天每日补偿 5000 MG Live 积分" data-date="10-03 15:11" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 15:11</span>
+          <span class="news-item-title">上汽 MG4 交车等待礼上线：10 月下定并锁单，交车等待超 30 天每日补偿 5000 MG Live 积分</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/474.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，10 月 2 日，汽车博主 @韩路 在微博上发文称，美团高德大众点评可随意造假评论。韩路表示，他的饭馆 10 月 2 日 17 点才试营业，连店还没开门，但在美团、高德、大众点评就上冒出一堆造假抹黑已经吃过了的差评点评。韩路写道：“实体经济本来就不好弄，平台为了评论热闹，把真实点评的门槛去掉，任何人可随意可以造假真实评论抹黑商家，也没任何审核机制，完全不需要上传任何吃过这家的证据，造假抹黑成本为 0，这样对于商家真是太不公平和打击了。”IT之家注意到，10 月 2 日晚间，高德地图客户服务团队通过微博私信回应了韩路的投诉。回应称：“亲，您反馈的店铺评论问题已经收到。经核实，该店铺尚未开业，页面上的大量评论属于虚假异常评论，目前已完成审核并处理。非常感谢您的反馈" data-title="高德回应“店铺未开业先收差评”：可通过平台提交投诉举报，将持续完善评论机制" data-date="10-03 15:06" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 15:06</span>
+          <span class="news-item-title">高德回应“店铺未开业先收差评”：可通过平台提交投诉举报，将持续完善评论机制</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/473.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="综合外媒 PC Gamer 报道，近期一名用户 FurinaDeFontaine 在 Reddit 平台发文，称自己使用爱彼迎 Airbnb 订民宿退房后，房主用 AI 生成了一张所谓的“马桶漏水”照片，试图向其勒索 1,700 美元（IT之家注：现汇率约合 11,414 元人民币）“维修费”。据 FurinaDeFontaine 介绍，涉事房东据称隶属澳大利亚当地规模较大的一家民宿运营公司，在自己退房后，房东随即向其发送了所谓的“马桶漏水”照片，但 FurinaDeFontaine 很快注意到照片存在明显疑点“涉事厕所楼层下面实际上还有一层楼。如果真的有几英寸深的积水，那么下面整层楼理论上都应该出现明显的进水情况，不符合常理”，因此认为照片很有可能为虚假生成。之后，FurinaDeFont" data-title="爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破" data-date="10-03 15:05" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 15:05</span>
+          <span class="news-item-title">爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/460.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，法国游戏发行与外设企业 NACON 近日宣布推出获得 Sony（索尼）PlayStation 5 授权的 Revolution 5 Unlimited (R5U) 手柄控制器。这一产品定价 199.99 美元（IT之家注：现汇率约合 1,343 元人民币）。NACON R5U 采用非对称式布局，支持三模连接，PC 端回报率可达 1kHz。其配备 TMR 传感器摇杆、霍尔效应传感器 / 机械双切扳机、微动开关动作与方向按钮，集成六轴陀螺仪，另有 7 个可编程快捷键。R5U 集成小尺寸控制屏幕，配套 3 对 6 种摇杆帽、3 对 6 种配重、4 个摇杆保护圈、2 种方向键帽，随附收纳盒和专用 Pogo-Pin 磁吸充电底座。" data-title="NACON 推出 PS5 授权手柄 Revolution 5 Unlimited，配备 TMR 摇杆与控制屏" data-date="10-03 14:57" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 14:57</span>
+          <span class="news-item-title">NACON 推出 PS5 授权手柄 Revolution 5 Unlimited，配备 TMR 摇杆与控制屏</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/457.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，据民政部官网，近期一些非法养老 App 以“民惠通”等为名实施诈骗。不法分子伪造文件、冒充民政部工作人员，宣称可“发放高龄补贴”等，要求先交所谓“保险金”“保证金”“激活费”。随后，骗局还可能以“签到赚钱”“高额返利”“拉人头返佣”等方式诱导继续充值或投资，最终出现无法提现。图谱把这条链路拆成四步：制造官方感、承诺补贴、要求先付款、用返利推动追加投入。民政部提示，其从未设立或批准设立“民惠通”等项目，也未推出任何类似产品和相关 App，请广大公众提高警惕，不要轻信来源不明的信息和不实宣传，避免上当受骗。对于已经参与或可能遭受损失的用户，建议尽快向属地公安部门报案，避免造成进一步损失；如遇可疑情况，请立即拨打 110 报警或拨打 96110 咨询举报。" data-title="民政部：防范非法养老 App 以“民惠通”等为名诈骗" data-date="10-03 14:50" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 14:50</span>
+          <span class="news-item-title">民政部：防范非法养老 App 以“民惠通”等为名诈骗</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707430.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="央视网消息：记者10月2日从国家能源局了解到，国庆假期，新能源汽车出行热度持续攀升。假期首日，全国高速公路充电量达到2804.69万千瓦时，较2025年“十一”国庆假期首日增长60.4%，创历史节假日单日新高。" data-title="@新能源车主，国庆假日出行 请查收这份“充电服务清单”↓" data-date="10-03 12:34" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -374,24 +404,6 @@ title: 股票财经
           <span class="news-item-date">10-02 22:09</span>
           <span class="news-item-title">乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天是您在TechCrunch Disrupt 2026上预订展台的最后一天。10月13日至15日，超过1万名创始人、投资者、运营商和技术领导者将抵达旧金山的Moscone West ，寻找值得了解的公司、产品、创意和人才。问题是：他们会找到你的创业公司吗？" data-title="过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者" data-date="10-02 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-02 22:00</span>
-          <span class="news-item-title">过去24小时：在TechCrunch Disrupt 2026上展出，吸引1万多名技术领导者</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-02/10707322.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州10月2日电 (记者 郭军)记者2日从交通运输部珠江航务管理局(简称“珠航局”)了解到，2026年国庆假期首日(10月1日)，琼州海峡客滚运输发送实航284班次，运送旅客112657人次、车辆28277辆次，相比2024年同期分别增长9.7%、增长21.4%、增长19.3%。新能源车运量增长较快，单日运输6873辆次，创国庆假期历史新高。" data-title="2026年国庆假期首日琼州海峡客滚运输平稳运行" data-date="10-02 20:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-02 20:55</span>
-          <span class="news-item-title">2026年国庆假期首日琼州海峡客滚运输平稳运行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-02/10707319.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天(10月2日)，我国首个百兆瓦级压缩二氧化碳储能项目——中国华电新疆木垒压缩二氧化碳储能项目成功并网，开辟了大容量压缩二氧化碳储能绿色、零碳、高效、经济的新路线。" data-title="我国首个百兆瓦级 这个巨型“充电宝”成功并网" data-date="10-02 20:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-02 20:49</span>
-          <span class="news-item-title">我国首个百兆瓦级 这个巨型“充电宝”成功并网</span>
-        </a>
   </div>
 </div>
 
@@ -405,4 +417,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-03 14:04（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-03 15:11（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-03 14:04 抓取更新</span>
+      <span>2026-10-03 15:11 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">51</span>
+        <span class="channel-count">53</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">6</span>
+        <span class="channel-count">8</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,22 +56,22 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">51</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">53</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×27 · TechCrunch×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×25 · TechCrunch×8</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/10-03/10707443.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社悉尼10月3日电 (记者 薄雯雯)澳大利亚新南威尔士州纽卡斯尔市3日发生一起汽车冲撞人群事件。据当地媒体报道，事件已造成9人受伤，其中2人伤势危急。" data-title="澳大利亚发生汽车冲撞人群事件致9人受伤" data-date="10-03 13:46" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/10-03/10707475.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国新闻周刊记者：陈佳琳" data-title="美伊总统，“同台”交锋" data-date="10-03 14:49" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 10-03 13:46</span>
+        <span class="hero-featured-date">🕒 10-03 14:49</span>
       </div>
-      <h2 class="hero-featured-title">澳大利亚发生汽车冲撞人群事件致9人受伤</h2>
+      <h2 class="hero-featured-title">美伊总统，“同台”交锋</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
@@ -90,12 +90,12 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">Learning from Arteta and inspiring youngsters - Wilshere on management</p>
     </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/10-03/10707441.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今天是国庆假期的第三天，全国公路、铁路、民航、水路客流持续高位运行。旅游出行热度居高不下，景区观光、城市漫游、短途度假等出行需求集中释放，交通部门持续增加热门旅游线路运力投放。" data-title="国庆假期第三天 铁路公路民航水路客流持续高位运行" data-date="10-03 13:28" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/009/477.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，汽车媒体 CarScoops 今天（10 月 3 日）发布博文，报道称美国汽车拍卖行 Mecum 将于下月（2026 年 11 月）拍卖一辆 1997 年款林肯 Town Car（Lincoln Town Car）宫形灵车（Miyagata hearse）。IT之家注：宫形灵车是日本宫形（Miyagata）品牌打造的专业殡仪车辆，车身装饰大量金色部件与传统图案，顶部常盘踞龙形雕塑，在日本殡仪文化中，此类灵车用于帮助逝者体面地进入来世。本次拍卖的这辆车大部分时间在日本服役，作为灵车使用，2024 年末正式进口至美国。车身顶部盘踞一条亮金色巨龙，龙身卧于类似寺庙屋顶的基座之上。金色装饰条与复杂图案沿车身两侧延伸，覆盖棺材滑入区域的两扇车门。里程表显示该车仅行驶 1" data-title="金色巨龙盘踞车顶：1997 款林肯 Town Car 宫形灵车下月拍卖" data-date="10-03 15:10" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">国庆假期第三天 铁路公路民航水路客流持续高位运行</p>
+      <p class="hero-sub-title">金色巨龙盘踞车顶：1997 款林肯 Town Car 宫形灵车下月拍卖</p>
     </a>
   </div>
 </div>
@@ -106,6 +106,27 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707483.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="作者：李书齐" data-title="武契奇，以退为进？" data-date="10-03 14:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 14:58</span>
+          <span class="news-item-title">武契奇，以退为进？</span>
+          <span class="news-value-point">💡 作者：李书齐</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707475.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国新闻周刊记者：陈佳琳" data-title="美伊总统，“同台”交锋" data-date="10-03 14:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 14:49</span>
+          <span class="news-item-title">美伊总统，“同台”交锋</span>
+          <span class="news-value-point">💡 中国新闻周刊记者：陈佳琳</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707459.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国常驻联合国副代表孙磊2日在联合国安理会制裁除名协调人非正式对话会上发言，强调安理会制裁体系要持续完善。" data-title="中方强调联合国安理会制裁体系要持续完善" data-date="10-03 14:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 14:35</span>
+          <span class="news-item-title">中方强调联合国安理会制裁体系要持续完善</span>
+          <span class="news-value-point">💡 中国常驻联合国副代表孙磊2日在联合国安理会制裁除名协调人非正式对话会上发言，强调安理会制裁体系要持续完善</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707443.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社悉尼10月3日电 (记者 薄雯雯)澳大利亚新南威尔士州纽卡斯尔市3日发生一起汽车冲撞人群事件。据当地媒体报道，事件已造成9人受伤，其中2人伤势危急。" data-title="澳大利亚发生汽车冲撞人群事件致9人受伤" data-date="10-03 13:46" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -189,27 +210,6 @@ title: 热点新闻
           <span class="news-item-date">10-03 08:29</span>
           <span class="news-item-title">特朗普：与伊朗的战事将“很快结束”</span>
           <span class="news-value-point">💡 美国总统特朗普2日称，与伊朗的战事将“很快结束，伊朗永远不会拥有核武器”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707343.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备。" data-title="马克龙：七国集团成员国将释放至多1亿桶战略石油储备" data-date="10-03 06:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 06:44</span>
-          <span class="news-item-title">马克龙：七国集团成员国将释放至多1亿桶战略石油储备</span>
-          <span class="news-value-point">💡 中新社巴黎10月2日电 (记者 李洋)法国总统马克龙当地时间2日表示，七国集团成员国及其伙伴将立即启动在4个月内释放至多1亿桶战略石油储备</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707344.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百分点。" data-title="美国9月非农就业增加2.9万 失业率4.2%" data-date="10-03 06:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 06:42</span>
-          <span class="news-item-title">美国9月非农就业增加2.9万 失业率4.2%</span>
-          <span class="news-value-point">💡 中新社华盛顿10月2日电 (记者 陈孟统)美国劳工部2日发布数据显示，美国9月非农就业岗位增加2.9万个，失业率为4.2%，较8月上升0.1个百…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707345.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社华盛顿10月2日电 (记者 沙晗汀)美国联邦航空管理局(FAA)当地时间2日表示，波音公司737 MAX部分机型出现的软件故障不构成安全威胁。" data-title="美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁" data-date="10-03 06:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 06:40</span>
-          <span class="news-item-title">美国联邦航空管理局：波音737 MAX软件故障不构成安全威胁</span>
-          <span class="news-value-point">💡 中新社华盛顿10月2日电 (记者 沙晗汀)美国联邦航空管理局(FAA)当地时间2日表示，波音公司737 MAX部分机型出现的软件故障不构成安全威…</span>
         </a>
   </div>
   <div class="news-category">
@@ -328,7 +328,7 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">6 条</span>
+      <span class="news-category-count">8 条</span>
     </div>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c65y51nvn24wo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Luton Town manager Jack Wilshere speaks about being back where he started as an eight-year-old and the lessons he learned from his time at Arsenal." data-title="Learning from Arteta and inspiring youngsters - Wilshere on management" data-date="10-03 13:19" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -337,12 +337,26 @@ title: 热点新闻
           <span class="news-item-title">Learning from Arteta and inspiring youngsters - Wilshere on management</span>
           <span class="news-value-point">💡 Luton Town manager Jack Wilshere speaks about being back where he starte…</span>
         </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c65y51nvn24wo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="卢顿镇经理杰克·威尔希尔（ Jack Wilshere ）讲述了他回到8岁时开始的地方，以及他从阿森纳时期学到的经验教训。" data-title="向Arteta学习并激励年轻人- Wilshere的管理" data-date="10-03 13:19" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-03 13:19</span>
+          <span class="news-item-title">向Arteta学习并激励年轻人- Wilshere的管理</span>
+          <span class="news-value-point">💡 卢顿镇经理杰克·威尔希尔（ Jack Wilshere ）讲述了他回到8岁时开始的地方，以及他从阿森纳时期学到的经验教训</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="On the day Andy Burnham spoke of the wrong turn Britain took under Thatcher, football was facing a day of reckoning over its own story of corporate acquisitionIt was somehow fitting that Tuesday’s damning ruling against Manchester City landed in the heart of the Labour party conference, in the afterglow of Andy Burnham’s rapturously received prime" data-title="Manchester City’s guilty verdict brings football’s great sell-off crashing to earth" data-date="10-03 13:00" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
           <span class="news-item-date">10-03 13:00</span>
           <span class="news-item-title">Manchester City’s guilty verdict brings football’s great sell-off crashing to earth</span>
           <span class="news-value-point">💡 On the day Andy Burnham spoke of the wrong turn Britain took under Thatc…</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在安迪·伯纳姆（ Andy Burnham ）谈到英国在撒切尔（ Thatcher ）统治下的错误转折点的那一天，足球正面临着对自己收购企业的故事进行清算的日子。不知何故，周二对曼城的诅咒裁决落入了工党大会的核心，在安迪·伯纳姆（ Andy Burnham ）狂热地接受了总理的演讲之后。我在那里，阅读了令人惊讶的40页调查结果–曼城创造了“" data-title="曼城的有罪判决给足球带来了巨大的抛售崩溃" data-date="10-03 13:00" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">10-03 13:00</span>
+          <span class="news-item-title">曼城的有罪判决给足球带来了巨大的抛售崩溃</span>
+          <span class="news-value-point">💡 在安迪·伯纳姆（ Andy Burnham ）谈到英国在撒切尔（ Thatcher ）统治下的错误转折点的那一天，足球正面临着对自己收购企业的故…</span>
         </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Pinto已被取消证人保护身份他的律师将提出上诉，并表示他的情况“危急”。Rui Pinto透露，他准备离开葡萄牙，因为在被告知他参与该国的证人保护计划已被终止后，他担心自己的安全。Football Leaks创始人声称他收到了“多次死亡威胁” ，并面临“针对我的暗杀企图的严重风险”" data-title="曼城举报人Rui Pinto因安全担忧离开葡萄牙" data-date="10-03 03:43" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -379,6 +393,34 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/009/477.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，汽车媒体 CarScoops 今天（10 月 3 日）发布博文，报道称美国汽车拍卖行 Mecum 将于下月（2026 年 11 月）拍卖一辆 1997 年款林肯 Town Car（Lincoln Town Car）宫形灵车（Miyagata hearse）。IT之家注：宫形灵车是日本宫形（Miyagata）品牌打造的专业殡仪车辆，车身装饰大量金色部件与传统图案，顶部常盘踞龙形雕塑，在日本殡仪文化中，此类灵车用于帮助逝者体面地进入来世。本次拍卖的这辆车大部分时间在日本服役，作为灵车使用，2024 年末正式进口至美国。车身顶部盘踞一条亮金色巨龙，龙身卧于类似寺庙屋顶的基座之上。金色装饰条与复杂图案沿车身两侧延伸，覆盖棺材滑入区域的两扇车门。里程表显示该车仅行驶 1" data-title="金色巨龙盘踞车顶：1997 款林肯 Town Car 宫形灵车下月拍卖" data-date="10-03 15:10" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 15:10</span>
+          <span class="news-item-title">金色巨龙盘踞车顶：1997 款林肯 Town Car 宫形灵车下月拍卖</span>
+          <span class="news-value-point">💡 IT之家 10 月 3 日消息，汽车媒体 CarScoops 今天（10 月 3 日）发布博文，报道称美国汽车拍卖行 Mecum 将于下月（20…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/476.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，去年推出《天国：拯救 2》的开发商战马工作室联合创始人马丁 · 克拉玛希望游戏能够涨价，并将打破现有定价格局寄望于《GTA 6》。克拉玛指出，游戏行业面临几项棘手问题。开发成本近年来一路攀升，稳定购买新游戏的玩家群体却已基本停止增长。数字发行的普及还让实体零售逐渐退出游戏销售链条，“我们把实体零售干掉了，也把他们的钱全拿走了。”如果又不想靠在游戏里塞满微交易赚钱，开发商还能怎么办？克拉玛的答案是：“最后一个办法就是提高游戏单价。它会帮上大忙，但大家都怕得要命。希望《GTA 6》能先开这个头，让我们也能涨价。”克拉玛认为，恐怕只有 Rockstar 和母公司 Take-Two 还有实力、也有胆量提高游戏售价，“我认" data-title="《天国：拯救 2》负责人希望《GTA 6》推动游戏涨价：为了行业能活下去，早该涨了" data-date="10-03 15:10" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 15:10</span>
+          <span class="news-item-title">《天国：拯救 2》负责人希望《GTA 6》推动游戏涨价：为了行业能活下去，早该涨了</span>
+          <span class="news-value-point">💡 IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，去年推出《天国：拯救 2》的开发商战马工作室联合创始人马丁 · …</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-03/10707478.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社纽约10月3日电 (记者 王帆)第九届纽约中国当代音乐节当地时间10月2日在美国纽约卡内基音乐厅开幕。本届音乐节以“追梦”为主题，聚焦美国华裔先驱的奋斗故事，同时呈现当代中国作曲家的新作。" data-title="第九届纽约中国当代音乐节开幕　聚焦“追梦”故事" data-date="10-03 14:56" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 14:56</span>
+          <span class="news-item-title">第九届纽约中国当代音乐节开幕　聚焦“追梦”故事</span>
+          <span class="news-value-point">💡 中新社纽约10月3日电 (记者 王帆)第九届纽约中国当代音乐节当地时间10月2日在美国纽约卡内基音乐厅开幕</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/459.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，汽车媒体 CarScoops 昨日（10 月 2 日）发布博文，分享了一组在西班牙抓拍的路测图，首次曝光展示了正在测试的 2027 款标致 208 车型，上市后预估和雷诺 5 E-Tech、大众 ID.Polo 等车型展开竞争。新车将基于 Stellantis 全新 STLA One 架构打造，成为该平台的首批量产车型之一。标致确认，新车上市初期仅提供纯电动动力选项，续航与充电速度预计高于现款 E-208。外观方面，量产车较 2025 年发布的 Polygon 概念车明显收敛。测试车采用传统五门掀背车身，保留分体式大灯、全封闭式格栅，以及疑似三条水平排列的 LED 灯带。IT之家附上相关图片如下：车身侧面呈现略方正的座舱轮廓，尾部更为直立，后悬较短。车尾同样采" data-title="2027 款标致 208 纯电汽车首曝：五门掀背车身，矩形 Hypersquare 方向盘" data-date="10-03 14:51" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 14:51</span>
+          <span class="news-item-title">2027 款标致 208 纯电汽车首曝：五门掀背车身，矩形 Hypersquare 方向盘</span>
+          <span class="news-value-point">💡 IT之家 10 月 3 日消息，汽车媒体 CarScoops 昨日（10 月 2 日）发布博文，分享了一组在西班牙抓拍的路测图，首次曝光展示了正…</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707441.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今天是国庆假期的第三天，全国公路、铁路、民航、水路客流持续高位运行。旅游出行热度居高不下，景区观光、城市漫游、短途度假等出行需求集中释放，交通部门持续增加热门旅游线路运力投放。" data-title="国庆假期第三天 铁路公路民航水路客流持续高位运行" data-date="10-03 13:28" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -455,33 +497,6 @@ title: 热点新闻
           <span class="news-item-date">10-03 11:01</span>
           <span class="news-item-title">高铁上有自行车“专座”了！新增13座试点车站</span>
           <span class="news-value-point">💡 带上自行车坐高铁</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707403.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网福州10月3日电 题：福州点洋村焕新迎客 闽台合力绘就乡村新图景" data-title="（乡村行·看振兴）福州点洋村焕新迎客 闽台合力绘就乡村新图景" data-date="10-03 11:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 11:00</span>
-          <span class="news-item-title">（乡村行·看振兴）福州点洋村焕新迎客 闽台合力绘就乡村新图景</span>
-          <span class="news-value-point">💡 中新网福州10月3日电 题：福州点洋村焕新迎客 闽台合力绘就乡村新图景</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707402.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网重庆10月3日电 (记者 钟旖)2026年恰逢“民生轮”于合川启航一百周年。国庆假期，位于重庆合川小南门码头的“民生轮启航雕塑”前，不少家长带着孩子驻足观看浮雕，讲述发生在这片土地上的实业报国故事。" data-title="浮雕与护栏创意融合  “民生轮启航雕塑”成重庆合川文化新地标" data-date="10-03 10:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 10:58</span>
-          <span class="news-item-title">浮雕与护栏创意融合  “民生轮启航雕塑”成重庆合川文化新地标</span>
-          <span class="news-value-point">💡 中新网重庆10月3日电 (记者 钟旖)2026年恰逢“民生轮”于合川启航一百周年</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707400.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网丽水10月3日电(周健 毛江东)国庆长假，浙江丽水松阳县三都乡杨家堂村、竹源乡后畲村的古树前人头攒动。百年“夫妻樟”和形态奇绝的苦槠树，成为游客争相打卡之处。" data-title="古树引来如潮人流 浙江松阳跳出树下“打卡即走”困境" data-date="10-03 10:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 10:56</span>
-          <span class="news-item-title">古树引来如潮人流 浙江松阳跳出树下“打卡即走”困境</span>
-          <span class="news-value-point">💡 中新网丽水10月3日电(周健 毛江东)国庆长假，浙江丽水松阳县三都乡杨家堂村、竹源乡后畲村的古树前人头攒动</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/500148.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Jev估值100亿美元！创始人Diogo Almeida回答一切" data-title="Jev估值100亿美元！创始人Diogo Almeida回答一切" data-date="10-03 10:38" data-source="量子位">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-03 10:38</span>
-          <span class="news-item-title">Jev估值100亿美元！创始人Diogo Almeida回答一切</span>
         </a>
   </div>
 </div>
@@ -614,4 +629,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-03 14:04（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-03 15:11（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
