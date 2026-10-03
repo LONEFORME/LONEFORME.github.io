@@ -253,6 +253,10 @@ MARKET_INDICES = [
     {"name": "美元/离岸人民币", "code": "fx_susdcnh", "flag": "💱", "tag": "USD/CNH", "desc": "人民币汇率稳健调升"},
     {"name": "伦敦现货黄金", "code": "hf_XAU", "flag": "🪙", "tag": "XAU/USD", "desc": "央行购金与全球避险"},
     {"name": "国内现货黄金", "code": "gds_AUTD", "flag": "🪙", "tag": "Au(T+D)", "desc": "上海黄金交易所基准"},
+    {"name": "恒生指数", "code": "hkHSI", "flag": "🇭🇰", "tag": "HSI", "desc": "港股基准大盘"},
+    {"name": "道琼斯工业指数", "code": "int_dji", "flag": "🇺🇸", "tag": "DJIA", "desc": "美股蓝筹风向标"},
+    {"name": "富时100", "code": "int_ftse", "flag": "🇬🇧", "tag": "FTSE", "desc": "欧洲市场开盘参照"},
+    {"name": "日经225", "code": "int_nikkei", "flag": "🇯🇵", "tag": "N225", "desc": "亚太早盘情绪指标"},
 ]
 
 HOT_SECTORS = [
@@ -272,6 +276,10 @@ DEFAULT_INDICES = {
     "美元/离岸人民币": {"current": 6.7854, "change": -0.0051, "change_pct": -0.075},
     "伦敦现货黄金": {"current": 4473.95, "change": 0.96, "change_pct": 0.02},
     "国内现货黄金": {"current": 967.07, "change": 9.97, "change_pct": 1.04},
+    "恒生指数": {"current": 23972.29, "change": -640.98, "change_pct": -2.60},
+    "道琼斯工业指数": {"current": 46247.29, "change": 299.97, "change_pct": 0.65},
+    "富时100": {"current": 9284.83, "change": 70.85, "change_pct": 0.77},
+    "日经225": {"current": 44946.64, "change": -408.35, "change_pct": -0.90},
 }
 
 
@@ -302,24 +310,32 @@ def fetch_sina_quote(code):
                 current = float(parts[3]) if len(parts) > 3 and parts[3] else open_price
                 if current <= 0:
                     current = open_price
+                quote_time = (parts[30] + " " + parts[31]).strip() if len(parts) > 31 and parts[31] else ""
                 change = current - prev_close
                 change_pct = (change / prev_close * 100) if prev_close else 0
-                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct, "quote_time": quote_time}
             elif code.startswith("hk"):
                 # 港股: 代码,名称,昨收,今开,最高,最低,当前,涨跌,涨跌幅,...
                 name = parts[1] if len(parts) > 1 else parts[0]
                 current = float(parts[6]) if len(parts) > 6 and parts[6] else 0
                 change = float(parts[7]) if len(parts) > 7 and parts[7] else 0
                 change_pct = float(parts[8]) if len(parts) > 8 and parts[8] else 0
-                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct, "quote_time": ""}
             elif code.startswith("gb_"):
-                # 美股: 名称,当前,涨跌,时间,...,最高,最低,...
+                # 美股/全球指数: 名称,当前,涨跌幅%,行情时间,涨跌值,最高,最低,昨收,...
                 name = parts[0]
                 current = float(parts[1]) if parts[1] else 0
-                change = float(parts[2]) if parts[2] else 0
-                prev_close = current - change
-                change_pct = (change / prev_close * 100) if prev_close else 0
-                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+                change_pct = float(parts[2]) if len(parts) > 2 and parts[2] else 0
+                quote_time = parts[3] if len(parts) > 3 else ""
+                change = float(parts[4]) if len(parts) > 4 and parts[4] else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct, "quote_time": quote_time}
+            elif code.startswith("int_"):
+                # 全球指数: 名称,当前,涨跌,涨跌幅%
+                name = parts[0]
+                current = float(parts[1]) if parts[1] else 0
+                change = float(parts[2]) if len(parts) > 2 and parts[2] else 0
+                change_pct = float(parts[3]) if len(parts) > 3 and parts[3] else 0
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct, "quote_time": ""}
             elif code.startswith("fx_"):
                 # 外汇: 时间,当前买,当前卖,...,昨收,名称,涨跌(基点),涨跌幅%,...
                 name = parts[9] if len(parts) > 9 and parts[9] else "外汇"
@@ -327,7 +343,7 @@ def fetch_sina_quote(code):
                 change_bp = float(parts[10]) if len(parts) > 10 and parts[10] else 0
                 change = change_bp / 10000  # 基点转价格
                 change_pct = float(parts[11]) if len(parts) > 11 and parts[11] else 0
-                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct, "quote_time": parts[0] if parts else ""}
             elif code.startswith("gds_"):
                 # 贵金属现货/延期 (如上海金 Au(T+D)): 当前,买价,卖价,开盘,最高,最低,时间,昨结算,昨收,...
                 name = parts[13] if len(parts) > 13 and parts[13] else "贵金属"
@@ -335,7 +351,7 @@ def fetch_sina_quote(code):
                 prev_close = float(parts[7]) if len(parts) > 7 and parts[7] and float(parts[7]) > 0 else (float(parts[8]) if len(parts) > 8 and parts[8] else 0)
                 change = current - prev_close if prev_close else 0
                 change_pct = (change / prev_close * 100) if prev_close else 0
-                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct, "quote_time": parts[6] if len(parts) > 6 else ""}
             elif code.startswith("hf_"):
                 # 外盘期货/外盘现货金: 当前,买价,卖价,今开,最高,最低,时间,昨结算,昨收,...,日期,名称
                 name = parts[13] if len(parts) > 13 and parts[13] else "期货"
@@ -343,7 +359,7 @@ def fetch_sina_quote(code):
                 prev_close = float(parts[7]) if len(parts) > 7 and parts[7] and float(parts[7]) > 0 else (float(parts[2]) if len(parts) > 2 and parts[2] else 0)
                 change = current - prev_close if prev_close else 0
                 change_pct = (change / prev_close * 100) if prev_close else 0
-                return {"name": name, "current": current, "change": change, "change_pct": change_pct}
+                return {"name": name, "current": current, "change": change, "change_pct": change_pct, "quote_time": parts[6] if len(parts) > 6 else ""}
         except Exception as e:
             if attempt < MAX_RETRIES:
                 log(f"  [RETRY {attempt}/{MAX_RETRIES}] 行情 {code}: {e}")
@@ -366,7 +382,8 @@ def fetch_all_market_indices():
                 "change": quote["change"],
                 "change_pct": quote["change_pct"],
                 "is_up": quote["change"] >= 0,
-                "source": "实时"
+                "source": "实时",
+                "quote_time": quote.get("quote_time", "")
             })
         else:
             d = DEFAULT_INDICES.get(idx["name"], {"current": 0, "change": 0, "change_pct": 0})
@@ -376,7 +393,8 @@ def fetch_all_market_indices():
                 "change": d["change"],
                 "change_pct": d["change_pct"],
                 "is_up": d["change"] >= 0,
-                "source": "参考"
+                "source": "参考",
+                "quote_time": ""
             })
     return results
 
@@ -1469,6 +1487,7 @@ def build_finance_ticker_html(indices):
       <span>{idx["desc"]}</span>
       {source_badge}
     </div>
+    <div class="ticker-quote-time">{("🕒 行情时间 " + idx["quote_time"]) if idx.get("quote_time") else "🕒 数据为最近收盘/参考值"}</div>
   </div>
 '''
     html += '</div>\n'
@@ -1549,7 +1568,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 每日自动更新</span>
+  <span class="news-meta-item">🕐 数据更新于 {date_str}（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->

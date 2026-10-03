@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 每日自动更新</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-03 12:31（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -20,7 +20,7 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · 9/9 项实时行情</span>
+  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · 13/13 项实时行情</span>
 </div>
 
 <div class="finance-ticker-grid">
@@ -37,6 +37,7 @@ title: 股票财经
       <span>震荡筑底中枢</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-09-30 16:19:58</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -51,6 +52,7 @@ title: 股票财经
       <span>成长与制造共振</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-09-30 15:00:03</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -65,6 +67,7 @@ title: 股票财经
       <span>新能源 & 医药领跑</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-09-30 15:00:03</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -79,6 +82,7 @@ title: 股票财经
       <span>AI算力与先进制程</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-09-30 16:19:40</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -93,6 +97,7 @@ title: 股票财经
       <span>互联网平台回购加码</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -101,12 +106,13 @@ title: 股票财经
     </div>
     <div class="ticker-body">
       <span class="ticker-price ticker-up">30,807.93</span>
-      <span class="ticker-change up">▲ +0.00%</span>
+      <span class="ticker-change up">▲ +1.00%</span>
     </div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-03 05:30:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -121,6 +127,7 @@ title: 股票财经
       <span>人民币汇率稳健调升</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 04:59:58</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -135,6 +142,7 @@ title: 股票财经
       <span>央行购金与全球避险</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 04:55:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,6 +157,67 @@ title: 股票财经
       <span>上海黄金交易所基准</span>
       
     </div>
+    <div class="ticker-quote-time">🕒 行情时间 15:29:38</div>
+  </div>
+  <div class="ticker-card">
+    <div class="ticker-header">
+      <span class="ticker-name">🇭🇰 恒生指数</span>
+      <span class="ticker-code">HSI</span>
+    </div>
+    <div class="ticker-body">
+      <span class="ticker-price ticker-down">23,972.29</span>
+      <span class="ticker-change down">▼ -2.60%</span>
+    </div>
+    <div class="ticker-footer">
+      <span>港股基准大盘</span>
+      
+    </div>
+    <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
+  </div>
+  <div class="ticker-card">
+    <div class="ticker-header">
+      <span class="ticker-name">🇺🇸 道琼斯工业指数</span>
+      <span class="ticker-code">DJIA</span>
+    </div>
+    <div class="ticker-body">
+      <span class="ticker-price ticker-up">46,247.29</span>
+      <span class="ticker-change up">▲ +0.65%</span>
+    </div>
+    <div class="ticker-footer">
+      <span>美股蓝筹风向标</span>
+      
+    </div>
+    <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
+  </div>
+  <div class="ticker-card">
+    <div class="ticker-header">
+      <span class="ticker-name">🇬🇧 富时100</span>
+      <span class="ticker-code">FTSE</span>
+    </div>
+    <div class="ticker-body">
+      <span class="ticker-price ticker-up">9,284.83</span>
+      <span class="ticker-change up">▲ +0.77%</span>
+    </div>
+    <div class="ticker-footer">
+      <span>欧洲市场开盘参照</span>
+      
+    </div>
+    <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
+  </div>
+  <div class="ticker-card">
+    <div class="ticker-header">
+      <span class="ticker-name">🇯🇵 日经225</span>
+      <span class="ticker-code">N225</span>
+    </div>
+    <div class="ticker-body">
+      <span class="ticker-price ticker-down">44,946.64</span>
+      <span class="ticker-change down">▼ -0.90%</span>
+    </div>
+    <div class="ticker-footer">
+      <span>亚太早盘情绪指标</span>
+      
+    </div>
+    <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
 </div>
 
@@ -317,4 +386,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-03 12:10（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-03 12:31（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

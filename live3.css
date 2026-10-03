@@ -4031,7 +4031,3 @@ html {
 [data-theme="light"] .news-item .news-value-point{background:rgba(255,193,7,.12);color:#5a4a1a}
 .news-item .source-verify-badge{display:inline-flex;align-items:center;gap:3px;font-size:10.5px;font-weight:600;color:#00d47a;border:1px solid rgba(0,212,122,.4);border-radius:10px;padding:1px 7px;margin-top:5px}
 [data-theme="light"] .news-item .source-verify-badge{color:#0a8a5c;border-color:rgba(0,150,100,.45)}
-
-
-/* ============ 财经行情卡时间戳 (2026-10-03) ============ */
-.ticker-quote-time{font-size:10.5px;color:var(--color-muted);border-top:1px dashed var(--color-border);margin-top:10px;padding-top:8px;opacity:.85}
