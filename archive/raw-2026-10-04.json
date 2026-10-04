@@ -996,7 +996,7 @@
     "published_time": "17:02",
     "source": "纽约时报",
     "feed_name": "纽约时报",
-    "summary": "Democrats are performing strongly in five reliably Republican states where they are trying to flip Senate seats to win control of the chamber, new New York Times/Siena polls found.",
+    "summary": "《纽约时报》/锡耶纳的新民意调查显示，民主党在五个可靠的共和党州表现强劲，他们试图翻转参议院席位以赢得众议院的控制权。",
     "published_dt_iso": "2026-10-03T17:02:26+08:00"
   },
   {
@@ -1006,8 +1006,9 @@
     "published_time": "23:16",
     "source": "纽约时报",
     "feed_name": "纽约时报",
-    "summary": "Five new Times/Siena polls continue a run of strong results for Democrats in states that President Trump won easily in 2024.",
-    "published_dt_iso": "2026-10-03T23:16:05+08:00"
+    "summary": "在特朗普总统在2024年轻松获胜的州，五项新的泰晤士报/锡耶纳民意调查继续为民主党人带来强劲的结果。",
+    "published_dt_iso": "2026-10-03T23:16:05+08:00",
+    "title_zh": "民主党人可能已经找到了翻转红色的秘诀"
   },
   {
     "title": "Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring",
@@ -1016,8 +1017,9 @@
     "published_time": "17:03",
     "source": "纽约时报",
     "feed_name": "纽约时报",
-    "summary": "The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up.",
-    "published_dt_iso": "2026-10-03T17:03:53+08:00"
+    "summary": "总统曾希望在竞选活动中吹捧经济增长，但由于工人的工资跟不上，他发现很难突破。",
+    "published_dt_iso": "2026-10-03T17:03:53+08:00",
+    "title_zh": "特朗普表示，在高价格和招聘缓慢的情况下，经济存在“公共关系”问题"
   },
   {
     "title": "How Trump’s Deportation Policies Have Rocked a South Florida House Race",
@@ -1026,8 +1028,9 @@
     "published_time": "19:05",
     "source": "纽约时报",
     "feed_name": "纽约时报",
-    "summary": "Representative María Elvira Salazar, a Republican, ran an ad criticizing the Trump administration. It may have jolted other Republicans — and drawn attention to her Democratic opponent.",
-    "published_dt_iso": "2026-10-03T19:05:38+08:00"
+    "summary": "共和党众议员玛丽亚·埃尔维拉·萨拉查（ María Elvira Salazar ）刊登了一则批评特朗普它可能震撼了其他共和党人，并引起了她的民主党对手的注意。",
+    "published_dt_iso": "2026-10-03T19:05:38+08:00",
+    "title_zh": "特朗普的驱逐政策如何震撼了南佛罗里达的众议院竞选"
   },
   {
     "title": "Tennessee Commissioner Resigns After Failed Execution of Christa Pike",
@@ -1036,7 +1039,459 @@
     "published_time": "00:17",
     "source": "纽约时报",
     "feed_name": "纽约时报",
-    "summary": "Frank Strada, who oversaw the process that left Christa Pike unconscious and hospitalized, quit as an independent review began.",
-    "published_dt_iso": "2026-10-04T00:17:14+08:00"
+    "summary": "弗兰克·斯特拉达（ Frank Strada ）负责监督导致克里斯塔·派克（ Christa Pike ）昏迷并住院治疗的过程，随着独立审查的开始，他辞",
+    "published_dt_iso": "2026-10-04T00:17:14+08:00",
+    "title_zh": "田纳西州专员在克里斯塔·派克处决失败后辞职"
+  },
+  {
+    "title": "7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage",
+    "title_zh": "7年历史的Nvidia Shield TV Pro在人工智能内存短缺的推动下，价格上涨了50% ，令人震惊",
+    "link": "https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar",
+    "date": "2026-10-04",
+    "published_time": "00:59",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Shield TV Pro仍然是英伟达运行时间最长的消费设备之一，但其299.99 $的价格标签现在使流媒体盒比推出时贵得多。",
+    "published_dt_iso": "2026-10-04T00:59:51+08:00"
+  },
+  {
+    "title": "Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration",
+    "title_zh": "Elon Musk确认与台积电就Terafab芯片制造合作进行讨论",
+    "link": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai",
+    "date": "2026-10-03",
+    "published_time": "22:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "据报道， Elon Musk和台积电讨论了Terafab项目中的多个合作机会。",
+    "published_dt_iso": "2026-10-03T22:50:50+08:00"
+  },
+  {
+    "title": "Find tech deals in Newegg's Fantastech Sale ahead of Amazon's Big Deals Day — early shoppers get automatic refunds if hardware prices drop lower",
+    "title_zh": "在亚马逊大促销日之前，在Newegg的Fantastech促销活动中查找技术优惠--如果硬件价格下跌，早期购物者将获得自动退款",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now",
+    "date": "2026-10-03",
+    "published_time": "22:40",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在Newegg的Fantastech Sale II于10月5日推出之前，如果产品价格在销售中下跌，您可以抓住一些早期交易并获得价格保护安全。",
+    "published_dt_iso": "2026-10-03T22:40:00+08:00"
+  },
+  {
+    "title": "Buying used CPUs can expose users to existing bans from anti-cheat engines, and there's no way to check for violations before purchase",
+    "title_zh": "购买使用过的CPU可能会使用户暴露于现有的反作弊引擎禁令中，并且在购买前无法检查违规行为",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date",
+    "date": "2026-10-03",
+    "published_time": "22:09",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "CPU的前任所有者显然使用它来欺骗Valorant ，其HWID被Vanguard标记。当Redditor购买并安装到他们的PC上时，他们的Valorant帐户也收到了禁令。",
+    "published_dt_iso": "2026-10-03T22:09:00+08:00"
+  },
+  {
+    "title": "This week on Tom's Hardware Premium: October 3, 2026",
+    "title_zh": "本周Tom's Hardware Premium ： 2026年10月3日",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety",
+    "date": "2026-10-03",
+    "published_time": "22:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "本周在Tom's Hardware Premium上，我们通过免费访问的芯片设计周打开了闸门，包括专家访谈、与OpenAI坐下来讨论其定制ASIC等等。",
+    "published_dt_iso": "2026-10-03T22:00:00+08:00"
+  },
+  {
+    "title": "Steam hits record $1.7 billion in September 2026 despite soaring PC hardware costs",
+    "title_zh": "尽管PC硬件成本飙升，但Steam在2026年9月达到创纪录的17亿美元$",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs",
+    "date": "2026-10-03",
+    "published_time": "21:35",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Steam的最新收入凸显了PC游戏的持续实力，即使构建和升级游戏PC的成本上升，玩家仍在继续大举支出。",
+    "published_dt_iso": "2026-10-03T21:35:00+08:00"
+  },
+  {
+    "title": "AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x",
+    "title_zh": "随着缓存提示爆炸，人工智能代理使用的代币数量比人类多5倍，达到10倍",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen",
+    "date": "2026-10-03",
+    "published_time": "21:10",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍。",
+    "published_dt_iso": "2026-10-03T21:10:00+08:00"
+  },
+  {
+    "title": "Scare up big savings in Bambu Lab's Halloween sale right now, with up to 30% off",
+    "title_zh": "立即在Bambu Lab的万圣节促销中获得大幅优惠，最高可享七折优惠",
+    "link": "https://www.tomshardware.com/3d-printing/scare-up-big-savings-in-bambu-labs-halloween-sale-right-now-with-up-to-30-percent-off-grab-usd250-off-the-dual-extruder-h2d-plus-bulk-spool-discounts-and-pumpkin-themed-bundles",
+    "date": "2026-10-03",
+    "published_time": "20:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "不要让巨大的3D打印机价格吓到你，因为Bambu Lab的万圣节促销活动使新打印机折扣高达30 ％ ，灯丝卷也享受了大量折扣。",
+    "published_dt_iso": "2026-10-03T20:50:00+08:00"
+  },
+  {
+    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+    "title_zh": "Apple更改全磁盘访问权限，以遏制AI代理的滥用",
+    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+    "date": "2026-10-03",
+    "published_time": "07:03",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "Meta说， FDA不足以让Muse阅读信息。苹果恕我直言。",
+    "published_dt_iso": "2026-10-03T07:03:16+08:00"
+  },
+  {
+    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+    "title_zh": "一个月内2个联邦机构的黑客攻击泄露了大量敏感数据",
+    "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "date": "2026-10-02",
+    "published_time": "04:28",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "对于联邦政府的网络安全来说，这是一个糟糕的月份。",
+    "published_dt_iso": "2026-10-02T04:28:45+08:00"
+  },
+  {
+    "title": "Memory executives expect RAM shortage to continue through 2028",
+    "title_zh": "内存高管预计RAM短缺将持续到2028年",
+    "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
+    "date": "2026-10-02",
+    "published_time": "01:49",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "2027年售出的内存价格“远高于2026年的价格。”",
+    "published_dt_iso": "2026-10-02T01:49:56+08:00"
+  },
+  {
+    "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+    "title_zh": "攻击者一直在利用Zimbra的关键漏洞窃取电子邮件",
+    "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "date": "2026-10-01",
+    "published_time": "04:44",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "一个简单的电子邮件使攻击者能够远程注入操作系统命令。",
+    "published_dt_iso": "2026-10-01T04:44:48+08:00"
+  },
+  {
+    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+    "title_zh": "Cloudflare计划颁发量子安全TLS证书",
+    "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+    "date": "2026-09-30",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "此举将是对网站身份验证生态系统进行重大改革的一部分。",
+    "published_dt_iso": "2026-09-30T19:15:14+08:00"
+  },
+  {
+    "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+    "title_zh": "你叔叔的冰冻Mac说它在观看谷歌广告后感染了。现在怎么办？",
+    "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+    "date": "2026-09-26",
+    "published_time": "03:38",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "互联网上出现的广告试图欺骗人们。",
+    "published_dt_iso": "2026-09-26T03:38:59+08:00"
+  },
+  {
+    "title": "There's a new way to break RSA that's faster than anything we've seen before",
+    "title_zh": "有一种打破RSA的新方法，比我们以前见过的任何方法都要快",
+    "link": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "date": "2026-09-24",
+    "published_time": "19:15",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "到目前为止，密码学家认为保理是破坏RSA的唯一方法。现在不是了。",
+    "published_dt_iso": "2026-09-24T19:15:44+08:00"
+  },
+  {
+    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+    "title_zh": "微软颠覆了人工智能辅助平台，该平台入侵了12,000个账户",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+    "date": "2026-09-23",
+    "published_time": "03:45",
+    "source": "Ars Technica",
+    "feed_name": "Ars Technica(芯片与前沿)",
+    "summary": "EvilTokens提供了一个端到端的平台，使大规模妥协更快、更容易。",
+    "published_dt_iso": "2026-09-23T03:45:47+08:00"
+  },
+  {
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+    "title_zh": "Capcom正在为“我们与人工智能一起创造游戏的未来”做准备",
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "date": "2026-10-04",
+    "published_time": "00:49",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Capcom的Pragmata可能完全是关于人工智能的恐怖，但在实践中，工作室似乎并不那么低调。在CAPCOM公开会议RE: 2026期间，程序员Satoshi Ishida发表了一篇演讲，题目是： “The Outlook a",
+    "published_dt_iso": "2026-10-04T00:49:10+08:00"
+  },
+  {
+    "title": "The best early October Prime Day deals happening now",
+    "title_zh": "目前最优惠的10月初黄金日优惠",
+    "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+    "date": "2026-10-04",
+    "published_time": "00:22",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "现在还不到10月，亚马逊已经在自己的硬件上提供一些Prime Big Deal Day折扣，以及许多其他受欢迎的产品。这一切都是为了宣传10月Prime日，从10月6日美国东部时间凌晨3点开始，一直持续到3点",
+    "published_dt_iso": "2026-10-04T00:22:40+08:00"
+  },
+  {
+    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
+    "title_zh": "Splice首席执行官Kakul Srivastava认为人工智能电子邮件正在扼杀对话",
+    "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+    "date": "2026-10-03",
+    "published_time": "23:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环。从服务中提取的样本已经成为Lisa的“Money”和Sabrina Carpenter的“Espresso”等热门歌曲。（ T",
+    "published_dt_iso": "2026-10-03T23:00:00+08:00"
+  },
+  {
+    "title": "An OpenAI safety employee has quit and is sounding the alarm",
+    "title_zh": "OpenAI安全员工已辞职并正在敲响警钟",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "date": "2026-10-03",
+    "published_time": "22:31",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告。本周，他辞去了职务，现在正在《大西洋月刊》的一篇社论中发表讲话。如果你觉得有点愤世嫉俗是可以理解的",
+    "published_dt_iso": "2026-10-03T22:31:56+08:00"
+  },
+  {
+    "title": "3D movies are finally worth watching",
+    "title_zh": "3D电影终于值得一看",
+    "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
+    "date": "2026-10-03",
+    "published_time": "20:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "为什么在3D成为有史以来最大的技术失败之一之后，我突然购买了我能找到的每张3D蓝光？这项技术终于为3D电影的闪耀做好了准备，自从詹姆斯·卡梅隆的《阿凡达》在大屏幕上让我惊叹15年以来，",
+    "published_dt_iso": "2026-10-03T20:00:00+08:00"
+  },
+  {
+    "title": "Meta open sources code to let you make Muse AI gadgets",
+    "title_zh": "用于制作Muse AI小工具的元开源代码",
+    "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+    "date": "2026-10-03",
+    "published_time": "05:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta现在允许您制作自己的Muse小工具，该小工具具有公司开源的新AI代理代码。该公司建议将Muse加载到彩色E Ink显示屏上以显示提醒，将其添加到HDMI棒中，以便",
+    "published_dt_iso": "2026-10-03T05:08:37+08:00"
+  },
+  {
+    "title": "Netflix is pivoting away from prestige",
+    "title_zh": "Netflix正在远离声望",
+    "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+    "date": "2026-10-03",
+    "published_time": "04:30",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Netflix最受好评的许多热门歌曲都是其与David Fincher和Shawn Levy等著名导演达成的多年制作协议的产物。然而，在过去的几周里，流媒体带来了一些这样的合作伙伴关系，",
+    "published_dt_iso": "2026-10-03T04:30:26+08:00"
+  },
+  {
+    "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+    "title_zh": "苹果将限制Mac磁盘访问，因为人工智能代理“大幅增加”风险",
+    "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+    "date": "2026-10-03",
+    "published_time": "04:08",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "正如TechCrunch早些时候报道的那样，苹果将为Mac上的“完整磁盘访问”增加新的限制，以应对人工智能代理带来的风险。在周五的最新消息中，苹果公司表示，它正在推出新的控制措施，以“确保真正希望授予",
+    "published_dt_iso": "2026-10-03T04:08:40+08:00"
+  },
+  {
+    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
+    "title_zh": "",
+    "link": "https://www.qbitai.com/2026/10/501451.html",
+    "date": "2026-10-04",
+    "published_time": "08:53",
+    "source": "量子位",
+    "feed_name": "量子位(AI前沿)",
+    "summary": "专业3D模型反而更稀缺了",
+    "published_dt_iso": "2026-10-04T08:53:29+08:00"
+  },
+  {
+    "title": "日本民间团体展示侵略战争史料 呼吁日本社会坚守和平",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-04/10707705.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "日本多个民间团体3日在东京江户川区联合举办“战争展”，展示日本在二战期间发动侵略战争的历史资料，呼吁日本社会坚守和平，反对高市政府扩军修宪动向。主办方表示，希望这些展示，能够让日本民众正确了解历史，阻止日本再次走上战争道路。",
+    "published_dt_iso": "2026-10-04T09:29:21+08:00"
+  },
+  {
+    "title": "“完善全球治理和推动多极化的重要力量”",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-04/10707704.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:25",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "“完善全球治理和推动多极化的重要力量”",
+    "published_dt_iso": "2026-10-04T09:25:29+08:00"
+  },
+  {
+    "title": "学习新语·家国同心丨总书记心中的“家”与“国”",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-04/10707687.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:23",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "家是最小国，国是千万家。修齐治平、兴亡有责的家国情怀是中华优秀传统文化的重要元素。习近平总书记始终高度重视家国情怀的传承和弘扬，在多个场合深刻阐述“家”“国”关系。一起重温这些深情话语，感悟总书记心中的“家”与“国”。",
+    "published_dt_iso": "2026-10-04T09:23:35+08:00"
+  },
+  {
+    "title": "微视频｜因为国 所以潮",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-04/10707680.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:18",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "有些浪漫，跨越千年，依旧温柔；有些风韵，历经岁月，熠熠如新。",
+    "published_dt_iso": "2026-10-04T09:18:03+08:00"
+  },
+  {
+    "title": "一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707701.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:12",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月4日电 据哥伦比亚广播公司(CBS)当地时间3日援引美国海岸警卫队和美国联邦航空管理局消息，一架载有6人的小型飞机在从百慕大飞往波士顿途中失联。目前救援方已展开大规模搜寻工作。",
+    "published_dt_iso": "2026-10-04T09:12:23+08:00"
+  },
+  {
+    "title": "朝中社：金正恩观摩中程战略导弹发射训练（图）",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707692.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月4日电 据朝中社4日报道，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。",
+    "published_dt_iso": "2026-10-04T09:07:56+08:00"
+  },
+  {
+    "title": "印尼东努沙登加拉省发生6.1级地震 震源深度10公里",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml",
+    "date": "2026-10-04",
+    "published_time": "07:29",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "据印尼气象、气候和地球物理局消息，当地时间10月4日5时55分，印尼东努沙登加拉省西南松巴县西南14公里处发生6.1级地震，震源深度为10公里。",
+    "published_dt_iso": "2026-10-04T07:29:40+08:00"
+  },
+  {
+    "title": "金正恩观摩中程战略导弹发射训练",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml",
+    "date": "2026-10-04",
+    "published_time": "07:07",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "据朝鲜方面4日消息，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。",
+    "published_dt_iso": "2026-10-04T07:07:23+08:00"
+  },
+  {
+    "title": "伊朗革命卫队近日对7艘“违规”油轮采取行动",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml",
+    "date": "2026-10-04",
+    "published_time": "06:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(国际)",
+    "summary": "当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。",
+    "published_dt_iso": "2026-10-04T06:52:47+08:00"
+  },
+  {
+    "title": "“甜蜜业态”婚旅：让新人把“我愿意”说给山海听",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707715.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:57",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "国庆假期，云南省德宏傣族景颇族自治州梁河县备好了一场民族文化的盛宴：热烈奔放的目瑙纵歌、穿越时光的庭院剧、充满野趣的稻花鱼体验、烟火氤氲的古镇美食、惬意畅快的山野徒步……",
+    "published_dt_iso": "2026-10-04T09:57:15+08:00"
+  },
+  {
+    "title": "你刷到的短视频，有多少是演的",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707714.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:54",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "今年6月，乡村生活赛道博主黄少斌拍了一条下河捞小龙虾的视频。他用一口广普告诉观众：“小龙虾是买的，买了5斤，我们看看能抓回来多少……”",
+    "published_dt_iso": "2026-10-04T09:54:03+08:00"
+  },
+  {
+    "title": "出境游必看！这些东西不能随意带……",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707713.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:50",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "国庆小长假来临，不少人选择了出境旅游。无论是出境还是入境，都要绷紧生物安全这根弦，这些红线千万不能踩！",
+    "published_dt_iso": "2026-10-04T09:50:29+08:00"
+  },
+  {
+    "title": "（长征胜利90周年）湖南郴州瑞金村接力守护红军烈士墓 红色故事带动瑶乡振兴",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707712.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网郴州10月4日电 (徐志雄 刘翔宇)“像我们在外漂泊的游子，每次逢年过节回家乡都要带着自己的孩子，到红军墓来看一看。”又到一年国庆假期，湖南郴州北湖区仰天湖瑶族乡瑞金村村民刘诗斌再度邀上三两发小，相约来到村背山上的无名红军烈士墓，为91年前长眠于此的7名烈士扫墓，缅怀先烈。",
+    "published_dt_iso": "2026-10-04T09:49:12+08:00"
+  },
+  {
+    "title": "贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707711.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网10月4日电 据中央气象台网站消息，昨日，江西、湖南、贵州、广西等地出现较强降雨，内蒙古、河北等地出现大风或降温天气。预计4日至5日，内蒙古中东部、华北、黄淮、江汉及东部、南部海区风力较大，东北地区局地降水较强，关注对人体健康、交通出行、农牧业及沿海养殖、海上航行等的影响。4日，贵州、云南、广西、广东、福建、海南局地仍有较强降雨，关注对假期旅游、交通出行、秋收等的影响，防范可能引发的山洪、地质灾害。",
+    "published_dt_iso": "2026-10-04T09:49:02+08:00"
+  },
+  {
+    "title": "广西贺州国庆假期多元活动激活夜间消费市场",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707709.shtml",
+    "date": "2026-10-04",
+    "published_time": "09:47",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网贺州10月4日电(韦佳秀 贝琲 廖法丽)国庆假期，广西贺州市多地推出特色夜间文旅活动，篝火金曲晚会、音乐节轮番上演，山水夜景与文化演出深度交融，为市民与八方游客打造沉浸式假日体验，持续激活地方夜间文旅消费活力。",
+    "published_dt_iso": "2026-10-04T09:47:04+08:00"
+  },
+  {
+    "title": "陕西省推出旅居养老消费补贴活动",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-04/10707682.shtml",
+    "date": "2026-10-04",
+    "published_time": "08:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网西安10月4日电 (记者 阿琳娜)陕西省推出“金秋银龄·惠享三秦”旅居养老消费补贴活动。从10月1日至12月31日，60岁及以上老年人在陕跨县域旅居，可享每人每天30元至50元的专项消费补贴，单人单次最高补贴不超过500元。",
+    "published_dt_iso": "2026-10-04T08:49:07+08:00"
   }
 ]

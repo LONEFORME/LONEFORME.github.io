@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-04 00:32（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-04 09:54（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -247,7 +247,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+24.5 亿</span>
+      <span class="sector-flow-badge">+24.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -260,7 +260,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+36.8 亿</span>
+      <span class="sector-flow-badge">+19.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -273,7 +273,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+29.8 亿</span>
+      <span class="sector-flow-badge">+30.8 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -286,7 +286,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+39.2 亿</span>
+      <span class="sector-flow-badge">+21.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -312,8 +312,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707714.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="今年6月，乡村生活赛道博主黄少斌拍了一条下河捞小龙虾的视频。他用一口广普告诉观众：“小龙虾是买的，买了5斤，我们看看能抓回来多少……”" data-title="你刷到的短视频，有多少是演的" data-date="10-04 09:54" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 09:54</span>
+          <span class="news-item-title">你刷到的短视频，有多少是演的</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/575.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文称，前阵子，星河通信团队开着享界 G9 去了趟独库公路，实测车载星河通信在独库公路的表现，反复测试下来 98.7% 以上的路段信号都非常不错。他表示：“星河通信是鸿蒙智行六大独有核心技术之一。华为在通信领域积累了几十年，我们也把这些技术带到了车上，希望大家开车走到更远的地方，都能保持稳定通信，出行更有底。国庆准备自驾的朋友，路上如果遇到弱网，可以打开车上热点，给同行的家人朋友共享网络”。IT之家注意到，去年 2 月发布的尊界 S800 车型首发搭载华为星河通信，该技术支持主动智能选网、双网双待，可实现三网连接和弱网加速，并支持将网络共享至手机、平板等设备。在无地面网络时，支持通过车载卫星完成" data-title="余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好" data-date="10-03 22:45" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -344,7 +350,7 @@ title: 股票财经
           <span class="news-item-date">10-03 17:03</span>
           <span class="news-item-title">特朗普、普京、乌克兰和石油协议： 5个要点</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The president, who had hoped to tout a growing economy on the campaign trail, has found it hard to break through as workers’ wages fail to keep up." data-title="Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring" data-date="10-03 17:03" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统曾希望在竞选活动中吹捧经济增长，但由于工人的工资跟不上，他发现很难突破。" data-title="Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring" data-date="10-03 17:03" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">10-03 17:03</span>
@@ -363,4 +369,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-04 00:32（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-04 09:54（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
