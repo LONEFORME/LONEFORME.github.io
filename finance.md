@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-04 21:22（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-05 00:54（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -307,88 +307,7 @@ title: 股票财经
   <span style="font-size: 12px; color: var(--color-muted);">鼠标悬停即可查看深度微型特稿与背景剖析</span>
 </div>
 
-<div class="news-grid">
-  <div class="news-category">
-    <div class="news-category-header">
-      <span class="category-flag">💰</span>
-      <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
-    </div>
-        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/german-utility-provider-introduces-gaming-electricity-plan-targeting-high-consumption-households-like-those-running-multiple-high-end-gaming-pcs-plan-requires-2-500-kwh-per-year-to-offset-a-higher-base-price-claims-to-use-renewable-energy" target="_blank" rel="noopener" data-cat="caijing" data-summary="SWK Energie推出了直接面向游戏玩家的新关税。虽然它不会改善游戏PC上的FPS ，但无论是RTX 5090还是特斯拉，它都可以帮助减少大型消费者的电费。" data-title="German utility provider introduces &#39;gaming electricity&#39; plan targeting high-consumption households, like those running multiple high-end gaming PCs" data-date="10-04 20:47" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-04 20:47</span>
-          <span class="news-item-title">German utility provider introduces 'gaming electricity' plan targeting high-consumption households, like those running multiple high-end gaming PCs</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="德克萨斯州、爱荷华州、俄亥俄州和阿拉斯加州州长竞选中的民主优势反映了对特朗普总统和经济的深深不满。共和党人在堪萨斯州领先。" data-title="Democrats Lead Governor Races Deep in Republican Territory, Polls Show" data-date="10-04 17:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-04 17:03</span>
-          <span class="news-item-title">Democrats Lead Governor Races Deep in Republican Territory, Polls Show</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/658.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 4 日消息，今天有网友曝光广西南宁一新能源汽车充电场内，多名小孩把比亚迪闪充桩充电线缆当成秋千荡着玩，画面惊险。相应话题在微博登上热搜，截至IT之家发稿阅读量达 442.5 万。IT之家获悉，被相应儿童当成“秋千绳”的比亚迪兆瓦闪充桩，峰值电压约 1000 伏、峰值电流最高 1500 安，单枪峰值功率最高 1500 千瓦。一旦绝缘层遭破坏漏电，后果不堪设想。对此，比亚迪闪充客服回应媒体“搜狐千里眼”称，场地内严禁此类行为，后续官方将联系站点员工巡查，作出对应解决措施。延伸阅读据了解，该事件发生在 2026 年 10 月 2 日的广西南宁一处闪充站点，视频中两个孩子在比亚迪闪充站抓住充电枪来回荡秋千，旁边还有人拍摄并未制止。公开资料显示，比亚迪于 2025 年 3 月 17" data-title="网友曝光比亚迪汽车兆瓦闪充桩线缆被儿童当“秋千”荡着玩，客服回应称将联系站点员工巡查" data-date="10-04 15:29" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-04 15:29</span>
-          <span class="news-item-title">网友曝光比亚迪汽车兆瓦闪充桩线缆被儿童当“秋千”荡着玩，客服回应称将联系站点员工巡查</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/656.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 4 日消息，据路透社报道，雷诺集团首席执行官弗朗索瓦 · 普罗沃（François Provost）于周六表示，集团计划在未来五年内向法国本土投资超 100 亿欧元（IT之家注：现汇率约合 757.28 亿元人民币），重点布局电动汽车及更具性价比的经济型汽车。普罗沃在接受 France Inter 专访时指出：“在过去的五年中，我们已在法国累计投资 130 亿欧元（现汇率约合 984.46 亿元人民币），旨在全面重塑我们的工业布局，全力押注电动化转型；而在接下来的五年里，只要社会与政治环境允许，我们将再追加超 100 亿欧元（现汇率约合 757.28 亿元人民币）投资，继续加速推进电动化战略，并致力于降低汽车门槛、推出更多经济型车型。”由于燃油价格大幅飙升，今年 9 月，" data-title="雷诺未来五年将在法国再投超 100 亿欧元，加码电动车和经济型汽车" data-date="10-04 15:20" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-04 15:20</span>
-          <span class="news-item-title">雷诺未来五年将在法国再投超 100 亿欧元，加码电动车和经济型汽车</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/655.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 4 日消息，据央视新闻报道，今年第四批 625 亿元超长期特别国债支持消费品以旧换新资金赶在国庆假期前落地，“十一”长假期间，国家消费品以旧换新政策叠加地方配套补贴，国补和地补协同发力，有效激活节日市场消费活力。央视新闻表示，今年国庆假期，依托 1000 亿元财政金融协同促内需专项资金，个人消费贷款贴息政策正加速落地，国庆文化和旅游消费月期间，各地将举办超 2 万场次文旅活动，发放超 3.1 亿元消费券等消费补贴，为居民游客假期出游提供更丰富的选择、更舒心的体验。此外，国庆假期，各地还因地制宜打造特色消费场景，文旅、体育、休闲深度融合，打出差异化促消费组合拳，让假日消费更有新意、更具活力。2026 年数码家电政府补贴持续进行中，IT 之家为大家汇总国补领券地址，买数码家电" data-title="2026 年国庆假期有关部门将发放超 3.1 亿元消费券，叠加地方配套补贴激活市场活力" data-date="10-04 15:19" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-04 15:19</span>
-          <span class="news-item-title">2026 年国庆假期有关部门将发放超 3.1 亿元消费券，叠加地方配套补贴激活市场活力</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/654.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 4 日消息，据韩媒 The Elec 报道，韩国多家主要银行近日接连发生信息泄露事件。与以往直接针对网上银行等核心金融网络的攻击不同，此次事件的目标主要集中在银行员工及贷款代理机构使用的外围业务系统。韩国金融监管部门已开始对金融机构 IT 系统展开全面检查。其中，新韩银行用于贷款代理机构查询业务的系统自 9 月 28 日起连续 3 天遭到攻击，共有 25729 名客户的信息可能因此泄露。国民银行 9 月 30 日透露自家员工使用的移动业务支持系统遭到攻击，119 名客户的信息被窃取。同日，韩亚银行也表示，其销售支持系统发生信息泄露，涉及 89 名客户。而 BNK 釜山银行 10 月 1 日发现 11 名外包开发人员的个人信息遭到泄露，友利银行和 NH 农协银行也发现异常外" data-title="韩国多家银行接连发生信息泄露，金融监管部门启动 IT 系统全面排查" data-date="10-04 15:12" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-04 15:12</span>
-          <span class="news-item-title">韩国多家银行接连发生信息泄露，金融监管部门启动 IT 系统全面排查</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/652.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 4 日消息，据路透社报道，在阿根廷总统哈维尔 · 米莱（Javier Milei）的执政下，阿根廷汽车市场已从高度保护主义转向更加开放和竞争的环境。阿根廷首都布宜诺斯艾利斯于当地时间周五（10 月 2 日）迎来首届中国车展。在本次车展上，包括吉利、奇瑞、长城汽车以及东风在内的 20 多个中国品牌集中亮相。得益于一项在 2026 年实施的新政策 —— 允许免关税进口多达 5 万辆电动及混合动力汽车，中国汽车品牌正加速涌入该国市场。统计数据显示，今年 8 月，中国品牌在阿根廷乘用车及轻型商用车市场的销量份额已达到 10%，相比去年年底约 2% 的占比有了显著提升。自 2025 年底正式进驻阿根廷市场以来，中国电动汽车制造商比亚迪现已跃升为当地第九大畅销汽车品牌。此外，比亚迪在" data-title="中国汽车加速出海：阿根廷首次举办中国汽车展，8 月销量份额已达 10%" data-date="10-04 14:59" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-04 14:59</span>
-          <span class="news-item-title">中国汽车加速出海：阿根廷首次举办中国汽车展，8 月销量份额已达 10%</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/651.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 4 日消息，2026 年度国庆假期七座以下（含七座）小型客车可免费通行高速，这也导致不少主干高速的早晚高峰都出现了长时间拥堵的情况，面对拥堵，部分车主选择“钻空子”，但等待他们的是交规严惩。例如，昨日便有“男子连续 2 天走应急车道被罚 6000 元扣 12 分”登上微博热搜，深圳一名赶着去餐饮店上班的男子为了不迟到，连续两天占用应急车道通行，最终全部被路面电子眼精准抓拍，合计被罚 6000 元，驾驶证直接记满 12 分。公开信息显示，深圳凭借经济特区立法权，将非紧急情况占用应急车道的罚款标准定为 3000 元，远超全国多数地区 200 元的水平，且不分本地外地车牌均适用，被网民称为全国“最严交规”。同时，当地采用固定探头、铁骑巡逻与无人机空中巡航相结合的“空地协同”执法" data-title="深圳“最严交规”上热搜：2026 国庆期间一车主连续 2 天走应急车道被罚 6000 元扣 12 分" data-date="10-04 14:58" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-04 14:58</span>
-          <span class="news-item-title">深圳“最严交规”上热搜：2026 国庆期间一车主连续 2 天走应急车道被罚 6000 元扣 12 分</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/politics/kushner-witkoff-russia-oil-deal.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="弗拉基米尔· V ·普京(Vladimir V. Putin)总统向特朗普总统的特使贾里德·库什纳(Jared Kushner)和史蒂夫·维特科夫(Steve Witkoff)提出了出售俄罗斯能源资产的问题，推动了一项引发利益冲突新问题的协议" data-title="U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies" data-date="10-04 09:58" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-04 09:58</span>
-          <span class="news-item-title">U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707714.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="今年6月，乡村生活赛道博主黄少斌拍了一条下河捞小龙虾的视频。他用一口广普告诉观众：“小龙虾是买的，买了5斤，我们看看能抓回来多少……”" data-title="你刷到的短视频，有多少是演的" data-date="10-04 09:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:54</span>
-          <span class="news-item-title">你刷到的短视频，有多少是演的</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/575.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 3 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发文称，前阵子，星河通信团队开着享界 G9 去了趟独库公路，实测车载星河通信在独库公路的表现，反复测试下来 98.7% 以上的路段信号都非常不错。他表示：“星河通信是鸿蒙智行六大独有核心技术之一。华为在通信领域积累了几十年，我们也把这些技术带到了车上，希望大家开车走到更远的地方，都能保持稳定通信，出行更有底。国庆准备自驾的朋友，路上如果遇到弱网，可以打开车上热点，给同行的家人朋友共享网络”。IT之家注意到，去年 2 月发布的尊界 S800 车型首发搭载华为星河通信，该技术支持主动智能选网、双网双待，可实现三网连接和弱网加速，并支持将网络共享至手机、平板等设备。在无地面网络时，支持通过车载卫星完成" data-title="余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好" data-date="10-03 22:45" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 22:45</span>
-          <span class="news-item-title">余承东：华为星河通信团队驾驶享界 G9 实测独库公路，98.7% 路段信号都很好</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707663.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="这个国庆假期，我国深水油田产油量再获新突破。今天，我国首个深水油田——流花油田二次开发项目累计生产原油突破200万吨。截至目前，油田已生产原油超过4000万吨，日产量达到了投产22年来的新高，为保障国家能源安全提供了坚实保障。" data-title="我国首个深水油田流花油田取得新突破 “国之重器”协同运转" data-date="10-03 22:10" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 22:10</span>
-          <span class="news-item-title">我国首个深水油田流花油田取得新突破 “国之重器”协同运转</span>
-        </a>
-  </div>
-</div>
-
+<p style="text-align:center;color:var(--color-muted);padding:40px;">今日暂无财经资讯</p>
 
 <div style="text-align: center; margin: 36px 0 20px;">
   <a href="{{ "/news" | relative_url }}" class="card-link" style="display: inline-flex; align-items: center; gap: 6px; padding: 10px 24px; font-size: 14px;">
@@ -399,4 +318,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-04 21:22（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-05 00:54（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
