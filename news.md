@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-04 09:54 抓取更新</span>
+      <span>2026-10-04 10:51 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">49</span>
+        <span class="channel-count">47</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -33,7 +33,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">13</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
@@ -56,10 +56,10 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">49</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">47</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×21 · Tom's Hardware×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×22 · IT之家×7</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
@@ -217,7 +217,7 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">13 条</span>
     </div>
         <a class="news-item" href="https://www.qbitai.com/2026/10/501451.html" target="_blank" rel="noopener" data-cat="keji" data-summary="专业3D模型反而更稀缺了" data-title="GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元" data-date="10-04 08:53" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -263,14 +263,6 @@ title: 热点新闻
           <span class="news-item-title">Elon Musk确认与台积电就Terafab芯片制造合作进行讨论</span>
           <span class="news-value-point">💡 据报道， Elon Musk和台积电讨论了Terafab项目中的多个合作机会</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道， Elon Musk和台积电讨论了Terafab项目中的多个合作机会。" data-title="Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration" data-date="10-03 22:50" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-03 22:50</span>
-          <span class="news-item-title">Elon Musk确认与台积电就Terafab芯片制造合作进行讨论</span>
-          <span class="news-item-title-en">Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration</span>
-          <span class="news-value-point">💡 据报道， Elon Musk和台积电讨论了Terafab项目中的多个合作机会</span>
-        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/576.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 3 日消息，海马云 (haimacloud) 近日推出了 haimacloud GEAR 端云混合掌机。其本地采用高通骁龙 865 移动平台，运行 Android 13 操作系统，支持海马云的云游戏服务。该掌机拥有 8GB + 128GB 的存储器组合，搭配 7&quot; FHD 144Hz 2ms 800nits OLED 屏幕，内置 8000mAh 电池，具备主动散热、TMR 摇杆、霍尔扳机、机械微动按键、六轴体感，ABXY 为模块化设计，支持 Wi-Fi 6 &amp; BT 5.1，质量 450g。IT之家获悉，配套的云游戏服务基于英特尔酷睿 i7-12700KF 处理器、&quot;70&quot; 级 NVIDIA GeForce RTX 显卡，支持 1080p 144FPS。haimaclou" data-title="海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元" data-date="10-03 22:47" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -283,14 +275,6 @@ title: 热点新闻
           <span class="source-badge source-theverge">🌐 The Verge</span>
           <span class="news-item-date">10-03 22:31</span>
           <span class="news-item-title">OpenAI安全员工已辞职并正在敲响警钟</span>
-          <span class="news-value-point">💡 大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm" target="_blank" rel="noopener" data-cat="keji" data-summary="大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告。本周，他辞去了职务，现在正在《大西洋月刊》的一篇社论中发表讲话。如果你觉得有点愤世嫉俗是可以理解的" data-title="An OpenAI safety employee has quit and is sounding the alarm" data-date="10-03 22:31" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-03 22:31</span>
-          <span class="news-item-title">OpenAI安全员工已辞职并正在敲响警钟</span>
-          <span class="news-item-title-en">An OpenAI safety employee has quit and is sounding the alarm</span>
           <span class="news-value-point">💡 大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告</span>
         </a>
         <a class="news-item" href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/" target="_blank" rel="noopener" data-cat="keji" data-summary="我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。" data-title="所有可以存在于您的短信中的人工智能代理" data-date="10-03 22:00" data-source="TechCrunch">
@@ -307,14 +291,6 @@ title: 热点新闻
           <span class="news-item-title">本周Tom's Hardware Premium ： 2026年10月3日</span>
           <span class="news-value-point">💡 本周在Tom's Hardware Premium上，我们通过免费访问的芯片设计周打开了闸门，包括专家访谈、与OpenAI坐下来讨论其定制ASI…</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety" target="_blank" rel="noopener" data-cat="keji" data-summary="本周在Tom&#39;s Hardware Premium上，我们通过免费访问的芯片设计周打开了闸门，包括专家访谈、与OpenAI坐下来讨论其定制ASIC等等。" data-title="This week on Tom&#39;s Hardware Premium: October 3, 2026" data-date="10-03 22:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-03 22:00</span>
-          <span class="news-item-title">本周Tom's Hardware Premium ： 2026年10月3日</span>
-          <span class="news-item-title-en">This week on Tom's Hardware Premium: October 3, 2026</span>
-          <span class="news-value-point">💡 本周在Tom's Hardware Premium上，我们通过免费访问的芯片设计周打开了闸门，包括专家访谈、与OpenAI坐下来讨论其定制ASI…</span>
-        </a>
         <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen" target="_blank" rel="noopener" data-cat="keji" data-summary="Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍。" data-title="随着缓存提示爆炸，人工智能代理使用的代币数量比人类多5倍，达到10倍" data-date="10-03 21:10" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
@@ -322,13 +298,19 @@ title: 热点新闻
           <span class="news-item-title">随着缓存提示爆炸，人工智能代理使用的代币数量比人类多5倍，达到10倍</span>
           <span class="news-value-point">💡 Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen" target="_blank" rel="noopener" data-cat="keji" data-summary="Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍。" data-title="AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x" data-date="10-03 21:10" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.qbitai.com/2026/10/501381.html" target="_blank" rel="noopener" data-cat="keji" data-summary="岗位JD甩了篇技术报告" data-title="DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师" data-date="10-03 15:54" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-03 21:10</span>
-          <span class="news-item-title">随着缓存提示爆炸，人工智能代理使用的代币数量比人类多5倍，达到10倍</span>
-          <span class="news-item-title-en">AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x</span>
-          <span class="news-value-point">💡 Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-03 15:54</span>
+          <span class="news-item-title">DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师</span>
+          <span class="news-value-point">💡 岗位JD甩了篇技术报告</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/413.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="10 月 3 日晚更新埃隆 · 马斯克亲承已就相关事宜与台积电进行交涉。原文IT之家 10 月 3 日消息，科技媒体人 Tim Culpan（高鸣璨）今日爆料称，台积电 (TSMC) 正在探索与 Elon Musk（埃隆 · 马斯克）旗下 Terafab 晶圆厂的合作事宜。IT之家注意到，Terafab 此前已与 Intel（英特尔）达成合作；近来有风声传出台积电考虑在美国设立第二园区，Terafab 所在的得克萨斯州是最可能的落脚点。" data-title="（更新：埃隆 · 马斯克确认谈判）传台积电探索与 Terafab 合作事宜" data-date="10-03 10:55" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 10:55</span>
+          <span class="news-item-title">（更新：埃隆 · 马斯克确认谈判）传台积电探索与 Terafab 合作事宜</span>
+          <span class="news-value-point">💡 10 月 3 日晚更新埃隆 · 马斯克亲承已就相关事宜与台积电进行交涉</span>
         </a>
   </div>
   <div class="news-category">
@@ -428,14 +410,6 @@ title: 热点新闻
           <span class="news-item-title">目前最优惠的10月初黄金日优惠</span>
           <span class="news-value-point">💡 现在还不到10月，亚马逊已经在自己的硬件上提供一些Prime Big Deal Day折扣，以及许多其他受欢迎的产品</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october" target="_blank" rel="noopener" data-cat="zonghe" data-summary="现在还不到10月，亚马逊已经在自己的硬件上提供一些Prime Big Deal Day折扣，以及许多其他受欢迎的产品。这一切都是为了宣传10月Prime日，从10月6日美国东部时间凌晨3点开始，一直持续到3点" data-title="The best early October Prime Day deals happening now" data-date="10-04 00:22" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-04 00:22</span>
-          <span class="news-item-title">目前最优惠的10月初黄金日优惠</span>
-          <span class="news-item-title-en">The best early October Prime Day deals happening now</span>
-          <span class="news-value-point">💡 现在还不到10月，亚马逊已经在自己的硬件上提供一些Prime Big Deal Day折扣，以及许多其他受欢迎的产品</span>
-        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="弗兰克·斯特拉达（ Frank Strada ）负责监督导致克里斯塔·派克（ Christa Pike ）昏迷并住院治疗的过程，随着独立审查的开始，他辞" data-title="Tennessee Commissioner Resigns After Failed Execution of Christa Pike" data-date="10-04 00:17" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -465,20 +439,26 @@ title: 热点新闻
           <span class="news-item-title">Splice首席执行官Kakul Srivastava认为人工智能电子邮件正在扼杀对话</span>
           <span class="news-value-point">💡 卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview" target="_blank" rel="noopener" data-cat="zonghe" data-summary="卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环。从服务中提取的样本已经成为Lisa的“Money”和Sabrina Carpenter的“Espresso”等热门歌曲。（ T" data-title="Splice CEO Kakul Srivastava thinks AI emails are killing conversations" data-date="10-03 23:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-03 23:00</span>
-          <span class="news-item-title">Splice首席执行官Kakul Srivastava认为人工智能电子邮件正在扼杀对话</span>
-          <span class="news-item-title-en">Splice CEO Kakul Srivastava thinks AI emails are killing conversations</span>
-          <span class="news-value-point">💡 卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环</span>
-        </a>
         <a class="news-item" href="https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在Newegg的Fantastech Sale II于10月5日推出之前，如果产品价格在销售中下跌，您可以抓住一些早期交易并获得价格保护安全。" data-title="在亚马逊大促销日之前，在Newegg的Fantastech促销活动中查找技术优惠--如果硬件价格下跌，早期购物者将获得自动退款" data-date="10-03 22:40" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">10-03 22:40</span>
           <span class="news-item-title">在亚马逊大促销日之前，在Newegg的Fantastech促销活动中查找技术优惠--如果硬件价格下跌，早期购物者将获得自动退款</span>
           <span class="news-value-point">💡 在Newegg的Fantastech Sale II于10月5日推出之前，如果产品价格在销售中下跌，您可以抓住一些早期交易并获得价格保护安全</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/574.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，MINISFORUM（铭凡）此前公布的 MS-01 SE 迷你工作站现已在电商平台销售，包含英特尔酷睿 i5-12600H、32GB DDR4 内存、1TB SSD 存储的完整配置到手价 6,399 元。京东铭凡 MS-01 SE 迷你工作站 6399 元直达链接MS-01 SE 整体设计与原版 MS-01 类似，但存在多处降级或调整：内部的 PCIe Gen4 插槽仅支持 4 通道；后部的 2 个 10GbE SFP+ 被替换为 USB-A 480Mbps；无线网卡改为联发科技 MT7902 (Wi-Fi 6E &amp; BT 5.2)。其内置 3 个 M.2 2280 盘位，分别支持 PCIe Gen4 ×4、Gen3 ×4、Gen3 ×2，拥有 2 个 USB" data-title="铭凡 MS-01 SE 迷你工作站上市，12600H + 32GB + 1TB 到手 6399 元" data-date="10-03 22:28" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-03 22:28</span>
+          <span class="news-item-title">铭凡 MS-01 SE 迷你工作站上市，12600H + 32GB + 1TB 到手 6399 元</span>
+          <span class="news-value-point">💡 IT之家 10 月 3 日消息，MINISFORUM（铭凡）此前公布的 MS-01 SE 迷你工作站现已在电商平台销售，包含英特尔酷睿 i5-1…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707661.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社乌鲁木齐10月3日电 (胡嘉琛)“我来新疆旅游，得知这里开了首店，就来打卡体验。”上海游客杜怡申3日在乌鲁木齐市接受中新社采访时说，她在星巴克点了一杯以新疆赛里木湖蓝色为创意灵感的饮品，选购了一个穿着新疆艾德莱斯绸服饰的玩偶，一切都很圆满。" data-title="美国咖啡品牌新疆开店受欢迎" data-date="10-03 22:09" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-03 22:09</span>
+          <span class="news-item-title">美国咖啡品牌新疆开店受欢迎</span>
+          <span class="news-value-point">💡 中新社乌鲁木齐10月3日电 (胡嘉琛)“我来新疆旅游，得知这里开了首店，就来打卡体验</span>
         </a>
   </div>
 </div>
@@ -611,4 +591,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-04 09:54（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-04 10:51（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

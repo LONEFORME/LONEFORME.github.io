@@ -1893,24 +1893,37 @@ def main():
     # 1. 载入今天已累积的新闻缓存
     cached_today_news = load_daily_cache(date_only)
 
-    # 2. 抓取当前最新 RSS
+    # 2. 抓取当前最新 RSS（--cache-only 跳过抓取，仅用今日累加缓存重建页面）
+    cache_only = "--cache-only" in sys.argv
     all_news = []
-    for feed in RSS_FEEDS:
-        log(f"[INFO] 抓取: {feed['name']}...")
-        entries = fetch_rss(feed["url"], feed["name"])
-        log(f"  获取 {len(entries)} 条")
-        all_news.extend(entries)
+    if cache_only:
+        log("[INFO] --cache-only 模式：跳过 RSS 抓取，直接用今日累加缓存重建页面")
+    else:
+        for feed in RSS_FEEDS:
+            log(f"[INFO] 抓取: {feed['name']}...")
+            entries = fetch_rss(feed["url"], feed["name"])
+            log(f"  获取 {len(entries)} 条")
+            all_news.extend(entries)
 
     # 3. 核心机制：全天新闻累加合并（已有早间新闻 + 最新下午/晚间新闻）
-    merged_all = cached_today_news + all_news
-
-    seen = set()
-    unique = []
+    merged_all = all_news + cached_today_news
+    # 按链接去重；同一链接有两个版本时，优先保留带 title_zh 译文的新版条目
+    merged_map = {}
+    order = []
     for item in merged_all:
-        key = item["title"][:60]
-        if key not in seen:
-            seen.add(key)
-            unique.append(item)
+        key = (item.get("link") or item["title"][:60]).split("?")[0]
+        if key not in merged_map:
+            merged_map[key] = dict(item)
+            order.append(key)
+            continue
+        base = merged_map[key]
+        if item.get("title_zh") and not base.get("title_zh"):
+            merged_map[key] = dict(item)
+        else:
+            for f in ("title_zh", "summary"):
+                if item.get(f) and not base.get(f):
+                    base[f] = item[f]
+    unique = [merged_map[k] for k in order]
 
     log(f"[INFO] 累加去重后今日有效新闻共 {len(unique)} 条（本次新抓取 {len(all_news)} 条，历史缓存 {len(cached_today_news)} 条）")
 
