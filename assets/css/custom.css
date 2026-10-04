@@ -1951,6 +1951,27 @@ body {
   color: var(--color-primary);
 }
 
+/* 英文原文副标题：条目已显示中文译名时，下方保留小号原文便于溯源 */
+.news-item-title-en,
+.hero-featured-title-en {
+  grid-column: 1 / -1;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--color-muted, #8b93a5);
+  line-height: 1.5;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.hero-featured-title-en {
+  grid-column: auto;
+  margin-top: 4px;
+  font-size: 13px;
+}
+
 [data-theme="light"] .news-item {
   background: #f8fafc;
   border-color: rgba(0, 0, 0, 0.07);

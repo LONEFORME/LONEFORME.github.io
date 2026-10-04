@@ -13,6 +13,7 @@ import re
 import sys
 import json
 import time
+import hashlib
 import html
 import requests
 import feedparser
@@ -67,6 +68,27 @@ try:
 except ImportError:
     pass
 
+
+def _probe_translators():
+    """启动时对每个候选 Google 通道做一次试译，剔除不可用通道，
+    避免逐条翻译时反复撞死代理/被墙端点的超时（Actions 上直连通道会保留）。"""
+    global _translators
+    _working = []
+    for _t in _translators:
+        try:
+            if _t.translate("ok"):
+                _working.append(_t)
+        except Exception:
+            continue
+    _translators = _working
+    try:
+        log(f"[INFO] Google 翻译可用通道: {len(_translators)} 个（不可用已剔除，回退 MyMemory）")
+    except NameError:
+        print(f"[INFO] Google 翻译可用通道: {len(_translators)} 个（不可用已剔除，回退 MyMemory）")
+
+
+_probe_translators()
+
 def translate_to_chinese(text):
     if not text or not text.strip():
         return text
@@ -103,6 +125,46 @@ def translate_to_chinese(text):
     except Exception as e:
         log(f"  [翻译失败] {e}")
         return text
+
+
+# ===== 翻译持久缓存：key=原文 md5；成功结果跨运行复用，失败不缓存、下次自动重试 =====
+TRANSLATION_CACHE_FILE = os.path.join("archive", "translation-cache.json")
+
+
+def _load_translation_cache():
+    try:
+        with open(TRANSLATION_CACHE_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_translation_cache(cache):
+    try:
+        os.makedirs("archive", exist_ok=True)
+        with open(TRANSLATION_CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1)
+    except Exception as e:
+        log(f"  [翻译缓存保存失败] {e}")
+
+
+def translate_cached(text):
+    """带持久缓存的英译中。命中缓存直接返回；未命中则调用 translate_to_chinese，
+    成功才写入缓存；失败返回空串，由调用方回退展示原文（下一轮运行会重试）。"""
+    text = (text or "").strip()
+    if not text or has_chinese(text):
+        return ""
+    key = hashlib.md5(text.encode("utf-8")).hexdigest()
+    cache = _load_translation_cache()
+    if key in cache:
+        return cache[key]
+    time.sleep(0.3)  # 轻微限速，降低 Google/MyMemory 免费接口的突发限流概率
+    result = translate_to_chinese(text)
+    if result and result != text and not is_error_page(result, ""):
+        cache[key] = result
+        _save_translation_cache(cache)
+        return result
+    return ""
 
 
 def has_chinese(text):
@@ -883,9 +945,6 @@ def fetch_rss(url, source_name, timeout=20):
                 # 敏感/偏见新闻单独分类到"西方媒体视角"板块
                 title, publisher = parse_publisher(title)
                 title = to_simplified(clean_title(title))
-                # 英文标题自动翻译成中文
-                if not has_chinese(title):
-                    title = translate_to_chinese(title)
                 src = normalize_source(publisher if publisher else source_name, title, link)
                 date = pub_dt.strftime("%Y-%m-%d")
                 pub_time = pub_dt.strftime("%H:%M")
@@ -895,12 +954,15 @@ def fetch_rss(url, source_name, timeout=20):
                 clean_sum = re.sub(r'\s+', ' ', clean_sum)
                 clean_sum = html.unescape(clean_sum).strip()
                 clean_sum = to_simplified(clean_sum)
-                # 英文摘要自动翻译成中文
-                if clean_sum and not has_chinese(clean_sum):
-                    clean_sum = translate_to_chinese(clean_sum)
                 if is_recent(pub_dt):
+                    # 英文标题/摘要翻译成中文（带持久缓存；失败保留原文，下一轮自动重试）
+                    title_zh = translate_cached(title)
+                    summary_zh = translate_cached(clean_sum[:250]) if clean_sum else ""
+                    if summary_zh:
+                        clean_sum = summary_zh
                     entries.append({
                         "title": title,
+                        "title_zh": title_zh,
                         "link": link,
                         "date": date,
                         "published_dt": pub_dt,
@@ -1387,7 +1449,8 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
         hero_html += f'        <span class="source-badge {source_to_css(featured["source"])}">{source_to_flag(featured["source"])} {featured["source"]}</span>\n'
         hero_html += f'        <span class="hero-featured-date">🕒 {featured_date}</span>\n'
         hero_html += f'      </div>\n'
-        hero_html += f'      <h2 class="hero-featured-title">{featured["title"]}</h2>\n'
+        hero_html += f'      <h2 class="hero-featured-title">{featured.get("title_zh") or featured["title"]}</h2>\n'
+        hero_html += f'      <div class="hero-featured-title-en">{featured["title"]}</div>\n' if featured.get("title_zh") else ''
         hero_html += f'    </div>\n'
         hero_html += f'    <span class="hero-featured-arrow">→</span>\n'
         hero_html += f'  </a>\n'
@@ -1435,7 +1498,10 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
             grid_html += f'          <span class="news-cat-tag {sec["tag_class"]}">{sec["tag_label"]}</span>\n'
             grid_html += f'          <span class="source-badge {src_css}">{flag} {it["source"]}</span>\n'
             grid_html += f'          <span class="news-item-date">{it_date}</span>\n'
-            grid_html += f'          <span class="news-item-title">{it["title"]}</span>\n'
+            t_show = it.get("title_zh") or it["title"]
+            grid_html += f'          <span class="news-item-title">{t_show}</span>\n'
+            if it.get("title_zh"):
+                grid_html += f'          <span class="news-item-title-en">{it["title"]}</span>\n'
             vp_raw = str(it.get("summary") or "").strip()
             if vp_raw:
                 vp = re.split(r"[。！？；]", vp_raw)[0].strip()
@@ -1781,6 +1847,16 @@ def load_daily_cache(date_only):
                         continue
                     if "LIMIT EXCEEDED" in sum_txt.upper() or "MYMEMORY" in sum_txt.upper():
                         it["summary"] = ""
+                    # 回填翻译：缓存中的英文条目补标题/摘要翻译（带持久缓存防限流）
+                    try:
+                        if t_txt and not it.get("title_zh") and not has_chinese(t_txt):
+                            it["title_zh"] = translate_cached(t_txt)
+                        if sum_txt and not has_chinese(sum_txt):
+                            zh = translate_cached(sum_txt[:250])
+                            if zh:
+                                it["summary"] = zh
+                    except Exception:
+                        pass
                     items.append(it)
                 log(f"[INFO] 成功载入今日已有累加缓存，共 {len(items)} 条已抓取新闻")
                 return items
