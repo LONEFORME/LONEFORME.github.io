@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-04 15:31（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-04 21:22（北京时间）</span>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
@@ -312,8 +312,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">12 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/german-utility-provider-introduces-gaming-electricity-plan-targeting-high-consumption-households-like-those-running-multiple-high-end-gaming-pcs-plan-requires-2-500-kwh-per-year-to-offset-a-higher-base-price-claims-to-use-renewable-energy" target="_blank" rel="noopener" data-cat="caijing" data-summary="SWK Energie推出了直接面向游戏玩家的新关税。虽然它不会改善游戏PC上的FPS ，但无论是RTX 5090还是特斯拉，它都可以帮助减少大型消费者的电费。" data-title="German utility provider introduces &#39;gaming electricity&#39; plan targeting high-consumption households, like those running multiple high-end gaming PCs" data-date="10-04 20:47" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-04 20:47</span>
+          <span class="news-item-title">German utility provider introduces 'gaming electricity' plan targeting high-consumption households, like those running multiple high-end gaming PCs</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="德克萨斯州、爱荷华州、俄亥俄州和阿拉斯加州州长竞选中的民主优势反映了对特朗普总统和经济的深深不满。共和党人在堪萨斯州领先。" data-title="Democrats Lead Governor Races Deep in Republican Territory, Polls Show" data-date="10-04 17:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-04 17:03</span>
+          <span class="news-item-title">Democrats Lead Governor Races Deep in Republican Territory, Polls Show</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/658.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 4 日消息，今天有网友曝光广西南宁一新能源汽车充电场内，多名小孩把比亚迪闪充桩充电线缆当成秋千荡着玩，画面惊险。相应话题在微博登上热搜，截至IT之家发稿阅读量达 442.5 万。IT之家获悉，被相应儿童当成“秋千绳”的比亚迪兆瓦闪充桩，峰值电压约 1000 伏、峰值电流最高 1500 安，单枪峰值功率最高 1500 千瓦。一旦绝缘层遭破坏漏电，后果不堪设想。对此，比亚迪闪充客服回应媒体“搜狐千里眼”称，场地内严禁此类行为，后续官方将联系站点员工巡查，作出对应解决措施。延伸阅读据了解，该事件发生在 2026 年 10 月 2 日的广西南宁一处闪充站点，视频中两个孩子在比亚迪闪充站抓住充电枪来回荡秋千，旁边还有人拍摄并未制止。公开资料显示，比亚迪于 2025 年 3 月 17" data-title="网友曝光比亚迪汽车兆瓦闪充桩线缆被儿童当“秋千”荡着玩，客服回应称将联系站点员工巡查" data-date="10-04 15:29" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -374,24 +386,6 @@ title: 股票财经
           <span class="news-item-date">10-03 22:10</span>
           <span class="news-item-title">我国首个深水油田流花油田取得新突破 “国之重器”协同运转</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707604.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月3日电 (记者 陈杭)北京密云的古北妙街2日正式开街。这条1.4公里的老街，依托古镇原生街巷、老院落、历史建筑改造升级，经过半年多的筹备，以全新面貌亮相京郊长城脚下。" data-title="北京密云古北妙街开街 古韵新生点亮假日经济" data-date="10-03 20:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 20:34</span>
-          <span class="news-item-title">北京密云古北妙街开街 古韵新生点亮假日经济</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/politics/trump-putin-ukraine-oil-deal-5-takeaways.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="即使是一个经常将个人商业利益与外交政策混为一谈的政府，通过购买俄罗斯能源资产来加强与克里姆林宫关系的建议也引人注目。" data-title="特朗普、普京、乌克兰和石油协议： 5个要点" data-date="10-03 17:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-03 17:03</span>
-          <span class="news-item-title">特朗普、普京、乌克兰和石油协议： 5个要点</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/03/business/trump-economy-inflation-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统曾希望在竞选活动中吹捧经济增长，但由于工人的工资跟不上，他发现很难突破。" data-title="Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring" data-date="10-03 17:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-03 17:03</span>
-          <span class="news-item-title">Trump Says Economy Has ‘Public Relations’ Problem Amid High Prices and Slow Hiring</span>
-        </a>
   </div>
 </div>
 
@@ -405,4 +399,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-04 15:31（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-04 21:22（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
