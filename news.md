@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-04 10:51 抓取更新</span>
+      <span>2026-10-04 15:31 抓取更新</span>
     </div>
   </div>
 
@@ -33,11 +33,11 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
-        <span class="channel-count">13</span>
+        <span class="channel-count">14</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">4</span>
+        <span class="channel-count">3</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -59,43 +59,43 @@ title: 热点新闻
   <div class="ov-item"><span class="ov-num">47</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×22 · IT之家×7</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×24 · IT之家×5</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/10-04/10707705.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="日本多个民间团体3日在东京江户川区联合举办“战争展”，展示日本在二战期间发动侵略战争的历史资料，呼吁日本社会坚守和平，反对高市政府扩军修宪动向。主办方表示，希望这些展示，能够让日本民众正确了解历史，阻止日本再次走上战争道路。" data-title="日本民间团体展示侵略战争史料 呼吁日本社会坚守和平" data-date="10-04 09:29" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/10-04/10707805.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="2021年5月，在河南省淅川县九重镇邹庄村，习近平总书记走进移民户邹新曾家。通过种田、务工和电商直播，这家的日子红红火火。" data-title="总书记治国理政故事｜“人民就是江山”" data-date="10-04 15:01" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 10-04 09:29</span>
+        <span class="hero-featured-date">🕒 10-04 15:01</span>
       </div>
-      <h2 class="hero-featured-title">日本民间团体展示侵略战争史料 呼吁日本社会坚守和平</h2>
+      <h2 class="hero-featured-title">总书记治国理政故事｜“人民就是江山”</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.qbitai.com/2026/10/501451.html" target="_blank" rel="noopener" data-cat="keji" data-summary="专业3D模型反而更稀缺了" data-title="GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元" data-date="10-04 08:53" data-source="量子位">
+    <a class="hero-sub-card" href="https://www.qbitai.com/2026/10/501605.html" target="_blank" rel="noopener" data-cat="keji" data-summary="一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。" data-title="AI算力硬合作，马斯克还是更相信中国制造" data-date="10-04 14:12" data-source="量子位">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-techcrunch">🧠 量子位</span>
       </div>
-      <p class="hero-sub-title">GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元</p>
+      <p class="hero-sub-title">AI算力硬合作，马斯克还是更相信中国制造</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/1/009/577.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 10 月 3 日消息，2026 爱知-名古屋亚运会男足三四名决赛，中国队在常规时间内 2 比 2 战平乌兹别克斯坦队。点球大战中，中国队 4 比 3 取胜，获得本次亚运会男足比赛铜牌。上半场，中国队胡荷韬破门。半场结束，中国男足与对手 1-1 战平。下半场，中国队王钰栋破门。90 分钟双方战成 2-2。这也是中国队时隔 28 年再次获得亚运会男足比赛铜牌！也是亚运会男足项目实行 U23 年龄限制后，中国队首次获得奖牌。IT之家查询获悉，中国男足曾在 1994 年广岛亚运会上获得银牌，并于 1978 年、1998 年两次获得铜牌。本届比赛，中国队时隔 28 年再次闯入亚运会男足四强，并最终登上领奖台。另外，今年 1 月，在 2026 年 U23 亚洲杯半决赛中，中国 U23 男足以" data-title="点球大战制胜！国足击败乌兹别克斯坦队，时隔 28 年再夺亚运会男足比赛铜牌" data-date="10-03 22:51" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这些空间既是对贪婪时代的谴责，也是对英超联赛追求正义的致敬在2014年联赛杯决赛中场休息时，桑德兰以1比0领先曼城。Yaya Touré与休闲明亮的30码相媲美" data-title="Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson" data-date="10-04 03:00" data-source="卫报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-theathletic">🇬🇧 卫报</span>
       </div>
-      <p class="hero-sub-title">点球大战制胜！国足击败乌兹别克斯坦队，时隔 28 年再夺亚运会男足比赛铜牌</p>
+      <p class="hero-sub-title">Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson</p>
     </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/10-04/10707715.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="国庆假期，云南省德宏傣族景颇族自治州梁河县备好了一场民族文化的盛宴：热烈奔放的目瑙纵歌、穿越时光的庭院剧、充满野趣的稻花鱼体验、烟火氤氲的古镇美食、惬意畅快的山野徒步……" data-title="“甜蜜业态”婚旅：让新人把“我愿意”说给山海听" data-date="10-04 09:57" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/10-04/10707819.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="头顶是新疆艾德莱斯绸铺展出的斑斓色彩，" data-title="星巴克来到新疆，成为“星巴扎”" data-date="10-04 15:24" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">“甜蜜业态”婚旅：让新人把“我愿意”说给山海听</p>
+      <p class="hero-sub-title">星巴克来到新疆，成为“星巴扎”</p>
     </a>
   </div>
 </div>
@@ -106,6 +106,105 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707805.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="2021年5月，在河南省淅川县九重镇邹庄村，习近平总书记走进移民户邹新曾家。通过种田、务工和电商直播，这家的日子红红火火。" data-title="总书记治国理政故事｜“人民就是江山”" data-date="10-04 15:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 15:01</span>
+          <span class="news-item-title">总书记治国理政故事｜“人民就是江山”</span>
+          <span class="news-value-point">💡 2021年5月，在河南省淅川县九重镇邹庄村，习近平总书记走进移民户邹新曾家</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707803.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月4日电 据日媒报道，日本首相高市早苗4日就驻日美军涉嫌杀人案在社交平台上发帖称，发生如此残忍、恶劣的案件，令人感到极为遗憾。" data-title="高市早苗就驻日美军涉嫌杀人案表示“极为遗憾” 小泉进次郎怒斥“不可容忍”" data-date="10-04 14:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 14:33</span>
+          <span class="news-item-title">高市早苗就驻日美军涉嫌杀人案表示“极为遗憾” 小泉进次郎怒斥“不可容忍”</span>
+          <span class="news-value-point">💡 中新网10月4日电 据日媒报道，日本首相高市早苗4日就驻日美军涉嫌杀人案在社交平台上发帖称，发生如此残忍、恶劣的案件，令人感到极为遗憾</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707785.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社柏林10月4日电 德国埃森消息：当地时间10月3日，2026年中德青少年交流音乐会暨“唱歌学中文”夏令营汇报演出在德国埃森举行。40名中德学生登台表演，近200名观众到场观看。" data-title="2026年中德青少年交流音乐会在德国埃森举行" data-date="10-04 13:46" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 13:46</span>
+          <span class="news-item-title">2026年中德青少年交流音乐会在德国埃森举行</span>
+          <span class="news-value-point">💡 中新社柏林10月4日电 德国埃森消息：当地时间10月3日，2026年中德青少年交流音乐会暨“唱歌学中文”夏令营汇报演出在德国埃森举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707766.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月4日电 据法新社援引美国方面当地时间3日消息，美国官员透露，出席纽约联合国大会的伊朗代表团两名成员于3日被“驱逐”出境，此前几天他们已被要求离开美国。" data-title="美官员称两名伊朗代表团成员被“驱逐”出境 二人曾出席纽约联合国大会" data-date="10-04 12:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 12:36</span>
+          <span class="news-item-title">美官员称两名伊朗代表团成员被“驱逐”出境 二人曾出席纽约联合国大会</span>
+          <span class="news-value-point">💡 中新网10月4日电 据法新社援引美国方面当地时间3日消息，美国官员透露，出席纽约联合国大会的伊朗代表团两名成员于3日被“驱逐”出境，此前几天他们…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707765.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="视频：方志里的长征故事 | 方向是一步步走出来的来源：中国社会科学网" data-title="方志里的长征故事 | 方向是一步步走出来的" data-date="10-04 12:32" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 12:32</span>
+          <span class="news-item-title">方志里的长征故事 | 方向是一步步走出来的</span>
+          <span class="news-value-point">💡 视频：方志里的长征故事 | 方向是一步步走出来的来源：中国社会科学网</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707759.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="视频：听英雄后代讲长征故事|孙继先之子回望强渡大渡河来源：新华网" data-title="听英雄后代讲长征故事|孙继先之子回望强渡大渡河" data-date="10-04 11:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:58</span>
+          <span class="news-item-title">听英雄后代讲长征故事|孙继先之子回望强渡大渡河</span>
+          <span class="news-value-point">💡 视频：听英雄后代讲长征故事|孙继先之子回望强渡大渡河来源：新华网</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707757.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="视频：【红星照耀中国】胜利的方向丨从泸定桥的摇晃里，读懂十三根铁索上的浴血冲锋来源：中国军网" data-title="【红星照耀中国】胜利的方向丨从泸定桥的摇晃里，读懂十三根铁索上的浴血冲锋" data-date="10-04 11:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:52</span>
+          <span class="news-item-title">【红星照耀中国】胜利的方向丨从泸定桥的摇晃里，读懂十三根铁索上的浴血冲锋</span>
+          <span class="news-value-point">💡 视频：【红星照耀中国】胜利的方向丨从泸定桥的摇晃里，读懂十三根铁索上的浴血冲锋来源：中国军网</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707756.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="历经4年建设，平陆运河近日全线通航。这是新中国成立以来第一条国家层面统筹建设的通江达海的大运河，其工程规模、创新技术、重大意义等引发外媒热议。" data-title="外媒热议平陆运河全线通航" data-date="10-04 11:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:51</span>
+          <span class="news-item-title">外媒热议平陆运河全线通航</span>
+          <span class="news-value-point">💡 历经4年建设，平陆运河近日全线通航</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707751.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网济南10月4日电 (刘驰原)在济南市莱芜区凤城街道便民服务中心，65岁的王秀花指尖轻触政务服务自助终端，在现场工作人员“一对一”的细致引导下，原本让她“头疼”的社会保险待遇资格认证在几分钟内便顺利办结。过去，为了这项认证，她远在外地工作的儿子往往需要专门请假赶回。如今，这种“折腾”已成为历史。" data-title="山东深化数字政府建设 推动政务服务“好办易办”" data-date="10-04 11:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:44</span>
+          <span class="news-item-title">山东深化数字政府建设 推动政务服务“好办易办”</span>
+          <span class="news-value-point">💡 中新网济南10月4日电 (刘驰原)在济南市莱芜区凤城街道便民服务中心，65岁的王秀花指尖轻触政务服务自助终端，在现场工作人员“一对一”的细致引导…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707753.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="国庆假期，太空出差三人组——神二十三乘组航天员朱杨柱、张志远、黎家盈仍在中国空间站值守。三名航天员在轨驻留已四月有余，中秋国庆期间，他们将站内环境布置得温馨喜庆，同时，空间科学实(试)验、空间站组合体平台照料、健康管理等各项工作有序推进。" data-title="神二十三乘组太空过双节 科学实验、健康管理等工作正推进" data-date="10-04 11:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:44</span>
+          <span class="news-item-title">神二十三乘组太空过双节 科学实验、健康管理等工作正推进</span>
+          <span class="news-value-point">💡 国庆假期，太空出差三人组——神二十三乘组航天员朱杨柱、张志远、黎家盈仍在中国空间站值守</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707736.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月4日电 据外媒当地时间3日援引巴西方面消息，巴西总统卢拉的竞选团队已请求巴西最高选举法院，将美国驻巴西使领馆2日暂停线下领事服务一事，纳入正在进行的外部势力干预巴西选举相关调查。" data-title="卢拉竞选团队请求巴西最高选举法院调查美使领馆暂停服务一事" data-date="10-04 11:09" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:09</span>
+          <span class="news-item-title">卢拉竞选团队请求巴西最高选举法院调查美使领馆暂停服务一事</span>
+          <span class="news-value-point">💡 中新网10月4日电 据外媒当地时间3日援引巴西方面消息，巴西总统卢拉的竞选团队已请求巴西最高选举法院，将美国驻巴西使领馆2日暂停线下领事服务一事…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707731.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="记者日前从司法部获悉，目前全国共有人民调解委员会69.7万个，其中村(社区)调委会61.2万个，乡镇(街道)调委会4万个；行业性专业性调委会和工作室5.4万个；全国共有人民调解员310.2万人，其中专职调解员56万人，基本形成覆盖城乡社区和重点领域、单位的调解组织网络。2025年，共调解各类案件1653.7万件，调解成功率96.5%，调解协议履行率94%。" data-title="司法部：2025年共调解各类案件1653.7万件" data-date="10-04 11:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:02</span>
+          <span class="news-item-title">司法部：2025年共调解各类案件1653.7万件</span>
+          <span class="news-value-point">💡 记者日前从司法部获悉，目前全国共有人民调解委员会69.7万个，其中村(社区)调委会61.2万个，乡镇(街道)调委会4万个</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707718.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件。" data-title="日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕" data-date="10-04 10:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 10:11</span>
+          <span class="news-item-title">日媒：涉嫌抢劫杀人 一名驻日美军士兵被日本警方逮捕</span>
+          <span class="news-value-point">💡 中新网10月4日电 据日媒4日报道，3日那霸市一家酒店发生了一起女性遇害、随身物品被抢走的案件</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/trump-tom-cotton-cellphone-number.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="总统敦促人们打电话给阿肯色州参议员汤姆·科顿（ Tom Cotton ） ，并指责他阻止了一项旨在巩固夏令时的法案。" data-title="Here’s Senator Cotton’s Cell Number, Trump Says, in Dispute Over Daylight Saving Bill" data-date="10-04 09:59" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-04 09:59</span>
+          <span class="news-item-title">特朗普说，这是参议员棉花的手机号码，在夏令时法案的争议中</span>
+          <span class="news-item-title-en">Here’s Senator Cotton’s Cell Number, Trump Says, in Dispute Over Daylight Saving Bill</span>
+          <span class="news-value-point">💡 总统敦促人们打电话给阿肯色州参议员汤姆·科顿（ Tom Cotton ） ，并指责他阻止了一项旨在巩固夏令时的法案</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707705.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="日本多个民间团体3日在东京江户川区联合举办“战争展”，展示日本在二战期间发动侵略战争的历史资料，呼吁日本社会坚守和平，反对高市政府扩军修宪动向。主办方表示，希望这些展示，能够让日本民众正确了解历史，阻止日本再次走上战争道路。" data-title="日本民间团体展示侵略战争史料 呼吁日本社会坚守和平" data-date="10-04 09:29" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -113,112 +212,27 @@ title: 热点新闻
           <span class="news-item-title">日本民间团体展示侵略战争史料 呼吁日本社会坚守和平</span>
           <span class="news-value-point">💡 日本多个民间团体3日在东京江户川区联合举办“战争展”，展示日本在二战期间发动侵略战争的历史资料，呼吁日本社会坚守和平，反对高市政府扩军修宪动向</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707704.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="“完善全球治理和推动多极化的重要力量”" data-title="“完善全球治理和推动多极化的重要力量”" data-date="10-04 09:25" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:25</span>
-          <span class="news-item-title">“完善全球治理和推动多极化的重要力量”</span>
-          <span class="news-value-point">💡 “完善全球治理和推动多极化的重要力量”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707687.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="家是最小国，国是千万家。修齐治平、兴亡有责的家国情怀是中华优秀传统文化的重要元素。习近平总书记始终高度重视家国情怀的传承和弘扬，在多个场合深刻阐述“家”“国”关系。一起重温这些深情话语，感悟总书记心中的“家”与“国”。" data-title="学习新语·家国同心丨总书记心中的“家”与“国”" data-date="10-04 09:23" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:23</span>
-          <span class="news-item-title">学习新语·家国同心丨总书记心中的“家”与“国”</span>
-          <span class="news-value-point">💡 家是最小国，国是千万家</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707680.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="有些浪漫，跨越千年，依旧温柔；有些风韵，历经岁月，熠熠如新。" data-title="微视频｜因为国 所以潮" data-date="10-04 09:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:18</span>
-          <span class="news-item-title">微视频｜因为国 所以潮</span>
-          <span class="news-value-point">💡 有些浪漫，跨越千年，依旧温柔</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707701.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月4日电 据哥伦比亚广播公司(CBS)当地时间3日援引美国海岸警卫队和美国联邦航空管理局消息，一架载有6人的小型飞机在从百慕大飞往波士顿途中失联。目前救援方已展开大规模搜寻工作。" data-title="一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺" data-date="10-04 09:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:12</span>
-          <span class="news-item-title">一小型飞机从百慕大飞波士顿途中失联 从2.4万英尺急降至1.1万英尺</span>
-          <span class="news-value-point">💡 中新网10月4日电 据哥伦比亚广播公司(CBS)当地时间3日援引美国海岸警卫队和美国联邦航空管理局消息，一架载有6人的小型飞机在从百慕大飞往波士…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707692.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月4日电 据朝中社4日报道，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。" data-title="朝中社：金正恩观摩中程战略导弹发射训练（图）" data-date="10-04 09:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:07</span>
-          <span class="news-item-title">朝中社：金正恩观摩中程战略导弹发射训练（图）</span>
-          <span class="news-value-point">💡 中新网10月4日电 据朝中社4日报道，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707675.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据朝鲜方面4日消息，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练。朝鲜劳动党总书记、国务委员长金正恩现场观摩训练。" data-title="金正恩观摩中程战略导弹发射训练" data-date="10-04 07:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 07:07</span>
-          <span class="news-item-title">金正恩观摩中程战略导弹发射训练</span>
-          <span class="news-value-point">💡 据朝鲜方面4日消息，朝鲜3日凌晨在东部地区进行了中程战略导弹发射训练</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707673.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动。" data-title="伊朗革命卫队近日对7艘“违规”油轮采取行动" data-date="10-04 06:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 06:52</span>
-          <span class="news-item-title">伊朗革命卫队近日对7艘“违规”油轮采取行动</span>
-          <span class="news-value-point">💡 当地时间10月3日，据伊朗方面消息，过去5天内，伊朗伊斯兰革命卫队海军在霍尔木兹海峡针对至少7艘“违规”油轮采取行动</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/03/upshot/polls-midterms-senate-times-siena.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在特朗普总统在2024年轻松获胜的州，五项新的泰晤士报/锡耶纳民意调查继续为民主党人带来强劲的结果。" data-title="Democrats May Have Found the Recipe for Flipping Red" data-date="10-03 23:16" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-03 23:16</span>
-          <span class="news-item-title">民主党人可能已经找到了翻转红色的秘诀</span>
-          <span class="news-item-title-en">Democrats May Have Found the Recipe for Flipping Red</span>
-          <span class="news-value-point">💡 在特朗普总统在2024年轻松获胜的州，五项新的泰晤士报/锡耶纳民意调查继续为民主党人带来强劲的结果</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707660.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这个假期，有人假日不休、生产不停，还有人坚守战位、守护安全。国庆佳节，正在远海执行护航任务的海军第49批护航编队，举行了一场特殊的升旗仪式。五星红旗在深蓝大洋上升起，护航官兵坚守战位，用忠诚与担当，在远海大洋护卫国际航道安全。" data-title="国庆假期 海军编队坚守战位 护卫国际航道安全" data-date="10-03 22:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 22:07</span>
-          <span class="news-item-title">国庆假期 海军编队坚守战位 护卫国际航道安全</span>
-          <span class="news-value-point">💡 这个假期，有人假日不休、生产不停，还有人坚守战位、守护安全</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707653.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="央视网消息：长征的征途，既有翻越天险的战斗行军，也有军民共处的岁月。1935年，红一方面军和红四方面军先后完成翻雪山、过草地的艰苦行军。同年8月，红二十五军先期北上，进入宁夏南部地区，他们在西吉兴隆镇一带休整，与当地百姓结下了不解之缘。" data-title="新的长征之路 | 九十载军民情 小小“红军粉”铺就富民振兴路" data-date="10-03 22:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 22:00</span>
-          <span class="news-item-title">新的长征之路 | 九十载军民情 小小“红军粉”铺就富民振兴路</span>
-          <span class="news-value-point">💡 央视网消息：长征的征途，既有翻越天险的战斗行军，也有军民共处的岁月</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707627.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="策划：张芮绮、丁翊睿" data-title="学习进行时丨中国式现代化，民生为大" data-date="10-03 21:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 21:35</span>
-          <span class="news-item-title">学习进行时丨中国式现代化，民生为大</span>
-          <span class="news-value-point">💡 策划：张芮绮、丁翊睿</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707638.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，中方欢迎普京总统出席今年11月将在深圳举行的亚太经合组织(APEC)领导人非正式会议。" data-title="中方：欢迎普京总统出席APEC领导人非正式会议" data-date="10-03 21:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 21:24</span>
-          <span class="news-item-title">中方：欢迎普京总统出席APEC领导人非正式会议</span>
-          <span class="news-value-point">💡 中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，中方欢迎普京总统出席今年11月将在深圳举行的亚太经合组织(APEC)领导…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707636.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，所谓新疆存在“种族灭绝”是赤裸裸的谎言。美方有关机构惯于出于政治目的无中生有、攻击抹黑中国，毫无信誉可言。" data-title="中方：所谓新疆存在“种族灭绝”是赤裸裸的谎言" data-date="10-03 21:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 21:24</span>
-          <span class="news-item-title">中方：所谓新疆存在“种族灭绝”是赤裸裸的谎言</span>
-          <span class="news-value-point">💡 中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，所谓新疆存在“种族灭绝”是赤裸裸的谎言</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-03/10707633.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，中方一贯反对将民用无人机用于军事目的。各方应为乌克兰危机的政治解决发挥建设性作用，而非无端炒作和恶意关联。" data-title="中国外交部：一贯反对将民用无人机用于军事目的" data-date="10-03 21:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 21:16</span>
-          <span class="news-item-title">中国外交部：一贯反对将民用无人机用于军事目的</span>
-          <span class="news-value-point">💡 中新社北京10月3日电 中国外交部发言人郭嘉昆10月3日答记者问时表示，中方一贯反对将民用无人机用于军事目的</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
-      <span class="news-category-count">13 条</span>
+      <span class="news-category-count">14 条</span>
     </div>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/501605.html" target="_blank" rel="noopener" data-cat="keji" data-summary="一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。" data-title="AI算力硬合作，马斯克还是更相信中国制造" data-date="10-04 14:12" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-04 14:12</span>
+          <span class="news-item-title">AI算力硬合作，马斯克还是更相信中国制造</span>
+          <span class="news-value-point">💡 一种混搭的可能：英特尔继续供先进工艺，即前端用14A</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/501506.html" target="_blank" rel="noopener" data-cat="keji" data-summary="什么是FDE？它会一直存在吗？" data-title="最火AI岗位FDE：月薪5万，都干这些…" data-date="10-04 14:05" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-04 14:05</span>
+          <span class="news-item-title">最火AI岗位FDE：月薪5万，都干这些…</span>
+          <span class="news-value-point">💡 什么是FDE</span>
+        </a>
         <a class="news-item" href="https://www.qbitai.com/2026/10/501451.html" target="_blank" rel="noopener" data-cat="keji" data-summary="专业3D模型反而更稀缺了" data-title="GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元" data-date="10-04 08:53" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
@@ -242,11 +256,12 @@ title: 热点新闻
           <span class="news-item-title-en">Capcom is preparing for a ‘future where we create games together with AI’</span>
           <span class="news-value-point">💡 Capcom的Pragmata可能完全是关于人工智能的恐怖，但在实践中，工作室似乎并不那么低调</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/" target="_blank" rel="noopener" data-cat="keji" data-summary="大卫·罗宾逊（ David Robinson ）自己承认，他“有些陈词滥调” ：一家领先的人工智能公司的员工在辞职时发出可怕的警告。" data-title="OpenAI安全员工辞职，声称公司的“文化被打破”" data-date="10-04 00:30" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/" target="_blank" rel="noopener" data-cat="keji" data-summary="大卫·罗宾逊（ David Robinson ）自己承认，他“有些陈词滥调” ：一家领先的人工智能公司的员工在辞职时发出可怕的警告。" data-title="OpenAI safety employee resigns, claiming the company’s ‘culture is broken’" data-date="10-04 00:30" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
           <span class="news-item-date">10-04 00:30</span>
           <span class="news-item-title">OpenAI安全员工辞职，声称公司的“文化被打破”</span>
+          <span class="news-item-title-en">OpenAI safety employee resigns, claiming the company’s ‘culture is broken’</span>
           <span class="news-value-point">💡 大卫·罗宾逊（ David Robinson ）自己承认，他“有些陈词滥调” ：一家领先的人工智能公司的员工在辞职时发出可怕的警告</span>
         </a>
         <a class="news-item" href="https://www.ithome.com/1/009/580.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 Mate 90 系列手机正式发布。其中，Mate 90 Pro Max / RS 非凡大师搭载的是首款逻辑折叠 τ 芯片 —— 麒麟 9050 Pro。根据华为官方介绍，麒麟 9050 Pro 是麒麟性能新巅峰，通过软硬芯云垂直整合，整机性能提升 31%。这枚芯片 CPU 还支持 9 核 16 线程超线程技术，多核性能提升 23%、GPU 渲染性能提升 40%、NPU 性能提升 140%。极客湾发布了一期针对华为 Mate 90 Pro Max 的性能分析报告，讲解了麒麟 9050 Pro 的逻辑折叠是如何实现，并公开了 Mate 90 Pro Max 的实际性能续航表现。需要" data-title="华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型" data-date="10-04 00:20" data-source="IT之家">
@@ -256,11 +271,12 @@ title: 热点新闻
           <span class="news-item-title">华为 Mate 90 Pro Max 性能解禁：搭载麒麟 9050 Pro，部分游戏能效优于第五代骁龙 8 至尊版机型</span>
           <span class="news-value-point">💡 IT之家 10 月 4 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 Mate 90 系列手机正式…</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道， Elon Musk和台积电讨论了Terafab项目中的多个合作机会。" data-title="Elon Musk确认与台积电就Terafab芯片制造合作进行讨论" data-date="10-03 22:50" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道， Elon Musk和台积电讨论了Terafab项目中的多个合作机会。" data-title="Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration" data-date="10-03 22:50" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">10-03 22:50</span>
           <span class="news-item-title">Elon Musk确认与台积电就Terafab芯片制造合作进行讨论</span>
+          <span class="news-item-title-en">Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration</span>
           <span class="news-value-point">💡 据报道， Elon Musk和台积电讨论了Terafab项目中的多个合作机会</span>
         </a>
         <a class="news-item" href="https://www.ithome.com/1/009/576.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 3 日消息，海马云 (haimacloud) 近日推出了 haimacloud GEAR 端云混合掌机。其本地采用高通骁龙 865 移动平台，运行 Android 13 操作系统，支持海马云的云游戏服务。该掌机拥有 8GB + 128GB 的存储器组合，搭配 7&quot; FHD 144Hz 2ms 800nits OLED 屏幕，内置 8000mAh 电池，具备主动散热、TMR 摇杆、霍尔扳机、机械微动按键、六轴体感，ABXY 为模块化设计，支持 Wi-Fi 6 &amp; BT 5.1，质量 450g。IT之家获悉，配套的云游戏服务基于英特尔酷睿 i7-12700KF 处理器、&quot;70&quot; 级 NVIDIA GeForce RTX 显卡，支持 1080p 144FPS。haimaclou" data-title="海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元" data-date="10-03 22:47" data-source="IT之家">
@@ -270,32 +286,36 @@ title: 热点新闻
           <span class="news-item-title">海马云推出 haimacloud GEAR 端云混合掌机：高通骁龙 865，硬件首发价 3149 元</span>
           <span class="news-value-point">💡 IT之家 10 月 3 日消息，海马云 (haimacloud) 近日推出了 haimacloud GEAR 端云混合掌机</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm" target="_blank" rel="noopener" data-cat="keji" data-summary="大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告。本周，他辞去了职务，现在正在《大西洋月刊》的一篇社论中发表讲话。如果你对突然从木制品中走出来的每个人都感到有点愤世嫉俗，警告他们有多危险，这是可以理解的[…]" data-title="OpenAI安全员工已辞职并正在敲响警钟" data-date="10-03 22:31" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm" target="_blank" rel="noopener" data-cat="keji" data-summary="大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告。本周，他辞去了职务，现在正在《大西洋月刊》的一篇社论中发表讲话。如果你觉得有点愤世嫉俗是可以理解的" data-title="An OpenAI safety employee has quit and is sounding the alarm" data-date="10-03 22:31" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
           <span class="news-item-date">10-03 22:31</span>
           <span class="news-item-title">OpenAI安全员工已辞职并正在敲响警钟</span>
+          <span class="news-item-title-en">An OpenAI safety employee has quit and is sounding the alarm</span>
           <span class="news-value-point">💡 大卫·罗宾逊（ David Robinson ）曾在OpenAI的每个主要模型版本中撰写安全报告</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/" target="_blank" rel="noopener" data-cat="keji" data-summary="我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。" data-title="所有可以存在于您的短信中的人工智能代理" data-date="10-03 22:00" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/" target="_blank" rel="noopener" data-cat="keji" data-summary="我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表。" data-title="All the AI agents that can live in your text messages" data-date="10-03 22:00" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
           <span class="news-item-date">10-03 22:00</span>
           <span class="news-item-title">所有可以存在于您的短信中的人工智能代理</span>
+          <span class="news-item-title-en">All the AI agents that can live in your text messages</span>
           <span class="news-value-point">💡 我们创建了一个列表，列出了可以在短信中出现的最著名的人工智能客服代表，从一般助理到专为家庭、旅行和工作而设计的客服代表</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety" target="_blank" rel="noopener" data-cat="keji" data-summary="本周在Tom&#39;s Hardware Premium上，我们通过免费访问的芯片设计周打开了闸门，包括专家访谈、与OpenAI坐下来讨论其定制ASIC等等。" data-title="本周Tom&#39;s Hardware Premium ： 2026年10月3日" data-date="10-03 22:00" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety" target="_blank" rel="noopener" data-cat="keji" data-summary="本周在Tom&#39;s Hardware Premium上，我们通过免费访问的芯片设计周打开了闸门，包括专家访谈、与OpenAI坐下来讨论其定制ASIC等等。" data-title="This week on Tom&#39;s Hardware Premium: October 3, 2026" data-date="10-03 22:00" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">10-03 22:00</span>
           <span class="news-item-title">本周Tom's Hardware Premium ： 2026年10月3日</span>
+          <span class="news-item-title-en">This week on Tom's Hardware Premium: October 3, 2026</span>
           <span class="news-value-point">💡 本周在Tom's Hardware Premium上，我们通过免费访问的芯片设计周打开了闸门，包括专家访谈、与OpenAI坐下来讨论其定制ASI…</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen" target="_blank" rel="noopener" data-cat="keji" data-summary="Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍。" data-title="随着缓存提示爆炸，人工智能代理使用的代币数量比人类多5倍，达到10倍" data-date="10-03 21:10" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen" target="_blank" rel="noopener" data-cat="keji" data-summary="Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍。" data-title="AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x" data-date="10-03 21:10" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">10-03 21:10</span>
           <span class="news-item-title">随着缓存提示爆炸，人工智能代理使用的代币数量比人类多5倍，达到10倍</span>
+          <span class="news-item-title-en">AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x</span>
           <span class="news-value-point">💡 Daniel Newman的数据来自OpenRouter数据，其中代理商在2月份超过了人类，并在8月份增长了14倍</span>
         </a>
         <a class="news-item" href="https://www.qbitai.com/2026/10/501381.html" target="_blank" rel="noopener" data-cat="keji" data-summary="岗位JD甩了篇技术报告" data-title="DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师" data-date="10-03 15:54" data-source="量子位">
@@ -305,20 +325,21 @@ title: 热点新闻
           <span class="news-item-title">DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师</span>
           <span class="news-value-point">💡 岗位JD甩了篇技术报告</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/413.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="10 月 3 日晚更新埃隆 · 马斯克亲承已就相关事宜与台积电进行交涉。原文IT之家 10 月 3 日消息，科技媒体人 Tim Culpan（高鸣璨）今日爆料称，台积电 (TSMC) 正在探索与 Elon Musk（埃隆 · 马斯克）旗下 Terafab 晶圆厂的合作事宜。IT之家注意到，Terafab 此前已与 Intel（英特尔）达成合作；近来有风声传出台积电考虑在美国设立第二园区，Terafab 所在的得克萨斯州是最可能的落脚点。" data-title="（更新：埃隆 · 马斯克确认谈判）传台积电探索与 Terafab 合作事宜" data-date="10-03 10:55" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 10:55</span>
-          <span class="news-item-title">（更新：埃隆 · 马斯克确认谈判）传台积电探索与 Terafab 合作事宜</span>
-          <span class="news-value-point">💡 10 月 3 日晚更新埃隆 · 马斯克亲承已就相关事宜与台积电进行交涉</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">4 条</span>
+      <span class="news-category-count">3 条</span>
     </div>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这些空间既是对贪婪时代的谴责，也是对英超联赛追求正义的致敬在2014年联赛杯决赛中场休息时，桑德兰以1比0领先曼城。Yaya Touré与休闲明亮的30码相媲美" data-title="Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson" data-date="10-04 03:00" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">10-04 03:00</span>
+          <span class="news-item-title">让奖杯上有空白而不是曼城的名字：那里没有荣誉|乔纳森·威尔逊</span>
+          <span class="news-item-title-en">Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson</span>
+          <span class="news-value-point">💡 这些空间既是对贪婪时代的谴责，也是对英超联赛追求正义的致敬在2014年联赛杯决赛中场休息时，桑德兰以1比0领先曼城</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/577.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 10 月 3 日消息，2026 爱知-名古屋亚运会男足三四名决赛，中国队在常规时间内 2 比 2 战平乌兹别克斯坦队。点球大战中，中国队 4 比 3 取胜，获得本次亚运会男足比赛铜牌。上半场，中国队胡荷韬破门。半场结束，中国男足与对手 1-1 战平。下半场，中国队王钰栋破门。90 分钟双方战成 2-2。这也是中国队时隔 28 年再次获得亚运会男足比赛铜牌！也是亚运会男足项目实行 U23 年龄限制后，中国队首次获得奖牌。IT之家查询获悉，中国男足曾在 1994 年广岛亚运会上获得银牌，并于 1978 年、1998 年两次获得铜牌。本届比赛，中国队时隔 28 年再次闯入亚运会男足四强，并最终登上领奖台。另外，今年 1 月，在 2026 年 U23 亚洲杯半决赛中，中国 U23 男足以" data-title="点球大战制胜！国足击败乌兹别克斯坦队，时隔 28 年再夺亚运会男足比赛铜牌" data-date="10-03 22:51" data-source="IT之家">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -326,26 +347,13 @@ title: 热点新闻
           <span class="news-item-title">点球大战制胜！国足击败乌兹别克斯坦队，时隔 28 年再夺亚运会男足比赛铜牌</span>
           <span class="news-value-point">💡 IT之家 10 月 3 日消息，2026 爱知-名古屋亚运会男足三四名决赛，中国队在常规时间内 2 比 2 战平乌兹别克斯坦队</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="《卫报》了解到， Rui Pinto在葡萄牙面临证人保护的损失有关城市事务的更多文件可能会提供Rui Pinto ，他的泄密有助于引发英超联赛对曼城金融事务的调查，他准备帮助英国当局处理法律案件，以换取免受威胁的保护。尽管周五发起了众筹活动，为离开公关后的新生活提供资金" data-title="曼城举报人随时准备为英国当局提供帮助，以换取保护" data-date="10-03 19:12" data-source="卫报">
+        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Rui Pinto在葡萄牙面临证人保护的损失有关城市事务的更多文件可能会提供Rui Pinto ，他的泄密有助于引发英超对曼城金融事务的调查，他准备帮助" data-title="Manchester City whistleblower ready to help UK authorities in return for protection" data-date="10-03 19:12" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
           <span class="news-item-date">10-03 19:12</span>
           <span class="news-item-title">曼城举报人随时准备为英国当局提供帮助，以换取保护</span>
-          <span class="news-value-point">💡 《卫报》了解到， Rui Pinto在葡萄牙面临证人保护的损失有关城市事务的更多文件可能会提供Rui Pinto ，他的泄密有助于引发英超联赛对…</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c65y51nvn24wo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="卢顿镇经理杰克·威尔希尔（ Jack Wilshere ）讲述了他回到8岁时开始的地方，以及他从阿森纳时期学到的经验教训。" data-title="向Arteta学习并激励年轻人- Wilshere的管理" data-date="10-03 13:19" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-03 13:19</span>
-          <span class="news-item-title">向Arteta学习并激励年轻人- Wilshere的管理</span>
-          <span class="news-value-point">💡 卢顿镇经理杰克·威尔希尔（ Jack Wilshere ）讲述了他回到8岁时开始的地方，以及他从阿森纳时期学到的经验教训</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在安迪·伯纳姆（ Andy Burnham ）谈到英国在撒切尔（ Thatcher ）统治下的错误转折点的那一天，足球正面临着对自己收购企业的故事进行清算的日子。不知何故，周二对曼城的诅咒裁决落入了工党大会的核心，在安迪·伯纳姆（ Andy Burnham ）狂热地接受了总理的演讲之后。我在那里，阅读了令人惊讶的40页调查结果–曼城创造了“" data-title="曼城的有罪判决给足球带来了巨大的抛售崩溃" data-date="10-03 13:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-03 13:00</span>
-          <span class="news-item-title">曼城的有罪判决给足球带来了巨大的抛售崩溃</span>
-          <span class="news-value-point">💡 在安迪·伯纳姆（ Andy Burnham ）谈到英国在撒切尔（ Thatcher ）统治下的错误转折点的那一天，足球正面临着对自己收购企业的故…</span>
+          <span class="news-item-title-en">Manchester City whistleblower ready to help UK authorities in return for protection</span>
+          <span class="news-value-point">💡 Rui Pinto在葡萄牙面临证人保护的损失有关城市事务的更多文件可能会提供Rui Pinto ，他的泄密有助于引发英超对曼城金融事务的调查，他…</span>
         </a>
   </div>
   <div class="news-category">
@@ -354,111 +362,111 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707819.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="头顶是新疆艾德莱斯绸铺展出的斑斓色彩，" data-title="星巴克来到新疆，成为“星巴扎”" data-date="10-04 15:24" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 15:24</span>
+          <span class="news-item-title">星巴克来到新疆，成为“星巴扎”</span>
+          <span class="news-value-point">💡 头顶是新疆艾德莱斯绸铺展出的斑斓色彩，</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/657.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 4 日消息，10 月 3 日晚间，一乘客被小马智行无人驾驶车门夹住手指的视频流出，引发广泛关注。▲ 网传视频截图对此，小马智行方面回应新浪科技称：“10 月 3 日，一位乘客在上车时，被同行人手动关闭车门不慎夹住手指。事发后我们第一时间协助处置并配合交警调查。交警在查看过我司提供的事件完整视频后，认定属意外事件，非交通事故。”“我们协助乘客及时就医，经检查乘客并无大碍，现已返家休息。我们将持续跟进，并提供必要支持。”小马智行方面表示。IT之家注意到，小马智行核心业务包括自动驾驶出行服务（Robotaxi）、自动驾驶卡车服务（Robotruck）以及智能解决方案三大板块，目前已在中国、美国、欧洲等多个市场推进商业化落地。公司目标 2026 年底前将自动驾驶出租车车队规模扩大" data-title="小马智行回应乘客被夹手事件：已配合交警调查，属意外而非交通事故" data-date="10-04 15:20" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-04 15:20</span>
+          <span class="news-item-title">小马智行回应乘客被夹手事件：已配合交警调查，属意外而非交通事故</span>
+          <span class="news-value-point">💡 IT之家 10 月 4 日消息，10 月 3 日晚间，一乘客被小马智行无人驾驶车门夹住手指的视频流出，引发广泛关注</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/653.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 4 日消息，特斯拉一项巧妙的全新灯光功能已经开始向用户车辆推送。在海外近期的软件更新（包括 2026.38 版本）当中，特斯拉悄然开启了一项尚未对外正式发布的功能测试：动态大灯水平调节（Dynamic Headlight Leveling）。经追踪发现，该功能目前仅向极少数车辆推送，覆盖美国、阿联酋等多个地区。本次推送并不限定单一车型，Model 3 以及 Cybertruck 上都已经出现这项新功能。特斯拉对该功能的说明文字如下：近光灯将会根据行驶工况以及周边车流自动调整照射角度，尽可能提升驾驶者视野，同时避免对其他道路使用者造成眩光。动态大灯水平调节的工作原理传统车型的大灯照射角度一般需要人工设置。不少欧洲车型的仪表台上或者拨杆处配有滚轮旋钮；当后备箱装载重物之后，驾" data-title="特斯拉悄然测试动态大灯水平调节功能：近光灯可根据车身姿态自动修正照射角度" data-date="10-04 15:07" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-04 15:07</span>
+          <span class="news-item-title">特斯拉悄然测试动态大灯水平调节功能：近光灯可根据车身姿态自动修正照射角度</span>
+          <span class="news-value-point">💡 IT之家 10 月 4 日消息，特斯拉一项巧妙的全新灯光功能已经开始向用户车辆推送</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707801.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网青岛10月4日电 (王禹)国庆假期，山东省胶州市洋河镇曹家庄里游人往来穿梭。恰逢当地慢生活体验季，这座有着近300年历史的古村落迎来客流高峰，丰收市集的吆喝声、民宿院落的欢笑声交织成一片，晒秋拼豆、非遗手作轮番上演，乡村慢生活体验游悄然兴起。" data-title="山东百年古村落焕新颜 乡村慢生活体验游兴起" data-date="10-04 14:16" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 14:16</span>
+          <span class="news-item-title">山东百年古村落焕新颜 乡村慢生活体验游兴起</span>
+          <span class="news-value-point">💡 中新网青岛10月4日电 (王禹)国庆假期，山东省胶州市洋河镇曹家庄里游人往来穿梭</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707793.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="10月4日20时29分，将迎来2026年度的土星冲日。从地球上看，这是土星最亮、视面最大的时刻。傍晚时分，天文爱好者看向东方，肉眼能找到这颗金黄色的亮星。" data-title="今晚抬头 看土星冲日！“指环王”的风采别错过" data-date="10-04 13:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 13:51</span>
+          <span class="news-item-title">今晚抬头 看土星冲日！“指环王”的风采别错过</span>
+          <span class="news-value-point">💡 10月4日20时29分，将迎来2026年度的土星冲日</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707763.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社浙江丽水10月4日电 题：“乡创客”进山大显身手 浙江古村稻海飘香迎新颜" data-title="（走进中国乡村）“乡创客”进山大显身手 浙江古村稻海飘香迎新颜" data-date="10-04 12:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 12:40</span>
+          <span class="news-item-title">（走进中国乡村）“乡创客”进山大显身手 浙江古村稻海飘香迎新颜</span>
+          <span class="news-value-point">💡 中新社浙江丽水10月4日电 题：“乡创客”进山大显身手 浙江古村稻海飘香迎新颜</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707762.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="视频：【理响中国·理论打卡点】老手艺，火起来！非遗经济正当红来源：人民论坛网" data-title="【理响中国·理论打卡点】老手艺，火起来！非遗经济正当红" data-date="10-04 12:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 12:27</span>
+          <span class="news-item-title">【理响中国·理论打卡点】老手艺，火起来！非遗经济正当红</span>
+          <span class="news-value-point">💡 视频：【理响中国·理论打卡点】老手艺，火起来</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707760.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="视频：先生︱他花23年，为祖国山河“钉”下“金钉子”来源：央广网" data-title="先生︱他花23年，为祖国山河“钉”下“金钉子”" data-date="10-04 12:04" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 12:04</span>
+          <span class="news-item-title">先生︱他花23年，为祖国山河“钉”下“金钉子”</span>
+          <span class="news-value-point">💡 视频：先生︱他花23年，为祖国山河“钉”下“金钉子”来源：央广网</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6pwg8wkk951o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="周六，由于政府未能使紧急立法在议会获得通过，爆发了 50 多起抗议活动。" data-title="西班牙数万人上街游行：抗议住房危机 扎营占领马德里市中心" data-date="10-04 12:01" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-04 12:01</span>
+          <span class="news-item-title">西班牙数万人上街游行：抗议住房危机 扎营占领马德里市中心</span>
+          <span class="news-value-point">💡 周六，由于政府未能使紧急立法在议会获得通过，爆发了 50 多起抗议活动</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707740.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新华社福州10月3日电(记者韦晓睿、郭圻)凉爽的海风拂过木麻黄林，木栈道尽头，视线豁然开朗，大海、沙滩和蓝天尽收眼底。浙江游客雷婉婷举起手机拍下这一幕说：“幽静得很，有种回到大自然的感觉。”" data-title="奔“县”游丨在海岛小城，体验“靠山面海”慢生活" data-date="10-04 11:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:17</span>
+          <span class="news-item-title">奔“县”游丨在海岛小城，体验“靠山面海”慢生活</span>
+          <span class="news-value-point">💡 新华社福州10月3日电(记者韦晓睿、郭圻)凉爽的海风拂过木麻黄林，木栈道尽头，视线豁然开朗，大海、沙滩和蓝天尽收眼底</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707737.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="央视网消息：如果说馆藏典籍是读懂中国的钥匙，那么中央民族大学图书馆的万千文献就藏着中华民族多元一体、交融共生的历史密码，实证着各民族休戚与共、同心报国的千年脉络。" data-title="校馆弦歌·此间读中国 | 万卷藏珍续文脉 青春接力育新人" data-date="10-04 11:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:13</span>
+          <span class="news-item-title">校馆弦歌·此间读中国 | 万卷藏珍续文脉 青春接力育新人</span>
+          <span class="news-value-point">💡 央视网消息：如果说馆藏典籍是读懂中国的钥匙，那么中央民族大学图书馆的万千文献就藏着中华民族多元一体、交融共生的历史密码，实证着各民族休戚与共、同…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-04/10707733.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社北京10月4日电 题：演员许文广：冀以更多承载民族记忆、饱含家国情怀的作品联结两岸" data-title="演员许文广：冀以更多承载民族记忆、饱含家国情怀的作品联结两岸" data-date="10-04 11:10" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-04 11:10</span>
+          <span class="news-item-title">演员许文广：冀以更多承载民族记忆、饱含家国情怀的作品联结两岸</span>
+          <span class="news-value-point">💡 中新社北京10月4日电 题：演员许文广：冀以更多承载民族记忆、饱含家国情怀的作品联结两岸</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ck20w70p4n5wo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="多家媒体报道称，试图劫持飞往以色列的飞机的男子名叫哈马姆·哈马米。" data-title="迪拜航空劫机案：阿联酋官员称副驾驶用应急斧头砍伤机长" data-date="10-04 10:44" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-04 10:44</span>
+          <span class="news-item-title">迪拜航空劫机案：阿联酋官员称副驾驶用应急斧头砍伤机长</span>
+          <span class="news-value-point">💡 多家媒体报道称，试图劫持飞往以色列的飞机的男子名叫哈马姆·哈马米</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="《纽约时报》获得的摘要详细介绍了被指控对康奈尔大学同学进行性侵犯的男子受到的纪律处分。" data-title="How Cornell Punished Each of the 7 Men Accused of Sexual Assault" data-date="10-04 10:43" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-04 10:43</span>
+          <span class="news-item-title">康奈尔大学如何惩罚7名被控性侵犯的男子</span>
+          <span class="news-item-title-en">How Cornell Punished Each of the 7 Men Accused of Sexual Assault</span>
+          <span class="news-value-point">💡 《纽约时报》获得的摘要详细介绍了被指控对康奈尔大学同学进行性侵犯的男子受到的纪律处分</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707715.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="国庆假期，云南省德宏傣族景颇族自治州梁河县备好了一场民族文化的盛宴：热烈奔放的目瑙纵歌、穿越时光的庭院剧、充满野趣的稻花鱼体验、烟火氤氲的古镇美食、惬意畅快的山野徒步……" data-title="“甜蜜业态”婚旅：让新人把“我愿意”说给山海听" data-date="10-04 09:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-04 09:57</span>
           <span class="news-item-title">“甜蜜业态”婚旅：让新人把“我愿意”说给山海听</span>
           <span class="news-value-point">💡 国庆假期，云南省德宏傣族景颇族自治州梁河县备好了一场民族文化的盛宴：热烈奔放的目瑙纵歌、穿越时光的庭院剧、充满野趣的稻花鱼体验、烟火氤氲的古镇美…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707713.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="国庆小长假来临，不少人选择了出境旅游。无论是出境还是入境，都要绷紧生物安全这根弦，这些红线千万不能踩！" data-title="出境游必看！这些东西不能随意带……" data-date="10-04 09:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:50</span>
-          <span class="news-item-title">出境游必看！这些东西不能随意带……</span>
-          <span class="news-value-point">💡 国庆小长假来临，不少人选择了出境旅游</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707712.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网郴州10月4日电 (徐志雄 刘翔宇)“像我们在外漂泊的游子，每次逢年过节回家乡都要带着自己的孩子，到红军墓来看一看。”又到一年国庆假期，湖南郴州北湖区仰天湖瑶族乡瑞金村村民刘诗斌再度邀上三两发小，相约来到村背山上的无名红军烈士墓，为91年前长眠于此的7名烈士扫墓，缅怀先烈。" data-title="（长征胜利90周年）湖南郴州瑞金村接力守护红军烈士墓 红色故事带动瑶乡振兴" data-date="10-04 09:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:49</span>
-          <span class="news-item-title">（长征胜利90周年）湖南郴州瑞金村接力守护红军烈士墓 红色故事带动瑶乡振兴</span>
-          <span class="news-value-point">💡 中新网郴州10月4日电 (徐志雄 刘翔宇)“像我们在外漂泊的游子，每次逢年过节回家乡都要带着自己的孩子，到红军墓来看一看</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707711.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网10月4日电 据中央气象台网站消息，昨日，江西、湖南、贵州、广西等地出现较强降雨，内蒙古、河北等地出现大风或降温天气。预计4日至5日，内蒙古中东部、华北、黄淮、江汉及东部、南部海区风力较大，东北地区局地降水较强，关注对人体健康、交通出行、农牧业及沿海养殖、海上航行等的影响。4日，贵州、云南、广西、广东、福建、海南局地仍有较强降雨，关注对假期旅游、交通出行、秋收等的影响，防范可能引发的山洪、地质灾害。" data-title="贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气" data-date="10-04 09:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:49</span>
-          <span class="news-item-title">贵州广西云南湖南广东等地有较强降水 中东部地区有大风降温天气</span>
-          <span class="news-value-point">💡 中新网10月4日电 据中央气象台网站消息，昨日，江西、湖南、贵州、广西等地出现较强降雨，内蒙古、河北等地出现大风或降温天气</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707709.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网贺州10月4日电(韦佳秀 贝琲 廖法丽)国庆假期，广西贺州市多地推出特色夜间文旅活动，篝火金曲晚会、音乐节轮番上演，山水夜景与文化演出深度交融，为市民与八方游客打造沉浸式假日体验，持续激活地方夜间文旅消费活力。" data-title="广西贺州国庆假期多元活动激活夜间消费市场" data-date="10-04 09:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 09:47</span>
-          <span class="news-item-title">广西贺州国庆假期多元活动激活夜间消费市场</span>
-          <span class="news-value-point">💡 中新网贺州10月4日电(韦佳秀 贝琲 廖法丽)国庆假期，广西贺州市多地推出特色夜间文旅活动，篝火金曲晚会、音乐节轮番上演，山水夜景与文化演出深度…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-04/10707682.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网西安10月4日电 (记者 阿琳娜)陕西省推出“金秋银龄·惠享三秦”旅居养老消费补贴活动。从10月1日至12月31日，60岁及以上老年人在陕跨县域旅居，可享每人每天30元至50元的专项消费补贴，单人单次最高补贴不超过500元。" data-title="陕西省推出旅居养老消费补贴活动" data-date="10-04 08:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 08:49</span>
-          <span class="news-item-title">陕西省推出旅居养老消费补贴活动</span>
-          <span class="news-value-point">💡 中新网西安10月4日电 (记者 阿琳娜)陕西省推出“金秋银龄·惠享三秦”旅居养老消费补贴活动</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-04/10707676.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据印尼气象、气候和地球物理局消息，当地时间10月4日5时55分，印尼东努沙登加拉省西南松巴县西南14公里处发生6.1级地震，震源深度为10公里。" data-title="印尼东努沙登加拉省发生6.1级地震 震源深度10公里" data-date="10-04 07:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-04 07:29</span>
-          <span class="news-item-title">印尼东努沙登加拉省发生6.1级地震 震源深度10公里</span>
-          <span class="news-value-point">💡 据印尼气象、气候和地球物理局消息，当地时间10月4日5时55分，印尼东努沙登加拉省西南松巴县西南14公里处发生6.1级地震，震源深度为10公里</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october" target="_blank" rel="noopener" data-cat="zonghe" data-summary="现在还不到10月，亚马逊已经在自己的硬件上提供一些Prime Big Deal Day折扣，以及许多其他受欢迎的产品。这一切都是为了宣传10月黄金日，从10月6日美国东部时间凌晨3点开始，如果你在东部，则持续到8日美国东部时间凌晨3点[…]" data-title="目前最优惠的10月初黄金日优惠" data-date="10-04 00:22" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-04 00:22</span>
-          <span class="news-item-title">目前最优惠的10月初黄金日优惠</span>
-          <span class="news-value-point">💡 现在还不到10月，亚马逊已经在自己的硬件上提供一些Prime Big Deal Day折扣，以及许多其他受欢迎的产品</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/03/us/tennessee-prison-commissioner-resigns-christa-pike.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="弗兰克·斯特拉达（ Frank Strada ）负责监督导致克里斯塔·派克（ Christa Pike ）昏迷并住院治疗的过程，随着独立审查的开始，他辞" data-title="Tennessee Commissioner Resigns After Failed Execution of Christa Pike" data-date="10-04 00:17" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-04 00:17</span>
-          <span class="news-item-title">田纳西州专员在克里斯塔·派克处决失败后辞职</span>
-          <span class="news-item-title-en">Tennessee Commissioner Resigns After Failed Execution of Christa Pike</span>
-          <span class="news-value-point">💡 弗兰克·斯特拉达（ Frank Strada ）负责监督导致克里斯塔·派克（ Christa Pike ）昏迷并住院治疗的过程，随着独立审查的开…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/579.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，据交通运输部动态研判，10 月 4 日，全国高速公路有 33 个路段易发拥堵，主要集中在江苏、四川、广东、湖南、浙江等省份。如计划途经这些路段，请合理安排出行时间和路线。序号省份城市路线编号路线名称起点桩号止点桩号方向1江苏南京市G25长深高速K2152K2094下行2江苏无锡市G2京沪高速K1091K1121上行3江苏无锡市S48沪宜高速K134K171上行4江苏常州市G4221沪武高速K196K166下行5江苏南通市G15沈海高速K1180K1219上行6江苏淮安市G1516盐洛高速K220K187下行7江苏盐城市G15沈海高速K954K984上行8江苏盐城市G15沈海高速K1076K1147上行9江苏扬州市G2京沪高速K893K933上行10江苏镇江市G" data-title="明日出行请注意，交通运输部提示 33 个高速公路路段易发拥堵" data-date="10-03 23:27" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 23:27</span>
-          <span class="news-item-title">明日出行请注意，交通运输部提示 33 个高速公路路段易发拥堵</span>
-          <span class="news-value-point">💡 IT之家 10 月 3 日消息，据交通运输部动态研判，10 月 4 日，全国高速公路有 33 个路段易发拥堵，主要集中在江苏、四川、广东、湖南、…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/578.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，泰坦军团旗下“P2511G+”24.5 英寸显示器现已在京东发售，该机主打 1080P 215Hz 超频，定价为 509 元，部分地区国补后低至 483.55 元。京东泰坦军团 P2511G+ 显示器 509 元直达链接该机配备一块 1920x1080 分辨率 215Hz 超频（原生 200Hz）Fast IPS 面板，显示器亮度 400 尼特，GtG 响应速度 1ms，显示器支持 8-Bit 色彩，覆盖 99% sRGB 色域。该机支架支持俯仰，显示器本体支持 VESA 100x100mm 壁挂，提供 1 个 HDMI 2.0、1 个 DP1.4、1 个 3.5mm 音频接口。IT之家附显示器参数如下：" data-title="泰坦军团“P2511G+”24.5 英寸显示器发售：1080P 215Hz 超频，509 元" data-date="10-03 23:18" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 23:18</span>
-          <span class="news-item-title">泰坦军团“P2511G+”24.5 英寸显示器发售：1080P 215Hz 超频，509 元</span>
-          <span class="news-value-point">💡 IT之家 10 月 3 日消息，泰坦军团旗下“P2511G+”24.5 英寸显示器现已在京东发售，该机主打 1080P 215Hz 超频，定价为…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview" target="_blank" rel="noopener" data-cat="zonghe" data-summary="卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环。从服务中提取的样品已经成为Lisa的“Money”和Sabrina Carpenter的“Espresso”等热门歌曲。（原始样品在这里和这里，为了好奇。）在此之前， Kakul曾担任行政职务[…]" data-title="Splice首席执行官Kakul Srivastava认为人工智能电子邮件正在扼杀对话" data-date="10-03 23:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-03 23:00</span>
-          <span class="news-item-title">Splice首席执行官Kakul Srivastava认为人工智能电子邮件正在扼杀对话</span>
-          <span class="news-value-point">💡 卡库尔·斯里瓦斯塔瓦（ Kakul Srivastava ）是Splice的首席执行官，无数制片人依靠这个样品平台进行一次性拍摄和旋律循环</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在Newegg的Fantastech Sale II于10月5日推出之前，如果产品价格在销售中下跌，您可以抓住一些早期交易并获得价格保护安全。" data-title="在亚马逊大促销日之前，在Newegg的Fantastech促销活动中查找技术优惠--如果硬件价格下跌，早期购物者将获得自动退款" data-date="10-03 22:40" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-03 22:40</span>
-          <span class="news-item-title">在亚马逊大促销日之前，在Newegg的Fantastech促销活动中查找技术优惠--如果硬件价格下跌，早期购物者将获得自动退款</span>
-          <span class="news-value-point">💡 在Newegg的Fantastech Sale II于10月5日推出之前，如果产品价格在销售中下跌，您可以抓住一些早期交易并获得价格保护安全</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/574.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 3 日消息，MINISFORUM（铭凡）此前公布的 MS-01 SE 迷你工作站现已在电商平台销售，包含英特尔酷睿 i5-12600H、32GB DDR4 内存、1TB SSD 存储的完整配置到手价 6,399 元。京东铭凡 MS-01 SE 迷你工作站 6399 元直达链接MS-01 SE 整体设计与原版 MS-01 类似，但存在多处降级或调整：内部的 PCIe Gen4 插槽仅支持 4 通道；后部的 2 个 10GbE SFP+ 被替换为 USB-A 480Mbps；无线网卡改为联发科技 MT7902 (Wi-Fi 6E &amp; BT 5.2)。其内置 3 个 M.2 2280 盘位，分别支持 PCIe Gen4 ×4、Gen3 ×4、Gen3 ×2，拥有 2 个 USB" data-title="铭凡 MS-01 SE 迷你工作站上市，12600H + 32GB + 1TB 到手 6399 元" data-date="10-03 22:28" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-03 22:28</span>
-          <span class="news-item-title">铭凡 MS-01 SE 迷你工作站上市，12600H + 32GB + 1TB 到手 6399 元</span>
-          <span class="news-value-point">💡 IT之家 10 月 3 日消息，MINISFORUM（铭凡）此前公布的 MS-01 SE 迷你工作站现已在电商平台销售，包含英特尔酷睿 i5-1…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-03/10707661.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社乌鲁木齐10月3日电 (胡嘉琛)“我来新疆旅游，得知这里开了首店，就来打卡体验。”上海游客杜怡申3日在乌鲁木齐市接受中新社采访时说，她在星巴克点了一杯以新疆赛里木湖蓝色为创意灵感的饮品，选购了一个穿着新疆艾德莱斯绸服饰的玩偶，一切都很圆满。" data-title="美国咖啡品牌新疆开店受欢迎" data-date="10-03 22:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-03 22:09</span>
-          <span class="news-item-title">美国咖啡品牌新疆开店受欢迎</span>
-          <span class="news-value-point">💡 中新社乌鲁木齐10月3日电 (胡嘉琛)“我来新疆旅游，得知这里开了首店，就来打卡体验</span>
         </a>
   </div>
 </div>
@@ -591,4 +599,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-04 10:51（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-04 15:31（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
