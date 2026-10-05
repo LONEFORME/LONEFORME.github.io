@@ -195,6 +195,9 @@ RSS_FEEDS = [
     {"url": "https://www.chinanews.com.cn/rss/china.xml", "name": "中国新闻网(时政)"},
     {"url": "https://www.chinanews.com.cn/rss/world.xml", "name": "中国新闻网(国际)"},
     {"url": "https://www.chinanews.com.cn/rss/society.xml", "name": "中国新闻网(社会)"},
+    # 💰 专业财经金融独立源 (确保财经页面资讯充沛)
+    {"url": "https://www.ftchinese.com/rss/news", "name": "FT中文网"},
+    {"url": "https://www.bbc.co.uk/zhongwen/simp/business/index.xml", "name": "BBC商业财经"},
     # 🌐 国际权威媒体
     {"url": "https://www.bbc.co.uk/zhongwen/simp/index.xml", "name": "BBC 中文"},
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml", "name": "纽约时报"},
@@ -319,6 +322,8 @@ MARKET_INDICES = [
     {"name": "道琼斯工业指数", "code": "int_dji", "flag": "🇺🇸", "tag": "DJIA", "desc": "美股蓝筹风向标"},
     {"name": "富时100", "code": "int_ftse", "flag": "🇬🇧", "tag": "FTSE", "desc": "欧洲市场开盘参照"},
     {"name": "日经225", "code": "int_nikkei", "flag": "🇯🇵", "tag": "N225", "desc": "亚太早盘情绪指标"},
+    {"name": "标普500", "code": "int_sp500", "flag": "🇺🇸", "tag": "SPX", "desc": "美股大盘核心基准"},
+    {"name": "布伦特原油", "code": "hf_OIL", "flag": "🛢️", "tag": "OIL/USD", "desc": "全球大宗商品之母"},
 ]
 
 HOT_SECTORS = [
@@ -491,6 +496,7 @@ TREND_SOURCES = {
     "恒生指数": ("tencent", "hkHSI"),
     "纳斯达克100": ("tencent", "usNDX"),
     "道琼斯工业指数": ("tencent", "usDJI"),
+    "标普500": ("tencent", "usINX"),
     "美元/离岸人民币": ("sina_fx", "fx_susdcnh"),
 }
 
@@ -1664,6 +1670,9 @@ def build_finance_ticker_html(indices):
         elif idx["name"] == "国内现货黄金":
             price_str = f'¥{format_number(idx["current"], 2)} <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span>'
             change_str = f"{change_sign}{idx['change']:.2f} ({change_sign}{idx['change_pct']:.2f}%)"
+        elif idx["name"] == "布伦特原油":
+            price_str = f'${format_number(idx["current"], 2)} <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span>'
+            change_str = f"{change_sign}{idx['change']:.2f} ({change_sign}{idx['change_pct']:.2f}%)"
         else:
             price_str = format_number(idx["current"], 2)
             change_str = f"{change_sign}{idx['change_pct']:.2f}%"
@@ -1781,6 +1790,29 @@ title: 股票财经
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
   <span class="news-meta-item">🕐 数据更新于 {date_str}（北京时间）</span>
+</div>
+
+<!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
+<div class="tradingview-widget-container" style="margin: 20px 0 28px; border-radius: 10px; overflow: hidden; border: 1px solid var(--color-border); box-shadow: var(--shadow-sm);">
+  <div class="tradingview-widget-container__widget"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {{
+  "symbols": [
+    {{ "proName": "FOREXCOM:SPXUSD", "title": "S&P 500" }},
+    {{ "proName": "FOREXCOM:NSXUSD", "title": "Nasdaq 100" }},
+    {{ "proName": "FOREXCOM:DJI", "title": "Dow Jones" }},
+    {{ "proName": "INDEX:HSI", "title": "恒生指数" }},
+    {{ "proName": "FX_IDC:USDCNH", "title": "USD/CNH" }},
+    {{ "proName": "TVC:GOLD", "title": "Gold" }},
+    {{ "proName": "TVC:UKOIL", "title": "Brent Oil" }}
+  ],
+  "showSymbolLogo": true,
+  "isTransparent": true,
+  "displayMode": "adaptive",
+  "colorTheme": "dark",
+  "locale": "zh_CN"
+  }}
+  </script>
 </div>
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->

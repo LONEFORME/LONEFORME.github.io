@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-05 00:54 抓取更新</span>
+      <span>2026-10-05 14:14 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">45</span>
+        <span class="channel-count">41</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -33,11 +33,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
-        <span class="channel-count">14</span>
-      </button>
-      <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
-        <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">1</span>
+        <span class="channel-count">11</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,8 +52,8 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">45</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">41</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">6</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
   <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×20 · IT之家×8</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
@@ -83,19 +79,33 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这些空间既是对贪婪时代的谴责，也是对英超联赛追求正义的致敬在2014年联赛杯决赛中场休息时，桑德兰以1比0领先曼城。Yaya Touré与休闲明亮的30码相媲美" data-title="Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson" data-date="10-04 03:00" data-source="卫报">
-      <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-      </div>
-      <p class="hero-sub-title">Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson</p>
-    </a>
     <a class="hero-sub-card" href="https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这款无工具模块化杠杆式钱包是我手机上最酷的。还记得我测试过超薄和方便的OhSnap按扣支架，非常喜欢它，我自己买的吗？现在， OhSnap有一个磁力杠杆动作卡片钱包，" data-title="This toolless modular lever-action wallet is the coolest I’ve stuck to my phone" data-date="10-04 23:00" data-source="The Verge">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-theverge">🌐 The Verge</span>
       </div>
       <p class="hero-sub-title">This toolless modular lever-action wallet is the coolest I’ve stuck to my phone</p>
+    </a>
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/gj/2026/10-04/10707993.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="围绕驻日美军涉嫌杀人案，日本政府4日向美国提出抗议。事发地冲绳民众发出愤怒声音，认为美军基地的存在与日本政府的不作为导致类似犯罪事件不断发生。" data-title="冲绳民众就驻日美军涉嫌杀人案发出愤怒声音" data-date="10-04 22:57" data-source="中国新闻网">
+      <div class="hero-sub-meta">
+        <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+      </div>
+      <p class="hero-sub-title">冲绳民众就驻日美军涉嫌杀人案发出愤怒声音</p>
+    </a>
+    <a class="hero-sub-card" href="https://www.ithome.com/1/009/736.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 4 日消息，据 tomshardware 今日报道，一家机器人格斗公司在旧金山举办了一场人机格斗赛后，收到了加州政府发来的停止侵权禁令。加州州立体育委员会（CSAC）要求该公司停止举办、宣传或赞助这类未经审批的格斗赛事，并称在未取得许可的情况下组织此类活动属于轻罪。IT之家从报道获悉，这份停止令针对的是该公司在 2026 年 9 月 18 日赞助的一场人形机器人笼斗赛。油管博主弗兰基・拉彭纳（Frankie LaPenna）进入格斗笼，先后与三台不同的机器人对战。目前尚不清楚这场活动究竟属于体育竞赛还是营销噱头，但很明显，它是用来为 REK 机器人格斗平台博取更多关注度的。报道提到，历史上曾发生机器人致人死亡事件，1979 年的今天，美国工厂工人罗伯特・威廉姆斯成为首位死" data-title="机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动" data-date="10-04 23:22" data-source="IT之家">
+      <div class="hero-sub-meta">
+        <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+      </div>
+      <p class="hero-sub-title">机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动</p>
+    </a>
+    <a class="hero-sub-card" href="https://www.ithome.com/1/009/733.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 4 日消息，据交通运输部动态研判，10 月 5 日，全国高速公路预计有 30 个服务区充电特别繁忙，主要集中在河北、湖南、山西等省份，大家可通过“e 路畅通”微信小程序查询服务区充电桩运行状态。IT之家整理如下：序号省份所在城市服务区名称编号方向1河北唐山市唐海服务区G0111天津-沈阳2河北唐山市唐海服务区G0111沈阳-天津3河北唐山市唐山服务区S0105唐山-天津4河北唐山市乐亭服务区G0111秦皇岛-天津5河北唐山市乐亭服务区G0111天津-秦皇岛6河北秦皇岛市昌黎服务区G0111天津-秦皇岛7河北秦皇岛市抚宁服务区G0111沈阳-天津8河北秦皇岛市抚宁服务区G0111天津-沈阳9河北秦皇岛市昌黎服务区G0111秦皇岛-天津10河北沧州市东光服务区G3台北-北京1" data-title="10 月 5 日高速服务区充电特别繁忙清单公布，主要集中河北、湖南、山西等省份" data-date="10-04 22:48" data-source="IT之家">
+      <div class="hero-sub-meta">
+        <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+      </div>
+      <p class="hero-sub-title">10 月 5 日高速服务区充电特别繁忙清单公布，主要集中河北、湖南、山西等省份</p>
     </a>
   </div>
 </div>
@@ -216,7 +226,7 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
-      <span class="news-category-count">14 条</span>
+      <span class="news-category-count">11 条</span>
     </div>
         <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true" target="_blank" rel="noopener" data-cat="keji" data-summary="新泽西州副州长戴尔·考德威尔（ Dale Caldwell ）在调查发现他对一名工作人员进行了性骚扰并一再违反道德规则后，于9月25日被迫辞职。现任前任副州长一直在媒体上巡回报道" data-title="NJ’s lieutenant governor told PBS, AI says he didn’t commit sexual harassment" data-date="10-05 00:16" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -302,42 +312,6 @@ title: 热点新闻
           <span class="news-item-title">ChatGPT-6 Astra在短短六小时内破解了217年前的拿破仑密码</span>
           <span class="news-item-title-en">ChatGPT-6 Astra cracks 217-year-old Napoleonic code in just six hours</span>
           <span class="news-value-point">💡 一位人工智能工程师使用GPT-6 Astra揭示了自拿破仑战争以来从未被读取的密码的内容</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/501605.html" target="_blank" rel="noopener" data-cat="keji" data-summary="一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。" data-title="AI算力硬合作，马斯克还是更相信中国制造" data-date="10-04 14:12" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-04 14:12</span>
-          <span class="news-item-title">AI算力硬合作，马斯克还是更相信中国制造</span>
-          <span class="news-value-point">💡 一种混搭的可能：英特尔继续供先进工艺，即前端用14A</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/501506.html" target="_blank" rel="noopener" data-cat="keji" data-summary="什么是FDE？它会一直存在吗？" data-title="最火AI岗位FDE：月薪5万，都干这些…" data-date="10-04 14:05" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-04 14:05</span>
-          <span class="news-item-title">最火AI岗位FDE：月薪5万，都干这些…</span>
-          <span class="news-value-point">💡 什么是FDE</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/501451.html" target="_blank" rel="noopener" data-cat="keji" data-summary="专业3D模型反而更稀缺了" data-title="GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元" data-date="10-04 08:53" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-04 08:53</span>
-          <span class="news-item-title">GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元</span>
-          <span class="news-value-point">💡 专业3D模型反而更稀缺了</span>
-        </a>
-  </div>
-  <div class="news-category">
-    <div class="news-category-header">
-      <span class="category-flag">⚽</span>
-      <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">1 条</span>
-    </div>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这些空间既是对贪婪时代的谴责，也是对英超联赛追求正义的致敬在2014年联赛杯决赛中场休息时，桑德兰以1比0领先曼城。Yaya Touré与休闲明亮的30码相媲美" data-title="Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson" data-date="10-04 03:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-04 03:00</span>
-          <span class="news-item-title">让奖杯上有空白而不是曼城的名字：那里没有荣誉|乔纳森·威尔逊</span>
-          <span class="news-item-title-en">Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson</span>
-          <span class="news-value-point">💡 这些空间既是对贪婪时代的谴责，也是对英超联赛追求正义的致敬在2014年联赛杯决赛中场休息时，桑德兰以1比0领先曼城</span>
         </a>
   </div>
   <div class="news-category">
@@ -586,4 +560,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-05 00:54（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-05 14:14（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
