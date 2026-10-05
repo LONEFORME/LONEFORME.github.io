@@ -70,7 +70,7 @@ permalink: /slides/
     </div>
     <div class="card-body">
       <h3>3D 激光雷达 SLAM 算法推演与工程落地</h3>
-      <p>剖析 FAST-LIO / Point-LIO 状态估计原理与双算法互备；2D 驱动字节级修复、双脑架构、T265 复活记与三路网页三维可视化，含实机参数调优与避坑清单。</p>
+      <p>剖析 FAST-LIO / Point-LIO 状态估计原理与双算法互备；宇树 L1 ROS2 适配、双脑架构、T265 独立定位链与网页三维可视化，含实机参数调优与避坑清单。</p>
       <div class="card-tags">
         <span class="tag">算法剖析</span>
         <span class="tag">激光雷达</span>
@@ -78,6 +78,37 @@ permalink: /slides/
       </div>
       <div class="slide-action-row">
         <a href="/slides/lidar_slam_nav.html" target="_blank" class="card-link slide-play-btn">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+          立即在线放映 (全屏) ↗
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 演示稿 3：2D 激光雷达避障与 SLAM -->
+  <div class="card slide-deck-card">
+    <div class="slide-deck-preview" style="background: linear-gradient(135deg, #0e1e38 0%, #162a45 100%);">
+      <div class="slide-badge-top" style="background: rgba(0, 212, 255, 0.2); color: #00d4ff;">实战系统 · 11 页</div>
+      <div class="slide-mini-stage">
+        <div class="slide-mini-title" style="color: #64b5f6;">2D 激光雷达避障与 SLAM</div>
+        <div class="slide-mini-subtitle">镭神 N10P · 世界系立柱追踪 · 迟滞回差避障</div>
+        <div class="slide-mini-tags">
+          <span>镭神 N10P</span>
+          <span>世界系追踪</span>
+          <span>迟滞回差</span>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>2D 激光雷达避障与 SLAM · 无人机自主绕障全栈</h3>
+      <p>电赛立柱穿越场景的实战避障系统：坐标系融合、世界系时序滑窗立柱追踪、迟滞回差状态机、免 ROS 直驱与 16 项 pytest 全量回归。</p>
+      <div class="card-tags">
+        <span class="tag">避障状态机</span>
+        <span class="tag">镭神 N10P</span>
+        <span class="tag">SLAM 建图</span>
+      </div>
+      <div class="slide-action-row">
+        <a href="/slides/lidar_2d_nav.html" target="_blank" class="card-link slide-play-btn">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
           立即在线放映 (全屏) ↗
         </a>

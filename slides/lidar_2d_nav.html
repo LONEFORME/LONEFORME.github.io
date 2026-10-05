@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>3D 激光雷达 SLAM 与多传感器融合 · 项目介绍</title>
+  <title>2D 激光雷达避障与 SLAM · 项目介绍</title>
   <style>
     :root {
       --bg: #090d16;
@@ -321,13 +321,13 @@
     <!-- 第 1 页：封面 -->
     <section class="slide active" data-slide="1">
       <div class="cover-layout">
-        <div class="cover-badge">🛰️ 项目介绍 · PROJECT INTRODUCTION</div>
-        <h1 class="cover-title">3D 激光雷达 SLAM<br>与多传感器融合</h1>
-        <p class="cover-sub">FAST-LIO / Point-LIO 算法推演与工程落地 —— 紧耦合里程计 · 驱动级攻坚 · 双脑架构 · 网页三维可视化</p>
+        <div class="cover-badge">🛡️ 项目介绍 · PROJECT INTRODUCTION</div>
+        <h1 class="cover-title">2D 激光雷达避障与 SLAM<br>无人机自主绕障全栈</h1>
+        <p class="cover-sub">镭神 N10P · 世界系立柱追踪 · 迟滞回差避障 —— 坐标系融合 · 时序滑窗验证 · 状态机联动 · 免 ROS 直驱</p>
         <div class="cover-meta">
-          <div>3D 雷达：<span>宇树 L1 非重复扫描</span></div>
-          <div>视觉里程计：<span>Intel T265 · 200Hz</span></div>
-          <div>实战平台：<span>Radxa X4 (Intel N100)</span></div>
+          <div>感知核心：<span>镭神 N10P · 460800</span></div>
+          <div>定位参照：<span>T265 VIO 偏航角</span></div>
+          <div>质量保障：<span>16 项 pytest</span></div>
         </div>
       </div>
     </section>
@@ -339,438 +339,387 @@
         <div class="slide-tag">Problem &amp; Motivation</div>
       </div>
       <div class="slide-body">
-        <div class="grid-2">
-          <div class="info-card">
-            <div class="card-title">⚠️ 单一传感器的退化场景</div>
+        <div class="grid-3">
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
+            <div class="card-title" style="color: #e5484d;">1️⃣ 细立柱单帧点云极稀疏</div>
             <div class="card-desc">
               <ul>
-                <li><strong>轮式里程计打滑</strong>：地毯 / 湿滑地面速度积分漂移；</li>
-                <li><strong>视觉里程计失效</strong>：弱纹理白墙、玻璃反光、光照突变；</li>
-                <li><strong>纯 IMU 二次积分发散</strong>：加速度计噪声随时间平方级累积。</li>
+                <li>Φ2~5cm 立柱通常只有 1~2 个有效击中点；</li>
+                <li>传统聚类 min_samples≥3 会把它当噪点滤除；</li>
+                <li>阈值降为 1 又被粉尘反光虚警。</li>
               </ul>
             </div>
           </div>
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">🎯 LIO：激光雷达 + IMU 紧耦合</div>
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
+            <div class="card-title" style="color: #e5484d;">2️⃣ 偏航摆动导致角度漂移</div>
             <div class="card-desc">
               <ul>
-                <li><strong>几何约束不挑环境</strong>：点云直接测距，弱纹理 / 暗光都有效；</li>
-                <li><strong>IMU 高频补偿运动</strong>：250Hz 预积分补偿雷达帧间畸变；</li>
-                <li><strong>增量式地图一致约束</strong>：新帧对既有地图配准，漂移受抑制。</li>
+                <li>前飞 / 悬停时机体偏航摆动实测达 9°~19°；</li>
+                <li>机体系下静止立柱的角度大幅跳动；</li>
+                <li>无法直接做时序追踪。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
+            <div class="card-title" style="color: #e5484d;">3️⃣ 临界距离刹车高频振荡</div>
+            <div class="card-desc">
+              <ul>
+                <li>单一阈值下（0.8m 刹 / 0.8m 起步）；</li>
+                <li>悬停在阈值边缘时测距微噪；</li>
+                <li>10Hz 刹车-起步剧烈横跳。</li>
               </ul>
             </div>
           </div>
         </div>
         <div class="stat-badge-row">
-          <div class="stat-chip">✓ 宇树 L1：2100 点/帧 @ 10Hz</div>
-          <div class="stat-chip">✓ IMU 250Hz</div>
-          <div class="stat-chip">✓ 双算法互备</div>
-          <div class="stat-chip">✓ 0 云端依赖</div>
+          <div class="stat-chip">✓ 基于 RDK X5 + T265 VIO 的微型无人机</div>
+          <div class="stat-chip">✓ 纯 Python 自研：点云采集 → 坐标系融合 → 状态机联动 → 闭环仿真</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 3 页：FAST-LIO2 -->
+    <!-- 第 3 页：系统总览 -->
     <section class="slide" data-slide="3">
       <div class="slide-header">
-        <h2 class="slide-title">算法推演 · FAST-LIO2</h2>
-        <div class="slide-tag">Algorithm: FAST-LIO2</div>
+        <h2 class="slide-title">系统总览与数据流</h2>
+        <div class="slide-tag">System Overview</div>
       </div>
       <div class="slide-body">
         <div class="info-card" style="margin-bottom: 18px;">
-          <div class="card-title">🔄 核心流水线</div>
+          <div class="card-title">🔄 点云从雷达串口到避障决策的完整链路</div>
           <div class="card-desc">
             <ul>
-              <li><strong>IMU 前向传播 → 点云去畸变 → 迭代误差状态卡尔曼滤波（IEKF）→ ikd-Tree 增量地图</strong>；</li>
-              <li>雷达与 IMU 在同一误差状态内迭代，一次更新即收敛。</li>
+              <li><strong>雷达采集</strong>（460800）→ <strong>极坐标→机体系</strong>（角度°, 距离mm → x_b, y_b）→ <strong>世界系投影</strong>（+ T265 偏航 → X_w, Y_w）→ <strong>滑窗立柱确认</strong>（6 帧 / 命中 ≥3 次）→ <strong>避障状态机</strong>（迟滞回差 0.75 / 0.90 m）；</li>
             </ul>
           </div>
         </div>
-        <div class="grid-3">
+        <div class="grid-2">
           <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">🌳 ikd-Tree 增量式地图</div>
+            <div class="card-title" style="color: var(--primary);">⚡ 免 ROS 直驱链路</div>
             <div class="card-desc">
               <ul>
-                <li>无需全局重建，新点增量插入 / 动态删除；</li>
-                <li>最近邻查询复杂度近似 O(logN)，室内小场景实时性最好。</li>
+                <li>Lradar.py 零依赖多线程采集；</li>
+                <li>算法验证与性能压测的最短路径。</li>
               </ul>
             </div>
           </div>
           <div class="info-card">
-            <div class="card-title">📐 直接法点云配准</div>
+            <div class="card-title">🧩 ROS 2 驱动链路</div>
             <div class="card-desc">
               <ul>
-                <li>点到线 / 点到面残差；</li>
-                <li>跳过特征提取，弱几何环境也能收敛。</li>
+                <li>lslidar_driver 原生驱动 + SLAM Toolbox 栅格建图；</li>
+                <li>对接导航栈。</li>
               </ul>
             </div>
           </div>
-          <div class="info-card">
-            <div class="card-title">⚡ 为什么选它做主算法</div>
-            <div class="card-desc">
-              <ul>
-                <li>本仓已实调宇树 L1 室内优化参数；</li>
-                <li>Point-LIO 不佳时的备用链路，双算法互为冗余。</li>
-              </ul>
-            </div>
-          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 镭神 N10P：USB-TTL · 460800（头号铁律）</div>
+          <div class="stat-chip">✓ 地平线 RDK X5：机载主控</div>
+          <div class="stat-chip">✓ Intel T265：VIO 偏航角基准</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 4 页：Point-LIO 与对比 -->
+    <!-- 第 4 页：坐标系融合 -->
     <section class="slide" data-slide="4">
       <div class="slide-header">
-        <h2 class="slide-title">算法推演 · Point-LIO 与双算法对比</h2>
-        <div class="slide-tag">Algorithm: Point-LIO</div>
+        <h2 class="slide-title">坐标系融合 · 从机体系到世界系</h2>
+        <div class="slide-tag">Coordinate Fusion</div>
       </div>
       <div class="slide-body">
         <div class="grid-2">
           <div class="info-card">
-            <div class="card-title">🔬 Point-LIO 的差异化设计</div>
+            <div class="card-title">🔄 三级坐标变换（coordinate_fusion.py）</div>
             <div class="card-desc">
               <ul>
-                <li><strong>点级状态估计</strong>：每来一个点即更新，不等整帧累积；</li>
-                <li><strong>更高融合频率</strong>：快速旋转 / 剧烈运动下更平滑；</li>
-                <li><strong>无显式地图管理</strong>：内存占用稳定。</li>
+                <li><strong>① 雷达极坐标 → 机体系</strong>：0° 正前 +X / 90° 正右 −Y / 180° 正后 −X / 270° 正左 +Y；</li>
+                <li><strong>② 机体系 → 世界系</strong>：X_w = X_drone + R(ψ)·[x_b, y_b]，ψ 取 T265 全局偏航角，双向可逆；</li>
+                <li><strong>③ 世界系 → 机体读数</strong>：逆变换用于离线回放与单测断言。</li>
               </ul>
             </div>
           </div>
           <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">🛠️ 本仓的实战用法</div>
+            <div class="card-title" style="color: var(--primary);">💡 为什么必须转到世界系</div>
             <div class="card-desc">
               <ul>
-                <li><strong>宇树 L1 默认跑 Point-LIO</strong>（unilidar_pointlio.launch）；</li>
-                <li><strong>效果不佳一键切换 FAST-LIO2</strong> 备用链路；</li>
-                <li><strong>imu_en 必须开启</strong>：关闭 IMU 参与会导致 LIO 退化（踩过坑）。</li>
+                <li><strong>机体系</strong>：静止立柱角度随机体偏航晃动（±9°~19°），时序关联彻底失效；</li>
+                <li><strong>世界系</strong>：静止立柱绝对坐标恒定，多帧观测天然可叠加；</li>
+                <li><strong>结论</strong>：任何跨帧目标追踪都必须先投影到全局世界系再做。</li>
               </ul>
             </div>
           </div>
         </div>
-        <div class="info-card" style="margin-top: 18px;">
-          <div class="card-title">📊 双算法对比</div>
-          <div class="card-desc">
-            <ul>
-              <li><strong>配准方式</strong>：帧级（整帧对地图配准）vs 点级（单点即时融合）；</li>
-              <li><strong>地图结构</strong>：ikd-Tree 增量地图支持建图导出（PCD）vs 滑动状态估计无全局地图；</li>
-              <li><strong>优势场景</strong>：结构化室内建图与一致性 vs 剧烈运动的鲁棒性。</li>
-            </ul>
-          </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 纯 Python 标准数学库实现，零第三方依赖</div>
+          <div class="stat-chip">✓ 单测可在任何机器上秒跑</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 5 页：多传感器融合 -->
-    <!-- 第 5 页：双定位链并行 -->
+    <!-- 第 5 页：细立柱追踪 -->
     <section class="slide" data-slide="5">
       <div class="slide-header">
-        <h2 class="slide-title">双定位链并行架构</h2>
-        <div class="slide-tag">Dual Positioning Chains</div>
+        <h2 class="slide-title">细立柱追踪 · 世界系时序滑窗</h2>
+        <div class="slide-tag">Pole Tracker</div>
       </div>
       <div class="slide-body">
-        <div class="grid-2">
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">🛰️ 主链 · LIO（雷达 + IMU 紧耦合）</div>
-            <div class="card-desc">
-              <ul>
-                <li>宇树 L1 点云 + 250Hz IMU，FAST-LIO2 / Point-LIO 双算法；</li>
-                <li>输出 /Odometry 实时 6-DOF 里程计；</li>
-                <li>TF map → base_link 10Hz 广播（robot_pose_publisher）。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">🎥 独立链 · T265 视觉定位（不耦合雷达）</div>
-            <div class="card-desc">
-              <ul>
-                <li>VPU 片上 VIO，200Hz 六自由度位姿独立输出；</li>
-                <li>独立看板（:8091）：轨迹 / 姿态地平仪 / 一键标定；</li>
-                <li>长走廊等场景提供对照参照，交叉验证 LIO 健康度。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 两条定位链并行运行、互为参照</div>
-          <div class="stat-chip">✓ T265 不参与雷达 LIO 融合，独立成链</div>
-          <div class="stat-chip">✓ REP-103 标准右手系统一标定</div>
-        </div>
-      </div>
-    </section>
-
-
-    <!-- 第 6 页：传感器阵容 -->
-    <!-- 第 6 页：核心硬件阵容 -->
-    <section class="slide" data-slide="6">
-      <div class="slide-header">
-        <h2 class="slide-title">核心硬件阵容</h2>
-        <div class="slide-tag">Hardware Lineup</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-3">
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">📡 宇树 Unitree 4D 雷达 L1</div>
-            <div class="card-desc">
-              <ul>
-                <li>双电机复合非重复扫描：5000 RPM 摆镜 + 600 RPM 公转；</li>
-                <li>积分后全景覆盖，无扫描盲区；</li>
-                <li>输出 /unilidar/cloud（10Hz·2100 点）+ IMU 250Hz。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">🎥 Intel RealSense T265</div>
-            <div class="card-desc">
-              <ul>
-                <li>VPU 片上 VIO，双目鱼眼 + IMU，200Hz 位姿输出；</li>
-                <li>内部 ORB-SLAM 改良算法，主机零算力负担；</li>
-                <li>独立运行不与雷达耦合，专责对照定位。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">🔬 RP2040 协处理器</div>
-            <div class="card-desc">
-              <ul>
-                <li>双核 Cortex-M0+，硬件 UART0 直推 460800/230400；</li>
-                <li>MicroPython 固件写入 Flash，通电 0ms 自启；</li>
-                <li>接管 40-Pin GPIO，为 N100 分担实时任务。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <!-- 第 7 页：2D 驱动攻坚 -->
-    <!-- 第 7 页：宇树 L1 的 ROS2 适配 -->
-    <section class="slide" data-slide="7">
-      <div class="slide-header">
-        <h2 class="slide-title">宇树 L1 的 ROS 2 适配</h2>
-        <div class="slide-tag">Unitree L1 Driver Porting</div>
-      </div>
-      <div class="slide-body">
-        <div class="info-card" style="margin-bottom: 18px; border-color: rgba(0, 255, 136, 0.3);">
-          <div class="card-title" style="color: var(--primary);">🛠️ 适配成果</div>
+        <div class="info-card" style="margin-bottom: 18px;">
+          <div class="card-title">🔄 核心思路：单帧放宽提取候选，跨帧世界系累加验证</div>
           <div class="card-desc">
             <ul>
-              <li>编译宇树官方 unitree_lidar_sdk 与 unitree_lidar_ros2，ROS 2 Jazzy 原生跑通；</li>
-              <li>解决 Windows 上位机与 Linux 驱动差异，实装多帧点云余晖与硬件级停机控制。</li>
+              <li><strong>① 单帧候选提取</strong>：小半径聚类（eps 0.15m）放宽 min_samples=1，宁可多报不可漏报；</li>
+              <li><strong>② 世界系投影</strong>：候选点结合 T265 实时位姿旋转平移至全局世界坐标系；</li>
+              <li><strong>③ 滑窗持续验证</strong>：最近 6 帧窗口内，同一空间邻域（≤0.2m）命中 ≥3 次才确认；</li>
+              <li><strong>④ 锁定绝对坐标</strong>：确认真实静止立柱，输出世界系物理坐标供避障使用。</li>
             </ul>
           </div>
         </div>
         <div class="grid-2">
-          <div class="info-card">
-            <div class="card-title">📡 输出话题矩阵</div>
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
+            <div class="card-title" style="color: #e5484d;">❌ 传统单帧聚类</div>
             <div class="card-desc">
               <ul>
-                <li>/unilidar/cloud：原始 3D 点云（10Hz·2100 点/帧）；</li>
-                <li>/unilidar/imu：内置 IMU（250Hz 高频采样）；</li>
-                <li>/Odometry：LIO 里程计（6-DOF 实时输出）；</li>
-                <li>/cloud_registered：配准点云（全局坐标系）。</li>
+                <li>min_samples≥3 → 细柱被滤除；</li>
+                <li>min_samples=1 → 粉尘虚警频发。</li>
               </ul>
             </div>
           </div>
-          <div class="info-card">
-            <div class="card-title">🌀 两级点云处理</div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">✅ 世界系时序滑窗</div>
             <div class="card-desc">
               <ul>
-                <li><strong>驱动层余晖累积</strong>：非重复扫描单帧稀疏，多帧时间余晖累积后呈完整全景；</li>
-                <li><strong>算法层体素化</strong>：FAST-LIO2 入口按 0.12m 体素收紧，室内特征锐化后配准。</li>
+                <li>漏检与虚警同时解决：单帧放宽 + 多帧确认，虚警率大幅下降；</li>
+                <li>把「单帧瞬时判断」升级为「跨帧时空一致性判断」——用时间换信噪比。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 6 页：避障状态机 -->
+    <section class="slide" data-slide="6">
+      <div class="slide-header">
+        <h2 class="slide-title">避障状态机与迟滞回差</h2>
+        <div class="slide-tag">Mission Avoidance FSM</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card">
+            <div class="card-title">🎮 四状态设计</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>NAVIGATING</strong>：巡航导航，持续监测已确认立柱距离；</li>
+                <li><strong>HOVER_AVOIDING</strong>：最近立柱 &lt; 0.75m，紧急悬停刹车；</li>
+                <li><strong>BYPASSING</strong>：侧向机动脱离危险区，绕开立柱后回航；</li>
+                <li><strong>REACHED_GOAL</strong>：抵达目标航点，任务结束。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">📐 迟滞回差（Hysteresis Band）</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>0.75m</strong> 进入悬停刹车（POLE_DANGER_DIST_M）；</li>
+                <li><strong>0.90m</strong> 恢复巡航前进（POLE_RESUME_DIST_M）；</li>
+                <li><strong>触发后不回退</strong>：微增至 0.80m 仍保持悬停，直至 &gt;0.90m 或侧向绕行脱离；</li>
+                <li><strong>双门限严禁同值</strong>：阈值相等 = 临界点高频抖动（头号铁律）。</li>
               </ul>
             </div>
           </div>
         </div>
         <div class="stat-badge-row">
-          <div class="stat-chip">✓ 双电机非重复全景扫描：5000 RPM 摆镜 + 600 RPM 公转</div>
-          <div class="stat-chip">✓ 2M 超高速串口驱动</div>
+          <div class="stat-chip">✓ 回差带宽 0.15m，吸收机体晃动与测距微噪</div>
+          <div class="stat-chip">✓ 飞行动作平稳如丝，无临界振荡</div>
         </div>
       </div>
     </section>
 
+    <!-- 第 7 页：免 ROS 直驱 -->
+    <section class="slide" data-slide="7">
+      <div class="slide-header">
+        <h2 class="slide-title">免 ROS 直驱采集链路</h2>
+        <div class="slide-tag">ROS-Free Direct Driver</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">⚡ Lradar.py · 零依赖直采</div>
+            <div class="card-desc">
+              <ul>
+                <li>不装 ROS 即可跑：纯 Python 标准库串口读取；</li>
+                <li>460800 波特率高频多线程采集，读 / 解析 / 分发分离；</li>
+                <li>算法验证与性能压测的最短路径；</li>
+                <li>与 ROS 2 驱动链路数据口径一致，可互相验证。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🧩 lslidar_driver · ROS 2 原生</div>
+            <div class="card-desc">
+              <ul>
+                <li>镭神官方 ROS 2 驱动包（lslidar_msgs + lslidar_driver）；</li>
+                <li>输出标准 LaserScan，无缝对接 SLAM Toolbox；</li>
+                <li>配套建图 launch：建图 / 仅查看 / 仅驱动三件套；</li>
+                <li>nav2_map_server 一键保存栅格地图（.pgm + .yaml）。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ bench_test.py 板载串口吞吐量压测</div>
+          <div class="stat-chip">✓ 高波特率长时间采集不掉帧不丢包</div>
+        </div>
+      </div>
+    </section>
 
-    <!-- 第 8 页：双脑架构 -->
+    <!-- 第 8 页：SLAM 建图 -->
     <section class="slide" data-slide="8">
       <div class="slide-header">
-        <h2 class="slide-title">工程落地 · 双脑架构</h2>
-        <div class="slide-tag">Dual-Brain Architecture</div>
+        <h2 class="slide-title">SLAM Toolbox 栅格建图</h2>
+        <div class="slide-tag">2D Mapping</div>
       </div>
       <div class="slide-body">
         <div class="grid-2">
           <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">🧠 大脑 · Radxa X4 主控（N100）</div>
+            <div class="card-title" style="color: var(--primary);">🗺️ 建图闭环四步</div>
             <div class="card-desc">
               <ul>
-                <li>x86_64 四核，跑 ROS 2 Jazzy 全家桶；</li>
-                <li>SLAM / 点云配准 / Web 服务 / 位姿仲裁；</li>
-                <li>外设挂载：宇树 L1 · T265 · 2D 雷达 · RP2040；</li>
-                <li>Fast DDS 共享内存需定期清理。</li>
+                <li><strong>① 驱动上线</strong>：lslidar_driver 发布 /scan（460800 口）；</li>
+                <li><strong>② SLAM 建图</strong>：slam_final.launch 在线建图，RViz 实时查看；</li>
+                <li><strong>③ 地图保存</strong>：nav2_map_server 导出 PGM/YAML；</li>
+                <li><strong>④ 后续定位</strong>：切定位模式，供导航栈复用。</li>
               </ul>
             </div>
           </div>
           <div class="info-card">
-            <div class="card-title">🔬 小脑 · RP2040 板载协处理器</div>
+            <div class="card-title">📦 SLAM建图配置/ 交付内容</div>
             <div class="card-desc">
               <ul>
-                <li><strong>双核 Cortex-M0+</strong>，硬实时性远超 Linux 调度；</li>
-                <li><strong>硬件 UART0</strong>（Pin 8 TX / Pin 10 RX）高速直推飞控；</li>
-                <li>460800 / 230400 波特率无缝切换；</li>
-                <li><strong>MicroPython 固件写入 Flash：通电 0ms 瞬间自启</strong>。</li>
+                <li><strong>slam_final.launch.py</strong>：建图一键启动；</li>
+                <li><strong>lslidar_rviz.launch.py</strong>：仅查看，调试期免重复建图；</li>
+                <li><strong>lsn10p_launch.py</strong>：仅雷达驱动，独立测试；</li>
+                <li><strong>数据修复脚本</strong>：异常点云清洗与修复工具。</li>
               </ul>
             </div>
           </div>
         </div>
         <div class="stat-badge-row">
-          <div class="stat-chip">✓ 设计价值：实时任务与重算力任务物理隔离——Linux 卡死不影响底层执行链路</div>
+          <div class="stat-chip">✓ 参数持久化：防区 / 阈值配置落盘，重启不丢</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 9 页：T265 复活记 -->
+    <!-- 第 9 页：质量保障 -->
     <section class="slide" data-slide="9">
       <div class="slide-header">
-        <h2 class="slide-title">工程落地 · T265 复活记</h2>
-        <div class="slide-tag">Reviving T265 on Ubuntu 24.04</div>
+        <h2 class="slide-title">质量保障 · 测试体系</h2>
+        <div class="slide-tag">Quality Assurance</div>
       </div>
       <div class="slide-body">
         <div class="grid-3">
           <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">① 源码复活</div>
+            <div class="card-title" style="color: var(--primary);">✅ 16 项 pytest 单元测试</div>
             <div class="card-desc">
               <ul>
-                <li>Intel 官方 SDK v2.54 已移除 T265 支持；</li>
-                <li>源码编译 librealsense <strong>v2.53.1</strong>（最后支持版本）；</li>
-                <li>开启 <strong>-DBUILD_WITH_TM2=ON</strong> 跟踪模块后端，Ubuntu 24.04 原生激活。</li>
+                <li>覆盖 PoleTracker 时序滑窗与状态机迟滞逻辑；</li>
+                <li>改追踪器 / 避障逻辑后必须全绿才能交付；</li>
+                <li>纯 Python 标准库，任何机器秒跑。</li>
               </ul>
             </div>
           </div>
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">② 冲击防护</div>
+          <div class="info-card">
+            <div class="card-title">🧪 无硬件仿真验证</div>
             <div class="card-desc">
               <ul>
-                <li>瞬态机械冲击使加速度计量程爆表（Clipping），二次积分发散；</li>
-                <li><strong>动力学门限拦截</strong>非物理单步跳变（Anti-Shock Gating Filter）；</li>
-                <li>一键零点重标定消除零偏。</li>
+                <li>static_pole_check --mock：无雷达模拟静态立柱；</li>
+                <li>mission_avoidance_demo：避障状态机闭环仿真；</li>
+                <li>上机前先过仿真，降低试飞风险。</li>
               </ul>
             </div>
           </div>
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">③ 坐标系迁移</div>
+          <div class="info-card">
+            <div class="card-title">📏 串口压测</div>
             <div class="card-desc">
               <ul>
-                <li>原生光学右下前系 → REP-103 机器人右手系；</li>
-                <li>前进 +X / 左移 +Y / 抬升 +Z；</li>
-                <li>T265 看板（:8091）：200Hz 坐标流 · 姿态地平仪 · 一键标定。</li>
+                <li>bench_test.py 板载吞吐量压测；</li>
+                <li>验证 460800 高波特率长时间稳定性；</li>
+                <li>为算法层提供可信数据底座。</li>
               </ul>
             </div>
           </div>
         </div>
         <div class="stat-badge-row">
-          <div class="stat-chip">✓ 同一套经验可直接迁移到树莓派 / Cubie A7A 等 ARM 平台的 T265 接入</div>
+          <div class="stat-chip">✓ pytest test_pole_tracker.py test_mission_avoidance.py -v</div>
+          <div class="stat-chip">✓ python static_pole_check.py --mock --duration 5</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 10 页：参数调优与避坑 -->
+    <!-- 第 10 页：铁律与避坑 -->
     <section class="slide" data-slide="10">
       <div class="slide-header">
-        <h2 class="slide-title">参数调优与避坑清单</h2>
-        <div class="slide-tag">Tuning &amp; Pitfalls</div>
+        <h2 class="slide-title">铁律与避坑清单</h2>
+        <div class="slide-tag">Iron Rules &amp; Pitfalls</div>
       </div>
       <div class="slide-body">
         <div class="grid-2">
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">⚙️ FAST-LIO2 室内优化（laser_mapping.yaml）</div>
+          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
+            <div class="card-title" style="color: #f5a623;">📌 波特率必须 460800</div>
             <div class="card-desc">
               <ul>
-                <li><strong>体素网格 0.5 → 0.12m</strong>：室内特征锐化约 4 倍；</li>
-                <li><strong>探测范围 100 → 20m</strong>：过滤窗外阳光噪点，降低 CPU 负载；</li>
-                <li><strong>point_filter_num: 1</strong>：保留全部采样点；</li>
-                <li>输出 /Odometry：实时高精度 6-DOF 里程计。</li>
+                <li>镭神 N10P 出厂与飞行工程统一按此配置；</li>
+                <li>漏配波特率 = 收不到数据，本仓头号坑。</li>
               </ul>
             </div>
           </div>
-          <div class="info-card">
-            <div class="card-title">🪤 Point-LIO 实战避坑</div>
+          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
+            <div class="card-title" style="color: #f5a623;">📌 双门限严禁同值</div>
             <div class="card-desc">
               <ul>
-                <li><strong>imu_en: true 勿关</strong>：关闭 IMU 参与会导致 LIO 退化；</li>
-                <li><strong>启动前清共享内存</strong>：rm /dev/shm/fastrtps_* 防启动失败；</li>
-                <li><strong>IMU 初始化 20~30s</strong>：启动后等自检完成再出数据；</li>
-                <li><strong>双算法互备</strong>：Point-LIO 不佳时切 FAST-LIO2 链路。</li>
+                <li>悬停刹车 / 恢复巡航阈值相等 = 临界点高频抖动；</li>
+                <li>回差带必须保留。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
+            <div class="card-title" style="color: #f5a623;">📌 追踪必须转世界系</div>
+            <div class="card-desc">
+              <ul>
+                <li>机体系下立柱随偏航晃动，直接追踪必丢；</li>
+                <li>先投影再滑窗。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
+            <div class="card-title" style="color: #f5a623;">📌 滑窗参数成对调</div>
+            <div class="card-desc">
+              <ul>
+                <li>窗口帧数（6）与命中次数（≥3）联动调整；</li>
+                <li>单改一个会破坏置信平衡。</li>
               </ul>
             </div>
           </div>
         </div>
         <div class="stat-badge-row">
-          <div class="stat-chip">✓ start_slam.sh（2D 建图）</div>
-          <div class="stat-chip">✓ start_unilidar_l1.sh（L1 + FAST-LIO2）</div>
-          <div class="stat-chip">✓ stop_slam.sh（软件 + 物理停转）</div>
-          <div class="stat-chip">✓ robot_pose_publisher.py（10Hz 位姿广播）</div>
+          <div class="stat-chip">✓ 适用：电赛立柱穿越 · 室内低空巡检 · 任何「低线束 2D 雷达 + 细小障碍物」追踪避障</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 11 页：可视化与验证 -->
+    <!-- 第 11 页：收尾 -->
     <section class="slide" data-slide="11">
-      <div class="slide-header">
-        <h2 class="slide-title">可视化与验证</h2>
-        <div class="slide-tag">Web Visualization</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-3">
-          <div class="info-card">
-            <div class="card-title">🖥️ :8090 · 2D 雷达 + SLAM</div>
-            <div class="card-desc">
-              <ul>
-                <li>极坐标 HUD 视场放大（2.5/4/8m）；</li>
-                <li>实时 SLAM 全局坐标 X·Y·Yaw；</li>
-                <li>一键电机休眠。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">🧭 :8091 · T265 姿态轨迹</div>
-            <div class="card-desc">
-              <ul>
-                <li>200Hz 三维坐标流；</li>
-                <li>飞机姿态地平仪；</li>
-                <li>抗冲击保护 · 一键标定。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">🌐 :8093 · 宇树 L1 3D 点云</div>
-            <div class="card-desc">
-              <ul>
-                <li>Three.js WebGL 全景点云；</li>
-                <li>FAST-LIO2 空间绝对坐标；</li>
-                <li>多帧余晖累积滑块。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 2D 链路：栅格地图 + 全局坐标回读一致性</div>
-          <div class="stat-chip">✓ 3D 链路：/Odometry 与 /cloud_registered 配准质量核对</div>
-          <div class="stat-chip">✓ 断电恢复：驱动自愈与位姿连续性验证</div>
-        </div>
-      </div>
-    </section>
-
-    <!-- 第 12 页：收尾 -->
-    <section class="slide" data-slide="12">
       <div class="cover-layout">
         <div class="cover-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--secondary); border-color: var(--secondary);">✨ 项目小结</div>
-        <h2 class="cover-title" style="font-size: 2.6rem;">算法 · 驱动 · 架构 · 实测</h2>
-        <p class="cover-sub">从开源驱动的字节级修复，到 FAST-LIO2 的室内参数调优，全链路自己走通</p>
+        <h2 class="cover-title" style="font-size: 2.6rem;">感知 · 融合 · 决策 · 验证</h2>
+        <p class="cover-sub">从串口字节流到避障状态机，每个环节都有单测兜底</p>
         <div class="cover-meta" style="justify-content: center;">
-          <div>紧耦合 LIO</div>
-          <div>双算法互备</div>
-          <div>双脑架构</div>
-          <div>驱动级攻坚</div>
-          <div>网页三维可视化</div>
+          <div>纯 Python 全栈</div>
+          <div>世界系追踪</div>
+          <div>迟滞回差</div>
+          <div>免 ROS 直驱</div>
+          <div>16 项单测</div>
         </div>
         <div style="margin-top: 24px;">
           <a href="https://github.com/LONEFORME/lidar-slam-nav" target="_blank" class="hud-btn" style="display: inline-flex; text-decoration: none; padding: 12px 28px; font-size: 1rem; border-color: var(--primary); color: var(--primary);">
@@ -779,6 +728,7 @@
         </div>
       </div>
     </section>
+
 
   </main>
 
