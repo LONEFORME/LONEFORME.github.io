@@ -312,7 +312,7 @@
 
   <!-- 快捷键提示 -->
   <div class="key-tip">
-    按 <kbd>←</kbd> <kbd>→</kbd> 或 <kbd>空格</kbd> 翻页 · <kbd>F</kbd> 全屏
+    按 <kbd>←</kbd> <kbd>→</kbd> 或 <kbd>空格</kbd> 翻页 · <kbd>F</kbd> 全屏 · <kbd>Esc</kbd> 返回列表
   </div>
 
   <!-- 舞台与幻灯片集合 -->
@@ -869,6 +869,10 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
         全屏放映
       </button>
+      <a class="hud-btn" id="exitBtn" href="/slides/" title="返回演示稿列表 (Esc)" style="text-decoration: none;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5m7-7-7 7 7 7"></path></svg>
+        返回列表
+      </a>
     </div>
     <div class="hud-counter">
       <span id="currentSlideNum"><b>01</b></span> / <span id="totalSlidesNum">08</span>
@@ -920,6 +924,12 @@
           prev();
         } else if (e.key === 'f' || e.key === 'F') {
           toggleFullscreen();
+        } else if (e.key === 'Escape') {
+          if (document.fullscreenElement) {
+            if (document.exitFullscreen) document.exitFullscreen();
+          } else {
+            window.location.href = '/slides/';
+          }
         } else if (e.key === 'Home') {
           updateSlide(0);
         } else if (e.key === 'End') {
