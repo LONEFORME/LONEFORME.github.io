@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3D 激光雷达 SLAM 与多传感器融合 · 项目介绍</title>
+  <style>
+    :root {
+      --bg: #090d16;
+      --surface: #101726;
+      --card: #151e32;
+      --primary: #00ff88;
+      --secondary: #00d4ff;
+      --accent: #7928ca;
+      --text: #e6edf3;
+      --muted: #8b949e;
+      --border: rgba(255, 255, 255, 0.1);
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
+      --font-mono: "SF Mono", "Cascadia Code", "JetBrains Mono", Consolas, monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 100%; height: 100%;
+      overflow: hidden;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font-sans);
+      user-select: none;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* 演示舞台 */
+    #deck-stage {
+      position: relative;
+      width: 100vw; height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .slide {
+      position: absolute;
+      width: 90vw; max-width: 1200px;
+      height: 82vh; max-height: 720px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 255, 136, 0.05);
+      padding: 50px 60px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      opacity: 0;
+      transform: scale(0.96) translateY(20px);
+      pointer-events: none;
+      transition: all 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .slide.active {
+      opacity: 1;
+      transform: scale(1) translateY(0);
+      pointer-events: auto;
+      z-index: 10;
+    }
+
+    .slide.prev {
+      opacity: 0;
+      transform: scale(0.96) translateY(-20px);
+    }
+
+    /* 幻灯片头部 */
+    .slide-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 16px;
+      margin-bottom: 24px;
+    }
+    .slide-tag {
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      letter-spacing: 1px;
+      color: var(--primary);
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .slide-tag::before {
+      content: "";
+      width: 8px; height: 8px;
+      border-radius: 50%;
+      background: var(--primary);
+      box-shadow: 0 0 10px var(--primary);
+    }
+    .slide-title {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #fff;
+      line-height: 1.25;
+      letter-spacing: -0.5px;
+    }
+
+    /* 内容网格 */
+    .slide-body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .grid-2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    .info-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 24px;
+      transition: border-color 0.2s;
+    }
+    .info-card:hover {
+      border-color: var(--secondary);
+    }
+    .card-title {
+      font-size: 1.15rem;
+      color: var(--secondary);
+      font-weight: 600;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .card-desc {
+      font-size: 0.95rem;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+    .card-desc ul {
+      margin-left: 18px;
+      margin-top: 8px;
+    }
+    .card-desc li {
+      margin-bottom: 6px;
+    }
+
+    /* 封面特殊样式 */
+    .cover-layout {
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+    }
+    .cover-badge {
+      display: inline-block;
+      padding: 6px 16px;
+      border-radius: 20px;
+      background: rgba(0, 255, 136, 0.12);
+      color: var(--primary);
+      border: 1px solid rgba(0, 255, 136, 0.3);
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 24px;
+      letter-spacing: 0.5px;
+    }
+    .cover-title {
+      font-size: 3rem;
+      font-weight: 800;
+      color: #fff;
+      margin-bottom: 16px;
+      background: linear-gradient(120deg, #ffffff 40%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .cover-sub {
+      font-size: 1.25rem;
+      color: var(--muted);
+      max-width: 720px;
+      line-height: 1.6;
+      margin-bottom: 36px;
+    }
+    .cover-meta {
+      display: flex;
+      gap: 30px;
+      font-family: var(--font-mono);
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    .cover-meta span {
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    /* 参数指标统计条 */
+    .stat-badge-row {
+      display: flex;
+      gap: 16px;
+      margin-top: 16px;
+    }
+    .stat-chip {
+      background: rgba(0, 212, 255, 0.1);
+      border: 1px solid rgba(0, 212, 255, 0.2);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      color: var(--secondary);
+    }
+
+    /* 底部导航与 HUD */
+    .deck-hud {
+      position: fixed;
+      bottom: 24px;
+      left: 0; right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+      z-index: 100;
+      pointer-events: none;
+    }
+    .hud-controls {
+      display: flex;
+      gap: 12px;
+      pointer-events: auto;
+    }
+    .hud-btn {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-size: 0.88rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .hud-btn:hover {
+      background: var(--surface);
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+    .hud-counter {
+      font-family: var(--font-mono);
+      font-size: 0.95rem;
+      color: var(--muted);
+      background: rgba(16, 23, 38, 0.8);
+      backdrop-filter: blur(8px);
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      pointer-events: auto;
+    }
+    .hud-counter b { color: var(--primary); }
+
+    /* 顶部进度条 */
+    .progress-bar-container {
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 3px;
+      background: rgba(255, 255, 255, 0.05);
+      z-index: 1000;
+    }
+    .progress-bar {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, var(--secondary), var(--primary));
+      transition: width 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    /* 快捷键提示 */
+    .key-tip {
+      position: fixed;
+      top: 20px; right: 24px;
+      font-size: 0.78rem;
+      color: var(--muted);
+      background: rgba(16, 23, 38, 0.7);
+      backdrop-filter: blur(6px);
+      padding: 6px 12px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      z-index: 100;
+    }
+    .key-tip kbd {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 顶部进度条 -->
+  <div class="progress-bar-container">
+    <div class="progress-bar" id="progressBar"></div>
+  </div>
+
+  <!-- 快捷键提示 -->
+  <div class="key-tip">
+    按 <kbd>←</kbd> <kbd>→</kbd> 或 <kbd>空格</kbd> 翻页 · <kbd>F</kbd> 全屏 · <kbd>Esc</kbd> 返回列表
+  </div>
+
+  <!-- 舞台与幻灯片集合 -->
+  <main id="deck-stage">
+    
+    <!-- 第 1 页：封面 -->
+    <section class="slide active" data-slide="1">
+      <div class="cover-layout">
+        <div class="cover-badge">🛰️ 项目介绍 · PROJECT INTRODUCTION</div>
+        <h1 class="cover-title">3D 激光雷达 SLAM<br>与多传感器融合</h1>
+        <p class="cover-sub">FAST-LIO / Point-LIO 算法推演与工程落地 —— 紧耦合里程计 · 驱动级攻坚 · 双脑架构 · 网页三维可视化</p>
+        <div class="cover-meta">
+          <div>3D 雷达：<span>宇树 L1 非重复扫描</span></div>
+          <div>视觉里程计：<span>Intel T265 · 200Hz</span></div>
+          <div>实战平台：<span>Radxa X4 (Intel N100)</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 2 页：问题与动机 -->
+    <section class="slide" data-slide="2">
+      <div class="slide-header">
+        <h2 class="slide-title">问题与动机</h2>
+        <div class="slide-tag">Problem &amp; Motivation</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card">
+            <div class="card-title">⚠️ 单一传感器的退化场景</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>轮式里程计打滑</strong>：地毯 / 湿滑地面速度积分漂移；</li>
+                <li><strong>视觉里程计失效</strong>：弱纹理白墙、玻璃反光、光照突变；</li>
+                <li><strong>纯 IMU 二次积分发散</strong>：加速度计噪声随时间平方级累积。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🎯 LIO：激光雷达 + IMU 紧耦合</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>几何约束不挑环境</strong>：点云直接测距，弱纹理 / 暗光都有效；</li>
+                <li><strong>IMU 高频补偿运动</strong>：250Hz 预积分补偿雷达帧间畸变；</li>
+                <li><strong>增量式地图一致约束</strong>：新帧对既有地图配准，漂移受抑制。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 宇树 L1：2100 点/帧 @ 10Hz</div>
+          <div class="stat-chip">✓ IMU 250Hz</div>
+          <div class="stat-chip">✓ 双算法互备</div>
+          <div class="stat-chip">✓ 0 云端依赖</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 3 页：FAST-LIO2 -->
+    <section class="slide" data-slide="3">
+      <div class="slide-header">
+        <h2 class="slide-title">算法推演 · FAST-LIO2</h2>
+        <div class="slide-tag">Algorithm: FAST-LIO2</div>
+      </div>
+      <div class="slide-body">
+        <div class="info-card" style="margin-bottom: 18px;">
+          <div class="card-title">🔄 核心流水线</div>
+          <div class="card-desc">
+            <ul>
+              <li><strong>IMU 前向传播 → 点云去畸变 → 迭代误差状态卡尔曼滤波（IEKF）→ ikd-Tree 增量地图</strong>；</li>
+              <li>雷达与 IMU 在同一误差状态内迭代，一次更新即收敛。</li>
+            </ul>
+          </div>
+        </div>
+        <div class="grid-3">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🌳 ikd-Tree 增量式地图</div>
+            <div class="card-desc">
+              <ul>
+                <li>无需全局重建，新点增量插入 / 动态删除；</li>
+                <li>最近邻查询复杂度近似 O(logN)，室内小场景实时性最好。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">📐 直接法点云配准</div>
+            <div class="card-desc">
+              <ul>
+                <li>点到线 / 点到面残差；</li>
+                <li>跳过特征提取，弱几何环境也能收敛。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">⚡ 为什么选它做主算法</div>
+            <div class="card-desc">
+              <ul>
+                <li>本仓已实调宇树 L1 室内优化参数；</li>
+                <li>Point-LIO 不佳时的备用链路，双算法互为冗余。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 4 页：Point-LIO 与对比 -->
+    <section class="slide" data-slide="4">
+      <div class="slide-header">
+        <h2 class="slide-title">算法推演 · Point-LIO 与双算法对比</h2>
+        <div class="slide-tag">Algorithm: Point-LIO</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card">
+            <div class="card-title">🔬 Point-LIO 的差异化设计</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>点级状态估计</strong>：每来一个点即更新，不等整帧累积；</li>
+                <li><strong>更高融合频率</strong>：快速旋转 / 剧烈运动下更平滑；</li>
+                <li><strong>无显式地图管理</strong>：内存占用稳定。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🛠️ 本仓的实战用法</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>宇树 L1 默认跑 Point-LIO</strong>（unilidar_pointlio.launch）；</li>
+                <li><strong>效果不佳一键切换 FAST-LIO2</strong> 备用链路；</li>
+                <li><strong>imu_en 必须开启</strong>：关闭 IMU 参与会导致 LIO 退化（踩过坑）。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="info-card" style="margin-top: 18px;">
+          <div class="card-title">📊 双算法对比</div>
+          <div class="card-desc">
+            <ul>
+              <li><strong>配准方式</strong>：帧级（整帧对地图配准）vs 点级（单点即时融合）；</li>
+              <li><strong>地图结构</strong>：ikd-Tree 增量地图支持建图导出（PCD）vs 滑动状态估计无全局地图；</li>
+              <li><strong>优势场景</strong>：结构化室内建图与一致性 vs 剧烈运动的鲁棒性。</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 5 页：多传感器融合 -->
+    <section class="slide" data-slide="5">
+      <div class="slide-header">
+        <h2 class="slide-title">多传感器融合架构</h2>
+        <div class="slide-tag">Multi-Sensor Fusion</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">📡 宇树 L1</div>
+            <div class="card-desc">
+              <ul>
+                <li>3D 点云 10Hz · 2100 点/帧；</li>
+                <li>IMU 250Hz。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🎥 Intel T265</div>
+            <div class="card-desc">
+              <ul>
+                <li>VIO 双目鱼眼 + IMU；</li>
+                <li>200Hz 六自由度位姿。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">📏 2D 雷达</div>
+            <div class="card-desc">
+              <ul>
+                <li>Delta-2A 协议；</li>
+                <li>SLAM Toolbox 栅格建图。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="info-card" style="margin-top: 18px; border-color: rgba(245, 166, 35, 0.4);">
+          <div class="card-title" style="color: #f5a623;">🧠 Radxa X4 (N100) 融合中枢 · ROS 2 Jazzy</div>
+          <div class="card-desc">
+            <ul>
+              <li>位姿仲裁 · TF 广播（map → base_link 10Hz）· 三路看板；</li>
+              <li>REP-103 标准坐标系：前进 +X / 左移 +Y / 抬升 +Z，所有传感器统一标定到机器人右手系。</li>
+            </ul>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 雷达 × IMU：几何约束修正 IMU 漂移</div>
+          <div class="stat-chip">✓ T265 × 雷达：长走廊等退化场景补盲</div>
+          <div class="stat-chip">✓ 2D × 3D：栅格导航 + 精细建模</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 6 页：传感器阵容 -->
+    <section class="slide" data-slide="6">
+      <div class="slide-header">
+        <h2 class="slide-title">传感器阵容</h2>
+        <div class="slide-tag">Sensor Lineup</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">📡 宇树 Unitree 4D 雷达 L1 · 3D 主传感</div>
+            <div class="card-desc">
+              <ul>
+                <li>双电机复合非重复扫描：5000 RPM 摆镜 + 600 RPM 公转；</li>
+                <li>积分后全景覆盖，无扫描盲区；</li>
+                <li>输出 /unilidar/cloud（10Hz·2100 点）+ IMU 250Hz。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🎥 Intel RealSense T265 · 视觉里程计</div>
+            <div class="card-desc">
+              <ul>
+                <li>VPU 片上 VIO，双目鱼眼 + IMU，200Hz 位姿输出；</li>
+                <li>内部 ORB-SLAM 改良算法，主机零算力负担；</li>
+                <li>片上 AI 检测与空间坐标流。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">📏 2D 激光雷达（Delta-2A 协议）</div>
+            <div class="card-desc">
+              <ul>
+                <li>CH340 USB 串口接入，SLAM Toolbox 栅格建图；</li>
+                <li>支持串口停机序列（0xA5 0x65）静音待机；</li>
+                <li>驱动层修复后单圈 300+ 有效点。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🔬 RP2040 协处理器 · 实时小脑</div>
+            <div class="card-desc">
+              <ul>
+                <li>双核 Cortex-M0+，硬件 UART0 直推 460800/230400；</li>
+                <li>MicroPython 固件写入 Flash，通电 0ms 自启；</li>
+                <li>接管 40-Pin GPIO，为 N100 分担实时任务。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 7 页：2D 驱动攻坚 -->
+    <section class="slide" data-slide="7">
+      <div class="slide-header">
+        <h2 class="slide-title">工程落地 · 2D 驱动底层攻坚</h2>
+        <div class="slide-tag">Driver Debugging</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
+            <div class="card-title" style="color: #e5484d;">🐛 Bug 1 · 协议头缺 2 字节</div>
+            <div class="card-desc">
+              <ul>
+                <li>包头硬编码 8 字节，遗漏 2 字节校验和（CS），解析错位；</li>
+                <li><strong>80%~90% 数据包被当乱码丢弃</strong>，点数 0~20 剧烈跳变；</li>
+                <li><strong style="color: var(--primary);">修复：严格 10 字节包头对齐</strong> → 单圈 300+ 点，丢包归零。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
+            <div class="card-title" style="color: #e5484d;">🐛 Bug 2 · 采样点字节序颠倒</div>
+            <div class="card-desc">
+              <ul>
+                <li>[强度, 距离低, 距离高] 的强度字节被误拼进距离低位，产生大量伪噪点；</li>
+                <li><strong style="color: var(--primary);">修复：分离强度与距离</strong> + 三级抗噪滤波（盲区门限 + 半径 ROR + 角向斑点滤波）。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
+            <div class="card-title" style="color: #e5484d;">🐛 Bug 3 · 电机无法软件停转</div>
+            <div class="card-desc">
+              <ul>
+                <li>雷达持续旋转噪音大、寿命损耗；</li>
+                <li><strong style="color: var(--primary);">发现串口停机序列</strong>：0xA5 0x00 0xA5 0x65 + Break 条件直接切断电机供电，静音待机。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 单圈有效点：0~20 跳变 → 稳定 300+</div>
+          <div class="stat-chip">✓ 丢包率：80%~90% → ≈0</div>
+          <div class="stat-chip">✓ 电机控制：物理断电 → 串口指令静音</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 8 页：双脑架构 -->
+    <section class="slide" data-slide="8">
+      <div class="slide-header">
+        <h2 class="slide-title">工程落地 · 双脑架构</h2>
+        <div class="slide-tag">Dual-Brain Architecture</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🧠 大脑 · Radxa X4 主控（N100）</div>
+            <div class="card-desc">
+              <ul>
+                <li>x86_64 四核，跑 ROS 2 Jazzy 全家桶；</li>
+                <li>SLAM / 点云配准 / Web 服务 / 位姿仲裁；</li>
+                <li>外设挂载：宇树 L1 · T265 · 2D 雷达 · RP2040；</li>
+                <li>Fast DDS 共享内存需定期清理。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🔬 小脑 · RP2040 板载协处理器</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>双核 Cortex-M0+</strong>，硬实时性远超 Linux 调度；</li>
+                <li><strong>硬件 UART0</strong>（Pin 8 TX / Pin 10 RX）高速直推飞控；</li>
+                <li>460800 / 230400 波特率无缝切换；</li>
+                <li><strong>MicroPython 固件写入 Flash：通电 0ms 瞬间自启</strong>。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 设计价值：实时任务与重算力任务物理隔离——Linux 卡死不影响底层执行链路</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 9 页：T265 复活记 -->
+    <section class="slide" data-slide="9">
+      <div class="slide-header">
+        <h2 class="slide-title">工程落地 · T265 复活记</h2>
+        <div class="slide-tag">Reviving T265 on Ubuntu 24.04</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">① 源码复活</div>
+            <div class="card-desc">
+              <ul>
+                <li>Intel 官方 SDK v2.54 已移除 T265 支持；</li>
+                <li>源码编译 librealsense <strong>v2.53.1</strong>（最后支持版本）；</li>
+                <li>开启 <strong>-DBUILD_WITH_TM2=ON</strong> 跟踪模块后端，Ubuntu 24.04 原生激活。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">② 冲击防护</div>
+            <div class="card-desc">
+              <ul>
+                <li>瞬态机械冲击使加速度计量程爆表（Clipping），二次积分发散；</li>
+                <li><strong>动力学门限拦截</strong>非物理单步跳变（Anti-Shock Gating Filter）；</li>
+                <li>一键零点重标定消除零偏。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">③ 坐标系迁移</div>
+            <div class="card-desc">
+              <ul>
+                <li>原生光学右下前系 → REP-103 机器人右手系；</li>
+                <li>前进 +X / 左移 +Y / 抬升 +Z；</li>
+                <li>T265 看板（:8091）：200Hz 坐标流 · 姿态地平仪 · 一键标定。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 同一套经验可直接迁移到树莓派 / Cubie A7A 等 ARM 平台的 T265 接入</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 10 页：参数调优与避坑 -->
+    <section class="slide" data-slide="10">
+      <div class="slide-header">
+        <h2 class="slide-title">参数调优与避坑清单</h2>
+        <div class="slide-tag">Tuning &amp; Pitfalls</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">⚙️ FAST-LIO2 室内优化（laser_mapping.yaml）</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>体素网格 0.5 → 0.12m</strong>：室内特征锐化约 4 倍；</li>
+                <li><strong>探测范围 100 → 20m</strong>：过滤窗外阳光噪点，降低 CPU 负载；</li>
+                <li><strong>point_filter_num: 1</strong>：保留全部采样点；</li>
+                <li>输出 /Odometry：实时高精度 6-DOF 里程计。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🪤 Point-LIO 实战避坑</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>imu_en: true 勿关</strong>：关闭 IMU 参与会导致 LIO 退化；</li>
+                <li><strong>启动前清共享内存</strong>：rm /dev/shm/fastrtps_* 防启动失败；</li>
+                <li><strong>IMU 初始化 20~30s</strong>：启动后等自检完成再出数据；</li>
+                <li><strong>双算法互备</strong>：Point-LIO 不佳时切 FAST-LIO2 链路。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ start_slam.sh（2D 建图）</div>
+          <div class="stat-chip">✓ start_unilidar_l1.sh（L1 + FAST-LIO2）</div>
+          <div class="stat-chip">✓ stop_slam.sh（软件 + 物理停转）</div>
+          <div class="stat-chip">✓ robot_pose_publisher.py（10Hz 位姿广播）</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 11 页：可视化与验证 -->
+    <section class="slide" data-slide="11">
+      <div class="slide-header">
+        <h2 class="slide-title">可视化与验证</h2>
+        <div class="slide-tag">Web Visualization</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card">
+            <div class="card-title">🖥️ :8090 · 2D 雷达 + SLAM</div>
+            <div class="card-desc">
+              <ul>
+                <li>极坐标 HUD 视场放大（2.5/4/8m）；</li>
+                <li>实时 SLAM 全局坐标 X·Y·Yaw；</li>
+                <li>一键电机休眠。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🧭 :8091 · T265 姿态轨迹</div>
+            <div class="card-desc">
+              <ul>
+                <li>200Hz 三维坐标流；</li>
+                <li>飞机姿态地平仪；</li>
+                <li>抗冲击保护 · 一键标定。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🌐 :8093 · 宇树 L1 3D 点云</div>
+            <div class="card-desc">
+              <ul>
+                <li>Three.js WebGL 全景点云；</li>
+                <li>FAST-LIO2 空间绝对坐标；</li>
+                <li>多帧余晖累积滑块。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 2D 链路：栅格地图 + 全局坐标回读一致性</div>
+          <div class="stat-chip">✓ 3D 链路：/Odometry 与 /cloud_registered 配准质量核对</div>
+          <div class="stat-chip">✓ 断电恢复：驱动自愈与位姿连续性验证</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 12 页：收尾 -->
+    <section class="slide" data-slide="12">
+      <div class="cover-layout">
+        <div class="cover-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--secondary); border-color: var(--secondary);">✨ 项目小结</div>
+        <h2 class="cover-title" style="font-size: 2.6rem;">算法 · 驱动 · 架构 · 实测</h2>
+        <p class="cover-sub">从开源驱动的字节级修复，到 FAST-LIO2 的室内参数调优，全链路自己走通</p>
+        <div class="cover-meta" style="justify-content: center;">
+          <div>紧耦合 LIO</div>
+          <div>双算法互备</div>
+          <div>双脑架构</div>
+          <div>驱动级攻坚</div>
+          <div>网页三维可视化</div>
+        </div>
+        <div style="margin-top: 24px;">
+          <a href="https://github.com/LONEFORME/lidar-slam-nav" target="_blank" class="hud-btn" style="display: inline-flex; text-decoration: none; padding: 12px 28px; font-size: 1rem; border-color: var(--primary); color: var(--primary);">
+            查看源码仓库 ↗
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 底部控制器 HUD -->
+  <footer class="deck-hud">
+    <div class="hud-controls">
+      <button class="hud-btn" id="prevBtn" title="上一页 (←)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>
+        上一页
+      </button>
+      <button class="hud-btn" id="nextBtn" title="下一页 (→/空格)">
+        下一页
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </button>
+      <button class="hud-btn" id="fullscreenBtn" title="切换全屏放映 (F)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+        全屏放映
+      </button>
+      <a class="hud-btn" id="exitBtn" href="/slides/" title="返回演示稿列表 (Esc)" style="text-decoration: none;">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5m7-7-7 7 7 7"></path></svg>
+        返回列表
+      </a>
+    </div>
+    <div class="hud-counter">
+      <span id="currentSlideNum"><b>01</b></span> / <span id="totalSlidesNum">08</span>
+    </div>
+  </footer>
+
+  <script>
+    (function() {
+      var slides = document.querySelectorAll('.slide');
+      var total = slides.length;
+      var current = 0;
+      var progressBar = document.getElementById('progressBar');
+      var currentNum = document.getElementById('currentSlideNum');
+      var totalNum = document.getElementById('totalSlidesNum');
+      totalNum.textContent = String(total).padStart(2, '0');
+
+      function updateSlide(index) {
+        if (index < 0) index = 0;
+        if (index >= total) index = total - 1;
+        current = index;
+
+        slides.forEach(function(s, idx) {
+          s.classList.remove('active', 'prev');
+          if (idx === current) {
+            s.classList.add('active');
+          } else if (idx < current) {
+            s.classList.add('prev');
+          }
+        });
+
+        var pct = ((current + 1) / total) * 100;
+        progressBar.style.width = pct + '%';
+        currentNum.innerHTML = '<b>' + String(current + 1).padStart(2, '0') + '</b>';
+      }
+
+      function next() { updateSlide(current + 1); }
+      function prev() { updateSlide(current - 1); }
+
+      document.getElementById('nextBtn').addEventListener('click', next);
+      document.getElementById('prevBtn').addEventListener('click', prev);
+
+      // 键盘控制
+      window.addEventListener('keydown', function(e) {
+        if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+          e.preventDefault();
+          next();
+        } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
+          e.preventDefault();
+          prev();
+        } else if (e.key === 'f' || e.key === 'F') {
+          toggleFullscreen();
+        } else if (e.key === 'Escape') {
+          if (document.fullscreenElement) {
+            if (document.exitFullscreen) document.exitFullscreen();
+          } else {
+            window.location.href = '/slides/';
+          }
+        } else if (e.key === 'Home') {
+          updateSlide(0);
+        } else if (e.key === 'End') {
+          updateSlide(total - 1);
+        }
+      });
+
+      // 全屏切换
+      function toggleFullscreen() {
+        if (!document.fullscreenElement) {
+          document.documentElement.requestFullscreen().catch(function() {});
+        } else {
+          if (document.exitFullscreen) document.exitFullscreen();
+        }
+      }
+      document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscreen);
+
+      // 鼠标滚轮切换防抖
+      var wheelTimer = null;
+      window.addEventListener('wheel', function(e) {
+        if (wheelTimer) return;
+        wheelTimer = setTimeout(function() { wheelTimer = null; }, 300);
+        if (e.deltaY > 20) next();
+        else if (e.deltaY < -20) prev();
+      }, { passive: true });
+
+      // 触控滑动支持
+      var touchStartX = 0;
+      window.addEventListener('touchstart', function(e) {
+        touchStartX = e.changedTouches[0].clientX;
+      }, { passive: true });
+      window.addEventListener('touchend', function(e) {
+        var diffX = e.changedTouches[0].clientX - touchStartX;
+        if (diffX < -50) next();
+        else if (diffX > 50) prev();
+      }, { passive: true });
+
+      updateSlide(0);
+    })();
+  </script>
+</body>
+</html>

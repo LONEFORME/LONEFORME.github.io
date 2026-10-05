@@ -54,13 +54,13 @@ permalink: /slides/
     </div>
   </div>
 
-  <!-- 演示稿 2：预留/计划中激光雷达 SLAM 演示稿 -->
+  <!-- 演示稿 2：激光雷达 SLAM 项目介绍 -->
   <div class="card slide-deck-card">
     <div class="slide-deck-preview" style="background: linear-gradient(135deg, #0e1e38 0%, #162a45 100%);">
-      <div class="slide-badge-top" style="background: rgba(0, 212, 255, 0.2); color: #00d4ff;">技术分享 · 规划中</div>
+      <div class="slide-badge-top" style="background: rgba(0, 212, 255, 0.2); color: #00d4ff;">算法剖析 · 12 页</div>
       <div class="slide-mini-stage">
         <div class="slide-mini-title" style="color: #64b5f6;">3D 激光雷达 SLAM 与多传感器融合</div>
-        <div class="slide-mini-subtitle">FAST-LIO 算法原理解析与板端实测</div>
+        <div class="slide-mini-subtitle">FAST-LIO 算法推演 · 驱动攻坚 · 已落地实测</div>
         <div class="slide-mini-tags">
           <span>FAST-LIO</span>
           <span>Point-LIO</span>
@@ -70,14 +70,17 @@ permalink: /slides/
     </div>
     <div class="card-body">
       <h3>3D 激光雷达 SLAM 算法推演与工程落地</h3>
-      <p>剖析 FAST-LIO / Point-LIO 在无人机与自主移动机器人上的状态估计、卡尔曼滤波数学推导与实车点云优化经验。</p>
+      <p>剖析 FAST-LIO / Point-LIO 状态估计原理与双算法互备；2D 驱动字节级修复、双脑架构、T265 复活记与三路网页三维可视化，含实机参数调优与避坑清单。</p>
       <div class="card-tags">
         <span class="tag">算法剖析</span>
         <span class="tag">激光雷达</span>
         <span class="tag">点云建图</span>
       </div>
       <div class="slide-action-row">
-        <span class="text-muted" style="font-size: 0.85rem; color: var(--color-muted);">制作排期中 · 即将上线</span>
+        <a href="/slides/lidar_slam_nav.html" target="_blank" class="card-link slide-play-btn">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+          立即在线放映 (全屏) ↗
+        </a>
       </div>
     </div>
   </div>
