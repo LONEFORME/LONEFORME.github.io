@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>地瓜派 RDK X5 多模态智能安防系统 · 技术答辩汇报</title>
+  <title>基于激光雷达的远程安防监控系统 · 项目介绍</title>
   <style>
     :root {
       --bg: #090d16;
@@ -321,123 +321,165 @@
     <!-- 第 1 页：封面 -->
     <section class="slide active" data-slide="1">
       <div class="cover-layout">
-        <div class="cover-badge">⚡ 软硬件闭环 · 毕业与技术答辩汇报</div>
-        <h1 class="cover-title">地瓜派 RDK X5<br>多模态智能安防系统</h1>
-        <p class="cover-sub">基于 BPU 边缘异构计算、双目视觉识别、激光雷达测距与自适应齿条门禁机构的完整工程实现</p>
+        <div class="cover-badge">🛡️ 项目介绍 · PROJECT INTRODUCTION</div>
+        <h1 class="cover-title">基于激光雷达的<br>远程安防监控系统</h1>
+        <p class="cover-sub">边缘智能 · 多模态融合 · 已落地运行 —— 以激光雷达为空间感知核心，融合视觉、指纹、声学与温度感知的多模态智能安防中枢</p>
         <div class="cover-meta">
-          <div>主控平台：<span>地平线 RDK X5 (BPU 10 TOPS)</span></div>
-          <div>算法中枢：<span>YOLOv8 + FaceNet + ROS2</span></div>
-          <div>设计标准：<span>软硬件双电源解耦</span></div>
+          <div>主控平台：<span>地瓜派 RDK X5（10 TOPS BPU）</span></div>
+          <div>感知核心：<span>镭神 N10P 激光雷达 · 360° / 12Hz</span></div>
+          <div>监控形态：<span>Web 远程监控台（6 Tab）</span></div>
         </div>
       </div>
     </section>
 
-    <!-- 第 2 页：痛点与设计目标 -->
+    <!-- 第 2 页：项目概览 -->
     <section class="slide" data-slide="2">
       <div class="slide-header">
-        <h2 class="slide-title">传统安防的局限与多模态破局</h2>
-        <div class="slide-tag">Problem & Motivation</div>
+        <h2 class="slide-title">项目概览</h2>
+        <div class="slide-tag">Project Overview</div>
       </div>
       <div class="slide-body">
         <div class="grid-2">
           <div class="info-card">
-            <div class="card-title">⚠️ 传统单模态安防的致命瓶颈</div>
+            <div class="card-title">⚠️ 传统可见光监控的三个短板</div>
             <div class="card-desc">
               <ul>
-                <li><strong>纯单目视觉易被欺骗</strong>：易受 2D 照片、屏幕翻拍或暗光阴影影响，抗物理攻击弱；</li>
-                <li><strong>测距缺失与误报警</strong>：单目摄像头无法精确获取入侵者空间距离，落叶飞鸟误报率高；</li>
-                <li><strong>云端依赖与网络延迟</strong>：视频上传公网云端识别存在隐私泄露风险，网络抖动导致开门响应延迟 >2s。</li>
+                <li><strong>夜间低照度失效</strong>：纯可见光相机在暗光下基本失明；</li>
+                <li><strong>缺少空间深度</strong>：画面无法量化距离，误报难抑制；</li>
+                <li><strong>无物理反制手段</strong>：只能记录，不能拦截与告警驱离。</li>
               </ul>
             </div>
           </div>
           <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">🎯 本项目的多模态闭环解决方案</div>
+            <div class="card-title" style="color: var(--primary);">🎯 本方案的应对</div>
             <div class="card-desc">
               <ul>
-                <li><strong>BPU 边缘纯离线计算</strong>：地平线 RDK X5 本地完成 10 TOPS 深度推理，零数据外流，识别延迟 &lt;50ms；</li>
-                <li><strong>激光雷达空间感知融合</strong>：TOF/LiDAR 精准锁定 0.1~12m 人体空间坐标，形成警戒触发围栏；</li>
-                <li><strong>人脸 + 指纹 (FPM007) 双因子核验</strong>：非接触与高可信生物特征互补，全天候高防伪。</li>
+                <li><strong>激光雷达空间感知</strong>：360° 点云测距，不依赖光照条件；</li>
+                <li><strong>量化判定三级状态机</strong>：距离 / 点数 / 持续时间三重防抖；</li>
+                <li><strong>门禁与声光现场反制</strong>：舵机门禁 + 蜂鸣器 + 抓拍存证。</li>
               </ul>
             </div>
           </div>
         </div>
         <div class="stat-badge-row">
-          <div class="stat-chip">✓ 本地推演时延 &lt; 50ms</div>
-          <div class="stat-chip">✓ 测距精度 ±1.5cm</div>
-          <div class="stat-chip">✓ 误报率降低 92%</div>
+          <div class="stat-chip">✓ 10 TOPS BPU 边缘算力</div>
+          <div class="stat-chip">✓ 360° / 12Hz 雷达扫描</div>
+          <div class="stat-chip">✓ 双摄 1080P + 720P</div>
+          <div class="stat-chip">✓ 6 类感知子系统</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 3 页：系统总体硬件架构 -->
+    <!-- 第 3 页：系统架构 -->
     <section class="slide" data-slide="3">
       <div class="slide-header">
-        <h2 class="slide-title">总体硬件拓扑与总线互联</h2>
-        <div class="slide-tag">Hardware Architecture</div>
+        <h2 class="slide-title">系统架构</h2>
+        <div class="slide-tag">System Architecture</div>
       </div>
       <div class="slide-body">
-        <div class="grid-3">
+        <div class="grid-2">
           <div class="info-card">
-            <div class="card-title">📷 视觉输入层 (Dual CAM)</div>
+            <div class="card-title">🖥️ 应用层 · 浏览器</div>
             <div class="card-desc">
               <ul>
-                <li><strong>MIPI-CSI 主摄</strong>：1080P/60fps 宽动态，输入 BPU 人脸检测流；</li>
-                <li><strong>USB 辅助广角摄</strong>：大视场角环境监控与近场步态捕捉；</li>
-                <li><strong>全志/板载硬件 ISP</strong>：逆光提亮与自适应曝光。</li>
+                <li>Web 监控台（6 Tab 单页应用）：态势大屏 · 防区配置 · 门禁控制 · 视频相册 · 语音对讲 · 事件审计；</li>
+                <li>REST API · WebSocket 推送 · MJPEG 视频流。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🧠 算法层 · RDK X5 边缘计算</div>
+            <div class="card-desc">
+              <ul>
+                <li>FastAPI 主服务：电子围栏 → 背景滤除 → 聚类 → 三级状态机；</li>
+                <li>人脸 / 指纹 / BPU 检测 · 事件存证 · 执行器与外设调度。</li>
               </ul>
             </div>
           </div>
           <div class="info-card">
-            <div class="card-title">🧠 边缘计算核 (RDK X5)</div>
+            <div class="card-title">📡 感知层 · 传感器</div>
             <div class="card-desc">
               <ul>
-                <li><strong>八核 ARM A55</strong>：跑 Ubuntu 22.04 + ROS2 多节点守护；</li>
-                <li><strong>双核 BPU (10 TOPS)</strong>：INT8 量化模型秒级吞吐；</li>
-                <li><strong>双网卡冗余</strong>：千兆以太网 + WiFi 自动故障倒换。</li>
+                <li>镭神 N10P 激光雷达（ROS2 /scan 接入）；</li>
+                <li>双目 USB 摄像头 1080P / 720P；</li>
+                <li>指纹 · 温湿度 · 声学采集。</li>
               </ul>
             </div>
           </div>
           <div class="info-card">
-            <div class="card-title">🚪 门禁与生物识别执行层</div>
+            <div class="card-title">⚙️ 执行层 · 执行器</div>
             <div class="card-desc">
               <ul>
-                <li><strong>FPM007 光学指纹模组</strong>：UART 串口通信，特征库板端加密；</li>
-                <li><strong>齿条直线推拉门禁</strong>：大扭矩步进驱动与光电行程限位；</li>
-                <li><strong>蜂鸣器与双色状态指示</strong>：本地实时声光反馈。</li>
+                <li>舵机齿条门禁 · RGB 三色灯；</li>
+                <li>蜂鸣器 · OLED · 语音声卡（GPIO / PWM / I2C 直控）。</li>
               </ul>
             </div>
           </div>
         </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">Ubuntu 22.04</div>
+          <div class="stat-chip">ROS2 Humble</div>
+          <div class="stat-chip">FastAPI</div>
+          <div class="stat-chip">WebSocket</div>
+          <div class="stat-chip">InsightFace</div>
+          <div class="stat-chip">GPIO / PWM</div>
+        </div>
       </div>
     </section>
 
-    <!-- 第 4 页：传感器融合与测距算法 -->
+    <!-- 第 4 页：硬件组成 -->
     <section class="slide" data-slide="4">
       <div class="slide-header">
-        <h2 class="slide-title">激光雷达空间感知与区域警戒</h2>
-        <div class="slide-tag">Perception & LiDAR</div>
+        <h2 class="slide-title">硬件组成</h2>
+        <div class="slide-tag">Hardware</div>
       </div>
       <div class="slide-body">
         <div class="grid-2">
-          <div class="info-card">
-            <div class="card-title">🛰️ 激光雷达点云预处理链路</div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🧩 核心主控 · 地瓜派 RDK X5</div>
             <div class="card-desc">
-              <p>雷达以 10Hz/460800 波特率采集 360° 空间距离。驱动层采用零拷贝共享内存传递点云包。</p>
               <ul>
-                <li><strong>动态体素滤波 (VoxelGrid)</strong>：剔除灰尘与飞虫噪点；</li>
-                <li><strong>扇区视场裁剪 (ROI Filter)</strong>：只关注门前 ±60° 入侵警戒扇区；</li>
-                <li><strong>聚类跟踪 (Euclidean Cluster)</strong>：连续 3 帧锁定目标质心与移动矢量。</li>
+                <li>8 核 ARM Cortex-A55 @ 1.5GHz + 10 TOPS BPU；</li>
+                <li>Ubuntu 22.04 · ROS2 Humble；</li>
+                <li>GPIO / PWM / UART / I2C 外设接口；</li>
+                <li>systemd 自启 + 异常自动重启，长期无人值守。</li>
               </ul>
             </div>
           </div>
           <div class="info-card">
-            <div class="card-title">⚡ 双阶段级联唤醒机制 (降低能耗)</div>
+            <div class="card-title">📡 镭神 N10P · 激光雷达</div>
             <div class="card-desc">
-              <p>避免 8 核 CPU 与 BPU 处于持续高功耗跑满状态：</p>
               <ul>
-                <li><strong>休眠待机态 (&lt;3.5W)</strong>：仅激光雷达低频感知警戒线（1.5m 以外）；</li>
-                <li><strong>近距离触发态</strong>：雷达检测到物体进入 1.2m 触发阈值，GPIO 中断秒级拉起 MIPI 摄像头与 BPU；</li>
-                <li><strong>实测效果</strong>：整机平均功耗降低 65%，设备发热温升下降 18℃。</li>
+                <li>TOF 测距原理，USB 虚拟串口接入；</li>
+                <li>360° 环境持续扫描，不依赖光照；</li>
+                <li>实测约 12Hz 扫描、单圈 362 点。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">360° 扫描角度</div>
+          <div class="stat-chip">12Hz 扫描频率</div>
+          <div class="stat-chip">10m 测距范围</div>
+        </div>
+        <div class="grid-2" style="margin-top: 18px;">
+          <div class="info-card">
+            <div class="card-title">🔌 传感器与执行器</div>
+            <div class="card-desc">
+              <ul>
+                <li>舵机齿条门禁（360° 连续旋转 · 行程 5.3s）；</li>
+                <li>双目 USB 摄像头（主摄 1080P + 副摄 720P · UVC）；</li>
+                <li>ML-FPM007 指纹模组（UART + 触摸唤醒）；</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🔊 现场交互外设</div>
+            <div class="card-desc">
+              <ul>
+                <li>RGB 三色指示灯（绿/黄/红 · GPIO 直控）；</li>
+                <li>AHT10 温湿度 + ADS1115 16 位声学采集；</li>
+                <li>OLED 现场仪表 + ES8326 车规声卡（全双工对讲）。</li>
               </ul>
             </div>
           </div>
@@ -445,129 +487,364 @@
       </div>
     </section>
 
-    <!-- 第 5 页：BPU 推理与人脸识别 -->
+    <!-- 第 5 页：雷达感知与防区算法 -->
     <section class="slide" data-slide="5">
       <div class="slide-header">
-        <h2 class="slide-title">地平线 BPU 深度推理与双因子核验</h2>
-        <div class="slide-tag">Edge AI & Inference</div>
+        <h2 class="slide-title">雷达感知与防区算法</h2>
+        <div class="slide-tag">Radar Sensing Pipeline</div>
       </div>
       <div class="slide-body">
         <div class="grid-2">
-          <div class="info-card">
-            <div class="card-title">🧠 BPU 模型量化与流水线优化</div>
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🔄 感知算法流水线</div>
             <div class="card-desc">
               <ul>
-                <li><strong>检测网络</strong>：YOLOv8-Face-Nano 量化至 INT8，推理耗时 <strong>14.2ms</strong>；</li>
-                <li><strong>特征提取</strong>：MobileFaceNet 生成 512 维特征向量，耗时 <strong>19.8ms</strong>；</li>
-                <li><strong>异构流水线</strong>：DMA 硬件内存搬运，CPU 占用率控制在 15% 以下。</li>
+                <li><strong>① 电子围栏扇区过滤</strong>：只关注布防扇区内的点云；</li>
+                <li><strong>② 静态背景自学习滤除</strong>：开机 3 秒标定环境，消除固定物干扰；</li>
+                <li><strong>③ 欧氏邻域聚类</strong>：0.18m 半径成簇，最少 5 点抑制噪声；</li>
+                <li><strong>④ 三级状态机判定</strong>：空间 / 数量 / 时间三重防抖。</li>
               </ul>
             </div>
           </div>
           <div class="info-card">
-            <div class="card-title">🔐 安全鉴权仲裁状态机</div>
+            <div class="card-title">🛠️ 雷达驱动自愈</div>
             <div class="card-desc">
               <ul>
-                <li><strong>单认证模式</strong>：注册人脸置信度 &gt;0.88 或指纹对比成功即放行；</li>
-                <li><strong>高防伪双核验</strong>：金融级安全要求下需人脸特征 + 指纹在 5s 内同时匹配；</li>
-                <li><strong>本地黑名单阻断</strong>：连续 3 次认证失败即锁定系统并发出高分贝声光警报。</li>
+                <li><strong>空点圈检测</strong>：连续 15 秒只有无效距离点，判定上电初期异常；</li>
+                <li><strong>自动重启驱动</strong>：两次尝试间隔 ≥60 秒防抖；</li>
+                <li><strong>秒级恢复</strong>：实测重启后恢复约 12Hz、300+ 有效点。</li>
               </ul>
             </div>
           </div>
         </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 扇形防区 315°~45°（跨 0°）</div>
+          <div class="stat-chip">✓ 检测距离 0.1~8.0m · 报警阈值 0.5m</div>
+          <div class="stat-chip">✓ 连续计数阈值 10 · 保持 0.2s</div>
+          <div class="stat-chip">✓ 参数在线热更新 · 持久化</div>
+        </div>
       </div>
     </section>
 
-    <!-- 第 6 页：工程可靠性与电磁安全 -->
+    <!-- 第 6 页：三级报警与告警存证 -->
     <section class="slide" data-slide="6">
       <div class="slide-header">
-        <h2 class="slide-title">工业级可靠性设计与开机自愈</h2>
-        <div class="slide-tag">Reliability & Stability</div>
+        <h2 class="slide-title">三级报警与告警存证</h2>
+        <div class="slide-tag">Alarm &amp; Evidence</div>
       </div>
       <div class="slide-body">
         <div class="grid-3">
           <div class="info-card">
-            <div class="card-title">⚡ 供电系统解耦</div>
+            <div class="card-title" style="color: var(--primary);">🟢 正常 STANDBY</div>
             <div class="card-desc">
-              <p>门禁电机大电流推拉与高灵敏计算板分离。12V 动力总线通过 DCDC 隔离稳压至 5V 4A 独立供给 RDK X5，杜绝反电动势打死主板。</p>
+              <ul>
+                <li>防区内无目标或点数少；</li>
+                <li>绿灯常亮，系统待机。</li>
+              </ul>
             </div>
           </div>
           <div class="info-card">
-            <div class="card-title">🛡️ 设备树与端口防冲</div>
+            <div class="card-title" style="color: #f5a623;">🟡 警告 WARNING</div>
             <div class="card-desc">
-              <p>编写专属 Device Tree Overlay，屏蔽冲突 UART7，锁定 `/dev/ttyS1` 专线驱动指纹模块与蜂鸣器 IO，消除引脚浮空误触发。</p>
+              <ul>
+                <li>点数少或持续短；</li>
+                <li>黄灯常亮，提示关注。</li>
+              </ul>
             </div>
           </div>
-          <div class="info-card">
-            <div class="card-title">🔄 Systemd 全进程自愈</div>
+          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.45);">
+            <div class="card-title" style="color: #e5484d;">🔴 报警 ALARM</div>
             <div class="card-desc">
-              <p>封装 `security_daemon.service` 与静音守护服务，异常崩溃时 2s 自动拉起，开机 12s 内进入全自主防护态。</p>
+              <ul>
+                <li>点数 ≥ 阈值且持续满足；</li>
+                <li>红灯常亮 + 蜂鸣器。</li>
+              </ul>
             </div>
+          </div>
+        </div>
+        <div class="info-card" style="margin-top: 18px;">
+          <div class="card-title">📸 告警存证链</div>
+          <div class="card-desc">
+            <ul>
+              <li><strong>报警确认 → 自动抓拍（Quality 95）→ FIFO 相册 50 张循环淘汰 → 事件审计可导出</strong>；</li>
+              <li>抓拍冷却 3 秒防重复刷屏；入侵 / 陌生面孔 / 非法指纹 / 手动操作均可触发存证。</li>
+            </ul>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- 第 7 页：实测指标与参数对比 -->
+    <!-- 第 7 页：智能门禁系统 -->
     <section class="slide" data-slide="7">
       <div class="slide-header">
-        <h2 class="slide-title">系统核心性能指标与实测实录</h2>
-        <div class="slide-tag">Performance Benchmarks</div>
+        <h2 class="slide-title">智能门禁系统</h2>
+        <div class="slide-tag">Smart Access Control</div>
       </div>
       <div class="slide-body">
-        <div class="info-card" style="padding: 28px;">
-          <table style="width: 100%; border-collapse: collapse; font-family: var(--font-mono); font-size: 0.95rem;">
-            <thead>
-              <tr style="border-bottom: 2px solid var(--border); text-align: left; color: var(--secondary);">
-                <th style="padding: 12px 16px;">测试项目</th>
-                <th style="padding: 12px 16px;">设计指标</th>
-                <th style="padding: 12px 16px;">实测结果 (RDK X5 实机)</th>
-                <th style="padding: 12px 16px;">达成状态</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr style="border-bottom: 1px solid var(--border);">
-                <td style="padding: 12px 16px; color: #fff;">人脸检测 + 特征提取全链路</td>
-                <td style="padding: 12px 16px; color: var(--muted);">&lt; 80 ms</td>
-                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">34.0 ms (BPU INT8)</td>
-                <td style="padding: 12px 16px; color: var(--primary);">优于指标 57%</td>
-              </tr>
-              <tr style="border-bottom: 1px solid var(--border);">
-                <td style="padding: 12px 16px; color: #fff;">激光雷达近场触发响应</td>
-                <td style="padding: 12px 16px; color: var(--muted);">&lt; 100 ms</td>
-                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">45.2 ms</td>
-                <td style="padding: 12px 16px; color: var(--primary);">达标</td>
-              </tr>
-              <tr style="border-bottom: 1px solid var(--border);">
-                <td style="padding: 12px 16px; color: #fff;">指纹匹配时延 (FPM007)</td>
-                <td style="padding: 12px 16px; color: var(--muted);">&lt; 300 ms</td>
-                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">180 ms</td>
-                <td style="padding: 12px 16px; color: var(--primary);">达标</td>
-              </tr>
-              <tr style="border-bottom: 1px solid var(--border);">
-                <td style="padding: 12px 16px; color: #fff;">自适应齿条门禁推拉行程</td>
-                <td style="padding: 12px 16px; color: var(--muted);">300 mm</td>
-                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">300 ± 0.5 mm</td>
-                <td style="padding: 12px 16px; color: var(--primary);">高精度到位</td>
-              </tr>
-              <tr>
-                <td style="padding: 12px 16px; color: #fff;">整机 24h 连续烤机稳定性</td>
-                <td style="padding: 12px 16px; color: var(--muted);">0 崩溃 0 内存泄露</td>
-                <td style="padding: 12px 16px; color: var(--primary); font-weight: 600;">连续运行 72h 正常</td>
-                <td style="padding: 12px 16px; color: var(--primary);">通过工业考核</td>
-              </tr>
-            </tbody>
-          </table>
+        <div class="grid-3">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">1️⃣ 人脸识别引擎</div>
+            <div class="card-desc">
+              <ul>
+                <li>InsightFace：SCRFD 检测 + ArcFace 512 维特征；</li>
+                <li>双眼连线 Roll 校正 + 鼻尖水平偏离估算；</li>
+                <li>≤35° 侧脸拦截，正脸才进入比对；</li>
+                <li>置信度达标自动开门（阈值 0.35 可调）。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">2️⃣ 指纹识别门禁</div>
+            <div class="card-desc">
+              <ul>
+                <li>ML-FPM007 面阵半导体模组（UART 直连）；</li>
+                <li>1~100 编号录入 · 同一手指三次采集确认；</li>
+                <li>按编号删除 · Touch 触摸唤醒省电；</li>
+                <li>非法试探联动声光报警。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">3️⃣ 舵机齿条门禁</div>
+            <div class="card-desc">
+              <ul>
+                <li>360° 连续旋转舵机 + 齿条传动机构；</li>
+                <li>毫秒级时间微积分构建虚拟编码器；</li>
+                <li>开度 0~100% 实时落盘 · 断电不丢步；</li>
+                <li>行程 5.3s · 一键开关 / 急停 / 零点校准。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 识别通过 → 自动开门 → 抓拍存证 → 事件记录</div>
+          <div class="stat-chip">✓ 双生物识别 + 机械执行，全程无需人工值守</div>
         </div>
       </div>
     </section>
 
-    <!-- 第 8 页：总结与答辩结语 -->
+    <!-- 第 8 页：多模态感知与现场交互 -->
     <section class="slide" data-slide="8">
+      <div class="slide-header">
+        <h2 class="slide-title">多模态感知与现场交互</h2>
+        <div class="slide-tag">Multimodal Sensing</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card">
+            <div class="card-title">🧲 BPU 视觉检测</div>
+            <div class="card-desc">
+              <ul>
+                <li>YOLOv8 硬件加速推理，实时区分人 / 物，零 CPU 负荷；</li>
+                <li>空闲时停取帧，算力按需分配。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🎥 双摄视频管线</div>
+            <div class="card-desc">
+              <ul>
+                <li>主摄 1080P · 副摄 720P；</li>
+                <li>无人观看自动降至 2 FPS 节能；掉电自愈 · 曝光自适应。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🔨 声学破拆检测</div>
+            <div class="card-desc">
+              <ul>
+                <li>ADS1115 16 位差分采集；</li>
+                <li>80mV / 30ms 识别暴力冲击。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🔥 超温火警联动</div>
+            <div class="card-desc">
+              <ul>
+                <li>AHT10 实时温湿度监测；</li>
+                <li>≥45°C 联动声光报警 ≤1s。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">📟 OLED 现场仪表</div>
+            <div class="card-desc">
+              <ul>
+                <li>SSD1306 128×64 点阵；</li>
+                <li>访客中文字幕 · 反色火警弹窗。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🎙️ 语音对讲与门铃</div>
+            <div class="card-desc">
+              <ul>
+                <li>ES8326 车规声卡全双工对讲；</li>
+                <li>远程通话 · 叮咚门铃播放。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 9 页：Web 远程监控台 -->
+    <section class="slide" data-slide="9">
+      <div class="slide-header">
+        <h2 class="slide-title">Web 远程监控台</h2>
+        <div class="slide-tag">Web Console</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-3">
+          <div class="info-card">
+            <div class="card-title">📊 态势大屏</div>
+            <div class="card-desc">
+              <ul>
+                <li>实时点云雷达图；</li>
+                <li>目标 / 防区叠加显示；</li>
+                <li>状态灯实时同步。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🎛️ 防区参数</div>
+            <div class="card-desc">
+              <ul>
+                <li>角度 / 距离在线调节；</li>
+                <li>阈值热更新；</li>
+                <li>参数持久化不丢失。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🚪 门禁控制</div>
+            <div class="card-desc">
+              <ul>
+                <li>远程开关门 · 开度显示；</li>
+                <li>急停按钮；</li>
+                <li>人脸 / 指纹 / 远程开门。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🎬 视频与相册</div>
+            <div class="card-desc">
+              <ul>
+                <li>双摄 MJPEG 实时流；</li>
+                <li>手动抓拍；</li>
+                <li>FIFO 事件相册查看。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🎙️ 语音对讲</div>
+            <div class="card-desc">
+              <ul>
+                <li>全双工远程通话；</li>
+                <li>叮咚门铃远程应答。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">📋 事件审计</div>
+            <div class="card-desc">
+              <ul>
+                <li>报警 / 人脸 / 指纹全记录；</li>
+                <li>一键导出。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ http://192.168.2.106:8080（网线直连固定地址）</div>
+          <div class="stat-chip">✓ HTML5 + WebSocket 实时推送 · 响应式适配手机</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 10 页：可靠性与部署 -->
+    <section class="slide" data-slide="10">
+      <div class="slide-header">
+        <h2 class="slide-title">可靠性与部署</h2>
+        <div class="slide-tag">Reliability &amp; Deployment</div>
+      </div>
+      <div class="slide-body">
+        <div class="grid-2">
+          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
+            <div class="card-title" style="color: var(--primary);">🔌 开机自启与持久化</div>
+            <div class="card-desc">
+              <ul>
+                <li>security-system.service 开机自启，异常退出 3 秒后自动重启；</li>
+                <li>代码 / 配置 / 人脸库 / 指纹名单 / 事件记录全部落盘 eMMC ext4 分区，断电不丢失；</li>
+                <li>开机早期蜂鸣器静音服务，防加电误叫。</li>
+              </ul>
+            </div>
+          </div>
+          <div class="info-card">
+            <div class="card-title">🛠️ 全链路自愈与容错</div>
+            <div class="card-desc">
+              <ul>
+                <li><strong>雷达</strong>：空点圈 15 秒自动重启驱动；</li>
+                <li><strong>摄像头</strong>：掉电自愈 · 无人观看自动降载；</li>
+                <li><strong>门禁</strong>：开度断电记忆，上电恢复现场；</li>
+                <li><strong>指纹</strong>：模板双存储（模组 Flash + 注册表）；</li>
+                <li><strong>配置</strong>：防区 / 阈值在线热更新并落盘。</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="stat-badge-row">
+          <div class="stat-chip">✓ 网线直连：PC 设 192.168.2.100/24 → http://192.168.2.106:8080</div>
+          <div class="stat-chip">✓ Wi-Fi 地址动态；mDNS 可用时可用主机名访问</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 11 页：实测运行指标 -->
+    <section class="slide" data-slide="11">
+      <div class="slide-header">
+        <h2 class="slide-title">实测运行指标</h2>
+        <div class="slide-tag">Measured Performance</div>
+      </div>
+      <div class="slide-body">
+        <div class="stat-badge-row" style="justify-content: center; gap: 14px;">
+          <div class="stat-chip"><b style="color: var(--primary);">11.8 Hz</b> 雷达点云帧率</div>
+          <div class="stat-chip"><b style="color: var(--primary);">362 点</b> 单圈点云数</div>
+          <div class="stat-chip"><b style="color: var(--primary);">10 Hz</b> 大屏推送定频</div>
+          <div class="stat-chip"><b style="color: var(--primary);">&lt;1%</b> 门禁开度误差</div>
+          <div class="stat-chip"><b style="color: var(--primary);">≤1s</b> 火警联动响应</div>
+          <div class="stat-chip"><b style="color: var(--primary);">80mV·30ms</b> 声学冲击响应</div>
+        </div>
+        <div class="info-card" style="margin-top: 22px;">
+          <div class="card-title">✅ 断电恢复核对（2026-09-29 实机）</div>
+          <div class="card-desc">
+            <ul>
+              <li>重启并插拔网线后，固定地址访问正常，网页状态正常；</li>
+              <li>服务开机自启，重启后未再出现崩溃；</li>
+              <li>雷达自动恢复约 12 Hz、300+ 有效点；</li>
+              <li>两路摄像头分辨率保持 1080P / 720P；</li>
+              <li>门状态、人脸开关与防区配置保持不变；指纹模组断电后自动重连。</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第 12 页：收尾 -->
+    <section class="slide" data-slide="12">
       <div class="cover-layout">
-        <div class="cover-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--secondary); border-color: var(--secondary);">✨ 总结与展望</div>
-        <h2 class="cover-title" style="font-size: 2.6rem;">软硬件多模态安防新范式</h2>
-        <p class="cover-sub">成功打通从“激光空间警戒 ➔ BPU边缘推理 ➔ 指纹双重核验 ➔ 齿条机械执行”的全部链路，工程闭环率 100%。</p>
-        <div style="margin-top: 20px;">
+        <div class="cover-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--secondary); border-color: var(--secondary);">✨ 项目小结</div>
+        <h2 class="cover-title" style="font-size: 2.6rem;">感知 · 决策 · 执行 · 存证</h2>
+        <p class="cover-sub">以激光雷达为核心，融合视觉、指纹、声学与温度感知，形成远程安防闭环</p>
+        <div class="cover-meta" style="justify-content: center;">
+          <div>低成本</div>
+          <div>多模态</div>
+          <div>远程可视</div>
+          <div>闭环控制</div>
+          <div>事件可追溯</div>
+        </div>
+        <div style="margin-top: 24px;">
           <a href="../docs/security_system.html" class="hud-btn" style="display: inline-flex; text-decoration: none; padding: 12px 28px; font-size: 1rem; border-color: var(--primary); color: var(--primary);">
             查看完整技术文档 ↗
           </a>

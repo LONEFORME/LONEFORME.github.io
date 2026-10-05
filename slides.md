@@ -23,30 +23,30 @@ permalink: /slides/
 </div>
 
 <div class="card-grid">
-  <!-- 演示稿 1：RDK X5 智能安防系统答辩 -->
+  <!-- 演示稿 1：雷达安防系统项目介绍（最终版） -->
   <div class="card slide-deck-card">
     <div class="slide-deck-preview">
-      <div class="slide-badge-top">旗舰方案 · 8 页</div>
+      <div class="slide-badge-top">旗舰方案 · 12 页</div>
       <div class="slide-mini-stage">
-        <div class="slide-mini-title">地瓜派 RDK X5 多模态智能安防系统</div>
-        <div class="slide-mini-subtitle">软硬件协同架构与答辩汇报</div>
+        <div class="slide-mini-title">基于激光雷达的远程安防监控系统</div>
+        <div class="slide-mini-subtitle">多模态融合 · 已落地运行 · 项目全景介绍</div>
         <div class="slide-mini-tags">
-          <span>BPU 加速</span>
           <span>激光雷达</span>
           <span>双模态生物识别</span>
+          <span>BPU 加速</span>
         </div>
       </div>
     </div>
     <div class="card-body">
-      <h3>地瓜派 RDK X5 多模态智能安防系统 · 架构与答辩汇报</h3>
-      <p>面向嵌入式端的高性能安防中枢方案：深度融合双目双摄、BPU 视觉推理、激光雷达测距与自适应齿条门禁系统。</p>
+      <h3>基于激光雷达的远程安防监控系统 · 项目介绍（最终版）</h3>
+      <p>以激光雷达为空间感知核心的多模态安防中枢：雷达防区算法、人脸/指纹双生物识别门禁、BPU 视觉检测、三级报警存证与 Web 远程监控，含实测运行指标。</p>
       <div class="card-tags">
         <span class="tag">全屏放映</span>
         <span class="tag">暗夜极客</span>
-        <span class="tag">系统答辩</span>
+        <span class="tag">项目介绍</span>
       </div>
       <div class="slide-action-row">
-        <a href="//slides/rdk_x5_security.html" target="_blank" class="card-link slide-play-btn">
+        <a href="/slides/rdk_x5_security.html" target="_blank" class="card-link slide-play-btn">
           <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
           立即在线放映 (全屏) ↗
         </a>
