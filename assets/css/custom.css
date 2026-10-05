@@ -4062,3 +4062,22 @@ html {
 .ticker-sparkline-box{margin:10px 0 2px;min-height:46px;display:flex;align-items:center}
 .ticker-sparkline{width:100%;height:46px;display:block}
 .sparkline-empty{font-size:11px;color:var(--color-muted);opacity:.7}
+
+
+/* 侧栏分组标签 */
+.sidebar-nav .nav-group-label {
+  font-size: 0.66rem;
+  letter-spacing: 2.5px;
+  color: var(--color-muted);
+  padding: 16px 14px 5px;
+  margin: 0;
+  user-select: none;
+  opacity: 0.85;
+}
+.sidebar-nav .nav-group-label:not(:first-child) {
+  border-top: 1px solid var(--border-color, rgba(0,0,0,0.06));
+  margin-top: 10px;
+}
+[data-theme="dark"] .sidebar-nav .nav-group-label:not(:first-child) {
+  border-top-color: rgba(255,255,255,0.07);
+}
