@@ -196,6 +196,10 @@ title: 首页
     <span style="margin-left: 4px;">高密度产出</span>
   </div>
 </div>
+<div style="text-align: center; margin-top: -14px; margin-bottom: 8px;">
+  <a href="{{ "/projects" | relative_url }}" class="card-link" style="font-size: 0.95rem;">前往项目页 · 查看完整技术参数与全部分组 →</a>
+</div>
+
 
 <div class="section-title">
   <span class="section-icon-box">
@@ -216,12 +220,6 @@ title: 首页
       <span class="card-tag">10 TOPS BPU</span>
       <span class="card-tag">雷达/人脸/指纹</span>
     </div>
-    <div class="card-details">
-      • 异构边缘计算：BPU 硬件加速 YOLOv8 目标检测，零 CPU 占用人/物分离<br>
-      • 工业生物识别：InsightFace 512维人脸（Roll角校正+偏航角拦截）+ 半导体指纹<br>
-      • 空间连续感知：镭神 N10P 跨0°闭环防区判定 + 3秒自适应背景差分 + 欧氏聚类<br>
-      • 智能门禁中枢：360° 舵机毫秒微积分虚拟编码器（断电开度记忆）+ 车规声学破拆
-    </div>
     <div class="card-footer-row">
       <a href="{{ "docs/security_system" | relative_url }}" class="card-link">系统设计方案</a>
       <span class="card-status">🔒 专有工程</span>
@@ -238,12 +236,6 @@ title: 首页
       <span class="card-tag">ROS2</span>
       <span class="card-tag">双雷达</span>
       <span class="card-tag">SLAM</span>
-    </div>
-    <div class="card-details">
-      • 宇树 L1 + FAST-LIO2：6-DoF 实时 3D 建图，IMU 紧耦合<br>
-      • 镭神 N10P + SLAM Toolbox：2D 栅格地图，回环检测<br>
-      • 自研障碍物检测：BFS 空间聚类 + PCA 墙识别 + 多帧确认<br>
-      • 位姿优化：卡尔曼滤波 + 静止检测 + 零点校准 + 自适应滤波
     </div>
     <div class="card-footer-row">
       <a href="{{ "/docs" | relative_url }}" class="card-link">技术文档专区</a>
@@ -262,12 +254,6 @@ title: 首页
       <span class="card-tag">Fast DDS 组网</span>
       <span class="card-tag">AI Skill v2.44</span>
     </div>
-    <div class="card-details">
-      • A/B/C 三类板分类部署（Ubuntu裸装 / Debian+LXC / 边缘AI与串口）<br>
-      • Fast DDS Discovery Server 中枢组网（A7Z:11811 打通跨设备互通）<br>
-      • 46 个跨板自动化运维脚本库 + YOLOv8 边缘视觉实时检测<br>
-      • AI Skill 唯一真源（v2.44），支持多端 AI 助手技能自动化分发
-    </div>
     <div class="card-footer-row">
       <a href="{{ "/docs" | relative_url }}" class="card-link">开发板技术指南</a>
       <span class="card-status">🔒 内部规范资产</span>
@@ -285,12 +271,6 @@ title: 首页
       <span class="card-tag">OpenCV 4.7+</span>
       <span class="card-tag">双线程并发</span>
     </div>
-    <div class="card-details">
-      • 11 种颜色 HSV/BGR 空间自适应精准识别<br>
-      • 几何轮廓形状分类（三角形、矩形、五边形、多边形）<br>
-      • 数学圆形度公式（4πA/P²）区分实心圆与空心圆环<br>
-      • 双线程并发架构（采集线程 + 预处理线程，帧锁保证线程安全）
-    </div>
     <a href="https://github.com/LONEFORME/opencv-vision-system" target="_blank" rel="noopener" class="card-link">查看项目</a>
   </div>
 
@@ -304,12 +284,6 @@ title: 首页
       <span class="card-tag">STM32F407</span>
       <span class="card-tag">空地协同大闭环</span>
       <span class="card-tag">雷达感知 + T265</span>
-    </div>
-    <div class="card-details">
-      • 匿名凌霄官方基线源码（STM32F407 / MSP432 / TM4C123）+ 通信协议 V7 与 IMU 减震固件<br>
-      • 自研空地协同大闭环（2026-D 实飞验证：伴飞抛投 + 移动平台动态降落）<br>
-      • 机载扩展：镭神 N10P 雷达感知 / T265 看门狗自愈 / K230 边缘视觉<br>
-      • 历年参考工程（2022-HUST / 2024-D / UAV-2023）+ 4 段实飞演示视频
     </div>
     <div class="card-footer-row">
       <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
@@ -327,12 +301,6 @@ title: 首页
       <span class="card-tag">STM32F405</span>
       <span class="card-tag">树莓派上位机</span>
       <span class="card-tag">DFS + Dijkstra</span>
-    </div>
-    <div class="card-details">
-      • STM32F405 飞控底层（BirdFlight V2.0：PID / ADRC / LQR / uCOS-III）<br>
-      • 树莓派上位机（230400bps 高速串口通信 + 自启动服务）<br>
-      • DFS 9×7 网格全覆盖自主巡航 + Dijkstra 动态实时绕障重规划<br>
-      • T265 姿态解算 + OpenCV 目标识别与精准中心对准降落
     </div>
     <div class="card-footer-row">
       <a href="{{ "/videos" | relative_url }}" class="card-link">飞行演示</a>
