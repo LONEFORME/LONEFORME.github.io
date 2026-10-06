@@ -20,9 +20,9 @@ jobs:
     runs-on: ubuntu-24.04  # 锁死 24.04：ubuntu-latest 将于 2026-10-19 起迁移到 Ubuntu 26
     timeout-minutes: 20  # 排队+运行上限，避免白等 15 分钟后被判 Failure
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: 配置 Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: 'pip'
