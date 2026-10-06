@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-06 10:39（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-06 12:59（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -117,10 +117,10 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,222.60</span>
-      <span class="ticker-change up">▲ +0.93%</span>
+      <span class="ticker-price ticker-up">4,220.12</span>
+      <span class="ticker-change up">▲ +0.87%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg5798" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.7 L23.2,6.0 L42.4,12.8 L61.6,14.8 L80.8,20.4 L100.0,22.2 L119.2,27.5 L138.4,27.0 L157.6,38.0 L176.8,35.1 L196.0,30.6 L196,40 Z" fill="url(#sg5798)"/><polyline points="4.0,7.7 23.2,6.0 42.4,12.8 61.6,14.8 80.8,20.4 100.0,22.2 119.2,27.5 138.4,27.0 157.6,38.0 176.8,35.1 196.0,30.6" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.6" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg43839" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.7 L23.2,6.0 L42.4,12.8 L61.6,14.8 L80.8,20.4 L100.0,22.2 L119.2,27.5 L138.4,27.0 L157.6,38.0 L176.8,35.1 L196.0,30.9 L196,40 Z" fill="url(#sg43839)"/><polyline points="4.0,7.7 23.2,6.0 42.4,12.8 61.6,14.8 80.8,20.4 100.0,22.2 119.2,27.5 138.4,27.0 157.6,38.0 176.8,35.1 196.0,30.9" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.9" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7030</span>
+      <span class="ticker-price ticker-down">6.7025</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg34101" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L25.3,21.9 L46.7,15.3 L68.0,6.0 L89.3,19.4 L110.7,25.5 L132.0,24.7 L153.3,18.6 L174.7,28.0 L196.0,32.2 L196,40 Z" fill="url(#sg34101)"/><polyline points="4.0,38.0 25.3,21.9 46.7,15.3 68.0,6.0 89.3,19.4 110.7,25.5 132.0,24.7 153.3,18.6 174.7,28.0 196.0,32.2" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="32.2" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg10528" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L25.3,21.9 L46.7,15.3 L68.0,6.0 L89.3,19.4 L110.7,25.5 L132.0,24.7 L153.3,18.6 L174.7,28.0 L196.0,32.8 L196,40 Z" fill="url(#sg10528)"/><polyline points="4.0,38.0 25.3,21.9 46.7,15.3 68.0,6.0 89.3,19.4 110.7,25.5 132.0,24.7 153.3,18.6 174.7,28.0 196.0,32.8" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="32.8" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 10:40:30</div>
+    <div class="ticker-quote-time">🕒 行情时间 13:00:04</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,121.09 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -19.19 (-0.46%)</span>
+      <span class="ticker-price ticker-down">$4,121.03 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -19.25 (-0.46%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 10:40:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 13:00:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -197,10 +197,10 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">24,239.12</span>
-      <span class="ticker-change up">▲ +0.83%</span>
+      <span class="ticker-price ticker-up">24,228.47</span>
+      <span class="ticker-change up">▲ +0.78%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg98458" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.3 L23.2,6.0 L42.4,13.3 L61.6,15.4 L80.8,22.6 L100.0,18.8 L119.2,22.2 L138.4,19.6 L157.6,38.0 L176.8,36.0 L196.0,30.3 L196,40 Z" fill="url(#sg98458)"/><polyline points="4.0,7.3 23.2,6.0 42.4,13.3 61.6,15.4 80.8,22.6 100.0,18.8 119.2,22.2 138.4,19.6 157.6,38.0 176.8,36.0 196.0,30.3" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.3" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg63138" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.3 L23.2,6.0 L42.4,13.3 L61.6,15.4 L80.8,22.6 L100.0,18.8 L119.2,22.2 L138.4,19.6 L157.6,38.0 L176.8,36.0 L196.0,30.7 L196,40 Z" fill="url(#sg63138)"/><polyline points="4.0,7.3 23.2,6.0 42.4,13.3 61.6,15.4 80.8,22.6 100.0,18.8 119.2,22.2 138.4,19.6 157.6,38.0 176.8,36.0 196.0,30.7" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.7" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$100.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.43 (+0.43%)</span>
+      <span class="ticker-price ticker-up">$100.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.56 (+0.56%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 10:40:37</div>
+    <div class="ticker-quote-time">🕒 行情时间 13:00:11</div>
   </div>
 </div>
 
@@ -367,8 +367,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/009/978.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了超过 200 美元（IT之家注：现汇率约合 1,343 元人民币）成本。由于华为的手机内存配置比其他手机更高，成本上涨也更多。“总体来说，这无疑是整个行业面临的巨大挑战。我们看到许多手机制造商在提高价格。我们以非常缓慢的速度涨价，因为我们试图自己承担成本，这样消费者就不必承担这些成本。但说实话，我们的整体利润率正在急剧下降。展望未来，我们也不得不（ha" data-title="华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价" data-date="10-06 12:51" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 12:51</span>
+          <span class="news-item-title">华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/976.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。有记者询问华为 Mate XT 2 三折叠手机的具体销售或出货量数据。此外，苹果也首次推出了其折叠形态产品，记者询问余承东如何看待这对华为在折叠屏手机行业地位的影响。余承东回答称，Mate XT 2 是华为三折叠手机产品的第二代。第一代及其改款型号的销量超过 100 万部。第二代于 9 月 7 日上市。截至 9 月 29 日，Mate XT 2 已出货近 10 万台，预计总出货量也将超过 100 万部。余承东表示，会逐步将 Mate" data-title="余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%" data-date="10-06 12:39" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 12:39</span>
+          <span class="news-item-title">余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/009/975.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，据彭博社报道，希捷科技控股以及东芝公司正在争夺 TDK 的硬盘磁头业务。两家竞争对手都希望借此跟上 AI 数据中心存储设备的旺盛需求。知情人士称，东芝于今年春季率先同 TDK 开启收购谈判；随后希捷在夏季提出了更高的报价。由于相关磋商仍处于保密阶段，消息人士要求匿名，并表示这笔收购交易的价值最高可达数十亿美元。如果有一方成功竞得该项业务，就将掌控硬盘供应链当中的关键一环。目前机械硬盘市场由三家厂商把持，而独立磁头供应商的存在，对维持行业竞争格局至关重要。TDK 是全球唯一一家独立生产硬盘磁记录磁头制造商；磁头是硬盘内部实际完成数据读写的零部件。TDK 同时向本次的两家竞购方，还有西部数据供货。希捷和西部数据虽然可以自行生产一部分磁头，但每当市场需求激增时，依旧" data-title="消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节" data-date="10-06 12:23" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 12:23</span>
+          <span class="news-item-title">消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Bakker先生和他的妻子Tammy Faye围绕繁荣的福音建立了一个广播巨头。" data-title="Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86" data-date="10-06 11:59" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-06 11:59</span>
+          <span class="news-item-title">Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/957.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的多设备互助通信共享功能。余承东以水资源分配为例，只需要碰一碰，就能把几台华为设备的网络资源整合起来，按需分配。根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的华为设备，开启多设备互助通信共享功能后，移动 + 联通助力电信的设备视频通话卡顿减少 90%。该功能可在设置 App 的多设备协同 - 通信共享 - 网络共享中开启。IT之家注意到，视频底部小字显示最多支持 4 部设备之间互助通信共享。余承东还表示，未来升级鸿蒙 7 之后，更多的华为老机型也能用上多设备互助通信共享功能。" data-title="余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发" data-date="10-06 10:11" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -423,12 +447,6 @@ title: 股票财经
           <span class="news-item-date">10-05 14:15</span>
           <span class="news-item-title">印度如何陷入对中国进口商品的危险依赖？</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-05/10708066.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="放眼全国，“六张网”之间相互交织，协同运转的场景不断丰富，六网协同究竟会带来怎样的“乘数级效益”，总台央视记者采访了国家发展改革委投资司副司长关鹏。" data-title="六网协同如何释放“乘数级效益”？国家发改委解读" data-date="10-05 11:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-05 11:39</span>
-          <span class="news-item-title">六网协同如何释放“乘数级效益”？国家发改委解读</span>
-        </a>
   </div>
 </div>
 
@@ -442,4 +460,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-06 10:39（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-06 12:59（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
