@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-06 12:59（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-06 16:14（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -117,10 +117,10 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,220.12</span>
-      <span class="ticker-change up">▲ +0.87%</span>
+      <span class="ticker-price ticker-up">4,216.20</span>
+      <span class="ticker-change up">▲ +0.78%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg43839" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.7 L23.2,6.0 L42.4,12.8 L61.6,14.8 L80.8,20.4 L100.0,22.2 L119.2,27.5 L138.4,27.0 L157.6,38.0 L176.8,35.1 L196.0,30.9 L196,40 Z" fill="url(#sg43839)"/><polyline points="4.0,7.7 23.2,6.0 42.4,12.8 61.6,14.8 80.8,20.4 100.0,22.2 119.2,27.5 138.4,27.0 157.6,38.0 176.8,35.1 196.0,30.9" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.9" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg84607" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.7 L23.2,6.0 L42.4,12.8 L61.6,14.8 L80.8,20.4 L100.0,22.2 L119.2,27.5 L138.4,27.0 L157.6,38.0 L176.8,35.1 L196.0,31.3 L196,40 Z" fill="url(#sg84607)"/><polyline points="4.0,7.7 23.2,6.0 42.4,12.8 61.6,14.8 80.8,20.4 100.0,22.2 119.2,27.5 138.4,27.0 157.6,38.0 176.8,35.1 196.0,31.3" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="31.3" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -141,7 +141,7 @@ title: 股票财经
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-06 05:30:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-06 09:49:07</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7025</span>
+      <span class="ticker-price ticker-down">6.7008</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg10528" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L25.3,21.9 L46.7,15.3 L68.0,6.0 L89.3,19.4 L110.7,25.5 L132.0,24.7 L153.3,18.6 L174.7,28.0 L196.0,32.8 L196,40 Z" fill="url(#sg10528)"/><polyline points="4.0,38.0 25.3,21.9 46.7,15.3 68.0,6.0 89.3,19.4 110.7,25.5 132.0,24.7 153.3,18.6 174.7,28.0 196.0,32.8" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="32.8" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg56428" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L25.3,21.9 L46.7,15.3 L68.0,6.0 L89.3,19.4 L110.7,25.5 L132.0,24.7 L153.3,18.6 L174.7,28.0 L196.0,35.1 L196,40 Z" fill="url(#sg56428)"/><polyline points="4.0,38.0 25.3,21.9 46.7,15.3 68.0,6.0 89.3,19.4 110.7,25.5 132.0,24.7 153.3,18.6 174.7,28.0 196.0,35.1" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="35.1" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 13:00:04</div>
+    <div class="ticker-quote-time">🕒 行情时间 16:14:40</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,121.03 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -19.25 (-0.46%)</span>
+      <span class="ticker-price ticker-up">$4,141.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +1.14 (+0.03%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 13:00:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 16:14:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -197,10 +197,10 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">24,228.47</span>
-      <span class="ticker-change up">▲ +0.78%</span>
+      <span class="ticker-price ticker-up">24,253.71</span>
+      <span class="ticker-change up">▲ +0.89%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg63138" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.3 L23.2,6.0 L42.4,13.3 L61.6,15.4 L80.8,22.6 L100.0,18.8 L119.2,22.2 L138.4,19.6 L157.6,38.0 L176.8,36.0 L196.0,30.7 L196,40 Z" fill="url(#sg63138)"/><polyline points="4.0,7.3 23.2,6.0 42.4,13.3 61.6,15.4 80.8,22.6 100.0,18.8 119.2,22.2 138.4,19.6 157.6,38.0 176.8,36.0 196.0,30.7" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.7" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg59817" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.3 L23.2,6.0 L42.4,13.3 L61.6,15.4 L80.8,22.6 L100.0,18.8 L119.2,22.2 L138.4,19.6 L157.6,38.0 L176.8,36.0 L196.0,29.9 L196,40 Z" fill="url(#sg59817)"/><polyline points="4.0,7.3 23.2,6.0 42.4,13.3 61.6,15.4 80.8,22.6 100.0,18.8 119.2,22.2 138.4,19.6 157.6,38.0 176.8,36.0 196.0,29.9" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="29.9" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$100.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.56 (+0.56%)</span>
+      <span class="ticker-price ticker-up">$100.41 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.09 (+0.09%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 13:00:11</div>
+    <div class="ticker-quote-time">🕒 行情时间 16:14:52</div>
   </div>
 </div>
 
@@ -367,8 +367,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">14 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/010/009.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，据央视财经今日报道，一台罕见的苹果一号电脑（Apple I）正在邦瀚斯拍卖行进行线上拍卖，开放竞价日期为本月（10 月）4 日至 14 日，估价为 50 万美元至 80 万美元（IT之家注：现汇率约合 335.7 万元至 537.2 万元人民币）。据拍卖行介绍，这台电脑由原主人于 1976 年购入，主板上有苹果联合创始人沃兹尼亚克的签名。苹果一号电脑是苹果公司的首款电脑产品，以组装好的电路板形式出售，当时售价 666 美元（现汇率约合 4,472 元人民币），目前确认存世的不足 75 台。" data-title="苹果一号电脑 Apple I 罕见拍卖：沃兹尼亚克签名主板，或拍出 80 万美元" data-date="10-06 16:11" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 16:11</span>
+          <span class="news-item-title">苹果一号电脑 Apple I 罕见拍卖：沃兹尼亚克签名主板，或拍出 80 万美元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708420.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉10月6日电 (记者 周璟)菲律宾统计局6日公布数据显示，9月菲律宾通胀率升至7.2%，较8月的6.1%明显上升，创今年4月以来新高。今年前9个月平均通胀率为5.4%。" data-title="菲律宾9月通胀率升至7.2% 创今年4月以来新高" data-date="10-06 14:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 14:13</span>
+          <span class="news-item-title">菲律宾9月通胀率升至7.2% 创今年4月以来新高</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Bakker先生和他的妻子Tammy Faye围绕繁荣的福音建立了一个广播巨头。" data-title="Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86" data-date="10-06 13:38" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-06 13:38</span>
+          <span class="news-item-title">Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/978.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了超过 200 美元（IT之家注：现汇率约合 1,343 元人民币）成本。由于华为的手机内存配置比其他手机更高，成本上涨也更多。“总体来说，这无疑是整个行业面临的巨大挑战。我们看到许多手机制造商在提高价格。我们以非常缓慢的速度涨价，因为我们试图自己承担成本，这样消费者就不必承担这些成本。但说实话，我们的整体利润率正在急剧下降。展望未来，我们也不得不（ha" data-title="华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价" data-date="10-06 12:51" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -386,12 +404,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">10-06 12:23</span>
           <span class="news-item-title">消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Bakker先生和他的妻子Tammy Faye围绕繁荣的福音建立了一个广播巨头。" data-title="Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86" data-date="10-06 11:59" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-06 11:59</span>
-          <span class="news-item-title">Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86</span>
         </a>
         <a class="news-item" href="https://www.ithome.com/1/009/957.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的多设备互助通信共享功能。余承东以水资源分配为例，只需要碰一碰，就能把几台华为设备的网络资源整合起来，按需分配。根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的华为设备，开启多设备互助通信共享功能后，移动 + 联通助力电信的设备视频通话卡顿减少 90%。该功能可在设置 App 的多设备协同 - 通信共享 - 网络共享中开启。IT之家注意到，视频底部小字显示最多支持 4 部设备之间互助通信共享。余承东还表示，未来升级鸿蒙 7 之后，更多的华为老机型也能用上多设备互助通信共享功能。" data-title="余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发" data-date="10-06 10:11" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -441,12 +453,6 @@ title: 股票财经
           <span class="news-item-date">10-05 20:26</span>
           <span class="news-item-title">蔡康永现身造势活动遭炮轰 盘点大陆商界“割席台独”案例</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c98rzd1ye6n0o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="印度的玩具店意外成为衡量中国与印度经济关系的一项指标。" data-title="印度如何陷入对中国进口商品的危险依赖？" data-date="10-05 14:15" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-05 14:15</span>
-          <span class="news-item-title">印度如何陷入对中国进口商品的危险依赖？</span>
-        </a>
   </div>
 </div>
 
@@ -460,4 +466,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-06 12:59（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-06 16:14（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
