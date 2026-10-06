@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-06 16:14 抓取更新</span>
+      <span>2026-10-06 22:23 抓取更新</span>
     </div>
   </div>
 
@@ -59,29 +59,29 @@ title: 热点新闻
   <div class="ov-item"><span class="ov-num">47</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×19 · IT之家×14</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×16 · IT之家×12</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/10-06/10708446.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="央视网消息(焦点访谈)：民心所向是长征胜利的力量源泉，长征路上，红军与群众同心同向，发生了很多感人至深的故事。“半条被子”的故事发生在1934年11月，在湖南汝城县沙洲村，3名女红军借宿在村民家。临走时，她们把仅有的一条被子剪下一半，留给了这位村民。" data-title="焦点访谈｜“半条被子” 映初心 长征精神启新程" data-date="10-06 15:49" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.ithome.com/1/010/110.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="IT之家 10 月 6 日消息，据科技媒体 Tom&#39;s Hardware 今天报道，日本半导体光刻设备制造商 Gigaphoton 现已推出新型氖气回收系统 hTGM，用于氟化氩（ArF）准分子激光器。据报道，这套系统可实现 50% 氖气回收率，未来调整系统配置后，有望进一步提升回收效率。该技术有望弥补俄乌冲突后的芯片供应链缺口。2022 年前，乌克兰供应了全球半导体大约 50% 的氖气，后续被迫停止出口。同时，全球约 70% 的氖气产量用于半导体制造，其中很大一部分应用于先进的深紫外（IT之家注：DUV）光刻工艺。在此之后，中国、韩国等地区均加大了氖气生产力度，多家芯片制造商也在晶圆制造流程引入了氖气回收系统。" data-title="日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%" data-date="10-06 22:18" data-source="IT之家">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 10-06 15:49</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="hero-featured-date">🕒 10-06 22:18</span>
       </div>
-      <h2 class="hero-featured-title">焦点访谈｜“半条被子” 映初心 长征精神启新程</h2>
+      <h2 class="hero-featured-title">日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/010/007.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，OPPO 现已在印度市场推出 F35 5G/F35 Pro 5G 手机，新品定位中低端市场，采用 8000mAh 大电池，以及天玑 6360 Max/7360 Max 芯片，起售价为 38,999 卢比（IT之家注：现汇率约合 2,725 元人民币）。据介绍，OPPO F35 5G 手机搭载 6.57 英寸 AMOLED 屏幕，分辨率为 2372×1080，支持 120Hz 高刷，亮度可达 800nits。配备联发科天玑 6360 Max 芯片，提供 6GB/8GB 内存以及 128GB 存储空间，具备 4300mm² 大面积 VC 液冷散热。同时，该手机拥有 5000 万像素后置主摄和 200 万像素黑白辅助镜头，前置 5000 万像素自拍镜头。拥有 800" data-title="OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片" data-date="10-06 15:55" data-source="IT之家">
+    <a class="hero-sub-card" href="https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/" target="_blank" rel="noopener" data-cat="keji" data-summary="Pinterest新的人工智能美容指南将美发和美甲别针转化为沙龙术语，包括预估成本、预约时间和维护需求。" data-title="Pinterest’s AI now turns beauty Pins into action plans" data-date="10-06 22:00" data-source="TechCrunch">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
       </div>
-      <p class="hero-sub-title">OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片</p>
+      <p class="hero-sub-title">Pinterest’s AI now turns beauty Pins into action plans</p>
     </a>
     <a class="hero-sub-card" href="https://www.ithome.com/1/009/955.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 10 月 6 日消息，几天之前，OpenAI 指责苹果在商业秘密诉讼当中违规提交新证据。如今苹果予以反击，反过来指控 OpenAI 在其提交的回应中超出了法院规则允许的范围。据IT之家了解，这起诉讼由苹果发起，起诉两名前员工（刘畅〔Chang Liu〕、谭唐〔Tang Tan〕）、OpenAI 以及 io Products 涉嫌盗用商业秘密。案件当中的一项核心诉求，是申请一项临时禁令。简单来说，苹果请求法院颁布临时禁令。苹果的理由是，在案件审理期间，需要阻止自家的商业秘密进一步融入 OpenAI 的硬件开发工作。围绕这项禁令申请展开的多轮法律交锋过程中，苹果提交了一份答辩法律意见书，并附带五份专家书面证言作为支撑。此举随即招致几名被告的指责，被告方认为苹果违规引入新证据，请求法庭对" data-title="苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据" data-date="10-06 09:59" data-source="IT之家">
       <div class="hero-sub-meta">
@@ -90,12 +90,12 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful" target="_blank" rel="noopener" data-cat="zonghe" data-summary="忏悔：当BougeRV告诉我其带有动画照明的遥控车时，我打电话给它取笑，希望在评论中剔除它。可以肯定的是，这太荒谬了。但沙丘漫游者也被证明是非常强大的，有足够的扭矩" data-title="This remote-controlled wagon is silly but so very useful" data-date="10-06 16:00" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这些集会是对学生领导的抗议运动实力的考验，自9月下旬以来，抗议运动已经关闭了数百所法国高中。" data-title="Live Updates: Protests Spread Across France as Unions Join Student Demonstrations" data-date="10-06 22:20" data-source="纽约时报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-theverge">🌐 The Verge</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
       </div>
-      <p class="hero-sub-title">This remote-controlled wagon is silly but so very useful</p>
+      <p class="hero-sub-title">Live Updates: Protests Spread Across France as Unions Join Student Demonstrations</p>
     </a>
   </div>
 </div>
@@ -106,112 +106,111 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708446.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="央视网消息(焦点访谈)：民心所向是长征胜利的力量源泉，长征路上，红军与群众同心同向，发生了很多感人至深的故事。“半条被子”的故事发生在1934年11月，在湖南汝城县沙洲村，3名女红军借宿在村民家。临走时，她们把仅有的一条被子剪下一半，留给了这位村民。" data-title="焦点访谈｜“半条被子” 映初心 长征精神启新程" data-date="10-06 15:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 15:49</span>
-          <span class="news-item-title">焦点访谈｜“半条被子” 映初心 长征精神启新程</span>
-          <span class="news-value-point">💡 央视网消息(焦点访谈)：民心所向是长征胜利的力量源泉，长征路上，红军与群众同心同向，发生了很多感人至深的故事</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708445.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="平凡岗位，不凡坚守。国庆假期，重大工程现场机械轰鸣，民生保障持续稳定……千千万万劳动者用汗水建设家园，以实干再立新功。" data-title="坚守岗位践初心 实干担当立新功" data-date="10-06 15:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 15:47</span>
-          <span class="news-item-title">坚守岗位践初心 实干担当立新功</span>
-          <span class="news-value-point">💡 平凡岗位，不凡坚守</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708423.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月6日电 当地时间10月5日，日本首相高市早苗在国会发表施政演说(所信表明演说)，演说引发广泛批评。日本舆论认为，其演说内容空洞无物，轻视民生。还有日本民众表示，对高市的系列政策深感不安。" data-title="高市早苗施政演说遭多方批评：空洞无物，忽视民生" data-date="10-06 14:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 14:00</span>
-          <span class="news-item-title">高市早苗施政演说遭多方批评：空洞无物，忽视民生</span>
-          <span class="news-value-point">💡 中新网10月6日电 当地时间10月5日，日本首相高市早苗在国会发表施政演说(所信表明演说)，演说引发广泛批评</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708415.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月6日电 据中国驻沙特大使馆微信公众号消息，10月6日凌晨，沙特内政部用多语种发布紧急公告称：拍摄、发布或传播与拦截导弹和无人机以及其坠落地点相关的信息，将使您面临法律追责。" data-title="中国驻沙特使馆提醒在沙机构和公民注意安全并遵守当地法律" data-date="10-06 13:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 13:47</span>
-          <span class="news-item-title">中国驻沙特使馆提醒在沙机构和公民注意安全并遵守当地法律</span>
-          <span class="news-value-point">💡 中新网10月6日电 据中国驻沙特大使馆微信公众号消息，10月6日凌晨，沙特内政部用多语种发布紧急公告称：拍摄、发布或传播与拦截导弹和无人机以及其…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708409.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网上海10月6日电 (陈静 曹乃文)记者6日获悉，国庆假期进入尾声，跨境出游旅客陆续返程，客流由前期“出境热”逐渐转向“返程热”。上海口岸迎来返程客流高峰。" data-title="上海口岸迎来返程客流高峰" data-date="10-06 13:46" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 13:46</span>
-          <span class="news-item-title">上海口岸迎来返程客流高峰</span>
-          <span class="news-value-point">💡 中新网上海10月6日电 (陈静 曹乃文)记者6日获悉，国庆假期进入尾声，跨境出游旅客陆续返程，客流由前期“出境热”逐渐转向“返程热”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708406.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月6日电 据俄罗斯卫星通讯社报道，俄罗斯首都莫斯科市市长索比亚宁表示，自当地时间5日20时30分至6日5时，共有650架乌克兰无人机飞往莫斯科地区方向，大部分无人机被俄防空部队在远距离击落。" data-title="多达650架 俄罗斯首都遭乌克兰大规模无人机袭击" data-date="10-06 13:19" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 13:19</span>
-          <span class="news-item-title">多达650架 俄罗斯首都遭乌克兰大规模无人机袭击</span>
-          <span class="news-value-point">💡 中新网10月6日电 据俄罗斯卫星通讯社报道，俄罗斯首都莫斯科市市长索比亚宁表示，自当地时间5日20时30分至6日5时，共有650架乌克兰无人机飞…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/979.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="IT之家 10 月 6 日消息，据路透社报道，公开档案显示，意大利总理焦尔吉娅 · 梅洛尼已经向欧盟知识产权局（EUIPO）提交申请，希望将自己的声音注册成为商标，以此防范由 AI 生成的深度伪造内容。图源：梅洛尼 X 账号欧盟知识产权局网站上这份申请的日期为 10 月 5 日，梅洛尼办公室也证实了该申请。申请材料当中附带一段时长 4 秒的录音，录音里她用意大利语重复说了两遍：“我是焦尔吉娅 · 梅洛尼。”“Io sono Giorgia（我是焦尔吉娅）”正是她 2021 年自传的书名。这句话源自梅洛尼 2019 年在一场政治集会上的著名发言，甚至还曾经被改编成迪斯科舞曲。近些年来，经过篡改的梅洛尼影像多次在网络上流传，部分还被网友当作真实内容转发。其中就有一张伪造图片，画面当中的她身着内衣" data-title="为防范 AI 深度伪造，意大利总理梅洛尼申请将自己的声音注册为商标" data-date="10-06 12:58" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/010/110.htm" target="_blank" rel="noopener" data-cat="shizheng" data-summary="IT之家 10 月 6 日消息，据科技媒体 Tom&#39;s Hardware 今天报道，日本半导体光刻设备制造商 Gigaphoton 现已推出新型氖气回收系统 hTGM，用于氟化氩（ArF）准分子激光器。据报道，这套系统可实现 50% 氖气回收率，未来调整系统配置后，有望进一步提升回收效率。该技术有望弥补俄乌冲突后的芯片供应链缺口。2022 年前，乌克兰供应了全球半导体大约 50% 的氖气，后续被迫停止出口。同时，全球约 70% 的氖气产量用于半导体制造，其中很大一部分应用于先进的深紫外（IT之家注：DUV）光刻工艺。在此之后，中国、韩国等地区均加大了氖气生产力度，多家芯片制造商也在晶圆制造流程引入了氖气回收系统。" data-title="日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%" data-date="10-06 22:18" data-source="IT之家">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 12:58</span>
-          <span class="news-item-title">为防范 AI 深度伪造，意大利总理梅洛尼申请将自己的声音注册为商标</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，据路透社报道，公开档案显示，意大利总理焦尔吉娅 · 梅洛尼已经向欧盟知识产权局（EUIPO）提交申请，希望将自己…</span>
+          <span class="news-item-date">10-06 22:18</span>
+          <span class="news-item-title">日本半导体光刻设备制造商 Gigaphoton 推出 hTGM 新型氖气回收系统，号称回收率达 50%</span>
+          <span class="news-value-point">💡 IT之家 10 月 6 日消息，据科技媒体 Tom's Hardware 今天报道，日本半导体光刻设备制造商 Gigaphoton 现已推出新型…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据美国和英国官员称，由于伊朗伊斯兰革命卫队下令进行无人机袭击的风险，来自费尔福德空军基地的12架B-1空军轰炸机被撤回。" data-title="Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base" data-date="10-06 12:18" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/06/world/asia/trump-los-angeles-san-diego-iran.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="州长加文·纽森(Gavin Newsom)在一次政治集会上发表讲话后，称总统“危险而疯狂” ，特朗普在集会上表示，伊朗战争对于“维护世界安全”是必要的。" data-title="Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders" data-date="10-06 22:03" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-06 12:18</span>
-          <span class="news-item-title">潜在的伊朗无人机袭击导致美国飞机从英国空军基地撤离</span>
-          <span class="news-item-title-en">Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base</span>
-          <span class="news-value-point">💡 据美国和英国官员称，由于伊朗伊斯兰革命卫队下令进行无人机袭击的风险，来自费尔福德空军基地的12架B-1空军轰炸机被撤回</span>
+          <span class="news-item-date">10-06 22:03</span>
+          <span class="news-item-title">特朗普建议伊朗可以“拿下”洛杉矶或圣地亚哥，引起加州领导人的愤怒</span>
+          <span class="news-item-title-en">Trump Suggests Iran Could ‘Take Out’ L.A. or San Diego, Drawing Anger From California Leaders</span>
+          <span class="news-value-point">💡 州长加文·纽森(Gavin Newsom)在一次政治集会上发表讲话后，称总统“危险而疯狂” ，特朗普在集会上表示，伊朗战争对于“维护世界安全”是…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="学校、街头和市场的混乱源于法国为社会福利国家提供资金的斗争，总统选举即将到来。" data-title="Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France" data-date="10-06 12:01" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-06 12:01</span>
-          <span class="news-item-title">罢工、路障和财政动荡：法国的不满之秋</span>
-          <span class="news-item-title-en">Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France</span>
-          <span class="news-value-point">💡 学校、街头和市场的混乱源于法国为社会福利国家提供资金的斗争，总统选举即将到来</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708377.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月6日电 综合消息：当地时间5日，也门政府宣布启动“也门黎明”行动，沙特阿拉伯主导的多国联军当天出动战机空袭胡塞武装目标，也门政府军向红海沿岸推进。作为回应，胡塞武装同日袭击沙特境内多个目标，并警告国际航空公司停止飞越沙特领空。" data-title="沙特主导联军空袭胡塞武装遭反击" data-date="10-06 11:48" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708548.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间10月6日，法国伊夫林省发生大规模停电，著名景点凡尔赛宫当天宣布暂时关闭，开放时间另行通知。" data-title="法国凡尔赛宫因大规模停电暂时关闭" data-date="10-06 22:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 11:48</span>
-          <span class="news-item-title">沙特主导联军空袭胡塞武装遭反击</span>
-          <span class="news-value-point">💡 中新社北京10月6日电 综合消息：当地时间5日，也门政府宣布启动“也门黎明”行动，沙特阿拉伯主导的多国联军当天出动战机空袭胡塞武装目标，也门政府…</span>
+          <span class="news-item-date">10-06 22:02</span>
+          <span class="news-item-title">法国凡尔赛宫因大规模停电暂时关闭</span>
+          <span class="news-value-point">💡 当地时间10月6日，法国伊夫林省发生大规模停电，著名景点凡尔赛宫当天宣布暂时关闭，开放时间另行通知</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708376.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月6日电 题：短剧《过海》折射两岸同胞“双向奔赴”" data-title="评论：短剧《过海》折射两岸同胞“双向奔赴”" data-date="10-06 11:13" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708547.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间10月6日，欧盟委员会主席冯德莱恩在社交媒体发文表示，袭击民用船只的行为不可接受。" data-title="冯德莱恩：袭击黑海民用船只的行为不可接受" data-date="10-06 22:00" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 11:13</span>
-          <span class="news-item-title">评论：短剧《过海》折射两岸同胞“双向奔赴”</span>
-          <span class="news-value-point">💡 中新社北京10月6日电 题：短剧《过海》折射两岸同胞“双向奔赴”</span>
+          <span class="news-item-date">10-06 22:00</span>
+          <span class="news-item-title">冯德莱恩：袭击黑海民用船只的行为不可接受</span>
+          <span class="news-value-point">💡 当地时间10月6日，欧盟委员会主席冯德莱恩在社交媒体发文表示，袭击民用船只的行为不可接受</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708373.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社纽约10月5日电 (记者 王帆)美国纽约州州长凯茜·霍楚尔当地时间5日签署一项行政令，宣布该州因麻疹疫情进入灾难紧急状态，为期一个月。" data-title="美国纽约州因麻疹疫情进入灾难紧急状态" data-date="10-06 11:11" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708536.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社伦敦10月6日电 (记者 欧阳开宇)英国国家统计局6日发布数据显示，英国电子烟使用者规模持续攀升，2025年，新增电子烟使用者达110万人，较2024年的94万人显著增长。" data-title="英国电子烟使用者规模持续攀升" data-date="10-06 21:34" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 11:11</span>
-          <span class="news-item-title">美国纽约州因麻疹疫情进入灾难紧急状态</span>
-          <span class="news-value-point">💡 中新社纽约10月5日电 (记者 王帆)美国纽约州州长凯茜·霍楚尔当地时间5日签署一项行政令，宣布该州因麻疹疫情进入灾难紧急状态，为期一个月</span>
+          <span class="news-item-date">10-06 21:34</span>
+          <span class="news-item-title">英国电子烟使用者规模持续攀升</span>
+          <span class="news-value-point">💡 中新社伦敦10月6日电 (记者 欧阳开宇)英国国家统计局6日发布数据显示，英国电子烟使用者规模持续攀升，2025年，新增电子烟使用者达110万人…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708359.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网南宁10月6日电(周祥 李志农 林浩)10月6日，广西壮族自治区农业机械化服务中心介绍，广西“滴滴农机”平台自2025年10月试运行以来，推动农机服务进入数字化新阶段，截至2026年9月底，平台注册用户超9000人，接入远程监测北斗农机终端超1.75万台，促成农机作业面积62万余亩。" data-title="广西“滴滴农机”接入北斗终端超1.75万台 作业面积62万余亩" data-date="10-06 11:03" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708541.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月6日电 中国外交部发言人郭嘉昆6日答记者问时表示，希望欧方同中方相向而行，通过对话协商解决彼此关切，共同维护全球产供链稳定畅通，推动中欧经贸关系健康稳定发展。" data-title="外交部：希望欧方同中方相向而行，通过对话协商解决彼此关切" data-date="10-06 21:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 11:03</span>
-          <span class="news-item-title">广西“滴滴农机”接入北斗终端超1.75万台 作业面积62万余亩</span>
-          <span class="news-value-point">💡 中新网南宁10月6日电(周祥 李志农 林浩)10月6日，广西壮族自治区农业机械化服务中心介绍，广西“滴滴农机”平台自2025年10月试运行以来，…</span>
+          <span class="news-item-date">10-06 21:11</span>
+          <span class="news-item-title">外交部：希望欧方同中方相向而行，通过对话协商解决彼此关切</span>
+          <span class="news-value-point">💡 中新社北京10月6日电 中国外交部发言人郭嘉昆6日答记者问时表示，希望欧方同中方相向而行，通过对话协商解决彼此关切，共同维护全球产供链稳定畅通，…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708372.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社联合国10月5日电 中国常驻联合国副代表孙磊5日针对少数国家在联大第三委员会一般性辩论中恶意诋毁中国人权状况作答辩发言，指出这些国家自以为高人一等，动辄摆出一副“人权教师爷”的做派，但其国内人权问题突出，根本没有资格奢谈人权，更无权对中国说三道四。" data-title="中国代表驳斥少数国家诋毁中国人权状况" data-date="10-06 11:01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708537.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月6日电 中国外交部发言人郭嘉昆6日答记者问时表示，中方反对借战事关联抹黑中国。" data-title="外交部：反对借战事关联抹黑中国" data-date="10-06 21:08" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 11:01</span>
-          <span class="news-item-title">中国代表驳斥少数国家诋毁中国人权状况</span>
-          <span class="news-value-point">💡 中新社联合国10月5日电 中国常驻联合国副代表孙磊5日针对少数国家在联大第三委员会一般性辩论中恶意诋毁中国人权状况作答辩发言，指出这些国家自以为…</span>
+          <span class="news-item-date">10-06 21:08</span>
+          <span class="news-item-title">外交部：反对借战事关联抹黑中国</span>
+          <span class="news-value-point">💡 中新社北京10月6日电 中国外交部发言人郭嘉昆6日答记者问时表示，中方反对借战事关联抹黑中国</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708362.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》于10月5日至7日，在央视综合频道18点档首播。纪录片全面展现了在党中央坚强领导下，我国公安机关会同有关部门开展打击缅北涉我犯罪专项工作，彻底铲除缅北“四大家族”等犯罪集团的艰苦历程和显著成就。" data-title="缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔 案件细节曝光" data-date="10-06 10:24" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708532.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网广州10月6日电 (郭军 彭国曦 张晓敏)进入国庆中秋假期第六天，国铁广州局迎来客流返程小高峰，当天预计发送旅客283.5万人次，较2025年同期增加61.7万人次，增幅27.8%。" data-title="国铁广州局迎来返程小高峰 假期第六天预计送客逾283万人次" data-date="10-06 21:08" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 10:24</span>
-          <span class="news-item-title">缅北电诈主犯随机杀人祭天、有受害者头骨7个弹孔 案件细节曝光</span>
-          <span class="news-value-point">💡 由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》于10月5日至7日，在央视综合频道18点档首播</span>
+          <span class="news-item-date">10-06 21:08</span>
+          <span class="news-item-title">国铁广州局迎来返程小高峰 假期第六天预计送客逾283万人次</span>
+          <span class="news-value-point">💡 中新网广州10月6日电 (郭军 彭国曦 张晓敏)进入国庆中秋假期第六天，国铁广州局迎来客流返程小高峰，当天预计发送旅客283.5万人次，较202…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708535.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月6日电 中国外交部发言人郭嘉昆6日答记者问时表示，中方坚决反对菲律宾损害中国主权和权益的任何行径，将继续采取必要措施，坚定捍卫自身在南海的领土主权和海洋权益。" data-title="中方：坚决反对菲律宾损害中国主权和权益的任何行径" data-date="10-06 21:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 21:07</span>
+          <span class="news-item-title">中方：坚决反对菲律宾损害中国主权和权益的任何行径</span>
+          <span class="news-value-point">💡 中新社北京10月6日电 中国外交部发言人郭嘉昆6日答记者问时表示，中方坚决反对菲律宾损害中国主权和权益的任何行径，将继续采取必要措施，坚定捍卫自…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708524.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="10月6日，外交部发言人郭嘉昆答记者问。" data-title="外交部回应台接收美战斗机：中方坚决反对美对台军售" data-date="10-06 20:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 20:28</span>
+          <span class="news-item-title">外交部回应台接收美战斗机：中方坚决反对美对台军售</span>
+          <span class="news-value-point">💡 10月6日，外交部发言人郭嘉昆答记者问</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708523.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="近日，菲方飞机和船只未经中方允许，擅自闯入中国管辖海空域。对此，外交部发言人回应。" data-title="中国军队正当合理！中方正告菲方立即停止侵权挑衅" data-date="10-06 20:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 20:27</span>
+          <span class="news-item-title">中国军队正当合理！中方正告菲方立即停止侵权挑衅</span>
+          <span class="news-value-point">💡 近日，菲方飞机和船只未经中方允许，擅自闯入中国管辖海空域</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-06/10708520.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="10月6日，外交部发言人郭嘉昆答记者问。" data-title="外交部：解决台湾问题完全是中国人自己的事 不容任何外部势力干涉" data-date="10-06 20:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 20:25</span>
+          <span class="news-item-title">外交部：解决台湾问题完全是中国人自己的事 不容任何外部势力干涉</span>
+          <span class="news-value-point">💡 10月6日，外交部发言人郭嘉昆答记者问</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708500.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月6日电 斯德哥尔摩消息：瑞典皇家科学院6日宣布，将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑(Francis Halzen)，以表彰他对“冰立方中微子天文台”作出的决定性贡献，以及在发现具有天体物理起源的高能中微子方面取得的成就。" data-title="弗朗西斯·哈尔岑获得2026年诺贝尔物理学奖" data-date="10-06 19:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 19:29</span>
+          <span class="news-item-title">弗朗西斯·哈尔岑获得2026年诺贝尔物理学奖</span>
+          <span class="news-value-point">💡 中新社北京10月6日电 斯德哥尔摩消息：瑞典皇家科学院6日宣布，将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑(Francis Halzen)，…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708497.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社莫斯科10月6日电 俄罗斯莫斯科州州长沃罗比约夫6日表示，该州遭到乌克兰大规模无人机袭击，目前已导致2人死亡、9人受伤。" data-title="俄罗斯莫斯科地区遭无人机袭击造成2死9伤" data-date="10-06 19:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 19:27</span>
+          <span class="news-item-title">俄罗斯莫斯科地区遭无人机袭击造成2死9伤</span>
+          <span class="news-value-point">💡 中新社莫斯科10月6日电 俄罗斯莫斯科州州长沃罗比约夫6日表示，该州遭到乌克兰大规模无人机袭击，目前已导致2人死亡、9人受伤</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708477.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月6日电(甘甜) 当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台作出的决定性贡献，以及对天体物理来源高能中微子的发现。" data-title="2026年诺贝尔物理学奖揭晓：1名科学家收获殊荣" data-date="10-06 18:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 18:02</span>
+          <span class="news-item-title">2026年诺贝尔物理学奖揭晓：1名科学家收获殊荣</span>
+          <span class="news-value-point">💡 中新网10月6日电(甘甜) 当地时间10月6日，瑞典皇家科学院决定将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，以表彰他对冰立方中微子天文台作…</span>
         </a>
   </div>
   <div class="news-category">
@@ -220,6 +219,73 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/" target="_blank" rel="noopener" data-cat="keji" data-summary="Pinterest新的人工智能美容指南将美发和美甲别针转化为沙龙术语，包括预估成本、预约时间和维护需求。" data-title="Pinterest’s AI now turns beauty Pins into action plans" data-date="10-06 22:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-06 22:00</span>
+          <span class="news-item-title">Pinterest的人工智能现在将美容徽章转化为行动计划</span>
+          <span class="news-item-title-en">Pinterest’s AI now turns beauty Pins into action plans</span>
+          <span class="news-value-point">💡 Pinterest新的人工智能美容指南将美发和美甲别针转化为沙龙术语，包括预估成本、预约时间和维护需求</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/109.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，当地时间上午 9 点 30 分，纳斯达克市场开盘。开盘钟声敲响后的二十分钟左右，英伟达（NVDA）市值达到 5.82 万亿美元（IT之家注：现汇率约合 39.08 万亿元人民币），创下历史新高，同时距 6 万亿美元（现汇率约合 40.29 万亿元人民币）仅有一步之遥。今日开盘时，英伟达股价为 242.10 美元（现汇率约合 1,626 元人民币），最高 243.37 美元（现汇率约合 1,634 元人民币），最低 240.76 美元（现汇率约合 1,617 元人民币）。同时，英伟达股价于美东时间 10 月 5 日星期一再度刷新历史纪录，收盘报 238.90 美元（现汇率约合 1,604 元人民币），单日上涨 2.12%，连续第三个交易日以收盘价创历史新高。如果" data-title="距 6 万亿美元仅一步之遥！英伟达市值达 5.8 万亿美元，创历史新高" data-date="10-06 21:58" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 21:58</span>
+          <span class="news-item-title">距 6 万亿美元仅一步之遥！英伟达市值达 5.8 万亿美元，创历史新高</span>
+          <span class="news-value-point">💡 IT之家 10 月 6 日消息，当地时间上午 9 点 30 分，纳斯达克市场开盘</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/108.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，当地时间 10 月 6 日，法国公司 Mistral AI 正式推出 Mistral Large 4 模型的公开预览版（Public Preview），简称 ML4，代号 le Chonk。即日起，用户可以在 Mistral Studio 上体验预览版 API，模型权重将于本月底正式开放下载。目前，官方正联合顶尖网络安全机构、受信任的合作伙伴及政府监管部门，在真实业务环境中对模型展开红队测试（Red-Teaming）。相关合作方将获得该模型的专项测试访问权限；该测试版本适当放宽了内容安全审查策略，并强化了网络安全攻防技术能力。ML4 是一款拥有 1 万亿总参数、490 亿激活参数的原生多模态模型，Mistral 称其实测表现不仅足以媲美全球顶尖的开源模型，更大" data-title="宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重" data-date="10-06 21:56" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 21:56</span>
+          <span class="news-item-title">宣称“欧美最强开源模型”：Mistral AI 发布 Mistral Large 4 公开预览版，月底开放权重</span>
+          <span class="news-value-point">💡 IT之家 10 月 6 日消息，当地时间 10 月 6 日，法国公司 Mistral AI 正式推出 Mistral Large 4 模型的公开…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/105.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，红魔 12 Pro+ 手机新品今日在京东开启新品预约，价格暂未公布，新机将于 10 月 15 日 14:30 正式发布。京东红魔 12 Pro+ 游戏旗舰手机待公布立即预约IT之家了解到，红魔 12 Pro+ 手机将搭载高通第六代骁龙 8 超级至尊版芯片。该机号称“迄今为止手感最好的红魔旗舰”，主打“更轻、更薄、更窄、更圆润”。预热图显示，新机相比前代厚度更薄、重量更轻，同时屏幕黑边、边框圆角都有优化，屏幕黑边由前代的 1.25mm 减小到了 0.96mm。红魔游戏手机产品总经理姜超曾表示，红魔 12Pro+ 仍然是一台真正属于玩家的手机：“性能在高负载下站得住，散热扛得住长时间鏖战，手感更进一步轻薄，设计有独一份的辨识度，正面无开孔的屏下全面屏完整纯粹，日常" data-title="红魔 12 Pro+ 手机新品开启预约，10 月 15 日发布" data-date="10-06 21:34" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 21:34</span>
+          <span class="news-item-title">红魔 12 Pro+ 手机新品开启预约，10 月 15 日发布</span>
+          <span class="news-value-point">💡 IT之家 10 月 6 日消息，红魔 12 Pro+ 手机新品今日在京东开启新品预约，价格暂未公布，新机将于 10 月 15 日 14:30 正…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/gigaphoton-debuts-neon-recycling-system-with-claimed-50-percent-recovery-rate-systems-throw-a-lifeline-to-chipmakers-that-utilize-70-percent-of-global-neon-supply-in-duv-lithography" target="_blank" rel="noopener" data-cat="keji" data-summary="新的氖气回收系统有望减少主要芯片制造商使用DUV光刻对惰性气体的需求。但随着这项技术被取代，这种急需的修复可能只是暂时的。" data-title="Gigaphoton debuts neon recycling system with claimed 50% recovery rate" data-date="10-06 21:20" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-06 21:20</span>
+          <span class="news-item-title">Gigaphoton推出霓虹灯回收系统，声称回收率为50 ％</span>
+          <span class="news-item-title-en">Gigaphoton debuts neon recycling system with claimed 50% recovery rate</span>
+          <span class="news-value-point">💡 新的氖气回收系统有望减少主要芯片制造商使用DUV光刻对惰性气体的需求</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only" target="_blank" rel="noopener" data-cat="keji" data-summary="从10月9日开始，任何使用免费套餐的Google Gemini用户将仅限于Flash Lite型号。免费用户目前可以从Gemini Flash Lite、Flash和Pro中进行选择，但现在您需要每月$ 4.99的Google AI Plus订阅才能获得" data-title="Google is about to remove free access to Gemini Flash and Pro" data-date="10-06 21:19" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-06 21:19</span>
+          <span class="news-item-title">谷歌即将取消对Gemini Flash和Pro的免费访问权限</span>
+          <span class="news-item-title-en">Google is about to remove free access to Gemini Flash and Pro</span>
+          <span class="news-value-point">💡 从10月9日开始，任何使用免费套餐的Google Gemini用户将仅限于Flash Lite型号</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/ev-charging-company-plans-to-deploy-100-000-nvidia-gpus-in-pods-at-its-roadside-sites-across-the-us-aims-to-offer-worlds-first-edge-inference-compute-network-using-idle-ev-charging-capacity" target="_blank" rel="noopener" data-cat="keji" data-summary="电动汽车充电公司Xeal计划利用其现有的美国网络部署“世界上第一个使用空闲电动汽车充电容量的边缘推理计算网络”。" data-title="EV charging company plans to deploy 100,000 Nvidia GPUs in pods at its roadside sites across the US" data-date="10-06 20:45" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-06 20:45</span>
+          <span class="news-item-title">电动汽车充电公司计划在美国各地的路边站点部署10万个英伟达GPU</span>
+          <span class="news-item-title-en">EV charging company plans to deploy 100,000 Nvidia GPUs in pods at its roadside sites across the US</span>
+          <span class="news-value-point">💡 电动汽车充电公司Xeal计划利用其现有的美国网络部署“世界上第一个使用空闲电动汽车充电容量的边缘推理计算网络”</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/cyber-security/hackers-suspected-of-using-ai-agents-for-cyberattacks-on-south-korean-banks-exposing-data-from-about-25-000-customers-officials-believe-ai-models-enable-actors-to-hack-with-ease-even-without-specialized-skills" target="_blank" rel="noopener" data-cat="keji" data-summary="韩国总统李宰明（ Lee Jae Myung ）告诉内阁，有迹象表明，黑客利用人工智能对银行进行攻击。" data-title="Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers" data-date="10-06 20:15" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-06 20:15</span>
+          <span class="news-item-title">涉嫌使用人工智能代理对韩国银行进行网络攻击的黑客，暴露了大约25,000名客户的数据</span>
+          <span class="news-item-title-en">Hackers suspected of using AI agents for cyberattacks on South Korean banks, exposing data from about 25,000 customers</span>
+          <span class="news-value-point">💡 韩国总统李宰明（ Lee Jae Myung ）告诉内阁，有迹象表明，黑客利用人工智能对银行进行攻击</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/501736.html" target="_blank" rel="noopener" data-cat="keji" data-summary="不er，咋陶哲轩也成AI减速派了？？" data-title="不er，咋陶哲轩也成AI减速派了？？" data-date="10-06 15:59" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-06 15:59</span>
+          <span class="news-item-title">不er，咋陶哲轩也成AI减速派了？？</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/010/007.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，OPPO 现已在印度市场推出 F35 5G/F35 Pro 5G 手机，新品定位中低端市场，采用 8000mAh 大电池，以及天玑 6360 Max/7360 Max 芯片，起售价为 38,999 卢比（IT之家注：现汇率约合 2,725 元人民币）。据介绍，OPPO F35 5G 手机搭载 6.57 英寸 AMOLED 屏幕，分辨率为 2372×1080，支持 120Hz 高刷，亮度可达 800nits。配备联发科天玑 6360 Max 芯片，提供 6GB/8GB 内存以及 128GB 存储空间，具备 4300mm² 大面积 VC 液冷散热。同时，该手机拥有 5000 万像素后置主摄和 200 万像素黑白辅助镜头，前置 5000 万像素自拍镜头。拥有 800" data-title="OPPO 推出 F35 5G 系列手机：8000mAh 电池，天玑 6360 Max/7360 Max 芯片" data-date="10-06 15:55" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -241,6 +307,12 @@ title: 热点新闻
           <span class="news-item-title">OpenAI 与 Anthropic 向澳大利亚表态：支持出台数据泄露相关监管法规</span>
           <span class="news-value-point">💡 IT之家 10 月 6 日消息，据路透社报道，OpenAI 与 Anthropic 于周二向澳大利亚议会表态，支持出台相关法规，强制要求企业通报…</span>
         </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/501726.html" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI“疯狂28天”首日，这都发了些啥啊…" data-title="OpenAI“疯狂28天”首日，这都发了些啥啊…" data-date="10-06 14:45" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-06 14:45</span>
+          <span class="news-item-title">OpenAI“疯狂28天”首日，这都发了些啥啊…</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/009/974.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。余承东表示，自己于 1993 年加入华为，那是 33 年前的事了。当时，公司只有几百名员工。目前，华为拥有超过 20 万名员工，其中近一半从事研发工作。2007 年至 2025 年底，华为在研发方面投入了超过 1.8 万亿元人民币。早期，华为将约 10% 的年收入再投资于研发；近年来，这一比例已跃升至 20% 以上。余承东还提到，自 2019 年以来，华为克服了许多困难以求生存。华为与国内供应链合作，依靠本土技术和能力制造先进芯片、" data-title="华为余承东官宣鸿蒙出海：正在考虑未来逐步将 HarmonyOS 推向全球市场" data-date="10-06 12:20" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -254,82 +326,6 @@ title: 热点新闻
           <span class="news-item-date">10-06 11:49</span>
           <span class="news-item-title">“十五五”末水网织成什么样？水利部给出六组目标数据</span>
           <span class="news-value-point">💡 水网、新型电网、算力网、新一代通信网、城市地下管网、物流网，这“六张网”，是我国“十五五”时期现代化基础设施体系建设的核心内容</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/971.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，据彭博社报道，知情人士消息，月之暗面（Moonshot AI）已经完成上市前最后一轮私募融资，估值约 500 亿美元（IT之家注：现汇率约合 3,357.23 亿元人民币）；该公司计划于明年第一季度在香港进行首次公开募股（IPO）。部分知情人士称，这家国内头部人工智能企业已经开始筹备投资者摸底沟通，最早将于本月就开展先期意向会议，以此评估资本市场态度。月之暗面是中国 AI 赛道当中最受瞩目的企业之一。今年 7 月，Kimi K3 开源大模型正式发布，一举站上全球舞台；在多项评测指标上，该模型几乎可以同 OpenAI、Anthropic 的头部模型相抗衡。其 IPO 也成为港股市场最受期待的交易项目之一。眼下 AI 驱动的新股融资活动正在香港接连刷新纪录。知情人" data-title="消息称月之暗面完成上市前最后一轮融资：估值约 500 亿美元，计划明年一季度赴港 IPO" data-date="10-06 11:38" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 11:38</span>
-          <span class="news-item-title">消息称月之暗面完成上市前最后一轮融资：估值约 500 亿美元，计划明年一季度赴港 IPO</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，据彭博社报道，知情人士消息，月之暗面（Moonshot AI）已经完成上市前最后一轮私募融资，估值约 500 亿…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/961.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的 MGX 也在其中）展开磋商，希望由这些基金作为基石投资方，助力这家 ChatGPT 开发商完成一轮规模 300 亿美元（IT之家注：现汇率约合 2,014.34 亿元人民币）的融资。其中一位知情人士称，这些阿联酋基金将会组建投资财团参与本轮融资。另有消息表示，几家阿联酋基金合计的出资规模最高可能达到 100 亿美元（现汇率约合 671.45 亿元人民币）。知情人士还称，贝莱德集团（BlackRock Inc.）也正在洽谈，计划随同该财团一同参与本轮融资。知情人士同时表示，本轮融资仍在推进过程中，各项细节仍有可能发生变动。据彭博社此前报道，OpenAI 计划至少募资 3" data-title="消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商" data-date="10-06 10:29" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 10:29</span>
-          <span class="news-item-title">消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的 MGX 也在其中）…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/960.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，综合 CNBC 与《金融时报》报道，Groq 当地时间本周二被告上美国特拉华州衡平法院，被指控在与 NVIDIA（英伟达）的“类收购”非独家授权交易中牺牲了少数股东的权益。原告 Joshua Rubin 和 Benjamin Serebrin 曾是 Groq 的员工，但在与 NVIDIA 的交易前离职。两位员工仍持有 Groq 的股份。根据披露的诉讼文件，Groq 与 NVIDIA 的 200 亿美元（IT之家注：现汇率约合 1,342.89 亿元人民币）交易分为 2 个部分：170 亿美元由所有持股者共享，另外 30 亿美元以 NVIDIA 限售股的形式被分给跳槽 NVIDIA 的 Groq 员工。原告方认为 Groq 董事会存在严重的利益冲突，未能履行其为" data-title="Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益" data-date="10-06 10:18" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 10:18</span>
-          <span class="news-item-title">Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，综合 CNBC 与《金融时报》报道，Groq 当地时间本周二被告上美国特拉华州衡平法院，被指控在与 NVIDIA…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/958.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 6 日消息，科技媒体 Windows Central 昨日（10 月 5 日）发布博文，报道称在 Word 文档处理应用中，微软优化 Copilot AI 体验，新增引用功能，帮助用户溯源遏制 AI 幻觉。信息引用方面，Copilot 回复现在会附带来源链接，用户可直接点击跳转至原始网页或内部文档，核实信息上下文与准确性。微软表示，此举提高了透明度，帮助用户理解 Copilot 信息的出处。IT之家附上相关截图如下：AI 工具常因训练数据滞后或语境误读而输出错误结论，甚至编造看似真实的来源，业内也将其称为“幻觉”。引用功能允许用户快速回溯原始材料，确认 Copilot 是否正确提取并理解了信息。微软同时优化了 Copilot Chat 的设计与功能，并为 Copilot" data-title="防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证" data-date="10-06 10:12" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 10:12</span>
-          <span class="news-item-title">防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，科技媒体 Windows Central 昨日（10 月 5 日）发布博文，报道称在 Word 文档处理应用中，…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/its-finally-a-good-time-to-buy-a-raptor-lake-cpu-during-prime-big-deals-day-chips-drop-to-all-time-low-prices-as-inventory-seemingly-stabilizes" target="_blank" rel="noopener" data-cat="keji" data-summary="英特尔的第14代Raptor Lake Refresh CPU在经历了一年不一致的价格后，终于获得了一些不错的折扣，其中一些芯片甚至跌至历史最低点。" data-title="It&#39;s finally a good time to buy a Raptor Lake CPU during Prime Big Deals Day" data-date="10-06 07:25" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-06 07:25</span>
-          <span class="news-item-title">终于在Prime Big Deals Day购买Raptor Lake CPU的好时机了</span>
-          <span class="news-item-title-en">It's finally a good time to buy a Raptor Lake CPU during Prime Big Deals Day</span>
-          <span class="news-value-point">💡 英特尔的第14代Raptor Lake Refresh CPU在经历了一年不一致的价格后，终于获得了一些不错的折扣，其中一些芯片甚至跌至历史最低…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors" target="_blank" rel="noopener" data-cat="keji" data-summary="Google可能会将其“Call for Me”人工智能功能扩展到商务电话之外，以便您可以使用它向亲朋好友发送消息。Android Authority报告在APK拆解中找到“Gemini Calling”介绍屏幕，其中包含示例" data-title="Gemini Call for Me might tell your mom you’re running late" data-date="10-06 07:09" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-06 07:09</span>
-          <span class="news-item-title">双子座给我打电话可能会告诉你妈妈你迟到了</span>
-          <span class="news-item-title-en">Gemini Call for Me might tell your mom you’re running late</span>
-          <span class="news-value-point">💡 Google可能会将其“Call for Me”人工智能功能扩展到商务电话之外，以便您可以使用它向亲朋好友发送消息</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI将在欧盟对ChatGPT和Codex文本进行水印，以符合《人工智能法》。它说，编辑会使隐形标记更难被检测到。" data-title="OpenAI will start watermarking ChatGPT’s text in the EU" data-date="10-06 04:36" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-06 04:36</span>
-          <span class="news-item-title">OpenAI将开始在欧盟为ChatGPT的文本添加水印</span>
-          <span class="news-item-title-en">OpenAI will start watermarking ChatGPT’s text in the EU</span>
-          <span class="news-value-point">💡 OpenAI将在欧盟对ChatGPT和Codex文本进行水印，以符合《人工智能法》</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions" target="_blank" rel="noopener" data-cat="keji" data-summary="犹他州的人们现在可以使用人工智能来获得治疗痤疮的处方。周一，医疗保健初创公司Nolla Health宣布，该州的用户可以使用其应用程序扫描他们的面部，从而使其人工智能系统能够自主分析痤疮的严重程度，" data-title="This startup is issuing AI-generated acne prescriptions" data-date="10-06 04:14" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-06 04:14</span>
-          <span class="news-item-title">这家初创公司正在发布人工智能生成的痤疮处方</span>
-          <span class="news-item-title-en">This startup is issuing AI-generated acne prescriptions</span>
-          <span class="news-value-point">💡 犹他州的人们现在可以使用人工智能来获得治疗痤疮的处方</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/" target="_blank" rel="noopener" data-cat="keji" data-summary="Reflection将Beam和未来模型瞄准企业和主权国家。推销的目的是建立“人工智能工厂” ，该产品将允许机构通过自行培训Reflection的人工智能模型来构建自己的定制本地人工智能系统" data-title="Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost" data-date="10-06 03:33" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-06 03:33</span>
-          <span class="news-item-title">Reflection推出开放式权重AI模型Beam ，以更低的计算成本与中国机型相媲美</span>
-          <span class="news-item-title-en">Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost</span>
-          <span class="news-value-point">💡 Reflection将Beam和未来模型瞄准企业和主权国家</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution" target="_blank" rel="noopener" data-cat="keji" data-summary="在过去的一年中， OpenAI、Anthropic和其他实验室宣布在许多长期存在的数学问题上取得突破，在某些情况下，这些突破远远超出了研究人员对当前系统的预期--包括解决" data-title="All the drama around AI’s takeover of mathematics" data-date="10-06 03:28" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-06 03:28</span>
-          <span class="news-item-title">围绕人工智能接管数学的所有戏剧</span>
-          <span class="news-item-title-en">All the drama around AI’s takeover of mathematics</span>
-          <span class="news-value-point">💡 在过去的一年中， OpenAI、Anthropic和其他实验室宣布在许多长期存在的数学问题上取得突破，在某些情况下，这些突破远远超出了研究人员对…</span>
         </a>
   </div>
   <div class="news-category">
@@ -360,113 +356,120 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful" target="_blank" rel="noopener" data-cat="zonghe" data-summary="忏悔：当BougeRV告诉我其带有动画照明的遥控车时，我打电话给它取笑，希望在评论中剔除它。可以肯定的是，这太荒谬了。但沙丘漫游者也被证明是非常强大的，有足够的扭矩" data-title="This remote-controlled wagon is silly but so very useful" data-date="10-06 16:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-06 16:00</span>
-          <span class="news-item-title">这辆遥控马车很傻，但非常有用</span>
-          <span class="news-item-title-en">This remote-controlled wagon is silly but so very useful</span>
-          <span class="news-value-point">💡 忏悔：当BougeRV告诉我其带有动画照明的遥控车时，我打电话给它取笑，希望在评论中剔除它</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/008.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 6 日消息，日本烤肉连锁店“烧肉王”的运营方 —— 物语集团 10 月 5 日发布公告，其烧肉王官方 App 的会员管理系统被第三方非法访问，10,788,963 名会员信息被泄露。该应用的注册用户数为 10,808,784，泄露信息覆盖了大部分用户。IT之家从公告获悉，泄露的信息包括会员号码、姓名（应用注册名）、电子邮件地址和电话号码。另一方面，登录密码、出生日期、性别、邮政编码和持有积分等信息尚未泄露。10 月 2 日，未经授权的访问得到确认。该公司关闭了通讯并采取了其他防御措施，但在第二天，即 10 月 3 日，该公司确认了会员信息泄露。目前，没有证据表明泄露的信息已被滥用。官方确认此次信息泄露是由于第三方未经授权访问造成的，仍在调查泄露原因。在实施防止外部未经授权" data-title="日本烤肉连锁店“烧肉王”会员系统被黑，超千万条顾客信息泄露" data-date="10-06 15:56" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 15:56</span>
-          <span class="news-item-title">日本烤肉连锁店“烧肉王”会员系统被黑，超千万条顾客信息泄露</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，日本烤肉连锁店“烧肉王”的运营方 —— 物语集团 10 月 5 日发布公告，其烧肉王官方 App 的会员管理系统…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/06/world/europe/france-student-strikes-protests.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="计划于周二举行的示威活动规模将考验自9月下旬以来在法国高中蔓延的学生领导的抗议运动的实力。" data-title="France Set for Nationwide Strikes, as School Protests Escalate" data-date="10-06 15:55" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这些集会是对学生领导的抗议运动实力的考验，自9月下旬以来，抗议运动已经关闭了数百所法国高中。" data-title="Live Updates: Protests Spread Across France as Unions Join Student Demonstrations" data-date="10-06 22:20" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-06 15:55</span>
-          <span class="news-item-title">随着学校抗议活动升级，法国将发动全国性罢工</span>
-          <span class="news-item-title-en">France Set for Nationwide Strikes, as School Protests Escalate</span>
-          <span class="news-value-point">💡 计划于周二举行的示威活动规模将考验自9月下旬以来在法国高中蔓延的学生领导的抗议运动的实力</span>
+          <span class="news-item-date">10-06 22:20</span>
+          <span class="news-item-title">实时更新：随着工会加入学生示威活动，抗议活动在法国各地蔓延</span>
+          <span class="news-item-title-en">Live Updates: Protests Spread Across France as Unions Join Student Demonstrations</span>
+          <span class="news-value-point">💡 这些集会是对学生领导的抗议运动实力的考验，自9月下旬以来，抗议运动已经关闭了数百所法国高中</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708442.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网海南万宁10月6日电 题：国庆假期海南侨乡万宁“学艺式旅行”走红" data-title="国庆假期海南侨乡万宁“学艺式旅行”走红" data-date="10-06 15:53" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708550.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="山野风险不容小觑，不论是否有户外徒步经验，都要提前科学规划，量力而行。一旦遇到突发状况该如何自救？来看专业人员的提示。" data-title="秋季山野出行提示：科学规划防险情，远离网红野游路线谨防失温" data-date="10-06 22:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 15:53</span>
-          <span class="news-item-title">国庆假期海南侨乡万宁“学艺式旅行”走红</span>
-          <span class="news-value-point">💡 中新网海南万宁10月6日电 题：国庆假期海南侨乡万宁“学艺式旅行”走红</span>
+          <span class="news-item-date">10-06 22:16</span>
+          <span class="news-item-title">秋季山野出行提示：科学规划防险情，远离网红野游路线谨防失温</span>
+          <span class="news-value-point">💡 山野风险不容小觑，不论是否有户外徒步经验，都要提前科学规划，量力而行</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708441.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网南宁10月6日电 (于莉 郑长贤 周爱斌)中国铁路南宁局集团有限公司(简称国铁南宁局)6日提供的信息显示，2026年国庆假期进入尾声，铁路运输迎来旅客返程高峰。10月6日至8日客流高峰期间，国铁南宁局加开动车组列车517列，充分满足旅客假期返程需求。" data-title="国铁南宁局加开517列动车组列车助力旅客返程" data-date="10-06 15:53" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708549.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="国庆假期，全国7座及7座以下小客车从10月1日0时到10月7日24时免收高速公路通行费。假期最后一天的返程计费问题也是很多车主的高频踩坑点，交通运输部提醒，千万别为省钱冒险“踩零点”驶离高速。" data-title="国庆返程必看！高速免费看出口时间 千万别卡点下高速" data-date="10-06 22:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 15:53</span>
-          <span class="news-item-title">国铁南宁局加开517列动车组列车助力旅客返程</span>
-          <span class="news-value-point">💡 中新网南宁10月6日电 (于莉 郑长贤 周爱斌)中国铁路南宁局集团有限公司(简称国铁南宁局)6日提供的信息显示，2026年国庆假期进入尾声，铁路…</span>
+          <span class="news-item-date">10-06 22:11</span>
+          <span class="news-item-title">国庆返程必看！高速免费看出口时间 千万别卡点下高速</span>
+          <span class="news-value-point">💡 国庆假期，全国7座及7座以下小客车从10月1日0时到10月7日24时免收高速公路通行费</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708444.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网绍兴10月6日电 题：六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南" data-title="六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南" data-date="10-06 15:51" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="经过一场法律纠纷，派拉蒙终于收购了华纳兄弟探索。在给员工的一份备忘录中，合并后的公司领导暗示要削减成本。" data-title="Paramount Closes Its Deal for Warner Bros. Discovery" data-date="10-06 22:08" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 15:51</span>
-          <span class="news-item-title">六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</span>
-          <span class="news-value-point">💡 中新网绍兴10月6日电 题：六旬老汉炸臭豆腐三十余年 “闻臭食香”揭开别样江南</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-06 22:08</span>
+          <span class="news-item-title">派拉蒙完成与Warner Bros. Discovery的交易</span>
+          <span class="news-item-title-en">Paramount Closes Its Deal for Warner Bros. Discovery</span>
+          <span class="news-value-point">💡 经过一场法律纠纷，派拉蒙终于收购了华纳兄弟探索</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/004.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 6 日消息，博主 @科技饭相机情报 今日曝光了适马 APS-C 变焦镜头 50-120mm F2.8 DC OS | Contemporary 的官方渲染图以及完整规格，这款镜头预计将于 10 月 8 日发布。据悉，这款镜头具备索尼 E、富士 X 和佳能 RF 三大卡口版本，主打轻便（E 卡口版仅 390 克），内置 HLA 高速线性马达，支持光学防抖，并且针对视频拍摄做了优化（呼吸效应低）。IT之家附这款镜头主要参数如下：光学结构：13 组 18 片（3 SLD 、1 FLD、4 片非球面）光圈叶片：11 片（圆形）最近对焦距离：广角端为 23 厘米，长焦端为 55 厘米最大放大倍率：50mm 端 1:3，120mm 端 1:4.7滤镜直径：Ø55mm重量：索尼 E 卡" data-title="适马 50-120mm F2.8 APS-C 相机镜头曝光：支持光学防抖，覆盖索尼 E、富士 X、佳能 RF 卡口" data-date="10-06 15:41" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在TechCrunch Disrupt 2026上解答您的所有扩展和技术问题。以下是10月13日至15日在旧金山举行的分组会议的完整议程。立即注册，即可享受高达$ 100的优惠，并以50%的折扣获得第二张通行证。" data-title="Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed" data-date="10-06 22:00" data-source="TechCrunch">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 15:41</span>
-          <span class="news-item-title">适马 50-120mm F2.8 APS-C 相机镜头曝光：支持光学防抖，覆盖索尼 E、富士 X、佳能 RF 卡口</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，博主 @科技饭相机情报 今日曝光了适马 APS-C 变焦镜头 50-120mm F2.8 DC OS | Con…</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-06 22:00</span>
+          <span class="news-item-title">在TechCrunch Disrupt 2026上解答您的所有问题：完整的分组会议议程揭晓</span>
+          <span class="news-item-title-en">Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed</span>
+          <span class="news-value-point">💡 在TechCrunch Disrupt 2026上解答您的所有扩展和技术问题</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708440.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网嘉兴10月6日电(林波)国庆假期，浙江大学海宁国际校区国际联合商学院的意大利留学生伊莱尼亚·阿利收拾好行囊，开启黄山之旅。对她而言，假期的打开方式，是登高览胜、寻访古村，在绿水青山间感受中国自然与人文；闲暇时，她还会继续练习太极拳，在一招一式间体会东方哲思。" data-title="爱打太极拳的意大利姑娘：把假期留给中国山水和乡村" data-date="10-06 15:38" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/gadgets/1003583/pixel-watch-5-prime-day-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Google Pixel Watch 5在亚马逊10月份的销售期间打折了60 $ ， 41mm版本的售价为$ 334.99 ， 45mm版本的售价为$ 364.99。谷歌智能手表的最新版本在8月份与Pixel 11手机一起推出，" data-title="The Pixel Watch 5 is a better value at $65 off" data-date="10-06 22:00" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 15:38</span>
-          <span class="news-item-title">爱打太极拳的意大利姑娘：把假期留给中国山水和乡村</span>
-          <span class="news-value-point">💡 中新网嘉兴10月6日电(林波)国庆假期，浙江大学海宁国际校区国际联合商学院的意大利留学生伊莱尼亚·阿利收拾好行囊，开启黄山之旅</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-06 22:00</span>
+          <span class="news-item-title">Pixel Watch 5优惠$ 65</span>
+          <span class="news-item-title-en">The Pixel Watch 5 is a better value at $65 off</span>
+          <span class="news-value-point">💡 Google Pixel Watch 5在亚马逊10月份的销售期间打折了60 $ ， 41mm版本的售价为$ 334.99 ， 45mm版本的售…</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cr3wvq8l864do/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="纳达尔·马里克·哈桑的处决将是自1961年以来首次军事处决，也是自第二次世界大战结束以来首次以行刑队枪决方式执行死刑。" data-title="美军拟枪决胡德堡基地枪击案凶手 二战后首例" data-date="10-06 15:34" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-06 15:34</span>
-          <span class="news-item-title">美军拟枪决胡德堡基地枪击案凶手 二战后首例</span>
-          <span class="news-value-point">💡 纳达尔·马里克·哈桑的处决将是自1961年以来首次军事处决，也是自第二次世界大战结束以来首次以行刑队枪决方式执行死刑</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/002.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 6 日消息，首批谷歌 Googlebook 笔记本已经于前两天在美国市场上市，宏碁、华硕、联想、惠普、戴尔等厂商均有推出对应机型。这些笔记本运行 Googlebook OS 操作系统，融合了 Android 的软件和 ChromeOS 桌面特性，支持运行完整版 Chrome 浏览器并提供独立 Linux 环境。如今，谷歌已经在官网给出了 Googlebook 的解锁 Bootloader 指南。用户可以在设置的关于设备页面下点击 build 号 7 次，然后在开发者选项中开启 OEM 解锁。之后需要进入 Recovery 模式，然后再恢复屏幕的“高级选项”找到“解锁引导加载程序”。需要注意的是，解锁 BL 会清除设备所有数据，并关闭安全保护功能。谷歌提醒，解锁的设备可能出" data-title="谷歌 Googlebook 笔记本解锁 BL 指南上线后，Magisk 确认适配" data-date="10-06 15:29" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 15:29</span>
-          <span class="news-item-title">谷歌 Googlebook 笔记本解锁 BL 指南上线后，Magisk 确认适配</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，首批谷歌 Googlebook 笔记本已经于前两天在美国市场上市，宏碁、华硕、联想、惠普、戴尔等厂商均有推出对应…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/001.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 6 日消息，金融时报（FT）昨日（10 月 5 日）发布博文，报道称索尼音乐已要求各数字平台删除超过 26 万首冒充其旗下艺人的 AI 生成曲目。在数量方面，报道称是索尼音乐娱乐公司（Sony Music Entertainment）要求流媒体平台在 9 月底前下架超过 26 万首歌曲，这一数字几乎是 3 月底 13.5 万首的两倍。索尼表示，这些曲目利用生成式 AI 深度伪造技术，在未经许可的情况下模仿旗下艺人的声音与形象。索尼音乐全球数字业务总裁丹尼斯 · 库克（Dennis Kooker）表示，欺诈性流媒体播放量可能占音乐流媒体网站曲目总量的 10%。唱片公司高管估计，流媒体欺诈每年给行业造成的损失高达 22 亿美元（IT之家注：现汇率约合 147.72 亿元人民币" data-title="索尼音乐 9 月要求下架 26 万首 AI 伪造歌曲：阿黛尔等艺人被冒充，请求量较 3 月近乎翻倍" data-date="10-06 15:19" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 15:19</span>
-          <span class="news-item-title">索尼音乐 9 月要求下架 26 万首 AI 伪造歌曲：阿黛尔等艺人被冒充，请求量较 3 月近乎翻倍</span>
-          <span class="news-value-point">💡 IT之家 10 月 6 日消息，金融时报（FT）昨日（10 月 5 日）发布博文，报道称索尼音乐已要求各数字平台删除超过 26 万首冒充其旗下艺…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708430.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网泰州10月6日电 题：从“好人成林”到“好人森林” 泰州市海陵区厚植“好人文化”引领时代新风" data-title="从“好人成林”到“好人森林” 泰州市海陵区厚植“好人文化”引领时代新风" data-date="10-06 14:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 14:53</span>
-          <span class="news-item-title">从“好人成林”到“好人森林” 泰州市海陵区厚植“好人文化”引领时代新风</span>
-          <span class="news-value-point">💡 中新网泰州10月6日电 题：从“好人成林”到“好人森林” 泰州市海陵区厚植“好人文化”引领时代新风</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/live/news/amazon-prime-big-deal-days-2026-day-one" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在2026年10月的Amazon Prime Big Deal Days技术活动中获取所有超值优惠。" data-title="Best Amazon Prime Day tech deals live" data-date="10-06 14:50" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/video-games/pc-gaming/gta-v-playable-in-browser-immediately-nuked-unofficial-webassembly-port-built-with-ai-gets-taken-down-within-hours-of-going-live" target="_blank" rel="noopener" data-cat="zonghe" data-summary="目前尚不清楚是谁关闭了PlayGTA5.com ，但如果Take-Two看到该网站，可能会迅速采取行动。" data-title="GTA V playable in browser immediately nuked" data-date="10-06 21:50" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-06 14:50</span>
-          <span class="news-item-title">亚马逊Prime Day技术实时超值优惠</span>
-          <span class="news-item-title-en">Best Amazon Prime Day tech deals live</span>
-          <span class="news-value-point">💡 在2026年10月的Amazon Prime Big Deal Days技术活动中获取所有超值优惠</span>
+          <span class="news-item-date">10-06 21:50</span>
+          <span class="news-item-title">GTA V可立即在浏览器中播放</span>
+          <span class="news-item-title-en">GTA V playable in browser immediately nuked</span>
+          <span class="news-value-point">💡 目前尚不清楚是谁关闭了PlayGTA5.com ，但如果Take-Two看到该网站，可能会迅速采取行动</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwzrd73z6k6mo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="美国公共图书馆已成为一场激烈意识形态冲突的战场，这场冲突的焦点在于学生应该能够获得哪些书籍。" data-title="美国图书馆为何正迅速下架众多图书？" data-date="10-06 14:31" data-source="BBC">
+        <a class="news-item" href="https://www.ithome.com/1/010/107.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 6 日消息，据央视新闻报道，当地时间 5 日，在 77 届国际宇航大会（IAC 2026）上，中国首飞航天员、航天英雄、现任中国载人航天工程副总设计师杨利伟表示，中国空间站将成为一个面向全球科学家开放的实验平台。杨利伟透露，中国空间站后续可在科学研究、航天员培训、提供飞行机会，以及科普教育等方面，开展深化合作。IT之家从原报道获悉，中国空间站将在今年下半年，迎来首批外籍航天员。杨利伟介绍道：“这两名巴基斯坦的预备航天员，在整个训练过程当中，表现非常优异，正在和中国航天员进行配合训练。按照计划，一名巴基斯坦航天员将作为载荷专家，执行短期飞行任务。”此外，就中国载人登月计划，杨利伟表示，中国希望与各国展开合作交流。“将开展月球科学的研究与开发，建设月球的科研站。”" data-title="杨利伟：中国空间站将成全球开放实验平台，下半年迎来首批外籍航天员" data-date="10-06 21:48" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-06 14:31</span>
-          <span class="news-item-title">美国图书馆为何正迅速下架众多图书？</span>
-          <span class="news-value-point">💡 美国公共图书馆已成为一场激烈意识形态冲突的战场，这场冲突的焦点在于学生应该能够获得哪些书籍</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 21:48</span>
+          <span class="news-item-title">杨利伟：中国空间站将成全球开放实验平台，下半年迎来首批外籍航天员</span>
+          <span class="news-value-point">💡 IT之家 10 月 6 日消息，据央视新闻报道，当地时间 5 日，在 77 届国际宇航大会（IAC 2026）上，中国首飞航天员、航天英雄、现任…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708418.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社青海玉树10月6日电 题：青海玉树千年古村：朴韵藏式碉楼引客来" data-title="（走进中国乡村）青海玉树千年古村：朴韵藏式碉楼引客来" data-date="10-06 14:30" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/010/104.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 6 日消息，当地时间 10 月 6 日，亚马逊 Prime Video 与美国电视艺术与科学学院（Television Academy）联合宣布达成一项为期六年的合作协议，Prime Video 将获得艾美奖（Emmy Awards）的全球独家直播权。IT之家注：艾美奖始办于 1949 年，与奥斯卡金像奖、格莱美奖、托尼奖并称美国演艺界四大奖（EGOT）。自 2027 年起，用户可在 Prime Video 上免费观看艾美奖颁奖典礼直播 —— 这也标志着该典礼首次拥有一个专属的直播平台。官方表示，这项历史性协议的达成，标志着电视学院沿用已久由 ABC、CBS、FOX 和 NBC 四大商业地面电视广播网络（四大电视网）轮流转播的“轮播协议”（Wheel Deal）正式结束，" data-title="取代四大电视网“轮播模式”，亚马逊 Prime Video 拿下艾美奖全球独家直播权" data-date="10-06 21:32" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 14:30</span>
-          <span class="news-item-title">（走进中国乡村）青海玉树千年古村：朴韵藏式碉楼引客来</span>
-          <span class="news-value-point">💡 中新社青海玉树10月6日电 题：青海玉树千年古村：朴韵藏式碉楼引客来</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 21:32</span>
+          <span class="news-item-title">取代四大电视网“轮播模式”，亚马逊 Prime Video 拿下艾美奖全球独家直播权</span>
+          <span class="news-value-point">💡 IT之家 10 月 6 日消息，当地时间 10 月 6 日，亚马逊 Prime Video 与美国电视艺术与科学学院（Television Ac…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed" target="_blank" rel="noopener" data-cat="zonghe" data-summary="派拉蒙已完成以1100亿美元收购Warner Bros. Discovery ，组建了一家名为Skydance的合并公司。此次合并正式将派拉蒙和WBD的电影制片厂以及HBO、CBS新闻和CN等主要网络和品牌" data-title="Paramount and Warner Bros. Discovery complete $110 billion media megamerger" data-date="10-06 21:32" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-06 21:32</span>
+          <span class="news-item-title">派拉蒙和华纳兄弟发现完成$ 1100亿媒体巨型合并</span>
+          <span class="news-item-title-en">Paramount and Warner Bros. Discovery complete $110 billion media megamerger</span>
+          <span class="news-value-point">💡 派拉蒙已完成以1100亿美元收购Warner Bros. Discovery ，组建了一家名为Skydance的合并公司</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/peripherals/cd-players-are-back-with-modern-interesting-features-starting-as-low-as-usd89-here-are-some-of-the-best-and-most-interesting-new-models" target="_blank" rel="noopener" data-cat="zonghe" data-summary="CD销量在过去一年中增长了近60 ％ ，超过了黑胶唱片，并带来了大量有趣的新硬件。如果您想找一个新的驱动器来播放您的旧光盘，有很多有趣的选择。" data-title="CD players are back, and offering up modern, interesting features" data-date="10-06 21:28" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-06 21:28</span>
+          <span class="news-item-title">CD播放器又回来了，并提供了现代、有趣的功能</span>
+          <span class="news-item-title-en">CD players are back, and offering up modern, interesting features</span>
+          <span class="news-value-point">💡 CD销量在过去一年中增长了近60 ％ ，超过了黑胶唱片，并带来了大量有趣的新硬件</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/996983/best-october-prime-day-deal-sale-tech" target="_blank" rel="noopener" data-cat="zonghe" data-summary="亚马逊的Prime Big Deal Days活动已经开始，持续到美国东部时间10月8日星期四凌晨3点。我们已经浏览了公司的大量交易列表，以找到Verge读者会喜欢的产品（以及我们个人也喜欢的产品）。主要订阅者" data-title="The best October Prime Day tech deals we found" data-date="10-06 21:27" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-06 21:27</span>
+          <span class="news-item-title">我们找到的最佳十月黄金日科技优惠</span>
+          <span class="news-item-title-en">The best October Prime Day tech deals we found</span>
+          <span class="news-value-point">💡 亚马逊的Prime Big Deal Days活动已经开始，持续到美国东部时间10月8日星期四凌晨3点</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/entertainment/1005436/amazon-prime-video-emmys-deal" target="_blank" rel="noopener" data-cat="zonghe" data-summary="艾美奖有了一个新家--看起来亚马逊为这些权利付出了很多。颁奖典礼和亚马逊宣布了一项为期六年的协议，将艾美奖从其传统的广播电视之家转移到Prime Video。轮班从20岁开始" data-title="Amazon reportedly pays $120 million to stream the Emmys for free" data-date="10-06 21:26" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-06 21:26</span>
+          <span class="news-item-title">据报道，亚马逊支付1.2亿美元免费播放艾美奖</span>
+          <span class="news-item-title-en">Amazon reportedly pays $120 million to stream the Emmys for free</span>
+          <span class="news-value-point">💡 艾美奖有了一个新家--看起来亚马逊为这些权利付出了很多</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/103.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 6 日消息，任天堂现已在 eShop 平台推出两款 Switch 游戏《你好，碧姬公主！》（Hello, Peach!）《你好，路易吉！》（Hello, Luigi!），面向儿童用户。IT之家了解到，这两款作品属于“My Mario”系列产品。游戏内容正如标题所示，玩家可以使用 Switch 游戏机的触控屏，与碧姬公主或路易吉进行活动。同时，任天堂已在此前推出过《你好，马力欧！》和《你好，耀西！》游戏，如今“My Mario”系列作品已经有 4 款。此外，本次新上架的两款游戏无需网络连接即可游玩，未来还将登陆 iOS 和 Android 应用市场。" data-title="任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户" data-date="10-06 21:24" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-06 21:24</span>
+          <span class="news-item-title">任天堂推出两款免费 Switch 游戏《你好，碧姬公主！》《你好，路易吉！》，面向儿童用户</span>
+          <span class="news-value-point">💡 IT之家 10 月 6 日消息，任天堂现已在 eShop 平台推出两款 Switch 游戏《你好，碧姬公主</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1005193/apple-screen-time-update-struggles-ios-27-parental-controls" target="_blank" rel="noopener" data-cat="zonghe" data-summary="After suffering years of frustration with Apple&#39;s parental control features, I&#39;ve been eagerly anticipating the revamped Screen Time that launched last month with iOS 27. Unfortunately, I can&#39;t use it. Technically, this is because my 18-year-old son hasn&#39;t got round to updating his MacBook. But mostly, it&#39;s because Apple&#39;s rollout of the new featur" data-title="I can’t use Apple’s new Screen Time on my daughter’s iPhone because my son won’t update his MacBook" data-date="10-06 21:15" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-06 21:15</span>
+          <span class="news-item-title">我无法在女儿的iPhone上使用Apple的新屏幕时间，因为我的儿子不会更新他的MacBook</span>
+          <span class="news-item-title-en">I can’t use Apple’s new Screen Time on my daughter’s iPhone because my son won’t update his MacBook</span>
+          <span class="news-value-point">💡 After suffering years of frustration with Apple's parental control featu…</span>
         </a>
   </div>
 </div>
@@ -599,4 +602,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-06 16:14（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-06 22:23（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
