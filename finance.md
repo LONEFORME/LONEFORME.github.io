@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-06 22:23（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-07 02:30（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">31,290.25</span>
-      <span class="ticker-change up">▲ +0.69%</span>
+      <span class="ticker-price ticker-up">31,266.63</span>
+      <span class="ticker-change up">▲ +0.61%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-06 22:24:54</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-07 02:31:44</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.7027</span>
+      <span class="ticker-price ticker-down">6.7020</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg44465" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L25.3,21.9 L46.7,15.3 L68.0,6.0 L89.3,19.4 L110.7,25.5 L132.0,24.7 L153.3,18.6 L174.7,28.0 L196.0,32.6 L196,40 Z" fill="url(#sg44465)"/><polyline points="4.0,38.0 25.3,21.9 46.7,15.3 68.0,6.0 89.3,19.4 110.7,25.5 132.0,24.7 153.3,18.6 174.7,28.0 196.0,32.6" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="32.6" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg47339" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L25.3,21.9 L46.7,15.3 L68.0,6.0 L89.3,19.4 L110.7,25.5 L132.0,24.7 L153.3,18.6 L174.7,28.0 L196.0,33.5 L196,40 Z" fill="url(#sg47339)"/><polyline points="4.0,38.0 25.3,21.9 46.7,15.3 68.0,6.0 89.3,19.4 110.7,25.5 132.0,24.7 153.3,18.6 174.7,28.0 196.0,33.5" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="33.5" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:24:48</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:31:43</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,146.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +5.72 (+0.14%)</span>
+      <span class="ticker-price ticker-up">$4,168.06 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +27.78 (+0.67%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:24:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:31:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$98.24 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -2.08 (-2.07%)</span>
+      <span class="ticker-price ticker-up">$100.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.43 (+0.43%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:24:59</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:31:58</div>
   </div>
 </div>
 
@@ -367,8 +367,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">14 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708558.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="国际货币基金组织(IMF)在6日公布的《全球金融稳定报告》第二章中指出，应警惕对冲基金可能对宏观金融稳定带来的风险。报告说，全球对冲基金资产规模增速过快，在资本市场波动中容易放大价格错位和流动性紧张，一旦遭遇严重负面冲击，可能引发系统性风险。" data-title="国际货币基金组织：对冲基金快速扩张或放大市场风险" data-date="10-06 23:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-06 23:17</span>
+          <span class="news-item-title">国际货币基金组织：对冲基金快速扩张或放大市场风险</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="近几个月来，进口和贸易逆差激增，无视特朗普政府通过关税减少进口和贸易逆差的努力。" data-title="U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs" data-date="10-06 23:01" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-06 23:01</span>
+          <span class="news-item-title">U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/010/111.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，据 electrek 报道，根据印度电动汽车刊物 ElecTree 汇总的注册数据，特斯拉自 2025 年 9 月在印度开始交付以来，仅注册了 993 辆汽车。上述数据覆盖了 2025 年 9 月至 2026 年 9 月共 13 个自然月；若严格按前 12 个自然月计算，特斯拉交付第一年的新车总注册量仅为 699 辆。鉴于特斯拉官方并不按国家单独披露销售明细，注册量已是最接近真实销量的数据参考。2025 年 7 月，特斯拉正式进军印度市场，旗下 Model Y 起售价约 70,000 美元（IT之家注：现汇率约合 47 万元人民币），几乎是当时美国本土售价的两倍。2025 年 9 月是特斯拉在印度的首个交付月，当月新车注册量仅为 69 辆，且在此后的八个月中，" data-title="特斯拉在印度市场交付超一年，仅注册不到 1000 辆汽车" data-date="10-06 22:20" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -380,78 +392,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-06 20:26</span>
           <span class="news-item-title">外交部：希望欧方同中方相向而行 推动中欧经贸关系健康稳定发展</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708517.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷10月6日电 (王茜 李映民)泰国商务部贸易政策与战略办公室6日公布的数据显示，泰国9月消费者价格指数(CPI)同比上涨2.82%，较8月的2.53%进一步上升，但仍处于泰国央行1%至3%的通胀目标区间内。" data-title="泰国9月通胀率升至2.82% 能源食品价格上涨推高物价" data-date="10-06 20:22" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 20:22</span>
-          <span class="news-item-title">泰国9月通胀率升至2.82% 能源食品价格上涨推高物价</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/009.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，据央视财经今日报道，一台罕见的苹果一号电脑（Apple I）正在邦瀚斯拍卖行进行线上拍卖，开放竞价日期为本月（10 月）4 日至 14 日，估价为 50 万美元至 80 万美元（IT之家注：现汇率约合 335.7 万元至 537.2 万元人民币）。据拍卖行介绍，这台电脑由原主人于 1976 年购入，主板上有苹果联合创始人沃兹尼亚克的签名。苹果一号电脑是苹果公司的首款电脑产品，以组装好的电路板形式出售，当时售价 666 美元（现汇率约合 4,472 元人民币），目前确认存世的不足 75 台。" data-title="苹果一号电脑 Apple I 罕见拍卖：沃兹尼亚克签名主板，或拍出 80 万美元" data-date="10-06 16:11" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 16:11</span>
-          <span class="news-item-title">苹果一号电脑 Apple I 罕见拍卖：沃兹尼亚克签名主板，或拍出 80 万美元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708420.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉10月6日电 (记者 周璟)菲律宾统计局6日公布数据显示，9月菲律宾通胀率升至7.2%，较8月的6.1%明显上升，创今年4月以来新高。今年前9个月平均通胀率为5.4%。" data-title="菲律宾9月通胀率升至7.2% 创今年4月以来新高" data-date="10-06 14:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 14:13</span>
-          <span class="news-item-title">菲律宾9月通胀率升至7.2% 创今年4月以来新高</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Bakker先生和他的妻子Tammy Faye围绕繁荣的福音建立了一个广播巨头。" data-title="Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86" data-date="10-06 13:38" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-06 13:38</span>
-          <span class="news-item-title">Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/978.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。在谈到内存成本上涨话题时，余承东坦言，内存组件价格的急剧上涨导致每部手机额外增加了超过 200 美元（IT之家注：现汇率约合 1,343 元人民币）成本。由于华为的手机内存配置比其他手机更高，成本上涨也更多。“总体来说，这无疑是整个行业面临的巨大挑战。我们看到许多手机制造商在提高价格。我们以非常缓慢的速度涨价，因为我们试图自己承担成本，这样消费者就不必承担这些成本。但说实话，我们的整体利润率正在急剧下降。展望未来，我们也不得不（ha" data-title="华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价" data-date="10-06 12:51" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 12:51</span>
-          <span class="news-item-title">华为余承东谈内存压力：每部手机成本大增 200 美元，为保公司生存不得不涨价</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/976.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。有记者询问华为 Mate XT 2 三折叠手机的具体销售或出货量数据。此外，苹果也首次推出了其折叠形态产品，记者询问余承东如何看待这对华为在折叠屏手机行业地位的影响。余承东回答称，Mate XT 2 是华为三折叠手机产品的第二代。第一代及其改款型号的销量超过 100 万部。第二代于 9 月 7 日上市。截至 9 月 29 日，Mate XT 2 已出货近 10 万台，预计总出货量也将超过 100 万部。余承东表示，会逐步将 Mate" data-title="余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%" data-date="10-06 12:39" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 12:39</span>
-          <span class="news-item-title">余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/975.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，据彭博社报道，希捷科技控股以及东芝公司正在争夺 TDK 的硬盘磁头业务。两家竞争对手都希望借此跟上 AI 数据中心存储设备的旺盛需求。知情人士称，东芝于今年春季率先同 TDK 开启收购谈判；随后希捷在夏季提出了更高的报价。由于相关磋商仍处于保密阶段，消息人士要求匿名，并表示这笔收购交易的价值最高可达数十亿美元。如果有一方成功竞得该项业务，就将掌控硬盘供应链当中的关键一环。目前机械硬盘市场由三家厂商把持，而独立磁头供应商的存在，对维持行业竞争格局至关重要。TDK 是全球唯一一家独立生产硬盘磁记录磁头制造商；磁头是硬盘内部实际完成数据读写的零部件。TDK 同时向本次的两家竞购方，还有西部数据供货。希捷和西部数据虽然可以自行生产一部分磁头，但每当市场需求激增时，依旧" data-title="消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节" data-date="10-06 12:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 12:23</span>
-          <span class="news-item-title">消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/957.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的多设备互助通信共享功能。余承东以水资源分配为例，只需要碰一碰，就能把几台华为设备的网络资源整合起来，按需分配。根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的华为设备，开启多设备互助通信共享功能后，移动 + 联通助力电信的设备视频通话卡顿减少 90%。该功能可在设置 App 的多设备协同 - 通信共享 - 网络共享中开启。IT之家注意到，视频底部小字显示最多支持 4 部设备之间互助通信共享。余承东还表示，未来升级鸿蒙 7 之后，更多的华为老机型也能用上多设备互助通信共享功能。" data-title="余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发" data-date="10-06 10:11" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 10:11</span>
-          <span class="news-item-title">余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/009/956.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 6 日消息，美国能源企业 Constellation 当地时间 9 月 30 日宣布与 Amazon（亚马逊）签署了一份长达 20 年的核电供应协议。Constellation 将利用其位于马里兰州 Calvert Cliffs 的核电站为亚马逊供应 690MW 的电力，其中包括 2030~2032 年上线的 190MW 新增容量。这份协议将在马里兰州促成超过 30 亿美元（IT之家注：现汇率约合 201.43 亿元人民币）的基础设施投资，包括对 Calvert Cliffs 核电站整体的升级改造。双方还签署了一项相关的零售供电协议，以支持亚马逊在覆盖 13 个州的 PJM 电力市场的运营。另据彭博社当地时间 5 日报道，Google（谷歌）母公司 Alphabet（字母" data-title="Constellation 收获亚马逊 20 年核电长单，接近与 Alphabet 达成 10 亿美元交易" data-date="10-06 10:00" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-06 10:00</span>
-          <span class="news-item-title">Constellation 收获亚马逊 20 年核电长单，接近与 Alphabet 达成 10 亿美元交易</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708350.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着“奔县游”逐渐走热，“皖美宝藏小城”安徽省含山县依托山水生态与千年文脉，创新“体育+文旅+市集”融合模式，抢抓长三角文旅融合发展机遇，以赛事聚人气、活消费、促发展，盘活全域山水文脉资源，让赛事经济成为激活县域文旅消费、助推文体旅高质量发展的强劲新引擎。" data-title="奔县游丨山水聚潮：赛事激活文旅消费新引擎" data-date="10-06 09:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 09:48</span>
-          <span class="news-item-title">奔县游丨山水聚潮：赛事激活文旅消费新引擎</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-06/10708337.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="央视网消息：2026年国庆假期，国内消费市场整体供需两旺、活力强劲#8204;。文旅深度融合、顶级赛事赋能、实体商圈回暖、政策精准发力，多重利好叠加推动服务消费、场景消费、大宗消费全面升温。假日经济的蓬勃态势，不仅激活了线下市场活力、优化了消费结构，更充分彰显了中国经济持续回升向好的强劲韧性。" data-title="攀升、焕新、升腾，国庆消费多点开花！火热假日市场为全年经济回升向好注入持久动能" data-date="10-06 09:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 09:35</span>
-          <span class="news-item-title">攀升、焕新、升腾，国庆消费多点开花！火热假日市场为全年经济回升向好注入持久动能</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="波斯湾的贸易封锁提醒世界，存在着与技术和全球化同样或更大的力量。" data-title="Geography Is Back With a Vengeance" data-date="10-05 22:37" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-05 22:37</span>
-          <span class="news-item-title">Geography Is Back With a Vengeance</span>
         </a>
   </div>
 </div>
@@ -466,4 +406,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-06 22:23（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-07 02:30（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
