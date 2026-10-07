@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-07 22:38（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-08 02:59（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">31,026.37</span>
-      <span class="ticker-change down">▼ -0.64%</span>
+      <span class="ticker-price ticker-down">31,136.77</span>
+      <span class="ticker-change down">▼ -0.28%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-07 22:41:08</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 03:01:43</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7045</span>
+      <span class="ticker-price ticker-up">6.7017</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg87896" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,26.0 L25.3,17.7 L46.7,6.0 L68.0,22.8 L89.3,30.5 L110.7,29.5 L132.0,21.8 L153.3,33.7 L174.7,38.0 L196.0,36.3 L196,40 Z" fill="url(#sg87896)"/><polyline points="4.0,26.0 25.3,17.7 46.7,6.0 68.0,22.8 89.3,30.5 110.7,29.5 132.0,21.8 153.3,33.7 174.7,38.0 196.0,36.3" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="36.3" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg92843" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,24.3 L25.3,16.7 L46.7,6.0 L68.0,21.4 L89.3,28.4 L110.7,27.5 L132.0,20.5 L153.3,31.3 L174.7,35.3 L196.0,38.0 L196,40 Z" fill="url(#sg92843)"/><polyline points="4.0,24.3 25.3,16.7 46.7,6.0 68.0,21.4 89.3,28.4 110.7,27.5 132.0,20.5 153.3,31.3 174.7,35.3 196.0,38.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:41:05</div>
+    <div class="ticker-quote-time">🕒 行情时间 03:01:42</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,108.05 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -55.73 (-1.34%)</span>
+      <span class="ticker-price ticker-down">$4,109.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -54.05 (-1.30%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:41:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 03:01:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$101.32 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.74 (+0.74%)</span>
+      <span class="ticker-price ticker-down">$100.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.19 (-0.19%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:41:20</div>
+    <div class="ticker-quote-time">🕒 行情时间 03:01:54</div>
   </div>
 </div>
 
@@ -367,37 +367,13 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">3 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/010/290.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 7 日消息，在 9 月初的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东正式发布了 Mate XT 2 非凡大师全新展翼三折叠手机。据余承东在 9 月 29 日的国际媒体圆桌会议上透露，Mate XT 2 是华为的第二代三折叠手机，截至目前，出货量已经接近 10 万台，华为预计其总出货量将超过 100 万台。他表示，华为已经在折叠屏手机领域耕耘了八年，在折叠屏创新方面始终是真正的先行者。余承东还提到，作为先行者，华为投入了巨额研发资金，开展了大量基础研究和可靠性试验，以解决众多挑战。如今，华为在中国折叠屏手机市场的份额达到 75%。在 9 月的 HarmonyOS 7 |" data-title="余承东：华为 Mate XT 2 三折叠手机出货已近 10 万台，预计总量也将超百万台" data-date="10-07 22:18" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-07 22:18</span>
-          <span class="news-item-title">余承东：华为 Mate XT 2 三折叠手机出货已近 10 万台，预计总量也将超百万台</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/289.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 7 日消息，谷歌今日宣布与 Unity 达成合作，推出实验性 AI 游戏平台 Playground。用户可在此凭借简短的提示词创建游戏，大大降低游戏开发门槛。IT之家了解到，Playground 采用对话式界面设计，用户只需要输入需要构建的内容，就可以指导 AI 开发游戏。得到初稿后可以进一步调整物理效果、修改游戏规则或自定义角色。Playground 基于浏览器运行，支持电脑、手机等设备。一款游戏做好后，用户可以将其共享给家人或朋友，或发布到 Explore 展示页，与社区分享成果。未来 Playground 将与 Unity Spark 集成，提供更加强大的修改程序、3D 开发能力，用户可以从一个简单的文本提示词开始，最终逐步打造高级游戏体验。" data-title="谷歌携手 Unity 推出 AI 游戏平台 Playground：支持自然语言创作，降低开发门槛" data-date="10-07 22:09" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-07 22:09</span>
-          <span class="news-item-title">谷歌携手 Unity 推出 AI 游戏平台 Playground：支持自然语言创作，降低开发门槛</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708822.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="国际货币基金组织(IMF)总裁克里斯塔利娜·格奥尔基耶娃7日在新加坡表示，即使当前海湾地区的战事很快结束，高能源价格仍可能持续一段时间。" data-title="国际货币基金组织预计高油价将持续至明年" data-date="10-07 22:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-07 22:02</span>
           <span class="news-item-title">国际货币基金组织预计高油价将持续至明年</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/288.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 7 日消息，华为海外 X 账号昨日发布了 9 月 29 日的国际媒体圆桌会议摘要。据华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东回忆，自己于 1993 年加入华为，距今已经 33 年。刚加入公司时，余承东参与了华为第一代程控交换机的研发。后来，他参与创立了华为无线通信业务，这项业务最初从 GSM 起步。他表示，过去十多年，自己主要负责华为终端业务（前身为 2003 年成立的华为消费者业务）。华为终端的愿景是围绕鸿蒙智行、鸿蒙办公、智能家居、运动健康、影音娱乐五大场景，为所有消费者提供无缝衔接的 AI 生活体验。余承东称，这也是华为终端业务未来十年的长期战略。参考IT之家此前报道，鸿蒙智行 9 月交付新车 37,490 台，全系累计交付突破 156 万台，" data-title="余承东分享华为终端未来十年长期战略，围绕鸿蒙智行 / 办公、智能家居、运动健康、影音娱乐展开" data-date="10-07 22:00" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-07 22:00</span>
-          <span class="news-item-title">余承东分享华为终端未来十年长期战略，围绕鸿蒙智行 / 办公、智能家居、运动健康、影音娱乐展开</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/285.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 7 日消息，据消息人士 billbil-kun 今日爆料，微软第一方大作《极限竞速：地平线 6》预计将在 2027 年 1 月 26 日登陆索尼 PS5 平台。微软 XBOX 旗下工作室 Playground Games 此前表示，《极限竞速：地平线 6》将于今年晚些时候登陆 PS5。但 The Verge 记者 Tom Warren 认为，本作将延期至 2027 年初发售。billbil-kun 则认为，《极限竞速：地平线 6》将于 2027 年 1 月 26 日在 PS5 发售，有数字版和实体光盘版。这种延期可能是为了让游戏与首个 DLC 一同发售。此外，本作的 PS5 版售价预计为 69.99 欧元（IT之家注：现汇率约合 528.5 元人民币）/59.99 英镑（" data-title="消息称《极限竞速：地平线 6》PS5 版 2027 年 1 月 26 日发售，有实体光盘版" data-date="10-07 21:22" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-07 21:22</span>
-          <span class="news-item-title">消息称《极限竞速：地平线 6》PS5 版 2027 年 1 月 26 日发售，有实体光盘版</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708783.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月7日电 10月7日是2026年国庆假期的最后一天。假期旅游热潮吸引国际媒体广泛关注。多家外媒报道称，国庆期间消费热度攀升，彰显中国经济活力与内需潜力。丰富多彩的文旅活动，持续升级的出游体验，也吸引越来越多的外国游客亲身感受中国魅力。" data-title="外媒关注国庆假期：消费市场持续升温 外国游客感受中国魅力" data-date="10-07 19:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -410,54 +386,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-07 19:06</span>
           <span class="news-item-title">台湾CPI连续五个月突破通货膨胀警戒线</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/211.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 7 日消息，据彭博社报道，保时捷（Porsche AG）计划开发定位高于 911 的中置引擎跑车，以此进一步向上拓展高端市场，扭转当前利润疲软的局面。这家德国车企的目标是，定制化业务与经典老车翻新板块的营收提升至现有规模的六倍；同时扩充高利润率选装项目，范围涵盖专属定制材质以及性能套件。保时捷发布了直至 2035 年的全新战略规划，中期目标是将旗下高端车型的平均售价提升 20%。IT之家注意到，这套全新规划的车型序列，意味着保时捷自 2013 年限量车型 918 Spyder 之后，将再度重返超级跑车赛道。中置引擎布局能够优化重量分配与操控表现；产品线扩充之后，保时捷的产品布局将会进一步向法拉利的跑车与 GT 豪华旅行跑车阵营靠拢。此番业务调整，意在帮助保时捷应对美国长期" data-title="保时捷公布全新战略：将推出定位高于 911 的中置引擎超跑" data-date="10-07 15:15" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-07 15:15</span>
-          <span class="news-item-title">保时捷公布全新战略：将推出定位高于 911 的中置引擎超跑</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708644.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网马尼拉10月7日电 世界银行6日发布东亚和太平洋地区最新一期经济半年报，将2026年该地区经济增速预测上调至4.5%，较4月预测高0.3个百分点。" data-title="世界银行上调东亚和太平洋地区2026年经济增速预测" data-date="10-07 12:14" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 12:14</span>
-          <span class="news-item-title">世界银行上调东亚和太平洋地区2026年经济增速预测</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708566.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社金边10月6日电 (杨强 张堰林)世界银行10月6日发布最新报告，将柬埔寨2026年经济增长预期下调至3.5%。从中期来看，该报告预测柬埔寨经济增长将在2027年反弹至4.0%，并在2028年达到5.0%。" data-title="世界银行下调柬埔寨2026年经济增长预期至3.5%" data-date="10-07 06:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 06:56</span>
-          <span class="news-item-title">世界银行下调柬埔寨2026年经济增长预期至3.5%</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/" target="_blank" rel="noopener" data-cat="caijing" data-summary="该公司没有帮助营销人员管理和优化广告支出，而是专注于构建生成创意资产和广告系列的工具。" data-title="Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product" data-date="10-07 06:34" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-07 06:34</span>
-          <span class="news-item-title">Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation" target="_blank" rel="noopener" data-cat="caijing" data-summary="谷歌宣布了一项新协议，将更新美国六个核电站，因为这家科技巨头正寻求为其耗电量大的数据中心发电。谷歌与领先的核电站Constellation签署了为期20年的协议" data-title="Google’s power-hungry data centers crave nuclear energy" data-date="10-07 04:32" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-07 04:32</span>
-          <span class="news-item-title">Google’s power-hungry data centers crave nuclear energy</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/laptops/black-friday-laptop-deals-what-should-small-and-medium-sized-businesses-be-looking-for" target="_blank" rel="noopener" data-cat="caijing" data-summary="在这个黑色星期五， Dell Pro 3、5和7笔记本电脑为中小型企业提供了绝佳的选择。以下是如何在合适的笔记本电脑上为您的企业找到最优惠的价格。" data-title="Black Friday laptop deals: What should small and medium-sized businesses be looking for?" data-date="10-07 02:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-07 02:30</span>
-          <span class="news-item-title">Black Friday laptop deals: What should small and medium-sized businesses be looking for?</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-06/10708558.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="国际货币基金组织(IMF)在6日公布的《全球金融稳定报告》第二章中指出，应警惕对冲基金可能对宏观金融稳定带来的风险。报告说，全球对冲基金资产规模增速过快，在资本市场波动中容易放大价格错位和流动性紧张，一旦遭遇严重负面冲击，可能引发系统性风险。" data-title="国际货币基金组织：对冲基金快速扩张或放大市场风险" data-date="10-06 23:17" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-06 23:17</span>
-          <span class="news-item-title">国际货币基金组织：对冲基金快速扩张或放大市场风险</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/06/business/economy/us-trade-deficit.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="近几个月来，进口和贸易逆差激增，无视特朗普政府通过关税减少进口和贸易逆差的努力。" data-title="U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs" data-date="10-06 23:01" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-06 23:01</span>
-          <span class="news-item-title">U.S. Trade Deficit Hits 17-Month High Despite Trump’s Tariffs</span>
         </a>
   </div>
 </div>
@@ -472,4 +400,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-07 22:38（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-08 02:59（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
