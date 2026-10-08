@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-08 22:46（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-09 02:55（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">31,045.10</span>
-      <span class="ticker-change down">▼ -0.37%</span>
+      <span class="ticker-price ticker-down">30,695.85</span>
+      <span class="ticker-change down">▼ -1.49%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 22:48:03</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-09 02:57:09</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7037</span>
+      <span class="ticker-price ticker-up">6.7038</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg51789" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,16.4 L25.3,6.0 L46.7,21.0 L68.0,27.9 L89.3,27.0 L110.7,20.1 L132.0,30.7 L153.3,34.6 L174.7,38.0 L196.0,34.3 L196,40 Z" fill="url(#sg51789)"/><polyline points="4.0,16.4 25.3,6.0 46.7,21.0 68.0,27.9 89.3,27.0 110.7,20.1 132.0,30.7 153.3,34.6 174.7,38.0 196.0,34.3" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="34.3" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg45660" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,16.4 L25.3,6.0 L46.7,21.0 L68.0,27.9 L89.3,27.0 L110.7,20.1 L132.0,30.7 L153.3,34.6 L174.7,38.0 L196.0,34.1 L196,40 Z" fill="url(#sg45660)"/><polyline points="4.0,16.4 25.3,6.0 46.7,21.0 68.0,27.9 89.3,27.0 110.7,20.1 132.0,30.7 153.3,34.6 174.7,38.0 196.0,34.1" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="34.1" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:48:02</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:57:05</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,123.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +13.07 (+0.32%)</span>
+      <span class="ticker-price ticker-up">$4,127.02 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +16.34 (+0.40%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:47:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:57:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -181,15 +181,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥891.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.36 (-0.04%)</span>
+      <span class="ticker-price ticker-up">¥893.04 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +1.29 (+0.14%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:48:06</div>
+    <div class="ticker-quote-time">🕒 行情时间 01:58:24</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$105.37 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +5.17 (+5.16%)</span>
+      <span class="ticker-price ticker-up">$104.43 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +4.23 (+4.22%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 22:48:15</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:57:21</div>
   </div>
 </div>
 
@@ -369,6 +369,54 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson" target="_blank" rel="noopener" data-cat="caijing" data-summary="如果Elon Musk和SpaceXAI打算支持任何Linux发行版，那么很明显他们会支持Omarchy。今天宣布SpaceXAI将加入监督Omarchy的Omacom基金会，成为创始企业赞助人，并捐赠$ 1.5" data-title="SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute" data-date="10-09 01:57" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-09 01:57</span>
+          <span class="news-item-title">SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="拟议中的数十亿美元交易的大部分所有权将流向一群中东投资者，其中包括一些与美国谈判代表有业务联系的投资者。" data-title="In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners" data-date="10-09 00:28" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-09 00:28</span>
+          <span class="news-item-title">In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709420.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷10月8日电 (王茜 李映民)泰国商会大学8日公布的调查显示，泰国9月消费者信心指数从8月的53.2降至52.1，为连续4个月上升后首次下降。" data-title="泰国9月消费者信心下降 为4个月来首次下降" data-date="10-08 23:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 23:58</span>
+          <span class="news-item-title">泰国9月消费者信心下降 为4个月来首次下降</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/740.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 8 日消息，深开鸿官方今日发布喜报，宣布开鸿开发服务平台开发者注册量突破 20 万（统计数据截止：2026 年 10 月 8 日）。据IT之家此前报道，今年 8 月，深圳开鸿数字产业发展有限公司 CEO 王成录宣布：深开鸿贡献 OpenHarmony 主干代码达 1000 万行！这是一个值得纪念的里程碑！四年来，深开鸿在开源社区里每敲下一行代码，都是对“技术立命”的践行，对“生态共建”的承诺，是深开鸿在开源社区交出的答卷，更是献给开源鸿蒙生态的一份厚礼！从 0 到 1000 万，这不仅是量的积累，更是我们聚焦操作系统核心技术、深耕基础软件四年的决心印证！目前，WPS、微信、QQ 也已正式登陆 KaihongOS 桌面版（x86）。据深开鸿官方介绍，此次版本通过深开鸿自研技" data-title="又一里程碑时刻：深开鸿宣布开鸿开发者注册量突破 20 万" data-date="10-08 23:44" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-08 23:44</span>
+          <span class="news-item-title">又一里程碑时刻：深开鸿宣布开鸿开发者注册量突破 20 万</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709418.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦10月8日电 (记者 欧阳开宇)当地时间10月8日，英国政府发布公告，推出新一轮对俄罗斯制裁措施，聚焦能源贸易、跨境金融及军工供应链等领域。" data-title="英国出台对俄新一轮制裁" data-date="10-08 23:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 23:42</span>
+          <span class="news-item-title">英国出台对俄新一轮制裁</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709416.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社柏林10月8日电 （记者 马秀秀）德国联邦政府8日发布秋季经济预测，预计2026年德国经济增长1.3%，较今年4月春季预测的增长0.5%大幅上调。" data-title="德国政府上调2026年经济增长预期" data-date="10-08 23:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 23:41</span>
+          <span class="news-item-title">德国政府上调2026年经济增长预期</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/739.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 8 日消息，微软今天在美国和加拿大官方商城推出一项限时优惠，消费者购买 Surface Laptop Ultra 时，如果选择将手上的苹果 MacBook Pro 置换掉，那么将获得最高 1,000 美元（IT之家注：现汇率约合 6,712 元人民币）补贴。IT之家了解到，微软已在美国和加拿大官方商城的 Surface Laptop Ultra 商店页打出“告别你的 MacBook，最高可获 1,000 美元”宣传语，吸引消费者换机。如果用户真的选择以旧换新，那么除了正常的折抵金额外，还会额外获得最高 1,000 美元补贴。微软表示，这笔优惠可与原本的以旧换新折扣相叠加，相关服务由合作伙伴 Teladvance 负责。因此回收 MacBook Pro 能够获得多少补贴，用" data-title="微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra" data-date="10-08 23:36" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-08 23:36</span>
+          <span class="news-item-title">微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709404.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社台北10月8日电 台当局财政事务主管部门8日发布的海关进出口贸易初步统计显示，9月台湾对大陆(含香港)出口206.2亿美元，同比增长30.2%；自大陆(含香港)进口135亿美元，同比增长59.1%。" data-title="台湾9月对大陆进出口同比双增" data-date="10-08 22:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 22:49</span>
+          <span class="news-item-title">台湾9月对大陆进出口同比双增</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709407.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月8日，世界贸易组织发布最新《全球贸易展望与统计》报告，将2026年全球货物贸易增长预期从今年3月预测的1.9%上调至3.9%，预计2027年增长4.1%。报告显示，2026年上半年，尽管受到中东冲突的影响，全球货物贸易仍增长3.5%，超出预期，反映出供应链有能力应对中东战事对能源、化肥和运输市场造成的冲击。" data-title="世贸组织上调2026年全球货物贸易增长预期" data-date="10-08 22:38" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -387,54 +435,6 @@ title: 股票财经
           <span class="news-item-date">10-08 20:39</span>
           <span class="news-item-title">事关保健食品生产企业自查工作规范 国标公开征求意见</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709164.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。" data-title="美公司指控中国机构用AI攻击韩国金融机构 外交部回应" data-date="10-08 16:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 16:01</span>
-          <span class="news-item-title">美公司指控中国机构用AI攻击韩国金融机构 外交部回应</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709163.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。" data-title="中方对欧盟贸易官员访华有何期待？ 外交部回应" data-date="10-08 15:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 15:59</span>
-          <span class="news-item-title">中方对欧盟贸易官员访华有何期待？ 外交部回应</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/560.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 8 日消息，今日稍早些时候，懂车帝实测 3 台尊界 V800，称在 100km/h-0 紧急制动时刹车踏板支架被踩断，引发网络热议。IT之家注意到，事件发酵后，江淮汽车今日上午股价跌停，收盘 24.72 元 / 股。据新浪科技报道，江淮汽车投资者关系部门对此表示：“这个事情已经跟相关部门反馈过了。”谈及今日股价触及跌停等问题，工作人员表示，“公司的生产经营是正常的，车辆出厂之前都是有品控流程的，可以关注下后续的消息。”尊界 V800 是鸿蒙智行与江淮汽车联合打造的百万级超豪华 MPV，于 2026 年 8 月 5 日正式上市。新车推出尊享版、行政版和领航版三款配置，售价分别为 76.6 万元、86.6 万元和 101.6 万元起。相关阅读：《江淮汽车方面人士回应懂车帝测试" data-title="江淮汽车股价跌停，投资者关系部门回应尊界 V800 测试称“出厂前都有品控流程”" data-date="10-08 15:26" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 15:26</span>
-          <span class="news-item-title">江淮汽车股价跌停，投资者关系部门回应尊界 V800 测试称“出厂前都有品控流程”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709040.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网马尼拉10月8日电 菲律宾国家减灾委员会7日发布报告称，厄尔尼诺现象已影响全国42.8万余人，106个市镇宣布进入灾难状态，农业损失达55.8亿比索(约合人民币6亿元)。" data-title="厄尔尼诺致菲律宾逾42.8万人受影响 农业损失超55亿比索" data-date="10-08 14:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 14:28</span>
-          <span class="news-item-title">厄尔尼诺致菲律宾逾42.8万人受影响 农业损失超55亿比索</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111048" target="_blank" rel="noopener" data-cat="caijing" data-summary="欧洲官员警告称，如果无法解决混合动力汽车的问题，北京会谈将以失败告终，这意味着两大经济体之间贸易关系可能迅速恶化。" data-title="欧盟贸易专员访华谈判混合动力汽车出口问题" data-date="10-08 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-08 00:00</span>
-          <span class="news-item-title">欧盟贸易专员访华谈判混合动力汽车出口问题</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111047" target="_blank" rel="noopener" data-cat="caijing" data-summary="欧盟委员会正在考虑实施临时限制措施，以控制可能引发严重贸易冲突的中国混合动力汽车出口激增。" data-title="中国拒绝欧盟关于“自愿限制”混合动力汽车出口的请求" data-date="10-08 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-08 00:00</span>
-          <span class="news-item-title">中国拒绝欧盟关于“自愿限制”混合动力汽车出口的请求</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111041" target="_blank" rel="noopener" data-cat="caijing" data-summary="央行货币政策委员会一致投票决定加息0.25点，至5.5%，依据是通胀加速、全球能源价格上涨以及印度经济增长强劲。" data-title="印度3年来首次加息" data-date="10-08 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-08 00:00</span>
-          <span class="news-item-title">印度3年来首次加息</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111040" target="_blank" rel="noopener" data-cat="caijing" data-summary="德国否决中远海运收购康拉德•齐佩尔货运代理80%股份。上届德国政府曾批准中远海运入股汉堡港一集装箱码头。" data-title="德国阻止中资收购汉堡港物流企业" data-date="10-08 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-08 00:00</span>
-          <span class="news-item-title">德国阻止中资收购汉堡港物流企业</span>
-        </a>
   </div>
 </div>
 
@@ -448,4 +448,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-08 22:46（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-09 02:55（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
