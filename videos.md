@@ -24,8 +24,8 @@ title: 飞行演示
     <div class="theater-screen-card">
       <div class="theater-screen-ambient" id="theater-ambient"></div>
       <div class="theater-screen-box">
-        <video id="main-player" controls preload="metadata" poster="//assets/images/videos/poster_qrcode.jpg">
-          <source id="main-player-src" src="//assets/videos/二维码.mp4" type="video/mp4">
+        <video id="main-player" controls preload="metadata" poster="/assets/images/videos/poster_qrcode.jpg" src="/assets/videos/二维码.mp4">
+          <source id="main-player-src" src="/assets/videos/二维码.mp4" type="video/mp4">
           您的浏览器暂不支持 HTML5 视频播放，请升级或更换现代浏览器。
         </video>
       </div>
@@ -99,7 +99,7 @@ title: 飞行演示
       <!-- EP 01 -->
       <div class="playlist-card active" onclick="switchVideo(0)" data-index="0">
         <div class="playlist-thumb-box">
-          <img src="//assets/images/videos/poster_qrcode.jpg" alt="二维码识别" class="playlist-thumb-img">
+          <img src="/assets/images/videos/poster_qrcode.jpg" alt="二维码识别" class="playlist-thumb-img">
           <span class="playlist-duration-badge">04:02</span>
           <div class="playing-indicator">
             <span class="bar bar1"></span>
@@ -120,7 +120,7 @@ title: 飞行演示
       <!-- EP 02 -->
       <div class="playlist-card" onclick="switchVideo(1)" data-index="1">
         <div class="playlist-thumb-box">
-          <img src="//assets/images/videos/poster_fire.jpg" alt="火源识别" class="playlist-thumb-img">
+          <img src="/assets/images/videos/poster_fire.jpg" alt="火源识别" class="playlist-thumb-img">
           <span class="playlist-duration-badge">01:30</span>
           <div class="playing-indicator">
             <span class="bar bar1"></span>
@@ -141,7 +141,7 @@ title: 飞行演示
       <!-- EP 03 -->
       <div class="playlist-card" onclick="switchVideo(2)" data-index="2">
         <div class="playlist-thumb-box">
-          <img src="//assets/images/videos/poster_pole.jpg" alt="绕杆飞行" class="playlist-thumb-img">
+          <img src="/assets/images/videos/poster_pole.jpg" alt="绕杆飞行" class="playlist-thumb-img">
           <span class="playlist-duration-badge">02:13</span>
           <div class="playing-indicator">
             <span class="bar bar1"></span>
@@ -162,7 +162,7 @@ title: 飞行演示
       <!-- EP 04 -->
       <div class="playlist-card" onclick="switchVideo(3)" data-index="3">
         <div class="playlist-thumb-box">
-          <img src="//assets/images/videos/poster_landing.jpg" alt="精准降落" class="playlist-thumb-img">
+          <img src="/assets/images/videos/poster_landing.jpg" alt="精准降落" class="playlist-thumb-img">
           <span class="playlist-duration-badge">01:12</span>
           <div class="playing-indicator">
             <span class="bar bar1"></span>
@@ -254,8 +254,8 @@ title: 飞行演示
 const videoList = [
   {
     title: "📱 二维码识别与自主精准降落",
-    src: "//assets/videos/二维码.mp4",
-    poster: "//assets/images/videos/poster_qrcode.jpg",
+    src: "/assets/videos/二维码.mp4",
+    poster: "/assets/images/videos/poster_qrcode.jpg",
     badges: [
       { text: "📱 竖屏机载视角", cls: "chip-primary" },
       { text: "⏱️ 04:02", cls: "" },
@@ -268,8 +268,8 @@ const videoList = [
   },
   {
     title: "🔥 火源目标识别与协同处理",
-    src: "//assets/videos/火源.mp4",
-    poster: "//assets/images/videos/poster_fire.jpg",
+    src: "/assets/videos/火源.mp4",
+    poster: "/assets/images/videos/poster_fire.jpg",
     badges: [
       { text: "🔥 竖屏机载视角", cls: "chip-primary" },
       { text: "⏱️ 01:30", cls: "" },
@@ -282,8 +282,8 @@ const videoList = [
   },
   {
     title: "🎯 复杂多障碍绕杆连续巡航",
-    src: "//assets/videos/绕杆.mp4",
-    poster: "//assets/images/videos/poster_pole.jpg",
+    src: "/assets/videos/绕杆.mp4",
+    poster: "/assets/images/videos/poster_pole.jpg",
     badges: [
       { text: "🎯 横屏全景视角", cls: "chip-secondary" },
       { text: "⏱️ 02:13", cls: "" },
@@ -296,8 +296,8 @@ const videoList = [
   },
   {
     title: "🛬 VIO 辅助室内高精度柔性着陆",
-    src: "//assets/videos/降落.mp4",
-    poster: "//assets/images/videos/poster_landing.jpg",
+    src: "/assets/videos/降落.mp4",
+    poster: "/assets/images/videos/poster_landing.jpg",
     badges: [
       { text: "🛬 横屏全景视角", cls: "chip-secondary" },
       { text: "⏱️ 01:12", cls: "" },
@@ -339,6 +339,7 @@ function switchVideo(index, autoPlay = true) {
   player.pause();
   player.poster = data.poster;
   playerSrc.src = data.src;
+  player.src = data.src;
   player.load();
 
   if (autoPlay) {
