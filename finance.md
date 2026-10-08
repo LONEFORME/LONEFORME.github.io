@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-08 16:05（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-08 22:46（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -61,7 +61,7 @@ title: 股票财经
       <span>震荡筑底中枢</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 15:35:31</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 16:20:01</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -109,7 +109,7 @@ title: 股票财经
       <span>AI算力与先进制程</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 15:35:43</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 16:19:43</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -117,10 +117,10 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">4,072.47</span>
-      <span class="ticker-change down">▼ -2.91%</span>
+      <span class="ticker-price ticker-down">4,073.38</span>
+      <span class="ticker-change down">▼ -2.89%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg10512" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L23.2,7.9 L42.4,13.0 L61.6,14.7 L80.8,19.5 L100.0,19.1 L119.2,29.1 L138.4,26.4 L157.6,22.3 L176.8,25.3 L196.0,38.0 L196,40 Z" fill="url(#sg10512)"/><polyline points="4.0,6.0 23.2,7.9 42.4,13.0 61.6,14.7 80.8,19.5 100.0,19.1 119.2,29.1 138.4,26.4 157.6,22.3 176.8,25.3 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg35596" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,11.5 L46.7,13.2 L68.0,18.4 L89.3,17.9 L110.7,28.6 L132.0,25.7 L153.3,21.4 L174.7,24.5 L196.0,38.0 L196,40 Z" fill="url(#sg35596)"/><polyline points="4.0,6.0 25.3,11.5 46.7,13.2 68.0,18.4 89.3,17.9 110.7,28.6 132.0,25.7 153.3,21.4 174.7,24.5 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">31,160.08</span>
-      <span class="ticker-change down">▼ -0.21%</span>
+      <span class="ticker-price ticker-down">31,045.10</span>
+      <span class="ticker-change down">▼ -0.37%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 09:48:52</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-08 22:48:03</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.7023</span>
+      <span class="ticker-price ticker-up">6.7037</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg40054" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,16.4 L25.3,6.0 L46.7,21.0 L68.0,27.9 L89.3,27.0 L110.7,20.1 L132.0,30.7 L153.3,34.6 L174.7,38.0 L196.0,36.4 L196,40 Z" fill="url(#sg40054)"/><polyline points="4.0,16.4 25.3,6.0 46.7,21.0 68.0,27.9 89.3,27.0 110.7,20.1 132.0,30.7 153.3,34.6 174.7,38.0 196.0,36.4" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="36.4" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg51789" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,16.4 L25.3,6.0 L46.7,21.0 L68.0,27.9 L89.3,27.0 L110.7,20.1 L132.0,30.7 L153.3,34.6 L174.7,38.0 L196.0,34.3 L196,40 Z" fill="url(#sg51789)"/><polyline points="4.0,16.4 25.3,6.0 46.7,21.0 68.0,27.9 89.3,27.0 110.7,20.1 132.0,30.7 153.3,34.6 174.7,38.0 196.0,34.3" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="34.3" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:06:43</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:48:02</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,126.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +15.74 (+0.38%)</span>
+      <span class="ticker-price ticker-up">$4,123.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +13.07 (+0.32%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:06:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:47:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -181,15 +181,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥891.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -15.13 (-1.67%)</span>
+      <span class="ticker-price ticker-down">¥891.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -0.36 (-0.04%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 15:30:06</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:48:06</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -197,10 +197,10 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">23,782.19</span>
-      <span class="ticker-change down">▼ -1.44%</span>
+      <span class="ticker-price ticker-down">23,785.79</span>
+      <span class="ticker-change down">▼ -1.43%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg93985" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L23.2,8.2 L42.4,15.9 L61.6,11.8 L80.8,15.4 L100.0,12.7 L119.2,32.2 L138.4,30.1 L157.6,22.8 L176.8,27.4 L196.0,38.0 L196,40 Z" fill="url(#sg93985)"/><polyline points="4.0,6.0 23.2,8.2 42.4,15.9 61.6,11.8 80.8,15.4 100.0,12.7 119.2,32.2 138.4,30.1 157.6,22.8 176.8,27.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg89491" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,14.2 L46.7,9.9 L68.0,13.8 L89.3,10.9 L110.7,31.9 L132.0,29.6 L153.3,21.8 L174.7,26.7 L196.0,38.0 L196,40 Z" fill="url(#sg89491)"/><polyline points="4.0,6.0 25.3,14.2 46.7,9.9 68.0,13.8 89.3,10.9 110.7,31.9 132.0,29.6 153.3,21.8 174.7,26.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$103.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +3.70 (+3.69%)</span>
+      <span class="ticker-price ticker-up">$105.37 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +5.17 (+5.16%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:06:58</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:48:15</div>
   </div>
 </div>
 
@@ -367,8 +367,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709407.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月8日，世界贸易组织发布最新《全球贸易展望与统计》报告，将2026年全球货物贸易增长预期从今年3月预测的1.9%上调至3.9%，预计2027年增长4.1%。报告显示，2026年上半年，尽管受到中东冲突的影响，全球货物贸易仍增长3.5%，超出预期，反映出供应链有能力应对中东战事对能源、化肥和运输市场造成的冲击。" data-title="世贸组织上调2026年全球货物贸易增长预期" data-date="10-08 22:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 22:38</span>
+          <span class="news-item-title">世贸组织上调2026年全球货物贸易增长预期</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709397.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷10月8日电 (王茜 李映民)泰国总理府副发言人拉丽达8日在总理府举行的新闻发布会上说，泰国政府当天开始向洪灾受灾民众拨付首批救济款，首批8219户受灾家庭将获得总额6800.3万泰铢(约合1360万元人民币)的救济金。" data-title="泰国洪灾救济开始拨付 首批8219户获6800万泰铢" data-date="10-08 22:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 22:17</span>
+          <span class="news-item-title">泰国洪灾救济开始拨付 首批8219户获6800万泰铢</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709340.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者今天了解到，《保健食品生产企业质量管理体系自查工作规范》国家标准在全国标准信息公共服务平台公开征求意见。" data-title="事关保健食品生产企业自查工作规范 国标公开征求意见" data-date="10-08 20:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 20:39</span>
+          <span class="news-item-title">事关保健食品生产企业自查工作规范 国标公开征求意见</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709164.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。" data-title="美公司指控中国机构用AI攻击韩国金融机构 外交部回应" data-date="10-08 16:01" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -393,6 +411,18 @@ title: 股票财经
           <span class="news-item-date">10-08 14:28</span>
           <span class="news-item-title">厄尔尼诺致菲律宾逾42.8万人受影响 农业损失超55亿比索</span>
         </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111048" target="_blank" rel="noopener" data-cat="caijing" data-summary="欧洲官员警告称，如果无法解决混合动力汽车的问题，北京会谈将以失败告终，这意味着两大经济体之间贸易关系可能迅速恶化。" data-title="欧盟贸易专员访华谈判混合动力汽车出口问题" data-date="10-08 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-08 00:00</span>
+          <span class="news-item-title">欧盟贸易专员访华谈判混合动力汽车出口问题</span>
+        </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111047" target="_blank" rel="noopener" data-cat="caijing" data-summary="欧盟委员会正在考虑实施临时限制措施，以控制可能引发严重贸易冲突的中国混合动力汽车出口激增。" data-title="中国拒绝欧盟关于“自愿限制”混合动力汽车出口的请求" data-date="10-08 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-08 00:00</span>
+          <span class="news-item-title">中国拒绝欧盟关于“自愿限制”混合动力汽车出口的请求</span>
+        </a>
         <a class="news-item" href="https://www.ftchinese.com/story/001111041" target="_blank" rel="noopener" data-cat="caijing" data-summary="央行货币政策委员会一致投票决定加息0.25点，至5.5%，依据是通胀加速、全球能源价格上涨以及印度经济增长强劲。" data-title="印度3年来首次加息" data-date="10-08 00:00" data-source="FT中文网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge ">🌐 FT中文网</span>
@@ -404,24 +434,6 @@ title: 股票财经
           <span class="source-badge ">🌐 FT中文网</span>
           <span class="news-item-date">10-08 00:00</span>
           <span class="news-item-title">德国阻止中资收购汉堡港物流企业</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708822.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="国际货币基金组织(IMF)总裁克里斯塔利娜·格奥尔基耶娃7日在新加坡表示，即使当前海湾地区的战事很快结束，高能源价格仍可能持续一段时间。" data-title="国际货币基金组织预计高油价将持续至明年" data-date="10-07 22:02" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 22:02</span>
-          <span class="news-item-title">国际货币基金组织预计高油价将持续至明年</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708783.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月7日电 10月7日是2026年国庆假期的最后一天。假期旅游热潮吸引国际媒体广泛关注。多家外媒报道称，国庆期间消费热度攀升，彰显中国经济活力与内需潜力。丰富多彩的文旅活动，持续升级的出游体验，也吸引越来越多的外国游客亲身感受中国魅力。" data-title="外媒关注国庆假期：消费市场持续升温 外国游客感受中国魅力" data-date="10-07 19:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 19:27</span>
-          <span class="news-item-title">外媒关注国庆假期：消费市场持续升温 外国游客感受中国魅力</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-07/10708776.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社台北10月7日电 (记者 朱贺 路梅)台当局行政主管机构“主计总处”7日公布数据显示，台湾9月消费者物价指数(CPI)同比增长2.73%，连续五个月突破2%的通货膨胀警戒线，为两年半以来最大涨幅。" data-title="台湾CPI连续五个月突破通货膨胀警戒线" data-date="10-07 19:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 19:06</span>
-          <span class="news-item-title">台湾CPI连续五个月突破通货膨胀警戒线</span>
         </a>
   </div>
 </div>
@@ -436,4 +448,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-08 16:05（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-08 22:46（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
