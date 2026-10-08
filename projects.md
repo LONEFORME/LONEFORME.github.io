@@ -182,7 +182,7 @@ title: 项目
         • 历年参考（2022-HUST / 2024-D / UAV-2023）+ 4 段实飞演示 + 目录中文化
       </div>
       <div class="card-footer-row">
-        <a href="//videos" class="card-link">飞行演示</a>
+        <a href="/videos" class="card-link">飞行演示</a>
         <a href="https://github.com/LONEFORME/lingxiao-drone" target="_blank" rel="noopener" class="card-link">GitHub</a>
       </div>
     </div>
@@ -201,7 +201,7 @@ title: 项目
         • Nextion 串口触控屏地面站（蓝牙无线通信 + 状态语音播报）
       </div>
       <div class="card-footer-row">
-        <a href="//videos" class="card-link">飞行演示</a>
+        <a href="/videos" class="card-link">飞行演示</a>
         <span class="card-status">🔒 飞控方案闭源</span>
       </div>
     </div>
@@ -230,7 +230,7 @@ title: 项目
         • 自研 Python STL 批量 360° 旋转渲染与 GIF 动图生成引擎<br>
         • 站内 WebGL 3D 交互预览器（支持旋转/平移/缩放/底面平放）
       </div>
-      <a href="//3d-viewer" class="card-link">在线 3D 预览</a>
+      <a href="/3d-viewer" class="card-link">在线 3D 预览</a>
     </div>
   </div>
 </div>
