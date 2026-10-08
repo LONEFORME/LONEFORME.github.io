@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-08 02:59 抓取更新</span>
+      <span>2026-10-08 16:05 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">50</span>
+        <span class="channel-count">49</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">5</span>
+        <span class="channel-count">4</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,47 +56,46 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">50</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">7</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">49</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×11 · 纽约时报×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×21 · IT之家×9</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在希腊，国务卿马可·卢比奥（ Marco Rubio ）表示，西方国家必须接受早期的探索和征服精神，作为其文明的一部分，以保持“世界之首”。" data-title="Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance" data-date="10-08 02:55" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/10-08/10709165.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中央纪委国家监委网站讯 广东省人大常委会党组成员、副主任张硕辅涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。" data-title="广东省人大常委会党组成员、副主任张硕辅接受中央纪委国家监委纪律审查和监察调查" data-date="10-08 16:01" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 10-08 02:55</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 10-08 16:01</span>
       </div>
-      <h2 class="hero-featured-title">卢比奥敦促欧洲从“沉睡”中醒来，维护西方主导地位</h2>
-      <div class="hero-featured-title-en">Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance</div>
+      <h2 class="hero-featured-title">广东省人大常委会党组成员、副主任张硕辅接受中央纪委国家监委纪律审查和监察调查</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced" target="_blank" rel="noopener" data-cat="keji" data-summary="微软刚刚在旧金山结束了一场以Windows和Surface为重点的主题演讲。最大的公告可以说是关于Surface Laptop Ultra的发布细节，其新笔记本电脑由英伟达基于RTX Spark Arm的芯片提供支持。" data-title="Everything announced at Microsoft’s Surface Laptop Ultra event" data-date="10-08 02:42" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/010/565.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，据博板堂旗下公众号 ChannelGate 视博合聚今日消息，AMD 总部已经通知显卡产品，从 10 月 1 日正式执行涨价，包括国内以及国外全球市场均统一涨价。报道称，AMD 主要考虑到显存一颗 2G 成本再次上涨幅度约 10% 左右，以及芯片代工成本的上涨等因素影响，决定针对显卡产品的价格普遍拉涨，将涉及大部分型号均有一定不同程度的上涨。报道提到，AMD Q4 季度执行 SEP（Suggested E-tail Price）指导价格体系，以及环比 Q3 SEP 的价格调整情况披露如下：RX 9070 XT：价格不变，执行 6999 元。RX 9070：上涨 700 元，执行 6299 元。RX 9070 GRE：价格上涨 400 元，执行 4999 元。R" data-title="消息称 AMD 多款显卡 10 月起正式上调指导价，最高涨价 700 元" data-date="10-08 15:46" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-theverge">🌐 The Verge</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">Everything announced at Microsoft’s Surface Laptop Ultra event</p>
+      <p class="hero-sub-title">消息称 AMD 多款显卡 10 月起正式上调指导价，最高涨价 700 元</p>
     </a>
-    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="消息人士告诉BBC Sport ， Declan Rice即将同意一份新的长期阿森纳合同。" data-title="Rice close to agreeing new Arsenal deal" data-date="10-08 02:30" data-source="BBC">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="消息人士告诉BBC Sport ， Declan Rice即将同意一份新的长期阿森纳合同。" data-title="Rice close to agreeing new Arsenal deal" data-date="10-08 06:21" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
       <p class="hero-sub-title">Rice close to agreeing new Arsenal deal</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/1/010/323.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Surface Laptop Ultra 过程，其设计迭代超过 300 次，从而更好地和苹果 MacBook Pro 竞争。IT之家援引博文介绍，为了让 Surface Laptop Ultra 的外观设计能与 MacBook 一较高下，微软巧妙地重新设计了磁吸式 Surface Connect 充电端口，官方称其为 Magnetic Connect。微软 Surface 设备首席设计师 Jit Hirani 表示：“在 Surface Laptop Ultra 开发过程中，我们的工程团队迭代了大约 300 次，从而打造出世界上首款内置磁吸式 USB-C" data-title="微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB" data-date="10-08 03:00" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/010/569.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 8 日消息，一加官方今天宣布，一加 16 手机支持《和平精英》《三角洲行动》《暗区突围》《穿越火线：枪战王者》《逆战：未来》《萤火突击》等头部射击游戏的原生 185FPS 模式。IT之家注意到，一加官方还表示，未来《和平精英》《火影忍者》《炉石传说》《我的世界》《植物大战僵尸 2》《保卫萝卜》《部落冲突》《初音未来：缤纷舞台》《节奏大师》《神庙逃亡》《三国杀》《地铁跑酷》等游戏都将支持一加 16 的原生 185FPS 模式。此外，一加 16 手机首批搭载高通第六代骁龙 8 超级至尊版处理器，10 月 12 日发布。该机提供明日星光 / 黑暗森林 / 火星杰作三款配色，采用极窄四等边 + 黄金大 R 角设计，主打“直屏好手感”。一加 16 还将支持“星际光效”功能，覆盖来电" data-title="一加 16 手机支持《三角洲行动》《和平精英》《暗区突围》等游戏原生 185FPS 模式" data-date="10-08 15:59" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB</p>
+      <p class="hero-sub-title">一加 16 手机支持《三角洲行动》《和平精英》《暗区突围》等游戏原生 185FPS 模式</p>
     </a>
   </div>
 </div>
@@ -107,113 +106,110 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/world/europe/rubio-greece-defense-immigration.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在希腊，国务卿马可·卢比奥（ Marco Rubio ）表示，西方国家必须接受早期的探索和征服精神，作为其文明的一部分，以保持“世界之首”。" data-title="Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance" data-date="10-08 02:55" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-08 02:55</span>
-          <span class="news-item-title">卢比奥敦促欧洲从“沉睡”中醒来，维护西方主导地位</span>
-          <span class="news-item-title-en">Rubio Urges Europe to Awaken From ‘Slumber’ and Uphold Western Dominance</span>
-          <span class="news-value-point">💡 在希腊，国务卿马可·卢比奥（ Marco Rubio ）表示，西方国家必须接受早期的探索和征服精神，作为其文明的一部分，以保持“世界之首”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/us/politics/kennedy-center-trump.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="国家交响乐团正在特朗普总统和他的盟友说可能落在他们头上的一栋建筑物内练习。" data-title="If the Kennedy Center Is ‘Dangerous,’ Why Is the Symphony Rehearsing There?" data-date="10-08 01:35" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-08 01:35</span>
-          <span class="news-item-title">如果肯尼迪中心是“危险的” ，为什么交响乐会在那里排练？</span>
-          <span class="news-item-title-en">If the Kennedy Center Is ‘Dangerous,’ Why Is the Symphony Rehearsing There?</span>
-          <span class="news-value-point">💡 国家交响乐团正在特朗普总统和他的盟友说可能落在他们头上的一栋建筑物内练习</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10708836.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="2026 年 10 月 7 日，瑞典皇家科学院将诺贝尔化学奖授予亨利·B·卡甘(Henri B. Kagan)和硖合宪三(Kenso Soai)，以表彰他们发现不对称有机合成中的非线性效应和自催化现象。他们的研究到底是什么意思，又有什么意义呢？让我们从左手和右手讲起。" data-title="分子也有“左右之分”，今年诺贝尔化学奖为何研究“偏心”？" data-date="10-08 00:18" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709165.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中央纪委国家监委网站讯 广东省人大常委会党组成员、副主任张硕辅涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。" data-title="广东省人大常委会党组成员、副主任张硕辅接受中央纪委国家监委纪律审查和监察调查" data-date="10-08 16:01" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 00:18</span>
-          <span class="news-item-title">分子也有“左右之分”，今年诺贝尔化学奖为何研究“偏心”？</span>
-          <span class="news-value-point">💡 2026 年 10 月 7 日，瑞典皇家科学院将诺贝尔化学奖授予亨利·B·卡甘(Henri B. Kagan)和硖合宪三(Kenso Soai)…</span>
+          <span class="news-item-date">10-08 16:01</span>
+          <span class="news-item-title">广东省人大常委会党组成员、副主任张硕辅接受中央纪委国家监委纪律审查和监察调查</span>
+          <span class="news-value-point">💡 中央纪委国家监委网站讯 广东省人大常委会党组成员、副主任张硕辅涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708835.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社首尔10月7日电 (记者 金旭)当地时间7日，韩国前总统尹锡悦涉嫌接受免费舆论调查服务案二审改判无罪，一审认定的部分有罪判决被推翻。" data-title="尹锡悦接受免费舆论调查服务案二审改判无罪" data-date="10-07 23:45" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709114.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网南昌10月8日电 (记者 吴鹏泉)打卡商圈街区、乐享特色美食、尽赏赣鄱风光......今年国庆假期，江西消费市场人气爆棚、活力迸发。" data-title="国庆假期江西消费市场活力迸发" data-date="10-08 15:58" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 23:45</span>
-          <span class="news-item-title">尹锡悦接受免费舆论调查服务案二审改判无罪</span>
-          <span class="news-value-point">💡 中新社首尔10月7日电 (记者 金旭)当地时间7日，韩国前总统尹锡悦涉嫌接受免费舆论调查服务案二审改判无罪，一审认定的部分有罪判决被推翻</span>
+          <span class="news-item-date">10-08 15:58</span>
+          <span class="news-item-title">国庆假期江西消费市场活力迸发</span>
+          <span class="news-value-point">💡 中新网南昌10月8日电 (记者 吴鹏泉)打卡商圈街区、乐享特色美食、尽赏赣鄱风光......今年国庆假期，江西消费市场人气爆棚、活力迸发</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-07/10708834.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="日前，清华大学联合国内多个研究团队，在国际上率先研制出“核光钟”，实现了量子精密测量由电子跃迁迈向原子核跃迁，为新一代高性能时间频率基准、深空探测和基础物理研究等开辟新的技术路径。国际期刊《自然》今天刊发该项研究成果。" data-title="量子精密测量实现新突破 我国科研团队研制出“核光钟”" data-date="10-07 23:17" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709159.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月8日电 (记者 黄钰钦 谢雁冰)外交部发言人8日宣布：法国总统外事顾问博纳将于10月9日至13日来华，同中共中央政治局委员、中央外办主任王毅举行新一轮中法战略对话。" data-title="法国总统外事顾问博纳将来华举行中法战略对话 外交部介绍相关安排" data-date="10-08 15:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 23:17</span>
-          <span class="news-item-title">量子精密测量实现新突破 我国科研团队研制出“核光钟”</span>
-          <span class="news-value-point">💡 日前，清华大学联合国内多个研究团队，在国际上率先研制出“核光钟”，实现了量子精密测量由电子跃迁迈向原子核跃迁，为新一代高性能时间频率基准、深空探…</span>
+          <span class="news-item-date">10-08 15:57</span>
+          <span class="news-item-title">法国总统外事顾问博纳将来华举行中法战略对话 外交部介绍相关安排</span>
+          <span class="news-value-point">💡 中新网北京10月8日电 (记者 黄钰钦 谢雁冰)外交部发言人8日宣布：法国总统外事顾问博纳将于10月9日至13日来华，同中共中央政治局委员、中央…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/us/politics/angela-paxton-texas-senate-republican.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="安吉拉·帕克斯顿（ Angela Paxton ）敦促德克萨斯州选民支持帕克斯顿的参议院竞选活动，尽管她正在与他离婚并指责他通奸。她有自己的政治抱负。" data-title="Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign" data-date="10-07 22:57" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-07 22:57</span>
-          <span class="news-item-title">为什么肯·帕克斯顿的疏远妻子为他的参议院竞选辩护</span>
-          <span class="news-item-title-en">Why Ken Paxton’s Estranged Wife Is Making the Case for His Senate Campaign</span>
-          <span class="news-value-point">💡 安吉拉·帕克斯顿（ Angela Paxton ）敦促德克萨斯州选民支持帕克斯顿的参议院竞选活动，尽管她正在与他离婚并指责他通奸</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-07/10708819.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月7日电 题：长征胜利90周年主题展览观展侧记：于回望中汲取前行力量" data-title="（长征胜利90周年）长征胜利90周年主题展览观展侧记：于回望中汲取前行力量" data-date="10-07 21:34" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709146.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月8日电 (记者 黄钰钦 郭超凯)中国外交部发言人毛宁8日主持例行记者会。" data-title="村田晃大对持刀非法入侵中国使馆罪行供认不讳 中方再次敦促日方严惩凶犯" data-date="10-08 15:52" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 21:34</span>
-          <span class="news-item-title">（长征胜利90周年）长征胜利90周年主题展览观展侧记：于回望中汲取前行力量</span>
-          <span class="news-value-point">💡 中新社北京10月7日电 题：长征胜利90周年主题展览观展侧记：于回望中汲取前行力量</span>
+          <span class="news-item-date">10-08 15:52</span>
+          <span class="news-item-title">村田晃大对持刀非法入侵中国使馆罪行供认不讳 中方再次敦促日方严惩凶犯</span>
+          <span class="news-value-point">💡 中新网北京10月8日电 (记者 黄钰钦 郭超凯)中国外交部发言人毛宁8日主持例行记者会</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708815.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社首尔10月7日电 (记者 金旭)据韩国宇宙航空厅当地时间7日消息，韩国自主研制的运载火箭“世界”号第五次发射取得成功。此次发射搭载的5颗对地观测卫星均已与地面完成首次通信。" data-title="韩国“世界”号运载火箭第五次发射取得成功" data-date="10-07 20:59" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709136.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网东莞10月8日电 (记者 蔡敏婕)粤港澳大湾区核心枢纽工程——狮子洋通道狮子洋大桥猫道面网8日开始铺设，为后续超大主缆架设筑牢作业平台。该猫道单幅宽度达6.26米，是目前世界在建的最宽悬索桥施工猫道。" data-title="世界在建的最宽悬索桥施工猫道开启面网铺设" data-date="10-08 15:50" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 20:59</span>
-          <span class="news-item-title">韩国“世界”号运载火箭第五次发射取得成功</span>
-          <span class="news-value-point">💡 中新社首尔10月7日电 (记者 金旭)据韩国宇宙航空厅当地时间7日消息，韩国自主研制的运载火箭“世界”号第五次发射取得成功</span>
+          <span class="news-item-date">10-08 15:50</span>
+          <span class="news-item-title">世界在建的最宽悬索桥施工猫道开启面网铺设</span>
+          <span class="news-value-point">💡 中新网东莞10月8日电 (记者 蔡敏婕)粤港澳大湾区核心枢纽工程——狮子洋通道狮子洋大桥猫道面网8日开始铺设，为后续超大主缆架设筑牢作业平台</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708812.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="俄罗斯联邦消费者权益保护和公益监督局6日在其官网发布通告称，供职于该国伊尔库茨克西伯利亚与远东防鼠疫研究所的一名患病工作人员病因诊断为“不明原因肺炎”。事发后当地已第一时间采取综合防疫措施，目前伊尔库茨克州和相关城市防疫形势平稳。" data-title="俄官方称鼠疫研究机构一名员工确诊“不明原因肺炎”" data-date="10-07 20:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 20:50</span>
-          <span class="news-item-title">俄官方称鼠疫研究机构一名员工确诊“不明原因肺炎”</span>
-          <span class="news-value-point">💡 俄罗斯联邦消费者权益保护和公益监督局6日在其官网发布通告称，供职于该国伊尔库茨克西伯利亚与远东防鼠疫研究所的一名患病工作人员病因诊断为“不明原因…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-07/10708792.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="文化兴国运兴，文化强民族强。2023年10月，全国宣传思想文化工作会议正式提出习近平文化思想。习近平文化思想是新时代党领导文化建设实践经验的理论总结，丰富和发展了马克思主义文化理论，构成了习近平新时代中国特色社会主义思想的文化篇。" data-title="学习原声丨以文化滋养精神家园" data-date="10-07 20:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 20:26</span>
-          <span class="news-item-title">学习原声丨以文化滋养精神家园</span>
-          <span class="news-value-point">💡 文化兴国运兴，文化强民族强</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-07/10708798.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月7日电 (记者 刘文文)记者7日从中国交通运输部获悉，国庆假期(10月1日至7日)累计全社会跨区域人员流动量预计达21.44亿人次，日均3.06亿人次，同比(2025年中秋国庆假期8天日均，下同)增长0.7%。" data-title="国庆假期中国跨区域人员流动量料达21.44亿人次" data-date="10-07 20:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 20:24</span>
-          <span class="news-item-title">国庆假期中国跨区域人员流动量料达21.44亿人次</span>
-          <span class="news-value-point">💡 中新社北京10月7日电 (记者 刘文文)记者7日从中国交通运输部获悉，国庆假期(10月1日至7日)累计全社会跨区域人员流动量预计达21.44亿人…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-07/10708780.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月7日电 斯德哥尔摩消息：瑞典皇家科学院7日宣布，将2026年诺贝尔化学奖授予法国科学家亨利·B·卡甘(Henri B. Kagan)和日本科学家硖合宪三(Kenso Soai)，以表彰他们在不对称有机合成中发现非线性效应和自催化现象。" data-title="两位科学家获得2026年诺贝尔化学奖" data-date="10-07 19:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 19:32</span>
-          <span class="news-item-title">两位科学家获得2026年诺贝尔化学奖</span>
-          <span class="news-value-point">💡 中新社北京10月7日电 斯德哥尔摩消息：瑞典皇家科学院7日宣布，将2026年诺贝尔化学奖授予法国科学家亨利·B·卡甘(Henri B. Kaga…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-07/10708751.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间10月7日，瑞典皇家科学院决定将2026年诺贝尔化学奖授予2名科学家。" data-title="2026年诺贝尔化学奖揭晓" data-date="10-07 17:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 17:50</span>
-          <span class="news-item-title">2026年诺贝尔化学奖揭晓</span>
-          <span class="news-value-point">💡 当地时间10月7日，瑞典皇家科学院决定将2026年诺贝尔化学奖授予2名科学家</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-07/10708746.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="“十五五”时期，我国将投入超过5万亿元建设新型电网。新型电网怎么建？要攻克哪些技术难题？就在几天前，一台世界最大容量的柔性直流变压器在广州城市中心就位。" data-title="大国重器就位！世界最大容量“电力心脏”有多强" data-date="10-07 17:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-07 17:43</span>
-          <span class="news-item-title">大国重器就位！世界最大容量“电力心脏”有多强</span>
-          <span class="news-value-point">💡 “十五五”时期，我国将投入超过5万亿元建设新型电网</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqdjv34xrmd3o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="乘搭火车出行的乌克兰人，愈来愈成为俄罗斯攻击的目标。" data-title="在俄罗斯无人机轰炸中，乌克兰铁路冒着恐惧匍匐前进" data-date="10-07 16:24" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c615j9n1xlkpo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="三年过去，以色列总理内塔尼亚胡拒绝为以色列的安保失败承担任何个人责任，也拒绝下令进行国家调查。" data-title="以色列大选：哈马斯袭击三年后，以色列民众要求追究责任" data-date="10-08 15:50" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-07 16:24</span>
-          <span class="news-item-title">在俄罗斯无人机轰炸中，乌克兰铁路冒着恐惧匍匐前进</span>
-          <span class="news-value-point">💡 乘搭火车出行的乌克兰人，愈来愈成为俄罗斯攻击的目标</span>
+          <span class="news-item-date">10-08 15:50</span>
+          <span class="news-item-title">以色列大选：哈马斯袭击三年后，以色列民众要求追究责任</span>
+          <span class="news-value-point">💡 三年过去，以色列总理内塔尼亚胡拒绝为以色列的安保失败承担任何个人责任，也拒绝下令进行国家调查</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709130.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会。" data-title="日方称中方应对其首相给予尊重 外交部回应" data-date="10-08 15:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:42</span>
+          <span class="news-item-title">日方称中方应对其首相给予尊重 外交部回应</span>
+          <span class="news-value-point">💡 中新网北京10月8日电 (记者 黄钰钦)中国外交部发言人毛宁8日主持例行记者会</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709110.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月8日电 据英国广播公司(BBC)当地时间8日报道，以色列外交部长萨尔表示，英国驻耶路撒冷领事馆自8日起关闭，包括英国驻耶路撒冷总领事在内的20名外交官即将结束任期并离开以色列。" data-title="以外长：英国驻耶路撒冷领事馆8日起关闭 20名外交官将离境" data-date="10-08 15:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:34</span>
+          <span class="news-item-title">以外长：英国驻耶路撒冷领事馆8日起关闭 20名外交官将离境</span>
+          <span class="news-value-point">💡 中新网10月8日电 据英国广播公司(BBC)当地时间8日报道，以色列外交部长萨尔表示，英国驻耶路撒冷领事馆自8日起关闭，包括英国驻耶路撒冷总领事…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709106.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据日本方面7日消息，消息人士称，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。日本这种严重背离“无核三原则”的做法将引发怎样的严重后果？" data-title="总台记者观察丨日本谋求核潜艇计划引发多方坚决反对" data-date="10-08 15:08" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:08</span>
+          <span class="news-item-title">总台记者观察丨日本谋求核潜艇计划引发多方坚决反对</span>
+          <span class="news-value-point">💡 据日本方面7日消息，消息人士称，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709103.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据日本方面7日消息，消息人士称，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容。相关动向引发日本国内反对声音。此举有哪些政治“算计”？" data-title="日本图谋发展核潜艇 暗藏三重政治“算计”" data-date="10-08 15:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:06</span>
+          <span class="news-item-title">日本图谋发展核潜艇 暗藏三重政治“算计”</span>
+          <span class="news-value-point">💡 据日本方面7日消息，消息人士称，日本政府年内修订“安保三文件”，考虑加入“探讨自卫队引进核动力潜艇”相关内容</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709021.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月8日电 据美国阿克西奥斯新闻网7日援引多名美国官员消息报道称，美国五角大楼近日已指示美军中央司令部，完成对伊朗重启大规模作战行动的准备工作。" data-title="美媒：美军为再次大规模打击伊朗做准备" data-date="10-08 13:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 13:43</span>
+          <span class="news-item-title">美媒：美军为再次大规模打击伊朗做准备</span>
+          <span class="news-value-point">💡 中新网10月8日电 据美国阿克西奥斯新闻网7日援引多名美国官员消息报道称，美国五角大楼近日已指示美军中央司令部，完成对伊朗重启大规模作战行动的准…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709025.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月8日电 据美联社报道，美国得克萨斯州一名男子因枪杀便利店店员于当地时间7日晚被执行死刑，成为2026年美国第30位被执行死刑的人，也是一周前田纳西州对克丽斯塔·派克实施注射死刑失败后，美国首次执行死刑的案例。" data-title="田纳西州注射死刑执行失败后，美国得州完成一例注射死刑" data-date="10-08 13:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 13:29</span>
+          <span class="news-item-title">田纳西州注射死刑执行失败后，美国得州完成一例注射死刑</span>
+          <span class="news-value-point">💡 中新网10月8日电 据美联社报道，美国得克萨斯州一名男子因枪杀便利店店员于当地时间7日晚被执行死刑，成为2026年美国第30位被执行死刑的人，也…</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cq5ynx00d4leo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="美国选民将于11月3日前往投票，这场选举的结果可能对唐纳德·特朗普（川普）的总统任期产生重大影响。" data-title="美国中期选举是什么？这是一份简易指南" data-date="10-08 12:41" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-08 12:41</span>
+          <span class="news-item-title">美国中期选举是什么？这是一份简易指南</span>
+          <span class="news-value-point">💡 美国选民将于11月3日前往投票，这场选举的结果可能对唐纳德·特朗普（川普）的总统任期产生重大影响</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10708996.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月8日电 综合消息：沙特阿拉伯民航总局当地时间7日发表声明称，位于沙特西南部的艾卜哈国际机场和位于首都利雅得的哈立德国王国际机场6日至7日遭到袭击，已造成3人死亡、36人受伤。" data-title="沙特两座机场遭袭已致3死36伤" data-date="10-08 12:19" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 12:19</span>
+          <span class="news-item-title">沙特两座机场遭袭已致3死36伤</span>
+          <span class="news-value-point">💡 中新社北京10月8日电 综合消息：沙特阿拉伯民航总局当地时间7日发表声明称，位于沙特西南部的艾卜哈国际机场和位于首都利雅得的哈立德国王国际机场6…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10708958.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网约翰内斯堡10月8日电 西开普大学中医孔子学院、西开普省卫生部门与西开普大学自然医学学院近日开展合作，中医针灸正式走进马卡萨(Macassar)社区医疗中心，由南非职业中医师在南非公立医疗机构开展中医针灸医疗服务。" data-title="多方携手助中医针灸走进南非开普敦社区医疗中心" data-date="10-08 12:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 12:18</span>
+          <span class="news-item-title">多方携手助中医针灸走进南非开普敦社区医疗中心</span>
+          <span class="news-value-point">💡 中新网约翰内斯堡10月8日电 西开普大学中医孔子学院、西开普省卫生部门与西开普大学自然医学学院近日开展合作，中医针灸正式走进马卡萨(Macass…</span>
         </a>
   </div>
   <div class="news-category">
@@ -222,6 +218,95 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/010/565.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，据博板堂旗下公众号 ChannelGate 视博合聚今日消息，AMD 总部已经通知显卡产品，从 10 月 1 日正式执行涨价，包括国内以及国外全球市场均统一涨价。报道称，AMD 主要考虑到显存一颗 2G 成本再次上涨幅度约 10% 左右，以及芯片代工成本的上涨等因素影响，决定针对显卡产品的价格普遍拉涨，将涉及大部分型号均有一定不同程度的上涨。报道提到，AMD Q4 季度执行 SEP（Suggested E-tail Price）指导价格体系，以及环比 Q3 SEP 的价格调整情况披露如下：RX 9070 XT：价格不变，执行 6999 元。RX 9070：上涨 700 元，执行 6299 元。RX 9070 GRE：价格上涨 400 元，执行 4999 元。R" data-title="消息称 AMD 多款显卡 10 月起正式上调指导价，最高涨价 700 元" data-date="10-08 15:46" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-08 15:46</span>
+          <span class="news-item-title">消息称 AMD 多款显卡 10 月起正式上调指导价，最高涨价 700 元</span>
+          <span class="news-value-point">💡 IT之家 10 月 8 日消息，据博板堂旗下公众号 ChannelGate 视博合聚今日消息，AMD 总部已经通知显卡产品，从 10 月 1 日…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/564.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，XREAL 在其当地时间本月 7 日的新闻稿中确认，其 Android XR 眼镜 AURA 提供两档配置，12GB + 256GB 定价 1279 美元、16GB + 512GB 定价 1,499 美元（IT之家注：现汇率约合 8,585 / 10,062 元人民币）。XREAL AURA 由眼镜本体和计算单元两部分构成。其本体质量不到 95g，搭载 X1S 空间协处理器，配备索尼 FHD 120Hz microOLED 显示面板（色域 100% sRGB，峰值亮度 1050nits），集成 Bose 调音声学系统和 4 麦克风阵列，支持 6DoF 追踪，具备 5 档电致变色。而其计算单元基于高通骁龙 Reality Elite 芯片，支持 Google G" data-title="XREAL 确认 Android XR 眼镜 AURA 起价 1279 美元，另有 1499 美元高配" data-date="10-08 15:44" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-08 15:44</span>
+          <span class="news-item-title">XREAL 确认 Android XR 眼镜 AURA 起价 1279 美元，另有 1499 美元高配</span>
+          <span class="news-value-point">💡 IT之家 10 月 8 日消息，XREAL 在其当地时间本月 7 日的新闻稿中确认，其 Android XR 眼镜 AURA 提供两档配置，12…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/562.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，腾讯今天宣布，旗下 AI 办公产品 WorkBuddy 现已正式上线独立文件浏览器。用户现在可以在文件资源管理器 / Finder 找到一份文件，右键选择 WorkBuddy 打开，就能在独立窗口中查看文件，并直接调用 AI 进行分析、修改或继续处理。IT之家了解到，WorkBuddy 文件浏览器可以直接打开 Word、Excel、PPT、PDF、Markdown、HTML 等文件，在同一个窗口里查看、编辑，并随时调用 Buddy 处理。支持多文件标签页切换，每份文件都有自己的 Buddy 对话。无需单独下载，更新 WorkBuddy 后即可使用。用户在查看文件时还可以从右边的聊天窗口询问 AI，查看、提问、修改，都可以围绕眼前这份文件直接进行。一个窗口还能同" data-title="腾讯 WorkBuddy 上线独立文件浏览器，本地文件可直呼 AI 处理" data-date="10-08 15:37" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-08 15:37</span>
+          <span class="news-item-title">腾讯 WorkBuddy 上线独立文件浏览器，本地文件可直呼 AI 处理</span>
+          <span class="news-value-point">💡 IT之家 10 月 8 日消息，腾讯今天宣布，旗下 AI 办公产品 WorkBuddy 现已正式上线独立文件浏览器</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/561.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，在接受 Politico 新播客《Decoded》首期节目采访时，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）表示，世界应接受人工智能带来的部分“坏事”，以换取技术带来的巨大益处与用户自主权。在被问及在人工智能安全方面，OpenAI 和竞争对手 Anthropic 的方法有何不同时，奥尔特曼表示：我认为其中有很多值得商榷的地方。OpenAI 与部分严格 AI 安全倡导者的关键分歧之一，就是我们认为世界应接受技术带来的部分负面事件，以换取 AI 红利与用户自主权。我们倡导较轻监管立场（lighter touch regulatory stance），社会在探索系统韧性（resilience）过程中，一些不好的事情将会发生。奥尔特曼认为凡事都" data-title="OpenAI 奥尔特曼：世界应接受 AI 带来的部分“坏事”以换取巨大红利" data-date="10-08 15:27" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-08 15:27</span>
+          <span class="news-item-title">OpenAI 奥尔特曼：世界应接受 AI 带来的部分“坏事”以换取巨大红利</span>
+          <span class="news-value-point">💡 IT之家 10 月 8 日消息，在接受 Politico 新播客《Decoded》首期节目采访时，OpenAI 首席执行官萨姆 · 奥尔特曼（S…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/08/nyregion/mamdani-oct-7-anniversary-nyc-israel.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在一些犹太领导人谴责市长佐赫兰·马姆达尼（ Zohran Mamdani ）关于袭击以色列的言论数小时后，活动人士打断了他的守夜活动，称他为巴勒斯坦事业的叛徒。" data-title="For Mamdani, Oct. 7 Anniversary Sets Off Anger and Bitterness" data-date="10-08 13:28" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-08 13:28</span>
+          <span class="news-item-title">对于Mamdani来说， 10月7日的周年纪念掀起了愤怒和痛苦</span>
+          <span class="news-item-title-en">For Mamdani, Oct. 7 Anniversary Sets Off Anger and Bitterness</span>
+          <span class="news-value-point">💡 在一些犹太领导人谴责市长佐赫兰·马姆达尼（ Zohran Mamdani ）关于袭击以色列的言论数小时后，活动人士打断了他的守夜活动，称他为巴勒…</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/501915.html" target="_blank" rel="noopener" data-cat="keji" data-summary="大模型原生智能体手机STEPX Neo将于10月13日正式发布" data-title="大模型原生智能体手机STEPX Neo将于10月13日正式发布" data-date="10-08 10:15" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-08 10:15</span>
+          <span class="news-item-title">大模型原生智能体手机STEPX Neo将于10月13日正式发布</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/501832.html" target="_blank" rel="noopener" data-cat="keji" data-summary="小模型新守门员" data-title="Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊" data-date="10-08 09:04" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-08 09:04</span>
+          <span class="news-item-title">Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊</span>
+          <span class="news-value-point">💡 小模型新守门员</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/laptops/pre-orders-are-live-on-nvidia-rtx-spark-devices-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptop-starting-at-usd2-599-pricing-and-availability-revealed-on-several-models" target="_blank" rel="noopener" data-cat="keji" data-summary="预购适用于Nvidia RTX Spark笔记本电脑，包括Microsoft Surface Laptop Ultra以及惠普、联想、华硕和戴尔的设备。" data-title="Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599" data-date="10-08 06:52" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-08 06:52</span>
+          <span class="news-item-title">预购可在Nvidia RTX Spark设备上进行，在此处保护Surface Laptop Ultra或其他RTX Spark笔记本电脑—起价为$ 2,599</span>
+          <span class="news-item-title-en">Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599</span>
+          <span class="news-value-point">💡 预购适用于Nvidia RTX Spark笔记本电脑，包括Microsoft Surface Laptop Ultra以及惠普、联想、华硕和戴尔…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/" target="_blank" rel="noopener" data-cat="keji" data-summary="Hermes Agent的开发商筹集了9000万美元的$ B轮融资。" data-title="Nous Research confirms it hit $1.5B valuation, launches AI agents for business users" data-date="10-08 04:48" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-08 04:48</span>
+          <span class="news-item-title">Nous Research确认其估值达到15亿美元，为企业用户推出人工智能代理</span>
+          <span class="news-item-title-en">Nous Research confirms it hit $1.5B valuation, launches AI agents for business users</span>
+          <span class="news-value-point">💡 Hermes Agent的开发商筹集了9000万美元的$ B轮融资</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/" target="_blank" rel="noopener" data-cat="keji" data-summary="微软透露了其Surface Laptop Ultra的规格和价格，这是一款在Nvidia芯片上运行的AI PC ，旨在运行AI模型和代理。" data-title="Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11" data-date="10-08 04:22" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-08 04:22</span>
+          <span class="news-item-title">微软推出全新Nvidia芯片人工智能个人电脑，全面升级Windows 11</span>
+          <span class="news-item-title-en">Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11</span>
+          <span class="news-value-point">💡 微软透露了其Surface Laptop Ultra的规格和价格，这是一款在Nvidia芯片上运行的AI PC ，旨在运行AI模型和代理</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI正在ChatGPT中推出一项新的智能用户界面功能，允许聊天机器人通过交互式视觉效果回答您的问题。该更新与GPT-6一起向所有用户推出，使ChatGPT能够组合文本响应" data-title="ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons" data-date="10-08 03:10" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-08 03:10</span>
+          <span class="news-item-title">ChatGPT的“智能用户界面”更新以图片、图表和按钮填充其回复</span>
+          <span class="news-item-title-en">ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons</span>
+          <span class="news-value-point">💡 OpenAI正在ChatGPT中推出一项新的智能用户界面功能，允许聊天机器人通过交互式视觉效果回答您的问题</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1007040/nvidias-powerful-rtx-spark-laptops-can-cost-up-to-7000" target="_blank" rel="noopener" data-cat="keji" data-summary="由英伟达全新RTX Spark芯片提供支持的第一批笔记本电脑专为与高端MacBook Pro竞争而设计，它们有一些高端价格可与之匹敌。戴尔、联想、微星、惠普的旗舰Surface笔记本电脑Ultra和RTX Spark笔记本电脑，" data-title="The first Nvidia RTX Spark laptops cost up to $7,000" data-date="10-08 03:05" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-08 03:05</span>
+          <span class="news-item-title">首款Nvidia RTX Spark笔记本电脑售价高达7,000 $</span>
+          <span class="news-item-title-en">The first Nvidia RTX Spark laptops cost up to $7,000</span>
+          <span class="news-value-point">💡 由英伟达全新RTX Spark芯片提供支持的第一批笔记本电脑专为与高端MacBook Pro竞争而设计，它们有一些高端价格可与之匹敌</span>
+        </a>
         <a class="news-item" href="https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced" target="_blank" rel="noopener" data-cat="keji" data-summary="微软刚刚在旧金山结束了一场以Windows和Surface为重点的主题演讲。最大的公告可以说是关于Surface Laptop Ultra的发布细节，其新笔记本电脑由英伟达基于RTX Spark Arm的芯片提供支持。" data-title="Everything announced at Microsoft’s Surface Laptop Ultra event" data-date="10-08 02:42" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
@@ -244,109 +329,17 @@ title: 热点新闻
           <span class="news-item-title">微软 Surface Laptop Ultra 售价公布：起价 21988 元，128GB 内存顶配售 48388 元</span>
           <span class="news-value-point">💡 IT之家 10 月 8 日消息，微软中国商城今天（10 月 8 日）上架 Surface Laptop Ultra，共有亮铂金和夜幕色两种颜色，…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/319.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，CEO 纳德拉、Windows 负责人帕万 · 达武鲁里均登台演讲，英伟达 CEO 黄仁勋后半段压轴登场。黄仁勋登台时，特意将自己的手机交给了助理，所以我们今天没办法看到这位大佬拨通什么神秘电话。黄仁勋和纳德拉坐下来后聊起了 Windows 95。这款操作系统第一次集成了 DirectX，让开发者能够更加容易地为 Windows 系统开发游戏。IT之家注意到，黄仁勋在聊天中表示：“如果没有 Windows，就不会有 GeForce；如果没有 GeForce，CUDA 并不会问世，深度学习等技术也就无从谈起。”同时在那个年代，计算机图形显示硬件正处在蜕变时期，当时市面主流的解决方案是使用 2D 显示卡 +3D 加速卡游玩" data-title="英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生" data-date="10-08 02:28" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 02:28</span>
-          <span class="news-item-title">英伟达黄仁勋回忆微软 Win95 往昔：没有 Windows 的话，CUDA 就不会诞生</span>
-          <span class="news-value-point">💡 IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，CEO 纳德拉、Windows 负责人帕万 · 达武鲁里均登台演讲，英…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/318.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，黄仁勋表示英伟达正推动一种以本地设备为核心的 AI 计算模式。黄仁勋称：“这是全球唯一一台能够在设备端原生运行一切应用的电脑。”他同时表示，几乎所有笔记本电脑、台式机和工作站厂商都已加入英伟达的合作阵营。黄仁勋还借此强调英伟达正在构建的硬件生态：从轻量化 AI PC，到面向开发者和专业用户的工作站，再到 DGX Station 等高性能设备，英伟达希望让不同类型的 Windows 设备都具备本地 AI 能力。黄仁勋表示：“这款超级芯片 [指 RTX Spark 超级芯片平台] 非常出色。它是唯一一台能够运行 DirectX 及其所有应用程序、Open" data-title="英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑" data-date="10-08 02:22" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 02:22</span>
-          <span class="news-item-title">英伟达黄仁勋：已测超 1200 款应用，RTX Spark 是全球唯一本地原生运行所有应用的电脑</span>
-          <span class="news-value-point">💡 IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，…</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/" target="_blank" rel="noopener" data-cat="keji" data-summary="ChatGPT的青少年安全措施旨在保护弱势用户，但新的测试发现，聊天机器人在危机期间继续鼓励参与，并可能鼓励与人工智能本身的不健康关系。" data-title="ChatGPT for Teens keeps teens talking, even during mental health crises" data-date="10-08 02:15" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-08 02:15</span>
-          <span class="news-item-title">ChatGPT for Teens让青少年保持交谈，即使在心理健康危机期间也是如此</span>
-          <span class="news-item-title-en">ChatGPT for Teens keeps teens talking, even during mental health crises</span>
-          <span class="news-value-point">💡 ChatGPT的青少年安全措施旨在保护弱势用户，但新的测试发现，聊天机器人在危机期间继续鼓励参与，并可能鼓励与人工智能本身的不健康关系</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/315.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，英伟达首席执行官黄仁勋表示：“英伟达当初正是因 Windows 而诞生”。在本次活动中，微软首席执行官萨蒂亚 · 纳德拉、英伟达首席执行官黄仁勋和白宫前人工智能高级政策顾问斯里拉姆 · 克里希南三人展开了一场对话。黄仁勋在开场时表示：“英伟达的创立是因为 Windows 系统。Windows 95 系统让 GPU 连接到 PC 成为可能，DirectX 对 PC 图形技术的早期发展至关重要。”这基本上就是英伟达并行计算平台 CUDA 的起源故事。黄仁勋表示：“我们想要世界上最好的 Blender、世界上最好的 Omniverse、世界上最好的 CUD" data-title="黄仁勋：英伟达当初正是因 Windows 而诞生" data-date="10-08 02:11" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 02:11</span>
-          <span class="news-item-title">黄仁勋：英伟达当初正是因 Windows 而诞生</span>
-          <span class="news-value-point">💡 IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会中，…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/laptops/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-rtx-spark-preorders-live-now-coinciding-with-major-windows-11-changes-for-agentic-ai" target="_blank" rel="noopener" data-cat="keji" data-summary="微软的Surface Laptop Ultra现在可供预订。该公司透露了一些新的Windows 11功能，一个新的磁性USB Type-C端口，该系统将支持“数百种”视频游戏。" data-title="Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark" data-date="10-08 02:07" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-08 02:07</span>
-          <span class="news-item-title">微软和英伟达推出带RTX Spark的Surface Laptop Ultra</span>
-          <span class="news-item-title-en">Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark</span>
-          <span class="news-value-point">💡 微软的Surface Laptop Ultra现在可供预订</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence" target="_blank" rel="noopener" data-cat="keji" data-summary="在今天的Windows和Surface活动中，微软展示了其Copilot AI系统的升级，该系统将使其能够访问PC上的本地文件，并能够在整个操作系统上执行操作。这是微软称之为“Hybrid Intelli" data-title="Microsoft is giving Copilot more control over Windows and your files" data-date="10-08 02:01" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-08 02:01</span>
-          <span class="news-item-title">微软让Copilot更好地控制Windows和你的文件</span>
-          <span class="news-item-title-en">Microsoft is giving Copilot more control over Windows and your files</span>
-          <span class="news-value-point">💡 在今天的Windows和Surface活动中，微软展示了其Copilot AI系统的升级，该系统将使其能够访问PC上的本地文件，并能够在整个操作…</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI正在推出一个新的用户界面，将为ChatGPT带来交互式视觉效果。" data-title="ChatGPT is getting a lot more visual, with the launch of a new interface" data-date="10-08 02:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-08 02:00</span>
-          <span class="news-item-title">随着新界面的推出， ChatGPT变得更加可视化</span>
-          <span class="news-item-title-en">ChatGPT is getting a lot more visual, with the launch of a new interface</span>
-          <span class="news-value-point">💡 OpenAI正在推出一个新的用户界面，将为ChatGPT带来交互式视觉效果</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale" target="_blank" rel="noopener" data-cat="keji" data-summary="在今晚晚些时候亚马逊10月销售结束之前，您可以在亚马逊、沃尔玛和百思买以297.49美元（通常为349.99美元）的价格购买128GB Meta Quest 3S。虽然镜头和显示屏不如Quest 3那么锐利，但底层芯片组" data-title="The Meta Quest 3S gets a rare discount during October Prime Day" data-date="10-08 02:00" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-08 02:00</span>
-          <span class="news-item-title">Meta Quest 3S在10月黄金日获得罕见折扣</span>
-          <span class="news-item-title-en">The Meta Quest 3S gets a rare discount during October Prime Day</span>
-          <span class="news-value-point">💡 在今晚晚些时候亚马逊10月销售结束之前，您可以在亚马逊、沃尔玛和百思买以297.49美元（通常为349.99美元）的价格购买128GB Meta…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/313.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，英伟达发布 DGX Station for Windows，定位为桌面级 AI 超级计算机，旨在让开发者、研究人员和数据科学团队在本地运行大规模 AI 模型，将于 2026 年第四季度上市。IT之家援引博文介绍，DGX Station 搭载 NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip，配备 72 核 Grace CPU、Blackwell Ultra GPU，以及最高 748GB 统一内存。其中包括 252GB HBM3e GPU 内存和 496GB LPDDR5X CPU 内存，AI 算" data-title="英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存" data-date="10-08 01:56" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 01:56</span>
-          <span class="news-item-title">英伟达发布 DGX Station for Windows：本地运行 1 万亿参数 AI 模型，最高 748GB 内存</span>
-          <span class="news-value-point">💡 IT之家 10 月 8 日消息，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/news/1006378/microsoft-surface-laptop-ultra-pricing-release-date" target="_blank" rel="noopener" data-cat="keji" data-summary="在推出Surface Laptop Ultra几个月后，微软宣布配备Nvidia RTX Spark的设备将于10月16日推出。基本配置起价为$ 2,599 ，配备18核CPU、24GB RAM和512GB" data-title="The Surface Laptop Ultra finally has a release date — and a starting price of $2,599" data-date="10-08 01:48" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-08 01:48</span>
-          <span class="news-item-title">Surface Laptop Ultra终于有了发布日期—起价为$ 2,599</span>
-          <span class="news-item-title-en">The Surface Laptop Ultra finally has a release date — and a starting price of $2,599</span>
-          <span class="news-value-point">💡 在推出Surface Laptop Ultra几个月后，微软宣布配备Nvidia RTX Spark的设备将于10月16日推出</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder" target="_blank" rel="noopener" data-cat="keji" data-summary="微软的Nvidia驱动的Surface RTX Spark Dev Box现在可以直接预订，定于11月发货，售价仅为6000 $左右。它比去年推出的DGX Spark mini PC Nvidia更贵，但PC价格一直在攀升。" data-title="Surface RTX Spark Dev Box is available for preorder for $5,999" data-date="10-08 01:46" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-08 01:46</span>
-          <span class="news-item-title">Surface RTX Spark Dev Box可预购，售价$ 5,999</span>
-          <span class="news-item-title-en">Surface RTX Spark Dev Box is available for preorder for $5,999</span>
-          <span class="news-value-point">💡 微软的Nvidia驱动的Surface RTX Spark Dev Box现在可以直接预订，定于11月发货，售价仅为6000 $左右</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/" target="_blank" rel="noopener" data-cat="keji" data-summary="Meta在发现其平台上的广告后推出了新的人工智能工具，这些广告可能看起来很正常，但会引导用户在网上其他地方看到有害内容。" data-title="Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material" data-date="10-08 00:53" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-08 00:53</span>
-          <span class="news-item-title">Meta推出新的人工智能工具，以检测秘密导致儿童性虐待材料的广告</span>
-          <span class="news-item-title-en">Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material</span>
-          <span class="news-value-point">💡 Meta在发现其平台上的广告后推出了新的人工智能工具，这些广告可能看起来很正常，但会引导用户在网上其他地方看到有害内容</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">5 条</span>
+      <span class="news-category-count">4 条</span>
     </div>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="消息人士告诉BBC Sport ， Declan Rice即将同意一份新的长期阿森纳合同。" data-title="Rice close to agreeing new Arsenal deal" data-date="10-08 02:30" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="消息人士告诉BBC Sport ， Declan Rice即将同意一份新的长期阿森纳合同。" data-title="Rice close to agreeing new Arsenal deal" data-date="10-08 06:21" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-08 02:30</span>
+          <span class="news-item-date">10-08 06:21</span>
           <span class="news-item-title">赖斯接近达成新的阿森纳交易</span>
           <span class="news-item-title-en">Rice close to agreeing new Arsenal deal</span>
           <span class="news-value-point">💡 消息人士告诉BBC Sport ， Declan Rice即将同意一份新的长期阿森纳合同</span>
@@ -375,14 +368,6 @@ title: 热点新闻
           <span class="news-item-title-en">Arteta signs new contract with champions Arsenal</span>
           <span class="news-value-point">💡 米克尔·阿尔特塔（ Mikel Arteta ）表示，这只是阿森纳在2030年前与英超冠军签订新合同后取得成功的“开始”</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="许多英超俱乐部希望曼城在未来受到追溯性惩罚和制裁。" data-title="Rival clubs want retrospective and future punishments for Man City" data-date="10-07 03:30" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-07 03:30</span>
-          <span class="news-item-title">对手俱乐部希望对曼城进行追溯和未来的惩罚</span>
-          <span class="news-item-title-en">Rival clubs want retrospective and future punishments for Man City</span>
-          <span class="news-value-point">💡 许多英超俱乐部希望曼城在未来受到追溯性惩罚和制裁</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -390,123 +375,112 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/010/323.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Surface Laptop Ultra 过程，其设计迭代超过 300 次，从而更好地和苹果 MacBook Pro 竞争。IT之家援引博文介绍，为了让 Surface Laptop Ultra 的外观设计能与 MacBook 一较高下，微软巧妙地重新设计了磁吸式 Surface Connect 充电端口，官方称其为 Magnetic Connect。微软 Surface 设备首席设计师 Jit Hirani 表示：“在 Surface Laptop Ultra 开发过程中，我们的工程团队迭代了大约 300 次，从而打造出世界上首款内置磁吸式 USB-C" data-title="微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB" data-date="10-08 03:00" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/010/569.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 8 日消息，一加官方今天宣布，一加 16 手机支持《和平精英》《三角洲行动》《暗区突围》《穿越火线：枪战王者》《逆战：未来》《萤火突击》等头部射击游戏的原生 185FPS 模式。IT之家注意到，一加官方还表示，未来《和平精英》《火影忍者》《炉石传说》《我的世界》《植物大战僵尸 2》《保卫萝卜》《部落冲突》《初音未来：缤纷舞台》《节奏大师》《神庙逃亡》《三国杀》《地铁跑酷》等游戏都将支持一加 16 的原生 185FPS 模式。此外，一加 16 手机首批搭载高通第六代骁龙 8 超级至尊版处理器，10 月 12 日发布。该机提供明日星光 / 黑暗森林 / 火星杰作三款配色，采用极窄四等边 + 黄金大 R 角设计，主打“直屏好手感”。一加 16 还将支持“星际光效”功能，覆盖来电" data-title="一加 16 手机支持《三角洲行动》《和平精英》《暗区突围》等游戏原生 185FPS 模式" data-date="10-08 15:59" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 03:00</span>
-          <span class="news-item-title">微软 Surface Laptop Ultra 探秘：迭代约 300 次，全球首款内置磁吸式 USB</span>
-          <span class="news-value-point">💡 IT之家 10 月 8 日消息，科技媒体 The Verge 今天（10 月 8 日）发布博文，通过探访微软实验室，介绍了微软是如何打造 Sur…</span>
+          <span class="news-item-date">10-08 15:59</span>
+          <span class="news-item-title">一加 16 手机支持《三角洲行动》《和平精英》《暗区突围》等游戏原生 185FPS 模式</span>
+          <span class="news-value-point">💡 IT之家 10 月 8 日消息，一加官方今天宣布，一加 16 手机支持《和平精英》《三角洲行动》《暗区突围》《穿越火线：枪战王者》《逆战：未来》…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/us/texas-execution-lethal-injection.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="贾马尔·霍华德（ Jamaal Howard ）的律师正在寻求有关致命注射药物的信息，这种药物与田纳西州上周尝试失败时使用的药物相同。" data-title="Texas Plans Execution After Botched Lethal Injection in Tennessee" data-date="10-08 02:57" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-08 02:57</span>
-          <span class="news-item-title">德克萨斯州计划在田纳西州注射拙劣致命药物后执行死刑</span>
-          <span class="news-item-title-en">Texas Plans Execution After Botched Lethal Injection in Tennessee</span>
-          <span class="news-value-point">💡 贾马尔·霍华德（ Jamaal Howard ）的律师正在寻求有关致命注射药物的信息，这种药物与田纳西州上周尝试失败时使用的药物相同</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1007132/icann-domains-2026-ai-agi" target="_blank" rel="noopener" data-cat="zonghe" data-summary="互联网名称与数字地址分配机构（简称ICANN ）多年来首次接受新的顶级域名申请。这些是所有网址末尾的后缀，您可能知道它们是.c之类的" data-title="It appears .agent and .agi are about to be the hot new domains" data-date="10-08 02:46" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-08 02:46</span>
-          <span class="news-item-title">.agent和.agi似乎即将成为热门新域名</span>
-          <span class="news-item-title-en">It appears .agent and .agi are about to be the hot new domains</span>
-          <span class="news-value-point">💡 互联网名称与数字地址分配机构（简称ICANN ）多年来首次接受新的顶级域名申请</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Meta的人工智能代理Muse现在可以在iPad上使用，距离其移动首次亮相仅一个月，因为该公司迅速扩大了助手的覆盖范围和集成。" data-title="Meta’s Muse launches on iPad just a month after its mobile debut" data-date="10-08 02:30" data-source="TechCrunch">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-08 02:30</span>
-          <span class="news-item-title">Meta的Muse在手机首次亮相仅一个月后就登陆iPad</span>
-          <span class="news-item-title-en">Meta’s Muse launches on iPad just a month after its mobile debut</span>
-          <span class="news-value-point">💡 Meta的人工智能代理Muse现在可以在iPad上使用，距离其移动首次亮相仅一个月，因为该公司迅速扩大了助手的覆盖范围和集成</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="随着美国官员要求提供更多数据，有关实验室工作人员死亡的新信息，包括她已接种鼠疫疫苗的声明。" data-title="Russia Says It Found No ‘Emergency’ in Plague Lab" data-date="10-08 02:20" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-08 02:20</span>
-          <span class="news-item-title">俄罗斯表示在瘟疫实验室中没有发现“紧急情况”</span>
-          <span class="news-item-title-en">Russia Says It Found No ‘Emergency’ in Plague Lab</span>
-          <span class="news-value-point">💡 随着美国官员要求提供更多数据，有关实验室工作人员死亡的新信息，包括她已接种鼠疫疫苗的声明</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/314.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，推出 Surface Laptop Ultra 笔记本新品。虽然这场活动是以商务应用、AI 为主，但微软并没有忘记提起游戏。微软 Windows 和设备部门负责人帕万 · 达武鲁里在发布会表示，《使命召唤》系列游戏将于明年登陆 RTX Spark 平台，更多信息将在后续公布。IT之家注意到，微软还在现场提到，《战争机器：事变日》游戏支持 RTX Spark 笔记本。这款游戏在 Spark 平台上拥有各种复杂敌人 AI，并带有华丽游戏场景。英伟达已在此前表示，《EA SPORTS F1 25》《Apex 英雄》《纪元 117：罗马和平》《ARC Raiders》《最终决战》等游戏将适配 RTX Spark。该平台还将原生" data-title="《使命召唤》系列游戏明年登陆 RTX Spark 平台" data-date="10-08 02:10" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/010/568.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 8 日消息，根据此前官方规划，OPPO 今日将正式开启 ColorOS 17 正式版升级计划，OPPO、一加、realme 真我三大品牌首批全覆盖。从官方公布的升级时间表来看，10 月 8 日首批获得推送的机型包括 OPPO Find N6、Find N6 卫星通信版、Find X9 Ultra、Find X9 Ultra 卫星通信版、Find X9s Pro、Find X9 Pro、Find X9 Pro 卫星通信版、Find X9，以及一加 15、一加 15T、真我 GT8 Pro 和真我 GT8 Pro 阿斯顿马丁 F1 限量版。IT之家附 ColorOS 17 正式版升级计划文字版如下：2026 年 10 月10 月 8 日OPPOOPPO Find N6OPPO" data-title="OPPO、一加、真我全覆盖，ColorOS17 正式版升级计划开启" data-date="10-08 15:58" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 02:10</span>
-          <span class="news-item-title">《使命召唤》系列游戏明年登陆 RTX Spark 平台</span>
-          <span class="news-value-point">💡 IT之家 10 月 8 日消息，微软今日召开 Surface 新品发布会，推出 Surface Laptop Ultra 笔记本新品</span>
+          <span class="news-item-date">10-08 15:58</span>
+          <span class="news-item-title">OPPO、一加、真我全覆盖，ColorOS17 正式版升级计划开启</span>
+          <span class="news-value-point">💡 IT之家 10 月 8 日消息，根据此前官方规划，OPPO 今日将正式开启 ColorOS 17 正式版升级计划，OPPO、一加、realme …</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/science/jonathan-giant-tortoise-genome-aging.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="科学家们首次对他的基因组进行了测序，希望这种世界上最古老的陆地动物能够为长寿的遗传学提供线索。" data-title="Jonathan the Giant Tortoise Is 194 Years Old. He Just Had His Genome Sequenced." data-date="10-08 02:00" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709143.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海10月8日电 (陈静 曹乃文)国庆假期(10月1日—7日)收官，上海边检总站方面8日披露，10月1日至7日，上海边检机关累计查验出入境旅客数达80.9万人次，同比增长3.4%，日均近11.6万人次。" data-title="国庆假期80.9万人次旅客从上海口岸出入境" data-date="10-08 15:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:53</span>
+          <span class="news-item-title">国庆假期80.9万人次旅客从上海口岸出入境</span>
+          <span class="news-value-point">💡 中新网上海10月8日电 (陈静 曹乃文)国庆假期(10月1日—7日)收官，上海边检总站方面8日披露，10月1日至7日，上海边检机关累计查验出入境…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709149.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近日，“铸牢共同体 中华一家亲”主题宣传活动走进全国最大羊驼养殖基地——内蒙古锡林郭勒盟苏尼特左旗苏尼羊驼基地。据内蒙古苏尼羊驼牧业科技有限公司总经理迟海涛介绍，基地于2013年建成，从78只羊驼起步，目前存栏基础母驼1500余只。羊驼毛保暖性是普通羊毛的4倍，羊驼肉具有高蛋白、低胆固醇的特点；而羊驼的采食量仅为普通羊的一半，护草生态效益高。下一步将扩大羊驼养殖规模，带动当地牧民一起养，拓宽致富路。(记者 邹硕 实习生 于昕言)" data-title="草原来了“致富神兽” 羊驼护草又增收" data-date="10-08 15:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:53</span>
+          <span class="news-item-title">草原来了“致富神兽” 羊驼护草又增收</span>
+          <span class="news-value-point">💡 近日，“铸牢共同体 中华一家亲”主题宣传活动走进全国最大羊驼养殖基地——内蒙古锡林郭勒盟苏尼特左旗苏尼羊驼基地</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709141.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网银川10月8日电 (记者 杨迪)记者8日从宁夏交通运输厅获悉，2026年国庆假期，宁夏路网运行整体顺畅有序，交通运输安全形势平稳可控，公路、铁路、民航累计总客流量154.48万人次。" data-title="国庆假期宁夏交通总客流量154.48万人次" data-date="10-08 15:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:52</span>
+          <span class="news-item-title">国庆假期宁夏交通总客流量154.48万人次</span>
+          <span class="news-value-point">💡 中新网银川10月8日电 (记者 杨迪)记者8日从宁夏交通运输厅获悉，2026年国庆假期，宁夏路网运行整体顺畅有序，交通运输安全形势平稳可控，公路…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709144.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="原标题：新华社权威快报|新就业形态劳动者权益保障办法公开征求意见" data-title="新就业形态劳动者权益保障办法公开征求意见" data-date="10-08 15:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:50</span>
+          <span class="news-item-title">新就业形态劳动者权益保障办法公开征求意见</span>
+          <span class="news-value-point">💡 原标题：新华社权威快报|新就业形态劳动者权益保障办法公开征求意见</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709134.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这个国庆假期，县域消费市场活力十足。一批传统百货、老旧购物中心焕新亮相，乡镇的商贸中心、农贸市场提质上新，乡村里的新型便利店也变身为新的服务站点。" data-title="商圈焕新、海岛快递当日达 多地县乡居民感受“家门口的便利”" data-date="10-08 15:45" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:45</span>
+          <span class="news-item-title">商圈焕新、海岛快递当日达 多地县乡居民感受“家门口的便利”</span>
+          <span class="news-value-point">💡 这个国庆假期，县域消费市场活力十足</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709131.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="央视网消息：国庆假期，看电影成为不少市民休闲度假的首选。网络平台数据显示，截至目前，2026年国庆档电影票房(含预售)突破10亿元。依托电影惠民促消费活动，各地加码投放电影消费券，叠加多部新片集中上映，假日文化消费活力持续释放。" data-title="“电影+”激活县域文旅消费 假日文化消费活力持续释放" data-date="10-08 15:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:43</span>
+          <span class="news-item-title">“电影+”激活县域文旅消费 假日文化消费活力持续释放</span>
+          <span class="news-value-point">💡 央视网消息：国庆假期，看电影成为不少市民休闲度假的首选</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709128.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="本报记者 金 歆" data-title="民生领域信访问题集中治理：让群众“心头事”变为“放心事”" data-date="10-08 15:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:41</span>
+          <span class="news-item-title">民生领域信访问题集中治理：让群众“心头事”变为“放心事”</span>
+          <span class="news-value-point">💡 本报记者 金 歆</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-08/10709125.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="央视网消息(焦点访谈)：10月7日是国庆假期的最后一天。过去一周，公路铁路车流如织，景区内外人潮涌动。有人奔赴远方，感受别样风情；有人回到家乡，在熟悉的街巷中寻找久违的烟火气；也有人选择留在原地，走进商圈、博物馆、剧院，在家门口完成一场微度假。今年假期的文旅和消费市场呈现出怎样的新变化？各地相关部门又采取了哪些举措让大家出行更顺畅、游玩更舒心、消费更安心？" data-title="焦点访谈｜国庆假期丰富游玩体验 多元场景激发消费活力" data-date="10-08 15:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-08 15:40</span>
+          <span class="news-item-title">焦点访谈｜国庆假期丰富游玩体验 多元场景激发消费活力</span>
+          <span class="news-value-point">💡 央视网消息(焦点访谈)：10月7日是国庆假期的最后一天</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/010/559.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 8 日消息，《生化危机：安魂曲》是卡普空今年初发售的生存恐怖动作冒险游戏。本作 2 月面世至今已经历多个小更新，但卡普空一直没有明确说出 DLC 的开发进度。如今，《生化危机：安魂曲》编剧哈里斯 · 奥金（Haris Orkin）在一场播客节目中表示：“我们在游戏中为史宾瑟设计了新的故事线，你们应该会逐渐对这部分有更多了解，而在《安魂曲》DLC 中，你们将会有更深入的探索。所以是的！我可能不应该说这些，但就是这样。”据IT之家了解，哈里斯 · 奥金这里说的史宾瑟指的是保护伞公司创办人奥斯华 ·E· 史宾瑟。他在《生化危机：安魂曲》中确实扮演了一个角色，但仅通过档案影像展现，他在游戏中忏悔了自身罪恶。截至目前，卡普空暂未就上述言论发表评论，因此我们暂时无法得知这款 DLC" data-title="《生化危机：安魂曲》游戏编剧意外泄露 DLC 内容：保护伞公司创办人史宾瑟将有全新故事" data-date="10-08 15:25" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-08 15:25</span>
+          <span class="news-item-title">《生化危机：安魂曲》游戏编剧意外泄露 DLC 内容：保护伞公司创办人史宾瑟将有全新故事</span>
+          <span class="news-value-point">💡 IT之家 10 月 8 日消息，《生化危机：安魂曲》是卡普空今年初发售的生存恐怖动作冒险游戏</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="杨双子在慕尼克的座谈会遇上翻译连番失误，且传出中国领馆曾要求取消活动之说，但德国主办方对BBC中文予以否认。" data-title="口译与施压：台湾杨双子德国活动卷入政治争议的前前后后" data-date="10-08 13:29" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-08 13:29</span>
+          <span class="news-item-title">口译与施压：台湾杨双子德国活动卷入政治争议的前前后后</span>
+          <span class="news-value-point">💡 杨双子在慕尼克的座谈会遇上翻译连番失误，且传出中国领馆曾要求取消活动之说，但德国主办方对BBC中文予以否认</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cr4g1w328qxqo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="经营代理孕母服务的两夫妻在加州豪宅中被捕，此前有21名儿童被从他们的监护下带走。两人目前拒绝认罪。" data-title="加州一对华裔夫妇被控虐待至少14名代孕子女" data-date="10-08 13:27" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-08 13:27</span>
+          <span class="news-item-title">加州一对华裔夫妇被控虐待至少14名代孕子女</span>
+          <span class="news-value-point">💡 经营代理孕母服务的两夫妻在加州豪宅中被捕，此前有21名儿童被从他们的监护下带走</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/08/world/europe/france-protests-far-left-melenchon.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="极左翼领导人正在为学生们欢呼。政府官员指责他们煽动骚乱以谋取政治利益。" data-title="For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat" data-date="10-08 12:00" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-08 02:00</span>
-          <span class="news-item-title">巨型乌龟乔纳森已经194岁了。他刚刚对他的基因组进行了测序。</span>
-          <span class="news-item-title-en">Jonathan the Giant Tortoise Is 194 Years Old. He Just Had His Genome Sequenced.</span>
-          <span class="news-value-point">💡 科学家们首次对他的基因组进行了测序，希望这种世界上最古老的陆地动物能够为长寿的遗传学提供线索</span>
+          <span class="news-item-date">10-08 12:00</span>
+          <span class="news-item-title">对于法国死灰复燃的极左翼来说，学生抗议是一个开端，也是一个威胁</span>
+          <span class="news-item-title-en">For France’s Resurgent Far Left, Student Protests Are an Opening and a Threat</span>
+          <span class="news-value-point">💡 极左翼领导人正在为学生们欢呼</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在微软向公众发布笔记本电脑之前，它需要对设备进行调整。这一切都发生在该公司位于华盛顿州雷德蒙德园区的一个没有窗户的类似仓库的实验室内，该团队在那里开发Surface设备程序" data-title="How Microsoft built its MacBook Pro competitor" data-date="10-08 02:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-08 02:00</span>
-          <span class="news-item-title">微软如何打造其MacBook Pro竞争对手</span>
-          <span class="news-item-title-en">How Microsoft built its MacBook Pro competitor</span>
-          <span class="news-value-point">💡 在微软向公众发布笔记本电脑之前，它需要对设备进行调整</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/us/politics/trump-iran-retreat.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="一场旨在展示美国实力范围的战争现在却恰恰相反。这是一个意想不到后果的教训。" data-title="From Iran to the U.K., Trump Is Being Forced Into Retreat" data-date="10-08 01:55" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/08/world/europe/france-protests-unrest-students.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="法国活动人士定于周四在法国各地集会，测试全国学生抗议运动的长期性。" data-title="France Braces for a Second Day of Mass Protests in a Week" data-date="10-08 12:00" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-08 01:55</span>
-          <span class="news-item-title">从伊朗到英国，特朗普被迫撤退</span>
-          <span class="news-item-title-en">From Iran to the U.K., Trump Is Being Forced Into Retreat</span>
-          <span class="news-value-point">💡 一场旨在展示美国实力范围的战争现在却恰恰相反</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life" target="_blank" rel="noopener" data-cat="zonghe" data-summary="亚伦·索尔金（ Aaron Sorkin ）的《社会清算》（ The Social Reckoning ）具有相当的电影天赋，但故事中的许多细节与现实生活密切相关。这部电影讲述了Facebook公民诚信产品经理Frances Haugen如何泄露大量财富的故事" data-title="What The Social Reckoning gets right" data-date="10-08 01:53" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-08 01:53</span>
-          <span class="news-item-title">社会清算的正确之处</span>
-          <span class="news-item-title-en">What The Social Reckoning gets right</span>
-          <span class="news-value-point">💡 亚伦·索尔金（ Aaron Sorkin ）的《社会清算》（ The Social Reckoning ）具有相当的电影天赋，但故事中的许多细节…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/3d-printing/best-amazon-prime-day-3d-printer-deals-2026-save-on-bambu-lab-prusa-creality-elegoo-and-more" target="_blank" rel="noopener" data-cat="zonghe" data-summary="我们已经把目光投向了亚马逊的Prime Day销售，一些最好的3D打印机的特价商品非常火爆！" data-title="Best Amazon Prime Day 3D printer deals 2026" data-date="10-08 01:50" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-08 01:50</span>
-          <span class="news-item-title">2026年亚马逊Prime Day 3D打印机最佳优惠</span>
-          <span class="news-item-title-en">Best Amazon Prime Day 3D printer deals 2026</span>
-          <span class="news-value-point">💡 我们已经把目光投向了亚马逊的Prime Day销售，一些最好的3D打印机的特价商品非常火爆</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/07/style/chris-gallant-campaign-photos.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="但黑鹰飞行员和民主党人克里斯·加兰特（ Chris Gallant ）正在代表长岛参加国会，他正在充分利用后小报揭露的生活。" data-title="Bondage Photos Weren’t Part of the Campaign Plan" data-date="10-08 01:21" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-08 01:21</span>
-          <span class="news-item-title">束缚照片不属于活动计划的一部分</span>
-          <span class="news-item-title-en">Bondage Photos Weren’t Part of the Campaign Plan</span>
-          <span class="news-value-point">💡 但黑鹰飞行员和民主党人克里斯·加兰特（ Chris Gallant ）正在代表长岛参加国会，他正在充分利用后小报揭露的生活</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/3d-printing/essential-3d-printer-maintenance-tool-deals-save-up-to-30-percent-on-precision-tools-lights-snips-and-more" target="_blank" rel="noopener" data-cat="zonghe" data-summary="3D打印机始终需要一些维护，使用这些出色的工具，您将整天打印出色的打印效果。" data-title="30% discounts on essential 3D printer maintenance tools" data-date="10-08 01:14" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-08 01:14</span>
-          <span class="news-item-title">必不可少的3D打印机维护工具享受30%的折扣</span>
-          <span class="news-item-title-en">30% discounts on essential 3D printer maintenance tools</span>
-          <span class="news-value-point">💡 3D打印机始终需要一些维护，使用这些出色的工具，您将整天打印出色的打印效果</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/monitors/gaming-monitors/here-are-the-best-oled-gaming-monitor-deals-you-can-snag-for-amazon-big-deal-days-2026-beautiful-monitors-up-to-39-percent-off" target="_blank" rel="noopener" data-cat="zonghe" data-summary="OLED游戏显示器现在很热门， Prime Big Deal Days是进入市场的绝佳时机。" data-title="Here are the best OLED gaming monitor deals you can snag for Amazon Big Deal Days 2026" data-date="10-08 00:40" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-08 00:40</span>
-          <span class="news-item-title">以下是您可以在2026年亚马逊大型交易日获得的最佳OLED游戏显示器优惠</span>
-          <span class="news-item-title-en">Here are the best OLED gaming monitor deals you can snag for Amazon Big Deal Days 2026</span>
-          <span class="news-value-point">💡 OLED游戏显示器现在很热门， Prime Big Deal Days是进入市场的绝佳时机</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/software/linux/new-linux-tech-compresses-memory-in-ram-as-ram-for-452x-speedup-new-cram-method-offers-giant-boost-to-compressed-memory-reads" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新方法允许使用标准内存语义而不是作为块设备进行访问，从而大大提高了性能。" data-title="New Linux tech compresses memory in RAM, as RAM, for 452x speedup" data-date="10-08 00:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-08 00:20</span>
-          <span class="news-item-title">新的Linux技术将RAM中的内存压缩为RAM ，以实现452倍的加速</span>
-          <span class="news-item-title-en">New Linux tech compresses memory in RAM, as RAM, for 452x speedup</span>
-          <span class="news-value-point">💡 新方法允许使用标准内存语义而不是作为块设备进行访问，从而大大提高了性能</span>
+          <span class="news-item-date">10-08 12:00</span>
+          <span class="news-item-title">法国迎来一周内第二天的大规模抗议活动</span>
+          <span class="news-item-title-en">France Braces for a Second Day of Mass Protests in a Week</span>
+          <span class="news-value-point">💡 法国活动人士定于周四在法国各地集会，测试全国学生抗议运动的长期性</span>
         </a>
   </div>
 </div>
@@ -639,4 +613,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-08 02:59（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-08 16:05（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
