@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-09 16:05（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-09 22:30（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -117,10 +117,10 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">4,189.96</span>
-      <span class="ticker-change up">▲ +2.86%</span>
+      <span class="ticker-price ticker-up">4,197.84</span>
+      <span class="ticker-change up">▲ +3.06%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg9915" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L23.2,11.5 L42.4,13.2 L61.6,18.4 L80.8,17.9 L100.0,28.6 L119.2,25.7 L138.4,21.4 L157.6,24.5 L176.8,38.0 L196.0,25.0 L196,40 Z" fill="url(#sg9915)"/><polyline points="4.0,6.0 23.2,11.5 42.4,13.2 61.6,18.4 80.8,17.9 100.0,28.6 119.2,25.7 138.4,21.4 157.6,24.5 176.8,38.0 196.0,25.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="25.0" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg25634" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,8.1 L46.7,14.3 L68.0,13.8 L89.3,26.6 L110.7,23.2 L132.0,17.9 L153.3,21.7 L174.7,38.0 L196.0,21.3 L196,40 Z" fill="url(#sg25634)"/><polyline points="4.0,6.0 25.3,8.1 46.7,14.3 68.0,13.8 89.3,26.6 110.7,23.2 132.0,17.9 153.3,21.7 174.7,38.0 196.0,21.3" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="21.3" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,725.81</span>
-      <span class="ticker-change down">▼ -1.39%</span>
+      <span class="ticker-price ticker-up">30,843.75</span>
+      <span class="ticker-change up">▲ +0.38%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-09 09:48:16</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-09 22:32:07</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6945</span>
+      <span class="ticker-price ticker-down">6.6931</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg99345" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.5 L46.7,22.7 L68.0,22.0 L89.3,16.8 L110.7,24.8 L132.0,27.8 L153.3,30.4 L174.7,28.9 L196.0,38.0 L196,40 Z" fill="url(#sg99345)"/><polyline points="4.0,6.0 25.3,17.5 46.7,22.7 68.0,22.0 89.3,16.8 110.7,24.8 132.0,27.8 153.3,30.4 174.7,28.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg17756" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,16.9 L46.7,21.9 L68.0,21.2 L89.3,16.3 L110.7,23.9 L132.0,26.8 L153.3,29.2 L174.7,27.8 L196.0,38.0 L196,40 Z" fill="url(#sg17756)"/><polyline points="4.0,6.0 25.3,16.9 46.7,21.9 68.0,21.2 89.3,16.3 110.7,23.9 132.0,26.8 153.3,29.2 174.7,27.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:06:27</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:32:04</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,195.68 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +62.22 (+1.51%)</span>
+      <span class="ticker-price ticker-up">$4,183.11 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +49.65 (+1.20%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:06:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:31:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -181,15 +181,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥904.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +12.45 (+1.40%)</span>
+      <span class="ticker-price ticker-down">¥903.09 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.11 (-0.12%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 15:30:05</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:32:14</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -197,10 +197,10 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">24,144.47</span>
-      <span class="ticker-change up">▲ +1.51%</span>
+      <span class="ticker-price ticker-up">24,211.35</span>
+      <span class="ticker-change up">▲ +1.79%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg68859" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L23.2,14.2 L42.4,9.9 L61.6,13.8 L80.8,10.9 L100.0,31.9 L119.2,29.6 L138.4,21.8 L157.6,26.7 L176.8,38.0 L196.0,26.2 L196,40 Z" fill="url(#sg68859)"/><polyline points="4.0,6.0 23.2,14.2 42.4,9.9 61.6,13.8 80.8,10.9 100.0,31.9 119.2,29.6 138.4,21.8 157.6,26.7 176.8,38.0 196.0,26.2" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="26.2" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg64872" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,10.9 L25.3,6.0 L46.7,10.4 L68.0,7.1 L89.3,31.0 L110.7,28.5 L132.0,19.5 L153.3,25.1 L174.7,38.0 L196.0,22.1 L196,40 Z" fill="url(#sg64872)"/><polyline points="4.0,10.9 25.3,6.0 46.7,10.4 68.0,7.1 89.3,31.0 110.7,28.5 132.0,19.5 153.3,25.1 174.7,38.0 196.0,22.1" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="22.1" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$103.16 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.12 (-1.08%)</span>
+      <span class="ticker-price ticker-down">$104.19 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.09 (-0.08%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:06:45</div>
+    <div class="ticker-quote-time">🕒 行情时间 22:32:21</div>
   </div>
 </div>
 
@@ -369,6 +369,72 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-09/10709950.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网吉隆坡10月9日电 (记者 刘育英)马来西亚总理兼财政部长安瓦尔9日在国会提呈2027年财政预算案，计划自2027年1月1日起优化全球服务枢纽企业所得税优惠机制，以吸引跨国企业扩大在马业务。" data-title="马来西亚拟优化全球服务枢纽税收优惠 企业所得税率低至5%" data-date="10-09 22:20" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-09 22:20</span>
+          <span class="news-item-title">马来西亚拟优化全球服务枢纽税收优惠 企业所得税率低至5%</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-09/10709945.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网曼谷10月9日电(记者 李映民)夜幕降临，泰国东北部黎逸府汶帕兰猜湖畔灯光次第亮起，投影、激光、雾效、LED影像与音乐交织，将当地信仰、传说和伊桑文化转化为一场沉浸式光影体验。9日晚，“黎逸光影艺术节”在这里开幕。" data-title="泰国以光影科技激活东北文化资源推动夜间旅游和地方经济" data-date="10-09 22:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-09 22:14</span>
+          <span class="news-item-title">泰国以光影科技激活东北文化资源推动夜间旅游和地方经济</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709929.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在北京会见欧盟委员会贸易和经济安全委员谢夫乔维奇，双方就中欧经贸关系交换了意见。" data-title="何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇" data-date="10-09 22:03" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-09 22:03</span>
+          <span class="news-item-title">何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/" target="_blank" rel="noopener" data-cat="caijing" data-summary="距离TechCrunch Disrupt 2026开始还有四天，届时10,000名创始人、投资者和科技领袖将于10月13日至15日在旧金山的Moscone West聚集一堂。您的价格最高可节省$ 100。此外，第二次使用相同类型的通行证可节省50%。" data-title="TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise" data-date="10-09 22:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-09 22:00</span>
+          <span class="news-item-title">TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-09/10709906.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月9日电 第十二届北京国际老龄产业博览会9日在国家会议中心二期启幕，将持续至10月11日。展会创新采用“展+会+赛+节”四位一体立体化办展模式，展览面积近3万平方米，汇聚参展企业400余家，打造北方地区高水平银发产业交流合作平台与民生服务窗口。" data-title="北京国际老龄产业博览会开幕 中外展团展示老龄产业全链条" data-date="10-09 21:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-09 21:52</span>
+          <span class="news-item-title">北京国际老龄产业博览会开幕 中外展团展示老龄产业全链条</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/011/141.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 9 日消息，据“大厂青年”公众号，百度职业道德委员会于 10 月 9 日向内部全员下发 2026 年 Q3 违法违纪案件通报，邮件一次性公布了 41 起违纪案件的处理结果。据通报显示，本次共追责 41 名相关人员，违纪问题集中在两类：一是利用职务便利谋取不当经济利益，二是弄虚作假、侵占公司费用。其中多名涉案人员已被相关部门依法处理，其余人员分别被辞退、退回外包公司或给予内部处罚。本次追责覆盖正式员工、外包人员、实习生等多个群体。IT之家援引邮件原文如下（部分）：百度职业道德违法违纪处理情况通告现向大家通报 2026 年 Q3 公司员工违法违纪案件。以下被通报人员严重违反了公司规章制度，对这些背离和践踏百度风清气正文化价值观、违反职业道德规范的人员，公司秉承严肃态度予以辞退" data-title="百度 Q3 反腐通报 41 人被处理，覆盖正式员工、外包人员、实习生等群体" data-date="10-09 21:49" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-09 21:49</span>
+          <span class="news-item-title">百度 Q3 反腐通报 41 人被处理，覆盖正式员工、外包人员、实习生等群体</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709900.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网昆明10月9日电 (罗婕 贝文)9日，“云南工会推进工会工作法治化 依法维护职工群众合法权益”新闻发布会在昆明市举办，会上发布，三年来，全省工会累计办理法律援助和劳动争议案件1.5万余件，“12351”服务职工热线服务职工47万人次，合计为职工挽回直接经济损失超过1.6亿元。" data-title="云南推进工会工作法治化 三年为职工挽回直接经济损失超1.6亿元" data-date="10-09 21:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-09 21:49</span>
+          <span class="news-item-title">云南推进工会工作法治化 三年为职工挽回直接经济损失超1.6亿元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/011/135.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 9 日消息，2026 年 10 月 8-9 日，中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什 · 谢夫乔维奇在北京举行中欧贸易投资磋商机制（以下简称机制）第二次例会。商务部今日发布了中欧贸易投资磋商机制第二次例会联合声明。成果共识清单中包括，双方将继续探讨在世贸组织规则框架下降低部分商品关税的可能性。经密集磋商，中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解。双方忆及电动汽车反补贴案价格承诺指导文件，并将继续电动汽车反补贴案企业价格承诺和复审相关程序。双方赞同提升全球产业链供应链可预期性与稳定性的重要性。中方愿通过“绿色通道”机制，为稀土及永磁体对欧出口许可审批继续提供便利。欧方将继续与成员国一道，为解决两用领域对华重点许可个案提供便利。IT之家从中欧" data-title="商务部：中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解" data-date="10-09 21:48" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-09 21:48</span>
+          <span class="news-item-title">商务部：中欧双方以符合世贸组织规则的方式就混动汽车贸易达成谅解</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/011/132.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 9 日消息，当地时间 10 月 9 日，吉利汽车集团旗下全球主流品牌吉利汽车（Geely Auto）宣布正式进入加拿大市场。目前，吉利汽车已在当地启动运营，并全面推进零售与服务网络建设，为 2027 年向加拿大消费者推出首批车型做准备。IT之家注意到，2026 年 1-9 月，吉利汽车累计销量突破 223.5 万辆，创同期历史新高，其中 1-9 月海外出口累计销量超 79.7 万辆，同比增长 169%；9 月海外出口销量超 10.6 万辆，同比增长 162%，已连续 4 个月月销超 10 万辆，同时 9 月新能源海外出口销量超 7.3 万辆，同比增长 403%。吉利汽车集团表示，进入加拿大，是吉利汽车国际化进程中重要的一步，将围绕加拿大驾驶者的真实需求打造专属体验。目前，" data-title="吉利汽车集团旗下吉利品牌宣布正式进入加拿大市场，已在当地全面推进零售与服务网络建设" data-date="10-09 21:38" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-09 21:38</span>
+          <span class="news-item-title">吉利汽车集团旗下吉利品牌宣布正式进入加拿大市场，已在当地全面推进零售与服务网络建设</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709919.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京10月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在京会见欧盟委员会贸易和经济安全委员谢夫乔维奇，双方就中欧经贸关系交换了意见。" data-title="何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇" data-date="10-09 21:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-09 21:29</span>
+          <span class="news-item-title">何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709904.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月9日电 据重庆市纪委监委消息：经重庆市委批准，重庆市纪委监委对重庆商业投资集团有限公司原党委书记、董事长范光明严重违纪违法问题进行了立案审查调查。" data-title="重庆商业投资集团有限公司原董事长范光明被开除党籍" data-date="10-09 21:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-09 21:05</span>
+          <span class="news-item-title">重庆商业投资集团有限公司原董事长范光明被开除党籍</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/011/016.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 9 日消息，Omdia 英国当地时间今日报告称，全球 PC 出货量在 2026 年第 3 季度降至 5,810 万台，同比下滑 21.2%。其中桌面端出货 1,170 万台，下滑 23.5%；移动端出货 4,640 万台，下滑 20.6%。该机构同时进行了预测：PC 市场在 2026Q4 将同比萎缩 24%，2027 年还将进一步下降 7%。▲ 图源：OmdiaOmdia 研究总监 Ishan Dutt 提到，头部 OEM 企业预计 2026H1 销量出现两位数收缩，零售商报告销售均价出现两位数上涨；首席分析师 Ben Yeh 指出，存储器 (DRAM + NAND) 在 PC 物料成本中的占比已从正常时期的约 15% 上升至近 40%。PC 供应商及其 ODM 合作伙伴" data-title="Omdia 数据：全球 PC 出货量 2026Q3 下滑 21%，存储器已占物料成本近四成" data-date="10-09 16:04" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -393,72 +459,6 @@ title: 股票财经
           <span class="news-item-date">10-09 15:31</span>
           <span class="news-item-title">国际锐评丨透过国庆“黄金周”，世界看到怎样的中国？</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-09/10709497.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月9日电 据英国广播公司(BBC)报道，英镑纸币将迎来自然主题的全新设计，英国央行英格兰银行公布了将出现在英镑纸币上的四种动物图案。" data-title="英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代" data-date="10-09 11:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 11:43</span>
-          <span class="news-item-title">英镑纸币将迎“新面孔”，丘吉尔等历史人物将被取代</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/502114.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="江淮再度跌停" data-title="尊界深夜回应“刹车踏板断裂”，懂车帝再发声" data-date="10-09 10:51" data-source="量子位">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-09 10:51</span>
-          <span class="news-item-title">尊界深夜回应“刹车踏板断裂”，懂车帝再发声</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson" target="_blank" rel="noopener" data-cat="caijing" data-summary="如果Elon Musk和SpaceXAI打算支持任何Linux发行版，那么很明显他们会支持Omarchy。今天宣布SpaceXAI将加入监督Omarchy的Omacom基金会，成为创始企业赞助人，并捐赠$ 1.5" data-title="SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute" data-date="10-09 01:57" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-09 01:57</span>
-          <span class="news-item-title">SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/08/world/europe/trump-russia-oil-deal-lukoil-middle-east-investors.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="拟议中的数十亿美元交易的大部分所有权将流向一群中东投资者，其中包括一些与美国谈判代表有业务联系的投资者。" data-title="In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners" data-date="10-09 00:28" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-09 00:28</span>
-          <span class="news-item-title">In Trump’s Russian Oil Deal, Middle East Funds Are the Biggest Owners</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709420.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷10月8日电 (王茜 李映民)泰国商会大学8日公布的调查显示，泰国9月消费者信心指数从8月的53.2降至52.1，为连续4个月上升后首次下降。" data-title="泰国9月消费者信心下降 为4个月来首次下降" data-date="10-08 23:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 23:58</span>
-          <span class="news-item-title">泰国9月消费者信心下降 为4个月来首次下降</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/740.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 8 日消息，深开鸿官方今日发布喜报，宣布开鸿开发服务平台开发者注册量突破 20 万（统计数据截止：2026 年 10 月 8 日）。据IT之家此前报道，今年 8 月，深圳开鸿数字产业发展有限公司 CEO 王成录宣布：深开鸿贡献 OpenHarmony 主干代码达 1000 万行！这是一个值得纪念的里程碑！四年来，深开鸿在开源社区里每敲下一行代码，都是对“技术立命”的践行，对“生态共建”的承诺，是深开鸿在开源社区交出的答卷，更是献给开源鸿蒙生态的一份厚礼！从 0 到 1000 万，这不仅是量的积累，更是我们聚焦操作系统核心技术、深耕基础软件四年的决心印证！目前，WPS、微信、QQ 也已正式登陆 KaihongOS 桌面版（x86）。据深开鸿官方介绍，此次版本通过深开鸿自研技" data-title="又一里程碑时刻：深开鸿宣布开鸿开发者注册量突破 20 万" data-date="10-08 23:44" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 23:44</span>
-          <span class="news-item-title">又一里程碑时刻：深开鸿宣布开鸿开发者注册量突破 20 万</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709418.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦10月8日电 (记者 欧阳开宇)当地时间10月8日，英国政府发布公告，推出新一轮对俄罗斯制裁措施，聚焦能源贸易、跨境金融及军工供应链等领域。" data-title="英国出台对俄新一轮制裁" data-date="10-08 23:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 23:42</span>
-          <span class="news-item-title">英国出台对俄新一轮制裁</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709416.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社柏林10月8日电 （记者 马秀秀）德国联邦政府8日发布秋季经济预测，预计2026年德国经济增长1.3%，较今年4月春季预测的增长0.5%大幅上调。" data-title="德国政府上调2026年经济增长预期" data-date="10-08 23:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 23:41</span>
-          <span class="news-item-title">德国政府上调2026年经济增长预期</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/010/739.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 8 日消息，微软今天在美国和加拿大官方商城推出一项限时优惠，消费者购买 Surface Laptop Ultra 时，如果选择将手上的苹果 MacBook Pro 置换掉，那么将获得最高 1,000 美元（IT之家注：现汇率约合 6,712 元人民币）补贴。IT之家了解到，微软已在美国和加拿大官方商城的 Surface Laptop Ultra 商店页打出“告别你的 MacBook，最高可获 1,000 美元”宣传语，吸引消费者换机。如果用户真的选择以旧换新，那么除了正常的折抵金额外，还会额外获得最高 1,000 美元补贴。微软表示，这笔优惠可与原本的以旧换新折扣相叠加，相关服务由合作伙伴 Teladvance 负责。因此回收 MacBook Pro 能够获得多少补贴，用" data-title="微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra" data-date="10-08 23:36" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-08 23:36</span>
-          <span class="news-item-title">微软拿出最高 1000 美元置换补贴，吸引苹果 MacBook Pro 用户跳槽 Surface Laptop Ultra</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-08/10709404.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社台北10月8日电 台当局财政事务主管部门8日发布的海关进出口贸易初步统计显示，9月台湾对大陆(含香港)出口206.2亿美元，同比增长30.2%；自大陆(含香港)进口135亿美元，同比增长59.1%。" data-title="台湾9月对大陆进出口同比双增" data-date="10-08 22:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 22:49</span>
-          <span class="news-item-title">台湾9月对大陆进出口同比双增</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-08/10709407.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月8日，世界贸易组织发布最新《全球贸易展望与统计》报告，将2026年全球货物贸易增长预期从今年3月预测的1.9%上调至3.9%，预计2027年增长4.1%。报告显示，2026年上半年，尽管受到中东冲突的影响，全球货物贸易仍增长3.5%，超出预期，反映出供应链有能力应对中东战事对能源、化肥和运输市场造成的冲击。" data-title="世贸组织上调2026年全球货物贸易增长预期" data-date="10-08 22:38" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-08 22:38</span>
-          <span class="news-item-title">世贸组织上调2026年全球货物贸易增长预期</span>
-        </a>
   </div>
 </div>
 
@@ -472,4 +472,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-09 16:05（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-09 22:30（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
