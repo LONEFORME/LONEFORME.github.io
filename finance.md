@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-10 21:55（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-11 01:24（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -367,97 +367,19 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">2 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/011/514.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，吉利银河官方今天宣布，银河战舰 700 汽车全球上市。新车是吉利首款 AI 全地形硬核 SUV，基于 GTA 原生新能源越野架构打造，限时焕新价 16.98 万元起。吉利汽车集团销售总公司常务副总经理范峻毅刚刚宣布，银河战舰 700 上市 12 分钟定单突破 1 万台。参考IT之家今日早些时候报道，银河战舰 700 于杭州正式全球上市，推出三种动力、六大版型，全系标配 GTA 原生硬派架构、EM-T 超级电混系统、47 度大电池、峰值 6C 智充、宁德时代电芯等近 200 项核心配置。" data-title="吉利银河战舰 700 上市 12 分钟定单突破 1 万台，新车限时焕新价 16.98 万元起" data-date="10-10 21:46" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-10 21:46</span>
-          <span class="news-item-title">吉利银河战舰 700 上市 12 分钟定单突破 1 万台，新车限时焕新价 16.98 万元起</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-10/10710806.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月10日电 (记者 陈杭 徐婧)养老机器人提供健康监测、外骨骼机器人助力行走、理疗机器人可按摩……正在举行的第十二届北京国际老龄产业博览会上，多家企业携机器人集中亮相，勾勒出科技赋能“银发生活”的新图景。" data-title="从陪伴到助行 养老机器人守护“银发生活”" data-date="10-10 21:31" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-10/10710786.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月10日电 中共中央政治局委员、中央外办主任王毅10日在大同与法国总统外事顾问博纳举行第二十八次中法战略对话，就深化中法战略合作长时间深入沟通，达成广泛共识。双方还肯定了中欧贸易投资磋商机制取得的积极成果。" data-title="中法举行战略对话" data-date="10-10 22:09" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-10 21:31</span>
-          <span class="news-item-title">从陪伴到助行 养老机器人守护“银发生活”</span>
+          <span class="news-item-date">10-10 22:09</span>
+          <span class="news-item-title">中法举行战略对话</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/011/510.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，据红星资本局报道，长安汽车 9 日收到中汽中心（中国汽车技术研究中心有限公司）发出的关于制动踏板总成材质的调研问卷，着重关注非金属材质在踏板总成的应用。公开信息显示，中汽中心是国务院国资委直属央企，受工信部委托开展汽车标准法规研究、智能制造推进、新能源汽车技术推广等工作。报道提到，业内认为，此次调研可能是受到“尊界 V800 刹车踏板支架断裂”事件的影响，或将推动相关标准修订，调查问卷就是准备工作。“大概率会推动修订行业标准，如《汽车踏板装置性能要求及台架试验方法》（QC/T 788-2018）。”业内人士认为，两项国标对制动踏板及其支架没有给出量化的载荷门槛、材料限制或测试方法，也没有具体的设计要求，只规定需为“不易失效的零部件”，材料应用金属材料或与金属" data-title="长安汽车确认收到中汽中心“制动踏板总成材质”调研问卷，业内认为或将推动相关标准修订" data-date="10-10 21:21" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-10 21:21</span>
-          <span class="news-item-title">长安汽车确认收到中汽中心“制动踏板总成材质”调研问卷，业内认为或将推动相关标准修订</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/011/509.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，吉利银河官方今天宣布，银河战舰 700 汽车全球上市。新车是吉利首款 AI 全地形硬核 SUV，基于 GTA 原生新能源越野架构打造，限时焕新价 16.98 万元起。305km 1.5T 两驱探索版：上市指导价 18.98 万元、先享指导价 17.98 万元、限时焕新价 16.98 万元；305km 1.5T 两驱探索+ 版：上市指导价 19.98 万元、先享指导价 18.98 万元、限时焕新价 17.98 万元；280km 1.5T 三电机四驱驭峰版：上市指导价 21.98 万元、先享指导价 20.98 万元、限时焕新价 19.98 万元；280km 1.5T 三电机四驱驭峰+ 版：上市指导价 22.98 万元、先享指导价 21.98 万元、限时焕新价 2" data-title="吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起" data-date="10-10 21:04" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-10 21:04</span>
-          <span class="news-item-title">吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/011/393.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，据小鹏汽车官微，2026 巴黎车展即将开幕，本届车展将举办“智驾实验室”公开体验活动，车展观众及媒体可申请参与，本次活动仅有小鹏与特斯拉两家企业参与，这也是小鹏 NGP 在欧洲的首次大规模公开体验。当地时间 10 月 12 日（下周一），欧洲规模最大的汽车展会 —— 巴黎车展即将正式开幕。本届巴黎车展共有 100 家参展商设立展位，其中约 60 家为汽车制造商，中国汽车品牌达到创纪录的 20 家，占整整三分之一。小鹏集团副总裁 @托马斯电火车 进一步透露，有欧洲媒体表示，此次智能辅助驾驶体验仅有来自中国和美国的两家车企参与，欧洲品牌却集体缺席这一重要展会，这一现象值得欧洲车企反思：在下一代汽车技术竞争中，欧洲是否已经被拉开差距。@托马斯电火车 曾在本月 6" data-title="2026 巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与" data-date="10-10 15:33" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-10 15:33</span>
-          <span class="news-item-title">2026 巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-10/10710122.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月9日，《中共中央#8195;国务院关于发展新质生产力的意见》公开发布。意见阐明了中国发展新质生产力的总体要求和重点任务，对加强组织实施作出安排。" data-title="习近平经济思想引领中国加快发展新质生产力" data-date="10-10 12:57" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-10/10710835.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月10日电 (记者 徐婧)经北京市人民政府批准，《北京市“十五五”时期知识产权发展规划》(简称《规划》)近日正式印发。《规划》明确，到2030年，北京打造知识产权支撑新质生产力创新发展集聚源、知识产权赋能重点产业强链增效引领区、知识产权纠纷高效解决优选地、知识产权高端服务资源枢纽港、知识产权国际合作交往展示窗。" data-title="北京着力建设知识产权强国示范城市" data-date="10-10 22:06" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-10 12:57</span>
-          <span class="news-item-title">习近平经济思想引领中国加快发展新质生产力</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-10/10710083.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社华盛顿10月9日电(记者 陈孟统)俄罗斯总统普京9日与美国总统特朗普举行通话。双方就俄向美国及全球市场提供柴油达成一致。" data-title="俄美就柴油贸易达成一致 美放松相关对俄制裁" data-date="10-10 12:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-10 12:20</span>
-          <span class="news-item-title">俄美就柴油贸易达成一致 美放松相关对俄制裁</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-10/10710112.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网宜宾10月10日电 题：从江边老厂到新能源产线：“长江首城”宜宾工业之变" data-title="（长江十年行）从江边老厂到新能源产线：“长江首城”宜宾工业之变" data-date="10-10 11:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-10 11:55</span>
-          <span class="news-item-title">（长江十年行）从江边老厂到新能源产线：“长江首城”宜宾工业之变</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-10/10710096.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月10日电 10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。人力资源社会保障部新闻发言人、副部长李忠表示，“十五五”时期，将加大投资于人力度，加快建设高素质技术技能人才队伍。力争“十五五”时期，开展补贴性职业技能培训5000万人次，新增取得技能证书4000万人次、其中取得高级工以上技能证书1400万人次。同时，深入实施专业技术人才知识更新工程，每年培养培训100万名高层次、急需紧缺和骨干专业技术人才。" data-title="“十五五”时期，每年将培养培训100万名高层次、急需紧缺技术人才" data-date="10-10 11:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-10 11:30</span>
-          <span class="news-item-title">“十五五”时期，每年将培养培训100万名高层次、急需紧缺技术人才</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="2014年欺诈调查中泄露的证词提供了对参议院候选人的投资和他为自己辩护的策略的见解。" data-title="Paxton Said in Deposition That Donor Gave Him Stocks to Please God" data-date="10-10 05:25" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-10 05:25</span>
-          <span class="news-item-title">Paxton Said in Deposition That Donor Gave Him Stocks to Please God</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111070" target="_blank" rel="noopener" data-cat="caijing" data-summary="欧盟贸易专员谢夫乔维奇周五在新闻发布会上表示，中国接受了欧盟的一项核心要求，证明了对话可以带来成果。" data-title="中国同意限制混合动力汽车出口，避免中欧全面贸易冲突" data-date="10-10 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-10 00:00</span>
-          <span class="news-item-title">中国同意限制混合动力汽车出口，避免中欧全面贸易冲突</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111064" target="_blank" rel="noopener" data-cat="caijing" data-summary="在美国最高法院裁定库克可以留任后，美国总统成立一个委员会来调查有关库克“在一项或多项抵押贷款相关文件中作出虚假陈述”的指控。" data-title="特朗普成立委员会调查美联储理事库克" data-date="10-10 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-10 00:00</span>
-          <span class="news-item-title">特朗普成立委员会调查美联储理事库克</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111062" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国商务部在声明中表示，经过密集磋商，中欧双方以符合世贸组织规则的方式，就混合动力汽车贸易达成谅解。" data-title="中国与欧盟就控制中国混合动力汽车对欧出口达成谅解" data-date="10-10 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-10 00:00</span>
-          <span class="news-item-title">中国与欧盟就控制中国混合动力汽车对欧出口达成谅解</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/011/153.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 9 日消息，据央视新闻今日报道，爱达邮轮在港正式发布第二艘国产大型邮轮“爱达 · 花城号”的航线及产品布局，“爱达 · 花城号”将于明年正式以香港为母港，这艘邮轮将于今年 11 月启航并造访香港。据介绍，“爱达 · 花城号”将于 2027 年全面展开香港母港航季，预计营运近 20 个邮轮航次。航线设计灵活多元，增设 3 个海上游航次，为本地旅客提供“邮轮即是目的地”的海上体验。爱达邮轮表示，香港兼具国际化区位优势、成熟的邮轮母港条件和多元客源基础是爱达邮轮深耕大湾区、连接国际的重要支点。此次“爱达 · 花城号”在香港开启母港航季，是完善广州、深圳、香港三港协同，持续深化大湾区布局的重要一步。爱达邮轮将持续增加在香港的运力投放，全力支持香港巩固亚洲国际邮轮枢纽的地位。作为首" data-title="第二艘国产大邮轮“爱达 · 花城号”明年将以香港作为母港营运" data-date="10-09 23:26" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-09 23:26</span>
-          <span class="news-item-title">第二艘国产大邮轮“爱达 · 花城号”明年将以香港作为母港营运</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/011/152.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 9 日消息，据央视新闻报道，10 月 9 日，第 77 届国际宇航大会在土耳其闭幕。闭幕式上，国际宇航联合会为中国科学院院士、中国科学院空天信息创新研究院研究员郭华东颁发 2026 年度国际宇航联合会“名人堂”奖，以表彰其毕生深耕宇航领域并作出卓越贡献。郭华东院士此次获奖的一项重要成果，是主持研发了全球首颗可持续发展科学卫星 1 号（SDGSAT-1）。该卫星通过“光-热-谱”多载荷昼夜协同探测，实现对“人类活动痕迹”的精细刻画，为可持续发展目标系统性监测提供新途径。目前，该卫星数据实现全球开放共享，惠及 121 个联合国会员国，开创了中国卫星数据全球服务新模式。国际宇航联合会“名人堂”奖旨在表彰为全球航天事业进步做出开创性、终身性贡献的顶尖学者，是全球航天领域公认的权威" data-title="中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号" data-date="10-09 23:18" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-09 23:18</span>
-          <span class="news-item-title">中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号</span>
+          <span class="news-item-date">10-10 22:06</span>
+          <span class="news-item-title">北京着力建设知识产权强国示范城市</span>
         </a>
   </div>
 </div>
@@ -472,4 +394,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-10 21:55（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-11 01:24（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
