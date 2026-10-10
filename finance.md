@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-10 02:26（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-10 15:49（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">30,894.22</span>
-      <span class="ticker-change up">▲ +0.55%</span>
+      <span class="ticker-price ticker-up">30,883.15</span>
+      <span class="ticker-change up">▲ +0.51%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-10 02:27:20</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-10 05:30:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6932</span>
+      <span class="ticker-price ticker-down">6.6927</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg79693" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.0 L46.7,21.9 L68.0,21.3 L89.3,16.3 L110.7,24.0 L132.0,26.8 L153.3,29.3 L174.7,27.9 L196.0,38.0 L196,40 Z" fill="url(#sg79693)"/><polyline points="4.0,6.0 25.3,17.0 46.7,21.9 68.0,21.3 89.3,16.3 110.7,24.0 132.0,26.8 153.3,29.3 174.7,27.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg72291" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.9 L25.3,14.1 L46.7,13.2 L68.0,6.0 L89.3,17.1 L110.7,21.1 L132.0,24.7 L153.3,22.7 L174.7,21.3 L196.0,38.0 L196,40 Z" fill="url(#sg72291)"/><polyline points="4.0,6.9 25.3,14.1 46.7,13.2 68.0,6.0 89.3,17.1 110.7,21.1 132.0,24.7 153.3,22.7 174.7,21.3 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 02:27:14</div>
+    <div class="ticker-quote-time">🕒 行情时间 04:59:59</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,195.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +62.29 (+1.51%)</span>
+      <span class="ticker-price ticker-up">$4,194.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +60.93 (+1.47%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 02:27:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 04:55:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -181,15 +181,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥906.16 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +1.96 (+0.22%)</span>
+      <span class="ticker-price ticker-up">¥905.54 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +1.34 (+0.15%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 02:27:14</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:30:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$104.62 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.34 (+0.32%)</span>
+      <span class="ticker-price ticker-up">$104.59 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.31 (+0.30%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 02:27:34</div>
+    <div class="ticker-quote-time">🕒 行情时间 05:59:59</div>
   </div>
 </div>
 
@@ -302,7 +302,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+33.5 亿</span>
+      <span class="sector-flow-badge">+37.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -315,7 +315,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+29.9 亿</span>
+      <span class="sector-flow-badge">+32.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -328,7 +328,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+20.5 亿</span>
+      <span class="sector-flow-badge">+38.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -341,7 +341,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+49.7 亿</span>
+      <span class="sector-flow-badge">+23.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -367,8 +367,56 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/011/393.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，据小鹏汽车官微，2026 巴黎车展即将开幕，本届车展将举办“智驾实验室”公开体验活动，车展观众及媒体可申请参与，本次活动仅有小鹏与特斯拉两家企业参与，这也是小鹏 NGP 在欧洲的首次大规模公开体验。当地时间 10 月 12 日（下周一），欧洲规模最大的汽车展会 —— 巴黎车展即将正式开幕。本届巴黎车展共有 100 家参展商设立展位，其中约 60 家为汽车制造商，中国汽车品牌达到创纪录的 20 家，占整整三分之一。小鹏集团副总裁 @托马斯电火车 进一步透露，有欧洲媒体表示，此次智能辅助驾驶体验仅有来自中国和美国的两家车企参与，欧洲品牌却集体缺席这一重要展会，这一现象值得欧洲车企反思：在下一代汽车技术竞争中，欧洲是否已经被拉开差距。@托马斯电火车 曾在本月 6" data-title="2026 巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与" data-date="10-10 15:33" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-10 15:33</span>
+          <span class="news-item-title">2026 巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-10/10710122.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月9日，《中共中央#8195;国务院关于发展新质生产力的意见》公开发布。意见阐明了中国发展新质生产力的总体要求和重点任务，对加强组织实施作出安排。" data-title="习近平经济思想引领中国加快发展新质生产力" data-date="10-10 12:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-10 12:57</span>
+          <span class="news-item-title">习近平经济思想引领中国加快发展新质生产力</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-10/10710083.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社华盛顿10月9日电(记者 陈孟统)俄罗斯总统普京9日与美国总统特朗普举行通话。双方就俄向美国及全球市场提供柴油达成一致。" data-title="俄美就柴油贸易达成一致 美放松相关对俄制裁" data-date="10-10 12:20" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-10 12:20</span>
+          <span class="news-item-title">俄美就柴油贸易达成一致 美放松相关对俄制裁</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-10/10710112.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网宜宾10月10日电 题：从江边老厂到新能源产线：“长江首城”宜宾工业之变" data-title="（长江十年行）从江边老厂到新能源产线：“长江首城”宜宾工业之变" data-date="10-10 11:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-10 11:55</span>
+          <span class="news-item-title">（长江十年行）从江边老厂到新能源产线：“长江首城”宜宾工业之变</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-10/10710096.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月10日电 10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。人力资源社会保障部新闻发言人、副部长李忠表示，“十五五”时期，将加大投资于人力度，加快建设高素质技术技能人才队伍。力争“十五五”时期，开展补贴性职业技能培训5000万人次，新增取得技能证书4000万人次、其中取得高级工以上技能证书1400万人次。同时，深入实施专业技术人才知识更新工程，每年培养培训100万名高层次、急需紧缺和骨干专业技术人才。" data-title="“十五五”时期，每年将培养培训100万名高层次、急需紧缺技术人才" data-date="10-10 11:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-10 11:30</span>
+          <span class="news-item-title">“十五五”时期，每年将培养培训100万名高层次、急需紧缺技术人才</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/09/us/ken-paxton-deposition-investments.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="2014年欺诈调查中泄露的证词提供了对参议院候选人的投资和他为自己辩护的策略的见解。" data-title="Paxton Said in Deposition That Donor Gave Him Stocks to Please God" data-date="10-10 05:25" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-10 05:25</span>
+          <span class="news-item-title">Paxton Said in Deposition That Donor Gave Him Stocks to Please God</span>
+        </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111064" target="_blank" rel="noopener" data-cat="caijing" data-summary="在美国最高法院裁定库克可以留任后，美国总统成立一个委员会来调查有关库克“在一项或多项抵押贷款相关文件中作出虚假陈述”的指控。" data-title="特朗普成立委员会调查美联储理事库克" data-date="10-10 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-10 00:00</span>
+          <span class="news-item-title">特朗普成立委员会调查美联储理事库克</span>
+        </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111062" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国商务部在声明中表示，经过密集磋商，中欧双方以符合世贸组织规则的方式，就混合动力汽车贸易达成谅解。" data-title="中国与欧盟就控制中国混合动力汽车对欧出口达成谅解" data-date="10-10 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-10 00:00</span>
+          <span class="news-item-title">中国与欧盟就控制中国混合动力汽车对欧出口达成谅解</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/011/153.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 9 日消息，据央视新闻今日报道，爱达邮轮在港正式发布第二艘国产大型邮轮“爱达 · 花城号”的航线及产品布局，“爱达 · 花城号”将于明年正式以香港为母港，这艘邮轮将于今年 11 月启航并造访香港。据介绍，“爱达 · 花城号”将于 2027 年全面展开香港母港航季，预计营运近 20 个邮轮航次。航线设计灵活多元，增设 3 个海上游航次，为本地旅客提供“邮轮即是目的地”的海上体验。爱达邮轮表示，香港兼具国际化区位优势、成熟的邮轮母港条件和多元客源基础是爱达邮轮深耕大湾区、连接国际的重要支点。此次“爱达 · 花城号”在香港开启母港航季，是完善广州、深圳、香港三港协同，持续深化大湾区布局的重要一步。爱达邮轮将持续增加在香港的运力投放，全力支持香港巩固亚洲国际邮轮枢纽的地位。作为首" data-title="第二艘国产大邮轮“爱达 · 花城号”明年将以香港作为母港营运" data-date="10-09 23:26" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -411,36 +459,6 @@ title: 股票财经
           <span class="news-item-date">10-09 22:00</span>
           <span class="news-item-title">TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-09/10709906.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月9日电 第十二届北京国际老龄产业博览会9日在国家会议中心二期启幕，将持续至10月11日。展会创新采用“展+会+赛+节”四位一体立体化办展模式，展览面积近3万平方米，汇聚参展企业400余家，打造北方地区高水平银发产业交流合作平台与民生服务窗口。" data-title="北京国际老龄产业博览会开幕 中外展团展示老龄产业全链条" data-date="10-09 21:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 21:52</span>
-          <span class="news-item-title">北京国际老龄产业博览会开幕 中外展团展示老龄产业全链条</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709900.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网昆明10月9日电 (罗婕 贝文)9日，“云南工会推进工会工作法治化 依法维护职工群众合法权益”新闻发布会在昆明市举办，会上发布，三年来，全省工会累计办理法律援助和劳动争议案件1.5万余件，“12351”服务职工热线服务职工47万人次，合计为职工挽回直接经济损失超过1.6亿元。" data-title="云南推进工会工作法治化 三年为职工挽回直接经济损失超1.6亿元" data-date="10-09 21:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 21:49</span>
-          <span class="news-item-title">云南推进工会工作法治化 三年为职工挽回直接经济损失超1.6亿元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709919.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京10月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在京会见欧盟委员会贸易和经济安全委员谢夫乔维奇，双方就中欧经贸关系交换了意见。" data-title="何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇" data-date="10-09 21:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 21:29</span>
-          <span class="news-item-title">何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709904.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月9日电 据重庆市纪委监委消息：经重庆市委批准，重庆市纪委监委对重庆商业投资集团有限公司原党委书记、董事长范光明严重违纪违法问题进行了立案审查调查。" data-title="重庆商业投资集团有限公司原董事长范光明被开除党籍" data-date="10-09 21:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 21:05</span>
-          <span class="news-item-title">重庆商业投资集团有限公司原董事长范光明被开除党籍</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/502114.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="江淮再度跌停" data-title="尊界深夜回应“刹车踏板断裂”，懂车帝再发声" data-date="10-09 10:51" data-source="量子位">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-09 10:51</span>
-          <span class="news-item-title">尊界深夜回应“刹车踏板断裂”，懂车帝再发声</span>
-        </a>
   </div>
 </div>
 
@@ -454,4 +472,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-10 02:26（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-10 15:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
