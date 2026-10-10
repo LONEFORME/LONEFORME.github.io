@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-10 15:49（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-10 21:55（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -369,6 +369,30 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/011/514.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，吉利银河官方今天宣布，银河战舰 700 汽车全球上市。新车是吉利首款 AI 全地形硬核 SUV，基于 GTA 原生新能源越野架构打造，限时焕新价 16.98 万元起。吉利汽车集团销售总公司常务副总经理范峻毅刚刚宣布，银河战舰 700 上市 12 分钟定单突破 1 万台。参考IT之家今日早些时候报道，银河战舰 700 于杭州正式全球上市，推出三种动力、六大版型，全系标配 GTA 原生硬派架构、EM-T 超级电混系统、47 度大电池、峰值 6C 智充、宁德时代电芯等近 200 项核心配置。" data-title="吉利银河战舰 700 上市 12 分钟定单突破 1 万台，新车限时焕新价 16.98 万元起" data-date="10-10 21:46" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-10 21:46</span>
+          <span class="news-item-title">吉利银河战舰 700 上市 12 分钟定单突破 1 万台，新车限时焕新价 16.98 万元起</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-10/10710806.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月10日电 (记者 陈杭 徐婧)养老机器人提供健康监测、外骨骼机器人助力行走、理疗机器人可按摩……正在举行的第十二届北京国际老龄产业博览会上，多家企业携机器人集中亮相，勾勒出科技赋能“银发生活”的新图景。" data-title="从陪伴到助行 养老机器人守护“银发生活”" data-date="10-10 21:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-10 21:31</span>
+          <span class="news-item-title">从陪伴到助行 养老机器人守护“银发生活”</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/011/510.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，据红星资本局报道，长安汽车 9 日收到中汽中心（中国汽车技术研究中心有限公司）发出的关于制动踏板总成材质的调研问卷，着重关注非金属材质在踏板总成的应用。公开信息显示，中汽中心是国务院国资委直属央企，受工信部委托开展汽车标准法规研究、智能制造推进、新能源汽车技术推广等工作。报道提到，业内认为，此次调研可能是受到“尊界 V800 刹车踏板支架断裂”事件的影响，或将推动相关标准修订，调查问卷就是准备工作。“大概率会推动修订行业标准，如《汽车踏板装置性能要求及台架试验方法》（QC/T 788-2018）。”业内人士认为，两项国标对制动踏板及其支架没有给出量化的载荷门槛、材料限制或测试方法，也没有具体的设计要求，只规定需为“不易失效的零部件”，材料应用金属材料或与金属" data-title="长安汽车确认收到中汽中心“制动踏板总成材质”调研问卷，业内认为或将推动相关标准修订" data-date="10-10 21:21" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-10 21:21</span>
+          <span class="news-item-title">长安汽车确认收到中汽中心“制动踏板总成材质”调研问卷，业内认为或将推动相关标准修订</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/011/509.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，吉利银河官方今天宣布，银河战舰 700 汽车全球上市。新车是吉利首款 AI 全地形硬核 SUV，基于 GTA 原生新能源越野架构打造，限时焕新价 16.98 万元起。305km 1.5T 两驱探索版：上市指导价 18.98 万元、先享指导价 17.98 万元、限时焕新价 16.98 万元；305km 1.5T 两驱探索+ 版：上市指导价 19.98 万元、先享指导价 18.98 万元、限时焕新价 17.98 万元；280km 1.5T 三电机四驱驭峰版：上市指导价 21.98 万元、先享指导价 20.98 万元、限时焕新价 19.98 万元；280km 1.5T 三电机四驱驭峰+ 版：上市指导价 22.98 万元、先享指导价 21.98 万元、限时焕新价 2" data-title="吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起" data-date="10-10 21:04" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-10 21:04</span>
+          <span class="news-item-title">吉利首款 AI 全地形硬核 SUV：银河战舰 700 全球上市，限时焕新价 16.98 万元起</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/011/393.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 10 日消息，据小鹏汽车官微，2026 巴黎车展即将开幕，本届车展将举办“智驾实验室”公开体验活动，车展观众及媒体可申请参与，本次活动仅有小鹏与特斯拉两家企业参与，这也是小鹏 NGP 在欧洲的首次大规模公开体验。当地时间 10 月 12 日（下周一），欧洲规模最大的汽车展会 —— 巴黎车展即将正式开幕。本届巴黎车展共有 100 家参展商设立展位，其中约 60 家为汽车制造商，中国汽车品牌达到创纪录的 20 家，占整整三分之一。小鹏集团副总裁 @托马斯电火车 进一步透露，有欧洲媒体表示，此次智能辅助驾驶体验仅有来自中国和美国的两家车企参与，欧洲品牌却集体缺席这一重要展会，这一现象值得欧洲车企反思：在下一代汽车技术竞争中，欧洲是否已经被拉开差距。@托马斯电火车 曾在本月 6" data-title="2026 巴黎车展新设“智驾实验室”公开体验活动，仅小鹏、特斯拉两家企业参与" data-date="10-10 15:33" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -405,6 +429,12 @@ title: 股票财经
           <span class="news-item-date">10-10 05:25</span>
           <span class="news-item-title">Paxton Said in Deposition That Donor Gave Him Stocks to Please God</span>
         </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111070" target="_blank" rel="noopener" data-cat="caijing" data-summary="欧盟贸易专员谢夫乔维奇周五在新闻发布会上表示，中国接受了欧盟的一项核心要求，证明了对话可以带来成果。" data-title="中国同意限制混合动力汽车出口，避免中欧全面贸易冲突" data-date="10-10 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-10 00:00</span>
+          <span class="news-item-title">中国同意限制混合动力汽车出口，避免中欧全面贸易冲突</span>
+        </a>
         <a class="news-item" href="https://www.ftchinese.com/story/001111064" target="_blank" rel="noopener" data-cat="caijing" data-summary="在美国最高法院裁定库克可以留任后，美国总统成立一个委员会来调查有关库克“在一项或多项抵押贷款相关文件中作出虚假陈述”的指控。" data-title="特朗普成立委员会调查美联储理事库克" data-date="10-10 00:00" data-source="FT中文网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge ">🌐 FT中文网</span>
@@ -429,36 +459,6 @@ title: 股票财经
           <span class="news-item-date">10-09 23:18</span>
           <span class="news-item-title">中国科学院院士郭华东获颁 2026 年度国际宇航联合会“名人堂”奖，主持研发全球首颗可持续发展科学卫星 1 号</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-09/10709954.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡10月9日电 (记者 刘育英)马来西亚政府9日公布2027年财政预算案，计划从明年6月起将全国最低月工资由1700林吉特提高至2000林吉特(按当日汇率约合3277元人民币)，涨幅约17.6%，同时下调部分个人所得税税率，以缓解民众生活成本压力。" data-title="马来西亚明年拟将最低月工资提高17.6%" data-date="10-09 22:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 22:56</span>
-          <span class="news-item-title">马来西亚明年拟将最低月工资提高17.6%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-09/10709950.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网吉隆坡10月9日电 (记者 刘育英)马来西亚总理兼财政部长安瓦尔9日在国会提呈2027年财政预算案，计划自2027年1月1日起优化全球服务枢纽企业所得税优惠机制，以吸引跨国企业扩大在马业务。" data-title="马来西亚拟优化全球服务枢纽税收优惠 企业所得税率低至5%" data-date="10-09 22:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 22:20</span>
-          <span class="news-item-title">马来西亚拟优化全球服务枢纽税收优惠 企业所得税率低至5%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-09/10709945.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网曼谷10月9日电(记者 李映民)夜幕降临，泰国东北部黎逸府汶帕兰猜湖畔灯光次第亮起，投影、激光、雾效、LED影像与音乐交织，将当地信仰、传说和伊桑文化转化为一场沉浸式光影体验。9日晚，“黎逸光影艺术节”在这里开幕。" data-title="泰国以光影科技激活东北文化资源推动夜间旅游和地方经济" data-date="10-09 22:14" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 22:14</span>
-          <span class="news-item-title">泰国以光影科技激活东北文化资源推动夜间旅游和地方经济</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-09/10709929.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月9日电 中共中央政治局委员、国务院副总理何立峰9日下午在北京会见欧盟委员会贸易和经济安全委员谢夫乔维奇，双方就中欧经贸关系交换了意见。" data-title="何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇" data-date="10-09 22:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-09 22:03</span>
-          <span class="news-item-title">何立峰会见欧盟委员会贸易和经济安全委员谢夫乔维奇</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/" target="_blank" rel="noopener" data-cat="caijing" data-summary="距离TechCrunch Disrupt 2026开始还有四天，届时10,000名创始人、投资者和科技领袖将于10月13日至15日在旧金山的Moscone West聚集一堂。您的价格最高可节省$ 100。此外，第二次使用相同类型的通行证可节省50%。" data-title="TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise" data-date="10-09 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-09 22:00</span>
-          <span class="news-item-title">TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise</span>
-        </a>
   </div>
 </div>
 
@@ -472,4 +472,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-10 15:49（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-10 21:55（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
