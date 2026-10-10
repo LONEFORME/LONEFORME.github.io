@@ -6,10 +6,13 @@
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
+    "build:viewer-assets": "vite build --config vite.viewer.config.mjs",
     "preview": "vitepress preview"
   },
   "devDependencies": {
     "markdown-it-mathjax3": "^5.2.0",
+    "three": "0.160.0",
+    "vite": "5.4.14",
     "vitepress": "^1.6.4",
     "vue": "^3.5.13"
   }

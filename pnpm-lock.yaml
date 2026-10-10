@@ -11,6 +11,12 @@ importers:
       markdown-it-mathjax3:
         specifier: ^5.2.0
         version: 5.2.0
+      three:
+        specifier: 0.160.0
+        version: 0.160.0
+      vite:
+        specifier: 5.4.14
+        version: 5.4.14
       vitepress:
         specifier: ^1.6.4
         version: 1.6.4(@algolia/client-search@5.59.0)(markdown-it-mathjax3@5.2.0)(postcss@8.5.28)(search-insights@2.17.3)
@@ -804,6 +810,9 @@ packages:
 
   tabbable@6.5.0:
     resolution: {integrity: sha512-wieBHXygIm7OyQOu5hQlkk62/WyCFYGlWg7L6/ZCUZwx0o398Zkn4pVmMyfYhfMG8kGrj/Krt8eIk6UKC6VzwA==}
+
+  three@0.160.0:
+    resolution: {integrity: sha512-DLU8lc0zNIPkM7rH5/e1Ks1Z8tWCGRq6g8mPowdDJpw1CFBJMU7UoJjC6PefXW7z//SSl0b2+GCw14LB+uDhng==}
 
   trim-lines@3.0.1:
     resolution: {integrity: sha512-kRj8B+YHZCc9kQYdWfJB2/oUl9rA99qbowYYBtr4ui4mZyAQ2JpvVBd/6U2YloATfqBhBTSMhTpgBHtU0Mf3Rg==}
@@ -1640,6 +1649,8 @@ snapshots:
       copy-anything: 4.1.5
 
   tabbable@6.5.0: {}
+
+  three@0.160.0: {}
 
   trim-lines@3.0.1: {}
 

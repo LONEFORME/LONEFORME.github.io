@@ -1572,7 +1572,7 @@ function restoreNewsCollapse() {
 
 function onNewsSearch(query) {
   query = (query || '').trim().toLowerCase();
-  const terms = query.split(/\s+/).filter(Boolean);
+  const terms = query.split(/\\s+/).filter(Boolean);
   const items = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
   let matched = 0;
 
@@ -1771,7 +1771,6 @@ def generate_finance_page(finance_items, date_str, date_only):
     for idx in indices:
         if "trend" not in idx:
             idx["trend"] = [h["values"].get(idx["name"]) for h in history if h["values"].get(idx["name"]) is not None][-30:]
-    realtime_count = sum(1 for idx in indices if idx["source"] == "实时")
     ticker_html = build_finance_ticker_html(indices)
     sectors_html = build_finance_sectors_html()
     news_html = build_finance_news_html(finance_items)
@@ -1820,7 +1819,7 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · {realtime_count}/{len(indices)} 项实时行情</span>
+  <span style="font-size: 12px; color: var(--color-muted);">日级走势 · 覆盖 {len(indices)} 项市场指标，部分为最近收盘/参考值</span>
 </div>
 
 {ticker_html}

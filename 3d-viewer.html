@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
     <title>3D 模型预览 - LONEFORME</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -205,35 +206,59 @@
             .hint-mouse { display: none; }
             .hint-touch { display: block; }
         }
-        /* 移动端工具条适配 */
-        @media (max-width: 768px) {
+        /* Keep the model controls usable before the desktop toolbar runs out of room. */
+        @media (max-width: 1100px) {
             #header {
-                padding: 0 12px;
-                height: 50px;
+                height: auto;
+                min-height: 92px;
+                padding: 8px 12px;
+                display: grid;
+                grid-template-columns: max-content minmax(0, 1fr);
+                grid-template-rows: 32px 36px;
+                gap: 6px 8px;
+                align-content: center;
             }
             #header h1 {
                 font-size: 14px;
+                white-space: nowrap;
             }
             #header .subtitle,
-            #model-selector label {
-                display: none;
-            }
+            #model-selector label,
             #model-count {
                 display: none;
             }
-            #model-select {
-                max-width: 150px;
+            .back-home-btn {
+                margin-right: 0;
                 padding: 5px 8px;
+                white-space: nowrap;
+            }
+            #model-selector {
+                grid-column: 1 / -1;
+                width: 100%;
+                min-width: 0;
+                margin-left: 0;
+                gap: 6px;
+            }
+            #model-select {
+                flex: 1 1 80px;
+                min-width: 80px;
+                max-width: none;
+                padding: 5px 7px;
                 font-size: 12px;
             }
             .tool-btn {
-                padding: 5px 8px;
+                flex: 0 0 auto;
+                padding: 5px 7px;
                 font-size: 11px;
-                margin-left: 4px;
+                margin: 0;
+                white-space: nowrap;
             }
             #canvas-container {
-                top: 50px;
+                top: 92px;
             }
+        }
+
+        @media (max-width: 768px) {
             #info-panel {
                 bottom: 12px;
                 left: 12px;
@@ -275,7 +300,7 @@
 
     <div id="canvas-container"></div>
 
-    <div id="loading">
+    <div id="loading" role="status" aria-live="polite">
         <span class="spinner"></span>加载模型中...
     </div>
 
@@ -296,19 +321,9 @@
         <div class="hint-touch"><span>双指</span> 平移 / 缩放</div>
     </div>
 
-    <script type="importmap">
-    {
-        "imports": {
-            "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
-            "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
-        }
-    }
-    </script>
-
     <script type="module">
-        import * as THREE from 'three';
-        import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-        import { STLLoader } from 'three/addons/loaders/STLLoader.js';
+        import("/assets/js/three-viewer-deps.bundle.js")
+            .then(({ THREE, OrbitControls, STLLoader }) => {
 
         let allModels = [];
         let currentMesh = null;
@@ -331,7 +346,8 @@
             renderer = new THREE.WebGLRenderer({ antialias: true });
         } catch (e) {
             container.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100%;color:#57606a;font-size:14px;text-align:center;padding:24px;">⚠️ 当前浏览器/设备不支持 WebGL<br>3D 预览无法使用，请更换现代浏览器或开启硬件加速</div>';
-            throw e;
+            document.getElementById('loading').style.display = 'none';
+            return;
         }
         renderer.setSize(container.clientWidth, container.clientHeight);
         renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
@@ -404,8 +420,16 @@
         }
 
         function resetCamera() {
-            camera.position.set(100, 100, 150);
-            controls.target.set(0, 0, 0);
+            const bounds = new THREE.Box3().setFromObject(currentMesh);
+            const sphere = bounds.getBoundingSphere(new THREE.Sphere());
+            const verticalFov = THREE.MathUtils.degToRad(camera.fov);
+            const horizontalFov = 2 * Math.atan(Math.tan(verticalFov / 2) * camera.aspect);
+            const limitingFov = Math.min(verticalFov, horizontalFov);
+            const distance = sphere.radius / Math.sin(limitingFov / 2) * 1.2;
+            const direction = new THREE.Vector3(1, 1, 1.5).normalize();
+
+            controls.target.copy(sphere.center);
+            camera.position.copy(sphere.center).addScaledVector(direction, distance);
             controls.update();
         }
 
@@ -632,6 +656,7 @@
             camera.aspect = container.clientWidth / container.clientHeight;
             camera.updateProjectionMatrix();
             renderer.setSize(container.clientWidth, container.clientHeight);
+            if (currentMesh) resetCamera();
         });
 
         function animate() {
@@ -642,6 +667,11 @@
         animate();
 
         init();
+        }).catch((error) => {
+            console.error('加载 3D 引擎失败:', error);
+            const loading = document.getElementById('loading');
+            loading.textContent = '3D 引擎加载失败，请刷新页面重试。';
+        });
     </script>
 </body>
 </html>

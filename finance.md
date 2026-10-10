@@ -43,7 +43,7 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">基准行情参考 · 日级走势 · 15/15 项实时行情</span>
+  <span style="font-size: 12px; color: var(--color-muted);">日级走势 · 覆盖 15 项市场指标，部分为最近收盘/参考值</span>
 </div>
 
 <div class="finance-ticker-grid">

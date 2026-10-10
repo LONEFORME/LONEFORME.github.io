@@ -1111,10 +1111,6 @@ body {
 }
 
 @media (max-width: 768px) {
-  .mobile-topbar {
-    display: flex;
-  }
-
   .wrapper {
     flex-direction: column;
   }
@@ -2061,6 +2057,12 @@ body {
   top: 0;
   z-index: 100;
   backdrop-filter: blur(12px);
+}
+
+@media (max-width: 768px) {
+  .mobile-topbar {
+    display: flex;
+  }
 }
 
 .mobile-menu-btn, .mobile-theme-btn {

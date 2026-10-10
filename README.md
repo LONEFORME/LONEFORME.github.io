@@ -8,9 +8,9 @@
 **访问地址：[loneforme.github.io](https://loneforme.github.io)**
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-已部署-222?logo=githubpages)](https://loneforme.github.io)
-[![Jekyll](https://img.shields.io/badge/Jekyll-4.x-CC342D?logo=jekyll)](https://jekyllrb.com)
+[![Site stack](https://img.shields.io/badge/Site-Jekyll%20%2B%20VitePress-CC342D)](https://jekyllrb.com)
 [![News](https://img.shields.io/badge/每日新闻-自动更新-green.svg)]()
-[![Finance](https://img.shields.io/badge/财经看板-实时数据-blue.svg)]()
+[![Finance](https://img.shields.io/badge/财经看板-行情快照-blue.svg)]()
 [![License](https://img.shields.io/badge/License-PolyForm--NC--1.0.0-red)](#许可证)
 
 </div>
@@ -58,7 +58,7 @@
 
 ### 📈 股票财经看板（每日更新）
 - **8 大全球股指**：上证指数、深证成指、创业板指、科创50、恒生科技、纳斯达克100、美元/离岸人民币、伦敦现货黄金
-- **实时行情数据**（新浪财经 API），失败时自动回退参考值
+- **行情快照**（新浪财经 API，标注更新时间；接口失败时回退参考值）
 - **4 大热门赛道**资金流向参考：AI算力、新能源、具身智能、高股息红利
 - **每日财经资讯**聚合，与新闻系统联动
 
@@ -74,6 +74,7 @@
 ```
 LONEFORME.github.io/
 ├── 📄 页面文件（根目录）
+│   ├── favicon.svg              # 全站图标
 │   ├── index.html              # 🏠 首页
 │   ├── projects.md             # 📂 项目展示
 │   ├── docs.md                 # 📖 技术文档索引
@@ -88,8 +89,18 @@ LONEFORME.github.io/
 │   │   └── default.html        # 主页面布局（含主题切换）
 │   ├── _includes/
 │   │   └── card-mini.html      # 迷你卡片组件
-│   └── assets/
-│       └── css/custom.css      # 自定义样式
+│   └── Gemfile                 # GitHub Pages 本地预览依赖
+│
+├── 🚁 VitePress 知识库
+│   ├── .vitepress/config.mjs   # 源目录 drone-src/，输出目录 drone/
+│   ├── drone-src/              # 无人机知识库 Markdown 源文件
+│   └── drone/                  # 构建产物，线上路径 /drone/
+│
+├── 🎨 静态资源
+│   ├── assets/css/custom.css
+│   └── assets/js/
+│       ├── three-viewer-deps.bundle.js       # 本地 Three.js bundle
+│       └── THREE-LICENSE.txt                 # Three.js MIT 许可证
 │
 ├── 📚 内容目录
 │   ├── docs/                   # 技术文档
@@ -110,8 +121,10 @@ LONEFORME.github.io/
 │
 ├── 🤖 自动化脚本
 │   └── scripts/
-│       └── news_digest.py      # 新闻+财经自动生成脚本
+│       ├── news_digest.py      # 新闻+财经自动生成脚本
+│       └── three-viewer-deps.js # 3D 查看器依赖 bundle 入口
 │                                # （RSS抓取、英文翻译、智能分类、错误过滤、股指获取）
+├── vite.viewer.config.mjs      # 3D 查看器依赖 bundle 配置
 │
 ├── ⚙️ GitHub Actions
 │   └── .github/workflows/
@@ -171,6 +184,8 @@ RSS 信源（11个）
 
 ## 🔧 本地运行
 
+根目录由 GitHub Pages/Jekyll 渲染；无人机知识库是独立的 VitePress 子站，源码和构建产物分别位于 `drone-src/` 与 `drone/`。
+
 ```bash
 # 克隆仓库
 git clone https://github.com/LONEFORME/LONEFORME.github.io.git
@@ -184,6 +199,19 @@ bundle exec jekyll serve
 
 # 浏览器访问 http://localhost:4000
 ```
+
+### 更新静态资源
+
+```bash
+# 构建无人机知识库到 drone/
+pnpm install
+pnpm build
+
+# 重新打包 3D 查看器所需的 Three.js 模块到 assets/js/
+pnpm run build:viewer-assets
+```
+
+提交 VitePress 内容变更时一并提交更新后的 `drone/`；调整 3D 查看器依赖时一并提交 `assets/js/three-viewer-deps.bundle.js`。
 
 ### 手动运行新闻更新脚本
 
