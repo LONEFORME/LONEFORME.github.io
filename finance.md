@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-11 22:17（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-12 01:43（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -189,7 +189,7 @@ title: 股票财经
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 02:30:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 02:28:20</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -367,49 +367,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900" target="_blank" rel="noopener" data-cat="caijing" data-summary="与去年同期相比， PlayStation的销售额下降了25% ，而Xbox的销售额下降了33% ，这是过去十年零售销售额的最大降幅。" data-title="Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%" data-date="10-12 00:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-12 00:30</span>
+          <span class="news-item-title">Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/011/713.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 11 日消息，彭博社记者马克 · 古尔曼今天表示，苹果计划本月晚些时候推出新款 iPad mini。新机的起步存储空间可能会有所提升，但有意换机的用户得提前做好涨价的准备。古尔曼透露，新款 iPad mini 售价相比现款机型将大幅上涨，预计将接近 799 美元（IT之家注：现汇率约合 5,359 元人民币）。作为对比，现款 iPad mini 7 价格为 599 美元（现汇率约合 4,017 元人民币）/4,799 元人民币。据悉，新款 iPad mini 将首次采用 OLED 屏幕，配备重新设计的机身。预计将拥有全新扬声器系统，搭载性能更强的芯片。目前我们尚不清楚这款 OLED 面板的规格水平，并且该屏幕是否支持 120Hz 高刷，行业人士也存在相互矛盾的说法。" data-title="消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元" data-date="10-11 23:12" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-11 23:12</span>
+          <span class="news-item-title">消息称 OLED 屏新款 iPad mini 售价将大幅上涨，或接近 799 美元</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-11/10711122.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="近年来，在党中央关心关怀和全国人民支援下，西藏从脱贫攻坚到乡村振兴接续发力，620多个边境村全部建成了小康村，绘就边疆长治久安、人民安居乐业的壮美画卷。" data-title="从草场放牧到高原种菊 西藏特色种养产业让群众致富增收" data-date="10-11 20:47" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-11 20:47</span>
           <span class="news-item-title">从草场放牧到高原种菊 西藏特色种养产业让群众致富增收</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-11/10711119.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月11日，在北京参加明德战略对话(2026)的新西兰前总理珍妮·希普利接受总台环球资讯《全球洞察》记者独家专访时表示，新西兰愿积极参与即将在中国深圳举行的亚太经合组织第三十三次领导人非正式会议，期待会议能够就多边合作、自由贸易、应对气候变化等诸多重大议题达成共识，为全球走出“艰难时刻”探寻方向。" data-title="专访｜新西兰前总理：期待深圳APEC为全球走出“艰难时刻”探寻方向" data-date="10-11 20:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-11 20:45</span>
-          <span class="news-item-title">专访｜新西兰前总理：期待深圳APEC为全球走出“艰难时刻”探寻方向</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-11/10711098.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳10月11日电(姜月恒)“阳光育林·同心护航”沈阳市百名青少年成长关爱赋能活动捐赠仪式11日在沈阳市举办。本次活动由台盟沈阳市委会、中共铁西区委统战部、铁西区民政局联合主办，旨在凝聚在沈台商与本土爱心企业力量，帮扶困境青少年、关爱低保困难群众，以实际行动传递社会温情。" data-title="沈阳：台商爱心赋能青少年成长" data-date="10-11 20:12" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-11 20:12</span>
           <span class="news-item-title">沈阳：台商爱心赋能青少年成长</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-11/10711085.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月11日电 (刘梦青)由中国人民大学主办的2026年通州·全球发展论坛11日在北京举办。论坛期间，新书《人类2050：人与社会全面发展》以及《共创亚太2050：亚太共同体建设与中国未来》《不确定性中的确定性：全球2050评估与未来展望》《中国共同安全观：从周边外交到全球实践》《双碳目标下的核能产业：产业链协同与国际合作》四份研究报告集中亮相，为观察世界未来演进方向、推动共同发展提供新的研究视角。" data-title="聚焦未来全球发展趋势 中国人民大学发布系列研究成果" data-date="10-11 19:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-11 19:53</span>
-          <span class="news-item-title">聚焦未来全球发展趋势 中国人民大学发布系列研究成果</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part" target="_blank" rel="noopener" data-cat="caijing" data-summary="新成立的消费者公平和公共保护部门也针对Roblox和AppLovin。" data-title="State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community" data-date="10-11 19:15" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-11 19:15</span>
-          <span class="news-item-title">State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-11/10710985.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月10日下午，“开局之年看中国#12539;新长征再出发”网络主题宣传活动媒体团走进位于江西南昌的江中药谷，实地感受这座坐拥山林湖景的生态智能工厂，感受江西中医药产业绿色智造的生动实践。" data-title="【红星照耀中国】药香、绿意、黑科技！探访江西这座“最美中国工厂”" data-date="10-11 15:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-11 15:07</span>
-          <span class="news-item-title">【红星照耀中国】药香、绿意、黑科技！探访江西这座“最美中国工厂”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-11/10710957.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆10月11日电 题：回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义" data-title="回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义" data-date="10-11 13:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-11 13:42</span>
-          <span class="news-item-title">回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义</span>
         </a>
   </div>
 </div>
@@ -424,4 +406,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-11 22:17（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-12 01:43（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
