@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-11 01:24（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-11 15:56（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -302,7 +302,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+37.9 亿</span>
+      <span class="sector-flow-badge">+33.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -315,7 +315,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+32.2 亿</span>
+      <span class="sector-flow-badge">+37.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -328,7 +328,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+38.1 亿</span>
+      <span class="sector-flow-badge">+52.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -341,7 +341,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+23.2 亿</span>
+      <span class="sector-flow-badge">+33.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -367,8 +367,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">2 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-11/10710985.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月10日下午，“开局之年看中国#12539;新长征再出发”网络主题宣传活动媒体团走进位于江西南昌的江中药谷，实地感受这座坐拥山林湖景的生态智能工厂，感受江西中医药产业绿色智造的生动实践。" data-title="【红星照耀中国】药香、绿意、黑科技！探访江西这座“最美中国工厂”" data-date="10-11 15:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-11 15:07</span>
+          <span class="news-item-title">【红星照耀中国】药香、绿意、黑科技！探访江西这座“最美中国工厂”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-11/10710957.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆10月11日电 题：回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义" data-title="回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义" data-date="10-11 13:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-11 13:42</span>
+          <span class="news-item-title">回望“宜昌大撤退”壮举 专家学者解读卢作孚爱国企业家精神的当下意义</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-10/10710786.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月10日电 中共中央政治局委员、中央外办主任王毅10日在大同与法国总统外事顾问博纳举行第二十八次中法战略对话，就深化中法战略合作长时间深入沟通，达成广泛共识。双方还肯定了中欧贸易投资磋商机制取得的积极成果。" data-title="中法举行战略对话" data-date="10-10 22:09" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -394,4 +406,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-11 01:24（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-11 15:56（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
