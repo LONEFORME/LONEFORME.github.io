@@ -1,5 +1,38 @@
 [
   {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "title_zh": "Meta发布其首款前沿车型Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "date": "2026-10-13",
+    "published_time": "01:56",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型，而Wonder模型更大，据说更有能力，在编码等复杂任务上具有更高的基准分数和更好的结果。",
+    "published_dt_iso": "2026-10-13T01:56:56+08:00"
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "title_zh": "WindBorne因其气球数据赢得了美国空军的巨额合同",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "date": "2026-10-13",
+    "published_time": "01:19",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近5000万美元的美国军事合同。",
+    "published_dt_iso": "2026-10-13T01:19:14+08:00"
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "title_zh": "Honeyjar提供人工智能工具来改善每家公司的公关和通信",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "date": "2026-10-12",
+    "published_time": "23:45",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断。但人工智能真的能让事情变得更好吗？",
+    "published_dt_iso": "2026-10-12T23:45:00+08:00"
+  },
+  {
     "title": "Microsoft president says UK is best placed to drive AI regulation",
     "title_zh": "微软总裁表示，英国最适合推动人工智能监管",
     "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
@@ -40,7 +73,7 @@
     "published_time": "20:47",
     "source": "TechCrunch",
     "feed_name": "TechCrunch(AI模型)",
-    "summary": "Ambi正在发布适用于iPhone、Mac和Apple Watch的应用程序，以实现环境捕获",
+    "summary": "人工智能的核心承诺之一是，它对一个人的了解越多，它就越能更好地帮助他们完成任务并提出适当的建议，如果你相信科技公司的话，这需要应用程序和设备来聆听、观看、",
     "published_dt_iso": "2026-10-12T20:47:59+08:00"
   },
   {
@@ -55,37 +88,15 @@
     "published_dt_iso": "2026-10-12T05:14:40+08:00"
   },
   {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "title_zh": "距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "date": "2026-10-12",
-    "published_time": "03:00",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "在不到48小时的时间里， TechCrunch Disrupt 2026在旧金山的Moscone West启动。在价格上涨之前，通行证最多可节省$ 100 ，第二张通行证还可享受50%的优惠。或获得其他优惠。",
-    "published_dt_iso": "2026-10-12T03:00:00+08:00"
-  },
-  {
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "title_zh": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？",
-    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "date": "2026-10-12",
-    "published_time": "00:52",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "在Equity上，我们讨论了数据中心暂停的影响以及人工智能行业是否存在通信问题。",
-    "published_dt_iso": "2026-10-12T00:52:33+08:00"
-  },
-  {
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "title_zh": "这些高管认为语音AI尚未达到ChatGPT时刻",
-    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "date": "2026-10-11",
-    "published_time": "22:00",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "语音人工智能经常会错过上下文层的重要点，并导致整个管道中断。",
-    "published_dt_iso": "2026-10-11T22:00:00+08:00"
+    "title": "Intel's Crescent Island AI accelerator officially powers new GPU D",
+    "title_zh": "英特尔的Crescent Island AI加速器正式为新的GPU D提供支持",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth",
+    "date": "2026-10-13",
+    "published_time": "03:48",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "英特尔的Crescent Island AI推理加速器将作为GPU D系列推向市场，承诺提供1.3 PFLOPS的FP8计算以及高达480 GB的LPDDR5X ，提供1.5 TB/s的内存带宽。",
+    "published_dt_iso": "2026-10-13T03:48:14+08:00"
   },
   {
     "title": "Bambu Lab officially teases its first 3D scanner",
@@ -163,17 +174,6 @@
     "feed_name": "Tom's Hardware(半导体)",
     "summary": "为定制设计的人工智能服务器定制的冷板： Frore的LiquidJet Diamond。",
     "published_dt_iso": "2026-10-12T21:30:00+08:00"
-  },
-  {
-    "title": "Gigabyte GO27Q24G 27-inch OLED 240 Hz QHD gaming monitor review: Tremendous bang for the buck",
-    "title_zh": "技嘉GO27Q24G 27英寸OLED 240 Hz QHD游戏显示器评论：物超所值",
-    "link": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-go27q24g-27-inch-oled-240-hz-qhd-gaming-monitor-review",
-    "date": "2026-10-12",
-    "published_time": "21:15",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "Gigabyte凭借其GO27Q24G以低廉的价格提供极致的亮度和性能。这款27英寸OLED面板具有1300尼特的HDR峰值、宽色域、QHD分辨率、240 Hz和自适应同步。",
-    "published_dt_iso": "2026-10-12T21:15:00+08:00"
   },
   {
     "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
@@ -264,6 +264,17 @@
     "published_dt_iso": "2026-10-02T01:49:56+08:00"
   },
   {
+    "title": "Meta has some Wonder Full new AI models",
+    "title_zh": "Meta有一些Wonder全新的AI模型",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+    "date": "2026-10-13",
+    "published_time": "01:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Meta正在弥补AI竞赛中失去的时间。在推出Muse Spark （其经过改造的Superintelligence Labs部门的第一个模型）和热闹的人工智能代理Muse之后，它现在推出了两款新型号，它声称可以与业界的",
+    "published_dt_iso": "2026-10-13T01:00:00+08:00"
+  },
+  {
     "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
     "title_zh": "埃隆·马斯克(Elon Musk)已向共和党中期计划捐款逾2.76亿美元($)",
     "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
@@ -338,17 +349,6 @@
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
     "summary": "CMF扬声器系列是首款来自专注于预算的品牌的便携式蓝牙扬声器，该品牌由Nothing创建，但正在分拆成为一家位于印度的独立子公司。与CMF的许多产品一样，如耳机Pr",
-    "published_dt_iso": "2026-10-12T21:00:00+08:00"
-  },
-  {
-    "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
-    "title_zh": "Fitbit Edge适用于不想完全无屏幕的人",
-    "link": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
-    "date": "2026-10-12",
-    "published_time": "21:00",
-    "source": "The Verge",
-    "feed_name": "The Verge(科技)",
-    "summary": "Fitbit Edge可能不是谷歌保存最好的健身追踪秘密，但截至今天，它的存在是官方的。该跟踪器位于最近推出的Fitbit Air和公司目前推出的功能更强大的Google Pixel Watch 5之间。",
     "published_dt_iso": "2026-10-12T21:00:00+08:00"
   },
   {
@@ -561,15 +561,15 @@
     "published_dt_iso": "2026-10-12T03:41:17+08:00"
   },
   {
-    "title": "Burnham to release details of Man City meetings",
-    "title_zh": "伯纳姆将公布曼城会议的细节",
+    "title": "Burnham had formal meeting with Man City chair while mayor",
+    "title_zh": "伯纳姆在市长任职期间与曼城主席举行了正式会议",
     "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-12",
-    "published_time": "02:01",
+    "date": "2026-10-13",
+    "published_time": "01:09",
     "source": "BBC",
     "feed_name": "BBC 英超专栏",
-    "summary": "安迪·伯纳姆（ Andy Burnham ）在曼城被判犯有与违反英超财务规则有关的所有指控后发表的言论遭到了批评。",
-    "published_dt_iso": "2026-10-12T02:01:13+08:00"
+    "summary": "据大曼彻斯特联合管理局（ Greater Manchester Combined Authority ）称，总理安迪·伯纳姆（ Andy Burnham ）在大曼彻斯特市长期间与曼城主席Khaldoon Al Mubarak举行了正式会晤。",
+    "published_dt_iso": "2026-10-13T01:09:30+08:00"
   },
   {
     "title": "Who 'simply has to do better'? Liverpool v Man City player ratings",
@@ -614,6 +614,39 @@
     "feed_name": "BBC 英超专栏",
     "summary": "不会再发生了吧？在对阵托特纳姆热刺1-1战平后，又一次未能击败10名男子，增加了曼联老板迈克尔·卡里克的压力。",
     "published_dt_iso": "2026-10-11T04:54:46+08:00"
+  },
+  {
+    "title": "Coventry City 4-1 Newcastle United: Premier League – as it happened",
+    "title_zh": "考文垂城4-1纽卡斯尔联队：英超联赛–事实如此",
+    "link": "https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates",
+    "date": "2026-10-13",
+    "published_time": "05:12",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "杰克·鲁多尼（ Jack Rudoni ）、西迪基·谢里夫（ Sidiki Cherif ）、埃利斯·西姆斯（ Ellis Simms ）和斯蒂芬·姆富尼（ Stephen Mfuni ）的进球--谢里夫（ Cherif ）和姆富尼（ Mfuni ）的盲人--给考文垂带来了25考文垂会想利用他们广泛的攻击者来让他们",
+    "published_dt_iso": "2026-10-13T05:12:22+08:00"
+  },
+  {
+    "title": "Coventry land long-awaited home win as Mfuni seals rout of Newcastle",
+    "title_zh": "考文垂土地期待已久的主场胜利， Mfuni海豹队击败纽卡斯尔",
+    "link": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
+    "date": "2026-10-13",
+    "published_time": "05:09",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "如果攻击是最好的防守形式需要验证，弗兰克·兰帕德可以指出这场比赛。在他们连续第二次获胜后，考文垂爬出了降级区，展示了他们的经理的意愿的好处",
+    "published_dt_iso": "2026-10-13T05:09:57+08:00"
+  },
+  {
+    "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
+    "title_zh": "2026-27赛季英超联赛最佳射手：谁是金靴赛的领跑者？",
+    "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+    "date": "2026-10-13",
+    "published_time": "04:58",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "找出哪位英国顶尖射手正在向进球排行榜射击。继续阅读……",
+    "published_dt_iso": "2026-10-13T04:58:52+08:00"
   },
   {
     "title": "Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson",
@@ -669,39 +702,6 @@
     "feed_name": "卫报(英超深度)",
     "summary": "自从俱乐部被判犯有违反财务规则的罪行以来，足球在比赛的第一个周末感觉次要Cimbri正朝着危险的南方前进，但在罗马，生活仍在继续。小行星肯定是朝这边来的，但人们去上班，吃饭，",
     "published_dt_iso": "2026-10-12T03:11:36+08:00"
-  },
-  {
-    "title": "Liverpool 0-3 Manchester City: Premier League – as it happened",
-    "title_zh": "利物浦0-3曼城：英超联赛–实际情况",
-    "link": "https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates",
-    "date": "2026-10-12",
-    "published_time": "01:52",
-    "source": "卫报",
-    "feed_name": "卫报(英超深度)",
-    "summary": "在Ryan Gravenberch的红牌之后，曼城拥抱了一种充满敌意的气氛，并让利物浦不堪重负威尔·昂温（ Will Unwin ）的更新，他是我们安菲尔德队今天比赛的一员。600多名曼城球迷组成的队伍得到了警察的护送，穿过车站",
-    "published_dt_iso": "2026-10-12T01:52:02+08:00"
-  },
-  {
-    "title": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
-    "title_zh": "面对安菲尔德的嘲讽，切尔基·克拉克（ Cherki Cracker ）在利物浦夺冠",
-    "link": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
-    "date": "2026-10-12",
-    "published_time": "01:42",
-    "source": "卫报",
-    "feed_name": "卫报(英超深度)",
-    "summary": "这是曼城以前听过的配乐，但在比赛期间从未听过如此持续的魔咒。它来自利物浦的支持，在开球前先在安菲尔德周围响起，然后定期来。它总是",
-    "published_dt_iso": "2026-10-12T01:42:02+08:00"
-  },
-  {
-    "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
-    "title_zh": "2026-27赛季英超联赛最佳射手：谁是金靴赛的领跑者？",
-    "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
-    "date": "2026-10-12",
-    "published_time": "01:26",
-    "source": "卫报",
-    "feed_name": "卫报(英超深度)",
-    "summary": "找出哪位英国顶尖射手正在向进球排行榜射击。继续阅读……",
-    "published_dt_iso": "2026-10-12T01:26:32+08:00"
   },
   {
     "title": "王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤",
@@ -968,94 +968,6 @@
     "published_dt_iso": "2026-10-12T21:35:27+08:00"
   },
   {
-    "title": "情报机构：俄罗斯加紧策划暗杀欧洲军工高管",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111077",
-    "date": "2026-10-12",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "随着乌克兰战局陷入胶着，而俄罗斯经济面临困境，克里姆林宫下令在欧洲扩大破坏及“混合战”行动，试图在短期内削弱欧洲对乌支持。",
-    "published_dt_iso": "2026-10-12T00:00:00+08:00"
-  },
-  {
-    "title": "美俄达成柴油交易后 欧洲盟友誓言支持乌克兰",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111075",
-    "date": "2026-10-12",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "急于在中期选举前降低能源价格的特朗普，在与普京达成柴油协议后猛轰泽连斯基，称乌克兰应该换一位总统，以便与俄罗斯达成和平协议。",
-    "published_dt_iso": "2026-10-12T00:00:00+08:00"
-  },
-  {
-    "title": "中国同意限制混合动力汽车出口，避免中欧全面贸易冲突",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111070",
-    "date": "2026-10-10",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "欧盟贸易专员谢夫乔维奇周五在新闻发布会上表示，中国接受了欧盟的一项核心要求，证明了对话可以带来成果。",
-    "published_dt_iso": "2026-10-10T00:00:00+08:00"
-  },
-  {
-    "title": "特朗普成立委员会调查美联储理事库克",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111064",
-    "date": "2026-10-10",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "在美国最高法院裁定库克可以留任后，美国总统成立一个委员会来调查有关库克“在一项或多项抵押贷款相关文件中作出虚假陈述”的指控。",
-    "published_dt_iso": "2026-10-10T00:00:00+08:00"
-  },
-  {
-    "title": "中国与欧盟就控制中国混合动力汽车对欧出口达成谅解",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111062",
-    "date": "2026-10-10",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "中国商务部在声明中表示，经过密集磋商，中欧双方以符合世贸组织规则的方式，就混合动力汽车贸易达成谅解。",
-    "published_dt_iso": "2026-10-10T00:00:00+08:00"
-  },
-  {
-    "title": "星巴克研究收购奇波雷墨西哥烧烤的可能性",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111055",
-    "date": "2026-10-09",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "咖啡连锁巨头若与市值近390亿美元的奇波雷连锁餐厅联姻，将达成餐饮业有史以来规模最大的并购交易。",
-    "published_dt_iso": "2026-10-09T00:00:00+08:00"
-  },
-  {
-    "title": "安妮•卡森获2026年诺贝尔文学奖",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111053",
-    "date": "2026-10-09",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "现年76岁的加拿大作家，以其“大胆而富有创意的作品与古典传统展开灵动对话，为当代文学开创了新的形式”。",
-    "published_dt_iso": "2026-10-09T00:00:00+08:00"
-  },
-  {
-    "title": "沙特机场遭导弹袭击后百余航班取消",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111054",
-    "date": "2026-10-09",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "胡塞武装周四称其用弹道导弹袭击了哈立德国王国际机场。",
-    "published_dt_iso": "2026-10-09T00:00:00+08:00"
-  },
-  {
     "title": "胡塞武装空袭对华重要窗口利雅德机场 中东冲突又一危险时刻",
     "title_zh": "",
     "link": "https://www.bbc.com/zhongwen/articles/cqy0rd16x33lo/trad?at_medium=RSS&at_campaign=rss",
@@ -1144,15 +1056,59 @@
     "published_dt_iso": "2026-10-11T09:12:43+08:00"
   },
   {
+    "title": "After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine",
+    "title_zh": "在俄罗斯达成柴油协议后，特朗普面临乌克兰的新危机",
+    "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html",
+    "date": "2026-10-13",
+    "published_time": "02:15",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统出人意料地决定暂停对俄罗斯柴油燃料的制裁，这让乌克兰和欧洲官员感到震惊，他们正在迈阿密附近的一家独家高尔夫俱乐部与美国特使会面。",
+    "published_dt_iso": "2026-10-13T02:15:11+08:00"
+  },
+  {
+    "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
+    "title_zh": "特朗普帮助普京参与俄罗斯与乌克兰的经济战争",
+    "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+    "date": "2026-10-13",
+    "published_time": "01:20",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统正着手购买俄罗斯柴油，同时也向乌克兰施压，要求其停止对炼油厂的袭击。炼油厂是莫斯科战争机器的命脉。",
+    "published_dt_iso": "2026-10-13T01:20:14+08:00"
+  },
+  {
+    "title": "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+    "title_zh": "北约保护乌克兰欧洲盟友免受俄罗斯攻击的详细计划",
+    "link": "https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html",
+    "date": "2026-10-13",
+    "published_time": "04:55",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "随着俄罗斯加紧对支持乌克兰的欧洲国家的破坏、纵火和网络攻击，北约透露了一份在战争情况下威慑克里姆林宫的蓝图。",
+    "published_dt_iso": "2026-10-13T04:55:31+08:00"
+  },
+  {
+    "title": "A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence",
+    "title_zh": "特朗普忠诚者、土耳其投资者和争夺财富和影响力的斗争",
+    "link": "https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html",
+    "date": "2026-10-13",
+    "published_time": "04:41",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "一位曾与马杜罗政权结盟的土耳其商人与特朗普总统的前私人律师阿丽娜·哈巴（ Alina Habba ）结下了结，同时他正在寻求在委内瑞拉保留一份大合同。",
+    "published_dt_iso": "2026-10-13T04:41:21+08:00"
+  },
+  {
     "title": "Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans",
     "title_zh": "埃隆·马斯克（ Elon Musk ）耗资2.76亿美元为共和党人提供的中期救援任务",
     "link": "https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html",
-    "date": "2026-10-12",
-    "published_time": "21:48",
+    "date": "2026-10-13",
+    "published_time": "01:24",
     "source": "纽约时报",
     "feed_name": "纽约时报",
     "summary": "这位世界上最富有的人已经悄然成为迄今为止最大的已知中期捐助者，试图通过美国政治史上最大的一些捐款来挽救共和党在参议院的多数席位。",
-    "published_dt_iso": "2026-10-12T21:48:47+08:00"
+    "published_dt_iso": "2026-10-13T01:24:24+08:00"
   },
   {
     "title": "Who’s Winning the Race for Congress?",
@@ -1166,6 +1122,193 @@
     "published_dt_iso": "2026-10-12T23:52:29+08:00"
   },
   {
+    "title": "Federal Agents Search Home of Rep. Ilhan Omar",
+    "title_zh": "联邦特工搜查众议员伊尔汗·奥马尔的家",
+    "link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
+    "date": "2026-10-13",
+    "published_time": "05:17",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "搜查是在中期选举的60天窗口内进行的，当时司法部历来避免采取与政治候选人有关的调查步骤。",
+    "published_dt_iso": "2026-10-13T05:17:58+08:00"
+  },
+  {
+    "title": "How American Retirees at Different Incomes Rely on Social Security",
+    "title_zh": "不同收入的美国退休人员如何依赖社会保障",
+    "link": "https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html",
+    "date": "2026-10-13",
+    "published_time": "00:17",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "社会保障基金有望在2032年之前短缺，这意味着福利将减少。以下是四个假设的家庭在退休时如何依赖该计划。",
+    "published_dt_iso": "2026-10-13T00:17:33+08:00"
+  },
+  {
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+    "title_zh": "距离TechCrunch Disrupt 2026有48小时的路程—直接聆听开发人员的心声",
+    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "date": "2026-10-12",
+    "published_time": "03:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在不到48小时的时间里， TechCrunch Disrupt 2026在旧金山的Moscone West启动。在价格上涨之前，通行证最多可节省$ 100 ，第二张通行证还可享受50%的优惠。或获得其他优惠。",
+    "published_dt_iso": "2026-10-12T03:00:00+08:00"
+  },
+  {
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+    "title_zh": "人工智能行业能否通过摆脱保密协议来说服数据中心的对手？",
+    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "date": "2026-10-12",
+    "published_time": "00:52",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在Equity上，我们讨论了数据中心暂停的影响以及人工智能行业是否存在通信问题。",
+    "published_dt_iso": "2026-10-12T00:52:33+08:00"
+  },
+  {
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "title_zh": "这些高管认为语音AI尚未达到ChatGPT时刻",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "date": "2026-10-11",
+    "published_time": "22:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "语音人工智能经常会错过上下文层的重要点，并导致整个管道中断。",
+    "published_dt_iso": "2026-10-11T22:00:00+08:00"
+  },
+  {
+    "title": "Gigabyte GO27Q24G 27-inch OLED 240 Hz QHD gaming monitor review: Tremendous bang for the buck",
+    "title_zh": "技嘉GO27Q24G 27英寸OLED 240 Hz QHD游戏显示器评论：物超所值",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-go27q24g-27-inch-oled-240-hz-qhd-gaming-monitor-review",
+    "date": "2026-10-12",
+    "published_time": "21:15",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Gigabyte凭借其GO27Q24G以低廉的价格提供极致的亮度和性能。这款27英寸OLED面板具有1300尼特的HDR峰值、宽色域、QHD分辨率、240 Hz和自适应同步。",
+    "published_dt_iso": "2026-10-12T21:15:00+08:00"
+  },
+  {
+    "title": "The Fitbit Edge is for folks who don’t want to go totally screenless",
+    "title_zh": "Fitbit Edge适用于不想完全无屏幕的人",
+    "link": "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker",
+    "date": "2026-10-12",
+    "published_time": "21:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Fitbit Edge可能不是谷歌保存最好的健身追踪秘密，但截至今天，它的存在是官方的。该跟踪器位于最近推出的Fitbit Air和公司目前推出的功能更强大的Google Pixel Watch 5之间。",
+    "published_dt_iso": "2026-10-12T21:00:00+08:00"
+  },
+  {
+    "title": "Liverpool 0-3 Manchester City: Premier League – as it happened",
+    "title_zh": "利物浦0-3曼城：英超联赛–实际情况",
+    "link": "https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates",
+    "date": "2026-10-12",
+    "published_time": "01:52",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "在Ryan Gravenberch的红牌之后，曼城拥抱了一种充满敌意的气氛，并让利物浦不堪重负威尔·昂温（ Will Unwin ）的更新，他是我们安菲尔德队今天比赛的一员。600多名曼城球迷组成的队伍得到了警察的护送，穿过车站",
+    "published_dt_iso": "2026-10-12T01:52:02+08:00"
+  },
+  {
+    "title": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
+    "title_zh": "面对安菲尔德的嘲讽，切尔基·克拉克（ Cherki Cracker ）在利物浦夺冠",
+    "link": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
+    "date": "2026-10-12",
+    "published_time": "01:42",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "这是曼城以前听过的配乐，但在比赛期间从未听过如此持续的魔咒。它来自利物浦的支持，在开球前先在安菲尔德周围响起，然后定期来。它总是",
+    "published_dt_iso": "2026-10-12T01:42:02+08:00"
+  },
+  {
+    "title": "情报机构：俄罗斯加紧策划暗杀欧洲军工高管",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111077",
+    "date": "2026-10-12",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "随着乌克兰战局陷入胶着，而俄罗斯经济面临困境，克里姆林宫下令在欧洲扩大破坏及“混合战”行动，试图在短期内削弱欧洲对乌支持。",
+    "published_dt_iso": "2026-10-12T00:00:00+08:00"
+  },
+  {
+    "title": "美俄达成柴油交易后 欧洲盟友誓言支持乌克兰",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111075",
+    "date": "2026-10-12",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "急于在中期选举前降低能源价格的特朗普，在与普京达成柴油协议后猛轰泽连斯基，称乌克兰应该换一位总统，以便与俄罗斯达成和平协议。",
+    "published_dt_iso": "2026-10-12T00:00:00+08:00"
+  },
+  {
+    "title": "中国同意限制混合动力汽车出口，避免中欧全面贸易冲突",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111070",
+    "date": "2026-10-10",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "欧盟贸易专员谢夫乔维奇周五在新闻发布会上表示，中国接受了欧盟的一项核心要求，证明了对话可以带来成果。",
+    "published_dt_iso": "2026-10-10T00:00:00+08:00"
+  },
+  {
+    "title": "特朗普成立委员会调查美联储理事库克",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111064",
+    "date": "2026-10-10",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "在美国最高法院裁定库克可以留任后，美国总统成立一个委员会来调查有关库克“在一项或多项抵押贷款相关文件中作出虚假陈述”的指控。",
+    "published_dt_iso": "2026-10-10T00:00:00+08:00"
+  },
+  {
+    "title": "中国与欧盟就控制中国混合动力汽车对欧出口达成谅解",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111062",
+    "date": "2026-10-10",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "中国商务部在声明中表示，经过密集磋商，中欧双方以符合世贸组织规则的方式，就混合动力汽车贸易达成谅解。",
+    "published_dt_iso": "2026-10-10T00:00:00+08:00"
+  },
+  {
+    "title": "星巴克研究收购奇波雷墨西哥烧烤的可能性",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111055",
+    "date": "2026-10-09",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "咖啡连锁巨头若与市值近390亿美元的奇波雷连锁餐厅联姻，将达成餐饮业有史以来规模最大的并购交易。",
+    "published_dt_iso": "2026-10-09T00:00:00+08:00"
+  },
+  {
+    "title": "安妮•卡森获2026年诺贝尔文学奖",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111053",
+    "date": "2026-10-09",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "现年76岁的加拿大作家，以其“大胆而富有创意的作品与古典传统展开灵动对话，为当代文学开创了新的形式”。",
+    "published_dt_iso": "2026-10-09T00:00:00+08:00"
+  },
+  {
+    "title": "沙特机场遭导弹袭击后百余航班取消",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111054",
+    "date": "2026-10-09",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "胡塞武装周四称其用弹道导弹袭击了哈立德国王国际机场。",
+    "published_dt_iso": "2026-10-09T00:00:00+08:00"
+  },
+  {
     "title": "Democrats Tie Corruption to High Costs in Final Midterms Push",
     "title_zh": "民主党人在中期决赛中将腐败与高成本联系起来",
     "link": "https://www.nytimes.com/2026/10/12/us/democrats-midterms-corruption-affordability.html",
@@ -1175,28 +1318,6 @@
     "feed_name": "纽约时报",
     "summary": "党的领导人正在努力将华盛顿的暴利行为以及亿万富翁和美国企业的影响力与负担能力联系起来，他们希望这将是一个强有力的结束信息。",
     "published_dt_iso": "2026-10-12T17:02:32+08:00"
-  },
-  {
-    "title": "Federal Agents Search Home of Rep. Ilhan Omar",
-    "title_zh": "联邦特工搜查众议员伊尔汗·奥马尔的家",
-    "link": "https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html",
-    "date": "2026-10-12",
-    "published_time": "23:02",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "搜查是在中期选举的60天窗口内进行的，当时司法部历来避免采取与政治候选人有关的调查步骤。",
-    "published_dt_iso": "2026-10-12T23:02:20+08:00"
-  },
-  {
-    "title": "Trump Gives Putin a Hand in Russia’s Economic War With Ukraine",
-    "title_zh": "特朗普帮助普京参与俄罗斯与乌克兰的经济战争",
-    "link": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
-    "date": "2026-10-13",
-    "published_time": "00:20",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "特朗普总统正着手购买俄罗斯柴油，同时也向乌克兰施压，要求其停止对炼油厂的袭击。炼油厂是莫斯科战争机器的命脉。",
-    "published_dt_iso": "2026-10-13T00:20:10+08:00"
   },
   {
     "title": "Russian Film Aims to Rewrite History of Deadly Theater Bombing in Ukraine",

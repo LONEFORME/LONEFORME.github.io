@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-13 00:53 抓取更新</span>
+      <span>2026-10-13 05:20 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">53</span>
+        <span class="channel-count">52</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -33,11 +33,11 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
-        <span class="channel-count">10</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">13</span>
+        <span class="channel-count">7</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,46 +56,47 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">53</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">52</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · IT之家×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">纽约时报×10 · 中国新闻网×10</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/10-13/10712347.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社阿布贾10月12日电(记者洪泽华)尼日利亚军方12日发表声明说，军方10日在该国东北部博尔诺州实施空袭，打死40余名“疑似恐怖分子”和一名极端组织“伊斯兰国西非省”的高级指挥官。" data-title="尼日利亚军方称打死40余名“疑似恐怖分子”" data-date="10-13 00:41" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="搜查是在中期选举的60天窗口内进行的，当时司法部历来避免采取与政治候选人有关的调查步骤。" data-title="Federal Agents Search Home of Rep. Ilhan Omar" data-date="10-13 05:17" data-source="纽约时报">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 10-13 00:41</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="hero-featured-date">🕒 10-13 05:17</span>
       </div>
-      <h2 class="hero-featured-title">尼日利亚军方称打死40余名“疑似恐怖分子”</h2>
+      <h2 class="hero-featured-title">联邦特工搜查众议员伊尔汗·奥马尔的家</h2>
+      <div class="hero-featured-title-en">Federal Agents Search Home of Rep. Ilhan Omar</div>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/jev-like-decision-models-are-flooding-the-ai-market-after-researcher-claims-typesafe-copied-their-research-microsoft-openai-among-companies-releasing-lightweight-system-one-ai-models" target="_blank" rel="noopener" data-cat="keji" data-summary="Jev和大量人工智能决策模型—据称TypeSafe复制了研究人员的架构，但自己也被复制了" data-title="Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research" data-date="10-13 00:00" data-source="Tom's Hardware">
+    <a class="hero-sub-card" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth" target="_blank" rel="noopener" data-cat="keji" data-summary="英特尔的Crescent Island AI推理加速器将作为GPU D系列推向市场，承诺提供1.3 PFLOPS的FP8计算以及高达480 GB的LPDDR5X ，提供1.5 TB/s的内存带宽。" data-title="Intel&#39;s Crescent Island AI accelerator officially powers new GPU D" data-date="10-13 03:48" data-source="Tom's Hardware">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
       </div>
-      <p class="hero-sub-title">Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research</p>
+      <p class="hero-sub-title">Intel's Crescent Island AI accelerator officially powers new GPU D</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="不仅仅是俱乐部最近的收费本身是前所未有的，它也是用来描述它们的语言在这里注册我们的免费通讯足球语言是一种精美且高度细致入微的方言。大多数参与者" data-title="Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson" data-date="10-12 22:24" data-source="卫报">
+    <a class="hero-sub-card" href="https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="杰克·鲁多尼（ Jack Rudoni ）、西迪基·谢里夫（ Sidiki Cherif ）、埃利斯·西姆斯（ Ellis Simms ）和斯蒂芬·姆富尼（ Stephen Mfuni ）的进球--谢里夫（ Cherif ）和姆富尼（ Mfuni ）的盲人--给考文垂带来了25考文垂会想利用他们广泛的攻击者来让他们" data-title="Coventry City 4-1 Newcastle United: Premier League – as it happened" data-date="10-13 05:12" data-source="卫报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-theathletic">🇬🇧 卫报</span>
       </div>
-      <p class="hero-sub-title">Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson</p>
+      <p class="hero-sub-title">Coventry City 4-1 Newcastle United: Premier League – as it happened</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据《纽约时报》报道，埃隆·马斯克（ Elon Musk ）自7月以来已向共和党团体发放了至少2.76亿美元，使他成为该党最大的知名捐助者和最大的中期捐助者。其中1.58亿美元-最大的政治捐款人之一" data-title="Elon Musk has donated over $276 million to Republican midterm efforts" data-date="10-13 00:52" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如果攻击是最好的防守形式需要验证，弗兰克·兰帕德可以指出这场比赛。在他们连续第二次获胜后，考文垂爬出了降级区，展示了他们的经理的意愿的好处" data-title="Coventry land long-awaited home win as Mfuni seals rout of Newcastle" data-date="10-13 05:09" data-source="卫报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-theverge">🌐 The Verge</span>
+        <span class="source-badge source-theathletic">🇬🇧 卫报</span>
       </div>
-      <p class="hero-sub-title">Elon Musk has donated over $276 million to Republican midterm efforts</p>
+      <p class="hero-sub-title">Coventry land long-awaited home win as Mfuni seals rout of Newcastle</p>
     </a>
   </div>
 </div>
@@ -106,20 +107,44 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="搜查是在中期选举的60天窗口内进行的，当时司法部历来避免采取与政治候选人有关的调查步骤。" data-title="Federal Agents Search Home of Rep. Ilhan Omar" data-date="10-13 05:17" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 05:17</span>
+          <span class="news-item-title">联邦特工搜查众议员伊尔汗·奥马尔的家</span>
+          <span class="news-item-title-en">Federal Agents Search Home of Rep. Ilhan Omar</span>
+          <span class="news-value-point">💡 搜查是在中期选举的60天窗口内进行的，当时司法部历来避免采取与政治候选人有关的调查步骤</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="随着俄罗斯加紧对支持乌克兰的欧洲国家的破坏、纵火和网络攻击，北约透露了一份在战争情况下威慑克里姆林宫的蓝图。" data-title="NATO Details Plan to Shield Ukraine’s European Allies From Russia" data-date="10-13 04:55" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 04:55</span>
+          <span class="news-item-title">北约保护乌克兰欧洲盟友免受俄罗斯攻击的详细计划</span>
+          <span class="news-item-title-en">NATO Details Plan to Shield Ukraine’s European Allies From Russia</span>
+          <span class="news-value-point">💡 随着俄罗斯加紧对支持乌克兰的欧洲国家的破坏、纵火和网络攻击，北约透露了一份在战争情况下威慑克里姆林宫的蓝图</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/12/us/politics/a-trump-loyalist-a-turkish-investor-and-a-battle-for-wealth-and-influence.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="一位曾与马杜罗政权结盟的土耳其商人与特朗普总统的前私人律师阿丽娜·哈巴（ Alina Habba ）结下了结，同时他正在寻求在委内瑞拉保留一份大合同。" data-title="A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence" data-date="10-13 04:41" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 04:41</span>
+          <span class="news-item-title">特朗普忠诚者、土耳其投资者和争夺财富和影响力的斗争</span>
+          <span class="news-item-title-en">A Trump Loyalist, a Turkish Investor and a Battle for Wealth and Influence</span>
+          <span class="news-value-point">💡 一位曾与马杜罗政权结盟的土耳其商人与特朗普总统的前私人律师阿丽娜·哈巴（ Alina Habba ）结下了结，同时他正在寻求在委内瑞拉保留一份大…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="特朗普总统正着手购买俄罗斯柴油，同时也向乌克兰施压，要求其停止对炼油厂的袭击。炼油厂是莫斯科战争机器的命脉。" data-title="Trump Gives Putin a Hand in Russia’s Economic War With Ukraine" data-date="10-13 01:20" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 01:20</span>
+          <span class="news-item-title">特朗普帮助普京参与俄罗斯与乌克兰的经济战争</span>
+          <span class="news-item-title-en">Trump Gives Putin a Hand in Russia’s Economic War With Ukraine</span>
+          <span class="news-value-point">💡 特朗普总统正着手购买俄罗斯柴油，同时也向乌克兰施压，要求其停止对炼油厂的袭击</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-13/10712347.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社阿布贾10月12日电(记者洪泽华)尼日利亚军方12日发表声明说，军方10日在该国东北部博尔诺州实施空袭，打死40余名“疑似恐怖分子”和一名极端组织“伊斯兰国西非省”的高级指挥官。" data-title="尼日利亚军方称打死40余名“疑似恐怖分子”" data-date="10-13 00:41" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-13 00:41</span>
           <span class="news-item-title">尼日利亚军方称打死40余名“疑似恐怖分子”</span>
           <span class="news-value-point">💡 新华社阿布贾10月12日电(记者洪泽华)尼日利亚军方12日发表声明说，军方10日在该国东北部博尔诺州实施空袭，打死40余名“疑似恐怖分子”和一名…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="特朗普总统正着手购买俄罗斯柴油，同时也向乌克兰施压，要求其停止对炼油厂的袭击。炼油厂是莫斯科战争机器的命脉。" data-title="Trump Gives Putin a Hand in Russia’s Economic War With Ukraine" data-date="10-13 00:20" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-13 00:20</span>
-          <span class="news-item-title">特朗普帮助普京参与俄罗斯与乌克兰的经济战争</span>
-          <span class="news-item-title-en">Trump Gives Putin a Hand in Russia’s Economic War With Ukraine</span>
-          <span class="news-value-point">💡 特朗普总统正着手购买俄罗斯柴油，同时也向乌克兰施压，要求其停止对炼油厂的袭击</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-13/10712346.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="伊朗伊斯兰革命卫队海军12日发表声明说，当天早些时候在霍尔木兹海峡打击了一艘违规的大型油轮。" data-title="伊朗革命卫队：在霍尔木兹海峡打击了一艘违规油轮" data-date="10-13 00:13" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -186,14 +211,6 @@ title: 热点新闻
           <span class="news-item-title">王毅与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤</span>
           <span class="news-value-point">💡 中新社北京10月12日电 10月12日，中共中央政治局委员、中央外办主任王毅在北京与俄罗斯总统助理、海事委员会主席帕特鲁舍夫举行会晤</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/12/us/politics/ilhan-omar-home-searched.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="搜查是在中期选举的60天窗口内进行的，当时司法部历来避免采取与政治候选人有关的调查步骤。" data-title="Federal Agents Search Home of Rep. Ilhan Omar" data-date="10-12 23:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-12 23:02</span>
-          <span class="news-item-title">联邦特工搜查众议员伊尔汗·奥马尔的家</span>
-          <span class="news-item-title-en">Federal Agents Search Home of Rep. Ilhan Omar</span>
-          <span class="news-value-point">💡 搜查是在中期选举的60天窗口内进行的，当时司法部历来避免采取与政治候选人有关的调查步骤</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-12/10712330.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月12日电 全国人大常委会委员长赵乐际12日在北京人民大会堂同越南国会主席陈青敏举行会谈，并共同主持中越立法机构联合委员会第二次会议。" data-title="赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议" data-date="10-12 22:22" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -201,27 +218,45 @@ title: 热点新闻
           <span class="news-item-title">赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议</span>
           <span class="news-value-point">💡 中新社北京10月12日电 全国人大常委会委员长赵乐际12日在北京人民大会堂同越南国会主席陈青敏举行会谈，并共同主持中越立法机构联合委员会第二次会…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-12/10712324.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="10月12日下午，中国国务院总理李强在北京人民大会堂会见越南国会主席陈青敏。中新社记者 田雨昊 摄 中新社北京10月12日电 10月12日下午，中国国务院总理李强在北京人民大会堂会见越南国会主席陈青敏。" data-title="李强会见越南国会主席陈青敏" data-date="10-12 22:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-12 22:21</span>
-          <span class="news-item-title">李强会见越南国会主席陈青敏</span>
-          <span class="news-value-point">💡 10月12日下午，中国国务院总理李强在北京人民大会堂会见越南国会主席陈青敏</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-12/10712319.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京10月12日电 全国人大常委会委员长赵乐际12日在北京人民大会堂同越南国会主席陈青敏举行会谈，并共同主持中越立法机构联合委员会第二次会议。" data-title="赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议" data-date="10-12 21:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-12 21:55</span>
-          <span class="news-item-title">赵乐际同越南国会主席陈青敏会谈并共同主持中越立法机构联合委员会第二次会议</span>
-          <span class="news-value-point">💡 新华社北京10月12日电 全国人大常委会委员长赵乐际12日在北京人民大会堂同越南国会主席陈青敏举行会谈，并共同主持中越立法机构联合委员会第二次会…</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
-      <span class="news-category-count">10 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth" target="_blank" rel="noopener" data-cat="keji" data-summary="英特尔的Crescent Island AI推理加速器将作为GPU D系列推向市场，承诺提供1.3 PFLOPS的FP8计算以及高达480 GB的LPDDR5X ，提供1.5 TB/s的内存带宽。" data-title="Intel&#39;s Crescent Island AI accelerator officially powers new GPU D" data-date="10-13 03:48" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-13 03:48</span>
+          <span class="news-item-title">英特尔的Crescent Island AI加速器正式为新的GPU D提供支持</span>
+          <span class="news-item-title-en">Intel's Crescent Island AI accelerator officially powers new GPU D</span>
+          <span class="news-value-point">💡 英特尔的Crescent Island AI推理加速器将作为GPU D系列推向市场，承诺提供1.3 PFLOPS的FP8计算以及高达480 GB…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/" target="_blank" rel="noopener" data-cat="keji" data-summary="Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型，而Wonder模型更大，据说更有能力，在编码等复杂任务上具有更高的基准分数和更好的结果。" data-title="Meta releases its first frontier model, Muse Wonder" data-date="10-13 01:56" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-13 01:56</span>
+          <span class="news-item-title">Meta发布其首款前沿车型Muse Wonder</span>
+          <span class="news-item-title-en">Meta releases its first frontier model, Muse Wonder</span>
+          <span class="news-value-point">💡 Muse Spark的目标是成为一个可以在低延迟下执行的轻量级模型，而Wonder模型更大，据说更有能力，在编码等复杂任务上具有更高的基准分数和…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/" target="_blank" rel="noopener" data-cat="keji" data-summary="一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近5000万美元的美国军事合同。" data-title="WindBorne wins a hefty US Air Force contract for its balloon data" data-date="10-13 01:19" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-13 01:19</span>
+          <span class="news-item-title">WindBorne因其气球数据赢得了美国空军的巨额合同</span>
+          <span class="news-item-title-en">WindBorne wins a hefty US Air Force contract for its balloon data</span>
+          <span class="news-value-point">💡 一家使用气象气球和人工智能预测天气的硅谷初创公司赢得了一份价值近5000万美元的美国军事合同</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model" target="_blank" rel="noopener" data-cat="keji" data-summary="Meta正在弥补AI竞赛中失去的时间。在推出Muse Spark （其经过改造的Superintelligence Labs部门的第一个模型）和热闹的人工智能代理Muse之后，它现在推出了两款新型号，它声称可以与业界的" data-title="Meta has some Wonder Full new AI models" data-date="10-13 01:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-13 01:00</span>
+          <span class="news-item-title">Meta有一些Wonder全新的AI模型</span>
+          <span class="news-item-title-en">Meta has some Wonder Full new AI models</span>
+          <span class="news-value-point">💡 Meta正在弥补AI竞赛中失去的时间</span>
+        </a>
         <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/jev-like-decision-models-are-flooding-the-ai-market-after-researcher-claims-typesafe-copied-their-research-microsoft-openai-among-companies-releasing-lightweight-system-one-ai-models" target="_blank" rel="noopener" data-cat="keji" data-summary="Jev和大量人工智能决策模型—据称TypeSafe复制了研究人员的架构，但自己也被复制了" data-title="Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research" data-date="10-13 00:00" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
@@ -229,6 +264,14 @@ title: 热点新闻
           <span class="news-item-title">在研究人员声称TypeSafe复制了他们的研究之后，类似Jev的决策模型正在涌入人工智能市场</span>
           <span class="news-item-title-en">Jev-like decision models are flooding the AI market, after researcher claims TypeSafe copied their research</span>
           <span class="news-value-point">💡 Jev和大量人工智能决策模型—据称TypeSafe复制了研究人员的架构，但自己也被复制了</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/" target="_blank" rel="noopener" data-cat="keji" data-summary="记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断。但人工智能真的能让事情变得更好吗？" data-title="Honeyjar offers AI tools to improve PR and comms at every company" data-date="10-12 23:45" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-12 23:45</span>
+          <span class="news-item-title">Honeyjar提供人工智能工具来改善每家公司的公关和通信</span>
+          <span class="news-item-title-en">Honeyjar offers AI tools to improve PR and comms at every company</span>
+          <span class="news-value-point">💡 记者、企业家，甚至一些公关专业人士都会告诉你，公关流程已经中断</span>
         </a>
         <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/meet-the-modders-porting-ringfenced-dlss-features-to-older-gpus-how-dlss-5-and-multi-frame-generation-were-unlocked-for-older-architectures" target="_blank" rel="noopener" data-cat="keji" data-summary="至少根据Nvidia的说法， DLSS多帧生成和DLSS 5神经渲染现在可以在从未打算用于它的硬件上运行。现在，这些社区进步发布的两个基础模块大声疾呼。" data-title="Meet the modders porting ringfenced DLSS features to older GPUs" data-date="10-12 23:30" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -276,6 +319,14 @@ title: 热点新闻
           <span class="news-item-title-en">Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C</span>
           <span class="news-value-point">💡 为定制设计的人工智能服务器定制的冷板： Frore的LiquidJet Diamond</span>
         </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能的核心承诺之一是，它对一个人的了解越多，它就越能更好地帮助他们完成任务并提出适当的建议，如果你相信科技公司的话，这需要应用程序和设备来聆听、观看、" data-title="Former Plaud exec raises $26M for AI app that listens to you in the background" data-date="10-12 20:47" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-12 20:47</span>
+          <span class="news-item-title">前Plaud高管为在后台倾听您的声音的人工智能应用程序筹集了2600万美元$</span>
+          <span class="news-item-title-en">Former Plaud exec raises $26M for AI app that listens to you in the background</span>
+          <span class="news-value-point">💡 人工智能的核心承诺之一是，它对一个人的了解越多，它就越能更好地帮助他们完成任务并提出适当的建议，如果你相信科技公司的话，这需要应用程序和设备来聆…</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/10/12/technology/universal-basic-income-silicon-valley.html" target="_blank" rel="noopener" data-cat="keji" data-summary="一年多来，《纽约时报》跟踪了全民基本收入计划的接受者，埃隆·马斯克(Elon Musk)和其他科技领袖一直将其作为解决人工智能推动的失业问题的解决方案。" data-title="Is Universal Basic Income the Answer to A.I." data-date="10-12 17:00" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -291,20 +342,37 @@ title: 热点新闻
           <span class="news-item-title">华为AI靠RSI通关25款游戏！操作次数比人类少56%</span>
           <span class="news-value-point">💡 游戏打到21:0，AI甚至不用再调用大模型了</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/502649.html" target="_blank" rel="noopener" data-cat="keji" data-summary="GLM“速度仙人”来了？" data-title="智谱新模型，490 tokens/s！" data-date="10-12 10:37" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-12 10:37</span>
-          <span class="news-item-title">智谱新模型，490 tokens/s！</span>
-          <span class="news-value-point">💡 GLM“速度仙人”来了</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">13 条</span>
+      <span class="news-category-count">7 条</span>
     </div>
+        <a class="news-item" href="https://www.theguardian.com/football/live/2026/oct/12/coventry-city-newcastle-united-premier-league-live-score-updates" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="杰克·鲁多尼（ Jack Rudoni ）、西迪基·谢里夫（ Sidiki Cherif ）、埃利斯·西姆斯（ Ellis Simms ）和斯蒂芬·姆富尼（ Stephen Mfuni ）的进球--谢里夫（ Cherif ）和姆富尼（ Mfuni ）的盲人--给考文垂带来了25考文垂会想利用他们广泛的攻击者来让他们" data-title="Coventry City 4-1 Newcastle United: Premier League – as it happened" data-date="10-13 05:12" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">10-13 05:12</span>
+          <span class="news-item-title">考文垂城4-1纽卡斯尔联队：英超联赛–事实如此</span>
+          <span class="news-item-title-en">Coventry City 4-1 Newcastle United: Premier League – as it happened</span>
+          <span class="news-value-point">💡 杰克·鲁多尼（ Jack Rudoni ）、西迪基·谢里夫（ Sidiki Cherif ）、埃利斯·西姆斯（ Ellis Simms ）和斯蒂…</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="找出哪位英国顶尖射手正在向进球排行榜射击。继续阅读……" data-title="Premier League top scorers 2026-27: who is leading race for the golden boot?" data-date="10-13 04:58" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">10-13 04:58</span>
+          <span class="news-item-title">2026-27赛季英超联赛最佳射手：谁是金靴赛的领跑者？</span>
+          <span class="news-item-title-en">Premier League top scorers 2026-27: who is leading race for the golden boot?</span>
+          <span class="news-value-point">💡 找出哪位英国顶尖射手正在向进球排行榜射击</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="据大曼彻斯特联合管理局（ Greater Manchester Combined Authority ）称，总理安迪·伯纳姆（ Andy Burnham ）在大曼彻斯特市长期间与曼城主席Khaldoon Al Mubarak举行了正式会晤。" data-title="Burnham had formal meeting with Man City chair while mayor" data-date="10-13 01:09" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-13 01:09</span>
+          <span class="news-item-title">伯纳姆在市长任职期间与曼城主席举行了正式会议</span>
+          <span class="news-item-title-en">Burnham had formal meeting with Man City chair while mayor</span>
+          <span class="news-value-point">💡 据大曼彻斯特联合管理局（ Greater Manchester Combined Authority ）称，总理安迪·伯纳姆（ Andy Bur…</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/oct/12/man-citys-crisis-pushes-the-limits-of-language" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="不仅仅是俱乐部最近的收费本身是前所未有的，它也是用来描述它们的语言在这里注册我们的免费通讯足球语言是一种精美且高度细致入微的方言。大多数参与者" data-title="Winning is not enough for Manchester City to move on from this crisis | Jonathan Wilson" data-date="10-12 22:24" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
@@ -337,78 +405,6 @@ title: 热点新闻
           <span class="news-item-title-en">Premier League: 10 talking points from the weekend’s action</span>
           <span class="news-value-point">💡 曼城对胜利毫不后悔，马刺取得了某种进步，诺尼·马杜埃克迎接了这一时刻</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="被称为英超联赛冠军清算日的东西变成了周日下午的漫步安菲尔德欢迎曼城进入他们的新现实，一个肮脏的地方，每一次触摸都伴随着“作弊”的呼喊，任何有利的" data-title="Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter" data-date="10-12 04:02" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-12 04:02</span>
-          <span class="news-item-title">曼城在安菲尔德的公开羞辱中摆脱混乱和争议|安迪·亨特</span>
-          <span class="news-item-title-en">Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter</span>
-          <span class="news-value-point">💡 被称为英超联赛冠军清算日的东西变成了周日下午的漫步安菲尔德欢迎曼城进入他们的新现实，一个肮脏的地方，每一次触摸都伴随着“作弊”的呼喊，任何有利的</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="“你无法想象我有多开心……我来这里是为了赢得&#39;自从有罪判决以来，曼城在安菲尔德的第一场比赛中以3比0获胜恩佐·马雷斯卡称赞曼城在利物浦“制造自己的噪音”，因为他们忽略了周围的争议和威胁" data-title="‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph" data-date="10-12 03:43" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-12 03:43</span>
-          <span class="news-item-title">“我们自己制造噪音” ：马雷斯卡在利物浦胜利后称赞曼城</span>
-          <span class="news-item-title-en">‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph</span>
-          <span class="news-value-point">💡 “你无法想象我有多开心……我来这里是为了赢得'自从有罪判决以来，曼城在安菲尔德的第一场比赛中以3比0获胜恩佐·马雷斯卡称赞曼城在利物浦“制造自己…</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利物浦在安菲尔德的挣扎仍在继续，因为伊拉奥拉仍在等待他在安菲尔德的第一场英超联赛胜利。" data-title="Winless and an &#39;easy touch&#39; - what&#39;s happened to the Anfield fear factor?" data-date="10-12 03:41" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-12 03:41</span>
-          <span class="news-item-title">无胜利和“轻松触摸” -安菲尔德的恐惧因素发生了什么？</span>
-          <span class="news-item-title-en">Winless and an 'easy touch' - what's happened to the Anfield fear factor?</span>
-          <span class="news-value-point">💡 利物浦在安菲尔德的挣扎仍在继续，因为伊拉奥拉仍在等待他在安菲尔德的第一场英超联赛胜利</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="自从俱乐部被判犯有违反财务规则的罪行以来，足球在比赛的第一个周末感觉次要Cimbri正朝着危险的南方前进，但在罗马，生活仍在继续。小行星肯定是朝这边来的，但人们去上班，吃饭，" data-title="Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson" data-date="10-12 03:11" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-12 03:11</span>
-          <span class="news-item-title">英超联赛在曼城审判日的阴影下回归|乔纳森·威尔逊</span>
-          <span class="news-item-title-en">Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson</span>
-          <span class="news-value-point">💡 自从俱乐部被判犯有违反财务规则的罪行以来，足球在比赛的第一个周末感觉次要Cimbri正朝着危险的南方前进，但在罗马，生活仍在继续</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="安迪·伯纳姆（ Andy Burnham ）在曼城被判犯有与违反英超财务规则有关的所有指控后发表的言论遭到了批评。" data-title="Burnham to release details of Man City meetings" data-date="10-12 02:01" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-12 02:01</span>
-          <span class="news-item-title">伯纳姆将公布曼城会议的细节</span>
-          <span class="news-item-title-en">Burnham to release details of Man City meetings</span>
-          <span class="news-value-point">💡 安迪·伯纳姆（ Andy Burnham ）在曼城被判犯有与违反英超财务规则有关的所有指控后发表的言论遭到了批评</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在Ryan Gravenberch的红牌之后，曼城拥抱了一种充满敌意的气氛，并让利物浦不堪重负威尔·昂温（ Will Unwin ）的更新，他是我们安菲尔德队今天比赛的一员。600多名曼城球迷组成的队伍得到了警察的护送，穿过车站" data-title="Liverpool 0-3 Manchester City: Premier League – as it happened" data-date="10-12 01:52" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-12 01:52</span>
-          <span class="news-item-title">利物浦0-3曼城：英超联赛–实际情况</span>
-          <span class="news-item-title-en">Liverpool 0-3 Manchester City: Premier League – as it happened</span>
-          <span class="news-value-point">💡 在Ryan Gravenberch的红牌之后，曼城拥抱了一种充满敌意的气氛，并让利物浦不堪重负威尔·昂温（ Will Unwin ）的更新，他是…</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这是曼城以前听过的配乐，但在比赛期间从未听过如此持续的魔咒。它来自利物浦的支持，在开球前先在安菲尔德周围响起，然后定期来。它总是" data-title="Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts" data-date="10-12 01:42" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-12 01:42</span>
-          <span class="news-item-title">面对安菲尔德的嘲讽，切尔基·克拉克（ Cherki Cracker ）在利物浦夺冠</span>
-          <span class="news-item-title-en">Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts</span>
-          <span class="news-value-point">💡 这是曼城以前听过的配乐，但在比赛期间从未听过如此持续的魔咒</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利物浦和曼城球员在英超比赛后的评分。" data-title="Who &#39;simply has to do better&#39;? Liverpool v Man City player ratings" data-date="10-12 01:30" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-12 01:30</span>
-          <span class="news-item-title">谁“只需要做得更好” ？利物浦v曼城球员评分</span>
-          <span class="news-item-title-en">Who 'simply has to do better'? Liverpool v Man City player ratings</span>
-          <span class="news-value-point">💡 利物浦和曼城球员在英超比赛后的评分</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="找出哪位英国顶尖射手正在向进球排行榜射击。继续阅读……" data-title="Premier League top scorers 2026-27: who is leading race for the golden boot?" data-date="10-12 01:26" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-12 01:26</span>
-          <span class="news-item-title">2026-27赛季英超联赛最佳射手：谁是金靴赛的领跑者？</span>
-          <span class="news-item-title-en">Premier League top scorers 2026-27: who is leading race for the golden boot?</span>
-          <span class="news-value-point">💡 找出哪位英国顶尖射手正在向进球排行榜射击</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -416,6 +412,30 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如果攻击是最好的防守形式需要验证，弗兰克·兰帕德可以指出这场比赛。在他们连续第二次获胜后，考文垂爬出了降级区，展示了他们的经理的意愿的好处" data-title="Coventry land long-awaited home win as Mfuni seals rout of Newcastle" data-date="10-13 05:09" data-source="卫报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">10-13 05:09</span>
+          <span class="news-item-title">考文垂土地期待已久的主场胜利， Mfuni海豹队击败纽卡斯尔</span>
+          <span class="news-item-title-en">Coventry land long-awaited home win as Mfuni seals rout of Newcastle</span>
+          <span class="news-value-point">💡 如果攻击是最好的防守形式需要验证，弗兰克·兰帕德可以指出这场比赛</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="特朗普总统出人意料地决定暂停对俄罗斯柴油燃料的制裁，这让乌克兰和欧洲官员感到震惊，他们正在迈阿密附近的一家独家高尔夫俱乐部与美国特使会面。" data-title="After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine" data-date="10-13 02:15" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 02:15</span>
+          <span class="news-item-title">在俄罗斯达成柴油协议后，特朗普面临乌克兰的新危机</span>
+          <span class="news-item-title-en">After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine</span>
+          <span class="news-value-point">💡 特朗普总统出人意料地决定暂停对俄罗斯柴油燃料的制裁，这让乌克兰和欧洲官员感到震惊，他们正在迈阿密附近的一家独家高尔夫俱乐部与美国特使会面</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/12/us/politics/elon-musk-midterms.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这位世界上最富有的人已经悄然成为迄今为止最大的已知中期捐助者，试图通过美国政治史上最大的一些捐款来挽救共和党在参议院的多数席位。" data-title="Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans" data-date="10-13 01:24" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 01:24</span>
+          <span class="news-item-title">埃隆·马斯克（ Elon Musk ）耗资2.76亿美元为共和党人提供的中期救援任务</span>
+          <span class="news-item-title-en">Inside Elon Musk’s $276 Million Midterm Rescue Mission for Republicans</span>
+          <span class="news-value-point">💡 这位世界上最富有的人已经悄然成为迄今为止最大的已知中期捐助者，试图通过美国政治史上最大的一些捐款来挽救共和党在参议院的多数席位</span>
+        </a>
         <a class="news-item" href="https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据《纽约时报》报道，埃隆·马斯克（ Elon Musk ）自7月以来已向共和党团体发放了至少2.76亿美元，使他成为该党最大的知名捐助者和最大的中期捐助者。其中1.58亿美元-最大的政治捐款人之一" data-title="Elon Musk has donated over $276 million to Republican midterm efforts" data-date="10-13 00:52" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
@@ -423,6 +443,14 @@ title: 热点新闻
           <span class="news-item-title">埃隆·马斯克(Elon Musk)已向共和党中期计划捐款逾2.76亿美元($)</span>
           <span class="news-item-title-en">Elon Musk has donated over $276 million to Republican midterm efforts</span>
           <span class="news-value-point">💡 据《纽约时报》报道，埃隆·马斯克（ Elon Musk ）自7月以来已向共和党团体发放了至少2.76亿美元，使他成为该党最大的知名捐助者和最大的…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/12/business/social-security-income-retirement-benefits.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="社会保障基金有望在2032年之前短缺，这意味着福利将减少。以下是四个假设的家庭在退休时如何依赖该计划。" data-title="How American Retirees at Different Incomes Rely on Social Security" data-date="10-13 00:17" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 00:17</span>
+          <span class="news-item-title">不同收入的美国退休人员如何依赖社会保障</span>
+          <span class="news-item-title-en">How American Retirees at Different Incomes Rely on Social Security</span>
+          <span class="news-value-point">💡 社会保障基金有望在2032年之前短缺，这意味着福利将减少</span>
         </a>
         <a class="news-item" href="https://www.tomshardware.com/3d-printing/3d-scanning/bambu-lab-announces-its-first-3d-scanner-and-it-might-be-expensive" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Bambu Lab嘲笑其S1 3D扫描仪， FCC文件暗示了Bambu Lab目前保密的内容。" data-title="Bambu Lab officially teases its first 3D scanner" data-date="10-13 00:15" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
@@ -497,36 +525,6 @@ title: 热点新闻
           <span class="news-item-date">10-12 23:00</span>
           <span class="news-item-title">比亚迪腾势将在欧洲推出“天神之眼”辅助驾驶系统，Z9 GT 率先支持</span>
           <span class="news-value-point">💡 IT之家 10 月 12 日消息，比亚迪旗下品牌腾势今天在巴黎国际车展宣布，将在欧洲推出“天神之眼”辅助驾驶系统，首批支持车型为 Z9 GT，预…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on" target="_blank" rel="noopener" data-cat="zonghe" data-summary="大多数公司都放慢了发布新款Switch 2手机壳的速度，但我最喜欢的配件制造商之一最近在几次延迟之后首次亮相。Mechanism的$ 49 Basecase是控制台的搭扣式外壳，可接入公司的模块" data-title="Mechanism’s first Switch 2 case is as awesome as I hoped it would be" data-date="10-12 23:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-12 23:00</span>
-          <span class="news-item-title">Mechanism的第一个Switch 2保护壳和我希望的一样棒</span>
-          <span class="news-item-title-en">Mechanism’s first Switch 2 case is as awesome as I hoped it would be</span>
-          <span class="news-value-point">💡 大多数公司都放慢了发布新款Switch 2手机壳的速度，但我最喜欢的配件制造商之一最近在几次延迟之后首次亮相</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/012/116.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="【京东活动可能随时变更，需以实付款为准】腾达泰山 BE7200 Ultra 路由器 2026 年 1 月开售，该路由器宣称“挑战史上 7200 性价比之王”，售价 549 元，首发价 429 元。京东 11.11 大促期间，按下方步骤下单，叠加 10% 国补后仅需 244.36 元：领 480-60 元 PLUS 补贴券：点此查看。12 日晚 8 点 ~13 日下单返实付价 20%，晒单返 20 元，种草返 15 元。京东腾达泰山 BE7200 Ultra 路由器五天线设计 + 9 颗 FEM 国补后 244.36 元直达链接返现规则京东无门槛红包至高 26888 元无门槛可用：点此抽取。IT之家获悉，腾达泰山 BE7200 Ultra 路由器采用了五天线设计，集成 9 颗 FEM，其中 4" data-title="五天线设计 + 9 颗 FEM：腾达泰山 BE7200 Ultra 路由器 429 → 244 元国补直降" data-date="10-12 22:45" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-12 22:45</span>
-          <span class="news-item-title">五天线设计 + 9 颗 FEM：腾达泰山 BE7200 Ultra 路由器 429 → 244 元国补直降</span>
-          <span class="news-value-point">💡 【京东活动可能随时变更，需以实付款为准】腾达泰山 BE7200 Ultra 路由器 2026 年 1 月开售，该路由器宣称“挑战史上 7200 …</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-unveils-7nm-class-fdx-fusion-node-fd-soi-node-doubles-22fdx-transistor-density-comes-7-years-after-firm-abandoned-finfet" target="_blank" rel="noopener" data-cat="zonghe" data-summary="GlobalFoundries通过7纳米级FDX融合工艺重返先进的FD-SOI开发—计划于2028年生产。" data-title="GlobalFoundries unveils 7nm-class FDX Fusion node — comes 7 years after firm abandoned FinFET" data-date="10-12 22:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-12 22:30</span>
-          <span class="news-item-title">GlobalFoundries推出7纳米级FDX融合节点—在公司放弃FinFET 7年后推出</span>
-          <span class="news-item-title-en">GlobalFoundries unveils 7nm-class FDX Fusion node — comes 7 years after firm abandoned FinFET</span>
-          <span class="news-value-point">💡 GlobalFoundries通过7纳米级FDX融合工艺重返先进的FD-SOI开发—计划于2028年生产</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-12/10712328.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社北京10月12日电 (记者 陈杭)北京市规划和自然资源委员会12日发布的《关于本市住宅公共空间品质提升的意见(试行)》提出，北京鼓励采用下沉庭院、立体绿化等方式开展景观设计，鼓励采用屋顶绿化、垂直绿化等方式，增加社区绿色空间，做到“推窗见绿”。" data-title="北京提升社区公共空间品质 鼓励住宅“推窗见绿”" data-date="10-12 22:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-12 22:06</span>
-          <span class="news-item-title">北京提升社区公共空间品质 鼓励住宅“推窗见绿”</span>
-          <span class="news-value-point">💡 中新社北京10月12日电 (记者 陈杭)北京市规划和自然资源委员会12日发布的《关于本市住宅公共空间品质提升的意见(试行)》提出，北京鼓励采用下…</span>
         </a>
   </div>
 </div>
@@ -659,4 +657,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-13 00:53（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-13 05:20（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
