@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-13 16:36（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-13 23:12（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -120,7 +120,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">4,136.63</span>
       <span class="ticker-change down">▼ -0.79%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg71139" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L23.2,12.7 L42.4,12.1 L61.6,25.8 L80.8,22.1 L100.0,16.5 L119.2,20.6 L138.4,38.0 L157.6,20.1 L176.8,24.2 L196.0,28.9 L196,40 Z" fill="url(#sg71139)"/><polyline points="4.0,6.0 23.2,12.7 42.4,12.1 61.6,25.8 80.8,22.1 100.0,16.5 119.2,20.6 138.4,38.0 157.6,20.1 176.8,24.2 196.0,28.9" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="28.9" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg66400" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.8 L25.3,6.0 L46.7,23.0 L68.0,18.4 L89.3,11.5 L110.7,16.5 L132.0,38.0 L153.3,15.9 L174.7,20.9 L196.0,26.8 L196,40 Z" fill="url(#sg66400)"/><polyline points="4.0,6.8 25.3,6.0 46.7,23.0 68.0,18.4 89.3,11.5 110.7,16.5 132.0,38.0 153.3,15.9 174.7,20.9 196.0,26.8" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="26.8" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">30,664.70</span>
-      <span class="ticker-change down">▼ -0.71%</span>
+      <span class="ticker-price ticker-down">30,496.38</span>
+      <span class="ticker-change down">▼ -0.55%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-13 09:46:22</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-13 23:13:53</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6931</span>
+      <span class="ticker-price ticker-down">6.6926</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg34659" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,14.1 L25.3,13.2 L46.7,6.0 L68.0,17.1 L89.3,21.1 L110.7,24.7 L132.0,22.7 L153.3,21.3 L174.7,38.0 L196.0,37.4 L196,40 Z" fill="url(#sg34659)"/><polyline points="4.0,14.1 25.3,13.2 46.7,6.0 68.0,17.1 89.3,21.1 110.7,24.7 132.0,22.7 153.3,21.3 174.7,38.0 196.0,37.4" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="37.4" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg58232" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,14.1 L25.3,13.1 L46.7,6.0 L68.0,17.0 L89.3,21.1 L110.7,24.6 L132.0,22.6 L153.3,21.2 L174.7,37.8 L196.0,38.0 L196,40 Z" fill="url(#sg58232)"/><polyline points="4.0,14.1 25.3,13.1 46.7,6.0 68.0,17.0 89.3,21.1 110.7,24.6 132.0,22.6 153.3,21.2 174.7,37.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:37:20</div>
+    <div class="ticker-quote-time">🕒 行情时间 23:13:47</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,190.05 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +18.57 (+0.45%)</span>
+      <span class="ticker-price ticker-down">$4,166.43 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -5.05 (-0.12%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:37:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 23:13:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -181,15 +181,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥904.30 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +1.81 (+0.20%)</span>
+      <span class="ticker-price ticker-down">¥899.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -5.22 (-0.58%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 15:30:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 23:13:42</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -200,7 +200,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">24,345.22</span>
       <span class="ticker-change up">▲ +0.30%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg44767" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L23.2,10.4 L42.4,7.1 L61.6,31.0 L80.8,28.5 L100.0,19.5 L119.2,25.1 L138.4,38.0 L157.6,22.1 L176.8,19.9 L196.0,17.1 L196,40 Z" fill="url(#sg44767)"/><polyline points="4.0,6.0 23.2,10.4 42.4,7.1 61.6,31.0 80.8,28.5 100.0,19.5 119.2,25.1 138.4,38.0 157.6,22.1 176.8,19.9 196.0,17.1" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="17.1" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg34631" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,9.5 L25.3,6.0 L46.7,30.8 L68.0,28.2 L89.3,18.9 L110.7,24.7 L132.0,38.0 L153.3,21.5 L174.7,19.2 L196.0,16.4 L196,40 Z" fill="url(#sg34631)"/><polyline points="4.0,9.5 25.3,6.0 46.7,30.8 68.0,28.2 89.3,18.9 110.7,24.7 132.0,38.0 153.3,21.5 174.7,19.2 196.0,16.4" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="16.4" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$104.84 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.81 (-1.69%)</span>
+      <span class="ticker-price ticker-down">$105.81 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.84 (-0.79%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 16:37:32</div>
+    <div class="ticker-quote-time">🕒 行情时间 23:14:05</div>
   </div>
 </div>
 
@@ -367,8 +367,80 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-13/10714089.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南宁10月13日电(记者 黄艳梅)广西壮族自治区医疗保障局局长张奕13日介绍，广西医保部门紧扣“保基本、惠民生、防风险、促改革、优服务”主线，织密医保民生保障网，着力服务经济社会发展大局，让民众看病更有依靠、健康更有保障、办事更加便利。" data-title="聚焦“急难愁盼” 广西织密医保民生保障网" data-date="10-13 23:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-13 23:05</span>
+          <span class="news-item-title">聚焦“急难愁盼” 广西织密医保民生保障网</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/012/590.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 13 日消息，特斯拉表示中国制造电动汽车的进口配额已用尽，因此已暂停在加拿大市场接受 Model 3 Premium 车型的新订单，预计要到 2027 年 3 月才可能恢复订购。不过 Drive Tesla Canada 发现，加拿大政府公布的数据却显示，全加拿大中国制造电动汽车进口配额仍有大量剩余，特斯拉具体获得了多少配额、为何提前停止接单，目前尚无明确解释。目前，特斯拉已从加拿大官网的订购页面移除 Model 3 Premium 后轮驱动版和全轮驱动版。两款车型均由上海超级工厂生产，其中后轮驱动版起售价为 39,490 加元（IT之家注：现汇率约合 18.6 万元人民币），全轮驱动版起售价为 49,990 加元（现汇率约合 23.5 万元人民币）。除此之外，加拿大消费" data-title="特斯拉称中国造电动汽车进口配额耗尽：暂停加拿大 Model 3 Premium 新订单，预计 2027 年 3 月恢复" data-date="10-13 23:04" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-13 23:04</span>
+          <span class="news-item-title">特斯拉称中国造电动汽车进口配额耗尽：暂停加拿大 Model 3 Premium 新订单，预计 2027 年 3 月恢复</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/012/586.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 13 日消息，苹果首款智能家庭中枢 HomeView 现已正式发布，除了配备扬声器底座的版本外，苹果还推出了一款壁挂版本，定价均为 299 美元（IT之家注：现汇率约合 2,005 元人民币）。不过需要注意的是，壁挂版并不附带支架，用户需要另行购买。目前，苹果官网已经上架施耐德制造的三款安装支架，IT之家附具体详情如下：Power Mount USB-C 壁挂式连接器：59.95 美元（现汇率约合 402 元人民币）Power Mount AC：79.95 美元（现汇率约合 536.1 元人民币）Power Mount PoE：129.95 美元（现汇率约合 871.4 元人民币），预计 2027 年初推出" data-title="苹果智能家庭中枢 HomeView 细节：壁挂版不含支架得另买，可选 USB" data-date="10-13 22:52" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-13 22:52</span>
+          <span class="news-item-title">苹果智能家庭中枢 HomeView 细节：壁挂版不含支架得另买，可选 USB</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/012/585.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 13 日消息，派拉蒙已完成对华纳兄弟探索公司（Warner Bros. Discovery）收购，合并后的公司命名为 Skydance，旗下包括 Discovery+、HBO Max 和 Paramount+ 等流媒体服务。今日，Discovery+ 宣布上调订阅价格，带广告的套餐将从 5.99 美元每月涨至 6.99 美元，无广告套餐月费则从 9.99 美元（现汇率约合 67 元人民币）涨至 11.99 美元（IT之家注：现汇率约合 80.4 元人民币）。此次调价对新用户立即生效，现有用户将从 2026 年 11 月 12 日起，在后续账单中看到调整后的价格。这是 Discovery+ 自 2025 年 1 月以来首次上调订阅价格。此次调整涉及该平台的两种订阅方案，其中" data-title="派拉蒙收购华纳兄弟探索后 Discovery+ 宣布涨价，无广告套餐 11.99 美元起" data-date="10-13 22:40" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-13 22:40</span>
+          <span class="news-item-title">派拉蒙收购华纳兄弟探索后 Discovery+ 宣布涨价，无广告套餐 11.99 美元起</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/012/584.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 13 日消息，据 The Information 今天报道，自动驾驶初创公司 Applied Intuition 已收到多份投资邀约，估值最少 300 亿美元（IT之家注：现汇率约合 2,011.75 亿元人民币），相比 6 月估值翻了一番。据报道，Applied Intuition 由前 Y Combinator 首席运营官 Qasar Younis 和前谷歌产品经理 Peter Ludwig 联合创立，该公司专注于自动驾驶软件而非车辆制造。2024 年底，该公司年度经常性收入达 4 亿美元（现汇率约合 26.82 亿元人民币）。Applied Intuition 此前从 Andreessen Horowitz 和 General Catalyst 等机构筹集 12 亿" data-title="自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元" data-date="10-13 22:35" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-13 22:35</span>
+          <span class="news-item-title">自动驾驶公司 Applied Intuition 获得投资邀约，估值达 300 亿美元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-13/10714062.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉10月13日电 (记者 周璟)菲律宾参议院弹劾法庭13日批准众议院检方撤回副总统莎拉·杜特尔特弹劾案四项指控中的三项，仅指控莎拉2022年至2025年未如实申报来源不明资产。" data-title="菲律宾众议院检方撤回对副总统莎拉·杜特尔特三项弹劾指控" data-date="10-13 22:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-13 22:05</span>
+          <span class="news-item-title">菲律宾众议院检方撤回对副总统莎拉·杜特尔特三项弹劾指控</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-13/10714039.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷10月13日电 (梁峻祥 李映民)国际货币基金组织(IMF)13日在曼谷发布最新一期《世界经济展望》报告，预计泰国2026年国内生产总值(GDP)将增长2.1%，较今年7月预测的1.9%上调0.2个百分点。" data-title="IMF上调泰国今年经济增长预期至2.1%" data-date="10-13 22:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-13 22:01</span>
+          <span class="news-item-title">IMF上调泰国今年经济增长预期至2.1%</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c63r584g9xwpo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="黄奇帆担任重庆市长期间，上级薄熙来与同僚王立军系列丑闻爆发。离任后，他仍以经济学家身份周游演说。" data-title="中共中央纪委：薄熙来前搭档黄奇帆接受调查" data-date="10-13 21:34" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-13 21:34</span>
+          <span class="news-item-title">中共中央纪委：薄熙来前搭档黄奇帆接受调查</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-13/10714022.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="沙特阿拉伯国家石油公司(沙特阿美公司)总裁兼首席执行官阿明·纳赛尔12日在第二十五届世界石油理事会能源大会(世界石油大会)上表示，全球原油库存正逼近“极度危险”的低位，可能需要两年时间才能恢复至正常水平。" data-title="沙特阿美总裁：全球原油库存逼近“危险低位”" data-date="10-13 21:16" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-13 21:16</span>
+          <span class="news-item-title">沙特阿美总裁：全球原油库存逼近“危险低位”</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/business/1009893/getty-images-bankruptcy-private-plans-agreement" target="_blank" rel="noopener" data-cat="caijing" data-summary="在今年早些时候， Getty Images与竞争对手股票平台Shutterstock合并的计划失败后，该公司打算申请破产并作为重组协议的一部分私有化。周一，盖蒂宣布已获得5.33亿美元" data-title="Getty Images is going private after failed Shutterstock merger" data-date="10-13 21:11" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-13 21:11</span>
+          <span class="news-item-title">Getty Images is going private after failed Shutterstock merger</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/" target="_blank" rel="noopener" data-cat="caijing" data-summary="这家初创公司将以2000万美元的价格将其部分资产出售给迪士尼。" data-title="Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy" data-date="10-13 20:23" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-13 20:23</span>
+          <span class="news-item-title">Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/13/business/term-premium-bond-yields.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="一些分析师表示，投资者要求提高购买政府债券的“定期溢价” ，反映出人们对债务水平和赤字的担忧日益加剧。" data-title="The Forces Driving Up Bond Yields Take a Troubling Turn" data-date="10-13 17:02" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-13 17:02</span>
+          <span class="news-item-title">The Forces Driving Up Bond Yields Take a Troubling Turn</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/012/420.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 13 日消息，据路透社报道，Character.AI 公司于当地时间周一表示，公司已在美国申请破产保护，同意以 2,000 万美元（IT之家注：现汇率约合 1.34 亿元人民币）价格向华特迪士尼出售部分资产。Character.AI 表示，公司已正式启动第 11 章破产程序下的资产出售流程，卖出部分知识产权。该公司正申请法院批准拍卖规则，将迪士尼指定为首席竞标方。同时，迪士尼的报价将作为竞标底价，其他竞标者仍可提出更高报价。Character.AI 预计，资产出售预计将在 2026 年 11 月下旬或 12 月初完成。Character.AI 将在资产出售期间继续运营现有业务，尽可能减少服务中断。如果未能找到愿意运营 Character.AI 平台的买家，公司将逐步结束相" data-title="Character.AI 申请破产，同意以 2000 万美元向迪士尼出售部分资产" data-date="10-13 16:22" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -387,36 +459,6 @@ title: 股票财经
           <span class="news-item-date">10-13 16:09</span>
           <span class="news-item-title">三部门：到2028年，内河新能源船舶保有量较2025年翻倍</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-13/10713722.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海10月13日电 (华梨)华东理工大学13日发布消息称，国内首套单炉年处理30万吨生物质加压固定床耦合气流床气化工业装置已投料成功，装置顺利产出甲醇，其间装置运行平稳。" data-title="沪高校联合企业持续攻关 大型生物质气化技术完成工业化验证" data-date="10-13 16:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-13 16:00</span>
-          <span class="news-item-title">沪高校联合企业持续攻关 大型生物质气化技术完成工业化验证</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/" target="_blank" rel="noopener" data-cat="caijing" data-summary="明天太平洋时间上午8点，一切都将开始- 10,000多名创始人，投资者和科技运营商将聚集在旧金山的Moscone West参加TechCrunch Disrupt 2026 ，为期三天的创意，联系和创业公司塑造未来。这是你的l" data-title="TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings" data-date="10-12 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-12 22:00</span>
-          <span class="news-item-title">TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-12/10712313.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网台州10月12日电(周健 赵碧莹)一度绿电，如何从园区光伏企业的屋顶，直达园区用能企业的车间？" data-title="余电不再“远走” 浙江温岭绿电就近消纳助力企业出口" data-date="10-12 21:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-12 21:42</span>
-          <span class="news-item-title">余电不再“远走” 浙江温岭绿电就近消纳助力企业出口</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天， OnePlus 16在中国推出，这是该公司自今年夏天退出美国和欧洲市场以来的首款旗舰手机。幸运的是，它也看起来是该公司在一段时间内最好的手机。和大多数OnePlus手机一样， 16" data-title="The OnePlus 16 is the company’s most interesting phone in years" data-date="10-12 21:13" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-12 21:13</span>
-          <span class="news-item-title">The OnePlus 16 is the company’s most interesting phone in years</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/12/us/democrats-midterms-corruption-affordability.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="党的领导人正在努力将华盛顿的暴利行为以及亿万富翁和美国企业的影响力与负担能力联系起来，他们希望这将是一个强有力的结束信息。" data-title="Democrats Tie Corruption to High Costs in Final Midterms Push" data-date="10-12 17:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-12 17:02</span>
-          <span class="news-item-title">Democrats Tie Corruption to High Costs in Final Midterms Push</span>
-        </a>
   </div>
 </div>
 
@@ -430,4 +472,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-13 16:36（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-13 23:12（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
