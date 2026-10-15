@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-15 20:45（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-16 01:12（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -133,15 +133,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,950.82</span>
-      <span class="ticker-change down">▼ -2.02%</span>
+      <span class="ticker-price ticker-down">29,766.38</span>
+      <span class="ticker-change down">▼ -0.62%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-15 09:49:09</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-16 01:13:33</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -149,15 +149,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6910</span>
+      <span class="ticker-price ticker-down">6.6905</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg11153" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,16.2 L46.7,20.0 L68.0,23.3 L89.3,21.4 L110.7,20.1 L132.0,35.5 L153.3,32.7 L174.7,37.1 L196.0,38.0 L196,40 Z" fill="url(#sg11153)"/><polyline points="4.0,6.0 25.3,16.2 46.7,20.0 68.0,23.3 89.3,21.4 110.7,20.1 132.0,35.5 153.3,32.7 174.7,37.1 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg87454" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,16.0 L46.7,19.7 L68.0,22.9 L89.3,21.1 L110.7,19.8 L132.0,34.9 L153.3,32.1 L174.7,36.4 L196.0,38.0 L196,40 Z" fill="url(#sg87454)"/><polyline points="4.0,6.0 25.3,16.0 46.7,19.7 68.0,22.9 89.3,21.1 110.7,19.8 132.0,34.9 153.3,32.1 174.7,36.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 20:46:48</div>
+    <div class="ticker-quote-time">🕒 行情时间 01:13:32</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -165,15 +165,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,143.46 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +38.26 (+0.93%)</span>
+      <span class="ticker-price ticker-up">$4,148.13 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +42.93 (+1.05%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 20:46:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 01:13:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -181,15 +181,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥893.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +0.10 (+0.01%)</span>
+      <span class="ticker-price ticker-up">¥894.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +1.10 (+0.12%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 20:46:46</div>
+    <div class="ticker-quote-time">🕒 行情时间 01:13:13</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -277,15 +277,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$104.31 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.75 (-1.65%)</span>
+      <span class="ticker-price ticker-down">$105.93 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.13 (-0.13%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 20:47:03</div>
+    <div class="ticker-quote-time">🕒 行情时间 01:13:47</div>
   </div>
 </div>
 
@@ -367,97 +367,55 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/013/629.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 15 日消息，真正的双 11 于 10 月 20 日开卖。天猫发布会今日披露，今年天猫双 11 吸引了 100 万全球品牌、7200 万款商品参与，均创历史新高。据介绍，iPhone Duo 折叠屏手机选择在天猫双 11 期间首发，iPhone 18 Pro 系列也确定参加平台优惠。苹果上月与天猫扩大合作规模，新增 20 余家授权店，将更多货品放在天猫销售。天猫官方透露，今年双 11 品牌共带来 5 万款超级单品，以及 2000 款只有天猫买得到的旗舰店“惊喜礼盒”商品。天猫双 11 开卖前一个月，在淘宝天猫首发新品的商家数同比增长了 64%。另外，供应链也提前卡位。来自全球 80 多个国家和地区的超 1 亿件进口商品，已进入天猫国际分布在国内保税区及境外的 100 余个" data-title="天猫 2026 双 11 品牌参与创纪录：首发新品规模创新高，iPhone 18 Pro 系列确定参加平台优惠" data-date="10-15 20:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-15 20:23</span>
-          <span class="news-item-title">天猫 2026 双 11 品牌参与创纪录：首发新品规模创新高，iPhone 18 Pro 系列确定参加平台优惠</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-15/10715231.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉10月15日电 (记者 周璟)菲律宾比索对美元汇率15日创历史新低，首次跌破1美元兑63比索关口。" data-title="菲律宾比索对美元汇率首次跌破63关口" data-date="10-15 20:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-15 20:20</span>
-          <span class="news-item-title">菲律宾比索对美元汇率首次跌破63关口</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-15/10715226.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社加德满都10月15日电 (记者 崔楠)世界银行15日发布声明称，尼泊尔已与该行签署协议，共同探索开发巨灾债券，以帮助尼泊尔在发生重大地震灾害时迅速获得资金支持。" data-title="尼泊尔与世界银行签署协议探索开发巨灾债券" data-date="10-15 20:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-15 20:18</span>
-          <span class="news-item-title">尼泊尔与世界银行签署协议探索开发巨灾债券</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统Volodymyr Zelensky在接受英国《金融时报》采访时宣布了这一消息。他暂停了罢工，以满足美国的要求。" data-title="Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump" data-date="10-15 19:54" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="沃洛季米尔·泽伦斯基总统在接受英国《金融时报》采访时对美国表达了明显的失望。他暂停了罢工，以满足美国的要求。" data-title="Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump" data-date="10-16 00:47" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-15 19:54</span>
+          <span class="news-item-date">10-16 00:47</span>
           <span class="news-item-title">Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/15/podcasts/the-headlines/inflation-jet-powered-drones.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="此外，还有有竞争力的饮食冠军的遗产。" data-title="Inflation Data Undercuts Trump’s Economic Claims, and the Danger of New Jet" data-date="10-15 18:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-15 18:00</span>
-          <span class="news-item-title">Inflation Data Undercuts Trump’s Economic Claims, and the Danger of New Jet</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-15/10715118.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月15日电 据美国有线电视新闻网(CNN)15日援引美国多名官员的话报道，美国军方已制定新的对伊朗打击计划。一旦美国总统特朗普在中期选举前或之后下令恢复作战行动，打击计划包括考虑动用GBU-43/B大型空爆弹(英文简称MOAB，“炸弹之母”)，打击伊朗的能源基础设施和核设施。" data-title="美媒爆料：特朗普考虑对伊朗动用“炸弹之母”" data-date="10-15 17:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-15 17:32</span>
-          <span class="news-item-title">美媒爆料：特朗普考虑对伊朗动用“炸弹之母”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/013/385.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 15 日消息，科技媒体 OC3D 今天（10 月 15 日）发布博文，报道称通过追踪英国亚马逊平台，发现 Crucial Pro DDR5-6000 32GB（2×16GB，CL36）内存套装售价在约 13 个月内涨幅达到 434.2%。该媒体在英国亚马逊平台上追踪指定款 32GB DDR5-6000 套装，发现价格从 2025 年 9 月 18 日的 79 英镑（IT之家注：现汇率约合 699.9 元人民币）涨至 2026 年 10 月 14 日的 422 英镑（现汇率约合 3,739 元人民币），价格约为原来的 5.34 倍。时间同款 32GB DDR5-6000 套装价格2025-09-1879 英镑（现汇率约合 699.9 元人民币）2025-12-16226 英" data-title="全球内存涨价缩影：32GB DDR5 套件售价约 13 个月涨幅 434.2%，比肩甚至超过旗舰 CPU" data-date="10-15 14:34" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/013/686.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 16 日消息，据多位博主分享的截图，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东转发了尊界汽车声明，表态称：正义可能会迟到，但永远不会缺席！据IT之家昨晚报道，针对网络反映的“尊界 V800 汽车刹车踏板支架断裂问题”，工业和信息化部、中央网信办、市场监管总局高度重视，在前期调查工作基础上，成立联合调查组开展核查，并依法依规处理。有关情况将及时公布。随后，尊界汽车官方微博发布声明，宣布将积极响应、完全服从并将全力配合联合调查组的工作。10 月 15 日，工信部等三部门发布了联合调查有关车辆刹车踏板支架断裂问题的通报。我们积极响应、完全服从并将全力配合联合调查组的工作，坚决维护消费者合法权益，坚决维护新能源汽车产业发展大局。相关阅读：《工信部、中央网信办、" data-title="华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！" data-date="10-16 00:33" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-15 14:34</span>
-          <span class="news-item-title">全球内存涨价缩影：32GB DDR5 套件售价约 13 个月涨幅 434.2%，比肩甚至超过旗舰 CPU</span>
+          <span class="news-item-date">10-16 00:33</span>
+          <span class="news-item-title">华为余承东就“三部门联合调查刹车踏板支架断裂问题”表态：正义可能会迟到，但永远不会缺席！</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/013/363.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 15 日消息，中国汽车动力电池产业创新联盟今日发布了 2026 年 9 月动力电池月度信息。产量方面：9 月，我国动力和储能电池合计产量为 237.8GWh，环比增长 0.3%，同比增长 57.3%。1-9 月，我国动力和储能电池累计产量为 1833.1GWh，累计同比增长 63.4%。销量方面：9 月，我国动力和储能电池销量为 222.7GWh，环比下降 0.2%，同比增长 52.0%。其中，动力电池销量为 149.2GWh，占总销量 67.0%，环比增长 1.7%，同比增长 35.0%；储能电池销量为 73.5GWh，占总销量 33.0%，环比下降 3.7%，同比增长 104.4%。1-9 月，我国动力和储能电池累计销量为 1681.7GWh，累计同比增长 57.6%" data-title="2026 年 9 月国内动力电池装车量 87.2GWh，同比增长 14.7%" data-date="10-15 14:18" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/013/681.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 15 日消息，雷蛇今日发布梭鱼 V2 专业版（Barracuda V2 Pro）无线游戏耳机，新品在美国市场的定价为 199.99 美元（IT之家注：现汇率约合 1,341 元人民币），国行版本预计将于近期公布。音频方面，梭鱼 V2 专业版搭载雷蛇 TriForce 生物纤维素 40mm 驱动单元，强调高频清脆、中频清晰以及无失真低频。连接 PC 时可通过雷蛇 Synapse 4 启用 THX Spatial Audio+，提供 7.1.4 虚拟环绕声，在传统 7.1 声道基础上增加四个顶部声道，使声音线索不仅能在玩家周围定位，还能从上方呈现。这款耳机同时配备混合主动降噪，利用外向和内向双麦克风消除环境噪音。在 ANC 关闭时续航可达 70 小时，开启 ANC 后约为 5" data-title="雷蛇梭鱼 V2 专业版耳机发布：285g 可折叠、70 小时续航，199.99 美元" data-date="10-15 23:45" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-15 14:18</span>
-          <span class="news-item-title">2026 年 9 月国内动力电池装车量 87.2GWh，同比增长 14.7%</span>
+          <span class="news-item-date">10-15 23:45</span>
+          <span class="news-item-title">雷蛇梭鱼 V2 专业版耳机发布：285g 可折叠、70 小时续航，199.99 美元</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/013/359.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 15 日消息，据韩媒 ETnews 报道，三星电子设备体验（DX）事业部总裁兼首席设计官毛罗 · 波尔奇尼称，三星坚持以人为本的设计理念，将 AI 与人的情感智能、想象力相结合。波尔奇尼今天（15 日）在“2026 首尔设计周”上指出：“AI 不是用来取代人的，而是帮助人们发挥情感智能和想象力的工具。只有将 AI 与人的创造本能和欲望相结合，才能真正创造出独特的价值。越是在 AI 时代，人的因素反而越重要。人类独有的批判性思维、创造力、感受力和情感，才是产品设计的核心。”波尔奇尼强调，无论 AI 技术如何进步，设计的根本仍然是理解人的需求。如果所有企业都只依靠 AI 开发产品，最终生产出来的东西就会大同小异，难以形成差异化。因此，人的创造力和细腻的感受力将成为产品设计的核" data-title="三星电子首席设计官波尔奇尼：AI 时代，人的创造力才是产品设计核心竞争力" data-date="10-15 14:00" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-15 14:00</span>
-          <span class="news-item-title">三星电子首席设计官波尔奇尼：AI 时代，人的创造力才是产品设计核心竞争力</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-15/10714950.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网乌鲁木齐10月15日电 (史玉江 孙丽娜)金秋十月，新疆生产建设兵团各甜菜主产区陆续进入采收旺季，从播种、田管到收获的全程机械化作业，正让“甜蜜产业”跑出提质增效“加速度”。" data-title="新疆兵团甜菜迎采收季 全程机械化助力提质增效" data-date="10-15 13:48" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-15/10715332.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社首尔10月15日电 (记者 金旭)当地时间15日，韩国股市遭遇“黑色星期四”。韩国综合股价指数(KOSPI)和高斯达克指数(KOSDAQ)大幅下跌，一度触发市场熔断机制，收盘跌幅均超7%。" data-title="韩国股市遭遇“黑色星期四” 两大指数收跌超7%" data-date="10-15 22:04" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-15 13:48</span>
-          <span class="news-item-title">新疆兵团甜菜迎采收季 全程机械化助力提质增效</span>
+          <span class="news-item-date">10-15 22:04</span>
+          <span class="news-item-title">韩国股市遭遇“黑色星期四” 两大指数收跌超7%</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-15/10714925.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月15日电 据自然资源部微信公众号消息，10月15日，2026中国地理信息产业大会在重庆永川召开，开幕式上发布了《中国地理信息产业发展报告(2026)》(《报告》)。《报告》显示，2025年我国地理信息产业总产值达到9005亿元，同比增长5.9%。我国地理信息产业总产值近5年复合增长率为5.5%，近10年复合增长率为9.6%。" data-title="自然资源部：2025年我国地理信息产业总产值超9000亿元" data-date="10-15 13:15" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-15/10715357.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月15日电(燕新台)10月15日，第十届“台湾青年看武汉 魅力江城随手拍”活动在武汉开营。据悉，本次活动为期10天，海峡两岸80余名青年将走进武汉历史街巷、美丽乡村、产业园区等，用镜头记录城市发展风貌、讲述彼此情谊。" data-title="两岸青年“随手拍”活动武汉开营 朱凤莲寄语台青投身两岸融合发展" data-date="10-15 22:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-15 13:15</span>
-          <span class="news-item-title">自然资源部：2025年我国地理信息产业总产值超9000亿元</span>
+          <span class="news-item-date">10-15 22:02</span>
+          <span class="news-item-title">两岸青年“随手拍”活动武汉开营 朱凤莲寄语台青投身两岸融合发展</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-15/10714914.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="据美国方面15日消息，美国多名官员称，美国军方已经制定了新的对伊朗打击计划，其中包括考虑使用“炸弹之母”打击伊朗的能源基础设施和核设施。" data-title="美官员称美方考虑对伊朗使用“炸弹之母”" data-date="10-15 12:38" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-15/10715323.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社哈尔滨10月15日电 (记者 史轶夫)2026年恰逢中巴建交75周年，“中巴经济走廊大学联盟”交流机制第六次会议15日在哈尔滨工程大学举行。来自中国和巴基斯坦40余所高校、科研机构的120余名代表共商新时代两国高等教育合作发展。" data-title="中巴高校搭建海洋、农业科研协作新平台" data-date="10-15 21:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-15 12:38</span>
-          <span class="news-item-title">美官员称美方考虑对伊朗使用“炸弹之母”</span>
+          <span class="news-item-date">10-15 21:56</span>
+          <span class="news-item-title">中巴高校搭建海洋、农业科研协作新平台</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-15/10715340.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙10月15日电 (张雪盈 周煜)2025年，湖南省共办理涉老法律援助案件5165起，为老年人提供减免费用公证1019件；累计建成智慧健康养老示范企业11家、示范街道7家、示范基地2家，各类养老服务机构30994个……10月15日，湖南省2026年“敬老月”活动启动仪式在湖南长沙举行，会上发布《2025年度湖南省老龄事业发展统计公报》，透露上述数据。" data-title="守护银龄安全 《2025年度湖南省老龄事业发展统计公报》对外发布" data-date="10-15 21:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-15 21:52</span>
+          <span class="news-item-title">守护银龄安全 《2025年度湖南省老龄事业发展统计公报》对外发布</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cjkge2k03kgpo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="对被指控在印尼焚烧土地的企业，以及未能阻止这些行为的当局，人们的愤怒情绪正不断升高。" data-title="令人窒息的有毒雾霾蔓延东南亚，谁之过？" data-date="10-15 08:20" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">10-15 08:20</span>
           <span class="news-item-title">令人窒息的有毒雾霾蔓延东南亚，谁之过？</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111108" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国通胀率自5月以来首次上升。在中期选举临近之际，伊朗战争推动燃料价格反弹，增加了美国选民的压力。" data-title="9月美国通胀率跃升至3.7%" data-date="10-15 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-15 00:00</span>
-          <span class="news-item-title">9月美国通胀率跃升至3.7%</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111106" target="_blank" rel="noopener" data-cat="caijing" data-summary="国际能源署警告，未来几周欧洲、非洲和拉美的柴油价格可能再次上涨，全球柴油短缺将持续至明年年中，且有赖于中东恢复供应。" data-title="IEA：全球柴油价格还将上涨" data-date="10-15 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-15 00:00</span>
-          <span class="news-item-title">IEA：全球柴油价格还将上涨</span>
         </a>
   </div>
 </div>
@@ -472,4 +430,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-15 20:45（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-16 01:12（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
