@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-17 14:19（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-17 19:42（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -367,8 +367,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-17/10716341.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【理响中国】让民营企业敢投、愿投、能投" data-title="让民营企业敢投、愿投、能投" data-date="10-17 18:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-17 18:47</span>
+          <span class="news-item-title">让民营企业敢投、愿投、能投</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-17/10716222.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月16日，美国财政部公布最新数据，2026财年联邦财政赤字达到1.99万亿美元，比上一财年增加2170亿美元，创五年来最高水平。该数字甚至超过一些发达国家一年的经济总量。" data-title="财政赤字逼近2万亿美元 美国财政压力有多大" data-date="10-17 14:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-17 14:42</span>
+          <span class="news-item-title">财政赤字逼近2万亿美元 美国财政压力有多大</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-17/10716165.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月17日电 据日本共同社报道，日本经济财政政策担当大臣城内实17日参拜靖国神社。" data-title="日媒：高市内阁一名阁僚参拜靖国神社" data-date="10-17 12:34" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -424,4 +436,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-17 14:19（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-17 19:42（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
