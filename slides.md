@@ -12,7 +12,7 @@ permalink: /slides/
   </div>
   <h1>演示稿库 · Slides</h1>
   <div class="tagline">浏览器原生全屏放映 · 键盘交互 · 嵌入式与机器人答辩汇报</div>
-  <div class="hero-desc">脱离传统 PowerPoint 限制，基于现代 Web 动画与舞台渲染技术构建。支持键盘全屏翻页、高帧率动效、离线独立放映。</div>
+  <div class="hero-desc">脱离传统 PowerPoint 限制，基于 1280×720 固定画布等比缩放渲染，任何投影比例都不裁切。支持键盘全屏翻页、O 键目录跳页、#/5 直达某页，以及 Ctrl+P 一键导出 PDF。</div>
 </div>
 
 <div class="section-title">
@@ -26,7 +26,7 @@ permalink: /slides/
   <!-- 演示稿 1：雷达安防系统项目介绍（最终版） -->
   <div class="card slide-deck-card">
     <div class="slide-deck-preview">
-      <div class="slide-badge-top">旗舰方案 · 12 页</div>
+      <div class="slide-badge-top">旗舰方案 · 11 页</div>
       <div class="slide-mini-stage">
         <div class="slide-mini-title">基于激光雷达的远程安防监控系统</div>
         <div class="slide-mini-subtitle">多模态融合 · 已落地运行 · 项目全景介绍</div>
@@ -57,7 +57,7 @@ permalink: /slides/
   <!-- 演示稿 2：激光雷达 SLAM 项目介绍 -->
   <div class="card slide-deck-card">
     <div class="slide-deck-preview" style="background: linear-gradient(135deg, #0e1e38 0%, #162a45 100%);">
-      <div class="slide-badge-top" style="background: rgba(0, 212, 255, 0.2); color: #00d4ff;">算法剖析 · 12 页</div>
+      <div class="slide-badge-top" style="background: rgba(0, 212, 255, 0.2); color: #00d4ff;">算法剖析 · 11 页</div>
       <div class="slide-mini-stage">
         <div class="slide-mini-title" style="color: #64b5f6;">3D 激光雷达 SLAM 与多传感器融合</div>
         <div class="slide-mini-subtitle">FAST-LIO 算法推演 · 驱动攻坚 · 已落地实测</div>

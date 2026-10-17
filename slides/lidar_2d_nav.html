@@ -4,849 +4,516 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>2D 激光雷达避障与 SLAM · 项目介绍</title>
-  <style>
-    :root {
-      --bg: #090d16;
-      --surface: #101726;
-      --card: #151e32;
-      --primary: #00ff88;
-      --secondary: #00d4ff;
-      --accent: #7928ca;
-      --text: #e6edf3;
-      --muted: #8b949e;
-      --border: rgba(255, 255, 255, 0.1);
-      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", sans-serif;
-      --font-mono: "SF Mono", "Cascadia Code", "JetBrains Mono", Consolas, monospace;
-    }
-
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body {
-      width: 100%; height: 100%;
-      overflow: hidden;
-      background: var(--bg);
-      color: var(--text);
-      font-family: var(--font-sans);
-      user-select: none;
-      -webkit-font-smoothing: antialiased;
-    }
-
-    /* 演示舞台 */
-    #deck-stage {
-      position: relative;
-      width: 100vw; height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .slide {
-      position: absolute;
-      width: 90vw; max-width: 1200px;
-      height: 82vh; max-height: 720px;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5), 0 0 40px rgba(0, 255, 136, 0.05);
-      padding: 50px 60px;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      opacity: 0;
-      transform: scale(0.96) translateY(20px);
-      pointer-events: none;
-      transition: all 0.45s cubic-bezier(0.16, 1, 0.3, 1);
-    }
-
-    .slide.active {
-      opacity: 1;
-      transform: scale(1) translateY(0);
-      pointer-events: auto;
-      z-index: 10;
-    }
-
-    .slide.prev {
-      opacity: 0;
-      transform: scale(0.96) translateY(-20px);
-    }
-
-    /* 幻灯片头部 */
-    .slide-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      border-bottom: 1px solid var(--border);
-      padding-bottom: 16px;
-      margin-bottom: 24px;
-    }
-    .slide-tag {
-      font-family: var(--font-mono);
-      font-size: 0.82rem;
-      letter-spacing: 1px;
-      color: var(--primary);
-      text-transform: uppercase;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .slide-tag::before {
-      content: "";
-      width: 8px; height: 8px;
-      border-radius: 50%;
-      background: var(--primary);
-      box-shadow: 0 0 10px var(--primary);
-    }
-    .slide-title {
-      font-size: 2rem;
-      font-weight: 700;
-      color: #fff;
-      line-height: 1.25;
-      letter-spacing: -0.5px;
-    }
-
-    /* 内容网格 */
-    .slide-body {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-    }
-
-    .grid-2 {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 24px;
-    }
-
-    .grid-3 {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-    }
-
-    .info-card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 24px;
-      transition: border-color 0.2s;
-    }
-    .info-card:hover {
-      border-color: var(--secondary);
-    }
-    .card-title {
-      font-size: 1.15rem;
-      color: var(--secondary);
-      font-weight: 600;
-      margin-bottom: 12px;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-    .card-desc {
-      font-size: 0.95rem;
-      color: var(--muted);
-      line-height: 1.6;
-    }
-    .card-desc ul {
-      margin-left: 18px;
-      margin-top: 8px;
-    }
-    .card-desc li {
-      margin-bottom: 6px;
-    }
-
-    /* 封面特殊样式 */
-    .cover-layout {
-      text-align: center;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100%;
-    }
-    .cover-badge {
-      display: inline-block;
-      padding: 6px 16px;
-      border-radius: 20px;
-      background: rgba(0, 255, 136, 0.12);
-      color: var(--primary);
-      border: 1px solid rgba(0, 255, 136, 0.3);
-      font-size: 0.9rem;
-      font-weight: 600;
-      margin-bottom: 24px;
-      letter-spacing: 0.5px;
-    }
-    .cover-title {
-      font-size: 3rem;
-      font-weight: 800;
-      color: #fff;
-      margin-bottom: 16px;
-      background: linear-gradient(120deg, #ffffff 40%, var(--secondary) 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-    .cover-sub {
-      font-size: 1.25rem;
-      color: var(--muted);
-      max-width: 720px;
-      line-height: 1.6;
-      margin-bottom: 36px;
-    }
-    .cover-meta {
-      display: flex;
-      gap: 30px;
-      font-family: var(--font-mono);
-      font-size: 0.9rem;
-      color: var(--muted);
-    }
-    .cover-meta span {
-      color: var(--text);
-      font-weight: 600;
-    }
-
-    /* 参数指标统计条 */
-    .stat-badge-row {
-      display: flex;
-      gap: 16px;
-      margin-top: 16px;
-    }
-    .stat-chip {
-      background: rgba(0, 212, 255, 0.1);
-      border: 1px solid rgba(0, 212, 255, 0.2);
-      border-radius: 8px;
-      padding: 8px 14px;
-      font-family: var(--font-mono);
-      font-size: 0.85rem;
-      color: var(--secondary);
-    }
-
-    /* 底部导航与 HUD */
-    .deck-hud {
-      position: fixed;
-      bottom: 24px;
-      left: 0; right: 0;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 0 40px;
-      z-index: 100;
-      pointer-events: none;
-    }
-    .hud-controls {
-      display: flex;
-      gap: 12px;
-      pointer-events: auto;
-    }
-    .hud-btn {
-      background: var(--card);
-      border: 1px solid var(--border);
-      color: var(--text);
-      padding: 8px 16px;
-      border-radius: 8px;
-      font-size: 0.88rem;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      transition: all 0.2s;
-    }
-    .hud-btn:hover {
-      background: var(--surface);
-      border-color: var(--primary);
-      color: var(--primary);
-    }
-    .hud-counter {
-      font-family: var(--font-mono);
-      font-size: 0.95rem;
-      color: var(--muted);
-      background: rgba(16, 23, 38, 0.8);
-      backdrop-filter: blur(8px);
-      padding: 6px 14px;
-      border-radius: 20px;
-      border: 1px solid var(--border);
-      pointer-events: auto;
-    }
-    .hud-counter b { color: var(--primary); }
-
-    /* 顶部进度条 */
-    .progress-bar-container {
-      position: fixed;
-      top: 0; left: 0; width: 100%; height: 3px;
-      background: rgba(255, 255, 255, 0.05);
-      z-index: 1000;
-    }
-    .progress-bar {
-      height: 100%;
-      width: 0%;
-      background: linear-gradient(90deg, var(--secondary), var(--primary));
-      transition: width 0.3s cubic-bezier(0.16, 1, 0.3, 1);
-    }
-
-    /* 快捷键提示 */
-    .key-tip {
-      position: fixed;
-      top: 20px; right: 24px;
-      font-size: 0.78rem;
-      color: var(--muted);
-      background: rgba(16, 23, 38, 0.7);
-      backdrop-filter: blur(6px);
-      padding: 6px 12px;
-      border-radius: 6px;
-      border: 1px solid var(--border);
-      z-index: 100;
-    }
-    .key-tip kbd {
-      background: rgba(255, 255, 255, 0.1);
-      padding: 2px 6px;
-      border-radius: 4px;
-      color: #fff;
-    }
-  </style>
+  <meta name="description" content="镭神 N10P 免 ROS 直驱采集、世界系时序滑窗立柱追踪、迟滞回差避障状态机、SLAM Toolbox 建图与 16 项 pytest 单测全链路。">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="2D 激光雷达避障与 SLAM · 项目介绍">
+  <meta property="og:description" content="镭神 N10P 免 ROS 直驱采集、世界系时序滑窗立柱追踪、迟滞回差避障状态机、SLAM Toolbox 建图与 16 项 pytest 单测全链路。">
+  <meta property="og:url" content="https://loneforme.github.io/slides/lidar_2d_nav.html">
+  <meta name="twitter:card" content="summary">
+  <link rel="icon" href="/favicon.svg">
+  <link rel="stylesheet" href="/slides/deckkit.css">
 </head>
 <body>
 
-  <!-- 顶部进度条 -->
   <div class="progress-bar-container">
     <div class="progress-bar" id="progressBar"></div>
   </div>
 
-  <!-- 快捷键提示 -->
   <div class="key-tip">
-    按 <kbd>←</kbd> <kbd>→</kbd> 或 <kbd>空格</kbd> 翻页 · <kbd>F</kbd> 全屏 · <kbd>Esc</kbd> 返回列表
+    按 <kbd>←</kbd> <kbd>→</kbd> 翻页 · <kbd>O</kbd> 目录 · <kbd>N</kbd> 讲稿 · <kbd>F</kbd> 全屏 · <kbd>Esc</kbd> 返回列表
   </div>
 
-  <!-- 舞台与幻灯片集合 -->
   <main id="deck-stage">
-    
-    <!-- 第 1 页：封面 -->
-    <section class="slide active" data-slide="1">
-      <div class="cover-layout">
-        <div class="cover-badge">🛡️ 项目介绍 · PROJECT INTRODUCTION</div>
-        <h1 class="cover-title">2D 激光雷达避障与 SLAM<br>无人机自主绕障全栈</h1>
-        <p class="cover-sub">镭神 N10P · 世界系立柱追踪 · 迟滞回差避障 —— 坐标系融合 · 时序滑窗验证 · 状态机联动 · 免 ROS 直驱</p>
-        <div class="cover-meta">
-          <div>感知核心：<span>镭神 N10P · 460800</span></div>
-          <div>定位参照：<span>T265 VIO 偏航角</span></div>
-          <div>质量保障：<span>16 项 pytest</span></div>
+    <div class="deck-canvas">
+      <section class="slide active" data-slide="1">
+        <div class="cover-layout">
+          <div class="cover-badge">🛡️ 项目介绍 · PROJECT INTRODUCTION</div>
+          <h1 class="cover-title">2D 激光雷达避障与 SLAM</h1>
+          <p class="cover-sub">无人机自主绕障全栈 · 镭神 N10P —— 坐标系融合 · 时序滑窗验证 · 迟滞回差状态机 · 免 ROS 直驱</p>
+          <div class="cover-meta">
+            <div>感知核心：<span>镭神 N10P · 460800</span></div>
+            <div>定位参照：<span>T265 VIO 偏航角</span></div>
+            <div>质量保障：<span>16 项 pytest</span></div>
+          </div>
         </div>
-      </div>
-    </section>
+        <div class="notes">这是三份里最"算法"的一份：不讲硬件堆料，讲三件事——点云怎么用、坐标怎么转、状态怎么判。</div>
+      </section>
 
-    <!-- 第 2 页：问题与动机 -->
-    <section class="slide" data-slide="2">
-      <div class="slide-header">
-        <h2 class="slide-title">问题与动机</h2>
-        <div class="slide-tag">Problem &amp; Motivation</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-3">
-          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
-            <div class="card-title" style="color: #e5484d;">1️⃣ 细立柱单帧点云极稀疏</div>
-            <div class="card-desc">
-              <ul>
-                <li>Φ2~5cm 立柱通常只有 1~2 个有效击中点；</li>
-                <li>传统聚类 min_samples≥3 会把它当噪点滤除；</li>
-                <li>阈值降为 1 又被粉尘反光虚警。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
-            <div class="card-title" style="color: #e5484d;">2️⃣ 偏航摆动导致角度漂移</div>
-            <div class="card-desc">
-              <ul>
-                <li>前飞 / 悬停时机体偏航摆动实测达 9°~19°；</li>
-                <li>机体系下静止立柱的角度大幅跳动；</li>
-                <li>无法直接做时序追踪。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
-            <div class="card-title" style="color: #e5484d;">3️⃣ 临界距离刹车高频振荡</div>
-            <div class="card-desc">
-              <ul>
-                <li>单一阈值下（0.8m 刹 / 0.8m 起步）；</li>
-                <li>悬停在阈值边缘时测距微噪；</li>
-                <li>10Hz 刹车-起步剧烈横跳。</li>
-              </ul>
-            </div>
-          </div>
+      <section class="slide" data-slide="2">
+        <div class="slide-header">
+          <h2 class="slide-title">一句话结论</h2>
+          <div class="slide-tag">The One-Liner</div>
         </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 基于 RDK X5 + T265 VIO 的微型无人机</div>
-          <div class="stat-chip">✓ 纯 Python 自研：点云采集 → 坐标系融合 → 状态机联动 → 闭环仿真</div>
+        <div class="slide-body">
+          <div class="verdict">
+            让一台只有 <b>低线束 2D 雷达</b> 的无人机，在 <b>Φ2~5cm 细立柱</b> 之间稳定穿行：单帧放宽提取、<em>世界系跨帧确认</em>、双门限迟滞避障，全程 <b>纯 Python、免 ROS</b> 可跑。
+          </div>
+          <div class="metric-grid" style="margin-top: 22px;">
+            <div class="metric">
+              <div class="num">6<small>帧 / ≥3 次</small></div>
+              <div class="lbl">时序滑窗确认 · 虚警与漏检同时压下去</div>
+            </div>
+            <div class="metric">
+              <div class="num">0.15<small>m</small></div>
+              <div class="lbl">回差带 · 0.75m 刹车 / 0.90m 恢复</div>
+            </div>
+            <div class="metric">
+              <div class="num">16<small>项</small></div>
+              <div class="lbl">pytest 单测 · 改逻辑必全绿</div>
+            </div>
+          </div>
+          <div class="caption">三件事各自解决一个失败模式：细柱漏检、偏航漂移、临界抖动。</div>
         </div>
-      </div>
-    </section>
+        <div class="notes">先说结论再拆解。这里的关键词是"低线束"——只有 1~2 个点的目标，任何现成聚类都会丢掉，所以方法必须自己设计。</div>
+      </section>
 
-    <!-- 第 3 页：系统总览 -->
-    <section class="slide" data-slide="3">
-      <div class="slide-header">
-        <h2 class="slide-title">系统总览与数据流</h2>
-        <div class="slide-tag">System Overview</div>
-      </div>
-      <div class="slide-body">
-        <div class="info-card" style="margin-bottom: 18px;">
-          <div class="card-title">🔄 点云从雷达串口到避障决策的完整链路</div>
-          <div class="card-desc">
-            <ul>
-              <li><strong>雷达采集</strong>（460800）→ <strong>极坐标→机体系</strong>（角度°, 距离mm → x_b, y_b）→ <strong>世界系投影</strong>（+ T265 偏航 → X_w, Y_w）→ <strong>滑窗立柱确认</strong>（6 帧 / 命中 ≥3 次）→ <strong>避障状态机</strong>（迟滞回差 0.75 / 0.90 m）；</li>
-            </ul>
-          </div>
+      <section class="slide" data-slide="3">
+        <div class="slide-header">
+          <h2 class="slide-title">问题：细立柱为什么这么难跟</h2>
+          <div class="slide-tag">Problem &amp; Motivation</div>
         </div>
-        <div class="grid-2">
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">⚡ 免 ROS 直驱链路</div>
-            <div class="card-desc">
-              <ul>
-                <li>Lradar.py 零依赖多线程采集；</li>
-                <li>算法验证与性能压测的最短路径。</li>
-              </ul>
+        <div class="slide-body">
+          <div class="grid-3">
+            <div class="info-card">
+              <div class="card-title" style="color: #ff8f8a;">1️⃣ 点云极稀疏</div>
+              <div class="card-desc">
+                Φ2~5cm 立柱常只有 <strong>1~2 个</strong>有效击中点；<br>
+                传统聚类 <code style="color:#8b949e">min_samples≥3</code> 直接当噪点滤掉；<br>
+                阈值降到 1，又被粉尘反光虚警。
+              </div>
+            </div>
+            <div class="info-card">
+              <div class="card-title" style="color: #ffcc66;">2️⃣ 偏航导致漂移</div>
+              <div class="card-desc">
+                前飞 / 悬停时机体偏航摆动实测 <strong>9°~19°</strong>；<br>
+                机体系下静止立柱的角度大幅跳动；<br>
+                跨帧关联彻底失效。
+              </div>
+            </div>
+            <div class="info-card">
+              <div class="card-title" style="color: #00d4ff;">3️⃣ 临界距离振荡</div>
+              <div class="card-desc">
+                单一阈值（0.8m 刹 / 0.8m 起步）；<br>
+                悬停在阈值边缘时测距微噪；<br>
+                <strong>10Hz 刹车-起步剧烈横跳</strong>。
+              </div>
             </div>
           </div>
-          <div class="info-card">
-            <div class="card-title">🧩 ROS 2 驱动链路</div>
-            <div class="card-desc">
-              <ul>
-                <li>lslidar_driver 原生驱动 + SLAM Toolbox 栅格建图；</li>
-                <li>对接导航栈。</li>
-              </ul>
-            </div>
-          </div>
+          <div class="caption" style="margin-top: 18px;">三个问题对应三个设计：<span style="color: var(--text)">单帧放宽 + 世界系滑窗 + 迟滞回差</span>。后面三页逐条讲。</div>
         </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 镭神 N10P：USB-TTL · 460800（头号铁律）</div>
-          <div class="stat-chip">✓ 地平线 RDK X5：机载主控</div>
-          <div class="stat-chip">✓ Intel T265：VIO 偏航角基准</div>
-        </div>
-      </div>
-    </section>
+        <div class="notes">这页是为了让评委意识到"这不是调参能解决的"。三条都是实测现象，尤其 9°~19° 的偏航摆动，很多人低估。</div>
+      </section>
 
-    <!-- 第 4 页：坐标系融合 -->
-    <section class="slide" data-slide="4">
-      <div class="slide-header">
-        <h2 class="slide-title">坐标系融合 · 从机体系到世界系</h2>
-        <div class="slide-tag">Coordinate Fusion</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-2">
-          <div class="info-card">
-            <div class="card-title">🔄 三级坐标变换（coordinate_fusion.py）</div>
-            <div class="card-desc">
-              <ul>
-                <li><strong>① 雷达极坐标 → 机体系</strong>：0° 正前 +X / 90° 正右 −Y / 180° 正后 −X / 270° 正左 +Y；</li>
-                <li><strong>② 机体系 → 世界系</strong>：X_w = X_drone + R(ψ)·[x_b, y_b]，ψ 取 T265 全局偏航角，双向可逆；</li>
-                <li><strong>③ 世界系 → 机体读数</strong>：逆变换用于离线回放与单测断言。</li>
-              </ul>
-            </div>
+      <section class="slide" data-slide="4">
+        <div class="slide-header">
+          <h2 class="slide-title">数据流：从串口字节到避障决策</h2>
+          <div class="slide-tag">Pipeline</div>
+        </div>
+        <div class="slide-body">
+          <div class="flow">
+            <div class="step"><div class="n">01 采集</div><b>N10P / 460800</b><span>USB-TTL 直读，多线程读-解析-分发</span></div>
+            <div class="arrow">→</div>
+            <div class="step"><div class="n">02 机体系</div><b>极坐标 → xy</b><span>0° 正前 +X，90° 正右 −Y</span></div>
+            <div class="arrow">→</div>
+            <div class="step"><div class="n">03 世界系</div><b>+ T265 偏航 ψ</b><span>旋转平移，双向可逆</span></div>
+            <div class="arrow">→</div>
+            <div class="step"><div class="n">04 确认</div><b>6 帧滑窗</b><span>同一邻域命中 ≥3 次才认</span></div>
+            <div class="arrow">→</div>
+            <div class="step" style="border-color: rgba(0,255,136,.45)"><div class="n">05 决策</div><b>避障状态机</b><span>0.75 / 0.90m 迟滞回差</span></div>
           </div>
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">💡 为什么必须转到世界系</div>
-            <div class="card-desc">
-              <ul>
-                <li><strong>机体系</strong>：静止立柱角度随机体偏航晃动（±9°~19°），时序关联彻底失效；</li>
-                <li><strong>世界系</strong>：静止立柱绝对坐标恒定，多帧观测天然可叠加；</li>
-                <li><strong>结论</strong>：任何跨帧目标追踪都必须先投影到全局世界系再做。</li>
-              </ul>
+          <div class="grid-2" style="margin-top: 22px;">
+            <div class="info-card">
+              <div class="card-title">⚡ 免 ROS 直驱</div>
+              <div class="card-desc">Lradar.py 纯标准库多线程采集，不装 ROS 就能跑；算法验证与压测的最短路径。</div>
+            </div>
+            <div class="info-card">
+              <div class="card-title">🧩 ROS 2 链路</div>
+              <div class="card-desc">lslidar_driver 输出标准 /scan，接 SLAM Toolbox 与导航栈；两条链路数据口径一致，可互相验证。</div>
             </div>
           </div>
         </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 纯 Python 标准数学库实现，零第三方依赖</div>
-          <div class="stat-chip">✓ 单测可在任何机器上秒跑</div>
-        </div>
-      </div>
-    </section>
+        <div class="notes">这条链路的每一段都能单独测：采集有 bench_test、坐标变换有单测、状态机有闭环仿真。这就是"纯 Python"带来的好处。</div>
+      </section>
 
-    <!-- 第 5 页：细立柱追踪 -->
-    <section class="slide" data-slide="5">
-      <div class="slide-header">
-        <h2 class="slide-title">细立柱追踪 · 世界系时序滑窗</h2>
-        <div class="slide-tag">Pole Tracker</div>
-      </div>
-      <div class="slide-body">
-        <div class="info-card" style="margin-bottom: 18px;">
-          <div class="card-title">🔄 核心思路：单帧放宽提取候选，跨帧世界系累加验证</div>
-          <div class="card-desc">
-            <ul>
-              <li><strong>① 单帧候选提取</strong>：小半径聚类（eps 0.15m）放宽 min_samples=1，宁可多报不可漏报；</li>
-              <li><strong>② 世界系投影</strong>：候选点结合 T265 实时位姿旋转平移至全局世界坐标系；</li>
-              <li><strong>③ 滑窗持续验证</strong>：最近 6 帧窗口内，同一空间邻域（≤0.2m）命中 ≥3 次才确认；</li>
-              <li><strong>④ 锁定绝对坐标</strong>：确认真实静止立柱，输出世界系物理坐标供避障使用。</li>
-            </ul>
-          </div>
+      <section class="slide" data-slide="5">
+        <div class="slide-header">
+          <h2 class="slide-title">核心机制 ①　必须转到世界系</h2>
+          <div class="slide-tag">Coordinate Fusion</div>
         </div>
-        <div class="grid-2">
-          <div class="info-card" style="border-color: rgba(229, 72, 77, 0.4);">
-            <div class="card-title" style="color: #e5484d;">❌ 传统单帧聚类</div>
-            <div class="card-desc">
-              <ul>
-                <li>min_samples≥3 → 细柱被滤除；</li>
-                <li>min_samples=1 → 粉尘虚警频发。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">✅ 世界系时序滑窗</div>
-            <div class="card-desc">
-              <ul>
-                <li>漏检与虚警同时解决：单帧放宽 + 多帧确认，虚警率大幅下降；</li>
-                <li>把「单帧瞬时判断」升级为「跨帧时空一致性判断」——用时间换信噪比。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+        <div class="slide-body">
+          <svg viewBox="0 0 1130 400" width="100%" preserveAspectRatio="xMidYMid meet" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" style="flex: 1; min-height: 0;">
+            <defs>
+              <marker id="ax" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#00d4ff"/></marker>
+              <marker id="axg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#00ff88"/></marker>
+              <marker id="axy" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#ffcc66"/></marker>
+            </defs>
 
-    <!-- 第 6 页：避障状态机 -->
-    <section class="slide" data-slide="6">
-      <div class="slide-header">
-        <h2 class="slide-title">避障状态机与迟滞回差</h2>
-        <div class="slide-tag">Mission Avoidance FSM</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-2">
-          <div class="info-card">
-            <div class="card-title">🎮 四状态设计</div>
-            <div class="card-desc">
-              <ul>
-                <li><strong>NAVIGATING</strong>：巡航导航，持续监测已确认立柱距离；</li>
-                <li><strong>HOVER_AVOIDING</strong>：最近立柱 &lt; 0.75m，紧急悬停刹车；</li>
-                <li><strong>BYPASSING</strong>：侧向机动脱离危险区，绕开立柱后回航；</li>
-                <li><strong>REACHED_GOAL</strong>：抵达目标航点，任务结束。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">📐 迟滞回差（Hysteresis Band）</div>
-            <div class="card-desc">
-              <ul>
-                <li><strong>0.75m</strong> 进入悬停刹车（POLE_DANGER_DIST_M）；</li>
-                <li><strong>0.90m</strong> 恢复巡航前进（POLE_RESUME_DIST_M）；</li>
-                <li><strong>触发后不回退</strong>：微增至 0.80m 仍保持悬停，直至 &gt;0.90m 或侧向绕行脱离；</li>
-                <li><strong>双门限严禁同值</strong>：阈值相等 = 临界点高频抖动（头号铁律）。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 回差带宽 0.15m，吸收机体晃动与测距微噪</div>
-          <div class="stat-chip">✓ 飞行动作平稳如丝，无临界振荡</div>
-        </div>
-      </div>
-    </section>
+            <!-- 左：机体系 -->
+            <rect x="0" y="0" width="545" height="340" rx="14" fill="#101726" stroke="rgba(255,143,138,0.28)"/>
+            <text x="22" y="30" fill="#ff8f8a" font-size="12" font-family="monospace" letter-spacing="1">机体系 · 偏航摆动 = 角度漂移</text>
+            <text x="22" y="54" fill="#e6edf3" font-size="13.5">同一根静止立柱，两个时刻读到两个角度</text>
 
-    <!-- 第 7 页：免 ROS 直驱 -->
-    <section class="slide" data-slide="7">
-      <div class="slide-header">
-        <h2 class="slide-title">免 ROS 直驱采集链路</h2>
-        <div class="slide-tag">ROS-Free Direct Driver</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-2">
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">⚡ Lradar.py · 零依赖直采</div>
-            <div class="card-desc">
-              <ul>
-                <li>不装 ROS 即可跑：纯 Python 标准库串口读取；</li>
-                <li>460800 波特率高频多线程采集，读 / 解析 / 分发分离；</li>
-                <li>算法验证与性能压测的最短路径；</li>
-                <li>与 ROS 2 驱动链路数据口径一致，可互相验证。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">🧩 lslidar_driver · ROS 2 原生</div>
-            <div class="card-desc">
-              <ul>
-                <li>镭神官方 ROS 2 驱动包（lslidar_msgs + lslidar_driver）；</li>
-                <li>输出标准 LaserScan，无缝对接 SLAM Toolbox；</li>
-                <li>配套建图 launch：建图 / 仅查看 / 仅驱动三件套；</li>
-                <li>nav2_map_server 一键保存栅格地图（.pgm + .yaml）。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ bench_test.py 板载串口吞吐量压测</div>
-          <div class="stat-chip">✓ 高波特率长时间采集不掉帧不丢包</div>
-        </div>
-      </div>
-    </section>
+            <g transform="translate(140, 210)">
+              <line x1="-90" y1="0" x2="120" y2="0" stroke="#8b949e" stroke-width="1" stroke-dasharray="4 4" opacity="0.35"/>
+              <line x1="0" y1="-80" x2="0" y2="110" stroke="#8b949e" stroke-width="1" stroke-dasharray="4 4" opacity="0.35"/>
+              <circle cx="0" cy="0" r="7" fill="#00ff88"/>
+              <text x="-52" y="-12" fill="#00ff88" font-size="12">机体</text>
 
-    <!-- 第 8 页：SLAM 建图 -->
-    <section class="slide" data-slide="8">
-      <div class="slide-header">
-        <h2 class="slide-title">SLAM Toolbox 栅格建图</h2>
-        <div class="slide-tag">2D Mapping</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-2">
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">🗺️ 建图闭环四步</div>
-            <div class="card-desc">
-              <ul>
-                <li><strong>① 驱动上线</strong>：lslidar_driver 发布 /scan（460800 口）；</li>
-                <li><strong>② SLAM 建图</strong>：slam_final.launch 在线建图，RViz 实时查看；</li>
-                <li><strong>③ 地图保存</strong>：nav2_map_server 导出 PGM/YAML；</li>
-                <li><strong>④ 后续定位</strong>：切定位模式，供导航栈复用。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">📦 SLAM建图配置/ 交付内容</div>
-            <div class="card-desc">
-              <ul>
-                <li><strong>slam_final.launch.py</strong>：建图一键启动；</li>
-                <li><strong>lslidar_rviz.launch.py</strong>：仅查看，调试期免重复建图；</li>
-                <li><strong>lsn10p_launch.py</strong>：仅雷达驱动，独立测试；</li>
-                <li><strong>数据修复脚本</strong>：异常点云清洗与修复工具。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 参数持久化：防区 / 阈值配置落盘，重启不丢</div>
-        </div>
-      </div>
-    </section>
+              <g transform="rotate(-28)">
+                <line x1="0" y1="0" x2="150" y2="0" stroke="#00d4ff" stroke-width="2.2" marker-end="url(#ax)"/>
+              </g>
+              <g transform="rotate(24)">
+                <line x1="0" y1="0" x2="150" y2="0" stroke="#ffcc66" stroke-width="2.2" marker-end="url(#axy)"/>
+              </g>
 
-    <!-- 第 9 页：质量保障 -->
-    <section class="slide" data-slide="9">
-      <div class="slide-header">
-        <h2 class="slide-title">质量保障 · 测试体系</h2>
-        <div class="slide-tag">Quality Assurance</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-3">
-          <div class="info-card" style="border-color: rgba(0, 255, 136, 0.3);">
-            <div class="card-title" style="color: var(--primary);">✅ 16 项 pytest 单元测试</div>
-            <div class="card-desc">
-              <ul>
-                <li>覆盖 PoleTracker 时序滑窗与状态机迟滞逻辑；</li>
-                <li>改追踪器 / 避障逻辑后必须全绿才能交付；</li>
-                <li>纯 Python 标准库，任何机器秒跑。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">🧪 无硬件仿真验证</div>
-            <div class="card-desc">
-              <ul>
-                <li>static_pole_check --mock：无雷达模拟静态立柱；</li>
-                <li>mission_avoidance_demo：避障状态机闭环仿真；</li>
-                <li>上机前先过仿真，降低试飞风险。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card">
-            <div class="card-title">📏 串口压测</div>
-            <div class="card-desc">
-              <ul>
-                <li>bench_test.py 板载吞吐量压测；</li>
-                <li>验证 460800 高波特率长时间稳定性；</li>
-                <li>为算法层提供可信数据底座。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ pytest test_pole_tracker.py test_mission_avoidance.py -v</div>
-          <div class="stat-chip">✓ python static_pole_check.py --mock --duration 5</div>
-        </div>
-      </div>
-    </section>
+              <line x1="0" y1="0" x2="196" y2="-140" stroke="#ff8f8a" stroke-width="1.6" stroke-dasharray="6 5" opacity="0.85"/>
+              <line x1="0" y1="0" x2="230" y2="-92" stroke="#ff8f8a" stroke-width="1.6" stroke-dasharray="6 5" opacity="0.5"/>
+              <circle cx="196" cy="-140" r="8" fill="#ff8f8a"/>
+              <text x="210" y="-136" fill="#e6edf3" font-size="12">立柱（静止）</text>
 
-    <!-- 第 10 页：铁律与避坑 -->
-    <section class="slide" data-slide="10">
-      <div class="slide-header">
-        <h2 class="slide-title">铁律与避坑清单</h2>
-        <div class="slide-tag">Iron Rules &amp; Pitfalls</div>
-      </div>
-      <div class="slide-body">
-        <div class="grid-2">
-          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
-            <div class="card-title" style="color: #f5a623;">📌 波特率必须 460800</div>
-            <div class="card-desc">
-              <ul>
-                <li>镭神 N10P 出厂与飞行工程统一按此配置；</li>
-                <li>漏配波特率 = 收不到数据，本仓头号坑。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
-            <div class="card-title" style="color: #f5a623;">📌 双门限严禁同值</div>
-            <div class="card-desc">
-              <ul>
-                <li>悬停刹车 / 恢复巡航阈值相等 = 临界点高频抖动；</li>
-                <li>回差带必须保留。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
-            <div class="card-title" style="color: #f5a623;">📌 追踪必须转世界系</div>
-            <div class="card-desc">
-              <ul>
-                <li>机体系下立柱随偏航晃动，直接追踪必丢；</li>
-                <li>先投影再滑窗。</li>
-              </ul>
-            </div>
-          </div>
-          <div class="info-card" style="border-color: rgba(245, 166, 35, 0.4);">
-            <div class="card-title" style="color: #f5a623;">📌 滑窗参数成对调</div>
-            <div class="card-desc">
-              <ul>
-                <li>窗口帧数（6）与命中次数（≥3）联动调整；</li>
-                <li>单改一个会破坏置信平衡。</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="stat-badge-row">
-          <div class="stat-chip">✓ 适用：电赛立柱穿越 · 室内低空巡检 · 任何「低线束 2D 雷达 + 细小障碍物」追踪避障</div>
-        </div>
-      </div>
-    </section>
+              <text x="96" y="-66" fill="#00d4ff" font-size="11">t1 读数 −34°</text>
+              <text x="112" y="46" fill="#ffcc66" font-size="11">t2 读数 +26°</text>
+              <text x="-58" y="-160" fill="#ff8f8a" font-size="12">角度差 60°（含 9°~19° 偏航抖动）</text>
+            </g>
+            <text x="22" y="368" fill="#8b949e" font-size="12">→ 跨帧关联失效：同一个目标，每帧都像"新目标"</text>
 
-    <!-- 第 11 页：收尾 -->
-    <section class="slide" data-slide="11">
-      <div class="cover-layout">
-        <div class="cover-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--secondary); border-color: var(--secondary);">✨ 项目小结</div>
-        <h2 class="cover-title" style="font-size: 2.6rem;">感知 · 融合 · 决策 · 验证</h2>
-        <p class="cover-sub">从串口字节流到避障状态机，每个环节都有单测兜底</p>
-        <div class="cover-meta" style="justify-content: center;">
-          <div>纯 Python 全栈</div>
-          <div>世界系追踪</div>
-          <div>迟滞回差</div>
-          <div>免 ROS 直驱</div>
-          <div>16 项单测</div>
-        </div>
-        <div style="margin-top: 24px;">
-          <a href="https://github.com/LONEFORME/lidar-slam-nav" target="_blank" class="hud-btn" style="display: inline-flex; text-decoration: none; padding: 12px 28px; font-size: 1rem; border-color: var(--primary); color: var(--primary);">
-            查看源码仓库 ↗
-          </a>
-        </div>
-      </div>
-    </section>
+            <!-- 右：世界系 -->
+            <rect x="585" y="0" width="545" height="340" rx="14" fill="#101726" stroke="rgba(0,255,136,0.28)"/>
+            <text x="607" y="30" fill="#00ff88" font-size="12" font-family="monospace" letter-spacing="1">世界系 · 绝对坐标恒定</text>
+            <text x="607" y="54" fill="#e6edf3" font-size="13.5">投影一次，多帧观测天然可叠加</text>
 
+            <g transform="translate(660, 236)">
+              <line x1="0" y1="0" x2="400" y2="0" stroke="#00d4ff" stroke-width="1.6" marker-end="url(#ax)"/>
+              <text x="406" y="4" fill="#00d4ff" font-size="11">Xw</text>
+              <line x1="0" y1="0" x2="0" y2="-170" stroke="#00d4ff" stroke-width="1.6" marker-end="url(#ax)"/>
+              <text x="-4" y="-176" fill="#00d4ff" font-size="11">Yw</text>
 
+              <circle cx="330" cy="-150" r="9" fill="#ff8f8a"/>
+              <text x="344" y="-144" fill="#e6edf3" font-size="12">立柱 (Xw, Yw) 恒定</text>
+
+              <g>
+                <circle cx="70" cy="0" r="7" fill="#00ff88"/>
+                <g transform="rotate(-28)"><line x1="0" y1="0" x2="86" y2="0" stroke="#00ff88" stroke-width="1.8" marker-end="url(#axg)"/></g>
+                <line x1="70" y1="0" x2="330" y2="-150" stroke="#00ff88" stroke-width="1.4" stroke-dasharray="6 5" opacity="0.65"/>
+                <text x="34" y="28" fill="#00ff88" font-size="11">t1</text>
+              </g>
+              <g>
+                <circle cx="150" cy="26" r="7" fill="#ffcc66"/>
+                <g transform="rotate(24)"><line x1="0" y1="0" x2="86" y2="0" stroke="#ffcc66" stroke-width="1.8" marker-end="url(#axy)"/></g>
+                <line x1="150" y1="26" x2="330" y2="-150" stroke="#ffcc66" stroke-width="1.4" stroke-dasharray="6 5" opacity="0.65"/>
+                <text x="86" y="66" fill="#ffcc66" font-size="11">t2</text>
+              </g>
+              <text x="196" y="-96" fill="#8b949e" font-size="11">射线方向变，交点不变</text>
+            </g>
+            <text x="607" y="368" fill="#8b949e" font-size="12">Xw = X + R(ψ)·[x_b, y_b]，ψ 取 T265 全局偏航；逆变换用于离线回放与单测断言</text>
+          </svg>
+          <div class="stat-badge-row">
+            <div class="stat-chip">纯 Python 标准数学库 · 零第三方依赖</div>
+            <div class="stat-chip">正反变换双向可逆</div>
+            <div class="stat-chip">单测可在任何机器秒跑</div>
+          </div>
+        </div>
+        <div class="notes">这页是整份稿的核心。用手比划：机体在晃，所以机体坐标系里目标在晃；世界坐标不动，所以目标不动。一句话——所有跨帧追踪都必须先转世界系。</div>
+      </section>
+
+      <section class="slide" data-slide="6">
+        <div class="slide-header">
+          <h2 class="slide-title">核心机制 ②　6 帧时序滑窗</h2>
+          <div class="slide-tag">Pole Tracker</div>
+        </div>
+        <div class="slide-body">
+          <svg viewBox="0 0 1130 250" width="100%" preserveAspectRatio="xMidYMid meet" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif" style="flex: none;">
+            <g font-size="12">
+              <g transform="translate(0,0)">
+                <rect x="0" y="0" width="160" height="170" rx="10" fill="#101726" stroke="rgba(255,255,255,0.10)"/>
+                <text x="12" y="24" fill="#8b949e" font-family="monospace">t-5</text>
+                <circle cx="60" cy="70" r="4" fill="#8b949e"/><circle cx="86" cy="100" r="3" fill="#8b949e"/>
+                <circle cx="104" cy="86" r="5" fill="#00ff88"/>
+                <text x="12" y="152" fill="#8b949e">命中 1</text>
+              </g>
+              <g transform="translate(194,0)">
+                <rect x="0" y="0" width="160" height="170" rx="10" fill="#101726" stroke="rgba(255,255,255,0.10)"/>
+                <text x="12" y="24" fill="#8b949e" font-family="monospace">t-4</text>
+                <circle cx="70" cy="64" r="4" fill="#8b949e"/><circle cx="96" cy="94" r="3" fill="#8b949e"/>
+                <circle cx="106" cy="88" r="5" fill="#00ff88"/>
+                <text x="12" y="152" fill="#8b949e">命中 1</text>
+              </g>
+              <g transform="translate(388,0)">
+                <rect x="0" y="0" width="160" height="170" rx="10" fill="#101726" stroke="rgba(255,255,255,0.10)"/>
+                <text x="12" y="24" fill="#8b949e" font-family="monospace">t-3</text>
+                <circle cx="58" cy="88" r="4" fill="#8b949e"/>
+                <circle cx="103" cy="87" r="5" fill="#00ff88"/>
+                <circle cx="122" cy="102" r="4" fill="#00ff88"/>
+                <text x="12" y="152" fill="#00d4ff">命中 2</text>
+              </g>
+              <g transform="translate(582,0)">
+                <rect x="0" y="0" width="160" height="170" rx="10" fill="#101726" stroke="rgba(255,255,255,0.10)"/>
+                <text x="12" y="24" fill="#8b949e" font-family="monospace">t-2</text>
+                <circle cx="84" cy="108" r="3" fill="#8b949e"/>
+                <circle cx="100" cy="86" r="5" fill="#00ff88"/>
+                <circle cx="115" cy="110" r="4" fill="#00ff88"/>
+                <text x="12" y="152" fill="#ffcc66">命中 2</text>
+              </g>
+              <g transform="translate(776,0)">
+                <rect x="0" y="0" width="160" height="170" rx="10" fill="#101726" stroke="rgba(0,255,136,0.45)"/>
+                <text x="12" y="24" fill="#00ff88" font-family="monospace">t-1</text>
+                <circle cx="72" cy="74" r="3" fill="#8b949e"/>
+                <circle cx="101" cy="87" r="5" fill="#00ff88"/>
+                <circle cx="118" cy="98" r="4" fill="#00ff88"/>
+                <text x="12" y="152" fill="#00ff88">命中 3 ✓</text>
+              </g>
+              <g transform="translate(970,0)">
+                <rect x="0" y="0" width="160" height="170" rx="10" fill="#151e32" stroke="rgba(0,255,136,0.55)"/>
+                <text x="12" y="24" fill="#00ff88" font-family="monospace">t</text>
+                <circle cx="100" cy="87" r="15" fill="none" stroke="#00ff88" stroke-width="1.3" opacity="0.45"/>
+                <circle cx="100" cy="87" r="7" fill="#00ff88"/>
+                <text x="12" y="152" fill="#00ff88">已确认</text>
+              </g>
+              <text x="0" y="200" fill="#8b949e" font-size="12">每帧：eps 0.15m 小半径聚类 + min_samples=1（宁可多报）→ 投影世界系 → 在 ≤0.2m 邻域累计命中</text>
+              <text x="0" y="228" fill="#e6edf3" font-size="13">用时间换信噪比：单帧放宽不漏检，跨帧累计不虚警。</text>
+            </g>
+          </svg>
+          <div class="grid-2" style="margin-top: 18px;">
+            <div class="info-card">
+              <div class="card-title" style="color: #ff8f8a;">❌ 传统单帧聚类</div>
+              <div class="card-desc">min_samples≥3 → 细柱被当噪点滤掉；降到 1 → 粉尘反光虚警频发。<strong>单帧信息量不够，怎么调都是二选一。</strong></div>
+            </div>
+            <div class="info-card" style="border-color: rgba(0,255,136,.3)">
+              <div class="card-title" style="color: var(--primary);">✅ 世界系时序滑窗</div>
+              <div class="card-desc">单帧放宽 + 多帧确认，把「瞬时判断」升级成「跨帧时空一致性判断」，漏检与虚警同时下降。</div>
+            </div>
+          </div>
+        </div>
+        <div class="notes">关键在"两次放宽、一次收紧"：单帧放宽（min_samples=1）保证不漏，跨帧收紧（6 帧里至少 3 次）保证不虚。窗口和命中次数要成对调，只改一个会破坏置信平衡。</div>
+      </section>
+
+      <section class="slide" data-slide="7">
+        <div class="slide-header">
+          <h2 class="slide-title">核心机制 ③　状态机与迟滞回差</h2>
+          <div class="slide-tag">FSM &amp; Hysteresis</div>
+        </div>
+        <div class="slide-body">
+          <div class="split">
+            <svg viewBox="0 0 545 300" width="100%" preserveAspectRatio="xMidYMid meet" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+              <defs>
+                <marker id="fa" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#00d4ff" opacity="0.85"/></marker>
+                <marker id="fag" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#00ff88" opacity="0.85"/></marker>
+              </defs>
+              <g font-size="11">
+                <rect x="15" y="30" width="205" height="64" rx="10" fill="#151e32" stroke="rgba(0,255,136,0.45)"/>
+                <text x="117" y="55" text-anchor="middle" fill="#00ff88" font-family="monospace">NAVIGATING</text>
+                <text x="117" y="76" text-anchor="middle" fill="#8b949e">巡航 · 持续测距</text>
+
+                <rect x="325" y="30" width="205" height="64" rx="10" fill="#151e32" stroke="rgba(255,143,138,0.5)"/>
+                <text x="427" y="55" text-anchor="middle" fill="#ff8f8a" font-family="monospace">HOVER_AVOIDING</text>
+                <text x="427" y="76" text-anchor="middle" fill="#8b949e">&lt; 0.75m 悬停刹车</text>
+
+                <rect x="325" y="190" width="205" height="64" rx="10" fill="#151e32" stroke="rgba(255,204,102,0.5)"/>
+                <text x="427" y="215" text-anchor="middle" fill="#ffcc66" font-family="monospace">BYPASSING</text>
+                <text x="427" y="236" text-anchor="middle" fill="#8b949e">侧向机动脱离</text>
+
+                <rect x="15" y="190" width="205" height="64" rx="10" fill="#151e32" stroke="rgba(255,255,255,0.14)"/>
+                <text x="117" y="215" text-anchor="middle" fill="#e6edf3" font-family="monospace">REACHED_GOAL</text>
+                <text x="117" y="236" text-anchor="middle" fill="#8b949e">抵达航点</text>
+              </g>
+              <g stroke="#00d4ff" stroke-width="1.5" opacity="0.85" marker-end="url(#fa)" fill="none">
+                <line x1="222" y1="50" x2="320" y2="50"/>
+                <line x1="427" y1="96" x2="427" y2="186"/>
+                <line x1="322" y1="222" x2="222" y2="222"/>
+              </g>
+              <g stroke="#00ff88" stroke-width="1.4" opacity="0.8" stroke-dasharray="5 4" marker-end="url(#fag)" fill="none">
+                <line x1="320" y1="72" x2="222" y2="72"/>
+              </g>
+              <g font-size="11">
+                <text x="234" y="42" fill="#00d4ff">&lt;0.75m 刹</text>
+                <text x="234" y="90" fill="#00ff88">&gt;0.90m 恢复</text>
+                <text x="436" y="146" fill="#8b949e">绕行</text>
+                <text x="236" y="215" fill="#8b949e">到达</text>
+              </g>
+              <text x="15" y="288" fill="#8b949e" font-size="11">四个状态覆盖：巡航 / 急停 / 绕行 / 到达，无隐式状态</text>
+            </svg>
+
+            <svg viewBox="0 0 545 300" width="100%" preserveAspectRatio="xMidYMid meet" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+              <defs>
+                <marker id="rax" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#8b949e"/></marker>
+              </defs>
+              <!-- 回差带 -->
+              <rect x="180" y="40" width="140" height="200" fill="rgba(255,204,102,0.10)"/>
+              <line x1="180" y1="40" x2="180" y2="245" stroke="#ff8f8a" stroke-width="1.5" stroke-dasharray="5 4"/>
+              <line x1="320" y1="40" x2="320" y2="245" stroke="#00ff88" stroke-width="1.5" stroke-dasharray="5 4"/>
+              <text x="250" y="28" text-anchor="middle" fill="#ffcc66" font-size="12">回差带 0.15m</text>
+
+              <!-- 状态曲线 -->
+              <path d="M 40 215 L 178 215 L 182 105 L 318 105 L 322 215 L 500 215"
+                    fill="none" stroke="#00d4ff" stroke-width="2.6" stroke-linejoin="round"/>
+              <text x="52" y="205" fill="#00d4ff" font-size="12">前进</text>
+              <text x="196" y="130" fill="#ff8f8a" font-size="12">悬停</text>
+              <text x="332" y="205" fill="#00d4ff" font-size="12">前进</text>
+
+              <!-- 轴 -->
+              <line x1="40" y1="250" x2="500" y2="250" stroke="#8b949e" stroke-width="1" marker-end="url(#rax)"/>
+              <text x="452" y="240" fill="#8b949e" font-size="11">障碍距离 →</text>
+              <text x="180" y="272" text-anchor="middle" fill="#ff8f8a" font-size="11">0.75 刹车</text>
+              <text x="320" y="272" text-anchor="middle" fill="#00ff88" font-size="11">0.90 恢复</text>
+
+            </svg>
+          </div>
+          <div class="stat-badge-row">
+            <div class="stat-chip">0.75m 进入悬停（POLE_DANGER_DIST_M）</div>
+            <div class="stat-chip">0.90m 恢复巡航（POLE_RESUME_DIST_M）</div>
+            <div class="stat-chip">触发后不回退：0.80m 仍保持悬停</div>
+          </div>
+        </div>
+        <div class="notes">右图那张折线就是回差：进入危险立刻刹，但退出要等退到 0.90m。中间这 0.15m 是留给测距噪声和机体晃动的余量，不然就在阈值上抽风。</div>
+      </section>
+
+      <section class="slide" data-slide="8">
+        <div class="slide-header">
+          <h2 class="slide-title">采集与建图：两条链路一套数据</h2>
+          <div class="slide-tag">Driver &amp; Mapping</div>
+        </div>
+        <div class="slide-body">
+          <div class="split">
+            <div class="info-card">
+              <div class="card-title">⚡ Lradar.py · 零依赖直采</div>
+              <div class="card-desc">
+                <ul>
+                  <li>不装 ROS 即可跑：纯 Python 标准库串口读取；</li>
+                  <li>460800 高频多线程，读 / 解析 / 分发分离；</li>
+                  <li>算法验证与性能压测的最短路径；</li>
+                  <li>与 ROS 2 链路数据口径一致，可互相校验。</li>
+                </ul>
+                <div style="margin-top: 10px; color: var(--text); font-weight: 600;">bench_test.py 压测验证：长时间采集不掉帧</div>
+              </div>
+            </div>
+            <div>
+              <div class="flow" style="flex-direction: column; gap: 10px;">
+                <div class="step"><div class="n">① 驱动上线</div><b>lslidar_driver → /scan</b><span>460800 口，标准 LaserScan</span></div>
+                <div class="step"><div class="n">② 在线建图</div><b>slam_final.launch</b><span>SLAM Toolbox 建图，RViz 实时查看</span></div>
+                <div class="step"><div class="n">③ 地图保存</div><b>nav2_map_server</b><span>导出 PGM + YAML</span></div>
+                <div class="step" style="border-color: rgba(0,255,136,.45)"><div class="n">④ 复用定位</div><b>切定位模式</b><span>交给导航栈复用同一张图</span></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="notes">两条链路不是二选一：没有 ROS 时用直采做算法开发，上机时用 ROS 2 接建图。数据口径一致，所以算法不用改。</div>
+      </section>
+
+      <section class="slide" data-slide="9">
+        <div class="slide-header">
+          <h2 class="slide-title">质量保障：改一行就得跑一遍</h2>
+          <div class="slide-tag">Quality Assurance</div>
+        </div>
+        <div class="slide-body">
+          <div class="metric-grid">
+            <div class="metric"><div class="num">16<small>项</small></div><div class="lbl">pytest 单测，覆盖滑窗与迟滞逻辑</div></div>
+            <div class="metric"><div class="num">0<small>依赖</small></div><div class="lbl">纯标准库，任何机器秒跑</div></div>
+            <div class="metric"><div class="num">2<small>层</small></div><div class="lbl">无硬件 mock 仿真 + 板载串口压测</div></div>
+          </div>
+          <div class="grid-3" style="margin-top: 18px;">
+            <div class="info-card">
+              <div class="card-title">✅ 单元测试</div>
+              <div class="card-desc">覆盖 PoleTracker 时序滑窗与状态机迟滞；改追踪器或避障逻辑必须全绿才能交付。</div>
+            </div>
+            <div class="info-card">
+              <div class="card-title">🧪 无硬件仿真</div>
+              <div class="card-desc">static_pole_check --mock 模拟静态立柱；mission_avoidance_demo 跑闭环状态机，上机前先过仿真。</div>
+            </div>
+            <div class="info-card">
+              <div class="card-title">📏 串口压测</div>
+              <div class="card-desc">bench_test.py 压板载吞吐，验证 460800 长时间采集稳定，为算法提供可信数据底座。</div>
+            </div>
+          </div>
+          <div class="stat-badge-row">
+            <div class="stat-chip">pytest test_pole_tracker.py test_mission_avoidance.py -v</div>
+            <div class="stat-chip">python static_pole_check.py --mock --duration 5</div>
+          </div>
+        </div>
+        <div class="notes">这一页回答"你怎么保证没改坏"。别人演示靠现场运气，这里的每个判断逻辑都有断言。</div>
+      </section>
+
+      <section class="slide" data-slide="10">
+        <div class="slide-header">
+          <h2 class="slide-title">铁律与适用边界</h2>
+          <div class="slide-tag">Rules &amp; Scope</div>
+        </div>
+        <div class="slide-body">
+          <div class="grid-2">
+            <div class="info-card" style="border-color: rgba(255,143,138,.3)">
+              <div class="card-title" style="color: #ff8f8a;">📌 波特率必须 460800</div>
+              <div class="card-desc">镭神 N10P 出厂与飞行工程统一按此配置；漏配 = 收不到数据，本仓头号坑。</div>
+            </div>
+            <div class="info-card" style="border-color: rgba(255,143,138,.3)">
+              <div class="card-title" style="color: #ff8f8a;">📌 双门限严禁同值</div>
+              <div class="card-desc">悬停刹车 / 恢复巡航阈值相等 = 临界点高频抖动，回差带必须保留。</div>
+            </div>
+            <div class="info-card" style="border-color: rgba(255,143,138,.3)">
+              <div class="card-title" style="color: #ff8f8a;">📌 追踪必须转世界系</div>
+              <div class="card-desc">机体系下立柱随偏航晃动，直接追踪必丢；先投影，再滑窗。</div>
+            </div>
+            <div class="info-card" style="border-color: rgba(255,143,138,.3)">
+              <div class="card-title" style="color: #ff8f8a;">📌 滑窗参数成对调</div>
+              <div class="card-desc">窗口帧数（6）与命中次数（≥3）联动调整，单改一个会破坏置信平衡。</div>
+            </div>
+          </div>
+          <div class="caption">适用范围：电赛立柱穿越 · 室内低空巡检 · 任何「低线束 2D 雷达 + 细小障碍物」的追踪避障场景；换成高线束雷达同样适用，只是阈值需重标。</div>
+        </div>
+        <div class="notes">这四条是踩出来的，不是抄的。答辩问到"你们遇到最大的坑"，挑第一条答，能立刻建立可信度。</div>
+      </section>
+
+      <section class="slide" data-slide="11">
+        <div class="cover-layout">
+          <div class="cover-badge" style="background: rgba(0, 212, 255, 0.15); color: var(--secondary); border-color: var(--secondary);">✨ 项目小结</div>
+          <h2 class="cover-title" style="font-size: 2.6rem;">感知 · 融合 · 决策 · 验证</h2>
+          <p class="cover-sub">从串口字节流到避障状态机，每个环节都有单测兜底</p>
+          <div class="cover-meta" style="justify-content: center;">
+            <div>纯 Python 全栈</div><div>世界系追踪</div><div>迟滞回差</div><div>免 ROS 直驱</div><div>16 项单测</div>
+          </div>
+          <div style="margin-top: 24px;">
+            <a href="https://github.com/LONEFORME/lidar-slam-nav" class="hud-btn" style="display: inline-flex; text-decoration: none; padding: 12px 28px; font-size: 1rem; border-color: var(--primary); color: var(--primary);">
+              查看源码仓库 ↗
+            </a>
+          </div>
+        </div>
+        <div class="notes">收尾一句：这套方法真正值钱的是"可验证"——每个判断都能在没飞机的情况下跑出来。</div>
+      </section>
+    </div>
   </main>
 
-  <!-- 底部控制器 HUD -->
   <footer class="deck-hud">
     <div class="hud-controls">
       <button class="hud-btn" id="prevBtn" title="上一页 (←)">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="15 18 9 12 15 6"></polyline></svg>
-        上一页
+        <span class="btn-label">上一页</span>
       </button>
       <button class="hud-btn" id="nextBtn" title="下一页 (→/空格)">
-        下一页
+        <span class="btn-label">下一页</span>
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="9 18 15 12 9 6"></polyline></svg>
+      </button>
+      <button class="hud-btn" id="outlineBtn" title="目录 / 跳页 (O)">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg>
+        <span class="btn-label">目录</span>
       </button>
       <button class="hud-btn" id="fullscreenBtn" title="切换全屏放映 (F)">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
-        全屏放映
+        <span class="btn-label">全屏放映</span>
       </button>
-      <a class="hud-btn" id="exitBtn" href="/slides/" title="返回演示稿列表 (Esc)" style="text-decoration: none;">
+      <a class="hud-btn" id="exitBtn" href="/slides/" title="返回演示稿列表 (Esc)">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 12H5m7-7-7 7 7 7"></path></svg>
-        返回列表
+        <span class="btn-label">返回列表</span>
       </a>
     </div>
     <div class="hud-counter">
-      <span id="currentSlideNum"><b>01</b></span> / <span id="totalSlidesNum">08</span>
+      <span id="currentSlideNum"><b>01</b></span> / <span id="totalSlidesNum">--</span>
     </div>
   </footer>
 
-  <script>
-    (function() {
-      var slides = document.querySelectorAll('.slide');
-      var total = slides.length;
-      var current = 0;
-      var progressBar = document.getElementById('progressBar');
-      var currentNum = document.getElementById('currentSlideNum');
-      var totalNum = document.getElementById('totalSlidesNum');
-      totalNum.textContent = String(total).padStart(2, '0');
+  <div class="rotate-hint">
+    <strong>建议横屏观看</strong>
+    <div>本演示稿按 16:9 排版，横屏后自动铺满屏幕。</div>
+    <button type="button" class="hud-btn" id="rotateDismiss">继续竖屏查看</button>
+  </div>
 
-      function updateSlide(index) {
-        if (index < 0) index = 0;
-        if (index >= total) index = total - 1;
-        current = index;
-
-        slides.forEach(function(s, idx) {
-          s.classList.remove('active', 'prev');
-          if (idx === current) {
-            s.classList.add('active');
-          } else if (idx < current) {
-            s.classList.add('prev');
-          }
-        });
-
-        var pct = ((current + 1) / total) * 100;
-        progressBar.style.width = pct + '%';
-        currentNum.innerHTML = '<b>' + String(current + 1).padStart(2, '0') + '</b>';
-      }
-
-      function next() { updateSlide(current + 1); }
-      function prev() { updateSlide(current - 1); }
-
-      document.getElementById('nextBtn').addEventListener('click', next);
-      document.getElementById('prevBtn').addEventListener('click', prev);
-
-      // 键盘控制
-      window.addEventListener('keydown', function(e) {
-        if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
-          e.preventDefault();
-          next();
-        } else if (e.key === 'ArrowLeft' || e.key === 'PageUp') {
-          e.preventDefault();
-          prev();
-        } else if (e.key === 'f' || e.key === 'F') {
-          toggleFullscreen();
-        } else if (e.key === 'Escape') {
-          if (document.fullscreenElement) {
-            if (document.exitFullscreen) document.exitFullscreen();
-          } else {
-            window.location.href = '/slides/';
-          }
-        } else if (e.key === 'Home') {
-          updateSlide(0);
-        } else if (e.key === 'End') {
-          updateSlide(total - 1);
-        }
-      });
-
-      // 全屏切换
-      function toggleFullscreen() {
-        if (!document.fullscreenElement) {
-          document.documentElement.requestFullscreen().catch(function() {});
-        } else {
-          if (document.exitFullscreen) document.exitFullscreen();
-        }
-      }
-      document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscreen);
-
-      // 鼠标滚轮切换防抖
-      var wheelTimer = null;
-      window.addEventListener('wheel', function(e) {
-        if (wheelTimer) return;
-        wheelTimer = setTimeout(function() { wheelTimer = null; }, 300);
-        if (e.deltaY > 20) next();
-        else if (e.deltaY < -20) prev();
-      }, { passive: true });
-
-      // 触控滑动支持
-      var touchStartX = 0;
-      window.addEventListener('touchstart', function(e) {
-        touchStartX = e.changedTouches[0].clientX;
-      }, { passive: true });
-      window.addEventListener('touchend', function(e) {
-        var diffX = e.changedTouches[0].clientX - touchStartX;
-        if (diffX < -50) next();
-        else if (diffX > 50) prev();
-      }, { passive: true });
-
-      updateSlide(0);
-    })();
-  </script>
+  <script src="/slides/deckkit.js" defer></script>
 </body>
 </html>
