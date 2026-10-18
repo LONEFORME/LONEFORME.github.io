@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-17 23:46（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-18 14:42（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -302,7 +302,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+35.9 亿</span>
+      <span class="sector-flow-badge">+22.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -315,7 +315,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+47.3 亿</span>
+      <span class="sector-flow-badge">+41.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -328,7 +328,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+53.4 亿</span>
+      <span class="sector-flow-badge">+28.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -341,7 +341,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+26.6 亿</span>
+      <span class="sector-flow-badge">+22.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -367,73 +367,25 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">3 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-17/10716463.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月17日电 据河北省纪委监委消息，冀中能源集团有限责任公司董事会原董事，峰峰集团有限公司原党委书记、董事长陈亚杰涉嫌严重违纪违法，目前正接受河北省纪委监委纪律审查和监察调查。" data-title="冀中能源集团董事会原董事陈亚杰接受审查调查" data-date="10-17 22:32" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="佛蒙特州参议员伯尼·桑德斯（ Bernie Sanders ）强调投资共和党倾向的州。他在坦帕为尼克松女士集会，尼克松女士是佛罗里达州参议院的弱势民主党候选人。" data-title="Bernie Sanders Visits Florida to Campaign With Angie Nixon" data-date="10-18 13:42" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 22:32</span>
-          <span class="news-item-title">冀中能源集团董事会原董事陈亚杰接受审查调查</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-18 13:42</span>
+          <span class="news-item-title">Bernie Sanders Visits Florida to Campaign With Angie Nixon</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/406.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 17 日消息，工信部昨晚发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，上汽荣威家越 07 纯电动版完成申报。申报信息显示，荣威家越 07 定位纯电动运动型乘用车，外观尺寸为长 4900 mm、宽 1910 mm、高 1745 / 1753 mm，轴距达到 2908 mm，前轮距 1643 mm，后轮距 1657 mm，接近角 19 度，离去角 22 度，前悬 917 mm，后悬 1075 mm，额定载客为 5 座。IT之家注意到，该车整备质量分为 2050 kg、2075 kg、2120 kg 三个版本，总质量对应为 2475 kg、2500 kg、2545 kg，提供 245/55R19、245/50R20 两种轮胎规格可选，最高车速可达 200 km" data-title="上汽荣威家越 07 纯电版完成申报：大五座布局，轴距达 2908 mm" data-date="10-17 22:29" data-source="IT之家">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普政府无视国会的意愿，放弃了对俄罗斯的新制裁，因为人们担心高昂的能源价格将在下个月的选举中让共和党人付出代价。" data-title="Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor" data-date="10-18 07:46" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-17 22:29</span>
-          <span class="news-item-title">上汽荣威家越 07 纯电版完成申报：大五座布局，轴距达 2908 mm</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-18 07:46</span>
+          <span class="news-item-title">Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/404.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 17 日消息，工信部昨晚发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，梅赛德斯-奔驰 C300L 纯电动轿车完成申报。车身尺寸方面，新车长宽高分别为 4977 mm / 1876 mm / 1510 mm，轴距为 3051 mm。车辆整备质量 2315 kg，总质量 2785 kg，额定载客 5 人，最高车速 200 km/h，前轮距 1617 mm，后轮距 1611 mm，接近角 / 离去角为 16 / 19 度，轮胎规格为前轮 235/50R19、后轮 255/45R19。IT之家注意到，动力方面，新车搭载型号为 EM0037 的驱动电机，由北京奔驰汽车有限公司生产，额定功率 90 kW，峰值功率 230 kW；储能装置为磷酸铁锂蓄电池，单体由宁德时" data-title="奔驰全新纯电 C300L 申报图公布，最大功率 230kW / 轴距 3051mm" data-date="10-17 21:56" data-source="IT之家">
+        <a class="news-item" href="https://www.qbitai.com/2026/10/503893.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="通往全球市场的超级跳板" data-title="科技企业出海，为啥我推荐你去迪拜？" data-date="10-17 17:05" data-source="量子位">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-17 21:56</span>
-          <span class="news-item-title">奔驰全新纯电 C300L 申报图公布，最大功率 230kW / 轴距 3051mm</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-17/10716414.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网湘西10月17日电 题：“茶”中建起黄金屋 湖南苗寨产业焕新见闻" data-title="（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻" data-date="10-17 21:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 21:34</span>
-          <span class="news-item-title">（乡村行·看振兴）“茶”中建起黄金屋 湖南苗寨产业焕新见闻</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-17/10716402.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网呼和浩特10月17日电 (记者 刘文华)第二十届全国堆肥技术与工程研讨会17日在呼和浩特开幕。会议以“有机废弃物资源与绿色农牧循环”为主题，聚焦高寒旱区有机废弃物资源化利用的关键瓶颈。来自全国高校、科研院所和企业的专家学者参会交流。" data-title="全国堆肥专家齐聚呼和浩特 探索绿色农牧循环新路径" data-date="10-17 21:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 21:21</span>
-          <span class="news-item-title">全国堆肥专家齐聚呼和浩特 探索绿色农牧循环新路径</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-17/10716455.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社福州10月17日电 (郑江洛)中美绿色海事服务合作研讨会17日在福州举行。与会者围绕绿色海事服务、产业协作、人才培养等议题展开交流，期待加强合作，推动全球航运绿色转型。" data-title="中美绿色海事服务合作研讨会在福州举行 共推航运低碳转型" data-date="10-17 21:04" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 21:04</span>
-          <span class="news-item-title">中美绿色海事服务合作研讨会在福州举行 共推航运低碳转型</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-17/10716415.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网吉隆坡10月17日电 (记者 刘育英)马来西亚住房和地方政府部长倪可敏17日宣布，由总理安瓦尔主持的国家物理规划理事会，已于本月12日在布城举行的会议上，原则批准凯里岛(Pulau Carey)发展计划，重点建设国家海事港口城及凯里岛港口经济特区。" data-title="马来西亚原则批准凯里岛港口经济特区发展计划" data-date="10-17 20:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 20:48</span>
-          <span class="news-item-title">马来西亚原则批准凯里岛港口经济特区发展计划</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-17/10716341.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="【理响中国】让民营企业敢投、愿投、能投" data-title="让民营企业敢投、愿投、能投" data-date="10-17 18:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 18:47</span>
-          <span class="news-item-title">让民营企业敢投、愿投、能投</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-17/10716222.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月16日，美国财政部公布最新数据，2026财年联邦财政赤字达到1.99万亿美元，比上一财年增加2170亿美元，创五年来最高水平。该数字甚至超过一些发达国家一年的经济总量。" data-title="财政赤字逼近2万亿美元 美国财政压力有多大" data-date="10-17 14:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 14:42</span>
-          <span class="news-item-title">财政赤字逼近2万亿美元 美国财政压力有多大</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-17/10716165.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月17日电 据日本共同社报道，日本经济财政政策担当大臣城内实17日参拜靖国神社。" data-title="日媒：高市内阁一名阁僚参拜靖国神社" data-date="10-17 12:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 12:34</span>
-          <span class="news-item-title">日媒：高市内阁一名阁僚参拜靖国神社</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-17/10716033.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡10月16日电 (记者 刘育英)马来西亚统计局16日公布的国内生产总值(GDP)初步估算数据显示，2026年第三季度马来西亚GDP同比增长5.3%，增速较第二季度的6%有所放缓；前三季度GDP同比增长5.5%，高于2025年同期的4.8%。" data-title="马来西亚第三季度经济同比增5.3%" data-date="10-17 00:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-17 00:44</span>
-          <span class="news-item-title">马来西亚第三季度经济同比增5.3%</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-17 17:05</span>
+          <span class="news-item-title">科技企业出海，为啥我推荐你去迪拜？</span>
         </a>
   </div>
 </div>
@@ -448,4 +400,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-17 23:46（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-18 14:42（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
