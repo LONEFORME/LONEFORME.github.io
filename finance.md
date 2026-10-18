@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-18 20:08（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-19 00:01（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -367,19 +367,19 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/014/586.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 18 日消息，市场分析机构 Alinea Analytics 现已公布索尼第一方游戏《羊蹄山之魂》的销售数据估算。本作目前销量约为 540 万份，收入 4.07 亿美元（IT之家注：现汇率约合 27.28 亿元人民币）左右。作为参考，前作《对马岛之魂》在发售后的相同阶段，累计收入约为 4.18 亿美元（现汇率约合 28.02 亿元人民币），销量估计接近 700 万份。Rhys Elliott 补充道，两款作品所处的市场环境也存在明显差异。《对马岛之魂》生命周期中，市面上约有 1.17 亿台 PS4 和 1000 万台 PS5，而《羊蹄山之魂》仅登陆 PS5，而 PS5 装机量不到 1 亿台。同时，《羊蹄山之魂》的标准版定价为 70 美元（现汇率约合 469.2 元人民币）" data-title="消息称索尼第一方游戏《羊蹄山之魂》销量约 540 万份，收入达 4.07 亿美元" data-date="10-18 19:54" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-18 19:54</span>
-          <span class="news-item-title">消息称索尼第一方游戏《羊蹄山之魂》销量约 540 万份，收入达 4.07 亿美元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-18/10716764.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州10月18日电 (叶秋云)“船舶制造行业具备较强周期性，受全球航运市场波动影响显著，布局文旅产业，可以盘活集团存量工业遗产资源。”18日，中国船舶集团第七一四研究所所长张信学在福州接受中新网采访时如是说。" data-title="专家学者福州共话海洋文旅多元化发展 海洋文旅产业协同创新联盟成立" data-date="10-18 18:53" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-18/10716878.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网铜陵10月18日电 (记者 张强)第六届铜陵田原艺术季暨“梧引金凤·逐梦乡野”文旅招商推介会18日在安徽省铜陵市义安区西联镇犁桥水镇举办，来自全国各地的文旅企业、艺术院校代表及青年创客齐聚于此，共探艺术赋能乡村振兴的发展路径。" data-title="以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径" data-date="10-18 22:30" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-18 18:53</span>
-          <span class="news-item-title">专家学者福州共话海洋文旅多元化发展 海洋文旅产业协同创新联盟成立</span>
+          <span class="news-item-date">10-18 22:30</span>
+          <span class="news-item-title">以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-18/10716877.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网昆明10月18日电 (陈静 贝文)云南数字影视产业园(基地)18日在昆明开园，标志着云南首个集拍摄、制作、译制、出海于一体的数字影视全链条产业基地正式建成。未来将以多语种译制打通面向南亚东南亚文化出海通道，推动云南文化强省建设。" data-title="云南数字影视产业园开园 多语种译制助力文化出海" data-date="10-18 22:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-18 22:29</span>
+          <span class="news-item-title">云南数字影视产业园开园 多语种译制助力文化出海</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="十年来，农民和牧场主一直支持特朗普总统。但伊朗战争、关税和其他政府政策给共和党带来了一些不利影响。" data-title="Across Farm Country, Economic Discontent Strains Republican Coalition" data-date="10-18 17:00" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -392,18 +392,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-18 16:51</span>
           <span class="news-item-title">日媒曝日本政府考虑增税筹措防卫费</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="佛蒙特州参议员伯尼·桑德斯（ Bernie Sanders ）强调投资共和党倾向的州。他在坦帕为尼克松女士集会，尼克松女士是佛罗里达州参议院的弱势民主党候选人。" data-title="Bernie Sanders Visits Florida to Campaign With Angie Nixon" data-date="10-18 13:42" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-18 13:42</span>
-          <span class="news-item-title">Bernie Sanders Visits Florida to Campaign With Angie Nixon</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普政府无视国会的意愿，放弃了对俄罗斯的新制裁，因为人们担心高昂的能源价格将在下个月的选举中让共和党人付出代价。" data-title="Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor" data-date="10-18 07:46" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-18 07:46</span>
-          <span class="news-item-title">Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor</span>
         </a>
   </div>
 </div>
@@ -418,4 +406,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-18 20:08（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-19 00:01（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
