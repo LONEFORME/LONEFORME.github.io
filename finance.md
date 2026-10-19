@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-18 14:42（北京时间）</span>
+  <span class="news-meta-item">🕐 数据更新于 2026-10-19 00:01（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -367,25 +367,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">3 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/17/us/politics/bernie-sanders-angie-nixon-florida-senate.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="佛蒙特州参议员伯尼·桑德斯（ Bernie Sanders ）强调投资共和党倾向的州。他在坦帕为尼克松女士集会，尼克松女士是佛罗里达州参议院的弱势民主党候选人。" data-title="Bernie Sanders Visits Florida to Campaign With Angie Nixon" data-date="10-18 13:42" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-18/10716878.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网铜陵10月18日电 (记者 张强)第六届铜陵田原艺术季暨“梧引金凤·逐梦乡野”文旅招商推介会18日在安徽省铜陵市义安区西联镇犁桥水镇举办，来自全国各地的文旅企业、艺术院校代表及青年创客齐聚于此，共探艺术赋能乡村振兴的发展路径。" data-title="以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径" data-date="10-18 22:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-18 22:30</span>
+          <span class="news-item-title">以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-18/10716877.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网昆明10月18日电 (陈静 贝文)云南数字影视产业园(基地)18日在昆明开园，标志着云南首个集拍摄、制作、译制、出海于一体的数字影视全链条产业基地正式建成。未来将以多语种译制打通面向南亚东南亚文化出海通道，推动云南文化强省建设。" data-title="云南数字影视产业园开园 多语种译制助力文化出海" data-date="10-18 22:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-18 22:29</span>
+          <span class="news-item-title">云南数字影视产业园开园 多语种译制助力文化出海</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/18/us/politics/farmers-ranchers-trump-economic-stress.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="十年来，农民和牧场主一直支持特朗普总统。但伊朗战争、关税和其他政府政策给共和党带来了一些不利影响。" data-title="Across Farm Country, Economic Discontent Strains Republican Coalition" data-date="10-18 17:00" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-18 13:42</span>
-          <span class="news-item-title">Bernie Sanders Visits Florida to Campaign With Angie Nixon</span>
+          <span class="news-item-date">10-18 17:00</span>
+          <span class="news-item-title">Across Farm Country, Economic Discontent Strains Republican Coalition</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普政府无视国会的意愿，放弃了对俄罗斯的新制裁，因为人们担心高昂的能源价格将在下个月的选举中让共和党人付出代价。" data-title="Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor" data-date="10-18 07:46" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-18/10716698.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社东京10月17日电(记者李子越#8195;陈泽安)据日本共同社17日报道，日本政府正考虑通过进一步提高企业的法人税，为预计将持续膨胀的防卫费筹措资金。媒体称有关计划可能引发经济界反对。" data-title="日媒曝日本政府考虑增税筹措防卫费" data-date="10-18 16:51" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-18 07:46</span>
-          <span class="news-item-title">Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/503893.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="通往全球市场的超级跳板" data-title="科技企业出海，为啥我推荐你去迪拜？" data-date="10-17 17:05" data-source="量子位">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-17 17:05</span>
-          <span class="news-item-title">科技企业出海，为啥我推荐你去迪拜？</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-18 16:51</span>
+          <span class="news-item-title">日媒曝日本政府考虑增税筹措防卫费</span>
         </a>
   </div>
 </div>
@@ -400,4 +406,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-18 14:42（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 数据抓取于 2026-10-19 00:01（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
