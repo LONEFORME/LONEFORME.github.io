@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-19 18:41（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-19 22:52（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,187.55</span>
-      <span class="ticker-change down">▼ -2.50%</span>
+      <span class="ticker-price ticker-up">29,637.58</span>
+      <span class="ticker-change up">▲ +1.54%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-17 09:46:47（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-19 22:53:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6808</span>
+      <span class="ticker-price ticker-down">6.6824</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg38892" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.2 L46.7,7.4 L68.0,6.1 L89.3,21.2 L110.7,18.4 L132.0,22.8 L153.3,16.7 L174.7,25.9 L196.0,38.0 L196,40 Z" fill="url(#sg38892)"/><polyline points="4.0,6.0 25.3,9.2 46.7,7.4 68.0,6.1 89.3,21.2 110.7,18.4 132.0,22.8 153.3,16.7 174.7,25.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg41107" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.5 L46.7,7.5 L68.0,6.2 L89.3,22.4 L110.7,19.3 L132.0,24.0 L153.3,17.5 L174.7,27.4 L196.0,38.0 L196,40 Z" fill="url(#sg41107)"/><polyline points="4.0,6.0 25.3,9.5 46.7,7.5 68.0,6.2 89.3,22.4 110.7,19.3 132.0,24.0 153.3,17.5 174.7,27.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:42:31（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:52:56（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,165.43 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +1.38 (+0.03%)</span>
+      <span class="ticker-price ticker-down">$4,147.07 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -16.98 (-0.41%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:42:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:53:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥900.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.80 (-0.09%)</span>
+      <span class="ticker-price ticker-down">¥893.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -7.12 (-0.79%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:53:06（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$108.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.76 (-1.60%)</span>
+      <span class="ticker-price ticker-down">$108.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.47 (-1.34%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:42:45（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:53:11（非实时）</div>
   </div>
 </div>
 
@@ -495,6 +495,24 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717502.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川10月19日电 (记者 于晶)10月19日，记者从宁夏乡镇企业经济发展服务中心获悉，宁夏立足本土资源禀赋，坚持以农固本、以文铸魂、以旅兴农，因地制宜培育十大农文旅融合发展模式，走出一条“产业融合增效、业态创新提质、联农带农共富”的乡村振兴新路径，持续丰富农文旅消费场景，为农业农村现代化、农业强区建设夯实产业支撑。" data-title="宁夏培育十大农文旅融合模式铺就乡村振兴共富路" data-date="10-19 22:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 22:22</span>
+          <span class="news-item-title">宁夏培育十大农文旅融合模式铺就乡村振兴共富路</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717500.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网大兴安岭10月19日电 题：变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖" data-title="变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖" data-date="10-19 22:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 22:21</span>
+          <span class="news-item-title">变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-19/10717337.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月19日电 10月19日，中国国务院新闻办公室举行新闻发布会，介绍2026年前三季度国民经济运行情况。“展现韧性”“超出预期”……外媒普遍认为，中国前三季度取得的发展成绩，为实现全年经济增长预期目标打下了坚实基础。" data-title="外媒关注中国经济数据：展现强大韧性 全年增长目标有望顺利实现" data-date="10-19 18:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 18:47</span>
+          <span class="news-item-title">外媒关注中国经济数据：展现强大韧性 全年增长目标有望顺利实现</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/014/981.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，据 Digitimes 报道，有消息称，特斯拉正在韩国市场打破传统汽车供应链议价模式，改变过去主要与一级、二级（Tier 1、Tier 2）供应商沟通的传统模式，开始直接接触更下游的零部件及原材料行业，将管理触角延伸至第三、第四级供应商。业内人士认为，特斯拉这种“跳过中间供应商、直接介入下游议价”的举措，有助于更精准地掌握成本细节，压缩不必要的中间环节及中间商利润，从而在竞争激烈的电动汽车市场中保持价格优势，但也让下游企业面临更大的议价压力。目前，韩国电动汽车市场的竞争格局正在发生渐进变化。长期由现代汽车和起亚主导的大众电动汽车市场，正受到特斯拉的进一步冲击。如今特斯拉不再只是满足特定消费群体需求的进口电动汽车品牌，而是逐渐成为韩国消费者选购电动汽车时，可与" data-title="消息称特斯拉在韩国市场打破传统议价模式，开始直接接触三四级供应商以控制成本" data-date="10-19 18:18" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -567,24 +585,6 @@ title: 股票财经
           <span class="news-item-date">10-19 11:22</span>
           <span class="news-item-title">尊界V800“刹车门”：从产品安全之争到“恨国”论战</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act" target="_blank" rel="noopener" data-cat="caijing" data-summary="纽约布朗克斯区第15届国会选区的众议员里奇·托雷斯（ Ritchie Torres ）本周介绍了《球员权力法案》。如果通过，该法案将指示联邦贸易委员会制定法规，保证消费者拥有" data-title="Video game ownership bill introduced in Congress" data-date="10-19 00:27" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-19 00:27</span>
-          <span class="news-item-title">Video game ownership bill introduced in Congress</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-18/10716878.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网铜陵10月18日电 (记者 张强)第六届铜陵田原艺术季暨“梧引金凤·逐梦乡野”文旅招商推介会18日在安徽省铜陵市义安区西联镇犁桥水镇举办，来自全国各地的文旅企业、艺术院校代表及青年创客齐聚于此，共探艺术赋能乡村振兴的发展路径。" data-title="以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径" data-date="10-18 22:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-18 22:30</span>
-          <span class="news-item-title">以艺术激活乡土 “皖美宝藏小城”义安探索乡村振兴新路径</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-18/10716877.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网昆明10月18日电 (陈静 贝文)云南数字影视产业园(基地)18日在昆明开园，标志着云南首个集拍摄、制作、译制、出海于一体的数字影视全链条产业基地正式建成。未来将以多语种译制打通面向南亚东南亚文化出海通道，推动云南文化强省建设。" data-title="云南数字影视产业园开园 多语种译制助力文化出海" data-date="10-18 22:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-18 22:29</span>
-          <span class="news-item-title">云南数字影视产业园开园 多语种译制助力文化出海</span>
-        </a>
   </div>
 </div>
 
@@ -598,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-19 18:41（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-19 22:52（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
