@@ -1,0 +1,48 @@
+name: 行情刷新
+
+# 只刷新 finance.md 的行情块（不抓新闻、不翻译），把连续交易品种的
+# 更新间隔从「跟着新闻任务 3 次/天」压到「每小时」。
+on:
+  schedule:
+    - cron: '7 * * * *'   # 每小时 07 分（UTC），北京时间同分钟
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: quotes
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: 配置 Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 刷新行情块
+        run: python scripts/refresh_quotes.py
+
+      - name: 有变化才提交
+        run: |
+          if git diff --quiet -- finance.md; then
+            echo "行情无变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "quotes-bot"
+          git config user.email "quotes-bot@loneforme.github.io"
+          git add finance.md
+          NOW_BJ=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
+          git commit -m "行情刷新 ${NOW_BJ}"
+          git pull --rebase origin main || true
+          git push origin main || (sleep 3 && git pull --rebase origin main && git push origin main)

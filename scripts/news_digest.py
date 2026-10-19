@@ -1979,9 +1979,11 @@ title: 股票财经
   <span style="font-size: 12px; color: var(--color-muted);">覆盖 {len(indices)} 项市场指标 · <b style="color:#00b86b">绿色时间</b> = 浏览器直连行情刷新，灰色 = 服务端快照</span>
 </div>
 
+<!-- QUOTES:BEGIN -->
 {ticker_html}
 
 {live_script}
+<!-- QUOTES:END -->
 
 <!-- ================= 2. 热门核心赛道与主力资金流向 ================= -->
 <div class="section-header" style="margin-top: 32px;">
