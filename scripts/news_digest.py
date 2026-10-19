@@ -326,6 +326,28 @@ MARKET_INDICES = [
     {"name": "布伦特原油", "code": "hf_OIL", "flag": "🛢️", "tag": "OIL/USD", "desc": "全球大宗商品之母"},
 ]
 
+# ===== 浏览器端实时行情映射（东方财富 secid）=====
+# 用于页面加载后直连行情接口刷新，避免依赖 GitHub Actions 的定时延迟
+LIVE_QUOTES = {
+    # 腾讯行情代码：A股 sh/sz、港股 hk、美股 us、英股 uk、外盘现货/期货 hf_
+    "上证指数":       ("sh000001", "idx", ""),
+    "深证成指":       ("sz399001", "idx", ""),
+    "创业板指":       ("sz399006", "idx", ""),
+    "科创50":         ("sh000688", "idx", ""),
+    "恒生科技":       ("hkHSTECH", "idx", ""),
+    "恒生指数":       ("hkHSI",    "idx", ""),
+    "纳斯达克100":    ("usNDX",    "idx", ""),
+    "道琼斯工业指数": ("usDJI",    "idx", ""),
+    "标普500":        ("usINX",    "idx", ""),
+    "富时100":        ("ukUKX",    "idx", ""),
+    "伦敦现货黄金":   ("hf_XAU",   "usd", "/盎司"),
+    "布伦特原油":     ("hf_OIL",   "usd", "/桶"),
+}
+for _idx in MARKET_INDICES:
+    _live = LIVE_QUOTES.get(_idx["name"])
+    if _live:
+        _idx["tcode"], _idx["fmt"], _idx["unit"] = _live
+
 HOT_SECTORS = [
     {"name": "人工智能 & 先进算力链", "icon": "🤖", "tags": ["CPO 光模块", "GPU 服务器", "先进制程封装", "PCB 算力板"]},
     {"name": "新能源出海 & 特高压电网", "icon": "⚡", "tags": ["特高压直流", "固态锂电", "工商业储能", "核电核岛"]},
@@ -1677,7 +1699,11 @@ def build_finance_ticker_html(indices):
             price_str = format_number(idx["current"], 2)
             change_str = f"{change_sign}{idx['change_pct']:.2f}%"
         source_badge = f'<span style="font-size:10px;color:var(--color-muted);">({idx["source"]})</span>' if idx["source"] == "参考" else ""
-        html += f'''  <div class="ticker-card">
+        live_attrs = ""
+        if idx.get("tcode"):
+            live_attrs = (f' data-tcode="{idx["tcode"]}" data-fmt="{idx.get("fmt", "idx")}"'
+                          f' data-unit="{idx.get("unit", "")}"')
+        html += f'''  <div class="ticker-card"{live_attrs}>
     <div class="ticker-header">
       <span class="ticker-name">{idx["flag"]} {idx["name"]}</span>
       <span class="ticker-code">{idx["tag"]}</span>
@@ -1749,6 +1775,119 @@ def build_finance_news_html(finance_items):
     return html
 
 
+def build_finance_live_script():
+    """浏览器端实时行情：直连腾讯行情 JSONP（无需 Referer，允许跨站脚本加载）
+
+    页面打开即刷新，之后每 60 秒一次；请求失败时自动保留服务端生成的静态值。
+    """
+    return r"""
+<style>
+.ticker-card[data-live="1"] .ticker-quote-time { color: #00b86b; }
+</style>
+<script>
+(function () {
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.ticker-card[data-tcode]'));
+  if (!cards.length) return;
+  var REFRESH_MS = 60000;
+  var API = 'https://qt.gtimg.cn/q=';
+
+  function pad(n) { return n < 10 ? '0' + n : '' + n; }
+  function comma(v, d) {
+    var s = v.toFixed(d), p = s.split('.');
+    p[0] = p[0].replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+    return p.join('.');
+  }
+  function unitSpan(unit) {
+    return unit ? ' <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">' + unit + '</span>' : '';
+  }
+
+  // 指数格式：1~名称~代码~现价~昨收~今开~...~YYYYMMDDHHMMSS~
+  function parseIdx(raw) {
+    var f = raw.split('~');
+    if (f.length < 6) return null;
+    var price = parseFloat(f[3]), prev = parseFloat(f[4]);
+    if (!isFinite(price)) return null;
+    var t = '';
+    for (var i = f.length - 1; i > 20; i--) {
+      if (/^20\d{12}$/.test(f[i])) { t = f[i]; break; }   // 只认 20YYMMDDhhmmss
+    }
+    return { price: price, pct: prev > 0 ? (price - prev) / prev * 100 : 0, chg: price - prev, time: t };
+  }
+
+  // 外盘现货/期货格式：现价,涨跌幅%,买,卖,最高,最低,HH:MM:SS,昨收,今开,...
+  function parseHf(raw) {
+    var f = raw.split(',');
+    if (f.length < 8) return null;
+    var price = parseFloat(f[0]), pct = parseFloat(f[1]), prev = parseFloat(f[7]);
+    if (!isFinite(price)) return null;
+    return { price: price, pct: isFinite(pct) ? pct : 0, chg: isFinite(prev) ? price - prev : 0, time: f[6] || '' };
+  }
+
+  function paint(card, q) {
+    var up = q.pct >= 0;
+    var fmt = card.getAttribute('data-fmt') || 'idx';
+    var unit = card.getAttribute('data-unit') || '';
+    var priceHTML, chgText;
+
+    if (fmt === 'fx') {
+      priceHTML = q.price.toFixed(4);
+      chgText = (q.chg >= 0 ? '+' : '') + Math.round(q.chg * 10000) + ' bp';
+    } else if (fmt === 'usd' || fmt === 'cny') {
+      priceHTML = (fmt === 'usd' ? '$' : '¥') + comma(q.price, 2) + unitSpan(unit);
+      chgText = (q.chg >= 0 ? '+' : '') + q.chg.toFixed(2) + ' (' + (up ? '+' : '') + q.pct.toFixed(2) + '%)';
+    } else {
+      priceHTML = comma(q.price, 2);
+      chgText = (up ? '+' : '') + q.pct.toFixed(2) + '%';
+    }
+
+    var pEl = card.querySelector('.ticker-price');
+    var cEl = card.querySelector('.ticker-change');
+    var tEl = card.querySelector('.ticker-quote-time');
+    if (pEl) { pEl.innerHTML = priceHTML; pEl.className = 'ticker-price ' + (up ? 'ticker-up' : 'ticker-down'); }
+    if (cEl) { cEl.innerHTML = (up ? '\u25b2 ' : '\u25bc ') + chgText; cEl.className = 'ticker-change ' + (up ? 'up' : 'down'); }
+    if (tEl) {
+      if (/^20\d{12}$/.test(q.time)) {
+        tEl.textContent = '\ud83d\udd52 实时 ' + q.time.slice(8, 10) + ':' + q.time.slice(10, 12) + ':' + q.time.slice(12, 14);
+      } else if (q.time) {
+        tEl.textContent = '\ud83d\udd52 实时 ' + q.time;
+      } else {
+        var now = new Date();
+        tEl.textContent = '\ud83d\udd52 实时 · 刷新于 ' + pad(now.getHours()) + ':' + pad(now.getMinutes()) + ':' + pad(now.getSeconds());
+      }
+    }
+    card.setAttribute('data-live', '1');
+  }
+
+  function apply() {
+    cards.forEach(function (c) {
+      var code = c.getAttribute('data-tcode');
+      var raw = window['v_' + code];
+      if (!raw) return;
+      var q = code.indexOf('hf_') === 0 ? parseHf(raw) : parseIdx(raw);
+      if (q) paint(c, q);
+    });
+  }
+
+  function refresh() {
+    if (document.visibilityState === 'hidden') return;
+    var el = document.createElement('script');
+    el.charset = 'gbk';
+    el.src = API + cards.map(function (c) { return c.getAttribute('data-tcode'); }).join(',')
+           + '&_=' + Date.now();
+    el.onload = apply;
+    document.head.appendChild(el);
+  }
+
+  refresh();
+  setInterval(refresh, REFRESH_MS);
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'visible') refresh();
+  });
+})();
+</script>
+"""
+
+
 def generate_finance_page(finance_items, date_str, date_only):
     """生成完整的财经页面"""
     log("[财经] 开始生成财经页面...")
@@ -1772,6 +1911,7 @@ def generate_finance_page(finance_items, date_str, date_only):
         if "trend" not in idx:
             idx["trend"] = [h["values"].get(idx["name"]) for h in history if h["values"].get(idx["name"]) is not None][-30:]
     ticker_html = build_finance_ticker_html(indices)
+    live_script = build_finance_live_script()
     sectors_html = build_finance_sectors_html()
     news_html = build_finance_news_html(finance_items)
     page = f"""---
@@ -1788,7 +1928,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 {date_str}（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 {date_str}（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -1819,10 +1959,12 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">日级走势 · 覆盖 {len(indices)} 项市场指标，部分为最近收盘/参考值</span>
+  <span style="font-size: 12px; color: var(--color-muted);">覆盖 {len(indices)} 项市场指标 · 带 <b style="color:#00b86b">实时</b> 标记的由浏览器直连行情刷新，其余为最近收盘/参考值</span>
 </div>
 
 {ticker_html}
+
+{live_script}
 
 <!-- ================= 2. 热门核心赛道与主力资金流向 ================= -->
 <div class="section-header" style="margin-top: 32px;">
@@ -1853,7 +1995,7 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 {date_str}（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 {date_str}（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
 """
     with open("finance.md", "w", encoding="utf-8") as f:
         f.write(page)
