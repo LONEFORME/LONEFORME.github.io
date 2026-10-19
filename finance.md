@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-19 22:52（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-20 02:46（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,557.85</span>
-      <span class="ticker-change up">▲ +1.27%</span>
+      <span class="ticker-price ticker-up">29,581.60</span>
+      <span class="ticker-change up">▲ +1.35%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-20 02:41:06（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-20 02:47:07（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6826</span>
+      <span class="ticker-price ticker-down">6.6824</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg80921" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.5 L46.7,7.5 L68.0,6.2 L89.3,22.5 L110.7,19.5 L132.0,24.2 L153.3,17.6 L174.7,27.6 L196.0,38.0 L196,40 Z" fill="url(#sg80921)"/><polyline points="4.0,6.0 25.3,9.5 46.7,7.5 68.0,6.2 89.3,22.5 110.7,19.5 132.0,24.2 153.3,17.6 174.7,27.6 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg41107" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.5 L46.7,7.5 L68.0,6.2 L89.3,22.4 L110.7,19.3 L132.0,24.0 L153.3,17.5 L174.7,27.4 L196.0,38.0 L196,40 Z" fill="url(#sg41107)"/><polyline points="4.0,6.0 25.3,9.5 46.7,7.5 68.0,6.2 89.3,22.4 110.7,19.3 132.0,24.0 153.3,17.5 174.7,27.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:40:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:47:02（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,145.69 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -18.36 (-0.44%)</span>
+      <span class="ticker-price ticker-down">$4,147.62 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -16.43 (-0.39%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:40:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:47:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$109.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.36 (-0.33%)</span>
+      <span class="ticker-price ticker-down">$109.54 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.32 (-0.29%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:41:17（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:47:13（非实时）</div>
   </div>
 </div>
 
@@ -493,86 +493,8 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">2 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717502.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川10月19日电 (记者 于晶)10月19日，记者从宁夏乡镇企业经济发展服务中心获悉，宁夏立足本土资源禀赋，坚持以农固本、以文铸魂、以旅兴农，因地制宜培育十大农文旅融合发展模式，走出一条“产业融合增效、业态创新提质、联农带农共富”的乡村振兴新路径，持续丰富农文旅消费场景，为农业农村现代化、农业强区建设夯实产业支撑。" data-title="宁夏培育十大农文旅融合模式铺就乡村振兴共富路" data-date="10-19 22:22" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 22:22</span>
-          <span class="news-item-title">宁夏培育十大农文旅融合模式铺就乡村振兴共富路</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717500.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网大兴安岭10月19日电 题：变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖" data-title="变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖" data-date="10-19 22:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 22:21</span>
-          <span class="news-item-title">变林中“废料”为“新燃料”：阿木尔林业局用上木质颗粒新能源取暖</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-19/10717337.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月19日电 10月19日，中国国务院新闻办公室举行新闻发布会，介绍2026年前三季度国民经济运行情况。“展现韧性”“超出预期”……外媒普遍认为，中国前三季度取得的发展成绩，为实现全年经济增长预期目标打下了坚实基础。" data-title="外媒关注中国经济数据：展现强大韧性 全年增长目标有望顺利实现" data-date="10-19 18:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 18:47</span>
-          <span class="news-item-title">外媒关注中国经济数据：展现强大韧性 全年增长目标有望顺利实现</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/981.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，据 Digitimes 报道，有消息称，特斯拉正在韩国市场打破传统汽车供应链议价模式，改变过去主要与一级、二级（Tier 1、Tier 2）供应商沟通的传统模式，开始直接接触更下游的零部件及原材料行业，将管理触角延伸至第三、第四级供应商。业内人士认为，特斯拉这种“跳过中间供应商、直接介入下游议价”的举措，有助于更精准地掌握成本细节，压缩不必要的中间环节及中间商利润，从而在竞争激烈的电动汽车市场中保持价格优势，但也让下游企业面临更大的议价压力。目前，韩国电动汽车市场的竞争格局正在发生渐进变化。长期由现代汽车和起亚主导的大众电动汽车市场，正受到特斯拉的进一步冲击。如今特斯拉不再只是满足特定消费群体需求的进口电动汽车品牌，而是逐渐成为韩国消费者选购电动汽车时，可与" data-title="消息称特斯拉在韩国市场打破传统议价模式，开始直接接触三四级供应商以控制成本" data-date="10-19 18:18" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 18:18</span>
-          <span class="news-item-title">消息称特斯拉在韩国市场打破传统议价模式，开始直接接触三四级供应商以控制成本</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/19/podcasts/the-headlines/israel-elections-gold-global-market.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="此外，还要寻找“超级宜居”的星耀。" data-title="Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market" data-date="10-19 18:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-19 18:00</span>
-          <span class="news-item-title">Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/891.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，商务、海关总署、中央军委装备发展部今日联合发布公告，优化调整无人机相关物项出口管制措施。据央视新闻报道，商务部新闻发言人对此回应称：根据《中华人民共和国出口管制法》等有关法律法规，10 月 19 日，商务部会同相关部门发布关于优化调整无人机相关物项出口管制措施的公告。相关措施将于 11 月 18 日起正式实施。此前，我们已经向与中方建立了出口管制对话机制的有关国家和地区作了通报。此次措施涉及的无人机相关物项具有明显的军民两用属性，中方依法依规优化调整有关措施，目的是维护国家安全和利益，履行防扩散等国际义务。与此同时，中方致力于维护全球产业链供应链安全稳定，依法依规对相关出口许可申请进行审查，对符合规定的申请，中方将予以批准。动态调整出口管制措施是国际通行做法" data-title="坚决反对无人机被违规用于非和平目的，商务部回应相关出口管制措施调整" data-date="10-19 16:43" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 16:43</span>
-          <span class="news-item-title">坚决反对无人机被违规用于非和平目的，商务部回应相关出口管制措施调整</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717260.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网拉萨10月19日电 (贡嘎来松)近日，西藏自治区那曲市2026届未就业高校毕业生拉萨定向实训工作有序推进。本次实训为期20天，近百名应届未就业毕业生参训，目前理论赋能阶段圆满收官，企业参访、岗位实训全面开启。" data-title="西藏那曲全力推进高校毕业生高质量就业" data-date="10-19 16:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 16:35</span>
-          <span class="news-item-title">西藏那曲全力推进高校毕业生高质量就业</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/837.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，韩媒 The Elec 援引分析公司 Meritz Securities 报告，认为韩国游戏开发商 Pearl Abyss 预计今年第三季度营业利润将环比下降 50%。尽管公司 3 月推出的动作冒险游戏《红色沙漠》取得了商业成功，但销量主要集中在发售初期，后续销售势头逐渐减弱。为推动第四季度业绩回升，Pearl Abyss 计划通过推出付费 DLC 为《红色沙漠》带来新的收入。不过，被视为公司下一阶段重要增长动力的新作《DokeV》预计还要约两年才能发售，这意味着公司可能再次面临较长时间缺乏新作贡献的业绩空窗期。预计 Pearl Abyss 第三季度营收约为 1,196 亿韩元（IT之家注：现汇率约合 5.97 亿元人民币），营业利润约为 335 亿韩元（现" data-title="《红色沙漠》销量回落，韩国游戏开发商 Pearl Abyss 第三季度营业利润预计环比腰斩" data-date="10-19 15:09" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 15:09</span>
-          <span class="news-item-title">《红色沙漠》销量回落，韩国游戏开发商 Pearl Abyss 第三季度营业利润预计环比腰斩</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/830.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="京东联合会员B 站 App 中京东联合会员年卡现售 233 元，明日 10 点（10 月 20 日 10:00）京东 App 11.11 大促仅需 148 元。充值时填写“B 站手机号”，下单后到 B 站会员中心 → 大会员资产 → 绑定京东账号兑换 PLUS 会员（B 站 / 京东可以不是一个手机号 *）。京东 哔哩哔哩大会员 + 京东 PLUS 年卡京东 PLUS 含 12 生活积分 10:00 限量 148 元直达链接京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。京东 PLUS 年卡每年发放 12 积分：5 积分换 2 小时保洁（可兑 1 次，大多数城市日常 40 元 / 小时）2 积分兑换洗鞋 2 双 / 3 积分兑换洗衣 2 件（可洗羽绒服）2 积分" data-title="B 站 x PLUS 联合会员 148 元：明天 10:00 开抢，京东积分保洁洗衣都能用" data-date="10-19 14:58" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 14:58</span>
-          <span class="news-item-title">B 站 x PLUS 联合会员 148 元：明天 10:00 开抢，京东积分保洁洗衣都能用</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/824.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，知名 PC 液冷散热品牌 Asetek 同时也拥有驾驶模拟业务，即 Asetek Racing。而在上周举行的 SimRacing Expo 2026 展会上，该业务预览了定于 2027 年 3 月发售的 GT Nova 方向盘。GT Nova 方向盘面向耐力赛和 GT 赛事，聚焦精准操控和长时间游戏中的舒适度。其集成 1.3&quot; 128×64 白色 OLED 屏幕，可实时显示遥测数据、调整模拟驾驶系统硬件设施；外侧竖向拨轮支持多配置层切换。GT Nova 方向盘售价为不含税 299 美元 / 含 19% 增值税 299 欧元（现汇率约合 2,001 / 2,244 元人民币）。此外，Asetek Racing 即将于本月晚些时候发布 Initium DD10" data-title="Asetek Racing 揭晓 GT Nova 方向盘，针对长时间驾驶模拟游戏优化" data-date="10-19 14:42" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 14:42</span>
-          <span class="news-item-title">Asetek Racing 揭晓 GT Nova 方向盘，针对长时间驾驶模拟游戏优化</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717158.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="俗称“三蹦子”的电动三轮车，在广交会现场成为人气爆款。中国传统车辆制造产业，依托本地化改造，抢抓全球市场短途运输新需求，走出以新提质的出海新路。" data-title="尺寸、动力、续航全方位定制 “三蹦子”成广交会爆款" data-date="10-19 14:36" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 14:36</span>
-          <span class="news-item-title">尺寸、动力、续航全方位定制 “三蹦子”成广交会爆款</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-19/10717101.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达10月19日电 (记者 李志全)印度尼西亚股市19日开盘后延续跌势，雅加达综合股价指数一度跌至4908.34点，跌破5000点心理关口，触及2020年10月以来最低水平。" data-title="印尼股市触及2020年以来最低水平  官方收窄个股跌幅限制" data-date="10-19 13:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 13:49</span>
-          <span class="news-item-title">印尼股市触及2020年以来最低水平  官方收窄个股跌幅限制</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717093.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月19日电 据农业农村部网站消息，近年来，各级农业农村部门严格种业监管执法，加大与公安机关等协同力度，强化行刑衔接，严厉打击种业领域假冒伪劣、套牌侵权等违法行为，查处了一批涉种违法案件，有力维护农民群众和种业企业合法权益。农业农村部决定公布6起典型案例，以案示警、以案促治，形成有力震慑，营造种业振兴良好环境。" data-title="经营假种子、未经许可出口……6起涉种违法典型案例公布" data-date="10-19 13:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 13:01</span>
-          <span class="news-item-title">经营假种子、未经许可出口……6起涉种违法典型案例公布</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="乌克兰最大钢铁企业之一的负责人表示，在针对廉价进口产品的限制措施中，乌克兰被“一并捆绑”纳入相关管制范围。" data-title="乌克兰钢企老板称：欧盟对华关税殃及本国" data-date="10-19 12:33" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -598,4 +520,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-19 22:52（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-20 02:46（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
