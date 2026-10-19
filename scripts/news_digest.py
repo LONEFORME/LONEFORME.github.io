@@ -1717,7 +1717,7 @@ def build_finance_ticker_html(indices):
       <span>{idx["desc"]}</span>
       {source_badge}
     </div>
-    <div class="ticker-quote-time">{("🕒 行情时间 " + idx["quote_time"]) if idx.get("quote_time") else "🕒 数据为最近收盘/参考值"}</div>
+    <div class="ticker-quote-time">{("🕒 快照 " + idx["quote_time"] + "（非实时）") if idx.get("quote_time") else "🕒 数据为最近收盘/参考值"}</div>
   </div>
 '''
     html += '</div>\n'
@@ -1846,13 +1846,30 @@ def build_finance_live_script():
     if (pEl) { pEl.innerHTML = priceHTML; pEl.className = 'ticker-price ' + (up ? 'ticker-up' : 'ticker-down'); }
     if (cEl) { cEl.innerHTML = (up ? '\u25b2 ' : '\u25bc ') + chgText; cEl.className = 'ticker-change ' + (up ? 'up' : 'down'); }
     if (tEl) {
+      var hhmmss = '';
       if (/^20\d{12}$/.test(q.time)) {
-        tEl.textContent = '\ud83d\udd52 实时 ' + q.time.slice(8, 10) + ':' + q.time.slice(10, 12) + ':' + q.time.slice(12, 14);
+        hhmmss = q.time.slice(8, 10) + ':' + q.time.slice(10, 12) + ':' + q.time.slice(12, 14);
       } else if (q.time) {
-        tEl.textContent = '\ud83d\udd52 实时 ' + q.time;
+        hhmmss = q.time;
+      }
+      if (hhmmss) {
+        // 数据源时间按北京时间换算，超过 3 分钟就说明已收盘或延迟
+        var stale = false;
+        if (/^20\d{12}$/.test(q.time)) {
+          var t = Date.UTC(+q.time.slice(0, 4), +q.time.slice(4, 6) - 1, +q.time.slice(6, 8),
+                           +q.time.slice(8, 10) - 8, +q.time.slice(10, 12), +q.time.slice(12, 14)) / 1000;
+          stale = (Date.now() / 1000 - t) > 180;
+        } else if (/^\d{2}:\d{2}:\d{2}$/.test(q.time)) {
+          // 外盘只给 HH:MM:SS，按北京时间拼今天再比较
+          var n = new Date(Date.now() + (new Date().getTimezoneOffset() + 480) * 60000);
+          var hh = +q.time.slice(0, 2), mi = +q.time.slice(3, 5), se = +q.time.slice(6, 8);
+          var t2 = Date.UTC(n.getUTCFullYear(), n.getUTCMonth(), n.getUTCDate(), hh - 8, mi, se) / 1000;
+          stale = Math.abs(Date.now() / 1000 - t2) > 600;
+        }
+        tEl.textContent = (stale ? '\ud83d\udd52 行情时间 ' : '\ud83d\udd52 实时 ') + hhmmss;
       } else {
         var now = new Date();
-        tEl.textContent = '\ud83d\udd52 实时 · 刷新于 ' + pad(now.getHours()) + ':' + pad(now.getMinutes()) + ':' + pad(now.getSeconds());
+        tEl.textContent = '\ud83d\udd52 刷新于 ' + pad(now.getHours()) + ':' + pad(now.getMinutes()) + ':' + pad(now.getSeconds());
       }
     }
     card.setAttribute('data-live', '1');
@@ -1959,7 +1976,7 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">覆盖 {len(indices)} 项市场指标 · 带 <b style="color:#00b86b">实时</b> 标记的由浏览器直连行情刷新，其余为最近收盘/参考值</span>
+  <span style="font-size: 12px; color: var(--color-muted);">覆盖 {len(indices)} 项市场指标 · <b style="color:#00b86b">绿色时间</b> = 浏览器直连行情刷新，灰色 = 服务端快照</span>
 </div>
 
 {ticker_html}
