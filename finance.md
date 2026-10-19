@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 数据更新于 2026-10-19 15:02（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-19 15:12（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -43,11 +43,11 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">日级走势 · 覆盖 15 项市场指标，部分为最近收盘/参考值</span>
+  <span style="font-size: 12px; color: var(--color-muted);">覆盖 15 项市场指标 · 带 <b style="color:#00b86b">实时</b> 标记的由浏览器直连行情刷新，其余为最近收盘/参考值</span>
 </div>
 
 <div class="finance-ticker-grid">
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="sh000001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇨🇳 上证指数</span>
       <span class="ticker-code">000001.SH</span>
@@ -61,9 +61,9 @@ title: 股票财经
       <span>震荡筑底中枢</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-19 15:02:21</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-19 15:12:39</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇨🇳 深证成指</span>
       <span class="ticker-code">399001.SZ</span>
@@ -79,7 +79,7 @@ title: 股票财经
     </div>
     <div class="ticker-quote-time">🕒 行情时间 2026-10-19 15:00:03</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇨🇳 创业板指</span>
       <span class="ticker-code">399006.SZ</span>
@@ -95,7 +95,7 @@ title: 股票财经
     </div>
     <div class="ticker-quote-time">🕒 行情时间 2026-10-19 15:00:03</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇨🇳 科创50</span>
       <span class="ticker-code">000688.SH</span>
@@ -109,9 +109,9 @@ title: 股票财经
       <span>AI算力与先进制程</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 2026-10-19 15:02:23</div>
+    <div class="ticker-quote-time">🕒 行情时间 2026-10-19 15:12:44</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇭🇰 恒生科技</span>
       <span class="ticker-code">HSTECH</span>
@@ -127,7 +127,7 @@ title: 股票财经
     </div>
     <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="usNDX" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇺🇸 纳斯达克100</span>
       <span class="ticker-code">NDX</span>
@@ -149,31 +149,31 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6808</span>
+      <span class="ticker-price ticker-down">6.6812</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg38892" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.2 L46.7,7.4 L68.0,6.1 L89.3,21.2 L110.7,18.4 L132.0,22.8 L153.3,16.7 L174.7,25.9 L196.0,38.0 L196,40 Z" fill="url(#sg38892)"/><polyline points="4.0,6.0 25.3,9.2 46.7,7.4 68.0,6.1 89.3,21.2 110.7,18.4 132.0,22.8 153.3,16.7 174.7,25.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg83961" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.3 L46.7,7.4 L68.0,6.1 L89.3,21.5 L110.7,18.6 L132.0,23.1 L153.3,16.9 L174.7,26.2 L196.0,38.0 L196,40 Z" fill="url(#sg83961)"/><polyline points="4.0,6.0 25.3,9.3 46.7,7.4 68.0,6.1 89.3,21.5 110.7,18.6 132.0,23.1 153.3,16.9 174.7,26.2 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 15:02:28</div>
+    <div class="ticker-quote-time">🕒 行情时间 15:12:46</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
       <span class="ticker-name">🪙 伦敦现货黄金</span>
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,184.82 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +20.77 (+0.50%)</span>
+      <span class="ticker-price ticker-up">$4,184.65 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +20.60 (+0.49%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 15:02:00</div>
+    <div class="ticker-quote-time">🕒 行情时间 15:12:00</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -181,17 +181,17 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥899.95 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.95 (-0.11%)</span>
+      <span class="ticker-price ticker-down">¥900.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -0.80 (-0.09%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 15:02:35</div>
+    <div class="ticker-quote-time">🕒 行情时间 15:12:35</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇭🇰 恒生指数</span>
       <span class="ticker-code">HSI</span>
@@ -207,7 +207,7 @@ title: 股票财经
     </div>
     <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="usDJI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇺🇸 道琼斯工业指数</span>
       <span class="ticker-code">DJIA</span>
@@ -223,7 +223,7 @@ title: 股票财经
     </div>
     <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="ukUKX" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇬🇧 富时100</span>
       <span class="ticker-code">FTSE</span>
@@ -255,7 +255,7 @@ title: 股票财经
     </div>
     <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="usINX" data-fmt="idx" data-unit="">
     <div class="ticker-header">
       <span class="ticker-name">🇺🇸 标普500</span>
       <span class="ticker-code">SPX</span>
@@ -271,23 +271,130 @@ title: 股票财经
     </div>
     <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
-  <div class="ticker-card">
+  <div class="ticker-card" data-tcode="hf_OIL" data-fmt="usd" data-unit="/桶">
     <div class="ticker-header">
       <span class="ticker-name">🛢️ 布伦特原油</span>
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$107.15 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -2.71 (-2.46%)</span>
+      <span class="ticker-price ticker-down">$107.33 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -2.53 (-2.30%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 行情时间 15:02:36</div>
+    <div class="ticker-quote-time">🕒 行情时间 15:13:00</div>
   </div>
 </div>
+
+
+
+<style>
+.ticker-card[data-live="1"] .ticker-quote-time { color: #00b86b; }
+</style>
+<script>
+(function () {
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.ticker-card[data-tcode]'));
+  if (!cards.length) return;
+  var REFRESH_MS = 60000;
+  var API = 'https://qt.gtimg.cn/q=';
+
+  function pad(n) { return n < 10 ? '0' + n : '' + n; }
+  function comma(v, d) {
+    var s = v.toFixed(d), p = s.split('.');
+    p[0] = p[0].replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+    return p.join('.');
+  }
+  function unitSpan(unit) {
+    return unit ? ' <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">' + unit + '</span>' : '';
+  }
+
+  // 指数格式：1~名称~代码~现价~昨收~今开~...~YYYYMMDDHHMMSS~
+  function parseIdx(raw) {
+    var f = raw.split('~');
+    if (f.length < 6) return null;
+    var price = parseFloat(f[3]), prev = parseFloat(f[4]);
+    if (!isFinite(price)) return null;
+    var t = '';
+    for (var i = f.length - 1; i > 20; i--) {
+      if (/^20\d{12}$/.test(f[i])) { t = f[i]; break; }   // 只认 20YYMMDDhhmmss
+    }
+    return { price: price, pct: prev > 0 ? (price - prev) / prev * 100 : 0, chg: price - prev, time: t };
+  }
+
+  // 外盘现货/期货格式：现价,涨跌幅%,买,卖,最高,最低,HH:MM:SS,昨收,今开,...
+  function parseHf(raw) {
+    var f = raw.split(',');
+    if (f.length < 8) return null;
+    var price = parseFloat(f[0]), pct = parseFloat(f[1]), prev = parseFloat(f[7]);
+    if (!isFinite(price)) return null;
+    return { price: price, pct: isFinite(pct) ? pct : 0, chg: isFinite(prev) ? price - prev : 0, time: f[6] || '' };
+  }
+
+  function paint(card, q) {
+    var up = q.pct >= 0;
+    var fmt = card.getAttribute('data-fmt') || 'idx';
+    var unit = card.getAttribute('data-unit') || '';
+    var priceHTML, chgText;
+
+    if (fmt === 'fx') {
+      priceHTML = q.price.toFixed(4);
+      chgText = (q.chg >= 0 ? '+' : '') + Math.round(q.chg * 10000) + ' bp';
+    } else if (fmt === 'usd' || fmt === 'cny') {
+      priceHTML = (fmt === 'usd' ? '$' : '¥') + comma(q.price, 2) + unitSpan(unit);
+      chgText = (q.chg >= 0 ? '+' : '') + q.chg.toFixed(2) + ' (' + (up ? '+' : '') + q.pct.toFixed(2) + '%)';
+    } else {
+      priceHTML = comma(q.price, 2);
+      chgText = (up ? '+' : '') + q.pct.toFixed(2) + '%';
+    }
+
+    var pEl = card.querySelector('.ticker-price');
+    var cEl = card.querySelector('.ticker-change');
+    var tEl = card.querySelector('.ticker-quote-time');
+    if (pEl) { pEl.innerHTML = priceHTML; pEl.className = 'ticker-price ' + (up ? 'ticker-up' : 'ticker-down'); }
+    if (cEl) { cEl.innerHTML = (up ? '\u25b2 ' : '\u25bc ') + chgText; cEl.className = 'ticker-change ' + (up ? 'up' : 'down'); }
+    if (tEl) {
+      if (/^20\d{12}$/.test(q.time)) {
+        tEl.textContent = '\ud83d\udd52 实时 ' + q.time.slice(8, 10) + ':' + q.time.slice(10, 12) + ':' + q.time.slice(12, 14);
+      } else if (q.time) {
+        tEl.textContent = '\ud83d\udd52 实时 ' + q.time;
+      } else {
+        var now = new Date();
+        tEl.textContent = '\ud83d\udd52 实时 · 刷新于 ' + pad(now.getHours()) + ':' + pad(now.getMinutes()) + ':' + pad(now.getSeconds());
+      }
+    }
+    card.setAttribute('data-live', '1');
+  }
+
+  function apply() {
+    cards.forEach(function (c) {
+      var code = c.getAttribute('data-tcode');
+      var raw = window['v_' + code];
+      if (!raw) return;
+      var q = code.indexOf('hf_') === 0 ? parseHf(raw) : parseIdx(raw);
+      if (q) paint(c, q);
+    });
+  }
+
+  function refresh() {
+    if (document.visibilityState === 'hidden') return;
+    var el = document.createElement('script');
+    el.charset = 'gbk';
+    el.src = API + cards.map(function (c) { return c.getAttribute('data-tcode'); }).join(',')
+           + '&_=' + Date.now();
+    el.onload = apply;
+    document.head.appendChild(el);
+  }
+
+  refresh();
+  setInterval(refresh, REFRESH_MS);
+  document.addEventListener('visibilitychange', function () {
+    if (document.visibilityState === 'visible') refresh();
+  });
+})();
+</script>
 
 
 <!-- ================= 2. 热门核心赛道与主力资金流向 ================= -->
@@ -367,8 +474,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/014/837.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，韩媒 The Elec 援引分析公司 Meritz Securities 报告，认为韩国游戏开发商 Pearl Abyss 预计今年第三季度营业利润将环比下降 50%。尽管公司 3 月推出的动作冒险游戏《红色沙漠》取得了商业成功，但销量主要集中在发售初期，后续销售势头逐渐减弱。为推动第四季度业绩回升，Pearl Abyss 计划通过推出付费 DLC 为《红色沙漠》带来新的收入。不过，被视为公司下一阶段重要增长动力的新作《DokeV》预计还要约两年才能发售，这意味着公司可能再次面临较长时间缺乏新作贡献的业绩空窗期。预计 Pearl Abyss 第三季度营收约为 1,196 亿韩元（IT之家注：现汇率约合 5.97 亿元人民币），营业利润约为 335 亿韩元（现" data-title="《红色沙漠》销量回落，韩国游戏开发商 Pearl Abyss 第三季度营业利润预计环比腰斩" data-date="10-19 15:09" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-19 15:09</span>
+          <span class="news-item-title">《红色沙漠》销量回落，韩国游戏开发商 Pearl Abyss 第三季度营业利润预计环比腰斩</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/014/830.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="京东联合会员B 站 App 中京东联合会员年卡现售 233 元，明日 10 点（10 月 20 日 10:00）京东 App 11.11 大促仅需 148 元。充值时填写“B 站手机号”，下单后到 B 站会员中心 → 大会员资产 → 绑定京东账号兑换 PLUS 会员（B 站 / 京东可以不是一个手机号 *）。京东 哔哩哔哩大会员 + 京东 PLUS 年卡京东 PLUS 含 12 生活积分 10:00 限量 148 元直达链接京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。京东 PLUS 年卡每年发放 12 积分：5 积分换 2 小时保洁（可兑 1 次，大多数城市日常 40 元 / 小时）2 积分兑换洗鞋 2 双 / 3 积分兑换洗衣 2 件（可洗羽绒服）2 积分" data-title="B 站 x PLUS 联合会员 148 元：明天 10:00 开抢，京东积分保洁洗衣都能用" data-date="10-19 14:58" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -454,4 +567,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 数据抓取于 2026-10-19 15:02（北京时间）· 股指数据来源新浪财经 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-19 15:12（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
