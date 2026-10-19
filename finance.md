@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-19 17:16（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-19 18:41（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -46,6 +46,7 @@ title: 股票财经
   <span style="font-size: 12px; color: var(--color-muted);">覆盖 15 项市场指标 · <b style="color:#00b86b">绿色时间</b> = 浏览器直连行情刷新，灰色 = 服务端快照</span>
 </div>
 
+<!-- QUOTES:BEGIN -->
 <div class="finance-ticker-grid">
   <div class="ticker-card" data-tcode="sh000001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -149,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6809</span>
+      <span class="ticker-price ticker-down">6.6808</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg26822" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.3 L46.7,7.4 L68.0,6.1 L89.3,21.3 L110.7,18.5 L132.0,22.8 L153.3,16.8 L174.7,26.0 L196.0,38.0 L196,40 Z" fill="url(#sg26822)"/><polyline points="4.0,6.0 25.3,9.3 46.7,7.4 68.0,6.1 89.3,21.3 110.7,18.5 132.0,22.8 153.3,16.8 174.7,26.0 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg38892" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.2 L46.7,7.4 L68.0,6.1 L89.3,21.2 L110.7,18.4 L132.0,22.8 L153.3,16.7 L174.7,25.9 L196.0,38.0 L196,40 Z" fill="url(#sg38892)"/><polyline points="4.0,6.0 25.3,9.2 46.7,7.4 68.0,6.1 89.3,21.2 110.7,18.4 132.0,22.8 153.3,16.7 174.7,25.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:17:01（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:41:30（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -165,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,171.83 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +7.78 (+0.19%)</span>
+      <span class="ticker-price ticker-up">$4,165.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +1.55 (+0.04%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:17:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:41:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -277,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$108.05 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.81 (-1.64%)</span>
+      <span class="ticker-price ticker-down">$108.46 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.40 (-1.27%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:17:19（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:41:41（非实时）</div>
   </div>
 </div>
 
@@ -413,6 +414,7 @@ title: 股票财经
 })();
 </script>
 
+<!-- QUOTES:END -->
 
 <!-- ================= 2. 热门核心赛道与主力资金流向 ================= -->
 <div class="section-header" style="margin-top: 32px;">
@@ -491,8 +493,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/014/981.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，据 Digitimes 报道，有消息称，特斯拉正在韩国市场打破传统汽车供应链议价模式，改变过去主要与一级、二级（Tier 1、Tier 2）供应商沟通的传统模式，开始直接接触更下游的零部件及原材料行业，将管理触角延伸至第三、第四级供应商。业内人士认为，特斯拉这种“跳过中间供应商、直接介入下游议价”的举措，有助于更精准地掌握成本细节，压缩不必要的中间环节及中间商利润，从而在竞争激烈的电动汽车市场中保持价格优势，但也让下游企业面临更大的议价压力。目前，韩国电动汽车市场的竞争格局正在发生渐进变化。长期由现代汽车和起亚主导的大众电动汽车市场，正受到特斯拉的进一步冲击。如今特斯拉不再只是满足特定消费群体需求的进口电动汽车品牌，而是逐渐成为韩国消费者选购电动汽车时，可与" data-title="消息称特斯拉在韩国市场打破传统议价模式，开始直接接触三四级供应商以控制成本" data-date="10-19 18:18" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-19 18:18</span>
+          <span class="news-item-title">消息称特斯拉在韩国市场打破传统议价模式，开始直接接触三四级供应商以控制成本</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/19/podcasts/the-headlines/israel-elections-gold-global-market.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="此外，还要寻找“超级宜居”的星耀。" data-title="Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market" data-date="10-19 18:00" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-19 18:00</span>
+          <span class="news-item-title">Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/014/891.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 19 日消息，商务、海关总署、中央军委装备发展部今日联合发布公告，优化调整无人机相关物项出口管制措施。据央视新闻报道，商务部新闻发言人对此回应称：根据《中华人民共和国出口管制法》等有关法律法规，10 月 19 日，商务部会同相关部门发布关于优化调整无人机相关物项出口管制措施的公告。相关措施将于 11 月 18 日起正式实施。此前，我们已经向与中方建立了出口管制对话机制的有关国家和地区作了通报。此次措施涉及的无人机相关物项具有明显的军民两用属性，中方依法依规优化调整有关措施，目的是维护国家安全和利益，履行防扩散等国际义务。与此同时，中方致力于维护全球产业链供应链安全稳定，依法依规对相关出口许可申请进行审查，对符合规定的申请，中方将予以批准。动态调整出口管制措施是国际通行做法" data-title="坚决反对无人机被违规用于非和平目的，商务部回应相关出口管制措施调整" data-date="10-19 16:43" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -584,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-19 17:16（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-19 18:41（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

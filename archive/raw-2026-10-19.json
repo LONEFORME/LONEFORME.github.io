@@ -88,6 +88,39 @@
     "published_dt_iso": "2026-10-17T00:30:00+08:00"
   },
   {
+    "title": "Engineer builds tiny 3D-printed single-motor drone in their bedroom",
+    "title_zh": "工程师在卧室里制造微型3D打印单电机无人机",
+    "link": "https://www.tomshardware.com/maker-stem/engineer-builds-tiny-3d-printed-single-motor-drone-in-their-bedroom-45-degree-hinged-rotor-and-sub-0-2ms-firmware-control-pitch-and-roll",
+    "date": "2026-10-19",
+    "published_time": "18:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "约书亚·伯德（ Joshua Bird ）在他们的家中设计、建造和测试了这款无人机，甚至在高速旋转时使用自己的高速摄像机来检查其构造。",
+    "published_dt_iso": "2026-10-19T18:30:00+08:00"
+  },
+  {
+    "title": "Save $500 on this 1440p gaming PC with an RTX 5070, now under $1,800",
+    "title_zh": "使用腾讯通5070 ，这款1440p游戏电脑可节省$ 500 ，现在低于$ 1,800",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-gaming-pc-with-an-rtx-5070-now-under-usd1-800-abs-flux-ii-aqua-rig-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd",
+    "date": "2026-10-19",
+    "published_time": "18:01",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这款ABS Flux II Aqua游戏PC上的Newegg优惠为您提供了一台1440p和4K游戏机，价格为$ 1,799.99。这款预先构建的产品配备20核英特尔酷睿i7-14700F CPU、英伟达GeForce RTX 5070、1TB固态硬盘和32GB DDR5内存。",
+    "published_dt_iso": "2026-10-19T18:01:38+08:00"
+  },
+  {
+    "title": "Russian military satellite closes from 200 miles to 3 miles of US radar craft aiding Ukraine",
+    "title_zh": "俄罗斯军用卫星关闭200至3英里的美国雷达船协助乌克兰",
+    "link": "https://www.tomshardware.com/tech-industry/space/russian-military-satellite-closes-from-200-miles-to-3-miles-of-us-radar-satellite-aiding-ukraine-astronomer-says-it-may-be-the-first-unapproved-rendezvous-in-low-earth-orbit",
+    "date": "2026-10-19",
+    "published_time": "18:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "俄罗斯的Cosmos 2612从美国拥有的雷达卫星ICEYE-X36的200多英里移动到约3英里。",
+    "published_dt_iso": "2026-10-19T18:00:00+08:00"
+  },
+  {
     "title": "Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs",
     "title_zh": "Modder为三代AMD游戏GPU带来了完整的Nvidia DLSS 5套件",
     "link": "https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance",
@@ -141,39 +174,6 @@
     "feed_name": "Tom's Hardware(半导体)",
     "summary": "华硕借助ROG Strix XG27AQGNV推出了G-Sync Pulsar。这款27英寸IPS面板具有360 Hz、QHD分辨率、HDR和宽色域的平滑运动。",
     "published_dt_iso": "2026-10-18T21:25:00+08:00"
-  },
-  {
-    "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
-    "title_zh": "Nvidia RTX 5090在巴西机场丢失价值47万$的货物",
-    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
-    "date": "2026-10-18",
-    "published_time": "21:24",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "巴西电子和IT分销商Oderço声称， Zotac RTX 5090 GPU的两个托盘已抵达机场，但此后已完全消失。",
-    "published_dt_iso": "2026-10-18T21:24:23+08:00"
-  },
-  {
-    "title": "Web-based chip fab engineering game goes viral in Taiwan",
-    "title_zh": "基于网络的芯片晶圆厂工程游戏在台湾大行其道",
-    "link": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
-    "date": "2026-10-18",
-    "published_time": "20:50",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "《半导体晶圆工厂工人的一天》是一款全新的3D网络游戏，在台湾流行开来。",
-    "published_dt_iso": "2026-10-18T20:50:33+08:00"
-  },
-  {
-    "title": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version",
-    "title_zh": "在不受支持的游戏上运行的官方DLSS 5提供比泄露版本高出90%的性能",
-    "link": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster",
-    "date": "2026-10-18",
-    "published_time": "20:45",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "英伟达最新的DLSS神经渲染器（再次从NBA 2K27中提取）正在不受支持的游戏上进行测试，与之前的NR型号相比，性能提高了90%。",
-    "published_dt_iso": "2026-10-18T20:45:00+08:00"
   },
   {
     "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -440,92 +440,92 @@
     "published_dt_iso": "2026-10-16T20:54:54+08:00"
   },
   {
-    "title": "Flyme Auto 车机 9 月新增装机 15.4 万辆，累计搭载超 359 万辆",
+    "title": "海光信息 2026 年第三季度归母净利润 10.48 亿元，同比增长 37.9%",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/938.htm",
+    "link": "https://www.ithome.com/1/014/992.htm",
     "date": "2026-10-19",
-    "published_time": "17:15",
+    "published_time": "18:36",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 10 月 19 日消息，FlymeAIOS 今日透露，9 月，Flyme Auto 新增装机 154,206 辆，前三季度装机量超 1,326,000 辆，全球累计搭载超 3,594,000 辆。据IT之家此前报道，魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月，支持无缝接力、手机辅助 OTA、手机-汽车硬件互通共享硬件能力，支持手机寻车，支持平行视窗、小窗展示、跨端可见即可说等软件功能。Flyme Auto 2 发布于去年 8 月，带来了实况桌面 3D 质感、全场景一镜到底、Alive 壁纸、自定义桌面插件等功能，Aicy 大卡片、全新小窗模式提供了更轻量更高效的交互方式。AI 能力贯通整车全域，AI 读心术主动判断用户意图，自动完成常用操作，并且此次更新还",
-    "published_dt_iso": "2026-10-19T17:15:22+08:00"
+    "summary": "IT之家 10 月 19 日消息，海光信息今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告：营业总收入：58.56 亿元，同比增长 45.46%归母净利润：10.48 亿元，同比增长 37.9%扣非净利润：9.53 亿元，同比增长 31.12%加权平均净资产收益率：4.05%基本每股收益：0.45 元，同比增长 36.36%稀释每股收益：0.45 元，同比增长 36.36% AI 解读本次业绩符合市场对于 AI 芯片高增长的预期，营收和净利润均实现较快增长。公司主营业务海光信息主要从事研发、设计和销售应用于服务器、工作站等计算、存储设备中的高端处理器，产品包括海光通用处理器 (CPU) 和海光协处理器 (DCU)，产品兼容 x86 指令集，软硬件生态丰富，在国",
+    "published_dt_iso": "2026-10-19T18:36:45+08:00"
   },
   {
-    "title": "美国造车新势力 Rivian 推出点到点辅助驾驶，年底开放测试",
+    "title": "梅赛德斯-奔驰与英伟达深化战略合作，共同推动下一代辅助驾驶系统开发",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/934.htm",
+    "link": "https://www.ithome.com/1/014/990.htm",
     "date": "2026-10-19",
-    "published_time": "17:13",
+    "published_time": "18:27",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 10 月 19 日消息，据汽车媒体 Motor1 今天报道，美国造车新势力 Rivian 最近启动自动驾驶早期体验计划，邀请小部分车主体验点对点辅助驾驶功能。IT之家从原报道获悉，所有订阅 Autonomy+ 付费服务的第二代 R1 或 R2 车主均可申请加入计划。Rivian 正按计划推进开发工作，目标年底前向公众推出首个测试版本，并在 2027 年进一步扩大覆盖范围。Rivian 表示，点对点辅助驾驶功能基于 Universal Hands-Free 系统打造。启用该功能后，车辆能实现的不只是保持车道行驶，而是能够自行完成道路汇入、转向等操作，进行完整的辅助驾驶。不过需要注意的是，这套系统仍然是 L2 级辅助驾驶，驾驶员必须集中注意力观察路面，随时做好接管准备。",
-    "published_dt_iso": "2026-10-19T17:13:45+08:00"
+    "summary": "IT之家 10 月 19 日消息，梅赛德斯-奔驰与英伟达今日宣布，双方将深化战略合作，共同推动下一代辅助驾驶系统的开发。此次合作将融合梅赛德斯-奔驰的汽车工程技术、安全领域的积累及 MB.OS 操作系统，与英伟达的加速计算和 AI 技术。梅赛德斯-奔驰的 MB.OS 操作系统支持新增驾驶功能和空中下载（OTA）更新，并与 NVIDIA Hyperion 计算和传感器架构协同运行。NVIDIA Alpamayo Stack 提供具有 AI 推理能力的全栈驾驶软件，支持城市点到点辅助驾驶、主动安全及自动泊车。NVIDIA Halos 则进一步强化梅赛德斯-奔驰的安全体系，其中的并行安全技术栈能提供冗余和安全保障。这些技术将共同支持高级辅助驾驶功能，以及包括自动驾驶豪华轿车在内的未来 SAE-L4",
+    "published_dt_iso": "2026-10-19T18:27:15+08:00"
   },
   {
-    "title": "Key 社核心作者麻枝准罹患咽喉癌：本人选择放弃积极治疗，专注更新《炽焰天穹》、制作全新音乐项目",
+    "title": "经典 Roguelike 游戏《邪恶冥刻》将登陆移动平台，但暂无新 DLC 计划",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/915.htm",
+    "link": "https://www.ithome.com/1/014/988.htm",
     "date": "2026-10-19",
-    "published_time": "17:01",
+    "published_time": "18:25",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 10 月 19 日消息，日本知名视觉小说工作室 Key 社今天宣布，其核心创作者麻枝准罹患咽喉癌。Key 社表示，麻枝准从今年春季开始感觉喉咙不适，进入夏季后，他的喉咙肿胀和疼痛症状逐渐加重。经医疗机构检查后，他被确诊为咽喉癌。麻枝准反复考虑自身病情和治疗前景后，希望尽可能保留自身精力专注于创作活动。因此他决定不接受积极治疗，而是选择以姑息治疗为主的疗养方式。同时，麻枝准正在负责《炽焰天穹》游戏的剧情撰写和音乐制作，同时在构想全新音乐项目。他已经完成《绯染天空》主线剧情第六章前篇部分，直至第六章完结的主要部分也已经全部创作完成。并且，本作第六章前篇相关歌曲的作词和作曲工作也已完成。随着病情发展，麻枝准本人可能无法完成以后的剧情和音乐制作。此外，麻枝准还在构想一个全新音乐项目。确诊咽",
-    "published_dt_iso": "2026-10-19T17:01:51+08:00"
+    "summary": "IT之家 10 月 19 日消息，开发团队 Daniel Mullins Games 宣布旗下经典 Roguelike 卡牌游戏《邪恶冥刻（Inscryption）》将登陆移动平台，目前团队正在进行移植工作，距离正式登陆应用商店仍需一段时间，开发团队预计将在未来几个月公布更多有关移动版本游戏的消息。对于玩家期待的新 DLC，Daniel Mullins Games 则明确表示“目前没有相应计划”，当前游戏“无论在叙事还是玩法层面，都已经是一部完整的作品”，开发团队“不希望仅仅为了增加内容或利用游戏的商业成功而继续扩充游戏”。公开信息显示，《邪恶冥刻》于 2021 年 10 月发售。本作好评率达 95%“好评如潮”，Steam 国区定价为 88 元，IT之家附游戏商品页（https://sto",
+    "published_dt_iso": "2026-10-19T18:25:32+08:00"
   },
   {
-    "title": "坚决反对无人机被违规用于非和平目的，商务部回应相关出口管制措施调整",
+    "title": "Epic CEO 斯威尼呼吁玩家不要放弃《糖豆人》，称本作正进行大规模改造",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/891.htm",
+    "link": "https://www.ithome.com/1/014/987.htm",
     "date": "2026-10-19",
-    "published_time": "16:43",
+    "published_time": "18:25",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 10 月 19 日消息，商务、海关总署、中央军委装备发展部今日联合发布公告，优化调整无人机相关物项出口管制措施。据央视新闻报道，商务部新闻发言人对此回应称：根据《中华人民共和国出口管制法》等有关法律法规，10 月 19 日，商务部会同相关部门发布关于优化调整无人机相关物项出口管制措施的公告。相关措施将于 11 月 18 日起正式实施。此前，我们已经向与中方建立了出口管制对话机制的有关国家和地区作了通报。此次措施涉及的无人机相关物项具有明显的军民两用属性，中方依法依规优化调整有关措施，目的是维护国家安全和利益，履行防扩散等国际义务。与此同时，中方致力于维护全球产业链供应链安全稳定，依法依规对相关出口许可申请进行审查，对符合规定的申请，中方将予以批准。动态调整出口管制措施是国际通行做法",
-    "published_dt_iso": "2026-10-19T16:43:31+08:00"
+    "summary": "IT之家 10 月 19 日消息，据游戏媒体 Insider Gaming 今天报道，Epic Games 首席执行官蒂姆 · 斯威尼呼吁玩家不要放弃《糖豆人》，并称本作正在进行大规模改造。IT之家从原报道获悉，《糖豆人》曾在 2020 年左右一炮而红，此后热度逐渐消退，缺乏重大更新是主要原因。即使这款游戏整合进《堡垒之夜》，也未能推动人气回升。斯威尼则对此表示：“我们正在进行大规模改造，让新的可能成为现实。”这名 CEO 并没有透露改造涉及哪些内容。不过鉴于 Epic Games 越来越积极地推动人工智能技术的应用，部分玩家猜测此次改造可能会涉及 AI。",
+    "published_dt_iso": "2026-10-19T18:25:09+08:00"
   },
   {
-    "title": "奇瑞将于 10 月 20 日举办全球创新大会，发布首个行业垂域大模型、人形机器人“墨宝”",
+    "title": "“天下霸唱 IP 改编”悬疑探险真人互动影游《天坑追匪》Demo 上架 Steam，免费试玩",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/887.htm",
+    "link": "https://www.ithome.com/1/014/976.htm",
     "date": "2026-10-19",
-    "published_time": "16:39",
+    "published_time": "18:13",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 10 月 19 日消息，奇瑞将于 10 月 20 日在芜湖举办以“Change· 改变”为主题的 2026 奇瑞全球创新大会，发布首个行业垂域大模型。本次创新大会，奇瑞将展望瑶光 2035 计划，以智能 AI 技术为支撑，系统标定从汽车企业迈向全球智能科技公司的路线蓝图。作为实现这一目标的技术底座，大会上还将发布首个汽车行业垂域大模型，该模型融合了奇瑞在算力、算法、数据等领域的前沿技术能力，底层硬件则将展示专为物理 AI 世界模型设计的车规级芯片，不仅推动汽车产业进入全域 AI 体系化造车的新阶段，更为技术解决生活真实需求打开了更多可能。据介绍，在出行领域，猎鹰驾辅、灵犀智舱持续升级、全面上车，行业首款为全球而生原生前装 Robotaxi 亮相，凌霄 eVTOL 让立体空域出行更加",
-    "published_dt_iso": "2026-10-19T16:39:33+08:00"
+    "summary": "IT之家 10 月 19 日消息，改编自“天下霸唱经典悬疑 IP”的首部悬疑探险真人互动影游《天坑追匪》试用版 Demo 现已登陆 Steam 平台，当前试玩版可免费下载体验。IT之家附游戏商品页（https://store.steampowered.com/app/4508040/_Demo/?l=schinese&cc=cn）。据介绍，本作由杭州天阙采样文化传媒游戏公司、Liquid Meow 开发，一相逢互动娱乐、华智数媒发行，改编自天下霸唱《天坑追匪》原著小说，故事设定发生在 1954 年的东北老爷岭，联合科考队坠入天坑全员失联，玩家将扮演搜救队长赵工，在密林与地底绝境中做出关键抉择，逐步揭开天坑背后隐藏的秘密。密林之中危机四伏，诡异异兽暗中窥视，队伍内部立场交错、人心难测。一场塌方",
+    "published_dt_iso": "2026-10-19T18:13:18+08:00"
   },
   {
-    "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
+    "title": "消息称特斯拉在韩国市场打破传统议价模式，开始直接接触三四级供应商以控制成本",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/619.htm",
-    "date": "2026-10-18",
-    "published_time": "23:47",
+    "link": "https://www.ithome.com/1/014/981.htm",
+    "date": "2026-10-19",
+    "published_time": "18:18",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发到手价 449 元。评价返 10 元 E 卡（折合仅需 439 元），学生可再享 30 元教育优惠。部分地区支持政府补贴（例如广东、四川、吉林），实付低至 382 元，评价后折合 372 元：京东荣耀 Earbuds 耳夹式耳机抢先购首发 449 元直达链接京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。这款耳机主打全天候舒适佩戴，耳挂采用食品级亲肤硅胶，搭配天鹅颈曲线设计；单只耳机重 5.6 克，C 桥最窄处 3.2mm；获得 Hi-Res Wireless 金标认证，支持 LHDC 5.0 无损格式。IT之家获悉，这款耳机综合续航可达 40 小时，单次连续听歌可达 10 小时，充电 1",
-    "published_dt_iso": "2026-10-18T23:47:03+08:00"
+    "summary": "IT之家 10 月 19 日消息，据 Digitimes 报道，有消息称，特斯拉正在韩国市场打破传统汽车供应链议价模式，改变过去主要与一级、二级（Tier 1、Tier 2）供应商沟通的传统模式，开始直接接触更下游的零部件及原材料行业，将管理触角延伸至第三、第四级供应商。业内人士认为，特斯拉这种“跳过中间供应商、直接介入下游议价”的举措，有助于更精准地掌握成本细节，压缩不必要的中间环节及中间商利润，从而在竞争激烈的电动汽车市场中保持价格优势，但也让下游企业面临更大的议价压力。目前，韩国电动汽车市场的竞争格局正在发生渐进变化。长期由现代汽车和起亚主导的大众电动汽车市场，正受到特斯拉的进一步冲击。如今特斯拉不再只是满足特定消费群体需求的进口电动汽车品牌，而是逐渐成为韩国消费者选购电动汽车时，可与",
+    "published_dt_iso": "2026-10-19T18:18:06+08:00"
   },
   {
-    "title": "iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡",
+    "title": "国产 AI 历史模拟新游《崇祯模拟器 Demo》上架 Steam，免费试玩",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/878.htm",
+    "link": "https://www.ithome.com/1/014/977.htm",
     "date": "2026-10-19",
-    "published_time": "16:32",
+    "published_time": "18:13",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "此为资源机，介意慎拍！iPhone 17 Pro Max 2TB 美版无锁权益机（双 esim）今日“京东数码海外自营旗舰店”裸机（不含数据线 + 京东包装非原封）直降至 9399 元。权益机 / 资源机是由苹果代工厂对苹果官方 7 天无理由退货以及产线上多余的原材料进行生产，经过产品工程师相应功能测试，且确保为 Apple 官方原装部件后，再由苹果全球合作伙伴进行销售。由于 Apple 授权工厂生产环节较多，无法保证机身无瑕疵，有可能会造成机身框、屏幕等存在划痕白点凹痕等外观瑕疵问题，介意慎拍。本次支持免费改双卡，不支持苹果官方保修，京东售后 1 年。京东 iPhone 17 Pro Max 2TB 美版无锁 需录开箱视频 9399 元直达链接京东 11.11 红包至高 26888 元无门",
-    "published_dt_iso": "2026-10-19T16:32:42+08:00"
+    "summary": "IT之家 10 月 19 日消息，个人开发者 ZHANG HANLIANG 制作的国产历史策略模拟游戏《崇祯模拟器 Demo》现已登陆 Steam 平台开启试玩，完整支持简体中文界面、字幕与音频。IT之家附游戏商品页（https://store.steampowered.com/app/5121940/）。崇祯十七年，大明风雨飘摇 —— 李自成揭竿西北，后金铁骑叩关辽东，国库空虚、党争不休、天灾连年。你将扮演大明最后一位皇帝崇祯，在这盘注定败局的棋上落子：批阅奏疏、平衡朝堂、调度钱粮、任免文武。每一位大臣都由 AI 驱动，会揣摩圣意、结党营私、阳奉阴违。你的每一道旨意都在改写历史 —— 是重蹈煤山自缢的覆辙，还是力挽狂澜、再造大明？该作核心特色为 AI 大模型驱动玩法：所有大臣 NPC 对话",
+    "published_dt_iso": "2026-10-19T18:13:33+08:00"
   },
   {
-    "title": "卡普空 3 款作品获金摇杆奖“年度主机游戏”提名：含《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》",
+    "title": "技术人员拆解任天堂 Switch 2 可换电池版：仍使用群创光电面板、内存供应商有所变化",
     "title_zh": "",
-    "link": "https://www.ithome.com/1/014/877.htm",
+    "link": "https://www.ithome.com/1/014/975.htm",
     "date": "2026-10-19",
-    "published_time": "16:28",
+    "published_time": "18:09",
     "source": "IT之家",
     "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 10 月 19 日消息，金摇杆奖（Golden Joystick Awards）昨日公布“年度主机游戏”奖项提名，卡普空旗下 3 款作品《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》入围。IT之家附金摇杆奖年度主机游戏提名作品如下：《007：初露锋芒》《火焰之纹章万缕千丝》《极限竞速：地平线 6》《乐高蝙蝠侠：黑暗骑士之遗》《仁王 3》《鬼武者：剑之道》《宝可梦 Pokopia》《识质存在》《生化危机：安魂曲》《沙罗周期》金摇杆奖评选活动始于 1983 年，是最古老的游戏产业大奖之一。该奖最初由英国公众投票选出，现已成为一项可通过 GamesRadar+ 网站投票的全球活动。这个奖项最初只包含电脑游戏，后来扩展至主机游戏。",
-    "published_dt_iso": "2026-10-19T16:28:21+08:00"
+    "summary": "IT之家 10 月 19 日消息，任天堂近期在欧洲推出了支持便捷更换电池的新版 Switch 2，技术人员 modyfikatorcasper 在对相应型号进行拆解后发现，该机并未换用传闻中的夏普 LCD 面板，仍使用群创光电（Innolux）面板。除主板和电池仓设计外，新版 Switch 2 的变化较为有限。新机更换了风扇，可能对散热表现产生一定影响，但目前尚无证据表明其性能有明显改善。机身 RAM 内存容量仍为 12GB，只是内存供应商有所变化。因此，玩家不太可能从这次硬件调整中获得明显的性能提升。此次改版的主要意义仍在于提升维修便利性。与此同时，有迹象显示，任天堂可能会将相应版本机型推向其他市场，目前型号为 BEE-001 (-01) 的 Switch 2 机型已出现在美国联邦通信委员",
+    "published_dt_iso": "2026-10-19T18:09:33+08:00"
   },
   {
     "title": "Madueke's 'anger and conviction' shows he's more than a 'finisher'",
@@ -704,6 +704,50 @@
     "published_dt_iso": "2026-10-18T18:30:57+08:00"
   },
   {
+    "title": "习言道｜长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717282.shtml",
+    "date": "2026-10-19",
+    "published_time": "18:14",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网10月19日电 题：长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”",
+    "published_dt_iso": "2026-10-19T18:14:39+08:00"
+  },
+  {
+    "title": "中移（苏州）软件技术有限公司原董事长方力被“双开”",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717314.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网10月19日电 据中央纪委国家监委驻中国移动纪检监察组、河北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国移动纪检监察组、河北省监委对中移(苏州)软件技术有限公司原党委书记、董事长方力严重违纪违法问题进行了立案审查调查。",
+    "published_dt_iso": "2026-10-19T17:58:18+08:00"
+  },
+  {
+    "title": "多国专家学者景德镇共话世界遗产保护",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717311.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:52",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社江西景德镇10月19日电 (记者 刘占昆 李韵涵)以“世界遗产与文明对话”为主题的2026景德镇论坛19日在江西景德镇开幕，论坛邀请来自24个国家的89名外宾共话世界遗产保护与文明交流互鉴。",
+    "published_dt_iso": "2026-10-19T17:52:26+08:00"
+  },
+  {
+    "title": "福建泉州举办两岸融合发展银发人才志愿服务活动",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717301.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新网泉州10月19日电 (记者 孙虹)为做好台胞寻根服务，讲好两岸根脉故事，泉州市两岸融合发展银发人才志愿服务活动19日在中国闽台缘博物馆举办。",
+    "published_dt_iso": "2026-10-19T17:42:11+08:00"
+  },
+  {
     "title": "（长征胜利90周年）做军舰“心脏”的守护者：一名蒙古族水兵的“长征”",
     "title_zh": "",
     "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717279.shtml",
@@ -748,48 +792,15 @@
     "published_dt_iso": "2026-10-19T17:01:23+08:00"
   },
   {
-    "title": "直播海报：国新办就2026年前三季度工业和信息化发展情况举行新闻发布会",
+    "title": "“睿宝”“辉宝”回国进入倒计时！爱宝乐园公布最新安排",
     "title_zh": "",
-    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717267.shtml",
+    "link": "https://www.chinanews.com.cn/gj/2026/10-19/10717326.shtml",
     "date": "2026-10-19",
-    "published_time": "16:42",
+    "published_time": "18:14",
     "source": "中国新闻网",
-    "feed_name": "中国新闻网(时政)",
-    "summary": "",
-    "published_dt_iso": "2026-10-19T16:42:38+08:00"
-  },
-  {
-    "title": "2026（丙午）年海峡两岸同胞湖南共拜炎帝陵",
-    "title_zh": "",
-    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717229.shtml",
-    "date": "2026-10-19",
-    "published_time": "16:22",
-    "source": "中国新闻网",
-    "feed_name": "中国新闻网(时政)",
-    "summary": "中新社湖南株洲10月19日电 (付敬懿)2026(丙午)年海峡两岸炎帝神农文化交流大会19日在湖南炎陵县举行，两岸各界代表300余人齐聚中华民族始祖圣地炎帝陵，共拜始祖、共叙文脉、共话亲情。",
-    "published_dt_iso": "2026-10-19T16:22:17+08:00"
-  },
-  {
-    "title": "李强会见塔吉克斯坦总统拉赫蒙",
-    "title_zh": "",
-    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717216.shtml",
-    "date": "2026-10-19",
-    "published_time": "16:09",
-    "source": "中国新闻网",
-    "feed_name": "中国新闻网(时政)",
-    "summary": "中新社杜尚别10月19日电 (记者 单璐)10月19日上午，中国国务院总理李强在杜尚别会见塔吉克斯坦总统拉赫蒙。",
-    "published_dt_iso": "2026-10-19T16:09:22+08:00"
-  },
-  {
-    "title": "长征精神何以穿越时空、历久弥新（人民论坛）",
-    "title_zh": "",
-    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717228.shtml",
-    "date": "2026-10-19",
-    "published_time": "16:04",
-    "source": "中国新闻网",
-    "feed_name": "中国新闻网(时政)",
-    "summary": "前不久，上小学一年级的孩子放学回家，郑重其事地告诉我：“爸爸，今天我们要‘飞夺泸定桥’了。”原来，老师把课本的各个单元变成了长征路上的节点，印刻在书本首页，每次按照要求完成预习复习，就可以获得一枚“奖章”。",
-    "published_dt_iso": "2026-10-19T16:04:12+08:00"
+    "feed_name": "中国新闻网(国际)",
+    "summary": "中新网10月19日电 据韩联社报道，旅韩双胞胎大熊猫“睿宝”和“辉宝”与公众见面的活动将于12月11日截止。",
+    "published_dt_iso": "2026-10-19T18:14:01+08:00"
   },
   {
     "title": "日本首相高市早苗向靖国神社供奉祭祀费",
@@ -867,6 +878,523 @@
     "feed_name": "中国新闻网(国际)",
     "summary": "中新网10月19日电 据卡塔尔半岛电视台报道，美国国务卿鲁比奥日前表示，乌克兰确向美方请求授权使用“星盾”卫星通信系统打击俄罗斯境内纵深目标，不过截至目前乌方未获得相关授权。",
     "published_dt_iso": "2026-10-19T13:07:21+08:00"
+  },
+  {
+    "title": "单德朋：石椅村给民族地区乡村振兴带来了哪些启示？",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717321.shtml",
+    "date": "2026-10-19",
+    "published_time": "18:11",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网绵阳10月19日电 题：单德朋：石椅村给民族地区乡村振兴带来了哪些启示？",
+    "published_dt_iso": "2026-10-19T18:11:23+08:00"
+  },
+  {
+    "title": "2026在沪高校台湾学子迎新活动举行",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717319.shtml",
+    "date": "2026-10-19",
+    "published_time": "18:10",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网上海10月19日电 (记者 缪璐)10月17日至18日，由中华全国台湾同胞联谊会台胞部和上海市台湾同胞联谊会共同主办的2026在沪高校台湾学子迎新活动在沪举行，来自沪上16所高校的近110名台生齐聚宝山，通过城市研学、结对交流、主题座谈、联谊联欢等丰富活动，开启在沪交流新篇章。",
+    "published_dt_iso": "2026-10-19T18:10:45+08:00"
+  },
+  {
+    "title": "“四海归心”妈祖文化海外传播项目在莆田启动",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717315.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:58",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新社福建莆田10月19日电 (郑江洛)“四海归心”妈祖文化海外传播项目启动仪式19日在福建莆田湄洲岛妈祖行宫举行。",
+    "published_dt_iso": "2026-10-19T17:58:50+08:00"
+  },
+  {
+    "title": "湖北发布山洪灾害气象预警",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717310.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:51",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网武汉10月19日电 (记者 梁婷)湖北省防汛抗旱指挥部办公室19日发布黄色山洪灾害气象预警。预计19日8时至20日8时，该省部分地区存在山洪灾害风险。",
+    "published_dt_iso": "2026-10-19T17:51:00+08:00"
+  },
+  {
+    "title": "湖北鄂州花湖机场首次保障国际文物珍品跨境运输",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717307.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:49",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网鄂州10月19日电 (武一力 王星予 李慧敏)一架装载着国际文物珍品的全货机19日凌晨从亚洲最大专业货运机场——湖北鄂州花湖国际机场起飞，直达法国巴黎戴高乐国际机场。",
+    "published_dt_iso": "2026-10-19T17:49:56+08:00"
+  },
+  {
+    "title": "广韶高速北段改扩建架起首片预制梁 粤北出省大通道建设提速",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717305.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:44",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网广州10月19日电 (记者 蔡敏婕)19日，广韶高速北段改扩建项目成功架设首片预制梁，标志着项目进入桥梁上部结构施工阶段。",
+    "published_dt_iso": "2026-10-19T17:44:38+08:00"
+  },
+  {
+    "title": "湖南江华建99所村级养老中心 互助养老温暖瑶山老人",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717302.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:43",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网永州10月19日电(高志坚 朱玲敏)在湖南省江华瑶族自治县清塘村居家养老服务中心内，八角桌上油茶热气升腾，“瑶都红”志愿者正为老人们摆放水果、零食。",
+    "published_dt_iso": "2026-10-19T17:43:16+08:00"
+  },
+  {
+    "title": "湖南江永10.5万亩晚稻开镰 全程托管助粮农稳产增收",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/sh/2026/10-19/10717297.shtml",
+    "date": "2026-10-19",
+    "published_time": "17:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(社会)",
+    "summary": "中新网永州10月19日电(田海忠 谢文彬)近日，湖南江永县10.5万亩晚稻迎来集中开镰收割。在上江圩镇万亩双季稻高标准示范片，连片稻田翻涌金色稻浪，联合收割机往来穿梭，一派繁忙秋收图景。",
+    "published_dt_iso": "2026-10-19T17:42:15+08:00"
+  },
+  {
+    "title": "极右翼崛起危及德国吸引外资努力",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111139",
+    "date": "2026-10-19",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "欧洲商界领袖警告，德国选择党近期在州选举中胜出，令人担忧德国政治稳定，包括担心本届德国政府还能不能兑现改革承诺。",
+    "published_dt_iso": "2026-10-19T00:00:00+08:00"
+  },
+  {
+    "title": "卢拉试图借助自拍视频扭转选情",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111138",
+    "date": "2026-10-19",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "曾坦承自己没有手机的巴西左翼总统，为了赢得总统大选第二轮投票而推出一系列自拍视频，包括他在健身房跑步机上对着镜头讲话的视频。",
+    "published_dt_iso": "2026-10-19T00:00:00+08:00"
+  },
+  {
+    "title": "数据中心债券遭抛售 AI发债人面对“达尔文时刻”",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111120",
+    "date": "2026-10-16",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "投资者对AI投资热潮带来的营收是否足以支撑巨额债务正在失去信心，为美国一些最大数据中心融资的债券已跌入压力区。",
+    "published_dt_iso": "2026-10-16T00:00:00+08:00"
+  },
+  {
+    "title": "苹果诉OpenAI窃取商业机密案首次举行听证会",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111109",
+    "date": "2026-10-15",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "苹果指控OpenAI及两名前苹果员工窃取其商业机密。这起震动硅谷的重磅诉讼首次举行实质性公开听证会。双方曾在两年前结成合作伙伴关系。",
+    "published_dt_iso": "2026-10-15T00:00:00+08:00"
+  },
+  {
+    "title": "9月美国通胀率跃升至3.7%",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111108",
+    "date": "2026-10-15",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "美国通胀率自5月以来首次上升。在中期选举临近之际，伊朗战争推动燃料价格反弹，增加了美国选民的压力。",
+    "published_dt_iso": "2026-10-15T00:00:00+08:00"
+  },
+  {
+    "title": "IEA：全球柴油价格还将上涨",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111106",
+    "date": "2026-10-15",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "国际能源署警告，未来几周欧洲、非洲和拉美的柴油价格可能再次上涨，全球柴油短缺将持续至明年年中，且有赖于中东恢复供应。",
+    "published_dt_iso": "2026-10-15T00:00:00+08:00"
+  },
+  {
+    "title": "中国月度出口额增长36%，AI相关贸易繁荣",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111098",
+    "date": "2026-10-14",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "9月进口额也大幅增长，高油价推高了进口账单。",
+    "published_dt_iso": "2026-10-14T00:00:00+08:00"
+  },
+  {
+    "title": "教皇入院接受肺部手术",
+    "title_zh": "",
+    "link": "https://www.ftchinese.com/story/001111096",
+    "date": "2026-10-14",
+    "published_time": "00:00",
+    "source": "FT中文网",
+    "feed_name": "FT中文网",
+    "summary": "利奥十四世周二前往罗马杰梅利医院，接受切除肺结节的手术。他就任教皇以来的首场健康危机令全球天主教信徒震惊。",
+    "published_dt_iso": "2026-10-14T00:00:00+08:00"
+  },
+  {
+    "title": "中国三季度增长4.5%但冷热不均：出口暴增，楼市新开工面积暴跌",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/cqdjv2vw9n4po/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-19",
+    "published_time": "17:19",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "分析人士向BBC指出，中国依赖单一外需引擎的风险正在累积，北京的刺激空间有限，未必愿意、也未必有能力在这个时点大举加码。",
+    "published_dt_iso": "2026-10-19T17:19:13+08:00"
+  },
+  {
+    "title": "尊界V800“刹车门”：从产品安全之争到“恨国”论战",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-19",
+    "published_time": "11:22",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "华为尊界V800刹车踏板断裂争议迅速升温，从产品安全问题延伸至“速成车”质疑、中美汽车技术比较，以及民族品牌形象之争。随着官媒下场评议，事件进一步演变为一场舆论与产业叙事的角力。",
+    "published_dt_iso": "2026-10-19T11:22:46+08:00"
+  },
+  {
+    "title": "乌克兰钢企老板称：欧盟对华关税殃及本国",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-19",
+    "published_time": "12:33",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "乌克兰最大钢铁企业之一的负责人表示，在针对廉价进口产品的限制措施中，乌克兰被“一并捆绑”纳入相关管制范围。",
+    "published_dt_iso": "2026-10-19T12:33:11+08:00"
+  },
+  {
+    "title": "法国各地骚乱：19世纪历史建筑被焚毁  政客表态折射分歧",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/cwvgd0z8l1p9o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-19",
+    "published_time": "11:58",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "法国总统马克龙在巴黎发生大规模骚乱和抢劫事件后发表全国演说。",
+    "published_dt_iso": "2026-10-19T11:58:25+08:00"
+  },
+  {
+    "title": "硅谷这座城市垃圾太臭居民受不了 就让科技来帮忙",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-19",
+    "published_time": "08:08",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "垃圾场和工业设施散发的气味正受到更严格的监测，但这有帮助吗？",
+    "published_dt_iso": "2026-10-19T08:08:13+08:00"
+  },
+  {
+    "title": "BBC暂停公务员借调计划",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/cq0mel7ep01xo/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-19",
+    "published_time": "14:54",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "BBC表示，所有新闻及编辑决定均由BBC记者及编辑作出。",
+    "published_dt_iso": "2026-10-19T14:54:50+08:00"
+  },
+  {
+    "title": "我们的广告提到了“怀孕” 结果给 Instagram 下架了",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-19",
+    "published_time": "08:08",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "创作者们表示，她们在社群媒体上发布女性健康内容时遭到了“秘密封锁”，这背后究竟发生了什么事？",
+    "published_dt_iso": "2026-10-19T08:08:09+08:00"
+  },
+  {
+    "title": "游艇上的水上滑梯、泳池：卫星影像揭示的金正恩“夏宫”生活",
+    "title_zh": "",
+    "link": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
+    "date": "2026-10-18",
+    "published_time": "08:31",
+    "source": "BBC",
+    "feed_name": "BBC 中文",
+    "summary": "BBC追踪了一艘长达80米、配有水上滑梯的船只，旨在进一步了解金正恩如何度过假期——这对大多数朝鲜人而言，是遥不可及的体验。",
+    "published_dt_iso": "2026-10-18T08:31:34+08:00"
+  },
+  {
+    "title": "France’s Far Right Seizes the Moment as Rioting Stuns the Country",
+    "title_zh": "法国的极右翼抓住了这一时刻，因为暴乱震惊了国家",
+    "link": "https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html",
+    "date": "2026-10-19",
+    "published_time": "18:30",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "已经在民意调查中领先的全国集会显示自己是最适合恢复法律和秩序的政党。",
+    "published_dt_iso": "2026-10-19T18:30:59+08:00"
+  },
+  {
+    "title": "Why Are There Protests in France?",
+    "title_zh": "法国为什么会发生抗议活动？",
+    "link": "https://www.nytimes.com/article/france-student-protests-why.html",
+    "date": "2026-10-18",
+    "published_time": "23:15",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "周末，骚乱者袭击了市政厅和商店，抗议生活费用和学校条件恶劣。",
+    "published_dt_iso": "2026-10-18T23:15:49+08:00"
+  },
+  {
+    "title": "Israel’s High-Stakes Election, and How Illegal Gold Is Getting Into the Global Market",
+    "title_zh": "以色列高风险选举以及非法黄金如何进入全球市场",
+    "link": "https://www.nytimes.com/2026/10/19/podcasts/the-headlines/israel-elections-gold-global-market.html",
+    "date": "2026-10-19",
+    "published_time": "18:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此外，还要寻找“超级宜居”的星耀。",
+    "published_dt_iso": "2026-10-19T18:00:08+08:00"
+  },
+  {
+    "title": "Republicans in Ohio Are Worried About Turnout. Here’s What They’re Doing About it.",
+    "title_zh": "俄亥俄州的共和党人担心投票率。以下是他们正在做的事情。",
+    "link": "https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html",
+    "date": "2026-10-19",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "为了提振参议员乔恩·赫斯特德（ Jon Husted ） ，他正处于争夺席位的激烈竞争中，一些正在进行就业宣传的共和党人已经转向关注社会主义。",
+    "published_dt_iso": "2026-10-19T17:03:44+08:00"
+  },
+  {
+    "title": "Who’s Winning the Race for Congress?",
+    "title_zh": "谁在赢得国会竞选？",
+    "link": "https://www.nytimes.com/2026/10/19/us/politics/whos-winning-the-race-for-congress.html",
+    "date": "2026-10-19",
+    "published_time": "17:03",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "距离期中考试还有10月19日至15日。这就是游戏的状态。",
+    "published_dt_iso": "2026-10-19T17:03:47+08:00"
+  },
+  {
+    "title": "How a Trillion-Dollar Industry Launders Illegal Gold",
+    "title_zh": "万亿美元行业如何清洗非法黄金",
+    "link": "https://www.nytimes.com/2026/10/19/world/africa/dirty-gold-industry-coverup-launder-madagascar.html",
+    "date": "2026-10-19",
+    "published_time": "17:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "肮脏的黄金和干净的黄金之间的界限是行业虚构的。华尔街和政府从犯罪分子、歹徒和剥削儿童的人那里获得黄金。",
+    "published_dt_iso": "2026-10-19T17:00:39+08:00"
+  },
+  {
+    "title": "To Find Criminals and Child Exploitation in Gold Mines, We Just Had to Look",
+    "title_zh": "为了在金矿中找到罪犯和剥削儿童的行为，我们只需要看看",
+    "link": "https://www.nytimes.com/2026/10/19/world/africa/gold-regulators-not-looking.html",
+    "date": "2026-10-19",
+    "published_time": "17:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "多层人士证明，黄金没有权利滥用和犯罪行为。没有人让他们离开办公桌。",
+    "published_dt_iso": "2026-10-19T17:01:24+08:00"
+  },
+  {
+    "title": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
+    "title_zh": "特朗普捍卫放松对俄罗斯制裁的计划并暗示人质交易",
+    "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
+    "date": "2026-10-19",
+    "published_time": "08:05",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "作为和平谈判的一部分，总统周日为取消对俄罗斯近五年的制裁辩护。他没有说出任何人质的名字。",
+    "published_dt_iso": "2026-10-19T08:05:08+08:00"
+  },
+  {
+    "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
+    "title_zh": "Nvidia RTX 5090在巴西机场丢失价值47万$的货物",
+    "link": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
+    "date": "2026-10-18",
+    "published_time": "21:24",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "巴西电子和IT分销商Oderço声称， Zotac RTX 5090 GPU的两个托盘已抵达机场，但此后已完全消失。",
+    "published_dt_iso": "2026-10-18T21:24:23+08:00"
+  },
+  {
+    "title": "Web-based chip fab engineering game goes viral in Taiwan",
+    "title_zh": "基于网络的芯片晶圆厂工程游戏在台湾大行其道",
+    "link": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
+    "date": "2026-10-18",
+    "published_time": "20:50",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "《半导体晶圆工厂工人的一天》是一款全新的3D网络游戏，在台湾流行开来。",
+    "published_dt_iso": "2026-10-18T20:50:33+08:00"
+  },
+  {
+    "title": "Official DLSS 5 running on unsupported games delivers up to 90% better performance than the leaked version",
+    "title_zh": "在不受支持的游戏上运行的官方DLSS 5提供比泄露版本高出90%的性能",
+    "link": "https://www.tomshardware.com/pc-components/gpus/modders-used-the-official-dlss-5-release-on-unsupported-games-and-are-seeing-up-to-90-percent-better-performance-than-the-leaked-dlss-5-nvidia-says-new-nr-model-uses-20-percent-less-vram-and-processes-neural-workloads-up-to-2x-faster",
+    "date": "2026-10-18",
+    "published_time": "20:45",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "英伟达最新的DLSS神经渲染器（再次从NBA 2K27中提取）正在不受支持的游戏上进行测试，与之前的NR型号相比，性能提高了90%。",
+    "published_dt_iso": "2026-10-18T20:45:00+08:00"
+  },
+  {
+    "title": "Flyme Auto 车机 9 月新增装机 15.4 万辆，累计搭载超 359 万辆",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/938.htm",
+    "date": "2026-10-19",
+    "published_time": "17:15",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 19 日消息，FlymeAIOS 今日透露，9 月，Flyme Auto 新增装机 154,206 辆，前三季度装机量超 1,326,000 辆，全球累计搭载超 3,594,000 辆。据IT之家此前报道，魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月，支持无缝接力、手机辅助 OTA、手机-汽车硬件互通共享硬件能力，支持手机寻车，支持平行视窗、小窗展示、跨端可见即可说等软件功能。Flyme Auto 2 发布于去年 8 月，带来了实况桌面 3D 质感、全场景一镜到底、Alive 壁纸、自定义桌面插件等功能，Aicy 大卡片、全新小窗模式提供了更轻量更高效的交互方式。AI 能力贯通整车全域，AI 读心术主动判断用户意图，自动完成常用操作，并且此次更新还",
+    "published_dt_iso": "2026-10-19T17:15:22+08:00"
+  },
+  {
+    "title": "美国造车新势力 Rivian 推出点到点辅助驾驶，年底开放测试",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/934.htm",
+    "date": "2026-10-19",
+    "published_time": "17:13",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 19 日消息，据汽车媒体 Motor1 今天报道，美国造车新势力 Rivian 最近启动自动驾驶早期体验计划，邀请小部分车主体验点对点辅助驾驶功能。IT之家从原报道获悉，所有订阅 Autonomy+ 付费服务的第二代 R1 或 R2 车主均可申请加入计划。Rivian 正按计划推进开发工作，目标年底前向公众推出首个测试版本，并在 2027 年进一步扩大覆盖范围。Rivian 表示，点对点辅助驾驶功能基于 Universal Hands-Free 系统打造。启用该功能后，车辆能实现的不只是保持车道行驶，而是能够自行完成道路汇入、转向等操作，进行完整的辅助驾驶。不过需要注意的是，这套系统仍然是 L2 级辅助驾驶，驾驶员必须集中注意力观察路面，随时做好接管准备。",
+    "published_dt_iso": "2026-10-19T17:13:45+08:00"
+  },
+  {
+    "title": "Key 社核心作者麻枝准罹患咽喉癌：本人选择放弃积极治疗，专注更新《炽焰天穹》、制作全新音乐项目",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/915.htm",
+    "date": "2026-10-19",
+    "published_time": "17:01",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 19 日消息，日本知名视觉小说工作室 Key 社今天宣布，其核心创作者麻枝准罹患咽喉癌。Key 社表示，麻枝准从今年春季开始感觉喉咙不适，进入夏季后，他的喉咙肿胀和疼痛症状逐渐加重。经医疗机构检查后，他被确诊为咽喉癌。麻枝准反复考虑自身病情和治疗前景后，希望尽可能保留自身精力专注于创作活动。因此他决定不接受积极治疗，而是选择以姑息治疗为主的疗养方式。同时，麻枝准正在负责《炽焰天穹》游戏的剧情撰写和音乐制作，同时在构想全新音乐项目。他已经完成《绯染天空》主线剧情第六章前篇部分，直至第六章完结的主要部分也已经全部创作完成。并且，本作第六章前篇相关歌曲的作词和作曲工作也已完成。随着病情发展，麻枝准本人可能无法完成以后的剧情和音乐制作。此外，麻枝准还在构想一个全新音乐项目。确诊咽",
+    "published_dt_iso": "2026-10-19T17:01:51+08:00"
+  },
+  {
+    "title": "坚决反对无人机被违规用于非和平目的，商务部回应相关出口管制措施调整",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/891.htm",
+    "date": "2026-10-19",
+    "published_time": "16:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 19 日消息，商务、海关总署、中央军委装备发展部今日联合发布公告，优化调整无人机相关物项出口管制措施。据央视新闻报道，商务部新闻发言人对此回应称：根据《中华人民共和国出口管制法》等有关法律法规，10 月 19 日，商务部会同相关部门发布关于优化调整无人机相关物项出口管制措施的公告。相关措施将于 11 月 18 日起正式实施。此前，我们已经向与中方建立了出口管制对话机制的有关国家和地区作了通报。此次措施涉及的无人机相关物项具有明显的军民两用属性，中方依法依规优化调整有关措施，目的是维护国家安全和利益，履行防扩散等国际义务。与此同时，中方致力于维护全球产业链供应链安全稳定，依法依规对相关出口许可申请进行审查，对符合规定的申请，中方将予以批准。动态调整出口管制措施是国际通行做法",
+    "published_dt_iso": "2026-10-19T16:43:31+08:00"
+  },
+  {
+    "title": "奇瑞将于 10 月 20 日举办全球创新大会，发布首个行业垂域大模型、人形机器人“墨宝”",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/887.htm",
+    "date": "2026-10-19",
+    "published_time": "16:39",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 19 日消息，奇瑞将于 10 月 20 日在芜湖举办以“Change· 改变”为主题的 2026 奇瑞全球创新大会，发布首个行业垂域大模型。本次创新大会，奇瑞将展望瑶光 2035 计划，以智能 AI 技术为支撑，系统标定从汽车企业迈向全球智能科技公司的路线蓝图。作为实现这一目标的技术底座，大会上还将发布首个汽车行业垂域大模型，该模型融合了奇瑞在算力、算法、数据等领域的前沿技术能力，底层硬件则将展示专为物理 AI 世界模型设计的车规级芯片，不仅推动汽车产业进入全域 AI 体系化造车的新阶段，更为技术解决生活真实需求打开了更多可能。据介绍，在出行领域，猎鹰驾辅、灵犀智舱持续升级、全面上车，行业首款为全球而生原生前装 Robotaxi 亮相，凌霄 eVTOL 让立体空域出行更加",
+    "published_dt_iso": "2026-10-19T16:39:33+08:00"
+  },
+  {
+    "title": "首发即国补：荣耀 Earbuds 耳夹式耳机 499 → 378 元，全天候舒适佩戴",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/619.htm",
+    "date": "2026-10-18",
+    "published_time": "23:47",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "荣耀新一代 Earbuds 耳夹式耳机将于今日开售，定价 499 元，首发到手价 449 元。评价返 10 元 E 卡（折合仅需 439 元），学生可再享 30 元教育优惠。部分地区支持政府补贴（例如广东、四川、吉林），实付低至 382 元，评价后折合 372 元：京东荣耀 Earbuds 耳夹式耳机抢先购首发 449 元直达链接京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。这款耳机主打全天候舒适佩戴，耳挂采用食品级亲肤硅胶，搭配天鹅颈曲线设计；单只耳机重 5.6 克，C 桥最窄处 3.2mm；获得 Hi-Res Wireless 金标认证，支持 LHDC 5.0 无损格式。IT之家获悉，这款耳机综合续航可达 40 小时，单次连续听歌可达 10 小时，充电 1",
+    "published_dt_iso": "2026-10-18T23:47:03+08:00"
+  },
+  {
+    "title": "iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/878.htm",
+    "date": "2026-10-19",
+    "published_time": "16:32",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "此为资源机，介意慎拍！iPhone 17 Pro Max 2TB 美版无锁权益机（双 esim）今日“京东数码海外自营旗舰店”裸机（不含数据线 + 京东包装非原封）直降至 9399 元。权益机 / 资源机是由苹果代工厂对苹果官方 7 天无理由退货以及产线上多余的原材料进行生产，经过产品工程师相应功能测试，且确保为 Apple 官方原装部件后，再由苹果全球合作伙伴进行销售。由于 Apple 授权工厂生产环节较多，无法保证机身无瑕疵，有可能会造成机身框、屏幕等存在划痕白点凹痕等外观瑕疵问题，介意慎拍。本次支持免费改双卡，不支持苹果官方保修，京东售后 1 年。京东 iPhone 17 Pro Max 2TB 美版无锁 需录开箱视频 9399 元直达链接京东 11.11 红包至高 26888 元无门",
+    "published_dt_iso": "2026-10-19T16:32:42+08:00"
+  },
+  {
+    "title": "卡普空 3 款作品获金摇杆奖“年度主机游戏”提名：含《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/014/877.htm",
+    "date": "2026-10-19",
+    "published_time": "16:28",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 10 月 19 日消息，金摇杆奖（Golden Joystick Awards）昨日公布“年度主机游戏”奖项提名，卡普空旗下 3 款作品《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》入围。IT之家附金摇杆奖年度主机游戏提名作品如下：《007：初露锋芒》《火焰之纹章万缕千丝》《极限竞速：地平线 6》《乐高蝙蝠侠：黑暗骑士之遗》《仁王 3》《鬼武者：剑之道》《宝可梦 Pokopia》《识质存在》《生化危机：安魂曲》《沙罗周期》金摇杆奖评选活动始于 1983 年，是最古老的游戏产业大奖之一。该奖最初由英国公众投票选出，现已成为一项可通过 GamesRadar+ 网站投票的全球活动。这个奖项最初只包含电脑游戏，后来扩展至主机游戏。",
+    "published_dt_iso": "2026-10-19T16:28:21+08:00"
+  },
+  {
+    "title": "直播海报：国新办就2026年前三季度工业和信息化发展情况举行新闻发布会",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717267.shtml",
+    "date": "2026-10-19",
+    "published_time": "16:42",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "",
+    "published_dt_iso": "2026-10-19T16:42:38+08:00"
+  },
+  {
+    "title": "2026（丙午）年海峡两岸同胞湖南共拜炎帝陵",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717229.shtml",
+    "date": "2026-10-19",
+    "published_time": "16:22",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社湖南株洲10月19日电 (付敬懿)2026(丙午)年海峡两岸炎帝神农文化交流大会19日在湖南炎陵县举行，两岸各界代表300余人齐聚中华民族始祖圣地炎帝陵，共拜始祖、共叙文脉、共话亲情。",
+    "published_dt_iso": "2026-10-19T16:22:17+08:00"
+  },
+  {
+    "title": "李强会见塔吉克斯坦总统拉赫蒙",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717216.shtml",
+    "date": "2026-10-19",
+    "published_time": "16:09",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "中新社杜尚别10月19日电 (记者 单璐)10月19日上午，中国国务院总理李强在杜尚别会见塔吉克斯坦总统拉赫蒙。",
+    "published_dt_iso": "2026-10-19T16:09:22+08:00"
+  },
+  {
+    "title": "长征精神何以穿越时空、历久弥新（人民论坛）",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/10-19/10717228.shtml",
+    "date": "2026-10-19",
+    "published_time": "16:04",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "前不久，上小学一年级的孩子放学回家，郑重其事地告诉我：“爸爸，今天我们要‘飞夺泸定桥’了。”原来，老师把课本的各个单元变成了长征路上的节点，印刻在书本首页，每次按照要求完成预习复习，就可以获得一枚“奖章”。",
+    "published_dt_iso": "2026-10-19T16:04:12+08:00"
   },
   {
     "title": "日美军演引争议：近6万人集结、多国首参演，日本民众忧虑难消",
@@ -968,160 +1496,6 @@
     "published_dt_iso": "2026-10-19T16:20:15+08:00"
   },
   {
-    "title": "极右翼崛起危及德国吸引外资努力",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111139",
-    "date": "2026-10-19",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "欧洲商界领袖警告，德国选择党近期在州选举中胜出，令人担忧德国政治稳定，包括担心本届德国政府还能不能兑现改革承诺。",
-    "published_dt_iso": "2026-10-19T00:00:00+08:00"
-  },
-  {
-    "title": "卢拉试图借助自拍视频扭转选情",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111138",
-    "date": "2026-10-19",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "曾坦承自己没有手机的巴西左翼总统，为了赢得总统大选第二轮投票而推出一系列自拍视频，包括他在健身房跑步机上对着镜头讲话的视频。",
-    "published_dt_iso": "2026-10-19T00:00:00+08:00"
-  },
-  {
-    "title": "数据中心债券遭抛售 AI发债人面对“达尔文时刻”",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111120",
-    "date": "2026-10-16",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "投资者对AI投资热潮带来的营收是否足以支撑巨额债务正在失去信心，为美国一些最大数据中心融资的债券已跌入压力区。",
-    "published_dt_iso": "2026-10-16T00:00:00+08:00"
-  },
-  {
-    "title": "苹果诉OpenAI窃取商业机密案首次举行听证会",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111109",
-    "date": "2026-10-15",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "苹果指控OpenAI及两名前苹果员工窃取其商业机密。这起震动硅谷的重磅诉讼首次举行实质性公开听证会。双方曾在两年前结成合作伙伴关系。",
-    "published_dt_iso": "2026-10-15T00:00:00+08:00"
-  },
-  {
-    "title": "9月美国通胀率跃升至3.7%",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111108",
-    "date": "2026-10-15",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "美国通胀率自5月以来首次上升。在中期选举临近之际，伊朗战争推动燃料价格反弹，增加了美国选民的压力。",
-    "published_dt_iso": "2026-10-15T00:00:00+08:00"
-  },
-  {
-    "title": "IEA：全球柴油价格还将上涨",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111106",
-    "date": "2026-10-15",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "国际能源署警告，未来几周欧洲、非洲和拉美的柴油价格可能再次上涨，全球柴油短缺将持续至明年年中，且有赖于中东恢复供应。",
-    "published_dt_iso": "2026-10-15T00:00:00+08:00"
-  },
-  {
-    "title": "中国月度出口额增长36%，AI相关贸易繁荣",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111098",
-    "date": "2026-10-14",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "9月进口额也大幅增长，高油价推高了进口账单。",
-    "published_dt_iso": "2026-10-14T00:00:00+08:00"
-  },
-  {
-    "title": "教皇入院接受肺部手术",
-    "title_zh": "",
-    "link": "https://www.ftchinese.com/story/001111096",
-    "date": "2026-10-14",
-    "published_time": "00:00",
-    "source": "FT中文网",
-    "feed_name": "FT中文网",
-    "summary": "利奥十四世周二前往罗马杰梅利医院，接受切除肺结节的手术。他就任教皇以来的首场健康危机令全球天主教信徒震惊。",
-    "published_dt_iso": "2026-10-14T00:00:00+08:00"
-  },
-  {
-    "title": "尊界V800“刹车门”：从产品安全之争到“恨国”论战",
-    "title_zh": "",
-    "link": "https://www.bbc.com/zhongwen/articles/cmje5y4254qdo/trad?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-19",
-    "published_time": "11:22",
-    "source": "BBC",
-    "feed_name": "BBC 中文",
-    "summary": "华为尊界V800刹车踏板断裂争议迅速升温，从产品安全问题延伸至“速成车”质疑、中美汽车技术比较，以及民族品牌形象之争。随着官媒下场评议，事件进一步演变为一场舆论与产业叙事的角力。",
-    "published_dt_iso": "2026-10-19T11:22:46+08:00"
-  },
-  {
-    "title": "乌克兰钢企老板称：欧盟对华关税殃及本国",
-    "title_zh": "",
-    "link": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-19",
-    "published_time": "12:33",
-    "source": "BBC",
-    "feed_name": "BBC 中文",
-    "summary": "乌克兰最大钢铁企业之一的负责人表示，在针对廉价进口产品的限制措施中，乌克兰被“一并捆绑”纳入相关管制范围。",
-    "published_dt_iso": "2026-10-19T12:33:11+08:00"
-  },
-  {
-    "title": "法国各地骚乱：19世纪历史建筑被焚毁  政客表态折射分歧",
-    "title_zh": "",
-    "link": "https://www.bbc.com/zhongwen/articles/cwvgd0z8l1p9o/trad?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-19",
-    "published_time": "11:58",
-    "source": "BBC",
-    "feed_name": "BBC 中文",
-    "summary": "法国总统马克龙在巴黎发生大规模骚乱和抢劫事件后发表全国演说。",
-    "published_dt_iso": "2026-10-19T11:58:25+08:00"
-  },
-  {
-    "title": "硅谷这座城市垃圾太臭居民受不了 就让科技来帮忙",
-    "title_zh": "",
-    "link": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-19",
-    "published_time": "08:08",
-    "source": "BBC",
-    "feed_name": "BBC 中文",
-    "summary": "垃圾场和工业设施散发的气味正受到更严格的监测，但这有帮助吗？",
-    "published_dt_iso": "2026-10-19T08:08:13+08:00"
-  },
-  {
-    "title": "BBC暂停公务员借调计划",
-    "title_zh": "",
-    "link": "https://www.bbc.com/zhongwen/articles/cq0mel7ep01xo/trad?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-19",
-    "published_time": "14:54",
-    "source": "BBC",
-    "feed_name": "BBC 中文",
-    "summary": "BBC表示，所有新闻及编辑决定均由BBC记者及编辑作出。",
-    "published_dt_iso": "2026-10-19T14:54:50+08:00"
-  },
-  {
-    "title": "游艇上的水上滑梯、泳池：卫星影像揭示的金正恩“夏宫”生活",
-    "title_zh": "",
-    "link": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-18",
-    "published_time": "08:31",
-    "source": "BBC",
-    "feed_name": "BBC 中文",
-    "summary": "BBC追踪了一艘长达80米、配有水上滑梯的船只，旨在进一步了解金正恩如何度过假期——这对大多数朝鲜人而言，是遥不可及的体验。",
-    "published_dt_iso": "2026-10-18T08:31:34+08:00"
-  },
-  {
     "title": "在美中国研究生涉毒害越南同学：大学与家属怎么说？",
     "title_zh": "",
     "link": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
@@ -1131,17 +1505,6 @@
     "feed_name": "BBC 中文",
     "summary": "美国怀俄明大学一名越南籍研究生的家属向BBC表示，受害人在办公室的咖啡机内发现神经毒剂后，至今仍出现疲倦、食欲不振及睡眠欠佳等健康问题。",
     "published_dt_iso": "2026-10-18T08:31:53+08:00"
-  },
-  {
-    "title": "我们的广告提到了“怀孕” 结果给 Instagram 下架了",
-    "title_zh": "",
-    "link": "https://www.bbc.com/zhongwen/articles/cr1ex0l8l9z5o/trad?at_medium=RSS&at_campaign=rss",
-    "date": "2026-10-19",
-    "published_time": "08:08",
-    "source": "BBC",
-    "feed_name": "BBC 中文",
-    "summary": "创作者们表示，她们在社群媒体上发布女性健康内容时遭到了“秘密封锁”，这背后究竟发生了什么事？",
-    "published_dt_iso": "2026-10-19T08:08:09+08:00"
   },
   {
     "title": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
@@ -1197,17 +1560,6 @@
     "feed_name": "纽约时报",
     "summary": "追逐发生在他的前妻和她的朋友被杀后的几天。新的细节揭示了暴徒可能在帮助辛普森先生方面发挥的作用。",
     "published_dt_iso": "2026-10-19T07:46:57+08:00"
-  },
-  {
-    "title": "Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal",
-    "title_zh": "特朗普捍卫放松对俄罗斯制裁的计划并暗示人质交易",
-    "link": "https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html",
-    "date": "2026-10-19",
-    "published_time": "08:05",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "作为和平谈判的一部分，总统周日为取消对俄罗斯近五年的制裁辩护。他没有说出任何人质的名字。",
-    "published_dt_iso": "2026-10-19T08:05:08+08:00"
   },
   {
     "title": "Zelensky Says Trump Risks ‘Historic Mistake’ If He Backs Russia",
@@ -2286,17 +2638,6 @@
     "feed_name": "纽约时报",
     "summary": "在反政府抗议活动陷入混乱之后，来自各政治派别的领导人互相指责骚乱，尽管骚乱在周日基本平息。",
     "published_dt_iso": "2026-10-18T23:48:40+08:00"
-  },
-  {
-    "title": "Why Are There Protests in France?",
-    "title_zh": "法国为什么会发生抗议活动？",
-    "link": "https://www.nytimes.com/article/france-student-protests-why.html",
-    "date": "2026-10-18",
-    "published_time": "23:15",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "周末，骚乱者袭击了市政厅和商店，抗议生活费用和学校条件恶劣。",
-    "published_dt_iso": "2026-10-18T23:15:49+08:00"
   },
   {
     "title": "3 Charts That Explain the Economy as Voters Head to the Polls",

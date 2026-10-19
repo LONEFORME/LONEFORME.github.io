@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-19 17:16 抓取更新</span>
+      <span>2026-10-19 18:41 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">58</span>
+        <span class="channel-count">56</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">13</span>
+        <span class="channel-count">11</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,32 +56,32 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">58</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">56</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×24 · IT之家×15</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×25 · IT之家×12</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/10-19/10717279.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社青岛10月19日电 题：做军舰“心脏”的守护者：一名蒙古族水兵的“长征”" data-title="（长征胜利90周年）做军舰“心脏”的守护者：一名蒙古族水兵的“长征”" data-date="10-19 17:11" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/10-19/10717282.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月19日电 题：长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”" data-title="习言道｜长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”" data-date="10-19 18:14" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 10-19 17:11</span>
+        <span class="hero-featured-date">🕒 10-19 18:14</span>
       </div>
-      <h2 class="hero-featured-title">（长征胜利90周年）做军舰“心脏”的守护者：一名蒙古族水兵的“长征”</h2>
+      <h2 class="hero-featured-title">习言道｜长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/10-19/10717266.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网10月19日电 国务院新闻办公室19日举行新闻发布会，商务部部长助理袁晓明表示，随着人民生活水平提升，消费者更加注重产品的品质和消费体验。根据商务部商务大数据显示，今年1-9月，重点平台智能眼镜销售额增长1.1倍。人工智能、物联网、区块链等新技术，在消费领域广泛应用，科技创新日益成为推动消费扩容升级的重要举措。" data-title="商务部：1" data-date="10-19 16:46" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/014/992.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 19 日消息，海光信息今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告：营业总收入：58.56 亿元，同比增长 45.46%归母净利润：10.48 亿元，同比增长 37.9%扣非净利润：9.53 亿元，同比增长 31.12%加权平均净资产收益率：4.05%基本每股收益：0.45 元，同比增长 36.36%稀释每股收益：0.45 元，同比增长 36.36% AI 解读本次业绩符合市场对于 AI 芯片高增长的预期，营收和净利润均实现较快增长。公司主营业务海光信息主要从事研发、设计和销售应用于服务器、工作站等计算、存储设备中的高端处理器，产品包括海光通用处理器 (CPU) 和海光协处理器 (DCU)，产品兼容 x86 指令集，软硬件生态丰富，在国" data-title="海光信息 2026 年第三季度归母净利润 10.48 亿元，同比增长 37.9%" data-date="10-19 18:36" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">商务部：1</p>
+      <p class="hero-sub-title">海光信息 2026 年第三季度归母净利润 10.48 亿元，同比增长 37.9%</p>
     </a>
     <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/oct/19/premier-league-10-talking-points-from-the-weekends-action" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="弗洛里安·维尔茨（ Florian Wirtz ）在利物浦的进攻中承担了更多的责任，而皮埃尔·塞奇（ Pierre Sage ）在水晶宫（ Crystal Palace ）承受着压力多米尼克·卡尔弗特-莱温（ Dominic Calvert-Lewin ）的身体状况在曼联（ Manchester United ）地区的一个角落里击败了布莱恩·姆博莫" data-title="Premier League: 10 talking points from the weekend’s action" data-date="10-19 15:00" data-source="卫报">
       <div class="hero-sub-meta">
@@ -90,12 +90,12 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">Premier League: 10 talking points from the weekend’s action</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/1/014/938.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，FlymeAIOS 今日透露，9 月，Flyme Auto 新增装机 154,206 辆，前三季度装机量超 1,326,000 辆，全球累计搭载超 3,594,000 辆。据IT之家此前报道，魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月，支持无缝接力、手机辅助 OTA、手机-汽车硬件互通共享硬件能力，支持手机寻车，支持平行视窗、小窗展示、跨端可见即可说等软件功能。Flyme Auto 2 发布于去年 8 月，带来了实况桌面 3D 质感、全场景一镜到底、Alive 壁纸、自定义桌面插件等功能，Aicy 大卡片、全新小窗模式提供了更轻量更高效的交互方式。AI 能力贯通整车全域，AI 读心术主动判断用户意图，自动完成常用操作，并且此次更新还" data-title="Flyme Auto 车机 9 月新增装机 15.4 万辆，累计搭载超 359 万辆" data-date="10-19 17:15" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="已经在民意调查中领先的全国集会显示自己是最适合恢复法律和秩序的政党。" data-title="France’s Far Right Seizes the Moment as Rioting Stuns the Country" data-date="10-19 18:30" data-source="纽约时报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
       </div>
-      <p class="hero-sub-title">Flyme Auto 车机 9 月新增装机 15.4 万辆，累计搭载超 359 万辆</p>
+      <p class="hero-sub-title">France’s Far Right Seizes the Moment as Rioting Stuns the Country</p>
     </a>
   </div>
 </div>
@@ -106,12 +106,41 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717282.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月19日电 题：长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”" data-title="习言道｜长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”" data-date="10-19 18:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 18:14</span>
+          <span class="news-item-title">习言道｜长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”</span>
+          <span class="news-value-point">💡 中新网10月19日电 题：长江上中下游共进退，习近平强调“一损俱损，一荣俱荣”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717314.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月19日电 据中央纪委国家监委驻中国移动纪检监察组、河北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国移动纪检监察组、河北省监委对中移(苏州)软件技术有限公司原党委书记、董事长方力严重违纪违法问题进行了立案审查调查。" data-title="中移（苏州）软件技术有限公司原董事长方力被“双开”" data-date="10-19 17:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 17:58</span>
+          <span class="news-item-title">中移（苏州）软件技术有限公司原董事长方力被“双开”</span>
+          <span class="news-value-point">💡 中新网10月19日电 据中央纪委国家监委驻中国移动纪检监察组、河北省纪委监委消息：日前，经中央纪委国家监委批准，中央纪委国家监委驻中国移动纪检监…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717311.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社江西景德镇10月19日电 (记者 刘占昆 李韵涵)以“世界遗产与文明对话”为主题的2026景德镇论坛19日在江西景德镇开幕，论坛邀请来自24个国家的89名外宾共话世界遗产保护与文明交流互鉴。" data-title="多国专家学者景德镇共话世界遗产保护" data-date="10-19 17:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 17:52</span>
+          <span class="news-item-title">多国专家学者景德镇共话世界遗产保护</span>
+          <span class="news-value-point">💡 中新社江西景德镇10月19日电 (记者 刘占昆 李韵涵)以“世界遗产与文明对话”为主题的2026景德镇论坛19日在江西景德镇开幕，论坛邀请来自2…</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717279.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社青岛10月19日电 题：做军舰“心脏”的守护者：一名蒙古族水兵的“长征”" data-title="（长征胜利90周年）做军舰“心脏”的守护者：一名蒙古族水兵的“长征”" data-date="10-19 17:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-19 17:11</span>
           <span class="news-item-title">（长征胜利90周年）做军舰“心脏”的守护者：一名蒙古族水兵的“长征”</span>
           <span class="news-value-point">💡 中新社青岛10月19日电 题：做军舰“心脏”的守护者：一名蒙古族水兵的“长征”</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/19/us/politics/republicans-ohio-turnout-election.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="为了提振参议员乔恩·赫斯特德（ Jon Husted ） ，他正处于争夺席位的激烈竞争中，一些正在进行就业宣传的共和党人已经转向关注社会主义。" data-title="Republicans in Ohio Are Worried About Turnout. Here’s What They’re Doing About it." data-date="10-19 17:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-19 17:03</span>
+          <span class="news-item-title">俄亥俄州的共和党人担心投票率。以下是他们正在做的事情。</span>
+          <span class="news-item-title-en">Republicans in Ohio Are Worried About Turnout. Here’s What They’re Doing About it.</span>
+          <span class="news-value-point">💡 为了提振参议员乔恩·赫斯特德（ Jon Husted ） ，他正处于争夺席位的激烈竞争中，一些正在进行就业宣传的共和党人已经转向关注社会主义</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717278.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月19日电 据中央纪委国家监委网站消息，经中共中央批准，中央纪委国家监委对中国人民保险集团股份有限公司原党委委员、副总裁俞小平严重违纪违法问题进行了立案审查调查。" data-title="中国人保原党委委员、副总裁俞小平被开除党籍" data-date="10-19 17:03" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -182,34 +211,6 @@ title: 热点新闻
           <span class="news-item-title">长征精神何以穿越时空、历久弥新（人民论坛）</span>
           <span class="news-value-point">💡 前不久，上小学一年级的孩子放学回家，郑重其事地告诉我：“爸爸，今天我们要‘飞夺泸定桥’了</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-19/10717184.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社东京10月19日电 据日本广播协会报道，日本首相高市早苗19日向靖国神社供奉“玉串料”(祭祀费)。" data-title="日本首相高市早苗向靖国神社供奉祭祀费" data-date="10-19 15:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 15:30</span>
-          <span class="news-item-title">日本首相高市早苗向靖国神社供奉祭祀费</span>
-          <span class="news-value-point">💡 中新社东京10月19日电 据日本广播协会报道，日本首相高市早苗19日向靖国神社供奉“玉串料”(祭祀费)</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-19/10717187.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月19日电 综合日媒报道，当地时间19日，日本首相高市早苗向供奉有二战甲级战犯的靖国神社供奉“玉串料”(祭祀费)。17日，高市早苗还曾向靖国神社供奉名为“真榊”的祭品。日本首相在靖国神社秋季大祭期间，先后供奉祭品和祭祀费，再度引发外界对日本政界历史认识问题的关注。" data-title="高市早苗三天内两次向靖国神社供奉，国内外批评声持续" data-date="10-19 15:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 15:16</span>
-          <span class="news-item-title">高市早苗三天内两次向靖国神社供奉，国内外批评声持续</span>
-          <span class="news-value-point">💡 中新网10月19日电 综合日媒报道，当地时间19日，日本首相高市早苗向供奉有二战甲级战犯的靖国神社供奉“玉串料”(祭祀费)</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-19/10717166.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月19日电 综合外媒报道，美国总统特朗普当地时间18日在社交媒体发文批评乌克兰袭击俄罗斯柴油炼油厂，称乌克兰总统泽连斯基可能从未想过结束俄乌战事。" data-title="特朗普批评泽连斯基：他可能从未想过结束俄乌战事" data-date="10-19 14:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 14:50</span>
-          <span class="news-item-title">特朗普批评泽连斯基：他可能从未想过结束俄乌战事</span>
-          <span class="news-value-point">💡 中新网10月19日电 综合外媒报道，美国总统特朗普当地时间18日在社交媒体发文批评乌克兰袭击俄罗斯柴油炼油厂，称乌克兰总统泽连斯基可能从未想过结…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-19/10717163.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="近期，国务院学位委员会办公室印发《关于做好专业学位研究生以实践成果申请学位工作的意见》(以下简称《意见》)。国务院学位委员会办公室(教育部学位管理与研究生教育司)负责人就有关问题回答了记者提问。" data-title="国务院学位办负责人就《关于做好专业学位研究生以实践成果申请学位工作的意见》答记者问" data-date="10-19 14:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 14:45</span>
-          <span class="news-item-title">国务院学位办负责人就《关于做好专业学位研究生以实践成果申请学位工作的意见》答记者问</span>
-          <span class="news-value-point">💡 近期，国务院学位委员会办公室印发《关于做好专业学位研究生以实践成果申请学位工作的意见》(以下简称《意见》)</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -217,6 +218,42 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/014/992.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 19 日消息，海光信息今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告：营业总收入：58.56 亿元，同比增长 45.46%归母净利润：10.48 亿元，同比增长 37.9%扣非净利润：9.53 亿元，同比增长 31.12%加权平均净资产收益率：4.05%基本每股收益：0.45 元，同比增长 36.36%稀释每股收益：0.45 元，同比增长 36.36% AI 解读本次业绩符合市场对于 AI 芯片高增长的预期，营收和净利润均实现较快增长。公司主营业务海光信息主要从事研发、设计和销售应用于服务器、工作站等计算、存储设备中的高端处理器，产品包括海光通用处理器 (CPU) 和海光协处理器 (DCU)，产品兼容 x86 指令集，软硬件生态丰富，在国" data-title="海光信息 2026 年第三季度归母净利润 10.48 亿元，同比增长 37.9%" data-date="10-19 18:36" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-19 18:36</span>
+          <span class="news-item-title">海光信息 2026 年第三季度归母净利润 10.48 亿元，同比增长 37.9%</span>
+          <span class="news-value-point">💡 IT之家 10 月 19 日消息，海光信息今日发布 2026 年第三季度（2026 年 7 月～2026 年 9 月）报告：营业总收入：58.5…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/014/990.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 19 日消息，梅赛德斯-奔驰与英伟达今日宣布，双方将深化战略合作，共同推动下一代辅助驾驶系统的开发。此次合作将融合梅赛德斯-奔驰的汽车工程技术、安全领域的积累及 MB.OS 操作系统，与英伟达的加速计算和 AI 技术。梅赛德斯-奔驰的 MB.OS 操作系统支持新增驾驶功能和空中下载（OTA）更新，并与 NVIDIA Hyperion 计算和传感器架构协同运行。NVIDIA Alpamayo Stack 提供具有 AI 推理能力的全栈驾驶软件，支持城市点到点辅助驾驶、主动安全及自动泊车。NVIDIA Halos 则进一步强化梅赛德斯-奔驰的安全体系，其中的并行安全技术栈能提供冗余和安全保障。这些技术将共同支持高级辅助驾驶功能，以及包括自动驾驶豪华轿车在内的未来 SAE-L4" data-title="梅赛德斯-奔驰与英伟达深化战略合作，共同推动下一代辅助驾驶系统开发" data-date="10-19 18:27" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-19 18:27</span>
+          <span class="news-item-title">梅赛德斯-奔驰与英伟达深化战略合作，共同推动下一代辅助驾驶系统开发</span>
+          <span class="news-value-point">💡 IT之家 10 月 19 日消息，梅赛德斯-奔驰与英伟达今日宣布，双方将深化战略合作，共同推动下一代辅助驾驶系统的开发</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/014/987.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 19 日消息，据游戏媒体 Insider Gaming 今天报道，Epic Games 首席执行官蒂姆 · 斯威尼呼吁玩家不要放弃《糖豆人》，并称本作正在进行大规模改造。IT之家从原报道获悉，《糖豆人》曾在 2020 年左右一炮而红，此后热度逐渐消退，缺乏重大更新是主要原因。即使这款游戏整合进《堡垒之夜》，也未能推动人气回升。斯威尼则对此表示：“我们正在进行大规模改造，让新的可能成为现实。”这名 CEO 并没有透露改造涉及哪些内容。不过鉴于 Epic Games 越来越积极地推动人工智能技术的应用，部分玩家猜测此次改造可能会涉及 AI。" data-title="Epic CEO 斯威尼呼吁玩家不要放弃《糖豆人》，称本作正进行大规模改造" data-date="10-19 18:25" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-19 18:25</span>
+          <span class="news-item-title">Epic CEO 斯威尼呼吁玩家不要放弃《糖豆人》，称本作正进行大规模改造</span>
+          <span class="news-value-point">💡 IT之家 10 月 19 日消息，据游戏媒体 Insider Gaming 今天报道，Epic Games 首席执行官蒂姆 · 斯威尼呼吁玩家不…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/014/977.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 19 日消息，个人开发者 ZHANG HANLIANG 制作的国产历史策略模拟游戏《崇祯模拟器 Demo》现已登陆 Steam 平台开启试玩，完整支持简体中文界面、字幕与音频。IT之家附游戏商品页（https://store.steampowered.com/app/5121940/）。崇祯十七年，大明风雨飘摇 —— 李自成揭竿西北，后金铁骑叩关辽东，国库空虚、党争不休、天灾连年。你将扮演大明最后一位皇帝崇祯，在这盘注定败局的棋上落子：批阅奏疏、平衡朝堂、调度钱粮、任免文武。每一位大臣都由 AI 驱动，会揣摩圣意、结党营私、阳奉阴违。你的每一道旨意都在改写历史 —— 是重蹈煤山自缢的覆辙，还是力挽狂澜、再造大明？该作核心特色为 AI 大模型驱动玩法：所有大臣 NPC 对话" data-title="国产 AI 历史模拟新游《崇祯模拟器 Demo》上架 Steam，免费试玩" data-date="10-19 18:13" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-19 18:13</span>
+          <span class="news-item-title">国产 AI 历史模拟新游《崇祯模拟器 Demo》上架 Steam，免费试玩</span>
+          <span class="news-value-point">💡 IT之家 10 月 19 日消息，个人开发者 ZHANG HANLIANG 制作的国产历史策略模拟游戏《崇祯模拟器 Demo》现已登陆 Stea…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-gaming-pc-with-an-rtx-5070-now-under-usd1-800-abs-flux-ii-aqua-rig-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd" target="_blank" rel="noopener" data-cat="keji" data-summary="这款ABS Flux II Aqua游戏PC上的Newegg优惠为您提供了一台1440p和4K游戏机，价格为$ 1,799.99。这款预先构建的产品配备20核英特尔酷睿i7-14700F CPU、英伟达GeForce RTX 5070、1TB固态硬盘和32GB DDR5内存。" data-title="Save $500 on this 1440p gaming PC with an RTX 5070, now under $1,800" data-date="10-19 18:01" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-19 18:01</span>
+          <span class="news-item-title">使用腾讯通5070 ，这款1440p游戏电脑可节省$ 500 ，现在低于$ 1,800</span>
+          <span class="news-item-title-en">Save $500 on this 1440p gaming PC with an RTX 5070, now under $1,800</span>
+          <span class="news-value-point">💡 这款ABS Flux II Aqua游戏PC上的Newegg优惠为您提供了一台1440p和4K游戏机，价格为$ 1,799.99</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717266.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网10月19日电 国务院新闻办公室19日举行新闻发布会，商务部部长助理袁晓明表示，随着人民生活水平提升，消费者更加注重产品的品质和消费体验。根据商务部商务大数据显示，今年1-9月，重点平台智能眼镜销售额增长1.1倍。人工智能、物联网、区块链等新技术，在消费领域广泛应用，科技创新日益成为推动消费扩容升级的重要举措。" data-title="商务部：1" data-date="10-19 16:46" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -290,49 +327,12 @@ title: 热点新闻
           <span class="news-item-title">索尼新专利曝光：AI 可在 GPU 渲染完成前预测下一帧画面，减少游戏卡顿</span>
           <span class="news-value-point">💡 IT之家 10 月 18 日消息，据科技媒体 TechSpot 今天报道，索尼最近申请一项专利，描绘以下场景：让 AI 在 GPU 完成渲染前预…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/614.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="华为 FreeClip 2 典藏版耳夹耳机今年 6 月 15 日正式开售，价格为 1499 元。今日京东可叠加 1200-100 元惊喜红包，大部分地区还可叠加政府补贴，实付 1146.8 元即可入手：领京东超级惊喜红包：点此领券（进入会场后大概率自动领）京东华为 FreeClip 2 典藏版耳夹耳机国补后 1146.8 元直达链接京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。典藏版与普通版主要区别为：配有独立 AI 实体按键（华为设备可唤醒小艺，苹果安卓可唤醒豆包 *）。充电舱为鎏光“球形珠宝盒”，采用真空镀膜工艺。耳机在盒内竖向并列摆放，更好拿取。耳机 C 形桥为“鎏光云感 C 桥”，带珠光质感。* 三方智能体具体信息详见：点此查看。这款新品于 6 月 1" data-title="1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低" data-date="10-18 23:07" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-18 23:07</span>
-          <span class="news-item-title">1499 → 1146.8 元：华为 FreeClip 2 典藏版耳夹耳机京东国补新低</span>
-          <span class="news-value-point">💡 华为 FreeClip 2 典藏版耳夹耳机今年 6 月 15 日正式开售，价格为 1499 元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/612.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 18 日消息，据首尔经济日报今日报道，三星电子将采用全球最大晶圆代工厂台积电的制造工艺，生产英伟达下一代定制高带宽内存（HBM）的核心组件 —— 基底裸片（base die）。在此之前，三星供应的所有 HBM 产品中，作为存储芯片的核心裸片（core die）与充当系统半导体的基底裸片，均由三星自主生产。如今三星决定接受英伟达的技术要求，调整 HBM 的一站式全包制造模式。业内消息人士 18 日称，英伟达已向三家 NVHBM 供应商 —— 三星电子、SK 海力士（000660.KS）和美光提出要求：使用台积电 3 纳米工艺制造基底裸片。英伟达同时要求，核心裸片统一采用代号 1c 的第六代 DRAM 工艺。NVHBM 基于第七代下一代 HBM 标准 HBM4E 架构开发，是" data-title="三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片" data-date="10-18 22:51" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-18 22:51</span>
-          <span class="news-item-title">三星将采用台积电 3nm 工艺为英伟达生产下一代 HBM 基底裸片</span>
-          <span class="news-value-point">💡 IT之家 10 月 18 日消息，据首尔经济日报今日报道，三星电子将采用全球最大晶圆代工厂台积电的制造工艺，生产英伟达下一代定制高带宽内存（HB…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers" target="_blank" rel="noopener" data-cat="keji" data-summary="巴西电子和IT分销商Oderço声称， Zotac RTX 5090 GPU的两个托盘已抵达机场，但此后已完全消失。" data-title="Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport" data-date="10-18 21:24" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-18 21:24</span>
-          <span class="news-item-title">Nvidia RTX 5090在巴西机场丢失价值47万$的货物</span>
-          <span class="news-item-title-en">Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport</span>
-          <span class="news-value-point">💡 巴西电子和IT分销商Oderço声称， Zotac RTX 5090 GPU的两个托盘已抵达机场，但此后已完全消失</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players" target="_blank" rel="noopener" data-cat="keji" data-summary="《半导体晶圆工厂工人的一天》是一款全新的3D网络游戏，在台湾流行开来。" data-title="Web-based chip fab engineering game goes viral in Taiwan" data-date="10-18 20:50" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-18 20:50</span>
-          <span class="news-item-title">基于网络的芯片晶圆厂工程游戏在台湾大行其道</span>
-          <span class="news-item-title-en">Web-based chip fab engineering game goes viral in Taiwan</span>
-          <span class="news-value-point">💡 《半导体晶圆工厂工人的一天》是一款全新的3D网络游戏，在台湾流行开来</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/504136.html" target="_blank" rel="noopener" data-cat="keji" data-summary="让人人都能自由创造并体验可交互世界" data-title="VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS" data-date="10-18 19:49" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-18 19:49</span>
-          <span class="news-item-title">VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS</span>
-          <span class="news-value-point">💡 让人人都能自由创造并体验可交互世界</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">13 条</span>
+      <span class="news-category-count">11 条</span>
     </div>
         <a class="news-item" href="https://www.theguardian.com/football/2026/oct/19/premier-league-10-talking-points-from-the-weekends-action" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="弗洛里安·维尔茨（ Florian Wirtz ）在利物浦的进攻中承担了更多的责任，而皮埃尔·塞奇（ Pierre Sage ）在水晶宫（ Crystal Palace ）承受着压力多米尼克·卡尔弗特-莱温（ Dominic Calvert-Lewin ）的身体状况在曼联（ Manchester United ）地区的一个角落里击败了布莱恩·姆博莫" data-title="Premier League: 10 talking points from the weekend’s action" data-date="10-19 15:00" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -422,22 +422,6 @@ title: 热点新闻
           <span class="news-item-title-en">Everything a struggle for Fernandes - Leeds v Man Utd ratings</span>
           <span class="news-value-point">💡 多米尼克·卡尔弗特-莱温（ Dominic Calvert-Lewin ）的下半场均衡器意味着曼联自2019年以来首次在六场比赛中没有获胜-找出…</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/18/how-to-watch-premier-league-nottingham-forest-arsenal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="诺丁汉森林队和阿森纳队今天的表现如何？以下是需要了解的内容，包括开球时间、电视频道和直播选项。而本赛季英超冠军争夺战的真正风险要等到曼城的结果才能确定。" data-title="Premier League today: How to watch Nottingham Forest v Arsenal, TV channels &amp; live stream" data-date="10-18 18:30" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-18 18:30</span>
-          <span class="news-item-title">今日英超联赛：如何观看Nottingham Forest v Arsenal、电视频道和直播</span>
-          <span class="news-item-title-en">Premier League today: How to watch Nottingham Forest v Arsenal, TV channels & live stream</span>
-          <span class="news-value-point">💡 诺丁汉森林队和阿森纳队今天的表现如何</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="切尔西守门员埃米利亚诺·马丁内斯（ Emiliano Martinez ）表示，在与贾拉德·布兰斯韦特（ Jarrad Branthwaite ）相撞后，他将在“几周内”回来。" data-title="Martinez breaks jaw in Chelsea win at Everton" data-date="10-18 17:42" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-18 17:42</span>
-          <span class="news-item-title">马丁内斯打破切尔西在埃弗顿的胜利</span>
-          <span class="news-item-title-en">Martinez breaks jaw in Chelsea win at Everton</span>
-          <span class="news-value-point">💡 切尔西守门员埃米利亚诺·马丁内斯（ Emiliano Martinez ）表示，在与贾拉德·布兰斯韦特（ Jarrad Branthwaite …</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -445,110 +429,113 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/014/938.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，FlymeAIOS 今日透露，9 月，Flyme Auto 新增装机 154,206 辆，前三季度装机量超 1,326,000 辆，全球累计搭载超 3,594,000 辆。据IT之家此前报道，魅族 Flyme Auto 车载软件系统发布于 2023 年 3 月，支持无缝接力、手机辅助 OTA、手机-汽车硬件互通共享硬件能力，支持手机寻车，支持平行视窗、小窗展示、跨端可见即可说等软件功能。Flyme Auto 2 发布于去年 8 月，带来了实况桌面 3D 质感、全场景一镜到底、Alive 壁纸、自定义桌面插件等功能，Aicy 大卡片、全新小窗模式提供了更轻量更高效的交互方式。AI 能力贯通整车全域，AI 读心术主动判断用户意图，自动完成常用操作，并且此次更新还" data-title="Flyme Auto 车机 9 月新增装机 15.4 万辆，累计搭载超 359 万辆" data-date="10-19 17:15" data-source="IT之家">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="已经在民意调查中领先的全国集会显示自己是最适合恢复法律和秩序的政党。" data-title="France’s Far Right Seizes the Moment as Rioting Stuns the Country" data-date="10-19 18:30" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-19 18:30</span>
+          <span class="news-item-title">法国的极右翼抓住了这一时刻，因为暴乱震惊了国家</span>
+          <span class="news-item-title-en">France’s Far Right Seizes the Moment as Rioting Stuns the Country</span>
+          <span class="news-value-point">💡 已经在民意调查中领先的全国集会显示自己是最适合恢复法律和秩序的政党</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/maker-stem/engineer-builds-tiny-3d-printed-single-motor-drone-in-their-bedroom-45-degree-hinged-rotor-and-sub-0-2ms-firmware-control-pitch-and-roll" target="_blank" rel="noopener" data-cat="zonghe" data-summary="约书亚·伯德（ Joshua Bird ）在他们的家中设计、建造和测试了这款无人机，甚至在高速旋转时使用自己的高速摄像机来检查其构造。" data-title="Engineer builds tiny 3D-printed single-motor drone in their bedroom" data-date="10-19 18:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-19 18:30</span>
+          <span class="news-item-title">工程师在卧室里制造微型3D打印单电机无人机</span>
+          <span class="news-item-title-en">Engineer builds tiny 3D-printed single-motor drone in their bedroom</span>
+          <span class="news-value-point">💡 约书亚·伯德（ Joshua Bird ）在他们的家中设计、建造和测试了这款无人机，甚至在高速旋转时使用自己的高速摄像机来检查其构造</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/014/988.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，开发团队 Daniel Mullins Games 宣布旗下经典 Roguelike 卡牌游戏《邪恶冥刻（Inscryption）》将登陆移动平台，目前团队正在进行移植工作，距离正式登陆应用商店仍需一段时间，开发团队预计将在未来几个月公布更多有关移动版本游戏的消息。对于玩家期待的新 DLC，Daniel Mullins Games 则明确表示“目前没有相应计划”，当前游戏“无论在叙事还是玩法层面，都已经是一部完整的作品”，开发团队“不希望仅仅为了增加内容或利用游戏的商业成功而继续扩充游戏”。公开信息显示，《邪恶冥刻》于 2021 年 10 月发售。本作好评率达 95%“好评如潮”，Steam 国区定价为 88 元，IT之家附游戏商品页（https://sto" data-title="经典 Roguelike 游戏《邪恶冥刻》将登陆移动平台，但暂无新 DLC 计划" data-date="10-19 18:25" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 17:15</span>
-          <span class="news-item-title">Flyme Auto 车机 9 月新增装机 15.4 万辆，累计搭载超 359 万辆</span>
-          <span class="news-value-point">💡 IT之家 10 月 19 日消息，FlymeAIOS 今日透露，9 月，Flyme Auto 新增装机 154,206 辆，前三季度装机量超 1…</span>
+          <span class="news-item-date">10-19 18:25</span>
+          <span class="news-item-title">经典 Roguelike 游戏《邪恶冥刻》将登陆移动平台，但暂无新 DLC 计划</span>
+          <span class="news-value-point">💡 IT之家 10 月 19 日消息，开发团队 Daniel Mullins Games 宣布旗下经典 Roguelike 卡牌游戏《邪恶冥刻（In…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/934.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，据汽车媒体 Motor1 今天报道，美国造车新势力 Rivian 最近启动自动驾驶早期体验计划，邀请小部分车主体验点对点辅助驾驶功能。IT之家从原报道获悉，所有订阅 Autonomy+ 付费服务的第二代 R1 或 R2 车主均可申请加入计划。Rivian 正按计划推进开发工作，目标年底前向公众推出首个测试版本，并在 2027 年进一步扩大覆盖范围。Rivian 表示，点对点辅助驾驶功能基于 Universal Hands-Free 系统打造。启用该功能后，车辆能实现的不只是保持车道行驶，而是能够自行完成道路汇入、转向等操作，进行完整的辅助驾驶。不过需要注意的是，这套系统仍然是 L2 级辅助驾驶，驾驶员必须集中注意力观察路面，随时做好接管准备。" data-title="美国造车新势力 Rivian 推出点到点辅助驾驶，年底开放测试" data-date="10-19 17:13" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 17:13</span>
-          <span class="news-item-title">美国造车新势力 Rivian 推出点到点辅助驾驶，年底开放测试</span>
-          <span class="news-value-point">💡 IT之家 10 月 19 日消息，据汽车媒体 Motor1 今天报道，美国造车新势力 Rivian 最近启动自动驾驶早期体验计划，邀请小部分车主…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/915.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，日本知名视觉小说工作室 Key 社今天宣布，其核心创作者麻枝准罹患咽喉癌。Key 社表示，麻枝准从今年春季开始感觉喉咙不适，进入夏季后，他的喉咙肿胀和疼痛症状逐渐加重。经医疗机构检查后，他被确诊为咽喉癌。麻枝准反复考虑自身病情和治疗前景后，希望尽可能保留自身精力专注于创作活动。因此他决定不接受积极治疗，而是选择以姑息治疗为主的疗养方式。同时，麻枝准正在负责《炽焰天穹》游戏的剧情撰写和音乐制作，同时在构想全新音乐项目。他已经完成《绯染天空》主线剧情第六章前篇部分，直至第六章完结的主要部分也已经全部创作完成。并且，本作第六章前篇相关歌曲的作词和作曲工作也已完成。随着病情发展，麻枝准本人可能无法完成以后的剧情和音乐制作。此外，麻枝准还在构想一个全新音乐项目。确诊咽" data-title="Key 社核心作者麻枝准罹患咽喉癌：本人选择放弃积极治疗，专注更新《炽焰天穹》、制作全新音乐项目" data-date="10-19 17:01" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 17:01</span>
-          <span class="news-item-title">Key 社核心作者麻枝准罹患咽喉癌：本人选择放弃积极治疗，专注更新《炽焰天穹》、制作全新音乐项目</span>
-          <span class="news-value-point">💡 IT之家 10 月 19 日消息，日本知名视觉小说工作室 Key 社今天宣布，其核心创作者麻枝准罹患咽喉癌</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717265.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京10月19日电 (记者 孙自法)由中国科学院心理研究所主办、该所国民心理健康评估发展中心承办的“圆梦工程”农村未成年人心理健康教育三周年成果展，10月19日在北京海淀中关村融科资讯中心·融空间开幕，来自全国各地参与2026年度“圆梦工程”艺术疗育课堂上创作的400余幅作品将持续展出至11月6日，线上云展同步上线。" data-title="农村未成年人心理健康教育三周年 “圆梦工程”专题成果展在北京开幕" data-date="10-19 16:43" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-19/10717326.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网10月19日电 据韩联社报道，旅韩双胞胎大熊猫“睿宝”和“辉宝”与公众见面的活动将于12月11日截止。" data-title="“睿宝”“辉宝”回国进入倒计时！爱宝乐园公布最新安排" data-date="10-19 18:14" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 16:43</span>
-          <span class="news-item-title">农村未成年人心理健康教育三周年 “圆梦工程”专题成果展在北京开幕</span>
-          <span class="news-value-point">💡 中新网北京10月19日电 (记者 孙自法)由中国科学院心理研究所主办、该所国民心理健康评估发展中心承办的“圆梦工程”农村未成年人心理健康教育三周…</span>
+          <span class="news-item-date">10-19 18:14</span>
+          <span class="news-item-title">“睿宝”“辉宝”回国进入倒计时！爱宝乐园公布最新安排</span>
+          <span class="news-value-point">💡 中新网10月19日电 据韩联社报道，旅韩双胞胎大熊猫“睿宝”和“辉宝”与公众见面的活动将于12月11日截止</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/878.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="此为资源机，介意慎拍！iPhone 17 Pro Max 2TB 美版无锁权益机（双 esim）今日“京东数码海外自营旗舰店”裸机（不含数据线 + 京东包装非原封）直降至 9399 元。权益机 / 资源机是由苹果代工厂对苹果官方 7 天无理由退货以及产线上多余的原材料进行生产，经过产品工程师相应功能测试，且确保为 Apple 官方原装部件后，再由苹果全球合作伙伴进行销售。由于 Apple 授权工厂生产环节较多，无法保证机身无瑕疵，有可能会造成机身框、屏幕等存在划痕白点凹痕等外观瑕疵问题，介意慎拍。本次支持免费改双卡，不支持苹果官方保修，京东售后 1 年。京东 iPhone 17 Pro Max 2TB 美版无锁 需录开箱视频 9399 元直达链接京东 11.11 红包至高 26888 元无门" data-title="iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡" data-date="10-19 16:32" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/014/976.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，改编自“天下霸唱经典悬疑 IP”的首部悬疑探险真人互动影游《天坑追匪》试用版 Demo 现已登陆 Steam 平台，当前试玩版可免费下载体验。IT之家附游戏商品页（https://store.steampowered.com/app/4508040/_Demo/?l=schinese&amp;cc=cn）。据介绍，本作由杭州天阙采样文化传媒游戏公司、Liquid Meow 开发，一相逢互动娱乐、华智数媒发行，改编自天下霸唱《天坑追匪》原著小说，故事设定发生在 1954 年的东北老爷岭，联合科考队坠入天坑全员失联，玩家将扮演搜救队长赵工，在密林与地底绝境中做出关键抉择，逐步揭开天坑背后隐藏的秘密。密林之中危机四伏，诡异异兽暗中窥视，队伍内部立场交错、人心难测。一场塌方" data-title="“天下霸唱 IP 改编”悬疑探险真人互动影游《天坑追匪》Demo 上架 Steam，免费试玩" data-date="10-19 18:13" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 16:32</span>
-          <span class="news-item-title">iPhone 17 Pro Max 2TB 美版 9339 元京东再降价，支持免费改双卡</span>
-          <span class="news-value-point">💡 此为资源机，介意慎拍</span>
+          <span class="news-item-date">10-19 18:13</span>
+          <span class="news-item-title">“天下霸唱 IP 改编”悬疑探险真人互动影游《天坑追匪》Demo 上架 Steam，免费试玩</span>
+          <span class="news-value-point">💡 IT之家 10 月 19 日消息，改编自“天下霸唱经典悬疑 IP”的首部悬疑探险真人互动影游《天坑追匪》试用版 Demo 现已登陆 Steam …</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/877.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，金摇杆奖（Golden Joystick Awards）昨日公布“年度主机游戏”奖项提名，卡普空旗下 3 款作品《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》入围。IT之家附金摇杆奖年度主机游戏提名作品如下：《007：初露锋芒》《火焰之纹章万缕千丝》《极限竞速：地平线 6》《乐高蝙蝠侠：黑暗骑士之遗》《仁王 3》《鬼武者：剑之道》《宝可梦 Pokopia》《识质存在》《生化危机：安魂曲》《沙罗周期》金摇杆奖评选活动始于 1983 年，是最古老的游戏产业大奖之一。该奖最初由英国公众投票选出，现已成为一项可通过 GamesRadar+ 网站投票的全球活动。这个奖项最初只包含电脑游戏，后来扩展至主机游戏。" data-title="卡普空 3 款作品获金摇杆奖“年度主机游戏”提名：含《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》" data-date="10-19 16:28" data-source="IT之家">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717321.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网绵阳10月19日电 题：单德朋：石椅村给民族地区乡村振兴带来了哪些启示？" data-title="单德朋：石椅村给民族地区乡村振兴带来了哪些启示？" data-date="10-19 18:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 18:11</span>
+          <span class="news-item-title">单德朋：石椅村给民族地区乡村振兴带来了哪些启示？</span>
+          <span class="news-value-point">💡 中新网绵阳10月19日电 题：单德朋：石椅村给民族地区乡村振兴带来了哪些启示</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717319.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海10月19日电 (记者 缪璐)10月17日至18日，由中华全国台湾同胞联谊会台胞部和上海市台湾同胞联谊会共同主办的2026在沪高校台湾学子迎新活动在沪举行，来自沪上16所高校的近110名台生齐聚宝山，通过城市研学、结对交流、主题座谈、联谊联欢等丰富活动，开启在沪交流新篇章。" data-title="2026在沪高校台湾学子迎新活动举行" data-date="10-19 18:10" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-19 18:10</span>
+          <span class="news-item-title">2026在沪高校台湾学子迎新活动举行</span>
+          <span class="news-value-point">💡 中新网上海10月19日电 (记者 缪璐)10月17日至18日，由中华全国台湾同胞联谊会台胞部和上海市台湾同胞联谊会共同主办的2026在沪高校台湾…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/014/975.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，任天堂近期在欧洲推出了支持便捷更换电池的新版 Switch 2，技术人员 modyfikatorcasper 在对相应型号进行拆解后发现，该机并未换用传闻中的夏普 LCD 面板，仍使用群创光电（Innolux）面板。除主板和电池仓设计外，新版 Switch 2 的变化较为有限。新机更换了风扇，可能对散热表现产生一定影响，但目前尚无证据表明其性能有明显改善。机身 RAM 内存容量仍为 12GB，只是内存供应商有所变化。因此，玩家不太可能从这次硬件调整中获得明显的性能提升。此次改版的主要意义仍在于提升维修便利性。与此同时，有迹象显示，任天堂可能会将相应版本机型推向其他市场，目前型号为 BEE-001 (-01) 的 Switch 2 机型已出现在美国联邦通信委员" data-title="技术人员拆解任天堂 Switch 2 可换电池版：仍使用群创光电面板、内存供应商有所变化" data-date="10-19 18:09" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 16:28</span>
-          <span class="news-item-title">卡普空 3 款作品获金摇杆奖“年度主机游戏”提名：含《鬼武者：剑之道》《识质存在》《生化危机：安魂曲》</span>
-          <span class="news-value-point">💡 IT之家 10 月 19 日消息，金摇杆奖（Golden Joystick Awards）昨日公布“年度主机游戏”奖项提名，卡普空旗下 3 款作…</span>
+          <span class="news-item-date">10-19 18:09</span>
+          <span class="news-item-title">技术人员拆解任天堂 Switch 2 可换电池版：仍使用群创光电面板、内存供应商有所变化</span>
+          <span class="news-value-point">💡 IT之家 10 月 19 日消息，任天堂近期在欧洲推出了支持便捷更换电池的新版 Switch 2，技术人员 modyfikatorcasper …</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717248.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网拉萨10月19日电(白玛玉珍)2026年西藏自治区田径耐力性项目青少年夏令营暨业余体校对抗赛于10月19日至22日在拉萨市举办。来自全区七市地重点业余体校及西藏自治区体育运动技术学校的180余名运动员、教练员参赛。" data-title="西藏举办青少年田径夏令营暨业余体校对抗赛 创新模式选拔后备人才" data-date="10-19 16:23" data-source="中国新闻网">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/space/russian-military-satellite-closes-from-200-miles-to-3-miles-of-us-radar-satellite-aiding-ukraine-astronomer-says-it-may-be-the-first-unapproved-rendezvous-in-low-earth-orbit" target="_blank" rel="noopener" data-cat="zonghe" data-summary="俄罗斯的Cosmos 2612从美国拥有的雷达卫星ICEYE-X36的200多英里移动到约3英里。" data-title="Russian military satellite closes from 200 miles to 3 miles of US radar craft aiding Ukraine" data-date="10-19 18:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-19 18:00</span>
+          <span class="news-item-title">俄罗斯军用卫星关闭200至3英里的美国雷达船协助乌克兰</span>
+          <span class="news-item-title-en">Russian military satellite closes from 200 miles to 3 miles of US radar craft aiding Ukraine</span>
+          <span class="news-value-point">💡 俄罗斯的Cosmos 2612从美国拥有的雷达卫星ICEYE-X36的200多英里移动到约3英里</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717315.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社福建莆田10月19日电 (郑江洛)“四海归心”妈祖文化海外传播项目启动仪式19日在福建莆田湄洲岛妈祖行宫举行。" data-title="“四海归心”妈祖文化海外传播项目在莆田启动" data-date="10-19 17:58" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 16:23</span>
-          <span class="news-item-title">西藏举办青少年田径夏令营暨业余体校对抗赛 创新模式选拔后备人才</span>
-          <span class="news-value-point">💡 中新网拉萨10月19日电(白玛玉珍)2026年西藏自治区田径耐力性项目青少年夏令营暨业余体校对抗赛于10月19日至22日在拉萨市举办</span>
+          <span class="news-item-date">10-19 17:58</span>
+          <span class="news-item-title">“四海归心”妈祖文化海外传播项目在莆田启动</span>
+          <span class="news-value-point">💡 中新社福建莆田10月19日电 (郑江洛)“四海归心”妈祖文化海外传播项目启动仪式19日在福建莆田湄洲岛妈祖行宫举行</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717244.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网重庆10月19日电 (梁钦卿)重庆市气象局副局长周国兵19日在重庆市政府新闻办举行的政策例行吹风会上介绍，聚焦防灾减灾，川渝两地织密流域联防“一张网”，已划定川东北渝东北、合广长碚、涪江中下游、川南渝西四大联防片区，实现毗邻区县气象联防全覆盖。" data-title="川渝织密流域联防“一张网” 实现毗邻区县气象联防全覆盖" data-date="10-19 16:22" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717310.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网武汉10月19日电 (记者 梁婷)湖北省防汛抗旱指挥部办公室19日发布黄色山洪灾害气象预警。预计19日8时至20日8时，该省部分地区存在山洪灾害风险。" data-title="湖北发布山洪灾害气象预警" data-date="10-19 17:51" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 16:22</span>
-          <span class="news-item-title">川渝织密流域联防“一张网” 实现毗邻区县气象联防全覆盖</span>
-          <span class="news-value-point">💡 中新网重庆10月19日电 (梁钦卿)重庆市气象局副局长周国兵19日在重庆市政府新闻办举行的政策例行吹风会上介绍，聚焦防灾减灾，川渝两地织密流域联…</span>
+          <span class="news-item-date">10-19 17:51</span>
+          <span class="news-item-title">湖北发布山洪灾害气象预警</span>
+          <span class="news-value-point">💡 中新网武汉10月19日电 (记者 梁婷)湖北省防汛抗旱指挥部办公室19日发布黄色山洪灾害气象预警</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717176.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网怀化10月19日电 (张建雄 滕雪慧)湖南麻阳苗族自治县19日透露，10月25日，“张雪机车”创始人张雪将驾驶改装摩托车张雪机车MX450，在该县郭公坪镇小坡村挑战拟定40公里距离的“改装摩托车在开阔水域行驶最远距离”吉尼斯世界纪录。" data-title="张雪将在麻阳挑战机车水上漂吉尼斯世界纪录" data-date="10-19 15:08" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717307.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网鄂州10月19日电 (武一力 王星予 李慧敏)一架装载着国际文物珍品的全货机19日凌晨从亚洲最大专业货运机场——湖北鄂州花湖国际机场起飞，直达法国巴黎戴高乐国际机场。" data-title="湖北鄂州花湖机场首次保障国际文物珍品跨境运输" data-date="10-19 17:49" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 15:08</span>
-          <span class="news-item-title">张雪将在麻阳挑战机车水上漂吉尼斯世界纪录</span>
-          <span class="news-value-point">💡 中新网怀化10月19日电 (张建雄 滕雪慧)湖南麻阳苗族自治县19日透露，10月25日，“张雪机车”创始人张雪将驾驶改装摩托车张雪机车MX450…</span>
+          <span class="news-item-date">10-19 17:49</span>
+          <span class="news-item-title">湖北鄂州花湖机场首次保障国际文物珍品跨境运输</span>
+          <span class="news-value-point">💡 中新网鄂州10月19日电 (武一力 王星予 李慧敏)一架装载着国际文物珍品的全货机19日凌晨从亚洲最大专业货运机场——湖北鄂州花湖国际机场起飞，…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/836.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，据央视新闻报道，在陕西西安雁塔法院审结的一起“不当得利纠纷”案中，游戏公司在返还未成年人充值退款后，却因为转账时操作失误，多退了三万多元。面对这笔“意外之财”，对方不仅拒不返还，而且在庭审中还使用 AI 伪造通话录音试图蒙混过关。小涵（化名）使用游戏平台充值了约 5 万元，其母亲刘某将游戏公司诉至广州某法院。经法院调解，双方达成协议：游戏公司按 30% 的比例退还 15695.4 元。然而，游戏公司工作人员在操作退款时出现失误，实际退还了 49323 元，比约定金额多退了 33627.6 元。发现失误后，游戏公司立即联系刘某，要求返还多退的款项，但遭到拒绝。无奈之下，游戏公司将刘某诉至西安市雁塔区人民法院。庭审中，被告刘某辩称，游戏公司已经通过电话同意免除其" data-title="游戏公司未成年退款多退三万元，对方拒不返还、AI 伪造录音被当庭训诫" data-date="10-19 15:08" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 15:08</span>
-          <span class="news-item-title">游戏公司未成年退款多退三万元，对方拒不返还、AI 伪造录音被当庭训诫</span>
-          <span class="news-value-point">💡 IT之家 10 月 19 日消息，据央视新闻报道，在陕西西安雁塔法院审结的一起“不当得利纠纷”案中，游戏公司在返还未成年人充值退款后，却因为转账…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/834.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，据韩媒 The Elec 报道，韩国外卖平台 Baedal Minjok（배달의민족）旗下约 201 名骑手的个人信息近日被发现暴露在一家配送外包公司的网站服务器中，相关数据无需身份验证即可从外部访问。据报道，相应配送外包公司的网站旨在让骑手查询配送业绩，正常情况下用户需要输入姓名、电话号码末尾几位数字以及密码才能查看相关信息。然而，存储个人信息的数据文件夹却没有设置独立的身份验证机制，因此外部人员只需在网站地址后添加特定路径，就能直接访问相关数据，Baedal Minjok 的运营商 Woowa Brothers 对此回应称：“此事与我们的服务没有直接关系。”目前，相关信息泄露事件的具体影响范围及后续处理情况尚待进一步确认。" data-title="因配送外包公司网站验证机制设置不当，韩国外卖平台 Baedal Minjok 旗下约 201 名骑手信息遭曝光" data-date="10-19 15:04" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 15:04</span>
-          <span class="news-item-title">因配送外包公司网站验证机制设置不当，韩国外卖平台 Baedal Minjok 旗下约 201 名骑手信息遭曝光</span>
-          <span class="news-value-point">💡 IT之家 10 月 19 日消息，据韩媒 The Elec 报道，韩国外卖平台 Baedal Minjok（배달의민족）旗下约 201 名骑手的…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717170.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网乌鲁木齐10月19日电 (胡嘉琛)“我们是一家人，以后一定要常来常往。”19日，结束“看海之约”返回新疆阿克陶县的牧民麦麦提萨伍提·亚森接受中新网采访时，反复说起与深圳“摩友”道别时的约定——“帕米尔高原再见”。" data-title="新疆牧民与深圳“摩友”的双向奔赴" data-date="10-19 15:02" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717305.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网广州10月19日电 (记者 蔡敏婕)19日，广韶高速北段改扩建项目成功架设首片预制梁，标志着项目进入桥梁上部结构施工阶段。" data-title="广韶高速北段改扩建架起首片预制梁 粤北出省大通道建设提速" data-date="10-19 17:44" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 15:02</span>
-          <span class="news-item-title">新疆牧民与深圳“摩友”的双向奔赴</span>
-          <span class="news-value-point">💡 中新网乌鲁木齐10月19日电 (胡嘉琛)“我们是一家人，以后一定要常来常往</span>
+          <span class="news-item-date">10-19 17:44</span>
+          <span class="news-item-title">广韶高速北段改扩建架起首片预制梁 粤北出省大通道建设提速</span>
+          <span class="news-value-point">💡 中新网广州10月19日电 (记者 蔡敏婕)19日，广韶高速北段改扩建项目成功架设首片预制梁，标志着项目进入桥梁上部结构施工阶段</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717167.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网南京10月19日电 (记者 徐珊珊)“百万青年聚金陵·百校巡回招引”东南大学专场活动近日在东南大学九龙湖校区举行。活动集城市宣介、专场招聘、主题市集于一体，向高校青年学子发出“选择南京、扎根金陵”的诚挚邀约。" data-title="110家单位携2500个岗位揽才 南京向青年学子发出邀约" data-date="10-19 15:01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717302.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网永州10月19日电(高志坚 朱玲敏)在湖南省江华瑶族自治县清塘村居家养老服务中心内，八角桌上油茶热气升腾，“瑶都红”志愿者正为老人们摆放水果、零食。" data-title="湖南江华建99所村级养老中心 互助养老温暖瑶山老人" data-date="10-19 17:43" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 15:01</span>
-          <span class="news-item-title">110家单位携2500个岗位揽才 南京向青年学子发出邀约</span>
-          <span class="news-value-point">💡 中新网南京10月19日电 (记者 徐珊珊)“百万青年聚金陵·百校巡回招引”东南大学专场活动近日在东南大学九龙湖校区举行</span>
+          <span class="news-item-date">10-19 17:43</span>
+          <span class="news-item-title">湖南江华建99所村级养老中心 互助养老温暖瑶山老人</span>
+          <span class="news-value-point">💡 中新网永州10月19日电(高志坚 朱玲敏)在湖南省江华瑶族自治县清塘村居家养老服务中心内，八角桌上油茶热气升腾，“瑶都红”志愿者正为老人们摆放水…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717173.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中国新闻周刊记者：徐鹏远" data-title="顾彬：跟李白“坐在一起喝酒”" data-date="10-19 14:59" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-19/10717297.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网永州10月19日电(田海忠 谢文彬)近日，湖南江永县10.5万亩晚稻迎来集中开镰收割。在上江圩镇万亩双季稻高标准示范片，连片稻田翻涌金色稻浪，联合收割机往来穿梭，一派繁忙秋收图景。" data-title="湖南江永10.5万亩晚稻开镰 全程托管助粮农稳产增收" data-date="10-19 17:42" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-19 14:59</span>
-          <span class="news-item-title">顾彬：跟李白“坐在一起喝酒”</span>
-          <span class="news-value-point">💡 中国新闻周刊记者：徐鹏远</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/014/832.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 19 日消息，腾讯官方今天宣布，旗下人工智能管家 Marvis（马维斯）已上架麒麟软件商店，面向银河麒麟桌面操作系统版本：V10SP1（X86、ARM），支持多款国产 CPU 和主流计算平台。IT之家了解到，Marvis 是一款操作系统层级的个人 AI 管家，它可以直接操控电脑，执行调整屏幕亮度、切换深色模式等。例如用户可以向它提问：“鼠标用着怎么不跟手，帮我调下”，小马就会自行尝试诊断问题。同时，Marvis 还可以按指令打开“安全中心”进行安全体检、病毒查杀和漏洞修复，也可以调用“麒麟管家”进行垃圾清理、故障诊断。或者在官方渠道安装 / 卸载软件。此外，该软件还拥有系统运维、本地文档智能检索处理、任务自动化及跨端远控等功能。用户哪怕离开电脑，也可以通过 Marvis" data-title="腾讯 AI 管家 Marvis（马维斯）上架麒麟软件商店，深度适配国产操作系统" data-date="10-19 14:59" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-19 14:59</span>
-          <span class="news-item-title">腾讯 AI 管家 Marvis（马维斯）上架麒麟软件商店，深度适配国产操作系统</span>
-          <span class="news-value-point">💡 IT之家 10 月 19 日消息，腾讯官方今天宣布，旗下人工智能管家 Marvis（马维斯）已上架麒麟软件商店，面向银河麒麟桌面操作系统版本：V…</span>
+          <span class="news-item-date">10-19 17:42</span>
+          <span class="news-item-title">湖南江永10.5万亩晚稻开镰 全程托管助粮农稳产增收</span>
+          <span class="news-value-point">💡 中新网永州10月19日电(田海忠 谢文彬)近日，湖南江永县10.5万亩晚稻迎来集中开镰收割</span>
         </a>
   </div>
 </div>
@@ -681,4 +668,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-19 17:16（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-19 18:41（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
