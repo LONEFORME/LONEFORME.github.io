@@ -141,7 +141,7 @@ title: 项目
     </span>
     <h2>全栈 Web · 认证基础设施</h2>
   </div>
-  <p class="group-desc">React + Express + Prisma 的前后端一体认证底座。注册、登录、令牌轮换、登出、改密、RBAC 与受保护资源 CRUD 全链路可跑，配有 33 项接口冒烟与 GitHub Actions CI。</p>
+  <p class="group-desc">React + Express + Prisma 的前后端一体认证底座。注册、登录、令牌轮换、登出、改密、RBAC 与受保护资源 CRUD 全链路可跑，配有 33 项接口冒烟与 GitHub Actions CI。代码与文档由 AI 自动生成，作者负责需求、验证与验收。</p>
 
   <div class="card-grid">
     <div class="card" data-tags="全栈 Web 认证">
@@ -159,7 +159,7 @@ title: 项目
       <div class="card-footer-row">
         <a href="https://github.com/LONEFORME/nimbus-auth" target="_blank" rel="noopener" class="card-link">查看项目</a>
         <a href="https://github.com/LONEFORME/nimbus-auth/blob/main/docs/login.png" target="_blank" rel="noopener" class="card-link">界面预览</a>
-        <span class="card-status">MIT 开源</span>
+        <span class="card-status">AI 生成 · MIT 开源</span>
       </div>
     </div>
   </div>

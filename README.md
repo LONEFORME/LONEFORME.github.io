@@ -235,7 +235,7 @@ python scripts/news_digest.py
 | [embedded-board-reference](https://loneforme.github.io/docs) | 🔒 内部资产 | 嵌入式开发板配置参考（7款板卡矩阵、Fast DDS Discovery Server 与 AI Skill v2.44） |
 | [xiyue-drone](https://loneforme.github.io/videos) | 🔒 专有/演示 | 2025 年电赛无人机全栈方案（STM32F405 + 树莓派上位机 + DFS/Dijkstra 绕障规划） |
 | [3d-models](https://loneforme.github.io/3d-viewer) | 🔒 在线预览 | 3D 打印模型库（195+ 款精细模型、SolidWorks 零件源文件；站内 WebGL 预览收录 74 款 STL） |
-| [nimbus-auth](https://github.com/LONEFORME/nimbus-auth) | 开源 | Nimbus 全栈认证脚手架（React 19 + Express + Prisma/SQLite，JWT 轮换 / 重放检测 / RBAC，33 项冒烟 + GitHub Actions CI） |
+| [nimbus-auth](https://github.com/LONEFORME/nimbus-auth) | 开源 | Nimbus 全栈认证脚手架（AI 自动生成；React 19 + Express + Prisma/SQLite，JWT 轮换 / 重放检测 / RBAC，33 项冒烟 + GitHub Actions CI） |
 
 ---
 
