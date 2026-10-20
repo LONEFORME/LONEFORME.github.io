@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-20 20:51（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-21 01:23（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,566.99</span>
-      <span class="ticker-change up">▲ +0.13%</span>
+      <span class="ticker-price ticker-up">29,574.66</span>
+      <span class="ticker-change up">▲ +0.15%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-20 22:15:33（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-21 01:24:20（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6745</span>
+      <span class="ticker-price ticker-down">6.6750</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg73494" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,8.4 L25.3,7.0 L46.7,6.0 L68.0,17.8 L89.3,15.6 L110.7,19.1 L132.0,14.3 L153.3,21.5 L174.7,26.4 L196.0,38.0 L196,40 Z" fill="url(#sg73494)"/><polyline points="4.0,8.4 25.3,7.0 46.7,6.0 68.0,17.8 89.3,15.6 110.7,19.1 132.0,14.3 153.3,21.5 174.7,26.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg49796" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,8.5 L25.3,7.0 L46.7,6.0 L68.0,18.1 L89.3,15.8 L110.7,19.3 L132.0,14.5 L153.3,21.8 L174.7,26.7 L196.0,38.0 L196,40 Z" fill="url(#sg49796)"/><polyline points="4.0,8.5 25.3,7.0 46.7,6.0 68.0,18.1 89.3,15.8 110.7,19.3 132.0,14.5 153.3,21.8 174.7,26.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:15:27（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:24:17（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,132.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -7.57 (-0.18%)</span>
+      <span class="ticker-price ticker-down">$4,122.67 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -17.78 (-0.43%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:15:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:24:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥889.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.37 (-0.04%)</span>
+      <span class="ticker-price ticker-down">¥887.22 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -2.35 (-0.26%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:15:29（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:23:35（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$108.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.16 (-1.06%)</span>
+      <span class="ticker-price ticker-down">$108.56 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.99 (-0.90%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:15:43（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:24:22（非实时）</div>
   </div>
 </div>
 
@@ -493,67 +493,43 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-20/10718086.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口10月20日电(记者 符宇群)海南近日出台建筑业高质量发展新政，在确保质量和安全的前提下，以“无事不扰、无处不在”为导向优化监管和验收服务，最大限度降低对企业正常生产活动的影响。" data-title="海南优化建筑业监管验收服务 做到“无事不扰、无处不在”" data-date="10-20 20:26" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/015/614.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 20 日消息，奇妙工具箱今日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量突破 9,500 万台，目前约 95,288,247 台。据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长，预计将在今年冬季前突破 1 亿大关。另外，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端设备数突破 9000 万。华为官网披露，截至 2026 年 6 月，全球鸿蒙开发者规模已超 1100 万，华为应用市场可获取的鸿蒙应用与服务数量突破 38" data-title="1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台" data-date="10-20 23:57" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-20 23:57</span>
+          <span class="news-item-title">1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/015/610.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 20 日消息，华为干昆智能汽车解决方案昨日宣布，引望与宁德时代、时代电服开展智能换电合作，打造干昆智驾完整智能充换电生态，引望智能技术有限公司与宁德时代新能源科技股份有限公司、时代电服科技有限公司将就新能源汽车智能换电生态开展全面合作。据晚点 Auto 报道，引望与宁德时代、时代电服合作正推进首批车型的开发，涉及五款新车，计划 2027 年上市。报道还提到，在向引望方面求证时，对方转述了三方战略合作协议的核心内容，即合作的动机和目标，但并未对上述信息置评。另据《财联社》今日报道，华为引望与宁德时代“巧克力”换电合作的首款车型计划于 2027 年推出，奕境品牌首发（IT之家注：奕境为东风与华为合作推出的品牌）。相关阅读：《消息称华为引望与宁德时代“巧克力”换电首款车型计划" data-title="消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市" data-date="10-20 23:34" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-20 23:34</span>
+          <span class="news-item-title">消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/015/607.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 20 日消息，据科技媒体 Sammobile 今天报道，三星马来西亚总裁 Charles Kim 接受采访时表示，他乐于看见苹果 iPhone Duo 等竞争对手入局折叠屏手机市场。Charles Kim 表示：“三星已经在 2019 年推出首款折叠屏手机 Galaxy Fold。如今其他品牌纷纷进入这一赛道，恰恰说明我们早年的理念，越来越受到移动行业重视。”IT之家从原报道了解到，这名总裁认为，折叠屏手机过去是相对小众的消费品类。今年市场格局迎来变化，越来越多品牌加入这一领域。折叠屏手机的市场认可度正不断提高，竞争也随之加剧。他还认为，竞争将让整个行业继续突破：“竞争正是推动我们不断学习、持续改进每一代 Z 系列产品的关键因素。”此外 Charles Kim 还表示，现" data-title="三星马来西亚总裁乐见苹果 iPhone Duo 等对手入局折叠屏赛道，称竞争让行业继续突破" data-date="10-20 23:21" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-20 23:21</span>
+          <span class="news-item-title">三星马来西亚总裁乐见苹果 iPhone Duo 等对手入局折叠屏赛道，称竞争让行业继续突破</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-20/10718192.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海10月20日电 (记者 殷立勤)10月20日，沪港机场国际航空人才培训中心揭牌仪式在上海举行。该培训中心将围绕“四大核心维度”构建特色人才培养体系：理念上坚持开放共赢，依托沪港两地超大型航空枢纽实战运营经验、先进治理范式和成熟培训体系，打造植根内地、联通香港、对标国际、服务全国的航空人才培养新平台；模式上推进沪港双城联动，坚持理论引领、场景实训、案例赋能、经验共享四位一体，突出需求为本和实战导向；课程上既覆盖机场运行、安全服务、商业经营等核心业务，也前瞻布局数智机场、航空碳管理、国际枢纽治理等新兴赛道；师资上汇聚沪港两地机场中高层管理者、行业专家和学界力量，并与行业各方共研开发、互派人才、互通师资，打造“共建共享、互通互利”的产教融合发展新路。" data-title="沪港机场国际航空人才培训中心在沪揭牌 2026北外滩国际航空论坛同日举行" data-date="10-20 22:52" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-20 20:26</span>
-          <span class="news-item-title">海南优化建筑业监管验收服务 做到“无事不扰、无处不在”</span>
+          <span class="news-item-date">10-20 22:52</span>
+          <span class="news-item-title">沪港机场国际航空人才培训中心在沪揭牌 2026北外滩国际航空论坛同日举行</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-20/10718085.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川10月20日电 (记者 李佩珊)记者20日从宁夏银川市文化旅游广电局获悉，第十三届中国旅游产业发展年会近日在湖北举办，现场揭晓了“2026旅游产业影响力案例”榜单，《宁夏：青年艺术季点燃文旅惠民消费》成功入选“2026旅游促进消费提质惠民典型案例”。" data-title="宁夏青年艺术季案例入选全国旅游产业影响力榜单" data-date="10-20 20:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-20 20:26</span>
-          <span class="news-item-title">宁夏青年艺术季案例入选全国旅游产业影响力榜单</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/20/business/trump-farmer-bailout.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="根据Harvest Fuel Relief计划，农业部将为受高柴油价格影响的农民提供经济援助。" data-title="Trump Announces $8 Billion Plan to Cover Farm Losses" data-date="10-20 20:12" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="我们采访了德克萨斯州参议院民主党候选人詹姆斯·塔拉里科（ James Talarico ）。" data-title="James Talarico on the Rage Economy, Billionaires and Flipping Texas" data-date="10-20 22:38" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-20 20:12</span>
-          <span class="news-item-title">Trump Announces $8 Billion Plan to Cover Farm Losses</span>
+          <span class="news-item-date">10-20 22:38</span>
+          <span class="news-item-title">James Talarico on the Rage Economy, Billionaires and Flipping Texas</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-20/10718045.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海10月20日电 (杨硕 谢梦圆)2026北外滩国际航运论坛20日在上海开幕。本届论坛以“共同的挑战，共同的使命——共促全球航运韧性发展”为主题，论坛期间发布的成果总数超90项，为历届之最，为全球航运业应对共性挑战、实现韧性增长注入动能。" data-title="北外滩国际航运论坛开幕 超90项成果赋能航运业韧性增长" data-date="10-20 19:44" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这场动荡表明，政府面临着深刻的挑战，陷入了不满的公民和谨慎的债券投资者之间。" data-title="A ‘Doom Loop’ Threatens France as Populism Confronts Markets" data-date="10-20 22:24" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-20 19:44</span>
-          <span class="news-item-title">北外滩国际航运论坛开幕 超90项成果赋能航运业韧性增长</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-20/10717770.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月20日电 国家发展改革委20日召开新闻发布会，国家发展改革委创新和高技术发展司副司长任中保回答记者提问指出，各地规划布局重点发展产业领域、谋划提出重大工程项目时，要对本地区是否具有相应的基础条件作充分论证，坚决避免一哄而上、遍地开花。" data-title="国家发展改革委：发展新质生产力坚决避免“一哄而上”" data-date="10-20 14:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-20 14:28</span>
-          <span class="news-item-title">国家发展改革委：发展新质生产力坚决避免“一哄而上”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-20/10717768.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者今天(20日)了解到，市场监管总局、中央网信办、文化和旅游部、教育部、公安部、商务部、广电总局联合印发《广告产业发展“十五五”规划》(以下简称《规划》)。《规划》依据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》编制，是未来五年引领我国广告产业高质量发展的专项文件。" data-title="七部门联合印发《广告产业发展“十五五”规划》" data-date="10-20 14:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-20 14:03</span>
-          <span class="news-item-title">七部门联合印发《广告产业发展“十五五”规划》</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1014115/elon-musk-spacex-trump-account" target="_blank" rel="noopener" data-cat="caijing" data-summary="唐纳德·特朗普(Donald Trump)总统今天下午宣布，埃隆·马斯克(Elon Musk)的SpaceX儿童股将通过特朗普账户(Trump Accounts)发马斯克今天早些时候表示，他将在明年某个时候将自己的SpaceX股份交给“美国的每个孩子”。" data-title="Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’" data-date="10-20 06:30" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-20 06:30</span>
-          <span class="news-item-title">Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report" target="_blank" rel="noopener" data-cat="caijing" data-summary="一份新的报告显示，美国正在建设比十年来更多的化石燃料基础设施，而可再生能源增长放缓。电力需求的增长速度也比十多年来更快，数据中心、工厂、" data-title="The fossil fuel comeback is here" data-date="10-20 05:48" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-20 05:48</span>
-          <span class="news-item-title">The fossil fuel comeback is here</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111153" target="_blank" rel="noopener" data-cat="caijing" data-summary="知情人士称，日本已向美国政府及美国蓝筹企业提出请求，希望美方敦促中国放宽稀土出口管制。" data-title="日本面临“数月之后”钇供应告罄局面" data-date="10-20 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-20 00:00</span>
-          <span class="news-item-title">日本面临“数月之后”钇供应告罄局面</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111143" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着投资者押注民主党将在中期选举中拿下国会两院控制权，进而阻挠特朗普增加5000亿美元军费支出的计划，美国军工股走势低迷。" data-title="中期选举前景打压美国军工股" data-date="10-20 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-20 00:00</span>
-          <span class="news-item-title">中期选举前景打压美国军工股</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-20 22:24</span>
+          <span class="news-item-title">A ‘Doom Loop’ Threatens France as Populism Confronts Markets</span>
         </a>
   </div>
 </div>
@@ -568,4 +544,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-20 20:51（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-21 01:23（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
