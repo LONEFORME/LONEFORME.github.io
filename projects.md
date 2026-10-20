@@ -4,7 +4,7 @@ title: 项目
 ---
 
 <h1>项目</h1>
-<p class="page-subtitle">多模态智能安防 · ROS2 驱动 · SLAM 建图 · 计算机视觉 · 无人机 · 工具脚本</p>
+<p class="page-subtitle">多模态智能安防 · ROS2 驱动 · SLAM 建图 · 计算机视觉 · 无人机 · 全栈 Web · 工具脚本</p>
 
 <div class="filter-bar" id="project-filter"></div>
 
@@ -129,6 +129,37 @@ title: 项目
       <div class="card-footer-row">
         <a href="/docs/rpi4_deploy" class="card-link">树莓派实战指南</a>
         <span class="card-status">🔒 内部规范资产</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="project-group">
+  <div class="section-title">
+    <span class="section-icon-box">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 2-9.6 9.6"/><path d="m15.5 7.5 3 3L22 7l-3-3"/></svg>
+    </span>
+    <h2>全栈 Web · 认证基础设施</h2>
+  </div>
+  <p class="group-desc">React + Express + Prisma 的前后端一体认证底座。注册、登录、令牌轮换、登出、改密、RBAC 与受保护资源 CRUD 全链路可跑，配有 33 项接口冒烟与 GitHub Actions CI。</p>
+
+  <div class="card-grid">
+    <div class="card" data-tags="全栈 Web 认证">
+      <div class="card-icon-box icon-cyan">
+        <svg class="card-svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="7.5" cy="15.5" r="5.5"/><path d="m21 2-9.6 9.6"/><path d="m15.5 7.5 3 3L22 7l-3-3"/></svg>
+      </div>
+      <h3>Nimbus 全栈认证脚手架</h3>
+      <p>React 19 + Express 4 + Prisma/SQLite，开箱即用的认证底座；前端 access token 仅存内存，401 时单飞刷新并恢复会话。</p>
+      <div class="card-details">
+        • JWT access token（15 分钟，仅内存）+ httpOnly refresh token，每次刷新立即轮换<br>
+        • 库中只存 refresh token 的 SHA-256；命中已吊销令牌判定重放，吊销该用户全部会话<br>
+        • 改密后全量吊销旧会话，RBAC 中间件保护管理员接口，zod 入参校验与统一错误结构<br>
+        • 33 项冒烟断言覆盖令牌轮换、重放检测、越权与 RBAC，GitHub Actions 每次推送自动执行
+      </div>
+      <div class="card-footer-row">
+        <a href="https://github.com/LONEFORME/nimbus-auth" target="_blank" rel="noopener" class="card-link">查看项目</a>
+        <a href="https://github.com/LONEFORME/nimbus-auth/blob/main/docs/login.png" target="_blank" rel="noopener" class="card-link">界面预览</a>
+        <span class="card-status">MIT 开源</span>
       </div>
     </div>
   </div>
