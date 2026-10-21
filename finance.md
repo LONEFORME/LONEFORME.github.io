@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-21 21:04（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-22 01:25（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,888.95</span>
-      <span class="ticker-change up">▲ +1.35%</span>
+      <span class="ticker-price ticker-up">29,898.45</span>
+      <span class="ticker-change up">▲ +1.38%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-22 01:04:41（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-22 01:26:27（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6740</span>
+      <span class="ticker-price ticker-down">6.6737</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg13574" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.0 L25.3,6.0 L46.7,17.6 L68.0,15.5 L89.3,18.8 L110.7,14.2 L132.0,21.2 L153.3,26.0 L174.7,29.4 L196.0,38.0 L196,40 Z" fill="url(#sg13574)"/><polyline points="4.0,7.0 25.3,6.0 46.7,17.6 68.0,15.5 89.3,18.8 110.7,14.2 132.0,21.2 153.3,26.0 174.7,29.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg49938" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.0 L25.3,6.0 L46.7,17.5 L68.0,15.4 L89.3,18.7 L110.7,14.1 L132.0,21.1 L153.3,25.8 L174.7,29.2 L196.0,38.0 L196,40 Z" fill="url(#sg49938)"/><polyline points="4.0,7.0 25.3,6.0 46.7,17.5 68.0,15.4 89.3,18.7 110.7,14.1 132.0,21.1 153.3,25.8 174.7,29.2 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:04:35（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:26:24（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,129.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +4.67 (+0.11%)</span>
+      <span class="ticker-price ticker-up">$4,131.57 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +6.49 (+0.16%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:04:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:26:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -190,7 +190,7 @@ title: 股票财经
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:04:39（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:25:07（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$108.32 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.47 (-0.43%)</span>
+      <span class="ticker-price ticker-down">$108.59 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.20 (-0.18%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:04:49（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:26:40（非实时）</div>
   </div>
 </div>
 
@@ -493,97 +493,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-21/10718716.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达10月21日电 (记者 李志全)印度尼西亚总统普拉博沃21日要求有关部门彻查森林和土地火灾背后的人为因素及企业责任，并表示，一旦证据确凿，将撤销违规企业的全部许可。" data-title="印尼总统要求彻查森林和土地火灾" data-date="10-21 20:59" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718807.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网张家口10月21日电 题：河北怀安：“一只羊”到“一条链”的产业致富经" data-title="河北怀安：“一只羊”到“一条链”的产业致富经" data-date="10-21 23:18" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 20:59</span>
-          <span class="news-item-title">印尼总统要求彻查森林和土地火灾</span>
+          <span class="news-item-date">10-21 23:18</span>
+          <span class="news-item-title">河北怀安：“一只羊”到“一条链”的产业致富经</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/110.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 21 日消息，在 2026 世界智能网联汽车大会上，小米集团创始人、董事长兼 CEO 雷军表示，智能网联汽车“下半场”比的不仅仅是车有多聪明，而是生态有多强大。他认为，这是中国的优势，中国有全球最完备的产业链，最活跃的 AI 创新氛围和最大的单一市场，我们完全有机会让整个智能生态连成一体，走出一条中国式的创新之路。据IT之家此前报道，在 2023 年 12 月，雷军宣布“人车家全生态”正式闭环。雷军称该生态全面打通“人”、“车”、“家”场景，实现硬件设备无缝连接，实时协同，带动产业链合作伙伴，共创以人为中心、主动服务于人的超级智能生态。去年 12 月，小米互联网业务部总经理刘婵在 2025 小米“人车家全生态”合作伙伴大会上谈到了小米的全球生态进展：小米生态全球累计开发者" data-title="小米雷军：智能网联汽车“下半场”比的不仅是车有多聪明，而是生态有多强大" data-date="10-21 20:49" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-21 20:49</span>
-          <span class="news-item-title">小米雷军：智能网联汽车“下半场”比的不仅是车有多聪明，而是生态有多强大</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718704.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都10月21日电(单鹏)产业培育是托底性帮扶“造血”的治本之策。10月20日，39个欠发达县域产业发展推进活动在成都举行。" data-title="四川：39个欠发达县域产业发展推进活动在蓉举行 增强内生造血能力" data-date="10-21 20:27" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-21/10718808.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳10月21日电 (索有为 胡俊瑶)2026年度广东全省海洋产业高质量发展推进工作会议21日在深圳举行。广东省委副书记、省长孟凡利出席会议并讲话，强调要奋发进取、积极作为，加快发展海洋经济、海洋产业，奋力书写全面建设海洋强省的新篇章。" data-title="广东举行2026年度全省海洋产业高质量发展推进工作会" data-date="10-21 23:18" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 20:27</span>
-          <span class="news-item-title">四川：39个欠发达县域产业发展推进活动在蓉举行 增强内生造血能力</span>
+          <span class="news-item-date">10-21 23:18</span>
+          <span class="news-item-title">广东举行2026年度全省海洋产业高质量发展推进工作会</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-21/10718609.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达10月21日电 (记者 李志全)印度尼西亚央行21日宣布，将基准利率维持在5.75%，同时将存款便利利率上调25个基点至5%，贷款便利利率维持在6.5%。" data-title="印尼央行维持基准利率5.75%不变　上调存款便利利率" data-date="10-21 18:32" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718794.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网吉林10月21日电 (记者 苍雁 石洪宇)长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)吉林市分赛区委员会相关负责人21日介绍，吉林市分赛区筹备工作总体进展符合预期，赛道基础施工与赛道平整工程已全面完工。" data-title="长春大冬会吉林市分赛区雪上项目赛道基础施工收官" data-date="10-21 22:48" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 18:32</span>
-          <span class="news-item-title">印尼央行维持基准利率5.75%不变　上调存款便利利率</span>
+          <span class="news-item-date">10-21 22:48</span>
+          <span class="news-item-title">长春大冬会吉林市分赛区雪上项目赛道基础施工收官</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718447.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网兰州10月21日电 (记者 冯志军 高莹)“过去，会宁山大沟深、干旱少雨，种地靠天吃饭，产业单一、收入微薄，是典型的贫困地区。”甘肃白银市会宁县农业技术推广中心主任薛俊武近日向记者表示，90年来，会宁民众发扬“不怕苦、敢奋斗”的长征精神，因地制宜发展特色产业。如今，小杂粮、马铃薯、牛羊养殖、高原蔬菜、优质瓜果等特色产业规模化发展，产业链越来越完善。" data-title="长征路上学党史丨从荒凉落后到生机盎然：长征会师圣地会宁谱新篇" data-date="10-21 14:26" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广西三江10月21日电(龚普康 莫飒)中华文学基金会“文润三江 情满侗乡”——“育才图书室”捐赠仪式，近日在广西三江侗族自治县民族实验学校教育集团初中部举行。中华文学基金会携手番茄小说，向三江5个“育才图书室”捐赠图书近1.8万册，价值逾78万元人民币。" data-title="中华文学基金会“育才图书室”捐赠仪式在广西三江举行" data-date="10-21 22:47" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 14:26</span>
-          <span class="news-item-title">长征路上学党史丨从荒凉落后到生机盎然：长征会师圣地会宁谱新篇</span>
+          <span class="news-item-date">10-21 22:47</span>
+          <span class="news-item-title">中华文学基金会“育才图书室”捐赠仪式在广西三江举行</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-21/10718433.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月21日电 (记者 阮煜琳)中国生态环境部21日在北京发布《中国应对气候变化的政策与行动2026年度报告》显示，2025年，中国单位国内生产总值(GDP)二氧化碳排放较2020年降低17.7%。" data-title="2025年中国单位GDP二氧化碳排放较2020年降低17.7%" data-date="10-21 13:56" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-21/10718782.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月21日电 据美国《华尔街日报》20日报道，据美国官员和知情人士透露，美国企业家马斯克下令降低乌克兰所依赖的军用级“星链”网络速度，这一决定在基辅引发恐慌，并在美国总统特朗普领导的政府内部造成混乱。" data-title="美媒：马斯克下令对军用级“星链”限速，令乌措手不及" data-date="10-21 22:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 13:56</span>
-          <span class="news-item-title">2025年中国单位GDP二氧化碳排放较2020年降低17.7%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-21/10718415.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月21日电 综合消息：厄瓜多尔国家石油公司当地时间20日宣布，将向秘鲁国家石油公司供应1620万桶原油，预计交易额达16.52亿美元。这标志着两家国有油企时隔四年恢复商业交易。" data-title="厄瓜多尔与秘鲁国有油企时隔四年恢复交易 深化两国能源合作" data-date="10-21 13:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 13:52</span>
-          <span class="news-item-title">厄瓜多尔与秘鲁国有油企时隔四年恢复交易 深化两国能源合作</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718427.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月21日电 据“海关发布”微信公众号消息，近日，拱北海关所属湾仔海关在出口跨境电商渠道查获外币硬币共计211799枚，折合人民币约162.2万元。" data-title="海关查获外币硬币211799枚，折合人民币约162.2万元" data-date="10-21 13:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 13:42</span>
-          <span class="news-item-title">海关查获外币硬币211799枚，折合人民币约162.2万元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718426.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月21日电 21日，国新办就中国积极应对气候变化、参与引领全球气候治理有关情况举行新闻发布会。生态环境部副部长李高在会上表示，近年来，气候变化影响持续加剧，极端天气气候事件在全球范围内多发频发。我国是气候变化敏感区和影响显著区，气候变化背景下，各种极端灾害事件对我国粮食生产、生态安全、基础设施、城市运行、人民生命健康等都造成严重威胁，引发全社会越来越多的关注。主动适应气候变化、提升气候韧性，已经成为我国经济社会发展必须高度重视的课题。" data-title="我国加强顶层设计 努力降低气候变化风险和损害" data-date="10-21 13:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 13:42</span>
-          <span class="news-item-title">我国加强顶层设计 努力降低气候变化风险和损害</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/015/614.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 20 日消息，奇妙工具箱今日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量突破 9,500 万台，目前约 95,288,247 台。据IT之家此前报道，在今年 3 月的直播中，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东透露，鸿蒙系统用户规模正经历急剧增长，预计将在今年冬季前突破 1 亿大关。另外，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布，鸿蒙 HarmonyOS 6 | HarmonyOS 7 终端设备数突破 9000 万。华为官网披露，截至 2026 年 6 月，全球鸿蒙开发者规模已超 1100 万，华为应用市场可获取的鸿蒙应用与服务数量突破 38" data-title="1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台" data-date="10-20 23:57" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-20 23:57</span>
-          <span class="news-item-title">1 亿目标近在咫尺：曝华为鸿蒙 HarmonyOS 系统装机量突破 9500 万台</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/015/610.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 20 日消息，华为干昆智能汽车解决方案昨日宣布，引望与宁德时代、时代电服开展智能换电合作，打造干昆智驾完整智能充换电生态，引望智能技术有限公司与宁德时代新能源科技股份有限公司、时代电服科技有限公司将就新能源汽车智能换电生态开展全面合作。据晚点 Auto 报道，引望与宁德时代、时代电服合作正推进首批车型的开发，涉及五款新车，计划 2027 年上市。报道还提到，在向引望方面求证时，对方转述了三方战略合作协议的核心内容，即合作的动机和目标，但并未对上述信息置评。另据《财联社》今日报道，华为引望与宁德时代“巧克力”换电合作的首款车型计划于 2027 年推出，奕境品牌首发（IT之家注：奕境为东风与华为合作推出的品牌）。相关阅读：《消息称华为引望与宁德时代“巧克力”换电首款车型计划" data-title="消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市" data-date="10-20 23:34" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-20 23:34</span>
-          <span class="news-item-title">消息称引望、宁德时代首批换电车型暂定五款，计划 2027 年上市</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/015/607.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 20 日消息，据科技媒体 Sammobile 今天报道，三星马来西亚总裁 Charles Kim 接受采访时表示，他乐于看见苹果 iPhone Duo 等竞争对手入局折叠屏手机市场。Charles Kim 表示：“三星已经在 2019 年推出首款折叠屏手机 Galaxy Fold。如今其他品牌纷纷进入这一赛道，恰恰说明我们早年的理念，越来越受到移动行业重视。”IT之家从原报道了解到，这名总裁认为，折叠屏手机过去是相对小众的消费品类。今年市场格局迎来变化，越来越多品牌加入这一领域。折叠屏手机的市场认可度正不断提高，竞争也随之加剧。他还认为，竞争将让整个行业继续突破：“竞争正是推动我们不断学习、持续改进每一代 Z 系列产品的关键因素。”此外 Charles Kim 还表示，现" data-title="三星马来西亚总裁乐见苹果 iPhone Duo 等对手入局折叠屏赛道，称竞争让行业继续突破" data-date="10-20 23:21" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-20 23:21</span>
-          <span class="news-item-title">三星马来西亚总裁乐见苹果 iPhone Duo 等对手入局折叠屏赛道，称竞争让行业继续突破</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-20/10718192.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海10月20日电 (记者 殷立勤)10月20日，沪港机场国际航空人才培训中心揭牌仪式在上海举行。该培训中心将围绕“四大核心维度”构建特色人才培养体系：理念上坚持开放共赢，依托沪港两地超大型航空枢纽实战运营经验、先进治理范式和成熟培训体系，打造植根内地、联通香港、对标国际、服务全国的航空人才培养新平台；模式上推进沪港双城联动，坚持理论引领、场景实训、案例赋能、经验共享四位一体，突出需求为本和实战导向；课程上既覆盖机场运行、安全服务、商业经营等核心业务，也前瞻布局数智机场、航空碳管理、国际枢纽治理等新兴赛道；师资上汇聚沪港两地机场中高层管理者、行业专家和学界力量，并与行业各方共研开发、互派人才、互通师资，打造“共建共享、互通互利”的产教融合发展新路。" data-title="沪港机场国际航空人才培训中心在沪揭牌 2026北外滩国际航空论坛同日举行" data-date="10-20 22:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-20 22:52</span>
-          <span class="news-item-title">沪港机场国际航空人才培训中心在沪揭牌 2026北外滩国际航空论坛同日举行</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/20/podcasts/the-daily/james-talarico-interview-texas-midterms.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="我们采访了德克萨斯州参议院民主党候选人詹姆斯·塔拉里科（ James Talarico ）。" data-title="James Talarico on the Rage Economy, Billionaires and Flipping Texas" data-date="10-20 22:38" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-20 22:38</span>
-          <span class="news-item-title">James Talarico on the Rage Economy, Billionaires and Flipping Texas</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/20/business/france-protests-bond-markets.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这场动荡表明，政府面临着深刻的挑战，陷入了不满的公民和谨慎的债券投资者之间。" data-title="A ‘Doom Loop’ Threatens France as Populism Confronts Markets" data-date="10-20 22:24" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-20 22:24</span>
-          <span class="news-item-title">A ‘Doom Loop’ Threatens France as Populism Confronts Markets</span>
+          <span class="news-item-date">10-21 22:11</span>
+          <span class="news-item-title">美媒：马斯克下令对军用级“星链”限速，令乌措手不及</span>
         </a>
   </div>
 </div>
@@ -598,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-21 21:04（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-22 01:25（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
