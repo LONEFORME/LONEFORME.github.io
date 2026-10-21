@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-21 14:41（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-21 21:04（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -62,7 +62,7 @@ title: 股票财经
       <span>震荡筑底中枢</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-21 15:36:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-21 15:44:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -110,7 +110,7 @@ title: 股票财经
       <span>AI算力与先进制程</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-21 15:35:42（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-21 15:43:42（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6748</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.6744</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg9528" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.0 L25.3,6.0 L46.7,18.0 L68.0,15.7 L89.3,19.2 L110.7,14.4 L132.0,21.7 L153.3,26.6 L174.7,30.1 L196.0,38.0 L196,40 Z" fill="url(#sg9528)"/><polyline points="4.0,7.0 25.3,6.0 46.7,18.0 68.0,15.7 89.3,19.2 110.7,14.4 132.0,21.7 153.3,26.6 174.7,30.1 196.0,38.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg98285" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.0 L25.3,6.0 L46.7,17.8 L68.0,15.6 L89.3,19.0 L110.7,14.3 L132.0,21.4 L153.3,26.3 L174.7,29.7 L196.0,38.0 L196,40 Z" fill="url(#sg98285)"/><polyline points="4.0,7.0 25.3,6.0 46.7,17.8 68.0,15.6 89.3,19.0 110.7,14.3 132.0,21.4 153.3,26.3 174.7,29.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:38:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:05:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,132.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +7.52 (+0.18%)</span>
+      <span class="ticker-price ticker-up">$4,133.97 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +8.89 (+0.22%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:38:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:04:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥887.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -1.82 (-0.20%)</span>
+      <span class="ticker-price ticker-up">¥889.34 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +1.83 (+0.21%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:29:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:04:46（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$109.48 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.69 (+0.64%)</span>
+      <span class="ticker-price ticker-down">$107.94 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.86 (-0.79%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:39:05（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:05:14（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-21/10718716.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达10月21日电 (记者 李志全)印度尼西亚总统普拉博沃21日要求有关部门彻查森林和土地火灾背后的人为因素及企业责任，并表示，一旦证据确凿，将撤销违规企业的全部许可。" data-title="印尼总统要求彻查森林和土地火灾" data-date="10-21 20:59" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-21 20:59</span>
+          <span class="news-item-title">印尼总统要求彻查森林和土地火灾</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/016/110.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 21 日消息，在 2026 世界智能网联汽车大会上，小米集团创始人、董事长兼 CEO 雷军表示，智能网联汽车“下半场”比的不仅仅是车有多聪明，而是生态有多强大。他认为，这是中国的优势，中国有全球最完备的产业链，最活跃的 AI 创新氛围和最大的单一市场，我们完全有机会让整个智能生态连成一体，走出一条中国式的创新之路。据IT之家此前报道，在 2023 年 12 月，雷军宣布“人车家全生态”正式闭环。雷军称该生态全面打通“人”、“车”、“家”场景，实现硬件设备无缝连接，实时协同，带动产业链合作伙伴，共创以人为中心、主动服务于人的超级智能生态。去年 12 月，小米互联网业务部总经理刘婵在 2025 小米“人车家全生态”合作伙伴大会上谈到了小米的全球生态进展：小米生态全球累计开发者" data-title="小米雷军：智能网联汽车“下半场”比的不仅是车有多聪明，而是生态有多强大" data-date="10-21 20:49" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-21 20:49</span>
+          <span class="news-item-title">小米雷军：智能网联汽车“下半场”比的不仅是车有多聪明，而是生态有多强大</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718704.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都10月21日电(单鹏)产业培育是托底性帮扶“造血”的治本之策。10月20日，39个欠发达县域产业发展推进活动在成都举行。" data-title="四川：39个欠发达县域产业发展推进活动在蓉举行 增强内生造血能力" data-date="10-21 20:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-21 20:27</span>
+          <span class="news-item-title">四川：39个欠发达县域产业发展推进活动在蓉举行 增强内生造血能力</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-21/10718609.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达10月21日电 (记者 李志全)印度尼西亚央行21日宣布，将基准利率维持在5.75%，同时将存款便利利率上调25个基点至5%，贷款便利利率维持在6.5%。" data-title="印尼央行维持基准利率5.75%不变　上调存款便利利率" data-date="10-21 18:32" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-21 18:32</span>
+          <span class="news-item-title">印尼央行维持基准利率5.75%不变　上调存款便利利率</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718447.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网兰州10月21日电 (记者 冯志军 高莹)“过去，会宁山大沟深、干旱少雨，种地靠天吃饭，产业单一、收入微薄，是典型的贫困地区。”甘肃白银市会宁县农业技术推广中心主任薛俊武近日向记者表示，90年来，会宁民众发扬“不怕苦、敢奋斗”的长征精神，因地制宜发展特色产业。如今，小杂粮、马铃薯、牛羊养殖、高原蔬菜、优质瓜果等特色产业规模化发展，产业链越来越完善。" data-title="长征路上学党史丨从荒凉落后到生机盎然：长征会师圣地会宁谱新篇" data-date="10-21 14:26" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -561,12 +585,6 @@ title: 股票财经
           <span class="news-item-date">10-20 22:24</span>
           <span class="news-item-title">A ‘Doom Loop’ Threatens France as Populism Confronts Markets</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/10/504435.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间10月12日，2026巴黎国际车展正式启幕。" data-title="技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展" data-date="10-20 17:13" data-source="量子位">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">10-20 17:13</span>
-          <span class="news-item-title">技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展</span>
-        </a>
   </div>
 </div>
 
@@ -580,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-21 14:41（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-21 21:04（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
