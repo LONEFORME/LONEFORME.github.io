@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-22 14:44 抓取更新</span>
+      <span>2026-10-22 21:05 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">50</span>
+        <span class="channel-count">48</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">5</span>
+        <span class="channel-count">3</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,32 +56,32 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">50</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">48</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×21 · IT之家×10</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×18 · The Verge×8</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/10-22/10719028.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国新闻周刊记者：曲蕃夫" data-title="法国街头的“失控骚乱”" data-date="10-22 14:26" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/10-22/10719313.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月22日电 利雅得消息：沙特阿拉伯民航总局22日宣布，该国东部达曼市法赫德国王国际机场21日晚遭袭击，已导致2人死亡，8人受伤。" data-title="沙特机场再遭袭击已致2死8伤" data-date="10-22 21:00" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 10-22 14:26</span>
+        <span class="hero-featured-date">🕒 10-22 21:00</span>
       </div>
-      <h2 class="hero-featured-title">法国街头的“失控骚乱”</h2>
+      <h2 class="hero-featured-title">沙特机场再遭袭击已致2死8伤</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/016/403.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中，讯飞星火 X2.6 端云一体大模型正式发布。讯飞星火 X2.6 宣称首次基于全国产算力实现代码和智能体能力突破。科大讯飞董事长刘庆峰表示，只有星火一家是用全国产算力训练的，其他全是在 N 卡上训练，而且科大讯飞的尺寸是最小的。此外，刘庆峰表示讯飞星火 X2.6 率先突破国产芯片长程任务的训练效率瓶颈，适配国产平台的长程任务动态并行训练技术，解决了因为国产芯片显存带宽限制导致的混合训练效率低下问题。对于国产算力集群在长程任务上的推理效率，科大讯飞也实现了两个重要创新：一个是基于国产异构算力的分布式推理技术，解决国产芯片显存带宽限制导致的训不快问题。另一个是提出基于国产设备的开发技术，很多东西都不用重新再计算，" data-title="讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破" data-date="10-22 14:40" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/016/685.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，据小鹏汽车官方今日分享，10 月 21 日至 23 日，2026 世界智能网联汽车大会（WICV）在北京亦庄举办。小鹏人形机器人、小鹏 G9L、小鹏 X9、小鹏 G7 等多款产品集中登场，展现在物理 AI 赛道的技术积累。10 月 21 日，何小鹏出席大会 &quot; 巅峰对话 &quot; 环节。就主持人“特斯拉 FSD 与小鹏 NGP 表现接近”的提问，小鹏集团董事长、CEO 何小鹏表示：面对欧洲复杂的路况 —— 狭窄的小路、占比很高的单行道，甚至六车道环线地下没有标线的场景、人车穿行等，要做到符合当地政策法规、安全和文化，是一件很困难的事情。为什么小鹏和特斯拉都能在法国开？实际上，我们是将 L4 的模型能力，去满足靠边停车、在未曾见过的复杂路段符合当地法律法规与文化等。" data-title="何小鹏：L4 技术落地大概在 2028 年下半年，需要全体系软硬件一起开发" data-date="10-22 21:03" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破</p>
+      <p class="hero-sub-title">何小鹏：L4 技术落地大概在 2028 年下半年，需要全体系软硬件一起开发</p>
     </a>
     <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="米克尔·阿尔特塔（ Mikel Arteta ）表示，阿森纳的布卡约·萨卡（ Bukayo Saka ）在拜仁慕尼黑的冠军联赛平局中受伤的四头肌“看起来一点也不好”。" data-title="Saka injury &#39;does not look good&#39; - how will Arsenal cope?" data-date="10-22 06:51" data-source="BBC">
       <div class="hero-sub-meta">
@@ -90,12 +90,12 @@ title: 热点新闻
       </div>
       <p class="hero-sub-title">Saka injury 'does not look good' - how will Arsenal cope?</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/1/016/399.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，科技媒体 NeoWin 昨日（10 月 21 日）发布博文，介绍了在 Windows 11 系统中，如何借助系统自带的“任务计划程序”，错峰启动应用，从而缓解开机卡顿。该媒体指出，不少 Windows 用户习惯让聊天、云盘、游戏启动器等应用随系统自动运行，但当启动项过多后，登录后的头一两分钟常会明显卡顿，在配置较低的电脑上表现尤为明显。在 Windows 10、Windows 11 系统中，微软官方并未提供“延迟启动”选项，但用户可以按照以下步骤，让重要程序立即打开，而非必要程序延后运行，从而分散系统资源占用。IT之家援引博文介绍，附上让 Windows 11 稍后启动应用的步骤如下：1、前往“设置”&gt;“应用”&gt;“启动”，禁用您想要延迟启动的应用。这一点很重" data-title="Win10/Win11 学院：如何靠“任务计划程序”错峰启动应用，缓解开机卡顿" data-date="10-22 14:39" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/016/686.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，据消息源 LeicaRumors 昨日发文，徕卡计划推出 Hammertone 锤纹版 M-11P 数码旁轴相机和 M-A 胶片旁轴相机。IT之家了解到，徕卡早在今年春季就推出过 M-A 的锤纹限量版，纪念其日本银座旗舰店开业 20 周年，该机全球限量 100 台。不过新版机器据称将不限量，正面取消“20 周年”标识，金属的颜色也会略深一些。据悉，徕卡 M-A 是一台“回归摄影本质”的旁轴相机，整个机身完全没有任何电子元器件，过片、快门等操作完全使用机械驱动。相比 M-P 移除了测光表，因此无需电池即可使用。当然也没有自动曝光、自动对焦等现代功能。机械快门最快可达 1/1000 秒，闪光同步速度 1/50 秒。而徕卡 M-11P 是一台数码旁轴相机，配备 6" data-title="徕卡锤纹新机曝光：M-11P 数码旁轴与 M-A 胶片旁轴齐发" data-date="10-22 21:03" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">Win10/Win11 学院：如何靠“任务计划程序”错峰启动应用，缓解开机卡顿</p>
+      <p class="hero-sub-title">徕卡锤纹新机曝光：M-11P 数码旁轴与 M-A 胶片旁轴齐发</p>
     </a>
   </div>
 </div>
@@ -106,113 +106,112 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719028.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国新闻周刊记者：曲蕃夫" data-title="法国街头的“失控骚乱”" data-date="10-22 14:26" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719313.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月22日电 利雅得消息：沙特阿拉伯民航总局22日宣布，该国东部达曼市法赫德国王国际机场21日晚遭袭击，已导致2人死亡，8人受伤。" data-title="沙特机场再遭袭击已致2死8伤" data-date="10-22 21:00" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:26</span>
-          <span class="news-item-title">法国街头的“失控骚乱”</span>
-          <span class="news-value-point">💡 中国新闻周刊记者：曲蕃夫</span>
+          <span class="news-item-date">10-22 21:00</span>
+          <span class="news-item-title">沙特机场再遭袭击已致2死8伤</span>
+          <span class="news-value-point">💡 中新社北京10月22日电 利雅得消息：沙特阿拉伯民航总局22日宣布，该国东部达曼市法赫德国王国际机场21日晚遭袭击，已导致2人死亡，8人受伤</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719012.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社北京10月22日电" data-title="习近平：在纪念中国工农红军长征胜利90周年大会上的讲话" data-date="10-22 14:10" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719349.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据美媒当地时间21日消息，多名知情人士称，美国国防部拟打造一个“更强有力的”深度潜伏间谍项目，针对美国的竞争对手开展经济战。" data-title="美媒：美国防部拟打造新的深度潜伏间谍项目" data-date="10-22 20:58" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:10</span>
-          <span class="news-item-title">习近平：在纪念中国工农红军长征胜利90周年大会上的讲话</span>
-          <span class="news-value-point">💡 新华社北京10月22日电</span>
+          <span class="news-item-date">10-22 20:58</span>
+          <span class="news-item-title">美媒：美国防部拟打造新的深度潜伏间谍项目</span>
+          <span class="news-value-point">💡 中新网10月22日电 据美媒当地时间21日消息，多名知情人士称，美国国防部拟打造一个“更强有力的”深度潜伏间谍项目，针对美国的竞争对手开展经济战</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719006.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="原标题：纪念中国工农红军长征胜利90周年大会在京隆重举行" data-title="习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话" data-date="10-22 14:10" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719344.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据阿根廷媒体报道，当地时间21日，阿根廷总统米莱重申将通过外交途径收回马尔维纳斯群岛(简称马岛，英国称福克兰群岛)主权。" data-title="阿根廷总统重申：将以外交手段收回马岛主权" data-date="10-22 20:54" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:10</span>
-          <span class="news-item-title">习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话</span>
-          <span class="news-value-point">💡 原标题：纪念中国工农红军长征胜利90周年大会在京隆重举行</span>
+          <span class="news-item-date">10-22 20:54</span>
+          <span class="news-item-title">阿根廷总统重申：将以外交手段收回马岛主权</span>
+          <span class="news-value-point">💡 中新网10月22日电 据阿根廷媒体报道，当地时间21日，阿根廷总统米莱重申将通过外交途径收回马尔维纳斯群岛(简称马岛，英国称福克兰群岛)主权</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719005.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社西安10月22日电 (记者 杨英琦 李一璠)2026中国国际友好城市大会闭幕式22日在陕西西安举办，陕西省西安市与印度尼西亚中爪哇省梭罗市等9对中外省市签署建立友好城市关系协议书，中国国际友城“朋友圈”持续扩大。" data-title="2026中国国际友好城市大会发布《西安倡议》 持续扩大国际友城“朋友圈”" data-date="10-22 14:04" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719339.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据江西省纪委监委消息：江西交通职业技术学院原党委副书记、院长黄明忠涉嫌严重违纪违法，主动向组织交代问题，目前正接受江西省纪委监委纪律审查和监察调查。" data-title="江西交通职业技术学院原院长黄明忠接受审查调查" data-date="10-22 20:52" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:04</span>
-          <span class="news-item-title">2026中国国际友好城市大会发布《西安倡议》 持续扩大国际友城“朋友圈”</span>
-          <span class="news-value-point">💡 中新社西安10月22日电 (记者 杨英琦 李一璠)2026中国国际友好城市大会闭幕式22日在陕西西安举办，陕西省西安市与印度尼西亚中爪哇省梭罗市…</span>
+          <span class="news-item-date">10-22 20:52</span>
+          <span class="news-item-title">江西交通职业技术学院原院长黄明忠接受审查调查</span>
+          <span class="news-value-point">💡 中新网10月22日电 据江西省纪委监委消息：江西交通职业技术学院原党委副书记、院长黄明忠涉嫌严重违纪违法，主动向组织交代问题，目前正接受江西省纪…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719003.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 综合俄罗斯媒体报道，俄罗斯首都莫斯科市市长索比亚宁22日发文称，21日晚至22日凌晨，630架无人机袭击莫斯科地区，其中大多数在远距离被防空系统摧毁，163架无人机在靠近莫斯科市时被拦截。" data-title="俄罗斯莫斯科地区遭大规模无人机袭击" data-date="10-22 13:59" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719338.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据内蒙古自治区纪委监委消息：内蒙古自治区民政厅原党组成员、副厅长刘程民涉嫌严重违纪违法，目前正接受内蒙古自治区纪委监委纪律审查和监察调查。" data-title="内蒙古自治区民政厅原副厅长刘程民接受审查调查" data-date="10-22 20:49" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:59</span>
-          <span class="news-item-title">俄罗斯莫斯科地区遭大规模无人机袭击</span>
-          <span class="news-value-point">💡 中新网10月22日电 综合俄罗斯媒体报道，俄罗斯首都莫斯科市市长索比亚宁22日发文称，21日晚至22日凌晨，630架无人机袭击莫斯科地区，其中大…</span>
+          <span class="news-item-date">10-22 20:49</span>
+          <span class="news-item-title">内蒙古自治区民政厅原副厅长刘程民接受审查调查</span>
+          <span class="news-value-point">💡 中新网10月22日电 据内蒙古自治区纪委监委消息：内蒙古自治区民政厅原党组成员、副厅长刘程民涉嫌严重违纪违法，目前正接受内蒙古自治区纪委监委纪律…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10718975.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社圣保罗10月21日电 巴西气候观察站21日发布数据显示，2025年巴西温室气体净排放量为14.1亿吨二氧化碳当量，创2012年以来最低水平。" data-title="巴西温室气体净排放量降至2012年以来最低水平" data-date="10-22 13:36" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719336.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据海南省纪委监委消息：海南省应急管理厅党委委员、副厅长郭刚涉嫌严重违纪违法，目前正接受海南省纪委监委纪律审查和监察调查。" data-title="海南省应急管理厅党委委员、副厅长郭刚接受审查调查" data-date="10-22 20:49" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:36</span>
-          <span class="news-item-title">巴西温室气体净排放量降至2012年以来最低水平</span>
-          <span class="news-value-point">💡 中新社圣保罗10月21日电 巴西气候观察站21日发布数据显示，2025年巴西温室气体净排放量为14.1亿吨二氧化碳当量，创2012年以来最低水平</span>
+          <span class="news-item-date">10-22 20:49</span>
+          <span class="news-item-title">海南省应急管理厅党委委员、副厅长郭刚接受审查调查</span>
+          <span class="news-value-point">💡 中新网10月22日电 据海南省纪委监委消息：海南省应急管理厅党委委员、副厅长郭刚涉嫌严重违纪违法，目前正接受海南省纪委监委纪律审查和监察调查</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10718974.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月22日电 综合消息：当地时间21日，阿联酋总统穆罕默德·本·扎耶德·阿勒纳哈扬正式提名外交官拉娜·努赛贝参选下一任联合国秘书长。目前，联合国安理会尚未就继任人选达成共识。" data-title="阿联酋提名外交官努赛贝角逐下一任联合国秘书长" data-date="10-22 13:35" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719335.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月22日电 (记者 陈杭)北京市延庆区拟到2030年，基本建成生态文明幸福的最美冬奥城，为建设国际一流的生态文明示范区奠定坚实基础，确保在与全市同步率先基本实现社会主义现代化上取得决定性进展；到2035年，全面建成生态文明幸福的最美冬奥城，初步建成国际一流的生态文明示范区，与全市同步率先基本实现社会主义现代化。" data-title="北京延庆拟到2035年全面建成生态文明幸福的最美冬奥城" data-date="10-22 20:41" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:35</span>
-          <span class="news-item-title">阿联酋提名外交官努赛贝角逐下一任联合国秘书长</span>
-          <span class="news-value-point">💡 中新社北京10月22日电 综合消息：当地时间21日，阿联酋总统穆罕默德·本·扎耶德·阿勒纳哈扬正式提名外交官拉娜·努赛贝参选下一任联合国秘书长</span>
+          <span class="news-item-date">10-22 20:41</span>
+          <span class="news-item-title">北京延庆拟到2035年全面建成生态文明幸福的最美冬奥城</span>
+          <span class="news-value-point">💡 中新网北京10月22日电 (记者 陈杭)北京市延庆区拟到2030年，基本建成生态文明幸福的最美冬奥城，为建设国际一流的生态文明示范区奠定坚实基础…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10718984.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网贵阳10月22日电 (记者 杨茜)记者22日从贵州省林业局获悉，贵州省已查明陆生脊椎动物970种，包含中国特有种158种、贵州特有种37种。" data-title="贵州省已查明陆生脊椎动物970种" data-date="10-22 13:24" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719291.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月22日电 (记者 谢雁冰 李京泽)“长征的历史从未远去，长征的路在不断延伸。”" data-title="（近观中国）走好新的长征路，习近平强调五个“必须”" data-date="10-22 20:13" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:24</span>
-          <span class="news-item-title">贵州省已查明陆生脊椎动物970种</span>
-          <span class="news-value-point">💡 中新网贵阳10月22日电 (记者 杨茜)记者22日从贵州省林业局获悉，贵州省已查明陆生脊椎动物970种，包含中国特有种158种、贵州特有种37种</span>
+          <span class="news-item-date">10-22 20:13</span>
+          <span class="news-item-title">（近观中国）走好新的长征路，习近平强调五个“必须”</span>
+          <span class="news-value-point">💡 中新社北京10月22日电 (记者 谢雁冰 李京泽)“长征的历史从未远去，长征的路在不断延伸</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10718979.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网贵州铜仁10月22日电 秋日清晨，贵州麻阳河国家级自然保护区凉桥管理站附近，63岁的护林员肖治金静静留意着林间动静。他没有惊扰，也没呼喊，只是抬眼望向那片喀斯特岩壁，不一会儿，几道黑色身影便从枝叶间探出头来。" data-title="贵州麻阳河保护区探索黑叶猴保护治理新范式" data-date="10-22 13:23" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719311.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="10月22日下午，十四届全国人大常委会第七十四次委员长会议在北京人民大会堂举行。赵乐际委员长主持会议。新华社记者 刘卫兵 摄 新华社北京10月22日电 十四届全国人大常委会第七十四次委员长会议22日下午在北京人民大会堂举行。赵乐际委员长主持会议。会议决定，十四届全国人大常委会第二十五次会议11月2日至6日在北京举行。" data-title="赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行" data-date="10-22 20:12" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:23</span>
-          <span class="news-item-title">贵州麻阳河保护区探索黑叶猴保护治理新范式</span>
-          <span class="news-value-point">💡 中新网贵州铜仁10月22日电 秋日清晨，贵州麻阳河国家级自然保护区凉桥管理站附近，63岁的护林员肖治金静静留意着林间动静</span>
+          <span class="news-item-date">10-22 20:12</span>
+          <span class="news-item-title">赵乐际主持召开十四届全国人大常委会第七十四次委员长会议 决定十四届全国人大常委会第二十五次会议11月2日至6日在京举行</span>
+          <span class="news-value-point">💡 10月22日下午，十四届全国人大常委会第七十四次委员长会议在北京人民大会堂举行</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10718959.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据应急管理部网站消息，近日，国家发展改革委等六部门联合发布实施首批标志性重大应用场景项目。其中，应急管理领域共有“危化品储罐区无人化智能灭火”“极端灾害情况下应急指挥通信保障”“智慧矿山建设”“深部战略资源安全开采”等4个场景项目入选。" data-title="应急管理领域4个项目入选首批标志性重大应用场景项目" data-date="10-22 12:52" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719229.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月22日电 加拉加斯消息：当地时间21日，委内瑞拉执政党统一社会主义党发布公报，谴责美国佛罗里达州对古巴革命领袖劳尔·卡斯特罗发出逮捕令。" data-title="委内瑞拉谴责美方对古巴革命领袖劳尔·卡斯特罗发逮捕令" data-date="10-22 19:52" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 12:52</span>
-          <span class="news-item-title">应急管理领域4个项目入选首批标志性重大应用场景项目</span>
-          <span class="news-value-point">💡 中新网10月22日电 据应急管理部网站消息，近日，国家发展改革委等六部门联合发布实施首批标志性重大应用场景项目</span>
+          <span class="news-item-date">10-22 19:52</span>
+          <span class="news-item-title">委内瑞拉谴责美方对古巴革命领袖劳尔·卡斯特罗发逮捕令</span>
+          <span class="news-value-point">💡 中新社北京10月22日电 加拉加斯消息：当地时间21日，委内瑞拉执政党统一社会主义党发布公报，谴责美国佛罗里达州对古巴革命领袖劳尔·卡斯特罗发出…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据美国《纽约时报》21日报道，美国官员及知情人士透露，美国和以色列军方已制定具体计划，准备在美国中期选举结束后恢复对伊朗实施打击。" data-title="美媒：美以制定计划 拟美国中期选举后再次打击伊朗" data-date="10-22 11:53" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719228.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月22日电 综合消息：沙特阿拉伯民航总局当地时间22日发表声明称，位于沙特东部城市达曼的法赫德国王国际机场21日晚遭遇袭击，已造成1人死亡、8人受伤。美国下令驻沙特“非紧急”政府雇员及家属撤离。" data-title="美下令驻沙特“非紧急”政府雇员及家属撤离" data-date="10-22 19:18" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 11:53</span>
-          <span class="news-item-title">美媒：美以制定计划 拟美国中期选举后再次打击伊朗</span>
-          <span class="news-value-point">💡 中新网10月22日电 据美国《纽约时报》21日报道，美国官员及知情人士透露，美国和以色列军方已制定具体计划，准备在美国中期选举结束后恢复对伊朗实…</span>
+          <span class="news-item-date">10-22 19:18</span>
+          <span class="news-item-title">美下令驻沙特“非紧急”政府雇员及家属撤离</span>
+          <span class="news-value-point">💡 中新社北京10月22日电 综合消息：沙特阿拉伯民航总局当地时间22日发表声明称，位于沙特东部城市达曼的法赫德国王国际机场21日晚遭遇袭击，已造成…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10718943.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 综合外媒21日报道，日本电信运营商凯迪迪爱公司日前承认，发生在蒙古国一自然保护区的大规模草原火灾与其子公司莫比康公司高管的活动有关。目前，涉案公司面临批评和质疑。" data-title="日媒：日企子公司高管活动引发蒙古国大火，多方提出批评" data-date="10-22 11:24" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719260.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月22日电 据美国全国广播公司22日报道，美军正在缩减在约旦、卡塔尔和科威特的驻军规模。但美国中央司令部拒绝对相关报道置评，仅称美军会定期调整兵力部署，以优化部队的战备水平。" data-title="美媒：美军正在缩减约旦、卡塔尔、科威特驻军规模" data-date="10-22 19:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 11:24</span>
-          <span class="news-item-title">日媒：日企子公司高管活动引发蒙古国大火，多方提出批评</span>
-          <span class="news-value-point">💡 中新网10月22日电 综合外媒21日报道，日本电信运营商凯迪迪爱公司日前承认，发生在蒙古国一自然保护区的大规模草原火灾与其子公司莫比康公司高管的…</span>
+          <span class="news-item-date">10-22 19:16</span>
+          <span class="news-item-title">美媒：美军正在缩减约旦、卡塔尔、科威特驻军规模</span>
+          <span class="news-value-point">💡 中新网10月22日电 据美国全国广播公司22日报道，美军正在缩减在约旦、卡塔尔和科威特的驻军规模</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/21/us/kansas-senate-debate-marshall-hamilton-takeaways.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="共和党现任议员罗杰·马歇尔（ Roger Marshall ）正面临来自民主党候选人亚当·汉密尔顿（ Adam Hamilton ）的令人惊讶的严峻挑战。" data-title="Farmers, Health Care and Highways: 5 Takeaways from the Kansas Senate Debate" data-date="10-22 10:54" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="几周来，伊朗支持的胡塞武装一直在攻击沙特的航空和能源部门。" data-title="Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave" data-date="10-22 19:10" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-22 10:54</span>
-          <span class="news-item-title">农民、医疗保健和高速公路：堪萨斯州参议院辩论的5个要点</span>
-          <span class="news-item-title-en">Farmers, Health Care and Highways: 5 Takeaways from the Kansas Senate Debate</span>
-          <span class="news-value-point">💡 共和党现任议员罗杰·马歇尔（ Roger Marshall ）正面临来自民主党候选人亚当·汉密尔顿（ Adam Hamilton ）的令人惊讶的…</span>
+          <span class="news-item-date">10-22 19:10</span>
+          <span class="news-item-title">美国告诉一些外交官离开，沙特机场罢工造成2人死亡</span>
+          <span class="news-item-title-en">Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave</span>
+          <span class="news-value-point">💡 几周来，伊朗支持的胡塞武装一直在攻击沙特的航空和能源部门</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="阿卜杜勒·赛义德（ Abdul El-Sayed ）指责迈克·罗杰斯（ Mike Rogers ）对特朗普罗杰斯先生指责El-Sayed博士对国家的忠诚度不够。这比他们上次的辩论更亲切。" data-title="MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways" data-date="10-22 10:43" data-source="纽约时报">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="由于移民限制和科技公司削减外籍员工，获得美国永久居留权对许多印度人来说正变得越来越遥不可及。" data-title="特朗普收紧绿卡政策，印度科技从业者的“美国梦”面临考验" data-date="10-22 17:21" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-22 17:21</span>
+          <span class="news-item-title">特朗普收紧绿卡政策，印度科技从业者的“美国梦”面临考验</span>
+          <span class="news-value-point">💡 由于移民限制和科技公司削减外籍员工，获得美国永久居留权对许多印度人来说正变得越来越遥不可及</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="阿卜杜勒·赛义德（ Abdul El-Sayed ）指责迈克·罗杰斯（ Mike Rogers ）对特朗普罗杰斯先生指责El-Sayed博士对国家的忠诚度不够。这比他们上次的辩论更亲切。" data-title="MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways" data-date="10-22 16:03" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-22 10:43</span>
+          <span class="news-item-date">10-22 16:03</span>
           <span class="news-item-title">MAGA宾果游戏和忠诚度问题： 5密歇根州参议院辩论要点</span>
           <span class="news-item-title-en">MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways</span>
           <span class="news-value-point">💡 阿卜杜勒·赛义德（ Abdul El-Sayed ）指责迈克·罗杰斯（ Mike Rogers ）对特朗普罗杰斯先生指责El-Sayed博士对国…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="与乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）的最新分歧提醒人们，特朗普总统很容易猛烈抨击其他世界领导人，但如果他们反击，就会变得愤怒。" data-title="In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example." data-date="10-22 10:29" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-22 10:29</span>
-          <span class="news-item-title">在特朗普的外交中，侮辱是一条单行道。乌克兰就是最新的例子。</span>
-          <span class="news-item-title-en">In Trump’s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.</span>
-          <span class="news-value-point">💡 与乌克兰总统弗拉基米尔·泽伦斯基（ Volodymyr Zelensky ）的最新分歧提醒人们，特朗普总统很容易猛烈抨击其他世界领导人，但如果他…</span>
         </a>
   </div>
   <div class="news-category">
@@ -221,6 +220,112 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/016/685.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，据小鹏汽车官方今日分享，10 月 21 日至 23 日，2026 世界智能网联汽车大会（WICV）在北京亦庄举办。小鹏人形机器人、小鹏 G9L、小鹏 X9、小鹏 G7 等多款产品集中登场，展现在物理 AI 赛道的技术积累。10 月 21 日，何小鹏出席大会 &quot; 巅峰对话 &quot; 环节。就主持人“特斯拉 FSD 与小鹏 NGP 表现接近”的提问，小鹏集团董事长、CEO 何小鹏表示：面对欧洲复杂的路况 —— 狭窄的小路、占比很高的单行道，甚至六车道环线地下没有标线的场景、人车穿行等，要做到符合当地政策法规、安全和文化，是一件很困难的事情。为什么小鹏和特斯拉都能在法国开？实际上，我们是将 L4 的模型能力，去满足靠边停车、在未曾见过的复杂路段符合当地法律法规与文化等。" data-title="何小鹏：L4 技术落地大概在 2028 年下半年，需要全体系软硬件一起开发" data-date="10-22 21:03" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-22 21:03</span>
+          <span class="news-item-title">何小鹏：L4 技术落地大概在 2028 年下半年，需要全体系软硬件一起开发</span>
+          <span class="news-value-point">💡 IT之家 10 月 22 日消息，据小鹏汽车官方今日分享，10 月 21 日至 23 日，2026 世界智能网联汽车大会（WICV）在北京亦庄举…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in" target="_blank" rel="noopener" data-cat="keji" data-summary="1Password推出了一项新功能，允许AI代理登录您的帐户，而无需实际查看或处理您的密码。正确命名的1Password for Agents不会让机器人免费访问您所有关联的帐户- y" data-title="1Password lets AI agents use your passwords without seeing them" data-date="10-22 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 21:00</span>
+          <span class="news-item-title">1Password允许人工智能代理在不显示密码的情况下使用您的密码</span>
+          <span class="news-item-title-en">1Password lets AI agents use your passwords without seeing them</span>
+          <span class="news-value-point">💡 1Password推出了一项新功能，允许AI代理登录您的帐户，而无需实际查看或处理您的密码</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings" target="_blank" rel="noopener" data-cat="keji" data-summary="在周三的特斯拉财报电话会议上，首席执行官埃隆·马斯克(Elon Musk)宣布，该公司已开始在加利福尼亚州弗里蒙特的大批量生产线上早期生产其人形机器人。然后他列出了仍然需要工作的东西：机器人的手，它的安全，" data-title="Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready" data-date="10-22 20:53" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 20:53</span>
+          <span class="news-item-title">仅仅因为特斯拉的擎天柱正在生产并不意味着它实际上已经准备就绪</span>
+          <span class="news-item-title-en">Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready</span>
+          <span class="news-value-point">💡 在周三的特斯拉财报电话会议上，首席执行官埃隆·马斯克(Elon Musk)宣布，该公司已开始在加利福尼亚州弗里蒙特的大批量生产线上早期生产其人形…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/016/682.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，OPPO Find 系列产品负责人卓世杰宣布：今天起，OPPO Find X10 系列正式登陆全球超过 60 个国家和地区。据IT之家昨日报道，OPPO 在海外市场推出 Find X10 全球版机型，12GB+256GB 版本售价为 1,099 英镑（IT之家注：现汇率约合 9,834 元人民币） / 1,299 欧元（现汇率约合 9,749 元人民币）。OPPO Find X10 全球版配备 6.59 英寸 LTPO AMOLED 屏幕，分辨率为 2768×1272，边框宽度 0.99 毫米，支持 144Hz 高刷，HDR 峰值亮度可达 3600 尼特。该机搭载联发科天玑 9600M 芯片，采用台积电 3nm 工艺打造。搭配 12GB LPDDR5X 内存" data-title="OPPO Find X10 系列手机正式登陆全球超过 60 个国家和地区" data-date="10-22 20:53" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-22 20:53</span>
+          <span class="news-item-title">OPPO Find X10 系列手机正式登陆全球超过 60 个国家和地区</span>
+          <span class="news-value-point">💡 IT之家 10 月 22 日消息，OPPO Find 系列产品负责人卓世杰宣布：今天起，OPPO Find X10 系列正式登陆全球超过 60 …</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/amd-ryzen-5-5500f-review" target="_blank" rel="noopener" data-cat="keji" data-summary="在使用基于塞尚的5500多年后， AMD终于将其$ 100的CPU升级到威猛(Vermeer)家族的5500F ，增加了200 MHz的时钟速度和PCIe 4.0升级。" data-title="AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs" data-date="10-22 20:40" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-22 20:40</span>
+          <span class="news-item-title">AMD Ryzen 5 5500F回顾：威猛(Vermeer)再次驾驶经济型游戏PC</span>
+          <span class="news-item-title-en">AMD Ryzen 5 5500F review: Vermeer rides again for budget gaming PCs</span>
+          <span class="news-value-point">💡 在使用基于塞尚的5500多年后， AMD终于将其$ 100的CPU升级到威猛(Vermeer)家族的5500F ，增加了200 MHz的时钟速度…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse" target="_blank" rel="noopener" data-cat="keji" data-summary="使用人工智能代理为您购物是一种奇怪的体验。科技公司将它们作为个人助理进行营销-劳动力的民主化通常只适用于富人和有权势的人。在实践中，至少在买东西的时候" data-title="AI agents are ready to shop. Some retailers are wary." data-date="10-22 20:30" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 20:30</span>
+          <span class="news-item-title">人工智能代理商已准备好购物。一些零售商持谨慎态度。</span>
+          <span class="news-item-title-en">AI agents are ready to shop. Some retailers are wary.</span>
+          <span class="news-value-point">💡 使用人工智能代理为您购物是一种奇怪的体验</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom" target="_blank" rel="noopener" data-cat="keji" data-summary="一家投资研究公司希望证明人工智能可以彻底改变药物开发。因此，他们与Anthropic合作，看看未发布的Claude版本是否可以制造蝎子抗蛇毒血清。它不能。它想出了一些有前途的起点" data-title="Claude did not invent scorpion antivenom" data-date="10-22 20:21" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 20:21</span>
+          <span class="news-item-title">克劳德没有发明蝎子抗蛇毒血清</span>
+          <span class="news-item-title-en">Claude did not invent scorpion antivenom</span>
+          <span class="news-value-point">💡 一家投资研究公司希望证明人工智能可以彻底改变药物开发</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations" target="_blank" rel="noopener" data-cat="keji" data-summary="美光认为，与较小的存储单元相比，更先进的处理技术在DRAM位密度方面将带来更多优势。" data-title="Micron pulls the plug on future 4F² DRAM after two decades of research in dramatic shift" data-date="10-22 20:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-22 20:00</span>
+          <span class="news-item-title">经过二十年的戏剧性转变研究，美光拔掉了未来4F ² DRAM的插头</span>
+          <span class="news-item-title-en">Micron pulls the plug on future 4F² DRAM after two decades of research in dramatic shift</span>
+          <span class="news-value-point">💡 美光认为，与较小的存储单元相比，更先进的处理技术在DRAM位密度方面将带来更多优势</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/video-games/retro-gaming/retro-atari-vcs-platform-will-end-with-the-closure-of-its-software-store-in-february-2027-os-update-will-be-released-removing-reliance-on-atari-servers-and-opening-up-homebrew-development" target="_blank" rel="noopener" data-cat="keji" data-summary="随着雅达利决定明年初关闭基于Linux的AMD APU驱动机器的软件商店，现代雅达利VCS正式退役。" data-title="Retro Atari VCS platform will end with the closure of its software store in February 2027" data-date="10-22 19:45" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-22 19:45</span>
+          <span class="news-item-title">Retro Atari VCS平台将于2027年2月关闭其软件商店</span>
+          <span class="news-item-title-en">Retro Atari VCS platform will end with the closure of its software store in February 2027</span>
+          <span class="news-value-point">💡 随着雅达利决定明年初关闭基于Linux的AMD APU驱动机器的软件商店，现代雅达利VCS正式退役</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719227.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社吉隆坡10月22日电 (记者 刘育英)马来西亚教育部副部长黄家和近日接受中新社专访时表示，马来西亚正发挥多语言、多元文化教育优势，推动对华教育合作从传统人才交流向职业教育、人工智能和数字教育等领域拓展。" data-title="专访马来西亚教育部副部长：马中教育合作从人才交流迈向新领域" data-date="10-22 19:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 19:17</span>
+          <span class="news-item-title">专访马来西亚教育部副部长：马中教育合作从人才交流迈向新领域</span>
+          <span class="news-value-point">💡 中新社吉隆坡10月22日电 (记者 刘育英)马来西亚教育部副部长黄家和近日接受中新社专访时表示，马来西亚正发挥多语言、多元文化教育优势，推动对华…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/storage/lto-roadmap-extends-to-365-tb-per-cartridge-as-tape-storage-refuses-to-die-25-year-old-format-sees-400x-capacity-increase-without-changing-form-factor" target="_blank" rel="noopener" data-cat="keji" data-summary="尽管存在各种可能性，但人工智能热潮正在增加磁带存储的相关性，因为技术可以在空闲状态下实现零功耗的廉价存储，以及具有气隙的终极安全性。" data-title="LTO roadmap extends to 365 TB per cartridge as tape storage refuses to die" data-date="10-22 19:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-22 19:00</span>
+          <span class="news-item-title">随着磁带存储拒绝死亡， LTO路线图扩展到每个磁带盒365 TB</span>
+          <span class="news-item-title-en">LTO roadmap extends to 365 TB per cartridge as tape storage refuses to die</span>
+          <span class="news-value-point">💡 尽管存在各种可能性，但人工智能热潮正在增加磁带存储的相关性，因为技术可以在空闲状态下实现零功耗的廉价存储，以及具有气隙的终极安全性</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c620re8ye3e4o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="BBC采访了多名前任和现任Google DeepMind员工，了解他们对人工智能在战场上应用的忧虑。" data-title="Google军事人工智能合约引发辞职潮" data-date="10-22 16:44" data-source="BBC">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-22 16:44</span>
+          <span class="news-item-title">Google军事人工智能合约引发辞职潮</span>
+          <span class="news-value-point">💡 BBC采访了多名前任和现任Google DeepMind员工，了解他们对人工智能在战场上应用的忧虑</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/504832.html" target="_blank" rel="noopener" data-cat="keji" data-summary="中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent" data-title="既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布" data-date="10-22 15:11" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-22 15:11</span>
+          <span class="news-item-title">既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布</span>
+          <span class="news-value-point">💡 中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/10/504800.html" target="_blank" rel="noopener" data-cat="keji" data-summary="挤进全球Physical AI核心供应链" data-title="谁在给OpenAI供应具身数据？" data-date="10-22 15:05" data-source="量子位">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-22 15:05</span>
+          <span class="news-item-title">谁在给OpenAI供应具身数据？</span>
+          <span class="news-value-point">💡 挤进全球Physical AI核心供应链</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/016/403.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中，讯飞星火 X2.6 端云一体大模型正式发布。讯飞星火 X2.6 宣称首次基于全国产算力实现代码和智能体能力突破。科大讯飞董事长刘庆峰表示，只有星火一家是用全国产算力训练的，其他全是在 N 卡上训练，而且科大讯飞的尺寸是最小的。此外，刘庆峰表示讯飞星火 X2.6 率先突破国产芯片长程任务的训练效率瓶颈，适配国产平台的长程任务动态并行训练技术，解决了因为国产芯片显存带宽限制导致的混合训练效率低下问题。对于国产算力集群在长程任务上的推理效率，科大讯飞也实现了两个重要创新：一个是基于国产异构算力的分布式推理技术，解决国产芯片显存带宽限制导致的训不快问题。另一个是提出基于国产设备的开发技术，很多东西都不用重新再计算，" data-title="讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破" data-date="10-22 14:40" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -228,119 +333,12 @@ title: 热点新闻
           <span class="news-item-title">讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力实现代码和智能体能力突破</span>
           <span class="news-value-point">💡 IT之家 10 月 22 日消息，在今日下午的科大讯飞全球 1024 开发者节活动中，讯飞星火 X2.6 端云一体大模型正式发布</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/401.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="绿联 25W 风冷三合一无线充电器定价 559 元，今日京东 11.11 直降至 499 元。TEC 半导体制冷 + 超薄冷却风扇，Apple Watch 充电模块支持 MFW 苹果官方认。功率 / 温度实时显示，手机充电支架支持 0~90° 自由悬停：京东绿联 25W 风冷无线充电器三合一 支持 iPhone 16 以上使用折后 499 元直达链接京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次：点此抽取。安克也有类似产品，不过价格稍高一些，此款海外定价 229 美元（约合 1500 元人民币）：京东 ANKER 25W 桌面无线充支架款 支持 TEC 风冷券后 1102.99 元领 0.88 元券另外安克口碑很好的折叠三合一，目前价格也算不错，比海外 149 美元便宜很" data-title="性价比之选：绿联 25W 风冷三合一充电支架 499 元，支持 MFW 苹果官方认证" data-date="10-22 14:40" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 14:40</span>
-          <span class="news-item-title">性价比之选：绿联 25W 风冷三合一充电支架 499 元，支持 MFW 苹果官方认证</span>
-          <span class="news-value-point">💡 绿联 25W 风冷三合一无线充电器定价 559 元，今日京东 11.11 直降至 499 元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/383.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，据彭博社报道，随着融资成本不断上升，投资者开始质疑软银集团能否持续投入巨额资金发展人工智能，软银市值可能较 6 月高点腰斩。当地时间 22 日，软银股价盘中一度下跌 6.7%，较 6 月 2 日创下的历史最高点累计跌幅达到 50%。美国超大市值企业的财报表现，也未能打消市场疑虑。市场对 AI 投资的担忧此前因美国云计算服务商 CoreWeave 陷入债务困境而加剧。CoreWeave 的债券价格跌至困境债券水平，暴露出整个行业面临的融资风险。Nagomi Capital 投资管理主管村松一之指出，投资者越来越关注 AI 企业的财务健康状况。软银高度依赖借贷融资，加上融资成本不断上升，使其财务风险显得尤为突出。如果全球市场对 AI 增长前景转为悲观，软银愿景基" data-title="软银股价较 6 月高点接近腰斩，AI 投资烧钱模式遭市场质疑" data-date="10-22 14:32" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 14:32</span>
-          <span class="news-item-title">软银股价较 6 月高点接近腰斩，AI 投资烧钱模式遭市场质疑</span>
-          <span class="news-value-point">💡 IT之家 10 月 22 日消息，据彭博社报道，随着融资成本不断上升，投资者开始质疑软银集团能否持续投入巨额资金发展人工智能，软银市值可能较 6…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/371.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，消息源 @Kepler_L2 昨日（10 月 21 日）在 X 平台发布推文，称索尼下一代主机 PS6 的整机物料清单（BOM）成本，将比微软下一代游戏主机 Project Helix 方案低约 200 美元（IT之家注：现汇率约合 1,338 元人民币）。科技媒体 gamingbolt 指出，微软下一代 XBOX 主机将采用代号为 Magnus 的核心芯片，由 AMD 联合设计开发，规模更大，性能也预计略强于 PS6 芯片：PS6 芯片算力约为 40 TFLOPS，Magnus 则约为 56 TFLOPS。IT之家此前援引 KeplerL2 爆料，索尼 PlayStation 6 主机仅内存与 NAND 闪存两项物料成本就超过 680 美元（现汇率约合 4" data-title="消息称索尼 PS6 物料成本比微软 XBOX Helix 游戏主机低约 200 美元" data-date="10-22 14:21" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 14:21</span>
-          <span class="news-item-title">消息称索尼 PS6 物料成本比微软 XBOX Helix 游戏主机低约 200 美元</span>
-          <span class="news-value-point">💡 IT之家 10 月 22 日消息，消息源 @Kepler_L2 昨日（10 月 21 日）在 X 平台发布推文，称索尼下一代主机 PS6 的整机…</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/" target="_blank" rel="noopener" data-cat="keji" data-summary="Blackstone的人工智能分析了为什么这家私募股权巨头不会对市场紧张感到恐慌。" data-title="Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown" data-date="10-22 06:51" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-22 06:51</span>
-          <span class="news-item-title">Blackstone的Jas Khaira表示，对人工智能建设债务的担忧被夸大了</span>
-          <span class="news-item-title-en">Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown</span>
-          <span class="news-value-point">💡 Blackstone的人工智能分析了为什么这家私募股权巨头不会对市场紧张感到恐慌</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report" target="_blank" rel="noopener" data-cat="keji" data-summary="新数据中心的涌入可能会使空气污染重新回到自21世纪初以来德克萨斯州的水平，这已经成为生成式人工智能背后的物理基础设施的起点。新的和拟议的数据中心要求巨大的" data-title="Data centers could erase decades of air quality gains" data-date="10-22 06:33" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-22 06:33</span>
-          <span class="news-item-title">数据中心可以抹去数十年的空气质量提升</span>
-          <span class="news-item-title-en">Data centers could erase decades of air quality gains</span>
-          <span class="news-value-point">💡 新数据中心的涌入可能会使空气污染重新回到自21世纪初以来德克萨斯州的水平，这已经成为生成式人工智能背后的物理基础设施的起点</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings" target="_blank" rel="noopener" data-cat="keji" data-summary="Meta表示，它正在发行一类新的股票，为其人工智能计划提供资金。作为周三发布的第三季度收益报告的一部分，该公司表示，无表决权的股票也将用于潜在的收购和员工薪酬。" data-title="Meta to create a new class of shares to fund AI push" data-date="10-22 05:30" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-22 05:30</span>
-          <span class="news-item-title">Meta创建新类别的股票，为人工智能推送提供资金</span>
-          <span class="news-item-title-en">Meta to create a new class of shares to fund AI push</span>
-          <span class="news-value-point">💡 Meta表示，它正在发行一类新的股票，为其人工智能计划提供资金</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028" target="_blank" rel="noopener" data-cat="keji" data-summary="英特尔在亚利桑那州和俄亥俄州的制造业扩张取得进展，继续扩大在美国的先进半导体制造能力" data-title="Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab" data-date="10-22 03:35" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-22 03:35</span>
-          <span class="news-item-title">英特尔在亚利桑那州的Fab 62安装生产工具，提供俄亥俄州芯片工厂的更新</span>
-          <span class="news-item-title-en">Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab</span>
-          <span class="news-value-point">💡 英特尔在亚利桑那州和俄亥俄州的制造业扩张取得进展，继续扩大在美国的先进半导体制造能力</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/" target="_blank" rel="noopener" data-cat="keji" data-summary="由于亚马逊阻止人工智能代理在其网站上购物，沃尔玛采取了相反的方法，引入了新技术，允许人工智能代理代表客户进行购买，并控制支出和交易审批。" data-title="While Amazon blocks AI agents, Walmart rolls out the welcome mat" data-date="10-22 03:30" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-22 03:30</span>
-          <span class="news-item-title">虽然亚马逊阻止人工智能代理，但沃尔玛推出了欢迎垫</span>
-          <span class="news-item-title-en">While Amazon blocks AI agents, Walmart rolls out the welcome mat</span>
-          <span class="news-value-point">💡 由于亚马逊阻止人工智能代理在其网站上购物，沃尔玛采取了相反的方法，引入了新技术，允许人工智能代理代表客户进行购买，并控制支出和交易审批</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/" target="_blank" rel="noopener" data-cat="keji" data-summary="这是人工智能发现和阻止的安全问题，但由于人工智能，这也是一个高风险。" data-title="PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet" data-date="10-22 01:59" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-22 01:59</span>
-          <span class="news-item-title">PHP世界末日： OpenAI ，谷歌的Wiz发现古老的漏洞，恐慌互联网</span>
-          <span class="news-item-title-en">PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet</span>
-          <span class="news-value-point">💡 这是人工智能发现和阻止的安全问题，但由于人工智能，这也是一个高风险</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/" target="_blank" rel="noopener" data-cat="keji" data-summary="Blacksmith是一个让公司更有效地构建和测试人工智能代码的平台，刚刚宣布了由红杉领导的6600万美元C轮融资，该公司的估值为10亿美元。" data-title="Blacksmith hits unicorn valuation after Sequoia leads Series C" data-date="10-22 01:18" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-22 01:18</span>
-          <span class="news-item-title">在红杉领先C系列后，铁匠达到独角兽估值</span>
-          <span class="news-item-title-en">Blacksmith hits unicorn valuation after Sequoia leads Series C</span>
-          <span class="news-value-point">💡 Blacksmith是一个让公司更有效地构建和测试人工智能代码的平台，刚刚宣布了由红杉领导的6600万美元C轮融资，该公司的估值为10亿美元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/160.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 22 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 在京东开启预约，将于 11 月 8 日正式发售。价格方面，8GB+128GB 版本 999 元，8GB+256GB 版本 1199 元，12GB+256GB 版本 1399 元。这款新机搭载 6.38 英寸 16:10 屏幕，仅 720x1158 分辨率，还支持 90Hz 刷新率；有鎏白、岩黑、嫣红三种配色可选，机身尺寸为 150.3×94.5×8.95mm，后置 5000 万像素摄像头。这款手机采用联发科曦力 G99 处理器，搭配 LPDDR4X 内存与 UFS 2.2 闪存，至高 12GB+256GB 存储，此外支持最大 256GB TF 卡拓展；电池容量 4600mAh。IT之家附" data-title="安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕" data-date="10-22 00:14" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 00:14</span>
-          <span class="news-item-title">安卓阵营首款阔直板手机酷派 COOL X Wide 售价公布：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕</span>
-          <span class="news-value-point">💡 IT之家 10 月 22 日消息，安卓阵营首款阔直板手机，也是酷派首款阔直板手机 Cool X Wide 在京东开启预约，将于 11 月 8 日…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/4tb-samsung-990-pro-m-2-ssd-falls-27-percent-hits-20-cents-per-gigabyte-our-favorite-high-capacity-pcie-gen-4-drive-is-the-ultimate-storage-for-your-game-library" target="_blank" rel="noopener" data-cat="keji" data-summary="4TB三星990 Pro的人工智能驱动价格大幅下跌27%。" data-title="4TB Samsung 990 Pro M.2 SSD falls 27%, hits 20 cents per gigabyte" data-date="10-22 00:07" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-22 00:07</span>
-          <span class="news-item-title">4TB三星990 Pro M.2固态硬盘下跌27% ，达到每GB 20美分</span>
-          <span class="news-item-title-en">4TB Samsung 990 Pro M.2 SSD falls 27%, hits 20 cents per gigabyte</span>
-          <span class="news-value-point">💡 4TB三星990 Pro的人工智能驱动价格大幅下跌27%</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline" target="_blank" rel="noopener" data-cat="keji" data-summary="埃隆·马斯克（ Elon Musk ）表示， ASML和其他半导体设备供应商正在加快Terafab的交付速度，因为特斯拉和SpaceX的目标是到2028年底在德克萨斯州批量生产芯片，同时大规模扩展人工智能计算能力。" data-title="ASML and other critical semiconductor equipment suppliers expedite shipments to Musk&#39;s Terafab" data-date="10-21 23:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-21 23:30</span>
-          <span class="news-item-title">ASML和其他关键半导体设备供应商加快向马斯克的Terafab发货</span>
-          <span class="news-item-title-en">ASML and other critical semiconductor equipment suppliers expedite shipments to Musk's Terafab</span>
-          <span class="news-value-point">💡 埃隆·马斯克（ Elon Musk ）表示， ASML和其他半导体设备供应商正在加快Terafab的交付速度，因为特斯拉和SpaceX的目标是到…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/148.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 21 日消息，英伟达今日在柏林 GTC 2026 大会上宣布，DGX Spark 此前支持最多 4 台设备组建集群，目前已开放手动配置最多 8 台设备组建集群。如果是以 128GB 版本组建，其统一内存容量最高可达 1TB。同时，英伟达还发布了本地 AI 平台更新，并宣布与 llama.cpp、vLLM 开源社区合作优化 AI 推理性能，在特定工作负载下，RTX PRO 6000 Blackwell 的推理性能最高提升 40%，DGX Spark 和 DGX Station 也分别获得最高 30% 和 20% 的性能提升。英伟达表示，4,999 美元（IT之家注：现汇率约合 33,450 元人民币）的 DGX Spark 的 64GB 版本将于 10 月 23 日开始通过" data-title="英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%" data-date="10-21 23:25" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-21 23:25</span>
-          <span class="news-item-title">英伟达 DGX Spark 支持 8 台集群：128GB 版本统一内存最高达 1TB，RTX PRO 6000 Blackwell 相关任务提速 40%</span>
-          <span class="news-value-point">💡 IT之家 10 月 21 日消息，英伟达今日在柏林 GTC 2026 大会上宣布，DGX Spark 此前支持最多 4 台设备组建集群，目前已开…</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">5 条</span>
+      <span class="news-category-count">3 条</span>
     </div>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="米克尔·阿尔特塔（ Mikel Arteta ）表示，阿森纳的布卡约·萨卡（ Bukayo Saka ）在拜仁慕尼黑的冠军联赛平局中受伤的四头肌“看起来一点也不好”。" data-title="Saka injury &#39;does not look good&#39; - how will Arsenal cope?" data-date="10-22 06:51" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -366,22 +364,6 @@ title: 热点新闻
           <span class="news-item-title-en">AI promises productivity, but for managers, it’s mostly a headache for now</span>
           <span class="news-value-point">💡 根据一项新的调查，超过50%的经理表示，他们发现在采用人工智能后更难评估员工的工作</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cqgm0ze7vepmo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Eberechi Eze本赛季一直在努力为阿森纳争取状态，但前锋可能有希望扭转局面。" data-title="Why Eze is struggling to find his form at Arsenal" data-date="10-21 17:22" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-21 17:22</span>
-          <span class="news-item-title">为什么Eze在阿森纳很难找到自己的状态</span>
-          <span class="news-item-title-en">Why Eze is struggling to find his form at Arsenal</span>
-          <span class="news-value-point">💡 Eberechi Eze本赛季一直在努力为阿森纳争取状态，但前锋可能有希望扭转局面</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/21/mikel-arteta-art-making-substitutions-arsenal-nottingham-forest-sunderland-leeds" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="由于替补球员的进球，阿森纳本赛季击败了诺丁汉森林队、桑德兰队和利兹队。Opta分析师表示，一次是意外，两次是巧合，三次是一种模式。在Mikel Arteta的替补之后" data-title="Mikel Arteta has mastered the art of making substitutions at Arsenal" data-date="10-21 15:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">10-21 15:00</span>
-          <span class="news-item-title">米克尔·阿尔特塔（ Mikel Arteta ）掌握了在阿森纳进行替补的艺术</span>
-          <span class="news-item-title-en">Mikel Arteta has mastered the art of making substitutions at Arsenal</span>
-          <span class="news-value-point">💡 由于替补球员的进球，阿森纳本赛季击败了诺丁汉森林队、桑德兰队和利兹队</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -389,111 +371,116 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/016/399.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，科技媒体 NeoWin 昨日（10 月 21 日）发布博文，介绍了在 Windows 11 系统中，如何借助系统自带的“任务计划程序”，错峰启动应用，从而缓解开机卡顿。该媒体指出，不少 Windows 用户习惯让聊天、云盘、游戏启动器等应用随系统自动运行，但当启动项过多后，登录后的头一两分钟常会明显卡顿，在配置较低的电脑上表现尤为明显。在 Windows 10、Windows 11 系统中，微软官方并未提供“延迟启动”选项，但用户可以按照以下步骤，让重要程序立即打开，而非必要程序延后运行，从而分散系统资源占用。IT之家援引博文介绍，附上让 Windows 11 稍后启动应用的步骤如下：1、前往“设置”&gt;“应用”&gt;“启动”，禁用您想要延迟启动的应用。这一点很重" data-title="Win10/Win11 学院：如何靠“任务计划程序”错峰启动应用，缓解开机卡顿" data-date="10-22 14:39" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/016/686.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，据消息源 LeicaRumors 昨日发文，徕卡计划推出 Hammertone 锤纹版 M-11P 数码旁轴相机和 M-A 胶片旁轴相机。IT之家了解到，徕卡早在今年春季就推出过 M-A 的锤纹限量版，纪念其日本银座旗舰店开业 20 周年，该机全球限量 100 台。不过新版机器据称将不限量，正面取消“20 周年”标识，金属的颜色也会略深一些。据悉，徕卡 M-A 是一台“回归摄影本质”的旁轴相机，整个机身完全没有任何电子元器件，过片、快门等操作完全使用机械驱动。相比 M-P 移除了测光表，因此无需电池即可使用。当然也没有自动曝光、自动对焦等现代功能。机械快门最快可达 1/1000 秒，闪光同步速度 1/50 秒。而徕卡 M-11P 是一台数码旁轴相机，配备 6" data-title="徕卡锤纹新机曝光：M-11P 数码旁轴与 M-A 胶片旁轴齐发" data-date="10-22 21:03" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 14:39</span>
-          <span class="news-item-title">Win10/Win11 学院：如何靠“任务计划程序”错峰启动应用，缓解开机卡顿</span>
-          <span class="news-value-point">💡 IT之家 10 月 22 日消息，科技媒体 NeoWin 昨日（10 月 21 日）发布博文，介绍了在 Windows 11 系统中，如何借助系…</span>
+          <span class="news-item-date">10-22 21:03</span>
+          <span class="news-item-title">徕卡锤纹新机曝光：M-11P 数码旁轴与 M-A 胶片旁轴齐发</span>
+          <span class="news-value-point">💡 IT之家 10 月 22 日消息，据消息源 LeicaRumors 昨日发文，徕卡计划推出 Hammertone 锤纹版 M-11P 数码旁轴相…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/397.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，近日有传闻称，eBay 中国于本周启动新一轮人员调整，涉及上海等主要办公点，中国区裁员比例或已达 80%。据蓝鲸新闻消息，eBay 相关负责人对此回应称，公司昨日进行了全球人员调整，中国是其中一部分；80% 的说法是臆测，CEO 表示此次调整影响了全球 9% 的员工。该负责人还表示，网上有很多相关消息，但可以肯定的是，eBay 并未关闭中国研发中心，也未退出中国市场；我们面向卖家的活动仍在稳步推进，12 月还将举办年度汽配卖家盛会。据IT之家此前援引法新社消息，美国电子商务平台 eBay 于当地时间 10 月 21 日表示，将裁员约 1000 个岗位。这大约占其总员工的 9%。该公司表示，这一决定“是为了确保我们保持强势地位”。为此，eBay 希望“使其劳动" data-title="eBay 回应中国区裁员 80% 传闻：系臆测，未退出中国市场" data-date="10-22 14:38" data-source="IT之家">
+        <a class="news-item" href="https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen" target="_blank" rel="noopener" data-cat="zonghe" data-summary="继去年5月推出其无线麦克风专业版系统后， Insta360宣布了一种更便宜的替代方案，该系统具有用于定制品牌的内置彩色E墨水屏幕和用于模拟不同拾音模式的三个麦克风阵列，" data-title="Insta360 launches a cheaper version of its wireless mics with color screens" data-date="10-22 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 21:00</span>
+          <span class="news-item-title">Insta360推出更便宜的带彩色屏幕的无线麦克风版本</span>
+          <span class="news-item-title-en">Insta360 launches a cheaper version of its wireless mics with color screens</span>
+          <span class="news-value-point">💡 继去年5月推出其无线麦克风专业版系统后， Insta360宣布了一种更便宜的替代方案，该系统具有用于定制品牌的内置彩色E墨水屏幕和用于模拟不同拾…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Birdbuddy终于推出了今年早些时候在CES 2026上最初宣布的新型智能喂鸟器，但有新的名称。Birdbuddy 2 Mini现在被称为Birdbuddy Nook ，它的设计是一个更小，更实惠的选择" data-title="Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets" data-date="10-22 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 21:00</span>
+          <span class="news-item-title">Birdbuddy's Nook是一款紧凑型智能喂鸟器，适用于小空间和预算</span>
+          <span class="news-item-title-en">Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets</span>
+          <span class="news-value-point">💡 Birdbuddy终于推出了今年早些时候在CES 2026上最初宣布的新型智能喂鸟器，但有新的名称</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="E到目前为止，我们测试的每台Googlebook笔记本电脑都有出色的硬件。问题在于软件。虽然Googlebook OS对笔记本电脑和手机如何协同工作有着令人兴奋的想法，但目前它主要是一种令人沮丧的体验，充满了令人讨厌的错误" data-title="Googlebooks just aren’t ready" data-date="10-22 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 21:00</span>
+          <span class="news-item-title">Googlebooks还没有准备好</span>
+          <span class="news-item-title-en">Googlebooks just aren’t ready</span>
+          <span class="news-value-point">💡 E到目前为止，我们测试的每台Googlebook笔记本电脑都有出色的硬件</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1015791/birdbuddy-home-nook-smart-bird-feeder-hands-on" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Birdbuddy的下一代智能喂鸟器终于来了。在BirdBuddy Nook （ 99美元起）和旗舰Birdbuddy Home （ 219美元）度过了几天之后，有一个明显的赢家： The Nook是完美的全能产品，" data-title="Birdbuddy’s budget feeder foiled my squirrels" data-date="10-22 21:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-22 21:00</span>
+          <span class="news-item-title">Birdbuddy的预算喂食器挫败了我的松鼠</span>
+          <span class="news-item-title-en">Birdbuddy’s budget feeder foiled my squirrels</span>
+          <span class="news-value-point">💡 Birdbuddy的下一代智能喂鸟器终于来了</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/016/684.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，影石今晚发布了全新轻旗舰级无线麦克风 Insta360 Mic，单枚发射器售价 499 元，首发价 439 元。与今年 5 月发布的旗舰 Mic Pro 相比，这款新品的核心变化不在收音硬件，而在存储：Mic Pro 内置存储不可扩展，Mic 则将其替换为可插拔的 microSD 卡槽。据影石介绍，不插卡时，麦克风仍可通过蓝牙或接收器连接设备正常收音，内录功能不开启；插入 microSD 卡后，32-bit 浮点内录才被激活，录音文件直接写入用户自备的存储卡。对于已经为运动相机或无人机购置过多张 microSD 卡的用户，这相当于省去了一笔专用存储的重复投入。除此之外，Mic 在其余核心配置上基本沿用了 Mic Pro 的方案。每枚发射器搭载自定义墨水屏，可" data-title="439 元起影石 Insta360 Mic 发布，用 microSD 卡槽换掉 Mic Pro 的内置存储" data-date="10-22 20:59" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 14:38</span>
-          <span class="news-item-title">eBay 回应中国区裁员 80% 传闻：系臆测，未退出中国市场</span>
-          <span class="news-value-point">💡 IT之家 10 月 22 日消息，近日有传闻称，eBay 中国于本周启动新一轮人员调整，涉及上海等主要办公点，中国区裁员比例或已达 80%</span>
+          <span class="news-item-date">10-22 20:59</span>
+          <span class="news-item-title">439 元起影石 Insta360 Mic 发布，用 microSD 卡槽换掉 Mic Pro 的内置存储</span>
+          <span class="news-value-point">💡 IT之家 10 月 22 日消息，影石今晚发布了全新轻旗舰级无线麦克风 Insta360 Mic，单枚发射器售价 499 元，首发价 439 元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719032.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网10月22日电 据福建省应急管理厅网站消息，今年第30号台风“蔷琵”22日11时中心距离台湾台北市东南方向约660公里，中心附近最大风力16级(52米/秒，超强台风级)。福建省气象台22日12时将“台风预警”提升为Ⅲ级，根据《福建省防汛抗旱防台风应急预案》，经会商研判，省防指决定22日12时提升防台风应急响应为三级。请各地各部门密切关注台风“蔷琵”动态与风雨浪的影响，及时调整响应，周密部署防范措施，坚决果断组织转移避险，扎实做好应对工作。" data-title="台风“蔷琵”临近 福建提升防台风应急响应至三级" data-date="10-22 14:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:32</span>
-          <span class="news-item-title">台风“蔷琵”临近 福建提升防台风应急响应至三级</span>
-          <span class="news-value-point">💡 中新网10月22日电 据福建省应急管理厅网站消息，今年第30号台风“蔷琵”22日11时中心距离台湾台北市东南方向约660公里，中心附近最大风力1…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719031.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网兰州10月22日电 (记者 冯志军 高莹)“受几代人耳濡目染的影响，在孩子们心中，会师塔就像红军叔叔。”甘肃白银市会宁县红军长征胜利纪念馆馆长任霞近日接受中新社、中新网记者采访表示，多年来，不仅管理方会对会师塔等纪念设施进行定期或不定期的修缮保护，而且每一个会宁人都是“守塔人”。" data-title="长征路上学党史丨甘肃会宁“守塔人”" data-date="10-22 14:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:31</span>
-          <span class="news-item-title">长征路上学党史丨甘肃会宁“守塔人”</span>
-          <span class="news-value-point">💡 中新网兰州10月22日电 (记者 冯志军 高莹)“受几代人耳濡目染的影响，在孩子们心中，会师塔就像红军叔叔</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/373.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，富士通客户端计算 (FCCL) 今日发布了 2026 年冬季新品，其中就包括了与即将上映的电影《哥斯拉-0.0》联名的 FMV Zero Note U 笔电 WU3G-L3。该机型属于 FMV Note U 家族，其中就包含了质量仅有 634g 的超轻机型；名称中的 Zero 代表其属于 FCCL 第一方电商平台销售产品且采用纯黑配色方案。《哥斯拉-0.0》联名型号 A 面为墨色的哥斯拉形象；C 面触控板印有哥斯拉背鳍图案，回车键上印有“G-0.0”标志；D 面拥有限定铭牌贴纸；预装 3 张独家原创壁纸与哥斯拉脚印光标主题；随附主题电源适配器。该联名型号拥有全镁合金机身，可选 AMD 锐龙 AI 7 445 / 5 430 处理器，配备 14.0&quot; WUXG" data-title="富士通客户端计算推出电影《哥斯拉-0.0》联名 FMV Zero Note U 笔电" data-date="10-22 14:26" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/016/681.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，据 Android Authority 今日报道，索尼似乎通过 2026 年 6 月的固件更新限制了部分 Xperia 手机在非官方支持市场使用 5G 网络的能力。根据大量 Reddit 用户反馈，受影响设备包括 Xperia 1 V 及更新机型，涉及美国、加拿大、澳大利亚和多个欧洲国家地区。部分用户表示，更新后手机仍可使用 VoLTE，但无法再连接 5G 网络，此前通过切换双卡双待（DSDS）功能并重启手机来恢复 5G 功能的方法也已失效。索尼美国官网的 Xperia 1 V 软件更新记录显示，相关固件版本为 67.2.A.3.178，发布日期是 2026 年 6 月 29 日，更新说明仅提到安全补丁更新至 2026 年 6 月 1 日。Reddit 上的" data-title="非官方支持地区用户反馈 Xperia 系统更新后无法使用 5G 网络，索尼尚未回应" data-date="10-22 20:51" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 14:26</span>
-          <span class="news-item-title">富士通客户端计算推出电影《哥斯拉-0.0》联名 FMV Zero Note U 笔电</span>
-          <span class="news-value-point">💡 IT之家 10 月 22 日消息，富士通客户端计算 (FCCL) 今日发布了 2026 年冬季新品，其中就包括了与即将上映的电影《哥斯拉-0.0…</span>
+          <span class="news-item-date">10-22 20:51</span>
+          <span class="news-item-title">非官方支持地区用户反馈 Xperia 系统更新后无法使用 5G 网络，索尼尚未回应</span>
+          <span class="news-value-point">💡 IT之家 10 月 22 日消息，据 Android Authority 今日报道，索尼似乎通过 2026 年 6 月的固件更新限制了部分 Xp…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/372.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，PHP 存在两个远程代码执行超危漏洞，危害严重。PHP 是一款广泛用于 Web 开发的开源服务器端脚本语言。由于其存在两个超危远程代码执行漏洞，未经身份验证的攻击者可利用其远程执行任意代码，造成服务器受控、敏感信息泄露、业务中断等危害。受影响的 PHP 范围包括：8.5 系列＜8.5.12、8.4 系列＜8.4.27、8.3 系列＜8.3.36、8.2 系列＜8.2.35、8.1 系列及更早版本。目前，PHP 安全团队已修复漏洞并发布安全公告（URL 链接：https://www.php.net/ archive/2026.php#2026-10-21-5）。建议相关单位和用户立即开展全" data-title="工信部 NVDB 发布关于防范 PHP 远程代码执行超危漏洞的风险提示" data-date="10-22 14:22" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/016/677.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 22 日消息，前段时间爆火的第一人称射击游戏《战狗》（Wardogs）开发商 Bulkhead 正在逐步实施跨地区匹配限制，希望借此减少作弊行为。该工作室表示，此举旨在保护尽可能多的玩家，避免作弊较严重地区的玩家对其他地区玩家的游戏体验造成影响。不过，这项措施也引发了部分玩家的不满，部分玩家甚至抗议表示将申请退款。目前，《战狗》采用的地区限制方案以网络延迟为依据，将玩家的最高允许延迟限制在 175 毫秒。超过这一阈值的玩家将受到跨地区游戏限制。Bulkhead 表示，相关功能正在服务器后台逐步实施，但要达到预期效果，还需要进一步调整。Bulkhead 称，团队原本希望通过更宽松的跨地区匹配机制改善玩家的社交体验，但此前的做法未能达到预期，因此决定进一步收紧限制。工作室表示" data-title="《战狗》为打击作弊限制跨区匹配：游戏延迟超 175ms 则受限制，部分玩家威胁退款" data-date="10-22 20:41" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 14:22</span>
-          <span class="news-item-title">工信部 NVDB 发布关于防范 PHP 远程代码执行超危漏洞的风险提示</span>
-          <span class="news-value-point">💡 IT之家 10 月 22 日消息，近日，工业和信息化部网络安全威胁和漏洞信息共享平台（NVDB）监测发现，PHP 存在两个远程代码执行超危漏洞，…</span>
+          <span class="news-item-date">10-22 20:41</span>
+          <span class="news-item-title">《战狗》为打击作弊限制跨区匹配：游戏延迟超 175ms 则受限制，部分玩家威胁退款</span>
+          <span class="news-value-point">💡 IT之家 10 月 22 日消息，前段时间爆火的第一人称射击游戏《战狗》（Wardogs）开发商 Bulkhead 正在逐步实施跨地区匹配限制，…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719010.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网伊春10月22日电(陈云冬)“火头向西转移，泵组迅速前出实施压制。”21日，小兴安岭腹地一处林场浓烟升腾、机具轰鸣，一场无预案森林灭火实战演练打响。当前正值秋季森林防火关键期，林区草木干枯，火险等级持续攀升。黑龙江消防救援机动总队伊春支队将练兵场搬进深山密林，组织指战员开展全要素实战灭火演练，在贴近实战的复杂环境中检验队伍快速响应、攻坚处置能力。" data-title="黑龙江伊春开展无预案森林灭火全要素实战演练" data-date="10-22 14:04" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719324.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网成都10月22日电(祝欢)22日，“匠心织造·工装风尚”2026成都职工工装风尚T台秀正式开秀。劳模工匠、企业职工、行业代表穿上工装，依次走上红毯，工装不再是车间和柜面后的“制服背景”，而被放上主舞台中央。" data-title="从工作一线走上T台 2026成都职工工装风尚T台秀举行" data-date="10-22 20:33" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:04</span>
-          <span class="news-item-title">黑龙江伊春开展无预案森林灭火全要素实战演练</span>
-          <span class="news-value-point">💡 中新网伊春10月22日电(陈云冬)“火头向西转移，泵组迅速前出实施压制</span>
+          <span class="news-item-date">10-22 20:33</span>
+          <span class="news-item-title">从工作一线走上T台 2026成都职工工装风尚T台秀举行</span>
+          <span class="news-value-point">💡 中新网成都10月22日电(祝欢)22日，“匠心织造·工装风尚”2026成都职工工装风尚T台秀正式开秀</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10718996.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京10月22日电 (记者 刘文文)十月的羌塘草原，夜风裹挟着刺骨寒意而来。海拔4886米处，一束束头灯沿着青藏铁路钢轨缓缓向前。西藏那曲市安多县扎加藏布信号工区的五名青年，正奔赴“天窗”作业点。" data-title="“天路”守夜人" data-date="10-22 13:52" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719307.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网沈阳10月22日电(杨茜茜)为纪念中国工农红军长征胜利90周年，传承弘扬伟大长征精神，走好新时代长征路，22日至25日，“伟大的征程 不朽的精神”辽宁省残疾人书画文创作品展在辽宁美术馆开展，以文艺力量展现残健同心、自强奋进的辽沈风貌。" data-title="走好新时代的长征路 辽宁省残疾人书画文创作品展启幕" data-date="10-22 20:31" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:52</span>
-          <span class="news-item-title">“天路”守夜人</span>
-          <span class="news-value-point">💡 中新网北京10月22日电 (记者 刘文文)十月的羌塘草原，夜风裹挟着刺骨寒意而来</span>
+          <span class="news-item-date">10-22 20:31</span>
+          <span class="news-item-title">走好新时代的长征路 辽宁省残疾人书画文创作品展启幕</span>
+          <span class="news-value-point">💡 中新网沈阳10月22日电(杨茜茜)为纪念中国工农红军长征胜利90周年，传承弘扬伟大长征精神，走好新时代长征路，22日至25日，“伟大的征程 不朽…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10718986.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网10月22日电 据应急管理部微信公众号消息，近日，国家防灾减灾救灾委员会办公室、应急管理部会同有关成员单位，对2026年前三季度全国自然灾害情况进行了会商分析。前三季度，我国自然灾害以地质灾害、台风灾害、洪涝灾害、风雹灾害为主，干旱灾害、地震灾害、低温雨雪冰冻和雪灾、生物灾害、森林草原火灾等也有不同程度发生。据初步统计，各种自然灾害共造成全国5646万人次不同程度受灾，死亡失踪1162人，紧急转移安置和需紧急生活救助504.9万人次；倒塌房屋1.3万户5.2万间，损坏房屋17.0万户43万间；农作物受灾面积4739.7千公顷；直接经济损失1993.6亿元。" data-title="2026年前三季度全国自然灾害情况发布" data-date="10-22 13:48" data-source="中国新闻网">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/cyber-security/leaked-private-keys-for-eight-ca-certificates-let-any-attacker-impersonate-any-domain-billions-of-older-devices-and-software-installations-may-be-vulnerable-after-round-of-fixes-patch-yours-immediately" target="_blank" rel="noopener" data-cat="zonghe" data-summary="八个CA证书的私钥泄露让任何攻击者都可以模拟任何域—经过一轮修复后，数十亿台旧设备和软件安装可能容易受到攻击，请立即修补您的问题" data-title="Leaked private keys for eight CA certificates let any attacker impersonate any domain" data-date="10-22 20:30" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:48</span>
-          <span class="news-item-title">2026年前三季度全国自然灾害情况发布</span>
-          <span class="news-value-point">💡 中新网10月22日电 据应急管理部微信公众号消息，近日，国家防灾减灾救灾委员会办公室、应急管理部会同有关成员单位，对2026年前三季度全国自然灾…</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-22 20:30</span>
+          <span class="news-item-title">泄露的八个CA证书的私钥让任何攻击者都可以模拟任何域</span>
+          <span class="news-item-title-en">Leaked private keys for eight CA certificates let any attacker impersonate any domain</span>
+          <span class="news-value-point">💡 八个CA证书的私钥泄露让任何攻击者都可以模拟任何域—经过一轮修复后，数十亿台旧设备和软件安装可能容易受到攻击，请立即修补您的问题</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10718977.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网杭州10月22日电 (钱晨菲)22日，浙江省防指发布消息称，决定于当日8时将海上防台风应急响应调整为防台风Ⅳ级应急响应。" data-title="受台风“蔷琵”影响 浙江调整防台风应急响应至Ⅳ级" data-date="10-22 13:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:27</span>
-          <span class="news-item-title">受台风“蔷琵”影响 浙江调整防台风应急响应至Ⅳ级</span>
-          <span class="news-value-point">💡 中新网杭州10月22日电 (钱晨菲)22日，浙江省防指发布消息称，决定于当日8时将海上防台风应急响应调整为防台风Ⅳ级应急响应</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10718952.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网雅安10月22日电 题：强渡“第一船”靠岸91年后：大渡河畔的新生活" data-title="（长征胜利90周年）强渡“第一船”靠岸91年后：大渡河畔的新生活" data-date="10-22 13:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:12</span>
-          <span class="news-item-title">（长征胜利90周年）强渡“第一船”靠岸91年后：大渡河畔的新生活</span>
-          <span class="news-value-point">💡 中新网雅安10月22日电 题：强渡“第一船”靠岸91年后：大渡河畔的新生活</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10718951.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网武汉10月22日电 (江珊 马芙蓉)记者22日从中国科学院武汉植物园获悉，该园植物多样性与进化研究团队在肯尼亚和坦桑尼亚东部沿海地区，发现丽梭瓜属新种，命名为“东方丽梭瓜”。" data-title="武汉科研团队在非洲发现丽梭瓜属植物新种" data-date="10-22 13:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:09</span>
-          <span class="news-item-title">武汉科研团队在非洲发现丽梭瓜属植物新种</span>
-          <span class="news-value-point">💡 中新网武汉10月22日电 (江珊 马芙蓉)记者22日从中国科学院武汉植物园获悉，该园植物多样性与进化研究团队在肯尼亚和坦桑尼亚东部沿海地区，发现…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10718934.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网哈尔滨10月22日电 (记者 王妮娜)黑龙江省农业农村厅22日发布消息，截至10月21日，全省农作物已收获20751.1万亩，占应收农作物面积的88%以上。全省各地正全力抢抓晴好天气推进秋收，确保粮食颗粒归仓，部分农场秋收告捷。" data-title="黑龙江全省秋收进度近九成 部分区域秋收告捷" data-date="10-22 11:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 11:11</span>
-          <span class="news-item-title">黑龙江全省秋收进度近九成 部分区域秋收告捷</span>
-          <span class="news-value-point">💡 中新网哈尔滨10月22日电 (记者 王妮娜)黑龙江省农业农村厅22日发布消息，截至10月21日，全省农作物已收获20751.1万亩，占应收农作物…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这项裁决在很大程度上阻止了国土安全人员在包括加利福尼亚州在内的九个州进行实地采访，这是寻找登记投票的非公民的庞大努力的一部分。" data-title="Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud" data-date="10-22 10:41" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/21/us/politics/judge-dhs-voter-fraud-elections.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这项裁决在很大程度上阻止了国土安全人员在包括加利福尼亚州在内的九个州进行实地采访，这是寻找登记投票的非公民的庞大努力的一部分。" data-title="Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud" data-date="10-22 20:06" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-22 10:41</span>
+          <span class="news-item-date">10-22 20:06</span>
           <span class="news-item-title">法官限制针对发掘选民欺诈的DHS现场作业</span>
           <span class="news-item-title-en">Judge Restricts D.H.S. Field Operations Aimed at Unearthing Voter Fraud</span>
           <span class="news-value-point">💡 这项裁决在很大程度上阻止了国土安全人员在包括加利福尼亚州在内的九个州进行实地采访，这是寻找登记投票的非公民的庞大努力的一部分</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ckjwe7jzn21no/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="植物、脂肪和发酵食品可以减少皱纹，促进胶原蛋白生长，并改善皮肤质地。" data-title="吃什么能保持年轻肌肤？" data-date="10-22 08:21" data-source="BBC">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719294.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京10月22日电 (记者 孙自法)中国科技馆10月22日向媒体通报说，在纪念中国工农红军长征胜利90周年之际，该馆推出AI(人工智能)微短剧《1935年的来电，请接听》，剧情基于长征队伍中通信工作者的真实故事改编，讲述90年前烽火岁月中的技术探索与人物精神。" data-title="中国科技馆推出AI微短剧《1935年的来电，请接听》" data-date="10-22 19:48" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-22 08:21</span>
-          <span class="news-item-title">吃什么能保持年轻肌肤？</span>
-          <span class="news-value-point">💡 植物、脂肪和发酵食品可以减少皱纹，促进胶原蛋白生长，并改善皮肤质地</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 19:48</span>
+          <span class="news-item-title">中国科技馆推出AI微短剧《1935年的来电，请接听》</span>
+          <span class="news-value-point">💡 中新网北京10月22日电 (记者 孙自法)中国科技馆10月22日向媒体通报说，在纪念中国工农红军长征胜利90周年之际，该馆推出AI(人工智能)微…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719288.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网哈尔滨10月22日电 (史轶夫 刘烨)10月25日起，全国民航将执行2026—2027年冬春航季航班计划。记者从黑龙江机场集团获悉，新航季，黑龙江机场集团每周计划执行航班4450架次，其中哈尔滨机场每周计划执行航班3510架次，航线网络结构进一步优化，航班密度稳步提升。" data-title="2026—2027冬春航季将至 黑龙江干支联动护航冰雪旅游客流" data-date="10-22 19:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 19:41</span>
+          <span class="news-item-title">2026—2027冬春航季将至 黑龙江干支联动护航冰雪旅游客流</span>
+          <span class="news-value-point">💡 中新网哈尔滨10月22日电 (史轶夫 刘烨)10月25日起，全国民航将执行2026—2027年冬春航季航班计划</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719286.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网兰州10月22日电 (刘薛梅)在语言不通、民俗各异的环境下，怎样把消防宣传做到牧区群众心里，并收获群众认可与信任？甘肃省武威市天祝藏族自治县消防救援大队“消防娘子军”打造《格桑话消防》汉藏双语科普短视频，探索推行“阵地＋场景＋双语”的宣传模式，得到牧区群众的认可。" data-title="雪域高原“格桑”话消防" data-date="10-22 19:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 19:38</span>
+          <span class="news-item-title">雪域高原“格桑”话消防</span>
+          <span class="news-value-point">💡 中新网兰州10月22日电 (刘薛梅)在语言不通、民俗各异的环境下，怎样把消防宣传做到牧区群众心里，并收获群众认可与信任</span>
         </a>
   </div>
 </div>
@@ -626,4 +613,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-22 14:44（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-22 21:05（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-22 14:44（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-22 21:05（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6738</span>
+      <span class="ticker-price ticker-down">6.6736</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg43043" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.6 L46.7,15.4 L68.0,18.8 L89.3,14.1 L110.7,21.1 L132.0,25.9 L153.3,29.2 L174.7,37.2 L196.0,38.0 L196,40 Z" fill="url(#sg43043)"/><polyline points="4.0,6.0 25.3,17.6 46.7,15.4 68.0,18.8 89.3,14.1 110.7,21.1 132.0,25.9 153.3,29.2 174.7,37.2 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg56377" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.5 L46.7,15.3 L68.0,18.7 L89.3,14.1 L110.7,21.0 L132.0,25.8 L153.3,29.1 L174.7,37.0 L196.0,38.0 L196,40 Z" fill="url(#sg56377)"/><polyline points="4.0,6.0 25.3,17.5 46.7,15.3 68.0,18.7 89.3,14.1 110.7,21.0 132.0,25.8 153.3,29.1 174.7,37.0 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:39:05（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:06:29（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,064.35 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -76.75 (-1.85%)</span>
+      <span class="ticker-price ticker-down">$4,080.12 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -60.98 (-1.47%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:39:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:06:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥879.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -8.12 (-0.91%)</span>
+      <span class="ticker-price ticker-down">¥877.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.96 (-0.22%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:04（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:06:23（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$111.92 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +3.10 (+2.84%)</span>
+      <span class="ticker-price ticker-up">$112.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +3.44 (+3.16%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:39:06（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 21:06:43（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/016/687.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 22 日消息，彭博社今日报道称，华为已从六家中资银行获得一笔总额为 150 亿元的离岸银团贷款。这笔贷款期限为 7 年，以离岸人民币计价，资金将用于一般企业用途。参与贷款的银行包括中国银行、中国建设银行和中国工商银行等。知情人士透露，华为在最终确定贷款前，曾与国际银行进行初步接洽。华为及上述三家银行当时未立即回应置评请求。这是华为自 2020 年以来首次进行离岸银团贷款融资。根据彭博社汇总的数据，华为在 2020 年曾筹集 118 亿港元（IT之家注：现汇率约合 100.6 亿元人民币）贷款。2019 年之前，华为也曾通过由欧洲、美国和亚洲银行组成的银团，在国际市场进行数十亿美元规模的离岸融资。根据华为最新披露的 2026 年上半年财务数据，公司研发费用达到 1214 亿" data-title="消息称华为获 150 亿元离岸贷款：自 2020 年以来首次获得离岸银团贷款" data-date="10-22 21:03" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-22 21:03</span>
+          <span class="news-item-title">消息称华为获 150 亿元离岸贷款：自 2020 年以来首次获得离岸银团贷款</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719315.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡10月22日电 (记者 刘育英)马来西亚国内贸易和生活成本部副部长傅芝雅(Fuziah Salleh)22日在国会下议院表示，自今年3月16日开展打击补贴商品走私及违规挪用专项行动(OPS Tiris4.0)以来，执法部门累计进行近12.6万次检查，查获1542宗案件，查获物品总值约5990万林吉特(约合9800万元人民币)，共逮捕514人。" data-title="马来西亚打击补贴商品外流 半年多查处逾1500宗案件" data-date="10-22 21:00" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 21:00</span>
+          <span class="news-item-title">马来西亚打击补贴商品外流 半年多查处逾1500宗案件</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/016/683.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 22 日消息，10 月 21 日，2026 世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、长安汽车股份有限公司董事长赵非出席并发表《AI 赋能 数智互联 共筑汽车产业新生态》主题演讲。对于智能网联汽车全球化发展趋势，赵非提出两大判断：一是在端侧物理 AI 领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源 Q06 上市首月城区领航版订单占比近 50%，预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营。二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。赵非强调，安全是智能网联汽车发展的根本前提，也是不可逾越的底线。长安构建多维安全体系，累计参与制定国际、国家、行业标准 360 余项。最后" data-title="长安汽车董事长赵非：预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营" data-date="10-22 20:58" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-22 20:58</span>
+          <span class="news-item-title">长安汽车董事长赵非：预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719317.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都10月22日电 (记者 张浪)四川省资阳市监委22日消息：四川发展(控股)有限责任公司派驻出资企业专职董事朱全芳涉嫌严重违纪违法，目前四川省纪委监委驻四川发展(控股)有限责任公司纪检监察组正对其进行纪律审查，经四川省监委指定资阳市监委管辖，资阳市监委指定安岳县监委管辖，安岳县监委正对其进行监察调查。" data-title="四川发展（控股）有限责任公司派驻出资企业专职董事朱全芳接受审查调查" data-date="10-22 20:32" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 20:32</span>
+          <span class="news-item-title">四川发展（控股）有限责任公司派驻出资企业专职董事朱全芳接受审查调查</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719316.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都10月22日电 (记者 张浪)四川省南充市纪委监委22日消息：日前，经南充市委批准，南充市纪委监委对四川营山经济开发区党工委原书记何国民严重违纪违法问题进行了立案审查调查。" data-title="四川营山经济开发区党工委原书记何国民被“双开”" data-date="10-22 20:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 20:31</span>
+          <span class="news-item-title">四川营山经济开发区党工委原书记何国民被“双开”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719290.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网兰州10月22日电 (李文 赵好飞)从黄土高原炕头的家常针线活到国际时装周的时尚元素，从姑娘出嫁的压箱嫁妆到带动数千妇女增收的“指尖经济”，甘肃省临夏州东乡族刺绣这门生活技艺，完成了从“深闺自用”到“出圈出彩”的转变。" data-title="黄土高原的绣花针，扎进了国际时尚圈" data-date="10-22 19:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 19:44</span>
+          <span class="news-item-title">黄土高原的绣花针，扎进了国际时尚圈</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719017.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社东京10月21日电(记者陈泽安 梁晨)日本多家媒体连日来发表文章，对高市早苗就任日本首相一年来的工作进行回顾，称其经济和外交政策并未产生应有效果，批评其扩军政策破坏和平，将其独断专行的执政风格形容为“无人踩刹车的巴士”。" data-title="日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”" data-date="10-22 14:11" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -549,30 +585,6 @@ title: 股票财经
           <span class="news-item-date">10-21 23:18</span>
           <span class="news-item-title">河北怀安：“一只羊”到“一条链”的产业致富经</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-21/10718808.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳10月21日电 (索有为 胡俊瑶)2026年度广东全省海洋产业高质量发展推进工作会议21日在深圳举行。广东省委副书记、省长孟凡利出席会议并讲话，强调要奋发进取、积极作为，加快发展海洋经济、海洋产业，奋力书写全面建设海洋强省的新篇章。" data-title="广东举行2026年度全省海洋产业高质量发展推进工作会" data-date="10-21 23:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 23:18</span>
-          <span class="news-item-title">广东举行2026年度全省海洋产业高质量发展推进工作会</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718794.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网吉林10月21日电 (记者 苍雁 石洪宇)长春2027第33届世界大学生冬季运动会(下称“长春大冬会”)吉林市分赛区委员会相关负责人21日介绍，吉林市分赛区筹备工作总体进展符合预期，赛道基础施工与赛道平整工程已全面完工。" data-title="长春大冬会吉林市分赛区雪上项目赛道基础施工收官" data-date="10-21 22:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 22:48</span>
-          <span class="news-item-title">长春大冬会吉林市分赛区雪上项目赛道基础施工收官</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718793.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广西三江10月21日电(龚普康 莫飒)中华文学基金会“文润三江 情满侗乡”——“育才图书室”捐赠仪式，近日在广西三江侗族自治县民族实验学校教育集团初中部举行。中华文学基金会携手番茄小说，向三江5个“育才图书室”捐赠图书近1.8万册，价值逾78万元人民币。" data-title="中华文学基金会“育才图书室”捐赠仪式在广西三江举行" data-date="10-21 22:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 22:47</span>
-          <span class="news-item-title">中华文学基金会“育才图书室”捐赠仪式在广西三江举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-21/10718782.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月21日电 据美国《华尔街日报》20日报道，据美国官员和知情人士透露，美国企业家马斯克下令降低乌克兰所依赖的军用级“星链”网络速度，这一决定在基辅引发恐慌，并在美国总统特朗普领导的政府内部造成混乱。" data-title="美媒：马斯克下令对军用级“星链”限速，令乌措手不及" data-date="10-21 22:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 22:11</span>
-          <span class="news-item-title">美媒：马斯克下令对军用级“星链”限速，令乌措手不及</span>
-        </a>
   </div>
 </div>
 
@@ -586,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-22 14:44（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-22 21:05（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
