@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-22 01:25（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-22 14:44（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -54,15 +54,15 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,679.86</span>
-      <span class="ticker-change down">▼ -0.89%</span>
+      <span class="ticker-price ticker-down">3,663.36</span>
+      <span class="ticker-change down">▼ -1.34%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg79641" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.5 L25.3,6.0 L46.7,10.0 L68.0,9.1 L89.3,17.1 L110.7,31.4 L132.0,29.3 L153.3,25.8 L174.7,24.7 L196.0,38.0 L196,40 Z" fill="url(#sg79641)"/><polyline points="4.0,6.5 25.3,6.0 46.7,10.0 68.0,9.1 89.3,17.1 110.7,31.4 132.0,29.3 153.3,25.8 174.7,24.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg52492" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.4 L25.3,6.0 L46.7,9.5 L68.0,8.7 L89.3,15.9 L110.7,28.6 L132.0,26.7 L153.3,23.6 L174.7,22.7 L196.0,38.0 L196,40 Z" fill="url(#sg52492)"/><polyline points="4.0,6.4 25.3,6.0 46.7,9.5 68.0,8.7 89.3,15.9 110.7,28.6 132.0,26.7 153.3,23.6 174.7,22.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-22 11:35:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-22 14:45:38（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -70,15 +70,15 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">11,496.07</span>
-      <span class="ticker-change down">▼ -1.78%</span>
+      <span class="ticker-price ticker-down">11,402.47</span>
+      <span class="ticker-change down">▼ -2.58%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg3352" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.6 L25.3,6.0 L46.7,13.2 L68.0,14.0 L89.3,20.8 L110.7,29.0 L132.0,29.4 L153.3,29.0 L174.7,29.5 L196.0,38.0 L196,40 Z" fill="url(#sg3352)"/><polyline points="4.0,6.6 25.3,6.0 46.7,13.2 68.0,14.0 89.3,20.8 110.7,29.0 132.0,29.4 153.3,29.0 174.7,29.5 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg99043" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.7 L25.3,6.0 L46.7,14.8 L68.0,15.8 L89.3,24.1 L110.7,34.2 L132.0,34.7 L153.3,34.1 L174.7,34.7 L196.0,38.0 L196,40 Z" fill="url(#sg99043)"/><polyline points="4.0,6.7 25.3,6.0 46.7,14.8 68.0,15.8 89.3,24.1 110.7,34.2 132.0,34.7 153.3,34.1 174.7,34.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-22 11:35:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-22 14:45:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -86,15 +86,15 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">2,620.04</span>
-      <span class="ticker-change down">▼ -2.77%</span>
+      <span class="ticker-price ticker-down">2,596.75</span>
+      <span class="ticker-change down">▼ -3.64%</span>
     </div>
     <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg84263" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.6 L25.3,6.0 L46.7,13.3 L68.0,13.8 L89.3,22.2 L110.7,29.9 L132.0,30.9 L153.3,33.3 L174.7,33.9 L196.0,38.0 L196,40 Z" fill="url(#sg84263)"/><polyline points="4.0,6.6 25.3,6.0 46.7,13.3 68.0,13.8 89.3,22.2 110.7,29.9 132.0,30.9 153.3,33.3 174.7,33.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-22 11:35:15（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-22 14:45:42（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -102,15 +102,15 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,321.86</span>
-      <span class="ticker-change down">▼ -1.60%</span>
+      <span class="ticker-price ticker-down">1,318.61</span>
+      <span class="ticker-change down">▼ -1.84%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg57976" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.2 L25.3,6.0 L46.7,13.2 L68.0,13.1 L89.3,24.2 L110.7,29.1 L132.0,29.3 L153.3,36.3 L174.7,33.1 L196.0,38.0 L196,40 Z" fill="url(#sg57976)"/><polyline points="4.0,6.2 25.3,6.0 46.7,13.2 68.0,13.1 89.3,24.2 110.7,29.1 132.0,29.3 153.3,36.3 174.7,33.1 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg31205" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.2 L25.3,6.0 L46.7,13.0 L68.0,12.9 L89.3,23.8 L110.7,28.6 L132.0,28.8 L153.3,35.6 L174.7,32.5 L196.0,38.0 L196,40 Z" fill="url(#sg31205)"/><polyline points="4.0,6.2 25.3,6.0 46.7,13.0 68.0,12.9 89.3,23.8 110.7,28.6 132.0,28.8 153.3,35.6 174.7,32.5 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-22 11:35:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-22 14:45:45（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -118,10 +118,10 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,809.50</span>
-      <span class="ticker-change down">▼ -4.64%</span>
+      <span class="ticker-price ticker-down">3,801.97</span>
+      <span class="ticker-change down">▼ -4.83%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg63759" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.3 L23.2,16.3 L42.4,6.0 L61.6,8.3 L80.8,11.0 L100.0,7.9 L119.2,17.3 L138.4,13.4 L157.6,18.5 L176.8,22.7 L196.0,38.0 L196,40 Z" fill="url(#sg63759)"/><polyline points="4.0,6.3 23.2,16.3 42.4,6.0 61.6,8.3 80.8,11.0 100.0,7.9 119.2,17.3 138.4,13.4 157.6,18.5 176.8,22.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg91888" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.3 L23.2,16.1 L42.4,6.0 L61.6,8.3 L80.8,10.9 L100.0,7.9 L119.2,17.1 L138.4,13.2 L157.6,18.3 L176.8,22.4 L196.0,38.0 L196,40 Z" fill="url(#sg91888)"/><polyline points="4.0,6.3 23.2,16.1 42.4,6.0 61.6,8.3 80.8,10.9 100.0,7.9 119.2,17.1 138.4,13.2 157.6,18.3 176.8,22.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6734</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.6740</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg69291" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.4 L46.7,15.3 L68.0,18.6 L89.3,14.0 L110.7,20.9 L132.0,25.6 L153.3,28.9 L174.7,36.8 L196.0,38.0 L196,40 Z" fill="url(#sg69291)"/><polyline points="4.0,6.0 25.3,17.4 46.7,15.3 68.0,18.6 89.3,14.0 110.7,20.9 132.0,25.6 153.3,28.9 174.7,36.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg86671" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.6 L46.7,15.5 L68.0,18.8 L89.3,14.2 L110.7,21.2 L132.0,26.0 L153.3,29.4 L174.7,37.5 L196.0,38.0 L196,40 Z" fill="url(#sg86671)"/><polyline points="4.0,6.0 25.3,17.6 46.7,15.5 68.0,18.8 89.3,14.2 110.7,21.2 132.0,26.0 153.3,29.4 174.7,37.5 196.0,38.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 12:28:55（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 14:45:41（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,090.01 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -51.09 (-1.23%)</span>
+      <span class="ticker-price ticker-down">$4,089.92 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -51.18 (-1.24%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 12:28:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 14:45:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥880.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -7.31 (-0.82%)</span>
+      <span class="ticker-price ticker-down">¥878.84 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -8.67 (-0.98%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 12:28:32（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 14:45:52（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -198,10 +198,10 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">22,971.93</span>
-      <span class="ticker-change down">▼ -2.88%</span>
+      <span class="ticker-price ticker-down">22,959.84</span>
+      <span class="ticker-change down">▼ -2.93%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg26538" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,11.0 L23.2,19.0 L42.4,9.1 L61.6,7.7 L80.8,6.0 L100.0,6.7 L119.2,12.6 L138.4,9.7 L157.6,17.1 L176.8,22.2 L196.0,38.0 L196,40 Z" fill="url(#sg26538)"/><polyline points="4.0,11.0 23.2,19.0 42.4,9.1 61.6,7.7 80.8,6.0 100.0,6.7 119.2,12.6 138.4,9.7 157.6,17.1 176.8,22.2 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg85348" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,11.0 L23.2,18.9 L42.4,9.1 L61.6,7.7 L80.8,6.0 L100.0,6.7 L119.2,12.5 L138.4,9.7 L157.6,17.0 L176.8,22.0 L196.0,38.0 L196,40 Z" fill="url(#sg85348)"/><polyline points="4.0,11.0 23.2,18.9 42.4,9.1 61.6,7.7 80.8,6.0 100.0,6.7 119.2,12.5 138.4,9.7 157.6,17.0 176.8,22.0 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$110.86 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +2.04 (+1.87%)</span>
+      <span class="ticker-price ticker-up">$111.62 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +2.81 (+2.58%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 12:29:04（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 14:46:03（非实时）</div>
   </div>
 </div>
 
@@ -428,7 +428,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+21.6 亿</span>
+      <span class="sector-flow-badge">+53.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -441,7 +441,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+42.6 亿</span>
+      <span class="sector-flow-badge">+20.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -454,7 +454,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+40.4 亿</span>
+      <span class="sector-flow-badge">+15.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -467,7 +467,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+34.2 亿</span>
+      <span class="sector-flow-badge">+54.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -493,8 +493,56 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">5 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719017.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社东京10月21日电(记者陈泽安 梁晨)日本多家媒体连日来发表文章，对高市早苗就任日本首相一年来的工作进行回顾，称其经济和外交政策并未产生应有效果，批评其扩军政策破坏和平，将其独断专行的执政风格形容为“无人踩刹车的巴士”。" data-title="日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”" data-date="10-22 14:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 14:11</span>
+          <span class="news-item-title">日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719009.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="俄罗斯总统普京于当地时间10月21日在圣彼得堡会见到访的美国总统特使威特科夫。当天，俄罗斯总统特别代表德米特里耶夫在接受采访时表示，俄罗斯总统普京与美国总统特使威特科夫讨论了俄美之间的经济合作。他表示，俄美经济合作不仅会持续下去，还将进一步加强。" data-title="俄罗斯称俄美将持续加强经济合作" data-date="10-22 14:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 14:01</span>
+          <span class="news-item-title">俄罗斯称俄美将持续加强经济合作</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10718968.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳10月22日电 (记者 阮煜琳 索有为)2026中国海洋经济博览会22日在深圳开幕。在开幕式上发布的《中国海洋经济发展报告2026》显示，中国海洋环境质量明显改善，海洋生态保护持续向好。" data-title="中国海洋环境质量明显改善 海洋生态保护持续向好" data-date="10-22 13:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 13:05</span>
+          <span class="news-item-title">中国海洋环境质量明显改善 海洋生态保护持续向好</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中期选举前夕，特朗普一直吹嘘美国经济的表现。 BBC事实查核（BBC Verify）调查美国的通货膨胀、就业和经济成长。" data-title="特朗普治下，美国经济的真实表现如何？" data-date="10-22 08:21" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-22 08:21</span>
+          <span class="news-item-title">特朗普治下，美国经济的真实表现如何？</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/" target="_blank" rel="noopener" data-cat="caijing" data-summary="TechCrunch创始人峰会于11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建立和扩展公司的战术见解。" data-title="TechCrunch Founder Summit 2026: Everything you need to know" data-date="10-22 05:16" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-22 05:16</span>
+          <span class="news-item-title">TechCrunch Founder Summit 2026: Everything you need to know</span>
+        </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111170" target="_blank" rel="noopener" data-cat="caijing" data-summary="英国首相试图向选民表明其政府正采取切实措施以遏制生活成本，但能源专家指出此举很可能意味着需要提高燃气的单位价格。" data-title="英国拟取消家庭燃气账单上的每日固定费用" data-date="10-22 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-22 00:00</span>
+          <span class="news-item-title">英国拟取消家庭燃气账单上的每日固定费用</span>
+        </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111169" target="_blank" rel="noopener" data-cat="caijing" data-summary="能源大臣法恩布勒称，该项目将帮助提振英国的能源供应，并保护就业和能源安全。但她称，规模更大的罗斯班克油田项目是“不同的情况”。" data-title="英国政府批准开发北海杰克道天然气田" data-date="10-22 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-22 00:00</span>
+          <span class="news-item-title">英国政府批准开发北海杰克道天然气田</span>
+        </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111168" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着航运公司想方设法改用替代路线，海湾产油国（除伊朗外）上周的石油日均出口量达到2460万桶，高于战前2330万桶的日均水平。" data-title="中东石油出口恢复至战前水平" data-date="10-22 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-22 00:00</span>
+          <span class="news-item-title">中东石油出口恢复至战前水平</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718807.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网张家口10月21日电 题：河北怀安：“一只羊”到“一条链”的产业致富经" data-title="河北怀安：“一只羊”到“一条链”的产业致富经" data-date="10-21 23:18" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -538,4 +586,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-22 01:25（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-22 14:44（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
