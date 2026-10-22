@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-22 21:05（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-23 01:23（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,024.36</span>
-      <span class="ticker-change down">▼ -2.68%</span>
+      <span class="ticker-price ticker-down">29,032.37</span>
+      <span class="ticker-change down">▼ -2.65%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-23 01:03:32（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-23 01:25:11（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6733</span>
+      <span class="ticker-price ticker-down">6.6731</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg14824" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.4 L46.7,15.2 L68.0,18.5 L89.3,14.0 L110.7,20.9 L132.0,25.6 L153.3,28.9 L174.7,36.7 L196.0,38.0 L196,40 Z" fill="url(#sg14824)"/><polyline points="4.0,6.0 25.3,17.4 46.7,15.2 68.0,18.5 89.3,14.0 110.7,20.9 132.0,25.6 153.3,28.9 174.7,36.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg48761" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,17.3 L46.7,15.2 L68.0,18.5 L89.3,13.9 L110.7,20.8 L132.0,25.4 L153.3,28.7 L174.7,36.5 L196.0,38.0 L196,40 Z" fill="url(#sg48761)"/><polyline points="4.0,6.0 25.3,17.3 46.7,15.2 68.0,18.5 89.3,13.9 110.7,20.8 132.0,25.4 153.3,28.7 174.7,36.5 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:03:25（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:25:09（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,035.94 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -105.16 (-2.54%)</span>
+      <span class="ticker-price ticker-down">$4,045.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -95.81 (-2.31%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:03:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:25:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥867.83 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -11.83 (-1.34%)</span>
+      <span class="ticker-price ticker-down">¥868.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -11.26 (-1.28%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:03:18（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:24:40（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$112.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +3.41 (+3.13%)</span>
+      <span class="ticker-price ticker-up">$112.35 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +3.53 (+3.25%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:03:46（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:25:23（非实时）</div>
   </div>
 </div>
 
@@ -493,13 +493,25 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/016/687.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 22 日消息，彭博社今日报道称，华为已从六家中资银行获得一笔总额为 150 亿元的离岸银团贷款。这笔贷款期限为 7 年，以离岸人民币计价，资金将用于一般企业用途。参与贷款的银行包括中国银行、中国建设银行和中国工商银行等。知情人士透露，华为在最终确定贷款前，曾与国际银行进行初步接洽。华为及上述三家银行当时未立即回应置评请求。这是华为自 2020 年以来首次进行离岸银团贷款融资。根据彭博社汇总的数据，华为在 2020 年曾筹集 118 亿港元（IT之家注：现汇率约合 100.6 亿元人民币）贷款。2019 年之前，华为也曾通过由欧洲、美国和亚洲银行组成的银团，在国际市场进行数十亿美元规模的离岸融资。根据华为最新披露的 2026 年上半年财务数据，公司研发费用达到 1214 亿" data-title="消息称华为获 150 亿元离岸贷款：自 2020 年以来首次获得离岸银团贷款" data-date="10-22 21:03" data-source="IT之家">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="世界各地的政府和企业争先恐后地阻止黑客利用流行编程语言PHP中的漏洞。" data-title="PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline" data-date="10-23 00:01" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 21:03</span>
-          <span class="news-item-title">消息称华为获 150 亿元离岸贷款：自 2020 年以来首次获得离岸银团贷款</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-23 00:01</span>
+          <span class="news-item-title">PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719426.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网玉林10月22日电(翟李强 曾玉红)10月22日，全国台企联西南西北区第六十届会长联谊会暨玉林市台湾同胞投资企业协会第五届理监事就职典礼，在广西玉林市举行。长期扎根玉林的台商谢固本接任玉林市台湾同胞投资企业协会理事会第五届会长。" data-title="全国台企联西南西北区第六十届会长联谊会在广西玉林举行" data-date="10-22 22:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 22:39</span>
+          <span class="news-item-title">全国台企联西南西北区第六十届会长联谊会在广西玉林举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719391.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南京10月22日电 (朱晓颖 张传明)22日，第七届两岸青年创业孵化器沙龙在南京举行。两岸青年创业孵化器联盟成员、南京市台湾青年OPC(一人公司)平台运营团队及入驻项目代表、台湾青年等百余人探讨OPC赋能轻创业话题，4家台青企业入驻南京台湾青年OPC创业空间。" data-title="聚焦OPC 第七届两岸青年创业孵化器沙龙在南京举行" data-date="10-22 21:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-22 21:50</span>
+          <span class="news-item-title">聚焦OPC 第七届两岸青年创业孵化器沙龙在南京举行</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719315.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡10月22日电 (记者 刘育英)马来西亚国内贸易和生活成本部副部长傅芝雅(Fuziah Salleh)22日在国会下议院表示，自今年3月16日开展打击补贴商品走私及违规挪用专项行动(OPS Tiris4.0)以来，执法部门累计进行近12.6万次检查，查获1542宗案件，查获物品总值约5990万林吉特(约合9800万元人民币)，共逮捕514人。" data-title="马来西亚打击补贴商品外流 半年多查处逾1500宗案件" data-date="10-22 21:00" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -507,83 +519,11 @@ title: 股票财经
           <span class="news-item-date">10-22 21:00</span>
           <span class="news-item-title">马来西亚打击补贴商品外流 半年多查处逾1500宗案件</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/016/683.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 22 日消息，10 月 21 日，2026 世界智能网联汽车大会在北京召开，中国长安汽车集团有限公司总经理、长安汽车股份有限公司董事长赵非出席并发表《AI 赋能 数智互联 共筑汽车产业新生态》主题演讲。对于智能网联汽车全球化发展趋势，赵非提出两大判断：一是在端侧物理 AI 领域，汽车将成为落地时间最近、渗透率提升最快、应用规模最大的载体。长安启源 Q06 上市首月城区领航版订单占比近 50%，预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营。二是汽车正向陆海空立体出行生态延伸，为产业发展开辟了新的增量空间。赵非强调，安全是智能网联汽车发展的根本前提，也是不可逾越的底线。长安构建多维安全体系，累计参与制定国际、国家、行业标准 360 余项。最后" data-title="长安汽车董事长赵非：预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营" data-date="10-22 20:58" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-22 20:58</span>
-          <span class="news-item-title">长安汽车董事长赵非：预计 2027 年行业实现 L3 级量产、2028 年实现 L4 级商业化运营</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719317.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都10月22日电 (记者 张浪)四川省资阳市监委22日消息：四川发展(控股)有限责任公司派驻出资企业专职董事朱全芳涉嫌严重违纪违法，目前四川省纪委监委驻四川发展(控股)有限责任公司纪检监察组正对其进行纪律审查，经四川省监委指定资阳市监委管辖，资阳市监委指定安岳县监委管辖，安岳县监委正对其进行监察调查。" data-title="四川发展（控股）有限责任公司派驻出资企业专职董事朱全芳接受审查调查" data-date="10-22 20:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 20:32</span>
-          <span class="news-item-title">四川发展（控股）有限责任公司派驻出资企业专职董事朱全芳接受审查调查</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719316.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都10月22日电 (记者 张浪)四川省南充市纪委监委22日消息：日前，经南充市委批准，南充市纪委监委对四川营山经济开发区党工委原书记何国民严重违纪违法问题进行了立案审查调查。" data-title="四川营山经济开发区党工委原书记何国民被“双开”" data-date="10-22 20:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 20:31</span>
-          <span class="news-item-title">四川营山经济开发区党工委原书记何国民被“双开”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-22/10719290.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网兰州10月22日电 (李文 赵好飞)从黄土高原炕头的家常针线活到国际时装周的时尚元素，从姑娘出嫁的压箱嫁妆到带动数千妇女增收的“指尖经济”，甘肃省临夏州东乡族刺绣这门生活技艺，完成了从“深闺自用”到“出圈出彩”的转变。" data-title="黄土高原的绣花针，扎进了国际时尚圈" data-date="10-22 19:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 19:44</span>
-          <span class="news-item-title">黄土高原的绣花针，扎进了国际时尚圈</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719017.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社东京10月21日电(记者陈泽安 梁晨)日本多家媒体连日来发表文章，对高市早苗就任日本首相一年来的工作进行回顾，称其经济和外交政策并未产生应有效果，批评其扩军政策破坏和平，将其独断专行的执政风格形容为“无人踩刹车的巴士”。" data-title="日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”" data-date="10-22 14:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:11</span>
-          <span class="news-item-title">日媒批评高市独断专行 称其执政像“无人踩刹车的巴士”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719009.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="俄罗斯总统普京于当地时间10月21日在圣彼得堡会见到访的美国总统特使威特科夫。当天，俄罗斯总统特别代表德米特里耶夫在接受采访时表示，俄罗斯总统普京与美国总统特使威特科夫讨论了俄美之间的经济合作。他表示，俄美经济合作不仅会持续下去，还将进一步加强。" data-title="俄罗斯称俄美将持续加强经济合作" data-date="10-22 14:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 14:01</span>
-          <span class="news-item-title">俄罗斯称俄美将持续加强经济合作</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10718968.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳10月22日电 (记者 阮煜琳 索有为)2026中国海洋经济博览会22日在深圳开幕。在开幕式上发布的《中国海洋经济发展报告2026》显示，中国海洋环境质量明显改善，海洋生态保护持续向好。" data-title="中国海洋环境质量明显改善 海洋生态保护持续向好" data-date="10-22 13:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 13:05</span>
-          <span class="news-item-title">中国海洋环境质量明显改善 海洋生态保护持续向好</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中期选举前夕，特朗普一直吹嘘美国经济的表现。 BBC事实查核（BBC Verify）调查美国的通货膨胀、就业和经济成长。" data-title="特朗普治下，美国经济的真实表现如何？" data-date="10-22 08:21" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">10-22 08:21</span>
           <span class="news-item-title">特朗普治下，美国经济的真实表现如何？</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/" target="_blank" rel="noopener" data-cat="caijing" data-summary="TechCrunch创始人峰会于11月4日在波士顿举行，为期一整天，所有阶段的创始人都会与顶级风险投资家和经验丰富的企业家建立联系，以获得有关建立和扩展公司的战术见解。" data-title="TechCrunch Founder Summit 2026: Everything you need to know" data-date="10-22 05:16" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-22 05:16</span>
-          <span class="news-item-title">TechCrunch Founder Summit 2026: Everything you need to know</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111170" target="_blank" rel="noopener" data-cat="caijing" data-summary="英国首相试图向选民表明其政府正采取切实措施以遏制生活成本，但能源专家指出此举很可能意味着需要提高燃气的单位价格。" data-title="英国拟取消家庭燃气账单上的每日固定费用" data-date="10-22 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-22 00:00</span>
-          <span class="news-item-title">英国拟取消家庭燃气账单上的每日固定费用</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111169" target="_blank" rel="noopener" data-cat="caijing" data-summary="能源大臣法恩布勒称，该项目将帮助提振英国的能源供应，并保护就业和能源安全。但她称，规模更大的罗斯班克油田项目是“不同的情况”。" data-title="英国政府批准开发北海杰克道天然气田" data-date="10-22 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-22 00:00</span>
-          <span class="news-item-title">英国政府批准开发北海杰克道天然气田</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111168" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着航运公司想方设法改用替代路线，海湾产油国（除伊朗外）上周的石油日均出口量达到2460万桶，高于战前2330万桶的日均水平。" data-title="中东石油出口恢复至战前水平" data-date="10-22 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-22 00:00</span>
-          <span class="news-item-title">中东石油出口恢复至战前水平</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-21/10718807.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网张家口10月21日电 题：河北怀安：“一只羊”到“一条链”的产业致富经" data-title="河北怀安：“一只羊”到“一条链”的产业致富经" data-date="10-21 23:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-21 23:18</span>
-          <span class="news-item-title">河北怀安：“一只羊”到“一条链”的产业致富经</span>
         </a>
   </div>
 </div>
@@ -598,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-22 21:05（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-23 01:23（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
