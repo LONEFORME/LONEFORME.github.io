@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-23 20:44（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-24 01:19（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,042.22</span>
-      <span class="ticker-change up">▲ +0.29%</span>
+      <span class="ticker-price ticker-up">29,027.11</span>
+      <span class="ticker-change up">▲ +0.24%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-24 00:57:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-24 01:20:37（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6703</span>
+      <span class="ticker-price ticker-down">6.6704</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg72852" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,10.0 L25.3,7.5 L46.7,11.4 L68.0,6.0 L89.3,14.1 L110.7,19.6 L132.0,23.5 L153.3,32.7 L174.7,33.7 L196.0,38.0 L196,40 Z" fill="url(#sg72852)"/><polyline points="4.0,10.0 25.3,7.5 46.7,11.4 68.0,6.0 89.3,14.1 110.7,19.6 132.0,23.5 153.3,32.7 174.7,33.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg11263" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,10.0 L25.3,7.5 L46.7,11.4 L68.0,6.0 L89.3,14.2 L110.7,19.7 L132.0,23.6 L153.3,32.9 L174.7,33.9 L196.0,38.0 L196,40 Z" fill="url(#sg11263)"/><polyline points="4.0,10.0 25.3,7.5 46.7,11.4 68.0,6.0 89.3,14.2 110.7,19.7 132.0,23.6 153.3,32.9 174.7,33.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:56:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:20:34（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,000.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -24.00 (-0.60%)</span>
+      <span class="ticker-price ticker-down">$3,993.45 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -30.81 (-0.77%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:56:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:20:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥860.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -2.78 (-0.32%)</span>
+      <span class="ticker-price ticker-down">¥858.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -4.88 (-0.57%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:56:13（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:20:47（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$116.38 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +3.21 (+2.83%)</span>
+      <span class="ticker-price ticker-up">$116.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +3.22 (+2.85%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:57:08（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:20:48（非实时）</div>
   </div>
 </div>
 
@@ -493,79 +493,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-23/10720005.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州10月23日电 (吴冠标)10月23日，第二届海峡养老产业博览会在福建福州开幕。开幕式上，《福建银发经济创新发展报告(2026)》(简称《报告》)正式发布。" data-title="《福建银发经济创新发展报告（2026）》在福州发布" data-date="10-23 20:31" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网青海民和10月23日电 题：撂荒土地溢菊香 青海民和山村撑起“金”产业" data-title="撂荒土地溢菊香 青海民和山村撑起“金”产业" data-date="10-23 23:39" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-23 20:31</span>
-          <span class="news-item-title">《福建银发经济创新发展报告（2026）》在福州发布</span>
+          <span class="news-item-date">10-23 23:39</span>
+          <span class="news-item-title">撂荒土地溢菊香 青海民和山村撑起“金”产业</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/237.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 23 日消息，比亚迪今日发布腾势 Z 答网友问第三期，对大尾翼选装、2 座版规划、国内上市节点、碳纤维配置等进行解答。据介绍，腾势 Z Coupe 硬顶版可以选装尾翼，满足对空气动力学有更高要求的用户。大尾翼采用简约而富有力量感的设计语言，不仅视觉强化运动美学特征，更能根据不同驾驶场景手动调节。Racing 赛道版则直接标配大尾翼。腾势 Z 采用 2+2 双门四座布局，兼顾性能与日常实用性。目前官方暂无推出纯 2 座版本的计划。如有新的产品规划，腾势将第一时间通过官方渠道告知用户。腾势 Z 已于 2026 年 7 月 13 日正式开启国内预售，计划于 2026 年第四季度正式国内上市。三个版本预售价分别为：Coupe 硬顶版 68 万元、Spider 敞篷版 78 万元、" data-title="比亚迪腾势 Z 电动智能超跑四季度上市，预售 68 万元起" data-date="10-23 19:41" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-23 19:41</span>
-          <span class="news-item-title">比亚迪腾势 Z 电动智能超跑四季度上市，预售 68 万元起</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/004.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 23 日消息，科技媒体 Android Authority 今天（10 月 23 日）发布博文，报道称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机所用电池现身韩国 Safety Korea 安全认证数据库。相关电池型号分别为 EB-BS958DBY 和 EB-BS957CBY，均由中国珠海冠宇电池金湾子公司生产。三星 Galaxy S27 Pro 手机电池认证图片三星 Galaxy S27 Ultra 手机电池认证图片IT之家查询公开资料，珠海冠宇成立于 2007 年，是一家从事聚合物锂离子电池研发、制造与销售的国家高新技术企业，总部位于珠海。金湾分公司成立于 2018 年 7 月 12 日，主要经营范围包括电池及电池组装、配套生产，" data-title="增幅约 14%：消息称三星 Galaxy S27 Ultra 手机配 5700mAh 电池" data-date="10-23 14:36" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-23 14:36</span>
-          <span class="news-item-title">增幅约 14%：消息称三星 Galaxy S27 Ultra 手机配 5700mAh 电池</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/000.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 23 日消息，一汽-大众今日公布了全新纯电轿车 ID.AURA L5 的六种车色。据介绍，作为 ID. AURA 序列第二款纯电车型、首款纯电家轿，新车定位“智能大掀背、超级家轿”，将与 ID. AURA T6 共同组成一汽-大众“新能源双子星”。该车由中德设计团队联合打造，立足中国家庭核心出行诉求。智能化方面，ID. AURA L5 部分车型将配备激光雷达。尺寸方面，新车长宽高分别为 4883×1881×1506mm，轴距 2820mm，“得房率”达 84.4%；电动掀背尾门开启角度超 70°、开口宽度超 1000mm，号称打破传统三厢轿车的装载能力局限。据IT之家此前报道，申报信息显示，新车所有车型均配备磷酸铁锂蓄电池，驱动电机峰值功率均为 155 kW，额定功率 6" data-title="一汽-大众纯电轿车 ID.AURA L5 六种车色官图公布" data-date="10-23 14:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-23 14:23</span>
-          <span class="news-item-title">一汽-大众纯电轿车 ID.AURA L5 六种车色官图公布</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-23/10719661.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月23日电 综合消息：印度总理莫迪当地时间22日在首都新德里会见到访的波兰总理图斯克。双方同意深化防务、航天和核能等领域合作，并提出到2030年实现双边贸易额翻番的目标。" data-title="波兰总理访问印度  双方同意深化防务等领域合作" data-date="10-23 13:36" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网绍兴10月23日电(项菁)以“两岸同‘芯’·心向未来”为主题的2026两岸青年创新创业大赛决赛23日在浙江绍兴举行。此次大赛设置了“创新组”与“创业组”两大组别，两岸青年围绕绿色经济、数字未来、先进制造等5条赛道展开角逐。" data-title="2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛" data-date="10-23 23:32" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-23 13:36</span>
-          <span class="news-item-title">波兰总理访问印度  双方同意深化防务等领域合作</span>
+          <span class="news-item-date">10-23 23:32</span>
+          <span class="news-item-title">2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-23/10719652.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州10月23日电 (叶秋云 郑江洛 吴冠标)第二届海峡养老产业博览会(简称“海峡老博会”)23日在福州开幕。" data-title="第二届海峡养老产业博览会在福州开幕" data-date="10-23 13:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-23 13:24</span>
-          <span class="news-item-title">第二届海峡养老产业博览会在福州开幕</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-23/10719603.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月23日电 据美国《纽约时报》近日报道，该媒体与锡耶纳学院联合开展的民调显示，在距离中期选举仅两周之际，美国总统特朗普的施政满意度跌至新低。主要原因为选民普遍不认可其对经济、伊朗战事和高油价问题的处理。" data-title="民调：中期选举两周前，特朗普支持率跌至新低" data-date="10-23 11:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-23 11:13</span>
-          <span class="news-item-title">民调：中期选举两周前，特朗普支持率跌至新低</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="世界各地的政府和企业争先恐后地阻止黑客利用流行编程语言PHP中的漏洞。" data-title="PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline" data-date="10-23 00:01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="发现正在酝酿的金融危机的特征并非不可能。我们可以从2008年开始寻找线索。" data-title="How Worried Should We Be About the Economy? Let’s Look at 2008." data-date="10-23 22:58" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-23 00:01</span>
-          <span class="news-item-title">PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline</span>
+          <span class="news-item-date">10-23 22:58</span>
+          <span class="news-item-title">How Worried Should We Be About the Economy? Let’s Look at 2008.</span>
         </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111174" target="_blank" rel="noopener" data-cat="caijing" data-summary="通胀放缓和消费者信心减弱为政策制定者带来放宽货币政策的空间，尽管油价高企仍对通胀构成上行风险。" data-title="伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点" data-date="10-23 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-23 00:00</span>
-          <span class="news-item-title">伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719426.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网玉林10月22日电(翟李强 曾玉红)10月22日，全国台企联西南西北区第六十届会长联谊会暨玉林市台湾同胞投资企业协会第五届理监事就职典礼，在广西玉林市举行。长期扎根玉林的台商谢固本接任玉林市台湾同胞投资企业协会理事会第五届会长。" data-title="全国台企联西南西北区第六十届会长联谊会在广西玉林举行" data-date="10-22 22:39" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-23/10720133.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西宁10月23日电 (记者 孙睿)记者从23日召开的青海省紧密型县域医共体高质量发展暨乡村医疗卫生体系建设推进会获悉，2025年，该省乡镇卫生院患者次均门诊费用为58.9元(人民币，下同)，较上年下降10.08%；次均住院费用1600.7元，下降1.8%。社区卫生服务中心次均门诊费用97.1元，下降14.37%。" data-title="青海乡镇卫生院次均门诊费降至58.9元" data-date="10-23 22:58" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 22:39</span>
-          <span class="news-item-title">全国台企联西南西北区第六十届会长联谊会在广西玉林举行</span>
+          <span class="news-item-date">10-23 22:58</span>
+          <span class="news-item-title">青海乡镇卫生院次均门诊费降至58.9元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-22/10719391.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南京10月22日电 (朱晓颖 张传明)22日，第七届两岸青年创业孵化器沙龙在南京举行。两岸青年创业孵化器联盟成员、南京市台湾青年OPC(一人公司)平台运营团队及入驻项目代表、台湾青年等百余人探讨OPC赋能轻创业话题，4家台青企业入驻南京台湾青年OPC创业空间。" data-title="聚焦OPC 第七届两岸青年创业孵化器沙龙在南京举行" data-date="10-22 21:50" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/017/275.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 23 日消息，据国家邮政局，10 月 22 日至 23 日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会。会议要求，各级邮政管理部门要强化行业监管核心职能，大力加强行业安全监管，维护快递市场秩序。各企业要把安全责任牢牢扛在肩上，统筹发展和安全，进一步抓实抓细行业安全各项工作。会议强调，要聚焦突出问题和关键环节，以更大力度更实举措做好行业安全工作：一是大力整治生产安全突出隐患。要强化重大事故隐患排查整治，深入整治消防隐患，严格规范外包管理，持续完善企业安全管理体系。二是突出抓好寄递渠道风险防范。要抓好寄递安全“三项制度”落实，抓实抓细行业反诈工作，加强寄递物品安全管理，加强信息安全防范。三是强化事前事中事后全链条监管。要加强事前准入与事中事后管理衔接，抓好两项强制" data-title="国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作" data-date="10-23 22:46" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 21:50</span>
-          <span class="news-item-title">聚焦OPC 第七届两岸青年创业孵化器沙龙在南京举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-22/10719315.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社吉隆坡10月22日电 (记者 刘育英)马来西亚国内贸易和生活成本部副部长傅芝雅(Fuziah Salleh)22日在国会下议院表示，自今年3月16日开展打击补贴商品走私及违规挪用专项行动(OPS Tiris4.0)以来，执法部门累计进行近12.6万次检查，查获1542宗案件，查获物品总值约5990万林吉特(约合9800万元人民币)，共逮捕514人。" data-title="马来西亚打击补贴商品外流 半年多查处逾1500宗案件" data-date="10-22 21:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-22 21:00</span>
-          <span class="news-item-title">马来西亚打击补贴商品外流 半年多查处逾1500宗案件</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-23 22:46</span>
+          <span class="news-item-title">国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作</span>
         </a>
   </div>
 </div>
@@ -580,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-23 20:44（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-24 01:19（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
