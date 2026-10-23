@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-23 14:38（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-23 20:44（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6694</span>
+      <span class="ticker-price ticker-down">6.6690</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg22906" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,9.9 L25.3,7.4 L46.7,11.2 L68.0,6.0 L89.3,13.8 L110.7,19.2 L132.0,22.9 L153.3,31.8 L174.7,32.8 L196.0,38.0 L196,40 Z" fill="url(#sg22906)"/><polyline points="4.0,9.9 25.3,7.4 46.7,11.2 68.0,6.0 89.3,13.8 110.7,19.2 132.0,22.9 153.3,31.8 174.7,32.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg472" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,9.8 L25.3,7.4 L46.7,11.1 L68.0,6.0 L89.3,13.7 L110.7,19.0 L132.0,22.7 L153.3,31.5 L174.7,32.4 L196.0,38.0 L196,40 Z" fill="url(#sg472)"/><polyline points="4.0,9.8 25.3,7.4 46.7,11.1 68.0,6.0 89.3,13.7 110.7,19.0 132.0,22.7 153.3,31.5 174.7,32.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:28:47（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 20:45:51（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,025.59 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +1.33 (+0.03%)</span>
+      <span class="ticker-price ticker-up">$4,030.79 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +6.53 (+0.16%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:28:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 20:45:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥863.35 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -16.31 (-1.85%)</span>
+      <span class="ticker-price ticker-up">¥866.05 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +2.67 (+0.31%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 20:45:45（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$114.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +1.56 (+1.38%)</span>
+      <span class="ticker-price ticker-up">$114.92 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +1.75 (+1.55%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:29:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 20:46:10（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">12 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-23/10720005.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州10月23日电 (吴冠标)10月23日，第二届海峡养老产业博览会在福建福州开幕。开幕式上，《福建银发经济创新发展报告(2026)》(简称《报告》)正式发布。" data-title="《福建银发经济创新发展报告（2026）》在福州发布" data-date="10-23 20:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-23 20:31</span>
+          <span class="news-item-title">《福建银发经济创新发展报告（2026）》在福州发布</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/017/237.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 23 日消息，比亚迪今日发布腾势 Z 答网友问第三期，对大尾翼选装、2 座版规划、国内上市节点、碳纤维配置等进行解答。据介绍，腾势 Z Coupe 硬顶版可以选装尾翼，满足对空气动力学有更高要求的用户。大尾翼采用简约而富有力量感的设计语言，不仅视觉强化运动美学特征，更能根据不同驾驶场景手动调节。Racing 赛道版则直接标配大尾翼。腾势 Z 采用 2+2 双门四座布局，兼顾性能与日常实用性。目前官方暂无推出纯 2 座版本的计划。如有新的产品规划，腾势将第一时间通过官方渠道告知用户。腾势 Z 已于 2026 年 7 月 13 日正式开启国内预售，计划于 2026 年第四季度正式国内上市。三个版本预售价分别为：Coupe 硬顶版 68 万元、Spider 敞篷版 78 万元、" data-title="比亚迪腾势 Z 电动智能超跑四季度上市，预售 68 万元起" data-date="10-23 19:41" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-23 19:41</span>
+          <span class="news-item-title">比亚迪腾势 Z 电动智能超跑四季度上市，预售 68 万元起</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/017/004.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 23 日消息，科技媒体 Android Authority 今天（10 月 23 日）发布博文，报道称三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 两款手机所用电池现身韩国 Safety Korea 安全认证数据库。相关电池型号分别为 EB-BS958DBY 和 EB-BS957CBY，均由中国珠海冠宇电池金湾子公司生产。三星 Galaxy S27 Pro 手机电池认证图片三星 Galaxy S27 Ultra 手机电池认证图片IT之家查询公开资料，珠海冠宇成立于 2007 年，是一家从事聚合物锂离子电池研发、制造与销售的国家高新技术企业，总部位于珠海。金湾分公司成立于 2018 年 7 月 12 日，主要经营范围包括电池及电池组装、配套生产，" data-title="增幅约 14%：消息称三星 Galaxy S27 Ultra 手机配 5700mAh 电池" data-date="10-23 14:36" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -568,4 +580,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-23 14:38（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-23 20:44（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
