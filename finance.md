@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-24 20:08（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-25 00:07（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,67 +493,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="采访和文件显示，一家俄罗斯能源巨头秘密资助了一家美国公司。在结束乌克兰战争的谈判中已经讨论了该协议。" data-title="In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges" data-date="10-24 19:43" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/017/517.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 24 日消息，Meta 旗下个人 AI 助手 Muse 的对话分享功能被曝存在隐私风险。网络安全研究团队 Claroc 于 10 月 18 日发布报告称，研究人员通过被动 DNS（Passive DNS）查询发现，超过 6800 个 Muse 分享页面的域名可以被检索到，部分页面包含个人财务资料、企业内部文件及机密会议准备信息。Meta 随后暂停了该功能，并表示正在调查问题及评估改进方案。Claroc 研究团队发现，Muse 会根据用户分享的对话标题生成网页地址，并将其部署在 cf.metaaiusercontent.com 域名下。由于对话标题被写入子域名，当用户或接收者访问分享页面时，相关域名可能被被动 DNS 服务记录，进而出现在可查询的历史 DNS 数据库中。研究" data-title="研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复" data-date="10-24 22:39" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-24 22:39</span>
+          <span class="news-item-title">研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-24/10720519.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月24日电 (记者 尹倩芸)美国财政部日前发布新版对外投资限制拟议规则，征求公众评论意见。中国商务部新闻发言人24日在答记者问时表示，中方对此坚决反对，将保留采取相应措施的权利。" data-title="中国商务部回应美发布新版对外投资限制拟议规则" data-date="10-24 22:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-24 22:01</span>
+          <span class="news-item-title">中国商务部回应美发布新版对外投资限制拟议规则</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="采访和文件显示，一家俄罗斯能源巨头秘密资助了一家美国公司。在结束乌克兰战争的谈判中已经讨论了该协议。" data-title="In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges" data-date="10-24 21:20" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-24 19:43</span>
+          <span class="news-item-date">10-24 21:20</span>
           <span class="news-item-title">In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-24/10720440.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州10月24日电(王华 张松乐)“科技向善 生命至上——广州2026年安全应急救援机器人大赛”总决赛23日至24日在广州举行。此次大赛通过两大赛道、七大科目硬核实测，打通了机器人从实验室到落地应用的完整链路，为超大城市应急救援探索科技新路径。" data-title="广州举办安全救援机器人大赛  探索超大城市应急科技新路" data-date="10-24 18:56" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-24/10720494.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="时尚饰品专区，在杭州一家铜工艺品企业的展位前，多名境外采购商被葫芦造型首饰吸引，现场试戴后直接下单；" data-title="中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球" data-date="10-24 21:04" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-24 18:56</span>
-          <span class="news-item-title">广州举办安全救援机器人大赛  探索超大城市应急科技新路</span>
+          <span class="news-item-date">10-24 21:04</span>
+          <span class="news-item-title">中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-24/10720328.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网巴黎10月24日电 中国驻欧盟使团当地时间21日在法国斯特拉斯堡举办“中国大讲堂”系列讲座第四讲，特邀原中国气候变化事务特使解振华围绕“中国的绿色发展及中欧绿色合作”举行专题讲座。中国驻欧盟使团团长蔡润大使主持活动，中国驻斯特拉斯堡总领事潘昱旻出席。欧洲议会议员、欧盟有关机构官员，有关国家驻欧盟及法国外交官、地方政府官员、教育机构、企业及媒体智库代表等120余人参加。" data-title="中国驻欧盟使团举办“中国大讲堂”系列讲座介绍中国的绿色发展及中欧绿色合作" data-date="10-24 17:14" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview" target="_blank" rel="noopener" data-cat="caijing" data-summary="李昌东的第七部故事片《可能的爱》的灵感来自2009年的真实事件，当时一家韩国企业集团解雇了三分之一的员工--2600名员工--之后许多人自杀身亡。Possible Love是Lee一长串中的最新作品" data-title="Lee Chang Dong ponders the ethics of the camera" data-date="10-24 20:30" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-24 17:14</span>
-          <span class="news-item-title">中国驻欧盟使团举办“中国大讲堂”系列讲座介绍中国的绿色发展及中欧绿色合作</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/381.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 24 日消息，沃尔沃汽车透露，由于新技术和制造工艺带来了生产难题，全新纯电 SUV EX60 的产能爬坡速度低于预期。今年 4 月投产以来，新车订单量已超过 5 万辆，但实际产量仅为 5000 辆。沃尔沃 CEO 汉肯 · 塞缪尔森坦言：“我们的产能爬坡进度落后于原先计划，因此 EX60 对公司财务业绩产生贡献的时间也将推后。”EX60 迟迟无法实现大规模生产的时间节点，恰逢沃尔沃业绩承压。23 日公布的财报显示，公司 2026 年第三季度净亏损 57 亿瑞典克朗（IT之家注：现汇率约合 38.28 亿元人民币），季度表现“非常令人失望”。为恢复盈利，沃尔沃还宣布计划裁员 2500 人。塞缪尔森指出，EX60 是沃尔沃扭亏计划中的关键车型，未来有望成为公司利润贡献最大的车" data-title="远水难救近火：沃尔沃手握 5 万辆 EX60 订单，产量却只有 5000 辆" data-date="10-24 14:35" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-24 14:35</span>
-          <span class="news-item-title">远水难救近火：沃尔沃手握 5 万辆 EX60 订单，产量却只有 5000 辆</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-24/10720290.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社重庆10月24日电 (梁钦卿)10月22日至24日，韩国济州21世纪韩中国际交流协会代表团一行14人赴重庆参访，走进机器人、智能网联新能源汽车等产业一线，感受重庆智能制造活力，为深化韩国地方与重庆产业合作牵线搭桥。" data-title="韩国济州代表团访渝考察智能制造  冀深化两地产业合作" data-date="10-24 13:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-24 13:12</span>
-          <span class="news-item-title">韩国济州代表团访渝考察智能制造  冀深化两地产业合作</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网青海民和10月23日电 题：撂荒土地溢菊香 青海民和山村撑起“金”产业" data-title="撂荒土地溢菊香 青海民和山村撑起“金”产业" data-date="10-23 23:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-23 23:39</span>
-          <span class="news-item-title">撂荒土地溢菊香 青海民和山村撑起“金”产业</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-23/10720147.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网绍兴10月23日电(项菁)以“两岸同‘芯’·心向未来”为主题的2026两岸青年创新创业大赛决赛23日在浙江绍兴举行。此次大赛设置了“创新组”与“创业组”两大组别，两岸青年围绕绿色经济、数字未来、先进制造等5条赛道展开角逐。" data-title="2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛" data-date="10-23 23:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-23 23:32</span>
-          <span class="news-item-title">2026两岸青年创新创业大赛决赛举行 共吸引近千人参赛</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/23/business/economy-2008-financial-crisis.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="发现正在酝酿的金融危机的特征并非不可能。我们可以从2008年开始寻找线索。" data-title="How Worried Should We Be About the Economy? Let’s Look at 2008." data-date="10-23 22:58" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-23 22:58</span>
-          <span class="news-item-title">How Worried Should We Be About the Economy? Let’s Look at 2008.</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-23/10720133.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西宁10月23日电 (记者 孙睿)记者从23日召开的青海省紧密型县域医共体高质量发展暨乡村医疗卫生体系建设推进会获悉，2025年，该省乡镇卫生院患者次均门诊费用为58.9元(人民币，下同)，较上年下降10.08%；次均住院费用1600.7元，下降1.8%。社区卫生服务中心次均门诊费用97.1元，下降14.37%。" data-title="青海乡镇卫生院次均门诊费降至58.9元" data-date="10-23 22:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-23 22:58</span>
-          <span class="news-item-title">青海乡镇卫生院次均门诊费降至58.9元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/275.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 23 日消息，据国家邮政局，10 月 22 日至 23 日，国家邮政局在河南洛阳召开邮政快递业安全治理规范化座谈会。会议要求，各级邮政管理部门要强化行业监管核心职能，大力加强行业安全监管，维护快递市场秩序。各企业要把安全责任牢牢扛在肩上，统筹发展和安全，进一步抓实抓细行业安全各项工作。会议强调，要聚焦突出问题和关键环节，以更大力度更实举措做好行业安全工作：一是大力整治生产安全突出隐患。要强化重大事故隐患排查整治，深入整治消防隐患，严格规范外包管理，持续完善企业安全管理体系。二是突出抓好寄递渠道风险防范。要抓好寄递安全“三项制度”落实，抓实抓细行业反诈工作，加强寄递物品安全管理，加强信息安全防范。三是强化事前事中事后全链条监管。要加强事前准入与事中事后管理衔接，抓好两项强制" data-title="国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作" data-date="10-23 22:46" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-23 22:46</span>
-          <span class="news-item-title">国家邮政局召开邮政快递业安全治理规范化座谈会：要持续深入推进“反内卷”工作</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-24 20:30</span>
+          <span class="news-item-title">Lee Chang Dong ponders the ethics of the camera</span>
         </a>
   </div>
 </div>
@@ -568,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-24 20:08（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-25 00:07（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
