@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-24 01:19（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-24 14:35（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -428,7 +428,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+52.0 亿</span>
+      <span class="sector-flow-badge">+43.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -441,7 +441,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+52.9 亿</span>
+      <span class="sector-flow-badge">+48.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -454,7 +454,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+50.7 亿</span>
+      <span class="sector-flow-badge">+22.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -467,7 +467,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+18.3 亿</span>
+      <span class="sector-flow-badge">+54.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -493,8 +493,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">5 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/017/381.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 24 日消息，沃尔沃汽车透露，由于新技术和制造工艺带来了生产难题，全新纯电 SUV EX60 的产能爬坡速度低于预期。今年 4 月投产以来，新车订单量已超过 5 万辆，但实际产量仅为 5000 辆。沃尔沃 CEO 汉肯 · 塞缪尔森坦言：“我们的产能爬坡进度落后于原先计划，因此 EX60 对公司财务业绩产生贡献的时间也将推后。”EX60 迟迟无法实现大规模生产的时间节点，恰逢沃尔沃业绩承压。23 日公布的财报显示，公司 2026 年第三季度净亏损 57 亿瑞典克朗（IT之家注：现汇率约合 38.28 亿元人民币），季度表现“非常令人失望”。为恢复盈利，沃尔沃还宣布计划裁员 2500 人。塞缪尔森指出，EX60 是沃尔沃扭亏计划中的关键车型，未来有望成为公司利润贡献最大的车" data-title="远水难救近火：沃尔沃手握 5 万辆 EX60 订单，产量却只有 5000 辆" data-date="10-24 14:35" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-24 14:35</span>
+          <span class="news-item-title">远水难救近火：沃尔沃手握 5 万辆 EX60 订单，产量却只有 5000 辆</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-24/10720290.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社重庆10月24日电 (梁钦卿)10月22日至24日，韩国济州21世纪韩中国际交流协会代表团一行14人赴重庆参访，走进机器人、智能网联新能源汽车等产业一线，感受重庆智能制造活力，为深化韩国地方与重庆产业合作牵线搭桥。" data-title="韩国济州代表团访渝考察智能制造  冀深化两地产业合作" data-date="10-24 13:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-24 13:12</span>
+          <span class="news-item-title">韩国济州代表团访渝考察智能制造  冀深化两地产业合作</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-23/10720151.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网青海民和10月23日电 题：撂荒土地溢菊香 青海民和山村撑起“金”产业" data-title="撂荒土地溢菊香 青海民和山村撑起“金”产业" data-date="10-23 23:39" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -538,4 +550,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-24 01:19（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-24 14:35（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
