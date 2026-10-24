@@ -142,7 +142,7 @@ title: 股票财经
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-24 05:19:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-24 05:30:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -153,7 +153,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">6.6690</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg472" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,9.8 L25.3,7.4 L46.7,11.1 L68.0,6.0 L89.3,13.7 L110.7,19.0 L132.0,22.7 L153.3,31.5 L174.7,32.4 L196.0,38.0 L196,40 Z" fill="url(#sg472)"/><polyline points="4.0,9.8 25.3,7.4 46.7,11.1 68.0,6.0 89.3,13.7 110.7,19.0 132.0,22.7 153.3,31.5 174.7,32.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg70639" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.4 L25.3,11.1 L46.7,6.0 L68.0,13.7 L89.3,19.0 L110.7,22.7 L132.0,31.5 L153.3,32.4 L174.7,33.7 L196.0,38.0 L196,40 Z" fill="url(#sg70639)"/><polyline points="4.0,7.4 25.3,11.1 46.7,6.0 68.0,13.7 89.3,19.0 110.7,22.7 132.0,31.5 153.3,32.4 174.7,33.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$116.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +3.71 (+3.28%)</span>
+      <span class="ticker-price ticker-up">$112.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +3.44 (+3.17%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 05:19:21（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:59:59（非实时）</div>
   </div>
 </div>
 
