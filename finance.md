@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-24 14:35（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-24 20:08（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -57,7 +57,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">3,690.48</span>
       <span class="ticker-change up">▲ +0.89%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg35224" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.8 L25.3,6.0 L46.7,13.5 L68.0,26.9 L89.3,24.9 L110.7,21.7 L132.0,20.7 L153.3,25.7 L174.7,38.0 L196.0,30.7 L196,40 Z" fill="url(#sg35224)"/><polyline points="4.0,6.8 25.3,6.0 46.7,13.5 68.0,26.9 89.3,24.9 110.7,21.7 132.0,20.7 153.3,25.7 174.7,38.0 196.0,30.7" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.7" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
       
@@ -493,8 +493,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="采访和文件显示，一家俄罗斯能源巨头秘密资助了一家美国公司。在结束乌克兰战争的谈判中已经讨论了该协议。" data-title="In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges" data-date="10-24 19:43" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-24 19:43</span>
+          <span class="news-item-title">In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-24/10720440.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州10月24日电(王华 张松乐)“科技向善 生命至上——广州2026年安全应急救援机器人大赛”总决赛23日至24日在广州举行。此次大赛通过两大赛道、七大科目硬核实测，打通了机器人从实验室到落地应用的完整链路，为超大城市应急救援探索科技新路径。" data-title="广州举办安全救援机器人大赛  探索超大城市应急科技新路" data-date="10-24 18:56" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-24 18:56</span>
+          <span class="news-item-title">广州举办安全救援机器人大赛  探索超大城市应急科技新路</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-24/10720328.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网巴黎10月24日电 中国驻欧盟使团当地时间21日在法国斯特拉斯堡举办“中国大讲堂”系列讲座第四讲，特邀原中国气候变化事务特使解振华围绕“中国的绿色发展及中欧绿色合作”举行专题讲座。中国驻欧盟使团团长蔡润大使主持活动，中国驻斯特拉斯堡总领事潘昱旻出席。欧洲议会议员、欧盟有关机构官员，有关国家驻欧盟及法国外交官、地方政府官员、教育机构、企业及媒体智库代表等120余人参加。" data-title="中国驻欧盟使团举办“中国大讲堂”系列讲座介绍中国的绿色发展及中欧绿色合作" data-date="10-24 17:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-24 17:14</span>
+          <span class="news-item-title">中国驻欧盟使团举办“中国大讲堂”系列讲座介绍中国的绿色发展及中欧绿色合作</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/017/381.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 24 日消息，沃尔沃汽车透露，由于新技术和制造工艺带来了生产难题，全新纯电 SUV EX60 的产能爬坡速度低于预期。今年 4 月投产以来，新车订单量已超过 5 万辆，但实际产量仅为 5000 辆。沃尔沃 CEO 汉肯 · 塞缪尔森坦言：“我们的产能爬坡进度落后于原先计划，因此 EX60 对公司财务业绩产生贡献的时间也将推后。”EX60 迟迟无法实现大规模生产的时间节点，恰逢沃尔沃业绩承压。23 日公布的财报显示，公司 2026 年第三季度净亏损 57 亿瑞典克朗（IT之家注：现汇率约合 38.28 亿元人民币），季度表现“非常令人失望”。为恢复盈利，沃尔沃还宣布计划裁员 2500 人。塞缪尔森指出，EX60 是沃尔沃扭亏计划中的关键车型，未来有望成为公司利润贡献最大的车" data-title="远水难救近火：沃尔沃手握 5 万辆 EX60 订单，产量却只有 5000 辆" data-date="10-24 14:35" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -550,4 +568,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-24 14:35（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-24 20:08（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
