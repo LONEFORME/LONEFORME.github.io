@@ -57,7 +57,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">3,690.48</span>
       <span class="ticker-change up">▲ +0.89%</span>
     </div>
-    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg35224" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.8 L25.3,6.0 L46.7,13.5 L68.0,26.9 L89.3,24.9 L110.7,21.7 L132.0,20.7 L153.3,25.7 L174.7,38.0 L196.0,30.7 L196,40 Z" fill="url(#sg35224)"/><polyline points="4.0,6.8 25.3,6.0 46.7,13.5 68.0,26.9 89.3,24.9 110.7,21.7 132.0,20.7 153.3,25.7 174.7,38.0 196.0,30.7" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="30.7" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
       
