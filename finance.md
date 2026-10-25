@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6690</span>
+      <span class="ticker-price ticker-down">6.6683</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg70639" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.4 L25.3,11.1 L46.7,6.0 L68.0,13.7 L89.3,19.0 L110.7,22.7 L132.0,31.5 L153.3,32.4 L174.7,33.7 L196.0,38.0 L196,40 Z" fill="url(#sg70639)"/><polyline points="4.0,7.4 25.3,11.1 46.7,6.0 68.0,13.7 89.3,19.0 110.7,22.7 132.0,31.5 153.3,32.4 174.7,33.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg33607" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.4 L25.3,11.0 L46.7,6.0 L68.0,13.5 L89.3,18.6 L110.7,22.2 L132.0,30.8 L153.3,31.7 L174.7,33.0 L196.0,38.0 L196,40 Z" fill="url(#sg33607)"/><polyline points="4.0,7.4 25.3,11.0 46.7,6.0 68.0,13.5 89.3,18.6 110.7,22.2 132.0,30.8 153.3,31.7 174.7,33.0 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:59:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:31:06（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
