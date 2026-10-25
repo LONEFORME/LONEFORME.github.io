@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-25 20:41（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-26 00:37（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,91 +493,25 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">14 条精选资讯</span>
+      <span class="news-category-count">3 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/017/686.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，法国游戏发行与外设企业 NACON 近日推出了 REVOLUTION PRO X – Special Edition 手柄控制器。这一特别版型号为 XBOX 而设计，拥有受游戏《地狱即我们》(Hell is Us) 启发的正面等高线纹理。REVOLUTION PRO X – Special Edition 配备支持阻尼调节的霍尔效应传感器摇杆、霍尔效应传感器 / 微动开关双切扳机、触觉微动 ABXY 和 D-Pad、2 个可编程背键。其集成 4 个振动电机，PC 平台有线模式回报率可达 1kHz。IT之家了解到，Nacon REVOLUTION PRO X – Special Edition 手柄定价 129.9 美元（IT之家注：现汇率约合 868.9 元" data-title="Nacon 推出 REVOLUTION PRO X 特别版手柄：等高线纹理，力可调摇杆" data-date="10-25 20:28" data-source="IT之家">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-25/10720864.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间25日，津巴布韦总统姆南加古瓦呼吁西方国家无条件解除对津巴布韦实施的制裁，表示这些制裁严重制约了津巴布韦国家经济发展。" data-title="津巴布韦总统呼吁西方国家无条件解除制裁" data-date="10-25 23:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-25 23:43</span>
+          <span class="news-item-title">津巴布韦总统呼吁西方国家无条件解除制裁</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/017/717.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，彭博社记者马克 · 古尔曼今天在最新一期《Power On》通讯中提到，苹果正在测试新款 iMac 和 MacBook Pro，这两款原型机均配备 OLED 屏幕，表明苹果计划将 OLED 技术引入公司旗下偏大众化的电脑产品，但具体推出时间暂时还没有准信。古尔曼透露，苹果将在未来几天内推出升级版 iMac，但不会搭载 OLED 面板；新款 MacBook Air 预计将在 2027 年初亮相，同样也没有采用 OLED。IT之家注意到，这几年曾有多个传闻称，iMac 和 MacBook Air 产品线都将升级 OLED 面板。2025 年 12 月，一份供应链报告声称 OLED 款 24 英寸 iMac 将于 2027 年推出。到了今年则有消息称，OLED 版" data-title="古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air" data-date="10-25 23:05" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-25 20:28</span>
-          <span class="news-item-title">Nacon 推出 REVOLUTION PRO X 特别版手柄：等高线纹理，力可调摇杆</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/680.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，以“星闪 AI · 智合万物”为主题的 CEIC2026 暨国际星闪联盟产业峰会在深圳会展中心（福田）举行。上海机动车检测认证技术研究中心李俊成发布了星闪数字车钥匙 2.0 评测结果：星闪数字车钥匙累计出货超 160 万台、量产车型超 30 款，实测解闭锁成功率达 100%，在防乒乓误触、抗干扰、低电量等场景下表现稳定。中国信通院泰尔终端实验室物联技术部主任高宏在会上还发布了星闪高并发评测结果：在办公楼、户外、地下车库等多类场地反复实测，星闪已具备百级、256 乃至 500 节点量级的高并发能力，在并发数、时延、速率、丢包率等核心指标上整体优于行业平均水平。据IT之家此前报道，今年 4 月，星闪数字车钥匙首次集中亮相 2026 北京车展。国际星闪联盟当时预测" data-title="解闭锁成功率达 100%：星闪数字车钥匙累计出货官宣突破 160 万台、量产车型超 30 款" data-date="10-25 19:58" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-25 19:58</span>
-          <span class="news-item-title">解闭锁成功率达 100%：星闪数字车钥匙累计出货官宣突破 160 万台、量产车型超 30 款</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/602.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，由重庆市沙坪坝区与赛力斯共同投资的赛豆科技 AIVA 首款量产车 —— ME7 已于今年 9 月在法国巴黎尚普拉特勒城堡完成全球首秀。目前，新车已完成工信部申报，将推出单电机以及双电机两个版本，均提供 5 座布局，可选装红色卡钳、黑色车顶、不同造型轮辋、拖钩孔、电连接头、ETC 车载装置，配备汽车事件数据记录系统（EDR）。IT之家注意到，赛豆科技 AIVA 汽车今日发布视频，宣布 AIVA 全球首家 AI 生活实验室于重庆光环购物公园正式启幕。据介绍，AIVA 全球首家 AI 生活实验室除了展出 AIVA ME7 实车外，还提供火山生态体验区，消费者可以体验相关 AI 生态产品，包括耳机、手机等（从视频画面来看，手机预计是努比亚 NaviX Ultra）。" data-title="赛力斯赛豆科技 AIVA 全球首家 AI 生活实验室今日开幕，店内展出 ME7 实车" data-date="10-25 14:55" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-25 14:55</span>
-          <span class="news-item-title">赛力斯赛豆科技 AIVA 全球首家 AI 生活实验室今日开幕，店内展出 ME7 实车</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-25/10720680.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社长沙10月25日电 (刘曼)“不少人好奇，我是怎样‘联系’天上那些卫星的。”在位于湖南湘江新区的一家商业航天企业工作一年多后，“00后”台湾青年詹玮澎最近开始邀请同在大陆的台湾朋友到自己公司参观。" data-title="“00后”台青大陆当卫星“通讯员”：年轻一代可跨海创未来" data-date="10-25 14:46" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-25 14:46</span>
-          <span class="news-item-title">“00后”台青大陆当卫星“通讯员”：年轻一代可跨海创未来</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/595.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，据外媒 CarBuzz 今天（25 日）下午报道，自 2025 年 10 月进入英国市场以来，吉利销量一路飙升，经销商网络也在全国迅速铺开。凭借纯电跨界 SUV 车型 EX5 打开英国市场还不到一年，吉利的月销量便超过了多家深耕当地市场的老牌车企。据悉，今年 9 月，吉利在英国的新车注册量达到 5155 辆，超过马自达的 4417 辆和本田的 4149 辆。西雅特同期注册量为 2907 辆，菲亚特更是只有 1244 辆。在英国当月 350536 辆的新车注册总量中，吉利占据了 1.47% 的市场份额。报道提出，吉利销量快速增长，得益于及时引入两款新车：纯电两厢车 EX2 和插混 SUV 车型 Starray EM-i。与此同时，吉利已签下英国第 100 家经" data-title="吉利在英国势头迅猛，9 月新车注册量超过马自达、本田" data-date="10-25 14:22" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-25 14:22</span>
-          <span class="news-item-title">吉利在英国势头迅猛，9 月新车注册量超过马自达、本田</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-25/10720649.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月25日电 (记者 黄钰钦)记者25日从中国社科院获悉，第六届中国—中亚智库论坛日前在吉尔吉斯斯坦首都比什凯克举行。论坛全体会议以“共同现代化与推动中国—中亚合作高质量发展”为主题，围绕未来产业、交通能源互联互通、工业技术合作、区域价值链及智库合作机制交流研讨，并结合中吉乌铁路建设等实践，探讨区域合作提质升级路径。" data-title="第六届中国—中亚智库论坛举行 探索高质量发展与共同现代化" data-date="10-25 14:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-25 14:06</span>
-          <span class="news-item-title">第六届中国—中亚智库论坛举行 探索高质量发展与共同现代化</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-25/10720617.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="央广网图木舒克10月24日消息(记者丁安 郭璁悦) 金秋十月，硕果盈枝。在新疆图木舒克市永安湖万亩渔业养殖基地，昆仑山融雪水正顺着渠系缓缓流入塘口，夕阳洒在水面上泛起金色波光。技术员张武魁蹲在塘边查看水质，捞起一尾鲻鱼，鱼尾拍打水花。“从鱼苗养到现在，平均能长到两公斤左右，长势很好。”他说。这一幕，很难让人想到这里曾是白茫茫的盐碱戈壁。" data-title="新疆图木舒克：产业富民“润”戈壁 三餐一线“织”幸福" data-date="10-25 12:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-25 12:45</span>
-          <span class="news-item-title">新疆图木舒克：产业富民“润”戈壁 三餐一线“织”幸福</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-25/10720586.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网加德满都10月25日电 廷布消息：据不丹《昆瑟尔报》24日报道，亚洲开发银行已批准向不丹提供1742万美元融资，帮助该国弱势家庭应对食品和能源价格上涨。" data-title="亚行批准1742万美元融资支持不丹应对物价上涨" data-date="10-25 11:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-25 11:03</span>
-          <span class="news-item-title">亚行批准1742万美元融资支持不丹应对物价上涨</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-25/10720585.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔10月25日电 （记者 金旭）当地时间10月23日，2026中韩经济发展论坛在韩国首尔大学开幕。中国驻韩国大使戴兵出席开幕式并致辞。来自中韩各界的专家学者及企业代表共计160余人出席。" data-title="2026中韩经济发展论坛开幕" data-date="10-25 11:02" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-25 11:02</span>
-          <span class="news-item-title">2026中韩经济发展论坛开幕</span>
+          <span class="news-item-date">10-25 23:05</span>
+          <span class="news-item-title">古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6rmydgej9w8o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国加州一栋豪宅因男婴受伤揭发涉嫌虐童案，屋内住着多名透过代孕出生的孩子。涉案男女被控串谋虐待儿童，事件亦引发外界关注美国代孕产业的监管问题。" data-title="住着一群代孕孩子，美国加州的豪宅如何变成“恐怖之家”？" data-date="10-25 08:38" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">10-25 08:38</span>
           <span class="news-item-title">住着一群代孕孩子，美国加州的豪宅如何变成“恐怖之家”？</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/517.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 24 日消息，Meta 旗下个人 AI 助手 Muse 的对话分享功能被曝存在隐私风险。网络安全研究团队 Claroc 于 10 月 18 日发布报告称，研究人员通过被动 DNS（Passive DNS）查询发现，超过 6800 个 Muse 分享页面的域名可以被检索到，部分页面包含个人财务资料、企业内部文件及机密会议准备信息。Meta 随后暂停了该功能，并表示正在调查问题及评估改进方案。Claroc 研究团队发现，Muse 会根据用户分享的对话标题生成网页地址，并将其部署在 cf.metaaiusercontent.com 域名下。由于对话标题被写入子域名，当用户或接收者访问分享页面时，相关域名可能被被动 DNS 服务记录，进而出现在可查询的历史 DNS 数据库中。研究" data-title="研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复" data-date="10-24 22:39" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-24 22:39</span>
-          <span class="news-item-title">研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-24/10720519.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月24日电 (记者 尹倩芸)美国财政部日前发布新版对外投资限制拟议规则，征求公众评论意见。中国商务部新闻发言人24日在答记者问时表示，中方对此坚决反对，将保留采取相应措施的权利。" data-title="中国商务部回应美发布新版对外投资限制拟议规则" data-date="10-24 22:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-24 22:01</span>
-          <span class="news-item-title">中国商务部回应美发布新版对外投资限制拟议规则</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="采访和文件显示，一家俄罗斯能源巨头秘密资助了一家美国公司。在结束乌克兰战争的谈判中已经讨论了该协议。" data-title="In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges" data-date="10-24 21:20" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-24 21:20</span>
-          <span class="news-item-title">In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-24/10720494.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="时尚饰品专区，在杭州一家铜工艺品企业的展位前，多名境外采购商被葫芦造型首饰吸引，现场试戴后直接下单；" data-title="中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球" data-date="10-24 21:04" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-24 21:04</span>
-          <span class="news-item-title">中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球</span>
         </a>
   </div>
 </div>
@@ -592,4 +526,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-25 20:41（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-26 00:37（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
