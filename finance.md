@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-25 15:02（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-25 20:41（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,8 +493,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">14 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/017/686.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，法国游戏发行与外设企业 NACON 近日推出了 REVOLUTION PRO X – Special Edition 手柄控制器。这一特别版型号为 XBOX 而设计，拥有受游戏《地狱即我们》(Hell is Us) 启发的正面等高线纹理。REVOLUTION PRO X – Special Edition 配备支持阻尼调节的霍尔效应传感器摇杆、霍尔效应传感器 / 微动开关双切扳机、触觉微动 ABXY 和 D-Pad、2 个可编程背键。其集成 4 个振动电机，PC 平台有线模式回报率可达 1kHz。IT之家了解到，Nacon REVOLUTION PRO X – Special Edition 手柄定价 129.9 美元（IT之家注：现汇率约合 868.9 元" data-title="Nacon 推出 REVOLUTION PRO X 特别版手柄：等高线纹理，力可调摇杆" data-date="10-25 20:28" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-25 20:28</span>
+          <span class="news-item-title">Nacon 推出 REVOLUTION PRO X 特别版手柄：等高线纹理，力可调摇杆</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/017/680.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，以“星闪 AI · 智合万物”为主题的 CEIC2026 暨国际星闪联盟产业峰会在深圳会展中心（福田）举行。上海机动车检测认证技术研究中心李俊成发布了星闪数字车钥匙 2.0 评测结果：星闪数字车钥匙累计出货超 160 万台、量产车型超 30 款，实测解闭锁成功率达 100%，在防乒乓误触、抗干扰、低电量等场景下表现稳定。中国信通院泰尔终端实验室物联技术部主任高宏在会上还发布了星闪高并发评测结果：在办公楼、户外、地下车库等多类场地反复实测，星闪已具备百级、256 乃至 500 节点量级的高并发能力，在并发数、时延、速率、丢包率等核心指标上整体优于行业平均水平。据IT之家此前报道，今年 4 月，星闪数字车钥匙首次集中亮相 2026 北京车展。国际星闪联盟当时预测" data-title="解闭锁成功率达 100%：星闪数字车钥匙累计出货官宣突破 160 万台、量产车型超 30 款" data-date="10-25 19:58" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-25 19:58</span>
+          <span class="news-item-title">解闭锁成功率达 100%：星闪数字车钥匙累计出货官宣突破 160 万台、量产车型超 30 款</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/017/602.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，由重庆市沙坪坝区与赛力斯共同投资的赛豆科技 AIVA 首款量产车 —— ME7 已于今年 9 月在法国巴黎尚普拉特勒城堡完成全球首秀。目前，新车已完成工信部申报，将推出单电机以及双电机两个版本，均提供 5 座布局，可选装红色卡钳、黑色车顶、不同造型轮辋、拖钩孔、电连接头、ETC 车载装置，配备汽车事件数据记录系统（EDR）。IT之家注意到，赛豆科技 AIVA 汽车今日发布视频，宣布 AIVA 全球首家 AI 生活实验室于重庆光环购物公园正式启幕。据介绍，AIVA 全球首家 AI 生活实验室除了展出 AIVA ME7 实车外，还提供火山生态体验区，消费者可以体验相关 AI 生态产品，包括耳机、手机等（从视频画面来看，手机预计是努比亚 NaviX Ultra）。" data-title="赛力斯赛豆科技 AIVA 全球首家 AI 生活实验室今日开幕，店内展出 ME7 实车" data-date="10-25 14:55" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -567,12 +579,6 @@ title: 股票财经
           <span class="news-item-date">10-24 21:04</span>
           <span class="news-item-title">中国风首饰被抢着下单，装配式房屋1小时成交5台……这届广交会中国“品质家居”圈粉全球</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview" target="_blank" rel="noopener" data-cat="caijing" data-summary="李昌东的第七部故事片《可能的爱》的灵感来自2009年的真实事件，当时一家韩国企业集团解雇了三分之一的员工--2600名员工--之后许多人自杀身亡。Possible Love是Lee一长串中的最新作品" data-title="Lee Chang Dong ponders the ethics of the camera" data-date="10-24 20:30" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-24 20:30</span>
-          <span class="news-item-title">Lee Chang Dong ponders the ethics of the camera</span>
-        </a>
   </div>
 </div>
 
@@ -586,4 +592,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-25 15:02（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-25 20:41（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
