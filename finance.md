@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-26 15:09（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-26 22:28（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">28,957.53</span>
-      <span class="ticker-change down">▼ 0.00%</span>
+      <span class="ticker-price ticker-up">29,189.06</span>
+      <span class="ticker-change up">▲ +0.80%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-24 09:48:20（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-26 22:29:16（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6679</span>
+      <span class="ticker-price ticker-down">6.6681</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg74206" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.4 L25.3,10.9 L46.7,6.0 L68.0,13.4 L89.3,18.5 L110.7,22.0 L132.0,30.5 L153.3,31.4 L174.7,32.6 L196.0,38.0 L196,40 Z" fill="url(#sg74206)"/><polyline points="4.0,7.4 25.3,10.9 46.7,6.0 68.0,13.4 89.3,18.5 110.7,22.0 132.0,30.5 153.3,31.4 174.7,32.6 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg5653" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.4 L25.3,10.9 L46.7,6.0 L68.0,13.5 L89.3,18.5 L110.7,22.1 L132.0,30.6 L153.3,31.6 L174.7,32.8 L196.0,38.0 L196,40 Z" fill="url(#sg5653)"/><polyline points="4.0,7.4 25.3,10.9 46.7,6.0 68.0,13.5 89.3,18.5 110.7,22.1 132.0,30.6 153.3,31.6 174.7,32.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:47:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:29:08（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,020.15 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +22.36 (+0.56%)</span>
+      <span class="ticker-price ticker-up">$4,007.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +10.01 (+0.25%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:47:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:29:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥863.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.63 (+0.42%)</span>
+      <span class="ticker-price ticker-up">¥861.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +0.87 (+0.10%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:46:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:29:01（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$110.25 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.45 (-1.30%)</span>
+      <span class="ticker-price ticker-down">$109.87 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.83 (-1.64%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:47:20（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:29:17（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-26/10721423.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网郑州10月26日电 (记者 韩章云)曾经落寞的老商场，焕新成为新能源汽车科普展馆；老粮仓改造的文创街区，是年轻人喜爱的时尚打卡地……郑州市二七区是该市的主城区、老城区，如今，旧城新貌、老区新业，这里城市更新的成果正惠及这座拥有1300多万人口的城市。" data-title="郑州市主城区，如何实现旧城新貌、老区新业？" data-date="10-26 22:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-26 22:23</span>
+          <span class="news-item-title">郑州市主城区，如何实现旧城新貌、老区新业？</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-26/10721395.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网祁阳10月26日电(谭俊杰 欧勇强 伍彬彬)眼下，湖南祁阳市60多万亩油茶迎来“霜降籽”采摘旺季。群山之间，村民俯身采摘鲜果，无人机往返穿梭转运果实，传统油茶采收迎来科技新帮手。" data-title="科技赋能油茶采收 湖南祁阳老产业解锁空中转运新模式" data-date="10-26 21:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-26 21:58</span>
+          <span class="news-item-title">科技赋能油茶采收 湖南祁阳老产业解锁空中转运新模式</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/26/business/brazil-markets-election-lula.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统路易斯·伊纳西奥·卢拉·达席尔瓦（ Luiz Inácio Lula da Silva ）的连任胜利引发了金融市场的急剧逆转，原本预计他的对手会获胜。" data-title="Brazilian Markets Convulse After Unlikely Election Result" data-date="10-26 21:58" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-26 21:58</span>
+          <span class="news-item-title">Brazilian Markets Convulse After Unlikely Election Result</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-26/10721390.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网佛山10月26日电 (记者 王坚)来自广州、深圳、珠海等地先进制造业的技能人才25日齐聚佛山，在2026年广东省智能机器人与数字制造应用技术项目职业技能竞赛的赛场上，比学赶超、各展身手，绘就一幕幕“人机协作”的智造画卷。" data-title="广东以赛带训 推动智能机器人等技能培训与产业升级同频" data-date="10-26 21:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-26 21:57</span>
+          <span class="news-item-title">广东以赛带训 推动智能机器人等技能培训与产业升级同频</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-26/10721350.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社金边10月26日电 (张堰林 张安琪 杨强)亚洲开发银行当地时间26日发布消息称，亚行已批准一项总额7200万美元融资方案，资金用于柬埔寨“小农户韧性经济发展项目”，支持柬埔寨农村农业发展。" data-title="亚洲开发银行提供7200万美元融资支持柬埔寨农业发展" data-date="10-26 21:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-26 21:12</span>
+          <span class="news-item-title">亚洲开发银行提供7200万美元融资支持柬埔寨农业发展</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-26/10721258.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社加德满都10月26日电 (记者 崔楠)中尼跨境灾害风险考察科考队26日开始在尼泊尔东部阿润河流域开展实地科考，重点调查沿线地质灾害潜在风险和生态环境本底，评估冰湖溃决洪水对流域水电开发及社会经济发展的影响。" data-title="中尼联合科考队启动陈塘" data-date="10-26 20:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-26 20:41</span>
+          <span class="news-item-title">中尼联合科考队启动陈塘</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/017/918.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 26 日消息，10 月 26 日，国家能源局发布 1-9 月份全国电力统计数据。截至 9 月底，全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%。其中，太阳能发电装机容量 13.1 亿千瓦，同比增长 16.5%；风电装机容量 7.0 亿千瓦，同比增长 20.4%。1-9 月份，全国发电设备累计平均利用 2174 小时，比上年同期降低 194 小时。IT之家注意到，国家能源局此前发布数据显示，今年 9 月份，全社会用电量 8997 亿千瓦时，同比增长 1.2%。第一产业用电量 135 亿千瓦时，同比增长 4.1%。第二产业用电量 5800 亿千瓦时，同比增长 1.7%；其中，工业用电量 5751 亿千瓦时，同比增长 1.8%，高技术及装备制造业用电量 1167" data-title="国家能源局：截至 9 月底全国累计发电装机容量 41.3 亿千瓦，同比增长 11.2%" data-date="10-26 15:07" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -531,6 +567,12 @@ title: 股票财经
           <span class="news-item-date">10-26 11:26</span>
           <span class="news-item-title">住着一群代孕孩子，美国加州的豪宅如何变成“恐怖之家”？</span>
         </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111199" target="_blank" rel="noopener" data-cat="caijing" data-summary="明阳智能表示，与英国章鱼能源组建合资公司并在欧洲成立独立法律实体，有助于让客户相信，从中国无法访问欧洲数据。" data-title="中国风电制造商为欧洲业务架设“防火墙”" data-date="10-26 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-26 00:00</span>
+          <span class="news-item-title">中国风电制造商为欧洲业务架设“防火墙”</span>
+        </a>
         <a class="news-item" href="https://www.ftchinese.com/story/001111189" target="_blank" rel="noopener" data-cat="caijing" data-summary="此举旨在缓解与加拿大经济联系紧密的美国各州的压力。此前面临胶着选情的共和党参议员候选人纷纷抨击总统发起的贸易战。" data-title="特朗普在共和党人压力下取消部分对加关税" data-date="10-26 00:00" data-source="FT中文网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge ">🌐 FT中文网</span>
@@ -542,12 +584,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-25 23:43</span>
           <span class="news-item-title">津巴布韦总统呼吁西方国家无条件解除制裁</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/017/717.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 25 日消息，彭博社记者马克 · 古尔曼今天在最新一期《Power On》通讯中提到，苹果正在测试新款 iMac 和 MacBook Pro，这两款原型机均配备 OLED 屏幕，表明苹果计划将 OLED 技术引入公司旗下偏大众化的电脑产品，但具体推出时间暂时还没有准信。古尔曼透露，苹果将在未来几天内推出升级版 iMac，但不会搭载 OLED 面板；新款 MacBook Air 预计将在 2027 年初亮相，同样也没有采用 OLED。IT之家注意到，这几年曾有多个传闻称，iMac 和 MacBook Air 产品线都将升级 OLED 面板。2025 年 12 月，一份供应链报告声称 OLED 款 24 英寸 iMac 将于 2027 年推出。到了今年则有消息称，OLED 版" data-title="古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air" data-date="10-25 23:05" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-25 23:05</span>
-          <span class="news-item-title">古尔曼：苹果正测试配备 OLED 屏幕的 iMac 和 MacBook Air</span>
         </a>
   </div>
 </div>
@@ -562,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-26 15:09（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-26 22:28（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
