@@ -142,7 +142,7 @@ title: 股票财经
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-27 04:25:21（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-27 05:30:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -153,12 +153,12 @@ title: 股票财经
       <span class="ticker-price ticker-down">6.6675</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg37653" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,7.4 L25.3,10.8 L46.7,6.0 L68.0,13.3 L89.3,18.3 L110.7,21.8 L132.0,30.1 L153.3,31.0 L174.7,32.3 L196.0,38.0 L196,40 Z" fill="url(#sg37653)"/><polyline points="4.0,7.4 25.3,10.8 46.7,6.0 68.0,13.3 89.3,18.3 110.7,21.8 132.0,30.1 153.3,31.0 174.7,32.3 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg55961" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,10.8 L25.3,6.0 L46.7,13.3 L68.0,18.3 L89.3,21.8 L110.7,30.1 L132.0,31.0 L153.3,32.3 L174.7,36.3 L196.0,38.0 L196,40 Z" fill="url(#sg55961)"/><polyline points="4.0,10.8 25.3,6.0 46.7,13.3 68.0,18.3 89.3,21.8 110.7,30.1 132.0,31.0 153.3,32.3 174.7,36.3 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:25:16（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 08:21:14（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,013.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +16.01 (+0.40%)</span>
+      <span class="ticker-price ticker-down">$4,016.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -0.37 (-0.01%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:25:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 08:21:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$110.19 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.51 (-1.35%)</span>
+      <span class="ticker-price ticker-down">$109.97 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.77 (-0.70%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:25:22（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 08:21:33（非实时）</div>
   </div>
 </div>
 
