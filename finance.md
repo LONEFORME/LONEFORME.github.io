@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-28 15:37（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-28 22:17（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,651.44</span>
-      <span class="ticker-change up">▲ +1.29%</span>
+      <span class="ticker-price ticker-up">29,676.48</span>
+      <span class="ticker-change up">▲ +0.08%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-28 09:34:31（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-28 22:19:10（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6642</span>
+      <span class="ticker-price ticker-down">6.6633</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg10000" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,12.6 L46.7,17.0 L68.0,20.1 L89.3,27.6 L110.7,28.4 L132.0,29.5 L153.3,33.2 L174.7,34.6 L196.0,38.0 L196,40 Z" fill="url(#sg10000)"/><polyline points="4.0,6.0 25.3,12.6 46.7,17.0 68.0,20.1 89.3,27.6 110.7,28.4 132.0,29.5 153.3,33.2 174.7,34.6 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg25433" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,12.4 L46.7,16.7 L68.0,19.7 L89.3,27.0 L110.7,27.8 L132.0,28.9 L153.3,32.4 L174.7,33.8 L196.0,38.0 L196,40 Z" fill="url(#sg25433)"/><polyline points="4.0,6.0 25.3,12.4 46.7,16.7 68.0,19.7 89.3,27.0 110.7,27.8 132.0,28.9 153.3,32.4 174.7,33.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:40:37（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:19:07（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,054.85 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -5.28 (-0.13%)</span>
+      <span class="ticker-price ticker-down">$4,046.38 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -13.75 (-0.34%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:40:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:19:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥870.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.69 (+0.43%)</span>
+      <span class="ticker-price ticker-up">¥869.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +2.32 (+0.27%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:40:22（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:19:08（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$111.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +1.98 (+1.81%)</span>
+      <span class="ticker-price ticker-up">$111.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +2.29 (+2.09%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:40:51（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:19:22（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/019/193.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 28 日消息，上汽集团 10 月 27 日公布数据，今年前三季度，该公司累计销售 314.7 万辆，继续位居中国汽车行业首位，整体销量领跑中国车市的同时，上汽海外销售也节节攀升，1-9 月销售 116.6 万辆，同比增长 52.4%，已超过 2025 年全年海外销量。IT之家从官方数据获悉，在上汽最大的海外区域市场 —— 欧洲，MG 品牌前三季度累计销量超过 28 万辆，同比增长 23%。9 月，MG 在英国销售新车 1.8 万辆，刷新品牌单月销量纪录，其中电动化车型占比达 91.6%，覆盖纯电、HEV 与 PHEV 等多种能源形式。此外，前三季度，MG 品牌在中美洲和加勒比地区 18 个市场的销量同比增长 86%，同步导入燃油、混动与纯电产品组合。商用车板块同步发力，9" data-title="上汽集团前三季度海外销售突破百万，已超去年全年水平" data-date="10-28 21:52" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-28 21:52</span>
+          <span class="news-item-title">上汽集团前三季度海外销售突破百万，已超去年全年水平</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-28/10722448.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西宁10月28日电 (记者 孙睿)10月28日，青海大学“藏医悬灸成套技术及系列产品”正式发布，并与产业合作方签署技术秘密转让协议，标志着这一民族医药科技成果进入产业化落地阶段。" data-title="青海藏医火灸走向标准化" data-date="10-28 21:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-28 21:23</span>
+          <span class="news-item-title">青海藏医火灸走向标准化</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-28/10722413.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆10月28日电 (记者 钟旖)重庆市经济和信息化委员会党组书记、主任王志杰28日在当地召开的新闻发布会上介绍，“十五五”时期，重庆将坚持工业立市、制造强市不动摇，力争到2030年基本建成具有国际竞争力的先进制造业中心和具有全国影响力的产业创新中心。" data-title="重庆：力争2030年基本建成具有国际竞争力的先进制造业中心" data-date="10-28 21:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-28 21:22</span>
+          <span class="news-item-title">重庆：力争2030年基本建成具有国际竞争力的先进制造业中心</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-28/10722427.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月28日电 据自然资源部微信公众号消息，前三季度，我国海洋经济实现平稳增长，结构不断优化，韧性继续显现，向新向优发展势头不断巩固。初步核算，前三季度海洋生产总值8.5万亿元，同比增长4.9%。" data-title="自然资源部：前三季度我国海洋生产总值同比增长4.9%" data-date="10-28 21:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-28 21:18</span>
+          <span class="news-item-title">自然资源部：前三季度我国海洋生产总值同比增长4.9%</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="全球豪经舱排名出来，台湾长荣及阿联酋航空分占冠亚军。" data-title="什么时候“豪华经济舱”值得多花钱？来比较2026年全球五强" data-date="10-28 16:27" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-28 16:27</span>
+          <span class="news-item-title">什么时候“豪华经济舱”值得多花钱？来比较2026年全球五强</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/018/935.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 28 日消息，根据中证指数公司网站最新披露数据，长鑫科技已被纳入上证综合指数，权重为 4.67%，位列第一大权重股。农业银行、工商银行紧随其后，权重分别为 3.83% 和 3.77%。与长鑫科技于 2026 年 7 月 27 日登陆科创板，至 10 月 27 日正好满三个月。根据上证综合指数编制方案，上市以来日均总市值排名沪市前 10 位的证券，在上市满三个月后计入指数。长鑫科技上市后总市值一度突破 3 万亿元，长期位居 A 股总市值前列，满足上述计入条件。同日，长鑫科技也被纳入上证科创板综合指数，权重高达 15.74%，同样位列第一大权重股，寒武纪、海光信息在该指数中分列二、三位。两个指数合计来看，长鑫科技在上证综指中以 4.67% 的权重居首，在科创综指中更以接近 1" data-title="上市满三个月，长鑫科技正式被纳入上证指数位列第一大权重股" data-date="10-28 15:35" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -555,24 +585,6 @@ title: 股票财经
           <span class="news-item-date">10-27 22:37</span>
           <span class="news-item-title">从佛塔到酒香：泰国东北部传统文化焕发新活力</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-27/10721937.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网昆明10月27日电 (陆希成 贝文)新修订的《云南省安全生产条例》(以下简称《条例》)将于11月1日起施行。《条例》大幅提高违法惩戒力度，明确对重大、特别重大生产安全事故负有责任的企业主要负责人，终身不得担任本行业生产经营单位的主要负责人；同时保障从业人员拒绝违章指挥和强令冒险作业的权利，并明确平台经济、低空经济等新兴行业的安全监管责任。" data-title="云南新修订安全生产条例11月起施行 重特大事故责任追究加码" data-date="10-27 22:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-27 22:07</span>
-          <span class="news-item-title">云南新修订安全生产条例11月起施行 重特大事故责任追究加码</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-27/10721914.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达10月27日电(记者 李志全)印度尼西亚与新加坡27日同意成立联合工作组，加强信息共享和跨境调查合作，追查涉嫌与森林和土地火灾有关的企业。" data-title="印尼与新加坡将成立联合工作组追查涉林火企业" data-date="10-27 21:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-27 21:43</span>
-          <span class="news-item-title">印尼与新加坡将成立联合工作组追查涉林火企业</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-27/10721818.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京10月27日电 (记者 张素)记者从中国最高人民法院获悉，10月27日，四川省成都市中级人民法院一审公开宣判中国证券监督管理委员会原党委委员、中央纪委国家监委驻中国证券监督管理委员会纪检监察组原组长王会民受贿案。" data-title="中央纪委国家监委驻中国证监会纪检监察组原组长王会民一审被判死缓" data-date="10-27 19:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-27 19:37</span>
-          <span class="news-item-title">中央纪委国家监委驻中国证监会纪检监察组原组长王会民一审被判死缓</span>
-        </a>
   </div>
 </div>
 
@@ -586,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-28 15:37（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-28 22:17（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
