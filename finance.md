@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-28 22:17（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-29 02:24（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,676.48</span>
-      <span class="ticker-change up">▲ +0.08%</span>
+      <span class="ticker-price ticker-up">29,668.58</span>
+      <span class="ticker-change up">▲ +0.06%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-28 22:19:10（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-29 02:25:55（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6633</span>
+      <span class="ticker-price ticker-down">6.6644</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg25433" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,12.4 L46.7,16.7 L68.0,19.7 L89.3,27.0 L110.7,27.8 L132.0,28.9 L153.3,32.4 L174.7,33.8 L196.0,38.0 L196,40 Z" fill="url(#sg25433)"/><polyline points="4.0,6.0 25.3,12.4 46.7,16.7 68.0,19.7 89.3,27.0 110.7,27.8 132.0,28.9 153.3,32.4 174.7,33.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg31751" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,12.6 L46.7,17.1 L68.0,20.2 L89.3,27.7 L110.7,28.6 L132.0,29.7 L153.3,33.3 L174.7,34.7 L196.0,38.0 L196,40 Z" fill="url(#sg31751)"/><polyline points="4.0,6.0 25.3,12.6 46.7,17.1 68.0,20.2 89.3,27.7 110.7,28.6 132.0,29.7 153.3,33.3 174.7,34.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:19:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:25:49（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,046.38 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -13.75 (-0.34%)</span>
+      <span class="ticker-price ticker-down">$4,033.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -26.99 (-0.66%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:19:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:25:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥869.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +2.32 (+0.27%)</span>
+      <span class="ticker-price ticker-down">¥865.68 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.23 (-0.14%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:19:08（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:25:31（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$111.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +2.29 (+2.09%)</span>
+      <span class="ticker-price ticker-up">$111.86 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +2.45 (+2.24%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 22:19:22（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:26:06（非实时）</div>
   </div>
 </div>
 
@@ -493,13 +493,13 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/019/193.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 28 日消息，上汽集团 10 月 27 日公布数据，今年前三季度，该公司累计销售 314.7 万辆，继续位居中国汽车行业首位，整体销量领跑中国车市的同时，上汽海外销售也节节攀升，1-9 月销售 116.6 万辆，同比增长 52.4%，已超过 2025 年全年海外销量。IT之家从官方数据获悉，在上汽最大的海外区域市场 —— 欧洲，MG 品牌前三季度累计销量超过 28 万辆，同比增长 23%。9 月，MG 在英国销售新车 1.8 万辆，刷新品牌单月销量纪录，其中电动化车型占比达 91.6%，覆盖纯电、HEV 与 PHEV 等多种能源形式。此外，前三季度，MG 品牌在中美洲和加勒比地区 18 个市场的销量同比增长 86%，同步导入燃油、混动与纯电产品组合。商用车板块同步发力，9" data-title="上汽集团前三季度海外销售突破百万，已超去年全年水平" data-date="10-28 21:52" data-source="IT之家">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="更高的抵押贷款利率和放缓的住宅建设再次让房东占上风。" data-title="A Punishing Housing Market Is Squeezing Renters" data-date="10-28 22:04" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-28 21:52</span>
-          <span class="news-item-title">上汽集团前三季度海外销售突破百万，已超去年全年水平</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-28 22:04</span>
+          <span class="news-item-title">A Punishing Housing Market Is Squeezing Renters</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-28/10722448.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西宁10月28日电 (记者 孙睿)10月28日，青海大学“藏医悬灸成套技术及系列产品”正式发布，并与产业合作方签署技术秘密转让协议，标志着这一民族医药科技成果进入产业化落地阶段。" data-title="青海藏医火灸走向标准化" data-date="10-28 21:23" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -525,66 +525,6 @@ title: 股票财经
           <span class="news-item-date">10-28 16:27</span>
           <span class="news-item-title">什么时候“豪华经济舱”值得多花钱？来比较2026年全球五强</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/018/935.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 28 日消息，根据中证指数公司网站最新披露数据，长鑫科技已被纳入上证综合指数，权重为 4.67%，位列第一大权重股。农业银行、工商银行紧随其后，权重分别为 3.83% 和 3.77%。与长鑫科技于 2026 年 7 月 27 日登陆科创板，至 10 月 27 日正好满三个月。根据上证综合指数编制方案，上市以来日均总市值排名沪市前 10 位的证券，在上市满三个月后计入指数。长鑫科技上市后总市值一度突破 3 万亿元，长期位居 A 股总市值前列，满足上述计入条件。同日，长鑫科技也被纳入上证科创板综合指数，权重高达 15.74%，同样位列第一大权重股，寒武纪、海光信息在该指数中分列二、三位。两个指数合计来看，长鑫科技在上证综指中以 4.67% 的权重居首，在科创综指中更以接近 1" data-title="上市满三个月，长鑫科技正式被纳入上证指数位列第一大权重股" data-date="10-28 15:35" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-28 15:35</span>
-          <span class="news-item-title">上市满三个月，长鑫科技正式被纳入上证指数位列第一大权重股</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/018/933.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 28 日消息，Ubiquiti 当地时间 10 月 26 日宣布推出 UniFi 长距离交换机。该设备搭配兼容的户外长距离终端可将 PoE 供电延伸到 800m 的距离，简化户外网络部署。该网络交换机提供 8 个支持 PoE+++ 的 100MbE RJ-45、1 个 1GbE RJ-45、1 个 1GbE SFP，集成 1.3W 触控屏。其总 PoE 功率达 630W，单端口 PoE 输出功率可达 90W，在 100m 上可提供 71.3W、在 800m 上可提供 13W。Ubiquiti UniFi Long-Range Switch 8 PoE 交换机本体售价 249 美元（IT之家注：现汇率约合 1,664 元人民币），每个户外长距离终端则是 99 美元（现汇率约" data-title="Ubiquiti 推出 UniFi 长距离交换机，可在 800m 距离通过网线提供 13W 功率" data-date="10-28 15:26" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-28 15:26</span>
-          <span class="news-item-title">Ubiquiti 推出 UniFi 长距离交换机，可在 800m 距离通过网线提供 13W 功率</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/018/931.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 28 日消息，韩联社今日报道称，据韩国金融部门和有关行业今日消息，虚拟货币交易所“Bithumb”、未来资产环球投资和大信证券三家单位遭到了黑客攻击。大和证券今日表示，3.849 万名客户的个人信息和信用信息遭到泄露。Bithumb 前一天发现，公司内部移动办公系统遭外部未授权人员异常访问，导致个人信息泄露，公司正对会员信息等具体泄露范围进行分析。金融监督院已向大信证券派出现场调查组，进一步了解情况。IT之家从原报道获悉，继未来资产人寿保险公司本月 26 日发生系统入侵事件导致客户信息泄露后，Bithumb、未来资产环球投资、大信证券也被发现遭遇黑客攻击。至此，除了信用卡公司外，韩国主要金融行业几乎均已确认遭受黑客攻击的情况。相关阅读：《韩国多家银行遭黑客攻击致个人信息泄" data-title="黑客连环攻击韩国金融业：多家虚拟货币交易所、券商遭入侵" data-date="10-28 15:21" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-28 15:21</span>
-          <span class="news-item-title">黑客连环攻击韩国金融业：多家虚拟货币交易所、券商遭入侵</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-28/10722174.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当下，新一代通信网不仅覆盖范围越来越广，融合应用也在不断拓展。目前，5G已融入全部97个国民经济大类，工业互联网已覆盖全部41个工业大类，建成工业5G专网数超2.6万个、5G工厂1260个。" data-title="看得见、算得快、连得远 6G有这些“新技能”" data-date="10-28 14:36" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-28 14:36</span>
-          <span class="news-item-title">看得见、算得快、连得远 6G有这些“新技能”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-28/10722151.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社河北张家口10月28日电 (记者 陈林)阳原“鹦哥绿豆”远销海外，康保荞麦米走上日本、韩国客户餐桌，蔚县小米出口美国、韩国等国家……在中国塞外山城张家口，传统小杂粮正从“土特产”发展为大产业，“闯”出国际大市场。" data-title="（走进中国乡村）从“土特产”到大产业  张家口小杂粮“香飘”海外" data-date="10-28 14:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-28 14:09</span>
-          <span class="news-item-title">（走进中国乡村）从“土特产”到大产业  张家口小杂粮“香飘”海外</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="此举将是美国对莫斯科的最新让步，因为特朗普总统正在寻求经济激励措施，他希望这将确保结束乌克兰战争。" data-title="Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund" data-date="10-28 01:30" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-28 01:30</span>
-          <span class="news-item-title">Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/018/698.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 27 日消息，京东旗下 1 号会员店宣布将于 10 月 28 日起调整会员权益体系。根据官方公告，此次调整的核心变化是购物返利从“满 200 元返券”改为按订单金额比例返还“赠金”，尊享卡会员返 2%、普通卡会员返 1%，每月赠金上限分别为 500 元和 200 元。1 元赠金可抵扣 1 元人民币，特殊商品不参与返金也不支持赠金抵扣。新老用户按续费渠道和时效分流。10 月 28 日前已开通、且未在 1 号会员店 App 内续费的老用户，会籍期内继续享受原满 200 返券权益；会籍过期 30 天内在 App 内续费的，可在旧权益与新返金权益之间二选一；过期超过 30 天再续费，或 10 月 28 日后新购卡的用户，适用新规则。通过京东 PLUS 等其他渠道续费的，权益以卡面" data-title="京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁" data-date="10-27 23:39" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-27 23:39</span>
-          <span class="news-item-title">京东 1 号会员店 10 月 28 日起调整会员权益：尊享卡返 2% 赠金，每月权益需消费解锁</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13604421/harry-kane-wins-ballon-dor-gar-neville-describes-him-as-gold" target="_blank" rel="noopener" data-cat="caijing" data-summary="Gary Neville在与Sage合作举办的EFL活动上发表讲话，为在节日期间工作的人提供当地企业的“早期圣诞晚餐” ，他在赢得Ballon d &#39;Or的路上赞扬了Hary kane的专业精神和职业道德。" data-title="&#39;Everything about him is world class&#39; - Neville hails Kane after Ballon d&#39;Or win" data-date="10-27 23:34" data-source="天空体育">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-27 23:34</span>
-          <span class="news-item-title">'Everything about him is world class' - Neville hails Kane after Ballon d'Or win</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/018/690.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 27 日消息，富士今日宣布推出 instax mini Evo 2 拍立得相机。新机采用数字成像，采用 1600 万像素 CMOS，预计 11 月底上市，定价 289 美元（IT之家注：现汇率约合 1,932 元人民币）。据介绍，instax mini Evo 2 背面配备 4.5 英寸触控屏，分辨率为 123 万像素。用户可以在这块屏幕上预览拍摄的照片，再决定是否打印，还能够选择 20 种滤镜、裁切照片。同时，这款相机搭载 1/2.77 英寸 1600 万像素 CMOS 传感器，搭配 21mm f/2.0 广角镜头。相机支持自动设置快门速度、ISO，允许用户手动调整曝光补偿，还可拍摄视频，分辨率为 992 × 560。此外，这款拍立得相机还具备手机互联功能，用户可将其他" data-title="富士推出 instax mini Evo 2 拍立得相机：1600 万像素 CMOS、升级 4.5 寸触控屏" data-date="10-27 23:01" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-27 23:01</span>
-          <span class="news-item-title">富士推出 instax mini Evo 2 拍立得相机：1600 万像素 CMOS、升级 4.5 寸触控屏</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-27/10721953.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网曼谷10月27日电 (记者 李映民)从湄公河畔的古老佛塔，到融入现代设计的本土烈酒；从礼佛祈福的传统习俗，到以农业产品发展创意产业，10月27日，记者在泰国国家旅游局官员的带领下走进泰国东北部那空帕侬府，感受当地传统文化在现代旅游和创意经济中的延续与新生。" data-title="从佛塔到酒香：泰国东北部传统文化焕发新活力" data-date="10-27 22:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-27 22:37</span>
-          <span class="news-item-title">从佛塔到酒香：泰国东北部传统文化焕发新活力</span>
-        </a>
   </div>
 </div>
 
@@ -598,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-28 22:17（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-29 02:24（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
