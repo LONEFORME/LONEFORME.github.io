@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-29 15:43（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-29 22:34（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">29,813.16</span>
-      <span class="ticker-change up">▲ +0.55%</span>
+      <span class="ticker-price ticker-down">29,441.64</span>
+      <span class="ticker-change down">▼ -1.25%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-29 09:46:09（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-29 22:35:48（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6589</span>
+      <span class="ticker-price ticker-down">6.6584</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg98260" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,10.6 L46.7,13.9 L68.0,21.6 L89.3,22.5 L110.7,23.6 L132.0,27.4 L153.3,28.9 L174.7,31.9 L196.0,38.0 L196,40 Z" fill="url(#sg98260)"/><polyline points="4.0,6.0 25.3,10.6 46.7,13.9 68.0,21.6 89.3,22.5 110.7,23.6 132.0,27.4 153.3,28.9 174.7,31.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg59606" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,10.5 L46.7,13.7 L68.0,21.4 L89.3,22.2 L110.7,23.3 L132.0,27.1 L153.3,28.5 L174.7,31.5 L196.0,38.0 L196,40 Z" fill="url(#sg59606)"/><polyline points="4.0,6.0 25.3,10.5 46.7,13.7 68.0,21.4 89.3,22.2 110.7,23.3 132.0,27.1 153.3,28.5 174.7,31.5 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:48:19（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:35:46（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,027.05 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -40.11 (-0.99%)</span>
+      <span class="ticker-price ticker-down">$4,029.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -38.08 (-0.94%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:48:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:35:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥864.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -2.11 (-0.24%)</span>
+      <span class="ticker-price ticker-down">¥864.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -0.83 (-0.10%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:08（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:35:34（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$110.64 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.00 (-0.90%)</span>
+      <span class="ticker-price ticker-down">$109.87 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.77 (-1.59%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:48:36（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:36:04（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,56 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="根据美联储决定维持利率稳定一天后公布的数据，个人消费支出指数在9月份有所回升。" data-title="Inflation Accelerated in October, PCE Index Shows" data-date="10-29 22:31" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-29 22:31</span>
+          <span class="news-item-title">Inflation Accelerated in October, PCE Index Shows</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10723022.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杭州10月29日电(鲍梦妮)10月29日，杭州市人民政府新闻办公室、杭州市综合行政执法局(市城市管理局)、杭州市规划和自然资源局、杭州市文化广电旅游局、杭州市商旅集团(市运河集团)联合举办新闻发布会，介绍杭州新一轮城市照明专项规划修编及优化城市照明、赋能夜经济发展和夜环境品质提升情况。" data-title="杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景" data-date="10-29 22:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 22:05</span>
+          <span class="news-item-title">杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="第三季度经济增长3.4% ，这是一年来最快的增长速度。强劲的支出和增长与许多选民给予经济的穷人形成鲜明对比。" data-title="U.S. GDP Increased 3.4% in Third Quarter" data-date="10-29 21:55" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-29 21:55</span>
+          <span class="news-item-title">U.S. GDP Increased 3.4% in Third Quarter</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储官员预计将在12月重启加息，但其他举措的节奏将取决于数据。" data-title="In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation" data-date="10-29 21:31" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-29 21:31</span>
+          <span class="news-item-title">In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723002.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社厦门10月29日电 (吴冠标)第十七届海峡两岸(厦门)文化产业博览交易会(海峡两岸文博会)29日在厦门开幕。活动汇聚1000余家海内外机构，展出近千件工艺精品，打造兼具文化厚度、产业深度与科技热度的行业盛会。" data-title="第十七届海峡两岸文博会开幕　台湾工艺师厦门以艺会友" data-date="10-29 21:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 21:27</span>
+          <span class="news-item-title">第十七届海峡两岸文博会开幕　台湾工艺师厦门以艺会友</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722998.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网呼和浩特10月29日电 (记者 刘文华)呼和浩特市航空航天产业集群产需对接会29日在呼和浩特举行。会议以“青筑新质 链聚空天”为主题，聚焦低空经济、商业航天两条赛道，面向相关企业及投资机构，发布航空航天产业集群引资项目需求清单与应用场景需求清单，共梳理遴选出42个重点合作方向。" data-title="呼和浩特发布42个航空航天产业合作方向 聚焦低空经济与商业航天" data-date="10-29 21:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 21:26</span>
+          <span class="news-item-title">呼和浩特发布42个航空航天产业合作方向 聚焦低空经济与商业航天</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="专家称，更好的激励与监督可能减少浪费、提高政策可预期性，但更严厉的纪律约束也可能加深干部不敢作为的局面，拖延支出和投资。" data-title="中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局" data-date="10-29 21:01" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-29 21:01</span>
+          <span class="news-item-title">中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722940.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月29日电 (记者 孙自法)国际学术期刊《自然》最新发表一篇环境科学论文指出，一项研究结果表明，非洲部分地区的用水紧张可能源于基础设施不到位，而不是缺少水源。这也说明，非洲的水资源并未得到充分利用。" data-title="国际最新研究：非洲水资源并未得到充分利用" data-date="10-29 20:16" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 20:16</span>
+          <span class="news-item-title">国际最新研究：非洲水资源并未得到充分利用</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722731.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月29日，外交部发言人郭嘉昆主持例行记者会。对于美国国土安全部宣布将3家中国实体增列至“维吾尔强迫劳动预防法”实体清单，郭嘉昆在回答相关提问时表示，美方持续炮制涉疆谎言，以所谓“强迫劳动”为借口，肆意打压中国企业，中方表示强烈不满、坚决反对。所谓“强迫劳动”纯粹是一些反华分子炮制的世纪谎言，其目的是搞乱新疆、抹黑中国、遏制中国发展。中方敦促美方停止以人权为幌子干涉中国内政、遏制中国发展，将采取必要措施，坚决维护中国企业合法权益。" data-title="外交部：中方将采取必要措施，坚决维护中国企业合法权益" data-date="10-29 15:21" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -537,36 +585,6 @@ title: 股票财经
           <span class="news-item-date">10-29 00:00</span>
           <span class="news-item-title">中国需求减弱影响GSK疫苗销售额</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/28/business/housing-market-rent-pressure.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="更高的抵押贷款利率和放缓的住宅建设再次让房东占上风。" data-title="A Punishing Housing Market Is Squeezing Renters" data-date="10-28 22:04" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-28 22:04</span>
-          <span class="news-item-title">A Punishing Housing Market Is Squeezing Renters</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-28/10722448.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西宁10月28日电 (记者 孙睿)10月28日，青海大学“藏医悬灸成套技术及系列产品”正式发布，并与产业合作方签署技术秘密转让协议，标志着这一民族医药科技成果进入产业化落地阶段。" data-title="青海藏医火灸走向标准化" data-date="10-28 21:23" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-28 21:23</span>
-          <span class="news-item-title">青海藏医火灸走向标准化</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-28/10722413.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆10月28日电 (记者 钟旖)重庆市经济和信息化委员会党组书记、主任王志杰28日在当地召开的新闻发布会上介绍，“十五五”时期，重庆将坚持工业立市、制造强市不动摇，力争到2030年基本建成具有国际竞争力的先进制造业中心和具有全国影响力的产业创新中心。" data-title="重庆：力争2030年基本建成具有国际竞争力的先进制造业中心" data-date="10-28 21:22" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-28 21:22</span>
-          <span class="news-item-title">重庆：力争2030年基本建成具有国际竞争力的先进制造业中心</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-28/10722427.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月28日电 据自然资源部微信公众号消息，前三季度，我国海洋经济实现平稳增长，结构不断优化，韧性继续显现，向新向优发展势头不断巩固。初步核算，前三季度海洋生产总值8.5万亿元，同比增长4.9%。" data-title="自然资源部：前三季度我国海洋生产总值同比增长4.9%" data-date="10-28 21:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-28 21:18</span>
-          <span class="news-item-title">自然资源部：前三季度我国海洋生产总值同比增长4.9%</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="全球豪经舱排名出来，台湾长荣及阿联酋航空分占冠亚军。" data-title="什么时候“豪华经济舱”值得多花钱？来比较2026年全球五强" data-date="10-28 16:27" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-28 16:27</span>
-          <span class="news-item-title">什么时候“豪华经济舱”值得多花钱？来比较2026年全球五强</span>
-        </a>
   </div>
 </div>
 
@@ -580,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-29 15:43（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-29 22:34（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
