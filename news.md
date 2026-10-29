@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-10-29 22:34 抓取更新</span>
+      <span>2026-10-30 02:34 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">60</span>
+        <span class="channel-count">59</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">14</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,46 +56,47 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">60</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">59</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">10</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×21 · 天空体育×9</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×14 · 天空体育×10</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/10-29/10723030.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。全会决定，中国共产党第二十一次全国代表大会于2027年下半年在北京召开。" data-title="海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开" data-date="10-29 22:08" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="民主党人的期望正在达到顶峰，似乎有可能出现某种浪潮，但很大程度上取决于参议院的几场激烈竞选。" data-title="Four Scenarios for How the Midterms Could Go" data-date="10-30 01:48" data-source="纽约时报">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 10-29 22:08</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="hero-featured-date">🕒 10-30 01:48</span>
       </div>
-      <h2 class="hero-featured-title">海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开</h2>
+      <h2 class="hero-featured-title">期中考试如何进行的四个场景</h2>
+      <div class="hero-featured-title-en">Four Scenarios for How the Midterms Could Go</div>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/019/783.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 29 日消息，人工智能实验室扩散智能 (DiffuSpace) 昨日发布了其 Clover（三叶草）系列模型家族的首个成员：Clover-35B-A3B-Preview，并以 Apache 许可开源。Clover-35B-A3B-Preview 是一款采用 MoE 架构的扩散语言模型。与传统自回归模型不同的是，其具备“全局思维”，通过多轮迭代实现结果的从模糊到具体。DiffuSpace 表示，Clover-35B-A3B-Preview 的诞生证明扩散语言模型能在更大的参数尺度下与自回归模型竞争甚至略胜一筹，同时保持更快生成速度。该模型在多项基准测试中性能超过同规模的自回归模型 Qwen3.6-35B-A3B，尤其擅长智能体编程与工具使用任务。参考https://diff" data-title="DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型，兼顾性能与速度" data-date="10-29 22:33" data-source="IT之家">
+    <a class="hero-sub-card" href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/" target="_blank" rel="noopener" data-cat="keji" data-summary="UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。语音人工智能战争变得越来越有趣。" data-title="Granola crunches up a dictation feature to compete with Wispr" data-date="10-30 01:54" data-source="TechCrunch">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
       </div>
-      <p class="hero-sub-title">DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型，兼顾性能与速度</p>
+      <p class="hero-sub-title">Granola crunches up a dictation feature to compete with Wispr</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·卡里克（ Michael Carrick ）表示，他已准备好与布鲁诺·费尔南德斯（ Bruno Fernandes ）一起担任曼联队" data-title="Carrick ready to &#39;move forward&#39; with Fernandes as captain" data-date="10-29 22:00" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Arsenal latest: Arteta sweating on fitness of duo after Dowman appeal rejected" data-title="Arsenal latest: Arteta sweating on fitness of duo after Dowman appeal rejected" data-date="10-30 02:00" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">Carrick ready to 'move forward' with Fernandes as captain</p>
+      <p class="hero-sub-title">Arsenal latest: Arteta sweating on fitness of duo after Dowman appeal rejected</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="期待已久的《塞尔达传说： Nintendo Switch 2时间之笛》重制版将于11月5日星期四推出。换句话说，您还有一周的时间在亚马逊和沃尔玛享受10 $的折扣。" data-title="There’s one week left to preorder the Ocarina of Time remake for $10 off" data-date="10-29 22:24" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="凭借其俏皮的设计、多功能性和相对实惠的价格，宜家Varmblixt在4月份测试时迅速成为我的同事Jennifer Pattison Tuohy最喜欢的智能灯产品之一。现在，甜甜圈形状的灯在SAL上" data-title="Ikea’s colorful donut-shaped smart lamp is $20 off" data-date="10-30 02:18" data-source="The Verge">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-theverge">🌐 The Verge</span>
       </div>
-      <p class="hero-sub-title">There’s one week left to preorder the Ocarina of Time remake for $10 off</p>
+      <p class="hero-sub-title">Ikea’s colorful donut-shaped smart lamp is $20 off</p>
     </a>
   </div>
 </div>
@@ -106,19 +107,84 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723030.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。全会决定，中国共产党第二十一次全国代表大会于2027年下半年在北京召开。" data-title="海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开" data-date="10-29 22:08" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/upshot/midterm-elections-senate-house-scenarios.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="民主党人的期望正在达到顶峰，似乎有可能出现某种浪潮，但很大程度上取决于参议院的几场激烈竞选。" data-title="Four Scenarios for How the Midterms Could Go" data-date="10-30 01:48" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 22:08</span>
-          <span class="news-item-title">海报丨中国共产党第二十一次全国代表大会于2027年下半年在北京召开</span>
-          <span class="news-value-point">💡 中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-30 01:48</span>
+          <span class="news-item-title">期中考试如何进行的四个场景</span>
+          <span class="news-item-title-en">Four Scenarios for How the Midterms Could Go</span>
+          <span class="news-value-point">💡 民主党人的期望正在达到顶峰，似乎有可能出现某种浪潮，但很大程度上取决于参议院的几场激烈竞选</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722999.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网海口10月29日电 题：跨越南洋“鼓舞还乡” 海南首支二十四节令鼓队擂响百年学府" data-title="跨越南洋“鼓舞还乡” 海南首支二十四节令鼓队擂响百年学府" data-date="10-29 21:23" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这位参议员离开巴西后，被拍到在美国走下飞机。他在巴西因涉嫌洗钱而接受调查。" data-title="巴西前总统博索纳罗之子败给卢拉后，为何飞往美国？" data-date="10-30 00:19" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-30 00:19</span>
+          <span class="news-item-title">巴西前总统博索纳罗之子败给卢拉后，为何飞往美国？</span>
+          <span class="news-value-point">💡 这位参议员离开巴西后，被拍到在美国走下飞机</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723080.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网南昌10月29日电 (记者 李韵涵)29日，江西省高级人民法院召开新闻发布会通报江西法院司法救助工作情况。记者从会上了解到，2023年以来，江西法院共办理司法救助案件11319件。" data-title="2023年以来江西法院共办理司法救助案件1.1万余件" data-date="10-29 23:51" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:23</span>
-          <span class="news-item-title">跨越南洋“鼓舞还乡” 海南首支二十四节令鼓队擂响百年学府</span>
-          <span class="news-value-point">💡 中新网海口10月29日电 题：跨越南洋“鼓舞还乡” 海南首支二十四节令鼓队擂响百年学府</span>
+          <span class="news-item-date">10-29 23:51</span>
+          <span class="news-item-title">2023年以来江西法院共办理司法救助案件1.1万余件</span>
+          <span class="news-value-point">💡 中新网南昌10月29日电 (记者 李韵涵)29日，江西省高级人民法院召开新闻发布会通报江西法院司法救助工作情况</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723076.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月29日电 (记者 阮煜琳)中国自然资源部29日消息，当日，在亚美尼亚埃里温举办的《生物多样性公约》第十七次缔约方大会(COP17)“恢复日”活动上，联合国环境规划署正式宣布，因中国在海洋生态保护修复方面取得的突出成效，“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”。" data-title="“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”" data-date="10-29 23:43" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 23:43</span>
+          <span class="news-item-title">“中国蓝色海湾整治行动”获评2026年联合国“世界生态恢复旗舰项目”</span>
+          <span class="news-value-point">💡 中新社北京10月29日电 (记者 阮煜琳)中国自然资源部29日消息，当日，在亚美尼亚埃里温举办的《生物多样性公约》第十七次缔约方大会(COP17…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723069.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网天津10月29日电 (记者 江莹)28日，由天津市委市级机关工委、市妇联联合主办的2026年天津市巾帼宣讲员风采展示暨示范宣讲活动举行，活动以“巾帼津声理润津沽 凝心筑梦奋进新程”为主题，充分展现新时代天津女性担当风采。" data-title="天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事" data-date="10-29 23:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 23:34</span>
+          <span class="news-item-title">天津开展巾帼宣讲员风采展示活动 讲好巾帼建功奋斗故事</span>
+          <span class="news-value-point">💡 中新网天津10月29日电 (记者 江莹)28日，由天津市委市级机关工委、市妇联联合主办的2026年天津市巾帼宣讲员风采展示暨示范宣讲活动举行，活…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723067.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京10月29日电 10月29日，中共中央政治局委员、外交部长王毅在北京同冰岛外长贡纳尔斯多蒂尔举行会谈。" data-title="王毅同冰岛外长贡纳尔斯多蒂尔会谈" data-date="10-29 23:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 23:33</span>
+          <span class="news-item-title">王毅同冰岛外长贡纳尔斯多蒂尔会谈</span>
+          <span class="news-value-point">💡 中新社北京10月29日电 10月29日，中共中央政治局委员、外交部长王毅在北京同冰岛外长贡纳尔斯多蒂尔举行会谈</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723066.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网重庆10月29日电 (记者 钟旖)重庆“益企向善·社区慈善联合行动”推进会暨2026年社区阳光基金推进会29日在当地召开。" data-title="重庆已有1164支社区阳光基金 基层慈善网络加快形成" data-date="10-29 23:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 23:23</span>
+          <span class="news-item-title">重庆已有1164支社区阳光基金 基层慈善网络加快形成</span>
+          <span class="news-value-point">💡 中新网重庆10月29日电 (记者 钟旖)重庆“益企向善·社区慈善联合行动”推进会暨2026年社区阳光基金推进会29日在当地召开</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723065.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网西宁10月29日电 (记者 潘雨洁)从纪念馆里的“一口铜锅”到校园内的“一片青砖”，29日，青海省果洛州班玛县亚尔堂乡王柔村党支部书记门卓、海东市循化县西路红军小学校长史可英讲述了红军精神在高原落地生根、代代传承的故事。" data-title="青海：“一口铜锅、一片青砖”讲述九十载长征精神的高原传承" data-date="10-29 23:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 23:23</span>
+          <span class="news-item-title">青海：“一口铜锅、一片青砖”讲述九十载长征精神的高原传承</span>
+          <span class="news-value-point">💡 中新网西宁10月29日电 (记者 潘雨洁)从纪念馆里的“一口铜锅”到校园内的“一片青砖”，29日，青海省果洛州班玛县亚尔堂乡王柔村党支部书记门卓…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10723054.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月29日电 据伊朗伊斯兰共和国通讯社报道，伊朗伊斯兰革命卫队29日称，他们在霍尔木兹海峡以西捕获了一架美国间谍无人机。" data-title="伊朗称捕获一架美国间谍无人机" data-date="10-29 23:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 23:14</span>
+          <span class="news-item-title">伊朗称捕获一架美国间谍无人机</span>
+          <span class="news-value-point">💡 中新网北京10月29日电 据伊朗伊斯兰共和国通讯社报道，伊朗伊斯兰革命卫队29日称，他们在霍尔木兹海峡以西捕获了一架美国间谍无人机</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="民主党人需要翻转四个共和党参议院席位才能重新获得多数席位，但他们的一些目标在2024年特朗普总统以两位数获胜的州。我们的选举数据记者埃文·雷诺兹（ Evan Reynolds ）解释了这可能有多么困难。" data-title="The Red States That Could Decide the Senate" data-date="10-29 22:58" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-29 22:58</span>
+          <span class="news-item-title">可以决定参议院的红州</span>
+          <span class="news-item-title-en">The Red States That Could Decide the Senate</span>
+          <span class="news-value-point">💡 民主党人需要翻转四个共和党参议院席位才能重新获得多数席位，但他们的一些目标在2024年特朗普总统以两位数获胜的州</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10723035.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社首尔10月29日电 (记者 金旭)当地时间29日，韩国负责调查紧急戒严事件的特别检察组以涉嫌带头发动内乱为由，请求二审法庭判处韩国前总统尹锡悦死刑。" data-title="韩国前总统尹锡悦涉“内乱案”二审被求死刑" data-date="10-29 22:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 22:47</span>
+          <span class="news-item-title">韩国前总统尹锡悦涉“内乱案”二审被求死刑</span>
+          <span class="news-value-point">💡 中新社首尔10月29日电 (记者 金旭)当地时间29日，韩国负责调查紧急戒严事件的特别检察组以涉嫌带头发动内乱为由，请求二审法庭判处韩国前总统尹…</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722989.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月29日电 据美联社报道，保加利亚海事部门29日表示，一艘悬挂利比里亚国旗的船只在保加利亚黑海沿岸被无人机击中后沉没。" data-title="一艘商船在保加利亚黑海沿岸被无人机击中后沉没" data-date="10-29 21:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -126,35 +192,6 @@ title: 热点新闻
           <span class="news-item-date">10-29 21:16</span>
           <span class="news-item-title">一艘商船在保加利亚黑海沿岸被无人机击中后沉没</span>
           <span class="news-value-point">💡 中新网北京10月29日电 据美联社报道，保加利亚海事部门29日表示，一艘悬挂利比里亚国旗的船只在保加利亚黑海沿岸被无人机击中后沉没</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722950.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网固原10月29日电 (记者 李佩珊)10月28日晚，“强国复兴有我”群众性主题宣传教育活动暨《长征组歌》大型交响合唱音乐会在固原市上演，各界干部群众齐聚现场，共赏红色经典，追忆峥嵘岁月，汲取奋进力量。" data-title="（长征胜利90周年）会师之地唱响长征赞歌 《长征组歌》唱响固原" data-date="10-29 21:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:11</span>
-          <span class="news-item-title">（长征胜利90周年）会师之地唱响长征赞歌 《长征组歌》唱响固原</span>
-          <span class="news-value-point">💡 中新网固原10月29日电 (记者 李佩珊)10月28日晚，“强国复兴有我”群众性主题宣传教育活动暨《长征组歌》大型交响合唱音乐会在固原市上演，各…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722978.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网哈尔滨10月29日电(记者 刘璐)“‘十五五’时期是绿色龙江建设夯实基础、承前启后、扩面提质的关键阶段，黑龙江省将锚定美丽中国先行区建设目标，既守护好‘大美山河’的生态底色，也办好‘小美生活’的民生实事，推动生态优势从绿色本底向绿色发展动能转变，持续筑牢祖国北方生态安全屏障。”10月29日，黑龙江省生态环境厅党组书记、厅长刘伟如是说。" data-title="黑龙江：以生态振兴激活绿色发展动能" data-date="10-29 21:08" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:08</span>
-          <span class="news-item-title">黑龙江：以生态振兴激活绿色发展动能</span>
-          <span class="news-value-point">💡 中新网哈尔滨10月29日电(记者 刘璐)“‘十五五’时期是绿色龙江建设夯实基础、承前启后、扩面提质的关键阶段，黑龙江省将锚定美丽中国先行区建设目…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/video/us/elections/100000011223984/the-red-states-that-could-decide-the-senate.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="民主党人需要翻转四个共和党参议院席位才能重新获得多数席位，但他们的一些目标在2024年特朗普总统以两位数获胜的州。我们的选举数据记者埃文·雷诺兹（ Evan Reynolds ）解释了这可能有多么困难。" data-title="The Red States That Could Decide the Senate" data-date="10-29 21:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-29 21:00</span>
-          <span class="news-item-title">可以决定参议院的红州</span>
-          <span class="news-item-title-en">The Red States That Could Decide the Senate</span>
-          <span class="news-value-point">💡 民主党人需要翻转四个共和党参议院席位才能重新获得多数席位，但他们的一些目标在2024年特朗普总统以两位数获胜的州</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722981.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网广州10月29日电 (记者 王坚)据水利部珠江水利委员会(下称“珠江委”)29日消息，为落实西江流域水量分配方案和调度方案，强化西江流域水资源统一调度，珠江委组织编制了《2026-2027年度西江流域水资源调度计划》(简称《年度计划》)。《年度计划》近日经水利部批准下达，标志着西江流域2026-2027年度水资源统一调度正式启动实施。" data-title="2026-2027年度西江流域水资源调度计划获批下达" data-date="10-29 20:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 20:59</span>
-          <span class="news-item-title">2026-2027年度西江流域水资源调度计划获批下达</span>
-          <span class="news-value-point">💡 中新网广州10月29日电 (记者 王坚)据水利部珠江水利委员会(下称“珠江委”)29日消息，为落实西江流域水量分配方案和调度方案，强化西江流域水…</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722936.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月29日电 综合消息：欧盟-加拿大峰会定于当地时间29日至30日在加拿大蒙特利尔举行。加拿大媒体称，双方预计30日发表的联合声明将删除给予加拿大欧盟“联席成员”身份的表述，改为呼吁建立“更紧密的联系”。" data-title="加媒称加拿大和欧盟联合声明将删去“联席成员”表述" data-date="10-29 20:15" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -177,41 +214,6 @@ title: 热点新闻
           <span class="news-item-title">以色列两大阵营均未获多数议席 不同组阁结果影响几何</span>
           <span class="news-value-point">💡 当地时间28日，以色列中央选举委员会公布了议会选举的初步计票结果</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722882.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月29日电 德国总统施泰因迈尔于10月27日至31日对中国进行国事访问。多家外媒对此进行了报道，称这表明德国高度重视对华关系。此次访问对于推进中德双方务实合作、挖掘更多发展机遇具有重要意义。" data-title="外媒聚焦：德国总统访华释放积极信号，中德务实合作前景广阔" data-date="10-29 18:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 18:55</span>
-          <span class="news-item-title">外媒聚焦：德国总统访华释放积极信号，中德务实合作前景广阔</span>
-          <span class="news-value-point">💡 中新网10月29日电 德国总统施泰因迈尔于10月27日至31日对中国进行国事访问</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722812.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网10月29日电 据英国《太阳报》28日报道，乌克兰总统泽连斯基在接受该媒体采访时表示，俄乌之间的和平谈判将在美国中期选举后数日内举行，此次谈判预计将由美国代表团牵头，在阿联酋阿布扎比举行。" data-title="泽连斯基：乌方愿进行任何形式的谈判，准备好讨论任何议题" data-date="10-29 16:51" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 16:51</span>
-          <span class="news-item-title">泽连斯基：乌方愿进行任何形式的谈判，准备好讨论任何议题</span>
-          <span class="news-value-point">💡 中新网10月29日电 据英国《太阳报》28日报道，乌克兰总统泽连斯基在接受该媒体采访时表示，俄乌之间的和平谈判将在美国中期选举后数日内举行，此次…</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqly0rmlde73o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="自1948 年建国以来，该国一直由联合政府执政，但下一届政府是否会包括现任总理内塔尼亚胡？" data-title="以色列大选结束，内塔尼亚胡能否执政为何依然悬而未决？" data-date="10-29 15:36" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-29 15:36</span>
-          <span class="news-item-title">以色列大选结束，内塔尼亚胡能否执政为何依然悬而未决？</span>
-          <span class="news-value-point">💡 自1948 年建国以来，该国一直由联合政府执政，但下一届政府是否会包括现任总理内塔尼亚胡</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722742.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月29日电 (记者 谢雁冰)中国外交部发言人郭嘉昆29日主持例行记者会。" data-title="外交部：敦促美方停止以人权为幌子干涉中国内政" data-date="10-29 15:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 15:28</span>
-          <span class="news-item-title">外交部：敦促美方停止以人权为幌子干涉中国内政</span>
-          <span class="news-value-point">💡 中新网北京10月29日电 (记者 谢雁冰)中国外交部发言人郭嘉昆29日主持例行记者会</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722741.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京10月29日电 (记者 谢雁冰 李京泽)中国外交部发言人郭嘉昆29日主持例行记者会。" data-title="中方再次敦促美方立即停止对古巴的封锁制裁" data-date="10-29 15:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 15:28</span>
-          <span class="news-item-title">中方再次敦促美方立即停止对古巴的封锁制裁</span>
-          <span class="news-value-point">💡 中新网北京10月29日电 (记者 谢雁冰 李京泽)中国外交部发言人郭嘉昆29日主持例行记者会</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -219,33 +221,83 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/019/783.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 29 日消息，人工智能实验室扩散智能 (DiffuSpace) 昨日发布了其 Clover（三叶草）系列模型家族的首个成员：Clover-35B-A3B-Preview，并以 Apache 许可开源。Clover-35B-A3B-Preview 是一款采用 MoE 架构的扩散语言模型。与传统自回归模型不同的是，其具备“全局思维”，通过多轮迭代实现结果的从模糊到具体。DiffuSpace 表示，Clover-35B-A3B-Preview 的诞生证明扩散语言模型能在更大的参数尺度下与自回归模型竞争甚至略胜一筹，同时保持更快生成速度。该模型在多项基准测试中性能超过同规模的自回归模型 Qwen3.6-35B-A3B，尤其擅长智能体编程与工具使用任务。参考https://diff" data-title="DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型，兼顾性能与速度" data-date="10-29 22:33" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/" target="_blank" rel="noopener" data-cat="keji" data-summary="UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。语音人工智能战争变得越来越有趣。" data-title="Granola crunches up a dictation feature to compete with Wispr" data-date="10-30 01:54" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 22:33</span>
-          <span class="news-item-title">DiffuSpace 推出 Clover-35B-A3B-Preview 扩散语言模型，兼顾性能与速度</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，人工智能实验室扩散智能 (DiffuSpace) 昨日发布了其 Clover（三叶草）系列模型家族的首个成员：…</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-30 01:54</span>
+          <span class="news-item-title">Granola推出听写功能，与Wispr展开竞争</span>
+          <span class="news-item-title-en">Granola crunches up a dictation feature to compete with Wispr</span>
+          <span class="news-value-point">💡 UNO REVERSE</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/782.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 29 日消息，月之暗面今天在海外宣布，Kimi 现已接入谷歌 Gmail、Google Drive 和日历，用户可通过 Plugins（插件）页面启用。据官方介绍，用户现在可以总结 Gmail 邮件对话、查找 Google Drive 的文件，还能利用 Google 日历规划每日行程。所有操作均通过安全的 OAuth 授权机制进行。IT之家了解到，Kimi 插件是接入 Kimi AI 的外部工具与服务扩展，能够让 Kimi 在处理任务时直接调用第三方能力或自动化执行操作。" data-title="月之暗面 Kimi 接入谷歌 Gmail、云端硬盘和日历" data-date="10-29 22:27" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/" target="_blank" rel="noopener" data-cat="keji" data-summary="Mistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点。" data-title="Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity" data-date="10-30 01:00" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 22:27</span>
-          <span class="news-item-title">月之暗面 Kimi 接入谷歌 Gmail、云端硬盘和日历</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，月之暗面今天在海外宣布，Kimi 现已接入谷歌 Gmail、Google Drive 和日历，用户可通过 Pl…</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-30 01:00</span>
+          <span class="news-item-title">Mistral发布针对网络安全的万亿参数AI模型的权重</span>
+          <span class="news-item-title-en">Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</span>
+          <span class="news-value-point">💡 Mistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/781.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 29 日消息，微软于 10 月 28 日宣布推出 DirectX 12 Agility SDK 1.620 正式版和 1.722 预览版，为 DirectX 光线追踪（DXR）带来多项更新。新版预览 SDK 引入集群几何体（Clustered Geometry）、分区顶层加速结构（PTLAS）和间接加速结构构建等功能，旨在降低复杂动态场景的光追计算开销。微软称，这是 DXR 自 2018 年推出以来最重大的一次更新。传统光线追踪需要构建和更新加速结构，以便 GPU 快速判断光线与场景几何体的相交关系。这些结构通常采用包围体层次结构（BVH）等形式。在包含大量动画、几何体流式加载以及频繁变化物体的场景中，反复构建加速结构可能带来较大的计算开销。微软此次推出的集群几何体功能，" data-title="微软发布自 2018 年以来最大 DirectX 光追升级：AMD RX 9070 示例性能提升约 66 倍" data-date="10-29 22:27" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/" target="_blank" rel="noopener" data-cat="keji" data-summary="消息人士告诉《纽约时报》，一家被指控向中国非法出售英伟达芯片的新加坡人工智能云公司的高管也可能是中国间谍。" data-title="US investigated Chinese spy plot aimed at Nvidia CEO" data-date="10-30 00:42" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 22:27</span>
-          <span class="news-item-title">微软发布自 2018 年以来最大 DirectX 光追升级：AMD RX 9070 示例性能提升约 66 倍</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，微软于 10 月 28 日宣布推出 DirectX 12 Agility SDK 1.620 正式版和 1.7…</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-30 00:42</span>
+          <span class="news-item-title">美国调查了针对英伟达首席执行官的中国间谍阴谋</span>
+          <span class="news-item-title-en">US investigated Chinese spy plot aimed at Nvidia CEO</span>
+          <span class="news-value-point">💡 消息人士告诉《纽约时报》，一家被指控向中国非法出售英伟达芯片的新加坡人工智能云公司的高管也可能是中国间谍</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/780.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 29 日消息，据中国医药创新促进会分享，10 月 24 日，由该会与香港交易所主办的第十一届医药创新与投资大会在南京召开。华为制药军团总裁樊杰出席大会并接受媒体采访。对于外界关心的华为是否会直接进入药物研发，樊杰明确表示：“华为不做药，也不做管线。”华为希望发挥自身在计算、通信和人工智能领域的优势，为药企、科研机构及 AI 制药企业提供算力、存储、网络、工具链和数据治理能力，成为 AI 制药产业的技术底座与生态支持者。在樊杰看来，AI 制药仍处于快速发展、市场预期较高的阶段。蛋白质结构预测、分子模拟等部分技术已进入实际应用，但整个药物研发链条尚未打通。下一阶段，行业需要回答的不只是模型规模有多大，而是模型能否进入真实研发流程，并与实验数据和研发决策形成闭环。樊杰表示，中国" data-title="华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座" data-date="10-29 22:24" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/" target="_blank" rel="noopener" data-cat="keji" data-summary="DREAM以真实的物理和建筑标准为基础。正如法学硕士从文本中学习一样， Dream的世界模型是根据从美国各地的许可证档案中收集的超过1亿平方英尺的建筑数据进行培训的。" data-title="Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction" data-date="10-30 00:21" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-30 00:21</span>
+          <span class="news-item-title">Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型</span>
+          <span class="news-item-title-en">Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction</span>
+          <span class="news-value-point">💡 DREAM以真实的物理和建筑标准为基础</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad" target="_blank" rel="noopener" data-cat="keji" data-summary="对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是人工智能即将从根本上改变微软员工规模的最明显迹象。微软现在是OFFE" data-title="Microsoft’s AI future has fewer jobs" data-date="10-30 00:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-30 00:00</span>
+          <span class="news-item-title">微软的人工智能未来工作岗位减少</span>
+          <span class="news-item-title-en">Microsoft’s AI future has fewer jobs</span>
+          <span class="news-value-point">💡 对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是人工智能即将从根本上改变微软员…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/019/796.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。蓝皮书中详细介绍了星闪 SLE 标准演进三阶段。IT之家从蓝皮书了解到，2025 年以来星闪 SLE 2.0 技术迈入技术成熟与商业落地双爆发阶段。芯片领域，卓胜微、恒玄、泰凌微、创耀、华为海思等厂商已发布 20+ 款芯片，支持高清音频、高精测距等星闪 SLE 2.0 核心功能。数字车钥匙领域，2025 年 3 月问界新 M9 上市，首批星闪数字钥匙实现量产上车；随后问界 M8、享界 S9 增程版、东风猛士 M817、广汽丰田铂智 7 等产品陆续搭载。2025 年全年搭载星闪数字钥匙车型总量达 80 余万台，覆盖 10 余家车企；后续还可以探索支持车内及车辆周边 IoT 设备组网管理，如" data-title="星闪 SLE 2.0 核心升级高清音频、高精测距功能，恒玄、华为海思等厂商发布 20+ 款芯片" data-date="10-29 23:45" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 22:24</span>
-          <span class="news-item-title">华为制药军团总裁樊杰明确“华为不做药”，希望成为 AI 制药产业技术底座</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，据中国医药创新促进会分享，10 月 24 日，由该会与香港交易所主办的第十一届医药创新与投资大会在南京召开</span>
+          <span class="news-item-date">10-29 23:45</span>
+          <span class="news-item-title">星闪 SLE 2.0 核心升级高清音频、高精测距功能，恒玄、华为海思等厂商发布 20+ 款芯片</span>
+          <span class="news-value-point">💡 IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能行业继续吞噬曾经致力于为PC、智能设备和小工具制造商提供服务的制造资源。PCB行业不可避免地开始感受到它的影响。" data-title="AI demand triggers massive PCB shortage for PC makers as order books full until 2030 — lead times stretch to 30 months as material costs surge 12x" data-date="10-29 23:25" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-29 23:25</span>
+          <span class="news-item-title">随着订单满载到2030年，人工智能需求引发了PC制造商的大规模PCB短缺—随着材料成本飙升12倍，交货时间延长至30个月</span>
+          <span class="news-item-title-en">AI demand triggers massive PCB shortage for PC makers as order books full until 2030 — lead times stretch to 30 months as material costs surge 12x</span>
+          <span class="news-value-point">💡 人工智能行业继续吞噬曾经致力于为PC、智能设备和小工具制造商提供服务的制造资源</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/019/791.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。据蓝皮书介绍，星闪 SLE 1.0 标准于 2022 年 11 月正式发布，SLE 1.0 芯片累计发货量 7000 万。模组：润和、汉枫、爱联、为思润华、亿佰特、问沧智能等模组厂商已发布超过 40 款基于星闪 SLE 1.0 的模组产品，可支持白色家电、小家电、照明、电工 IoT、传感器、运动健康、户外出行、家庭安防、照明、工业互联网等应用场景。终端产品：2023 年 9 月份华为发布首批支持星闪技术的商用终端产品，如 Mate 60 系列、MatePad Pro 13.2 英寸平板、华为第三代 M-Pencil 手写笔等，随后产业快速跟进，ATK、哈尔斯、雷柏、小豚当家、达尔优、北通" data-title="星闪 SLE 1.0 芯片累计发货量 7000 万，华为 2023 年实现首批商用终端产品落地" data-date="10-29 23:09" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-29 23:09</span>
+          <span class="news-item-title">星闪 SLE 1.0 芯片累计发货量 7000 万，华为 2023 年实现首批商用终端产品落地</span>
+          <span class="news-value-point">💡 IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool" target="_blank" rel="noopener" data-cat="keji" data-summary="《纽约时报》正在为其烹饪应用程序测试一项新的人工智能功能，该功能可帮助用户修改食谱，并在用户中引发了一些戏剧性事件。上周五，《纽约时报》烹饪资深编辑Genevieve Ko宣布了该功能，可用于推荐" data-title="The NYT Cooking app is testing AI recipe modifications" data-date="10-29 22:39" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-29 22:39</span>
+          <span class="news-item-title">纽约时报烹饪应用程序正在测试AI食谱修改</span>
+          <span class="news-item-title-en">The NYT Cooking app is testing AI recipe modifications</span>
+          <span class="news-value-point">💡 《纽约时报》正在为其烹饪应用程序测试一项新的人工智能功能，该功能可帮助用户修改食谱，并在用户中引发了一些戏剧性事件</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/" target="_blank" rel="noopener" data-cat="keji" data-summary="周四，人工智能应用程序Wabi现在将自己描述为“个人经纪人” ，并表示已以12.5亿美元的估值筹集了5500万美元。" data-title="Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round" data-date="10-29 22:35" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">10-29 22:35</span>
+          <span class="news-item-title">构建迷你应用程序的人工智能代理Wabi ，经过最新一轮融资，现在估值为12.5亿美元$</span>
+          <span class="news-item-title-en">Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</span>
+          <span class="news-value-point">💡 周四，人工智能应用程序Wabi现在将自己描述为“个人经纪人” ，并表示已以12.5亿美元的估值筹集了5500万美元</span>
         </a>
         <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-prices-hit-usd2-000-costing-more-than-the-rtx-5090-did-at-launch-and-with-limited-stock-available-original-usd999-msrp-long-forgotten-with-prices-now-2-3x-higher" target="_blank" rel="noopener" data-cat="keji" data-summary="现在购买Nvidia GeForce RTX 5080的成本与RTX 5090的发布价格一样高，现在这款高规格GPU的价格至少高出两倍。" data-title="Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available — original $999 MSRP long forgotten, with prices now 2-3x higher" data-date="10-29 22:21" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -254,45 +306,6 @@ title: 热点新闻
           <span class="news-item-title">Nvidia GeForce RTX 5080价格达到2,000 $ ，比RTX 5090推出时的价格更高，库存有限—原价999 $的建议零售价早已被遗忘，现在价格高出2-3倍</span>
           <span class="news-item-title-en">Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available — original $999 MSRP long forgotten, with prices now 2-3x higher</span>
           <span class="news-value-point">💡 现在购买Nvidia GeForce RTX 5080的成本与RTX 5090的发布价格一样高，现在这款高规格GPU的价格至少高出两倍</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview" target="_blank" rel="noopener" data-cat="keji" data-summary="今天在Decoder上，我与芯片和人工智能研究公司SemiAnalysis的分析师乔伊·布鲁克哈特（ Joey Brookhart ）一起，帮助我深入了解Anthropic IPO申请的数量—一份被称为S-1的文件。Anthropic刚刚提交了S-1申请" data-title="Anthropic is asking Wall Street to believe in AGI" data-date="10-29 22:00" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-29 22:00</span>
-          <span class="news-item-title">Anthropic要求华尔街相信AGI</span>
-          <span class="news-item-title-en">Anthropic is asking Wall Street to believe in AGI</span>
-          <span class="news-value-point">💡 今天在Decoder上，我与芯片和人工智能研究公司SemiAnalysis的分析师乔伊·布鲁克哈特（ Joey Brookhart ）一起，帮助…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries" target="_blank" rel="noopener" data-cat="keji" data-summary="亚马逊正在为其人工智能购物助手添加一些新功能，包括在购物清单和礼品登记处之间创建、编辑和移动商品的方式。例如，亚马逊表示，您现在可以要求Alexa购物“创建一个新的购物清单" data-title="Amazon’s AI shopping assistant can now edit your grocery lists and gift registries" data-date="10-29 21:52" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-29 21:52</span>
-          <span class="news-item-title">亚马逊的人工智能购物助手现在可以编辑您的生鲜杂货清单和礼品登记</span>
-          <span class="news-item-title-en">Amazon’s AI shopping assistant can now edit your grocery lists and gift registries</span>
-          <span class="news-value-point">💡 亚马逊正在为其人工智能购物助手添加一些新功能，包括在购物清单和礼品登记处之间创建、编辑和移动商品的方式</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1022113/kevin-bates-arduboy-digital-candle-ai-simulate-flame" target="_blank" rel="noopener" data-cat="keji" data-summary="在设计了一个可以包裹在杂志上的俄罗斯方块的灵活版本之后， Kevin Bates的最新创作是一款数字蜡烛，它使用自定义的人工智能模型来精确地模拟LED网格上闪烁的火焰的外观。" data-title="This $149 digital candle uses AI to accurately simulate a flickering flame" data-date="10-29 21:37" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-29 21:37</span>
-          <span class="news-item-title">这支$ 149的数字蜡烛使用人工智能精确模拟闪烁的火焰</span>
-          <span class="news-item-title-en">This $149 digital candle uses AI to accurately simulate a flickering flame</span>
-          <span class="news-value-point">💡 在设计了一个可以包裹在杂志上的俄罗斯方块的灵活版本之后， Kevin Bates的最新创作是一款数字蜡烛，它使用自定义的人工智能模型来精确地模拟…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive" target="_blank" rel="noopener" data-cat="keji" data-summary="Anthropic S-1似乎为公司在计算上花费尽可能多的资金提供了财务上的理由。如果你是那种想知道人类是否正在尽最大努力建立一个机器神，同时又相信" data-title="Anthropic’s business plan: Build God or die trying" data-date="10-29 21:30" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-29 21:30</span>
-          <span class="news-item-title">Anthropic的商业计划：建立上帝或尝试死亡</span>
-          <span class="news-item-title-en">Anthropic’s business plan: Build God or die trying</span>
-          <span class="news-value-point">💡 Anthropic S-1似乎为公司在计算上花费尽可能多的资金提供了财务上的理由</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10722990.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网上海10月29日电 (记者 陈静)AI与数学是什么关系？数学会因为AI消失吗？数学到底有没有用？2002年菲尔兹奖得主、法国科学院院士洛朗·拉福格(Laurent Lafforgue)28日在沪表示，数学家的文本是AI的源头，AI也会反过来改变数学被书写的方式。" data-title="菲尔兹奖得主洛朗·拉福格在沪谈AI、数学与人文" data-date="10-29 21:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:09</span>
-          <span class="news-item-title">菲尔兹奖得主洛朗·拉福格在沪谈AI、数学与人文</span>
-          <span class="news-value-point">💡 中新网上海10月29日电 (记者 陈静)AI与数学是什么关系</span>
         </a>
         <a class="news-item" href="https://www.tomshardware.com/tech-industry/policy/nvidia-ceo-jensen-huang-may-have-been-the-target-of-a-spy-plot-through-chinese-intelligence-asset-report-claims-exec-from-firm-under-investigation-for-smuggling-banned-ai-chips-to-china-accused-of-being-a-spy-was-also-feeding-information-to-beijing" target="_blank" rel="noopener" data-cat="keji" data-summary="消息人士称， Nvidia云合作伙伴的高管Alice Huang与Jensen Huang关系密切，涉嫌向北京传递信息。" data-title="Nvidia CEO Jensen Huang may have been the target of a spy plot through &#39;Chinese intelligence asset,&#39; report claims" data-date="10-29 21:04" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -310,37 +323,75 @@ title: 热点新闻
           <span class="news-item-title-en">Dept of Justice reportedly probes Nvidia over $13 billion Hugging Face AI platform acquisition</span>
           <span class="news-value-point">💡 英伟达(Nvidia)以近130亿美元收购Hugging Face的交易因担心这将影响人工智能领域的竞争而受到密切关注</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved" target="_blank" rel="noopener" data-cat="keji" data-summary="在过去的六个月中，随着代理AI工作负载的发展， CPU已成为焦点。这是我们在运行代理工作负载时尝试测量CPU性能的第一次尝试。" data-title="Our first step at defining a CPU benchmark for agentic AI" data-date="10-29 20:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-29 20:20</span>
-          <span class="news-item-title">我们为agentic AI定义CPU基准的第一步</span>
-          <span class="news-item-title-en">Our first step at defining a CPU benchmark for agentic AI</span>
-          <span class="news-value-point">💡 在过去的六个月中，随着代理AI工作负载的发展， CPU已成为焦点</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在中期选举中，白宫一直被人员流动和焦虑所震撼。正如一位助手所说，总统正在收紧他的核心圈子，他猛烈抨击批评者，举行蜿蜒的集会，并以新闻剪辑和“人工智能污点”为食。" data-title="As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House" data-date="10-29 20:18" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html" target="_blank" rel="noopener" data-cat="keji" data-summary="一名与Jensen Huang关系密切的中国女商人被发现正在向北京传递情报。特朗普总统听取了简报，但没有采取任何行动。" data-title="Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot" data-date="10-29 17:01" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-29 20:18</span>
-          <span class="news-item-title">随着特朗普面临中期选举，一种严峻的情绪接管了白宫</span>
-          <span class="news-item-title-en">As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House</span>
-          <span class="news-value-point">💡 在中期选举中，白宫一直被人员流动和焦虑所震撼</span>
+          <span class="news-item-date">10-29 17:01</span>
+          <span class="news-item-title">英伟达首席执行官Jensen Huang被视为中国间谍阴谋的目标</span>
+          <span class="news-item-title-en">Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot</span>
+          <span class="news-value-point">💡 一名与Jensen Huang关系密切的中国女商人被发现正在向北京传递情报</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/fujifilm-plans-5x-production-boost-of-100tb-magnetic-storage-tapes-driven-by-ai-usd63-million-injection-is-the-largest-investment-in-tape-for-20-years" target="_blank" rel="noopener" data-cat="keji" data-summary="富士胶片计划将磁带的产量提高5倍，以满足人工智能数据中心存储的新需求。" data-title="Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand" data-date="10-29 19:40" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.qbitai.com/2026/10/506281.html" target="_blank" rel="noopener" data-cat="keji" data-summary="10月29日，文远知行披露旗下子公司景烁科技首次融资进展" data-title="文远知行001号员工带队，景烁科技首轮融资数千万美元" data-date="10-29 11:27" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-29 19:40</span>
-          <span class="news-item-title">富士胶片计划在人工智能存储需求飙升的推动下，将100TB磁带的产量提高5倍</span>
-          <span class="news-item-title-en">Fujifilm plans 5x production boost of 100TB magnetic storage tapes driven by skyrocketing AI storage demand</span>
-          <span class="news-value-point">💡 富士胶片计划将磁带的产量提高5倍，以满足人工智能数据中心存储的新需求</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">10-29 11:27</span>
+          <span class="news-item-title">文远知行001号员工带队，景烁科技首轮融资数千万美元</span>
+          <span class="news-value-point">💡 10月29日，文远知行披露旗下子公司景烁科技首次融资进展</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">14 条</span>
     </div>
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Arsenal latest: Arteta sweating on fitness of duo after Dowman appeal rejected" data-title="Arsenal latest: Arteta sweating on fitness of duo after Dowman appeal rejected" data-date="10-30 02:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-30 02:00</span>
+          <span class="news-item-title">阿森纳最新消息：在Dowman上诉被驳回后， Arteta在二人组的健身上出汗</span>
+          <span class="news-item-title-en">Arsenal latest: Arteta sweating on fitness of duo after Dowman appeal rejected</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/oct/29/chelseas-fine-finishing-has-them-flying-high-but-how-long-can-it-last" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="根据Opta的预期积分模型，尽管处于桌子的两端，但切尔西的表现比周六的对手曼联更糟糕迈克尔·卡里克（ Michael Carrick ）将在周六抵达斯坦福桥（ Stamford Bridge ） ，带着一个死人走路的空气" data-title="Chelsea’s fine finishing has them flying high – but how long can it last?" data-date="10-30 01:21" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">10-30 01:21</span>
+          <span class="news-item-title">切尔西的精美装饰让他们飞得很高–但它能持续多久？</span>
+          <span class="news-item-title-en">Chelsea’s fine finishing has them flying high – but how long can it last?</span>
+          <span class="news-value-point">💡 根据Opta的预期积分模型，尽管处于桌子的两端，但切尔西的表现比周六的对手曼联更糟糕迈克尔·卡里克（ Michael Carrick ）将在周六…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13605317/tottenham-vs-crystal-palace-have-spurs-genuinely-turned-a-corner-in-the-premier-league-under-roberto-de-zerbi" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="到周六结束时，托特纳姆热刺上次在反弹中赢得三场英超比赛已经有616天了。自从上次取得这一壮举以来，已经有三位不同的经理人来来去去，没有人能够将马刺队带到一个连胜的早晨" data-title="It&#39;s been 616 days: Can Spurs finally win three in a row?" data-date="10-29 23:30" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-29 23:30</span>
+          <span class="news-item-title">已经616天了：马刺队终于可以连续赢得三场比赛吗？</span>
+          <span class="news-item-title-en">It's been 616 days: Can Spurs finally win three in a row?</span>
+          <span class="news-value-point">💡 到周六结束时，托特纳姆热刺上次在反弹中赢得三场英超比赛已经有616天了</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳在击败第二联盟弗利特伍德城时，未能对马克斯·道曼的红牌提出上诉。" data-title="Arsenal fail with appeal against Dowman&#39;s red card" data-date="10-29 22:50" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-29 22:50</span>
+          <span class="news-item-title">阿森纳对道曼的红牌上诉失败</span>
+          <span class="news-item-title-en">Arsenal fail with appeal against Dowman's red card</span>
+          <span class="news-value-point">💡 阿森纳在击败第二联盟弗利特伍德城时，未能对马克斯·道曼的红牌提出上诉</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13605382/max-dowman-arsenals-appeal-against-teenagers-red-card-in-fleetwood-town-defeat-rejected" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳在击败第二联盟弗利特伍德城时，未能对马克斯·道曼的红牌提出上诉。" data-title="Arsenal fail with appeal against Dowman&#39;s red card" data-date="10-29 22:50" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-29 22:50</span>
+          <span class="news-item-title">阿森纳对道曼的红牌上诉失败</span>
+          <span class="news-item-title-en">Arsenal fail with appeal against Dowman's red card</span>
+          <span class="news-value-point">💡 阿森纳在击败第二联盟弗利特伍德城时，未能对马克斯·道曼的红牌提出上诉</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ckz7x8z1e9y9o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联主教练迈克尔·卡里克（ Michael Carrick ）确认布鲁诺·费尔南德斯（ Bruno Fernandes ）将继续担任队长，并在周六前往切尔西之前谈论自己的未来。" data-title="&#39;Fully committed&#39; Fernandes to remain Man Utd captain" data-date="10-29 22:31" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">10-29 22:31</span>
+          <span class="news-item-title">“全力以赴”费尔南德斯继续担任曼联队长</span>
+          <span class="news-item-title-en">'Fully committed' Fernandes to remain Man Utd captain</span>
+          <span class="news-value-point">💡 曼联主教练迈克尔·卡里克（ Michael Carrick ）确认布鲁诺·费尔南德斯（ Bruno Fernandes ）将继续担任队长，并在周…</span>
+        </a>
         <a class="news-item" href="https://www.skysports.com/football/news/12040/13605331/manchester-united-michael-carrick-ready-to-move-forward-with-bruno-fernandes-as-captain-and-doesnt-require-assurances-on-his-future" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·卡里克（ Michael Carrick ）表示，他已准备好与布鲁诺·费尔南德斯（ Bruno Fernandes ）一起担任曼联队" data-title="Carrick ready to &#39;move forward&#39; with Fernandes as captain" data-date="10-29 22:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
@@ -365,6 +416,14 @@ title: 热点新闻
           <span class="news-item-title-en">Is the double drop from the Premier League becoming more common?</span>
           <span class="news-value-point">💡 背靠背降级到英格兰足球第三梯队变得越来越普遍，本赛季伯恩利可能会在卢顿镇和莱斯特之后成为帽子戏法</span>
         </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="我们的顶级提示者刘易斯·琼斯（ Lewis Jones ） ，又名琼斯知道（ Jones Knows ） ，为英超联赛忙碌的周末提供了他的分析和博彩洞" data-title="PL Predictions: Man Utd to deliver a reaction for Carrick at Chelsea" data-date="10-29 21:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-29 21:00</span>
+          <span class="news-item-title">PL预测：曼联将在切尔西为卡里克做出反应</span>
+          <span class="news-item-title-en">PL Predictions: Man Utd to deliver a reaction for Carrick at Chelsea</span>
+          <span class="news-value-point">💡 我们的顶级提示者刘易斯·琼斯（ Lewis Jones ） ，又名琼斯知道（ Jones Knows ） ，为英超联赛忙碌的周末提供了他的分析和…</span>
+        </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/articles/cwx2836e1mp7o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="BBC Sport的Ask Me Anything团队解释了本周末英超联赛的周日14:00 GMT开球在哪里。" data-title="Why is there only one Premier League match on Sunday?" data-date="10-29 20:47" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -381,37 +440,6 @@ title: 热点新闻
           <span class="news-item-title-en">Sometimes managers need sacking for own good</span>
           <span class="news-value-point">💡 加里·内维尔（ Gary Neville ）表示，由于曼联坚持与压力不足的老板迈克尔·卡里克（ Michael Carrick ）合作，有时需要…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/rugby-league/news/12040/13605180/rugby-league-world-cup-englands-brian-mcdermott-admits-side-face-unique-task-to-progress-and-cant-get-distracted" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="布莱恩·麦克德莫特（ Brian McDermott ）警告英格兰队不要追逐积分，因为他们希望在对阵巴布亚新几内亚的大胜中保持他们苗条的橄榄球联赛世界杯希望。" data-title="McDermott: England face &#39;unique task&#39; to progress and can&#39;t get distracted" data-date="10-29 19:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-29 19:00</span>
-          <span class="news-item-title">麦克德莫特：英格兰面临进步的“独特任务” ，不能分心</span>
-          <span class="news-item-title-en">McDermott: England face 'unique task' to progress and can't get distracted</span>
-          <span class="news-value-point">💡 布莱恩·麦克德莫特（ Brian McDermott ）警告英格兰队不要追逐积分，因为他们希望在对阵巴布亚新几内亚的大胜中保持他们苗条的橄榄球联…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722874.shtml" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="中新网10月29日电 近日，效力于西甲皇家马德里俱乐部的法国球员姆巴佩发表涉华不当言论。事件持续发酵后，不少网友自发抵制，多个品牌官宣终止与其合作，相关平台也暂停了西甲赛事转播。北京时间10月27日，姆巴佩发布道歉声明。西甲联盟也于当日作出回应，称相关言论仅为球员个人观点，不代表西甲联盟立场，并向中国球迷致歉。10月28日，皇马俱乐部发布官方声明，就姆巴佩不当言论正式致歉，其中提到：我们将始终秉持尊重、共处及跨文化理解的价值观，并期待进一步加强与中国及其人民之间的友谊与情感纽带。" data-title="外媒关注姆巴佩不当言论事件 消息人士：西甲主席考虑前往中国" data-date="10-29 18:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 18:48</span>
-          <span class="news-item-title">外媒关注姆巴佩不当言论事件 消息人士：西甲主席考虑前往中国</span>
-          <span class="news-value-point">💡 中新网10月29日电 近日，效力于西甲皇家马德里俱乐部的法国球员姆巴佩发表涉华不当言论</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/cricket/news/12040/13604022/county-cricket-ins-and-outs-all-the-signings-departures-and-overseas-arrivals-ahead-of-the-2027-season" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="跟上2027赛季县板球的所有签约、出发和海外球员的步伐。" data-title="County cricket ins and outs 2027" data-date="10-29 18:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-29 18:00</span>
-          <span class="news-item-title">2027年县板球进出</span>
-          <span class="news-item-title-en">County cricket ins and outs 2027</span>
-          <span class="news-value-point">💡 跟上2027赛季县板球的所有签约、出发和海外球员的步伐</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/basketball/news/12040/13605210/wnba-finals-game-6-live-on-sky-sports-thursday-at-4-30pm-as-golden-state-valkyries-vs-atlanta-dream-makes-history" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周四，金州女武神队将在他们存在的第二年赢得WNBA总冠军，或者在天空体育上直播，或者亚特兰大之梦将迫使联盟历史上的第一场第7场比赛。" data-title="WNBA Finals set to make history: Watch Game 6 live on Sky Sports" data-date="10-29 16:23" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-29 16:23</span>
-          <span class="news-item-title">WNBA总决赛将创造历史：在天空体育现场观看第6场比赛</span>
-          <span class="news-item-title-en">WNBA Finals set to make history: Watch Game 6 live on Sky Sports</span>
-          <span class="news-value-point">💡 周四，金州女武神队将在他们存在的第二年赢得WNBA总冠军，或者在天空体育上直播，或者亚特兰大之梦将迫使联盟历史上的第一场第7场比赛</span>
-        </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/oct/29/tottenham-season-spurs-chelsea-win-table" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="马刺有一个糟糕的开局，但在切尔西取得令人印象深刻的胜利后，他们突然抬头看了看Opta Analyst的桌子，实际上只有三分。托特纳姆热刺上周六晚上在切尔西的2-0胜利是一个有益的推动力" data-title="Tottenham’s season has finally taken off. How far up the table can they go?" data-date="10-29 16:00" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
@@ -419,13 +447,6 @@ title: 热点新闻
           <span class="news-item-title">托特纳姆热刺的赛季终于起飞了。他们能在桌子上走多远？</span>
           <span class="news-item-title-en">Tottenham’s season has finally taken off. How far up the table can they go?</span>
           <span class="news-value-point">💡 马刺有一个糟糕的开局，但在切尔西取得令人印象深刻的胜利后，他们突然抬头看了看Opta Analyst的桌子，实际上只有三分</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Liverpool latest: &#39;Only team I didn&#39;t want,&#39; says Iraola after drawing Bournemouth" data-title="Liverpool latest: &#39;Only team I didn&#39;t want,&#39; says Iraola after drawing Bournemouth" data-date="10-29 15:54" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-29 15:54</span>
-          <span class="news-item-title">利物浦最新消息： “我唯一不想要的球队，” Iraola在绘制伯恩茅斯之后说道</span>
-          <span class="news-item-title-en">Liverpool latest: 'Only team I didn't want,' says Iraola after drawing Bournemouth</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx05487d6r9vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="塔里克·穆哈雷莫维奇（ Tarik Muharemovic ）花费了利兹联（ Leeds United ）一笔“令人垂涎的”费用，给人留下了深刻的印象，以至于有些人担心俱乐部会" data-title="Chiellini guidance to Leeds &#39;rock&#39; - could Muharemovic be signing of season?" data-date="10-29 14:27" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -435,30 +456,6 @@ title: 热点新闻
           <span class="news-item-title-en">Chiellini guidance to Leeds 'rock' - could Muharemovic be signing of season?</span>
           <span class="news-value-point">💡 塔里克·穆哈雷莫维奇（ Tarik Muharemovic ）花费了利兹联（ Leeds United ）一笔“令人垂涎的”费用，给人留下了深刻…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13605140/liverpool-transfer-news-reds-make-contact-with-lamine-camara-camp-ahead-of-proposed-january-move-for-monaco-midfielder-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周四报纸的热门报道和转移谣言..." data-title="Papers: Liverpool make contact with Monaco midfielder Camara" data-date="10-29 07:20" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-29 07:20</span>
-          <span class="news-item-title">论文：利物浦与摩纳哥中场卡马拉取得联系</span>
-          <span class="news-item-title-en">Papers: Liverpool make contact with Monaco midfielder Camara</span>
-          <span class="news-value-point">💡 周四报纸的热门报道和转移谣言...</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13605014/vincent-kompany-bayern-munich-head-coach-discharged-from-hospital-after-collapsing-at-training" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="拜仁慕尼黑主教练文森特·康帕尼（ Vincent Kompany ）上周因脑膜刺激而在训练中瘫痪后出院，体育董事会成员马克斯·埃伯尔（ Max Eberl ）周三表示。" data-title="Kompany discharged from hospital after collapsing at training" data-date="10-29 06:40" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-29 06:40</span>
-          <span class="news-item-title">Kompany在训练时晕倒后出院</span>
-          <span class="news-item-title-en">Kompany discharged from hospital after collapsing at training</span>
-          <span class="news-value-point">💡 拜仁慕尼黑主教练文森特·康帕尼（ Vincent Kompany ）上周因脑膜刺激而在训练中瘫痪后出院，体育董事会成员马克斯·埃伯尔（ Max …</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/arsenal-women-vs-benfica-women/report/578250" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿莱西亚·鲁索（ Alessia Russo ）成为女子冠军联赛历史上最高的英国射手，他对本菲卡（ Benfica ）进行了帽子戏法，因为阿森纳（ Arsenal ）在联赛阶段的比赛中以3-0获胜。" data-title="History-maker Russo scores hat-trick as Arsenal dismiss Benfica" data-date="10-29 06:10" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">10-29 06:10</span>
-          <span class="news-item-title">历史悠久的Russo在阿森纳解雇本菲卡时为帽子戏法得分</span>
-          <span class="news-item-title-en">History-maker Russo scores hat-trick as Arsenal dismiss Benfica</span>
-          <span class="news-value-point">💡 阿莱西亚·鲁索（ Alessia Russo ）成为女子冠军联赛历史上最高的英国射手，他对本菲卡（ Benfica ）进行了帽子戏法，因为阿森纳…</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -466,114 +463,120 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="期待已久的《塞尔达传说： Nintendo Switch 2时间之笛》重制版将于11月5日星期四推出。换句话说，您还有一周的时间在亚马逊和沃尔玛享受10 $的折扣。" data-title="There’s one week left to preorder the Ocarina of Time remake for $10 off" data-date="10-29 22:24" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="凭借其俏皮的设计、多功能性和相对实惠的价格，宜家Varmblixt在4月份测试时迅速成为我的同事Jennifer Pattison Tuohy最喜欢的智能灯产品之一。现在，甜甜圈形状的灯在SAL上" data-title="Ikea’s colorful donut-shaped smart lamp is $20 off" data-date="10-30 02:18" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-29 22:24</span>
-          <span class="news-item-title">距离预购《时光之笛》翻拍仅剩一周，立减$ 10</span>
-          <span class="news-item-title-en">There’s one week left to preorder the Ocarina of Time remake for $10 off</span>
-          <span class="news-value-point">💡 期待已久的《塞尔达传说： Nintendo Switch 2时间之笛》重制版将于11月5日星期四推出</span>
+          <span class="news-item-date">10-30 02:18</span>
+          <span class="news-item-title">宜家色彩缤纷的甜甜圈形智能灯$ 20折扣</span>
+          <span class="news-item-title-en">Ikea’s colorful donut-shaped smart lamp is $20 off</span>
+          <span class="news-value-point">💡 凭借其俏皮的设计、多功能性和相对实惠的价格，宜家Varmblixt在4月份测试时迅速成为我的同事Jennifer Pattison Tuohy最…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/779.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 29 日消息，CORSAIR（海盗船）当地时间今日宣布与 Embark Studios 合作，携主品牌与旗下 SCUF、Elgato 推出多款《ARC Raiders》（弧光猎人）联名硬件，庆祝这款多人在线射击游戏发售一周年。此次联名产品阵容涵盖 SCUF 的三款手柄控制器，海盗船 CLIPPER PRO MINI 60 磁轴键盘、SABRE v2 PRO Wireless MG 镁合金鼠标、HS80 RGB WIRELESS 耳机、MM Anti-Fray Cloth 鼠标垫，Elgato Stream Deck MK.2 直播控台。这些款式均采用《ARC Raiders》标志性的四条纹配色，购买即可解锁专属游戏内物品。" data-title="庆祝《ARC Raiders》发售一周年，海盗船携旗下品牌推出联名外设" data-date="10-29 22:15" data-source="IT之家">
+        <a class="news-item" href="https://www.skysports.com/cricket/news/12040/13605472/england-head-coach-brendon-mccullum-hails-captain-harry-brook-after-tourists-end-odi-tri-series-with-consolation-win" target="_blank" rel="noopener" data-cat="zonghe" data-summary="布伦登·麦卡勒姆（ Brendon McCullum ）称哈里·布鲁克（ Harry Brook ）是“我见过的最好的战术队长之一” ，此前英格兰队在拉合尔结束了一场艰难的ODI三连胜，安慰斯里兰卡队。" data-title="McCullum: Brook one of best tactical captains I&#39;ve come across" data-date="10-30 02:00" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 22:15</span>
-          <span class="news-item-title">庆祝《ARC Raiders》发售一周年，海盗船携旗下品牌推出联名外设</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，CORSAIR（海盗船）当地时间今日宣布与 Embark Studios 合作，携主品牌与旗下 SCUF、El…</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-30 02:00</span>
+          <span class="news-item-title">麦卡勒姆：布鲁克是我见过的最好的战术队长之一</span>
+          <span class="news-item-title-en">McCullum: Brook one of best tactical captains I've come across</span>
+          <span class="news-value-point">💡 布伦登·麦卡勒姆（ Brendon McCullum ）称哈里·布鲁克（ Harry Brook ）是“我见过的最好的战术队长之一” ，此前英格…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/777.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 29 日消息，据游戏媒体 GamesRadar 今天报道，在《GTA6》的雷奥奈达州，玩家即使不开车也能相当方便地出行。游戏中拥有一套完整的公共交通系统，巴士、火车将按照固定路线和时刻表运行。据报道，玩家在雷奥奈达州探索时不只可以选择汽车、电动滑板车或船只。Rockstar 为游戏打造了一整套公共交通网络，覆盖整个雷奥奈达州。例如，游戏中的公交车将按照固定路线图行驶，运行时刻表也是有的。据 Rockstar 开发人员 Phil Hooker 透露，他测试游戏时经常会在车站等车，检查巴士是否准时到站，然后乘车游览城市。总的来说，公交和铁路网络可能会让雷奥奈达州更像是真实城市，玩家可以坐在车上，以不同的方式消磨时间。IT之家注意到，公共交通在《GTA》系列游戏中并不是新鲜事物" data-title="《GTA6》游戏公共交通系统详解：火车、巴士有固定路线和时刻表" data-date="10-29 22:06" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 22:06</span>
-          <span class="news-item-title">《GTA6》游戏公共交通系统详解：火车、巴士有固定路线和时刻表</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，据游戏媒体 GamesRadar 今天报道，在《GTA6》的雷奥奈达州，玩家即使不开车也能相当方便地出行</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/776.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 29 日消息，苹果北京时间今日发布了 MacBook Pro (PROLED XDR 显示屏)。在首款 OLED MacBook 产品面世后，研调机构 TrendForce（集邦）发布了对整体 OLED 笔电市场的最新预测。机构认为，配备 OLED 屏幕的笔记本电脑整机出货量在 2026~2030 年期间维持超 30% 的同比增幅，其中 2027~2029 年增长都将超过 40%；出货总量将从今年的 1260 万台增长至期末的 4660 万台。▲ 图源：TrendForce针对 OLED MacBook Pro，机构的看法是其短期内需求动能将受到高价定位与产品重叠的限制，但长远来看有助于进一步巩固苹果高端产品的技术形象与溢价定位。该机型 2027 年预计可出货 120~1" data-title="TrendForce 预测：全球 OLED 笔电出货量有望在中期维持超 30% 年增幅" data-date="10-29 22:05" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 22:05</span>
-          <span class="news-item-title">TrendForce 预测：全球 OLED 笔电出货量有望在中期维持超 30% 年增幅</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，苹果北京时间今日发布了 MacBook Pro (PROLED XDR 显示屏)</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/hyperx-omen-35l-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="优质的造型、安静的操作和令人印象深刻的性能使HyperX Omen 35L与市场上最好的产品竞争。但是，是否物有所值取决于您选择的配置。" data-title="HyperX Omen 35L review: A polished gaming PC for deep pockets" data-date="10-29 22:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-29 22:00</span>
-          <span class="news-item-title">HyperX Omen 35L评论：一款抛光的游戏PC ，口袋更深</span>
-          <span class="news-item-title-en">HyperX Omen 35L review: A polished gaming PC for deep pockets</span>
-          <span class="news-value-point">💡 优质的造型、安静的操作和令人印象深刻的性能使HyperX Omen 35L与市场上最好的产品竞争</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c95ynv03lmk8o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这场造成168人死亡的大火发生将近一年后，香港特首李家超首次率领官员鞠躬道歉。" data-title="香港宏福苑大火报告公开：特首率官员鞠躬道歉，房屋局长请辞" data-date="10-29 21:51" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-29 21:51</span>
-          <span class="news-item-title">香港宏福苑大火报告公开：特首率官员鞠躬道歉，房屋局长请辞</span>
-          <span class="news-value-point">💡 这场造成168人死亡的大火发生将近一年后，香港特首李家超首次率领官员鞠躬道歉</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/775.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 29 日消息，SpaceX 在筹备星舰第 15 次试飞的路上又完成了一项重要里程碑，这次试飞有望极具看点。该公司于当地时间 10 月 26 日（周一）、27 日（周二）开展了星舰上面级的静态点火测试，被称为 Ship 42 的箭体固定在地面，点燃多台猛禽发动机。SpaceX 在 10 月 28 日（周三）于 X 平台发布测试视频并写道：“Ship 42 静态点火全部完成。备战第 15 飞的星舰完成了全时长六台发动机的静态点火，还单独点燃了一台猛禽发动机，模拟离轨制动点火。”在 Ship 42 测试之前，本次试飞配套的超重型助推器 Booster 22 已经顺利完成 33 台发动机同步静态点火。从目前进度来看，第 15 次试飞一切按计划推进。SpaceX 创始人兼首席执行官" data-title="SpaceX 星舰完成上面级静态点火测试，准备进行第 15 次试飞" data-date="10-29 21:50" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 21:50</span>
-          <span class="news-item-title">SpaceX 星舰完成上面级静态点火测试，准备进行第 15 次试飞</span>
-          <span class="news-value-point">💡 IT之家 10 月 29 日消息，SpaceX 在筹备星舰第 15 次试飞的路上又完成了一项重要里程碑，这次试飞有望极具看点</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10723014.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="央视网消息(新闻联播)：前三季度，我国铁路货运量稳步增长，物流产品不断丰富，通道效率显著提升。" data-title="我国铁路物流提质增效步伐加快" data-date="10-29 21:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:48</span>
-          <span class="news-item-title">我国铁路物流提质增效步伐加快</span>
-          <span class="news-value-point">💡 央视网消息(新闻联播)：前三季度，我国铁路货运量稳步增长，物流产品不断丰富，通道效率显著提升</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10723005.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社上海10月29日电 (李姝征 狄权)2026智元创新日29日在上海举行，吸引来自全球各地的逾千名科研伙伴、开发者、商业伙伴参与。会场里，海外客商既了解机器人具备哪些新本领，也寻找能够带回国、解决实际问题的机器人“工友”。" data-title="海外客商在上海寻找机器人“工友”" data-date="10-29 21:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:27</span>
-          <span class="news-item-title">海外客商在上海寻找机器人“工友”</span>
-          <span class="news-value-point">💡 中新社上海10月29日电 (李姝征 狄权)2026智元创新日29日在上海举行，吸引来自全球各地的逾千名科研伙伴、开发者、商业伙伴参与</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/report/1022013/apple-touchscreen-macbook-pro-toaster-refrigerator" target="_blank" rel="noopener" data-cat="zonghe" data-summary="15多年来，苹果对触摸屏MacBook的想法有一个非常简单的答案：否。昨天，苹果终于决定改变想法，并宣布了一个。“你必须触摸它才能相信它，”苹果首席执行官约翰·特纳斯（ John Ternus ）说。他" data-title="Apple finally combined a toaster and a refrigerator" data-date="10-29 21:21" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/1022347/apple-macbook-supports-new-cmf" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新款MacBook Pro为Apple笔记本电脑带来了一系列首创，其中最引人注目的两个是OLED显示屏和触摸屏功能。但作为一名图像准确性爱好者、训练有素的校准员和常驻显示专家，最让我兴奋的是" data-title="Apple’s new laptop supports one of the coolest features for color pros" data-date="10-30 01:48" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-29 21:21</span>
-          <span class="news-item-title">苹果终于把烤面包机和冰箱结合起来</span>
-          <span class="news-item-title-en">Apple finally combined a toaster and a refrigerator</span>
-          <span class="news-value-point">💡 15多年来，苹果对触摸屏MacBook的想法有一个非常简单的答案：否</span>
+          <span class="news-item-date">10-30 01:48</span>
+          <span class="news-item-title">Apple的新款笔记本电脑支持色彩专业人士最酷的功能之一</span>
+          <span class="news-item-title-en">Apple’s new laptop supports one of the coolest features for color pros</span>
+          <span class="news-value-point">💡 新款MacBook Pro为Apple笔记本电脑带来了一系列首创，其中最引人注目的两个是OLED显示屏和触摸屏功能</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10722997.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网满洲里10月29日电 题：跨国“串门”说走就走，2026年满洲里口岸出入境人员破110万人次" data-title="跨国“串门”说走就走，2026年满洲里口岸出入境人员破110万人次" data-date="10-29 21:19" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据《盐湖论坛报》和美联社报道，犹他州已对Kalshi及其高管提起刑事指控，指控预测市场违反反赌博法。该州已对Kalshi提起了14项指控，并" data-title="Utah charges Kalshi and its CEO with illegally promoting online gambling" data-date="10-30 01:40" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-30 01:40</span>
+          <span class="news-item-title">犹他州指控Kalshi及其首席执行官非法推广在线赌博</span>
+          <span class="news-item-title-en">Utah charges Kalshi and its CEO with illegally promoting online gambling</span>
+          <span class="news-value-point">💡 据《盐湖论坛报》和美联社报道，犹他州已对Kalshi及其高管提起刑事指控，指控预测市场违反反赌博法</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13605457/alcaraz-battles-into-vienna-open-quarter-finals" target="_blank" rel="noopener" data-cat="zonghe" data-summary="卡洛斯·阿尔卡拉斯（ Carlos Alcaraz ）被迫努力进入维也纳公开赛的四分之一决赛，因为世界排名第三的球队被尼科洛斯·巴西拉什维利（ Nikoloz Basilashvili ）带到了戏剧性的第二盘决胜局，之后他以6-1 7-6 （ 13-11 ）获胜。" data-title="Vienna Open: Carlos Alcaraz survives tiebreak scare against Nikoloz Basilashvili as Daniil Medvedev beats Cameron Norrie" data-date="10-30 01:15" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-30 01:15</span>
+          <span class="news-item-title">维也纳公开赛：卡洛斯·阿尔卡拉兹在与尼科洛斯·巴西拉什维利的比赛中幸存下来，丹尼尔·梅德韦杰夫击败卡梅伦·诺里</span>
+          <span class="news-item-title-en">Vienna Open: Carlos Alcaraz survives tiebreak scare against Nikoloz Basilashvili as Daniil Medvedev beats Cameron Norrie</span>
+          <span class="news-value-point">💡 卡洛斯·阿尔卡拉斯（ Carlos Alcaraz ）被迫努力进入维也纳公开赛的四分之一决赛，因为世界排名第三的球队被尼科洛斯·巴西拉什维利（ …</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas" target="_blank" rel="noopener" data-cat="zonghe" data-summary="根据Sierra C的一项新分析，到2030年，美国电力部门可能比2025年多释放42%的供暖二氧化碳污染，因为它建造了更多的化石燃料基础设施来满足数据中心的电力需求" data-title="Data centers could send US climate pollution skyrocketing" data-date="10-30 01:10" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-30 01:10</span>
+          <span class="news-item-title">数据中心可能导致美国气候污染飙升</span>
+          <span class="news-item-title-en">Data centers could send US climate pollution skyrocketing</span>
+          <span class="news-value-point">💡 根据Sierra C的一项新分析，到2030年，美国电力部门可能比2025年多释放42%的供暖二氧化碳污染，因为它建造了更多的化石燃料基础设施来…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13605421/kimi-antonelli-to-miss-mexico-city-gp-media-day-due-to-viral-illness-ahead-of-likely-world-championship-coronation" target="_blank" rel="noopener" data-cat="zonghe" data-summary="由于周末之前的病毒性疾病， Kimi Antonelli将错过周四在墨西哥城大奖赛上的媒体日，届时他可能会成为一级方程式世界冠军。" data-title="Antonelli to miss Mexico media day with viral illness" data-date="10-30 01:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">10-30 01:00</span>
+          <span class="news-item-title">安东内利因病毒性疾病错过墨西哥媒体日</span>
+          <span class="news-item-title-en">Antonelli to miss Mexico media day with viral illness</span>
+          <span class="news-value-point">💡 由于周末之前的病毒性疾病， Kimi Antonelli将错过周四在墨西哥城大奖赛上的媒体日，届时他可能会成为一级方程式世界冠军</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free" target="_blank" rel="noopener" data-cat="zonghe" data-summary="当本月早些时候透露Withings将要求新用户订阅Withings Plus订阅以将公司设备中的健康数据同步到第三方应用程序时， Tom Anthony已经厌倦了Withings手机" data-title="This open-source project lets you sync Withings data to other apps without a subscription" data-date="10-30 00:14" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-30 00:14</span>
+          <span class="news-item-title">这个开源项目允许您在没有订阅的情况下将Withings数据同步到其他应用程序</span>
+          <span class="news-item-title-en">This open-source project lets you sync Withings data to other apps without a subscription</span>
+          <span class="news-value-point">💡 当本月早些时候透露Withings将要求新用户订阅Withings Plus订阅以将公司设备中的健康数据同步到第三方应用程序时， Tom Ant…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/019/798.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 30 日消息，10 月 29 日，梅赛德斯 AMG GLC 53 4MATIC+ 在浙江国际赛车场正式上市，官方指导价 59.90 万元，仅此一款配置。其核心变化是用 3.0T 直列六缸 +48V 轻混系统接替了 GLC 43 上的 2.0T 四缸动力，六缸重回 GLC 性能序列。新车搭载了 M256 Evo 3.0T 直列六缸涡轮增压发动机，AMG 对其进行了专属升级，包括重新设计缸盖、优化进排气道、换用升级进气凸轮轴，并将涡轮增压压力提升至 1.5bar。发动机本体输出 330kW，峰值扭矩 600N·m，5200rpm 后进入超增压模式，可在 10 秒内将扭矩推至 640N·m。同时，48V 系统包含一台 7.5kW 电动辅助增压器和第二代 ISG 启动电机，ISG" data-title="59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归" data-date="10-30 00:10" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-30 00:10</span>
+          <span class="news-item-title">59.9 万元梅赛德斯 AMG GLC 53 4MATIC+ 车型上市，3.0T 六缸回归</span>
+          <span class="news-value-point">💡 IT之家 10 月 30 日消息，10 月 29 日，梅赛德斯 AMG GLC 53 4MATIC+ 在浙江国际赛车场正式上市，官方指导价 59…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1022295/joshua-kushner-thrive-holdings-adt-acquisition" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Joshua Kushner领导的Thrive Holdings正在以76亿美元的全现金交易收购ADT。正如彭博早些时候报道的那样，该交易预计将于2027年第一季度完成，并将ADT私有化。Joshua Kushner是兄弟" data-title="Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion" data-date="10-30 00:03" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-30 00:03</span>
+          <span class="news-item-title">Joshua Kushner的Thrive Holdings以76亿美元收购ADT</span>
+          <span class="news-item-title-en">Joshua Kushner’s Thrive Holdings is acquiring ADT for $7.6 billion</span>
+          <span class="news-value-point">💡 Joshua Kushner领导的Thrive Holdings正在以76亿美元的全现金交易收购ADT</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/us/politics/midterms-third-party-independent-candidates.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="阿拉斯加的另一位丹·沙利文（ Dan Sullivan ）引起了最多的关注，但两党都在悄悄地试图利用其他战场上鲜为人知的候选人来吸引选票。" data-title="Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year" data-date="10-30 00:00" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-30 00:00</span>
+          <span class="news-item-title">长期由双方推动的第三方破坏者今年可能很重要</span>
+          <span class="news-item-title-en">Third-Party Spoilers, Long Fueled by Both Parties, Could Matter This Year</span>
+          <span class="news-value-point">💡 阿拉斯加的另一位丹·沙利文（ Dan Sullivan ）引起了最多的关注，但两党都在悄悄地试图利用其他战场上鲜为人知的候选人来吸引选票</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/019/797.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线。蓝皮书中详细介绍了星闪 SLE 3.0 的核心技术演进背景与目标。据介绍，星闪 SLE 当前支持 12Mbps 物理层，能基本满足通用数传、高清音频等应用场景。星闪 SLE 3.0 将在当前物理层基础上，链路峰值速率提升至 16Mbps+。根据规划，星闪 SLE 3.0 通过进一步优化 Polar 编码提升接收灵敏度，引入应用波束成形、更窄信道划分等技术，将兼顾提升应用的覆盖范围，同时还要改善大规模节点的接入，实现分布式自组网、多并发调度、多层同步网络、网络低时延能力、网络自愈能力。目前，星闪测距在星闪数字车钥匙和查找等应用中已落地达到亚米级精度。蓝皮书提到，未来还会在此领域中继续优化提" data-title="为 XR 设备无线音频铺路：星闪 SLE 3.0 计划链路峰值速率提至 16Mbps+，真正做到 Hi" data-date="10-29 23:59" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-29 23:59</span>
+          <span class="news-item-title">为 XR 设备无线音频铺路：星闪 SLE 3.0 计划链路峰值速率提至 16Mbps+，真正做到 Hi</span>
+          <span class="news-value-point">💡 IT之家 10 月 29 日消息，《星闪 SLE3.0 技术标准演进蓝皮书》已在国际星闪联盟官网正式上线</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10723072.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网伦敦10月29日电 (欧阳开宇 卢映菏)在中国驻伦敦旅游办支持下，由四川旅游学院与英国重庆商会联合主办的“行走的川菜非遗”(伦敦站)活动日前在伦敦举行。活动以川菜非物质文化遗产为核心纽带，搭建交流平台，积极推动川菜非遗海外传承发展，深化中英两国在教育、文化、餐饮及旅游领域的务实合作与友好往来。" data-title="“行走的川菜非遗”美食推介在伦敦举行" data-date="10-29 23:45" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:19</span>
-          <span class="news-item-title">跨国“串门”说走就走，2026年满洲里口岸出入境人员破110万人次</span>
-          <span class="news-value-point">💡 中新网满洲里10月29日电 题：跨国“串门”说走就走，2026年满洲里口岸出入境人员破110万人次</span>
+          <span class="news-item-date">10-29 23:45</span>
+          <span class="news-item-title">“行走的川菜非遗”美食推介在伦敦举行</span>
+          <span class="news-value-point">💡 中新网伦敦10月29日电 (欧阳开宇 卢映菏)在中国驻伦敦旅游办支持下，由四川旅游学院与英国重庆商会联合主办的“行走的川菜非遗”(伦敦站)活动日…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10722993.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网太原10月29日电 (杨杰英 杨润德 王惠林)难老泉复流后，泉水如何有序调配一直受到关注。记者29日从山西省太原市晋源区水务局获悉，晋祠泉域保护与生态修复综合治理工程项目已进入社会稳定风险评估征询公众意见公示阶段，复流后的难老泉水往哪流有了新进展。" data-title="难老泉复流后水往哪流？晋祠泉域保护与生态修复工程进入公示阶段" data-date="10-29 21:18" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723073.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新华社北京10月29日电 中宣部29日晚在京召开学习宣传贯彻党的二十届五中全会精神电视电话会议。中共中央政治局委员、中宣部部长李书磊出席会议并讲话。" data-title="中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议" data-date="10-29 23:34" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:18</span>
-          <span class="news-item-title">难老泉复流后水往哪流？晋祠泉域保护与生态修复工程进入公示阶段</span>
-          <span class="news-value-point">💡 中新网太原10月29日电 (杨杰英 杨润德 王惠林)难老泉复流后，泉水如何有序调配一直受到关注</span>
+          <span class="news-item-date">10-29 23:34</span>
+          <span class="news-item-title">中宣部组织召开学习宣传贯彻党的二十届五中全会精神电视电话会议</span>
+          <span class="news-value-point">💡 新华社北京10月29日电 中宣部29日晚在京召开学习宣传贯彻党的二十届五中全会精神电视电话会议</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10722996.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="夜幕落下，汴河灯火流光，一场网络辟谣主题宣传活动，正在古城开封铺开。" data-title="一堂开进古都的辟谣课，为何让人着迷？" data-date="10-29 21:14" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/019/795.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 10 月 29 日消息，在昨日的华为双十一焕新季全场景新品发布会上，华为 Pura 90 Plus 手机正式发布，首发搭载麒麟 9025 芯片，焕新优惠价 5199 元起。IT之家从华为官方了解到，Pura 90 Plus 手机采用 NearLink E2.0 技术方案，上市即支持星闪音频功能。根据华为官方描述，星闪音频物理层传输速率可达 16Mbps，带宽能力超传统技术，充足的通道容量能够承载 48kHz/24bit Hi-Fi 音频无损传输。目前支持星闪音频的耳机包括 FreeClip 2 典藏版、FreeClip 2、FreeBuds Pro 5 等。" data-title="NearLink E2.0：华为 Pura 90 Plus 手机上市即支持星闪音频功能" data-date="10-29 23:28" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:14</span>
-          <span class="news-item-title">一堂开进古都的辟谣课，为何让人着迷？</span>
-          <span class="news-value-point">💡 夜幕落下，汴河灯火流光，一场网络辟谣主题宣传活动，正在古城开封铺开</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10722992.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网梧州10月29日电 题：广西梧州六堡茶：生态淬炼好茶 借运河香飘东盟" data-title="广西梧州六堡茶：生态淬炼好茶 借运河香飘东盟" data-date="10-29 21:10" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:10</span>
-          <span class="news-item-title">广西梧州六堡茶：生态淬炼好茶 借运河香飘东盟</span>
-          <span class="news-value-point">💡 中新网梧州10月29日电 题：广西梧州六堡茶：生态淬炼好茶 借运河香飘东盟</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Deepgram表示，它致力于保持Pipecat的开源。" data-title="Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure" data-date="10-29 21:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-29 21:00</span>
-          <span class="news-item-title">Deepgram收购Pipecat制造商Daily ，以加强其语音人工智能基础设施</span>
-          <span class="news-item-title-en">Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure</span>
-          <span class="news-value-point">💡 Deepgram表示，它致力于保持Pipecat的开源</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-29 23:28</span>
+          <span class="news-item-title">NearLink E2.0：华为 Pura 90 Plus 手机上市即支持星闪音频功能</span>
+          <span class="news-value-point">💡 IT之家 10 月 29 日消息，在昨日的华为双十一焕新季全场景新品发布会上，华为 Pura 90 Plus 手机正式发布，首发搭载麒麟 902…</span>
         </a>
   </div>
 </div>
@@ -706,4 +709,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-10-29 22:34（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-10-30 02:34（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-29 22:34（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-30 02:34（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -73,7 +73,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">11,138.20</span>
       <span class="ticker-change down">▼ -2.92%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg90843" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.7 L25.3,6.0 L46.7,6.8 L68.0,11.3 L89.3,27.7 L110.7,12.8 L132.0,19.3 L153.3,32.9 L174.7,22.2 L196.0,38.0 L196,40 Z" fill="url(#sg90843)"/><polyline points="4.0,6.7 25.3,6.0 46.7,6.8 68.0,11.3 89.3,27.7 110.7,12.8 132.0,19.3 153.3,32.9 174.7,22.2 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
       
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,324.83</span>
-      <span class="ticker-change down">▼ -1.64%</span>
+      <span class="ticker-price ticker-down">29,271.39</span>
+      <span class="ticker-change down">▼ -1.82%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-30 02:24:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-30 02:35:54（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6567</span>
+      <span class="ticker-price ticker-down">6.6569</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg20588" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,10.3 L46.7,13.3 L68.0,20.6 L89.3,21.4 L110.7,22.4 L132.0,26.0 L153.3,27.3 L174.7,30.2 L196.0,38.0 L196,40 Z" fill="url(#sg20588)"/><polyline points="4.0,6.0 25.3,10.3 46.7,13.3 68.0,20.6 89.3,21.4 110.7,22.4 132.0,26.0 153.3,27.3 174.7,30.2 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg54525" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,10.3 L46.7,13.4 L68.0,20.7 L89.3,21.5 L110.7,22.5 L132.0,26.1 L153.3,27.5 L174.7,30.3 L196.0,38.0 L196,40 Z" fill="url(#sg54525)"/><polyline points="4.0,6.0 25.3,10.3 46.7,13.4 68.0,20.7 89.3,21.5 110.7,22.5 132.0,26.1 153.3,27.5 174.7,30.3 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:24:04（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:35:53（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,006.87 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -60.29 (-1.48%)</span>
+      <span class="ticker-price ticker-down">$4,006.37 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -60.79 (-1.49%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:24:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:35:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥859.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -5.33 (-0.62%)</span>
+      <span class="ticker-price ticker-down">¥859.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -5.73 (-0.66%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:24:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:26:33（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$110.66 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.98 (-0.88%)</span>
+      <span class="ticker-price ticker-down">$110.89 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.75 (-0.67%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:24:16（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:36:03（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储官员预计将在12月重启加息，但其他举措的节奏将取决于数据。" data-title="The Fed Risks Falling Behind in its Inflation Fight" data-date="10-30 00:06" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-30 00:06</span>
+          <span class="news-item-title">The Fed Risks Falling Behind in its Inflation Fight</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="第三季度经济增长3.4% ，这是一年来最快的增长速度。强劲的支出和增长与许多选民给予经济的穷人形成鲜明对比。" data-title="U.S. GDP Increased 3.4% in Third Quarter" data-date="10-29 23:58" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-29 23:58</span>
+          <span class="news-item-title">U.S. GDP Increased 3.4% in Third Quarter</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723062.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网天津10月29日电(孙翼飞)记者在29日天津市政府新闻办举行的发布会上获悉，“十五五”时期，天津将高标准打造国家数字经济创新发展试验区，到2030年，数字经济综合发展水平位居全国第一梯队。" data-title="天津：2030年数字经济综合发展水平位居全国第一梯队" data-date="10-29 23:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-29 23:22</span>
+          <span class="news-item-title">天津：2030年数字经济综合发展水平位居全国第一梯队</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/019/792.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 29 日消息，据彭博社报道，埃隆 · 马斯克对字母 X 情有独钟。特斯拉最早的车型之一就是 Model X；太空探索技术公司（Space Exploration Technologies Corp.）简称 SpaceX；2022 年收购推特之后，他直接把这个社交平台更名为了 X。他甚至给自己的儿子取名 X Æ A-Xii，还常在网上叫他“小 X”。如今，这位全球首富正在探索将旗下两家上市公司合并，而市场恰好出现了一个机会：美股代码 X 目前处于闲置状态，这个代码去年随着美国钢铁公司被收购而空了出来。马斯克会不会申请拿下这个代码、特斯拉与 SpaceX 的合并能否落地都还是未知数，但投资者和分析师都注意到了这个时机，觉得恰逢其时。Roundhill 投资公司首席执行官戴夫" data-title="马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X" data-date="10-29 23:12" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-29 23:12</span>
+          <span class="news-item-title">马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="根据美联储决定维持利率稳定一天后公布的数据，个人消费支出指数在9月份有所回升。" data-title="Inflation Accelerated in October, PCE Index Shows" data-date="10-29 22:31" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -507,30 +531,6 @@ title: 股票财经
           <span class="news-item-date">10-29 22:05</span>
           <span class="news-item-title">杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="第三季度经济增长3.4% ，这是一年来最快的增长速度。强劲的支出和增长与许多选民给予经济的穷人形成鲜明对比。" data-title="U.S. GDP Increased 3.4% in Third Quarter" data-date="10-29 21:55" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-29 21:55</span>
-          <span class="news-item-title">U.S. GDP Increased 3.4% in Third Quarter</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储官员预计将在12月重启加息，但其他举措的节奏将取决于数据。" data-title="In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation" data-date="10-29 21:31" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-29 21:31</span>
-          <span class="news-item-title">In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723002.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社厦门10月29日电 (吴冠标)第十七届海峡两岸(厦门)文化产业博览交易会(海峡两岸文博会)29日在厦门开幕。活动汇聚1000余家海内外机构，展出近千件工艺精品，打造兼具文化厚度、产业深度与科技热度的行业盛会。" data-title="第十七届海峡两岸文博会开幕　台湾工艺师厦门以艺会友" data-date="10-29 21:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:27</span>
-          <span class="news-item-title">第十七届海峡两岸文博会开幕　台湾工艺师厦门以艺会友</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722998.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网呼和浩特10月29日电 (记者 刘文华)呼和浩特市航空航天产业集群产需对接会29日在呼和浩特举行。会议以“青筑新质 链聚空天”为主题，聚焦低空经济、商业航天两条赛道，面向相关企业及投资机构，发布航空航天产业集群引资项目需求清单与应用场景需求清单，共梳理遴选出42个重点合作方向。" data-title="呼和浩特发布42个航空航天产业合作方向 聚焦低空经济与商业航天" data-date="10-29 21:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 21:26</span>
-          <span class="news-item-title">呼和浩特发布42个航空航天产业合作方向 聚焦低空经济与商业航天</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="专家称，更好的激励与监督可能减少浪费、提高政策可预期性，但更严厉的纪律约束也可能加深干部不敢作为的局面，拖延支出和投资。" data-title="中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局" data-date="10-29 21:01" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -542,48 +542,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-29 20:16</span>
           <span class="news-item-title">国际最新研究：非洲水资源并未得到充分利用</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722731.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月29日，外交部发言人郭嘉昆主持例行记者会。对于美国国土安全部宣布将3家中国实体增列至“维吾尔强迫劳动预防法”实体清单，郭嘉昆在回答相关提问时表示，美方持续炮制涉疆谎言，以所谓“强迫劳动”为借口，肆意打压中国企业，中方表示强烈不满、坚决反对。所谓“强迫劳动”纯粹是一些反华分子炮制的世纪谎言，其目的是搞乱新疆、抹黑中国、遏制中国发展。中方敦促美方停止以人权为幌子干涉中国内政、遏制中国发展，将采取必要措施，坚决维护中国企业合法权益。" data-title="外交部：中方将采取必要措施，坚决维护中国企业合法权益" data-date="10-29 15:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 15:21</span>
-          <span class="news-item-title">外交部：中方将采取必要措施，坚决维护中国企业合法权益</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722727.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月29日，外交部发言人郭嘉昆主持例行记者会。总台记者提问：当地时间10月28日，第81届联大通过“必须终止美国对古巴的经济、商业和金融封锁”决议草案。请问中方对此有何评论？" data-title="外交部：再次敦促美方认真倾听国际社会的正义呼声，立即停止对古巴的封锁制裁" data-date="10-29 15:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 15:18</span>
-          <span class="news-item-title">外交部：再次敦促美方认真倾听国际社会的正义呼声，立即停止对古巴的封锁制裁</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10722708.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网厦门10月29日电 (吴冠标)10月29日，第十七届海峡两岸(厦门)文化产业博览交易会(简称“海峡两岸文博会”)在厦门国际会展中心开幕。" data-title="第十七届海峡两岸（厦门）文化产业博览交易会开幕" data-date="10-29 14:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 14:49</span>
-          <span class="news-item-title">第十七届海峡两岸（厦门）文化产业博览交易会开幕</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10722692.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网忻州10月29日电 (杨静 李庭耀 张媛)霜降已过，山西省忻州市忻府区奇村镇石家庄村生姜种植基地，一垄垄姜田满目生机，新姜的清香弥漫田野。姜农正忙着刨挖、拔姜、切姜、分拣、装筐，一块块“胖孩姜”破土而出。" data-title="山西忻州生茬地里冒“金芽” 沙土生姜飘香产业链" data-date="10-29 14:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 14:43</span>
-          <span class="news-item-title">山西忻州生茬地里冒“金芽” 沙土生姜飘香产业链</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722652.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔10月29日电 (金旭 陈艺玲)当地时间28日，由中国商务部投资促进事务局主办的“2026中韩生物医药产业对接活动”在韩国国际生物医药展会期间于首尔举办，吸引中韩生物医药领军企业及商协会代表近百人参会。" data-title="“2026中韩生物医药产业对接活动”在首尔举办" data-date="10-29 14:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 14:06</span>
-          <span class="news-item-title">“2026中韩生物医药产业对接活动”在首尔举办</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027" target="_blank" rel="noopener" data-cat="caijing" data-summary="微软刚刚公布了其2027财年第一季度的财务业绩。这家软件制造商在第一季度的收入为$ 923亿，净收入为$ 336亿。收入增长了19% ，净收入增长了32%。这是一个n" data-title="Microsoft reveals strong cloud growth amid financial reporting overhaul" data-date="10-29 04:20" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-29 04:20</span>
-          <span class="news-item-title">Microsoft reveals strong cloud growth amid financial reporting overhaul</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111224" target="_blank" rel="noopener" data-cat="caijing" data-summary="受中国市场对带状疱疹疫苗需求减弱拖累，葛兰素史克第三季度疫苗销售额同比下降4%，这家富时100指数成分股药企的股价随之下跌。" data-title="中国需求减弱影响GSK疫苗销售额" data-date="10-29 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-29 00:00</span>
-          <span class="news-item-title">中国需求减弱影响GSK疫苗销售额</span>
         </a>
   </div>
 </div>
@@ -598,4 +556,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-29 22:34（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-30 02:34（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
