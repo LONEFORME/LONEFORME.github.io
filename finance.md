@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-30 22:25（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-31 02:06（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,7 +134,7 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">28,240.18</span>
+      <span class="ticker-price ticker-down">28,242.21</span>
       <span class="ticker-change down">▼ -3.95%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
@@ -142,7 +142,7 @@ title: 股票财经
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-31 01:57:58（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-31 02:08:01（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6541</span>
+      <span class="ticker-price ticker-down">6.6538</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg89060" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.2 L46.7,16.9 L68.0,17.7 L89.3,18.8 L110.7,22.6 L132.0,24.0 L153.3,27.0 L174.7,30.4 L196.0,38.0 L196,40 Z" fill="url(#sg89060)"/><polyline points="4.0,6.0 25.3,9.2 46.7,16.9 68.0,17.7 89.3,18.8 110.7,22.6 132.0,24.0 153.3,27.0 174.7,30.4 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg31425" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.2 L46.7,16.8 L68.0,17.6 L89.3,18.7 L110.7,22.4 L132.0,23.8 L153.3,26.8 L174.7,30.2 L196.0,38.0 L196,40 Z" fill="url(#sg31425)"/><polyline points="4.0,6.0 25.3,9.2 46.7,16.8 68.0,17.6 89.3,18.7 110.7,22.4 132.0,23.8 153.3,26.8 174.7,30.2 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:57:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:07:31（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,884.03 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -137.20 (-3.41%)</span>
+      <span class="ticker-price ticker-down">$3,882.76 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -138.47 (-3.44%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:57:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:07:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥831.46 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -23.12 (-2.71%)</span>
+      <span class="ticker-price ticker-down">¥831.45 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -23.13 (-2.71%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:57:38（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:08:08（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$113.64 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +2.84 (+2.56%)</span>
+      <span class="ticker-price ticker-up">$113.53 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +2.73 (+2.47%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:58:11（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:08:15（非实时）</div>
   </div>
 </div>
 
@@ -493,25 +493,25 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/020/369.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 30 日消息，硅基流动在港股发行上市申请获中国证监会备案受理。据弗若斯特沙利文资料，该公司是中国最大的独立生态词元（Token）供应商，注册用户超过 1000 万名，服务企业客户超过 1.3 万家。IT之家注：硅基流动成立于 2023 年，定位为独立生态词元供应平台，不自建大模型，也不直接出售算力。其业务逻辑是将英伟达、华为升腾、沐曦、摩尔线程等厂商的异构芯片通过自研推理引擎统一调度，让 DeepSeek、Qwen、Kimi 等主流模型在池化算力上运行，再以 Token 为单位对外提供服务。截至 2026 年 6 月，平台累计支持 170 余款 AI 模型，适配 10 余款芯片。硅基流动与国产芯片的绑定是其业务叙述的关键一环。2025 年春节，该公司因率先推出基于华为升腾" data-title="词元工厂硅基流动港股上市申请获证监会备案：注册用户超千万，年内融资近 29 亿元" data-date="10-30 22:22" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-30 22:22</span>
-          <span class="news-item-title">词元工厂硅基流动港股上市申请获证监会备案：注册用户超千万，年内融资近 29 亿元</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts" target="_blank" rel="noopener" data-cat="caijing" data-summary="思科总裁杰图·帕特尔（ Jeetu Patel ）交给了一位27岁的前创业公司创始人一份巨大的工作，要在24个月内重写思科98%的旧代码。" data-title="Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company&#39;s legacy code in 24 months" data-date="10-30 19:26" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">10-30 19:26</span>
-          <span class="news-item-title">Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这几乎是2025年同期美国生产和炼油企业产量的三倍。" data-title="U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War" data-date="10-30 18:35" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="研究表明，博彩网站可以正确预测比赛，但它们预测美国中期选举的能力是一个重要的试验场。" data-title="Polymarket and Kalshi Face a Major Accuracy Test: The Midterms" data-date="10-31 00:35" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-30 18:35</span>
-          <span class="news-item-title">U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War</span>
+          <span class="news-item-date">10-31 00:35</span>
+          <span class="news-item-title">Polymarket and Kalshi Face a Major Accuracy Test: The Midterms</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着天气变冷，投资智能恒温器可能是值得的，可以帮助您降低能源费用。目前，谷歌的第四代Nest Learning Thermostat在亚马逊、百思买和家得宝以219.99美元（折扣60美元）的价格出售所有三种颜色" data-title="Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather" data-date="10-30 23:29" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">10-30 23:29</span>
+          <span class="news-item-title">Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/020/379.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="安克 Air 磁吸充电宝 5000mAh 今年 6 月 1 日发售，定价为 329 元。支持苹果 iPhone 15W 磁吸快充，符合 2026 新国标测试（非新国标认证），电池温度实时可监测。今日京东直降至 248 元近期新低，重量 118g，厚度 8.6mm：京东 ANKER Air 磁吸充电宝 5000mAh 蓝色超级补贴 248 元直达链接京东 ANKER Air 磁吸充电宝 5000mAh 橙色超级补贴 248 元直达链接新版小米金沙江充电宝 5000mAh 也在大促中，官方定价 299 元，今日京东 233 元。iPhone 支持 7.5W 磁吸充电，支持 2026 新国标认证，重量 120g，厚度 6.75mm：京东小米金沙江充电宝 5000mAh2026 新国标认证券后 26" data-title="5000mAh 磁吸充电宝 iPhone 美美多用半天：小米金沙江 233 元京东新低，安克 15W 秒杀 248 元" data-date="10-30 23:07" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-30 23:07</span>
+          <span class="news-item-title">5000mAh 磁吸充电宝 iPhone 美美多用半天：小米金沙江 233 元京东新低，安克 15W 秒杀 248 元</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-30/10723482.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月30日电 中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。多家外媒对此高度关注，报道认为，在中国共产党坚强领导下，中国经济社会发展取得显著成就。此次会议将对中国的发展产生重大而深远的影响。" data-title="外媒关注二十届五中全会：彰显中国共产党从严治党坚定决心" data-date="10-30 17:26" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -524,66 +524,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-30 15:55</span>
           <span class="news-item-title">俄学者：全球治理倡议为改革完善全球治理提供中国方案</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-30/10723355.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="最近，广东深圳正在举办粤港澳大湾区国际脑机接口产业创新大会，同步开启国内首个光明大脑科技周。大会上，一套脑机接口成功出圈，它颠覆了我们对传统脑机接口的认识：不开颅、不用植入电极，靠超声波和大脑“对话”。" data-title="不用植入电极！这款国产脑机接口，对癫痫、抑郁症、“植物人”定制干预方案" data-date="10-30 15:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-30 15:30</span>
-          <span class="news-item-title">不用植入电极！这款国产脑机接口，对癫痫、抑郁症、“植物人”定制干预方案</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-30/10723350.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月30日电 (记者 谢雁冰)国有资产法草案二次审议稿将提请十四届全国人大常委会第二十五次会议审议。全国人大常委会法工委发言人黄海华30日在记者会上表示，草案拟完善境外国有资产管理相关规定。" data-title="国有资产法草案将二审 拟完善境外国有资产管理相关规定" data-date="10-30 15:25" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-30 15:25</span>
-          <span class="news-item-title">国有资产法草案将二审 拟完善境外国有资产管理相关规定</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-30/10723298.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨10月30日电(记者 刘璐)近日，黑龙江省市场监督管理局聚焦肉制品领域突出食品安全隐患，采取靶向治理、从严办案、规范经营等多项举措，推动全省肉制品生产企业全面实行“互联网+AI监管”，将监管触角延伸至生产全流程，全省肉制品市场秩序持续向好。" data-title="黑龙江省肉制品生产企业全面实行“互联网+AI监管”" data-date="10-30 14:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-30 14:37</span>
-          <span class="news-item-title">黑龙江省肉制品生产企业全面实行“互联网+AI监管”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="该公司表示，它正在调查数百个新账户，这些账户在周二与大选相关的两个市场下注。" data-title="Polymarket Is Investigating Suspicious Bets on Israeli Election" data-date="10-30 07:37" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-30 07:37</span>
-          <span class="news-item-title">Polymarket Is Investigating Suspicious Bets on Israeli Election</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Rivian没有透露其58亿美元合资企业的价值是否会因此而扩大。" data-title="Rivian expands joint venture with VW to include AI assistant" data-date="10-30 04:05" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">10-30 04:05</span>
-          <span class="news-item-title">Rivian expands joint venture with VW to include AI assistant</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储官员预计将在12月重启加息，但其他举措的节奏将取决于数据。" data-title="The Fed Risks Falling Behind in its Inflation Fight" data-date="10-30 00:06" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-30 00:06</span>
-          <span class="news-item-title">The Fed Risks Falling Behind in its Inflation Fight</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111241" target="_blank" rel="noopener" data-cat="caijing" data-summary="太盟投资集团(PAG)拟以5.13亿美元收购恒大物业51%股权，出价约比最后收盘价低30%，这是恒大清盘人追收资产道路上的收获之一。" data-title="香港PE集团收购恒大物业控股权" data-date="10-30 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-30 00:00</span>
-          <span class="news-item-title">香港PE集团收购恒大物业控股权</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111234" target="_blank" rel="noopener" data-cat="caijing" data-summary="这一增速较第二季度的2.2%有所加快，并高于华尔街此前预测的3.2%。AI支出热潮继续推动经济增长，消费者也继续大笔消费。" data-title="3.4%：美国经济第三季度年化增速超预期" data-date="10-30 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">10-30 00:00</span>
-          <span class="news-item-title">3.4%：美国经济第三季度年化增速超预期</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/us-economy-gdp.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="第三季度经济增长3.4% ，这是一年来最快的增长速度。强劲的支出和增长与许多选民给予经济的穷人形成鲜明对比。" data-title="U.S. GDP Increased 3.4% in Third Quarter" data-date="10-29 23:58" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-29 23:58</span>
-          <span class="news-item-title">U.S. GDP Increased 3.4% in Third Quarter</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-29/10723062.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网天津10月29日电(孙翼飞)记者在29日天津市政府新闻办举行的发布会上获悉，“十五五”时期，天津将高标准打造国家数字经济创新发展试验区，到2030年，数字经济综合发展水平位居全国第一梯队。" data-title="天津：2030年数字经济综合发展水平位居全国第一梯队" data-date="10-29 23:22" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 23:22</span>
-          <span class="news-item-title">天津：2030年数字经济综合发展水平位居全国第一梯队</span>
         </a>
   </div>
 </div>
@@ -598,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-30 22:25（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-31 02:06（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
