@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-30 15:49（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-30 22:25（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">29,402.51</span>
-      <span class="ticker-change down">▼ -1.38%</span>
+      <span class="ticker-price ticker-down">28,490.57</span>
+      <span class="ticker-change down">▼ -3.10%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-30 09:41:55（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-10-30 22:27:34（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6504</span>
+      <span class="ticker-price ticker-down">6.6520</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg43438" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,8.9 L46.7,15.7 L68.0,16.5 L89.3,17.5 L110.7,20.8 L132.0,22.1 L153.3,24.8 L174.7,27.8 L196.0,38.0 L196,40 Z" fill="url(#sg43438)"/><polyline points="4.0,6.0 25.3,8.9 46.7,15.7 68.0,16.5 89.3,17.5 110.7,20.8 132.0,22.1 153.3,24.8 174.7,27.8 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg73454" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,9.0 L46.7,16.2 L68.0,17.0 L89.3,18.0 L110.7,21.5 L132.0,22.9 L153.3,25.7 L174.7,28.9 L196.0,38.0 L196,40 Z" fill="url(#sg73454)"/><polyline points="4.0,6.0 25.3,9.0 46.7,16.2 68.0,17.0 89.3,18.0 110.7,21.5 132.0,22.9 153.3,25.7 174.7,28.9 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:52:44（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:27:31（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,992.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -29.15 (-0.72%)</span>
+      <span class="ticker-price ticker-down">$3,898.72 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -122.51 (-3.05%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:52:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:27:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥854.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -10.75 (-1.24%)</span>
+      <span class="ticker-price ticker-down">¥835.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -19.08 (-2.23%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:05（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:27:45（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$113.31 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +2.51 (+2.26%)</span>
+      <span class="ticker-price ticker-up">$113.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +2.91 (+2.62%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 17:52:56（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 22:27:46（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">14 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/020/369.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 30 日消息，硅基流动在港股发行上市申请获中国证监会备案受理。据弗若斯特沙利文资料，该公司是中国最大的独立生态词元（Token）供应商，注册用户超过 1000 万名，服务企业客户超过 1.3 万家。IT之家注：硅基流动成立于 2023 年，定位为独立生态词元供应平台，不自建大模型，也不直接出售算力。其业务逻辑是将英伟达、华为升腾、沐曦、摩尔线程等厂商的异构芯片通过自研推理引擎统一调度，让 DeepSeek、Qwen、Kimi 等主流模型在池化算力上运行，再以 Token 为单位对外提供服务。截至 2026 年 6 月，平台累计支持 170 余款 AI 模型，适配 10 余款芯片。硅基流动与国产芯片的绑定是其业务叙述的关键一环。2025 年春节，该公司因率先推出基于华为升腾" data-title="词元工厂硅基流动港股上市申请获证监会备案：注册用户超千万，年内融资近 29 亿元" data-date="10-30 22:22" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-30 22:22</span>
+          <span class="news-item-title">词元工厂硅基流动港股上市申请获证监会备案：注册用户超千万，年内融资近 29 亿元</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts" target="_blank" rel="noopener" data-cat="caijing" data-summary="思科总裁杰图·帕特尔（ Jeetu Patel ）交给了一位27岁的前创业公司创始人一份巨大的工作，要在24个月内重写思科98%的旧代码。" data-title="Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company&#39;s legacy code in 24 months" data-date="10-30 19:26" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">10-30 19:26</span>
+          <span class="news-item-title">Cisco gives 27-year-old engineer unlimited AI tokens to rewrite 98% of the company's legacy code in 24 months</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这几乎是2025年同期美国生产和炼油企业产量的三倍。" data-title="U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War" data-date="10-30 18:35" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">10-30 18:35</span>
+          <span class="news-item-title">U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-30/10723482.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月30日电 中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。多家外媒对此高度关注，报道认为，在中国共产党坚强领导下，中国经济社会发展取得显著成就。此次会议将对中国的发展产生重大而深远的影响。" data-title="外媒关注二十届五中全会：彰显中国共产党从严治党坚定决心" data-date="10-30 17:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-30 17:26</span>
+          <span class="news-item-title">外媒关注二十届五中全会：彰显中国共产党从严治党坚定决心</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-30/10723387.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社莫斯科10月29日电(侯鸣 张婉悦)俄罗斯秋明国立大学、俄罗斯总统国民经济和国家行政学院高级讲师弗拉基米尔·涅日丹诺夫日前在俄罗斯瓦尔代俱乐部网站上发表题为《具有中国特色的全球治理倡议：中国倡导的原则与路径》的评论文章。文章指出，中国提出一系列全球性倡议，为改革完善全球治理提供中国方案。文章摘要如下：" data-title="俄学者：全球治理倡议为改革完善全球治理提供中国方案" data-date="10-30 15:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-30 15:55</span>
+          <span class="news-item-title">俄学者：全球治理倡议为改革完善全球治理提供中国方案</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-30/10723355.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="最近，广东深圳正在举办粤港澳大湾区国际脑机接口产业创新大会，同步开启国内首个光明大脑科技周。大会上，一套脑机接口成功出圈，它颠覆了我们对传统脑机接口的认识：不开颅、不用植入电极，靠超声波和大脑“对话”。" data-title="不用植入电极！这款国产脑机接口，对癫痫、抑郁症、“植物人”定制干预方案" data-date="10-30 15:30" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -531,6 +561,12 @@ title: 股票财经
           <span class="news-item-date">10-30 00:06</span>
           <span class="news-item-title">The Fed Risks Falling Behind in its Inflation Fight</span>
         </a>
+        <a class="news-item" href="https://www.ftchinese.com/story/001111241" target="_blank" rel="noopener" data-cat="caijing" data-summary="太盟投资集团(PAG)拟以5.13亿美元收购恒大物业51%股权，出价约比最后收盘价低30%，这是恒大清盘人追收资产道路上的收获之一。" data-title="香港PE集团收购恒大物业控股权" data-date="10-30 00:00" data-source="FT中文网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge ">🌐 FT中文网</span>
+          <span class="news-item-date">10-30 00:00</span>
+          <span class="news-item-title">香港PE集团收购恒大物业控股权</span>
+        </a>
         <a class="news-item" href="https://www.ftchinese.com/story/001111234" target="_blank" rel="noopener" data-cat="caijing" data-summary="这一增速较第二季度的2.2%有所加快，并高于华尔街此前预测的3.2%。AI支出热潮继续推动经济增长，消费者也继续大笔消费。" data-title="3.4%：美国经济第三季度年化增速超预期" data-date="10-30 00:00" data-source="FT中文网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge ">🌐 FT中文网</span>
@@ -549,36 +585,6 @@ title: 股票财经
           <span class="news-item-date">10-29 23:22</span>
           <span class="news-item-title">天津：2030年数字经济综合发展水平位居全国第一梯队</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/019/792.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 29 日消息，据彭博社报道，埃隆 · 马斯克对字母 X 情有独钟。特斯拉最早的车型之一就是 Model X；太空探索技术公司（Space Exploration Technologies Corp.）简称 SpaceX；2022 年收购推特之后，他直接把这个社交平台更名为了 X。他甚至给自己的儿子取名 X Æ A-Xii，还常在网上叫他“小 X”。如今，这位全球首富正在探索将旗下两家上市公司合并，而市场恰好出现了一个机会：美股代码 X 目前处于闲置状态，这个代码去年随着美国钢铁公司被收购而空了出来。马斯克会不会申请拿下这个代码、特斯拉与 SpaceX 的合并能否落地都还是未知数，但投资者和分析师都注意到了这个时机，觉得恰逢其时。Roundhill 投资公司首席执行官戴夫" data-title="马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X" data-date="10-29 23:12" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-29 23:12</span>
-          <span class="news-item-title">马斯克对字母 X 情有独钟，旗下特斯拉与 SpaceX 合并后或选用闲置美股代码 X</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/29/business/economy/pce-inflation-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="根据美联储决定维持利率稳定一天后公布的数据，个人消费支出指数在9月份有所回升。" data-title="Inflation Accelerated in October, PCE Index Shows" data-date="10-29 22:31" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-29 22:31</span>
-          <span class="news-item-title">Inflation Accelerated in October, PCE Index Shows</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-29/10723022.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杭州10月29日电(鲍梦妮)10月29日，杭州市人民政府新闻办公室、杭州市综合行政执法局(市城市管理局)、杭州市规划和自然资源局、杭州市文化广电旅游局、杭州市商旅集团(市运河集团)联合举办新闻发布会，介绍杭州新一轮城市照明专项规划修编及优化城市照明、赋能夜经济发展和夜环境品质提升情况。" data-title="杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景" data-date="10-29 22:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 22:05</span>
-          <span class="news-item-title">杭州新一轮城市照明规划出炉 营造宋韵美学杭派夜景</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmr4y17q4vxxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="专家称，更好的激励与监督可能减少浪费、提高政策可预期性，但更严厉的纪律约束也可能加深干部不敢作为的局面，拖延支出和投资。" data-title="中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局" data-date="10-29 21:01" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">10-29 21:01</span>
-          <span class="news-item-title">中共五中全会闭幕：出席委员较本届初减少四分之一 张升民罕见增选入政治局</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-29/10722940.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月29日电 (记者 孙自法)国际学术期刊《自然》最新发表一篇环境科学论文指出，一项研究结果表明，非洲部分地区的用水紧张可能源于基础设施不到位，而不是缺少水源。这也说明，非洲的水资源并未得到充分利用。" data-title="国际最新研究：非洲水资源并未得到充分利用" data-date="10-29 20:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-29 20:16</span>
-          <span class="news-item-title">国际最新研究：非洲水资源并未得到充分利用</span>
-        </a>
   </div>
 </div>
 
@@ -592,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-30 15:49（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-30 22:25（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
