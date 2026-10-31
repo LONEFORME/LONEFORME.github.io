@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-31 21:46（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-01 01:17（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,13 +493,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/020/613.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 31 日消息，据路透社报道，10 月最后一个交易日的市场表现相当惨烈，今年以来持续上涨的科技股再次遭遇考验。当地时间 30 日，纳斯达克综合指数创下 6 月以来最大单日跌幅。英特尔和社交媒体平台 Reddit 股价双双下跌 29%，AI 基础设施投资热潮的重要受益者之一、芯片制造商闪迪也下跌 13%。这轮抛售发生在大型科技股本周接连下跌之后。微软、Meta、亚马逊和谷歌母公司 Alphabet 等 AI 基础设施建设的核心参与者，股价周五再跌 1% 至 2%，此前本周早些时候已经出现明显回落。凯投宏观指出，过去 12 个月，微软、Meta、亚马逊和 Alphabet 四家超大规模科技公司的资本支出，已占到标普 500 指数现有成分股总资本支出的三分之一以上。该机构预计，这" data-title="英特尔、Reddit 双双暴跌近三成，美股 10 月最后一个交易日以“惨烈”告终" data-date="10-31 21:30" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/020/632.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元（IT之家注：现汇率约合 20.01 万亿元人民币）。随着数据中心建设竞赛愈演愈烈，五家公司披露的租赁、建筑、能源及设备采购承诺大幅增长。这些资金有的将在短期内支出，有的则涉及未来数十年的长期合同。谷歌的支出承诺规模最大。根据 Alphabet 提交的监管文件，包括技术设备、能源和租赁在内的合同承诺总额超过 1 万亿美元（现汇率约合 6.67 万亿元人民币），接近一年前的八倍。Meta 的支出承诺同样大幅攀升，未来支出总额超过 8,000 亿美元（现汇率约合 5.34 万亿元人" data-title="AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元" data-date="10-31 23:56" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-31 21:30</span>
-          <span class="news-item-title">英特尔、Reddit 双双暴跌近三成，美股 10 月最后一个交易日以“惨烈”告终</span>
+          <span class="news-item-date">10-31 23:56</span>
+          <span class="news-item-title">AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10724100.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月31日电 (记者 孙自法)据科技部10月31日消息，科技部部长阴和俊当天在北京会见瑞士联邦主席兼经济事务、教育和研究部长居伊·帕姆兰(Guy Parmelin)，双方就深化中瑞创新战略伙伴关系、推动科技创新务实合作等交换意见。" data-title="中瑞创新战略伙伴关系建立10周年 将推动科技创新务实合作" data-date="10-31 22:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-31 22:14</span>
+          <span class="news-item-title">中瑞创新战略伙伴关系建立10周年 将推动科技创新务实合作</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10724093.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南宁10月31日电(韦佳秀)广西壮族自治区财政厅近日发布消息称，“十四五”时期，广西财政累计下达水库移民相关财政资金181.79亿元(人民币，下同)。其中，水库移民后期扶持基金143.64亿元、占79%，一般公共预算资金38.15亿元、占21%，形成以后期扶持基金为主、一般公共预算协同补充的资金保障格局。" data-title="“十四五”时期广西财政累计下达水库移民相关资金181.79亿元" data-date="10-31 22:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-31 22:07</span>
+          <span class="news-item-title">“十四五”时期广西财政累计下达水库移民相关资金181.79亿元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-31/10724090.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网泉州10月31日电 (记者 孙虹)为助力美食产业规范化提质、品牌化运营、国际化出海，中国“世界美食之都”知识产权协同保护机制启动仪式暨“刺桐烟火”——知识产权赋能中华美食文化传承与特色产业高质量发展研讨会31日在福建泉州举办，并同步发布《“世界美食之都”知识产权跨域协同保护倡议书》。" data-title="中国“世界美食之都”知识产权协同保护机制在泉州启动" data-date="10-31 21:48" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-31 21:48</span>
+          <span class="news-item-title">中国“世界美食之都”知识产权协同保护机制在泉州启动</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-31/10724080.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="据日本方面31日消息，围绕计划在今年年底修订“安保三文件”，日本政府预计将设立法人，通过加强国防装备生产能力及推进技术转让等工作，谋求经济增长。" data-title="消息人士：日本修订“安保三文件” 欲将国防与经济增长挂钩" data-date="10-31 21:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -507,53 +525,11 @@ title: 股票财经
           <span class="news-item-date">10-31 21:16</span>
           <span class="news-item-title">消息人士：日本修订“安保三文件” 欲将国防与经济增长挂钩</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10724056.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口10月31日电 (记者 王子谦)当前，全球气候危机持续加剧，能源绿色低碳转型是应对全球气候变化的关键。中国气候变化事务特使刘振民31日在海口表示，亚太区域加快推进能源转型，既可以降低气候变化风险，又可以降低经济转型成本，促进产业合作与升级。" data-title="刘振民：以能源转型赋能亚太区域合作 推动产业升级" data-date="10-31 20:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 20:48</span>
-          <span class="news-item-title">刘振民：以能源转型赋能亚太区域合作 推动产业升级</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-31/10724049.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者获悉，华蓥市人民政府事故调查组发布了华蓥市溪口玛琉岩大摆荡项目“5·3”一般高处坠落事故调查报告。经调查认定，该事故是一起因项目运营企业安全生产主体责任悬空、管理缺位，未有效辨识管控安全风险，违规安排未经安全生产教育和培训合格人员上岗，属地政府及监管部门安全监管不到位、监督检查存在漏洞而导致的一般生产安全责任事故。" data-title="四川华蓥大摆荡项目事故调查报告公布" data-date="10-31 20:36" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">10-31 20:36</span>
           <span class="news-item-title">四川华蓥大摆荡项目事故调查报告公布</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10723955.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海10月31日电 (李姝征 杨海燕 郑莹莹)2026世界顶尖科学家论坛31日在上海临港举行开幕式。来自海内外的科学家、教育家和企业家围绕“范式变革：科学突破的下一个十年”主题，探讨前沿科学发展与国际科技合作。" data-title="2026世界顶尖科学家论坛在沪开幕 聚焦未来十年科学突破" data-date="10-31 17:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 17:45</span>
-          <span class="news-item-title">2026世界顶尖科学家论坛在沪开幕 聚焦未来十年科学突破</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/020/488.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 31 日消息，据路透社 30 日报道，纳斯达克 100 指数 10 月市值恐蒸发超过 2 万亿美元（IT之家注：现汇率约合 13.34 万亿元人民币）。随着科技巨头公布财报，投资者对 AI 投资回报的疑虑进一步加深：投入巨额资金建设 AI 基础设施，究竟多久才能收回成本？如果损失达到这一规模，蒸发的市值将略高于 SpaceX 的整体估值。受 AI 投资热潮降温影响，纳斯达克 100 指数 10 月以来跌幅超过 5.8%。与此同时，Meta、Alphabet 和亚马逊等科技巨头竞相扩建 AI 基础设施，并进一步上调支出预期。不断膨胀的 AI 投资令投资者不安。特别是在借贷成本上涨的情况下，企业通过举债投资 AI 不仅要付出更高成本，也更难证明如此庞大的支出物有所值。苹果将在" data-title="跌掉一个 SpaceX？AI 投资回报引投资者担忧，纳斯达克本月或蒸发 2 万亿美元市值" data-date="10-31 15:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-31 15:23</span>
-          <span class="news-item-title">跌掉一个 SpaceX？AI 投资回报引投资者担忧，纳斯达克本月或蒸发 2 万亿美元市值</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10723835.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州10月31日电 (记者 程景伟)广东省纪委监委30日通报，今年前9个月全省纪检监察机关处分厅级干部73人，处级干部1605人，科级干部4331人，一般干部3602人，农村、企业等其他人员17551人。" data-title="前9个月广东全省纪检监察机关处分厅级干部73人" data-date="10-31 12:15" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 12:15</span>
-          <span class="news-item-title">前9个月广东全省纪检监察机关处分厅级干部73人</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/10/30/technology/polymarket-kalshi-midterm-elections.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="研究表明，博彩网站可以正确预测比赛，但它们预测美国中期选举的能力是一个重要的试验场。" data-title="Polymarket and Kalshi Face a Major Accuracy Test: The Midterms" data-date="10-31 06:46" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">10-31 06:46</span>
-          <span class="news-item-title">Polymarket and Kalshi Face a Major Accuracy Test: The Midterms</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着天气变冷，投资智能恒温器可能是值得的，可以帮助您降低能源费用。目前，谷歌的第四代Nest Learning Thermostat在亚马逊、百思买和家得宝以219.99美元（折扣60美元）的价格出售所有三种颜色" data-title="Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather" data-date="10-30 23:29" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">10-30 23:29</span>
-          <span class="news-item-title">Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/020/379.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="安克 Air 磁吸充电宝 5000mAh 今年 6 月 1 日发售，定价为 329 元。支持苹果 iPhone 15W 磁吸快充，符合 2026 新国标测试（非新国标认证），电池温度实时可监测。今日京东直降至 248 元近期新低，重量 118g，厚度 8.6mm：京东 ANKER Air 磁吸充电宝 5000mAh 蓝色超级补贴 248 元直达链接京东 ANKER Air 磁吸充电宝 5000mAh 橙色超级补贴 248 元直达链接新版小米金沙江充电宝 5000mAh 也在大促中，官方定价 299 元，今日京东 233 元。iPhone 支持 7.5W 磁吸充电，支持 2026 新国标认证，重量 120g，厚度 6.75mm：京东小米金沙江充电宝 5000mAh2026 新国标认证券后 26" data-title="5000mAh 磁吸充电宝 iPhone 美美多用半天：小米金沙江 233 元京东新低，安克 15W 秒杀 248 元" data-date="10-30 23:07" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-30 23:07</span>
-          <span class="news-item-title">5000mAh 磁吸充电宝 iPhone 美美多用半天：小米金沙江 233 元京东新低，安克 15W 秒杀 248 元</span>
         </a>
   </div>
 </div>
@@ -568,4 +544,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-31 21:46（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-01 01:17（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
