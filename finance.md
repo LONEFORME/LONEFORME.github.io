@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-10-31 15:38（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-10-31 21:46（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,8 +493,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/020/613.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 31 日消息，据路透社报道，10 月最后一个交易日的市场表现相当惨烈，今年以来持续上涨的科技股再次遭遇考验。当地时间 30 日，纳斯达克综合指数创下 6 月以来最大单日跌幅。英特尔和社交媒体平台 Reddit 股价双双下跌 29%，AI 基础设施投资热潮的重要受益者之一、芯片制造商闪迪也下跌 13%。这轮抛售发生在大型科技股本周接连下跌之后。微软、Meta、亚马逊和谷歌母公司 Alphabet 等 AI 基础设施建设的核心参与者，股价周五再跌 1% 至 2%，此前本周早些时候已经出现明显回落。凯投宏观指出，过去 12 个月，微软、Meta、亚马逊和 Alphabet 四家超大规模科技公司的资本支出，已占到标普 500 指数现有成分股总资本支出的三分之一以上。该机构预计，这" data-title="英特尔、Reddit 双双暴跌近三成，美股 10 月最后一个交易日以“惨烈”告终" data-date="10-31 21:30" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">10-31 21:30</span>
+          <span class="news-item-title">英特尔、Reddit 双双暴跌近三成，美股 10 月最后一个交易日以“惨烈”告终</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-31/10724080.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="据日本方面31日消息，围绕计划在今年年底修订“安保三文件”，日本政府预计将设立法人，通过加强国防装备生产能力及推进技术转让等工作，谋求经济增长。" data-title="消息人士：日本修订“安保三文件” 欲将国防与经济增长挂钩" data-date="10-31 21:16" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-31 21:16</span>
+          <span class="news-item-title">消息人士：日本修订“安保三文件” 欲将国防与经济增长挂钩</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10724056.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口10月31日电 (记者 王子谦)当前，全球气候危机持续加剧，能源绿色低碳转型是应对全球气候变化的关键。中国气候变化事务特使刘振民31日在海口表示，亚太区域加快推进能源转型，既可以降低气候变化风险，又可以降低经济转型成本，促进产业合作与升级。" data-title="刘振民：以能源转型赋能亚太区域合作 推动产业升级" data-date="10-31 20:48" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-31 20:48</span>
+          <span class="news-item-title">刘振民：以能源转型赋能亚太区域合作 推动产业升级</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-31/10724049.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者获悉，华蓥市人民政府事故调查组发布了华蓥市溪口玛琉岩大摆荡项目“5·3”一般高处坠落事故调查报告。经调查认定，该事故是一起因项目运营企业安全生产主体责任悬空、管理缺位，未有效辨识管控安全风险，违规安排未经安全生产教育和培训合格人员上岗，属地政府及监管部门安全监管不到位、监督检查存在漏洞而导致的一般生产安全责任事故。" data-title="四川华蓥大摆荡项目事故调查报告公布" data-date="10-31 20:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-31 20:36</span>
+          <span class="news-item-title">四川华蓥大摆荡项目事故调查报告公布</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10723955.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海10月31日电 (李姝征 杨海燕 郑莹莹)2026世界顶尖科学家论坛31日在上海临港举行开幕式。来自海内外的科学家、教育家和企业家围绕“范式变革：科学突破的下一个十年”主题，探讨前沿科学发展与国际科技合作。" data-title="2026世界顶尖科学家论坛在沪开幕 聚焦未来十年科学突破" data-date="10-31 17:45" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">10-31 17:45</span>
+          <span class="news-item-title">2026世界顶尖科学家论坛在沪开幕 聚焦未来十年科学突破</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/020/488.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 31 日消息，据路透社 30 日报道，纳斯达克 100 指数 10 月市值恐蒸发超过 2 万亿美元（IT之家注：现汇率约合 13.34 万亿元人民币）。随着科技巨头公布财报，投资者对 AI 投资回报的疑虑进一步加深：投入巨额资金建设 AI 基础设施，究竟多久才能收回成本？如果损失达到这一规模，蒸发的市值将略高于 SpaceX 的整体估值。受 AI 投资热潮降温影响，纳斯达克 100 指数 10 月以来跌幅超过 5.8%。与此同时，Meta、Alphabet 和亚马逊等科技巨头竞相扩建 AI 基础设施，并进一步上调支出预期。不断膨胀的 AI 投资令投资者不安。特别是在借贷成本上涨的情况下，企业通过举债投资 AI 不仅要付出更高成本，也更难证明如此庞大的支出物有所值。苹果将在" data-title="跌掉一个 SpaceX？AI 投资回报引投资者担忧，纳斯达克本月或蒸发 2 万亿美元市值" data-date="10-31 15:23" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -525,18 +555,6 @@ title: 股票财经
           <span class="news-item-date">10-30 23:07</span>
           <span class="news-item-title">5000mAh 磁吸充电宝 iPhone 美美多用半天：小米金沙江 233 元京东新低，安克 15W 秒杀 248 元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-30/10723482.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网10月30日电 中国共产党第二十届中央委员会第五次全体会议，于2026年10月26日至29日在北京举行。多家外媒对此高度关注，报道认为，在中国共产党坚强领导下，中国经济社会发展取得显著成就。此次会议将对中国的发展产生重大而深远的影响。" data-title="外媒关注二十届五中全会：彰显中国共产党从严治党坚定决心" data-date="10-30 17:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-30 17:26</span>
-          <span class="news-item-title">外媒关注二十届五中全会：彰显中国共产党从严治党坚定决心</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-30/10723387.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社莫斯科10月29日电(侯鸣 张婉悦)俄罗斯秋明国立大学、俄罗斯总统国民经济和国家行政学院高级讲师弗拉基米尔·涅日丹诺夫日前在俄罗斯瓦尔代俱乐部网站上发表题为《具有中国特色的全球治理倡议：中国倡导的原则与路径》的评论文章。文章指出，中国提出一系列全球性倡议，为改革完善全球治理提供中国方案。文章摘要如下：" data-title="俄学者：全球治理倡议为改革完善全球治理提供中国方案" data-date="10-30 15:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-30 15:55</span>
-          <span class="news-item-title">俄学者：全球治理倡议为改革完善全球治理提供中国方案</span>
-        </a>
   </div>
 </div>
 
@@ -550,4 +568,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-10-31 15:38（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-10-31 21:46（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
