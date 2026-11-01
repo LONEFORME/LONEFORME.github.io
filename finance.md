@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-01 01:17（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-01 16:17（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -428,7 +428,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+15.5 亿</span>
+      <span class="sector-flow-badge">+20.4 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -441,7 +441,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+19.5 亿</span>
+      <span class="sector-flow-badge">+48.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -454,7 +454,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+30.7 亿</span>
+      <span class="sector-flow-badge">+45.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -467,7 +467,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+42.4 亿</span>
+      <span class="sector-flow-badge">+25.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -493,8 +493,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/020/756.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，上汽集团今日公告，2026 年 10 月公司整车产量 43.43 万辆，同比下降 6.88%；整车销量 43.00 万辆，同比下降 5.28%。1-10 月累计整车产量 352.84 万辆，同比下降 6.13%；累计整车销量 357.71 万辆，同比下降 1.92%。10 月新能源汽车销量 25.86 万辆，同比增长 25.12%；1-10 月累计新能源汽车销量 164.69 万辆，同比增长 27.72%。10 月出口及海外基地销量 16.25 万辆，同比增长 67.28%；1-10 月累计出口及海外基地销量 132.81 万辆，同比增长 54.04%。IT之家附各品牌 10 月销量如下：上汽集团乘用车 123,879 辆，同比增长 32.68%上汽大众 67" data-title="上汽集团：10 月整车销量 43 万辆，同比降 5.28%" data-date="11-01 16:16" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-01 16:16</span>
+          <span class="news-item-title">上汽集团：10 月整车销量 43 万辆，同比降 5.28%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/020/661.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。上汽通用五菱：142,757 辆，同比下降 18.4%，环比增长 8.11%（备注：上汽通用五菱 10 月销量 142757 辆，海外年销破 32 万）。其中：五菱银标：60,835 辆，同比下降 36.06%。外海出口：38,911 辆。五菱红标：35,001 辆，同比下降 28.65%。华境 S：7,507 辆，环比增长 1.23%。长城汽车：120,374 辆，同比下降 15.87%，环比增长 4.72%（备注：长城汽车 10 月新能源车销售 49,499 辆，海外销售 62,862 辆。）。其中：哈弗：71,027 辆，同比下降 19.5%，环比增" data-title="2026 年 10 月汽车销量 / 交付汇总（持续更新）：长城汽车 12.04 万辆，同比下降 15.87%" data-date="11-01 09:20" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-01 09:20</span>
+          <span class="news-item-title">2026 年 10 月汽车销量 / 交付汇总（持续更新）：长城汽车 12.04 万辆，同比下降 15.87%</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/020/632.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元（IT之家注：现汇率约合 20.01 万亿元人民币）。随着数据中心建设竞赛愈演愈烈，五家公司披露的租赁、建筑、能源及设备采购承诺大幅增长。这些资金有的将在短期内支出，有的则涉及未来数十年的长期合同。谷歌的支出承诺规模最大。根据 Alphabet 提交的监管文件，包括技术设备、能源和租赁在内的合同承诺总额超过 1 万亿美元（现汇率约合 6.67 万亿元人民币），接近一年前的八倍。Meta 的支出承诺同样大幅攀升，未来支出总额超过 8,000 亿美元（现汇率约合 5.34 万亿元人" data-title="AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元" data-date="10-31 23:56" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -544,4 +556,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-01 01:17（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-01 16:17（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
