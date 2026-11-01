@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-01 22:24（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-02 01:59（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -190,7 +190,7 @@ title: 股票财经
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:26:24（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -493,8 +493,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak" target="_blank" rel="noopener" data-cat="caijing" data-summary="泄密者已经将取消的门户前传F-Stop的可玩版本拼凑在一起。大部分资产来自今年8月份下降的大规模12TB泄漏。那不包括游戏的源代码或地图数据，但那些最后的部分" data-title="A fully playable version of Portal prequel F" data-date="11-02 00:19" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-02 00:19</span>
+          <span class="news-item-title">A fully playable version of Portal prequel F</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/020/839.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，赛力斯 10 月 31 日发布投资者关系活动记录表，其中回答了“公司在问界的整体经营思路上有什么样的思考？对下一步业务发展有什么规划？”。据其介绍，问界坚定做全球高端品牌。目前问界全系正推进欧盟 WVTA E1 整车型式认证，验证周期长、环节多，是高端车进入欧洲市场的必经门槛。公司坚持按最高标准走完全程，确保产品以合规、可靠的状态出海。10 月中旬 AITO 6、AITO 7、AITO 8、AITO 9 亮相巴黎车展并广受好评，为接受全球最高标准检验、进入欧洲市场积累了品牌与市场基础。随着认证与渠道建设推进，问界将全面进入欧洲市场，稳步迈向海外销量占比三分之一的目标。IT之家注意到，该公司还提到坚持以盈利质量为核心导向。公司不参与价格战和规模内卷，不追求无盈利" data-title="赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷" data-date="11-01 22:47" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-01 22:47</span>
+          <span class="news-item-title">赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷</span>
+        </a>
         <a class="news-item" href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Flock未能回应其要求后，普利茅斯市议会别无选择，只能实际断开摄像头。" data-title="Police Chief physically unplugs Flock cameras after the company ignores contract cancellation" data-date="11-01 21:55" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
@@ -506,12 +518,6 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">11-01 21:47</span>
           <span class="news-item-title">乌称俄袭击基辅能源设施 城区多地面临停水</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/020/830.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，比亚迪今日公布数据，10 月份销售 490168 辆，海外乘用车及皮卡销售近 17 万辆。2026 年 1-10 月累计销售 3621744 辆，新能源汽车累计销售超 1870 万辆。IT之家附各品牌销量如下：比亚迪汽车王朝 | 海洋 423843 辆方程豹 43872 辆腾势 15152 辆仰望 258 辆根据比亚迪此前发布的 2026 年 10 月产销快报：10 月新能源汽车销量约 49.02 万辆，同比增长 10.97%。其中，纯电动汽车 10 月销量约 30.57 万辆，同比增长 37.38%；插电式混合动力汽车销量约 17.74 万辆，同比下降 17.22%。相关阅读：《2026 年 10 月汽车销量 / 交付汇总（持续更新）》" data-title="比亚迪各品牌销量公布：方程豹 43872 辆，腾势 15152 辆" data-date="11-01 20:56" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-01 20:56</span>
-          <span class="news-item-title">比亚迪各品牌销量公布：方程豹 43872 辆，腾势 15152 辆</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州11月1日电 (叶艺琳)第十三届中韩住宅与城市合作会议1日下午在福州海峡国际会展中心举行。中韩两国相关部门人士、行业专家及企业代表齐聚一堂，共话住房保障发展、共商城市合作可持续发展路径。" data-title="第十三届中韩住宅与城市合作会议在福州举行" data-date="11-01 20:53" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -537,24 +543,6 @@ title: 股票财经
           <span class="news-item-date">11-01 19:05</span>
           <span class="news-item-title">印尼学子青睐赴华留学：“想求知，就到中国去”</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/020/756.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，上汽集团今日公告，2026 年 10 月公司整车产量 43.43 万辆，同比下降 6.88%；整车销量 43.00 万辆，同比下降 5.28%。1-10 月累计整车产量 352.84 万辆，同比下降 6.13%；累计整车销量 357.71 万辆，同比下降 1.92%。10 月新能源汽车销量 25.86 万辆，同比增长 25.12%；1-10 月累计新能源汽车销量 164.69 万辆，同比增长 27.72%。10 月出口及海外基地销量 16.25 万辆，同比增长 67.28%；1-10 月累计出口及海外基地销量 132.81 万辆，同比增长 54.04%。IT之家附各品牌 10 月销量如下：上汽集团乘用车 123,879 辆，同比增长 32.68%上汽大众 67" data-title="上汽集团：10 月整车销量 43 万辆，同比降 5.28%" data-date="11-01 16:16" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-01 16:16</span>
-          <span class="news-item-title">上汽集团：10 月整车销量 43 万辆，同比降 5.28%</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/020/661.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，各大车企今日起陆续交出了 2026 年 10 月份销量、交付量的成绩单，IT之家为大家实时更新和汇总如下。上汽通用五菱：142,757 辆，同比下降 18.4%，环比增长 8.11%（备注：上汽通用五菱 10 月销量 142757 辆，海外年销破 32 万）。其中：五菱银标：60,835 辆，同比下降 36.06%。外海出口：38,911 辆。五菱红标：35,001 辆，同比下降 28.65%。华境 S：7,507 辆，环比增长 1.23%。长城汽车：120,374 辆，同比下降 15.87%，环比增长 4.72%（备注：长城汽车 10 月新能源车销售 49,499 辆，海外销售 62,862 辆。）。其中：哈弗：71,027 辆，同比下降 19.5%，环比增" data-title="2026 年 10 月汽车销量 / 交付汇总（持续更新）：长城汽车 12.04 万辆，同比下降 15.87%" data-date="11-01 09:20" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-01 09:20</span>
-          <span class="news-item-title">2026 年 10 月汽车销量 / 交付汇总（持续更新）：长城汽车 12.04 万辆，同比下降 15.87%</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/020/632.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 10 月 31 日消息，据彭博社今天（31 日）凌晨报道，AI 基础设施建设仍将吸引巨额资金。Alphabet、Meta、微软、亚马逊和甲骨文五大科技巨头承诺，未来数年将在数据中心等领域投入超过 3 万亿美元（IT之家注：现汇率约合 20.01 万亿元人民币）。随着数据中心建设竞赛愈演愈烈，五家公司披露的租赁、建筑、能源及设备采购承诺大幅增长。这些资金有的将在短期内支出，有的则涉及未来数十年的长期合同。谷歌的支出承诺规模最大。根据 Alphabet 提交的监管文件，包括技术设备、能源和租赁在内的合同承诺总额超过 1 万亿美元（现汇率约合 6.67 万亿元人民币），接近一年前的八倍。Meta 的支出承诺同样大幅攀升，未来支出总额超过 8,000 亿美元（现汇率约合 5.34 万亿元人" data-title="AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元" data-date="10-31 23:56" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">10-31 23:56</span>
-          <span class="news-item-title">AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元</span>
-        </a>
   </div>
 </div>
 
@@ -568,4 +556,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-01 22:24（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-02 01:59（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
