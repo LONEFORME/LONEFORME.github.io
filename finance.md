@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-01 16:17（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-01 22:24（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,8 +493,50 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Flock未能回应其要求后，普利茅斯市议会别无选择，只能实际断开摄像头。" data-title="Police Chief physically unplugs Flock cameras after the company ignores contract cancellation" data-date="11-01 21:55" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-01 21:55</span>
+          <span class="news-item-title">Police Chief physically unplugs Flock cameras after the company ignores contract cancellation</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间11月1日，乌克兰首都基辅市国家行政管理局通报，俄罗斯对基辅能源基础设施实施袭击，造成当地一处供水设施断电，引发城区供水异常。" data-title="乌称俄袭击基辅能源设施 城区多地面临停水" data-date="11-01 21:47" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-01 21:47</span>
+          <span class="news-item-title">乌称俄袭击基辅能源设施 城区多地面临停水</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/020/830.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，比亚迪今日公布数据，10 月份销售 490168 辆，海外乘用车及皮卡销售近 17 万辆。2026 年 1-10 月累计销售 3621744 辆，新能源汽车累计销售超 1870 万辆。IT之家附各品牌销量如下：比亚迪汽车王朝 | 海洋 423843 辆方程豹 43872 辆腾势 15152 辆仰望 258 辆根据比亚迪此前发布的 2026 年 10 月产销快报：10 月新能源汽车销量约 49.02 万辆，同比增长 10.97%。其中，纯电动汽车 10 月销量约 30.57 万辆，同比增长 37.38%；插电式混合动力汽车销量约 17.74 万辆，同比下降 17.22%。相关阅读：《2026 年 10 月汽车销量 / 交付汇总（持续更新）》" data-title="比亚迪各品牌销量公布：方程豹 43872 辆，腾势 15152 辆" data-date="11-01 20:56" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-01 20:56</span>
+          <span class="news-item-title">比亚迪各品牌销量公布：方程豹 43872 辆，腾势 15152 辆</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州11月1日电 (叶艺琳)第十三届中韩住宅与城市合作会议1日下午在福州海峡国际会展中心举行。中韩两国相关部门人士、行业专家及企业代表齐聚一堂，共话住房保障发展、共商城市合作可持续发展路径。" data-title="第十三届中韩住宅与城市合作会议在福州举行" data-date="11-01 20:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-01 20:53</span>
+          <span class="news-item-title">第十三届中韩住宅与城市合作会议在福州举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-01/10724443.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社莫斯科11月1日电(记者 田冰)11月1日，俄罗斯央行官方网站显示1美元兑换80.56卢布，与10月底汇率基本持平。10月，卢布汇率明显走强，从85.71成功稳固在80关口。市场关注点也随之从“卢布持续走强的逻辑何在”转向“未来存在何种变量”。" data-title="（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”" data-date="11-01 19:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-01 19:38</span>
+          <span class="news-item-title">（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-01/10724448.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杭州11月1日电(张煜欢)红绸轻展，礼乐和鸣。11月1日，一场简约庄重的集体婚礼在浙江杭州举行，一对对新人以雅致仪式许下相守之约，没有繁复排场，只留真诚祝福。这场由浙江省妇联主办的2026年“浙里幸福荟”集体婚礼融入宋韵美学，将家国同庆、婚事简办的理念娓娓道来，生动诠释了婚育新风的独特魅力。" data-title="浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家" data-date="11-01 19:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-01 19:34</span>
+          <span class="news-item-title">浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-01/10724429.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达11月1日电(记者 李志全)2026印度尼西亚(第十一届)HSK留学中国与就业展11月1日在雅加达举办，北京大学、清华大学、中国人民大学等21所中国高校及相关中资企业参展，吸引不少学生和家长到场咨询。" data-title="印尼学子青睐赴华留学：“想求知，就到中国去”" data-date="11-01 19:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-01 19:05</span>
+          <span class="news-item-title">印尼学子青睐赴华留学：“想求知，就到中国去”</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/020/756.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，上汽集团今日公告，2026 年 10 月公司整车产量 43.43 万辆，同比下降 6.88%；整车销量 43.00 万辆，同比下降 5.28%。1-10 月累计整车产量 352.84 万辆，同比下降 6.13%；累计整车销量 357.71 万辆，同比下降 1.92%。10 月新能源汽车销量 25.86 万辆，同比增长 25.12%；1-10 月累计新能源汽车销量 164.69 万辆，同比增长 27.72%。10 月出口及海外基地销量 16.25 万辆，同比增长 67.28%；1-10 月累计出口及海外基地销量 132.81 万辆，同比增长 54.04%。IT之家附各品牌 10 月销量如下：上汽集团乘用车 123,879 辆，同比增长 32.68%上汽大众 67" data-title="上汽集团：10 月整车销量 43 万辆，同比降 5.28%" data-date="11-01 16:16" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -513,36 +555,6 @@ title: 股票财经
           <span class="news-item-date">10-31 23:56</span>
           <span class="news-item-title">AI 基建掀起军备竞赛：微软、谷歌、甲骨文等巨头承诺投入超 3 万亿美元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10724100.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京10月31日电 (记者 孙自法)据科技部10月31日消息，科技部部长阴和俊当天在北京会见瑞士联邦主席兼经济事务、教育和研究部长居伊·帕姆兰(Guy Parmelin)，双方就深化中瑞创新战略伙伴关系、推动科技创新务实合作等交换意见。" data-title="中瑞创新战略伙伴关系建立10周年 将推动科技创新务实合作" data-date="10-31 22:14" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 22:14</span>
-          <span class="news-item-title">中瑞创新战略伙伴关系建立10周年 将推动科技创新务实合作</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/10-31/10724093.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南宁10月31日电(韦佳秀)广西壮族自治区财政厅近日发布消息称，“十四五”时期，广西财政累计下达水库移民相关财政资金181.79亿元(人民币，下同)。其中，水库移民后期扶持基金143.64亿元、占79%，一般公共预算资金38.15亿元、占21%，形成以后期扶持基金为主、一般公共预算协同补充的资金保障格局。" data-title="“十四五”时期广西财政累计下达水库移民相关资金181.79亿元" data-date="10-31 22:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 22:07</span>
-          <span class="news-item-title">“十四五”时期广西财政累计下达水库移民相关资金181.79亿元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-31/10724090.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网泉州10月31日电 (记者 孙虹)为助力美食产业规范化提质、品牌化运营、国际化出海，中国“世界美食之都”知识产权协同保护机制启动仪式暨“刺桐烟火”——知识产权赋能中华美食文化传承与特色产业高质量发展研讨会31日在福建泉州举办，并同步发布《“世界美食之都”知识产权跨域协同保护倡议书》。" data-title="中国“世界美食之都”知识产权协同保护机制在泉州启动" data-date="10-31 21:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 21:48</span>
-          <span class="news-item-title">中国“世界美食之都”知识产权协同保护机制在泉州启动</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/10-31/10724080.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="据日本方面31日消息，围绕计划在今年年底修订“安保三文件”，日本政府预计将设立法人，通过加强国防装备生产能力及推进技术转让等工作，谋求经济增长。" data-title="消息人士：日本修订“安保三文件” 欲将国防与经济增长挂钩" data-date="10-31 21:16" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 21:16</span>
-          <span class="news-item-title">消息人士：日本修订“安保三文件” 欲将国防与经济增长挂钩</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/10-31/10724049.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="记者获悉，华蓥市人民政府事故调查组发布了华蓥市溪口玛琉岩大摆荡项目“5·3”一般高处坠落事故调查报告。经调查认定，该事故是一起因项目运营企业安全生产主体责任悬空、管理缺位，未有效辨识管控安全风险，违规安排未经安全生产教育和培训合格人员上岗，属地政府及监管部门安全监管不到位、监督检查存在漏洞而导致的一般生产安全责任事故。" data-title="四川华蓥大摆荡项目事故调查报告公布" data-date="10-31 20:36" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">10-31 20:36</span>
-          <span class="news-item-title">四川华蓥大摆荡项目事故调查报告公布</span>
-        </a>
   </div>
 </div>
 
@@ -556,4 +568,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-01 16:17（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-01 22:24（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
