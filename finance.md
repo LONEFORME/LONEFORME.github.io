@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-02 16:30（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-03 01:19（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">28,384.85</span>
-      <span class="ticker-change down">▼ -3.46%</span>
+      <span class="ticker-price ticker-up">28,490.45</span>
+      <span class="ticker-change up">▲ +0.37%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-10-31 09:40:17（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-03 01:21:34（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6466</span>
+      <span class="ticker-price ticker-down">6.6463</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg24759" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,12.7 L46.7,13.4 L68.0,14.4 L89.3,17.7 L110.7,19.0 L132.0,21.6 L153.3,24.6 L174.7,29.7 L196.0,38.0 L196,40 Z" fill="url(#sg24759)"/><polyline points="4.0,6.0 25.3,12.7 46.7,13.4 68.0,14.4 89.3,17.7 110.7,19.0 132.0,21.6 153.3,24.6 174.7,29.7 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg31402" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,12.7 L46.7,13.4 L68.0,14.4 L89.3,17.6 L110.7,18.9 L132.0,21.5 L153.3,24.4 L174.7,29.5 L196.0,38.0 L196,40 Z" fill="url(#sg31402)"/><polyline points="4.0,6.0 25.3,12.7 46.7,13.4 68.0,14.4 89.3,17.6 110.7,18.9 132.0,21.5 153.3,24.4 174.7,29.5 196.0,38.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="38.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:52:43（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:21:31（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,897.89 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +21.20 (+0.55%)</span>
+      <span class="ticker-price ticker-up">$3,964.84 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +88.15 (+2.27%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:52:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:21:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥835.55 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -19.03 (-2.23%)</span>
+      <span class="ticker-price ticker-up">¥849.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +13.83 (+1.65%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:29:58（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:21:34（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$108.44 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -4.99 (-4.40%)</span>
+      <span class="ticker-price ticker-down">$104.93 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -8.50 (-7.50%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:52:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:21:49（非实时）</div>
   </div>
 </div>
 
@@ -493,73 +493,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-02/10724779.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="俄联邦政府网站11月2日发布消息，宣布临时禁止从俄罗斯向欧亚经济联盟成员国以外地区出口6种石化产品，旨在保障俄国内工业企业原料的稳定供应。" data-title="俄临时禁止向欧亚经济联盟以外地区出口6种石化产品" data-date="11-02 15:27" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="下议院商业、创新、科学与贸易委员会的一份报告指出，英国政府对华事务的决策过程持续地“前后矛盾”。" data-title="“英国政府对华政策摸著石头过河”" data-date="11-02 23:41" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-02 23:41</span>
+          <span class="news-item-title">“英国政府对华政策摸著石头过河”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-02/10725058.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京11月2日电 (记者 郭超凯)一株古老本草，如何回答当代人的健康问题？德庆好物进京推介活动近日在北京举行。活动聚焦南药产业高质量发展，展示德庆南药由道地资源向现代健康产品转化的实践，搭建产区与市场、科研与产业、品牌与渠道的对接平台。" data-title="道地药材县域突围，广东德庆县南药总产值达40.74亿元" data-date="11-02 22:14" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-02 15:27</span>
-          <span class="news-item-title">俄临时禁止向欧亚经济联盟以外地区出口6种石化产品</span>
+          <span class="news-item-date">11-02 22:14</span>
+          <span class="news-item-title">道地药材县域突围，广东德庆县南药总产值达40.74亿元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-02/10724721.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网唐山11月2日电 题：河北乐亭建筑支护产业集群“组队升级” “架”起外贸“出海桥”" data-title="河北乐亭建筑支护产业集群“组队升级” “架”起外贸“出海桥”" data-date="11-02 14:14" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-02/10725053.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达11月2日电 (记者 李志全)东南亚最大经济体印度尼西亚制造业呈现回暖势头。标普全球2日公布的数据显示，2026年10月，印尼制造业采购经理指数(PMI)升至54.0，创2024年3月以来最高水平，制造业扩张势头为31个月来最强。" data-title="印尼制造业PMI创31个月新高 出口订单增长强劲" data-date="11-02 22:13" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-02 14:14</span>
-          <span class="news-item-title">河北乐亭建筑支护产业集群“组队升级” “架”起外贸“出海桥”</span>
+          <span class="news-item-date">11-02 22:13</span>
+          <span class="news-item-title">印尼制造业PMI创31个月新高 出口订单增长强劲</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/snag-a-nintendo-switch-2-for-only-usd469-while-stock-lasts-usd30-off-a-system-thats-not-often-on-sale" target="_blank" rel="noopener" data-cat="caijing" data-summary="抢购任天堂Switch 2 ，售价仅为$ 469 ，售完即止— $ 30折扣，该系统不常出售" data-title="Snag a Nintendo Switch 2 for only $469 while stock lasts — $30 off a system that&#39;s not often on sale" data-date="11-02 02:09" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-02/10725013.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦11月2日电 (记者 欧阳开宇)最新数据显示，英国制造业在四季度开端迎来明显复苏，产出增长达到两年多来最好水平，海内外订单需求同步改善，但投入成本快速走高，通胀隐忧再起，使市场强化英国央行加息的预期。" data-title="英国制造业复苏  隐忧犹存" data-date="11-02 21:55" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-02 02:09</span>
-          <span class="news-item-title">Snag a Nintendo Switch 2 for only $469 while stock lasts — $30 off a system that's not often on sale</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-02 21:55</span>
+          <span class="news-item-title">英国制造业复苏  隐忧犹存</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak" target="_blank" rel="noopener" data-cat="caijing" data-summary="泄密者已经将取消的门户前传F-Stop的可玩版本拼凑在一起。大部分资产来自今年8月份下降的大规模12TB泄漏。那不包括游戏的源代码或地图数据，但那些最后的部分" data-title="A fully playable version of Portal prequel F" data-date="11-02 00:19" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-02 00:19</span>
-          <span class="news-item-title">A fully playable version of Portal prequel F</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/020/839.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 1 日消息，赛力斯 10 月 31 日发布投资者关系活动记录表，其中回答了“公司在问界的整体经营思路上有什么样的思考？对下一步业务发展有什么规划？”。据其介绍，问界坚定做全球高端品牌。目前问界全系正推进欧盟 WVTA E1 整车型式认证，验证周期长、环节多，是高端车进入欧洲市场的必经门槛。公司坚持按最高标准走完全程，确保产品以合规、可靠的状态出海。10 月中旬 AITO 6、AITO 7、AITO 8、AITO 9 亮相巴黎车展并广受好评，为接受全球最高标准检验、进入欧洲市场积累了品牌与市场基础。随着认证与渠道建设推进，问界将全面进入欧洲市场，稳步迈向海外销量占比三分之一的目标。IT之家注意到，该公司还提到坚持以盈利质量为核心导向。公司不参与价格战和规模内卷，不追求无盈利" data-title="赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷" data-date="11-01 22:47" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/021/272.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 2 日消息，据市场监管总局，10 月 28 日，全国网络销售重点工业产品合规提质现场活动在浙江省平湖市举办。此次活动以“学新规明准则守安全提品质”为主题，旨在宣贯《网络销售重点工业产品质量安全监督管理规定》，督促电子商务经营者增强合规意识，落实网络销售重点工业产品质量安全义务，提升网售产品质量安全水平。公告称，加强网售工业产品质量安全治理，是守护人民群众线上消费安全的重要举措，也是推动平台经济健康发展的必然要求。活动现场对各电子商务经营者发出倡议，要守牢合规经营“硬底线”，当好质量安全“守门人”，吃透《网络销售重点工业产品质量安全监督管理规定》各项要求，加快内部质量管理制度建设，切实扛起质量安全主体责任。IT之家注意到，活动现场，淘天、京东、拼多多、小红书、抖音、快手、苏" data-title="市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约" data-date="11-02 21:41" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-01 22:47</span>
-          <span class="news-item-title">赛力斯：问界将全面进入欧洲市场，公司不参与价格战和规模内卷</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies" target="_blank" rel="noopener" data-cat="caijing" data-summary="在Flock未能回应其要求后，普利茅斯市议会别无选择，只能实际断开摄像头。" data-title="Police Chief physically unplugs Flock cameras after the company ignores contract cancellation" data-date="11-01 21:55" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-01 21:55</span>
-          <span class="news-item-title">Police Chief physically unplugs Flock cameras after the company ignores contract cancellation</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-01/10724509.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="当地时间11月1日，乌克兰首都基辅市国家行政管理局通报，俄罗斯对基辅能源基础设施实施袭击，造成当地一处供水设施断电，引发城区供水异常。" data-title="乌称俄袭击基辅能源设施 城区多地面临停水" data-date="11-01 21:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-01 21:47</span>
-          <span class="news-item-title">乌称俄袭击基辅能源设施 城区多地面临停水</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-01/10724491.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网福州11月1日电 (叶艺琳)第十三届中韩住宅与城市合作会议1日下午在福州海峡国际会展中心举行。中韩两国相关部门人士、行业专家及企业代表齐聚一堂，共话住房保障发展、共商城市合作可持续发展路径。" data-title="第十三届中韩住宅与城市合作会议在福州举行" data-date="11-01 20:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-01 20:53</span>
-          <span class="news-item-title">第十三届中韩住宅与城市合作会议在福州举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-01/10724443.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社莫斯科11月1日电(记者 田冰)11月1日，俄罗斯央行官方网站显示1美元兑换80.56卢布，与10月底汇率基本持平。10月，卢布汇率明显走强，从85.71成功稳固在80关口。市场关注点也随之从“卢布持续走强的逻辑何在”转向“未来存在何种变量”。" data-title="（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”" data-date="11-01 19:38" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-01 19:38</span>
-          <span class="news-item-title">（国际观察）高油价等多重因素推动俄罗斯卢布“逆势走强”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-01/10724448.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杭州11月1日电(张煜欢)红绸轻展，礼乐和鸣。11月1日，一场简约庄重的集体婚礼在浙江杭州举行，一对对新人以雅致仪式许下相守之约，没有繁复排场，只留真诚祝福。这场由浙江省妇联主办的2026年“浙里幸福荟”集体婚礼融入宋韵美学，将家国同庆、婚事简办的理念娓娓道来，生动诠释了婚育新风的独特魅力。" data-title="浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家" data-date="11-01 19:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-01 19:34</span>
-          <span class="news-item-title">浙江深耕新型婚育文化建设：搭起幸福桥 共育和美家</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-01/10724429.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达11月1日电(记者 李志全)2026印度尼西亚(第十一届)HSK留学中国与就业展11月1日在雅加达举办，北京大学、清华大学、中国人民大学等21所中国高校及相关中资企业参展，吸引不少学生和家长到场咨询。" data-title="印尼学子青睐赴华留学：“想求知，就到中国去”" data-date="11-01 19:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-01 19:05</span>
-          <span class="news-item-title">印尼学子青睐赴华留学：“想求知，就到中国去”</span>
+          <span class="news-item-date">11-02 21:41</span>
+          <span class="news-item-title">市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约</span>
         </a>
   </div>
 </div>
@@ -574,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-02 16:30（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-03 01:19（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
