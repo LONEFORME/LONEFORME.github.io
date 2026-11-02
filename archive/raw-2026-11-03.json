@@ -1,5 +1,27 @@
 [
   {
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "title_zh": "网络主机Squarespace裁员19%",
+    "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "date": "2026-11-03",
+    "published_time": "03:25",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "该网站建设者表示，裁员是其组织更广泛重组的一部分。",
+    "published_dt_iso": "2026-11-03T03:25:59+08:00"
+  },
+  {
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "title_zh": "《纽约时报》和其他媒体起诉网络浏览器Brave涉嫌内容抓取",
+    "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "date": "2026-11-03",
+    "published_time": "03:19",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "《纽约时报》起诉以隐私为中心的网络浏览器公司Brave ，指控其抓取该网站受版权保护的内容，并将其非法分发给自己的客户，如Anthropic和Perplexity。",
+    "published_dt_iso": "2026-11-03T03:19:17+08:00"
+  },
+  {
     "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
     "title_zh": "42AI凭借$ 6250万和一个可以“预测人类行为”的世界模型脱颖而出",
     "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
@@ -66,26 +88,37 @@
     "published_dt_iso": "2026-11-02T05:55:23+08:00"
   },
   {
-    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-    "title_zh": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
-    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-    "date": "2026-11-02",
-    "published_time": "04:57",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
-    "published_dt_iso": "2026-11-02T04:57:58+08:00"
+    "title": "OpenAI considers rebranding data centers to 'AI compute campuses\" as data center backlash intensifies",
+    "title_zh": "OpenAI考虑将数据中心重塑为“AI计算园区” ，因为数据中心的反弹加剧",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue",
+    "date": "2026-11-03",
+    "published_time": "03:15",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "OpenAI预计人工智能将成为2028年总统大选的一个主要问题，并正在准备在美国中期选举后推动政策和公共关系。该公司还在其数据中心推广“人工智能计算园区”一词，因为它",
+    "published_dt_iso": "2026-11-03T03:15:31+08:00"
   },
   {
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "title_zh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
-    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "date": "2026-11-01",
-    "published_time": "05:41",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
-    "published_dt_iso": "2026-11-01T05:41:00+08:00"
+    "title": "Tachyum, developer of heavily-delayed universal Prodigy processor, voluntarily files for bankruptcy",
+    "title_zh": "延迟很久的通用Prodigy处理器的开发商Tachyum自愿申请破产",
+    "link": "https://www.tomshardware.com/pc-components/cpus/tachyum-developer-of-heavily-delayed-universal-prodigy-processor-voluntarily-files-for-bankruptcy-future-of-prodigy-ip-unknown-as-company-begins-bankruptcy-proceedings",
+    "date": "2026-11-03",
+    "published_time": "02:07",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Tachyum申请破产，布拉迪斯拉发法院提起破产程序。",
+    "published_dt_iso": "2026-11-03T02:07:21+08:00"
+  },
+  {
+    "title": "Putin demands Russian data centers supply capacity to the state in wake of Ukraine drone attacks",
+    "title_zh": "在乌克兰无人机袭击事件发生后，普京要求俄罗斯数据中心向该州提供产能",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/putin-demands-russian-data-centers-supply-capacity-to-the-state-in-wake-of-ukraine-drone-attacks-10-percent-capacity-must-be-available-for-state-it-infrastructure-with-24-hours-notice",
+    "date": "2026-11-03",
+    "published_time": "02:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "普京总统告诉俄罗斯非国有数据中心，他们必须将其总容量的10 ％留给该国自己的IT基础设施使用。",
+    "published_dt_iso": "2026-11-03T02:00:32+08:00"
   },
   {
     "title": "Creality K3 Review: It’s a Tool Changer, not a game changer",
@@ -99,8 +132,8 @@
     "published_dt_iso": "2026-11-03T00:40:58+08:00"
   },
   {
-    "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price — makers are already shifting to Pico/ESP32 for small projects, mini PCs for more ambitious tasks",
-    "title_zh": "16GB Raspberry Pi 5升至385 $ ，是其推出价格的三倍多—制造商已经转向Pico/ESP32用于小型项目，迷你PC用于更雄心勃勃的任务",
+    "title": "16GB Raspberry Pi 5 hiked to $385, more than triple its launch price",
+    "title_zh": "16GB Raspberry Pi 5飙升至385 $ ，是其发布价格的三倍多",
     "link": "https://www.tomshardware.com/raspberry-pi/16gb-raspberry-pi-5-hiked-to-usd385-more-than-triple-its-launch-price-makers-are-already-shifting-to-pico-esp32-for-small-projects-mini-pcs-for-more-ambitious-tasks",
     "date": "2026-11-03",
     "published_time": "00:17",
@@ -121,8 +154,8 @@
     "published_dt_iso": "2026-11-02T23:19:12+08:00"
   },
   {
-    "title": "Gamer's ASUS TUF monitor blocks bullet fired through wall during Call of Duty session — says 280Hz monitor is 'the best $280 I ever spent'",
-    "title_zh": "游戏玩家的华硕TUF显示器在使命召唤会议期间阻止子弹穿过墙壁—说280Hz显示器是“我花过的最好的280 $”",
+    "title": "Gamer's Asus TUF monitor blocks bullet fired through wall during Call of Duty session",
+    "title_zh": "游戏玩家的华硕TUF显示器在“使命召唤”会议期间阻止子弹穿过墙壁",
     "link": "https://www.tomshardware.com/monitors/gaming-monitors/gamers-asus-tuf-monitor-blocks-bullet-fired-through-wall-during-call-of-duty-session-says-280hz-monitor-is-the-best-usd280-i-ever-spent",
     "date": "2026-11-02",
     "published_time": "22:34",
@@ -130,17 +163,6 @@
     "feed_name": "Tom's Hardware(半导体)",
     "summary": "一位Reddit用户在玩《使命召唤》时，听到家外有枪声。到达卡组后，他们发现他们的监视器可能挽救了他们的生命。",
     "published_dt_iso": "2026-11-02T22:34:50+08:00"
-  },
-  {
-    "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
-    "title_zh": "NVIDIA BREV安全漏洞可能暴露了用于访问客户虚拟机的SSH密钥—调查发现跨越16天的未经授权的活动，但没有滥用的证据",
-    "link": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
-    "date": "2026-11-02",
-    "published_time": "22:00",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "在10月4日至10月20日期间检测到未经授权的活动后，英伟达正在调查涉及其Brev云开发平台的安全事件。事件可能暴露了用于访问客户虚拟机的SSH密钥。NVIDIA",
-    "published_dt_iso": "2026-11-02T22:00:00+08:00"
   },
   {
     "title": "Apple finally has a touchscreen MacBook. Why now?",
@@ -152,28 +174,6 @@
     "feed_name": "Tom's Hardware(半导体)",
     "summary": "Apple正在MacBook Pro中推出带有PROLED XDR显示屏的触摸屏笔记本电脑。这就是它在触摸屏笔记本电脑漫长时间线中的位置。",
     "published_dt_iso": "2026-11-02T22:00:00+08:00"
-  },
-  {
-    "title": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
-    "title_zh": "AI模型将32位RISC-V CPU直接编译为其权重，然后在其上运行厄运",
-    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
-    "date": "2026-11-02",
-    "published_time": "21:30",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "Qwenputer是股票Qwen 3.5 4B LLM与32位RISC-V CPU的实验性混合，编译并直接插入其权重。",
-    "published_dt_iso": "2026-11-02T21:30:00+08:00"
-  },
-  {
-    "title": "Google data center wins approval in Minnesota after protests delay council vote twice",
-    "title_zh": "在抗议活动两次推迟议会投票后，谷歌数据中心在明尼苏达州获得批准",
-    "link": "https://www.tomshardware.com/tech-industry/data-centers/google-data-center-wins-approval-in-minnesota-after-protests-delay-council-vote-twice-200-acre-project-moves-forward-despite-opposition-from-local-residents-tech-giant-scales-down-project-and-drops-usd80-million-tax-break-request",
-    "date": "2026-11-02",
-    "published_time": "21:00",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "谷歌提议的赫曼敦数据中心在10月30日市议会一致支持该项目后，已经清除了一个重大批准障碍。",
-    "published_dt_iso": "2026-11-02T21:00:00+08:00"
   },
   {
     "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
@@ -264,92 +264,92 @@
     "published_dt_iso": "2026-10-20T20:33:13+08:00"
   },
   {
-    "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-    "title_zh": "苹果的“Ultra”智能家居机器人可能需要等到2028年",
-    "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+    "title": "Meta will end Quest 2 OS updates in 2027",
+    "title_zh": "Meta将于2027年结束Quest 2操作系统更新",
+    "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
     "date": "2026-11-03",
-    "published_time": "01:06",
+    "published_time": "05:04",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "据The Information报道，据报道，苹果公司已将其传闻中的智能家居机器人推迟到明年最早推出，甚至可能推迟到2028年。它说机器人的硬件“已经完成了大约两年” ，但软件",
-    "published_dt_iso": "2026-11-03T01:06:10+08:00"
+    "summary": "该公司今天宣布， Meta计划在2027年3月之前发布其Quest 2和Quest Pro VR头显的最新操作系统更新。这些设备的最后一次操作系统更新计划是v213 ，之后， Meta将继续提供安全补丁",
+    "published_dt_iso": "2026-11-03T05:04:20+08:00"
   },
   {
-    "title": "Squarespace is laying off 19 percent of employees",
-    "title_zh": "Squarespace将裁员19%",
-    "link": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+    "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+    "title_zh": "谷歌的一个安卓合作伙伴将130万个机顶盒变成了僵尸网络",
+    "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
     "date": "2026-11-03",
-    "published_time": "00:50",
+    "published_time": "04:37",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "Squarespace发言人Jeff Seedman在给The Verge的一份声明中表示， Squarespace正在努力“简化”其运营，网站建设平台Squarespace正在裁员19%的员工。裁员将影响大约300个Squarespace的",
-    "published_dt_iso": "2026-11-03T00:50:47+08:00"
+    "summary": "谷歌表示，其Android制造合作伙伴之一在130万台设备中秘密构建了一个后门，并将它们变成了僵尸网络。该公司表示，它现在已经拆除了后门，并与中国深圳的制造商",
+    "published_dt_iso": "2026-11-03T04:37:49+08:00"
   },
   {
-    "title": "Why Peacock is making a huge bet on YouTube",
-    "title_zh": "为什么孔雀在YouTube上下了巨大的赌注",
-    "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+    "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+    "title_zh": "宝马将从2027年开始在城市驾驶员辅助下接管特斯拉的FSD",
+    "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
     "date": "2026-11-03",
-    "published_time": "00:00",
+    "published_time": "04:03",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "今天，我正在和Matt Strauss谈话，他现在是NBC环球媒体集团的主席。这是Matt第二次和我一起参加这个节目，自从他和我上次合作以来， NBCU的组织和结构发生了很大的变化。",
-    "published_dt_iso": "2026-11-03T00:00:00+08:00"
+    "summary": "宝马表示，它将从2027年开始将其导航引导的部分自动驾驶功能扩展到城市环境，首先在德国推出，随后在其他市场推出。新系统可以帮助驾驶、加速和减慢",
+    "published_dt_iso": "2026-11-03T04:03:52+08:00"
   },
   {
-    "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
-    "title_zh": "Vivo的首款Pro Max手机证明其Ultra仍处于自己的联赛中",
-    "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
-    "date": "2026-11-02",
-    "published_time": "23:15",
+    "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+    "title_zh": "Apple Watch Ultra 4的折扣为$ 100 ，与迄今为止的最优惠价格相匹配",
+    "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+    "date": "2026-11-03",
+    "published_time": "03:24",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "今年春天，当我宣布Vivo的X300 Ultra拥有任何手机中最好的相机时，有两件事让我印象深刻：其出色的主相机具有窄35毫米焦距，以及在任何手机世界中仍然是最强大的超宽",
-    "published_dt_iso": "2026-11-02T23:15:00+08:00"
+    "summary": "Apple Watch Ultra 4是该公司功能最强大的智能手表。无论您是打算测试其众多跟踪功能，还是只是想要任何Apple Watch中最长的电池寿命，它目前以699.99美元（折扣100美元）的价格在",
+    "published_dt_iso": "2026-11-03T03:24:09+08:00"
   },
   {
-    "title": "Could data center backlash flip Florida?",
-    "title_zh": "数据中心的反弹会翻转佛罗里达州吗？",
-    "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
-    "date": "2026-11-02",
-    "published_time": "23:05",
+    "title": "Ford promises not to sell your driving habits to data brokers",
+    "title_zh": "福特承诺不会将您的驾驶习惯出售给数据经纪人",
+    "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+    "date": "2026-11-03",
+    "published_time": "03:05",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "终身共和党人帕蒂·齐胡特（ Patti Zirhut ）几周来一直在研究她的选票。Zirhut在2016年， 2020年和2024年热切地投票支持唐纳德·特朗普总统，但她今年没有遵守党的路线。“我的选票搞混了，”她说。她在投票f",
-    "published_dt_iso": "2026-11-02T23:05:00+08:00"
+    "summary": "福特发誓永远不会将客户驾驶数据出售给第三方数据经纪人，这是一项新的隐私承诺的一部分，该承诺旨在使该汽车制造商与竞争对手区分开来，这些竞争对手在与数据经纪人共享远程信息处理方面面临法律和监管方面的回击。",
+    "published_dt_iso": "2026-11-03T03:05:46+08:00"
   },
   {
-    "title": "YouTuber Druski is going to make exclusive content for Netflix",
-    "title_zh": "YouTuber Druski将为Netflix制作独家内容",
-    "link": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
-    "date": "2026-11-02",
-    "published_time": "23:00",
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "title_zh": "Anthropic压制Claude的人工智能视频游戏克隆",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "date": "2026-11-03",
+    "published_time": "02:56",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "Netflix今天宣布与YouTube用户、喜剧演员和网红Druski达成一项为期多年的协议，他将为流媒体服务“独家”创建原创内容。该公告是Netflix将创作者带入PLA的最新努力",
-    "published_dt_iso": "2026-11-02T23:00:00+08:00"
+    "summary": "据Tom's Hardware报道， Anthropic已更新Claude Code的系统提示，以防止人工智能工具被用于重新创建现有视频游戏。复古游戏目前正被人工智能制作的反编译、重新编译和端口所淹没，",
+    "published_dt_iso": "2026-11-03T02:56:02+08:00"
   },
   {
-    "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
-    "title_zh": "16GB Raspberry Pi 5的RAM价格再次“不可避免”上涨",
-    "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
-    "date": "2026-11-02",
-    "published_time": "22:07",
+    "title": "Xbox’s former COO has ‘serious concerns’ about her abrupt departure",
+    "title_zh": "Xbox前首席运营官对她的突然离职表示“严重关切”",
+    "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+    "date": "2026-11-03",
+    "published_time": "02:43",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "Raspberry Pi 5配备16GB RAM ，在价格上涨80美元后，现在售价为385美元，这是由于RAM持续短缺而导致的一系列增长中的最新一次。这种配置的推出价格为120美元，现在的价格是这个价格的三倍多。16GB版本的TH",
-    "published_dt_iso": "2026-11-02T22:07:22+08:00"
+    "summary": "Xbox的前首席运营官Helen Chiang在7月份被提升为该职位后不到两周就突然离开了微软。我上周在我的记事本通讯中写道，蒋介石突然离开Micros似乎很奇怪",
+    "published_dt_iso": "2026-11-03T02:43:24+08:00"
   },
   {
-    "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
-    "title_zh": "SpaceX可能会收购Boost Mobile ，作为其大型移动运营商计划的一部分",
-    "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
-    "date": "2026-11-02",
-    "published_time": "22:05",
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "title_zh": "OpenAI将数据中心发电厂作为保护附近地区的一种方式",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "date": "2026-11-03",
+    "published_time": "02:01",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "根据《华盛顿邮报》的一份报告， SpaceX已经与Boost Mobile讨论了通过预算友好的运营商推出自己的服务的协议。这笔交易是在SpaceX旨在使Starlink成为“主要”移动运营商之际达成的，据报道，",
-    "published_dt_iso": "2026-11-02T22:05:34+08:00"
+    "summary": "在周一的公告中， OpenAI表示将在佐治亚州埃芬汉县即将到来的数据中心试点其“电网保护器计划” ，该公司承诺在极端天气或紧急情况下释放高达1,000兆瓦的电力，",
+    "published_dt_iso": "2026-11-03T02:01:30+08:00"
   },
   {
     "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
@@ -440,6 +440,17 @@
     "published_dt_iso": "2026-11-01T21:09:55+08:00"
   },
   {
+    "title": "安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/021/282.htm",
+    "date": "2026-11-03",
+    "published_time": "05:20",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 11 月 3 日消息，安森美今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入：48.39 亿美元（IT之家注：现汇率约合 322.33 亿元人民币），同比增长 8.37% 毛利润：19.12 亿美元（现汇率约合 127.38 亿元人民币），同比增长 33.46% 毛利率：39.5%，同比增长 7.4 个百分点 归母净利润：5.07 亿美元（现汇率约合 33.79 亿元人民币），同比扭亏为盈 经营现金流：12.15 亿美元（现汇率约合 80.94 亿元人民币） 自由现金流：11.31 亿美元（现汇率约合 7",
+    "published_dt_iso": "2026-11-03T05:20:28+08:00"
+  },
+  {
     "title": "消息称 HomeView Ultra 硬件已定型两年，但苹果内部仍存在“分歧”",
     "title_zh": "",
     "link": "https://www.ithome.com/1/021/280.htm",
@@ -515,17 +526,6 @@
     "feed_name": "IT之家(数码芯片)",
     "summary": "IT之家 11 月 2 日消息，联想旗下 LOQ 25-10 显示器现已在京东上架，该机采用 24.5\" 防眩光 IPS WLED 面板，支持 FHD (1920×1080) 分辨率、280Hz 刷新率，定价为 599 元。LOQ 25-10 亮度典型值 300nits，静态对比度典型值 1100:1；GtG 响应时间 1ms、MPRT 响应时间 0.5ms；色深 8bit+FRC，色域 99% sRGB。其提供 2 个 HDMI 2.1 (TMDS)、1 个 DisplayPort 1.4 (HBR2)；支持 VRR 可变刷新率；原装支架允许俯仰调节，兼容 100×100 (mm) 的 VESA 壁挂标准。京东联想 LOQ 25-10 显示器 599 元直达链接京东 11.11 无门槛红包",
     "published_dt_iso": "2026-11-02T21:45:05+08:00"
-  },
-  {
-    "title": "市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约",
-    "title_zh": "",
-    "link": "https://www.ithome.com/1/021/272.htm",
-    "date": "2026-11-02",
-    "published_time": "21:41",
-    "source": "IT之家",
-    "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 11 月 2 日消息，据市场监管总局，10 月 28 日，全国网络销售重点工业产品合规提质现场活动在浙江省平湖市举办。此次活动以“学新规明准则守安全提品质”为主题，旨在宣贯《网络销售重点工业产品质量安全监督管理规定》，督促电子商务经营者增强合规意识，落实网络销售重点工业产品质量安全义务，提升网售产品质量安全水平。公告称，加强网售工业产品质量安全治理，是守护人民群众线上消费安全的重要举措，也是推动平台经济健康发展的必然要求。活动现场对各电子商务经营者发出倡议，要守牢合规经营“硬底线”，当好质量安全“守门人”，吃透《网络销售重点工业产品质量安全监督管理规定》各项要求，加快内部质量管理制度建设，切实扛起质量安全主体责任。IT之家注意到，活动现场，淘天、京东、拼多多、小红书、抖音、快手、苏",
-    "published_dt_iso": "2026-11-02T21:41:33+08:00"
   },
   {
     "title": "I'll tell my players to dive in future",
@@ -616,92 +616,92 @@
     "published_dt_iso": "2026-11-01T07:52:28+08:00"
   },
   {
-    "title": "Canelo could have ‘influenced’ referee, says Mbilli’s team",
-    "title_zh": "Mbilli的团队表示， Canelo本可以“影响”裁判",
-    "link": "https://www.skysports.com/boxing/news/12040/13606955/canelo-alvarez-could-have-influenced-referee-in-christian-mbilli-fight-says-promoter-camille-estephan",
+    "title": "Aston Villa latest: McGinn keen to make Nou Camp visit a regular occurrence",
+    "title_zh": "阿斯顿维拉最新消息：麦金热衷于让诺坎普之旅成为常态",
+    "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
     "date": "2026-11-03",
-    "published_time": "01:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "卡内洛·阿尔瓦雷斯（ Canelo Alvarez ）本可以“影响”裁判，在他们的世界冠军争夺战中从克里斯蒂安·姆比利（ Christian Mbilli ）身上拿下一分， Mbilli的发起人卡米尔·埃斯特凡（",
-    "published_dt_iso": "2026-11-03T01:00:00+08:00"
-  },
-  {
-    "title": "Sherrock 'should not have been selected to play' for Beat Luke Littler show",
-    "title_zh": "Sherrock “不应该被选中参加” Beat Luke Littler节目",
-    "link": "https://www.skysports.com/darts/news/12040/13607004/beat-luke-littler-fallon-sherrock-should-not-have-been-selected-to-play-in-netflix-show-but-you-cant-blame-queen-of-the-palace",
-    "date": "2026-11-02",
-    "published_time": "23:45",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "天空体育专家马克·韦伯斯特（ Mark Webster ）表示，法伦·谢罗克（ Fallon Sherrock ） “不应该被选中”为Netflix的“击败卢克·利特勒” （ Beat Luke Littler ）效力，她赢得了£ 501,000的奖金。",
-    "published_dt_iso": "2026-11-02T23:45:00+08:00"
-  },
-  {
-    "title": "Euro latest: Gordon thriving under different pressure at Barca but says best yet to come",
-    "title_zh": "欧元最新消息：戈登在巴萨在不同压力下茁壮成长，但表示最好的还未到来",
-    "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-    "date": "2026-11-02",
-    "published_time": "21:45",
+    "published_time": "04:40",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
     "summary": "",
-    "published_dt_iso": "2026-11-02T21:45:00+08:00"
+    "published_dt_iso": "2026-11-03T04:40:00+08:00"
   },
   {
-    "title": "What does Djokovic need to do to qualify for ATP Finals in Turin?",
-    "title_zh": "德约科维奇需要做些什么才能有资格参加都灵的ATP总决赛？",
-    "link": "https://www.skysports.com/tennis/news/12040/13605706/novak-djokovic-after-shock-defeat-in-basel-former-world-no-1-heads-to-paris-masters-in-race-to-make-atp-finals-in-turin",
-    "date": "2026-11-01",
-    "published_time": "22:20",
+    "title": "Russell posts statement to 'speak from the heart'",
+    "title_zh": "罗素发表声明“发自内心地说话”",
+    "link": "https://www.skysports.com/f1/news/12040/13607266/george-russell-mercedes-driver-posts-statement-to-speak-from-the-heart-after-kimi-antonelli-becomes-world-champion-at-mexico-city-grand-prix",
+    "date": "2026-11-03",
+    "published_time": "04:05",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "诺瓦克·德约科维奇（ Novak Djokovic ）在巴塞尔的瑞士室内赛（ Swiss Indoors ）输给扬·伦纳德·斯特拉夫（ Jan-Lennard Struff ）后，错过了一个加强他在年终ATP总决赛中获得一席之地的大好机会。",
-    "published_dt_iso": "2026-11-01T22:20:00+08:00"
+    "summary": "乔治·拉塞尔（ George Russell ）在他的梅赛德斯队友基米·安东内利（ Kimi Antonelli ）周日获得F1车手锦标赛冠军后，在社交媒体上发表了一份声明， “发自内心地说话",
+    "published_dt_iso": "2026-11-03T04:05:00+08:00"
   },
   {
-    "title": "Former Wimbledon champion Bartoli pushing Dart 'beyond her limits'",
-    "title_zh": "前温布尔登网球公开赛冠军巴托利推动飞镖“超越极限”",
-    "link": "https://www.skysports.com/tennis/news/12040/13607007/harriet-dart-former-wimbledon-champion-marion-bartoli-on-pushing-brit-beyond-her-limits-after-maiden-wta-title",
-    "date": "2026-11-02",
-    "published_time": "20:48",
+    "title": "Australia's Maxwell announces retirement from international cricket",
+    "title_zh": "澳大利亚选手麦克斯韦宣布退出国际板球比赛",
+    "link": "https://www.skysports.com/cricket/news/12040/13607259/australias-glenn-maxwell-announces-retirement-from-international-cricket",
+    "date": "2026-11-03",
+    "published_time": "03:50",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "前温布尔登网球公开赛冠军和天空体育分析师马里昂·巴托利（ Marion Bartoli ）承认，这位英国人周末在中国广州公开赛上赢得了她的第一个WTA冠军，推动哈丽特·达特（ Harriet Dart ） “超越了她的极限”。",
-    "published_dt_iso": "2026-11-02T20:48:00+08:00"
+    "summary": "澳大利亚全能选手格伦·麦克斯韦（ Glenn Maxwell ）宣布退出国际板球比赛，但将继续在Big Bash联赛中为墨尔本明星队效力T20。",
+    "published_dt_iso": "2026-11-03T03:50:00+08:00"
   },
   {
-    "title": "Forest hierarchy welcome Glasner's strong words after Brentford loss",
-    "title_zh": "森林等级制度欢迎格拉斯纳在布伦特福德失利后的强硬言论",
-    "link": "https://www.skysports.com/football/news/12040/13607133/oliver-glasner-nottingham-forest-hierarchy-welcome-strong-reaction-from-head-coach-after-brentford-defeat",
-    "date": "2026-11-02",
-    "published_time": "22:45",
+    "title": "Man City latest: Allan eyes City breakthrough after earning first Brazil call",
+    "title_zh": "曼城最新消息： Allan在赢得首个巴西通话后关注城市突破",
+    "link": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "date": "2026-11-03",
+    "published_time": "03:15",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "天空体育新闻了解到，奥利弗·格拉斯纳（ Oliver Glasner ）对他的团队的强硬言论受到了诺丁汉森林体系中许多人的欢迎。",
-    "published_dt_iso": "2026-11-02T22:45:00+08:00"
+    "summary": "",
+    "published_dt_iso": "2026-11-03T03:15:00+08:00"
   },
   {
-    "title": "How Mercedes can win Constructors' Championship this Sunday",
-    "title_zh": "梅赛德斯本周日如何赢得车队总冠军",
-    "link": "https://www.skysports.com/f1/news/12040/13607118/how-mercedes-can-win-2026-f1-constructors-championship-at-sao-paulo-grand-prix-this-sunday-with-kimi-antonelli-and-george-russell",
-    "date": "2026-11-02",
-    "published_time": "23:05",
+    "title": "Newcastle come close to equalising after Barry's opener for Everton LIVE!",
+    "title_zh": "在巴里为埃弗顿现场直播揭幕战之后，纽卡斯尔接近扳平比分！",
+    "link": "https://www.skysports.com/football/newcastle-united-vs-everton/live/559532",
+    "date": "2026-11-03",
+    "published_time": "02:30",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "在基米·安东内利（ Kimi Antonelli ）成为F1最年轻的世界冠军的几天后，梅赛德斯本周末有机会在巴西赢得车队总冠军。",
-    "published_dt_iso": "2026-11-02T23:05:00+08:00"
+    "summary": "",
+    "published_dt_iso": "2026-11-03T02:30:00+08:00"
   },
   {
-    "title": "Jake Paul confirms opponent for Christmas Eve fight",
-    "title_zh": "杰克·保罗确认圣诞节前夕对手",
-    "link": "https://www.skysports.com/boxing/news/12040/13606969/jake-paul-to-fight-kickboxing-champion-cedric-doumbe-on-christmas-eve-as-youtubers-opponent-is-revealed",
-    "date": "2026-11-02",
-    "published_time": "20:00",
+    "title": "Edwards: Borthwick turned down my offer to work with England",
+    "title_zh": "Edwards ： Borthwick拒绝了我与英格兰合作的提议",
+    "link": "https://www.skysports.com/rugby-union/news/12040/13607223/england-rugby-shaun-edwards-says-steve-borthwick-turned-down-his-offer-to-work-with-side-at-2027-world-cup",
+    "date": "2026-11-03",
+    "published_time": "02:00",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "杰克·保罗（ Jake Paul ）已确认跆拳道冠军塞德里克·杜姆（ Cedric Doumbe ）为圣诞节前夕重返迪拜拳击场的对手。",
-    "published_dt_iso": "2026-11-02T20:00:00+08:00"
+    "summary": "着名的防守教练肖恩·爱德华兹说，英格兰老板史蒂夫·博思维克拒绝了他在2027年澳大利亚橄榄球世界杯上与球队合作的提议。",
+    "published_dt_iso": "2026-11-03T02:00:00+08:00"
+  },
+  {
+    "title": "England to host South Africa live on Sky Sports in Netball World Cup prep",
+    "title_zh": "英格兰将在篮网球世界杯准备中在天空体育现场直播南非",
+    "link": "https://www.skysports.com/netball/news/12040/13607188/england-to-host-south-africa-in-three-test-netball-series-live-on-sky-sports-in-february-as-world-cup-preparation",
+    "date": "2026-11-03",
+    "published_time": "02:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "英格兰的Vitality Roses将于2月举办三场无挡板篮球系列赛，所有比赛均在天空体育上直播。",
+    "published_dt_iso": "2026-11-03T02:00:00+08:00"
+  },
+  {
+    "title": "Forest latest: 'Glasner hasn't fully been himself,' says Carragher",
+    "title_zh": "Forest latest ： Carragher说： “Glasner还没有完全做他自己。”",
+    "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "date": "2026-11-03",
+    "published_time": "01:42",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-03T01:42:00+08:00"
   },
   {
     "title": "Everton latest: Grealish not in squad for Newcastle trip",
@@ -713,17 +713,6 @@
     "feed_name": "天空体育(英超)",
     "summary": "",
     "published_dt_iso": "2026-10-30T07:00:00+08:00"
-  },
-  {
-    "title": "PL Predictions: Can Everton beat unconvincing Newcastle?",
-    "title_zh": "PL预测：埃弗顿能否击败没有说服力的纽卡斯尔？",
-    "link": "https://www.skysports.com/football/news/11661/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
-    "date": "2026-11-02",
-    "published_time": "02:15",
-    "source": "天空体育",
-    "feed_name": "天空体育(英超)",
-    "summary": "我们的顶级提示者刘易斯·琼斯（ Lewis Jones ） ，又名琼斯知道（ Jones Knows ） ，为有趣的周一晚上足球提供了他的分析和投注见解。",
-    "published_dt_iso": "2026-11-02T02:15:00+08:00"
   },
   {
     "title": "Man Utd latest: Carrick dismisses two-game job fears and backs Martinez",
@@ -759,17 +748,6 @@
     "published_dt_iso": "2026-11-02T00:45:00+08:00"
   },
   {
-    "title": "Why Man Utd fans continue to stick by Carrick",
-    "title_zh": "为什么曼联球迷继续坚持卡里克",
-    "link": "https://www.skysports.com/football/news/11661/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout",
-    "date": "2026-11-02",
-    "published_time": "01:30",
-    "source": "天空体育",
-    "feed_name": "天空体育(英超)",
-    "summary": "上次曼联赢得联赛冠军时，学校在夏季关闭，转会窗口仍然开放。",
-    "published_dt_iso": "2026-11-02T01:30:00+08:00"
-  },
-  {
     "title": "Ref Watch: Isak denied 'nailed on' penalty, Mac Allister slammed for theatrics",
     "title_zh": "Ref Watch ： Isak否认“定罪”处罚， Mac Allister猛烈抨击戏剧表演",
     "link": "https://www.skysports.com/football/live-blog/11661/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions",
@@ -792,15 +770,48 @@
     "published_dt_iso": "2026-11-02T22:45:00+08:00"
   },
   {
-    "title": "Premier League: 10 talking points from the weekend’s action",
-    "title_zh": "英超联赛：周末行动的10个谈话要点",
-    "link": "https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action",
-    "date": "2026-11-02",
-    "published_time": "16:00",
+    "title": "Forest latest: 'Glasner hasn't fully been himself,' says Carragher",
+    "title_zh": "Forest latest ： Carragher说： “Glasner还没有完全做他自己。”",
+    "link": "https://www.skysports.com/football/live-blog/11661/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "date": "2026-11-03",
+    "published_time": "01:42",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "",
+    "published_dt_iso": "2026-11-03T01:42:00+08:00"
+  },
+  {
+    "title": "Newcastle United v Everton: Premier League",
+    "title_zh": "纽卡斯尔联队v埃弗顿：英超联赛",
+    "link": "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
+    "date": "2026-11-03",
+    "published_time": "05:50",
     "source": "卫报",
     "feed_name": "卫报(英超深度)",
-    "summary": "Marco Rose的战术提升了伯恩茅斯， Roméo Lavia在切尔西取得了进步， Roberto De Zerbi为年轻人提供了马刺的机会。良好的防守是冠军的标志。在安菲尔德，阿森纳在过去的13次访问中没有获胜， Mikel Arteta",
-    "published_dt_iso": "2026-11-02T16:00:35+08:00"
+    "summary": "英超联赛格林威治标准时间晚上8点开球的最新消息直播比分|阅读今天的足球日报|电子邮件DanielJaissle告诉Sky Elanga身体状况正在改善，应该从今天开始；他希望他和Osula展示他们的潜力，两人都有",
+    "published_dt_iso": "2026-11-03T05:50:09+08:00"
+  },
+  {
+    "title": "Premier League top scorers 2026-27: who is leading race for the golden boot?",
+    "title_zh": "2026-27赛季英超联赛最佳射手：谁是金靴赛的领跑者？",
+    "link": "https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot",
+    "date": "2026-11-03",
+    "published_time": "05:12",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "找出哪位英国顶尖射手正在向进球排行榜射击。继续阅读……",
+    "published_dt_iso": "2026-11-03T05:12:37+08:00"
+  },
+  {
+    "title": "Andy Madley and VAR should take credit – they got major Anfield calls right | Chris Foy",
+    "title_zh": "Andy Madley和VAR应该得到赞扬–他们接到了安菲尔德的重要电话| Chris Foy",
+    "link": "https://www.theguardian.com/football/2026/nov/02/andy-madley-var-major-anfield-calls-right-arsenal-premier-league",
+    "date": "2026-11-03",
+    "published_time": "03:15",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Timber对Isak的衬衫拉扯不是审查的处罚， Madueke与Mac Allister的冲突显然不是暴力行为有一起事件让每个人都在周末说话，那就是不判利物浦处罚的决定",
+    "published_dt_iso": "2026-11-03T03:15:12+08:00"
   },
   {
     "title": "Arsenal have everything they need to repeat as Premier League champions | Jonathan Wilson",
@@ -812,6 +823,28 @@
     "feed_name": "卫报(英超深度)",
     "summary": "周日在利物浦的胜利表明，枪手更深入，更有经验，并且与比上赛季更弱的竞争者对抗。在此处注册我们的免费通讯阿森纳在英超联赛排行榜上占据三分。",
     "published_dt_iso": "2026-11-02T23:47:19+08:00"
+  },
+  {
+    "title": "‘We had to dig in’: Arsenal’s Anfield win was performance of champions, says Rice",
+    "title_zh": "“我们必须深入挖掘” ：赖斯说，阿森纳在安菲尔德的胜利是冠军的表现",
+    "link": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-declan-rice-champions",
+    "date": "2026-11-02",
+    "published_time": "22:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "中场球员称赞他的球队的勇气和决心佐博什莱说，球队之间有很好的利润德克兰·赖斯说，阿森纳已经准备好迎接更多的胜利，因为他称赞周日在利物浦1-0的成功是冠军的表现。",
+    "published_dt_iso": "2026-11-02T22:00:44+08:00"
+  },
+  {
+    "title": "Premier League: 10 talking points from the weekend’s action",
+    "title_zh": "英超联赛：周末行动的10个谈话要点",
+    "link": "https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action",
+    "date": "2026-11-02",
+    "published_time": "16:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "Marco Rose的战术提升了伯恩茅斯， Roméo Lavia在切尔西取得了进步， Roberto De Zerbi为年轻人提供了马刺的机会。良好的防守是冠军的标志。在安菲尔德，阿森纳在过去的13次访问中没有获胜， Mikel Arteta",
+    "published_dt_iso": "2026-11-02T16:00:35+08:00"
   },
   {
     "title": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
@@ -834,50 +867,6 @@
     "feed_name": "卫报(英超深度)",
     "summary": "Kai Havertz的目标足以让阿森纳自2012年9月以来首次在安菲尔德取得胜利，并让他们在积分榜上获得三分。那么比赛在哪里？当阿森纳拿到球时，利物浦将寻求让球员绕过球，",
     "published_dt_iso": "2026-11-02T02:55:34+08:00"
-  },
-  {
-    "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
-    "title_zh": "阿森纳自2012年以来首次在利物浦赢得联赛冠军，此前凯·哈弗兹（ Kai Havertz ）提前扑向利物浦",
-    "link": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
-    "date": "2026-11-02",
-    "published_time": "02:44",
-    "source": "卫报",
-    "feed_name": "卫报(英超深度)",
-    "summary": "这是一场比赛，阿森纳展示了他们无情的一面，以及他们在上赛季积累的所有冠军知识。他们发表声明后返回伦敦。不管曼城发生了什么",
-    "published_dt_iso": "2026-11-02T02:44:48+08:00"
-  },
-  {
-    "title": "Should Premier League strugglers stick or twist as pressure on managers mounts?  | Andrew Beasley",
-    "title_zh": "随着经理的压力越来越大，英超联赛的挣扎者应该坚持还是扭曲？ |安德鲁·比斯利",
-    "link": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-manchester-united-favourite-premier-league-sack-race",
-    "date": "2026-11-02",
-    "published_time": "02:00",
-    "source": "卫报",
-    "feed_name": "卫报(英超深度)",
-    "summary": "不同寻常的是，顶级联赛中的所有俱乐部都有同一位经理，他们本赛季的开局经理是同一个人–但第一次解雇可能并不遥远本赛季还没有英超经理丢掉工作。在过去的10次活动中，只有三次是11月份的",
-    "published_dt_iso": "2026-11-02T02:00:30+08:00"
-  },
-  {
-    "title": "Carrick to stay in charge for Roma game; Challinor in at Sheffield Wednesday; Liverpool v Arsenal buildup",
-    "title_zh": "卡里克将继续负责罗马比赛;周三在谢菲尔德的Challinor;利物浦对阿森纳的积累",
-    "link": "https://www.theguardian.com/football/live/2026/nov/01/carrick-defiant-after-latest-defeat-liverpool-v-arsenal-buildup-wsl-and-more-matchday-live",
-    "date": "2026-11-01",
-    "published_time": "20:03",
-    "source": "卫报",
-    "feed_name": "卫报(英超深度)",
-    "summary": "为周日的比赛做准备，利物浦在英超联赛中主办阿森纳之前获得了一份丰厚的WSL比赛名单至少可以说，诺丁汉森林的奥利弗·格拉斯纳（ Oliver Glasner ）表现不佳。“对我来说，我回家和家人一起吃早餐，所以",
-    "published_dt_iso": "2026-11-01T20:03:06+08:00"
-  },
-  {
-    "title": "Premier League today: How to watch, TV channels & live stream",
-    "title_zh": "今日英超联赛：如何观看、收看电视频道和直播",
-    "link": "https://www.theguardian.com/football/2026/nov/01/how-to-watch-premier-league-liverpool-arsenal",
-    "date": "2026-11-01",
-    "published_time": "19:30",
-    "source": "卫报",
-    "feed_name": "卫报(英超深度)",
-    "summary": "利物浦和阿森纳今天的表现如何？以下是需要了解的内容，包括开球时间、电视频道和直播选项连续五场胜利，包括周三的卡拉宝杯点球大战战胜切尔西，给人的印象是安东尼",
-    "published_dt_iso": "2026-11-01T19:30:10+08:00"
   },
   {
     "title": "李干杰受中共中央委托向党外人士通报中共二十届五中全会精神",
@@ -1320,6 +1309,402 @@
     "published_dt_iso": "2026-10-22T08:21:18+08:00"
   },
   {
+    "title": "Trump’s Immigration Crackdown Backlash Poses Challenge for Republicans in the Midterms",
+    "title_zh": "特朗普的移民镇压在中期选举中对共和党人构成挑战",
+    "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-immigration-crackdown-backlash-republicans.html",
+    "date": "2026-11-03",
+    "published_time": "04:29",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普总统承诺结束南部边境的混乱局面。但致命的ICE枪击事件和高调的袭击动摇了许多选民。",
+    "published_dt_iso": "2026-11-03T04:29:52+08:00"
+  },
+  {
+    "title": "Trump Is Playing Up Voter Fraud Prosecutions. Meet Some of the Accused.",
+    "title_zh": "特朗普正在提起选民欺诈起诉。与部分被举报人见面。",
+    "link": "https://www.nytimes.com/2026/11/02/us/politics/noncitizen-voters-green-cards.html",
+    "date": "2026-11-03",
+    "published_time": "04:23",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "特朗普政府发起了识别和起诉与投票违规行为有关的移民的运动，导致人们担心被监禁或驱逐出境。",
+    "published_dt_iso": "2026-11-03T04:23:17+08:00"
+  },
+  {
+    "title": "CISA Retreats From Election Security Ahead of Midterms",
+    "title_zh": "CISA在中期选举之前退出选举安全措施",
+    "link": "https://www.nytimes.com/2026/11/02/us/politics/cisa-election-security-midterms.html",
+    "date": "2026-11-03",
+    "published_time": "04:07",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "保护投票曾经被认为是网络安全和基础设施安全局的首要任务之一。现在它几乎没有提到这个问题。",
+    "published_dt_iso": "2026-11-03T04:07:28+08:00"
+  },
+  {
+    "title": "Trump Administration Asks Supreme Court to Intervene in California Ballot Case",
+    "title_zh": "特朗普政府要求最高法院介入加州选票案",
+    "link": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+    "date": "2026-11-03",
+    "published_time": "02:35",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "在一份紧急申请中，政府律师要求法官立即命令加利福尼亚州留出2万张邮寄选票。",
+    "published_dt_iso": "2026-11-03T02:35:37+08:00"
+  },
+  {
+    "title": "They Tried Kratom for Its Purported Health Benefits, Then They Became Addicted",
+    "title_zh": "他们尝试了Kratom所谓的健康益处，然后他们上瘾了",
+    "link": "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html",
+    "date": "2026-11-03",
+    "published_time": "02:42",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "有些人说，他们是通过健康播客、健身房的免费样品或健身影响者来介绍这种药物的。",
+    "published_dt_iso": "2026-11-03T02:42:22+08:00"
+  },
+  {
+    "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+    "title_zh": "作为美国协议的一部分，伊朗表示将在两天内重新开放霍尔木兹海峡",
+    "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+    "date": "2026-11-03",
+    "published_time": "04:25",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "伊朗官员谈到了在重新开放海峡的谈判中取得的一些进展，尽管他们正在为全面战争做准备。卡塔尔代表团周一抵达德黑兰，与外交部长会面，继续会谈。",
+    "published_dt_iso": "2026-11-03T04:25:33+08:00"
+  },
+  {
+    "title": "The Streaming Era Has Given Us Great TV, but It Comes at a Price",
+    "title_zh": "流媒体时代给我们带来了很棒的电视，但代价不菲",
+    "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
+    "date": "2026-11-03",
+    "published_time": "05:17",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "流媒体时代为观众提供了许多精彩的观看内容。但这是有代价的。",
+    "published_dt_iso": "2026-11-03T05:17:10+08:00"
+  },
+  {
+    "title": "How Much Do You Pay for TV Streaming Services? We Want to Know.",
+    "title_zh": "您为电视流媒体服务支付多少钱？我们想知道。",
+    "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-costs-readers.html",
+    "date": "2026-11-02",
+    "published_time": "22:05",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "请告诉我们您对流媒体电视费用的看法。",
+    "published_dt_iso": "2026-11-02T22:05:51+08:00"
+  },
+  {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "title_zh": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "date": "2026-11-02",
+    "published_time": "04:57",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
+    "published_dt_iso": "2026-11-02T04:57:58+08:00"
+  },
+  {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "title_zh": "苹果首席执行官表示，该公司“不想为人工智能出货”",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "date": "2026-11-01",
+    "published_time": "05:41",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
+    "published_dt_iso": "2026-11-01T05:41:00+08:00"
+  },
+  {
+    "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
+    "title_zh": "NVIDIA BREV安全漏洞可能暴露了用于访问客户虚拟机的SSH密钥—调查发现跨越16天的未经授权的活动，但没有滥用的证据",
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
+    "date": "2026-11-02",
+    "published_time": "22:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在10月4日至10月20日期间检测到未经授权的活动后，英伟达正在调查涉及其Brev云开发平台的安全事件。事件可能暴露了用于访问客户虚拟机的SSH密钥。NVIDIA",
+    "published_dt_iso": "2026-11-02T22:00:00+08:00"
+  },
+  {
+    "title": "AI model gets a 32-bit RISC-V CPU compiled directly into its weights, then runs DOOM on it",
+    "title_zh": "AI模型将32位RISC-V CPU直接编译为其权重，然后在其上运行厄运",
+    "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-engineer-successfully-compiles-a-32-bit-risc-v-cpu-in-qwen-3-5-4b-llm-inserted-directly-into-its-weights-built-in-cpu-can-run-processor-arithmetic-operations-code-and-of-course-doom",
+    "date": "2026-11-02",
+    "published_time": "21:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Qwenputer是股票Qwen 3.5 4B LLM与32位RISC-V CPU的实验性混合，编译并直接插入其权重。",
+    "published_dt_iso": "2026-11-02T21:30:00+08:00"
+  },
+  {
+    "title": "Google data center wins approval in Minnesota after protests delay council vote twice",
+    "title_zh": "在抗议活动两次推迟议会投票后，谷歌数据中心在明尼苏达州获得批准",
+    "link": "https://www.tomshardware.com/tech-industry/data-centers/google-data-center-wins-approval-in-minnesota-after-protests-delay-council-vote-twice-200-acre-project-moves-forward-despite-opposition-from-local-residents-tech-giant-scales-down-project-and-drops-usd80-million-tax-break-request",
+    "date": "2026-11-02",
+    "published_time": "21:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "谷歌提议的赫曼敦数据中心在10月30日市议会一致支持该项目后，已经清除了一个重大批准障碍。",
+    "published_dt_iso": "2026-11-02T21:00:00+08:00"
+  },
+  {
+    "title": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+    "title_zh": "苹果的“Ultra”智能家居机器人可能需要等到2028年",
+    "link": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+    "date": "2026-11-03",
+    "published_time": "01:06",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "据The Information报道，据报道，苹果公司已将其传闻中的智能家居机器人推迟到明年最早推出，甚至可能推迟到2028年。它说机器人的硬件“已经完成了大约两年” ，但软件",
+    "published_dt_iso": "2026-11-03T01:06:10+08:00"
+  },
+  {
+    "title": "Squarespace is laying off 19 percent of employees",
+    "title_zh": "Squarespace将裁员19%",
+    "link": "https://www.theverge.com/tech/1024447/squarespace-layoffs-19-percent",
+    "date": "2026-11-03",
+    "published_time": "00:50",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Squarespace发言人Jeff Seedman在给The Verge的一份声明中表示， Squarespace正在努力“简化”其运营，网站建设平台Squarespace正在裁员19%的员工。裁员将影响大约300个Squarespace的",
+    "published_dt_iso": "2026-11-03T00:50:47+08:00"
+  },
+  {
+    "title": "Why Peacock is making a huge bet on YouTube",
+    "title_zh": "为什么孔雀在YouTube上下了巨大的赌注",
+    "link": "https://www.theverge.com/podcast/1024228/matt-strauss-nbc-univerisal-versant-comcast-peacock-streaming-tv",
+    "date": "2026-11-03",
+    "published_time": "00:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今天，我正在和Matt Strauss谈话，他现在是NBC环球媒体集团的主席。这是Matt第二次和我一起参加这个节目，自从他和我上次合作以来， NBCU的组织和结构发生了很大的变化。",
+    "published_dt_iso": "2026-11-03T00:00:00+08:00"
+  },
+  {
+    "title": "Vivo’s first Pro Max phone proves its Ultra is still in a league of its own",
+    "title_zh": "Vivo的首款Pro Max手机证明其Ultra仍处于自己的联赛中",
+    "link": "https://www.theverge.com/tech/1023131/vivo-x500-pro-max-review-cameras-specs-price",
+    "date": "2026-11-02",
+    "published_time": "23:15",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今年春天，当我宣布Vivo的X300 Ultra拥有任何手机中最好的相机时，有两件事让我印象深刻：其出色的主相机具有窄35毫米焦距，以及在任何手机世界中仍然是最强大的超宽",
+    "published_dt_iso": "2026-11-02T23:15:00+08:00"
+  },
+  {
+    "title": "Could data center backlash flip Florida?",
+    "title_zh": "数据中心的反弹会翻转佛罗里达州吗？",
+    "link": "https://www.theverge.com/policy/1024357/florida-governors-race-donalds-jolly-data-centers",
+    "date": "2026-11-02",
+    "published_time": "23:05",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "终身共和党人帕蒂·齐胡特（ Patti Zirhut ）几周来一直在研究她的选票。Zirhut在2016年， 2020年和2024年热切地投票支持唐纳德·特朗普总统，但她今年没有遵守党的路线。“我的选票搞混了，”她说。她在投票f",
+    "published_dt_iso": "2026-11-02T23:05:00+08:00"
+  },
+  {
+    "title": "YouTuber Druski is going to make exclusive content for Netflix",
+    "title_zh": "YouTuber Druski将为Netflix制作独家内容",
+    "link": "https://www.theverge.com/streaming/1023777/youtube-druski-netflix-deal",
+    "date": "2026-11-02",
+    "published_time": "23:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Netflix今天宣布与YouTube用户、喜剧演员和网红Druski达成一项为期多年的协议，他将为流媒体服务“独家”创建原创内容。该公告是Netflix将创作者带入PLA的最新努力",
+    "published_dt_iso": "2026-11-02T23:00:00+08:00"
+  },
+  {
+    "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
+    "title_zh": "16GB Raspberry Pi 5的RAM价格再次“不可避免”上涨",
+    "link": "https://www.theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+    "date": "2026-11-02",
+    "published_time": "22:07",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Raspberry Pi 5配备16GB RAM ，在价格上涨80美元后，现在售价为385美元，这是由于RAM持续短缺而导致的一系列增长中的最新一次。这种配置的推出价格为120美元，现在的价格是这个价格的三倍多。16GB版本的TH",
+    "published_dt_iso": "2026-11-02T22:07:22+08:00"
+  },
+  {
+    "title": "SpaceX could buy Boost Mobile as part of its big mobile carrier plans",
+    "title_zh": "SpaceX可能会收购Boost Mobile ，作为其大型移动运营商计划的一部分",
+    "link": "https://www.theverge.com/science/1024330/spacex-boost-mobile-deal-report",
+    "date": "2026-11-02",
+    "published_time": "22:05",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "根据《华盛顿邮报》的一份报告， SpaceX已经与Boost Mobile讨论了通过预算友好的运营商推出自己的服务的协议。这笔交易是在SpaceX旨在使Starlink成为“主要”移动运营商之际达成的，据报道，",
+    "published_dt_iso": "2026-11-02T22:05:34+08:00"
+  },
+  {
+    "title": "市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/021/272.htm",
+    "date": "2026-11-02",
+    "published_time": "21:41",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 11 月 2 日消息，据市场监管总局，10 月 28 日，全国网络销售重点工业产品合规提质现场活动在浙江省平湖市举办。此次活动以“学新规明准则守安全提品质”为主题，旨在宣贯《网络销售重点工业产品质量安全监督管理规定》，督促电子商务经营者增强合规意识，落实网络销售重点工业产品质量安全义务，提升网售产品质量安全水平。公告称，加强网售工业产品质量安全治理，是守护人民群众线上消费安全的重要举措，也是推动平台经济健康发展的必然要求。活动现场对各电子商务经营者发出倡议，要守牢合规经营“硬底线”，当好质量安全“守门人”，吃透《网络销售重点工业产品质量安全监督管理规定》各项要求，加快内部质量管理制度建设，切实扛起质量安全主体责任。IT之家注意到，活动现场，淘天、京东、拼多多、小红书、抖音、快手、苏",
+    "published_dt_iso": "2026-11-02T21:41:33+08:00"
+  },
+  {
+    "title": "Canelo could have ‘influenced’ referee, says Mbilli’s team",
+    "title_zh": "Mbilli的团队表示， Canelo本可以“影响”裁判",
+    "link": "https://www.skysports.com/boxing/news/12040/13606955/canelo-alvarez-could-have-influenced-referee-in-christian-mbilli-fight-says-promoter-camille-estephan",
+    "date": "2026-11-03",
+    "published_time": "01:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "卡内洛·阿尔瓦雷斯（ Canelo Alvarez ）本可以“影响”裁判，在他们的世界冠军争夺战中从克里斯蒂安·姆比利（ Christian Mbilli ）身上拿下一分， Mbilli的发起人卡米尔·埃斯特凡（",
+    "published_dt_iso": "2026-11-03T01:00:00+08:00"
+  },
+  {
+    "title": "Sherrock 'should not have been selected to play' for Beat Luke Littler show",
+    "title_zh": "Sherrock “不应该被选中参加” Beat Luke Littler节目",
+    "link": "https://www.skysports.com/darts/news/12040/13607004/beat-luke-littler-fallon-sherrock-should-not-have-been-selected-to-play-in-netflix-show-but-you-cant-blame-queen-of-the-palace",
+    "date": "2026-11-02",
+    "published_time": "23:45",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "天空体育专家马克·韦伯斯特（ Mark Webster ）表示，法伦·谢罗克（ Fallon Sherrock ） “不应该被选中”为Netflix的“击败卢克·利特勒” （ Beat Luke Littler ）效力，她赢得了£ 501,000的奖金。",
+    "published_dt_iso": "2026-11-02T23:45:00+08:00"
+  },
+  {
+    "title": "Euro latest: Gordon thriving under different pressure at Barca but says best yet to come",
+    "title_zh": "欧元最新消息：戈登在巴萨在不同压力下茁壮成长，但表示最好的还未到来",
+    "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+    "date": "2026-11-02",
+    "published_time": "21:45",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-02T21:45:00+08:00"
+  },
+  {
+    "title": "What does Djokovic need to do to qualify for ATP Finals in Turin?",
+    "title_zh": "德约科维奇需要做些什么才能有资格参加都灵的ATP总决赛？",
+    "link": "https://www.skysports.com/tennis/news/12040/13605706/novak-djokovic-after-shock-defeat-in-basel-former-world-no-1-heads-to-paris-masters-in-race-to-make-atp-finals-in-turin",
+    "date": "2026-11-01",
+    "published_time": "22:20",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "诺瓦克·德约科维奇（ Novak Djokovic ）在巴塞尔的瑞士室内赛（ Swiss Indoors ）输给扬·伦纳德·斯特拉夫（ Jan-Lennard Struff ）后，错过了一个加强他在年终ATP总决赛中获得一席之地的大好机会。",
+    "published_dt_iso": "2026-11-01T22:20:00+08:00"
+  },
+  {
+    "title": "Former Wimbledon champion Bartoli pushing Dart 'beyond her limits'",
+    "title_zh": "前温布尔登网球公开赛冠军巴托利推动飞镖“超越极限”",
+    "link": "https://www.skysports.com/tennis/news/12040/13607007/harriet-dart-former-wimbledon-champion-marion-bartoli-on-pushing-brit-beyond-her-limits-after-maiden-wta-title",
+    "date": "2026-11-02",
+    "published_time": "20:48",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "前温布尔登网球公开赛冠军和天空体育分析师马里昂·巴托利（ Marion Bartoli ）承认，这位英国人周末在中国广州公开赛上赢得了她的第一个WTA冠军，推动哈丽特·达特（ Harriet Dart ） “超越了她的极限”。",
+    "published_dt_iso": "2026-11-02T20:48:00+08:00"
+  },
+  {
+    "title": "Forest hierarchy welcome Glasner's strong words after Brentford loss",
+    "title_zh": "森林等级制度欢迎格拉斯纳在布伦特福德失利后的强硬言论",
+    "link": "https://www.skysports.com/football/news/12040/13607133/oliver-glasner-nottingham-forest-hierarchy-welcome-strong-reaction-from-head-coach-after-brentford-defeat",
+    "date": "2026-11-02",
+    "published_time": "22:45",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "天空体育新闻了解到，奥利弗·格拉斯纳（ Oliver Glasner ）对他的团队的强硬言论受到了诺丁汉森林体系中许多人的欢迎。",
+    "published_dt_iso": "2026-11-02T22:45:00+08:00"
+  },
+  {
+    "title": "How Mercedes can win Constructors' Championship this Sunday",
+    "title_zh": "梅赛德斯本周日如何赢得车队总冠军",
+    "link": "https://www.skysports.com/f1/news/12040/13607118/how-mercedes-can-win-2026-f1-constructors-championship-at-sao-paulo-grand-prix-this-sunday-with-kimi-antonelli-and-george-russell",
+    "date": "2026-11-02",
+    "published_time": "23:05",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "在基米·安东内利（ Kimi Antonelli ）成为F1最年轻的世界冠军的几天后，梅赛德斯本周末有机会在巴西赢得车队总冠军。",
+    "published_dt_iso": "2026-11-02T23:05:00+08:00"
+  },
+  {
+    "title": "Jake Paul confirms opponent for Christmas Eve fight",
+    "title_zh": "杰克·保罗确认圣诞节前夕对手",
+    "link": "https://www.skysports.com/boxing/news/12040/13606969/jake-paul-to-fight-kickboxing-champion-cedric-doumbe-on-christmas-eve-as-youtubers-opponent-is-revealed",
+    "date": "2026-11-02",
+    "published_time": "20:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "杰克·保罗（ Jake Paul ）已确认跆拳道冠军塞德里克·杜姆（ Cedric Doumbe ）为圣诞节前夕重返迪拜拳击场的对手。",
+    "published_dt_iso": "2026-11-02T20:00:00+08:00"
+  },
+  {
+    "title": "PL Predictions: Can Everton beat unconvincing Newcastle?",
+    "title_zh": "PL预测：埃弗顿能否击败没有说服力的纽卡斯尔？",
+    "link": "https://www.skysports.com/football/news/11661/13604412/premier-league-predictions-jones-knows-best-bets-liverpool-vs-arsenal-crystal-palace-vs-tottenham-and-much-more",
+    "date": "2026-11-02",
+    "published_time": "02:15",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "我们的顶级提示者刘易斯·琼斯（ Lewis Jones ） ，又名琼斯知道（ Jones Knows ） ，为有趣的周一晚上足球提供了他的分析和投注见解。",
+    "published_dt_iso": "2026-11-02T02:15:00+08:00"
+  },
+  {
+    "title": "Why Man Utd fans continue to stick by Carrick",
+    "title_zh": "为什么曼联球迷继续坚持卡里克",
+    "link": "https://www.skysports.com/football/news/11661/13606693/michael-carricks-man-utd-support-explained-as-fans-believe-reason-for-worst-start-in-40-years-goes-beyond-dugout",
+    "date": "2026-11-02",
+    "published_time": "01:30",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "上次曼联赢得联赛冠军时，学校在夏季关闭，转会窗口仍然开放。",
+    "published_dt_iso": "2026-11-02T01:30:00+08:00"
+  },
+  {
+    "title": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
+    "title_zh": "阿森纳自2012年以来首次在利物浦赢得联赛冠军，此前凯·哈弗兹（ Kai Havertz ）提前扑向利物浦",
+    "link": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+    "date": "2026-11-02",
+    "published_time": "02:44",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "这是一场比赛，阿森纳展示了他们无情的一面，以及他们在上赛季积累的所有冠军知识。他们发表声明后返回伦敦。不管曼城发生了什么",
+    "published_dt_iso": "2026-11-02T02:44:48+08:00"
+  },
+  {
+    "title": "Should Premier League strugglers stick or twist as pressure on managers mounts?  | Andrew Beasley",
+    "title_zh": "随着经理的压力越来越大，英超联赛的挣扎者应该坚持还是扭曲？ |安德鲁·比斯利",
+    "link": "https://www.theguardian.com/football/2026/nov/01/michael-carrick-manchester-united-favourite-premier-league-sack-race",
+    "date": "2026-11-02",
+    "published_time": "02:00",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "不同寻常的是，顶级联赛中的所有俱乐部都有同一位经理，他们本赛季的开局经理是同一个人–但第一次解雇可能并不遥远本赛季还没有英超经理丢掉工作。在过去的10次活动中，只有三次是11月份的",
+    "published_dt_iso": "2026-11-02T02:00:30+08:00"
+  },
+  {
+    "title": "Carrick to stay in charge for Roma game; Challinor in at Sheffield Wednesday; Liverpool v Arsenal buildup",
+    "title_zh": "卡里克将继续负责罗马比赛;周三在谢菲尔德的Challinor;利物浦对阿森纳的积累",
+    "link": "https://www.theguardian.com/football/live/2026/nov/01/carrick-defiant-after-latest-defeat-liverpool-v-arsenal-buildup-wsl-and-more-matchday-live",
+    "date": "2026-11-01",
+    "published_time": "20:03",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "为周日的比赛做准备，利物浦在英超联赛中主办阿森纳之前获得了一份丰厚的WSL比赛名单至少可以说，诺丁汉森林的奥利弗·格拉斯纳（ Oliver Glasner ）表现不佳。“对我来说，我回家和家人一起吃早餐，所以",
+    "published_dt_iso": "2026-11-01T20:03:06+08:00"
+  },
+  {
+    "title": "Premier League today: How to watch, TV channels & live stream",
+    "title_zh": "今日英超联赛：如何观看、收看电视频道和直播",
+    "link": "https://www.theguardian.com/football/2026/nov/01/how-to-watch-premier-league-liverpool-arsenal",
+    "date": "2026-11-01",
+    "published_time": "19:30",
+    "source": "卫报",
+    "feed_name": "卫报(英超深度)",
+    "summary": "利物浦和阿森纳今天的表现如何？以下是需要了解的内容，包括开球时间、电视频道和直播选项连续五场胜利，包括周三的卡拉宝杯点球大战战胜切尔西，给人的印象是安东尼",
+    "published_dt_iso": "2026-11-01T19:30:10+08:00"
+  },
+  {
     "title": "Senate Control After the Midterms: Party Switches, Ties and Wild Cards",
     "title_zh": "中期选举后的参议院控制权：派对开关、领带和万能牌",
     "link": "https://www.nytimes.com/2026/11/02/us/politics/senate-midterms-tie-independents-wild-cards.html",
@@ -1340,50 +1725,6 @@
     "feed_name": "纽约时报",
     "summary": "自特朗普回归以来，关于多元化的讨论已经平静下来。今年的中期选举表明，美国人可以为新的事物做好准备。",
     "published_dt_iso": "2026-11-02T21:42:46+08:00"
-  },
-  {
-    "title": "They Tried Kratom for Its Health Benefits, Then They Became Addicted",
-    "title_zh": "他们尝试了Kratom的健康益处，然后他们上瘾了",
-    "link": "https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html",
-    "date": "2026-11-03",
-    "published_time": "01:11",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "有些人说，他们是通过健康播客、健身房的免费样品或健身影响者来介绍这种药物的。",
-    "published_dt_iso": "2026-11-03T01:11:11+08:00"
-  },
-  {
-    "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
-    "title_zh": "作为美国协议的一部分，伊朗表示将在两天内重新开放霍尔木兹海峡",
-    "link": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
-    "date": "2026-11-02",
-    "published_time": "21:44",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "伊朗官员谈到重新开放海峡的谈判取得了一些进展，海峡是一条重要的石油和天然气航道，尽管他们正在为全面战争做准备。",
-    "published_dt_iso": "2026-11-02T21:44:14+08:00"
-  },
-  {
-    "title": "The Streaming Era Has Given Us Great TV, but It Comes at a Price",
-    "title_zh": "流媒体时代给我们带来了很棒的电视，但代价不菲",
-    "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-tv-era-cost.html",
-    "date": "2026-11-02",
-    "published_time": "18:03",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "流媒体时代为观众提供了许多精彩的观看内容。但这是有代价的。",
-    "published_dt_iso": "2026-11-02T18:03:14+08:00"
-  },
-  {
-    "title": "How Much Do You Pay for TV Streaming Services? We Want to Know.",
-    "title_zh": "您为电视流媒体服务支付多少钱？我们想知道。",
-    "link": "https://www.nytimes.com/2026/11/02/arts/television/streaming-costs-readers.html",
-    "date": "2026-11-02",
-    "published_time": "22:05",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "请告诉我们您对流媒体电视费用的看法。",
-    "published_dt_iso": "2026-11-02T22:05:51+08:00"
   },
   {
     "title": "20-Year-Old Nathalia Filgueiras Was a Pilot on Learjet That Crashed in Florida",

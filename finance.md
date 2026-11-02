@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-03 01:19（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-03 05:50（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -142,7 +142,7 @@ title: 股票财经
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-03 05:40:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-03 05:51:48（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -158,7 +158,7 @@ title: 股票财经
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 05:39:58（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:51:38（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,945.06 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +68.37 (+1.76%)</span>
+      <span class="ticker-price ticker-up">$3,947.52 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +70.83 (+1.83%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 05:40:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:51:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$104.25 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -9.19 (-8.10%)</span>
+      <span class="ticker-price ticker-down">$104.03 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -9.40 (-8.29%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 05:40:11（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:52:01（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">5 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/021/282.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 3 日消息，安森美今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入：48.39 亿美元（IT之家注：现汇率约合 322.33 亿元人民币），同比增长 8.37% 毛利润：19.12 亿美元（现汇率约合 127.38 亿元人民币），同比增长 33.46% 毛利率：39.5%，同比增长 7.4 个百分点 归母净利润：5.07 亿美元（现汇率约合 33.79 亿元人民币），同比扭亏为盈 经营现金流：12.15 亿美元（现汇率约合 80.94 亿元人民币） 自由现金流：11.31 亿美元（现汇率约合 7" data-title="安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈" data-date="11-03 05:20" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-03 05:20</span>
+          <span class="news-item-title">安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈</span>
+        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="下议院商业、创新、科学与贸易委员会的一份报告指出，英国政府对华事务的决策过程持续地“前后矛盾”。" data-title="“英国政府对华政策摸著石头过河”" data-date="11-02 23:41" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -538,4 +544,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-03 01:19（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-03 05:50（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
