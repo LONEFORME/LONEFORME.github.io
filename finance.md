@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-03 23:24（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-04 03:39（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -62,7 +62,7 @@ title: 股票财经
       <span>震荡筑底中枢</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-03 15:35:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-03 15:44:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -110,7 +110,7 @@ title: 股票财经
       <span>AI算力与先进制程</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-03 15:35:42（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-03 15:43:42（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">28,222.32</span>
-      <span class="ticker-change up">▲ +0.83%</span>
+      <span class="ticker-price ticker-up">28,192.19</span>
+      <span class="ticker-change up">▲ +0.72%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-04 00:58:22（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-04 03:41:18（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6697</span>
+      <span class="ticker-price ticker-up">6.6699</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg80579" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,7.2 L46.7,8.8 L68.0,14.1 L89.3,16.2 L110.7,20.5 L132.0,25.3 L153.3,33.6 L174.7,38.0 L196.0,13.1 L196,40 Z" fill="url(#sg80579)"/><polyline points="4.0,6.0 25.3,7.2 46.7,8.8 68.0,14.1 89.3,16.2 110.7,20.5 132.0,25.3 153.3,33.6 174.7,38.0 196.0,13.1" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="13.1" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg44614" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,7.2 L46.7,8.8 L68.0,14.1 L89.3,16.2 L110.7,20.5 L132.0,25.3 L153.3,33.6 L174.7,38.0 L196.0,12.8 L196,40 Z" fill="url(#sg44614)"/><polyline points="4.0,6.0 25.3,7.2 46.7,8.8 68.0,14.1 89.3,16.2 110.7,20.5 132.0,25.3 153.3,33.6 174.7,38.0 196.0,12.8" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="12.8" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:58:21（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:41:07（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,926.17 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -20.30 (-0.51%)</span>
+      <span class="ticker-price ticker-down">$3,924.79 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -21.68 (-0.55%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:58:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:41:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥843.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.39 (+0.40%)</span>
+      <span class="ticker-price ticker-up">¥844.13 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +4.32 (+0.51%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:58:09（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:58:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$103.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.63 (-1.55%)</span>
+      <span class="ticker-price ticker-down">$103.54 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.23 (-1.17%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:58:34（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:41:29（非实时）</div>
   </div>
 </div>
 
@@ -493,19 +493,37 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/021/844.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 3 日消息，今晚，国内光模块头部厂商光迅科技发布“关于市场传闻的澄清公告”。10 月 26 日光迅科技发布《2026 年第三季度报告》。财务报表显示，光迅科技第三季度实现营业收入 50.73 亿元，同比增长 54.27%；归属于上市公司股东的净利润 7.02 亿元，同比增长 102.62%；扣除非经常性损益后的净利润 7.04 亿元，同比增长 121.06%；基本每股收益 0.87 元。前三季度累计，公司营业收入 116.83 亿元，同比增长 36.94%；归母净利润 12.84 亿元，同比增长 78.65%；扣非净利润 12.72 亿元，同比增长 87.48%；加权平均净资产收益率 11.17%，较上年同期提升 3.50 个百分点。IT之家附公告全文如下：近期，公司关注" data-title="国内光模块头部厂商光迅科技发布澄清公告：否认物料短缺、生产停工相关传闻" data-date="11-03 23:18" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/021/856.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，荣威家越 X7 完成申报。IT之家注意到，此次申报的荣威家越 X7 为混合动力运动型乘用车，属于上汽荣威旗下全新家用 SUV 产品，定位大五座中型 SUV，主打家庭日常出行场景。车身尺寸方面，新车长宽高分别为 4900/1924/1759（1765）mm，轴距达到 2863mm，前轮距 1647mm、后轮距 1661mm，接近角 / 离去角为 19°/23°（19°/24°），整备质量为 1820kg、1860kg 两个版本，总质量为 2273kg、2313kg，额定载客 5 人，轮胎规格可选 235/55R19、245/50R20，同时配备防抱死制动系统、汽车事件数据记录系统（EDR），还" data-title="荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV" data-date="11-04 00:04" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-03 23:18</span>
-          <span class="news-item-title">国内光模块头部厂商光迅科技发布澄清公告：否认物料短缺、生产停工相关传闻</span>
+          <span class="news-item-date">11-04 00:04</span>
+          <span class="news-item-title">荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-03/10725637.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京11月3日电 (记者 庞无忌)进入10月，北方冷空气接连来袭，气温持续下滑，东北、蒙东先行进入供暖季。国家能源集团经营管理部副主任孙严冬3日在国家能源集团2026年三季度新闻发布会上表示，集团锚定迎峰度冬保供主线，统筹安全稳产、顶峰发电、高效调运，打通产运销各环节堵点，全力做好迎峰度冬时期能源保供工作。" data-title="国家能源集团：全力做好迎峰度冬时期能源保供工作" data-date="11-03 22:46" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳11月3日电 2026年中亚经济合作天山论坛2日至3日在哈萨克斯坦阿拉木图举行。本届论坛以“强化韧性互联互通，促进中亚优质投资”为主题，来自中亚区域经济合作机制(CAREC)成员国的政府高级官员、国际组织代表、企业界人士及智库专家等300多人出席，围绕交通、贸易、能源和数字互联互通等议题展开交流。" data-title="2026年中亚经济合作天山论坛在哈萨克斯坦举行" data-date="11-03 23:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-03 22:46</span>
-          <span class="news-item-title">国家能源集团：全力做好迎峰度冬时期能源保供工作</span>
+          <span class="news-item-date">11-03 23:57</span>
+          <span class="news-item-title">2026年中亚经济合作天山论坛在哈萨克斯坦举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-03/10725687.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网宁波11月3日电 (张斌 唐雨弦 刘子琳)“我们要深化新西兰与中国之间的友谊，开展更多贸易，建立更多城市与城市的联系、更多人与人的联系。”" data-title="世界市长在宁波对话：常来常往 融通共生" data-date="11-03 23:54" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-03 23:54</span>
+          <span class="news-item-title">世界市长在宁波对话：常来常往 融通共生</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-03/10725676.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网曼谷11月3日电 (王茜 李映民)泰国(第四届)HSK留学中国与就业展3日在曼谷易三仓大学素万那普校区举办。24家中泰知名高校与25家在泰中资企业同场设展，使泰国学生在了解赴华留学信息的同时，可以直接接触企业用人需求。" data-title="泰国（第四届）HSK留学中国与就业展在曼谷举办" data-date="11-03 23:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-03 23:44</span>
+          <span class="news-item-title">泰国（第四届）HSK留学中国与就业展在曼谷举办</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-03/10725671.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网长沙11月3日电(龚倩)第二十七届中部农博会开幕在即，连日来，长沙国际会展中心内筹备工作正有序推进。" data-title="展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展" data-date="11-03 23:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-03 23:41</span>
+          <span class="news-item-title">展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展</span>
         </a>
         <a class="news-item" href="https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/" target="_blank" rel="noopener" data-cat="caijing" data-summary="11月4日， TechCrunch创始人峰会2026将创始人和风险投资家带到波士顿的SoWa电站，以获得实用的见解和联系。请在价格上涨前登记。" data-title="The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4" data-date="11-03 22:30" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -513,47 +531,11 @@ title: 股票财经
           <span class="news-item-date">11-03 22:30</span>
           <span class="news-item-title">The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="能源丰富的海湾阿拉伯国家正在进行一系列调解努力，以避免美国和伊朗之间的战争，因为许多人担心这次战斗会变得更糟。" data-title="As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War" data-date="11-03 18:47" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-03 18:47</span>
-          <span class="news-item-title">As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/021/639.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 3 日消息，索尼 2026 年 11 月 PlayStation Plus 一档会免游戏阵容现已正式上线，除了先前公布的《死亡岛 2》PS4/PS5 版、《古墓丽影 IV–VI：复刻版》PS4/PS5 版和《怪物列车 2》PS5 版外，官方还额外追加了一款 PS4 版《秘密邻居》，玩家可以在 11 月 3 日至 11 月 30 日领取。《死亡岛 2（Dead Island 2）》PSN 港服定价：398 港币（IT之家注：现汇率约合 338.9 元人民币）起游戏地址：点此访问《死亡岛 2》是由 Dambuster Studios 开发、Deep Silver 发行的一款第一人称动作角色扮演游戏，将惊悚的丧尸题材与美式黑色幽默完美融合。游戏舞台设定在经历致命病毒肆虐后被全面" data-title="2026 年 11 月索尼 PS Plus 会免游戏上线：含《死亡岛 2》《古墓丽影 IV" data-date="11-03 16:42" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-03 16:42</span>
-          <span class="news-item-title">2026 年 11 月索尼 PS Plus 会免游戏上线：含《死亡岛 2》《古墓丽影 IV</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-03/10725328.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网济南11月3日电(周艺伟)“以前在家连方便面都很少煮，现在回家会给爸妈做饭了，他们都挺意外。”11月3日，在山东工业技师学院每周二开设的劳动实践课上，学生朱梦园正和同学们在烹饪教室里分组择菜、烹制。从不会做饭，到如今能独立完成四菜一汤，这是她上了一个多学期课的成果。" data-title="山东职业院校深耕劳动教育 立足实践培育高素质技能人才" data-date="11-03 15:02" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-03 15:02</span>
-          <span class="news-item-title">山东职业院校深耕劳动教育 立足实践培育高素质技能人才</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-03/10725224.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月3日电 据美国《纽约时报》报道，美国总统特朗普当地时间2日表示，如果民主党赢得足够多的席位掌控国会众议院和参议院，并发起广泛的调查和潜在的起诉，他将愿意对包括美国企业家马斯克在内的盟友和助手签发“预防性”赦免。" data-title="特朗普称愿“预防性”赦免马斯克 以防民主党中期选举获胜后展开调查" data-date="11-03 13:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-03 13:35</span>
-          <span class="news-item-title">特朗普称愿“预防性”赦免马斯克 以防民主党中期选举获胜后展开调查</span>
-        </a>
         <a class="news-item" href="https://www.qbitai.com/2026/11/507382.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="单季狂揽1130亿人民币，但..." data-title="A社紧急修改招股书！RSI我们快要控制不住了" data-date="11-03 11:41" data-source="量子位">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
           <span class="news-item-date">11-03 11:41</span>
           <span class="news-item-title">A社紧急修改招股书！RSI我们快要控制不住了</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/021/282.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 3 日消息，安森美今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度报 营业总收入：48.39 亿美元（IT之家注：现汇率约合 322.33 亿元人民币），同比增长 8.37% 毛利润：19.12 亿美元（现汇率约合 127.38 亿元人民币），同比增长 33.46% 毛利率：39.5%，同比增长 7.4 个百分点 归母净利润：5.07 亿美元（现汇率约合 33.79 亿元人民币），同比扭亏为盈 经营现金流：12.15 亿美元（现汇率约合 80.94 亿元人民币） 自由现金流：11.31 亿美元（现汇率约合 7" data-title="安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈" data-date="11-03 05:20" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-03 05:20</span>
-          <span class="news-item-title">安森美 2026 财年前三季度报归母净利润 5.07 亿美元，同比扭亏为盈</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crz654pezgx7o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="下议院商业、创新、科学与贸易委员会的一份报告指出，英国政府对华事务的决策过程持续地“前后矛盾”。" data-title="“英国政府对华政策摸著石头过河”" data-date="11-02 23:41" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-02 23:41</span>
-          <span class="news-item-title">“英国政府对华政策摸著石头过河”</span>
         </a>
   </div>
 </div>
@@ -568,4 +550,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-03 23:24（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-04 03:39（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
