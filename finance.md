@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-03 16:43（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-03 23:24（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">27,989.82</span>
-      <span class="ticker-change down">▼ -1.39%</span>
+      <span class="ticker-price ticker-up">28,194.76</span>
+      <span class="ticker-change up">▲ +0.73%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-03 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-03 23:26:18（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6727</span>
+      <span class="ticker-price ticker-up">6.6699</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg39247" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,7.2 L46.7,8.8 L68.0,14.1 L89.3,16.2 L110.7,20.5 L132.0,25.3 L153.3,33.6 L174.7,38.0 L196.0,8.7 L196,40 Z" fill="url(#sg39247)"/><polyline points="4.0,6.0 25.3,7.2 46.7,8.8 68.0,14.1 89.3,16.2 110.7,20.5 132.0,25.3 153.3,33.6 174.7,38.0 196.0,8.7" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="8.7" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg44614" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,7.2 L46.7,8.8 L68.0,14.1 L89.3,16.2 L110.7,20.5 L132.0,25.3 L153.3,33.6 L174.7,38.0 L196.0,12.8 L196,40 Z" fill="url(#sg44614)"/><polyline points="4.0,6.0 25.3,7.2 46.7,8.8 68.0,14.1 89.3,16.2 110.7,20.5 132.0,25.3 153.3,33.6 174.7,38.0 196.0,12.8" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="12.8" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:46:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:26:14（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,899.33 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -47.14 (-1.19%)</span>
+      <span class="ticker-price ticker-down">$3,927.06 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -19.41 (-0.49%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:46:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:26:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥840.16 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +4.49 (+0.54%)</span>
+      <span class="ticker-price ticker-up">¥843.34 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +3.53 (+0.42%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:01（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:25:45（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -201,7 +201,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">23,525.97</span>
       <span class="ticker-change up">▲ +0.57%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg75649" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L23.2,13.4 L42.4,38.0 L61.6,32.6 L80.8,28.5 L100.0,34.3 L119.2,32.5 L138.4,37.2 L157.6,25.7 L176.8,22.3 L196.0,17.7 L196,40 Z" fill="url(#sg75649)"/><polyline points="4.0,6.0 23.2,13.4 42.4,38.0 61.6,32.6 80.8,28.5 100.0,34.3 119.2,32.5 138.4,37.2 157.6,25.7 176.8,22.3 196.0,17.7" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="17.7" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg9184" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,38.0 L46.7,30.9 L68.0,25.6 L89.3,33.2 L110.7,30.9 L132.0,36.9 L153.3,21.9 L174.7,17.5 L196.0,11.6 L196,40 Z" fill="url(#sg9184)"/><polyline points="4.0,6.0 25.3,38.0 46.7,30.9 68.0,25.6 89.3,33.2 110.7,30.9 132.0,36.9 153.3,21.9 174.7,17.5 196.0,11.6" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="11.6" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$106.98 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +2.22 (+2.11%)</span>
+      <span class="ticker-price ticker-down">$103.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.17 (-1.11%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:46:18（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:26:28（非实时）</div>
   </div>
 </div>
 
@@ -495,6 +495,30 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/021/844.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 3 日消息，今晚，国内光模块头部厂商光迅科技发布“关于市场传闻的澄清公告”。10 月 26 日光迅科技发布《2026 年第三季度报告》。财务报表显示，光迅科技第三季度实现营业收入 50.73 亿元，同比增长 54.27%；归属于上市公司股东的净利润 7.02 亿元，同比增长 102.62%；扣除非经常性损益后的净利润 7.04 亿元，同比增长 121.06%；基本每股收益 0.87 元。前三季度累计，公司营业收入 116.83 亿元，同比增长 36.94%；归母净利润 12.84 亿元，同比增长 78.65%；扣非净利润 12.72 亿元，同比增长 87.48%；加权平均净资产收益率 11.17%，较上年同期提升 3.50 个百分点。IT之家附公告全文如下：近期，公司关注" data-title="国内光模块头部厂商光迅科技发布澄清公告：否认物料短缺、生产停工相关传闻" data-date="11-03 23:18" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-03 23:18</span>
+          <span class="news-item-title">国内光模块头部厂商光迅科技发布澄清公告：否认物料短缺、生产停工相关传闻</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-03/10725637.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京11月3日电 (记者 庞无忌)进入10月，北方冷空气接连来袭，气温持续下滑，东北、蒙东先行进入供暖季。国家能源集团经营管理部副主任孙严冬3日在国家能源集团2026年三季度新闻发布会上表示，集团锚定迎峰度冬保供主线，统筹安全稳产、顶峰发电、高效调运，打通产运销各环节堵点，全力做好迎峰度冬时期能源保供工作。" data-title="国家能源集团：全力做好迎峰度冬时期能源保供工作" data-date="11-03 22:46" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-03 22:46</span>
+          <span class="news-item-title">国家能源集团：全力做好迎峰度冬时期能源保供工作</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/" target="_blank" rel="noopener" data-cat="caijing" data-summary="11月4日， TechCrunch创始人峰会2026将创始人和风险投资家带到波士顿的SoWa电站，以获得实用的见解和联系。请在价格上涨前登记。" data-title="The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4" data-date="11-03 22:30" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-03 22:30</span>
+          <span class="news-item-title">The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="能源丰富的海湾阿拉伯国家正在进行一系列调解努力，以避免美国和伊朗之间的战争，因为许多人担心这次战斗会变得更糟。" data-title="As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War" data-date="11-03 18:47" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-03 18:47</span>
+          <span class="news-item-title">As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/021/639.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 3 日消息，索尼 2026 年 11 月 PlayStation Plus 一档会免游戏阵容现已正式上线，除了先前公布的《死亡岛 2》PS4/PS5 版、《古墓丽影 IV–VI：复刻版》PS4/PS5 版和《怪物列车 2》PS5 版外，官方还额外追加了一款 PS4 版《秘密邻居》，玩家可以在 11 月 3 日至 11 月 30 日领取。《死亡岛 2（Dead Island 2）》PSN 港服定价：398 港币（IT之家注：现汇率约合 338.9 元人民币）起游戏地址：点此访问《死亡岛 2》是由 Dambuster Studios 开发、Deep Silver 发行的一款第一人称动作角色扮演游戏，将惊悚的丧尸题材与美式黑色幽默完美融合。游戏舞台设定在经历致命病毒肆虐后被全面" data-title="2026 年 11 月索尼 PS Plus 会免游戏上线：含《死亡岛 2》《古墓丽影 IV" data-date="11-03 16:42" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -531,30 +555,6 @@ title: 股票财经
           <span class="news-item-date">11-02 23:41</span>
           <span class="news-item-title">“英国政府对华政策摸著石头过河”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-02/10725058.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京11月2日电 (记者 郭超凯)一株古老本草，如何回答当代人的健康问题？德庆好物进京推介活动近日在北京举行。活动聚焦南药产业高质量发展，展示德庆南药由道地资源向现代健康产品转化的实践，搭建产区与市场、科研与产业、品牌与渠道的对接平台。" data-title="道地药材县域突围，广东德庆县南药总产值达40.74亿元" data-date="11-02 22:14" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-02 22:14</span>
-          <span class="news-item-title">道地药材县域突围，广东德庆县南药总产值达40.74亿元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-02/10725053.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达11月2日电 (记者 李志全)东南亚最大经济体印度尼西亚制造业呈现回暖势头。标普全球2日公布的数据显示，2026年10月，印尼制造业采购经理指数(PMI)升至54.0，创2024年3月以来最高水平，制造业扩张势头为31个月来最强。" data-title="印尼制造业PMI创31个月新高 出口订单增长强劲" data-date="11-02 22:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-02 22:13</span>
-          <span class="news-item-title">印尼制造业PMI创31个月新高 出口订单增长强劲</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-02/10725013.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦11月2日电 (记者 欧阳开宇)最新数据显示，英国制造业在四季度开端迎来明显复苏，产出增长达到两年多来最好水平，海内外订单需求同步改善，但投入成本快速走高，通胀隐忧再起，使市场强化英国央行加息的预期。" data-title="英国制造业复苏  隐忧犹存" data-date="11-02 21:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-02 21:55</span>
-          <span class="news-item-title">英国制造业复苏  隐忧犹存</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/021/272.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 2 日消息，据市场监管总局，10 月 28 日，全国网络销售重点工业产品合规提质现场活动在浙江省平湖市举办。此次活动以“学新规明准则守安全提品质”为主题，旨在宣贯《网络销售重点工业产品质量安全监督管理规定》，督促电子商务经营者增强合规意识，落实网络销售重点工业产品质量安全义务，提升网售产品质量安全水平。公告称，加强网售工业产品质量安全治理，是守护人民群众线上消费安全的重要举措，也是推动平台经济健康发展的必然要求。活动现场对各电子商务经营者发出倡议，要守牢合规经营“硬底线”，当好质量安全“守门人”，吃透《网络销售重点工业产品质量安全监督管理规定》各项要求，加快内部质量管理制度建设，切实扛起质量安全主体责任。IT之家注意到，活动现场，淘天、京东、拼多多、小红书、抖音、快手、苏" data-title="市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约" data-date="11-02 21:41" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-02 21:41</span>
-          <span class="news-item-title">市场监管总局：淘天、京东、拼多多、小红书、抖音等 22 家平台企业签署网售重点工业产品自律公约</span>
-        </a>
   </div>
 </div>
 
@@ -568,4 +568,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-03 16:43（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-03 23:24（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
