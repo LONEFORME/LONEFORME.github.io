@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-04 23:39（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-05 03:55（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">28,643.52</span>
-      <span class="ticker-change up">▲ +1.64%</span>
+      <span class="ticker-price ticker-up">28,477.44</span>
+      <span class="ticker-change up">▲ +1.05%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-04 23:40:52（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-05 03:57:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6733</span>
+      <span class="ticker-price ticker-up">6.6755</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg17457" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,7.3 L46.7,11.4 L68.0,13.1 L89.3,16.4 L110.7,20.3 L132.0,26.8 L153.3,30.2 L174.7,38.0 L196.0,6.5 L196,40 Z" fill="url(#sg17457)"/><polyline points="4.0,6.0 25.3,7.3 46.7,11.4 68.0,13.1 89.3,16.4 110.7,20.3 132.0,26.8 153.3,30.2 174.7,38.0 196.0,6.5" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.5" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg60215" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,8.0 L25.3,9.2 L46.7,13.1 L68.0,14.6 L89.3,17.8 L110.7,21.3 L132.0,27.4 L153.3,30.7 L174.7,38.0 L196.0,6.0 L196,40 Z" fill="url(#sg60215)"/><polyline points="4.0,8.0 25.3,9.2 46.7,13.1 68.0,14.6 89.3,17.8 110.7,21.3 132.0,27.4 153.3,30.7 174.7,38.0 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:40:48（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:56:53（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,036.85 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +106.76 (+2.72%)</span>
+      <span class="ticker-price ticker-up">$4,057.69 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +127.60 (+3.25%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:40:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:56:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥867.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.75 (+0.43%)</span>
+      <span class="ticker-price ticker-up">¥873.52 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +9.39 (+1.09%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:40:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:27:38（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$101.12 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -2.48 (-2.40%)</span>
+      <span class="ticker-price ticker-down">$94.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -8.72 (-8.42%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:41:05（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:57:08（非实时）</div>
   </div>
 </div>
 
@@ -493,19 +493,19 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着第一批结果的出现，全球市场下跌，但后来交易更高，因为随着华盛顿的权力平衡急剧转变，投资者评估了政策前景。" data-title="Stocks Rise as Democrats Flip Control of Congress" data-date="11-04 23:37" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位世界上最富有的人激怒了民主党人，其中一些人表示，当他们控制国会时，他们打算对他进行调查。" data-title="SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas" data-date="11-05 03:28" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-04 23:37</span>
-          <span class="news-item-title">Stocks Rise as Democrats Flip Control of Congress</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位世界上最富有的人激怒了民主党人，其中一些人表示，当他们控制国会时，他们打算对他进行调查。" data-title="SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas" data-date="11-04 23:26" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-04 23:26</span>
+          <span class="news-item-date">11-05 03:28</span>
           <span class="news-item-title">SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="由于投资者预见到华盛顿将陷入僵局，市场交易走高，这通常是一个看涨的信号。" data-title="Stocks Rise as Democrats Flip Control of Congress" data-date="11-05 03:24" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-05 03:24</span>
+          <span class="news-item-title">Stocks Rise as Democrats Flip Control of Congress</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-04/10726321.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海11月4日电 (记者 许婧 郑莹莹)在华访问的奥地利总理克里斯蒂安·施托克尔(Christian Stocker)4日携奥地利联邦政府高层代表及企业代表团到访同济大学，为同济师生作主题演讲，并出席汉斯·李斯特(Hans List)教授同济任教百年活动，寄望两国美好未来。" data-title="奥地利总理施托克尔到访同济大学 共叙两国百年科研合作情谊" data-date="11-04 22:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -537,12 +537,6 @@ title: 股票财经
           <span class="news-item-date">11-04 21:02</span>
           <span class="news-item-title">中国首部火腿产业地方性法规在浙“亮相”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-04/10726011.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="近年来，微信聊天、语音沟通、转账支付几乎成了人们日常交往、消费、交易、经济往来的重要方式。在人民法院处理各类民事纠纷过程中，微信电子证据的使用越来越多。" data-title="截图≠铁证、语音不能单独作数！微信电子证据该如何留存？" data-date="11-04 15:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-04 15:57</span>
-          <span class="news-item-title">截图≠铁证、语音不能单独作数！微信电子证据该如何留存？</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqn734rxeye6o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="查尔斯三世在英联邦政府首脑会议（CHOGM）发表这篇演说前，外界曾呼吁英国政府就英国在这项贸易中的历史角色正式道歉。" data-title="英王演说称奴隶贸易是英国历史“可耻的一章”" data-date="11-04 15:06" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -554,36 +548,6 @@ title: 股票财经
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-04 12:33</span>
           <span class="news-item-title">美国中期选举民调：选民最关心经济与民主现况</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/" target="_blank" rel="noopener" data-cat="caijing" data-summary="专注于网络安全的Ballistic Ventures正寻求为新的旗舰基金筹集3.6亿美元，并为单独的投资工具筹集1.3亿美元。" data-title="Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom" data-date="11-04 05:43" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-04 05:43</span>
-          <span class="news-item-title">Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/03/dining/sysco-restaurants-small-business-owners.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="根据您的要求，这家大型食品分销商正在扁平化我们的饮食方式，或帮助小企业主生存。也许两者都是真的？" data-title="Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners?" data-date="11-04 01:13" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-04 01:13</span>
-          <span class="news-item-title">Is Sysco Making Every Restaurant the Same, or Saving Small Business Owners?</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/021/856.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 4 日消息，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，荣威家越 X7 完成申报。IT之家注意到，此次申报的荣威家越 X7 为混合动力运动型乘用车，属于上汽荣威旗下全新家用 SUV 产品，定位大五座中型 SUV，主打家庭日常出行场景。车身尺寸方面，新车长宽高分别为 4900/1924/1759（1765）mm，轴距达到 2863mm，前轮距 1647mm、后轮距 1661mm，接近角 / 离去角为 19°/23°（19°/24°），整备质量为 1820kg、1860kg 两个版本，总质量为 2273kg、2313kg，额定载客 5 人，轮胎规格可选 235/55R19、245/50R20，同时配备防抱死制动系统、汽车事件数据记录系统（EDR），还" data-title="荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV" data-date="11-04 00:04" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-04 00:04</span>
-          <span class="news-item-title">荣威家越 X7 HEV 新车申报：1.5T 油电混动大五座中型 SUV</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111277" target="_blank" rel="noopener" data-cat="caijing" data-summary="这是首笔受到欧盟《外国补贴条例》评估的中资收购欧洲公司交易。欧盟委员会称京东已承诺充分且有效地补救由补贴造成的市场扭曲。" data-title="京东22亿欧元收购德国Ceconomy交易获批" data-date="11-04 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">11-04 00:00</span>
-          <span class="news-item-title">京东22亿欧元收购德国Ceconomy交易获批</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-03/10725692.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳11月3日电 2026年中亚经济合作天山论坛2日至3日在哈萨克斯坦阿拉木图举行。本届论坛以“强化韧性互联互通，促进中亚优质投资”为主题，来自中亚区域经济合作机制(CAREC)成员国的政府高级官员、国际组织代表、企业界人士及智库专家等300多人出席，围绕交通、贸易、能源和数字互联互通等议题展开交流。" data-title="2026年中亚经济合作天山论坛在哈萨克斯坦举行" data-date="11-03 23:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-03 23:57</span>
-          <span class="news-item-title">2026年中亚经济合作天山论坛在哈萨克斯坦举行</span>
         </a>
   </div>
 </div>
@@ -598,4 +562,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-04 23:39（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-05 03:55（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
