@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-05 16:39（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-05 23:41（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -121,7 +121,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">4,152.37</span>
       <span class="ticker-change up">▲ +5.50%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg3154" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,34.1 L23.2,28.0 L42.4,29.1 L61.6,33.6 L80.8,29.4 L100.0,38.0 L119.2,37.2 L138.4,30.5 L157.6,28.3 L176.8,23.0 L196.0,6.0 L196,40 Z" fill="url(#sg3154)"/><polyline points="4.0,34.1 23.2,28.0 42.4,29.1 61.6,33.6 80.8,29.4 100.0,38.0 119.2,37.2 138.4,30.5 157.6,28.3 176.8,23.0 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg60449" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,28.0 L25.3,29.1 L46.7,33.6 L68.0,29.4 L89.3,38.0 L110.7,37.2 L132.0,30.5 L153.3,28.3 L174.7,23.0 L196.0,6.0 L196,40 Z" fill="url(#sg60449)"/><polyline points="4.0,28.0 25.3,29.1 46.7,33.6 68.0,29.4 89.3,38.0 110.7,37.2 132.0,30.5 153.3,28.3 174.7,23.0 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>互联网平台回购加码</span>
       
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">28,437.17</span>
-      <span class="ticker-change up">▲ +0.91%</span>
+      <span class="ticker-price ticker-down">27,067.87</span>
+      <span class="ticker-change down">▼ -4.82%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-05 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-05 23:43:15（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6684</span>
+      <span class="ticker-price ticker-down">6.6645</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg5653" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,10.3 L46.7,12.0 L68.0,15.5 L89.3,19.5 L110.7,26.3 L132.0,29.9 L153.3,38.0 L174.7,9.3 L196.0,11.1 L196,40 Z" fill="url(#sg5653)"/><polyline points="4.0,6.0 25.3,10.3 46.7,12.0 68.0,15.5 89.3,19.5 110.7,26.3 132.0,29.9 153.3,38.0 174.7,9.3 196.0,11.1" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="11.1" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg17338" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,10.3 L46.7,12.0 L68.0,15.5 L89.3,19.5 L110.7,26.3 L132.0,29.9 L153.3,38.0 L174.7,9.3 L196.0,15.8 L196,40 Z" fill="url(#sg17338)"/><polyline points="4.0,6.0 25.3,10.3 46.7,12.0 68.0,15.5 89.3,19.5 110.7,26.3 132.0,29.9 153.3,38.0 174.7,9.3 196.0,15.8" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="15.8" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:41:18（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:43:13（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,123.69 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +63.68 (+1.57%)</span>
+      <span class="ticker-price ticker-up">$4,103.72 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +43.71 (+1.08%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:41:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:43:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥883.66 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +19.53 (+2.26%)</span>
+      <span class="ticker-price ticker-down">¥878.97 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -4.84 (-0.55%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:43:17（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -201,7 +201,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">24,798.69</span>
       <span class="ticker-change up">▲ +3.68%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg28646" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,38.0 L23.2,35.3 L42.4,33.2 L61.6,36.2 L80.8,35.3 L100.0,37.6 L119.2,31.8 L138.4,30.1 L157.6,27.8 L176.8,21.1 L196.0,6.0 L196,40 Z" fill="url(#sg28646)"/><polyline points="4.0,38.0 23.2,35.3 42.4,33.2 61.6,36.2 80.8,35.3 100.0,37.6 119.2,31.8 138.4,30.1 157.6,27.8 176.8,21.1 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg54099" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,35.7 L25.3,33.6 L46.7,36.6 L68.0,35.6 L89.3,38.0 L110.7,32.2 L132.0,30.4 L153.3,28.1 L174.7,21.3 L196.0,6.0 L196,40 Z" fill="url(#sg54099)"/><polyline points="4.0,35.7 25.3,33.6 46.7,36.6 68.0,35.6 89.3,38.0 110.7,32.2 132.0,30.4 153.3,28.1 174.7,21.3 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>港股基准大盘</span>
       
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$95.26 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.64 (+0.68%)</span>
+      <span class="ticker-price ticker-up">$97.15 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +2.53 (+2.68%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:41:33（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:43:21（非实时）</div>
   </div>
 </div>
 
@@ -495,6 +495,66 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-05/10726958.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社台北11月5日电 受国际科技股回调及全球金融市场波动影响，台北股市加权指数5日下跌1374.19点，以41574.72点报收，连续6个交易日下跌。" data-title="受国际科技股回调等冲击 台股连续6个交易日下跌" data-date="11-05 23:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-05 23:26</span>
+          <span class="news-item-title">受国际科技股回调等冲击 台股连续6个交易日下跌</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-05/10726957.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月5日电 (梁峻祥 李映民)泰国自5日凌晨5时起，下调部分汽油及汽油醇零售价格，每升下调0.7泰铢(1泰铢约合0.22元人民币)，柴油价格维持不变。" data-title="泰国下调部分汽油及汽油醇价格" data-date="11-05 23:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-05 23:25</span>
+          <span class="news-item-title">泰国下调部分汽油及汽油醇价格</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-05/10726945.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网厦门11月5日电 (记者 阮煜琳)11月5日，由中方牵头起草、亚太经合组织(APEC)经济体共同参与的《APEC海洋素养行动计划》(以下简称行动计划)在2026厦门国际海洋周上正式发布，为未来五年APEC海洋合作构建“社会赋能”支柱，进一步稳固区域合作网络。" data-title="APEC海洋素养行动计划启动 为未来海洋合作构建“社会赋能”支柱" data-date="11-05 23:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-05 23:07</span>
+          <span class="news-item-title">APEC海洋素养行动计划启动 为未来海洋合作构建“社会赋能”支柱</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天，我与经济学家、哈佛商学院管理实践教授、即将出版的《我的东西从何而来》一书的作者Willy Shih进行了交谈。全球供应链背后的强大经济学。威利是m" data-title="The hidden supply chain costs of the AI boom" data-date="11-05 23:00" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-05 23:00</span>
+          <span class="news-item-title">The hidden supply chain costs of the AI boom</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-05/10726935.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨11月5日电 (记者 王琳)由黑龙江省人民政府新闻办公室举行的“2026—2027年黑龙江冬季冰雪旅游百日行动”新闻发布会于5日在哈尔滨发布消息：2026年1月—10月，黑龙江省接待入境游客180.5万人次，实现入境游客花费198.1亿元人民币，分别同比增长35.6%、36.7%。" data-title="黑龙江优化入境旅游服务 前10个月入境游客花费同比增长36.7%" data-date="11-05 22:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-05 22:51</span>
+          <span class="news-item-title">黑龙江优化入境旅游服务 前10个月入境游客花费同比增长36.7%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/023/010.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 5 日消息，据央视新闻今日报道，今年以来，我国氢能产业快速发展，前三季度氢能产业投资实现翻番。数据显示，今年前三季度我国氢能产业总投资 287 亿元，同比增长 108%，实现翻番。可再生能源制氢新开工项目 10 余个，新增投运产能 10 万吨。截至目前，我国可再生能源制氢项目建成投运年产能累计超过 35 万吨，占全球产能比重超过 50％，在建项目的年产能超过 120 万吨，处于全球领先水平。IT之家附不同区域情况如下：华北地区建成的产能最高，占到全国 45%；其次为东北地区，占全国的 36%；第三是西北地区，占到全国的 15%。目前，我国可再生能源制氢中，单体项目规模水平快速提高，万吨以上项目占比接近五成。" data-title="实现翻番！今年前三季度我国氢能产业总投资 287 亿元，同比增长 108%" data-date="11-05 22:46" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-05 22:46</span>
+          <span class="news-item-title">实现翻番！今年前三季度我国氢能产业总投资 287 亿元，同比增长 108%</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13608374/cristiano-ronaldo-portugal-captains-retirement-ends-extraordinary-record-breaking-international-career-which-will-be-debated-for-years-to-come" target="_blank" rel="noopener" data-cat="caijing" data-summary="奖杯、眼泪、记录和赛道，克里斯蒂亚诺·罗纳尔多的国际职业生涯拥有一切。" data-title="Trophies, tears, records and rows - Ronaldo&#39;s Portugal career will divide opinion" data-date="11-05 20:53" data-source="天空体育">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-05 20:53</span>
+          <span class="news-item-title">Trophies, tears, records and rows - Ronaldo's Portugal career will divide opinion</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-05/10726833.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月5日电 (梁峻祥 李映民)第九届中国国际进口博览会5日在上海开幕。泰国商务部国际贸易促进厅组织泰国企业参加此次展会，希望借助进博会平台展示泰国商品，拓展对华贸易渠道。" data-title="泰国冀借进博会拓展对华贸易合作" data-date="11-05 20:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-05 20:40</span>
+          <span class="news-item-title">泰国冀借进博会拓展对华贸易合作</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="一些民主党人很快表示，他们可能试图推翻总统的税收和贸易政策，无视他早期的否决权威胁。" data-title="In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump" data-date="11-05 18:04" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-05 18:04</span>
+          <span class="news-item-title">In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-05/10726750.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网曼谷11月5日电(王茜 李映民)生活垃圾处理是泰国首都曼谷面临的重要城市治理课题。由中资企业建设运营的安努生活垃圾焚烧发电厂近日正式全面投入运营，为当地探索生活垃圾资源化利用、推动绿色低碳发展提供了新的实践。" data-title="中资企业助力曼谷垃圾资源化利用" data-date="11-05 17:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-05 17:50</span>
+          <span class="news-item-title">中资企业助力曼谷垃圾资源化利用</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-05/10726690.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社上海11月5日电(记者孟佳、周蕊)第九届中国国际进口博览会5日在上海开幕。一批赋能产业、惠及民生的前沿成果集中亮相，全球首发、亚洲首展、中国首秀的代表性展品超过480件，创历年新高，其中全球首发首秀展品超过200件。" data-title="新高有新意：进博会首发首展首秀产品超480件" data-date="11-05 16:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -525,66 +585,6 @@ title: 股票财经
           <span class="news-item-date">11-05 15:55</span>
           <span class="news-item-title">产业链“牵手”人才链 陕西搭建多平台集聚高层次科创人才</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-05/10726632.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南昌11月5日电(卢梦梦)11月4日，为期5天的2026南昌航空产业博览会在江西南昌绿地国际博览中心闭幕。“本届博览会展览面积3万平方米，接待观众4万人次，首次设立了商业航天展区，意向成交金额突破15.6亿元。”在11月5日南昌市召开的相关新闻通气会上，南昌高新招商集团党委副书记刘捷介绍。" data-title="2026南昌航空产业博览会闭幕 意向成交金额超15.6亿元" data-date="11-05 15:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-05 15:52</span>
-          <span class="news-item-title">2026南昌航空产业博览会闭幕 意向成交金额超15.6亿元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-05/10726641.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="央视网消息(新闻联播)：记者11月4日从农业农村部了解到，前三季度，我国农业农村发展保持良好势头，为国民经济延续总体平稳、向新向优态势提供有力支撑。" data-title="前三季度农业农村发展保持良好势头" data-date="11-05 15:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-05 15:45</span>
-          <span class="news-item-title">前三季度农业农村发展保持良好势头</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-05/10726599.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网柏林11月5日电 综合德国媒体报道，德国巴伐利亚州副州长兼州经济、发展和能源部长胡贝特·艾旺格(Hubert Aiwanger)4日在柏林一家酒店去世。巴伐利亚州政府和警方向媒体证实了这一消息。目前死亡原因尚不清楚。" data-title="德媒：德国巴伐利亚州副州长艾旺格去世" data-date="11-05 14:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-05 14:59</span>
-          <span class="news-item-title">德媒：德国巴伐利亚州副州长艾旺格去世</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-05/10726594.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社雅加达11月5日电 (记者 李志全)印度尼西亚中央统计局5日公布的数据显示，2026年第三季度，印尼国内生产总值(GDP)同比增长5.47%，高于市场预期。" data-title="印尼三季度经济同比增长5.47%  高于市场预期" data-date="11-05 14:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-05 14:57</span>
-          <span class="news-item-title">印尼三季度经济同比增长5.47%  高于市场预期</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="民主党在美国中期选举中取得胜利，将在特朗普总统余下的任期内掌控国会，标志着美国政治格局出现重大变化。从乌克兰和中东的冲突，到美国与中国的贸易关系，BBC记者分析这次选举结果对世界其他地区意味着什么。" data-title="美国中期选举结果对中国和世界各国意味着什么？" data-date="11-05 05:02" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-05 05:02</span>
-          <span class="news-item-title">美国中期选举结果对中国和世界各国意味着什么？</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位世界上最富有的人激怒了民主党人，其中一些人表示，当他们控制国会时，他们打算对他进行调查。" data-title="SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas" data-date="11-05 03:28" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-05 03:28</span>
-          <span class="news-item-title">SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/04/business/midterm-elections-stock-market.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="由于投资者预见到华盛顿将陷入僵局，市场交易走高，这通常是一个看涨的信号。" data-title="Stocks Rise as Democrats Flip Control of Congress" data-date="11-05 03:24" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-05 03:24</span>
-          <span class="news-item-title">Stocks Rise as Democrats Flip Control of Congress</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-04/10726321.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社上海11月4日电 (记者 许婧 郑莹莹)在华访问的奥地利总理克里斯蒂安·施托克尔(Christian Stocker)4日携奥地利联邦政府高层代表及企业代表团到访同济大学，为同济师生作主题演讲，并出席汉斯·李斯特(Hans List)教授同济任教百年活动，寄望两国美好未来。" data-title="奥地利总理施托克尔到访同济大学 共叙两国百年科研合作情谊" data-date="11-04 22:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-04 22:57</span>
-          <span class="news-item-title">奥地利总理施托克尔到访同济大学 共叙两国百年科研合作情谊</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-04/10726320.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月4日电 (记者 黄钰钦)澜沧江－湄公河合作第十一次外长会4日在北京举行。中共中央政治局委员、外交部长王毅和泰国副总理兼外长西哈萨共同主持会议，柬埔寨副首相兼外交大臣布拉索昆，老挝副总理兼外长通沙万，越南外长黎怀忠，缅甸国家计划、投资与对外经济部部长昂觉霍出席。" data-title="澜沧江－湄公河合作第十一次外长会在北京举行" data-date="11-04 22:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-04 22:55</span>
-          <span class="news-item-title">澜沧江－湄公河合作第十一次外长会在北京举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-04/10726310.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网成都11月4日电 (记者 王鹏)记者4日从成都高新区获悉，全球创意经济与创意生态可持续发展合作中心(成都)(以下简称成都中心)当日正式落地成都高新区中国—欧洲中心。" data-title="全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区" data-date="11-04 22:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-04 22:24</span>
-          <span class="news-item-title">全球创意经济与创意生态可持续发展合作中心（成都）落地成都高新区</span>
-        </a>
   </div>
 </div>
 
@@ -598,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-05 16:39（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-05 23:41（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
