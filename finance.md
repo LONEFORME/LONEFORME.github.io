@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-07 03:35（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-07 15:54（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -428,7 +428,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+46.7 亿</span>
+      <span class="sector-flow-badge">+28.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -441,7 +441,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+47.9 亿</span>
+      <span class="sector-flow-badge">+21.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -454,7 +454,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+34.4 亿</span>
+      <span class="sector-flow-badge">+41.0 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -467,7 +467,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+25.5 亿</span>
+      <span class="sector-flow-badge">+17.9 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -493,8 +493,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/023/745.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 7 日消息，@魔兽世界无限 今天（11 月 7 日）发布微博，宣布《魔兽世界：无限》国服刷新史上最高开服同时在线人数，并在全球平台上创下两项历史纪录。IT之家附上官方微博内容如下：暴雪官方发布《魔兽世界》：“无限”已创下两项历史纪录！&gt;&gt;《魔兽世界》史上最高上线峰值在线人数！&gt;&gt;《魔兽世界》史上最多的回归玩家人数！&gt;&gt;《魔兽世界》国服也刷新史上最高开服同时在线人数！这一切都离不开玩家们的热爱与支持！我们也将持续治理游戏环境，尽我们所能为冒险者提供超纯净的游戏环境，打击各项违规行为。祝大家周末愉快，冒险快乐！《魔兽世界：无限》国服已经于 2026 年 11 月 5 日与全球同步上线，是以经典 60 级艾泽拉斯为基础，继续开发新地图、新剧情和新玩法的一个独立分支，官方公布了" data-title="《魔兽世界：无限》游戏国服刷新史上最高开服同时在线人数" data-date="11-07 15:41" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-07 15:41</span>
+          <span class="news-item-title">《魔兽世界：无限》游戏国服刷新史上最高开服同时在线人数</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/023/726.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 7 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，享界 V8 全国试驾正式开启，欢迎带上家人一起体验，期待听到大家的真实反馈。发布会临近，敬请期待！据IT之家了解，享界 V8 是鸿蒙智行旗下享界品牌首款 MPV，该车提供纯电与增程两种动力形式，全系标配 800V 高压平台、±12° 后轮转向和华为干昆智驾系统，预售价 32.98 万元起。华为官网显示，享界 V8 采用七座布局设计，分 Ultra+、Ultra、Max+ 和 Max 四个版本。除 Max+ 外，享界 V8 其余版本均可选 800V 增程或 800V 纯电动力。享界 V8 Ultra+预售价：增程版 40.98 万元起 | 纯电版 44.98 万元起四驱 + 双腔空簧 + 双" data-title="华为余承东：享界 V8 全国试驾正式开启，发布会临近敬请期待" data-date="11-07 15:34" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-07 15:34</span>
+          <span class="news-item-title">华为余承东：享界 V8 全国试驾正式开启，发布会临近敬请期待</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-07/10727818.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月7日电 北京时间11月6日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话。双方围绕落实好中美元首北京和华盛顿会晤重要共识和经贸磋商成果，就彼此关心的重要经贸问题进行了坦诚、深入、建设性的交流。中方就近期美对华经贸限制措施表达严正关切。双方同意在两国元首战略引领下，继续发挥好中美经贸磋商机制作用，持续加强合作，妥善管控分歧，推动中美经贸关系持续稳定向好发展，助力构建“基于尊重、公平、对等的中美建设性战略稳定关系”。(完)" data-title="何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话" data-date="11-07 12:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 12:07</span>
+          <span class="news-item-title">何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-07/10727814.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月7日电 中国商务部新闻发言人7日就美制裁中国企业答记者问时称，中方坚决反对美方以涉及第三方为由，对中国企业采取单边制裁。" data-title="中国商务部回应美国制裁两家中国企业" data-date="11-07 12:03" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 12:03</span>
+          <span class="news-item-title">中国商务部回应美国制裁两家中国企业</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10727819.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="自日本首相高市早苗上台以来，日本政府不断加速军事扩张，并在舆论宣传上加大力度，企图对日本民众洗脑，灌输其扩军政策。据日本方面5日消息，针对计划在年内修订“安保三文件”，日本政府已将宣传经费的预算上限设定为总计3亿日元(约合人民币1267万元)。近期，日本政府通过“夫妻漫才”的形式，兜售其安保政策，相关做法引发日本各界强烈不满。" data-title="为修订“安保三文件” 日投入巨额宣传经费" data-date="11-07 11:24" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 11:24</span>
+          <span class="news-item-title">为修订“安保三文件” 日投入巨额宣传经费</span>
+        </a>
         <a class="news-item" href="https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote" target="_blank" rel="noopener" data-cat="caijing" data-summary="在两党的支持下，一项巨大的许可法案正在推进，该法案可以帮助能源项目更快地上线，并可能降低美国人的水电费。虽然它可以成为大量清洁能源的催化剂，但它也可以加速" data-title="Lame-duck Congress might actually do something: speed up energy projects" data-date="11-07 02:42" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
@@ -543,18 +573,6 @@ title: 股票财经
           <span class="news-item-date">11-06 22:00</span>
           <span class="news-item-title">Elegoo M1 Ultra review: A good first entry into the scanner market</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqlyeen0z8x2o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="市场正对美国期中选举后可能加强审查数据中心建设及人工智能产业的前景作出反应。" data-title="美国中期选举后，AI放缓忧虑重创全球大型科技股，韩国股市熔断" data-date="11-06 13:19" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-06 13:19</span>
-          <span class="news-item-title">美国中期选举后，AI放缓忧虑重创全球大型科技股，韩国股市熔断</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="奥利弗·格拉斯纳（ Oliver Glasner ）坚持认为他的诺丁汉森林队无法依靠“鲜花力量”生存，因为他试图在俱乐部的信任和尊重之间取得平衡。" data-title="Forest need balance between Woodstock and military" data-date="11-06 06:30" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-06 06:30</span>
-          <span class="news-item-title">Forest need balance between Woodstock and military</span>
-        </a>
   </div>
 </div>
 
@@ -568,4 +586,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-07 03:35（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-07 15:54（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
