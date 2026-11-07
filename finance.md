@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-07 15:54（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-07 22:16（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,8 +493,74 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/023/813.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 7 日消息，据日经亚洲 6 日报道，印度最大科技行业协会 —— 印度全国软件与服务公司协会会长拉杰什 · 南比亚尔警告，随着 AI 逐渐接手基础编程和软件测试工作，印度应届大学毕业生进入科技行业可能更加困难。南比亚尔认为，求职难的问题，可能要等到印度软件出口企业适应新的商业环境后才能缓解。随着技术基础设施管理等传统核心业务的工作量减少，企业需要开拓网络安全、AI 咨询、技术部署及维护等新业务，弥补由此造成的业务缺口。他进一步指出，软件企业的收费模式正从按项目投入人数计费转向按实际成果收费，应届毕业生的求职门槛也会随之改变。因此，高校需要调整计算机专业课程，否则印度可能出现数以千计的工科毕业生，所学技能却无法满足企业需求。“对刚毕业的学生来说，这确实是个令人担忧的问题，我不" data-title="印度 IT 行业领袖警告：AI 或致应届毕业生更难进入科技行业" data-date="11-07 21:48" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-07 21:48</span>
+          <span class="news-item-title">印度 IT 行业领袖警告：AI 或致应届毕业生更难进入科技行业</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/023/810.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 7 日消息，据新闻联播报道，今年以来，在保障电力供应基础上，我国积极拓展核能供热供汽等多元场景，加快推进核能综合利用。在江苏连云港，全球首个三代加四代核电技术的徐圩核能综合利用项目正在加快建设。这座核电站不只生产电力，还能大规模制造工业蒸汽，直供连云港石化产业基地。参考IT之家此前报道，江苏徐圩核能供热发电厂的高温气冷堆“炽龙一号”核岛建设已于 11 月 6 日全面启动，这标志着我国自主四代核电技术迈入规模化商业化落地阶段。它采用球形燃料元件，能耐受 1620 摄氏度高温，即使核电站丧失冷却功能，反应堆也能靠自然散热保持安全。如今，核能的应用场景正在不断拓展。在大连红沿河核电站，已经开始向周边两万多居民提供清洁供暖。在秦山核电基地，商用反应堆实现镥‑177、钇‑90 等医" data-title="我国核技术应用年直接经济产值预计将达 4000 亿元，未来有望形成万亿级市场规模" data-date="11-07 21:32" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-07 21:32</span>
+          <span class="news-item-title">我国核技术应用年直接经济产值预计将达 4000 亿元，未来有望形成万亿级市场规模</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/023/809.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 7 日消息，今天（7 日）晚间，日产汽车通过官方公众号发布声明称，近期，有不法分子冒用“日产（中国）投资有限公司”及相关监管部门名义，向部分日产车主发送虚假召回短信、伪造召回文件，附带非官方链接、二维码，诱导车主填写个人及车辆信息实施电信诈骗。日产（中国）投资有限公司声明：上述短信、文件均非日产官方发布的召回通知，请广大车主提高警惕，切勿点击可疑链接、扫描陌生二维码，不要向不明渠道提供身份证、银行卡、验证码等敏感信息。声明表示，日产汽车始终将保障每一位车主的用车安全与信息权益置于首要位置。官方召回通知绝不会以任何名义要求车主线上转账、付费，或是提交银行卡、短信验证码等隐私信息，全力守护车主的信息与财产安全。日产汽车提醒，如需核实召回信息，请通过国家市场监督管理总局缺陷产品" data-title="日产汽车声明：警惕冒充日产中国发布虚假召回信息的电信诈骗" data-date="11-07 21:25" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-07 21:25</span>
+          <span class="news-item-title">日产汽车声明：警惕冒充日产中国发布虚假召回信息的电信诈骗</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728161.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本政府11月5日在参议院外务防卫委员会会议上透露，着眼于年内修改《国家安全保障战略》等三份安保相关文件，政府为公共宣传和政策推介活动设定的经费上限合计达3亿日元(约合1264万元人民币)。日本政府此举已在日本国内引发争议。" data-title="高市政府用“漫才”包装扩军政策有何企图？" data-date="11-07 21:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 21:14</span>
+          <span class="news-item-title">高市政府用“漫才”包装扩军政策有何企图？</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728158.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本政府计划在今年年内修订“安保三文件”。与此同时，日本政府正推动军事研究与经济产业深度融合，相关动向引发日本国内对日本政府军事扩张及地区安全局势的担忧。有日本学者表示，日本政府一系列强化军事能力、推动军事研究发展的措施或将进一步加剧地区紧张局势。" data-title="日本学者：日政府强化军事能力或加剧地区紧张局势" data-date="11-07 21:10" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 21:10</span>
+          <span class="news-item-title">日本学者：日政府强化军事能力或加剧地区紧张局势</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-07/10728107.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网厦门11月7日电 (记者 林永传)以“AI新经济，美能改变世界”为主题的第十八届世界美发大会，6日至7日在厦门国际会展中心举办， 上万名海内外美业从业者参会。" data-title="AI赋能美业创新 第十八届世界美发大会在厦门举办" data-date="11-07 21:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 21:07</span>
+          <span class="news-item-title">AI赋能美业创新 第十八届世界美发大会在厦门举办</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-07/10728102.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆11月7日电(马佳欣 张霁雯)重庆国际人才交流大会·第四届重庆三峡人才节7日在重庆万州开幕。本次活动汇聚海内外院士专家、外国驻华领事机构代表、国内外高校及企业代表，集中完成一批科创平台揭牌、人才项目签约，发布渝东北人才需求与“揭榜挂帅”科技攻关榜单，为渝东北库区高质量发展集聚智力资源。" data-title="第四届重庆三峡人才节启幕 渝东北10区县广发“英雄帖”" data-date="11-07 21:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 21:05</span>
+          <span class="news-item-title">第四届重庆三峡人才节启幕 渝东北10区县广发“英雄帖”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728141.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网雅加达11月7日电 (记者 李志全)印度尼西亚玛琅国立大学孔子学院主办的“学中文，拓职路——企业宣讲与人才对接会”11月6日在玛琅国立大学举行。玛琅国立大学副校长穆金、玛中大学副校长万旺，以及当地多所高校中文专业负责人、6家中资企业代表和近300名大学生参加活动。" data-title="中文赋能职业发展  印尼高校学子走近中国企业" data-date="11-07 20:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 20:58</span>
+          <span class="news-item-title">中文赋能职业发展  印尼高校学子走近中国企业</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728137.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网金边11月7日电 (张堰林 杨强)柬埔寨发展理事会6日发布的统计数据显示，该国今年10月份共批准注册37个固定资产投资项目，协议投资总额2.46亿美元。其中，中国投资占总额的65.2%，是当月柬埔寨最大外资来源国。" data-title="今年前10月柬埔寨批准固定资产项目投资逾61亿美元" data-date="11-07 20:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 20:53</span>
+          <span class="news-item-title">今年前10月柬埔寨批准固定资产项目投资逾61亿美元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-07/10728089.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“红星照耀中国·红旗漫卷大别山”｜宿松白崖寨：红色资源赋能乡村产业发展" data-title="宿松白崖寨：红色资源赋能乡村产业发展" data-date="11-07 19:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-07 19:50</span>
+          <span class="news-item-title">宿松白崖寨：红色资源赋能乡村产业发展</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/video-games/retro-gaming/ea-producer-found-20-000-archival-media-assets-in-secret-physical-vault-at-its-hq-betacam-vhs-and-d1-tapes-among-6000-assets-digitized-to-remaster-seven-classic-games" target="_blank" rel="noopener" data-cat="caijing" data-summary="成千上万的档案媒体资产的发现导致了一些经典游戏的周年纪念版的创作。" data-title="EA producer found 20,000 archival media assets in secret physical vault at its HQ" data-date="11-07 19:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-07 19:30</span>
+          <span class="news-item-title">EA producer found 20,000 archival media assets in secret physical vault at its HQ</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/023/745.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 7 日消息，@魔兽世界无限 今天（11 月 7 日）发布微博，宣布《魔兽世界：无限》国服刷新史上最高开服同时在线人数，并在全球平台上创下两项历史纪录。IT之家附上官方微博内容如下：暴雪官方发布《魔兽世界》：“无限”已创下两项历史纪录！&gt;&gt;《魔兽世界》史上最高上线峰值在线人数！&gt;&gt;《魔兽世界》史上最多的回归玩家人数！&gt;&gt;《魔兽世界》国服也刷新史上最高开服同时在线人数！这一切都离不开玩家们的热爱与支持！我们也将持续治理游戏环境，尽我们所能为冒险者提供超纯净的游戏环境，打击各项违规行为。祝大家周末愉快，冒险快乐！《魔兽世界：无限》国服已经于 2026 年 11 月 5 日与全球同步上线，是以经典 60 级艾泽拉斯为基础，继续开发新地图、新剧情和新玩法的一个独立分支，官方公布了" data-title="《魔兽世界：无限》游戏国服刷新史上最高开服同时在线人数" data-date="11-07 15:41" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -519,60 +585,6 @@ title: 股票财经
           <span class="news-item-date">11-07 12:03</span>
           <span class="news-item-title">中国商务部回应美国制裁两家中国企业</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10727819.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="自日本首相高市早苗上台以来，日本政府不断加速军事扩张，并在舆论宣传上加大力度，企图对日本民众洗脑，灌输其扩军政策。据日本方面5日消息，针对计划在年内修订“安保三文件”，日本政府已将宣传经费的预算上限设定为总计3亿日元(约合人民币1267万元)。近期，日本政府通过“夫妻漫才”的形式，兜售其安保政策，相关做法引发日本各界强烈不满。" data-title="为修订“安保三文件” 日投入巨额宣传经费" data-date="11-07 11:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-07 11:24</span>
-          <span class="news-item-title">为修订“安保三文件” 日投入巨额宣传经费</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote" target="_blank" rel="noopener" data-cat="caijing" data-summary="在两党的支持下，一项巨大的许可法案正在推进，该法案可以帮助能源项目更快地上线，并可能降低美国人的水电费。虽然它可以成为大量清洁能源的催化剂，但它也可以加速" data-title="Lame-duck Congress might actually do something: speed up energy projects" data-date="11-07 02:42" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-07 02:42</span>
-          <span class="news-item-title">Lame-duck Congress might actually do something: speed up energy projects</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-06/10727718.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月6日电 (王茜 李映民)泰国外籍劳工管理委员会6日召开工作会议，劳工部长朱拉汶在会后表示，泰国政府拟推出五项外籍劳工管理新措施，以缓解企业用工压力，保障劳动力供应。相关措施涉及延长工作许可、放宽部分外籍劳工居留和工作条件，以及增加劳工来源国等。" data-title="泰国拟推五项外籍劳工管理新措施" data-date="11-06 23:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-06 23:58</span>
-          <span class="news-item-title">泰国拟推五项外籍劳工管理新措施</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-06/10727696.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新闻发布会现场。耿新洲 摄 中新网晋中11月6日电(高雨晴)“‘十五五’时期，我们将坚持走特优农业发展的路子，重点抓好规模集聚、龙头牵引、技术攻关、精深加工、品牌培育、产业融合等方面工作，努力将晋中打造成全省现代特优农业的先行区、集聚区、示范地。”山西省晋中市农业农村局党组书记、局长段燕瑞6日介绍。" data-title="山西晋中绘就“十五五”特优农业路线图 打造先行区、集聚区、示范地" data-date="11-06 23:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-06 23:37</span>
-          <span class="news-item-title">山西晋中绘就“十五五”特优农业路线图 打造先行区、集聚区、示范地</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-06/10727690.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网无锡11月6日电 (记者 孙自法)第十五届中国国际专利技术与产品交易会(专交会)11月6日在江苏无锡开幕，作为本届专交会开场活动之一，第三届长江经济带高价值专利转化运用大赛(“长高赛”)方案当天发布，助力专利从“赛场”走向“市场”。" data-title="第三届“长高赛”方案在专交会发布 助力专利从“赛场”走向“市场”" data-date="11-06 23:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-06 23:35</span>
-          <span class="news-item-title">第三届“长高赛”方案在专交会发布 助力专利从“赛场”走向“市场”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在周四美国大幅抛售后，全球市场感到不安，但在投资者动荡的一周结束时出现了反弹。" data-title="Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread" data-date="11-06 23:07" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-06 23:07</span>
-          <span class="news-item-title">Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/023/564.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 6 日消息，美国股市今日开盘后，AI 硬件产业链全线反弹，费城半导体指数最高涨 6.57%。个股方面，AMD 涨 13.2%，闪迪涨 11.75%，希捷科技涨 6.34%，美光科技涨 9.07%，迈威尔科技涨 9.46%，Lumentum 涨 9.58%；英伟达涨 6.44%，台积电涨 7.55%，博通涨 4.56%。IT之家注意到，美国股市 AI 概念相关股票当地时间周四迎来了暴跌，道琼斯工业平均指数收盘下跌超过 1,800 点，跌幅约 3.4%；标普 500 指数下跌 4.4%；纳斯达克综合指数暴跌 5.5%，创 2025 年 4 月以来最大单日跌幅，并跌入技术性回调区间。" data-title="美股 AI 硬件股集体反弹，费城半导体指数涨 6.5%" data-date="11-06 22:58" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-06 22:58</span>
-          <span class="news-item-title">美股 AI 硬件股集体反弹，费城半导体指数涨 6.5%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-06/10727623.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社东京11月6日电 (记者 朱晨曦)据日本共同社6日报道，针对俄方临时接管日本烟草公司在俄资产一事，日本外务省欧洲局局长中村仁威当天向俄罗斯驻日本大使诺兹德廖夫提出抗议，要求俄方撤销该决定。" data-title="日本抗议俄临时接管日企在俄资产" data-date="11-06 22:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-06 22:30</span>
-          <span class="news-item-title">日本抗议俄临时接管日企在俄资产</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/3d-printing/3d-scanning/elegoo-m1-ultra-review" target="_blank" rel="noopener" data-cat="caijing" data-summary="Elegoo的第一台扫描仪是一个有用的工具，但它需要一些额外的工作。" data-title="Elegoo M1 Ultra review: A good first entry into the scanner market" data-date="11-06 22:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-06 22:00</span>
-          <span class="news-item-title">Elegoo M1 Ultra review: A good first entry into the scanner market</span>
-        </a>
   </div>
 </div>
 
@@ -586,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-07 15:54（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-07 22:16（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
