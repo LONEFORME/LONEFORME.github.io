@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-08 16:11（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-08 22:25（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,8 +493,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/024/005.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，据观察者网报道，11 月 5 日，蔚来创始人、董事长兼 CEO 李斌与吉利控股集团董事长李书福，在 2026 世界互联网大会乌镇咖荟 · 汽车夜话进行对话。这是双方在 9 月 28 日蔚来与吉利达成充换电战略合作后的首次公开对话。李书福表示，吉利完全认同换电模式，新能源车电池是会衰减损坏的，但一台车的使用周期不止七八九年，这个矛盾必须找到解决方案，“直接换一块全新电池包，太贵；拆解翻新修复电池，成本同样很高。所以换电，就是解决这个问题。”据IT之家此前报道，9 月 28 日，蔚来与吉利控股集团达成充换电领域全面战略合作。双方达成技术、运营、资本全方面合作共识，将联合投资双方充换电业务主体公司，共享充换电技术与标准，共建充换电服务网络。吉利控股集团将以其持有的易" data-title="李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发" data-date="11-08 22:01" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 22:01</span>
+          <span class="news-item-title">李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/023/998.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，当地时间 3 日，据外媒 Tech4Gamer 报道，前 XBOX 游戏工作室副总裁香农 · 洛夫蒂斯直言，夏尔马领导下的 XBOX “简直是一场闹剧”，她很同情那些还得忍受这种局面的人。此前，前首席运营官海伦 · 蒋因“违反微软规定”而被解雇。洛夫蒂斯谈及此事时，直接指责 XBOX 管理层丧失道德操守，并对海伦 · 蒋表示公开声援。海伦 · 蒋本人也曾含蓄地指责夏尔马散布有关她离职的谎言。曾在微软工作 29 年、负责过《帝国时代》系列的洛夫蒂斯，还抨击了夏尔马及其团队处理海伦 · 蒋离职事件的方式。她认为，真正称职的 CEO 应该追查是谁向外界泄露虚假消息，谎称蒋因违反公司规定而被解雇。开发预算高达 5 亿美元（IT之家注：现汇率约合 33.45 亿元人民币" data-title="前 XBOX 高管洛夫蒂斯炮轰夏尔马：老东家在她领导下堪比一场闹剧" data-date="11-08 21:02" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 21:02</span>
+          <span class="news-item-title">前 XBOX 高管洛夫蒂斯炮轰夏尔马：老东家在她领导下堪比一场闹剧</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728520.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月8日电 (记者 黄欣欣)“海阔同舟 梦启京华”2026年北京市台生台青就业实习专场推介会8日在北京大学举办。60余家企业提供500余个岗位、现场揽才，许多台生台青前来参加。" data-title="北京市向台生台青推介500余个就业实习机会" data-date="11-08 20:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-08 20:38</span>
+          <span class="news-item-title">北京市向台生台青推介500余个就业实习机会</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-08/10728483.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网天津11月8日电 (记者 周亚强)第八届“智能社会”论坛7日在天津举办，主题为“构建更有温度的智能社会”。来自全国多所高校和科研机构的近百名专家学者参会，围绕智能科技深度嵌入经济社会发展带来的机遇与风险展开研讨。" data-title="第八届“智能社会”论坛天津举办 聚焦构建更有温度的智能社会" data-date="11-08 19:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-08 19:38</span>
+          <span class="news-item-title">第八届“智能社会”论坛天津举办 聚焦构建更有温度的智能社会</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位前脱欧谈判代表表示，欧盟国家将拒绝英国任何“单点”选择遵守经济规则的企图。" data-title="原欧盟脱欧谈判代表巴尼耶：英国不能“挑肥拣瘦”" data-date="11-08 18:03" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-08 18:03</span>
+          <span class="news-item-title">原欧盟脱欧谈判代表巴尼耶：英国不能“挑肥拣瘦”</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/023/914.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，洛图科技发文表示，全球液晶电视面板市场的价格在 9 月提前企稳之后，10 月全尺寸产品继续持平结算。预测 11 月主流行情将继续持平。更向后的 12 月，洛图科技预测，55 寸之上的中大尺寸将率先迎来涨价，涨幅在 2-5 美元（IT之家注：现汇率约合 13.4 - 33.5 元人民币）。55 寸涨 2 美元（现汇率约合 13.4 元人民币）65、75 寸各涨 3 美元（现汇率约合 20.1 元人民币）85 寸涨 5 美元（现汇率约合 33.5 元人民币）▲ 数据来源：洛图科技，单位：美元洛图科技称，12 月的上行启动，是“成本推动＋供给收缩”的结构性涨价，不是需求扩张驱动的普涨。对比之前预测的 2026 年“Q1 涨-Q2 稳-Q3 跌-Q4 稳”行情走势，以" data-title="洛图科技：中大尺寸液晶电视面板价格预计 12 月开启上涨，涨 2" data-date="11-08 15:47" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -531,30 +561,6 @@ title: 股票财经
           <span class="news-item-date">11-07 23:42</span>
           <span class="news-item-title">全球最大、发展最快！我国可再生能源技术占据全球主导地位</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728161.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本政府11月5日在参议院外务防卫委员会会议上透露，着眼于年内修改《国家安全保障战略》等三份安保相关文件，政府为公共宣传和政策推介活动设定的经费上限合计达3亿日元(约合1264万元人民币)。日本政府此举已在日本国内引发争议。" data-title="高市政府用“漫才”包装扩军政策有何企图？" data-date="11-07 21:14" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-07 21:14</span>
-          <span class="news-item-title">高市政府用“漫才”包装扩军政策有何企图？</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728158.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="日本政府计划在今年年内修订“安保三文件”。与此同时，日本政府正推动军事研究与经济产业深度融合，相关动向引发日本国内对日本政府军事扩张及地区安全局势的担忧。有日本学者表示，日本政府一系列强化军事能力、推动军事研究发展的措施或将进一步加剧地区紧张局势。" data-title="日本学者：日政府强化军事能力或加剧地区紧张局势" data-date="11-07 21:10" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-07 21:10</span>
-          <span class="news-item-title">日本学者：日政府强化军事能力或加剧地区紧张局势</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728141.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网雅加达11月7日电 (记者 李志全)印度尼西亚玛琅国立大学孔子学院主办的“学中文，拓职路——企业宣讲与人才对接会”11月6日在玛琅国立大学举行。玛琅国立大学副校长穆金、玛中大学副校长万旺，以及当地多所高校中文专业负责人、6家中资企业代表和近300名大学生参加活动。" data-title="中文赋能职业发展 印尼高校学子走近中国企业" data-date="11-07 20:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-07 20:58</span>
-          <span class="news-item-title">中文赋能职业发展 印尼高校学子走近中国企业</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728137.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网金边11月7日电 (张堰林 杨强)柬埔寨发展理事会6日发布的统计数据显示，该国今年10月份共批准注册37个固定资产投资项目，协议投资总额2.46亿美元。其中，中国投资占总额的65.2%，是当月柬埔寨最大外资来源国。" data-title="今年前10月柬埔寨批准固定资产项目投资逾61亿美元" data-date="11-07 20:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-07 20:53</span>
-          <span class="news-item-title">今年前10月柬埔寨批准固定资产项目投资逾61亿美元</span>
-        </a>
   </div>
 </div>
 
@@ -568,4 +574,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-08 16:11（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-08 22:25（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
