@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-08 22:25（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-09 01:59（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,19 +493,19 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/024/005.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，据观察者网报道，11 月 5 日，蔚来创始人、董事长兼 CEO 李斌与吉利控股集团董事长李书福，在 2026 世界互联网大会乌镇咖荟 · 汽车夜话进行对话。这是双方在 9 月 28 日蔚来与吉利达成充换电战略合作后的首次公开对话。李书福表示，吉利完全认同换电模式，新能源车电池是会衰减损坏的，但一台车的使用周期不止七八九年，这个矛盾必须找到解决方案，“直接换一块全新电池包，太贵；拆解翻新修复电池，成本同样很高。所以换电，就是解决这个问题。”据IT之家此前报道，9 月 28 日，蔚来与吉利控股集团达成充换电领域全面战略合作。双方达成技术、运营、资本全方面合作共识，将联合投资双方充换电业务主体公司，共享充换电技术与标准，共建充换电服务网络。吉利控股集团将以其持有的易" data-title="李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发" data-date="11-08 22:01" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/024/008.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，据第一财经，在 5 日的 2026 世界互联网大会 · 乌镇咖荟 · 汽车夜话上，博世智能驾驶与控制系统事业部（XC）中国区总裁吴永桥发表观点认为，汽车不会成为“第三空间”，车机也不该重复手机已经做得很好的事。吴永桥直言，当前很多人都认为汽车会成为第三空间，但自己认为“永远不会”。之所以如此判断，依据是自身的项目经验和实际使用数据。其透露，博世为全球客户做了百余个座舱项目，涉及的功能就包括在车上订咖啡、订餐馆、订火锅店、订机票、订酒店，后来却发现用者寥寥，“几乎没人用”。IT之家从报道中获悉，在他看来，即使自动驾驶演进到 L3、L4，人不需要自己开车、坐在车里没事干，也不会用车机去订火车票、订酒店，依然会用手机。原因在于，手机的迭代速度、算法、模型和 App" data-title="博世吴永桥：汽车不该拿来订咖啡、订机票，建议手机和车机划清边界" data-date="11-08 22:28" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 22:01</span>
-          <span class="news-item-title">李书福称吉利完全认同换电模式，“车电不同寿”的矛盾还没集中爆发</span>
+          <span class="news-item-date">11-08 22:28</span>
+          <span class="news-item-title">博世吴永桥：汽车不该拿来订咖啡、订机票，建议手机和车机划清边界</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/023/998.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，当地时间 3 日，据外媒 Tech4Gamer 报道，前 XBOX 游戏工作室副总裁香农 · 洛夫蒂斯直言，夏尔马领导下的 XBOX “简直是一场闹剧”，她很同情那些还得忍受这种局面的人。此前，前首席运营官海伦 · 蒋因“违反微软规定”而被解雇。洛夫蒂斯谈及此事时，直接指责 XBOX 管理层丧失道德操守，并对海伦 · 蒋表示公开声援。海伦 · 蒋本人也曾含蓄地指责夏尔马散布有关她离职的谎言。曾在微软工作 29 年、负责过《帝国时代》系列的洛夫蒂斯，还抨击了夏尔马及其团队处理海伦 · 蒋离职事件的方式。她认为，真正称职的 CEO 应该追查是谁向外界泄露虚假消息，谎称蒋因违反公司规定而被解雇。开发预算高达 5 亿美元（IT之家注：现汇率约合 33.45 亿元人民币" data-title="前 XBOX 高管洛夫蒂斯炮轰夏尔马：老东家在她领导下堪比一场闹剧" data-date="11-08 21:02" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/024/007.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，据财联社报道，在比亚迪仰望鼎曜发布会后的媒体沟通会上，比亚迪品牌及公关处总经理李云飞表示，今年比亚迪全年销量相较去年会略有增长，其中一方面来自海外更高的增长。他同时表示，在第二代刀片电池和闪充技术加持下，比亚迪国内市场整体情况好于国内大盘。据IT之家此前报道，比亚迪 10 月产销快报显示：10 月新能源汽车销量约 49.02 万辆，同比增长 10.97%；前 10 个月累计销量约 362.17 万辆，同比下降 2.16%。其中，纯电动汽车 10 月销量约 30.57 万辆，同比增长 37.38%；插电式混合动力汽车销量约 17.74 万辆，同比下降 17.22%。前 10 个月纯电动汽车累计销量约 193.57 万辆，同比增长 5.86%；插混汽车累计销量约" data-title="李云飞：比亚迪今年全年销量预计略有增长，海外增长更高" data-date="11-08 22:27" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 21:02</span>
-          <span class="news-item-title">前 XBOX 高管洛夫蒂斯炮轰夏尔马：老东家在她领导下堪比一场闹剧</span>
+          <span class="news-item-date">11-08 22:27</span>
+          <span class="news-item-title">李云飞：比亚迪今年全年销量预计略有增长，海外增长更高</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728520.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月8日电 (记者 黄欣欣)“海阔同舟 梦启京华”2026年北京市台生台青就业实习专场推介会8日在北京大学举办。60余家企业提供500余个岗位、现场揽才，许多台生台青前来参加。" data-title="北京市向台生台青推介500余个就业实习机会" data-date="11-08 20:38" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -525,42 +525,6 @@ title: 股票财经
           <span class="news-item-date">11-08 18:03</span>
           <span class="news-item-title">原欧盟脱欧谈判代表巴尼耶：英国不能“挑肥拣瘦”</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/023/914.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，洛图科技发文表示，全球液晶电视面板市场的价格在 9 月提前企稳之后，10 月全尺寸产品继续持平结算。预测 11 月主流行情将继续持平。更向后的 12 月，洛图科技预测，55 寸之上的中大尺寸将率先迎来涨价，涨幅在 2-5 美元（IT之家注：现汇率约合 13.4 - 33.5 元人民币）。55 寸涨 2 美元（现汇率约合 13.4 元人民币）65、75 寸各涨 3 美元（现汇率约合 20.1 元人民币）85 寸涨 5 美元（现汇率约合 33.5 元人民币）▲ 数据来源：洛图科技，单位：美元洛图科技称，12 月的上行启动，是“成本推动＋供给收缩”的结构性涨价，不是需求扩张驱动的普涨。对比之前预测的 2026 年“Q1 涨-Q2 稳-Q3 跌-Q4 稳”行情走势，以" data-title="洛图科技：中大尺寸液晶电视面板价格预计 12 月开启上涨，涨 2" data-date="11-08 15:47" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 15:47</span>
-          <span class="news-item-title">洛图科技：中大尺寸液晶电视面板价格预计 12 月开启上涨，涨 2</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/023/910.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，2013 年，大众推出了 XL1—— 一款将燃油经济性做到极致的特殊车型，当时号称“世界上最省油的量产车”。它的研发历时 12 年，上市时售价高达 15 万美元。从工程设计来看，这款车堪称杰作。大众总共只生产了 250 辆，稀有程度甚至超过同时期的布加迪威龙。当地时间 5 日，据外媒 insideevs 报道，目前，荷兰有一辆 2016 款 XL1 正在 Catawiki 网站拍卖，里程表读数刚超过 1600km，据称车内外都保持着极佳状态。这款车由时任大众掌门人费迪南德 · 皮耶希主导开发。一向不肯轻易放弃远大目标的皮耶希，为了实现百公里油耗仅 1L 的造车目标，坚持推动项目长达 12 年，期间经历多轮设计调整，最终才让这款车问世。为了尽可能降低油耗，大众几" data-title="“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆" data-date="11-08 15:31" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 15:31</span>
-          <span class="news-item-title">“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728355.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“作为连续九年参加进博会的‘全勤生’，我们期待与更多伙伴深化合作，共享时代机遇”“希望与中国市场共同成长”“长期扎根”“加大投入”……正在举行的第九届中国国际进口博览会上，《国际锐评》评论员对话多位外企高管，发现“中国机遇2.0”成为他们口中的关键词；“十五五”开局之年，跨国企业普遍渴望抓住中国大市场扩容提质的重要机遇。" data-title="国际锐评丨进博之约让世界共享开放红利" data-date="11-08 15:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 15:18</span>
-          <span class="news-item-title">国际锐评丨进博之约让世界共享开放红利</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728278.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月8日电 题：台企“回流”大陆印证产供链深度嵌合" data-title="评论：台企“回流”大陆印证产供链深度嵌合" data-date="11-08 11:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 11:03</span>
-          <span class="news-item-title">评论：台企“回流”大陆印证产供链深度嵌合</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月7日电 (梁峻祥 李映民)泰国总理阿努廷7日表示，泰国目前粮食和能源供应总体稳定，民众无需担忧出现食品及生活必需品短缺。泰国将发挥本国农业生产优势，同时通过扩大生物燃料使用、推动能源来源多元化等措施，增强国家应对外部风险的能力。" data-title="泰国强调粮食和能源安全 以多元供应体系应对外部风险" data-date="11-07 23:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-07 23:52</span>
-          <span class="news-item-title">泰国强调粮食和能源安全 以多元供应体系应对外部风险</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-07/10728191.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="今天(7日)，中国企业改革与发展研究会发布了《全球能源转型报告(2026)》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。" data-title="全球最大、发展最快！我国可再生能源技术占据全球主导地位" data-date="11-07 23:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-07 23:42</span>
-          <span class="news-item-title">全球最大、发展最快！我国可再生能源技术占据全球主导地位</span>
-        </a>
   </div>
 </div>
 
@@ -574,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-08 22:25（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-09 01:59（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>

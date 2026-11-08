@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-08 22:25 抓取更新</span>
+      <span>2026-11-09 01:59 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">60</span>
+        <span class="channel-count">55</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -33,7 +33,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">10</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
@@ -56,46 +56,47 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">60</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">55</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">10</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×19 · Tom's Hardware×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · 天空体育×9</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据埃及方面8日消息，一列由埃及首都开罗开往该国南部阿斯旺的列车在埃及吉萨省境内发生脱轨事故，4节车厢脱轨。事故导致列车司机死亡。埃及卫生部长称事故还导致64人受伤。" data-title="埃及列车脱轨事故致司机死亡 64人受伤" data-date="11-08 21:20" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Eisenkot先生是一名职业将领，也是以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的主要竞争对手，现在将有长达六周的时间组建联盟。" data-title="Who Is Gadi Eisenkot, Israel’s Opposition Leader?" data-date="11-09 01:46" data-source="纽约时报">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 11-08 21:20</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="hero-featured-date">🕒 11-09 01:46</span>
       </div>
-      <h2 class="hero-featured-title">埃及列车脱轨事故致司机死亡 64人受伤</h2>
+      <h2 class="hero-featured-title">以色列反对党领袖加迪·艾森科特（ Gadi Eisenkot ）是谁？</h2>
+      <div class="hero-featured-title-en">Who Is Gadi Eisenkot, Israel’s Opposition Leader?</div>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage" target="_blank" rel="noopener" data-cat="keji" data-summary="在2006年的这一天，英伟达发布了传奇的GeForce 8800 GTX显卡，并以非常苛刻（但免费）的交互式Steam演示来庆祝这一事件。" data-title="Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage" data-date="11-08 22:20" data-source="Tom's Hardware">
+    <a class="hero-sub-card" href="https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit" target="_blank" rel="noopener" data-cat="keji" data-summary="Suno正面临另一起诉讼。埃尔维斯·普雷斯利（ Elvis Presley ）音乐的一群版权所有者和阿姆（ Eminem ）一些最大唱片的发行商正在起诉这家AI音乐公司，声称它非法制作模仿这些音乐和歌词的音乐和歌词。" data-title="Elvis and Eminem rights holders are suing Suno" data-date="11-09 01:23" data-source="The Verge">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+        <span class="source-badge source-theverge">🌐 The Verge</span>
       </div>
-      <p class="hero-sub-title">Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage</p>
+      <p class="hero-sub-title">Elvis and Eminem rights holders are suing Suno</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="从格林尼治标准时间下午2点开始的⚽️英超联赛⚽️现场记分牌更新|桌子|给Simon发电子邮件伊普斯维奇的灾难性目标！主队的守门员克里斯·沃尔顿（ Chris Walton ）试图将球带过猛冲的埃文尼尔森（ Evanilson ） ，失败了，被剥夺了，其余的我" data-title="Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League" data-date="11-08 22:23" data-source="卫报">
+    <a class="hero-sub-card" href="https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="格林威治标准时间下午4:30的⚽️英超联赛最新消息乔纳森·威尔逊（⚽️ Jonathan Wilson ） ：埃默⚽️里离开别墅的原因不多| Mail TimSunderland坚持以1-0击败切尔西，这对他们来说是一个很好的结果。还有另一个尴尬" data-title="Manchester United v Aston Villa: Premier League" data-date="11-09 01:58" data-source="卫报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-theathletic">🇬🇧 卫报</span>
       </div>
-      <p class="hero-sub-title">Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League</p>
+      <p class="hero-sub-title">Manchester United v Aston Villa: Premier League</p>
     </a>
-    <a class="hero-sub-card" href="https://www.ithome.com/1/024/003.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，雷柏现已推出 VT2 RT V2 系列鼠标，将于 11 月 10 日 20:00 开售，售价 499 元起：VT2 RT V2：售价 499 元VT2 RT 大师版 V2 ：售价 599 元该系列鼠标搭载雷柏自研 VTCS 可变触发控制系统，支持类机械微动、类光微动、电磁按键三种触感，可调 10 档触发行程、10 档 RT 行程、3 种点击触感、10 档点击反馈、10 种点击音效、10 档点击音量，左右按键可独立调节。该系列鼠标搭载 NORDIC 54LM20 主控 + 原相 3955 Ultimate 传感器，拥有 750 IPS 追踪速度、60G 加速度，支持原生无线 8KHz 与有线 8KHz 传输回报率。标准版配备 nano 8K 接收器，内置 800" data-title="雷柏推出 VT2 RT V2 系列鼠标：类机械 / 光微动、电磁按键三种触感，499 元起" data-date="11-08 21:48" data-source="IT之家">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/live-blog/11661/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Brighton latest: VOTE - Are Hurzeler&#39;s side genuine PL title contenders?" data-title="Brighton latest: VOTE - Are Hurzeler&#39;s side genuine PL title contenders?" data-date="11-09 00:27" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">雷柏推出 VT2 RT V2 系列鼠标：类机械 / 光微动、电磁按键三种触感，499 元起</p>
+      <p class="hero-sub-title">Brighton latest: VOTE - Are Hurzeler's side genuine PL title contenders?</p>
     </a>
   </div>
 </div>
@@ -106,6 +107,38 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Eisenkot先生是一名职业将领，也是以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的主要竞争对手，现在将有长达六周的时间组建联盟。" data-title="Who Is Gadi Eisenkot, Israel’s Opposition Leader?" data-date="11-09 01:46" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-09 01:46</span>
+          <span class="news-item-title">以色列反对党领袖加迪·艾森科特（ Gadi Eisenkot ）是谁？</span>
+          <span class="news-item-title-en">Who Is Gadi Eisenkot, Israel’s Opposition Leader?</span>
+          <span class="news-value-point">💡 Eisenkot先生是一名职业将领，也是以色列总理本雅明·内塔尼亚胡（ Benjamin Netanyahu ）的主要竞争对手，现在将有长达六周…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="随着美国人吸收了一个惊人的新政治现实，他们面临着他们实际决定与总统完成的时间和他实际完成的时间之间的差距。" data-title="For Trump and America, a Clear Election Verdict but a Murky Future" data-date="11-09 00:25" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-09 00:25</span>
+          <span class="news-item-title">对于特朗普和美国来说，一个明确的选举裁决，但一个模糊的未来</span>
+          <span class="news-item-title-en">For Trump and America, a Clear Election Verdict but a Murky Future</span>
+          <span class="news-value-point">💡 随着美国人吸收了一个惊人的新政治现实，他们面临着他们实际决定与总统完成的时间和他实际完成的时间之间的差距</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report" target="_blank" rel="noopener" data-cat="shizheng" data-summary="埃文尼尔森的另一个进球帮助马可·罗斯（ Marco Rose ）的伯恩茅斯（ Bournemouth ）连续第八场胜利，在伊普斯维奇（ Ipswich ）以2-1艰难获胜。埃文尼尔森在本赛季的前六场比赛中未能得分，但连续第五次获得总理利亚（ Premier Lea ）的净胜利" data-title="Evanilson launches eighth straight Bournemouth win at blundering Ipswich" data-date="11-09 00:14" data-source="卫报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">11-09 00:14</span>
+          <span class="news-item-title">伊万尼尔森在浮躁的伊普斯维奇连续第八次赢得伯恩茅斯</span>
+          <span class="news-item-title-en">Evanilson launches eighth straight Bournemouth win at blundering Ipswich</span>
+          <span class="news-value-point">💡 埃文尼尔森的另一个进球帮助马可·罗斯（ Marco Rose ）的伯恩茅斯（ Bournemouth ）连续第八场胜利，在伊普斯维奇（ Ipsw…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/08/us/politics/hakeem-jeffries-house-democrats-speaker.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="排队成为第一位黑人议长的人是一位保守的温和派，左翼活动人士认为他太胆小，无法对抗特朗普总统。他说，他“非常有能力”把事情做好。" data-title="Hakeem Jeffries, in Line to Become House Speaker, Promises Bold Agenda" data-date="11-09 00:12" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-09 00:12</span>
+          <span class="news-item-title">Hakeem Jeffries ，即将成为众议院议长，承诺大胆的议程</span>
+          <span class="news-item-title-en">Hakeem Jeffries, in Line to Become House Speaker, Promises Bold Agenda</span>
+          <span class="news-value-point">💡 排队成为第一位黑人议长的人是一位保守的温和派，左翼活动人士认为他太胆小，无法对抗特朗普总统</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-08/10728548.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据埃及方面8日消息，一列由埃及首都开罗开往该国南部阿斯旺的列车在埃及吉萨省境内发生脱轨事故，4节车厢脱轨。事故导致列车司机死亡。埃及卫生部长称事故还导致64人受伤。" data-title="埃及列车脱轨事故致司机死亡 64人受伤" data-date="11-08 21:20" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -184,44 +217,51 @@ title: 热点新闻
           <span class="news-item-title-en">Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work</span>
           <span class="news-value-point">💡 凯莉·霍利-博克尔曼（ Kelly Holley-Bockelmann ）是美国顶尖的天体物理学家之一，直到特朗普总统的政策影响了她工作的方方面…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-08/10728474.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社曼谷11月8日电 (王茜 李映民)泰国职业安全、职业健康与工作环境促进研究所所长南猜8日表示，气候变化导致全球气温升高、天气状况日趋不稳定，给劳动者健康和职业安全带来风险，其中户外工作者及高风险环境中的劳动者面临的威胁尤为突出。" data-title="泰国职业安全机构警示气候变化威胁劳动者健康与安全" data-date="11-08 19:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 19:40</span>
-          <span class="news-item-title">泰国职业安全机构警示气候变化威胁劳动者健康与安全</span>
-          <span class="news-value-point">💡 中新社曼谷11月8日电 (王茜 李映民)泰国职业安全、职业健康与工作环境促进研究所所长南猜8日表示，气候变化导致全球气温升高、天气状况日趋不稳定…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/08/us/politics/for-trump-and-america-a-clear-election-verdict-leaves-a-murky-future.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="随着美国人吸收了一个惊人的新政治现实，他们面临着他们实际决定与总统完成的时间和他实际完成的时间之间的差距。" data-title="For Trump and America, a Clear Election Verdict but a Murky Future" data-date="11-08 18:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-08 18:02</span>
-          <span class="news-item-title">对于特朗普和美国来说，一个明确的选举裁决，但一个模糊的未来</span>
-          <span class="news-item-title-en">For Trump and America, a Clear Election Verdict but a Murky Future</span>
-          <span class="news-value-point">💡 随着美国人吸收了一个惊人的新政治现实，他们面临着他们实际决定与总统完成的时间和他实际完成的时间之间的差距</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/08/us/elections/mississippi-black-senator.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="历史的回声围绕着斯科特·科洛姆（ Scott Colom ）走向胜利的最后一步，但在民主党多次失败后，组建推动他前进的联盟付出了艰苦的努力。" data-title="How Mississippi Reached the Verge of Electing a Black Senator" data-date="11-08 18:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-08 18:02</span>
-          <span class="news-item-title">密西西比州如何达到选举黑人参议员的边缘</span>
-          <span class="news-item-title-en">How Mississippi Reached the Verge of Electing a Black Senator</span>
-          <span class="news-value-point">💡 历史的回声围绕着斯科特·科洛姆（ Scott Colom ）走向胜利的最后一步，但在民主党多次失败后，组建推动他前进的联盟付出了艰苦的努力</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/08/us/politics/republican-blame-trump-midterms.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在上周的中期亏损之后，共和党进入了多年来最不确定的时刻。一些共和党人呼吁节制和打扫房子，但由于特朗普总统仍在白宫，这将很困难。" data-title="Republicans Point Fingers, but Trump Does Not Appear to Be Listening" data-date="11-08 18:01" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-08 18:01</span>
-          <span class="news-item-title">共和党人指责特朗普，但特朗普似乎并没有在听</span>
-          <span class="news-item-title-en">Republicans Point Fingers, but Trump Does Not Appear to Be Listening</span>
-          <span class="news-value-point">💡 在上周的中期亏损之后，共和党进入了多年来最不确定的时刻</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">10 条</span>
     </div>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit" target="_blank" rel="noopener" data-cat="keji" data-summary="Suno正面临另一起诉讼。埃尔维斯·普雷斯利（ Elvis Presley ）音乐的一群版权所有者和阿姆（ Eminem ）一些最大唱片的发行商正在起诉这家AI音乐公司，声称它非法制作模仿这些音乐和歌词的音乐和歌词。" data-title="Elvis and Eminem rights holders are suing Suno" data-date="11-09 01:23" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-09 01:23</span>
+          <span class="news-item-title">猫王和Eminem权利人起诉Suno</span>
+          <span class="news-item-title-en">Elvis and Eminem rights holders are suing Suno</span>
+          <span class="news-value-point">💡 Suno正面临另一起诉讼</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/013.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今天（8 日）晚间更新的《Power On》时事通讯中披露，苹果新任 CEO 约翰 · 特努斯敦促软件工程主管克雷格 · 费德里吉加快 AI 业务发展，采取更大胆的策略，目标是将 Siri 升级为能够自主替用户完成任务的 AI 智能体。上周的财报电话会议上，特努斯对苹果的 AI 业务表现得相当乐观。谈及新版 Siri 时特努斯更是自信十足：苹果终于实现了多年来的设想，公司 AI 业务迎来了新篇章。“我们对收到的评价和反馈非常满意，也非常高兴看到越来越多的用户能够体验到它。”但在苹果内部，特努斯的态度却截然不同。他深知苹果仍远远落后于竞争对手。最近几周，特努斯与去年接替原 AI 负责人、掌管苹果 AI 业务的费德里吉举行了一次闭门会议" data-title="古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI" data-date="11-08 23:36" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 23:36</span>
+          <span class="news-item-title">古尔曼称苹果 CEO 特努斯“上任三把火”，敦促软件主管费德里吉大胆搞 AI</span>
+          <span class="news-value-point">💡 IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今天（8 日）晚间更新的《Power On》时事通讯中披露，苹果新任 CEO 约翰 …</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/cooling/diamond-foundry-creates-worlds-first-200mm-single-crystal-diamond-wafer-massive-gem-aims-to-solve-ai-chip-cooling-crisis-envisioned-as-a-cooling-material-for-semiconductors" target="_blank" rel="noopener" data-cat="keji" data-summary="这款200毫米单晶金刚石晶圆旨在有效去除热量并防止AI处理器上形成热点。" data-title="Diamond Foundry creates world&#39;s first 200mm single-crystal diamond wafer" data-date="11-08 23:25" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-08 23:25</span>
+          <span class="news-item-title">Diamond Foundry打造全球首款200mm单晶金刚石晶圆</span>
+          <span class="news-item-title-en">Diamond Foundry creates world's first 200mm single-crystal diamond wafer</span>
+          <span class="news-value-point">💡 这款200毫米单晶金刚石晶圆旨在有效去除热量并防止AI处理器上形成热点</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/010.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 8 日消息，蚂蚁集团旗下 AI 助手灵光宣布：自今年 10 月 27 日灵光 2.0 上线以来，一周内已帮助用户管理超 116 万项事务，执行超 360 万次任务。灵光用户已突破 2000 万。参考IT之家先前报道，蚂蚁集团于 10 月 27 日发布灵光 2.0，其最大特性是 AI 介入任务的起点进一步前移。过去，用户需要先发现问题、提出需求，再由 AI 执行；如今，在获得用户授权后，灵光能够结合已接入的信息与服务，主动识别潜在需求，并发起分析、监测和跟进，并在需要用户关注的节点及时提醒。AI 不再只是等待指令的工具，而开始成为能够持续管理事务的助手。除此之外，灵光 2.0 还接入了蚂蚁 APASS，作为 AI 时代跨智能体、跨设备、跨应用与服务场景的统一账号和安全管理基" data-title="蚂蚁集团：旗下 AI 助手灵光用户数量已突破 2000 万，2.0 版本上线一周已帮助用户管理超 116 万项事务" data-date="11-08 22:47" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 22:47</span>
+          <span class="news-item-title">蚂蚁集团：旗下 AI 助手灵光用户数量已突破 2000 万，2.0 版本上线一周已帮助用户管理超 116 万项事务</span>
+          <span class="news-value-point">💡 IT之家 11 月 8 日消息，蚂蚁集团旗下 AI 助手灵光宣布：自今年 10 月 27 日灵光 2.0 上线以来，一周内已帮助用户管理超 11…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/software/linux/the-end-of-an-era-as-linux-7-5-purges-the-last-30-year-old-intel-mmx-optimizations-from-pentium-age-open-source-os-retires-ancient-1997-pentium-instructions-to-streamline-code" target="_blank" rel="noopener" data-cat="keji" data-summary="Linux开发人员正准备让英特尔古老的多媒体扩展变得无关紧要，现在将从内核中删除最后一段MMX代码。" data-title="The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age" data-date="11-08 22:40" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-08 22:40</span>
+          <span class="news-item-title">Linux 7.5时代的结束清除了奔腾时代过去30年的英特尔MMX优化</span>
+          <span class="news-item-title-en">The end of an era as Linux 7.5 purges the last 30-year-old Intel MMX optimizations from Pentium age</span>
+          <span class="news-value-point">💡 Linux开发人员正准备让英特尔古老的多媒体扩展变得无关紧要，现在将从内核中删除最后一段MMX代码</span>
+        </a>
         <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/nvidia-released-its-8800-gtx-gpu-20-years-ago-today-celebrates-with-steam-game-homage-interactive-demos-eye-watering-minimum-requirements-include-rtx-4070-32gb-ram-and-30gb-storage" target="_blank" rel="noopener" data-cat="keji" data-summary="在2006年的这一天，英伟达发布了传奇的GeForce 8800 GTX显卡，并以非常苛刻（但免费）的交互式Steam演示来庆祝这一事件。" data-title="Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage" data-date="11-08 22:20" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
@@ -230,50 +270,12 @@ title: 热点新闻
           <span class="news-item-title-en">Nvidia released its 8800 GTX GPU 20 years ago today, celebrates with Steam game homage</span>
           <span class="news-value-point">💡 在2006年的这一天，英伟达发布了传奇的GeForce 8800 GTX显卡，并以非常苛刻（但免费）的交互式Steam演示来庆祝这一事件</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/004.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 8 日消息，保时捷宣布，911、Taycan、Panamera 和卡宴都将迎来一次大幅“性能”升级。不过，此次提升的不是发动机动力，而是车机算力。保时捷本周发布了新一代保时捷通讯管理系统（PCM），算力最高可达上一代的 5 倍。得益于全新硬件架构，车机启动和应用加载速度更快，同时运行多个应用时也更加流畅。除了提升响应速度，新系统还增加了多项功能。保时捷把最早搭载于纯电卡宴的数字交互系统引入 911、Taycan、Panamera，以及燃油版、混动版卡宴。新界面提供五种主题、可自定义的桌面组件，还能根据车主的实车生成 3D 车辆模型。对于喜欢在车库里欣赏爱车的保时捷车主来说，以后坐在车里也能好好端详自己的汽车。中控屏可以显示与实车颜色一致的 3D 模型，驾驶员不仅能随意旋转" data-title="保时捷多款车型车机性能升级：新一代通讯管理系统算力达前代 5 倍" data-date="11-08 21:50" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 21:50</span>
-          <span class="news-item-title">保时捷多款车型车机性能升级：新一代通讯管理系统算力达前代 5 倍</span>
-          <span class="news-value-point">💡 IT之家 11 月 8 日消息，保时捷宣布，911、Taycan、Panamera 和卡宴都将迎来一次大幅“性能”升级</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/002.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 8 日消息，据外媒 Road&amp;Track 报道，当地时间 3 日，奔驰展示了两项新技术，分别是 Intelligent Display in Glass 车窗智能显示技术和 Holographic Display 全息显示技术。按照奔驰设想，后挡风玻璃可以显示各种警告标志和交通信息，提醒后方司机。相比能提醒后车减速的普通刹车灯，奔驰的方案还能告诉后车为什么要减速，提示前方发生交通事故、有人过马路等信息。奔驰为此考虑了两种 LED 技术。Mini LED 适合后挡风玻璃等面积较大的显示区域，分辨率更高的 Micro LED 则适合在较小的区域显示动画。奔驰还展示了 Micro LED 在侧窗上的应用。驾驶员可以通过车窗查看电池电量，离开车辆时，车窗甚至会跟你说“再见”。IT" data-title="奔驰要把屏幕“装”进车玻璃：后挡风能提醒注意路况，侧窗能告诉你汽车电量" data-date="11-08 21:28" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 21:28</span>
-          <span class="news-item-title">奔驰要把屏幕“装”进车玻璃：后挡风能提醒注意路况，侧窗能告诉你汽车电量</span>
-          <span class="news-value-point">💡 IT之家 11 月 8 日消息，据外媒 Road&Track 报道，当地时间 3 日，奔驰展示了两项新技术，分别是 Intelligent Di…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers" target="_blank" rel="noopener" data-cat="keji" data-summary="被批准接收H200芯片的New Matrix和Maginfra的办公室似乎被遗弃了，大楼里的人说他们对这些公司不熟悉，或者从未见过任何人在那里工作。" data-title="Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses" data-date="11-08 21:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-08 21:00</span>
-          <span class="news-item-title">两家获准购买被禁Nvidia AI芯片的中国公司办公室空置，地址不详</span>
-          <span class="news-item-title-en">Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses</span>
-          <span class="news-value-point">💡 被批准接收H200芯片的New Matrix和Maginfra的办公室似乎被遗弃了，大楼里的人说他们对这些公司不熟悉，或者从未见过任何人在那里工…</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728516.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社合肥11月8日电 (记者 张俊)中国首款可互联中性原子量子计算机“干阵”原型机8日在安徽省合肥市发布。" data-title="中国首款可互联中性原子量子计算机“干阵”原型机在合肥发布" data-date="11-08 20:40" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">11-08 20:40</span>
           <span class="news-item-title">中国首款可互联中性原子量子计算机“干阵”原型机在合肥发布</span>
           <span class="news-value-point">💡 中新社合肥11月8日电 (记者 张俊)中国首款可互联中性原子量子计算机“干阵”原型机8日在安徽省合肥市发布</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback" target="_blank" rel="noopener" data-cat="keji" data-summary="CPU-Z数据显示PC内存容量首次下降。在人工智能DRAM价格飙升的推动下， 64GB RAM的采用率同比下降了18%。" data-title="PC&#39;s with 64GB of RAM plummet 18% as memory prices soar" data-date="11-08 20:40" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-08 20:40</span>
-          <span class="news-item-title">随着内存价格飙升，配备64GB内存的个人电脑暴跌18%</span>
-          <span class="news-item-title-en">PC's with 64GB of RAM plummet 18% as memory prices soar</span>
-          <span class="news-value-point">💡 CPU-Z数据显示PC内存容量首次下降</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/homelabber-uses-second-gen-optane-memory-sticks-to-run-a-2-8-trillion-parameter-ai-model-on-cpu-alone-warns-that-optanes-extreme-heat-can-burn-out-nearby-memory-dram-used-blower-fans-to-prevent-melting-ram" target="_blank" rel="noopener" data-cat="keji" data-summary="Reddit家庭实验室用户在Optane PMem 200上以0.85令牌/秒的1位定量运行Moonshot AI的2.8万亿参数Kimi K3 CPU。" data-title="Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone" data-date="11-08 20:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-08 20:20</span>
-          <span class="news-item-title">Homelabber使用第二代Optane记忆棒仅在CPU上运行2.8万亿参数的AI模型</span>
-          <span class="news-item-title-en">Homelabber uses second-gen Optane memory sticks to run a 2.8-trillion-parameter AI model on CPU alone</span>
-          <span class="news-value-point">💡 Reddit家庭实验室用户在Optane PMem 200上以0.85令牌/秒的1位定量运行Moonshot AI的2.8万亿参数Kimi K3…</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728502.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="新华社北京11月8日电#8195;专访｜“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫" data-title="专访｜“推动全球人工智能治理不断完善，中国是正确的”" data-date="11-08 20:07" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -282,27 +284,12 @@ title: 热点新闻
           <span class="news-item-title">专访｜“推动全球人工智能治理不断完善，中国是正确的”</span>
           <span class="news-value-point">💡 新华社北京11月8日电#8195;专访｜“推动全球人工智能治理不断完善，中国是正确的”——访俄罗斯塔斯社社长安德烈·孔德拉绍夫</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/023/911.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 8 日消息，11 月 6 日，国家发展改革委举行奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况。国家能源局发展规划司副司长葛炬在发布会上表示，“十五五”时期，在算力等新兴产业带动下，我国用电需求仍将刚性增长，预计年均增量将达到 6000 亿度左右，相当于每年新增 3 个上海市的用电量。为做好电力保供，我们建立了电力供应充裕度预警机制，提出 2030 年电力供应充裕度大于 1.1，也就是在用电负荷最高峰时刻，仍然有 10% 的保供能力余量，确保关键时刻能够“顶住峰、兜住底”。具体来说，将从源网荷储协同发力，加强电力保供能力建设。IT之家获悉，今年迎峰度夏期间，全国用电负荷 4 次刷新历史极值，最大值比去年增加 5000 万千瓦，华北、东北、华东等 6 个区域电网用电" data-title="国家能源局：在算力等新兴产业带动下，我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量" data-date="11-08 15:34" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 15:34</span>
-          <span class="news-item-title">国家能源局：在算力等新兴产业带动下，我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量</span>
-          <span class="news-value-point">💡 IT之家 11 月 8 日消息，11 月 6 日，国家发展改革委举行奋进“十五五”系列新闻发布会，介绍筑牢安全底座有关情况</span>
-        </a>
         <a class="news-item" href="https://www.qbitai.com/2026/11/508466.html" target="_blank" rel="noopener" data-cat="keji" data-summary="没有永远的夏天" data-title="资本正在撤离“世界模型”" data-date="11-08 12:09" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
           <span class="news-item-date">11-08 12:09</span>
           <span class="news-item-title">资本正在撤离“世界模型”</span>
           <span class="news-value-point">💡 没有永远的夏天</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/this-rtx-5060-gaming-pc-costs-less-than-the-steam-machine-grab-the-ibuypower-slate-prebuilt-pc-with-massive-usd500-discount" target="_blank" rel="noopener" data-cat="keji" data-summary="百思买iBUYPOWER Slate降价500 $ ，这款RTX 5060驱动的游戏台式机降至899 $ ，配备Ryzen 5处理器、16GB DDR5内存和1TB SSD" data-title="This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount" data-date="11-08 05:27" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-08 05:27</span>
-          <span class="news-item-title">这款RTX 5060游戏PC的成本低于Steam Machine —以500 $的大幅折扣购买iBuyPower Slate预制PC</span>
-          <span class="news-item-title-en">This RTX 5060 gaming PC costs less than the Steam Machine — grab the iBuyPower Slate prebuilt PC with massive $500 discount</span>
-          <span class="news-value-point">💡 百思买iBUYPOWER Slate降价500 $ ，这款RTX 5060驱动的游戏台式机降至899 $ ，配备Ryzen 5处理器、16GB …</span>
         </a>
         <a class="news-item" href="https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官。" data-title="Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo" data-date="11-08 05:17" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -312,29 +299,6 @@ title: 热点新闻
           <span class="news-item-title-en">Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</span>
           <span class="news-value-point">💡 据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government" target="_blank" rel="noopener" data-cat="keji" data-summary="有人担心，在审查获准处理该公司H200人工智能芯片的中国公司时，商务部和英伟达都没有进行尽职调查。据《纽约时报》报道， New Matrix在" data-title="The US let Nvidia sell chips to an empty office in China" data-date="11-07 23:43" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-07 23:43</span>
-          <span class="news-item-title">美国允许英伟达向中国一间空置办公室出售芯片</span>
-          <span class="news-item-title-en">The US let Nvidia sell chips to an empty office in China</span>
-          <span class="news-value-point">💡 有人担心，在审查获准处理该公司H200人工智能芯片的中国公司时，商务部和英伟达都没有进行尽职调查</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos" target="_blank" rel="noopener" data-cat="keji" data-summary="今天，我正在与Cognition首席安全官兼长期网络安全专家Alex Stamos谈论网络安全目前的混乱局面。本集是关于现实生活中的人工智能的特别系列的一部分。我一直很喜欢聊天" data-title="AI broke the cybersecurity world. What’s next?" data-date="11-07 23:00" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-07 23:00</span>
-          <span class="news-item-title">人工智能打破了网络安全的世界。下一步是什么？</span>
-          <span class="news-item-title-en">AI broke the cybersecurity world. What’s next?</span>
-          <span class="news-value-point">💡 今天，我正在与Cognition首席安全官兼长期网络安全专家Alex Stamos谈论网络安全目前的混乱局面</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/023/824.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 7 日消息，美国联邦治安法官谢文辉（Alex Tse）裁定，Anthropic 必须继续应对 Claude Max 套餐使用额度涉嫌误导消费者的主要指控。据 Courthouse News 报道，谢文辉周五驳回了案件中的其他几项诉求。Anthropic 宣传称，月费 100 美元（IT之家注：现汇率约合 668.6 元人民币）和 200 美元（现汇率约合 1,337 元人民币）的 Max 套餐，使用额度分别是 Pro 套餐的 5 倍和 20 倍。但今年 6 月提起诉讼的消费者指控，如果按整周计算，实际额度远远达不到宣传中的倍数。两名原告卡尔 · 卡恩和所罗门 · 史密斯计算发现，以 Claude 的一款模型为例，200 美元（现汇率约合 1,337 元人民币）套餐的每周额" data-title="Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳" data-date="11-07 22:57" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-07 22:57</span>
-          <span class="news-item-title">Claude Max 订阅套餐使用额度被指“虚标”，Anthropic 辩词未获法官采纳</span>
-          <span class="news-value-point">💡 IT之家 11 月 7 日消息，美国联邦治安法官谢文辉（Alex Tse）裁定，Anthropic 必须继续应对 Claude Max 套餐使用…</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -342,121 +306,123 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="从格林尼治标准时间下午2点开始的⚽️英超联赛⚽️现场记分牌更新|桌子|给Simon发电子邮件伊普斯维奇的灾难性目标！主队的守门员克里斯·沃尔顿（ Chris Walton ）试图将球带过猛冲的埃文尼尔森（ Evanilson ） ，失败了，被剥夺了，其余的我" data-title="Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League" data-date="11-08 22:23" data-source="卫报">
+        <a class="news-item" href="https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="格林威治标准时间下午4:30的⚽️英超联赛最新消息乔纳森·威尔逊（⚽️ Jonathan Wilson ） ：埃默⚽️里离开别墅的原因不多| Mail TimSunderland坚持以1-0击败切尔西，这对他们来说是一个很好的结果。还有另一个尴尬" data-title="Manchester United v Aston Villa: Premier League" data-date="11-09 01:58" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">11-08 22:23</span>
-          <span class="news-item-title">水晶宫v利物浦、桑德兰v切尔西等：英超联赛</span>
-          <span class="news-item-title-en">Crystal Palace v Liverpool, Sunderland v Chelsea, and more: Premier League</span>
-          <span class="news-value-point">💡 从格林尼治标准时间下午2点开始的⚽️英超联赛⚽️现场记分牌更新|桌子|给Simon发电子邮件伊普斯维奇的灾难性目标</span>
+          <span class="news-item-date">11-09 01:58</span>
+          <span class="news-item-title">曼联v阿斯顿维拉：英超联赛</span>
+          <span class="news-item-title-en">Manchester United v Aston Villa: Premier League</span>
+          <span class="news-value-point">💡 格林威治标准时间下午4:30的⚽️英超联赛最新消息乔纳森·威尔逊（⚽️ Jonathan Wilson ） ：埃默⚽️里离开别墅的原因不多| M…</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/open-source-gpu-task-manager-reveals-exactly-whats-eating-your-vram-microsoft-vps-new-gpu-taskman-tool-reveals-every-process-using-your-gpu-how-much-memory-each-uses-and-breaks-down-ai-and-llm-workloads" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="微软副总裁Scott Hanselman发布了一个名为gputaskman的新开源GitHub项目。" data-title="Open-source GPU task manager reveals exactly what&#39;s eating your VRAM" data-date="11-08 21:40" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-08 21:40</span>
-          <span class="news-item-title">开源GPU任务管理器准确揭示了您的VRAM在吃什么</span>
-          <span class="news-item-title-en">Open-source GPU task manager reveals exactly what's eating your VRAM</span>
-          <span class="news-value-point">💡 微软副总裁Scott Hanselman发布了一个名为gputaskman的新开源GitHub项目</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/sunderland-vs-chelsea/live/559543" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Xhaka forced off injured but Sunderland on top vs Chelsea LIVE!" data-title="Xhaka forced off injured but Sunderland on top vs Chelsea LIVE!" data-date="11-08 20:33" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 20:33</span>
-          <span class="news-item-title">Xhaka被迫受伤，但桑德兰对阵切尔西的比赛现场直播！</span>
-          <span class="news-item-title-en">Xhaka forced off injured but Sunderland on top vs Chelsea LIVE!</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/crystal-palace-vs-liverpool/live/559536" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Pino hits the bar for Crystal Palace vs Liverpool LIVE!" data-title="Pino hits the bar for Crystal Palace vs Liverpool LIVE!" data-date="11-08 20:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 20:00</span>
-          <span class="news-item-title">皮诺登上了水晶宫vs利物浦直播的酒吧！</span>
-          <span class="news-item-title-en">Pino hits the bar for Crystal Palace vs Liverpool LIVE!</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/rugby-league/australia-vs-samoa/report/63154" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在激烈的冲突中击败萨摩亚44-12之后，澳大利亚距离创纪录的第13届男子橄榄球联赛世界杯冠军还有一场胜利，以确保在下周末的布里斯班决赛中与新西兰摊牌。" data-title="Australia reach World Cup final as Samoa fume at decisions" data-date="11-08 19:30" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 19:30</span>
-          <span class="news-item-title">澳大利亚队进入世界杯决赛，萨摩亚队在决定时烟雾弥漫</span>
-          <span class="news-item-title-en">Australia reach World Cup final as Samoa fume at decisions</span>
-          <span class="news-value-point">💡 在激烈的冲突中击败萨摩亚44-12之后，澳大利亚距离创纪录的第13届男子橄榄球联赛世界杯冠军还有一场胜利，以确保在下周末的布里斯班决赛中与新西兰…</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp" data-title="Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp" data-date="11-08 18:55" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 18:55</span>
-          <span class="news-item-title">曼城最新消息： Redknapp表示，布莱顿更有可能挑战阿森纳夺冠</span>
-          <span class="news-item-title-en">Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man Utd latest: Carrick given no assurances over future beyond Villa match" data-title="Man Utd latest: Carrick given no assurances over future beyond Villa match" data-date="11-08 18:24" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 18:24</span>
-          <span class="news-item-title">曼联最新消息：卡里克对别墅比赛以外的未来没有保证</span>
-          <span class="news-item-title-en">Man Utd latest: Carrick given no assurances over future beyond Villa match</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/boxing/news/12040/13609513/ramla-ali-and-skye-nicolson-could-be-on-a-collision-course-if-they-win-their-world-title-fights-in-texas" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="如果Ramla Ali和Skye Nicolson都赢得冠军争夺战，他们可能会在明年初的统一比赛中相遇，他们将在周一凌晨在天空体育上直播。" data-title="Ali and Nicolson on a collision course?" data-date="11-08 15:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 15:00</span>
-          <span class="news-item-title">阿里和尼科尔森在碰撞路线上？</span>
-          <span class="news-item-title-en">Ali and Nicolson on a collision course?</span>
-          <span class="news-value-point">💡 如果Ramla Ali和Skye Nicolson都赢得冠军争夺战，他们可能会在明年初的统一比赛中相遇，他们将在周一凌晨在天空体育上直播</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/ckj0l542v7pvo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联主教练迈克尔·卡里克（ Michael Carrick ）表示，队长布鲁诺·费尔南德斯（ Bruno Fernandes ）对俱乐部的承诺“毫无疑问” ，这位中场球员“一如既往”。" data-title="&#39;Bruno&#39;s as good as ever&#39; - Carrick backs Man Utd captain" data-date="11-08 06:44" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-08 06:44</span>
-          <span class="news-item-title">“布鲁诺一如既往的好” -卡里克支持曼联队长</span>
-          <span class="news-item-title-en">'Bruno's as good as ever' - Carrick backs Man Utd captain</span>
-          <span class="news-value-point">💡 曼联主教练迈克尔·卡里克（ Michael Carrick ）表示，队长布鲁诺·费尔南德斯（ Bruno Fernandes ）对俱乐部的承诺“…</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cvy0red8yl69o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="奥利弗·格拉斯纳（ Oliver Glasner ）的庆祝活动和利亚姆·德拉普（ Liam Delap ）的两个进球对一支希望在本赛季首次主场英超联赛获胜后继续前进的诺丁汉森林队来说是个" data-title="Glasner glee and Delap double - win could be lift-off for Forest" data-date="11-08 05:42" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-08 05:42</span>
-          <span class="news-item-title">Glasner glee和Delap双胜可能是Forest的起飞</span>
-          <span class="news-item-title-en">Glasner glee and Delap double - win could be lift-off for Forest</span>
-          <span class="news-value-point">💡 奥利弗·格拉斯纳（ Oliver Glasner ）的庆祝活动和利亚姆·德拉普（ Liam Delap ）的两个进球对一支希望在本赛季首次主场英…</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/07/enzo-maresca-nottingham-forest-manchester-city-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="“你需要欲望和强度……我们没有匹配他们”曼城现在已经连续输掉了三场联赛恩佐·马雷斯卡（ Enzo Maresca ）指责他的球队缺乏欲望，以及他们在决斗中被击败的方式，连续第三次击败英超联赛。赢得比赛后" data-title="Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest" data-date="11-08 05:17" data-source="卫报">
+        <a class="news-item" href="https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="找出哪位英国顶尖射手正在向进球排行榜射击。继续阅读……" data-title="Premier League top scorers 2026-27: who is leading race for the golden boot?" data-date="11-09 00:42" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">11-08 05:17</span>
-          <span class="news-item-title">恩佐·马雷斯卡（ Enzo Maresca ）在诺丁汉森林（ Nottingham Forest ）失利后对曼城缺乏欲望感到后悔</span>
-          <span class="news-item-title-en">Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest</span>
-          <span class="news-value-point">💡 “你需要欲望和强度……我们没有匹配他们”曼城现在已经连续输掉了三场联赛恩佐·马雷斯卡（ Enzo Maresca ）指责他的球队缺乏欲望，以及他…</span>
+          <span class="news-item-date">11-09 00:42</span>
+          <span class="news-item-title">2026-27赛季英超联赛最佳射手：谁是金靴赛的领跑者？</span>
+          <span class="news-item-title-en">Premier League top scorers 2026-27: who is leading race for the golden boot?</span>
+          <span class="news-value-point">💡 找出哪位英国顶尖射手正在向进球排行榜射击</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13609559/noni-madueke-has-become-a-different-player-says-mikel-arteta-as-winger-finds-new-level-of-creativity-and-efficiency" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="诺尼·马杜埃克（ Noni Madueke ）躺在草坪上，双手抱头，紧随阿森纳1-0战胜赫尔（ Hull ）的一对一失误。即使在终场哨响后，他的沮丧情绪仍在继续。" data-title="&#39;A different Noni?&#39; Madueke finding a new level for Arsenal" data-date="11-08 04:55" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 04:55</span>
-          <span class="news-item-title">“不一样的诺妮？” Madueke为阿森纳寻找新的水平</span>
-          <span class="news-item-title-en">'A different Noni?' Madueke finding a new level for Arsenal</span>
-          <span class="news-value-point">💡 诺尼·马杜埃克（ Noni Madueke ）躺在草坪上，双手抱头，紧随阿森纳1-0战胜赫尔（ Hull ）的一对一失误</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cm93z0l03n8vo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="恩佐·马雷斯卡（ Enzo Maresca ）带着“我们可以每周和你比赛吗？”的歌声离开了城市球场，因为曼城的梦想开始变成了一场噩梦。" data-title="Maresca&#39;s dream start turns into nightmare as title hopes hit" data-date="11-08 04:54" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-08 04:54</span>
-          <span class="news-item-title">马雷斯卡的梦想开始变成了噩梦，因为冠军希望击中</span>
-          <span class="news-item-title-en">Maresca's dream start turns into nightmare as title hopes hit</span>
-          <span class="news-value-point">💡 恩佐·马雷斯卡（ Enzo Maresca ）带着“我们可以每周和你比赛吗</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利亚姆·德拉普（ Liam Delap ）打进了两个令人惊叹的进球，诺丁汉森林（ Nottingham Forest ）在主场以令人印象深刻的击败曼城（ Manchester City ）结束了他们的荒芜比赛。我们在城市广场（ City Ground ）出发。在开球之前，我们将听到The Last Post。Remembrance Sunday is tomorrow. Continue r" data-title="Nottingham Forest 3-1 Manchester City: Premier League – as it happened" data-date="11-08 04:04" data-source="卫报">
+        <a class="news-item" href="https://www.theguardian.com/football/live/2026/nov/08/crystal-palace-v-liverpool-brighton-v-brentford-and-more-premier-league-live" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="桑德兰击败切尔西脱颖而出，布莱顿击败布伦特福德排名第二，而利物浦在击败水晶宫后排名第四。伊普斯维奇的灾难性进球！主队的守门员克里斯·沃尔顿（ Chris Walton ）试图将球带过" data-title="Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened" data-date="11-09 00:35" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">11-08 04:04</span>
-          <span class="news-item-title">诺丁汉森林3-1曼城：英超联赛–事实如此</span>
-          <span class="news-item-title-en">Nottingham Forest 3-1 Manchester City: Premier League – as it happened</span>
-          <span class="news-value-point">💡 利亚姆·德拉普（ Liam Delap ）打进了两个令人惊叹的进球，诺丁汉森林（ Nottingham Forest ）在主场以令人印象深刻的击…</span>
+          <span class="news-item-date">11-09 00:35</span>
+          <span class="news-item-title">水晶宫1-3利物浦，桑德兰1-0切尔西和更多：英超联赛–事实如此</span>
+          <span class="news-item-title-en">Crystal Palace 1-3 Liverpool, Sunderland 1-0 Chelsea, and more: Premier League – as it happened</span>
+          <span class="news-value-point">💡 桑德兰击败切尔西脱颖而出，布莱顿击败布伦特福德排名第二，而利物浦在击败水晶宫后排名第四</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="利亚姆·德拉普（ Liam Delap ）以诺丁汉森林（ Nottingham Forest ）以3比1击败曼城（ Manchester City ） ，在本赛季的城市球场（ City Ground ）首次赢得英超联赛" data-title="Delap double inspires Forest to stunning win over Man City" data-date="11-08 04:02" data-source="BBC">
+        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/08/brighton-brentford-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="谁能阻止布莱顿在英格兰和欧洲足球的崛起？他们继续设定标准，让几乎所有其他人都落后于他们的做法。他们在英超联赛中排名第二的位置曾经读起来像一个小故障" data-title="Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second" data-date="11-09 00:17" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">11-09 00:17</span>
+          <span class="news-item-title">迭戈·戈麦斯（ Diego Gómez ）击败布莱顿（ Brighton ）击败10人布伦特福德（ Brentford ）获得第二</span>
+          <span class="news-item-title-en">Diego Gómez hits another stunner as Brighton beat 10-man Brentford to go second</span>
+          <span class="news-value-point">💡 谁能阻止布莱顿在英格兰和欧洲足球的崛起</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/08/sunderland-chelsea-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="五个半月内可能会有很多变化，但随着本周Wearside的初冬寒意–无论是气象还是隐喻–桑德兰都决定有些事情应该保持不变。就在他们击败切尔西的时候" data-title="Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland" data-date="11-09 00:16" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">11-09 00:16</span>
+          <span class="news-item-title">勒菲的点球让切尔西眩晕，为反抗的桑德兰注入活力</span>
+          <span class="news-item-title-en">Le Fée’s penalty stuns Chelsea and breathes life into defiant Sunderland</span>
+          <span class="news-value-point">💡 五个半月内可能会有很多变化，但随着本周Wearside的初冬寒意–无论是气象还是隐喻–桑德兰都决定有些事情应该保持不变</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/08/crystal-palace-liverpool-premier-league-match-report" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="就在那一刻，利物浦知道他们将在伦敦南部赢得比赛，因此从上周日的英超联赛失利转会到安菲尔德的阿森纳，以及周中在欧洲冠军联赛的费内巴切。弗洛里安·维尔茨（ Florian Wirtz ）将他的比赛时间定为李" data-title="Wirtz provides quality to seal Liverpool win over lacklustre Crystal Palace" data-date="11-09 00:16" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">11-09 00:16</span>
+          <span class="news-item-title">Wirtz为利物浦赢得平淡无奇的水晶宫提供了优质服务</span>
+          <span class="news-item-title-en">Wirtz provides quality to seal Liverpool win over lacklustre Crystal Palace</span>
+          <span class="news-value-point">💡 就在那一刻，利物浦知道他们将在伦敦南部赢得比赛，因此从上周日的英超联赛失利转会到安菲尔德的阿森纳，以及周中在欧洲冠军联赛的费内巴切</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="恩佐·勒菲（ Enzo Le Fee ）的点球是桑德兰（ Sunderland ）从桌子底部爬下来的差异，但球员们如何对阵切尔西？" data-title="Failed to deal with Brobbey - player ratings for Sunderland v Chelsea" data-date="11-09 00:13" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-08 04:02</span>
-          <span class="news-item-title">DELAP DOUBLE激发森林的灵感，令人惊叹地战胜曼城</span>
-          <span class="news-item-title-en">Delap double inspires Forest to stunning win over Man City</span>
-          <span class="news-value-point">💡 利亚姆·德拉普（ Liam Delap ）以诺丁汉森林（ Nottingham Forest ）以3比1击败曼城（ Manchester Cit…</span>
+          <span class="news-item-date">11-09 00:13</span>
+          <span class="news-item-title">未能处理Brobbey -桑德兰对切尔西的球员评分</span>
+          <span class="news-item-title-en">Failed to deal with Brobbey - player ratings for Sunderland v Chelsea</span>
+          <span class="news-value-point">💡 恩佐·勒菲（ Enzo Le Fee ）的点球是桑德兰（ Sunderland ）从桌子底部爬下来的差异，但球员们如何对阵切尔西</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cqkgjm2dlpv6o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="水晶宫和利物浦的球员在英超比赛后的评分。" data-title="Who was back to his best? Player ratings for Crystal Palace v Liverpool" data-date="11-09 00:04" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-09 00:04</span>
+          <span class="news-item-title">谁恢复了最佳状态？水晶宫对利物浦的球员评分</span>
+          <span class="news-item-title-en">Who was back to his best? Player ratings for Crystal Palace v Liverpool</span>
+          <span class="news-value-point">💡 水晶宫和利物浦的球员在英超比赛后的评分</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Palace latest: Carragher expects Sage to be sacked after Liverpool loss" data-title="Palace latest: Carragher expects Sage to be sacked after Liverpool loss" data-date="11-09 00:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-09 00:00</span>
+          <span class="news-item-title">宫殿最新消息： Carragher预计Sage将在利物浦输球后被解雇</span>
+          <span class="news-item-title-en">Palace latest: Carragher expects Sage to be sacked after Liverpool loss</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/report/559535" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="布莱顿以2比0战胜10人布伦特福德，超越曼城，在英超联赛中排名第二。" data-title="Brighton beat 10-man Brentford to leapfrog Man City into second" data-date="11-09 00:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-09 00:00</span>
+          <span class="news-item-title">布莱顿击败10人布伦特福德，超越曼城跻身第二</span>
+          <span class="news-item-title-en">Brighton beat 10-man Brentford to leapfrog Man City into second</span>
+          <span class="news-value-point">💡 布莱顿以2比0战胜10人布伦特福德，超越曼城，在英超联赛中排名第二</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/ipswich-town-vs-bournemouth/report/559539" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="伯恩茅斯在所有比赛中连续八场胜利，他们在伊普斯维奇以2比1的胜利继续夺得英超联赛冠军。" data-title="Bournemouth win at Ipswich to record eight straight victories" data-date="11-09 00:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-09 00:00</span>
+          <span class="news-item-title">伯恩茅斯在伊普斯维奇赢得连续八场胜利</span>
+          <span class="news-item-title-en">Bournemouth win at Ipswich to record eight straight victories</span>
+          <span class="news-value-point">💡 伯恩茅斯在所有比赛中连续八场胜利，他们在伊普斯维奇以2比1的胜利继续夺得英超联赛冠军</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/sunderland-vs-chelsea/report/559543" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="切尔西表现不温不火，桑德兰以1-0的胜利脱颖而出，缓解了火力不足的经理雷吉斯·勒布里斯的压力。" data-title="Tepid Chelsea beaten by Sunderland who move off the bottom" data-date="11-09 00:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-09 00:00</span>
+          <span class="news-item-title">特皮德·切尔西（ Tepid Chelsea ）被桑德兰（ Sunderland ）击败，后</span>
+          <span class="news-item-title-en">Tepid Chelsea beaten by Sunderland who move off the bottom</span>
+          <span class="news-value-point">💡 切尔西表现不温不火，桑德兰以1-0的胜利脱颖而出，缓解了火力不足的经理雷吉斯·勒布里斯的压力</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/watch/video/13609757/goal-f-wirtz-54-crystal-palace-0-2-liverpool" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Wirtz结束了12场比赛的PL进球干旱，将利物浦的领先优势翻了一番。" data-title="Wirtz ends 12-game PL goal drought to double Liverpool’s lead over Palace" data-date="11-08 23:19" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-08 23:19</span>
+          <span class="news-item-title">Wirtz结束了12场比赛的PL进球干旱，将利物浦的领先优势翻了一番</span>
+          <span class="news-item-title-en">Wirtz ends 12-game PL goal drought to double Liverpool’s lead over Palace</span>
+          <span class="news-value-point">💡 Wirtz结束了12场比赛的PL进球干旱，将利物浦的领先优势翻了一番</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/manchester-united-vs-aston-villa/live/559541" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="CALAMITY! Man Utd&#39;s awful defending gifts Aston Villa the lead LIVE!" data-title="CALAMITY! Man Utd&#39;s awful defending gifts Aston Villa the lead LIVE!" data-date="11-08 23:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-08 23:00</span>
+          <span class="news-item-title">灾难！曼联的可怕防守礼物阿斯顿维拉现场直播！</span>
+          <span class="news-item-title-en">CALAMITY! Man Utd's awful defending gifts Aston Villa the lead LIVE!</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/watch/video/13609739/goal-a-mac-allister-crystal-palace-0-1-liverpool" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Mac Allister回到家中， Szoboszlai的任意球给了利物浦揭幕战。" data-title="Mac Allister heads home Szoboszlai&#39;s free kick to give Liverpool opener" data-date="11-08 22:46" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-08 22:46</span>
+          <span class="news-item-title">Mac Allister回家Szoboszlai的任意球给利物浦揭幕战</span>
+          <span class="news-item-title-en">Mac Allister heads home Szoboszlai's free kick to give Liverpool opener</span>
+          <span class="news-value-point">💡 Mac Allister回到家中， Szoboszlai的任意球给了利物浦揭幕战</span>
         </a>
   </div>
   <div class="news-category">
@@ -465,12 +431,103 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/024/003.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，雷柏现已推出 VT2 RT V2 系列鼠标，将于 11 月 10 日 20:00 开售，售价 499 元起：VT2 RT V2：售价 499 元VT2 RT 大师版 V2 ：售价 599 元该系列鼠标搭载雷柏自研 VTCS 可变触发控制系统，支持类机械微动、类光微动、电磁按键三种触感，可调 10 档触发行程、10 档 RT 行程、3 种点击触感、10 档点击反馈、10 种点击音效、10 档点击音量，左右按键可独立调节。该系列鼠标搭载 NORDIC 54LM20 主控 + 原相 3955 Ultimate 传感器，拥有 750 IPS 追踪速度、60G 加速度，支持原生无线 8KHz 与有线 8KHz 传输回报率。标准版配备 nano 8K 接收器，内置 800" data-title="雷柏推出 VT2 RT V2 系列鼠标：类机械 / 光微动、电磁按键三种触感，499 元起" data-date="11-08 21:48" data-source="IT之家">
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Brighton latest: VOTE - Are Hurzeler&#39;s side genuine PL title contenders?" data-title="Brighton latest: VOTE - Are Hurzeler&#39;s side genuine PL title contenders?" data-date="11-09 00:27" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-09 00:27</span>
+          <span class="news-item-title">布莱顿最新：投票-赫泽勒的球队是真正的PL冠军竞争者吗？</span>
+          <span class="news-item-title-en">Brighton latest: VOTE - Are Hurzeler's side genuine PL title contenders?</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="最新的13英寸MacBook Air目前售价为$ 1,099.99 ，这是继该公司夏季价格大幅上涨之后，我们第二次看到200 $的折扣。虽然基本型号—采用苹果M5处理器， 1" data-title="Apple’s M5 MacBook Air is down to its lowest price since July" data-date="11-09 00:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-09 00:00</span>
+          <span class="news-item-title">苹果M5 MacBook Air降至7月以来最低价</span>
+          <span class="news-item-title-en">Apple’s M5 MacBook Air is down to its lowest price since July</span>
+          <span class="news-value-point">💡 最新的13英寸MacBook Air目前售价为$ 1,099.99 ，这是继该公司夏季价格大幅上涨之后，我们第二次看到200 $的折扣</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/014.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今晚更新的《Power On》时事通讯中爆料，曾主导 Vision Pro 头显开发、同时负责新版 Siri AI 项目的迈克 · 罗克韦尔，仍在认真考虑离开现有岗位。古尔曼披露，罗克韦尔或将于明年卸任 Siri 工程副总裁，甚至彻底离开苹果。新版 Siri 跳票了两年才得以上市，考虑到罗克韦尔在其中发挥的作用，他的离开将给苹果造成重大损失。IT之家获悉，如果罗克韦尔最终离职，或在苹果内部转任其他岗位，更多工作预计将交给两名高管：去年从谷歌加入苹果、负责加强 AI 业务的阿马尔 · 苏布拉马尼亚，以及费德里吉的副手塞巴斯蒂安 · 马里诺。苹果内部一些人认为，马里诺未来有望接替费德里吉出任软件工程主管，而且他对 AI 发展的态度更加积" data-title="古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人" data-date="11-08 23:47" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 21:48</span>
-          <span class="news-item-title">雷柏推出 VT2 RT V2 系列鼠标：类机械 / 光微动、电磁按键三种触感，499 元起</span>
-          <span class="news-value-point">💡 IT之家 11 月 8 日消息，雷柏现已推出 VT2 RT V2 系列鼠标，将于 11 月 10 日 20:00 开售，售价 499 元起：VT…</span>
+          <span class="news-item-date">11-08 23:47</span>
+          <span class="news-item-title">古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人</span>
+          <span class="news-value-point">💡 IT之家 11 月 8 日消息，彭博社记者马克 · 古尔曼在今晚更新的《Power On》时事通讯中爆料，曾主导 Vision Pro 头显开发…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/012.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，美国 CNBC 分析亚马逊的招聘信息发现，过去几个月，亚马逊组建了一支新团队，准备开发一款前所未有的机器人产品。亚马逊近期发布的一则工程师招聘信息写道：“机器人即将走出电影，进入我们的家中。”这条被撤掉的招聘信息透露，新产品能够适应不断变化的家庭环境，并在人类家庭成员身边自主活动。亚马逊一向愿意押注长期项目，即便短期内不被外界理解，只要能够帮助公司抢占新市场的先机，就值得投入。此前的 Alexa 语音助手和 Kindle 电子书阅读器，都采用了这种发展策略。亚马逊 CEO 安迪 · 贾西在最近的年度股东信中重申了这一思路，认为人工智能和机器人技术将带来人们一生中最重大的变革之一。“我们努力预判什么能让客户每天的生活更轻松、更美好，并创造下一个重大转折点。”Li" data-title="亚马逊成立新团队专攻家用机器人，剑指“前所未有”的新产品" data-date="11-08 23:24" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 23:24</span>
+          <span class="news-item-title">亚马逊成立新团队专攻家用机器人，剑指“前所未有”的新产品</span>
+          <span class="news-value-point">💡 IT之家 11 月 8 日消息，美国 CNBC 分析亚马逊的招聘信息发现，过去几个月，亚马逊组建了一支新团队，准备开发一款前所未有的机器人产品</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/f1/live-blog/12040/13608639/f1-sao-paulo-gp-live-race-updates-results-stream-and-highlights-from-20th-round-of-2026-formula-1-season-in-brazil-at-interlagos" target="_blank" rel="noopener" data-cat="zonghe" data-summary="关注现场更新，观看巴西圣保罗大奖赛的最佳视频。观看Sky Sports F1直播" data-title="Sao Paulo GP: Norris leads Hadjar with rain expected to return LIVE!" data-date="11-08 23:20" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-08 23:20</span>
+          <span class="news-item-title">圣保罗大奖赛：诺里斯带领哈贾尔，预计雨水将现场回归！</span>
+          <span class="news-item-title-en">Sao Paulo GP: Norris leads Hadjar with rain expected to return LIVE!</span>
+          <span class="news-value-point">💡 关注现场更新，观看巴西圣保罗大奖赛的最佳视频</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IOS 27.3测试版的代码表明，苹果可能会在其智能家居中心增加对聊天机器人的支持。“对话式应用”类别列出了一个标记。虽然没有关于哪些应用程序属于该标题的细节，但似乎有理由认为" data-title="Chatbots might be coming to Apple’s HomeView" data-date="11-08 23:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-08 23:00</span>
+          <span class="news-item-title">聊天机器人可能会进入Apple的HomeView</span>
+          <span class="news-item-title-en">Chatbots might be coming to Apple’s HomeView</span>
+          <span class="news-value-point">💡 IOS 27.3测试版的代码表明，苹果可能会在其智能家居中心增加对聊天机器人的支持</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/011.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，特斯拉计划对 Cybercab 进行多项重大升级，带来能效提升和新的车身配色。今天（8 日）凌晨，特斯拉 CEO 马斯克在 X 上透露，公司还将进一步改进 Cybercab。“我们会进一步提高能效，让 Cybercab 用上 40kWh 电池组。我们还会推出液态银色，免得车身颜色太单调。”据IT之家了解，本周早些时候，特斯拉宣布将取消得州超级工厂的 Cybertruck 生产线，把产能腾出来生产更多 Cybercab。能效更高的新款 Cybercab 有望帮助特斯拉提高盈利能力和利润率。从商业角度来看，也让停产 Cybertruck 的主张更有说服力。目前在得克萨斯州奥斯汀投入 Robotaxi 运营的 Cybercab 配备 48kWh 电池组。从马斯克的表" data-title="马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色" data-date="11-08 23:00" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 23:00</span>
+          <span class="news-item-title">马斯克：特斯拉将进一步改进 Cybercab，提升能效、新增配色</span>
+          <span class="news-value-point">💡 IT之家 11 月 8 日消息，特斯拉计划对 Cybercab 进行多项重大升级，带来能效提升和新的车身配色</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/peripherals/gaming-mice/logitech-g502-x-lightspeed-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="罗技的G502 X Lightspeed剥离了G502 X Plus的照明，但保留了160 $的价格标签。" data-title="Logitech G502 X Lightspeed Review: No lights, same price" data-date="11-08 23:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-08 23:00</span>
+          <span class="news-item-title">罗技G502 X LIGHTSPEED评测：无灯，价格不变</span>
+          <span class="news-item-title-en">Logitech G502 X Lightspeed Review: No lights, same price</span>
+          <span class="news-value-point">💡 罗技的G502 X Lightspeed剥离了G502 X Plus的照明，但保留了160 $的价格标签</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/video-games/japanese-arcades-suffer-week-long-blackout-following-sega-server-hack-bandai-namco-titles-resume-trial-operations-as-sega-games-remain-offline" target="_blank" rel="noopener" data-cat="zonghe" data-summary="本周，日本视频游戏商场的感官超载在一些场馆中奇怪地消失了。" data-title="Japanese arcades suffer week-long blackout following Sega server hack" data-date="11-08 23:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-08 23:00</span>
+          <span class="news-item-title">世嘉服务器遭黑客入侵后，日本商场遭遇为期一周的停电</span>
+          <span class="news-item-title-en">Japanese arcades suffer week-long blackout following Sega server hack</span>
+          <span class="news-value-point">💡 本周，日本视频游戏商场的感官超载在一些场馆中奇怪地消失了</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-08/10728568.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网太原11月8日电 (记者 胡健)山西省太原市“迎泽发布”8日晚间发布通报称，当日发生在迎泽区的火灾致5人遇难。" data-title="山西太原一公寓发生火灾 致5人遇难" data-date="11-08 22:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-08 22:49</span>
+          <span class="news-item-title">山西太原一公寓发生火灾 致5人遇难</span>
+          <span class="news-value-point">💡 中新网太原11月8日电 (记者 胡健)山西省太原市“迎泽发布”8日晚间发布通报称，当日发生在迎泽区的火灾致5人遇难</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/robotics/ukraine-builds-combat-robots-to-hunt-russian-troops-in-underground-gas-pipelines-ugvs-adapted-following-15-kilometer-subterranean-assault" target="_blank" rel="noopener" data-cat="zonghe" data-summary="乌克兰正在开发一种新型作战机器人，设计用于在地下天然气管道内作战。" data-title="Ukraine builds combat robots to hunt Russian troops in underground gas pipelines" data-date="11-08 22:36" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-08 22:36</span>
+          <span class="news-item-title">乌克兰建造战斗机器人，在地下天然气管道中追捕俄罗斯军队</span>
+          <span class="news-item-title-en">Ukraine builds combat robots to hunt Russian troops in underground gas pipelines</span>
+          <span class="news-value-point">💡 乌克兰正在开发一种新型作战机器人，设计用于在地下天然气管道内作战</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/009.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，当贝现已在京东上架 H5 第二代电视盒子，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为 469 元，部分地区国补后低至 399 元。该产品尺寸为 98 x 98 x 21.5mm，采用白色配色，正面配备一条多彩呼吸灯，提供五种灯光效果模式。机身背部提供了一个 HDMI 2.1 接口、一个 USB-A 接口、一个 3.5mm 的复合音视频接口。该机搭载了全志 H626 芯片，配备了 2GB RAM 以及 16GB 机身存储空间，具备 8K@24fps 的视频解码能力与 4K@60fps 画面输出能力，并支持 HDR10 与 HDR10+ 技术。机器支持双频 Wi-Fi 6、蓝牙 5.4，运行基于安卓 14 的当贝 OS。IT之家附产品参" data-title="当贝推出 H5 第二代电视盒子：升级全志 H626 处理器，469 元" data-date="11-08 22:31" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 22:31</span>
+          <span class="news-item-title">当贝推出 H5 第二代电视盒子：升级全志 H626 处理器，469 元</span>
+          <span class="news-value-point">💡 IT之家 11 月 8 日消息，当贝现已在京东上架 H5 第二代电视盒子，该产品主要升级全志 H626 处理器，支持双频 Wi-Fi 6，定价为…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="佐治亚州州长当选人对她的政党在南方的胜利感到高兴，但他知道重新调整远非安全。" data-title="Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win" data-date="11-08 22:31" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-08 22:31</span>
+          <span class="news-item-title">凯莎·兰斯（ Keisha Lance ）谈民主党人必须做些什么才能不挥霍胜利</span>
+          <span class="news-item-title-en">Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win</span>
+          <span class="news-value-point">💡 佐治亚州州长当选人对她的政党在南方的胜利感到高兴，但他知道重新调整远非安全</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c61kd9gnge0ro/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="匈牙利正将其完整的国家安全纪录档案库上载至网上，这些档案可能揭示在1989年前长达40年的共产主义统治期间，谁曾监视邻居、同事、朋友和亲属。" data-title="间谍、线人与秘密警察：匈牙利公开共产统治时期档案" data-date="11-08 21:42" data-source="BBC">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
@@ -479,13 +536,6 @@ title: 热点新闻
           <span class="news-item-title">间谍、线人与秘密警察：匈牙利公开共产统治时期档案</span>
           <span class="news-value-point">💡 匈牙利正将其完整的国家安全纪录档案库上载至网上，这些档案可能揭示在1989年前长达40年的共产主义统治期间，谁曾监视邻居、同事、朋友和亲属</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/001.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，上海交通大学计算机学院 IPADS 实验室陈海波、王肇国团队与化学化工学院、变革性分子前沿科学中心樊春海、王飞团队合作，依托张江高等研究院 DNA 存储研究中心开展研究，成果发表于《自然》（Nature）杂志，并获该刊官网首页头条重点报道。研究团队构建了 AI 原生科学实验室 AutoDNA 装置（思源一号），实现了自主分子生物学实验操作，通过对模型、实验与仪器进行协同设计，解决了现有 AI 自主科学实验室向分子生物学实验拓展时，在复杂流程组织、多类仪器协同以及实验时序、环境稳定性和操作精度保障等方面面临的难题，使自主实验能够覆盖需要微米级定位和微升级液体处理的复杂生物分子实验场景。据介绍，已有 AI 自主科学实验室通常由专家预先配置仪器、规定实验流程和设定优" data-title="上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》" data-date="11-08 21:23" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 21:23</span>
-          <span class="news-item-title">上海交大构建 AI 原生科学实验室 AutoDNA 装置：实现自主分子生物学实验操作，成果登《自然》</span>
-          <span class="news-value-point">💡 IT之家 11 月 8 日消息，上海交通大学计算机学院 IPADS 实验室陈海波、王肇国团队与化学化工学院、变革性分子前沿科学中心樊春海、王飞团…</span>
-        </a>
         <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/hundreds-arrested-after-microsoft-data-center-protest-turns-violent-stop-dirty-data-centers-coalition-demands-halt-to-ai-data-center-expansion-dutch-police-seize-break-in-tools-suspected-stolen-items-from-construction-site" target="_blank" rel="noopener" data-cat="zonghe" data-summary="目前尚不清楚哪个团体首先进入建筑工地，但这一行动导致150至200名抗议者被捕。" data-title="Hundreds arrested after Microsoft data center protest turns violent" data-date="11-08 21:20" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
@@ -493,86 +543,6 @@ title: 热点新闻
           <span class="news-item-title">数百人在微软数据中心抗议演变成暴力事件后被捕</span>
           <span class="news-item-title-en">Hundreds arrested after Microsoft data center protest turns violent</span>
           <span class="news-value-point">💡 目前尚不清楚哪个团体首先进入建筑工地，但这一行动导致150至200名抗议者被捕</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-08/10728532.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网重庆11月8日电 (记者 周毅)8日，由国家艺术基金资助的2026年度传播交流推广项目“人民创生·美美共融——中国社区公共艺术创新成果展”首展在重庆当代美术馆启幕。百余件公共艺术作品和创新案例，以艺术视角呈现出中国超大城市社区的新面貌、新模式、新生活。" data-title="“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕" data-date="11-08 21:04" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 21:04</span>
-          <span class="news-item-title">“人民创生·美美共融——中国社区公共艺术创新成果展”首展在渝启幕</span>
-          <span class="news-value-point">💡 中新网重庆11月8日电 (记者 周毅)8日，由国家艺术基金资助的2026年度传播交流推广项目“人民创生·美美共融——中国社区公共艺术创新成果展”…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-08/10728536.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网太原11月8日电 (记者 胡健 陆祁国)8日17时许，位于山西省太原市迎泽区柳巷南路的一栋高层建筑发生火灾。截至目前，现场明火已基本扑灭，有人员被送往医院。" data-title="山西太原一高层建筑发生火灾 有人员送医" data-date="11-08 21:04" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 21:04</span>
-          <span class="news-item-title">山西太原一高层建筑发生火灾 有人员送医</span>
-          <span class="news-value-point">💡 中新网太原11月8日电 (记者 胡健 陆祁国)8日17时许，位于山西省太原市迎泽区柳巷南路的一栋高层建筑发生火灾</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/08/magazine/keisha-lance-bottoms-interview.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="佐治亚州州长当选人对她的政党在南方的胜利感到高兴，但他知道重新调整远非安全。" data-title="Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win" data-date="11-08 21:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-08 21:02</span>
-          <span class="news-item-title">凯莎·兰斯（ Keisha Lance ）谈民主党人必须做些什么才能不挥霍胜利</span>
-          <span class="news-item-title-en">Keisha Lance Bottoms on What Democrats Have to Do to Not Squander the Win</span>
-          <span class="news-value-point">💡 佐治亚州州长当选人对她的政党在南方的胜利感到高兴，但他知道重新调整远非安全</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-08/10728538.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社北京11月8日电 (记者 徐婧)舞剧《五星出东方》8K超高清首映暨希腊巡演启航活动8日在北京举办。当地时间11月13日至15日，该剧将登陆希腊雅典圣诞剧场，以《丝绸之路上的爱情》为名与观众见面。" data-title="舞剧《五星出东方》将亮相希腊舞台" data-date="11-08 21:02" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 21:02</span>
-          <span class="news-item-title">舞剧《五星出东方》将亮相希腊舞台</span>
-          <span class="news-value-point">💡 中新社北京11月8日电 (记者 徐婧)舞剧《五星出东方》8K超高清首映暨希腊巡演启航活动8日在北京举办</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/023/996.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 8 日消息，据央视新闻报道，“到手刀”是二手交易里的一个黑话：意思是货一到手，买家就挑毛病、砍价，不按谈好的价格付款。原本这顶多是让人头疼的交易纠纷；可如今，它竟然被一些不法分子利用，成了实施诈骗的手段。家住北京的李先生，在二手交易平台上架了一部闲置手机。让他没想到的是，商品刚发布，就有人不问成色，迅速拍下付款。由于担心出现不必要的纠纷，李先生在二手平台上通过照片详细说明了手机的瑕疵，并提前告知了买家，对方也表示可以接受。随后，李先生还把手机寄给了官方检测中心，并出具了详细的检测报告。没想到的是，一周后买家收到手机还是发来消息，指出手机拍出的照片有斑点，希望可以再便宜一些。考虑到时间成本和往返的运费，李先生不得不接受了三百元的损失。记者调查二手交易平台乱象时，发现不少人有" data-title="央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗" data-date="11-08 21:02" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 21:02</span>
-          <span class="news-item-title">央视曝光二手交易“到手刀”乱象，有快递员每月拿 4000 元好处费配合诈骗</span>
-          <span class="news-value-point">💡 IT之家 11 月 8 日消息，据央视新闻报道，“到手刀”是二手交易里的一个黑话：意思是货一到手，买家就挑毛病、砍价，不按谈好的价格付款</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事。如需了解有关为互联网创建内容的压力的更多信息，请关注Mia Sato。Stepback将于美国东部时间周日上午8点到达订阅者的收件箱。Op" data-title="There’s no slowing down media’s pivot" data-date="11-08 21:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-08 21:00</span>
-          <span class="news-item-title">不会减缓媒体的转向速度</span>
-          <span class="news-item-title-en">There’s no slowing down media’s pivot</span>
-          <span class="news-value-point">💡 The Stepback是一份每周时事通讯，详细介绍了科技界的一个重要故事</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728505.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="烤炉拉开，雪白的烤馍腾起一团热气；案板上，师傅手起刀落，软糯的卤肉转眼化作肉酱；平底锅转了一圈又一圈，绿豆面浆摊成薄饼，鸡蛋、黑芝麻落下去，香气顺着风跑出老远。" data-title="关注非博会｜舌尖上的非遗齐聚山城，邀你来尝“百味山河”" data-date="11-08 20:22" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 20:22</span>
-          <span class="news-item-title">关注非博会｜舌尖上的非遗齐聚山城，邀你来尝“百味山河”</span>
-          <span class="news-value-point">💡 烤炉拉开，雪白的烤馍腾起一团热气</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-08/10728501.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="新华社北京11月8日电(记者邢拓)在第27个记者节到来之际，《“好记者讲好故事”——2026年中国记者节特别节目》近日在中国人民大学录制。参加第十三届“好记者讲好故事”活动的优秀记者走上讲台，通过讲亲历故事、谈采访过程，展现新时代新闻工作者的责任担当与时代风采。" data-title="第十三届“好记者讲好故事”优秀记者在京开讲" data-date="11-08 20:04" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 20:04</span>
-          <span class="news-item-title">第十三届“好记者讲好故事”优秀记者在京开讲</span>
-          <span class="news-value-point">💡 新华社北京11月8日电(记者邢拓)在第27个记者节到来之际，《“好记者讲好故事”——2026年中国记者节特别节目》近日在中国人民大学录制</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-08/10728500.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="从“追顶流”到“追古流”，访古追迹成为时下热门——" data-title="从“追顶流”到“追古流”，访古追迹成为时下热门" data-date="11-08 20:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 20:00</span>
-          <span class="news-item-title">从“追顶流”到“追古流”，访古追迹成为时下热门</span>
-          <span class="news-value-point">💡 从“追顶流”到“追古流”，访古追迹成为时下热门——</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/drones/pocket-sized-ukrainian-receiver-intercepts-russian-strike-drone-video-feeds-up-to-six-miles-away-device-only-slightly-heavier-than-a-smartphone-intercepts-analog-video-signals-sent-to-russian-operators" target="_blank" rel="noopener" data-cat="zonghe" data-summary="D · Vision SDR可以拦截500 MHz至8.7 GHz的信号，覆盖俄罗斯闪电号无人机用于与运营商通信的4.1-4.5 GHz频谱。" data-title="Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away" data-date="11-08 20:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-08 20:00</span>
-          <span class="news-item-title">袖珍乌克兰接收器拦截6英里外的俄罗斯空袭无人机视频</span>
-          <span class="news-item-title-en">Pocket-sized Ukrainian receiver intercepts Russian strike drone video feeds up to six miles away</span>
-          <span class="news-value-point">💡 D · Vision SDR可以拦截500 MHz至8.7 GHz的信号，覆盖俄罗斯闪电号无人机用于与运营商通信的4.1-4.5 GHz频谱</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/12040/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Scot Prem latest: Aberdeen won&#39;t rush Robinson decision" data-title="Scot Prem latest: Aberdeen won&#39;t rush Robinson decision" data-date="11-08 20:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-08 20:00</span>
-          <span class="news-item-title">Scot Prem最新消息：阿伯丁不会急于做出鲁滨逊的决定</span>
-          <span class="news-item-title-en">Scot Prem latest: Aberdeen won't rush Robinson decision</span>
         </a>
   </div>
 </div>
@@ -705,4 +675,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-08 22:25（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-09 01:59（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
