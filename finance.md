@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-08 01:47（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-08 16:11（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -57,7 +57,7 @@ title: 股票财经
       <span class="ticker-price ticker-down">3,649.18</span>
       <span class="ticker-change down">▼ -1.10%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg53453" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,22.0 L46.7,11.2 L68.0,21.0 L89.3,38.0 L110.7,25.3 L132.0,35.0 L153.3,9.7 L174.7,8.5 L196.0,21.7 L196,40 Z" fill="url(#sg53453)"/><polyline points="4.0,6.0 25.3,22.0 46.7,11.2 68.0,21.0 89.3,38.0 110.7,25.3 132.0,35.0 153.3,9.7 174.7,8.5 196.0,21.7" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="21.7" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
       
@@ -428,7 +428,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+28.0 亿</span>
+      <span class="sector-flow-badge">+24.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -441,7 +441,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+21.0 亿</span>
+      <span class="sector-flow-badge">+53.5 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -454,7 +454,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+41.0 亿</span>
+      <span class="sector-flow-badge">+20.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -467,7 +467,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+17.9 亿</span>
+      <span class="sector-flow-badge">+43.2 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -493,8 +493,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/023/914.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，洛图科技发文表示，全球液晶电视面板市场的价格在 9 月提前企稳之后，10 月全尺寸产品继续持平结算。预测 11 月主流行情将继续持平。更向后的 12 月，洛图科技预测，55 寸之上的中大尺寸将率先迎来涨价，涨幅在 2-5 美元（IT之家注：现汇率约合 13.4 - 33.5 元人民币）。55 寸涨 2 美元（现汇率约合 13.4 元人民币）65、75 寸各涨 3 美元（现汇率约合 20.1 元人民币）85 寸涨 5 美元（现汇率约合 33.5 元人民币）▲ 数据来源：洛图科技，单位：美元洛图科技称，12 月的上行启动，是“成本推动＋供给收缩”的结构性涨价，不是需求扩张驱动的普涨。对比之前预测的 2026 年“Q1 涨-Q2 稳-Q3 跌-Q4 稳”行情走势，以" data-title="洛图科技：中大尺寸液晶电视面板价格预计 12 月开启上涨，涨 2" data-date="11-08 15:47" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 15:47</span>
+          <span class="news-item-title">洛图科技：中大尺寸液晶电视面板价格预计 12 月开启上涨，涨 2</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/023/910.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，2013 年，大众推出了 XL1—— 一款将燃油经济性做到极致的特殊车型，当时号称“世界上最省油的量产车”。它的研发历时 12 年，上市时售价高达 15 万美元。从工程设计来看，这款车堪称杰作。大众总共只生产了 250 辆，稀有程度甚至超过同时期的布加迪威龙。当地时间 5 日，据外媒 insideevs 报道，目前，荷兰有一辆 2016 款 XL1 正在 Catawiki 网站拍卖，里程表读数刚超过 1600km，据称车内外都保持着极佳状态。这款车由时任大众掌门人费迪南德 · 皮耶希主导开发。一向不肯轻易放弃远大目标的皮耶希，为了实现百公里油耗仅 1L 的造车目标，坚持推动项目长达 12 年，期间经历多轮设计调整，最终才让这款车问世。为了尽可能降低油耗，大众几" data-title="“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆" data-date="11-08 15:31" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-08 15:31</span>
+          <span class="news-item-title">“世界上最省油的量产车”大众 XL1 罕见拍卖：2013 年问世，仅生产了 250 辆</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728355.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“作为连续九年参加进博会的‘全勤生’，我们期待与更多伙伴深化合作，共享时代机遇”“希望与中国市场共同成长”“长期扎根”“加大投入”……正在举行的第九届中国国际进口博览会上，《国际锐评》评论员对话多位外企高管，发现“中国机遇2.0”成为他们口中的关键词；“十五五”开局之年，跨国企业普遍渴望抓住中国大市场扩容提质的重要机遇。" data-title="国际锐评丨进博之约让世界共享开放红利" data-date="11-08 15:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-08 15:18</span>
+          <span class="news-item-title">国际锐评丨进博之约让世界共享开放红利</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728278.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月8日电 题：台企“回流”大陆印证产供链深度嵌合" data-title="评论：台企“回流”大陆印证产供链深度嵌合" data-date="11-08 11:03" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-08 11:03</span>
+          <span class="news-item-title">评论：台企“回流”大陆印证产供链深度嵌合</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-07/10728192.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月7日电 (梁峻祥 李映民)泰国总理阿努廷7日表示，泰国目前粮食和能源供应总体稳定，民众无需担忧出现食品及生活必需品短缺。泰国将发挥本国农业生产优势，同时通过扩大生物燃料使用、推动能源来源多元化等措施，增强国家应对外部风险的能力。" data-title="泰国强调粮食和能源安全 以多元供应体系应对外部风险" data-date="11-07 23:52" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -544,4 +568,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-08 01:47（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-08 16:11（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
