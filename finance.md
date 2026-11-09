@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-09 16:47（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-10 01:43（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">27,887.98</span>
-      <span class="ticker-change up">▲ +3.33%</span>
+      <span class="ticker-price ticker-up">27,833.66</span>
+      <span class="ticker-change up">▲ +3.13%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-09 23:59:50（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-10 01:45:26（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -158,7 +158,7 @@ title: 股票财经
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:59:46（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:45:24（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,120.71 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +49.96 (+1.23%)</span>
+      <span class="ticker-price ticker-up">$4,102.99 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +32.24 (+0.79%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:59:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:45:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥883.66 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.96 (+0.45%)</span>
+      <span class="ticker-price ticker-up">¥880.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +0.50 (+0.06%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:59:48（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:45:07（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$94.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -3.59 (-3.65%)</span>
+      <span class="ticker-price ticker-down">$93.41 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -4.91 (-5.00%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:59:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:45:40（非实时）</div>
   </div>
 </div>
 
@@ -493,61 +493,55 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="选民的强烈反对可能会威胁到数据中心的繁荣。一些经济学家认为这可能是一件好事。" data-title="Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?" data-date="11-10 00:59" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-10 00:59</span>
+          <span class="news-item-title">Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/564.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 9 日消息，当前，欧洲政策制定者希望汽车电池更多地在本土生产。然而由于欧洲制造的电池成本更高，增加的费用最终很可能由购车者承担。当地时间 7 日，据外媒 insideevs 报道，布鲁塞尔智库布鲁盖尔今年 9 月发表的一份报告提出，旨在保护欧洲现有汽车制造商的政策，可能最终让消费者和纳税人为此买单。如果规定汽车必须使用欧盟生产的电芯，每千瓦时的成本可能从 50 欧元（IT之家注：现汇率约合 372.3 元人民币）上涨至 85 欧元（现汇率约合 632.9 元人民币）。一辆配备 60kWh 电池的汽车，仅电池成本就可能增加 2,100 欧元（现汇率约合 15,637 元人民币）。如果再加上拟议中的低碳钢使用要求，成本还可能增加 200 欧元（现汇率约合 1,489 元人民币" data-title="欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元" data-date="11-09 23:13" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-09 23:13</span>
+          <span class="news-item-title">欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-09/10729156.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月9日电 (梁峻祥 李映民)泰国商务部9日与泰国商会举行会谈，并就加强政商合作、提升泰国企业竞争力及应对全球贸易环境变化等议题达成共识。" data-title="泰国商务部与泰国商会加强合作应对全球贸易挑战" data-date="11-09 23:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-09 23:01</span>
+          <span class="news-item-title">泰国商务部与泰国商会加强合作应对全球贸易挑战</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/024/559.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 9 日消息，据《商业内幕》今天（9）日晚间报道，美国知名亿万富翁风险投资家维诺德 · 科斯拉认为，所有访客看到相同网页的时代即将过去。他最新投资的 AI 初创公司 Coframe 希望借助 AI 重塑互联网，为每位访客提供量身定制的网页。“AI 让高度个性化定制成为可能，整个世界都因此改变了。”Coframe 希望打造被其称为“有生命的互联网”的网络环境。公司最近完成 2,500 万美元（IT之家注：现汇率约合 1.67 亿元人民币）A 轮融资，由科斯拉创投和 Hanabi Capital 共同领投，累计融资 3,500 万美元（现汇率约合 2.34 亿元人民币），但未公布估值。维诺德 · 科斯拉（Vinod Khosla），图源：WikiMedia科斯拉创投早在种子轮就" data-title="美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”" data-date="11-09 22:32" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-09 22:32</span>
+          <span class="news-item-title">美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-09/10729100.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西宁11月9日电 (记者 潘雨洁)9日，记者从青海省林业和草原局获悉，“十五五”期间，该省将统筹草原生态保护与牧区民生改善，实现草原资源5.9亿亩全面监管，并通过落实草原补奖政策，全省75万户农牧户每年补助约27.55亿元(人民币，下同)，户均达3674元。" data-title="青海“十五五”5.9亿亩草原全面监管 牧区民生改善" data-date="11-09 21:00" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-09 21:00</span>
+          <span class="news-item-title">青海“十五五”5.9亿亩草原全面监管 牧区民生改善</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-09/10729090.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳11月9日电 (记者 韩宏)第四届中俄地方投资发展与贸易合作大会9日在沈阳开幕。" data-title="第四届中俄地方投资发展与贸易合作大会在沈阳开幕" data-date="11-09 20:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-09 20:49</span>
+          <span class="news-item-title">第四届中俄地方投资发展与贸易合作大会在沈阳开幕</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-09/10728983.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月9日电 据路透社报道，美国国会民主党议员当地时间8日表示，美国亿万富翁马斯克、白宫办公厅主任斯蒂芬·米勒及部分企业或将成为明年1月民主党接管国会后的调查目标。" data-title="美民主党议员放话：或将对马斯克等发起调查" data-date="11-09 18:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-09 18:07</span>
+          <span class="news-item-title">美民主党议员放话：或将对马斯克等发起调查</span>
+        </a>
         <a class="news-item" href="https://www.qbitai.com/2026/11/508690.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="厘清故事与现实的边界，回归投资与产业的底层逻辑。" data-title="叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕" data-date="11-09 16:26" data-source="量子位">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
           <span class="news-item-date">11-09 16:26</span>
           <span class="news-item-title">叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/353.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 9 日消息，据韩媒 The Elec 报道，韩国最大公寓生活服务平台 Apartmentner（아파트너）通报于 11 月 6 日发生用户个人信息泄露事件。Apartmentner 表示，目前经排查平台仅有部分用户手机号码泄露，不涉及姓名、公寓名称、楼栋及房间号、居民身份证号码、账号密码，以及支付和金融信息。公司称，仅凭此次泄露的数据，外部人员难以直接识别具体用户身份或其居住地址。发现异常后，官方已封锁黑客使用的 IP 地址，并重置管理员账号，同时向韩国互联网振兴院（KISA）及警方报告事件。公司还计划对整个系统开展安全检查、下线所有可能存在安全漏洞的网页，以落实后续安全整改措施。公开信息显示，Apartmentner 是韩国规模最大的公寓生活服务平台之一，拥有约 320" data-title="韩国最大公寓生活服务平台 Apartmentner 遭黑客入侵，部分用户手机号码泄露" data-date="11-09 16:21" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-09 16:21</span>
-          <span class="news-item-title">韩国最大公寓生活服务平台 Apartmentner 遭黑客入侵，部分用户手机号码泄露</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-09/10728852.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网武汉11月9日电 (记者 张芹)2026商业航天论坛9日在武汉开幕。国内外航天机构、科研院所、高校等各界代表及专家，围绕商业航天技术创新、产业链协同、产业生态构建等领域开展深度交流。" data-title="2026商业航天论坛武汉开幕 多项合作集中签约" data-date="11-09 15:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-09 15:45</span>
-          <span class="news-item-title">2026商业航天论坛武汉开幕 多项合作集中签约</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-09/10728762.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉11月9日电 (记者 周璟)菲律宾统计局9日公布的数据显示，菲律宾2026年第三季度国内生产总值(GDP)同比增长2.1%，低于第二季度的2.4%和去年同期的4%。" data-title="菲律宾第三季度经济增速放缓至2.1%" data-date="11-09 13:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-09 13:31</span>
-          <span class="news-item-title">菲律宾第三季度经济增速放缓至2.1%</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/008.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，据第一财经，在 5 日的 2026 世界互联网大会 · 乌镇咖荟 · 汽车夜话上，博世智能驾驶与控制系统事业部（XC）中国区总裁吴永桥发表观点认为，汽车不会成为“第三空间”，车机也不该重复手机已经做得很好的事。吴永桥直言，当前很多人都认为汽车会成为第三空间，但自己认为“永远不会”。之所以如此判断，依据是自身的项目经验和实际使用数据。其透露，博世为全球客户做了百余个座舱项目，涉及的功能就包括在车上订咖啡、订餐馆、订火锅店、订机票、订酒店，后来却发现用者寥寥，“几乎没人用”。IT之家从报道中获悉，在他看来，即使自动驾驶演进到 L3、L4，人不需要自己开车、坐在车里没事干，也不会用车机去订火车票、订酒店，依然会用手机。原因在于，手机的迭代速度、算法、模型和 App" data-title="博世吴永桥：汽车不该拿来订咖啡、订机票，建议手机和车机划清边界" data-date="11-08 22:28" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 22:28</span>
-          <span class="news-item-title">博世吴永桥：汽车不该拿来订咖啡、订机票，建议手机和车机划清边界</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/007.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 8 日消息，据财联社报道，在比亚迪仰望鼎曜发布会后的媒体沟通会上，比亚迪品牌及公关处总经理李云飞表示，今年比亚迪全年销量相较去年会略有增长，其中一方面来自海外更高的增长。他同时表示，在第二代刀片电池和闪充技术加持下，比亚迪国内市场整体情况好于国内大盘。据IT之家此前报道，比亚迪 10 月产销快报显示：10 月新能源汽车销量约 49.02 万辆，同比增长 10.97%；前 10 个月累计销量约 362.17 万辆，同比下降 2.16%。其中，纯电动汽车 10 月销量约 30.57 万辆，同比增长 37.38%；插电式混合动力汽车销量约 17.74 万辆，同比下降 17.22%。前 10 个月纯电动汽车累计销量约 193.57 万辆，同比增长 5.86%；插混汽车累计销量约" data-title="李云飞：比亚迪今年全年销量预计略有增长，海外增长更高" data-date="11-08 22:27" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-08 22:27</span>
-          <span class="news-item-title">李云飞：比亚迪今年全年销量预计略有增长，海外增长更高</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-08/10728520.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月8日电 (记者 黄欣欣)“海阔同舟 梦启京华”2026年北京市台生台青就业实习专场推介会8日在北京大学举办。60余家企业提供500余个岗位、现场揽才，许多台生台青前来参加。" data-title="北京市向台生台青推介500余个就业实习机会" data-date="11-08 20:38" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 20:38</span>
-          <span class="news-item-title">北京市向台生台青推介500余个就业实习机会</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-08/10728483.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网天津11月8日电 (记者 周亚强)第八届“智能社会”论坛7日在天津举办，主题为“构建更有温度的智能社会”。来自全国多所高校和科研机构的近百名专家学者参会，围绕智能科技深度嵌入经济社会发展带来的机遇与风险展开研讨。" data-title="第八届“智能社会”论坛天津举办 聚焦构建更有温度的智能社会" data-date="11-08 19:38" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-08 19:38</span>
-          <span class="news-item-title">第八届“智能社会”论坛天津举办 聚焦构建更有温度的智能社会</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c9rkyg7728vxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位前脱欧谈判代表表示，欧盟国家将拒绝英国任何“单点”选择遵守经济规则的企图。" data-title="原欧盟脱欧谈判代表巴尼耶：英国不能“挑肥拣瘦”" data-date="11-08 18:03" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-08 18:03</span>
-          <span class="news-item-title">原欧盟脱欧谈判代表巴尼耶：英国不能“挑肥拣瘦”</span>
         </a>
   </div>
 </div>
@@ -562,4 +556,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-09 16:47（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-10 01:43（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
