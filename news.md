@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-10 23:42 抓取更新</span>
+      <span>2026-11-11 03:53 抓取更新</span>
     </div>
   </div>
 
@@ -57,46 +57,46 @@ title: 热点新闻
 </div>
 <div class="news-overview-bar">
   <div class="ov-item"><span class="ov-num">60</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×18 · 天空体育×12</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×14 · 天空体育×14</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="肯塔基州共和党众议员托马斯·马西（ Thomas Massie ）在任期结束时退休，此前他输给了特朗普总统支持的主要挑战者。" data-title="What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth" data-date="11-10 23:30" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="众议院共和党人选择乔丹先生胜过路易斯安那州众议员史蒂夫·斯卡利斯（ Steve Scalise ） ，表明他们在几十年来最大的选举失利后渴望" data-title="House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader" data-date="11-11 03:47" data-source="纽约时报">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 11-10 23:30</span>
+        <span class="hero-featured-date">🕒 11-11 03:47</span>
       </div>
-      <h2 class="hero-featured-title">关于弹劾赫格塞斯运动的领导者托马斯·马西（ Thomas Massie ）的须知</h2>
-      <div class="hero-featured-title-en">What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth</div>
+      <h2 class="hero-featured-title">众议院共和党人选择特朗普的亲密盟友吉姆·乔丹（ Jim Jordan ）作为他们的下一任领导人</h2>
+      <div class="hero-featured-title-en">House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader</div>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html" target="_blank" rel="noopener" data-cat="keji" data-summary="这家人工智能公司的定价将使其成为有史以来规模最大的公开上市公司之一。它发生在市场动荡的时刻，投资者质疑人工智能繁荣的可持续性。" data-title="Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O." data-date="11-10 23:39" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html" target="_blank" rel="noopener" data-cat="keji" data-summary="美国情报部门确定为中国资产的黄爱丽丝（ Alice Huang ）从上海金融的高空世界脱颖而出，与科技巨头合作并获得必要的人工智能芯片。" data-title="Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?" data-date="11-11 03:39" data-source="纽约时报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
       </div>
-      <p class="hero-sub-title">Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.</p>
+      <p class="hero-sub-title">Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/news/12040/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Kaveh Solhekol已经回答了你关于曼联的最新问题，迈克尔·卡里克的未来在空中，俱乐部在降级区，还有更多的幕后问题。" data-title="Man Utd Q&amp;A: Carrick, Poch, INEOS and more answered" data-date="11-10 23:00" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/live/578260" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="WCL: Inter Milan vs Man City LIVE!" data-title="WCL: Inter Milan vs Man City LIVE!" data-date="11-11 03:30" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">Man Utd Q&A: Carrick, Poch, INEOS and more answered</p>
+      <p class="hero-sub-title">WCL: Inter Milan vs Man City LIVE!</p>
     </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/11-10/10729864.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近期，社交平台上出现了一批内容为“取消外卖”“下架外卖”等话题的短视频，引发广泛关注。这些视频呈现出明显的模板化，且通常由多个账号在短期内批量生产，看似是个别餐饮商家的表态和呼吁，实则是深谙“情绪即流量”的MCN机构炮制的舆论噱头。" data-title="商家呼吁“取消外卖”？实为MCN制造对立、虚假摆拍引流" data-date="11-10 23:33" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down" target="_blank" rel="noopener" data-cat="zonghe" data-summary="索尼将于12月10日停用适用于PC的PlayStation Plus应用程序。索尼表示，它将直接通知用户关机。该应用程序允许PlayStation Plus Premium订阅者在PC上流式传输某些游戏，但根据索尼的说法，" data-title="The PlayStation Plus PC app is shutting down next month" data-date="11-11 03:40" data-source="The Verge">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="source-badge source-theverge">🌐 The Verge</span>
       </div>
-      <p class="hero-sub-title">商家呼吁“取消外卖”？实为MCN制造对立、虚假摆拍引流</p>
+      <p class="hero-sub-title">The PlayStation Plus PC app is shutting down next month</p>
     </a>
   </div>
 </div>
@@ -107,21 +107,28 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="肯塔基州共和党众议员托马斯·马西（ Thomas Massie ）在任期结束时退休，此前他输给了特朗普总统支持的主要挑战者。" data-title="What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth" data-date="11-10 23:30" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="众议院共和党人选择乔丹先生胜过路易斯安那州众议员史蒂夫·斯卡利斯（ Steve Scalise ） ，表明他们在几十年来最大的选举失利后渴望" data-title="House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader" data-date="11-11 03:47" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-10 23:30</span>
-          <span class="news-item-title">关于弹劾赫格塞斯运动的领导者托马斯·马西（ Thomas Massie ）的须知</span>
-          <span class="news-item-title-en">What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth</span>
-          <span class="news-value-point">💡 肯塔基州共和党众议员托马斯·马西（ Thomas Massie ）在任期结束时退休，此前他输给了特朗普总统支持的主要挑战者</span>
+          <span class="news-item-date">11-11 03:47</span>
+          <span class="news-item-title">众议院共和党人选择特朗普的亲密盟友吉姆·乔丹（ Jim Jordan ）作为他们的下一任领导人</span>
+          <span class="news-item-title-en">House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader</span>
+          <span class="news-value-point">💡 众议院共和党人选择乔丹先生胜过路易斯安那州众议员史蒂夫·斯卡利斯（ Steve Scalise ） ，表明他们在几十年来最大的选举失利后渴望</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这些指控指责国防部长非法发动与伊朗的战争，指挥法外处决，无视旨在尽量减少平民伤亡的法律。" data-title="The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained" data-date="11-10 23:09" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/10/us/politics/democrats-corey-lewandowski-investigations.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这位前特朗普政府顾问被敦促保存他的记录，这是民主党试图控制国土安全部的一部分。" data-title="Corey Lewandowski, Trump Ally, Is a Top Target for Democrats After the Election" data-date="11-11 00:50" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-10 23:09</span>
-          <span class="news-item-title">针对国防部长皮特·赫格塞特的弹劾指控，解释</span>
-          <span class="news-item-title-en">The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained</span>
-          <span class="news-value-point">💡 这些指控指责国防部长非法发动与伊朗的战争，指挥法外处决，无视旨在尽量减少平民伤亡的法律</span>
+          <span class="news-item-date">11-11 00:50</span>
+          <span class="news-item-title">特朗普盟友科里·莱万多夫斯基（ Corey Lewandowski ）是大选后民主党人的首要目标</span>
+          <span class="news-item-title-en">Corey Lewandowski, Trump Ally, Is a Top Target for Democrats After the Election</span>
+          <span class="news-value-point">💡 这位前特朗普政府顾问被敦促保存他的记录，这是民主党试图控制国土安全部的一部分</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-11/10729865.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社吉隆坡11月10日电 (记者 刘育英)马来西亚吉隆坡高等法院10日裁定，前总理纳吉布即日起获准在位于首都吉隆坡的住所，以居家服刑方式完成SRC国际公司案的剩余刑期，直至2028年8月23日。当日晚，纳吉布已回到家中，开始居家服刑。" data-title="马来西亚前总理纳吉布开始居家服刑" data-date="11-11 00:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-11 00:01</span>
+          <span class="news-item-title">马来西亚前总理纳吉布开始居家服刑</span>
+          <span class="news-value-point">💡 中新社吉隆坡11月10日电 (记者 刘育英)马来西亚吉隆坡高等法院10日裁定，前总理纳吉布即日起获准在位于首都吉隆坡的住所，以居家服刑方式完成S…</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-10/10729850.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社首尔11月10日电 (记者 金旭)当地时间10日，韩国总统李在明在总统府青瓦台主持召开国务会议，审议通过关于延长清海部队派遣期限的修订同意案。该议案将提交韩国国会履行同意程序。" data-title="韩国拟扩大派驻亚丁湾部队任务区域" data-date="11-10 22:10" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -207,13 +214,6 @@ title: 热点新闻
           <span class="news-item-title">柬埔寨运送学生车辆坠塘事故致5死21伤 涉事司机被拘</span>
           <span class="news-value-point">💡 中新网金边11月10日电 (张堰林 张安琪 杨强)柬埔寨干拉省警察局当地时间10日通报称，干拉省克萨干丹县当天发生的运送学生车辆坠塘事故造成5名…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-10/10729759.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网伦敦11月10日电 （记者 欧阳开宇）英国英格兰地区校园手机管理政策将进一步收紧，按照新版政府指导文件，自2027年9月起，中小学生在校全天都不能接触手机。" data-title="英格兰拟推新规中小学生在校全天不能接触手机" data-date="11-10 20:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 20:56</span>
-          <span class="news-item-title">英格兰拟推新规中小学生在校全天不能接触手机</span>
-          <span class="news-value-point">💡 中新网伦敦11月10日电 （记者 欧阳开宇）英国英格兰地区校园手机管理政策将进一步收紧，按照新版政府指导文件，自2027年9月起，中小学生在校全…</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -221,122 +221,124 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html" target="_blank" rel="noopener" data-cat="keji" data-summary="这家人工智能公司的定价将使其成为有史以来规模最大的公开上市公司之一。它发生在市场动荡的时刻，投资者质疑人工智能繁荣的可持续性。" data-title="Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O." data-date="11-10 23:39" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html" target="_blank" rel="noopener" data-cat="keji" data-summary="美国情报部门确定为中国资产的黄爱丽丝（ Alice Huang ）从上海金融的高空世界脱颖而出，与科技巨头合作并获得必要的人工智能芯片。" data-title="Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?" data-date="11-11 03:39" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-10 23:39</span>
-          <span class="news-item-title">重磅I.P.O.的人类目标估值高达1.4万$</span>
-          <span class="news-item-title-en">Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.</span>
-          <span class="news-value-point">💡 这家人工智能公司的定价将使其成为有史以来规模最大的公开上市公司之一</span>
+          <span class="news-item-date">11-11 03:39</span>
+          <span class="news-item-title">Nvidia间谍丑闻中的女人Alice Huang是谁？</span>
+          <span class="news-item-title-en">Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?</span>
+          <span class="news-value-point">💡 美国情报部门确定为中国资产的黄爱丽丝（ Alice Huang ）从上海金融的高空世界脱颖而出，与科技巨头合作并获得必要的人工智能芯片</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/" target="_blank" rel="noopener" data-cat="keji" data-summary="用户现在可以通过语音通话、短信或Apple Watch上的听写与Meta的AI助手进行交互。" data-title="Meta’s AI agent Muse lands on Apple Watch and Android Wear OS" data-date="11-10 23:29" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-10 23:29</span>
-          <span class="news-item-title">Meta的AI代理Muse登陆Apple Watch和Android Wear OS</span>
-          <span class="news-item-title-en">Meta’s AI agent Muse lands on Apple Watch and Android Wear OS</span>
-          <span class="news-value-point">💡 用户现在可以通过语音通话、短信或Apple Watch上的听写与Meta的AI助手进行交互</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/191.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 10 日消息，今天（10 日）深夜，MiniMax 宣布，MiniMax H3-Image 正式发布并开放权重。这是一款衍生自 H3 的图像生成模型，其具备文本生成图像、图像参考和图像编辑能力。IT之家从官方介绍获悉，其能够在 10 秒内生成一张 4096 x 4096 像素、约 16 MP（4K）的高分辨率图像，同时呈现丰富、真实的细节，并具备优秀的指令遵循和多参考图理解能力。MiniMax 称，在 H3 预训练赋予的广泛图像能力基础上，H3-Image 进一步强化了整个后训练链路，在数据、强化学习、步数压缩、PE、部署优化等方面做了许多扎实的工作。这些工作的组合，使得 MiniMax H3-image 同时具备了速度、画面质量、指令遵循三个方面的竞争力：相比于主流的" data-title="MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像" data-date="11-10 23:25" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 23:25</span>
-          <span class="news-item-title">MiniMax 开源 H3-Image 生图模型，10 秒就能生成一张 4K 图像</span>
-          <span class="news-value-point">💡 IT之家 11 月 10 日消息，今天（10 日）深夜，MiniMax 宣布，MiniMax H3-Image 正式发布并开放权重</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/190.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropic 的未来给出了乐观预测：营收到 2030 年将突破 6,000 亿美元（IT之家注：现汇率约合 4.01 万亿元人民币），是 2025 年的 130 多倍。高盛向一名潜在投资者披露的预测显示，Anthropic 今年的营收预计约为 520 亿美元（现汇率约合 3,477.02 亿元人民币），2027 年增至 1,360 亿美元（现汇率约合 9,093.75 亿元人民币），2029 年达到 4,420 亿美元（现汇率约合 2.96 万亿元人民币），到 2030 年进一步突破 6,000 亿美元（现汇率约合 4.01 万亿元人民币）。相比之下，Anth" data-title="高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列" data-date="11-10 23:17" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 23:17</span>
-          <span class="news-item-title">高盛预计 Anthropic 2030 年营收突破 6000 亿美元，并跻身全球营收最高企业之列</span>
-          <span class="news-value-point">💡 IT之家 11 月 10 日消息，据英国《金融时报》今天（10 日）晚间报道，作为 Anthropic 上市牵头投行的高盛，对 Anthropi…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion" target="_blank" rel="noopener" data-cat="keji" data-summary="Anthropic周二证实，即使没有达到此前的预期，其IPO也可能是有史以来规模最大的IPO之一。其IPO价格预计在每股70.00 $至78.00 $之间，估值将高达1.4万亿$" data-title="Anthropic targets $1.4 trillion IPO" data-date="11-10 22:06" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-10 22:06</span>
-          <span class="news-item-title">Anthropic的目标是$ 1.4万亿IPO</span>
-          <span class="news-item-title-en">Anthropic targets $1.4 trillion IPO</span>
-          <span class="news-value-point">💡 Anthropic周二证实，即使没有达到此前的预期，其IPO也可能是有史以来规模最大的IPO之一</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/" target="_blank" rel="noopener" data-cat="keji" data-summary="Adobe正在Firefly中使用新的原型构建器工具来对抗Figma。" data-title="Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly" data-date="11-10 22:05" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-10 22:05</span>
-          <span class="news-item-title">Adobe将AI代理和新的创意工具引入Photoshop、Premiere和Firefly</span>
-          <span class="news-item-title-en">Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly</span>
-          <span class="news-value-point">💡 Adobe正在Firefly中使用新的原型构建器工具来对抗Figma</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/" target="_blank" rel="noopener" data-cat="keji" data-summary="如果其股票在完全摊薄的基础上处于价格范围的顶端，该公司最终可能价值高达1.404万亿$。" data-title="Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion" data-date="11-10 22:01" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-10 22:01</span>
-          <span class="news-item-title">Anthropic将IPO价格设定在每股70美元至78美元之间，以达到1.404万亿美元的隐含估值</span>
-          <span class="news-item-title-en">Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion</span>
-          <span class="news-value-point">💡 如果其股票在完全摊薄的基础上处于价格范围的顶端，该公司最终可能价值高达1.404万亿$</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates" target="_blank" rel="noopener" data-cat="keji" data-summary="Adobe致力于让聊天机器人和人工智能代理成为您的下一个设计助手，甚至代表您实现创意工作流程和重复性任务的自动化。今天在Adobe Max会议上宣布的一些工具和功能" data-title="Adobe is going all in on agentic AI" data-date="11-10 22:00" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-10 22:00</span>
-          <span class="news-item-title">Adobe正在全力以赴使用agentic AI</span>
-          <span class="news-item-title-en">Adobe is going all in on agentic AI</span>
-          <span class="news-value-point">💡 Adobe致力于让聊天机器人和人工智能代理成为您的下一个设计助手，甚至代表您实现创意工作流程和重复性任务的自动化</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729815.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网成都11月10日电(王利文)2026年“第六届成渝双城科普行”活动10日在成都举行。活动现场，《成渝地区青少年科普研学线路与场景清单》正式发布，集中推出成渝两地共30条研学线路、40个特色点位，涵盖人工智能、航空航天、低空经济、自然保护、防灾减灾、现代农业等领域，推动两地科普资源共建共享，为青少年开展科学探究、参与科普实践提供更多选择。" data-title="成渝科普“场景清单”在蓉发布 推出30条研学线路" data-date="11-10 21:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 21:54</span>
-          <span class="news-item-title">成渝科普“场景清单”在蓉发布 推出30条研学线路</span>
-          <span class="news-value-point">💡 中新网成都11月10日电(王利文)2026年“第六届成渝双城科普行”活动10日在成都举行</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/new-framework-grades-ai-jailbreaks-across-capability-gains-scope-and-how-easy-they-are-to-deploy-frontier-model-forum-proposes-cvss-style-rating-system-for-new-ai-models" target="_blank" rel="noopener" data-cat="keji" data-summary="Frontier Model Forum发布了越狱评级框架，以估计模特逃离笼子有多容易，以及他们可以造成多少伤害。" data-title="New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy" data-date="11-10 21:40" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-10 21:40</span>
-          <span class="news-item-title">新框架针对能力提升、范围以及部署难易程度对AI越狱进行评级</span>
-          <span class="news-item-title-en">New framework grades AI jailbreaks across capability gains, scope, and how easy they are to deploy</span>
-          <span class="news-value-point">💡 Frontier Model Forum发布了越狱评级框架，以估计模特逃离笼子有多容易，以及他们可以造成多少伤害</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/going-deep-on-local-ai-performance-with-apples-mac-studio-with-m5-ultra-inference-engine-recipes-mandatory-for-bigger-models-as-mlx-stack-matures" target="_blank" rel="noopener" data-cat="keji" data-summary="但是，如果您正在考虑为构建本地AI推理设置而花费超过$ 1万美元， Mac Studio是否适合您？" data-title="Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark" data-date="11-10 21:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-10 21:20</span>
-          <span class="news-item-title">使用配备M5 Ultra的Apple Mac Studio对Nvidia DGX Spark进行本地AI性能基准测试</span>
-          <span class="news-item-title-en">Going deep on local AI performance benchmarking with Apple’s Mac Studio with M5 Ultra taking on Nvidia DGX Spark</span>
-          <span class="news-value-point">💡 但是，如果您正在考虑为构建本地AI推理设置而花费超过$ 1万美元， Mac Studio是否适合您</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html" target="_blank" rel="noopener" data-cat="keji" data-summary="治理专家质疑，正在调查黄先生行为的董事会是否过于恭敬，因为他已经将英伟达变成了一家全球巨头。" data-title="Nvidia’s Board Has a History of Letting Jensen Huang Get His Way" data-date="11-10 21:07" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Wachtell合伙人、前代理美国律师Joon H. Kim正在领导对该芯片制造商首席执行官的调查。" data-title="Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive" data-date="11-11 03:33" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-10 21:07</span>
-          <span class="news-item-title">英伟达董事会有让Jensen Huang按自己的方式行事的历史</span>
-          <span class="news-item-title-en">Nvidia’s Board Has a History of Letting Jensen Huang Get His Way</span>
-          <span class="news-value-point">💡 治理专家质疑，正在调查黄先生行为的董事会是否过于恭敬，因为他已经将英伟达变成了一家全球巨头</span>
+          <span class="news-item-date">11-11 03:33</span>
+          <span class="news-item-title">英伟达聘请Wachtell Lipton调查首席执行官Jensen Huang与中国高管的婚外情</span>
+          <span class="news-item-title-en">Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive</span>
+          <span class="news-value-point">💡 Wachtell合伙人、前代理美国律师Joon H. Kim正在领导对该芯片制造商首席执行官的调查</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/" target="_blank" rel="noopener" data-cat="keji" data-summary="Hugging Face高管艾琳·索莱曼（ Irene Solaiman ）警告说，开放式人工智能平台上不断增长的网络攻击可能会迫使更严格的安全限制，威胁到开放源代码社区对全球开发人员有价值的可访问性。" data-title="Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns" data-date="11-10 21:00" data-source="TechCrunch">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在Jensen Huang登上空军一号前往北京的途中，总统被提醒有情报显示他与一名据信是中国间谍的女子发生了关系。" data-title="Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader" data-date="11-11 03:27" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-11 03:27</span>
+          <span class="news-item-title">尽管遭到否认，但特朗普在访问中国时被告知对英伟达领导人进行间谍活动</span>
+          <span class="news-item-title-en">Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader</span>
+          <span class="news-value-point">💡 在Jensen Huang登上空军一号前往北京的途中，总统被提醒有情报显示他与一名据信是中国间谍的女子发生了关系</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy" target="_blank" rel="noopener" data-cat="keji" data-summary="随着间谍目标的出现， Jensen Huang可能是地球上最不令人惊讶的人之一。这位英伟达首席执行官运营着世界上最有价值的公司之一，控制着推动人工智能热潮的需求技术，并与总裁、首席执行官和所有" data-title="The US is winning the AI race. Jensen Huang could have blown it" data-date="11-11 03:04" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 03:04</span>
+          <span class="news-item-title">美国正在赢得人工智能竞赛。Jensen Huang可能搞砸了</span>
+          <span class="news-item-title-en">The US is winning the AI race. Jensen Huang could have blown it</span>
+          <span class="news-value-point">💡 随着间谍目标的出现， Jensen Huang可能是地球上最不令人惊讶的人之一</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/" target="_blank" rel="noopener" data-cat="keji" data-summary="PSI使用了一个未发布的人类模型来回答科学家们近二十年来一直追求的关于量子计算的一个基本问题。" data-title="PSI is trying to make a business out of AI-driven scientific discovery" data-date="11-11 03:03" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-10 21:00</span>
-          <span class="news-item-title">Hugging Face高管警告称，网络攻击可能会使开源人工智能变得不那么开放</span>
-          <span class="news-item-title-en">Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns</span>
-          <span class="news-value-point">💡 Hugging Face高管艾琳·索莱曼（ Irene Solaiman ）警告说，开放式人工智能平台上不断增长的网络攻击可能会迫使更严格的安全…</span>
+          <span class="news-item-date">11-11 03:03</span>
+          <span class="news-item-title">PSI正试图利用人工智能驱动的科学发现做生意</span>
+          <span class="news-item-title-en">PSI is trying to make a business out of AI-driven scientific discovery</span>
+          <span class="news-value-point">💡 PSI使用了一个未发布的人类模型来回答科学家们近二十年来一直追求的关于量子计算的一个基本问题</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-targets-1-million-wafers-a-month-after-2032-planned-700-000-monthly-memory-wafers-could-rival-samsungs-entire-estimated-dram-production-capacity" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道，特斯拉和SpaceX的Terafab计划在2032年后每月生产100万片晶圆，其中约70万片用于内存。" data-title="Elon Musk’s Terafab targets 1 million wafers a month after 2032" data-date="11-10 21:00" data-source="Tom's Hardware">
+        <a class="news-item" href="https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI正在寻求使ChatGPT成为一个更强大的消费者发现引擎，许多新功能旨在帮助企业实现这一目标。" data-title="OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google" data-date="11-11 02:49" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-11 02:49</span>
+          <span class="news-item-title">OpenAI推出新的业务配置文件，使ChatGPT更像谷歌</span>
+          <span class="news-item-title-en">OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</span>
+          <span class="news-value-point">💡 OpenAI正在寻求使ChatGPT成为一个更强大的消费者发现引擎，许多新功能旨在帮助企业实现这一目标</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub" target="_blank" rel="noopener" data-cat="keji" data-summary="ChatGPT将允许您与代表品牌的经过验证的“业务代理”聊天，以帮助您进行比较购物等。该功能首次面向美国“符合条件”的电子商务和在线服务企业推出，" data-title="ChatGPT is getting verified AI ‘Business Agents’" data-date="11-11 02:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 02:00</span>
+          <span class="news-item-title">ChatGPT正在获得经过验证的人工智能“业务代理”</span>
+          <span class="news-item-title-en">ChatGPT is getting verified AI ‘Business Agents’</span>
+          <span class="news-value-point">💡 ChatGPT将允许您与代表品牌的经过验证的“业务代理”聊天，以帮助您进行比较购物等</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt" target="_blank" rel="noopener" data-cat="keji" data-summary="ITI正在游说反对禁止数据中心将电信号转换为光信号所需的这些光收发器。" data-title="Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports" data-date="11-11 01:51" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-10 21:00</span>
-          <span class="news-item-title">埃隆·马斯克（ Elon Musk ）的Terafab计划在2032年后每月生产100万片晶圆</span>
-          <span class="news-item-title-en">Elon Musk’s Terafab targets 1 million wafers a month after 2032</span>
-          <span class="news-value-point">💡 据报道，特斯拉和SpaceX的Terafab计划在2032年后每月生产100万片晶圆，其中约70万片用于内存</span>
+          <span class="news-item-date">11-11 01:51</span>
+          <span class="news-item-title">微软游说反对可能禁止用于人工智能数据中心的中国光网络设备，因为FCC正在考虑限制进口</span>
+          <span class="news-item-title-en">Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports</span>
+          <span class="news-value-point">💡 ITI正在游说反对禁止数据中心将电信号转换为光信号所需的这些光收发器</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/policy/president-trump-says-the-fbi-is-investigating-jensen-huangs-affair-nvidia-also-accused-of-intervening-in-megaspeed-chip-smuggling-investigation" target="_blank" rel="noopener" data-cat="keji" data-summary="联邦调查局可能担心中国特工对美国领先的人工智能芯片制造商的领导者具有影响力。" data-title="President Trump says the FBI is investigating Jensen Huang’s affair" data-date="11-10 20:33" data-source="Tom's Hardware">
+        <a class="news-item" href="https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/" target="_blank" rel="noopener" data-cat="keji" data-summary="在参与者交谈时， Claude可以起草正在讨论的计划，在白板上绘制时间表，在会议聊天中回答问题，并访问连接的工作应用程序以检索信息，例如去年的数字。" data-title="Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks" data-date="11-11 01:30" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-11 01:30</span>
+          <span class="news-item-title">Anthropic推出Claude Meetings ，将工作场所的讨论转化为计划和任务</span>
+          <span class="news-item-title-en">Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</span>
+          <span class="news-value-point">💡 在参与者交谈时， Claude可以起草正在讨论的计划，在白板上绘制时间表，在会议聊天中回答问题，并访问连接的工作应用程序以检索信息，例如去年的数…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达和Arm推出了新的“代理CPU” ，这是AMD高级员工在推出Zen 6 EPYC Venice CPU时所反对的头衔。" data-title="AMD VP and chief Zen architect rebuke claims that Nvidia and Arm made CPUs for agentic AI — ‘We didn’t magically know four years ago that agentic was going to be a thing’" data-date="11-11 01:20" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-10 20:33</span>
-          <span class="news-item-title">特朗普总统表示，联邦调查局正在调查黄延森的婚外情</span>
-          <span class="news-item-title-en">President Trump says the FBI is investigating Jensen Huang’s affair</span>
-          <span class="news-value-point">💡 联邦调查局可能担心中国特工对美国领先的人工智能芯片制造商的领导者具有影响力</span>
+          <span class="news-item-date">11-11 01:20</span>
+          <span class="news-item-title">AMD副总裁兼首席禅宗架构师REFUKE声称英伟达和Arm为代理人工智能制造CPU — “四年前，我们并不神奇地知道代理将成为一件事”</span>
+          <span class="news-item-title-en">AMD VP and chief Zen architect rebuke claims that Nvidia and Arm made CPUs for agentic AI — ‘We didn’t magically know four years ago that agentic was going to be a thing’</span>
+          <span class="news-value-point">💡 英伟达和Arm推出了新的“代理CPU” ，这是AMD高级员工在推出Zen 6 EPYC Venice CPU时所反对的头衔</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/025/195.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6 架构，最高可达 256 核 512 线程，率先在嵌入式平台落地 PCIe Gen6、CXL3.1，搭配 16 通道 DDR5/MRDIMM 内存、7 年产品生命周期。不同于 9 月发布的 AMD 霄龙 9006 系列服务器 CPU（面向智能体 AI、云计算、企业应用等），本次发布的嵌入式 9006 系列 SP7 处理器主要面向半导体 ATE 测试设备、企业存储、高端网络防火墙等关键嵌入式场景。在插槽规格方面，AMD 霄龙嵌入式 9006 系列采用新一代 SP7 规格，而前代 9005 系列采用 SP5 插槽规格，两者物理不兼容。SP7 是 EPYC" data-title="嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍" data-date="11-11 01:05" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-11 01:05</span>
+          <span class="news-item-title">嵌入式 x86 算力天花板：AMD 霄龙嵌入式 9006 系列 SP7 处理器发布，吞吐量飙升 1.8 倍</span>
+          <span class="news-value-point">💡 IT之家 11 月 11 日消息，AMD 今天（11 月 11 日）发布霄龙（EPYC）嵌入式 9006 系列 SP7 处理器，基于 Zen 6…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/" target="_blank" rel="noopener" data-cat="keji" data-summary="随着美国和中国竞相开发最先进的人工智能基础设施，这一事件可能会对国家安全产生影响。" data-title="Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline" data-date="11-11 01:04" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-11 01:04</span>
+          <span class="news-item-title">英伟达首席执行官Jensen Huang与涉嫌中国间谍的婚外情：时间表</span>
+          <span class="news-item-title-en">Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline</span>
+          <span class="news-value-point">💡 随着美国和中国竞相开发最先进的人工智能基础设施，这一事件可能会对国家安全产生影响</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/amd-zen-6-epyc-venice-deep-dive-and-benchmarking-dual-epyc-9996-with-1-024-threads-delivers-up-to-93-percent-performance-gain-gen-on-gen-9686f-outclasses-nvidias-vera" target="_blank" rel="noopener" data-cat="keji" data-summary="AMD在其Zen 6微架构上拉开了帷幕。我们深入探讨了Zen 5和Zen 6之间的差异，并详细介绍了AMD威尼斯CPU的首批基准测试。" data-title="AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking" data-date="11-11 01:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-11 01:00</span>
+          <span class="news-item-title">AMD Zen 6 EPYC “威尼斯”深度潜水和基准测试</span>
+          <span class="news-item-title-en">AMD Zen 6 EPYC ‘Venice’ deep dive and benchmarking</span>
+          <span class="news-value-point">💡 AMD在其Zen 6微架构上拉开了帷幕</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道， Alice Huang与中国公司的网络连接，然后利用她与Jensen Huang的亲密关系获得价值数十亿美元的Nvidia GPU。" data-title="Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang" data-date="11-11 00:50" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-11 00:50</span>
+          <span class="news-item-title">据报道， Alice Huang在与Jensen Huang的三年关系中，在确保超过75亿美元的Nvidia AI GPU进口方面发挥了重要作用</span>
+          <span class="news-item-title-en">Alice Huang reportedly instrumental in securing over $7.5 billion of Nvidia AI GPU imports during three-year relationship with Jensen Huang</span>
+          <span class="news-value-point">💡 据报道， Alice Huang与中国公司的网络连接，然后利用她与Jensen Huang的亲密关系获得价值数十亿美元的Nvidia GPU</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/" target="_blank" rel="noopener" data-cat="keji" data-summary="谷歌的新张量处理单元（ TPU ）将其芯片产品组合扩展到更多用例：机密模型培训和更大的内存容量。" data-title="Google broadens its AI hardware portfolio with two new specialized chips" data-date="11-10 23:54" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-10 23:54</span>
+          <span class="news-item-title">谷歌通过两款新的专用芯片扩大其人工智能硬件产品组合</span>
+          <span class="news-item-title-en">Google broadens its AI hardware portfolio with two new specialized chips</span>
+          <span class="news-value-point">💡 谷歌的新张量处理单元（ TPU ）将其芯片产品组合扩展到更多用例：机密模型培训和更大的内存容量</span>
         </a>
   </div>
   <div class="news-category">
@@ -345,6 +347,51 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.skysports.com/football/inter-milan-women-vs-manchester-city-women/live/578260" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="WCL: Inter Milan vs Man City LIVE!" data-title="WCL: Inter Milan vs Man City LIVE!" data-date="11-11 03:30" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-11 03:30</span>
+          <span class="news-item-title">WCL ：国际米兰vs曼城现场直播！</span>
+          <span class="news-item-title-en">WCL: Inter Milan vs Man City LIVE!</span>
+        </a>
+        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在一个高级分析的时代，决定何时从经理那里继续前进似乎仍然归结为氛围，而不是逻辑。他只是不得不离开。他的立场变得站不住脚。Leander Schaerlaeckens是《The Long Game: U.S. Men&#39;s Soccer a" data-title="Firing a manager is often more about maintaining the illusion of control" data-date="11-11 03:03" data-source="卫报">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
+          <span class="news-item-date">11-11 03:03</span>
+          <span class="news-item-title">解雇经理往往更多的是保持控制的错觉</span>
+          <span class="news-item-title-en">Firing a manager is often more about maintaining the illusion of control</span>
+          <span class="news-value-point">💡 在一个高级分析的时代，决定何时从经理那里继续前进似乎仍然归结为氛围，而不是逻辑</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联的权力经纪人周三在摩纳哥开会，决定迈克尔·卡里克是否会继续担任主教练" data-title="The Monaco summit that will decide the future of Carrick and Man Utd" data-date="11-11 02:12" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-11 02:12</span>
+          <span class="news-item-title">摩纳哥峰会将决定卡里克和曼联的未来</span>
+          <span class="news-item-title-en">The Monaco summit that will decide the future of Carrick and Man Utd</span>
+          <span class="news-value-point">💡 曼联的权力经纪人周三在摩纳哥开会，决定迈克尔·卡里克是否会继续担任主教练</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/live/578259" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Hacken 0-0 Chelsea commentary" data-title="Hacken 0-0 Chelsea commentary" data-date="11-11 01:15" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-11 01:15</span>
+          <span class="news-item-title">哈肯0-0切尔西评论</span>
+          <span class="news-item-title-en">Hacken 0-0 Chelsea commentary</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="随着人们对曼联老板迈克尔·卡里克的未来越来越怀疑，俱乐部的管理选择是什么？" data-title="Pochettino, Howe, Emery... or Carrick? Man Utd&#39;s managerial options" data-date="11-11 00:17" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-11 00:17</span>
+          <span class="news-item-title">Pochettino、Howe、Emery……还是Carrick ？曼联的管理选项</span>
+          <span class="news-item-title-en">Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options</span>
+          <span class="news-value-point">💡 随着人们对曼联老板迈克尔·卡里克的未来越来越怀疑，俱乐部的管理选择是什么</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/025/194.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 11 月 11 日消息，由 Sports Interactive 开发、SEGA 发行的足球策略模拟游戏《足球经理 27》（Football Manager 27，简称《FM27》）已正式在 Steam 平台正式发售，国区定价 268 元，不锁国区。IT之家附游戏商品页（https://store.steampowered.com/app/4530370/足球经理 27/?l=schinese&amp;cc=cn）。据介绍，本作国区标准版定价 268 元，预购期间曾提供 10% 首发折扣（折后 241.2 元），该促销已于发售日截止。游戏首发同步登陆 PC Game Pass 及 Xbox Game Pass Ultimate 订阅库，订阅用户可直接游玩。在语言支持方面，《FM27》提供" data-title="《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass" data-date="11-11 00:14" data-source="IT之家">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-11 00:14</span>
+          <span class="news-item-title">《足球经理 27》今日发售：国区售价 268 元，首发加入 PC Game Pass</span>
+          <span class="news-value-point">💡 IT之家 11 月 11 日消息，由 Sports Interactive 开发、SEGA 发行的足球策略模拟游戏《足球经理 27》（Footb…</span>
+        </a>
         <a class="news-item" href="https://www.skysports.com/football/news/12040/13610675/man-utd-qa-michael-carrick-mauricio-pochettino-ineos-and-more-kaveh-solhekol-answers-your-questions" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Kaveh Solhekol已经回答了你关于曼联的最新问题，迈克尔·卡里克的未来在空中，俱乐部在降级区，还有更多的幕后问题。" data-title="Man Utd Q&amp;A: Carrick, Poch, INEOS and more answered" data-date="11-10 23:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
@@ -361,21 +408,6 @@ title: 热点新闻
           <span class="news-item-title-en">Man Utd Q&A: Carrick, Poch, INEOS and more answered</span>
           <span class="news-value-point">💡 Kaveh Solhekol已经回答了你关于曼联的最新问题，迈克尔·卡里克的未来在空中，俱乐部在降级区，还有更多的幕后问题</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/180.htm" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="IT之家 11 月 10 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 3 日 - 2026 年 11 月 10 日，无免费游戏），《使命召唤：现代战争 4》反超《影之刃零》登顶全球榜，《影之刃零》继续蝉联国区榜首，新游《哥斯拉：怪兽大乱斗复刻版》《最终幻想 14：Evercold》首次上榜。全球榜单使命召唤：现代战争 4影之刃零AION 2足球经理 27深空当铺：可能是偷的EA SPORTS FC™ 27使命召唤 ®最终幻想 14 OnlineMoon Sweepers哥斯拉：怪兽大乱斗复刻版国区榜单影之刃零深空当铺：可能是偷的使命召唤：现代战争 4使命召唤NBA 2K27土豆兄弟 (Brotato)Wallpaper Engine：壁纸引擎足球经理 2" data-title="Steam 新一周游戏销量榜：《COD：MW4》反超《影之刃零》登顶全球" data-date="11-10 22:31" data-source="IT之家">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 22:31</span>
-          <span class="news-item-title">Steam 新一周游戏销量榜：《COD：MW4》反超《影之刃零》登顶全球</span>
-          <span class="news-value-point">💡 IT之家 11 月 10 日消息，Steam 平台现已公布了最新一周游戏销量排行榜（2026 年 11 月 3 日 - 2026 年 11 月 …</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="天空体育的保罗·默森（ Paul Merson ）认为，曼联的转会策略是他们顶级赛季最糟糕的开局，而不是主教练迈克尔·卡里克（ Michael Carrick ）。" data-title="Merson: Man Utd transfer policy is to blame" data-date="11-10 21:30" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-10 21:30</span>
-          <span class="news-item-title">Merson ： Man Utd转会政策是罪魁祸首</span>
-          <span class="news-item-title-en">Merson: Man Utd transfer policy is to blame</span>
-          <span class="news-value-point">💡 天空体育的保罗·默森（ Paul Merson ）认为，曼联的转会策略是他们顶级赛季最糟糕的开局，而不是主教练迈克尔·卡里克（ Michael …</span>
-        </a>
         <a class="news-item" href="https://www.skysports.com/football/news/11661/13610645/man-utds-transfer-policy-to-blame-for-clubs-worst-premier-league-start-and-not-michael-carrick-says-paul-merson" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="天空体育的保罗·默森（ Paul Merson ）认为，曼联的转会策略是他们顶级赛季最糟糕的开局，而不是主教练迈克尔·卡里克（ Michael Carrick ）。" data-title="Merson: Man Utd transfer policy is to blame" data-date="11-10 21:30" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
@@ -391,13 +423,13 @@ title: 热点新闻
           <span class="news-item-title">利物浦最新消息：范迪克对新协议“不恐慌”。</span>
           <span class="news-item-title-en">Liverpool latest: Van Dijk 'not panicking' about new deal.</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联主教练迈克尔·卡里克的未来将在周三在摩纳哥举行的会议上讨论。" data-title="Carrick&#39;s Man Utd future to be decided at Wednesday meeting" data-date="11-10 19:23" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmy0r041ed0po?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联主教练迈克尔·卡里克（ Michael Carrick ）的未来将在周三的会议上讨论，但高管奥马尔·贝拉达（ Omar Berrada ）和杰森·威尔科克斯（ Jason Wilcox ）仍得到少数族裔老板吉姆·拉特克利夫爵" data-title="Carrick&#39;s Man Utd future to be decided as Berrada and Wilcox retain support" data-date="11-10 19:23" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-10 19:23</span>
-          <span class="news-item-title">Carrick's Man Utd的未来将在周三的会议上决定</span>
-          <span class="news-item-title-en">Carrick's Man Utd future to be decided at Wednesday meeting</span>
-          <span class="news-value-point">💡 曼联主教练迈克尔·卡里克的未来将在周三在摩纳哥举行的会议上讨论</span>
+          <span class="news-item-title">Carrick's Man Utd的未来将由Berrada和Wilcox决定</span>
+          <span class="news-item-title-en">Carrick's Man Utd future to be decided as Berrada and Wilcox retain support</span>
+          <span class="news-value-point">💡 曼联主教练迈克尔·卡里克（ Michael Carrick ）的未来将在周三的会议上讨论，但高管奥马尔·贝拉达（ Omar Berrada ）和…</span>
         </a>
         <a class="news-item" href="https://www.skysports.com/football/news/11661/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-with-mauricio-pochettino-open-to-talks" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·卡里克（ Michael Carrick ）作为曼联主教练的地位越来越受到质疑，如果俱乐部接近他，毛里西奥·波切蒂诺（ Mauricio Pochettino ）愿意进行讨论。" data-title="Poch open to Man Utd talks with Carrick&#39;s position in doubt" data-date="11-10 18:24" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -429,38 +461,6 @@ title: 热点新闻
           <span class="news-item-title">转会中心直播！ Poch对英超联赛的回归有什么看法？</span>
           <span class="news-item-title-en">Transfer Centre LIVE! What has Poch said about Premier League return?</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13608837/james-penrice-scotland-and-rangers-defender-on-his-slow-rise-from-part-time-football-to-international-call-up" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="“我一直认为，如果我继续比赛并继续表演，它就会到来。谢天谢地，它做到了。”" data-title="Penrice on &#39;slow rise&#39; from part-time football to Scotland call-up" data-date="11-10 16:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-10 16:00</span>
-          <span class="news-item-title">Penrice谈从兼职足球到苏格兰征召的“缓慢崛起”</span>
-          <span class="news-item-title-en">Penrice on 'slow rise' from part-time football to Scotland call-up</span>
-          <span class="news-value-point">💡 “我一直认为，如果我继续比赛并继续表演，它就会到来</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/cricket/news/12040/13610462/sandpapergate-mitchell-starc-denies-knowledge-after-usman-khawaja-claims-as-cricket-australia-says-investigation-will-not-be-re-opened" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在前队友Usman Khawaja爆炸性地声称整个更衣室都知道2018年南非的球篡改计划之后，澳大利亚快速投球手Mitchell Starc否认了“Sandpapergate”的任何先前知识。" data-title="Starc denies Khawaja claims as Cricket Australia says investigation won&#39;t reopen" data-date="11-10 15:45" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-10 15:45</span>
-          <span class="news-item-title">Starc否认Khawaja的说法，因为Cricket Australia表示调查不会重新开始</span>
-          <span class="news-item-title-en">Starc denies Khawaja claims as Cricket Australia says investigation won't reopen</span>
-          <span class="news-value-point">💡 在前队友Usman Khawaja爆炸性地声称整个更衣室都知道2018年南非的球篡改计划之后，澳大利亚快速投球手Mitchell Starc否认…</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13610412/michael-carrick-future-man-utd-head-coach-position-increasingly-in-doubt-but-no-final-decision-made" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·卡里克（ Michael Carrick ）作为曼联主教练的地位越来越令人怀疑，但天空体育新闻（ Sky Sports News ）迄今为止已被告知，尚未就他在老特拉福德的未来做出最终决定。" data-title="Carrick&#39;s position increasingly in doubt" data-date="11-10 07:04" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-10 07:04</span>
-          <span class="news-item-title">卡里克的立场越来越令人怀疑</span>
-          <span class="news-item-title-en">Carrick's position increasingly in doubt</span>
-          <span class="news-value-point">💡 迈克尔·卡里克（ Michael Carrick ）作为曼联主教练的地位越来越令人怀疑，但天空体育新闻（ Sky Sports News ）迄今…</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cw4g1g7z2mdgo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联董事会尚未对迈克尔·卡里克的未来做出最终决定，尽管这是俱乐部40年来最糟糕的一场比赛。" data-title="Man Utd yet to make decision on Carrick&#39;s future" data-date="11-10 01:49" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-10 01:49</span>
-          <span class="news-item-title">曼联尚未就卡里克的未来做出决定</span>
-          <span class="news-item-title-en">Man Utd yet to make decision on Carrick's future</span>
-          <span class="news-value-point">💡 曼联董事会尚未对迈克尔·卡里克的未来做出最终决定，尽管这是俱乐部40年来最糟糕的一场比赛</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -468,6 +468,110 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down" target="_blank" rel="noopener" data-cat="zonghe" data-summary="索尼将于12月10日停用适用于PC的PlayStation Plus应用程序。索尼表示，它将直接通知用户关机。该应用程序允许PlayStation Plus Premium订阅者在PC上流式传输某些游戏，但根据索尼的说法，" data-title="The PlayStation Plus PC app is shutting down next month" data-date="11-11 03:40" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 03:40</span>
+          <span class="news-item-title">PlayStation Plus PC应用程序将于下个月关闭</span>
+          <span class="news-item-title-en">The PlayStation Plus PC app is shutting down next month</span>
+          <span class="news-value-point">💡 索尼将于12月10日停用适用于PC的PlayStation Plus应用程序</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这笔交易是在Oura无限期推迟其高达22亿美元的IPO几周后达成的，理由是“IPO市场的不确定性”。" data-title="Oura to acquire AI-native primary care startup Counsel Health for $625M" data-date="11-11 03:23" data-source="TechCrunch">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-11 03:23</span>
+          <span class="news-item-title">Oura将以6.25亿美元收购AI原生初级保健初创公司Counsel Health</span>
+          <span class="news-item-title-en">Oura to acquire AI-native primary care startup Counsel Health for $625M</span>
+          <span class="news-value-point">💡 这笔交易是在Oura无限期推迟其高达22亿美元的IPO几周后达成的，理由是“IPO市场的不确定性”</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery" target="_blank" rel="noopener" data-cat="zonghe" data-summary="SpaceX宣布推出其一体化卫星互联网终端的新版本，该终端将天线、Wi-Fi路由器和电池集成到一台笔记本电脑大小的单个设备中。根据X上的一些用户分享了邀请的屏幕截图" data-title="Starlink Mini 2 adds a swappable battery" data-date="11-11 03:19" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 03:19</span>
+          <span class="news-item-title">Starlink Mini 2增加了可更换电池</span>
+          <span class="news-item-title-en">Starlink Mini 2 adds a swappable battery</span>
+          <span class="news-value-point">💡 SpaceX宣布推出其一体化卫星互联网终端的新版本，该终端将天线、Wi-Fi路由器和电池集成到一台笔记本电脑大小的单个设备中</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding" target="_blank" rel="noopener" data-cat="zonghe" data-summary="经过三星、摩托罗拉和Pebblebee等公司多年的第三方Android跟踪器，谷歌的Pixel Tag现已上市。Pixel Tag于8月首次发布，旨在与谷歌的跟踪网络和应用程序" data-title="Google’s Pixel Tag tracker is now available" data-date="11-11 03:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 03:00</span>
+          <span class="news-item-title">Google的Pixel Tag跟踪器现已推出</span>
+          <span class="news-item-title-en">Google’s Pixel Tag tracker is now available</span>
+          <span class="news-value-point">💡 经过三星、摩托罗拉和Pebblebee等公司多年的第三方Android跟踪器，谷歌的Pixel Tag现已上市</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight" target="_blank" rel="noopener" data-cat="zonghe" data-summary="谷歌正在为Pixel 11 Pro手机背面令人印象深刻的HiLight灯添加一项新功能：作为2026年11月Pixel Drop的一部分，当您从喜爱的联系人那里收到Google Messages短信时，灯光就会亮起。当然，这是一个小的" data-title="Google is making Pixel HiLight slightly more useful" data-date="11-11 03:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 03:00</span>
+          <span class="news-item-title">谷歌正在让Pixel HiLight稍微更有用</span>
+          <span class="news-item-title-en">Google is making Pixel HiLight slightly more useful</span>
+          <span class="news-value-point">💡 谷歌正在为Pixel 11 Pro手机背面令人印象深刻的HiLight灯添加一项新功能：作为2026年11月Pixel Drop的一部分，当您从…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如果您厌倦了灯丝堵塞和喷嘴堵塞，也许是时候购买新的3D打印机了。截至12月1日， Bambu Lab P2S Combo （目前易于使用的最佳型号之一）将享受折扣。百思买是649 $ ，直接" data-title="One of our favorite multi-filament 3D printers is $100 off" data-date="11-11 02:42" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 02:42</span>
+          <span class="news-item-title">我们最喜爱的多灯丝3D打印机之一是$ 100折扣</span>
+          <span class="news-item-title-en">One of our favorite multi-filament 3D printers is $100 off</span>
+          <span class="news-value-point">💡 如果您厌倦了灯丝堵塞和喷嘴堵塞，也许是时候购买新的3D打印机了</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="许多选择民主党候选人的共和党和温和派选民在跨性别和其他社会问题上没有这样做。" data-title="In Midterm Elections, Voters Backed Democrats but Broke Right on Many Ballot Measures" data-date="11-11 02:28" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-11 02:28</span>
+          <span class="news-item-title">在中期选举中，选民支持民主党，但在许多选票措施中表现不佳</span>
+          <span class="news-item-title-en">In Midterm Elections, Voters Backed Democrats but Broke Right on Many Ballot Measures</span>
+          <span class="news-value-point">💡 许多选择民主党候选人的共和党和温和派选民在跨性别和其他社会问题上没有这样做</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="30多年来，该报报道了一个日益专制的俄罗斯。它的一名记者说： “让我们沉默的过程始于多年前。”" data-title="The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper" data-date="11-11 01:59" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-11 01:59</span>
+          <span class="news-item-title">俄罗斯最勇敢的报纸《新报》（ Novaya Gazeta ）的灯光熄灭</span>
+          <span class="news-item-title-en">The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper</span>
+          <span class="news-value-point">💡 30多年来，该报报道了一个日益专制的俄罗斯</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今天， Ableton宣布推出Live 13 ，预计将于2027年初推出一系列新功能。大多数变化在纸面上看似微不足道，但当它们结合在一起时，它们对数字音频工作站（ DAW ）进行了最大的更新。" data-title="Ableton Live 13 announced with a step sequencer, new drum synth, and more" data-date="11-11 01:43" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-11 01:43</span>
+          <span class="news-item-title">Ableton Live 13宣布推出步进定序器、新鼓合成器等</span>
+          <span class="news-item-title-en">Ableton Live 13 announced with a step sequencer, new drum synth, and more</span>
+          <span class="news-value-point">💡 今天， Ableton宣布推出Live 13 ，预计将于2027年初推出一系列新功能</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13610730/ferrari-should-back-extraordinary-lewis-hamilton-over-charles-leclerc-as-number-one-driver-damon-hill-tells-sky-sports-the-f1-show" target="_blank" rel="noopener" data-cat="zonghe" data-summary="前一级方程式世界冠军达蒙·希尔坚持认为，如果他们想有机会赢得明年的车手冠军，法拉利应该支持“非凡的”刘易斯·汉密尔顿而不是他的队友查尔斯·勒克莱尔。" data-title="Hill insists Ferrari should back &#39;extraordinary&#39; Hamilton over Leclerc" data-date="11-11 01:30" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-11 01:30</span>
+          <span class="news-item-title">希尔坚持认为法拉利应该支持“非凡的”汉密尔顿而不是勒克莱尔</span>
+          <span class="news-item-title-en">Hill insists Ferrari should back 'extraordinary' Hamilton over Leclerc</span>
+          <span class="news-value-point">💡 前一级方程式世界冠军达蒙·希尔坚持认为，如果他们想有机会赢得明年的车手冠军，法拉利应该支持“非凡的”刘易斯·汉密尔顿而不是他的队友查尔斯·勒克莱…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/nfl/news/12040/13610682/jordan-love-green-bay-packers-quarterback-is-fearless-and-can-lead-matt-lafleurs-team-to-super-bowl-says-neil-reynolds" target="_blank" rel="noopener" data-cat="zonghe" data-summary="我很清楚，我们才刚刚到达2026赛季的中点， NFL可能会发生很多变化，尤其是在年底。" data-title="Reynolds: Fearless Love can lead Packers to Super Bowl" data-date="11-11 01:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-11 01:00</span>
+          <span class="news-item-title">雷诺兹：无畏的爱可以带领包装工队进入超级碗</span>
+          <span class="news-item-title-en">Reynolds: Fearless Love can lead Packers to Super Bowl</span>
+          <span class="news-value-point">💡 我很清楚，我们才刚刚到达2026赛季的中点， NFL可能会发生很多变化，尤其是在年底</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/boxing/news/12040/13610713/cheavon-clarke-should-be-on-the-shortlist-for-british-fighter-of-the-year-after-chris-billam-smith-knockout-victory" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Cheavon Clarke在击败杰克·梅西（ Jack Massey ）和克里斯·比兰-史密斯（ Chris Billam-Smith ）之后，应该入围今年的英国战斗机入围名单。" data-title="Could Clarke be UK fighter of year after Billam" data-date="11-11 00:44" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-11 00:44</span>
+          <span class="news-item-title">克拉克能否在Billam之后成为英国年度最佳战士</span>
+          <span class="news-item-title-en">Could Clarke be UK fighter of year after Billam</span>
+          <span class="news-value-point">💡 Cheavon Clarke在击败杰克·梅西（ Jack Massey ）和克里斯·比兰-史密斯（ Chris Billam-Smith ）之后…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/cricket/news/12040/13610671/jacob-bethell-is-england-return-for-australia-odis-likely-to-happen-or-will-tom-banton-keep-openers-spot" target="_blank" rel="noopener" data-cat="zonghe" data-summary="英格兰有一个顶级困境。虽然，这是“好问题之一”的多样性。" data-title="What do England do with Bethell for Australia ODIs?" data-date="11-11 00:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-11 00:00</span>
+          <span class="news-item-title">英格兰用Bethell为澳大利亚ODI做了什么？</span>
+          <span class="news-item-title-en">What do England do with Bethell for Australia ODIs?</span>
+          <span class="news-value-point">💡 英格兰有一个顶级困境</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729864.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近期，社交平台上出现了一批内容为“取消外卖”“下架外卖”等话题的短视频，引发广泛关注。这些视频呈现出明显的模板化，且通常由多个账号在短期内批量生产，看似是个别餐饮商家的表态和呼吁，实则是深谙“情绪即流量”的MCN机构炮制的舆论噱头。" data-title="商家呼吁“取消外卖”？实为MCN制造对立、虚假摆拍引流" data-date="11-10 23:33" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -482,103 +586,6 @@ title: 热点新闻
           <span class="news-item-title">Secretlab首次推出监视器灯条附加组件，以减少眩光和眼睛疲劳</span>
           <span class="news-item-title-en">Secretlab debuts monitor light bar add-on to reduce glare and eye strain</span>
           <span class="news-value-point">💡 广受欢迎的桌椅制造商Secretlab推出了新的显示器灯条</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/189.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 10 日消息，据央视新闻报道，今天，第 39 届中国电影金鸡奖颁奖典礼举行。获奖名单如下：最佳女主角：高叶《南京照相馆》最佳男主角：梁家辉 《捕风追影》最佳女配角：兰西雅 《震耳欲聋》最佳男配角：吾守尔 · 赛来 《万桐书》最佳故事片：《南京照相馆》最佳导演：郑大圣《密档》评委会特别奖：《给阿嬷的情书》最佳新晋导演：万力《震耳欲聋》最佳中小成本故事片：《菜肉馄饨》最佳录音：王砚伟《镖人：风起大漠》最佳剪辑：黄曾鸿辰 《飞行家》最佳美术：王竞 《得闲谨制》最佳音乐：高小阳 《万桐书》最佳摄影：董劲松 《狂野时代》最佳动画：《浪浪山小妖怪》最佳纪录 / 科教片：《窗外是蓝星》最佳儿童片：《马兰花开的声音》最佳戏曲片：《顾炎武》最佳外语片：《情感价值》最佳编剧：《给阿嬷的情书》" data-title="第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖" data-date="11-10 23:05" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 23:05</span>
-          <span class="news-item-title">第 39 届中国电影金鸡奖全名单公布，《浪浪山小妖怪》《窗外是蓝星》《给阿嬷的情书》等获奖</span>
-          <span class="news-value-point">💡 IT之家 11 月 10 日消息，据央视新闻报道，今天，第 39 届中国电影金鸡奖颁奖典礼举行</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping" target="_blank" rel="noopener" data-cat="zonghe" data-summary="数以百万计的人转向Reddit寻求第一手建议和对消费品的评论。现在，该平台正在发挥其作为购物者目的地的作用，以挑战发布产品评论和" data-title="Reddit wants to guide your next purchase" data-date="11-10 23:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-10 23:00</span>
-          <span class="news-item-title">Reddit希望指导您的下一次购买</span>
-          <span class="news-item-title-en">Reddit wants to guide your next purchase</span>
-          <span class="news-value-point">💡 数以百万计的人转向Reddit寻求第一手建议和对消费品的评论</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/187.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 10 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）开启 9.2.83 (3628) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/10-2026/11/24。IT之家附 QQ 鸿蒙版 App 本次测试版本新特性如下：1、新增支持表情搜索。2、新增支持查看历史头像。3、修复一些已知体验问题。据用户反馈，QQ 最新邀测版还适配了平板端的分栏显示功能。目前 QQ 鸿蒙版已获 5.2 万个评分（评分 2.4），已支持单聊、群聊、多人语音或视频通话、抢红包，刷空间好友动态、短视频、频道、扫一扫、手机 / 平板双端登录等功能。" data-title="QQ 鸿蒙版 App 获 9.2.83 邀测升级，新增支持查看历史头像等功能" data-date="11-10 22:56" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 22:56</span>
-          <span class="news-item-title">QQ 鸿蒙版 App 获 9.2.83 邀测升级，新增支持查看历史头像等功能</span>
-          <span class="news-value-point">💡 IT之家 11 月 10 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）开启 9.2.83 (3628) 版本邀测升…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/185.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 10 日消息，今天（10 日）晚间，Rockstar Games（R 星）公布了下周发售的《GTA 6》的多项重要信息。预购玩家现可在 PS5 和 Xbox Series X|S 上预载游戏，数字版玩家可以立即下载，实体版玩家则需等收到兑换码后才能预载。开发团队也正式确认，《GTA 6》不设性能模式，所有主机版本均以 30fps 为目标帧率，PS5 Pro 也不例外。不过，PS5 Pro 仍能凭借独占的 PlayStation 光谱超分辨率技术（PSSR）和光线追踪阴影获得更好的画质。据IT之家了解，《GTA 6》还充分利用了 PS5 的多项独占功能。缩短加载时间：利用 PS5 的高速固态硬盘和 I/O 架构加快游戏加载。增强空间音效：改进游戏音效的空间渲染，充分发挥 T" data-title="PS5 Pro 也不例外：R 星确认《GTA 6》所有主机目标帧率都是 30fps" data-date="11-10 22:50" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 22:50</span>
-          <span class="news-item-title">PS5 Pro 也不例外：R 星确认《GTA 6》所有主机目标帧率都是 30fps</span>
-          <span class="news-value-point">💡 IT之家 11 月 10 日消息，今天（10 日）晚间，Rockstar Games（R 星）公布了下周发售的《GTA 6》的多项重要信息</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/184.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 10 日消息，据央视新闻今日报道，根据世界气象组织公布的最新数据，2023 年至 2026 年成为有记录以来最热的四年。报告指出，年初的拉尼娜现象曾短暂抑制全球升温，但随着厄尔尼诺现象发展，全球气温再次攀升。预计厄尔尼诺将持续至 2027 年初，可能进一步推高 2026 年全年平均气温。与此同时，2025 年全球温室气体浓度再创新高，二氧化碳浓度较工业化前增加 53%。海洋热含量和卫星观测表明，地球系统积累热量的速度正在加快，2025 年地球能量失衡达到 1960 年有观测记录以来最高水平，2026 年可能再次刷新纪录。IT之家查询世界气象组织数据获悉，2026 年 1 月至 9 月，全球近地表平均气温较工业化前（1850 年至 1900 年）水平高出 1.47℃，与 2" data-title="2025 年地球能量失衡达 1960 年有观测记录以来最高水平，今年可能再次刷新纪录" data-date="11-10 22:41" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 22:41</span>
-          <span class="news-item-title">2025 年地球能量失衡达 1960 年有观测记录以来最高水平，今年可能再次刷新纪录</span>
-          <span class="news-value-point">💡 IT之家 11 月 10 日消息，据央视新闻今日报道，根据世界气象组织公布的最新数据，2023 年至 2026 年成为有记录以来最热的四年</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/news/1030714/gta-vi-xbox-cloud-gaming-support" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Rockstar Games将于下周在Xbox Cloud Gaming上推出《侠盗猎车手VI》。虽然你通常认为这意味着《侠盗猎车手VI》可以在PC、网络、Xbox游戏机甚至电视上播放，但" data-title="GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles" data-date="11-10 22:37" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-10 22:37</span>
-          <span class="news-item-title">GTA VI将在Xbox One游戏机的Xbox Cloud Gaming上提供</span>
-          <span class="news-item-title-en">GTA VI will be available on Xbox Cloud Gaming for Xbox One consoles</span>
-          <span class="news-value-point">💡 Rockstar Games将于下周在Xbox Cloud Gaming上推出《侠盗猎车手VI》</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729843.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网海口11月10日电 (记者 王子谦)记者10日从《海南省应对气候变化的政策与行动2026年度报告》白皮书新闻发布会上获悉，海南近年来加快提升建筑领域绿色低碳发展质量，目前绿色建筑实现全面推广，装配式建造“应建尽建”。" data-title="海南推进城乡建设低碳转型 全面推广绿色建筑" data-date="11-10 22:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 22:01</span>
-          <span class="news-item-title">海南推进城乡建设低碳转型 全面推广绿色建筑</span>
-          <span class="news-value-point">💡 中新网海口11月10日电 (记者 王子谦)记者10日从《海南省应对气候变化的政策与行动2026年度报告》白皮书新闻发布会上获悉，海南近年来加快提…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729818.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网银川11月10日电 (记者 李佩珊)立冬过后，贺兰山东麓的风一天比一天硬。11月10日，宁夏贺兰山东麓葡萄酒产区银川子产区美贺庄园的千亩葡萄园里，工人们俯身垄间，把藤蔓从架上卸下，顺着一侧盘压进沟，再覆土压实。一行行葡萄藤没入土中，安静“冬眠”。" data-title="宁夏贺兰山东麓葡萄藤埋土越冬 静待春展" data-date="11-10 22:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 22:01</span>
-          <span class="news-item-title">宁夏贺兰山东麓葡萄藤埋土越冬 静待春展</span>
-          <span class="news-value-point">💡 中新网银川11月10日电 (记者 李佩珊)立冬过后，贺兰山东麓的风一天比一天硬</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729834.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网重庆11月10日电 (殷缘)2026年陆海新通道暨巴蜀文化旅游走廊酒店厨师技能大赛10日在重庆举行。来自川渝两地及贵州、广西、新疆等西部陆海新通道沿线地区的20支代表队、80名厨师齐聚山城，展开厨艺对决。" data-title="以味为桥 80名厨师烹制西部陆海新通道沿线美食" data-date="11-10 22:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 22:00</span>
-          <span class="news-item-title">以味为桥 80名厨师烹制西部陆海新通道沿线美食</span>
-          <span class="news-value-point">💡 中新网重庆11月10日电 (殷缘)2026年陆海新通道暨巴蜀文化旅游走廊酒店厨师技能大赛10日在重庆举行</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Spotify Premium用户现在可以使用具有不同个性的新声音自定义他们的AI DJ ，或关闭歌曲之间的评论。" data-title="Spotify’s AI DJ gets new voices, personalities, and an option for less chatter" data-date="11-10 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-10 22:00</span>
-          <span class="news-item-title">Spotify的AI DJ获得了新的声音、个性和减少聊天的选择</span>
-          <span class="news-item-title-en">Spotify’s AI DJ gets new voices, personalities, and an option for less chatter</span>
-          <span class="news-value-point">💡 Spotify Premium用户现在可以使用具有不同个性的新声音自定义他们的AI DJ ，或关闭歌曲之间的评论</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Kora将作为Windows的免费替代品推出，面向严重依赖AI模型和代理的用户。" data-title="After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era" data-date="11-10 22:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-10 22:00</span>
-          <span class="news-item-title">在用Cyanogen挑战谷歌的Android之后，其联合创始人瞄准了人工智能时代的Windows</span>
-          <span class="news-item-title-en">After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era</span>
-          <span class="news-value-point">💡 Kora将作为Windows的免费替代品推出，面向严重依赖AI模型和代理的用户</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1027926/aura-e-ink-digital-photo-frame-10-inch-price-availability" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Aura刚刚推出了一个较小版本的彩色E Ink框架，有一些改进和更实惠的价格。全新Aura Ink相框采用10英寸E Ink面板，可在更高的像素密度下显示更多颜色。这也是不同的" data-title="Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful" data-date="11-10 22:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-10 22:00</span>
-          <span class="news-item-title">Aura的下一代Color E Ink相框更小、更便宜、更锐利、更丰富多彩</span>
-          <span class="news-item-title-en">Aura’s next color E Ink photo frame is smaller, cheaper, sharper, and more colorful</span>
-          <span class="news-value-point">💡 Aura刚刚推出了一个较小版本的彩色E Ink框架，有一些改进和更实惠的价格</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1030186/peak-design-roller-lite-carry-on-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="当我们去年对Peak Design的Roller Pro进行采样时，我们几乎喜欢这款相机齿轮强国首次尝试合适的手提箱的一切。一切，也就是说，除了价格。当时，在众筹推出期间， Pro可以" data-title="Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too" data-date="11-10 22:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-10 22:00</span>
-          <span class="news-item-title">Peak Design的Roller Lite随身包内部更大，也更便宜</span>
-          <span class="news-item-title-en">Peak Design’s Roller Lite Carry-On is bigger on the inside — and cheaper, too</span>
-          <span class="news-value-point">💡 当我们去年对Peak Design的Roller Pro进行采样时，我们几乎喜欢这款相机齿轮强国首次尝试合适的手提箱的一切</span>
         </a>
   </div>
 </div>
@@ -711,4 +718,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-10 23:42（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-11 03:53（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

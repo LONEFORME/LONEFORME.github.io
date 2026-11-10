@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-10 23:42（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-11 03:53（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">27,615.32</span>
-      <span class="ticker-change down">▼ -1.05%</span>
+      <span class="ticker-price ticker-down">27,655.89</span>
+      <span class="ticker-change down">▼ -0.90%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-11 03:38:01（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-11 03:54:38（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6776</span>
+      <span class="ticker-price ticker-up">6.6770</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg8787" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,19.1 L25.3,22.5 L46.7,28.1 L68.0,31.2 L89.3,38.0 L110.7,13.8 L132.0,8.9 L153.3,19.0 L174.7,10.1 L196.0,6.0 L196,40 Z" fill="url(#sg8787)"/><polyline points="4.0,19.1 25.3,22.5 46.7,28.1 68.0,31.2 89.3,38.0 110.7,13.8 132.0,8.9 153.3,19.0 174.7,10.1 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg16476" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,18.7 L25.3,22.2 L46.7,28.0 L68.0,31.1 L89.3,38.0 L110.7,13.4 L132.0,8.4 L153.3,18.6 L174.7,9.5 L196.0,6.0 L196,40 Z" fill="url(#sg16476)"/><polyline points="4.0,18.7 25.3,22.2 46.7,28.0 68.0,31.1 89.3,38.0 110.7,13.4 132.0,8.4 153.3,18.6 174.7,9.5 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:37:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:54:31（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,027.01 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -113.93 (-2.75%)</span>
+      <span class="ticker-price ticker-down">$4,031.07 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -109.87 (-2.65%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:38:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:54:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.79 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.78 (-0.84%)</span>
+      <span class="ticker-price ticker-down">$91.96 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.61 (-0.66%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:38:10（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:54:39（非实时）</div>
   </div>
 </div>
 
@@ -493,7 +493,7 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">3 条精选资讯</span>
     </div>
         <a class="news-item" href="https://www.ithome.com/1/025/192.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露，未来三年将推出三款新车，规划已进入执行阶段。此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造，全力聚焦中国市场是未来几年的核心任务。据IT之家此前报道，今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。这一战略里程碑，体现了奥迪、中国一汽与上汽集团持续深耕中国市场的长期坚定承诺。中国一汽将全面强化奥迪四环品牌在智能豪华新能源车型和燃油车型双领" data-title="奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车" data-date="11-10 23:34" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -507,71 +507,11 @@ title: 股票财经
           <span class="news-item-date">11-10 22:07</span>
           <span class="news-item-title">生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/889.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 10 日消息，Bandai Namco（万代南梦宫）当地时间今日宣布，董事会决议清算欧洲部门下属的加拿大游戏开发商 Reflector Entertainment，并因此计提约 2,100 万欧元（IT之家注：现汇率约合 1.57 亿元人民币）亏损。Reflector Entertainment 在 2024 年推出了动作冒险游戏《无名九使：觉醒》(Unknown 9: Awakening)，但该作存在多方面的问题，IGN 评分仅有 5 分，Steam 总体评测也仅有“多半差评”。这款游戏在商业上的失败已导致 Reflector 在同年进行了 18% 的裁员。" data-title="万代南梦宫解散并清算 Reflector，计提 2100 万欧元亏损" data-date="11-10 16:45" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 16:45</span>
-          <span class="news-item-title">万代南梦宫解散并清算 Reflector，计提 2100 万欧元亏损</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-10/10729504.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月10日电 阿尔及尔消息：阿尔及利亚人民军总参谋长赛义德·沙奈格里哈9日表示，阿尔及利亚决定向尼日尔北部派遣一支部队，以保障双方共同的能源设施和项目安全。" data-title="阿尔及利亚称将向尼日尔北部派遣部队" data-date="11-10 16:43" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 16:43</span>
-          <span class="news-item-title">阿尔及利亚称将向尼日尔北部派遣部队</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/885.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 10 日消息，据国家知识产权局中国专利公布公告网站，比亚迪股份有限公司一份“外观设计专利”于今天（10 日）授权公告。该专利于去年 12 月申请，申请号 202530748612.8，授权公告号为 CN 310308323 S。信息显示，该专利的设计人包括赵炳根、艾格 · 沃尔夫冈、许梓彦、黄喜、张玺，从形态上看是一款双门微型车。新车外形相当个性，配有贯穿式前灯和双层车头，运用大量曲线构成轮廓，配备封闭式前脸，离地间隙较低。此外，车头和车尾采用了相似的造型，都酷似一张“笑脸”。目前，比亚迪官方暂未确认这款新车的存在，也没有披露更多信息，IT之家将持续关注。值得一提的是，就在昨天，比亚迪第 1900 万辆新能源汽车下线，该车是一辆方程豹钛 9。比亚迪 10 月份销售 490" data-title="沃尔夫冈参与设计，比亚迪全新个性双门微型车外观专利图公告" data-date="11-10 16:35" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 16:35</span>
-          <span class="news-item-title">沃尔夫冈参与设计，比亚迪全新个性双门微型车外观专利图公告</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729486.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网合肥11月10日电 (记者 张强)11月10日，2026年合肥市入境游大会在巢湖之畔举行。来自韩国、泰国、马来西亚及中国港澳地区等15个国家和地区的旅行商、国际旅游组织与文旅企业代表共赴“合肥邀约”，齐聚巢湖之畔，共赴“HELLO HEFEI”之约。" data-title="15个国家和地区宾客共赴“合肥邀约”" data-date="11-10 16:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 16:33</span>
-          <span class="news-item-title">15个国家和地区宾客共赴“合肥邀约”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-10/10729502.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月10日电 据北京市第二中级人民法院微信公众号消息，2026年11月10日，北京市第二中级人民法院依法公开宣判原中国银行保险监督管理委员会城市商业银行监管部一级巡视员李世谦受贿一案，对李世谦以受贿罪判处有期徒刑十一年，并处罚金人民币一百万元。追缴被告人李世谦受贿违法所得，予以没收，上缴国库。" data-title="原中国银行保险监督管理委员会城市商业银行监管部一级巡视员李世谦受贿案一审宣判" data-date="11-10 16:32" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 16:32</span>
-          <span class="news-item-title">原中国银行保险监督管理委员会城市商业银行监管部一级巡视员李世谦受贿案一审宣判</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-10/10729478.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月10日电 据吉林省纪委监委消息：吉林财经大学党委原书记张炳辉涉嫌严重违纪违法，目前正接受吉林省纪委监委纪律审查和监察调查。" data-title="吉林财经大学党委原书记张炳辉接受审查调查" data-date="11-10 16:09" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 16:09</span>
-          <span class="news-item-title">吉林财经大学党委原书记张炳辉接受审查调查</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729477.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="深秋时节，西安高新区一处洁净的生产车间内，西北大学化学与材料科学学院教授魏颢蹲在试验台旁，目光紧紧锁定一枚拇指大小的电力熔断器。别看它个头小巧，一旦电路出现故障，它要在微秒之内切断高压电流，守护新能源汽车、储能电站的整体安全。结束这一轮产线现场试验，魏颢还要赶回学校继续开展实验室分析。一边是高校教学科研任务，一边是企业一线技术攻坚，这样两头奔波的节奏，正是陕西 “科技副总”的日常缩影。" data-title="陕西“三项改革”打通转化堵点 科研力量燃动创新燎原之势" data-date="11-10 16:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 16:03</span>
-          <span class="news-item-title">陕西“三项改革”打通转化堵点 科研力量燃动创新燎原之势</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-10/10729459.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京11月10日电 (记者 孙自法)记者11月10日从中国科学院近代物理研究所获悉，该所和先进能源科学与技术广东省实验室联合团队历时近十年持续攻关，成功研制出国际首台无液氦铌三锡薄膜射频超导电子加速器，并实现稳定载束。" data-title="国际首台！中国团队研制成功无液氦铌三锡薄膜射频超导电子加速器" data-date="11-10 15:38" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 15:38</span>
-          <span class="news-item-title">国际首台！中国团队研制成功无液氦铌三锡薄膜射频超导电子加速器</span>
-        </a>
         <a class="news-item" href="https://www.qbitai.com/2026/11/508985.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="加速东部城市型智算中心向E-AIDC演进" data-title="达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动" data-date="11-10 15:33" data-source="量子位">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
           <span class="news-item-date">11-10 15:33</span>
           <span class="news-item-title">达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-10/10729161.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社温哥华11月9日电 中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。" data-title="何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话" data-date="11-10 05:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 05:44</span>
-          <span class="news-item-title">何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="选民的强烈反对可能会威胁到数据中心的繁荣。一些经济学家认为这可能是一件好事。" data-title="Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?" data-date="11-10 00:59" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-10 00:59</span>
-          <span class="news-item-title">Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?</span>
         </a>
   </div>
 </div>
@@ -586,4 +526,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-10 23:42（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-11 03:53（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
