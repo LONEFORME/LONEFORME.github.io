@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-10 16:53（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-10 23:42（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -89,7 +89,7 @@ title: 股票财经
       <span class="ticker-price ticker-up">2,494.40</span>
       <span class="ticker-change up">▲ +1.46%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg61670" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,21.4 L46.7,35.1 L68.0,29.2 L89.3,38.0 L110.7,17.9 L132.0,14.9 L153.3,28.3 L174.7,29.2 L196.0,24.5 L196,40 Z" fill="url(#sg61670)"/><polyline points="4.0,6.0 25.3,21.4 46.7,35.1 68.0,29.2 89.3,38.0 110.7,17.9 132.0,14.9 153.3,28.3 174.7,29.2 196.0,24.5" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="24.5" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
       
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">27,907.63</span>
-      <span class="ticker-change up">▲ +3.40%</span>
+      <span class="ticker-price ticker-down">27,717.98</span>
+      <span class="ticker-change down">▼ -0.68%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-10 09:47:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-10 23:44:54（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6680</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.6766</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg32795" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,17.2 L25.3,20.9 L46.7,27.1 L68.0,30.5 L89.3,38.0 L110.7,11.4 L132.0,6.0 L153.3,17.1 L174.7,7.2 L196.0,13.5 L196,40 Z" fill="url(#sg32795)"/><polyline points="4.0,17.2 25.3,20.9 46.7,27.1 68.0,30.5 89.3,38.0 110.7,11.4 132.0,6.0 153.3,17.1 174.7,7.2 196.0,13.5" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="13.5" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg91337" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,18.5 L25.3,21.9 L46.7,27.8 L68.0,31.0 L89.3,38.0 L110.7,13.0 L132.0,8.0 L153.3,18.4 L174.7,9.1 L196.0,6.0 L196,40 Z" fill="url(#sg91337)"/><polyline points="4.0,18.5 25.3,21.9 46.7,27.8 68.0,31.0 89.3,38.0 110.7,13.0 132.0,8.0 153.3,18.4 174.7,9.1 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:59:17（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:44:51（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,074.16 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -66.78 (-1.61%)</span>
+      <span class="ticker-price ticker-down">$4,045.72 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -95.22 (-2.30%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:59:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:44:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥882.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +3.00 (+0.34%)</span>
+      <span class="ticker-price ticker-down">¥870.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -12.50 (-1.42%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:29:19（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:44:49（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$90.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.82 (-1.97%)</span>
+      <span class="ticker-price ticker-down">$90.79 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.78 (-1.92%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:59:32（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:45:06（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,20 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/025/192.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露，未来三年将推出三款新车，规划已进入执行阶段。此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造，全力聚焦中国市场是未来几年的核心任务。据IT之家此前报道，今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。这一战略里程碑，体现了奥迪、中国一汽与上汽集团持续深耕中国市场的长期坚定承诺。中国一汽将全面强化奥迪四环品牌在智能豪华新能源车型和燃油车型双领" data-title="奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车" data-date="11-10 23:34" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-10 23:34</span>
+          <span class="news-item-title">奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729847.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网安塔利亚11月10日电(记者 陈溯 徐峻杰)“2025年，中国单位国内生产总值二氧化碳排放比上年下降5.0%，建成全球最大、最完整的清洁能源产业链。”" data-title="生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链" data-date="11-10 22:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-10 22:07</span>
+          <span class="news-item-title">生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/024/889.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 10 日消息，Bandai Namco（万代南梦宫）当地时间今日宣布，董事会决议清算欧洲部门下属的加拿大游戏开发商 Reflector Entertainment，并因此计提约 2,100 万欧元（IT之家注：现汇率约合 1.57 亿元人民币）亏损。Reflector Entertainment 在 2024 年推出了动作冒险游戏《无名九使：觉醒》(Unknown 9: Awakening)，但该作存在多方面的问题，IGN 评分仅有 5 分，Steam 总体评测也仅有“多半差评”。这款游戏在商业上的失败已导致 Reflector 在同年进行了 18% 的裁员。" data-title="万代南梦宫解散并清算 Reflector，计提 2100 万欧元亏损" data-date="11-10 16:45" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -543,6 +555,12 @@ title: 股票财经
           <span class="news-item-date">11-10 15:38</span>
           <span class="news-item-title">国际首台！中国团队研制成功无液氦铌三锡薄膜射频超导电子加速器</span>
         </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/11/508985.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="加速东部城市型智算中心向E-AIDC演进" data-title="达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动" data-date="11-10 15:33" data-source="量子位">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">11-10 15:33</span>
+          <span class="news-item-title">达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-10/10729161.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社温哥华11月9日电 中共中央政治局委员、国务院副总理、中加经济财金战略对话中方牵头人何立峰，与对话加方牵头人、加财政部长商鹏飞、国际贸易部长西杜9日在加拿大温哥华共同主持第二次中加经济财金战略对话。" data-title="何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜共同主持第二次中加经济财金战略对话" data-date="11-10 05:44" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -554,36 +572,6 @@ title: 股票财经
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">11-10 00:59</span>
           <span class="news-item-title">Would a Democratic Crackdown on A.I. Hurt the Economy or Save It?</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/564.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 9 日消息，当前，欧洲政策制定者希望汽车电池更多地在本土生产。然而由于欧洲制造的电池成本更高，增加的费用最终很可能由购车者承担。当地时间 7 日，据外媒 insideevs 报道，布鲁塞尔智库布鲁盖尔今年 9 月发表的一份报告提出，旨在保护欧洲现有汽车制造商的政策，可能最终让消费者和纳税人为此买单。如果规定汽车必须使用欧盟生产的电芯，每千瓦时的成本可能从 50 欧元（IT之家注：现汇率约合 372.3 元人民币）上涨至 85 欧元（现汇率约合 632.9 元人民币）。一辆配备 60kWh 电池的汽车，仅电池成本就可能增加 2,100 欧元（现汇率约合 15,637 元人民币）。如果再加上拟议中的低碳钢使用要求，成本还可能增加 200 欧元（现汇率约合 1,489 元人民币" data-title="欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元" data-date="11-09 23:13" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-09 23:13</span>
-          <span class="news-item-title">欧洲力推本土制造电池，或使一辆电动汽车成本增加 2100 欧元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-09/10729156.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月9日电 (梁峻祥 李映民)泰国商务部9日与泰国商会举行会谈，并就加强政商合作、提升泰国企业竞争力及应对全球贸易环境变化等议题达成共识。" data-title="泰国商务部与泰国商会加强合作应对全球贸易挑战" data-date="11-09 23:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-09 23:01</span>
-          <span class="news-item-title">泰国商务部与泰国商会加强合作应对全球贸易挑战</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/024/559.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 9 日消息，据《商业内幕》今天（9）日晚间报道，美国知名亿万富翁风险投资家维诺德 · 科斯拉认为，所有访客看到相同网页的时代即将过去。他最新投资的 AI 初创公司 Coframe 希望借助 AI 重塑互联网，为每位访客提供量身定制的网页。“AI 让高度个性化定制成为可能，整个世界都因此改变了。”Coframe 希望打造被其称为“有生命的互联网”的网络环境。公司最近完成 2,500 万美元（IT之家注：现汇率约合 1.67 亿元人民币）A 轮融资，由科斯拉创投和 Hanabi Capital 共同领投，累计融资 3,500 万美元（现汇率约合 2.34 亿元人民币），但未公布估值。维诺德 · 科斯拉（Vinod Khosla），图源：WikiMedia科斯拉创投早在种子轮就" data-title="美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”" data-date="11-09 22:32" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-09 22:32</span>
-          <span class="news-item-title">美国知名风险投资家科斯拉看好 AI 重塑互联网：能让网站“有生命”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-09/10729100.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网西宁11月9日电 (记者 潘雨洁)9日，记者从青海省林业和草原局获悉，“十五五”期间，该省将统筹草原生态保护与牧区民生改善，实现草原资源5.9亿亩全面监管，并通过落实草原补奖政策，全省75万户农牧户每年补助约27.55亿元(人民币，下同)，户均达3674元。" data-title="青海“十五五”5.9亿亩草原全面监管 牧区民生改善" data-date="11-09 21:00" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-09 21:00</span>
-          <span class="news-item-title">青海“十五五”5.9亿亩草原全面监管 牧区民生改善</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-09/10729090.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳11月9日电 (记者 韩宏)第四届中俄地方投资发展与贸易合作大会9日在沈阳开幕。" data-title="第四届中俄地方投资发展与贸易合作大会在沈阳开幕" data-date="11-09 20:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-09 20:49</span>
-          <span class="news-item-title">第四届中俄地方投资发展与贸易合作大会在沈阳开幕</span>
         </a>
   </div>
 </div>
@@ -598,4 +586,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-10 16:53（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-10 23:42（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
