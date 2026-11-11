@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-11 23:30（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-12 03:45（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">28,461.93</span>
-      <span class="ticker-change up">▲ +2.60%</span>
+      <span class="ticker-price ticker-up">28,465.59</span>
+      <span class="ticker-change up">▲ +2.61%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-12 03:30:48（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-12 03:46:46（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -158,7 +158,7 @@ title: 股票财经
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:30:46（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:46:41（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,988.84 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -43.89 (-1.09%)</span>
+      <span class="ticker-price ticker-down">$3,987.52 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -45.21 (-1.12%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:46:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$92.52 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +1.03 (+1.13%)</span>
+      <span class="ticker-price ticker-up">$92.19 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.70 (+0.76%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:31:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:47:02（非实时）</div>
   </div>
 </div>
 
@@ -493,19 +493,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="华盛顿希望通过关闭陆地边境来加紧对伊朗的经济施压。邻国担心经济受损，正在予以反击。" data-title="U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors" data-date="11-12 02:02" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-12 02:02</span>
+          <span class="news-item-title">U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/" target="_blank" rel="noopener" data-cat="caijing" data-summary="“业内有很多高层人士都知道这种情况正在发生，并且实际上是在纵容这种行为。”一位投资情报顾问表示。" data-title="Is Jensen Huang’s bad behavior more commonplace than it seems?" data-date="11-12 00:16" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-12 00:16</span>
+          <span class="news-item-title">Is Jensen Huang’s bad behavior more commonplace than it seems?</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社柏林11月11日电 (记者 马秀秀)德国经济专家委员会11日发布的报告预计，2026年德国经济将增长1.3%。若这一预测实现，德国经济将迎来自2022年以来首次较为明显的增长。" data-title="德权威机构大幅上调2026年德国经济增长预期" data-date="11-11 23:58" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-11 23:58</span>
+          <span class="news-item-title">德权威机构大幅上调2026年德国经济增长预期</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/025/817.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在研究 5 种月球核电站方案，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。他进一步表示：“这里说的是功率可达 10 千瓦的月球核电站，计划于 21 世纪 30 年代中期开始运行。目前我们正在深入研究 5 种构型，从把核能直接转换为电能，到建造相应的涡轮装置。我们必须在明年选定构型并启动相关工作。”参与俄罗斯月球发电站项目的俄库尔恰托夫研究所所长米哈伊尔 · 科瓦尔丘克今年 3 月表示，俄罗斯可能在" data-title="俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行" data-date="11-11 22:46" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">11-11 22:46</span>
           <span class="news-item-title">俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储逐步加息的做法正受到日益加剧的价格压力的考验。" data-title="The Fed Has to Raise Rates. How Fast to Go Has Officials Divided." data-date="11-11 21:40" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-11 21:40</span>
-          <span class="news-item-title">The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-11/10730516.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州11月11日电 (记者 王坚)以“荆楚好味·礼献湾区”为主题的2026广东餐饮荆楚美食季首场活动10日在广州大湾区餐饮产业总部基地方舟餐博汇开启，逾20家湖北农产品企业携九大省级公用品牌和地方特色农产品，与60余家湾区星级酒店、酒楼、连锁餐饮品牌的创始人、总厨及采购负责人等齐聚一堂，助力湖北优质农产品从“走进大湾区”到“留在大湾区”。" data-title="2026广东餐饮荆楚美食季启动 众多湖北美食亮相大湾区" data-date="11-11 21:22" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -519,41 +531,11 @@ title: 股票财经
           <span class="news-item-date">11-11 19:54</span>
           <span class="news-item-title">联合国气候高官：中国的能源转型成就在全球是独一份的 | 新闻会客厅</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/585.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 11 日消息，据《证券时报》，东安动力在 2026 年第三季度业绩说明会上披露，公司作为国内最早实现增程器商业化的企业，持续深耕增程新能源市场。东安动力披露，伴随客户项目的陆续批产上市，增程器销量占比不断提高，全年销量占比预计超过 30%；产品主要配套企业包括小米汽车、小鹏汽车、岚图汽车、江淮汽车等车企，现在产能可以满足车厂需求。IT之家从东安动力公布的财报获悉，2026 年前三季度，东安动力实现营业收入 36.54 亿元，同比下降 2.98%；毛利润 1.41 亿元，同比增长 26.43%；毛利率 3.87%，同比提高 0.90 个百分点。同期归母净亏损 8388.19 万元；扣非归母净亏损 1.21 亿元。集团前三季度营业亏损 7492.49 万元。第三季度单季营业收" data-title="东安动力：预计全年增程器销量占比超 30%，产能可满足车厂需求" data-date="11-11 16:30" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-11 16:30</span>
-          <span class="news-item-title">东安动力：预计全年增程器销量占比超 30%，产能可满足车厂需求</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/572.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 11 日消息，据“新车情报局”，在今天（11 日）的林肯汽车沟通会上，林肯中国总裁贾鸣镝披露了林肯全新车型的更多消息：新车命名为林肯飞行家 EX8，定位林肯全球首款豪华智擎超混车型。他透露，新车造型设计和体量感“更像领航员”，但由于尺寸更接近飞行家，所以选择沿用了飞行家的名字。值得一提的是，这也是林肯首次选用中国的命名提案。至于“EX8”三个字母，则是用来体现车型的市场定位。E 代表新能源、X 代表 SUV 的多功能性、8 代表 8 系大五座。产品规划方面，新车将会在 2026 广州车展亮相，明年上半年上市。就在本月早些时候，工信部发布第 413 批《道路机动车辆生产企业及产品公告》新产品公示，长安福特汽车有限公司的林肯飞行家 AVIATOR EX8 完成申报。IT之家从" data-title="林肯中国总裁贾鸣镝：全新车型飞行家 EX8 将于明年上半年上市" data-date="11-11 16:19" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-11 16:19</span>
-          <span class="news-item-title">林肯中国总裁贾鸣镝：全新车型飞行家 EX8 将于明年上半年上市</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-11/10730244.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月11日电 第九届中国国际进口博览会11月10日在上海闭幕，本届进博会按一年计意向成交额达854.5亿美元，创历史新高。" data-title="外媒聚焦：从“展品”到“商机”，进博会拓展全球企业发展空间" data-date="11-11 16:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-11 16:07</span>
-          <span class="news-item-title">外媒聚焦：从“展品”到“商机”，进博会拓展全球企业发展空间</span>
-        </a>
         <a class="news-item" href="https://www.qbitai.com/2026/11/509088.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月30日，“科技有“联想”·Token畅想曲”线下沙龙在京举行。" data-title="从“卖Token”到“卖结果” | 科技有“联想”沙龙激辩Token经济三大议题" data-date="11-11 14:27" data-source="量子位">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🧠 量子位</span>
           <span class="news-item-date">11-11 14:27</span>
           <span class="news-item-title">从“卖Token”到“卖结果” | 科技有“联想”沙龙激辩Token经济三大议题</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111330" target="_blank" rel="noopener" data-cat="caijing" data-summary="针对梅洛尼政府在未来三年向银行额外征税70亿欧元的计划，银行业协会负责人抱怨称这有违“经济理性”。" data-title="意大利银行业抨击梅洛尼政府最新增税计划" data-date="11-11 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">11-11 00:00</span>
-          <span class="news-item-title">意大利银行业抨击梅洛尼政府最新增税计划</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111329" target="_blank" rel="noopener" data-cat="caijing" data-summary="该月环比价格涨幅为0.4%，低于9月的0.6%，但高于经济学家们此前预测的0.3%。" data-title="美国10月环比通胀率放缓幅度不及预期" data-date="11-11 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">11-11 00:00</span>
-          <span class="news-item-title">美国10月环比通胀率放缓幅度不及预期</span>
         </a>
   </div>
 </div>
@@ -568,4 +550,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-11 23:30（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-12 03:45（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
