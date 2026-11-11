@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-11 16:31（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-11 23:30（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">27,740.80</span>
-      <span class="ticker-change down">▼ -0.60%</span>
+      <span class="ticker-price ticker-up">28,298.37</span>
+      <span class="ticker-change up">▲ +2.01%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-11 09:24:25（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-11 23:36:02（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6684</span>
+      <span class="ticker-price ticker-down">6.6723</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg2693" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,20.9 L25.3,27.1 L46.7,30.5 L68.0,38.0 L89.3,11.4 L110.7,6.0 L132.0,17.1 L153.3,7.2 L174.7,12.0 L196.0,13.0 L196,40 Z" fill="url(#sg2693)"/><polyline points="4.0,20.9 25.3,27.1 46.7,30.5 68.0,38.0 89.3,11.4 110.7,6.0 132.0,17.1 153.3,7.2 174.7,12.0 196.0,13.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="13.0" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg8992" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,20.9 L25.3,27.1 L46.7,30.5 L68.0,38.0 L89.3,11.4 L110.7,6.0 L132.0,17.1 L153.3,7.2 L174.7,12.0 L196.0,8.7 L196,40 Z" fill="url(#sg8992)"/><polyline points="4.0,20.9 25.3,27.1 46.7,30.5 68.0,38.0 89.3,11.4 110.7,6.0 132.0,17.1 153.3,7.2 174.7,12.0 196.0,8.7" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="8.7" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:41:52（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:36:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$4,048.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +15.50 (+0.38%)</span>
+      <span class="ticker-price ticker-down">$4,007.01 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -25.72 (-0.64%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:41:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:36:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥873.05 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -9.73 (-1.10%)</span>
+      <span class="ticker-price ticker-down">¥860.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -12.72 (-1.46%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:35:46（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$93.45 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +1.96 (+2.14%)</span>
+      <span class="ticker-price ticker-up">$94.54 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +3.05 (+3.33%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:42:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:36:15（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/025/817.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在研究 5 种月球核电站方案，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。他进一步表示：“这里说的是功率可达 10 千瓦的月球核电站，计划于 21 世纪 30 年代中期开始运行。目前我们正在深入研究 5 种构型，从把核能直接转换为电能，到建造相应的涡轮装置。我们必须在明年选定构型并启动相关工作。”参与俄罗斯月球发电站项目的俄库尔恰托夫研究所所长米哈伊尔 · 科瓦尔丘克今年 3 月表示，俄罗斯可能在" data-title="俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行" data-date="11-11 22:46" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-11 22:46</span>
+          <span class="news-item-title">俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美联储逐步加息的做法正受到日益加剧的价格压力的考验。" data-title="The Fed Has to Raise Rates. How Fast to Go Has Officials Divided." data-date="11-11 21:40" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-11 21:40</span>
+          <span class="news-item-title">The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-11/10730516.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州11月11日电 (记者 王坚)以“荆楚好味·礼献湾区”为主题的2026广东餐饮荆楚美食季首场活动10日在广州大湾区餐饮产业总部基地方舟餐博汇开启，逾20家湖北农产品企业携九大省级公用品牌和地方特色农产品，与60余家湾区星级酒店、酒楼、连锁餐饮品牌的创始人、总厨及采购负责人等齐聚一堂，助力湖北优质农产品从“走进大湾区”到“留在大湾区”。" data-title="2026广东餐饮荆楚美食季启动 众多湖北美食亮相大湾区" data-date="11-11 21:22" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-11 21:22</span>
+          <span class="news-item-title">2026广东餐饮荆楚美食季启动 众多湖北美食亮相大湾区</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-11/10730396.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="视频：西蒙·斯蒂尔谈中国气候行动：放眼全球 中国的能源转型独树一帜丨新闻会客厅来源：中国新闻网" data-title="联合国气候高官：中国的能源转型成就在全球是独一份的 | 新闻会客厅" data-date="11-11 19:54" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-11 19:54</span>
+          <span class="news-item-title">联合国气候高官：中国的能源转型成就在全球是独一份的 | 新闻会客厅</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/025/585.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 11 日消息，据《证券时报》，东安动力在 2026 年第三季度业绩说明会上披露，公司作为国内最早实现增程器商业化的企业，持续深耕增程新能源市场。东安动力披露，伴随客户项目的陆续批产上市，增程器销量占比不断提高，全年销量占比预计超过 30%；产品主要配套企业包括小米汽车、小鹏汽车、岚图汽车、江淮汽车等车企，现在产能可以满足车厂需求。IT之家从东安动力公布的财报获悉，2026 年前三季度，东安动力实现营业收入 36.54 亿元，同比下降 2.98%；毛利润 1.41 亿元，同比增长 26.43%；毛利率 3.87%，同比提高 0.90 个百分点。同期归母净亏损 8388.19 万元；扣非归母净亏损 1.21 亿元。集团前三季度营业亏损 7492.49 万元。第三季度单季营业收" data-title="东安动力：预计全年增程器销量占比超 30%，产能可满足车厂需求" data-date="11-11 16:30" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -513,6 +537,12 @@ title: 股票财经
           <span class="news-item-date">11-11 16:07</span>
           <span class="news-item-title">外媒聚焦：从“展品”到“商机”，进博会拓展全球企业发展空间</span>
         </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/11/509088.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月30日，“科技有“联想”·Token畅想曲”线下沙龙在京举行。" data-title="从“卖Token”到“卖结果” | 科技有“联想”沙龙激辩Token经济三大议题" data-date="11-11 14:27" data-source="量子位">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">11-11 14:27</span>
+          <span class="news-item-title">从“卖Token”到“卖结果” | 科技有“联想”沙龙激辩Token经济三大议题</span>
+        </a>
         <a class="news-item" href="https://www.ftchinese.com/story/001111330" target="_blank" rel="noopener" data-cat="caijing" data-summary="针对梅洛尼政府在未来三年向银行额外征税70亿欧元的计划，银行业协会负责人抱怨称这有违“经济理性”。" data-title="意大利银行业抨击梅洛尼政府最新增税计划" data-date="11-11 00:00" data-source="FT中文网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge ">🌐 FT中文网</span>
@@ -524,18 +554,6 @@ title: 股票财经
           <span class="source-badge ">🌐 FT中文网</span>
           <span class="news-item-date">11-11 00:00</span>
           <span class="news-item-title">美国10月环比通胀率放缓幅度不及预期</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/192.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 10 日消息，据第一财经今天（10 日）晚间报道，奥迪 · 上汽战略合作 CEO 舒睿泽（Fred Schulze）透露，未来三年将推出三款新车，规划已进入执行阶段。此外，奥迪在 L3 级自动驾驶领域也有明确的发展目标。对于是否出口到欧洲市场，舒睿泽称，AUDI 品牌车型专为中国消费者打造，全力聚焦中国市场是未来几年的核心任务。据IT之家此前报道，今年 10 月，奥迪中国宣布分别与合作伙伴签署战略协议，旨在强化奥迪四环品牌与 AUDI (奥迪字母标) 品牌之间的差异化定位及各自的战略侧重，并进一步明确“双品牌、双合作伙伴”渠道架构。这一战略里程碑，体现了奥迪、中国一汽与上汽集团持续深耕中国市场的长期坚定承诺。中国一汽将全面强化奥迪四环品牌在智能豪华新能源车型和燃油车型双领" data-title="奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车" data-date="11-10 23:34" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-10 23:34</span>
-          <span class="news-item-title">奥迪上汽战略合作 CEO 舒睿泽：未来三年将推出三款新车</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-10/10729847.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网安塔利亚11月10日电(记者 陈溯 徐峻杰)“2025年，中国单位国内生产总值二氧化碳排放比上年下降5.0%，建成全球最大、最完整的清洁能源产业链。”" data-title="生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链" data-date="11-10 22:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-10 22:07</span>
-          <span class="news-item-title">生态环境部应对气候变化司司长夏应显：中国建成全球最大、最完整的清洁能源产业链</span>
         </a>
   </div>
 </div>
@@ -550,4 +568,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-11 16:31（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-11 23:30（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
