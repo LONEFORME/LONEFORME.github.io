@@ -54,15 +54,15 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,663.72</span>
-      <span class="ticker-change up">▲ +0.08%</span>
+      <span class="ticker-price ticker-down">3,663.70</span>
+      <span class="ticker-change down">▼ -0.00%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg12585" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,9.0 L25.3,19.5 L46.7,38.0 L68.0,24.3 L89.3,34.8 L110.7,7.3 L132.0,6.0 L153.3,20.3 L174.7,16.3 L196.0,15.2 L196,40 Z" fill="url(#sg12585)"/><polyline points="4.0,9.0 25.3,19.5 46.7,38.0 68.0,24.3 89.3,34.8 110.7,7.3 132.0,6.0 153.3,20.3 174.7,16.3 196.0,15.2" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="15.2" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg71495" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,9.0 L25.3,19.5 L46.7,38.0 L68.0,24.3 L89.3,34.8 L110.7,7.3 L132.0,6.0 L153.3,20.3 L174.7,16.3 L196.0,15.2 L196,40 Z" fill="url(#sg71495)"/><polyline points="4.0,9.0 25.3,19.5 46.7,38.0 68.0,24.3 89.3,34.8 110.7,7.3 132.0,6.0 153.3,20.3 174.7,16.3 196.0,15.2" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="15.2" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>震荡筑底中枢</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-10 15:35:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-11 09:11:36（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -70,15 +70,15 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">11,241.54</span>
-      <span class="ticker-change up">▲ +0.86%</span>
+      <span class="ticker-price ticker-up">10,480.25</span>
+      <span class="ticker-change up">▲ +0.62%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg11550" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,22.8 L46.7,38.0 L68.0,29.1 L89.3,35.8 L110.7,12.9 L132.0,6.1 L153.3,20.9 L174.7,22.4 L196.0,17.6 L196,40 Z" fill="url(#sg11550)"/><polyline points="4.0,6.0 25.3,22.8 46.7,38.0 68.0,29.1 89.3,35.8 110.7,12.9 132.0,6.1 153.3,20.9 174.7,22.4 196.0,17.6" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="17.6" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>成长与制造共振</span>
-      
+      <span style="font-size:10px;color:var(--color-muted);">(参考)</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-10 15:00:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -86,15 +86,15 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">2,494.40</span>
-      <span class="ticker-change up">▲ +1.46%</span>
+      <span class="ticker-price ticker-up">2,130.80</span>
+      <span class="ticker-change up">▲ +1.05%</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg61670" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.0 L25.3,21.4 L46.7,35.1 L68.0,29.2 L89.3,38.0 L110.7,17.9 L132.0,14.9 L153.3,28.3 L174.7,29.2 L196.0,24.5 L196,40 Z" fill="url(#sg61670)"/><polyline points="4.0,6.0 25.3,21.4 46.7,35.1 68.0,29.2 89.3,38.0 110.7,17.9 132.0,14.9 153.3,28.3 174.7,29.2 196.0,24.5" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="24.5" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>新能源 & 医药领跑</span>
-      
+      <span style="font-size:10px;color:var(--color-muted);">(参考)</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-10 15:00:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 数据为最近收盘/参考值</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -103,14 +103,14 @@ title: 股票财经
     </div>
     <div class="ticker-body">
       <span class="ticker-price ticker-up">1,265.02</span>
-      <span class="ticker-change up">▲ +0.64%</span>
+      <span class="ticker-change up">▲ +0.00%</span>
     </div>
     <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg65785" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,6.9 L25.3,19.8 L46.7,35.7 L68.0,27.2 L89.3,38.0 L110.7,11.0 L132.0,6.0 L153.3,13.9 L174.7,13.0 L196.0,11.1 L196,40 Z" fill="url(#sg65785)"/><polyline points="4.0,6.9 25.3,19.8 46.7,35.7 68.0,27.2 89.3,38.0 110.7,11.0 132.0,6.0 153.3,13.9 174.7,13.0 196.0,11.1" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="11.1" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>AI算力与先进制程</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-10 15:35:39（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-11 09:11:45（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">27,655.89</span>
-      <span class="ticker-change down">▼ -0.90%</span>
+      <span class="ticker-price ticker-down">27,740.80</span>
+      <span class="ticker-change down">▼ -0.60%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-11 03:54:38（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-11 06:30:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6770</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.6761</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg16476" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,18.7 L25.3,22.2 L46.7,28.0 L68.0,31.1 L89.3,38.0 L110.7,13.4 L132.0,8.4 L153.3,18.6 L174.7,9.5 L196.0,6.0 L196,40 Z" fill="url(#sg16476)"/><polyline points="4.0,18.7 25.3,22.2 46.7,28.0 68.0,31.1 89.3,38.0 110.7,13.4 132.0,8.4 153.3,18.6 174.7,9.5 196.0,6.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg61335" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,21.7 L25.3,27.7 L46.7,30.9 L68.0,38.0 L89.3,12.6 L110.7,7.5 L132.0,18.1 L153.3,8.7 L174.7,13.3 L196.0,6.0 L196,40 Z" fill="url(#sg61335)"/><polyline points="4.0,21.7 25.3,27.7 46.7,30.9 68.0,38.0 89.3,12.6 110.7,7.5 132.0,18.1 153.3,8.7 174.7,13.3 196.0,6.0" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="6.0" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:54:31（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 09:11:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$4,031.07 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -109.87 (-2.65%)</span>
+      <span class="ticker-price ticker-down">$4,031.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -1.03 (-0.03%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:54:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 09:11:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥863.69 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -19.09 (-2.16%)</span>
+      <span class="ticker-price ticker-down">¥865.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -17.03 (-1.93%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:18:50（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 09:11:43（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.96 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.61 (-0.66%)</span>
+      <span class="ticker-price ticker-up">$92.24 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.75 (+0.82%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:54:39（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 09:11:52（非实时）</div>
   </div>
 </div>
 
