@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-13 00:06 抓取更新</span>
+      <span>2026-11-13 04:11 抓取更新</span>
     </div>
   </div>
 
@@ -25,11 +25,11 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">52</span>
+        <span class="channel-count">57</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">13</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">8</span>
+        <span class="channel-count">10</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -45,7 +45,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('meimei', this)">
         <span>🌍 西方媒体视角</span>
-        <span class="channel-count">1</span>
+        <span class="channel-count">2</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('source', this)">
         <span>🌐 媒体信源</span>
@@ -60,46 +60,47 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">52</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">57</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×14 · 纽约时报×7</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">纽约时报×10 · 中国新闻网×10</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/11-12/10731229.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间11月12日，美国方面消息称，美国华盛顿特区当天凌晨发生多起枪击事件，共有4人中枪。事发地点距离白宫约1.6公里。" data-title="美国华盛顿特区发生多起枪击事件 4人中枪" data-date="11-12 22:30" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="社交媒体上的这一声明加深了人们对总统结束战争的计划的疑问。“我们不需要与伊朗达成协议，”他写道。" data-title="Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign" data-date="11-13 03:38" data-source="纽约时报">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 11-12 22:30</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="hero-featured-date">🕒 11-13 03:38</span>
       </div>
-      <h2 class="hero-featured-title">美国华盛顿特区发生多起枪击事件 4人中枪</h2>
+      <h2 class="hero-featured-title">特朗普表示，他将让万斯退出伊朗谈判，以专注于选举舞弊问题</h2>
+      <div class="hero-featured-title-en">Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign</div>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html" target="_blank" rel="noopener" data-cat="keji" data-summary="有关芯片制造商首席执行官黄仁勋辞职的消息导致英伟达股价下跌，并在全球市场引起反响。" data-title="Nvidia Stock Plunges After Jensen Huang Resigns as CEO" data-date="11-12 23:53" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery" target="_blank" rel="noopener" data-cat="keji" data-summary="本周早些时候，谷歌研究员Pietro Miotti声称，在人工智能代理团队的协助下，他发现了墨西哥一处可能尚未被标注在地图上的玛雅遗址。只有一个问题：该遗址早已被发现，并发表在学术期刊上。" data-title="No, AI agents did not discover a previously unknown Maya site" data-date="11-13 03:42" data-source="The Verge">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-theverge">🌐 The Verge</span>
       </div>
-      <p class="hero-sub-title">Nvidia Stock Plunges After Jensen Huang Resigns as CEO</p>
+      <p class="hero-sub-title">No, AI agents did not discover a previously unknown Maya site</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="美国男足主教练已同意与曼联的协议框架曼联已与美国足协取得联系巴洛贡：“我希望事情保持现状”波切蒂诺加盟曼联的最新消息和反应毛里西奥·波切蒂诺将执教美国男足国家队" data-title="Pochettino expected to lead US in Nations League games before Manchester United move" data-date="11-12 22:57" data-source="卫报">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="据天空体育新闻报道，曼联高层在毛里西奥·波切蒂诺被切尔西解雇后不久，即两年前与他进行了会面，并考虑让他接替埃里克·滕哈格。" data-title="Inside Man Utd&#39;s pursuit of Pochettino" data-date="11-13 01:00" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-      </div>
-      <p class="hero-sub-title">Pochettino expected to lead US in Nations League games before Manchester United move</p>
-    </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Palace latest: Frank talks &#39;progressing well&#39; after Sage sacked" data-title="Palace latest: Frank talks &#39;progressing well&#39; after Sage sacked" data-date="11-12 23:45" data-source="天空体育">
-      <div class="hero-sub-meta">
-        <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">Palace latest: Frank talks 'progressing well' after Sage sacked</p>
+      <p class="hero-sub-title">Inside Man Utd's pursuit of Pochettino</p>
+    </a>
+    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="前一刻，一栋公寓楼还巍然耸立。下一刻，它就塌陷成了一个大坑。随后是毁灭和死亡。" data-title="A Frantic Search for Survivors in the Brooklyn Building Collapse" data-date="11-13 03:43" data-source="纽约时报">
+      <div class="hero-sub-meta">
+        <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+      </div>
+      <p class="hero-sub-title">A Frantic Search for Survivors in the Brooklyn Building Collapse</p>
     </a>
   </div>
 </div>
@@ -108,22 +109,38 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">13 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="社交媒体上的这一声明加深了人们对总统结束战争的计划的疑问。“我们不需要与伊朗达成协议，”他写道。" data-title="Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign" data-date="11-13 03:38" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 03:38</span>
+          <span class="news-item-title">特朗普表示，他将让万斯退出伊朗谈判，以专注于选举舞弊问题</span>
+          <span class="news-item-title-en">Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign</span>
+          <span class="news-value-point">💡 社交媒体上的这一声明加深了人们对总统结束战争的计划的疑问</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新加坡在一份声明中表示，在特朗普总统被告知黄静是间谍的数月后，新加坡才扣留了她的护照。" data-title="Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed" data-date="11-13 03:19" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 03:19</span>
+          <span class="news-item-title">新加坡表示，美国对爱丽丝·黄和Megaspeed的调查没有帮助</span>
+          <span class="news-item-title-en">Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed</span>
+          <span class="news-value-point">💡 新加坡在一份声明中表示，在特朗普总统被告知黄静是间谍的数月后，新加坡才扣留了她的护照</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="众议院两个关键委员会发出的信函要求公司和官员不要销毁文件。" data-title="Democrats Put Targets on Notice as Trump Oversight Takes Shape" data-date="11-13 02:07" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 02:07</span>
+          <span class="news-item-title">随着特朗普监督工作的成形，民主党人向目标发出警告</span>
+          <span class="news-item-title-en">Democrats Put Targets on Notice as Trump Oversight Takes Shape</span>
+          <span class="news-value-point">💡 众议院两个关键委员会发出的信函要求公司和官员不要销毁文件</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731229.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间11月12日，美国方面消息称，美国华盛顿特区当天凌晨发生多起枪击事件，共有4人中枪。事发地点距离白宫约1.6公里。" data-title="美国华盛顿特区发生多起枪击事件 4人中枪" data-date="11-12 22:30" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">11-12 22:30</span>
           <span class="news-item-title">美国华盛顿特区发生多起枪击事件 4人中枪</span>
           <span class="news-value-point">💡 当地时间11月12日，美国方面消息称，美国华盛顿特区当天凌晨发生多起枪击事件，共有4人中枪</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新加坡在一份声明中表示，在特朗普总统被告知黄静是间谍的数月后，新加坡才扣留了她的护照。" data-title="Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed" data-date="11-12 22:28" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 22:28</span>
-          <span class="news-item-title">新加坡表示，美国对爱丽丝·黄和Megaspeed的调查没有帮助</span>
-          <span class="news-item-title-en">Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed</span>
-          <span class="news-value-point">💡 新加坡在一份声明中表示，在特朗普总统被告知黄静是间谍的数月后，新加坡才扣留了她的护照</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731227.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社马尼拉11月12日电 (记者 周璟)据菲律宾警方12日通报，首都马尼拉街头当天中午发生一起警匪交火事件，造成两名嫌疑人死亡，另有一名警察受伤。" data-title="菲律宾马尼拉街头发生警匪交火 致两死一伤" data-date="11-12 22:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -211,125 +228,147 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html" target="_blank" rel="noopener" data-cat="keji" data-summary="有关芯片制造商首席执行官黄仁勋辞职的消息导致英伟达股价下跌，并在全球市场引起反响。" data-title="Nvidia Stock Plunges After Jensen Huang Resigns as CEO" data-date="11-12 23:53" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 23:53</span>
-          <span class="news-item-title">黄仁勋辞去首席执行官职务后，英伟达股价暴跌</span>
-          <span class="news-item-title-en">Nvidia Stock Plunges After Jensen Huang Resigns as CEO</span>
-          <span class="news-value-point">💡 有关芯片制造商首席执行官黄仁勋辞职的消息导致英伟达股价下跌，并在全球市场引起反响</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang" target="_blank" rel="noopener" data-cat="keji" data-summary="今天上午，黄仁勋辞去了他于1993年共同创立的英伟达公司的首席执行官职务。此决定是在公司董事会开始调查黄仁勋与一名直接下属的多起婚外情以及涉嫌与一名中国间谍有染之后作出的。" data-title="Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead" data-date="11-12 23:48" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery" target="_blank" rel="noopener" data-cat="keji" data-summary="本周早些时候，谷歌研究员Pietro Miotti声称，在人工智能代理团队的协助下，他发现了墨西哥一处可能尚未被标注在地图上的玛雅遗址。只有一个问题：该遗址早已被发现，并发表在学术期刊上。" data-title="No, AI agents did not discover a previously unknown Maya site" data-date="11-13 03:42" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-12 23:48</span>
-          <span class="news-item-title">阅读Nvidia关于即将到来的“极其艰难时期”的内部电子邮件</span>
-          <span class="news-item-title-en">Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ ahead</span>
-          <span class="news-value-point">💡 今天上午，黄仁勋辞去了他于1993年共同创立的英伟达公司的首席执行官职务</span>
+          <span class="news-item-date">11-13 03:42</span>
+          <span class="news-item-title">不，AI 代理并未发现此前未知的玛雅遗址</span>
+          <span class="news-item-title-en">No, AI agents did not discover a previously unknown Maya site</span>
+          <span class="news-value-point">💡 本周早些时候，谷歌研究员Pietro Miotti声称，在人工智能代理团队的协助下，他发现了墨西哥一处可能尚未被标注在地图上的玛雅遗址</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators" target="_blank" rel="noopener" data-cat="keji" data-summary="在英伟达前首席执行官辞职仅数小时前，一位X平台上的陌生网友敦促埃隆·马斯克聘用黄仁勋。" data-title="Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang" data-date="11-12 23:46" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-12 23:46</span>
-          <span class="news-item-title">埃隆·马斯克表示，聘用被罢免的英伟达首席执行官黄仁勋“将是一种荣幸”</span>
-          <span class="news-item-title-en">Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang</span>
-          <span class="news-value-point">💡 在英伟达前首席执行官辞职仅数小时前，一位X平台上的陌生网友敦促埃隆·马斯克聘用黄仁勋</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731232.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网11月12日电 英伟达11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。消息公布后，英伟达股价在开盘后暴跌。" data-title="黄仁勋辞职后英伟达股价震荡 分析称做空该公司的投资者获利丰厚" data-date="11-12 23:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 23:37</span>
-          <span class="news-item-title">黄仁勋辞职后英伟达股价震荡 分析称做空该公司的投资者获利丰厚</span>
-          <span class="news-value-point">💡 中新网11月12日电 英伟达11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达首席财务官科莱特·克雷斯（Colette Kress）将接替深陷丑闻的长期首席执行官黄仁勋（Jensen Huang），担任临时替代者。" data-title="Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?" data-date="11-12 23:37" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/" target="_blank" rel="noopener" data-cat="keji" data-summary="得益于Gemini 4 Hydrogen，Google的AI模式在理解复杂查询、显示相关链接和提供更丰富的视觉响应方面正变得越来越出色。" data-title="Google’s latest Search upgrade promises better answers to your most complicated questions" data-date="11-13 03:27" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-12 23:37</span>
-          <span class="news-item-title">Jensen Huang离开了Nvidia——谁是他的临时继任者Colette Kress？</span>
-          <span class="news-item-title-en">Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?</span>
-          <span class="news-value-point">💡 英伟达首席财务官科莱特·克雷斯（Colette Kress）将接替深陷丑闻的长期首席执行官黄仁勋（Jensen Huang），担任临时替代者</span>
+          <span class="news-item-date">11-13 03:27</span>
+          <span class="news-item-title">谷歌最新的搜索升级承诺为您最复杂的问题提供更好的答案</span>
+          <span class="news-item-title-en">Google’s latest Search upgrade promises better answers to your most complicated questions</span>
+          <span class="news-value-point">💡 得益于Gemini 4 Hydrogen，Google的AI模式在理解复杂查询、显示相关链接和提供更丰富的视觉响应方面正变得越来越出色</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/437.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 12 日消息，据路透社报道，黄仁勋因婚外情丑闻持续发酵而辞去英伟达 CEO，引发全球 AI 概念股周四大跌。英伟达领导层突遭变动，也让原本就面临融资和监管压力的 AI 行业增添了新的风险。英伟达宣布，CFO 科莱特 · 克雷斯将暂任 CEO，公司同时寻找正式接班人。作为 AI 产业链的核心企业，英伟达不仅供应芯片，还为采用其芯片的数据中心等基础设施项目提供资金支持，这种商业模式因循环融资问题受到质疑。随着英伟达陷入更深的危机，整个 AI 行业也面临新的压力。英伟达股价早盘下跌 8.2%，跌至 16 个多月以来的最低水平，市值更是 2025 年 7 月以来首次跌破 4 万亿美元。英伟达投资的新型云计算服务商 CoreWeave 股价下跌 9.1%。就在前一个交易日，Core" data-title="黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨" data-date="11-12 23:34" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/" target="_blank" rel="noopener" data-cat="keji" data-summary="Nectar 的新版 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪营销活动的效果。" data-title="Nectar launches an AI agent to automate creator discovery and outreach for brands" data-date="11-13 03:11" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 23:34</span>
-          <span class="news-item-title">黄仁勋辞任英伟达 CEO 重创全球 AI 概念股，AMD、博通逆势上涨</span>
-          <span class="news-value-point">💡 IT之家 11 月 12 日消息，据路透社报道，黄仁勋因婚外情丑闻持续发酵而辞去英伟达 CEO，引发全球 AI 概念股周四大跌</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 03:11</span>
+          <span class="news-item-title">Nectar推出AI代理，帮助品牌方自动化创作者发现和联系流程</span>
+          <span class="news-item-title-en">Nectar launches an AI agent to automate creator discovery and outreach for brands</span>
+          <span class="news-value-point">💡 Nectar 的新版 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪营销活动的效果</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/431.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 12 日消息，黄仁勋辞去英伟达总裁、首席执行官及董事会成员职务后，成为英伟达首任董事会主席的哈维 · 琼斯（Harvey Jones）向英伟达员工发布内部备忘录。琼斯拥有超过 30 年的创业、科技企业管理和风险投资经验，曾任新思科技 CEO 及执行董事长。路透社获得了备忘录的副本，IT之家附译文如下：各位英伟达员工：我写信是想向大家通报一项重要决定。黄仁勋已辞去首席执行官及董事会成员职务，董事会已委任首席财务官（CFO）科莱特 · 克雷斯（Colette Kress）出任临时首席执行官；与此同时，董事会将面向内外部候选人遴选常任继任者。我将出任公司有史以来的首任董事会主席。在担任首席财务官的 13 年多时间里，科莱特一直是英伟达业务增长与资本战略的关键缔造者之一。她对公司" data-title="黄仁勋辞去 CEO 后，英伟达首任董事会主席哈维 · 琼斯发表内部信" data-date="11-12 23:03" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 23:03</span>
-          <span class="news-item-title">黄仁勋辞去 CEO 后，英伟达首任董事会主席哈维 · 琼斯发表内部信</span>
-          <span class="news-value-point">💡 IT之家 11 月 12 日消息，黄仁勋辞去英伟达总裁、首席执行官及董事会成员职务后，成为英伟达首任董事会主席的哈维 · 琼斯（Harvey J…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang" target="_blank" rel="noopener" data-cat="keji" data-summary="在身着皮夹克的英伟达首席执行官、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有婚外情后，他的公司最初宣布将展开调查。然而，《纽约时报》周三报道称，" data-title="Nvidia CEO Jensen Huang has resigned. What happens next?" data-date="11-12 23:01" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-12 23:01</span>
-          <span class="news-item-title">英伟达首席执行官黄仁勋已辞职。接下来会发生什么？</span>
-          <span class="news-item-title-en">Nvidia CEO Jensen Huang has resigned. What happens next?</span>
-          <span class="news-value-point">💡 在身着皮夹克的英伟达首席执行官、总裁兼联合创始人黄仁勋承认与Megaspeed高管Alice Huang有婚外情后，他的公司最初宣布将展开调查</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="财务长科莱特·克雷斯将暂时接替黄仁勋，但另有数人被视为可能的正式接班人。" data-title="谁会接替黄仁勋，正式出任Nvidia执行长？" data-date="11-12 23:00" data-source="BBC">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-12 23:00</span>
-          <span class="news-item-title">谁会接替黄仁勋，正式出任Nvidia执行长？</span>
-          <span class="news-value-point">💡 财务长科莱特·克雷斯将暂时接替黄仁勋，但另有数人被视为可能的正式接班人</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731230.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网11月12日电 据外媒报道，英伟达股价开盘大幅下挫，暴跌13%。" data-title="英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅" data-date="11-12 22:51" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:51</span>
-          <span class="news-item-title">英伟达股价开盘暴跌13% 或创2025年以来最大单日跌幅</span>
-          <span class="news-value-point">💡 中新网11月12日电 据外媒报道，英伟达股价开盘大幅下挫，暴跌13%</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html" target="_blank" rel="noopener" data-cat="keji" data-summary="该公司的首席财务官克雷斯女士于2013年加入英伟达。" data-title="Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?" data-date="11-12 22:35" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html" target="_blank" rel="noopener" data-cat="keji" data-summary="该公司的首席财务官克雷斯女士于2013年加入英伟达。" data-title="Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?" data-date="11-13 02:54" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 22:35</span>
+          <span class="news-item-date">11-13 02:54</span>
           <span class="news-item-title">接替黄仁勋担任英伟达临时首席执行官的科莱特·克雷斯是谁？</span>
           <span class="news-item-title-en">Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?</span>
           <span class="news-value-point">💡 该公司的首席财务官克雷斯女士于2013年加入英伟达</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/" target="_blank" rel="noopener" data-cat="keji" data-summary="Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。" data-title="The unfolding Jensen Huang scandal: a timeline" data-date="11-12 22:30" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/" target="_blank" rel="noopener" data-cat="keji" data-summary="随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导。" data-title="Jensen Huang’s exit puts Nvidia’s support for open source in question" data-date="11-13 02:39" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-12 22:30</span>
-          <span class="news-item-title">正在发酵的黄仁勋丑闻：时间线</span>
-          <span class="news-item-title-en">The unfolding Jensen Huang scandal: a timeline</span>
-          <span class="news-value-point">💡 Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响</span>
+          <span class="news-item-date">11-13 02:39</span>
+          <span class="news-item-title">黄仁勋的离职使人们对英伟达对开源的支持产生疑问</span>
+          <span class="news-item-title-en">Jensen Huang’s exit puts Nvidia’s support for open source in question</span>
+          <span class="news-value-point">💡 随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收…</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="Nvidia董事会宣布，黄仁勋已辞去公司执行长一职，原任公司执行副总裁兼财务长的科莱特·克雷斯（Colette Kress）已同意出任临时首席执行官。" data-title="Nvidia董事会宣布黄仁勋辞任执行长" data-date="11-12 22:28" data-source="BBC">
+        <a class="news-item" href="https://www.ithome.com/1/026/446.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 13 日消息，谷歌正式推出 Gemini 4 Hydrogen 模型，主打快速执行与高效运行，面向日常编码和智能体工作流场景，将 Gemini 4 系列能力全面下放至所有层级用户。输入：每百万 Tokens 1.50 美元（IT之家注：现汇率约合 10.0 元人民币）输出：每百万 Tokens 7.50 美元（现汇率约合 50.1 元人民币）该定价覆盖全 100 万 Token 上下文窗口，无分段阶梯计价。在 Artificial Analysis 智能指数中，Hydrogen 默认高思考档位得分 51，高于 Gemini 4 Argon 的 50，最高 xhigh 档位可达 54，同时任务完成速度常优于同级别模型。谷歌同步推出 Orchestrator 智能调度功能，内" data-title="谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元" data-date="11-13 02:17" data-source="IT之家">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-12 22:28</span>
-          <span class="news-item-title">Nvidia董事会宣布黄仁勋辞任执行长</span>
-          <span class="news-value-point">💡 Nvidia董事会宣布，黄仁勋已辞去公司执行长一职，原任公司执行副总裁兼财务长的科莱特·克雷斯（Colette Kress）已同意出任临时首席执…</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-13 02:17</span>
+          <span class="news-item-title">谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元</span>
+          <span class="news-value-point">💡 IT之家 11 月 13 日消息，谷歌正式推出 Gemini 4 Hydrogen 模型，主打快速执行与高效运行，面向日常编码和智能体工作流场景…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731225.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。声明称，现任执行副总裁兼首席财务官科莱特·克雷斯(Colette Kress)已同意担任临时首席执行官。在正式继任者确定之前，克雷斯将继续履行执行副总裁兼首席财务官的职责。" data-title="英伟达宣布黄仁勋临时接任人：2013年加入该公司的女高管" data-date="11-12 22:21" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html" target="_blank" rel="noopener" data-cat="keji" data-summary="尽管大盘小幅上涨，但芯片制造商英伟达的首席执行官黄仁勋辞职的消息还是导致该公司股价下跌。" data-title="Nvidia Stock Plunges After Jensen Huang Resigns as CEO" data-date="11-13 02:09" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:21</span>
-          <span class="news-item-title">英伟达宣布黄仁勋临时接任人：2013年加入该公司的女高管</span>
-          <span class="news-value-point">💡 中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 02:09</span>
+          <span class="news-item-title">黄仁勋辞去首席执行官职务后，英伟达股价暴跌</span>
+          <span class="news-item-title-en">Nvidia Stock Plunges After Jensen Huang Resigns as CEO</span>
+          <span class="news-value-point">💡 尽管大盘小幅上涨，但芯片制造商英伟达的首席执行官黄仁勋辞职的消息还是导致该公司股价下跌</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731222.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效。" data-title="英伟达宣布黄仁勋辞职" data-date="11-12 22:09" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video" target="_blank" rel="noopener" data-cat="keji" data-summary="我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将这些事情搁置。上周的选举对右翼来说是一场大败仗，对于所有将自己与右翼事业绑在一起的自命不凡的法西斯创始人来说，这是一个大问题。" data-title="Oh, Palantir is ‘progressive’ now, is it?" data-date="11-13 02:06" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:09</span>
-          <span class="news-item-title">英伟达宣布黄仁勋辞职</span>
-          <span class="news-value-point">💡 中新网11月12日电 英伟达官网11月12日发布声明称，黄仁勋已辞去总裁、首席执行官及董事会成员职务，即刻生效</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 02:06</span>
+          <span class="news-item-title">哦，Palantir现在是“进步”的了，是吗？</span>
+          <span class="news-item-title-en">Oh, Palantir is ‘progressive’ now, is it?</span>
+          <span class="news-value-point">💡 我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将这些事情搁置</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling" target="_blank" rel="noopener" data-cat="keji" data-summary="在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会刀枪不入呢？他把自己置于人工智能行业的中心，不可或缺，而且众所周知，他在英伟达没有继任计划。事实上，" data-title="The Jensen Huang scandal is hardly over" data-date="11-13 01:44" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 01:44</span>
+          <span class="news-item-title">黄仁勋丑闻远未结束</span>
+          <span class="news-item-title-en">The Jensen Huang scandal is hardly over</span>
+          <span class="news-value-point">💡 在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/" target="_blank" rel="noopener" data-cat="keji" data-summary="在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。" data-title="Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit" data-date="11-13 01:36" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 01:36</span>
+          <span class="news-item-title">Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而战</span>
+          <span class="news-item-title-en">Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</span>
+          <span class="news-value-point">💡 在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/" target="_blank" rel="noopener" data-cat="keji" data-summary="该航空公司表示，将不允许顾客使用人工智能代理预订航班和管理预订。" data-title="United Airlines blocks AI agents from booking flights, citing cybersecurity risks" data-date="11-13 01:17" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 01:17</span>
+          <span class="news-item-title">美国联合航空公司以网络安全风险为由，禁止人工智能代理预订航班</span>
+          <span class="news-item-title-en">United Airlines blocks AI agents from booking flights, citing cybersecurity risks</span>
+          <span class="news-value-point">💡 该航空公司表示，将不允许顾客使用人工智能代理预订航班和管理预订</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/" target="_blank" rel="noopener" data-cat="keji" data-summary="软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元。以下是这笔损失对电力市场的意义。" data-title="SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions" data-date="11-13 01:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">软银的数十亿美元亏损可能限制了人工智能在天然气领域的雄心壮志</span>
+          <span class="news-item-title-en">SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions</span>
+          <span class="news-value-point">💡 软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/" target="_blank" rel="noopener" data-cat="keji" data-summary="Phota Labs的目的不是要为消费者提供又一款照片编辑工具，而是要利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地将日常时刻转化为更出色的照片。" data-title="Phota Labs uses AI to turn everyday photos into professional" data-date="11-13 01:00" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">Phota Labs使用人工智能将日常照片变为专业照片</span>
+          <span class="news-item-title-en">Phota Labs uses AI to turn everyday photos into professional</span>
+          <span class="news-value-point">💡 Phota Labs的目的不是要为消费者提供又一款照片编辑工具，而是要利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地将日常时刻转化为更…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations" target="_blank" rel="noopener" data-cat="keji" data-summary="一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被导向冒牌网站和其他有风险的网站。知识产权保护公司Podqi开展了这项研究，并独家与The Verge分享了研究结果，这引发了人们对人工智能聊天机器人安全性的担忧。" data-title="AI chatbots are recommending fake retail websites, study finds" data-date="11-13 01:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">研究发现，人工智能聊天机器人正在推荐虚假的零售网站</span>
+          <span class="news-item-title-en">AI chatbots are recommending fake retail websites, study finds</span>
+          <span class="news-value-point">💡 一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被导向冒牌网站和其他有风险的网站</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/026/442.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 13 日消息，AMD Software: Adrenalin Edition 26.11.1 可选版（Optional）显卡驱动现已发布，本次更新重点修复了此前广受关注的系统盘异常写入问题，同时公布了多项游戏与平台兼容方面的已知问题及临时解决方案。问题修复修复 Radeon RX 7000 系列及以上显卡在系统空闲时，持续对系统盘进行异常写入的问题；该问题此前被报道写入速率可达 0.3MB/s 至 5MB/s，单日累计写入量最高超 400GB，可能影响 SSD 寿命。修复移动或调整应用窗口大小时，触发系统盘异常写入的问题。已知问题与临时方案在 Radeon RX 7000 系列显卡上游玩《刺客信条：黑旗重制版》时，可能间歇性出现应用崩溃或驱动超时；在 Radeon RX" data-title="AMD 发布肾上腺素 26.11.1 可选驱动：修复 SSD 异常写入问题，公布多项已知游戏兼容问题" data-date="11-13 00:30" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-13 00:30</span>
+          <span class="news-item-title">AMD 发布肾上腺素 26.11.1 可选驱动：修复 SSD 异常写入问题，公布多项已知游戏兼容问题</span>
+          <span class="news-value-point">💡 IT之家 11 月 13 日消息，AMD Software: Adrenalin Edition 26.11.1 可选版（Optional）显卡…</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">8 条</span>
+      <span class="news-category-count">10 条</span>
     </div>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="据天空体育新闻报道，曼联高层在毛里西奥·波切蒂诺被切尔西解雇后不久，即两年前与他进行了会面，并考虑让他接替埃里克·滕哈格。" data-title="Inside Man Utd&#39;s pursuit of Pochettino" data-date="11-13 01:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">曼联追求波切蒂诺的幕后故事</span>
+          <span class="news-item-title-en">Inside Man Utd's pursuit of Pochettino</span>
+          <span class="news-value-point">💡 据天空体育新闻报道，曼联高层在毛里西奥·波切蒂诺被切尔西解雇后不久，即两年前与他进行了会面，并考虑让他接替埃里克·滕哈格</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联是如何确定毛里西奥·波切蒂诺为新任主教练的——以及在迈克尔·卡里克被晾在一边的那一周里发生了什么。" data-title="How Pochettino came on Man Utd&#39;s radar - and what Carrick was told when" data-date="11-13 00:12" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-13 00:12</span>
+          <span class="news-item-title">波切蒂诺是如何进入曼联视野的——以及卡里克当时被告知了什么</span>
+          <span class="news-item-title-en">How Pochettino came on Man Utd's radar - and what Carrick was told when</span>
+          <span class="news-value-point">💡 曼联是如何确定毛里西奥·波切蒂诺为新任主教练的——以及在迈克尔·卡里克被晾在一边的那一周里发生了什么</span>
+        </a>
         <a class="news-item" href="https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="美国男足主教练已同意与曼联的协议框架曼联已与美国足协取得联系巴洛贡：“我希望事情保持现状”波切蒂诺加盟曼联的最新消息和反应毛里西奥·波切蒂诺将执教美国男足国家队" data-title="Pochettino expected to lead US in Nations League games before Manchester United move" data-date="11-12 22:57" data-source="卫报">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-theathletic">🇬🇧 卫报</span>
@@ -362,12 +401,12 @@ title: 热点新闻
           <span class="news-item-title-en">How Carrick's reign unravelled</span>
           <span class="news-value-point">💡 迈克尔·卡里克（Michael Carrick）被解雇了曼联主教练的职务，那么他的老特拉福德执教生涯为何如此迅速地走向失败</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·卡里克已被解雇，不再担任曼联主教练，毛里西奥·波切蒂诺将接替他的职位。" data-title="Carrick sacked by Man Utd" data-date="11-12 18:27" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13606106/man-utd-sack-michael-carrick-with-mauricio-pochettino-set-to-be-appointed-after-worst-start-to-premier-league-season" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·卡里克已被解雇，不再担任曼联主教练，毛里西奥·波切蒂诺将接替他的职位。" data-title="Carrick sacked as Man Utd reach full agreement with Pochettino" data-date="11-12 18:27" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-12 18:27</span>
-          <span class="news-item-title">卡里克被曼联解雇</span>
-          <span class="news-item-title-en">Carrick sacked by Man Utd</span>
+          <span class="news-item-title">曼联与波切蒂诺达成全面协议，卡里克被解雇</span>
+          <span class="news-item-title-en">Carrick sacked as Man Utd reach full agreement with Pochettino</span>
           <span class="news-value-point">💡 迈克尔·卡里克已被解雇，不再担任曼联主教练，毛里西奥·波切蒂诺将接替他的职位</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="迈克尔·卡里克成为三赛季内被解雇的第三位曼联主帅——问题出在哪里？" data-title="The chaos that took Carrick from two-year deal to sacked within 15 games" data-date="11-12 18:21" data-source="BBC">
@@ -400,6 +439,107 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="前一刻，一栋公寓楼还巍然耸立。下一刻，它就塌陷成了一个大坑。随后是毁灭和死亡。" data-title="A Frantic Search for Survivors in the Brooklyn Building Collapse" data-date="11-13 03:43" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 03:43</span>
+          <span class="news-item-title">布鲁克林大楼坍塌后对幸存者的疯狂搜救</span>
+          <span class="news-item-title-en">A Frantic Search for Survivors in the Brooklyn Building Collapse</span>
+          <span class="news-value-point">💡 前一刻，一栋公寓楼还巍然耸立</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="官员表示，弗拉特布什一栋三层建筑倒塌，造成至少8人死亡，另有十多人受伤。" data-title="What to Know About the Deadly Building Collapse in Brooklyn" data-date="11-13 03:38" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 03:38</span>
+          <span class="news-item-title">关于布鲁克林致命楼房坍塌事件的须知事项</span>
+          <span class="news-item-title-en">What to Know About the Deadly Building Collapse in Brooklyn</span>
+          <span class="news-value-point">💡 官员表示，弗拉特布什一栋三层建筑倒塌，造成至少8人死亡，另有十多人受伤</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1032226/microsoft-outlook-is-down" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在过去一个多小时里，世界各地陆续有报告称，人们无法通过网页或应用程序访问他们的Outlook电子邮件。微软已通过其Microsoft 365状态账户确认了该问题，并表示“我们已确定" data-title="Microsoft Outlook is down" data-date="11-13 03:07" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 03:07</span>
+          <span class="news-item-title">Microsoft Outlook 出现故障</span>
+          <span class="news-item-title-en">Microsoft Outlook is down</span>
+          <span class="news-value-point">💡 在过去一个多小时里，世界各地陆续有报告称，人们无法通过网页或应用程序访问他们的Outlook电子邮件</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="大多数民主党人对卫生部长在疫苗问题上的立场深恶痛绝，但有些人认为，通过与他在食品和环境问题上站在同一阵线，有机会从他的MAHA运动中赢得选民。" data-title="Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?" data-date="11-13 02:18" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 02:18</span>
+          <span class="news-item-title">肯尼迪的未来：民主党会试图弹劾他，还是真正与他合作？</span>
+          <span class="news-item-title-en">Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?</span>
+          <span class="news-value-point">💡 大多数民主党人对卫生部长在疫苗问题上的立场深恶痛绝，但有些人认为，通过与他在食品和环境问题上站在同一阵线，有机会从他的MAHA运动中赢得选民</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/save-usd119-on-ddr5-ram-with-this-high-end-am5-gaming-combo-from-newegg-3-item-gaming-pc-combo-includes-9800x3d-32gb-corsair-vengeance-ddr5-ram-and-premium-msi-x870e-carbon-wifi-motherboard-for-only-usd1-250" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Newegg的最新组合优惠将32GB的Corsair Vengeance DDR5-6000内存、Ryzen 7 9800X3D、MSI X870E Carbon Wifi主板和免费的Rosewill Frostmax 360mm AIO搭配在一起，售价仅为1250美元，节省119美元。" data-title="Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg" data-date="11-13 01:34" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-13 01:34</span>
+          <span class="news-item-title">使用Newegg这款高端AM5游戏套装，DDR5内存可节省119美元</span>
+          <span class="news-item-title-en">Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg</span>
+          <span class="news-value-point">💡 Newegg的最新组合优惠将32GB的Corsair Vengeance DDR5-6000内存、Ryzen 7 9800X3D、MSI X87…</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="水晶宫在主教练皮埃尔·萨热执教 16 场比赛后将其解雇，当时俱乐部排名垫底。" data-title="Crystal Palace sack boss Sage after 16 games" data-date="11-13 01:15" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-13 01:15</span>
+          <span class="news-item-title">水晶宫在 16 场比赛后解雇主教练萨赫</span>
+          <span class="news-item-title-en">Crystal Palace sack boss Sage after 16 games</span>
+          <span class="news-value-point">💡 水晶宫在主教练皮埃尔·萨热执教 16 场比赛后将其解雇，当时俱乐部排名垫底</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Cybertruck正驶向天空中那只闪闪发光的“网络垃圾桶”，让那些围绕埃隆·马斯克这款备受争议的皮卡建立起网络身份的人感到失落。通常，马斯克的粉丝群会对偶像反复无常的决定小心翼翼。这次" data-title="‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug" data-date="11-13 01:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">“特斯拉的末日！”：埃隆·马斯克叫停Cybertruck后，Cybertruck的死忠粉对他“反戈一击”</span>
+          <span class="news-item-title-en">‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug</span>
+          <span class="news-value-point">💡 Cybertruck正驶向天空中那只闪闪发光的“网络垃圾桶”，让那些围绕埃隆·马斯克这款备受争议的皮卡建立起网络身份的人感到失落</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad" target="_blank" rel="noopener" data-cat="zonghe" data-summary="过去25年来，微软一直在努力撼动游戏机市场。初代Xbox于2001年11月15日推出，当时该行业由索尼和任天堂主导。二十五年后，Xbox 发现自己处于类似的" data-title="25 years later, Xbox is trying to reinvent itself again" data-date="11-13 01:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">25 年后，Xbox 正试图再次重塑自我</span>
+          <span class="news-item-title-en">25 years later, Xbox is trying to reinvent itself again</span>
+          <span class="news-value-point">💡 过去25年来，微软一直在努力撼动游戏机市场</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs" target="_blank" rel="noopener" data-cat="zonghe" data-summary="根据GDC游戏节最新的年度行业调查，与去年相比，有更多的视频游戏开发者在工作中使用了生成式AI工具。在接受调查的开发者中，40%的人表示他们“在工作中”使用生成式AI工具，" data-title="More game developers are starting to use generative AI" data-date="11-13 01:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">越来越多的游戏开发者开始使用生成式人工智能</span>
+          <span class="news-item-title-en">More game developers are starting to use generative AI</span>
+          <span class="news-value-point">💡 根据GDC游戏节最新的年度行业调查，与去年相比，有更多的视频游戏开发者在工作中使用了生成式AI工具</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/nfl/news/12040/13610883/nfl-gameday-guide-harry-kanes-nfl-dream-amon-ra-st-brown-in-germany-kirk-cousins-return-and-jordan-loves-flying-green-bay-packers" target="_blank" rel="noopener" data-cat="zonghe" data-summary="阿蒙-拉·圣·布朗。这位环游世界的“宇宙先生”之子会说三种语言，以埃及神的名字命名，如今正以最特别的方式回到母亲的故乡。这一次，他以NFL明星球员的身份归来。" data-title="The trilingual son of Mr Universe makes homecoming" data-date="11-13 01:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-13 01:00</span>
+          <span class="news-item-title">“环球先生”的三语之子回乡</span>
+          <span class="news-item-title-en">The trilingual son of Mr Universe makes homecoming</span>
+          <span class="news-value-point">💡 阿蒙-拉·圣·布朗</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="短短几天内，黄仁勋作为全球科技竞赛领军人物、看似无可撼动的地位便迅速崩塌。" data-title="从科技巨星到跌落神坛" data-date="11-13 00:14" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-13 00:14</span>
+          <span class="news-item-title">从科技巨星到跌落神坛</span>
+          <span class="news-value-point">💡 短短几天内，黄仁勋作为全球科技竞赛领军人物、看似无可撼动的地位便迅速崩塌</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/026/440.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。领取链接：《斗阵骑士 Knightica》IT之家附《斗阵骑士 Knightica》游戏简介：《Knightica》是一款回合制类 Roguelike 自走棋游戏，在这里，各类身负绝技的单位将为你所用，集结成团，听你号令。征招、部署部队，带领大家为解放王国而战。尽情探索它们的协同效果、收集恶魔精魂、迎战危险怪物，一步步领导你的军队走向胜利！组建军队，运筹帷幄单位的队形各异，大小不同，禀赋各有千秋，每一支都蓄势待发，等候你的征召！至于怎么部署位置，调整朝向，充分发挥各自的作用，全部由你决定！你是想要成为不死军团" data-title="Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取" data-date="11-13 00:05" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-13 00:05</span>
+          <span class="news-item-title">Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取</span>
+          <span class="news-value-point">💡 IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/026/438.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 12 日消息，2027 年是《星球大战》系列诞生 50 周年，阿斯顿 · 马丁宣布与迪士尼、卢卡斯影业合作，共同庆祝这一里程碑。阿斯顿 · 马丁计划在未来一年举办系列活动，回顾《星球大战》的发展历程，但具体内容尚未公布。阿斯顿 · 马丁透露，双方将通过周年庆期间的一系列活动及合作项目，展现英国顶级奢华工艺与电影叙事的艺术魅力。阿斯顿 · 马丁全球营销总监芬巴尔 · 麦克福尔表示：“过去 50 年，《星球大战》证明了设计与叙事能够产生非凡的力量，激励世界各地一代又一代人。阿斯顿 · 马丁同样致力于打造个性鲜明、能够引发长久情感共鸣的产品和体验，因此双方的合作顺理成章，也令人期待。”据IT之家了解，阿斯顿 · 马丁旗下产品从未在《星球大战》电影中亮相。相比之下，阿斯顿 · 马" data-title="特别版车型？阿斯顿 · 马丁与迪士尼、卢卡斯影业达成合作，共庆《星球大战》50 周年" data-date="11-12 23:48" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-12 23:48</span>
+          <span class="news-item-title">特别版车型？阿斯顿 · 马丁与迪士尼、卢卡斯影业达成合作，共庆《星球大战》50 周年</span>
+          <span class="news-value-point">💡 IT之家 11 月 12 日消息，2027 年是《星球大战》系列诞生 50 周年，阿斯顿 · 马丁宣布与迪士尼、卢卡斯影业合作，共同庆祝这一里程…</span>
+        </a>
         <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Palace latest: Frank talks &#39;progressing well&#39; after Sage sacked" data-title="Palace latest: Frank talks &#39;progressing well&#39; after Sage sacked" data-date="11-12 23:45" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
@@ -415,113 +555,21 @@ title: 热点新闻
           <span class="news-item-title-en">A power bank that can quickly charge three gadgets is just $49</span>
           <span class="news-value-point">💡 Amazon Prime会员可以享受Ecoflow笔记本电脑移动电源的超值优惠，该移动电源通过其两个USB-C端口中的任何一个均可提供高达140…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/435.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 12 日消息，欧洲航天局（ESA）公布了欧几里得（Euclid）空间望远镜任务首批大规模观测数据。这项任务旨在绘制宇宙的大尺度结构，此次公布的数据涵盖了超过 9 亿个星系的观测结果。科学家希望借此进一步研究宇宙中两种至今仍充满谜团的成分：暗物质和暗能量。当地时间周四公布的数据覆盖了相当于从地球上看到的月球视面积约 9500 倍的天空区域。欧几里得望远镜的最终目标是在 2031 年前绘制有史以来规模最大的宇宙三维地图，覆盖整个天空三分之一以上的区域。此次发布的数据来自欧几里得望远镜约 13 个月的观测，数据总量高达 1.7 PB（拍字节），相当于 170 万 GB。欧洲航天局欧几里得项目科学家、天体物理学家瓦莱里娅 · 佩托里诺（Valeria Pettorino）表示：“" data-title="欧几里得望远镜公布首批大规模观测数据：涵盖超 9 亿个星系" data-date="11-12 23:19" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 23:19</span>
-          <span class="news-item-title">欧几里得望远镜公布首批大规模观测数据：涵盖超 9 亿个星系</span>
-          <span class="news-value-point">💡 IT之家 11 月 12 日消息，欧洲航天局（ESA）公布了欧几里得（Euclid）空间望远镜任务首批大规模观测数据</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/434.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 12 日消息，今天晚间的腾势 N8 上市发布会伊始，比亚迪腾势汽车总经理李慧就谈到了“速成车”。李慧直言，今年的车市非常热闹，前 10 个月平均每天有 3 场发布会。热闹之下，行业内诞生了一个扎心的词 ——“速成车”。“速成车”压缩的是消费者看不见、摸不着，但又关乎安全底线的验证环节。这种走捷径的方式，是把用户当成免费的试车员。他透露，腾势 N8 于 2023 年 8 月正式立项，至今打磨了整整三年多，完成了冬测、夏测等大量安全类测试，一个都没有省，直到全部通过。腾势 N8 的测试数据是真实数据，绝不是 AI 生成。“在腾势造车体系中，安全是底线。我们宁愿慢一点，也绝不在安全上抄近路。…… 千锤百炼，只为让用户买车不烧心。”发布会上，李慧还引用了百年药店“同仁堂”的古训：" data-title="比亚迪腾势汽车李慧谈“速成车”：我们宁愿慢一点，也绝不在安全上“抄近路”" data-date="11-12 23:17" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 23:17</span>
-          <span class="news-item-title">比亚迪腾势汽车李慧谈“速成车”：我们宁愿慢一点，也绝不在安全上“抄近路”</span>
-          <span class="news-value-point">💡 IT之家 11 月 12 日消息，今天晚间的腾势 N8 上市发布会伊始，比亚迪腾势汽车总经理李慧就谈到了“速成车”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/432.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 12 日消息，米物科技现已在京东上架 Neoseek Pure 10 新国标 22.5W 磁吸移动电源，该产品采用 2C 设计，首发价 169 元。京东 MIIIW 米物 22.5W 磁吸充电宝 169 元直达链接该产品采用萝卜橙配色，表面带有防滑纹理，正面配备一块 LED 数显屏，背面为磁吸充电模块，可提供 15W 无线充电。移动电源底部配备 USB-C 22.5W 自带线和 USB-C 22.5W 接口，在有线无线同时输出时提供至高 15W 峰值。IT之家附产品参数：" data-title="米物推出 Neoseek Pure 10 新国标 22.5W 自带线磁吸移动电源：15W 无线 + 2C 设计，169 元" data-date="11-12 23:13" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 23:13</span>
-          <span class="news-item-title">米物推出 Neoseek Pure 10 新国标 22.5W 自带线磁吸移动电源：15W 无线 + 2C 设计，169 元</span>
-          <span class="news-value-point">💡 IT之家 11 月 12 日消息，米物科技现已在京东上架 Neoseek Pure 10 新国标 22.5W 磁吸移动电源，该产品采用 2C 设…</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这是Fireworks在短短几个月内发生的第二次数据泄露事件。" data-title="Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts" data-date="11-12 23:02" data-source="TechCrunch">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-12 23:02</span>
-          <span class="news-item-title">Fireworks AI 遭受网络攻击，黑客得以访问 Notion 客户的聊天记录</span>
-          <span class="news-item-title-en">Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts</span>
-          <span class="news-value-point">💡 这是Fireworks在短短几个月内发生的第二次数据泄露事件</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/430.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 12 日消息，谷歌与 Warby Parker、Gentle Monster 合作推出的首款 Android XR 智能眼镜，正面临一个不太容易解决的问题：如何摆脱消费者对智能眼镜的隐私担忧。由于早期进入这一领域的厂商没有充分重视隐私保护，智能眼镜逐渐背上了“偷拍眼镜”的负面标签。部分用户甚至将其视为侵犯他人隐私的工具。以 Meta 智能眼镜为例，这款产品曾因被不法分子滥用而饱受争议。一些人会设法关闭眼镜上用于提示正在拍摄的 LED 指示灯，或者利用眼镜做出令人反感的行为。Meta 此前对录制内容的处理方式也曾引发隐私争议。这些问题叠加在一起，让消费者对智能眼镜产生了不信任，也使其背上了负面社会标签。谷歌其实也不是毫无前车之鉴。早在第一代 Google Glass 推出时" data-title="谷歌为 Android XR 智能眼镜推出全面隐私保护措施：录制指示灯、人脸模糊与数据即删" data-date="11-12 22:53" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 22:53</span>
-          <span class="news-item-title">谷歌为 Android XR 智能眼镜推出全面隐私保护措施：录制指示灯、人脸模糊与数据即删</span>
-          <span class="news-value-point">💡 IT之家 11 月 12 日消息，谷歌与 Warby Parker、Gentle Monster 合作推出的首款 Android XR 智能眼镜…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-excavation-work.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="纽约市官员已下令该建筑工地停工，此前弗拉特布什（Flatbush）街区的一栋公寓楼坍塌在该工地之上。" data-title="Excavation Was Taking Place Next to Building in Brooklyn That Collapsed" data-date="11-12 22:40" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 22:40</span>
-          <span class="news-item-title">布鲁克林坍塌建筑旁边正在进行挖掘作业</span>
-          <span class="news-item-title-en">Excavation Was Taking Place Next to Building in Brooklyn That Collapsed</span>
-          <span class="news-value-point">💡 纽约市官员已下令该建筑工地停工，此前弗拉特布什（Flatbush）街区的一栋公寓楼坍塌在该工地之上</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Bricklink是一个广受欢迎的在线交易平台，乐高于2019年收购了该平台，粉丝们可以在该平台上买卖零件和套装。该平台已宕机一周，该公司尚不清楚何时恢复。运营该网站的团队一直在分享过去一段时间的最新动态。" data-title="Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’" data-date="11-12 22:13" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-12 22:13</span>
-          <span class="news-item-title">乐高的BrickLink交易平台在出现“异常活动”后已下线一周</span>
-          <span class="news-item-title-en">Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’</span>
-          <span class="news-value-point">💡 Bricklink是一个广受欢迎的在线交易平台，乐高于2019年收购了该平台，粉丝们可以在该平台上买卖零件和套装</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything" target="_blank" rel="noopener" data-cat="zonghe" data-summary="大家好！我是Jen Tuohy，The Verge的资深智能家居评测师。我测试过亚马逊和谷歌有史以来推出的每一款智能显示屏，过去一周，我一直在测试苹果的首款智能显示屏：售价 299 美元的 HomeView。我测试了桌面版和壁挂版。" data-title="I reviewed the Apple HomeView, ask me anything" data-date="11-12 22:10" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-12 22:10</span>
-          <span class="news-item-title">我体验了Apple HomeView，欢迎提问</span>
-          <span class="news-item-title-en">I reviewed the Apple HomeView, ask me anything</span>
-          <span class="news-value-point">💡 大家好</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/darts/news/12040/13611422/beau-greaves-excited-to-face-luke-littler-at-grand-slam-of-darts-in-wolverhampton-this-saturday" target="_blank" rel="noopener" data-cat="zonghe" data-summary="博·格里夫斯表示，她对本周末在飞镖大满贯开幕日与卢克·利特勒交手感到“兴奋”。" data-title="Greaves &#39;excited&#39; to face Littler at Grand Slam of Darts" data-date="11-12 22:10" data-source="天空体育">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-12 22:10</span>
-          <span class="news-item-title">格里夫斯“兴奋”地期待在飞镖大满贯赛中与利特勒对阵</span>
-          <span class="news-item-title-en">Greaves 'excited' to face Littler at Grand Slam of Darts</span>
-          <span class="news-value-point">💡 博·格里夫斯表示，她对本周末在飞镖大满贯开幕日与卢克·利特勒交手感到“兴奋”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="官员表示，一栋三层建筑倒塌，造成至少8人死亡，另有十多人受伤。" data-title="What to Know About the Deadly Building Collapse in Brooklyn" data-date="11-12 22:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 22:00</span>
-          <span class="news-item-title">关于布鲁克林致命楼房坍塌事件的须知事项</span>
-          <span class="news-item-title-en">What to Know About the Deadly Building Collapse in Brooklyn</span>
-          <span class="news-value-point">💡 官员表示，一栋三层建筑倒塌，造成至少8人死亡，另有十多人受伤</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/power-supplies/corsair-hx1000i-shift-crystal-power-supply-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="海盗船将由CWT制造的Cybenetics Platinum 1000W平台的内部组件展示在三个透明面板的后面，并增加了侧面接口、iCUE LINK集成和每个引脚的12V-2x6保护。" data-title="Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic" data-date="11-12 22:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-12 22:00</span>
-          <span class="news-item-title">Corsair HX1000i Shift Crystal电源评测：1000W铂金级能效，外观透明吸睛</span>
-          <span class="news-item-title-en">Corsair HX1000i Shift Crystal power supply review: 1000W Platinum efficiency with an eye-catching transparent aesthetic</span>
-          <span class="news-value-point">💡 海盗船将由CWT制造的Cybenetics Platinum 1000W平台的内部组件展示在三个透明面板的后面，并增加了侧面接口、iCUE LI…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1031633/apple-tv-4k-4th-gen-review" target="_blank" rel="noopener" data-cat="zonghe" data-summary="我正坐在电视机前，小狗依偎在我身边，客厅里摆着四台HomePod——两台在电视机两侧，另外两台分别在沙发两端——它们都连接到了全新的Apple TV 4K。年轻的阿纳金·天行者踩下油门，" data-title="The pricey new Apple TV 4K is still the best streamer around" data-date="11-12 22:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-12 22:00</span>
-          <span class="news-item-title">价格不菲的全新Apple TV 4K仍是市面上最好的流媒体播放器</span>
-          <span class="news-item-title-en">The pricey new Apple TV 4K is still the best streamer around</span>
-          <span class="news-value-point">💡 我正坐在电视机前，小狗依偎在我身边，客厅里摆着四台HomePod——两台在电视机两侧，另外两台分别在沙发两端——它们都连接到了全新的Apple …</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on" target="_blank" rel="noopener" data-cat="zonghe" data-summary="现在推出新款智能眼镜的时机很奇怪。过去几年里，Meta一直是推动智能眼镜复苏的主导力量，但这一复苏仍显脆弱。不幸的是，其隐私声誉导致了“变态眼镜”的绰号。智能眼镜" data-title="I tried Google’s AI glasses and Meta’s finally got real competition" data-date="11-12 22:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-12 22:00</span>
-          <span class="news-item-title">我试用了谷歌的AI眼镜，Meta终于有了真正的竞争对手</span>
-          <span class="news-item-title-en">I tried Google’s AI glasses and Meta’s finally got real competition</span>
-          <span class="news-value-point">💡 现在推出新款智能眼镜的时机很奇怪</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🌍</span>
       <span class="news-category-title">西方媒体视角 (外媒看中国 · 奇葩言论集锦)</span>
-      <span class="news-category-count">1 条</span>
+      <span class="news-category-count">2 条</span>
     </div>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/" target="_blank" rel="noopener" data-cat="meimei" data-summary="黄先生在被曝与一名涉嫌为中国从事间谍活动的女性有染后被免去首席执行官职务，在多名高级议员威胁传唤他出庭后，他同意于周三作证。" data-title="Jensen Huang agrees to testify before Congress" data-date="11-13 00:36" data-source="TechCrunch">
+          <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 00:36</span>
+          <span class="news-item-title">黄仁勋同意在国会作证</span>
+          <span class="news-item-title-en">Jensen Huang agrees to testify before Congress</span>
+          <span class="news-value-point">💡 黄先生在被曝与一名涉嫌为中国从事间谍活动的女性有染后被免去首席执行官职务，在多名高级议员威胁传唤他出庭后，他同意于周三作证</span>
+        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="meimei" data-summary="据报导，卷入婚外情、被指涉入中国间谍活动的女子黄乐（Alice Huang Le）已经返回中国。近年来，她曾十次入境美国、八次入境台湾。" data-title="黄仁勋婚外情：黄乐据称身在北京，台湾废止其入境许可证" data-date="11-12 18:15" data-source="BBC">
           <span class="news-cat-tag cat-meimei">🌍 外媒视角</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -660,4 +708,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-13 00:06（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-13 04:11（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

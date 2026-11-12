@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-13 00:06（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-13 04:11（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">28,275.91</span>
-      <span class="ticker-change down">▼ -0.35%</span>
+      <span class="ticker-price ticker-down">28,241.96</span>
+      <span class="ticker-change down">▼ -0.47%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-13 03:49:53（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-13 04:12:54（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -158,7 +158,7 @@ title: 股票财经
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:49:44（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:12:49（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,881.67 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -106.02 (-2.66%)</span>
+      <span class="ticker-price ticker-down">$3,884.46 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -103.23 (-2.59%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:49:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:12:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$96.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +3.32 (+3.58%)</span>
+      <span class="ticker-price ticker-up">$96.11 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +3.34 (+3.61%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:50:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:12:48（非实时）</div>
   </div>
 </div>
 
@@ -493,8 +493,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">4 条精选资讯</span>
+      <span class="news-category-count">5 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月13日电 综合报道，当地时间11月12日，美国企业家马斯克在社交媒体平台回应网友请他聘用黄仁勋时表示：“那将是我的荣幸”。" data-title="马斯克：招揽黄仁勋将是我的荣幸" data-date="11-13 00:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 00:28</span>
+          <span class="news-item-title">马斯克：招揽黄仁勋将是我的荣幸</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月12日电 当地时间11月10日，“生态文明与美丽中国实践”主题边会于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其安塔利亚举办。边会由生态环境部指导，习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办。这是中国新闻社“新闻会客厅”首次在土耳其举办系列活动。" data-title="中新社“新闻会客厅”在土耳其迎来首批国际客人" data-date="11-12 23:18" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -532,4 +538,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-13 00:06（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-13 04:11（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
