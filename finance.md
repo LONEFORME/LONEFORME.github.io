@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-12 16:54（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-13 00:06（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">28,374.25</span>
-      <span class="ticker-change up">▲ +2.28%</span>
+      <span class="ticker-price ticker-up">28,472.46</span>
+      <span class="ticker-change up">▲ +0.35%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-12 09:24:47（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-13 00:09:07（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6677</span>
+      <span class="ticker-price ticker-down">6.6738</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg42031" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,27.7 L25.3,30.9 L46.7,38.0 L68.0,12.8 L89.3,7.7 L110.7,18.2 L132.0,8.9 L153.3,13.4 L174.7,6.0 L196.0,15.1 L196,40 Z" fill="url(#sg42031)"/><polyline points="4.0,27.7 25.3,30.9 46.7,38.0 68.0,12.8 89.3,7.7 110.7,18.2 132.0,8.9 153.3,13.4 174.7,6.0 196.0,15.1" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="15.1" r="2.6" fill="#ff5b6a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg46127" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ff5b6a" stop-opacity="0.28"/><stop offset="100%" stop-color="#ff5b6a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,27.7 L25.3,30.9 L46.7,38.0 L68.0,12.8 L89.3,7.7 L110.7,18.2 L132.0,8.9 L153.3,13.4 L174.7,6.0 L196.0,8.6 L196,40 Z" fill="url(#sg46127)"/><polyline points="4.0,27.7 25.3,30.9 46.7,38.0 68.0,12.8 89.3,7.7 110.7,18.2 132.0,8.9 153.3,13.4 174.7,6.0 196.0,8.6" fill="none" stroke="#ff5b6a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="8.6" r="2.6" fill="#ff5b6a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:53:55（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:09:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,954.13 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -33.56 (-0.84%)</span>
+      <span class="ticker-price ticker-down">$3,874.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -113.69 (-2.85%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:53:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:09:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥850.55 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -22.27 (-2.55%)</span>
+      <span class="ticker-price ticker-down">¥833.36 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -17.26 (-2.03%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:01（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:08:46（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.78 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.98 (-1.06%)</span>
+      <span class="ticker-price ticker-up">$93.74 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.98 (+1.05%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:54:05（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:09:16（非实时）</div>
   </div>
 </div>
 
@@ -493,79 +493,31 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">4 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/026/135.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 12 日消息，据雷峰网 · 鲸犀消息，聚焦工业场景的阿米奥机器人，正经历核心团队出走与组织收缩，公司原 CTO、COO 和产品负责人均已离职。与此同时，阿米奥机器人的团队规模从巅峰期约 130 人收缩至含实习生在内的 70 余人，且新一轮优化仍在进行中。据悉，阿米奥创始人刘方是小米汽车自动驾驶原产品技术负责人和量产负责人，历经了小米自动驾驶团队筹建、技术研发和量产落地的全过程。其中，安克创新既是阿米奥种子轮的领投方，也是孵化方，阿米奥机器人的很多产业场景由安克扶持合作。一位知情人士透露，安克不想再继续加注阿米奥了，与具身商业化周期较长有关，阿米奥的现金流也出了一点问题。不过一家参投阿米奥的机构表示，阿米奥现在还在正常运营。IT之家查询获悉，北京阿米奥机器人科技有限公司成立" data-title="消息称安克押注的机器人公司阿米奥大幅收缩，原 CTO、COO 和产品负责人均已离职" data-date="11-12 16:21" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 16:21</span>
-          <span class="news-item-title">消息称安克押注的机器人公司阿米奥大幅收缩，原 CTO、COO 和产品负责人均已离职</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/130.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 12 日消息，奥迪已经确认，旗下全新 Nuvolari 超级跑车将进入美国市场。这款车全球计划仅生产 499 辆，其中美国市场分到 182 辆。即便有幸获得购买资格，消费者也要付出天价。奥迪表示，Nuvolari 在美国市场的起售价为 70 万美元（IT之家注：现汇率约合 468 万元人民币），而且这个价格还不包含目的地运费，因此实际购车成本还会更高。动力方面，Nuvolari 搭载一台双涡轮增压 V8 发动机，最大功率为 789 马力。此外，车辆还配备三台轴向磁通电机，系统综合功率提升至 987 马力。不过，奥迪特别指出，最终动力参数仍有可能调整。性能方面，Nuvolari 从静止加速至 60 英里 / 小时（约 96 公里 / 小时）预计仅需 2.5 秒，最高时速可达" data-title="定价近 500 万元！奥迪全新超跑 Nuvolari 确认将进入美国市场" data-date="11-12 16:18" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 16:18</span>
-          <span class="news-item-title">定价近 500 万元！奥迪全新超跑 Nuvolari 确认将进入美国市场</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10730861.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月12日电 据山东省纪委监委消息：山东省聊城经济技术开发区党工委书记、管委会主任任海波涉嫌严重违纪违法，目前正接受山东省纪委监委纪律审查和监察调查。" data-title="山东省聊城经济技术开发区党工委书记任海波接受审查调查" data-date="11-12 16:16" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月12日电 当地时间11月10日，“生态文明与美丽中国实践”主题边会于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其安塔利亚举办。边会由生态环境部指导，习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办。这是中国新闻社“新闻会客厅”首次在土耳其举办系列活动。" data-title="中新社“新闻会客厅”在土耳其迎来首批国际客人" data-date="11-12 23:18" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 16:16</span>
-          <span class="news-item-title">山东省聊城经济技术开发区党工委书记任海波接受审查调查</span>
+          <span class="news-item-date">11-12 23:18</span>
+          <span class="news-item-title">中新社“新闻会客厅”在土耳其迎来首批国际客人</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="中美之间的博弈可能会对能源成本产生重大影响，但谁会最终获胜？" data-title="中美能源大战，如何影响你的账单？" data-date="11-12 09:45" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-12 09:45</span>
-          <span class="news-item-title">中美能源大战，如何影响你的账单？</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="华盛顿希望通过关闭陆地边境来加紧对伊朗的经济施压。邻国担心经济受损，正在予以反击。" data-title="U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors" data-date="11-12 02:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 02:02</span>
-          <span class="news-item-title">U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/" target="_blank" rel="noopener" data-cat="caijing" data-summary="“业内有很多高层人士都知道这种情况正在发生，并且实际上是在纵容这种行为。”一位投资情报顾问表示。" data-title="Is Jensen Huang’s bad behavior more commonplace than it seems?" data-date="11-12 00:16" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/" target="_blank" rel="noopener" data-cat="caijing" data-summary="这是该投资公司迄今为止规模最大的基金。" data-title="Norwest pushes deeper into AI with new $4B fund" data-date="11-12 23:18" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-12 00:16</span>
-          <span class="news-item-title">Is Jensen Huang’s bad behavior more commonplace than it seems?</span>
+          <span class="news-item-date">11-12 23:18</span>
+          <span class="news-item-title">Norwest pushes deeper into AI with new $4B fund</span>
         </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111351" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国政府要求中国富裕人士在10月22日的最后期限前完成对离岸信托收益的申报缴税，上月个人所得税收入同比增长90%。" data-title="中国将严厉惩处离岸信托收益偷逃税者" data-date="11-12 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">11-12 00:00</span>
-          <span class="news-item-title">中国将严厉惩处离岸信托收益偷逃税者</span>
-        </a>
-        <a class="news-item" href="https://www.ftchinese.com/story/001111347" target="_blank" rel="noopener" data-cat="caijing" data-summary="投资者兴趣曾推动小型模块化核反应堆、地热能和燃料电池相关企业股价飙升，但这反过来意味着这些企业必须持续“烧钱”以完成项目。" data-title="投资者对AI专用发电技术企业信心下降" data-date="11-12 00:00" data-source="FT中文网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge ">🌐 FT中文网</span>
-          <span class="news-item-date">11-12 00:00</span>
-          <span class="news-item-title">投资者对AI专用发电技术企业信心下降</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-11/10730567.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社柏林11月11日电 (记者 马秀秀)德国经济专家委员会11日发布的报告预计，2026年德国经济将增长1.3%。若这一预测实现，德国经济将迎来自2022年以来首次较为明显的增长。" data-title="德权威机构大幅上调2026年德国经济增长预期" data-date="11-11 23:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-11 23:58</span>
-          <span class="news-item-title">德权威机构大幅上调2026年德国经济增长预期</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/025/817.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在研究 5 种月球核电站方案，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。他进一步表示：“这里说的是功率可达 10 千瓦的月球核电站，计划于 21 世纪 30 年代中期开始运行。目前我们正在深入研究 5 种构型，从把核能直接转换为电能，到建造相应的涡轮装置。我们必须在明年选定构型并启动相关工作。”参与俄罗斯月球发电站项目的俄库尔恰托夫研究所所长米哈伊尔 · 科瓦尔丘克今年 3 月表示，俄罗斯可能在" data-title="俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行" data-date="11-11 22:46" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/026/433.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 12 日消息，上海联合产权交易所显示，重庆长安汽车股份有限公司今日挂牌转让持有的阿维塔科技（重庆）股份有限公司 10% 股权，交易价格为 31.828 亿元，披露结束时间为 12 月 10 日。交易完成后，长安汽车仍为阿维塔第一大股东。IT之家附阿维塔目前股东与持股比例如下：股东名称持股比例 (%)重庆长安汽车股份有限公司40.994宁德时代新能源科技股份有限公司9.1742重庆安渝私募股权投资基金合伙企业 (有限合伙)8.8068重庆承安私募股权投资基金合伙企业 (有限合伙)7.2717南方工业资产管理有限责任公司6.3439交银金融资产投资有限公司3.3446国家绿色发展基金股份有限公司2.9046上海智悦新途一号企业管理合伙企业（有限合伙）1.8815杭州产投集团有" data-title="长安汽车拟挂牌转让阿维塔 10% 股权，交易价格约 32 亿元" data-date="11-12 23:15" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-11 22:46</span>
-          <span class="news-item-title">俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行</span>
+          <span class="news-item-date">11-12 23:15</span>
+          <span class="news-item-title">长安汽车拟挂牌转让阿维塔 10% 股权，交易价格约 32 亿元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-11/10730516.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州11月11日电 (记者 王坚)以“荆楚好味·礼献湾区”为主题的2026广东餐饮荆楚美食季首场活动10日在广州大湾区餐饮产业总部基地方舟餐博汇开启，逾20家湖北农产品企业携九大省级公用品牌和地方特色农产品，与60余家湾区星级酒店、酒楼、连锁餐饮品牌的创始人、总厨及采购负责人等齐聚一堂，助力湖北优质农产品从“走进大湾区”到“留在大湾区”。" data-title="2026广东餐饮荆楚美食季启动 众多湖北美食亮相大湾区" data-date="11-11 21:22" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731132.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社北京11月12日电 中共中央政治局委员、国务院副总理何立峰12日在人民大会堂会见美国景顺集团总裁兼首席执行官施洛斯伯格时表示，当前中国经济动能向新、结构向优，展现出强大韧性与活力。“十五五”时期是建设金融强国的重要阶段，中国正按照《金融强国建设“十五五”规划》，深入推进金融高质量发展，扩大金融高水平开放。欢迎包括景顺集团在内的各国企业继续深化对华投资合作，实现互利共赢。" data-title="何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格" data-date="11-12 20:38" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-11 21:22</span>
-          <span class="news-item-title">2026广东餐饮荆楚美食季启动 众多湖北美食亮相大湾区</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-11/10730396.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="视频：西蒙·斯蒂尔谈中国气候行动：放眼全球 中国的能源转型独树一帜丨新闻会客厅来源：中国新闻网" data-title="联合国气候高官：中国的能源转型成就在全球是独一份的 | 新闻会客厅" data-date="11-11 19:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-11 19:54</span>
-          <span class="news-item-title">联合国气候高官：中国的能源转型成就在全球是独一份的 | 新闻会客厅</span>
+          <span class="news-item-date">11-12 20:38</span>
+          <span class="news-item-title">何立峰会见美国景顺集团总裁兼首席执行官施洛斯伯格</span>
         </a>
   </div>
 </div>
@@ -580,4 +532,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-12 16:54（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-13 00:06（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
