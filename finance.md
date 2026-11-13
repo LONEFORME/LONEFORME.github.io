@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-13 23:35（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-14 03:54（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">27,908.34</span>
-      <span class="ticker-change down">▼ -1.35%</span>
+      <span class="ticker-price ticker-down">27,883.90</span>
+      <span class="ticker-change down">▼ -1.43%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-14 03:32:50（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-14 03:56:02（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6733</span>
+      <span class="ticker-price ticker-up">6.6735</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg88570" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,30.9 L25.3,38.0 L46.7,12.8 L68.0,7.7 L89.3,18.2 L110.7,8.9 L132.0,13.4 L153.3,6.0 L174.7,8.8 L196.0,9.2 L196,40 Z" fill="url(#sg88570)"/><polyline points="4.0,30.9 25.3,38.0 46.7,12.8 68.0,7.7 89.3,18.2 110.7,8.9 132.0,13.4 153.3,6.0 174.7,8.8 196.0,9.2" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="9.2" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg28385" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,30.9 L25.3,38.0 L46.7,12.8 L68.0,7.7 L89.3,18.2 L110.7,8.9 L132.0,13.4 L153.3,6.0 L174.7,8.8 L196.0,9.0 L196,40 Z" fill="url(#sg28385)"/><polyline points="4.0,30.9 25.3,38.0 46.7,12.8 68.0,7.7 89.3,18.2 110.7,8.9 132.0,13.4 153.3,6.0 174.7,8.8 196.0,9.0" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="9.0" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:32:36（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:55:54（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,875.81 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -1.62 (-0.04%)</span>
+      <span class="ticker-price ticker-down">$3,873.57 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -3.86 (-0.10%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:32:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:56:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$95.81 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.01 (-0.02%)</span>
+      <span class="ticker-price ticker-down">$95.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.05 (-0.05%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:33:01（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:56:10（非实时）</div>
   </div>
 </div>
 
@@ -495,6 +495,18 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普总统对达成核协议表现得并不急迫，因此美国政府似乎正转向一场长期的经济施压运动。" data-title="Trump Signals New Strategy on Iran: A Waiting Game" data-date="11-14 02:20" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-14 02:20</span>
+          <span class="news-item-title">Trump Signals New Strategy on Iran: A Waiting Game</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/026/992.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，据彭博社今天（13 日）深夜报道，微软旗下主要软件服务的恢复工作取得进展。这场大规模故障导致全球多地政府机构、金融交易员和企业业务陷入瘫痪。微软在纽约时间 13 日上午 9 时许（IT之家注：对应北京时间 22 时）发布的通报确认，服务运行情况有所改善，积压邮件数量大幅减少，接近正常水平。但 20 多款产品和服务仍可能出现错误。时间来到当地时间今天上午，用户连续第二天遭遇会议邀请无法送达、网页无响应等问题。微软以往的服务故障很少持续数小时以上。自当地时间 12 日下午故障发生以来，微软几乎每小时都会公布修复进展，包括排查系统故障、将用户流量转移至其他服务器等措施。虽然期间几次出现恢复迹象，但服务状况很快再次恶化。故障原因尚未查明。微软称，部分服务器的一个核心" data-title="大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展" data-date="11-13 23:38" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-13 23:38</span>
+          <span class="news-item-title">大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/026/990.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，当地时间 13 日，联合国气候大会期间，联合国开发计划署署长亚历山大 · 德克罗接受法新社采访时指出，立即采取行动应对厄尔尼诺现象造成的严重影响，所需费用仅为推迟行动的一半。如何筹措资金应对厄尔尼诺现象带来的挑战，是本届大会争论最激烈的议题之一。德克罗说：“如果现在采取行动，应对厄尔尼诺现象需要 360 亿美元（IT之家注：现汇率约合 2,406.63 亿元人民币）。如果什么都不做，代价就会达到 730 亿美元（现汇率约合 4,880.1 亿元人民币），差不多翻一番。所以问题就在于，我们是要未雨绸缪、帮助民众，还是等到后果出现再来承担？”厄尔尼诺现象每隔 2 至 7 年发生一次，通常从春季开始导致太平洋部分海域水温升高，并在随后几个月显著改变全球各地的风向、" data-title="联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍" data-date="11-13 23:21" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -549,41 +561,29 @@ title: 股票财经
           <span class="news-item-date">11-13 21:39</span>
           <span class="news-item-title">十万候鸟“捎信”来 安徽池州深耕冬日研学经济</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="此外，还有周五的新闻测验。" data-title="Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database" data-date="11-13 19:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-13 19:00</span>
-          <span class="news-item-title">Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="黄仁勋光速跌落神坛的事件，让台湾社会对他的崇拜、政治对他的政绩绑定，以及产业对他个人的依赖重新校准。" data-title="“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？" data-date="11-13 17:51" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-13 17:51</span>
           <span class="news-item-title">“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731563.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="APEC第三十三次领导人非正式会议即将在深圳举行。亚太各经济体，今年都在关心什么？记者把历届APEC会议文件、公开数据库和团队前期核实的资料，装进了随身智能采访伙伴“小达”。今天的《亚太之问》，一起来关注“创新”。" data-title="一个AI创意 如何在亚太加快落地？" data-date="11-13 16:51" data-source="中国新闻网">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="BBC卧底调查揭露一场精心策划的骗局，协助富裕移民透过快速通道取得英国永久居留权。" data-title="BBC调查揭英国“全球人才签证”造假产业：中介助移民冒充艺术家及科技专才" data-date="11-13 16:27" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 16:51</span>
-          <span class="news-item-title">一个AI创意 如何在亚太加快落地？</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-13 16:27</span>
+          <span class="news-item-title">BBC调查揭英国“全球人才签证”造假产业：中介助移民冒充艺术家及科技专才</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731562.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网伊斯坦布尔11月13日电(魏园 陈溯 邢奕)当地时间11月12日，“中国-土耳其生态文明与绿色转型对话会”于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其伊斯坦布尔举办。对话会由中国新闻社、习近平生态文明思想研究中心主办，中国新闻网、生态环境部环境与经济政策研究中心协办。这是中国新闻社“新闻会客厅”第二次在土耳其举办系列多边活动，中土两国政府部门、研究机构、企业、媒体等多方代表与会。" data-title="土耳其祖国党副主席：全球能源转型进程中应尊重发展中国家权利 愿土中两国深化合作 | 新闻会客厅" data-date="11-13 16:49" data-source="中国新闻网">
+        <a class="news-item" href="https://www.qbitai.com/2026/11/509730.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="比亚迪第1900万辆新能源汽车在西安工厂正式下线" data-title="比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订" data-date="11-13 15:17" data-source="量子位">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 16:49</span>
-          <span class="news-item-title">土耳其祖国党副主席：全球能源转型进程中应尊重发展中国家权利 愿土中两国深化合作 | 新闻会客厅</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">11-13 15:17</span>
+          <span class="news-item-title">比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731553.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网伊斯坦布尔11月13日电(魏园 王高飞 林卓玮)“绿色产能早已不只是减排工具，而是决定国家长远竞争力的战略资产……谁掌握清洁技术供应链，谁就能拿到未来竞争的入场券。”伊斯坦布尔政策中心高级学者阿尔泰·阿蒂利(Altay Atli)在伊斯坦布尔举行的一场对话会上阐释了绿色转型的战略价值，同时分享了他对土中绿色合作方向的思考。" data-title="土耳其资深学者：绿色产能重塑全球格局 土中合作为新兴经济体提供参考样本 | 新闻会客厅" data-date="11-13 16:40" data-source="中国新闻网">
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Muse 的 AI 现在可以向美国企业拨打出站电话，但这不是免费的。" data-title="Muse can now place calls to US businesses" data-date="11-13 06:22" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 16:40</span>
-          <span class="news-item-title">土耳其资深学者：绿色产能重塑全球格局 土中合作为新兴经济体提供参考样本 | 新闻会客厅</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731552.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="近日，《联合国气候变化框架公约》第三十一次缔约方大会(COP31)“中国角”举行“中国碳达峰碳中和之路”边会。与会的联合国及各国政府官员高度评价中国在落实“双碳”目标、推进绿色低碳转型方面取得的积极进展，认为中国将国家气候目标转化为地方具体行动、以绿色技术创新推动产业转型的实践，为世界各国提供了重要借鉴。" data-title="国际人士：中国绿色转型为世界提供经验" data-date="11-13 16:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 16:35</span>
-          <span class="news-item-title">国际人士：中国绿色转型为世界提供经验</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 06:22</span>
+          <span class="news-item-title">Muse can now place calls to US businesses</span>
         </a>
   </div>
 </div>
@@ -598,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-13 23:35（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-14 03:54（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
