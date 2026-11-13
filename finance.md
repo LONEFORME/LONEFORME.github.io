@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-13 16:51（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-13 23:35（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -134,15 +134,15 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">28,289.19</span>
-      <span class="ticker-change down">▼ -0.30%</span>
+      <span class="ticker-price ticker-down">27,672.59</span>
+      <span class="ticker-change down">▼ -2.18%</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>科技巨头财报韧性</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-13 09:21:48（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-13 23:38:27（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -150,15 +150,15 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6738</span>
+      <span class="ticker-price ticker-up">6.6731</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
-    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg35127" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,30.9 L25.3,38.0 L46.7,12.8 L68.0,7.7 L89.3,18.2 L110.7,8.9 L132.0,13.4 L153.3,6.0 L174.7,8.8 L196.0,8.6 L196,40 Z" fill="url(#sg35127)"/><polyline points="4.0,30.9 25.3,38.0 46.7,12.8 68.0,7.7 89.3,18.2 110.7,8.9 132.0,13.4 153.3,6.0 174.7,8.8 196.0,8.6" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="8.6" r="2.6" fill="#00d47a"/></svg></div>
+    <div class="ticker-sparkline-box"><svg class="ticker-sparkline" viewBox="0 0 200 44" preserveAspectRatio="none" role="img" aria-label="近期走势"><defs><linearGradient id="sg54633" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#00d47a" stop-opacity="0.28"/><stop offset="100%" stop-color="#00d47a" stop-opacity="0.02"/></linearGradient></defs><path d="M4,40 L4.0,30.9 L25.3,38.0 L46.7,12.8 L68.0,7.7 L89.3,18.2 L110.7,8.9 L132.0,13.4 L153.3,6.0 L174.7,8.8 L196.0,9.4 L196,40 Z" fill="url(#sg54633)"/><polyline points="4.0,30.9 25.3,38.0 46.7,12.8 68.0,7.7 89.3,18.2 110.7,8.9 132.0,13.4 153.3,6.0 174.7,8.8 196.0,9.4" fill="none" stroke="#00d47a" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/><circle cx="196.0" cy="9.4" r="2.6" fill="#00d47a"/></svg></div>
     <div class="ticker-footer">
       <span>人民币汇率稳健调升</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:49:39（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:38:25（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -166,15 +166,15 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,890.60 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +13.17 (+0.34%)</span>
+      <span class="ticker-price ticker-down">$3,874.62 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -2.81 (-0.07%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>央行购金与全球避险</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:49:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:38:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -182,15 +182,15 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥837.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -13.12 (-1.54%)</span>
+      <span class="ticker-price ticker-down">¥834.02 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -3.43 (-0.41%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:29:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:30:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -278,15 +278,15 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$95.71 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.11 (-0.11%)</span>
+      <span class="ticker-price ticker-up">$96.38 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.56 (+0.58%)</span>
     </div>
     <div class="ticker-sparkline-box"><span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span></div>
     <div class="ticker-footer">
       <span>全球大宗商品之母</span>
       
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:49:53（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 23:38:28（非实时）</div>
   </div>
 </div>
 
@@ -495,6 +495,72 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/026/990.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，当地时间 13 日，联合国气候大会期间，联合国开发计划署署长亚历山大 · 德克罗接受法新社采访时指出，立即采取行动应对厄尔尼诺现象造成的严重影响，所需费用仅为推迟行动的一半。如何筹措资金应对厄尔尼诺现象带来的挑战，是本届大会争论最激烈的议题之一。德克罗说：“如果现在采取行动，应对厄尔尼诺现象需要 360 亿美元（IT之家注：现汇率约合 2,406.63 亿元人民币）。如果什么都不做，代价就会达到 730 亿美元（现汇率约合 4,880.1 亿元人民币），差不多翻一番。所以问题就在于，我们是要未雨绸缪、帮助民众，还是等到后果出现再来承担？”厄尔尼诺现象每隔 2 至 7 年发生一次，通常从春季开始导致太平洋部分海域水温升高，并在随后几个月显著改变全球各地的风向、" data-title="联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍" data-date="11-13 23:21" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-13 23:21</span>
+          <span class="news-item-title">联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社布鲁塞尔11月13日电 (记者 德永健)“投资中国”比利时、荷兰、卢森堡企业圆桌会13日在布鲁塞尔举行，中国商务部副部长兼国际贸易谈判副代表凌激主持会议，飞利浦、索尔维、安赛乐米塔尔等近30家比荷卢企业及比中经贸委员会等商协会代表参会。" data-title="“投资中国”比荷卢企业圆桌会在布鲁塞尔举行" data-date="11-13 23:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 23:18</span>
+          <span class="news-item-title">“投资中国”比荷卢企业圆桌会在布鲁塞尔举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731855.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社首尔11月13日电 (金旭 陈艺玲)韩国财政经济部当地时间13日发布一项报告称，得益于出口大幅增长、主要经济指标改善，韩国经济总体保持稳健增长。" data-title="韩国财政经济部：韩国经济总体保持“稳健增长”" data-date="11-13 22:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 22:50</span>
+          <span class="news-item-title">韩国财政经济部：韩国经济总体保持“稳健增长”</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/" target="_blank" rel="noopener" data-cat="caijing" data-summary="ElevenAI是一款面向团队和企业的新型会议记录和听写应用程序。" data-title="ElevenLabs’ new app combines meeting note-taking and dictation for teams" data-date="11-13 22:44" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 22:44</span>
+          <span class="news-item-title">ElevenLabs’ new app combines meeting note-taking and dictation for teams</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731850.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网东京11月13日电 据日本福岛电视台报道，日本东京电力公司13日完成福岛第一核电站第25轮核污染水排海，迄今为止累计排放核污染水达19.6万吨。" data-title="日本核污染水排放总量超19万吨" data-date="11-13 22:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 22:33</span>
+          <span class="news-item-title">日本核污染水排放总量超19万吨</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731836.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网德州11月13日电 (记者 孙婷婷)2026黄河—湄公河交流周13日在山东省德州市开幕。东盟国家驻华使节、商协会负责人以及中国沿黄省区代表、重点企业代表等200余人参加。" data-title="2026黄河" data-date="11-13 21:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 21:55</span>
+          <span class="news-item-title">2026黄河</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731825.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月13日电 据重庆市纪委监委消息：经重庆市委批准，重庆市纪委监委对重庆市农业投资集团有限公司原党委书记、董事长何勇严重违纪违法问题进行了立案审查调查。" data-title="重庆市农业投资集团有限公司原党委书记何勇被开除党籍" data-date="11-13 21:48" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 21:48</span>
+          <span class="news-item-title">重庆市农业投资集团有限公司原党委书记何勇被开除党籍</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731750.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳11月13日电 (记者 赵桂华)11月13日，在沈阳市浑南区工程建设项目一站式服务中心，智能踏勘系统里企业提交的踏勘申请正有序流转。依托远程勘验、无人机勘探等数字化手段，企业不用再挨个约多个部门现场核查，在网上点一点就能提交踏勘申请。" data-title="辽宁沈阳：无人机踏勘“云上跑”项目开工“加速跑”" data-date="11-13 21:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 21:39</span>
+          <span class="news-item-title">辽宁沈阳：无人机踏勘“云上跑”项目开工“加速跑”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731774.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网合肥11月13日电 (记者 张强)“候鸟来信·池州冬日奇遇季”推介会13日在合肥举办。" data-title="十万候鸟“捎信”来 安徽池州深耕冬日研学经济" data-date="11-13 21:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 21:39</span>
+          <span class="news-item-title">十万候鸟“捎信”来 安徽池州深耕冬日研学经济</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/13/podcasts/the-headlines/huang-stocks-economy-ice.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="此外，还有周五的新闻测验。" data-title="Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database" data-date="11-13 19:00" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 19:00</span>
+          <span class="news-item-title">Huang’s Downfall Could Shake the Economy, and Detainees Have Disappeared From an ICE Database</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="黄仁勋光速跌落神坛的事件，让台湾社会对他的崇拜、政治对他的政绩绑定，以及产业对他个人的依赖重新校准。" data-title="“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？" data-date="11-13 17:51" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-13 17:51</span>
+          <span class="news-item-title">“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731563.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="APEC第三十三次领导人非正式会议即将在深圳举行。亚太各经济体，今年都在关心什么？记者把历届APEC会议文件、公开数据库和团队前期核实的资料，装进了随身智能采访伙伴“小达”。今天的《亚太之问》，一起来关注“创新”。" data-title="一个AI创意 如何在亚太加快落地？" data-date="11-13 16:51" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -519,72 +585,6 @@ title: 股票财经
           <span class="news-item-date">11-13 16:35</span>
           <span class="news-item-title">国际人士：中国绿色转型为世界提供经验</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="BBC卧底调查揭露一场精心策划的骗局，协助富裕移民透过快速通道取得英国永久居留权。" data-title="BBC调查揭英国“全球人才签证”造假产业：中介助移民冒充艺术家及科技专才" data-date="11-13 16:27" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-13 16:27</span>
-          <span class="news-item-title">BBC调查揭英国“全球人才签证”造假产业：中介助移民冒充艺术家及科技专才</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/807.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，索尼宣布 2002 年在 PS2 推出的初代《瑞奇与叮当 (Ratchet &amp; Clank)》将于今年内登陆 PS5/PS4 平台，不过官方尚未公布具体上线时间。按照 PS Plus 经典游戏通常在每月第三个星期二更新的惯例，12 月 15 日被推测为可能的上线日期。不过这一日期并非 PlayStation 正式公布，平台若调整当月安排，实际时间仍可能发生变化。发行方式方面，PS Plus 高级档会员预计可以通过经典游戏目录下载该作，游戏也可能在 PlayStation Store 单独销售。参考同类 PS2 移植作品，本作定价预计为 9.99 美元（IT之家注：现汇率约合 66.8 元人民币）。" data-title="索尼预告 PS2 平台初代《瑞奇与叮当》今年内登陆 PS5 和 PS4，预计 12 月上线" data-date="11-13 16:24" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 16:24</span>
-          <span class="news-item-title">索尼预告 PS2 平台初代《瑞奇与叮当》今年内登陆 PS5 和 PS4，预计 12 月上线</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/806.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，据外媒 motor1 今天（13 日）报道，宝马将自行研发模拟换挡系统，计划明年率先在 i3 M60 xDrive 上推出。几年前，现代汽车在 IONIQ 5 N 上推出这项技术时，宝马还觉得这是一个“有趣的噱头”。宝马没有使用传统的“挡位”概念，而是将不同的模拟挡位称为“Stages”。在全新 3 系和 i3 的国际发布活动上，宝马高级车辆动态工程师克里斯蒂安 · 海斯回顾了公司最初对模拟换挡的态度：“我们以前就见过这项技术，比如现代汽车。当时我们觉得，这不就是个有趣的噱头吗？都到了纯电时代，为什么还要模仿燃油车？”最终，负责车辆动态性能开发的工程师说服了其他同事，证明模拟换挡并非只是为了让纯电车型开起来像燃油车。该技术的一项实际用途，是帮助驾驶员在赛道上" data-title="真香：宝马要给 i3 M60 装上模拟换挡系统，此前曾称其是“噱头”" data-date="11-13 16:24" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 16:24</span>
-          <span class="news-item-title">真香：宝马要给 i3 M60 装上模拟换挡系统，此前曾称其是“噱头”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/805.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，据日媒 ITMedia 报道，日本滋贺县甲贺市通报当地语音广播系统服务器于 11 月 12 日遭到勒索软件攻击，导致户外扩音器和家庭语音广播终端无法使用。市政府将改用官方 LINE 账号、电视和广播等渠道传递相关信息。公开信息显示，甲贺市在全市 229 个地点设置了户外扩音器，平时会在正午等固定时段播放旋律报时，发生紧急情况时则会与家庭语音广播终端配合，播报避难信息等内容。外媒表示，此次黑客攻击事件导致户外扩音器及当地防灾系统联动的家庭语音广播终端出现故障，目前所有紧急信息、行政通知、报时旋律、讣告信息等服务均已暂停。目前相关服务尚无明确的恢复时间表，甲贺市当前正在调查语音广播终端登记用户的姓名及企业名称等信息是否遭到泄露，后续官方将在确认信息泄露情况及服务" data-title="日本滋贺县甲贺市紧急信息语音广播系统遭黑客攻击，当地户外扩音器防灾服务紧急暂停" data-date="11-13 16:19" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 16:19</span>
-          <span class="news-item-title">日本滋贺县甲贺市紧急信息语音广播系统遭黑客攻击，当地户外扩音器防灾服务紧急暂停</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731523.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网武汉11月13日电 (记者 马芙蓉)“高水平建设武汉区域科技创新中心”离不开科技创新、产业创新和金融创新深度融合(下称“三创”深度融合)。湖北省政协十三届十三次常委会会议13日开幕，与会政协委员聚焦促进“三创”深度融合建言献策。" data-title="聚焦科技产业金融创新融合 湖北省政协集智献策" data-date="11-13 16:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 16:06</span>
-          <span class="news-item-title">聚焦科技产业金融创新融合 湖北省政协集智献策</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/803.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，彭博社北京时间今日援引 The Information 报道称，字节跳动在致投资者信中表示，该企业计划进行新一轮 60 亿美元股票回购。字节跳动此轮回购价为每股 241.35 美元，对应 4,000 亿美元（IT之家注：现汇率约合 2.67 万亿元人民币）的整体估值。这一数额相较一年前上轮回购时的水平高出 20%。知情人士透露，字节跳动还提议将“上市或授予外部股东出售全部持股的权利”的截止日期推迟四年至 2030 年 12 月 11 日；该企业还在文件中详细描述了向 AI 部门员工提供总计 3 亿股与 AI 业务价值挂钩的股份的计划。" data-title="消息称字节跳动规划新一轮股票回购，4000 亿美元估值较去年增长两成" data-date="11-13 16:05" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 16:05</span>
-          <span class="news-item-title">消息称字节跳动规划新一轮股票回购，4000 亿美元估值较去年增长两成</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/800.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，据央视财经今日报道，长期以来，国内近视手术大多依赖进口设备，做手术的患者都要缴纳一笔“开机费”，综合治疗费用很高。如今，国产全飞秒设备已进入临床试验阶段。未来，飞秒手术的价格将更亲民。另据“仙居发布”消息，国内首款飞秒激光角膜屈光治疗机已进入临床试验阶段，预计明年 6 月完成临床并正式上市。国产设备单眼激光扫描仅需 9 秒左右，切削精度可达到国际先进水平，有望打破进口设备垄断，免去相关隐性成本，让近视矫正费用更加亲民。国家卫健委数据显示，我国近视人群超 6 亿。全飞激光手术可通过全飞屈光矫正仪在角膜基质层内切出并取出一个微透镜，从而改变角膜曲率、矫正视力，相比半飞秒等手术更安全。一场全飞激光手术费用通常在 2 万元左右。但目前，全球只有蔡司等少数公司生产全飞" data-title="国产全飞秒设备进入临床试验阶段，未来近视手术有望降价" data-date="11-13 15:55" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 15:55</span>
-          <span class="news-item-title">国产全飞秒设备进入临床试验阶段，未来近视手术有望降价</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731234.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月13日电 综合报道，当地时间11月12日，美国企业家马斯克在社交媒体平台回应网友请他聘用黄仁勋时表示：“那将是我的荣幸”。" data-title="马斯克：招揽黄仁勋将是我的荣幸" data-date="11-13 00:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 00:28</span>
-          <span class="news-item-title">马斯克：招揽黄仁勋将是我的荣幸</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731184.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月12日电 当地时间11月10日，“生态文明与美丽中国实践”主题边会于《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间在土耳其安塔利亚举办。边会由生态环境部指导，习近平生态文明思想研究中心、中国新闻社主办，生态环境部环境与经济政策研究中心、中国新闻网协办。这是中国新闻社“新闻会客厅”首次在土耳其举办系列活动。" data-title="中新社“新闻会客厅”在土耳其迎来首批国际客人" data-date="11-12 23:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 23:18</span>
-          <span class="news-item-title">中新社“新闻会客厅”在土耳其迎来首批国际客人</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/" target="_blank" rel="noopener" data-cat="caijing" data-summary="这是该投资公司迄今为止规模最大的基金。" data-title="Norwest pushes deeper into AI with new $4B fund" data-date="11-12 23:18" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-12 23:18</span>
-          <span class="news-item-title">Norwest pushes deeper into AI with new $4B fund</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/433.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 12 日消息，上海联合产权交易所显示，重庆长安汽车股份有限公司今日挂牌转让持有的阿维塔科技（重庆）股份有限公司 10% 股权，交易价格为 31.828 亿元，披露结束时间为 12 月 10 日。交易完成后，长安汽车仍为阿维塔第一大股东。IT之家附阿维塔目前股东与持股比例如下：股东名称持股比例 (%)重庆长安汽车股份有限公司40.994宁德时代新能源科技股份有限公司9.1742重庆安渝私募股权投资基金合伙企业 (有限合伙)8.8068重庆承安私募股权投资基金合伙企业 (有限合伙)7.2717南方工业资产管理有限责任公司6.3439交银金融资产投资有限公司3.3446国家绿色发展基金股份有限公司2.9046上海智悦新途一号企业管理合伙企业（有限合伙）1.8815杭州产投集团有" data-title="长安汽车拟挂牌转让阿维塔 10% 股权，交易价格约 32 亿元" data-date="11-12 23:15" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 23:15</span>
-          <span class="news-item-title">长安汽车拟挂牌转让阿维塔 10% 股权，交易价格约 32 亿元</span>
-        </a>
   </div>
 </div>
 
@@ -598,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-13 16:51（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-13 23:35（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
