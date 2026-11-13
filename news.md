@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-13 04:11 抓取更新</span>
+      <span>2026-11-13 16:51 抓取更新</span>
     </div>
   </div>
 
@@ -61,46 +61,45 @@ title: 热点新闻
 </div>
 <div class="news-overview-bar">
   <div class="ov-item"><span class="ov-num">57</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">纽约时报×10 · 中国新闻网×10</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×19 · 天空体育×12</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="社交媒体上的这一声明加深了人们对总统结束战争的计划的疑问。“我们不需要与伊朗达成协议，”他写道。" data-title="Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign" data-date="11-13 03:38" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/11-13/10731548.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网伊斯坦布尔11月13日电(魏园 王高飞 吴辛茹)“在气候协作与伙伴关系当中，全球南方国家必须成为共建者。”联合国环境规划署(UNEP)臭氧行动处前处长拉杰德拉·山地(Rajendra Shende)表示，全球南方国家应构建重在落地的伙伴关系，切实把气候承诺转化为行动成果。" data-title="联合国环境规划署前官员：“全球南方接受气候援助”这一认知已过时，期待携手推动气候治理｜新闻会客厅" data-date="11-13 16:36" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 11-13 03:38</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 11-13 16:36</span>
       </div>
-      <h2 class="hero-featured-title">特朗普表示，他将让万斯退出伊朗谈判，以专注于选举舞弊问题</h2>
-      <div class="hero-featured-title-en">Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign</div>
+      <h2 class="hero-featured-title">联合国环境规划署前官员：“全球南方接受气候援助”这一认知已过时，期待携手推动气候治理｜新闻会客厅</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery" target="_blank" rel="noopener" data-cat="keji" data-summary="本周早些时候，谷歌研究员Pietro Miotti声称，在人工智能代理团队的协助下，他发现了墨西哥一处可能尚未被标注在地图上的玛雅遗址。只有一个问题：该遗址早已被发现，并发表在学术期刊上。" data-title="No, AI agents did not discover a previously unknown Maya site" data-date="11-13 03:42" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.chinanews.com.cn/gn/2026/11-13/10731540.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网北京11月13日电 (记者 孙自法)大脑中的导航系统是如何实时对手部等肢体运动进行定位的？这一神经科学领域的重要研究方向，对人工智能(AI)发展尤其是脑机接口技术研发应用至为关键，因此备受关注。" data-title="中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发" data-date="11-13 16:33" data-source="中国新闻网">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-theverge">🌐 The Verge</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
       </div>
-      <p class="hero-sub-title">No, AI agents did not discover a previously unknown Maya site</p>
+      <p class="hero-sub-title">中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="据天空体育新闻报道，曼联高层在毛里西奥·波切蒂诺被切尔西解雇后不久，即两年前与他进行了会面，并考虑让他接替埃里克·滕哈格。" data-title="Inside Man Utd&#39;s pursuit of Pochettino" data-date="11-13 01:00" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/news/11661/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester United captain Bruno Fernandes has rejected a second contract offer from the club, with his current deal due to expire at the end of the season." data-title="Fernandes rejects second Man Utd contract offer" data-date="11-13 07:39" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">Inside Man Utd's pursuit of Pochettino</p>
+      <p class="hero-sub-title">Fernandes rejects second Man Utd contract offer</p>
     </a>
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="前一刻，一栋公寓楼还巍然耸立。下一刻，它就塌陷成了一个大坑。随后是毁灭和死亡。" data-title="A Frantic Search for Survivors in the Brooklyn Building Collapse" data-date="11-13 03:43" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.skysports.com/cricket/news/12040/13611802/england-crumble-against-australia-in-perth-again-as-mitchell-marshs-side-win-first-odi-amid-sandpapergate-storm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="England capitulated in Perth for the second year running as an Australia side engulfed by the &#39;Sandpapergate&#39; storm cruised to a seven-wicket victory in a series-opening ODI in which debutant Mahli Beardman recorded a six-wicket haul." data-title="England crumble in Perth again as Australia win first ODI amid sandpaper storm" data-date="11-13 16:40" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">A Frantic Search for Survivors in the Brooklyn Building Collapse</p>
+      <p class="hero-sub-title">England crumble in Perth again as Australia win first ODI amid sandpaper storm</p>
     </a>
   </div>
 </div>
@@ -111,6 +110,97 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731548.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网伊斯坦布尔11月13日电(魏园 王高飞 吴辛茹)“在气候协作与伙伴关系当中，全球南方国家必须成为共建者。”联合国环境规划署(UNEP)臭氧行动处前处长拉杰德拉·山地(Rajendra Shende)表示，全球南方国家应构建重在落地的伙伴关系，切实把气候承诺转化为行动成果。" data-title="联合国环境规划署前官员：“全球南方接受气候援助”这一认知已过时，期待携手推动气候治理｜新闻会客厅" data-date="11-13 16:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:36</span>
+          <span class="news-item-title">联合国环境规划署前官员：“全球南方接受气候援助”这一认知已过时，期待携手推动气候治理｜新闻会客厅</span>
+          <span class="news-value-point">💡 中新网伊斯坦布尔11月13日电(魏园 王高飞 吴辛茹)“在气候协作与伙伴关系当中，全球南方国家必须成为共建者</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731551.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="APEC朋友圈丨中俄研究者贝加尔湖畔携手探索地球奥秘" data-title="中俄研究者贝加尔湖畔携手探索地球奥秘" data-date="11-13 16:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:33</span>
+          <span class="news-item-title">中俄研究者贝加尔湖畔携手探索地球奥秘</span>
+          <span class="news-value-point">💡 APEC朋友圈丨中俄研究者贝加尔湖畔携手探索地球奥秘</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731545.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="如果要在中国国际进口博览会超过44万平方米的展区中，挑一件最不容错过的展品，它并不陈列在展台上。" data-title="打包也带不走！进博会最有价值的一件“展品”……" data-date="11-13 16:27" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:27</span>
+          <span class="news-item-title">打包也带不走！进博会最有价值的一件“展品”……</span>
+          <span class="news-value-point">💡 如果要在中国国际进口博览会超过44万平方米的展区中，挑一件最不容错过的展品，它并不陈列在展台上</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731536.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》鲜明指出，全面从严治党面临许多新情况新问题，对党在新形势下的执政能力、领导水平、队伍素质、拒腐防变带来重大挑战。这是我们党首次提出“四大挑战”。对此，需要全面加以理解。" data-title="新华漫说丨党在新形势下的“四大挑战”" data-date="11-13 16:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:23</span>
+          <span class="news-item-title">新华漫说丨党在新形势下的“四大挑战”</span>
+          <span class="news-value-point">💡 《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》鲜明指出，全面从严治党面临许多新情况新问题，对党在新形势下的执政能力、领导水平、队伍素…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731530.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月13日电 13日，国家卫生健康委召开新闻发布会，介绍时令节气与健康(立冬、小雪)有关情况。国家卫生健康委新闻发言人、宣传司副司长杨金瑞在会上指出，我国严禁任何形式代孕。组织代孕属于违法犯罪行为，将面临法律严惩，违背伦理道德。" data-title="国家卫健委：我国严禁任何形式代孕 组织代孕属于违法犯罪行为" data-date="11-13 16:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:23</span>
+          <span class="news-item-title">国家卫健委：我国严禁任何形式代孕 组织代孕属于违法犯罪行为</span>
+          <span class="news-value-point">💡 中新网11月13日电 13日，国家卫生健康委召开新闻发布会，介绍时令节气与健康(立冬、小雪)有关情况</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731522.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月13日电 据国家疾控局网站消息，为进一步加强公共场所卫生监督量化分级管理工作，提升事中事后监管的科学性、精准性，根据公共场所卫生管理相关法律法规要求，13日，国家疾病预防控制局发布《公共场所卫生监督量化分级管理指南》。文件自2027年1月1日起实施。此前发布的有关公共场所卫生监督量化分级的工作文件与本文件不一致的，按该文件执行。" data-title="新版《公共场所卫生监督量化分级管理指南》发布 2027年起正式实施" data-date="11-13 16:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:06</span>
+          <span class="news-item-title">新版《公共场所卫生监督量化分级管理指南》发布 2027年起正式实施</span>
+          <span class="news-value-point">💡 中新网11月13日电 据国家疾控局网站消息，为进一步加强公共场所卫生监督量化分级管理工作，提升事中事后监管的科学性、精准性，根据公共场所卫生管理…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731477.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网马尼拉11月13日电 菲律宾国家警察总局12日表示，为确保第49届东盟峰会及系列会议安全举行，于13日零时起对部分警力实施全面戒备状态，以加强峰会主要活动区域及相关交通路线的安全保卫工作。" data-title="菲律宾启动东盟峰会安保戒备 逾2.3万安保人员部署到位" data-date="11-13 15:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 15:26</span>
+          <span class="news-item-title">菲律宾启动东盟峰会安保戒备 逾2.3万安保人员部署到位</span>
+          <span class="news-value-point">💡 中新网马尼拉11月13日电 菲律宾国家警察总局12日表示，为确保第49届东盟峰会及系列会议安全举行，于13日零时起对部分警力实施全面戒备状态，以…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731499.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月13日电 近日，日本执政党自民党及其执政伙伴日本维新会就修订“安保三文件”启动了实务层面磋商。日本《赤旗报》13日批评称，谋求修改“无核三原则”是增加核战争风险的鲁莽行径。" data-title="日媒呼吁坚持“无核三原则” 反对高市政府鲁莽行径" data-date="11-13 15:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 15:21</span>
+          <span class="news-item-title">日媒呼吁坚持“无核三原则” 反对高市政府鲁莽行径</span>
+          <span class="news-value-point">💡 中新网11月13日电 近日，日本执政党自民党及其执政伙伴日本维新会就修订“安保三文件”启动了实务层面磋商</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win." data-title="Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader" data-date="11-13 12:11" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 12:11</span>
+          <span class="news-item-title">Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader</span>
+          <span class="news-value-point">💡 Senator Chris Van Hollen of Maryland has emerged as a favorite of Democr…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731357.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月13日电 综合消息：伊朗专家会议当地时间12日发表声明，呼吁有关部门审议退出《不扩散核武器条约》。" data-title="伊朗专家会议呼吁审议退出《不扩散核武器条约》" data-date="11-13 11:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 11:57</span>
+          <span class="news-item-title">伊朗专家会议呼吁审议退出《不扩散核武器条约》</span>
+          <span class="news-value-point">💡 中新社北京11月13日电 综合消息：伊朗专家会议当地时间12日发表声明，呼吁有关部门审议退出《不扩散核武器条约》</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731394.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="12日，日本多个民间团体在东京众议院第二议员会馆前举行抗议集会，反对高市政权推动修宪扩军等相关动向。集会参加者表示，近期高市政权讨论修改“安保三文件”以及不断推动修改日本宪法等举动令人担忧，日本绝不能再次走上战争道路。" data-title="日本民间团体举行集会 反对高市政权修宪扩军" data-date="11-13 11:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 11:41</span>
+          <span class="news-item-title">日本民间团体举行集会 反对高市政权修宪扩军</span>
+          <span class="news-value-point">💡 12日，日本多个民间团体在东京众议院第二议员会馆前举行抗议集会，反对高市政权推动修宪扩军等相关动向</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731385.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="日本正在加速谋划年内对“安保三文件”进行修订。据日本方面12日消息，日本政府计划将所谓“集体韧性”的理念写入“安保三文件”之一的《国家安全保障战略》。" data-title="日本政府计划将“集体韧性”写入安保战略 进一步恶化地区环境" data-date="11-13 11:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 11:29</span>
+          <span class="news-item-title">日本政府计划将“集体韧性”写入安保战略 进一步恶化地区环境</span>
+          <span class="news-value-point">💡 日本正在加速谋划年内对“安保三文件”进行修订</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="State Senator Cindy Holscher won the race. Though Kansas is reliably Republican in presidential elections, its voters often break for Democrats in midterms." data-title="Holscher Wins Kansas Governor Race, Retaining Seat for Democrats" data-date="11-13 07:16" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 07:16</span>
+          <span class="news-item-title">Holscher Wins Kansas Governor Race, Retaining Seat for Democrats</span>
+          <span class="news-value-point">💡 State Senator Cindy Holscher won the race. Though Kansas is reliably Rep…</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="社交媒体上的这一声明加深了人们对总统结束战争的计划的疑问。“我们不需要与伊朗达成协议，”他写道。" data-title="Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign" data-date="11-13 03:38" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -127,100 +217,6 @@ title: 热点新闻
           <span class="news-item-title-en">Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed</span>
           <span class="news-value-point">💡 新加坡在一份声明中表示，在特朗普总统被告知黄静是间谍的数月后，新加坡才扣留了她的护照</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="众议院两个关键委员会发出的信函要求公司和官员不要销毁文件。" data-title="Democrats Put Targets on Notice as Trump Oversight Takes Shape" data-date="11-13 02:07" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-13 02:07</span>
-          <span class="news-item-title">随着特朗普监督工作的成形，民主党人向目标发出警告</span>
-          <span class="news-item-title-en">Democrats Put Targets on Notice as Trump Oversight Takes Shape</span>
-          <span class="news-value-point">💡 众议院两个关键委员会发出的信函要求公司和官员不要销毁文件</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731229.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间11月12日，美国方面消息称，美国华盛顿特区当天凌晨发生多起枪击事件，共有4人中枪。事发地点距离白宫约1.6公里。" data-title="美国华盛顿特区发生多起枪击事件 4人中枪" data-date="11-12 22:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:30</span>
-          <span class="news-item-title">美国华盛顿特区发生多起枪击事件 4人中枪</span>
-          <span class="news-value-point">💡 当地时间11月12日，美国方面消息称，美国华盛顿特区当天凌晨发生多起枪击事件，共有4人中枪</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731227.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社马尼拉11月12日电 (记者 周璟)据菲律宾警方12日通报，首都马尼拉街头当天中午发生一起警匪交火事件，造成两名嫌疑人死亡，另有一名警察受伤。" data-title="菲律宾马尼拉街头发生警匪交火 致两死一伤" data-date="11-12 22:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:27</span>
-          <span class="news-item-title">菲律宾马尼拉街头发生警匪交火 致两死一伤</span>
-          <span class="news-value-point">💡 中新社马尼拉11月12日电 (记者 周璟)据菲律宾警方12日通报，首都马尼拉街头当天中午发生一起警匪交火事件，造成两名嫌疑人死亡，另有一名警察受…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731226.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月12日电 (记者 陈杭)北京将在东部地区，统筹推进第四使馆区重点项目建设，把金盏国际合作服务区打造成为首都国际化发展新地标；强化首都国际机场国际航空枢纽门户功能，依托首都国际会展中心加快建设具有全球影响力的国际会展集聚区。" data-title="北京将推进第四使馆区重点项目建设" data-date="11-12 22:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:27</span>
-          <span class="news-item-title">北京将推进第四使馆区重点项目建设</span>
-          <span class="news-value-point">💡 中新社北京11月12日电 (记者 陈杭)北京将在东部地区，统筹推进第四使馆区重点项目建设，把金盏国际合作服务区打造成为首都国际化发展新地标</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在图加卢学院，支持者们为斯科特·科洛姆的胜利载歌载舞，喜极而泣。他将成为重建时期以来密西西比州首位黑人联邦参议员。" data-title="In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win" data-date="11-12 22:14" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 22:14</span>
-          <span class="news-item-title">在密西西比州，斯科特·科洛姆的支持者庆祝历史性的参议院胜利</span>
-          <span class="news-item-title-en">In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win</span>
-          <span class="news-value-point">💡 在图加卢学院，支持者们为斯科特·科洛姆的胜利载歌载舞，喜极而泣</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-12/10731223.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月12日电 据美国福克斯新闻11日援引以色列媒体报道，美国总统特朗普与以色列总理内塔尼亚胡上周末在一次电话交谈中爆发了“地狱般的激烈争吵”，双方就是否重启对伊朗的军事行动发生激烈冲突。" data-title="外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”" data-date="11-12 22:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:11</span>
-          <span class="news-item-title">外媒：特朗普与内塔尼亚胡在交谈中爆发“地狱般的争吵”</span>
-          <span class="news-value-point">💡 中新网11月12日电 据美国福克斯新闻11日援引以色列媒体报道，美国总统特朗普与以色列总理内塔尼亚胡上周末在一次电话交谈中爆发了“地狱般的激烈争…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731216.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月12日电 题：纪念中山先生，中华儿女要交三份答卷" data-title="评论：纪念中山先生，中华儿女要交三份答卷" data-date="11-12 22:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:07</span>
-          <span class="news-item-title">评论：纪念中山先生，中华儿女要交三份答卷</span>
-          <span class="news-value-point">💡 中新社北京11月12日电 题：纪念中山先生，中华儿女要交三份答卷</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731217.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月12日电 题：学者析习近平重要讲话涉台内容：突出“团结” 释放善意" data-title="学者析习近平重要讲话涉台内容：突出“团结” 释放善意" data-date="11-12 22:07" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:07</span>
-          <span class="news-item-title">学者析习近平重要讲话涉台内容：突出“团结” 释放善意</span>
-          <span class="news-value-point">💡 中新社北京11月12日电 题：学者析习近平重要讲话涉台内容：突出“团结” 释放善意</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731211.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月12日电 (燕新台)台湾资深音乐人罗大佑近日接受台湾媒体人唐湘龙节目专访时“火力全开”，痛批民进党当局拿到权力后整个变样，直言“不要脸”。对此，岛内舆论认为罗大佑的发言“振聋发聩”，展现了文化人的风骨。" data-title="罗大佑怒批民进党当局引发岛内共鸣" data-date="11-12 22:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 22:01</span>
-          <span class="news-item-title">罗大佑怒批民进党当局引发岛内共鸣</span>
-          <span class="news-value-point">💡 中新网11月12日电 (燕新台)台湾资深音乐人罗大佑近日接受台湾媒体人唐湘龙节目专访时“火力全开”，痛批民进党当局拿到权力后整个变样，直言“不要…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731193.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网西安11月12日电 (记者 张一辰 杨英琦)12日，2026年全国基层思想政治工作创新经验交流展示活动在西安举办，集中展示了全国基层思想政治工作守正创新的生动实践和丰硕成果。" data-title="全国基层思政创新经验交流展示活动西安启幕" data-date="11-12 21:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 21:47</span>
-          <span class="news-item-title">全国基层思政创新经验交流展示活动西安启幕</span>
-          <span class="news-value-point">💡 中新网西安11月12日电 (记者 张一辰 杨英琦)12日，2026年全国基层思想政治工作创新经验交流展示活动在西安举办，集中展示了全国基层思想政…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731136.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社香港/澳门11月12日电 题：港澳各界人士：继承发扬中山精神，为民族复兴贡献力量" data-title="港澳各界人士：继承发扬中山精神，为民族复兴贡献力量" data-date="11-12 20:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 20:58</span>
-          <span class="news-item-title">港澳各界人士：继承发扬中山精神，为民族复兴贡献力量</span>
-          <span class="news-value-point">💡 中新社香港/澳门11月12日电 题：港澳各界人士：继承发扬中山精神，为民族复兴贡献力量</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-12/10731134.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社南京11月12日电 (记者 朱晓颖)江苏省暨南京市各界人士140余人12日在南京中山陵举行谒陵仪式，纪念孙中山先生诞辰160周年。" data-title="孙中山诞辰160周年 江苏省暨南京市各界人士拜谒中山陵" data-date="11-12 20:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-12 20:55</span>
-          <span class="news-item-title">孙中山诞辰160周年 江苏省暨南京市各界人士拜谒中山陵</span>
-          <span class="news-value-point">💡 中新社南京11月12日电 (记者 朱晓颖)江苏省暨南京市各界人士140余人12日在南京中山陵举行谒陵仪式，纪念孙中山先生诞辰160周年</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="检察官科洛姆先生将成为自南北战争后的重建时期以来密西西比州首位当选的黑人参议员。" data-title="Scott Colom, a Democrat, Wins Mississippi Senate Election" data-date="11-12 17:11" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-12 17:11</span>
-          <span class="news-item-title">民主党人斯科特·科洛姆赢得密西西比州参议院选举</span>
-          <span class="news-item-title-en">Scott Colom, a Democrat, Wins Mississippi Senate Election</span>
-          <span class="news-value-point">💡 检察官科洛姆先生将成为自南北战争后的重建时期以来密西西比州首位当选的黑人参议员</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -228,6 +224,91 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731540.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网北京11月13日电 (记者 孙自法)大脑中的导航系统是如何实时对手部等肢体运动进行定位的？这一神经科学领域的重要研究方向，对人工智能(AI)发展尤其是脑机接口技术研发应用至为关键，因此备受关注。" data-title="中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发" data-date="11-13 16:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:33</span>
+          <span class="news-item-title">中国团队揭示大脑三维空间实时导航系统 助力新一代脑机接口研发</span>
+          <span class="news-value-point">💡 中新网北京11月13日电 (记者 孙自法)大脑中的导航系统是如何实时对手部等肢体运动进行定位的</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/026/801.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 13 日消息，据央视新闻报道，11 月 13 日，2026 世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型，为全球中文学习者、教师和教育机构提供智能化服务。面向全球中文学习者，模型可提供即时反馈的学习评测、随问随答的个性化辅导；面向教师，支持在多轮对话中快速生成覆盖课前备课、课堂互动、课后巩固的教学素材，提升教学效率；面向全球中文教育机构，提供标准化接口，连接各方、赋能应用，让数智化创新在更多教学场景落地生根。IT之家从该报道中获悉，该模型将人工智能技术与国际中文教育实际需求相结合，深度融入专业知识、教学规律与真实场景，专项适配教与学各个环节，推动优质教学资源与智能服务共享，助力国际中文教育数智化发展。" data-title="国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务" data-date="11-13 16:01" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-13 16:01</span>
+          <span class="news-item-title">国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务</span>
+          <span class="news-value-point">💡 IT之家 11 月 13 日消息，据央视新闻报道，11 月 13 日，2026 世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型，为全…</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmn80j4vnj1jo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="美国议员现在想就他被指控的其中一段关系是否与中国间谍有关对他进行质询。" data-title="深陷丑闻的黄仁勋辞职，AI芯片巨头Nvidia陷入动荡" data-date="11-13 12:33" data-source="BBC">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-13 12:33</span>
+          <span class="news-item-title">深陷丑闻的黄仁勋辞职，AI芯片巨头Nvidia陷入动荡</span>
+          <span class="news-value-point">💡 美国议员现在想就他被指控的其中一段关系是否与中国间谍有关对他进行质询</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html" target="_blank" rel="noopener" data-cat="keji" data-summary="The president called the Nvidia chief on Tuesday, continuing a pattern of supporting him even as the spy scandal was intensifying." data-title="Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job" data-date="11-13 11:27" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 11:27</span>
+          <span class="news-item-title">Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job</span>
+          <span class="news-value-point">💡 The president called the Nvidia chief on Tuesday, continuing a pattern o…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Critics say Howard Lutnick, the commerce secretary, and his department have shielded Nvidia as concerns have grown over A.I. chip sales to firms like Megaspeed." data-title="Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew" data-date="11-13 09:28" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-13 09:28</span>
+          <span class="news-item-title">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew</span>
+          <span class="news-value-point">💡 Critics say Howard Lutnick, the commerce secretary, and his department h…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang" target="_blank" rel="noopener" data-cat="keji" data-summary="Jensen Huang resigned this morning as Nvidia&#39;s CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one person he thinks should take over the chipmaking giant: former Apple CEO Tim […]" data-title="Donald Trump really wants Tim Cook to run Nvidia" data-date="11-13 08:46" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 08:46</span>
+          <span class="news-item-title">Donald Trump really wants Tim Cook to run Nvidia</span>
+          <span class="news-value-point">💡 Jensen Huang resigned this morning as Nvidia's CEO following reports of …</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/" target="_blank" rel="noopener" data-cat="keji" data-summary="This Congressional investigation into Nvidia&#39;s China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke." data-title="Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump" data-date="11-13 06:42" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 06:42</span>
+          <span class="news-item-title">Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump</span>
+          <span class="news-value-point">💡 This Congressional investigation into Nvidia's China sales and its deali…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen" target="_blank" rel="noopener" data-cat="keji" data-summary="Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including &quot;questions with multiple parts, hard-to-understand typos, or highly specific requests.&quot; The new model can break down your questions and address each part in its responses. It&#39;s available starting today in search, the Gemini app, all tiers of Go" data-title="Google’s new Gemini model is better at understanding complicated questions" data-date="11-13 05:55" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 05:55</span>
+          <span class="news-item-title">Google’s new Gemini model is better at understanding complicated questions</span>
+          <span class="news-value-point">💡 Google says its new Gemini 4 Hydrogen model can give more helpful answer…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions" target="_blank" rel="noopener" data-cat="keji" data-summary="Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were &quot;close&quot; before other […]" data-title="‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation" data-date="11-13 05:45" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-13 05:45</span>
+          <span class="news-item-title">‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</span>
+          <span class="news-value-point">💡 Nvidia announced this morning that Jensen Huang has resigned as CEO foll…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/" target="_blank" rel="noopener" data-cat="keji" data-summary="Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。" data-title="The unfolding Jensen Huang scandal: a timeline" data-date="11-13 05:35" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 05:35</span>
+          <span class="news-item-title">正在发酵的黄仁勋丑闻：时间线</span>
+          <span class="news-item-title-en">The unfolding Jensen Huang scandal: a timeline</span>
+          <span class="news-value-point">💡 Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/" target="_blank" rel="noopener" data-cat="keji" data-summary="Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model." data-title="Nebius tests the neocloud playbook with $40 billion in planned spending" data-date="11-13 05:27" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 05:27</span>
+          <span class="news-item-title">Nebius tests the neocloud playbook with $40 billion in planned spending</span>
+          <span class="news-value-point">💡 Nebius plans to fund its $40 billion AI infrastructure expansion through…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/" target="_blank" rel="noopener" data-cat="keji" data-summary="Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia." data-title="Jensen Huang was having a third affair, Reuters reports" data-date="11-13 04:26" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-13 04:26</span>
+          <span class="news-item-title">Jensen Huang was having a third affair, Reuters reports</span>
+          <span class="news-value-point">💡 Reuters is withholding the name of the new employee linked to Huang, but…</span>
+        </a>
         <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery" target="_blank" rel="noopener" data-cat="keji" data-summary="本周早些时候，谷歌研究员Pietro Miotti声称，在人工智能代理团队的协助下，他发现了墨西哥一处可能尚未被标注在地图上的玛雅遗址。只有一个问题：该遗址早已被发现，并发表在学术期刊上。" data-title="No, AI agents did not discover a previously unknown Maya site" data-date="11-13 03:42" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
@@ -252,100 +333,6 @@ title: 热点新闻
           <span class="news-item-title-en">Nectar launches an AI agent to automate creator discovery and outreach for brands</span>
           <span class="news-value-point">💡 Nectar 的新版 AI 代理可实现网红营销自动化，帮助品牌发现创作者、管理推广和合作关系，并跟踪营销活动的效果</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html" target="_blank" rel="noopener" data-cat="keji" data-summary="该公司的首席财务官克雷斯女士于2013年加入英伟达。" data-title="Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?" data-date="11-13 02:54" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-13 02:54</span>
-          <span class="news-item-title">接替黄仁勋担任英伟达临时首席执行官的科莱特·克雷斯是谁？</span>
-          <span class="news-item-title-en">Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?</span>
-          <span class="news-value-point">💡 该公司的首席财务官克雷斯女士于2013年加入英伟达</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/" target="_blank" rel="noopener" data-cat="keji" data-summary="随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导。" data-title="Jensen Huang’s exit puts Nvidia’s support for open source in question" data-date="11-13 02:39" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-13 02:39</span>
-          <span class="news-item-title">黄仁勋的离职使人们对英伟达对开源的支持产生疑问</span>
-          <span class="news-item-title-en">Jensen Huang’s exit puts Nvidia’s support for open source in question</span>
-          <span class="news-value-point">💡 随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/446.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 13 日消息，谷歌正式推出 Gemini 4 Hydrogen 模型，主打快速执行与高效运行，面向日常编码和智能体工作流场景，将 Gemini 4 系列能力全面下放至所有层级用户。输入：每百万 Tokens 1.50 美元（IT之家注：现汇率约合 10.0 元人民币）输出：每百万 Tokens 7.50 美元（现汇率约合 50.1 元人民币）该定价覆盖全 100 万 Token 上下文窗口，无分段阶梯计价。在 Artificial Analysis 智能指数中，Hydrogen 默认高思考档位得分 51，高于 Gemini 4 Argon 的 50，最高 xhigh 档位可达 54，同时任务完成速度常优于同级别模型。谷歌同步推出 Orchestrator 智能调度功能，内" data-title="谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元" data-date="11-13 02:17" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 02:17</span>
-          <span class="news-item-title">谷歌发布 Gemini 4 Hydrogen 模型：主打日常编程与智能体工作流，百万 Token 输入 1.5 美元</span>
-          <span class="news-value-point">💡 IT之家 11 月 13 日消息，谷歌正式推出 Gemini 4 Hydrogen 模型，主打快速执行与高效运行，面向日常编码和智能体工作流场景…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html" target="_blank" rel="noopener" data-cat="keji" data-summary="尽管大盘小幅上涨，但芯片制造商英伟达的首席执行官黄仁勋辞职的消息还是导致该公司股价下跌。" data-title="Nvidia Stock Plunges After Jensen Huang Resigns as CEO" data-date="11-13 02:09" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-13 02:09</span>
-          <span class="news-item-title">黄仁勋辞去首席执行官职务后，英伟达股价暴跌</span>
-          <span class="news-item-title-en">Nvidia Stock Plunges After Jensen Huang Resigns as CEO</span>
-          <span class="news-value-point">💡 尽管大盘小幅上涨，但芯片制造商英伟达的首席执行官黄仁勋辞职的消息还是导致该公司股价下跌</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video" target="_blank" rel="noopener" data-cat="keji" data-summary="我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将这些事情搁置。上周的选举对右翼来说是一场大败仗，对于所有将自己与右翼事业绑在一起的自命不凡的法西斯创始人来说，这是一个大问题。" data-title="Oh, Palantir is ‘progressive’ now, is it?" data-date="11-13 02:06" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-13 02:06</span>
-          <span class="news-item-title">哦，Palantir现在是“进步”的了，是吗？</span>
-          <span class="news-item-title-en">Oh, Palantir is ‘progressive’ now, is it?</span>
-          <span class="news-value-point">💡 我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将这些事情搁置</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling" target="_blank" rel="noopener" data-cat="keji" data-summary="在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会刀枪不入呢？他把自己置于人工智能行业的中心，不可或缺，而且众所周知，他在英伟达没有继任计划。事实上，" data-title="The Jensen Huang scandal is hardly over" data-date="11-13 01:44" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-13 01:44</span>
-          <span class="news-item-title">黄仁勋丑闻远未结束</span>
-          <span class="news-item-title-en">The Jensen Huang scandal is hardly over</span>
-          <span class="news-value-point">💡 在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/" target="_blank" rel="noopener" data-cat="keji" data-summary="在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。" data-title="Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit" data-date="11-13 01:36" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-13 01:36</span>
-          <span class="news-item-title">Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而战</span>
-          <span class="news-item-title-en">Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</span>
-          <span class="news-value-point">💡 在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/" target="_blank" rel="noopener" data-cat="keji" data-summary="该航空公司表示，将不允许顾客使用人工智能代理预订航班和管理预订。" data-title="United Airlines blocks AI agents from booking flights, citing cybersecurity risks" data-date="11-13 01:17" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-13 01:17</span>
-          <span class="news-item-title">美国联合航空公司以网络安全风险为由，禁止人工智能代理预订航班</span>
-          <span class="news-item-title-en">United Airlines blocks AI agents from booking flights, citing cybersecurity risks</span>
-          <span class="news-value-point">💡 该航空公司表示，将不允许顾客使用人工智能代理预订航班和管理预订</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/" target="_blank" rel="noopener" data-cat="keji" data-summary="软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元。以下是这笔损失对电力市场的意义。" data-title="SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions" data-date="11-13 01:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-13 01:00</span>
-          <span class="news-item-title">软银的数十亿美元亏损可能限制了人工智能在天然气领域的雄心壮志</span>
-          <span class="news-item-title-en">SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions</span>
-          <span class="news-value-point">💡 软银为为人工智能数据中心供电而预订天然气涡轮机，损失超过30亿美元</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/" target="_blank" rel="noopener" data-cat="keji" data-summary="Phota Labs的目的不是要为消费者提供又一款照片编辑工具，而是要利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地将日常时刻转化为更出色的照片。" data-title="Phota Labs uses AI to turn everyday photos into professional" data-date="11-13 01:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-13 01:00</span>
-          <span class="news-item-title">Phota Labs使用人工智能将日常照片变为专业照片</span>
-          <span class="news-item-title-en">Phota Labs uses AI to turn everyday photos into professional</span>
-          <span class="news-value-point">💡 Phota Labs的目的不是要为消费者提供又一款照片编辑工具，而是要利用人工智能的进步来自动化编辑过程，让任何人都能更轻松地将日常时刻转化为更…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations" target="_blank" rel="noopener" data-cat="keji" data-summary="一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被导向冒牌网站和其他有风险的网站。知识产权保护公司Podqi开展了这项研究，并独家与The Verge分享了研究结果，这引发了人们对人工智能聊天机器人安全性的担忧。" data-title="AI chatbots are recommending fake retail websites, study finds" data-date="11-13 01:00" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-13 01:00</span>
-          <span class="news-item-title">研究发现，人工智能聊天机器人正在推荐虚假的零售网站</span>
-          <span class="news-item-title-en">AI chatbots are recommending fake retail websites, study finds</span>
-          <span class="news-value-point">💡 一项新研究发现，使用人工智能聊天机器人来研究产品或寻找购买商品地点的购物者可能会被导向冒牌网站和其他有风险的网站</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/442.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 13 日消息，AMD Software: Adrenalin Edition 26.11.1 可选版（Optional）显卡驱动现已发布，本次更新重点修复了此前广受关注的系统盘异常写入问题，同时公布了多项游戏与平台兼容方面的已知问题及临时解决方案。问题修复修复 Radeon RX 7000 系列及以上显卡在系统空闲时，持续对系统盘进行异常写入的问题；该问题此前被报道写入速率可达 0.3MB/s 至 5MB/s，单日累计写入量最高超 400GB，可能影响 SSD 寿命。修复移动或调整应用窗口大小时，触发系统盘异常写入的问题。已知问题与临时方案在 Radeon RX 7000 系列显卡上游玩《刺客信条：黑旗重制版》时，可能间歇性出现应用崩溃或驱动超时；在 Radeon RX" data-title="AMD 发布肾上腺素 26.11.1 可选驱动：修复 SSD 异常写入问题，公布多项已知游戏兼容问题" data-date="11-13 00:30" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 00:30</span>
-          <span class="news-item-title">AMD 发布肾上腺素 26.11.1 可选驱动：修复 SSD 异常写入问题，公布多项已知游戏兼容问题</span>
-          <span class="news-value-point">💡 IT之家 11 月 13 日消息，AMD Software: Adrenalin Edition 26.11.1 可选版（Optional）显卡…</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -353,13 +340,27 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">10 条</span>
     </div>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="据天空体育新闻报道，曼联高层在毛里西奥·波切蒂诺被切尔西解雇后不久，即两年前与他进行了会面，并考虑让他接替埃里克·滕哈格。" data-title="Inside Man Utd&#39;s pursuit of Pochettino" data-date="11-13 01:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611749/bruno-fernandes-rejects-second-manchester-united-contract-offer" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester United captain Bruno Fernandes has rejected a second contract offer from the club, with his current deal due to expire at the end of the season." data-title="Fernandes rejects second Man Utd contract offer" data-date="11-13 07:39" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-13 07:39</span>
+          <span class="news-item-title">Fernandes rejects second Man Utd contract offer</span>
+          <span class="news-value-point">💡 Manchester United captain Bruno Fernandes has rejected a second contract…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester United and Mauricio Pochettino have agreed a deal for him to become the club&#39;s next head coach." data-title="Pochettino agrees two-and-a-half-year deal to become Man Utd boss" data-date="11-13 07:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-13 07:00</span>
+          <span class="news-item-title">Pochettino agrees two-and-a-half-year deal to become Man Utd boss</span>
+          <span class="news-value-point">💡 Manchester United and Mauricio Pochettino have agreed a deal for him to …</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611631/mauricio-pochettino-to-manchester-united-how-uniteds-pursuit-of-former-tottenham-and-chelsea-manager-unfolded" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester United&#39;s bosses met Mauricio Pochettino two years ago and considered him as a possible replacement for Erik ten Hag." data-title="Inside Man Utd&#39;s pursuit of Pochettino" data-date="11-13 01:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-13 01:00</span>
           <span class="news-item-title">曼联追求波切蒂诺的幕后故事</span>
           <span class="news-item-title-en">Inside Man Utd's pursuit of Pochettino</span>
-          <span class="news-value-point">💡 据天空体育新闻报道，曼联高层在毛里西奥·波切蒂诺被切尔西解雇后不久，即两年前与他进行了会面，并考虑让他接替埃里克·滕哈格</span>
+          <span class="news-value-point">💡 Manchester United's bosses met Mauricio Pochettino two years ago and con…</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联是如何确定毛里西奥·波切蒂诺为新任主教练的——以及在迈克尔·卡里克被晾在一边的那一周里发生了什么。" data-title="How Pochettino came on Man Utd&#39;s radar - and what Carrick was told when" data-date="11-13 00:12" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -377,7 +378,7 @@ title: 热点新闻
           <span class="news-item-title-en">Pochettino expected to lead US in Nations League games before Manchester United move</span>
           <span class="news-value-point">💡 美国男足主教练已同意与曼联的协议框架曼联已与美国足协取得联系巴洛贡：“我希望事情保持现状”波切蒂诺加盟曼联的最新消息和反应毛里西奥·波切蒂诺将执…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在曼联传奇人物迈克尔·卡里克被解雇主教练职务后，天空体育的加里·内维尔将曼联对他的处理方式描述为“令人作呕”，而毛里西奥·波切蒂诺即将接替他在老特拉福德的职位。" data-title="Neville &#39;disgusted&#39; at Man Utd&#39;s treatment of Carrick" data-date="11-12 22:49" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在曼联传奇人物迈克尔·卡里克被解雇主教练职务后，天空体育的加里·内维尔将曼联对他的处理方式描述为“令人作呕”，而毛里西奥·波切蒂诺即将接替他在老特拉福德的职位。" data-title="Neville &#39;disgusted&#39; at Man Utd&#39;s treatment of Carrick" data-date="11-12 22:49" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-12 22:49</span>
@@ -385,7 +386,7 @@ title: 热点新闻
           <span class="news-item-title-en">Neville 'disgusted' at Man Utd's treatment of Carrick</span>
           <span class="news-value-point">💡 在曼联传奇人物迈克尔·卡里克被解雇主教练职务后，天空体育的加里·内维尔将曼联对他的处理方式描述为“令人作呕”，而毛里西奥·波切蒂诺即将接替他在老…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在曼联传奇人物迈克尔·卡里克被解雇主教练职务后，天空体育的加里·内维尔将曼联对他的处理方式描述为“令人作呕”，而毛里西奥·波切蒂诺即将接替他在老特拉福德的职位。" data-title="Neville &#39;disgusted&#39; at Man Utd&#39;s treatment of Carrick" data-date="11-12 22:49" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在曼联传奇人物迈克尔·卡里克被解雇主教练职务后，天空体育的加里·内维尔将曼联对他的处理方式描述为“令人作呕”，而毛里西奥·波切蒂诺即将接替他在老特拉福德的职位。" data-title="Neville &#39;disgusted&#39; at Man Utd&#39;s treatment of Carrick" data-date="11-12 22:49" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-12 22:49</span>
@@ -417,21 +418,6 @@ title: 热点新闻
           <span class="news-item-title-en">The chaos that took Carrick from two-year deal to sacked within 15 games</span>
           <span class="news-value-point">💡 迈克尔·卡里克成为三赛季内被解雇的第三位曼联主帅——问题出在哪里</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/story-telling/11661/13610897/why-have-man-utd-only-had-two-successful-managers" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Why have Man Utd only had two &#39;successful&#39; managers?" data-title="Why have Man Utd only had two &#39;successful&#39; managers?" data-date="11-12 16:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-12 16:00</span>
-          <span class="news-item-title">为什么曼联只有两位“成功的”主教练？</span>
-          <span class="news-item-title-en">Why have Man Utd only had two 'successful' managers?</span>
-        </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/11/mauricio-pochettino-manchester-united-old-trafford-manager" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="这位主教练在豪门俱乐部的经历让他备受打击，但老特拉福德的几名球员可能适合他的踢球风格。欢迎毛里西奥来到这片绞肉场。或者更确切地说，欢迎回来。我们一直在等你。曼联的新闻中没有什么令人意外之处。" data-title="Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay" data-date="11-12 05:10" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">11-12 05:10</span>
-          <span class="news-item-title">两个迷失灵魂的相遇：波切蒂诺能在曼联成功吗？| 巴尼·罗内</span>
-          <span class="news-item-title-en">Meeting of two lost souls: can Pochettino make it work at Manchester United? | Barney Ronay</span>
-          <span class="news-value-point">💡 这位主教练在豪门俱乐部的经历让他备受打击，但老特拉福德的几名球员可能适合他的踢球风格</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -439,121 +425,109 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="前一刻，一栋公寓楼还巍然耸立。下一刻，它就塌陷成了一个大坑。随后是毁灭和死亡。" data-title="A Frantic Search for Survivors in the Brooklyn Building Collapse" data-date="11-13 03:43" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-13 03:43</span>
-          <span class="news-item-title">布鲁克林大楼坍塌后对幸存者的疯狂搜救</span>
-          <span class="news-item-title-en">A Frantic Search for Survivors in the Brooklyn Building Collapse</span>
-          <span class="news-value-point">💡 前一刻，一栋公寓楼还巍然耸立</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="官员表示，弗拉特布什一栋三层建筑倒塌，造成至少8人死亡，另有十多人受伤。" data-title="What to Know About the Deadly Building Collapse in Brooklyn" data-date="11-13 03:38" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-13 03:38</span>
-          <span class="news-item-title">关于布鲁克林致命楼房坍塌事件的须知事项</span>
-          <span class="news-item-title-en">What to Know About the Deadly Building Collapse in Brooklyn</span>
-          <span class="news-value-point">💡 官员表示，弗拉特布什一栋三层建筑倒塌，造成至少8人死亡，另有十多人受伤</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1032226/microsoft-outlook-is-down" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在过去一个多小时里，世界各地陆续有报告称，人们无法通过网页或应用程序访问他们的Outlook电子邮件。微软已通过其Microsoft 365状态账户确认了该问题，并表示“我们已确定" data-title="Microsoft Outlook is down" data-date="11-13 03:07" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-13 03:07</span>
-          <span class="news-item-title">Microsoft Outlook 出现故障</span>
-          <span class="news-item-title-en">Microsoft Outlook is down</span>
-          <span class="news-value-point">💡 在过去一个多小时里，世界各地陆续有报告称，人们无法通过网页或应用程序访问他们的Outlook电子邮件</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="大多数民主党人对卫生部长在疫苗问题上的立场深恶痛绝，但有些人认为，通过与他在食品和环境问题上站在同一阵线，有机会从他的MAHA运动中赢得选民。" data-title="Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?" data-date="11-13 02:18" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-13 02:18</span>
-          <span class="news-item-title">肯尼迪的未来：民主党会试图弹劾他，还是真正与他合作？</span>
-          <span class="news-item-title-en">Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?</span>
-          <span class="news-value-point">💡 大多数民主党人对卫生部长在疫苗问题上的立场深恶痛绝，但有些人认为，通过与他在食品和环境问题上站在同一阵线，有机会从他的MAHA运动中赢得选民</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/save-usd119-on-ddr5-ram-with-this-high-end-am5-gaming-combo-from-newegg-3-item-gaming-pc-combo-includes-9800x3d-32gb-corsair-vengeance-ddr5-ram-and-premium-msi-x870e-carbon-wifi-motherboard-for-only-usd1-250" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Newegg的最新组合优惠将32GB的Corsair Vengeance DDR5-6000内存、Ryzen 7 9800X3D、MSI X870E Carbon Wifi主板和免费的Rosewill Frostmax 360mm AIO搭配在一起，售价仅为1250美元，节省119美元。" data-title="Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg" data-date="11-13 01:34" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-13 01:34</span>
-          <span class="news-item-title">使用Newegg这款高端AM5游戏套装，DDR5内存可节省119美元</span>
-          <span class="news-item-title-en">Save $119 on DDR5 RAM with this high-end AM5 gaming combo from Newegg</span>
-          <span class="news-value-point">💡 Newegg的最新组合优惠将32GB的Corsair Vengeance DDR5-6000内存、Ryzen 7 9800X3D、MSI X87…</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="水晶宫在主教练皮埃尔·萨热执教 16 场比赛后将其解雇，当时俱乐部排名垫底。" data-title="Crystal Palace sack boss Sage after 16 games" data-date="11-13 01:15" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-13 01:15</span>
-          <span class="news-item-title">水晶宫在 16 场比赛后解雇主教练萨赫</span>
-          <span class="news-item-title-en">Crystal Palace sack boss Sage after 16 games</span>
-          <span class="news-value-point">💡 水晶宫在主教练皮埃尔·萨热执教 16 场比赛后将其解雇，当时俱乐部排名垫底</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Cybertruck正驶向天空中那只闪闪发光的“网络垃圾桶”，让那些围绕埃隆·马斯克这款备受争议的皮卡建立起网络身份的人感到失落。通常，马斯克的粉丝群会对偶像反复无常的决定小心翼翼。这次" data-title="‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug" data-date="11-13 01:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-13 01:00</span>
-          <span class="news-item-title">“特斯拉的末日！”：埃隆·马斯克叫停Cybertruck后，Cybertruck的死忠粉对他“反戈一击”</span>
-          <span class="news-item-title-en">‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug</span>
-          <span class="news-value-point">💡 Cybertruck正驶向天空中那只闪闪发光的“网络垃圾桶”，让那些围绕埃隆·马斯克这款备受争议的皮卡建立起网络身份的人感到失落</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad" target="_blank" rel="noopener" data-cat="zonghe" data-summary="过去25年来，微软一直在努力撼动游戏机市场。初代Xbox于2001年11月15日推出，当时该行业由索尼和任天堂主导。二十五年后，Xbox 发现自己处于类似的" data-title="25 years later, Xbox is trying to reinvent itself again" data-date="11-13 01:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-13 01:00</span>
-          <span class="news-item-title">25 年后，Xbox 正试图再次重塑自我</span>
-          <span class="news-item-title-en">25 years later, Xbox is trying to reinvent itself again</span>
-          <span class="news-value-point">💡 过去25年来，微软一直在努力撼动游戏机市场</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs" target="_blank" rel="noopener" data-cat="zonghe" data-summary="根据GDC游戏节最新的年度行业调查，与去年相比，有更多的视频游戏开发者在工作中使用了生成式AI工具。在接受调查的开发者中，40%的人表示他们“在工作中”使用生成式AI工具，" data-title="More game developers are starting to use generative AI" data-date="11-13 01:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-13 01:00</span>
-          <span class="news-item-title">越来越多的游戏开发者开始使用生成式人工智能</span>
-          <span class="news-item-title-en">More game developers are starting to use generative AI</span>
-          <span class="news-value-point">💡 根据GDC游戏节最新的年度行业调查，与去年相比，有更多的视频游戏开发者在工作中使用了生成式AI工具</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/nfl/news/12040/13610883/nfl-gameday-guide-harry-kanes-nfl-dream-amon-ra-st-brown-in-germany-kirk-cousins-return-and-jordan-loves-flying-green-bay-packers" target="_blank" rel="noopener" data-cat="zonghe" data-summary="阿蒙-拉·圣·布朗。这位环游世界的“宇宙先生”之子会说三种语言，以埃及神的名字命名，如今正以最特别的方式回到母亲的故乡。这一次，他以NFL明星球员的身份归来。" data-title="The trilingual son of Mr Universe makes homecoming" data-date="11-13 01:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/cricket/news/12040/13611802/england-crumble-against-australia-in-perth-again-as-mitchell-marshs-side-win-first-odi-amid-sandpapergate-storm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="England capitulated in Perth for the second year running as an Australia side engulfed by the &#39;Sandpapergate&#39; storm cruised to a seven-wicket victory in a series-opening ODI in which debutant Mahli Beardman recorded a six-wicket haul." data-title="England crumble in Perth again as Australia win first ODI amid sandpaper storm" data-date="11-13 16:40" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-13 01:00</span>
-          <span class="news-item-title">“环球先生”的三语之子回乡</span>
-          <span class="news-item-title-en">The trilingual son of Mr Universe makes homecoming</span>
-          <span class="news-value-point">💡 阿蒙-拉·圣·布朗</span>
+          <span class="news-item-date">11-13 16:40</span>
+          <span class="news-item-title">England crumble in Perth again as Australia win first ODI amid sandpaper storm</span>
+          <span class="news-value-point">💡 England capitulated in Perth for the second year running as an Australia…</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="短短几天内，黄仁勋作为全球科技竞赛领军人物、看似无可撼动的地位便迅速崩塌。" data-title="从科技巨星到跌落神坛" data-date="11-13 00:14" data-source="BBC">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731543.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网海口11月13日电 (记者 王晓斌)一种叫“衍射光波导”的技术，正在改变中国博物馆里看文物的方式。记者在13日开幕的第十一届中国博物馆及相关产品与技术博览会(下称“博博会”)上看到，这项“魔法光”技术已经和文博场景深度结合——观众可以选择戴上AI眼镜看文物讲解，也可以什么都不戴，看三维影像悬浮在一块透明玻璃中。" data-title="博物馆里的“魔法光”：戴上眼镜看细节，摘下眼镜看悬浮" data-date="11-13 16:37" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-13 00:14</span>
-          <span class="news-item-title">从科技巨星到跌落神坛</span>
-          <span class="news-value-point">💡 短短几天内，黄仁勋作为全球科技竞赛领军人物、看似无可撼动的地位便迅速崩塌</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:37</span>
+          <span class="news-item-title">博物馆里的“魔法光”：戴上眼镜看细节，摘下眼镜看悬浮</span>
+          <span class="news-value-point">💡 中新网海口11月13日电 (记者 王晓斌)一种叫“衍射光波导”的技术，正在改变中国博物馆里看文物的方式</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/440.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation》，《Mark of the Deep》。领取链接：《斗阵骑士 Knightica》IT之家附《斗阵骑士 Knightica》游戏简介：《Knightica》是一款回合制类 Roguelike 自走棋游戏，在这里，各类身负绝技的单位将为你所用，集结成团，听你号令。征招、部署部队，带领大家为解放王国而战。尽情探索它们的协同效果、收集恶魔精魂、迎战危险怪物，一步步领导你的军队走向胜利！组建军队，运筹帷幄单位的队形各异，大小不同，禀赋各有千秋，每一支都蓄势待发，等候你的征召！至于怎么部署位置，调整朝向，充分发挥各自的作用，全部由你决定！你是想要成为不死军团" data-title="Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取" data-date="11-13 00:05" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 00:05</span>
-          <span class="news-item-title">Epic 喜加一：《斗阵骑士 Knightica》游戏免费领取</span>
-          <span class="news-value-point">💡 IT之家 11 月 13 日消息，Epic 本周送出的游戏是《斗阵骑士 Knightica》，下周送出的游戏是《Alien: Isolation…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/438.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 12 日消息，2027 年是《星球大战》系列诞生 50 周年，阿斯顿 · 马丁宣布与迪士尼、卢卡斯影业合作，共同庆祝这一里程碑。阿斯顿 · 马丁计划在未来一年举办系列活动，回顾《星球大战》的发展历程，但具体内容尚未公布。阿斯顿 · 马丁透露，双方将通过周年庆期间的一系列活动及合作项目，展现英国顶级奢华工艺与电影叙事的艺术魅力。阿斯顿 · 马丁全球营销总监芬巴尔 · 麦克福尔表示：“过去 50 年，《星球大战》证明了设计与叙事能够产生非凡的力量，激励世界各地一代又一代人。阿斯顿 · 马丁同样致力于打造个性鲜明、能够引发长久情感共鸣的产品和体验，因此双方的合作顺理成章，也令人期待。”据IT之家了解，阿斯顿 · 马丁旗下产品从未在《星球大战》电影中亮相。相比之下，阿斯顿 · 马" data-title="特别版车型？阿斯顿 · 马丁与迪士尼、卢卡斯影业达成合作，共庆《星球大战》50 周年" data-date="11-12 23:48" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/026/811.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 13 日消息，据中国铁路昆明局集团有限公司消息，11 月 12 日上午，随着最后一方钢管混凝土顺利完成顶升，文蒙铁路南溪河特大桥 9 号格构墩顺利完工。这是国内铁路工程首次应用格构墩结构，标志着我国在山区高墩桥梁建设领域取得重要技术突破。南溪河特大桥位于云南省蒙自市芷村镇，全长 789.71 米，桥面与地面最大高差达 118 米，是文蒙铁路全线最高桥梁。桥址区地形起伏剧烈，跨越深切沟谷，存在危岩落石、岩溶发育等不良地质，施工难度极大。全桥共设计 3 座格构墩，其中 9 号墩高 105 米，为全线最高桥墩，其格构部分分为 7 个节段、176 个散件拼装工艺，最大单个构件重达 24 吨，施工犹如在百米高空“搭巨型积木”。据介绍，此次应用的钢管混凝土格构墩，通过钢管与工字钢拼装" data-title="百米高空“搭巨型积木”，我国铁路工程首次应用格构墩结构完成桥墩施工" data-date="11-13 16:33" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-12 23:48</span>
-          <span class="news-item-title">特别版车型？阿斯顿 · 马丁与迪士尼、卢卡斯影业达成合作，共庆《星球大战》50 周年</span>
-          <span class="news-value-point">💡 IT之家 11 月 12 日消息，2027 年是《星球大战》系列诞生 50 周年，阿斯顿 · 马丁宣布与迪士尼、卢卡斯影业合作，共同庆祝这一里程…</span>
+          <span class="news-item-date">11-13 16:33</span>
+          <span class="news-item-title">百米高空“搭巨型积木”，我国铁路工程首次应用格构墩结构完成桥墩施工</span>
+          <span class="news-value-point">💡 IT之家 11 月 13 日消息，据中国铁路昆明局集团有限公司消息，11 月 12 日上午，随着最后一方钢管混凝土顺利完成顶升，文蒙铁路南溪河特…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Palace latest: Frank talks &#39;progressing well&#39; after Sage sacked" data-title="Palace latest: Frank talks &#39;progressing well&#39; after Sage sacked" data-date="11-12 23:45" data-source="天空体育">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731537.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网巴彦淖尔11月13日电 题：探访内蒙古戈壁小站：为边民 “加油”，为共富 “续航”" data-title="探访内蒙古戈壁小站：为边民 “加油”，为共富 “续航”" data-date="11-13 16:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:31</span>
+          <span class="news-item-title">探访内蒙古戈壁小站：为边民 “加油”，为共富 “续航”</span>
+          <span class="news-value-point">💡 中新网巴彦淖尔11月13日电 题：探访内蒙古戈壁小站：为边民 “加油”，为共富 “续航”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731534.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网青海乌图美仁11月13日电 题：柴达木戈壁“追光人”：烟火人间的荒漠守护" data-title="柴达木戈壁“追光人”：烟火人间的荒漠守护" data-date="11-13 16:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:28</span>
+          <span class="news-item-title">柴达木戈壁“追光人”：烟火人间的荒漠守护</span>
+          <span class="news-value-point">💡 中新网青海乌图美仁11月13日电 题：柴达木戈壁“追光人”：烟火人间的荒漠守护</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731532.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社福州11月13日电 (叶秋云)“万里茶道”中蒙美术家精品联合巡展(福州站)13日在福建省画院开幕，展出中国和蒙古国美术家的百余幅作品。" data-title="“万里茶道”中蒙美术家精品联合巡展走进福州" data-date="11-13 16:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:26</span>
+          <span class="news-item-title">“万里茶道”中蒙美术家精品联合巡展走进福州</span>
+          <span class="news-value-point">💡 中新社福州11月13日电 (叶秋云)“万里茶道”中蒙美术家精品联合巡展(福州站)13日在福建省画院开幕，展出中国和蒙古国美术家的百余幅作品</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731544.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="青春华章·我们的新长征｜天开“多点”走好新时代科创长征路" data-title="天开“多点”走好新时代科创长征路" data-date="11-13 16:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:25</span>
+          <span class="news-item-title">天开“多点”走好新时代科创长征路</span>
+          <span class="news-value-point">💡 青春华章·我们的新长征｜天开“多点”走好新时代科创长征路</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/026/802.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 13 日消息，科技媒体 sammyguru 昨日（11 月 12 日）发布博文，分享了一组照片，声称是三星 Galaxy S27 系列手机默认壁纸，共有 5 种配色，采用折叠丝带设计，暗示三星最新旗舰手机也会采用这 5 种颜色。通常情况下，三星会为 Galaxy S 系列旗舰手机的不同颜色，推出专属壁纸。IT之家援引博文介绍，以 Galaxy S26 Ultra 为例，三星分别推出了黑色、白色、蓝色、紫色、粉色和灰色共计 6 种颜色壁纸，分别对应旷宇黑、映雪白、浅云蓝、幽夜紫四种常规颜色，以及绯霞金和镜月银两种专属色。该媒体推测三星 Galaxy S27 系列会沿用这种模式，并指出 Galaxy S27 系列会有以下 5 种颜色：颜色视觉特点适合人群 / 气质海军蓝 Na" data-title="三星 Galaxy S27 系列手机壁纸曝光：5 种颜色，折叠丝带设计吸睛" data-date="11-13 16:04" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-13 16:04</span>
+          <span class="news-item-title">三星 Galaxy S27 系列手机壁纸曝光：5 种颜色，折叠丝带设计吸睛</span>
+          <span class="news-value-point">💡 IT之家 11 月 13 日消息，科技媒体 sammyguru 昨日（11 月 12 日）发布博文，分享了一组照片，声称是三星 Galaxy S…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731527.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="国家卫生健康委今天举行新闻发布会，介绍时令节气与健康有关情况。国家卫生健康委新闻发言人杨金瑞表示，近期，有媒体报道非法中介机构在无医疗条件的场所内开展“地下代孕”，由无资质的非专业人员实施，操作过程极不规范，风险极高。这些非法机构往往滥用促排卵药物，极易引发女性卵巢损伤，造成大出血和严重感染等，甚至危及生命；同时，胚胎培养和移植条件差，极易造成新生儿流产、早产、死胎死产和严重出生缺陷。" data-title="国家卫健委：我国严禁任何形式代孕 组织代孕属于违法犯罪行为" data-date="11-13 16:04" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 16:04</span>
+          <span class="news-item-title">国家卫健委：我国严禁任何形式代孕 组织代孕属于违法犯罪行为</span>
+          <span class="news-value-point">💡 国家卫生健康委今天举行新闻发布会，介绍时令节气与健康有关情况</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/nfl/news/12040/13611793/nfl-washington-commanders-rally-to-defeat-the-new-york-giants-thanks-to-jayden-daniels-and-stefon-diggs" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The Washington Commanders stunned the New York Giants 24-21 to keep their season alive." data-title="Commanders dig deep to save season with late rally against Giants" data-date="11-13 16:00" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-12 23:45</span>
-          <span class="news-item-title">水晶宫最新消息：弗兰克在萨格被解雇后“进展顺利”</span>
-          <span class="news-item-title-en">Palace latest: Frank talks 'progressing well' after Sage sacked</span>
+          <span class="news-item-date">11-13 16:00</span>
+          <span class="news-item-title">Commanders dig deep to save season with late rally against Giants</span>
+          <span class="news-value-point">💡 The Washington Commanders stunned the New York Giants 24-21 to keep thei…</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Amazon Prime会员可以享受Ecoflow笔记本电脑移动电源的超值优惠，该移动电源通过其两个USB-C端口中的任何一个均可提供高达140W的功率。您可以抢购黑色或银色款的限时优惠。" data-title="A power bank that can quickly charge three gadgets is just $49" data-date="11-12 23:19" data-source="The Verge">
+        <a class="news-item" href="https://www.skysports.com/golf/live-blog/12040/13611568/dp-world-tour-championship-second-round-live-latest-scores-highlights-as-rory-mcilroy-hunts-eighth-race-to-dubai-title" target="_blank" rel="noopener" data-cat="zonghe" data-summary="McIlroy out to capitalise on fast start, as Luiten leads in Dubai LIVE!" data-title="McIlroy out to capitalise on fast start, as Luiten leads in Dubai LIVE!" data-date="11-13 15:45" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-12 23:19</span>
-          <span class="news-item-title">这款可以快速为三台设备充电的移动电源仅售49美元</span>
-          <span class="news-item-title-en">A power bank that can quickly charge three gadgets is just $49</span>
-          <span class="news-value-point">💡 Amazon Prime会员可以享受Ecoflow笔记本电脑移动电源的超值优惠，该移动电源通过其两个USB-C端口中的任何一个均可提供高达140…</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-13 15:45</span>
+          <span class="news-item-title">McIlroy out to capitalise on fast start, as Luiten leads in Dubai LIVE!</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731496.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京11月13日电 (记者 吕少威)记者13日从北京市交通委获悉，今年以来，北京静态交通治理坚持新增建设与存量盘活并重、设施供给与综合治理协同，取得阶段性成效：全市新增道路非机动车停车22.2万个，中心城区新增居住停车位3.7万个，非机动车停放秩序月度达标率由4月的75%提升至10月的94%，市民出行环境持续改善。" data-title="今年以来北京新增道路非机动车停车位22.2万个" data-date="11-13 15:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-13 15:35</span>
+          <span class="news-item-title">今年以来北京新增道路非机动车停车位22.2万个</span>
+          <span class="news-value-point">💡 中新网北京11月13日电 (记者 吕少威)记者13日从北京市交通委获悉，今年以来，北京静态交通治理坚持新增建设与存量盘活并重、设施供给与综合治理…</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="监测网站显示，这次中断影响74个国家的用户，已持续超过八小时。" data-title="微软系统全球瘫痪：Outlook、Teams、Copilot受影响" data-date="11-13 15:32" data-source="BBC">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-13 15:32</span>
+          <span class="news-item-title">微软系统全球瘫痪：Outlook、Teams、Copilot受影响</span>
+          <span class="news-value-point">💡 监测网站显示，这次中断影响74个国家的用户，已持续超过八小时</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13611773/wta-finals-jessica-pegula-saves-match-8204point-in-stunning-win-over-linda-noskova-to-send-coco-gauff-out-and-set-up-mirra-andreeva-clash" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Jessica Pegula saved a match ‌point en route to a gritty 7-6 (7-2) 4-6 7-5 win over Linda Noskova to advance to the semi-finals at the WTA Finals and ​send fellow American Coco Gauff packing from the season-ending championships." data-title="&#39;It&#39;s the match people wanted&#39; - Pegula to face Andreeva at WTA Finals" data-date="11-13 15:12" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-13 15:12</span>
+          <span class="news-item-title">'It's the match people wanted' - Pegula to face Andreeva at WTA Finals</span>
+          <span class="news-value-point">💡 Jessica Pegula saved a match ‌point en route to a gritty 7-6 (7-2) 4-6 7…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13611165/today-on-sky-sports-racing-bahrain-sedgefield-and-southwell" target="_blank" rel="noopener" data-cat="zonghe" data-summary="We have a busy day’s racing on Friday with action from Bahrain, Sedgefield and Southwell, live on Sky Sports Racing..." data-title="Royal Champion out to defend his Bahrain crown" data-date="11-13 15:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-13 15:00</span>
+          <span class="news-item-title">Royal Champion out to defend his Bahrain crown</span>
+          <span class="news-value-point">💡 We have a busy day’s racing on Friday with action from Bahrain, Sedgefie…</span>
         </a>
   </div>
   <div class="news-category">
@@ -708,4 +682,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-13 04:11（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-13 16:51（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
