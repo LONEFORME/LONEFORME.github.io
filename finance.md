@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-14 03:54（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-14 16:13（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -428,7 +428,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🤖 人工智能 & 先进算力链</span>
-      <span class="sector-flow-badge">+25.4 亿</span>
+      <span class="sector-flow-badge">+19.3 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -441,7 +441,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">⚡ 新能源出海 & 特高压电网</span>
-      <span class="sector-flow-badge">+42.4 亿</span>
+      <span class="sector-flow-badge">+43.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -454,7 +454,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🚗 具身智能 & 智能网联车</span>
-      <span class="sector-flow-badge">+42.4 亿</span>
+      <span class="sector-flow-badge">+41.1 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -467,7 +467,7 @@ title: 股票财经
   <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">🛡️ 高股息红利与底仓资产</span>
-      <span class="sector-flow-badge">+49.0 亿</span>
+      <span class="sector-flow-badge">+52.6 亿</span>
     </div>
     <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
     <div class="sector-tags">
@@ -495,6 +495,54 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10732023.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月14日电 综合消息：亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在深圳举行。多家外媒报道指出，APEC深圳会议为不同规模的经济体在分歧中寻求共识提供机会，各方期待借此进一步接入区域贸易与投资议程，拓展务实合作空间。" data-title="（深圳APEC）外媒聚焦深圳APEC会议周：共识为桥  务实为要" data-date="11-14 16:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 16:05</span>
+          <span class="news-item-title">（深圳APEC）外媒聚焦深圳APEC会议周：共识为桥  务实为要</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/162.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，据共同社报道，日本大阪市 13 日就该市在线行政系统的邮件发送服务表示，该服务用户的约 108 万条邮箱地址遭泄露。提供服务的 arara 公司遭遇了非法访问。据悉，未确认到姓名和个人编号信息外泄。大阪市称，2 日接到了委托 arara 发送邮件的在线行政系统运营商报告称可能发生了信息泄露。经调查发现，7 至 10 月期间由系统发送邮件的收件人邮箱地址已外泄。IT之家获悉，大阪市 13 日还表示，获得“优惠商品券”业务订单的企业也使用 arara 服务，受到了非法访问的影响。据悉，邮件发送服务用户的约 3.4 万条邮箱地址、参与商户的约 1.5 万条邮箱地址外泄。市长横山英幸道歉，并呼吁收到可疑邮件后不要打开。" data-title="日本大阪市行政系统用户约 108 万条邮箱地址外泄，市长道歉" data-date="11-14 15:54" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 15:54</span>
+          <span class="news-item-title">日本大阪市行政系统用户约 108 万条邮箱地址外泄，市长道歉</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/159.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（11 月 14 日）在 X 平台发布推文，回应科技博主 @MKBHD 关于“Cybercab 每月 299 美元（IT之家注：现汇率约合 1,999 元人民币）的订阅费用过高”情况，认为合理价格应该在 115 美元（现汇率约合 768.8 元人民币）左右。IT之家今天报道，特斯拉开始向部分个人用户开放 Cybercab 购买渠道，起售价为 29,990 美元（现汇率约合 20 万元人民币），首批车辆预计于 12 月交付。按照现有购买安排，符合资格的用户需支付 1,000 美元（现汇率约合 6,685 元人民币）订购定金，且定金不可退还。而本次最值得争议的点，在于车主需要加购 Autonomy Subscri" data-title="299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右" data-date="11-14 15:46" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 15:46</span>
+          <span class="news-item-title">299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/156.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，微软今天（14 日）通报称，截至协调世界时 13 日 16 时 10 分（IT之家注：北京时间 11 月 14 日 0 时 10 分），面向个人用户的产品和服务已全面恢复，Microsoft 365 企业服务也出现了持续恢复的迹象。对于企业服务故障，微软仍在监测此次事件期间积压的邮件，尚未确认问题完全解决。微软在服务状态页面的更新中指出：“考虑到此次事件造成的严重影响，我们将延长监测时间，确保不需要采取进一步的补救措施。”相关阅读：《堪比蓝屏“灭霸”事件：微软 2026 最严重宕机重创全球金融业，交易员被迫改用传真》《Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场》《微软就全球服务中断致歉：底层问题已解决，与网络攻击无关》" data-title="微软确认消费者产品服务已恢复，企业服务仍在监控" data-date="11-14 15:38" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 15:38</span>
+          <span class="news-item-title">微软确认消费者产品服务已恢复，企业服务仍在监控</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10731994.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="据日本方面13日消息，多名相关人士透露，日本政府已开始协调，考虑将2027至2031财年防卫费总额定在60万亿日元，约合2.5万亿人民币。这一数字远高于2023至2027财年的43万亿日元。" data-title="日本未来五年防卫预算或增至60万亿日元" data-date="11-14 14:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 14:36</span>
+          <span class="news-item-title">日本未来五年防卫预算或增至60万亿日元</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10731993.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“一个人只能有一个故乡，湟源就是我的故乡。”这是95岁的美国老人柏大卫时常说的一句话。柏大卫一岁随父母从美国来到中国青海省湟源县，在那里度过整个少年时代，他跟小伙伴们一起爬山、在河里“打搅洗”，吃“熬熬”，说得一口地道的湟源方言。离开湟源后他依然惦念故土，省吃俭用，数十年间筹措捐赠总价值约600万元人民币的医疗设备，守护家乡人民的健康，还为当地孩子争取外教课程。如今，他年事已高难以回乡，他说，虽然我是美国公民，但是我的心，一直在湟源。" data-title="面孔丨此心归处是湟源" data-date="11-14 14:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 14:33</span>
+          <span class="news-item-title">面孔丨此心归处是湟源</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-14/10731958.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网天津11月14日电 (记者 江莹)13日，天津市数据局局长邓光华在市政府新闻办举行的新闻发布会上表示，天津将依托全新智慧城市建设规划，以数智赋能城市治理现代化，全面提升城市服务、治理、产业发展智能化水平。" data-title="天津锚定“大城智管”  2030年建成全域智慧治理新格局" data-date="11-14 13:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 13:35</span>
+          <span class="news-item-title">天津锚定“大城智管”  2030年建成全域智慧治理新格局</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10731949.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网汕头11月14日电 (孙秋霞 冯建奎)在汕头市濠江区达濠渔港新产业集聚与综合体验区，澄澈的濠江水顺着港湾岸线婉转流淌，港池堤岸整齐坚固，渔船静静泊于码头，几栋造型灵动的白色楼宇沿着岸线错落而立。" data-title="汕头对低效闲置用地实施改造 盐碱滩蝶变“城市中央田园”" data-date="11-14 13:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 13:34</span>
+          <span class="news-item-title">汕头对低效闲置用地实施改造 盐碱滩蝶变“城市中央田园”</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普总统对达成核协议表现得并不急迫，因此美国政府似乎正转向一场长期的经济施压运动。" data-title="Trump Signals New Strategy on Iran: A Waiting Game" data-date="11-14 02:20" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -537,54 +585,6 @@ title: 股票财经
           <span class="news-item-date">11-13 22:33</span>
           <span class="news-item-title">日本核污染水排放总量超19万吨</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731836.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网德州11月13日电 (记者 孙婷婷)2026黄河—湄公河交流周13日在山东省德州市开幕。东盟国家驻华使节、商协会负责人以及中国沿黄省区代表、重点企业代表等200余人参加。" data-title="2026黄河" data-date="11-13 21:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 21:55</span>
-          <span class="news-item-title">2026黄河</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-13/10731825.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月13日电 据重庆市纪委监委消息：经重庆市委批准，重庆市纪委监委对重庆市农业投资集团有限公司原党委书记、董事长何勇严重违纪违法问题进行了立案审查调查。" data-title="重庆市农业投资集团有限公司原党委书记何勇被开除党籍" data-date="11-13 21:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 21:48</span>
-          <span class="news-item-title">重庆市农业投资集团有限公司原党委书记何勇被开除党籍</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731750.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳11月13日电 (记者 赵桂华)11月13日，在沈阳市浑南区工程建设项目一站式服务中心，智能踏勘系统里企业提交的踏勘申请正有序流转。依托远程勘验、无人机勘探等数字化手段，企业不用再挨个约多个部门现场核查，在网上点一点就能提交踏勘申请。" data-title="辽宁沈阳：无人机踏勘“云上跑”项目开工“加速跑”" data-date="11-13 21:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 21:39</span>
-          <span class="news-item-title">辽宁沈阳：无人机踏勘“云上跑”项目开工“加速跑”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-13/10731774.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网合肥11月13日电 (记者 张强)“候鸟来信·池州冬日奇遇季”推介会13日在合肥举办。" data-title="十万候鸟“捎信”来 安徽池州深耕冬日研学经济" data-date="11-13 21:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 21:39</span>
-          <span class="news-item-title">十万候鸟“捎信”来 安徽池州深耕冬日研学经济</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="黄仁勋光速跌落神坛的事件，让台湾社会对他的崇拜、政治对他的政绩绑定，以及产业对他个人的依赖重新校准。" data-title="“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？" data-date="11-13 17:51" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-13 17:51</span>
-          <span class="news-item-title">“台湾干爹”光环崩塌：黄仁勋事件如何震动台湾产业、政治与社会？</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="BBC卧底调查揭露一场精心策划的骗局，协助富裕移民透过快速通道取得英国永久居留权。" data-title="BBC调查揭英国“全球人才签证”造假产业：中介助移民冒充艺术家及科技专才" data-date="11-13 16:27" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-13 16:27</span>
-          <span class="news-item-title">BBC调查揭英国“全球人才签证”造假产业：中介助移民冒充艺术家及科技专才</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/509730.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="比亚迪第1900万辆新能源汽车在西安工厂正式下线" data-title="比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订" data-date="11-13 15:17" data-source="量子位">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-13 15:17</span>
-          <span class="news-item-title">比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Muse 的 AI 现在可以向美国企业拨打出站电话，但这不是免费的。" data-title="Muse can now place calls to US businesses" data-date="11-13 06:22" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-13 06:22</span>
-          <span class="news-item-title">Muse can now place calls to US businesses</span>
-        </a>
   </div>
 </div>
 
@@ -598,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-14 03:54（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-14 16:13（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
