@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-14 16:13（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-14 22:24（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -495,6 +495,30 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网安塔利亚11月14日电(记者 魏园 陈溯)当地时间11月13日，联合国秘书长安东尼奥·古特雷斯在COP31新闻发布会上接受中国新闻社记者提问时，特别肯定中国在可再生能源领域付出的巨大努力及取得的进展，并呼吁各国落实气候承诺。" data-title="从承诺到行动：COP31上的中国答卷" data-date="11-14 21:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 21:44</span>
+          <span class="news-item-title">从承诺到行动：COP31上的中国答卷</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/229.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会，建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件。一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会让企业不敢分享重要的安全信息。工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的监管责任，并考虑进一步延长期限。此次政策建议意味着工作组的立场发生转变，从此前倾向于依法处罚开发不安全产品的企业，改为通过减轻责任鼓励 AI 开发商报告安全事件。就在上个月，工作组还警告开发商，必须报告并解决安全事件，否则可能面临尚未明确的处罚。据IT之家了解，“超级智能工作组”于今年 9 月底成立。此前，一系列" data-title="白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件" data-date="11-14 21:03" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 21:03</span>
+          <span class="news-item-title">白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/227.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，因在未经意大利用户单独授权、也未充分告知用户的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元（IT之家注：现汇率约合 59.36 亿元人民币）罚单。意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供的“浏览 Facebook 时获取相册推荐”功能。用户浏览 Facebook 期间，该功能会自动推荐手机相册中的照片和视频，作为发帖素材。2025 年 7 月，意大利数据保护局接到博尔扎诺消费者与用户保护中心举报后展开调查，并对该功能进行了技术分析。相关阅读：《Meta 因转载使用新闻摘要，被欧盟法院判决向意大" data-title="Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚" data-date="11-14 20:42" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 20:42</span>
+          <span class="news-item-title">Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位即将领导众议院预算委员会的议员概述了民主党为迫使特朗普总统就降低生活成本的经济一揽子计划进行谈判而采取的各种方案。" data-title="Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda" data-date="11-14 18:01" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-14 18:01</span>
+          <span class="news-item-title">Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10732023.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月14日电 综合消息：亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在深圳举行。多家外媒报道指出，APEC深圳会议为不同规模的经济体在分歧中寻求共识提供机会，各方期待借此进一步接入区域贸易与投资议程，拓展务实合作空间。" data-title="（深圳APEC）外媒聚焦深圳APEC会议周：共识为桥  务实为要" data-date="11-14 16:05" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -561,30 +585,6 @@ title: 股票财经
           <span class="news-item-date">11-13 23:21</span>
           <span class="news-item-title">联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731866.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社布鲁塞尔11月13日电 (记者 德永健)“投资中国”比利时、荷兰、卢森堡企业圆桌会13日在布鲁塞尔举行，中国商务部副部长兼国际贸易谈判副代表凌激主持会议，飞利浦、索尔维、安赛乐米塔尔等近30家比荷卢企业及比中经贸委员会等商协会代表参会。" data-title="“投资中国”比荷卢企业圆桌会在布鲁塞尔举行" data-date="11-13 23:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 23:18</span>
-          <span class="news-item-title">“投资中国”比荷卢企业圆桌会在布鲁塞尔举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731855.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社首尔11月13日电 (金旭 陈艺玲)韩国财政经济部当地时间13日发布一项报告称，得益于出口大幅增长、主要经济指标改善，韩国经济总体保持稳健增长。" data-title="韩国财政经济部：韩国经济总体保持“稳健增长”" data-date="11-13 22:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 22:50</span>
-          <span class="news-item-title">韩国财政经济部：韩国经济总体保持“稳健增长”</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/" target="_blank" rel="noopener" data-cat="caijing" data-summary="ElevenAI是一款面向团队和企业的新型会议记录和听写应用程序。" data-title="ElevenLabs’ new app combines meeting note-taking and dictation for teams" data-date="11-13 22:44" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-13 22:44</span>
-          <span class="news-item-title">ElevenLabs’ new app combines meeting note-taking and dictation for teams</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-13/10731850.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网东京11月13日电 据日本福岛电视台报道，日本东京电力公司13日完成福岛第一核电站第25轮核污染水排海，迄今为止累计排放核污染水达19.6万吨。" data-title="日本核污染水排放总量超19万吨" data-date="11-13 22:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-13 22:33</span>
-          <span class="news-item-title">日本核污染水排放总量超19万吨</span>
-        </a>
   </div>
 </div>
 
@@ -598,4 +598,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-14 16:13（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-14 22:24（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
