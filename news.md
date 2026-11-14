@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-14 22:24 抓取更新</span>
+      <span>2026-11-15 02:21 抓取更新</span>
     </div>
   </div>
 
@@ -25,7 +25,7 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">52</span>
+        <span class="channel-count">49</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +37,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">7</span>
+        <span class="channel-count">4</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -56,47 +56,46 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">52</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">49</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×16 · Tom's Hardware×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · IT之家×8</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="北卡罗来纳大学校长曾试图保护学校免受特朗普政府的影响。但癌症、自杀、艾滋病和冠状病毒方面的研究工作还是受到了影响。" data-title="How the University of North Carolina Tried to Avoid Trump’s Wrath" data-date="11-14 22:12" data-source="纽约时报">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社金边11月14日电 题：在柬埔寨金边“法语国家文化村”感受多元文化魅力" data-title="在柬埔寨金边“法语国家文化村”感受多元文化魅力" data-date="11-14 23:43" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-        <span class="hero-featured-date">🕒 11-14 22:12</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 11-14 23:43</span>
       </div>
-      <h2 class="hero-featured-title">北卡罗来纳大学是如何试图避免招致特朗普的怒火的</h2>
-      <div class="hero-featured-title-en">How the University of North Carolina Tried to Avoid Trump’s Wrath</div>
+      <h2 class="hero-featured-title">在柬埔寨金边“法语国家文化村”感受多元文化魅力</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/027/238.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。”据悉，用户可以借助 Muse 联系保险公司或有线电视服务商、预约美国车管部门的业务办理时间，或是打电话向餐厅订位。Muse 会使用 AI 合成语音与商家工作人员交谈，但这类功能并非总能顺利完成任务。部分商家的工作人员听出对方是 AI 后便直接挂断电话，有人是为了防范诈骗，也有人认为这类来电可能是恶作剧，只会浪费时间。Meta 此前已面向早期体验用户测试了几个月，现向" data-title="智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能" data-date="11-14 21:46" data-source="IT之家">
+    <a class="hero-sub-card" href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" target="_blank" rel="noopener" data-cat="keji" data-summary="从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。" data-title="The AI graveyard: a running list of projects and startups that didn’t make it" data-date="11-15 01:30" data-source="TechCrunch">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
       </div>
-      <p class="hero-sub-title">智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能</p>
+      <p class="hero-sub-title">The AI graveyard: a running list of projects and startups that didn’t make it</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace" data-title="WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace" data-date="11-14 19:15" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/boxing/news/12040/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播。" data-title="McKenna to defend world title live on Sky Sports on December 4" data-date="11-15 00:50" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace</p>
+      <p class="hero-sub-title">McKenna to defend world title live on Sky Sports on December 4</p>
     </a>
-    <a class="hero-sub-card" href="https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这款以太网电缆解绞工具可以将安装 RJ45 连接器所需的时间缩短一半。" data-title="Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables" data-date="11-14 22:20" data-source="Tom's Hardware">
+    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="由于数百架飞机不在位，机组人员也已下班，因此重启该国的飞行系统并非易事。" data-title="Here’s Why It Could Take Days for Flights to Return to Normal" data-date="11-15 01:46" data-source="纽约时报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
       </div>
-      <p class="hero-sub-title">Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables</p>
+      <p class="hero-sub-title">Here’s Why It Could Take Days for Flights to Return to Normal</p>
     </a>
   </div>
 </div>
@@ -107,21 +106,19 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="北卡罗来纳大学校长曾试图保护学校免受特朗普政府的影响。但癌症、自杀、艾滋病和冠状病毒方面的研究工作还是受到了影响。" data-title="How the University of North Carolina Tried to Avoid Trump’s Wrath" data-date="11-14 22:12" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10732210.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社金边11月14日电 题：在柬埔寨金边“法语国家文化村”感受多元文化魅力" data-title="在柬埔寨金边“法语国家文化村”感受多元文化魅力" data-date="11-14 23:43" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-14 22:12</span>
-          <span class="news-item-title">北卡罗来纳大学是如何试图避免招致特朗普的怒火的</span>
-          <span class="news-item-title-en">How the University of North Carolina Tried to Avoid Trump’s Wrath</span>
-          <span class="news-value-point">💡 北卡罗来纳大学校长曾试图保护学校免受特朗普政府的影响</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 23:43</span>
+          <span class="news-item-title">在柬埔寨金边“法语国家文化村”感受多元文化魅力</span>
+          <span class="news-value-point">💡 中新社金边11月14日电 题：在柬埔寨金边“法语国家文化村”感受多元文化魅力</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog" target="_blank" rel="noopener" data-cat="shizheng" data-summary="根据美国政府问责局本周发布的分析报告，五角大楼正竭力追查多达2600万件F-35战斗机零部件的下落，这些零部件的价值估计为310亿美元。" data-title="Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts, weeks after shipment was swiped by China" data-date="11-14 22:00" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10732206.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社伦敦11月14日电 (记者 欧阳开宇)英国苏格兰格拉斯哥一栋公寓楼13日发生人为纵火引发的火灾，共计15名居民送医接受治疗。当地警方已将此次火情定性为蓄意案件并启动专项调查。" data-title="英国格拉斯哥公寓楼发生蓄意纵火案 15人送医" data-date="11-14 22:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 22:00</span>
-          <span class="news-item-title">在F-35飞机零部件被中国盗走数周后，五角大楼“难以解释”310亿美元的零部件去向</span>
-          <span class="news-item-title-en">Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts, weeks after shipment was swiped by China</span>
-          <span class="news-value-point">💡 根据美国政府问责局本周发布的分析报告，五角大楼正竭力追查多达2600万件F-35战斗机零部件的下落，这些零部件的价值估计为310亿美元</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 22:56</span>
+          <span class="news-item-title">英国格拉斯哥公寓楼发生蓄意纵火案 15人送医</span>
+          <span class="news-value-point">💡 中新社伦敦11月14日电 (记者 欧阳开宇)英国苏格兰格拉斯哥一栋公寓楼13日发生人为纵火引发的火灾，共计15名居民送医接受治疗</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="参议员丹·沙利文与前众议员佩尔托拉女士之间的角逐是唯一一场尚未宣布结果的参议院竞选。" data-title="Alaska Senate Race Between Dan Sullivan and Mary Peltola Still Counting Votes" data-date="11-14 21:30" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -167,14 +164,6 @@ title: 热点新闻
           <span class="news-item-title">联合国警告：也门塔伊兹省面临人道主义危机</span>
           <span class="news-value-point">💡 中新网北京11月14日电 综合消息：联合国人道主义事务协调厅、世界粮食计划署等14日警告称，长时间被围困的也门塔伊兹省面临食物短缺、疾病传播等人…</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国人民解放军（PLA）空军军医大学制造了这款无人机，以便能够远程为受伤士兵注射止痛药，并使伤员的转移更加容易。" data-title="China’s Air Force builds drone that shoots painkiller darts at wounded soldiers" data-date="11-14 20:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 20:30</span>
-          <span class="news-item-title">中国空军研制出可向受伤士兵发射止痛镖的无人机</span>
-          <span class="news-item-title-en">China’s Air Force builds drone that shoots painkiller darts at wounded soldiers</span>
-          <span class="news-value-point">💡 中国人民解放军（PLA）空军军医大学制造了这款无人机，以便能够远程为受伤士兵注射止痛药，并使伤员的转移更加容易</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-14/10732141.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月14日电 (记者 曾玥)旅游特色孔子学院联盟14日在北京揭牌成立。至此，全球范围内已建立38个孔子学院联盟或类似工作机制。" data-title="旅游特色孔子学院联盟揭牌成立" data-date="11-14 20:27" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -217,6 +206,13 @@ title: 热点新闻
           <span class="news-item-title">因涉嫌酒驾 驻日美军上尉被日本警方逮捕</span>
           <span class="news-value-point">💡 中新网11月14日电 据日本《读卖新闻》报道，当地时间14日，日本冲绳县警方以涉嫌酒后驾驶逮捕了一名驻冲绳美军上尉</span>
         </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月14日电 综合消息：伊朗伊斯兰革命卫队14日通报称，几小时内，至少有4艘油轮在霍尔木兹海峡触雷起火。联合国方面13日通报称，霍尔木兹海峡及更广泛的中东海域已发生134起商船袭击事件，造成25名海员死亡。" data-title="伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件" data-date="11-14 17:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-14 17:13</span>
+          <span class="news-item-title">伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件</span>
+          <span class="news-value-point">💡 中新社北京11月14日电 综合消息：伊朗伊斯兰革命卫队14日通报称，几小时内，至少有4艘油轮在霍尔木兹海峡触雷起火</span>
+        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -224,64 +220,90 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/027/238.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系美国商家。Meta 称，Muse 可以帮助用户处理各种烦琐事务，完成待办事项。13 日凌晨，Meta 首席 AI 官汪滔在 X 上发文宣布：“Muse 能帮你打完所有不想亲自打的电话。”据悉，用户可以借助 Muse 联系保险公司或有线电视服务商、预约美国车管部门的业务办理时间，或是打电话向餐厅订位。Muse 会使用 AI 合成语音与商家工作人员交谈，但这类功能并非总能顺利完成任务。部分商家的工作人员听出对方是 AI 后便直接挂断电话，有人是为了防范诈骗，也有人认为这类来电可能是恶作剧，只会浪费时间。Meta 此前已面向早期体验用户测试了几个月，现向" data-title="智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能" data-date="11-14 21:46" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/" target="_blank" rel="noopener" data-cat="keji" data-summary="从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目。" data-title="The AI graveyard: a running list of projects and startups that didn’t make it" data-date="11-15 01:30" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 21:46</span>
-          <span class="news-item-title">智能体帮你联络商家或保险公司，Meta 旗下 Muse 上线代打电话功能</span>
-          <span class="news-value-point">💡 IT之家 11 月 14 日消息，Meta 旗下 AI 智能体 Muse 推出代打电话功能，开通高级付费订阅后，用户就能让 Muse 代自己联系…</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-15 01:30</span>
+          <span class="news-item-title">人工智能墓地：未成功完成的项目和初创公司的运行列表</span>
+          <span class="news-item-title-en">The AI graveyard: a running list of projects and startups that didn’t make it</span>
+          <span class="news-value-point">💡 从苹果一再推迟Siri AI到OpenAI凌乱的“超级应用”发布，以下是关闭或未达到预期的人工智能项目</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/233.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了。30 多年前，黄仁勋与两位好友正是在这里构想出了英伟达，而如今纪念这一确切位置的牌匾已不翼而飞。牌匾上的铭文曾写道：“开启一家万亿美元公司的卡座”，如今只剩下一片空荡荡的砖墙和剥落的墙漆。两名店员证实，牌匾已被撤下。▲ 2023 年，丹尼餐厅 CEO Kelli Valade 与英伟达创始人黄仁勋在加利福尼亚州圣何塞的丹尼餐厅同框IT之家注意到，在该媒体发文后，丹尼餐厅的一位发言人表示，该连锁餐厅正在“重新安装这块牌匾，以纪念在丹尼餐厅促成英伟达诞生的那些对话”。“黄仁勋最初是在丹尼餐厅当洗碗工起家的。多年后，他和联合创始人们聚在我们的一个卡座里，探讨了后来演" data-title="黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回" data-date="11-14 21:31" data-source="IT之家">
+        <a class="news-item" href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/" target="_blank" rel="noopener" data-cat="keji" data-summary="一些政府已采取行动，确认芯片供应承诺，而另一些政府则在监测对本地项目的影响或处理正在进行的调查。" data-title="Asian governments react to Nvidia CEO Jensen Huang’s exit" data-date="11-15 00:34" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 21:31</span>
-          <span class="news-item-title">黄仁勋辞任 CEO 后，英伟达诞生地丹尼餐厅移除纪念铭牌、又宣布将重新挂回</span>
-          <span class="news-value-point">💡 IT之家 11 月 14 日消息，据 NBC News 报道，在一家丹尼餐厅（Denny’s）路边店内，硅谷历史的一角仿佛凭空消失了</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-15 00:34</span>
+          <span class="news-item-title">亚洲各国政府对英伟达首席执行官黄仁勋离职一事作出回应</span>
+          <span class="news-item-title-en">Asian governments react to Nvidia CEO Jensen Huang’s exit</span>
+          <span class="news-value-point">💡 一些政府已采取行动，确认芯片供应承诺，而另一些政府则在监测对本地项目的影响或处理正在进行的调查</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/230.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产业投资基金，在北京 · 国家会议中心联合举行“国产数字前端 EDA 新平台发布会”，宣布亚科鸿禹与思尔芯合并重组，新平台公司“新禹思”（HyperS2C）正式成立。官方表示，此次思尔芯与亚科鸿禹的整合并非简单的企业合并，而是国内两大头部数字 EDA 企业的优势互补、能力重构与生态完善。整合后的新禹思，拥有专利 205 项、软件著作权 200 项，具备覆盖从架构设计到系统级验证的数字前端全流程供给能力，服务全球客户超过 800 家，实现了技术能力的升级、产品体系的升级、客户网络的升级，全面对标国际顶尖技术水平。IT之家获悉，新平台有助于改变国产工具多为" data-title="华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立" data-date="11-14 21:07" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 21:07</span>
-          <span class="news-item-title">华大九天联合大湾区基金完成国产数字前端 EDA 专业化整合，新公司“新禹思”成立</span>
-          <span class="news-value-point">💡 IT之家 11 月 14 日消息，在第二十三届中国国际半导体博览会（IC China）期间，北京华大九天科技股份有限公司与粤港澳大湾区科技创新产…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu" target="_blank" rel="noopener" data-cat="keji" data-summary="一位律师的八个GPU Nvidia V100服务器现在以NVFP4精度（而非2位精度）运行DeepSeek V4.1 Flash最常用的专家模型。" data-title="Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision" data-date="11-14 20:50" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass" target="_blank" rel="noopener" data-cat="keji" data-summary="通过我们的订阅服务Tom&#39;s Hardware Premium，了解我们本周发布的所有内容，包括独家采访、本地人工智能深度解析等。" data-title="This week in Tom&#39;s Hardware Premium: November 14, 2026 — Mac Studio versus DGX Spark, AMD&#39;s MEXT cuts DRAM requirements in half, and the Huang saga reaches critical mass" data-date="11-15 00:00" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 20:50</span>
-          <span class="news-item-title">Lawyer 的八卡 V100 AI 服务器将 DeepSeek 从 2 位精度提升至接近 NVFP4 的精度</span>
-          <span class="news-item-title-en">Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision</span>
-          <span class="news-value-point">💡 一位律师的八个GPU Nvidia V100服务器现在以NVFP4精度（而非2位精度）运行DeepSeek V4.1 Flash最常用的专家模型</span>
+          <span class="news-item-date">11-15 00:00</span>
+          <span class="news-item-title">本周《Tom's Hardware Premium》：2026年11月14日——Mac Studio与DGX Spark的对决，AMD的MEXT将DRAM要求减半，黄仁勋的传奇故事达到临界点</span>
+          <span class="news-item-title-en">This week in Tom's Hardware Premium: November 14, 2026 — Mac Studio versus DGX Spark, AMD's MEXT cuts DRAM requirements in half, and the Huang saga reaches critical mass</span>
+          <span class="news-value-point">💡 通过我们的订阅服务Tom's Hardware Premium，了解我们本周发布的所有内容，包括独家采访、本地人工智能深度解析等</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/228.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟谣，否认自己参与签署网传要求前 CEO 黄仁勋复职的公开信，称该信件系伪造，并明确表态支持英伟达董事会及临时 CEO 科莱特 · 克雷斯（Colette Kress）。布莱恩 · 卡坦扎罗声称，即便（公开信）是真的，他也不会签字。IT之家注意到，黄仁勋离任后，网络上流传出一封公开信，以布莱恩 · 卡坦扎罗在内的多名英伟达高管与员工名义要求董事会让黄仁勋复职。据悉，该公开信之所以很快被识破，除了布莱恩 · 卡坦扎罗下场辟谣外，还因为信件文本直接照搬了 2023 年 11 月 OpenAI 员工要求萨姆 · 奥尔特曼（Sam Altman）复职的联名信模" data-title="英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯" data-date="11-14 20:45" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 20:45</span>
-          <span class="news-item-title">英伟达副总裁卡坦扎罗否认签署要求前 CEO 黄仁勋复职的公开信，表态支持董事会和临时 CEO 克雷斯</span>
-          <span class="news-value-point">💡 IT之家 11 月 14 日消息，英伟达应用深度学习研究副总裁布莱恩 · 卡坦扎罗（Bryan Catanzaro）在社交平台 X 上公开发文辟…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/226.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom&#39;s Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠着 AI 和简单的电子接线操作，成功让一辆有 32 年车龄的 1994 款 Jeep 切诺基通过了美国加州的尾气检测。这辆老车的发动机电脑功能十分有限，但祖拉利借助 Arduino Nano 开发板将其连接到笔记本电脑后，不仅能够读取车辆数据，还逐步实现了对部分参数的控制。其发布的视频记录了祖拉利解决尾气排放问题的全过程：从连续检测不合格，到成功连接发动机电脑并读取数据，再到调整发动机、解决排放超标问题。整个过程中，Claude 负责指导，Codex 则负责写代码。切诺基此前多次未能通过加州尾气检测，原因是在特定车速下氮氧化物排放超标。最初，车辆在" data-title="借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测" data-date="11-14 20:36" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 20:36</span>
-          <span class="news-item-title">借助 Claude 和 Arduino 开发板，达人让 1994 款切诺基通过加州排放检测</span>
-          <span class="news-value-point">💡 IT之家 11 月 14 日消息，当地时间 13 日，据外媒 Tom's Hardware 报道，美国的一名 AI 爱好者穆罕默德 · 祖拉利靠…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company" target="_blank" rel="noopener" data-cat="keji" data-summary="加利福尼亚州圣何塞的Denny&#39;s分店曾挂有一块牌匾，纪念Jensen Huang和另外两位联合创始人在这里的卡座上努力创立Nvidia。" data-title="Commemorative plaque at Denny’s booth where Nvidia was born has been removed in wake of Jensen Huang scandals" data-date="11-14 20:00" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that" target="_blank" rel="noopener" data-cat="keji" data-summary="斯科特·贝森特（Scott Bessent）想知道英伟达的管理层是否知晓向空壳公司出售受限硬件一事，但他并未直接指责黄仁勋（Jensen Huang）。" data-title="U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible" data-date="11-14 23:35" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 20:00</span>
-          <span class="news-item-title">在黄仁勋丑闻曝出后，Nvidia诞生地Denny's餐厅的纪念牌匾已被移除</span>
-          <span class="news-item-title-en">Commemorative plaque at Denny’s booth where Nvidia was born has been removed in wake of Jensen Huang scandals</span>
-          <span class="news-value-point">💡 加利福尼亚州圣何塞的Denny's分店曾挂有一块牌匾，纪念Jensen Huang和另外两位联合创始人在这里的卡座上努力创立Nvidia</span>
+          <span class="news-item-date">11-14 23:35</span>
+          <span class="news-item-title">美国财政部长质疑英伟达是否明知故犯地向空壳公司出售人工智能GPU，并表示公司本身应承担责任</span>
+          <span class="news-item-title-en">U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible</span>
+          <span class="news-value-point">💡 斯科特·贝森特（Scott Bessent）想知道英伟达的管理层是否知晓向空壳公司出售受限硬件一事，但他并未直接指责黄仁勋（Jensen Hua…</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug" target="_blank" rel="noopener" data-cat="keji" data-summary="一位新的内核贡献者使用人工智能为驱动其近20年历史的Radeon GPU的驱动程序开发了一个补丁。" data-title="Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback" data-date="11-14 19:00" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.ithome.com/1/027/247.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作。马斯克称赞黄仁勋在供应链管理方面表现出色，指出英伟达许多交易都是靠黄仁勋与合作方握手达成的，并没有签署书面合同。紧接着，马斯克又补充说：“如果黄仁勋答应向我交付算力，或者我要求加快零部件供应，他每次都能说到做到。当然，我们之后还是会补上采购订单，但我从来没有怀疑过他会兑现承诺。”据IT之家了解，就在昨天，马斯克发文回应网友关于“约 1600 名英伟达员工呼吁黄仁勋回归”的推文：一项要求让黄仁勋复职的请愿正在进行，我也会签署。相关阅读：《马斯克声援黄仁勋：将签署请愿，支持其重返英伟达 CEO 岗位》《马斯克谈黄仁勋结束 33 年掌舵英伟达生涯：创始人很难" data-title="马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作" data-date="11-14 23:28" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 23:28</span>
+          <span class="news-item-title">马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，今天（14 日）晚间，马斯克在 X 平台发文称，随着黄仁勋离任 CEO，英伟达将失去一些至关重要的商业合作</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity" target="_blank" rel="noopener" data-cat="keji" data-summary="马来西亚计划跟踪人工智能GPU进口和数据中心能耗，以打击芯片走私。但它能做到吗？" data-title="Malaysia plans new law using data center power consumption to catch AI GPU smugglers" data-date="11-14 23:10" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 19:00</span>
-          <span class="news-item-title">在发布近20年后，老旧的AMD Radeon HD 2000和3000系列GPU终于获得了针对视频播放损坏问题的Linux补丁。</span>
-          <span class="news-item-title-en">Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback</span>
-          <span class="news-value-point">💡 一位新的内核贡献者使用人工智能为驱动其近20年历史的Radeon GPU的驱动程序开发了一个补丁</span>
+          <span class="news-item-date">11-14 23:10</span>
+          <span class="news-item-title">马来西亚计划出台新法律，利用数据中心耗电量来抓捕人工智能GPU走私者</span>
+          <span class="news-item-title-en">Malaysia plans new law using data center power consumption to catch AI GPU smugglers</span>
+          <span class="news-value-point">💡 马来西亚计划跟踪人工智能GPU进口和数据中心能耗，以打击芯片走私</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig" target="_blank" rel="noopener" data-cat="keji" data-summary="除了Ryzen 7 9800X3D和Radeon RX 9070之外，购买者还将获得一个360mm AIO一体式水冷散热器、850W电源、32GB DDR5-5600内存和1TB固态硬盘，所有这些都装在一个配备RGB灯光的优质中塔式机箱内。" data-title="AMD&#39;s fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount" data-date="11-14 23:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-14 23:00</span>
+          <span class="news-item-title">AMD 最快的游戏 CPU 和 Radeon RX 9070 刚刚获得了高达 550 美元的巨额折扣</span>
+          <span class="news-item-title-en">AMD's fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount</span>
+          <span class="news-value-point">💡 除了Ryzen 7 9800X3D和Radeon RX 9070之外，购买者还将获得一个360mm AIO一体式水冷散热器、850W电源、32G…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview" target="_blank" rel="noopener" data-cat="keji" data-summary="今天，我将与乔治敦大学安全与新兴技术中心的执行主任Helen Toner进行对话。本期节目是我们“人工智能在现实生活中的应用”系列的第二期。Helen是人工智能安全和政策领域的知名人士。" data-title="The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs" data-date="11-14 23:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-14 23:00</span>
+          <span class="news-item-title">解雇萨姆·阿尔特曼的OpenAI董事会成员表示，我们仍然不能信任人工智能公司的首席执行官</span>
+          <span class="news-item-title-en">The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs</span>
+          <span class="news-value-point">💡 今天，我将与乔治敦大学安全与新兴技术中心的执行主任Helen Toner进行对话</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/245.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，根据 Intel（英特尔）官网页面，此前悄然上市的酷睿 Ultra 7 处理器 260K 实际上早在 2026 年第 3 季度就已发行。而从规格上来看，其大致相当于 Ultra 7 265K 的降频版。英特尔酷睿 Ultra 7 处理器 260K 的最大睿频频率为 5.4GHz、性能核最大睿频频率为 5.3GHz、能效核最大睿频频率为 4.5GHz，这三项数据均比 Ultra 7 265K 低 0.1GHz，但性能核与能效核的基本频率保持不变。同时，该处理器的内存支持为 DDR5 6400MT/s，暗示其并非 &quot;Arrow Lake Refresh&quot; 的一员，仍属于初代 &quot;Arrow Lake&quot;，晶粒间频率应该也会相对较低。此外，英特尔酷睿 Ultra 7" data-title="英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz" data-date="11-14 22:51" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 22:51</span>
+          <span class="news-item-title">英特尔官网确认酷睿 Ultra 7 处理器 260K 规格，最大睿频频率 5.4GHz</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，根据 Intel（英特尔）官网页面，此前悄然上市的酷睿 Ultra 7 处理器 260K 实际上早在 2026…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware" target="_blank" rel="noopener" data-cat="keji" data-summary="研究人员指出，DeepSeek、Kimi和其他中国人工智能模型是在受出口管制的Nvidia Blackwell芯片上训练的——对模型权重的统计分析显示，它们与Nvidia硬件具有高度相关性。" data-title="Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs" data-date="11-14 22:50" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-14 22:50</span>
+          <span class="news-item-title">研究人员称，DeepSeek、Kimi和其他中国人工智能模型是在使用被禁用的Nvidia Blackwell GPU进行训练的。</span>
+          <span class="news-item-title-en">Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs</span>
+          <span class="news-value-point">💡 研究人员指出，DeepSeek、Kimi和其他中国人工智能模型是在受出口管制的Nvidia Blackwell芯片上训练的——对模型权重的统计分…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/244.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台。其中一个项目开发了 Arm 转 x86 指令翻译层，计划让大多数较新的英特尔和 AMD 处理器能够运行 macOS，早期版本现已开放试用。另一个项目则在搭载骁龙处理器的华硕 Zenbook 笔记本上成功启动 macOS，部分基本功能也能正常使用。黑苹果的历史可以追溯到 20 世纪 80 年代，但在非苹果设备上运行 macOS 直到 21 世纪初才逐渐流行。2006 年，苹" data-title="“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑" data-date="11-14 22:49" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 22:49</span>
+          <span class="news-item-title">“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现</span>
         </a>
         <a class="news-item" href="https://www.qbitai.com/2026/11/510297.html" target="_blank" rel="noopener" data-cat="keji" data-summary="马斯克也签名了" data-title="英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！" data-date="11-14 18:08" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -296,13 +318,6 @@ title: 热点新闻
           <span class="news-item-date">11-14 17:58</span>
           <span class="news-item-title">“史上最严”湿实验预测基准发布！推理拉满、算力翻5倍也白搭</span>
           <span class="news-value-point">💡 斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/158.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 14 日消息，外媒 9to5Google 在拆解谷歌 Android Auto 18.2 测试版时发现，谷歌仍在继续开发 Android Auto 的浅色模式菜单界面。具体来看，官方在本次更新中悄悄调整了超过 100 项界面资源文件，主要涉及按钮等用户界面元素。res/drawable/ic_mr_button_connected_14_dark.xmlres/drawable/ic_mr_button_connected_15_dark.xml外媒表示，谷歌最近的每次更新都在不断完善浅色模式功能，至于相应功能确切上线时间，目前还不得而知。值得一提的是，过去几个月谷歌已经为 Android Auto 带来了不少更具实际价值的功能，其中较新的变化是 Gemini Intel" data-title="谷歌推送 Android Auto 18.2 测试版，代码显示官方正持续开发浅色模式菜单界面" data-date="11-14 15:44" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 15:44</span>
-          <span class="news-item-title">谷歌推送 Android Auto 18.2 测试版，代码显示官方正持续开发浅色模式菜单界面</span>
-          <span class="news-value-point">💡 IT之家 11 月 14 日消息，外媒 9to5Google 在拆解谷歌 Android Auto 18.2 测试版时发现，谷歌仍在继续开发 A…</span>
         </a>
         <a class="news-item" href="https://www.qbitai.com/2026/11/510003.html" target="_blank" rel="noopener" data-cat="keji" data-summary="官方App功能均可自由组合调用" data-title="突发！DeepSeek开放全家桶API" data-date="11-14 10:39" data-source="量子位">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -319,35 +334,28 @@ title: 热点新闻
           <span class="news-item-title-en">Nvidia Scandal Prompts Questions of What It Means to Be a Spy</span>
           <span class="news-value-point">💡 美国情报机构认为，与黄仁勋有染的一名女性是中国情报人员</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/" target="_blank" rel="noopener" data-cat="keji" data-summary="在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正准备迎接更少的投资和更低的估值。" data-title="Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say" data-date="11-14 06:43" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-14 06:43</span>
-          <span class="news-item-title">风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口</span>
-          <span class="news-item-title-en">Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</span>
-          <span class="news-value-point">💡 在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void" target="_blank" rel="noopener" data-cat="keji" data-summary="据报道，英伟达董事会在寻找首席执行官的过程中曾与Arm首席执行官、英伟达的资深老将Rene Haas接触。" data-title="Nvidia board reportedly approached Arm CEO Rene Haas during replacement search" data-date="11-14 05:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 05:00</span>
-          <span class="news-item-title">据报道，在寻找继任者期间，Nvidia董事会曾与Arm首席执行官Rene Haas接触。</span>
-          <span class="news-item-title-en">Nvidia board reportedly approached Arm CEO Rene Haas during replacement search</span>
-          <span class="news-value-point">💡 据报道，英伟达董事会在寻找首席执行官的过程中曾与Arm首席执行官、英伟达的资深老将Rene Haas接触</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">7 条</span>
+      <span class="news-category-count">4 条</span>
     </div>
-        <a class="news-item" href="https://www.skysports.com/football/chelsea-women-vs-manchester-city-women/live/575819" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace" data-title="WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace" data-date="11-14 19:15" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/boxing/news/12040/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播。" data-title="McKenna to defend world title live on Sky Sports on December 4" data-date="11-15 00:50" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-14 19:15</span>
-          <span class="news-item-title">英超女足联赛直播！切尔西对阵曼城比赛正在进行，曼联领先水晶宫</span>
-          <span class="news-item-title-en">WSL LIVE! Chelsea vs Man City under way, Man Utd lead Palace</span>
+          <span class="news-item-date">11-15 00:50</span>
+          <span class="news-item-title">麦肯纳将于 12 月 4 日在 Sky Sports 直播中捍卫世界冠军头衔</span>
+          <span class="news-item-title-en">McKenna to defend world title live on Sky Sports on December 4</span>
+          <span class="news-value-point">💡 阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联以 2-0 的压倒性优势战胜水晶宫，升至英超女足联赛第四名，玛雅·勒·蒂西耶在她的第 150 场俱乐部出场中以一记精彩的射门庆祝。" data-title="Le Tissier hits stunner to mark milestone in Man Utd win" data-date="11-14 18:54" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-14 18:54</span>
+          <span class="news-item-title">勒·蒂西耶踢进精彩进球，为曼联的胜利立下里程碑</span>
+          <span class="news-item-title-en">Le Tissier hits stunner to mark milestone in Man Utd win</span>
+          <span class="news-value-point">💡 曼联以 2-0 的压倒性优势战胜水晶宫，升至英超女足联赛第四名，玛雅·勒·蒂西耶在她的第 150 场俱乐部出场中以一记精彩的射门庆祝</span>
         </a>
         <a class="news-item" href="https://www.skysports.com/football/news/11661/13611443/mauricio-pochettino-to-man-utd-what-does-a-pochettino-team-look-like-and-how-will-he-set-up-struggling-red-devils" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在迈克尔·卡里克被解雇后，毛里西奥·波切蒂诺被任命为曼联的新任主教练。那么，球迷们在球场上究竟可以期待什么呢？" data-title="What does a Pochettino team look like?" data-date="11-14 15:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -365,38 +373,6 @@ title: 热点新闻
           <span class="news-item-title-en">Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?</span>
           <span class="news-value-point">💡 曼联球迷可以对新任主教练毛里西奥·波切蒂诺抱有怎样的期望</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="情绪激动的毛里西奥·波切蒂诺在解释他为何离开美国去执教曼联时泪流满面。" data-title="Tearful Pochettino on &#39;difficult&#39; decision to leave USA for Man Utd" data-date="11-13 23:28" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-13 23:28</span>
-          <span class="news-item-title">波切蒂诺含泪谈及离开美国队执教曼联的“艰难”决定</span>
-          <span class="news-item-title-en">Tearful Pochettino on 'difficult' decision to leave USA for Man Utd</span>
-          <span class="news-value-point">💡 情绪激动的毛里西奥·波切蒂诺在解释他为何离开美国去执教曼联时泪流满面</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="情绪激动的毛里西奥·波切蒂诺表示，离开美国队是他“职业生涯中最艰难的决定”，但他承认，他无法拒绝成为曼联主教练的机会。" data-title="Tearful Pochettino admits he &#39;couldn&#39;t say no to Man Utd&#39;" data-date="11-13 23:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-13 23:00</span>
-          <span class="news-item-title">泪流满面的波切蒂诺承认他“无法拒绝曼联”</span>
-          <span class="news-item-title-en">Tearful Pochettino admits he 'couldn't say no to Man Utd'</span>
-          <span class="news-value-point">💡 情绪激动的毛里西奥·波切蒂诺表示，离开美国队是他“职业生涯中最艰难的决定”，但他承认，他无法拒绝成为曼联主教练的机会</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13611887/mauricio-pochettino-new-man-utd-head-coach-in-tears-as-he-labels-leaving-usmnt-toughest-decision-of-career" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="情绪激动的毛里西奥·波切蒂诺表示，离开美国队是他“职业生涯中最艰难的决定”，但他承认，他无法拒绝成为曼联主教练的机会。" data-title="Tearful Pochettino admits he &#39;couldn&#39;t say no to Man Utd&#39;" data-date="11-13 23:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-13 23:00</span>
-          <span class="news-item-title">泪流满面的波切蒂诺承认他“无法拒绝曼联”</span>
-          <span class="news-item-title-en">Tearful Pochettino admits he 'couldn't say no to Man Utd'</span>
-          <span class="news-value-point">💡 情绪激动的毛里西奥·波切蒂诺表示，离开美国队是他“职业生涯中最艰难的决定”，但他承认，他无法拒绝成为曼联主教练的机会</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13611928/mauricio-pochettino-left-in-tears-on-leaving-us-job-most-difficult-decision" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="新任曼联主帅毛里西奥·波切蒂诺在感谢美国足球联合会时情绪非常激动。" data-title="Pochettino left in tears on leaving US job - &#39;Most difficult decision&#39;" data-date="11-13 22:49" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-13 22:49</span>
-          <span class="news-item-title">波切蒂诺泪洒离别之际，告别美国队主帅一职——“最艰难的决定”</span>
-          <span class="news-item-title-en">Pochettino left in tears on leaving US job - 'Most difficult decision'</span>
-          <span class="news-value-point">💡 新任曼联主帅毛里西奥·波切蒂诺在感谢美国足球联合会时情绪非常激动</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -404,115 +380,119 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这款以太网电缆解绞工具可以将安装 RJ45 连接器所需的时间缩短一半。" data-title="Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables" data-date="11-14 22:20" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="由于数百架飞机不在位，机组人员也已下班，因此重启该国的飞行系统并非易事。" data-title="Here’s Why It Could Take Days for Flights to Return to Normal" data-date="11-15 01:46" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-15 01:46</span>
+          <span class="news-item-title">以下是航班恢复正常可能需要数天的原因</span>
+          <span class="news-item-title-en">Here’s Why It Could Take Days for Flights to Return to Normal</span>
+          <span class="news-value-point">💡 由于数百架飞机不在位，机组人员也已下班，因此重启该国的飞行系统并非易事</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire" target="_blank" rel="noopener" data-cat="zonghe" data-summary="交通部长肖恩·达菲（Sean Duffy）在今天的新闻发布会上表示，周五美国联邦航空管理局（FAA）下令的全国性地面停飞与一项工程有关，该工程是在“FAA的一个偏远设施”将老旧的铜线更换为光纤线路。部长表示，" data-title="Work to replace old copper wire led to the FAA’s ground stop" data-date="11-15 01:44" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-15 01:44</span>
+          <span class="news-item-title">更换旧铜线的工程导致美国联邦航空管理局（FAA）下达地面停飞令</span>
+          <span class="news-item-title-en">Work to replace old copper wire led to the FAA’s ground stop</span>
+          <span class="news-value-point">💡 交通部长肖恩·达菲（Sean Duffy）在今天的新闻发布会上表示，周五美国联邦航空管理局（FAA）下令的全国性地面停飞与一项工程有关，该工程是…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近几个月来，美国联邦航空管理局的老化空中交通管制基础设施发生了数次造成中断的故障，而官员们一直在努力进行升级。" data-title="Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System" data-date="11-15 00:36" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-15 00:36</span>
+          <span class="news-item-title">停飞事件凸显航空交通系统的长期性脆弱性</span>
+          <span class="news-item-title-en">Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System</span>
+          <span class="news-value-point">💡 近几个月来，美国联邦航空管理局的老化空中交通管制基础设施发生了数次造成中断的故障，而官员们一直在努力进行升级</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off" target="_blank" rel="noopener" data-cat="zonghe" data-summary="无论您是正在组装新电脑、扩展游戏库，还是更换旧的SATA硬盘，三星990都能让您轻松地为系统添加高速PCIe 4.0存储。" data-title="Samsung&#39;s 1TB 990 SSD drops to 19 cents per GB amid the memory crisis" data-date="11-15 00:32" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 22:20</span>
-          <span class="news-item-title">在面临一项需要 5 万根定制 Cat6 电缆的工程后，承包商将一台密尔沃基 Hackzall 改造成了一台便携式以太网电缆绞线分离器。</span>
-          <span class="news-item-title-en">Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables</span>
-          <span class="news-value-point">💡 这款以太网电缆解绞工具可以将安装 RJ45 连接器所需的时间缩短一半</span>
+          <span class="news-item-date">11-15 00:32</span>
+          <span class="news-item-title">在存储器危机之际，三星1TB 990 SSD的价格降至每GB 19美分</span>
+          <span class="news-item-title-en">Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis</span>
+          <span class="news-value-point">💡 无论您是正在组装新电脑、扩展游戏库，还是更换旧的SATA硬盘，三星990都能让您轻松地为系统添加高速PCIe 4.0存储</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print" target="_blank" rel="noopener" data-cat="zonghe" data-summary="特斯拉向“特定客户”提供购买Cybercab用于“个人使用”的机会，这使其对自动驾驶未来的大胆宣称力度加倍，甚至可能翻了两番。但这款镀金的无方向盘双座车型“仅在支持的地区" data-title="Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print" data-date="11-14 22:18" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-14 22:18</span>
-          <span class="news-item-title">特斯拉正在邀请一些人“自用”购买Cybercab——但请仔细阅读小字条款</span>
-          <span class="news-item-title-en">Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print</span>
-          <span class="news-value-point">💡 特斯拉向“特定客户”提供购买Cybercab用于“个人使用”的机会，这使其对自动驾驶未来的大胆宣称力度加倍，甚至可能翻了两番</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on" target="_blank" rel="noopener" data-cat="zonghe" data-summary="虽然我很欣赏任天堂 Switch 的 Joy-Con 巧妙的设计，但我和家人都受不了将它们作为独立的游戏手柄来使用。因此，当我们带着 Switch 2 旅行时，我们总是会带上至少一个全尺寸游戏手柄，外加几个 8BitDo。" data-title="This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers" data-date="11-14 22:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-14 22:00</span>
-          <span class="news-item-title">这款小巧的双模拟摇杆游戏手柄突破了便携式手柄的极限</span>
-          <span class="news-item-title-en">This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers</span>
-          <span class="news-value-point">💡 虽然我很欣赏任天堂 Switch 的 Joy-Con 巧妙的设计，但我和家人都受不了将它们作为独立的游戏手柄来使用</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/golf/live-blog/12040/13611918/dp-world-tour-championship-rory-mcilroy-eugenio-chacarra-set-for-final-day-battle-who-will-win-the-race-to-dubai" target="_blank" rel="noopener" data-cat="zonghe" data-summary="McIlroy backed for Race to Dubai &#39;reset&#39; - can he overcome Chacarra?" data-title="McIlroy backed for Race to Dubai &#39;reset&#39; - can he overcome Chacarra?" data-date="11-14 21:40" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13612236/meetmebythesea-gives-mcmanus-a-first-paddy-power-gold-cup" target="_blank" rel="noopener" data-cat="zonghe" data-summary="本·保林（Ben Pauling）的Meetmebythesea再次展现出对切尔滕纳姆赛场的喜爱，并为马主JP·麦克马纳斯（JP McManus）赢得了在久负盛名的帕迪·鲍尔金杯赛（Paddy Power Gold Cup）上的首场胜利。" data-title="Meetmebythesea gives McManus a first Paddy Power Gold Cup" data-date="11-15 00:03" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-14 21:40</span>
-          <span class="news-item-title">麦克罗伊支持“重启”迪拜争霸赛——他能战胜查卡拉吗？</span>
-          <span class="news-item-title-en">McIlroy backed for Race to Dubai 'reset' - can he overcome Chacarra?</span>
+          <span class="news-item-date">11-15 00:03</span>
+          <span class="news-item-title">Meetmebythesea为麦克马纳斯赢得首个Paddy Power金杯</span>
+          <span class="news-item-title-en">Meetmebythesea gives McManus a first Paddy Power Gold Cup</span>
+          <span class="news-value-point">💡 本·保林（Ben Pauling）的Meetmebythesea再次展现出对切尔滕纳姆赛场的喜爱，并为马主JP·麦克马纳斯（JP McManus…</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/231.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 14 日消息，据央视新闻今天（14 日）晚间报道，荷兰皇家航空公司前首席执行官（CEO）卡米尔 · 厄尔林斯 9 月在该公司一架客机上违规使用充电宝引发火情，荷航日前已就此事向检方提请指控厄尔林斯。荷航 13 日在一份声明中说：“如果乘客严重违反安全规定，危及航班、乘客或机组人员安全，公司方面会提出指控，这是标准做法。”荷航没有公布当事人身份。消息人士称，受指控的是厄尔林斯。多方消息称，9 月 17 日，一架荷航客机从荷兰首都阿姆斯特丹飞往加勒比海的荷兰海外属地库拉索，途中客舱出现火情。当时，厄尔林斯违规使用充电宝，充电宝过热自燃，浓烟笼罩客舱，火焰把窗户遮阳板烧得焦黑。厄尔林斯本人在睡梦中受轻微伤。机组人员迅速用灭火器把火扑灭。飞机立即返航，安全返回阿姆斯特丹。IT之家" data-title="荷兰皇家航空前 CEO 被曝机上违规使用充电宝引发火情，公司提请指控" data-date="11-14 21:28" data-source="IT之家">
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal" target="_blank" rel="noopener" data-cat="zonghe" data-summary="面对世界上最出色的球队，托马斯·图赫尔的防守决策将是关键。而他需要做出很多决定。" data-title="A new No 1? How to stop Lamine Yamal? Tuchel&#39;s selection issues" data-date="11-15 00:02" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-15 00:02</span>
+          <span class="news-item-title">新的头号球星？如何阻止拉明·亚马尔？图赫尔的选人问题</span>
+          <span class="news-item-title-en">A new No 1? How to stop Lamine Yamal? Tuchel's selection issues</span>
+          <span class="news-value-point">💡 面对世界上最出色的球队，托马斯·图赫尔的防守决策将是关键</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今天，我们将重点关注一项鲜有讨论的技术，它在将这个视觉效果丰富、细节密集的虚拟世界带到硬件资源更为有限的系统方面发挥着同样重要的作用：旨在减少 RAM 使用量的存储技术。" data-title="We tested the RAM-saving storage tech in Gears of War: E-Day" data-date="11-14 23:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-14 23:30</span>
+          <span class="news-item-title">我们在《战争机器：E日》中测试了节省内存的存储技术</span>
+          <span class="news-item-title-en">We tested the RAM-saving storage tech in Gears of War: E-Day</span>
+          <span class="news-value-point">💡 今天，我们将重点关注一项鲜有讨论的技术，它在将这个视觉效果丰富、细节密集的虚拟世界带到硬件资源更为有限的系统方面发挥着同样重要的作用：旨在减少 …</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/norway-vs-wales/live/554107" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Nusa breaks Wales&#39; resistance in Oslo LIVE!" data-title="Nusa breaks Wales&#39; resistance in Oslo LIVE!" data-date="11-14 23:30" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-14 23:30</span>
+          <span class="news-item-title">努萨在奥斯陆打破威尔士的防线，直播中！</span>
+          <span class="news-item-title-en">Nusa breaks Wales' resistance in Oslo LIVE!</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/246.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致全美航班地面停飞的故障设备已被查明并隔离。克利夫援引官员的话说，美国联邦航空管理局（FAA）认为，故障仅涉及一种“特定型号”的 20 年历史老路由器。“（系统）基本上是被负载压垮了，不过具体原因尚不清楚。”初步信息显示，路由器过载后开始传输不同步的数据，造成空管人员的语音通信线路出现杂音，还可能导致显示屏闪烁或黑屏，与 2025 年纽瓦克自由国际机场发生的故障类似。据IT之家此前报道，当地时间 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日，美国境内及往返美国的航班已有超" data-title="导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器" data-date="11-14 23:06" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 21:28</span>
-          <span class="news-item-title">荷兰皇家航空前 CEO 被曝机上违规使用充电宝引发火情，公司提请指控</span>
-          <span class="news-value-point">💡 IT之家 11 月 14 日消息，据央视新闻今天（14 日）晚间报道，荷兰皇家航空公司前首席执行官（CEO）卡米尔 · 厄尔林斯 9 月在该公司…</span>
+          <span class="news-item-date">11-14 23:06</span>
+          <span class="news-item-title">导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-14/10732179.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网昆明11月14日电 (罗婕)近日，云南省人民政府印发《云南省文化和旅游发展“十五五”规划》(以下简称《规划》)，该省将加强保护传承，构建不可移动文物资源“一张图”，建立非遗资源总目录。" data-title="文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承" data-date="11-14 21:19" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 21:19</span>
-          <span class="news-item-title">文物“一张图”非遗“一本账” 云南“十五五”将加强文化遗产保护传承</span>
-          <span class="news-value-point">💡 中新网昆明11月14日电 (罗婕)近日，云南省人民政府印发《云南省文化和旅游发展“十五五”规划》(以下简称《规划》)，该省将加强保护传承，构建不…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10732168.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网上海11月14日电 题：荷兰学者奥雷·伯曼：万里归来，“东游”未止" data-title="荷兰学者奥雷·伯曼：万里归来，“东游”未止" data-date="11-14 21:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 21:06</span>
-          <span class="news-item-title">荷兰学者奥雷·伯曼：万里归来，“东游”未止</span>
-          <span class="news-value-point">💡 中新网上海11月14日电 题：荷兰学者奥雷·伯曼：万里归来，“东游”未止</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10732161.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网太原11月14日电 (记者 李庭耀)山西省公安厅14日集中公布6起涉嫌新型黑恶违法犯罪典型案例，共抓获犯罪嫌疑人22名。" data-title="山西公安公布一批涉嫌新型黑恶违法犯罪典型案例 22人落网" data-date="11-14 21:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 21:01</span>
-          <span class="news-item-title">山西公安公布一批涉嫌新型黑恶违法犯罪典型案例 22人落网</span>
-          <span class="news-value-point">💡 中新网太原11月14日电 (记者 李庭耀)山西省公安厅14日集中公布6起涉嫌新型黑恶违法犯罪典型案例，共抓获犯罪嫌疑人22名</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/save-up-to-usd800-on-an-ibuypower-gaming-pc-right-now-in-this-massive-black-friday-sale-coupon-code-knocks-up-to-usd200-extra-off-high-spec-pre-built-rigs-fitted-with-nvidia-and-amd-gpus" target="_blank" rel="noopener" data-cat="zonghe" data-summary="iBuyPower将于今年11月针对新款游戏电脑开展为期一个月的黑色星期五促销活动。" data-title="Save up to $800 on an iBuyPower gaming PC right now in this massive Black Friday sale" data-date="11-14 21:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-14 21:00</span>
-          <span class="news-item-title">现在，在这次盛大的黑色星期五促销活动中，购买iBuyPower游戏电脑最高可节省800美元</span>
-          <span class="news-item-title-en">Save up to $800 on an iBuyPower gaming PC right now in this massive Black Friday sale</span>
-          <span class="news-value-point">💡 iBuyPower将于今年11月针对新款游戏电脑开展为期一个月的黑色星期五促销活动</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer" target="_blank" rel="noopener" data-cat="zonghe" data-summary="大家好！欢迎来到Installer第152期，这里是您了解世界上最棒、最Verge的事物的指南。（如果您是新来的，欢迎您，感谢您抽空离开塞尔达来到这里，您还可以在Installer主页上阅读所有旧版。）" data-title="A gadget to make your dumb house smarter" data-date="11-14 21:00" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026" target="_blank" rel="noopener" data-cat="zonghe" data-summary="黑色星期五已经成为一个独立的购物季，零售商再次在真正的购物节到来之前就提前提供折扣。我们已经整理了一些我们发现的最佳黑色星期五提前优惠，但如果您正在寻找" data-title="Here are our favorite deals from REI’s giant Holiday Sale" data-date="11-14 23:00" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-14 21:00</span>
-          <span class="news-item-title">让您的“傻瓜”房屋变得更智能的小工具</span>
-          <span class="news-item-title-en">A gadget to make your dumb house smarter</span>
-          <span class="news-value-point">💡 大家好</span>
+          <span class="news-item-date">11-14 23:00</span>
+          <span class="news-item-title">以下是我们最喜爱的REI大型假日促销优惠</span>
+          <span class="news-item-title-en">Here are our favorite deals from REI’s giant Holiday Sale</span>
+          <span class="news-value-point">💡 黑色星期五已经成为一个独立的购物季，零售商再次在真正的购物节到来之前就提前提供折扣</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/rugby-union/live-blog/12040/13612004/wales-vs-new-zealand-england-vs-japan-live-nations-championship-updates-latest-scores-team-news-commentary-from-cardiff-twickenham" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Wales vs New Zealand LIVE! Hosts stun All Blacks with two tries inside six minutes" data-title="Wales vs New Zealand LIVE! Hosts stun All Blacks with two tries inside six minutes" data-date="11-14 20:45" data-source="天空体育">
+        <a class="news-item" href="https://www.ithome.com/1/027/243.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。IT之家注意到，先前相应手机规格已曝光，具体参数如下：OPPO Reno176.56 英寸 1.5K LTPS 直屏骁龙 7 Gen4 处理器前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦8000mAh 电池 +80W 快充金属中框，光学指纹OPPO Reno17 Pro6.32 英寸 1.5K LTPS 直屏天玑" data-title="OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布" data-date="11-14 22:43" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 22:43</span>
+          <span class="news-item-title">OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno1…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/242.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini。这一型号由华硕与《无畏契约》世界冠军选手 Max &quot;Demon1&quot; Mazanov 共同打造，结合最新硬件和面向抓握与指握用户的紧凑型半对称模具。龙鳞 2 Ace Mini 三维 118.2 × 61.3 × 40.2 (mm)，质量 47g；配备 ROG AimPoint Pro 65K 传感器、ROG 100M 光学微动开关；支持三模连接，搭载第二代 ROG SpeedNova 8K 无线技术；可选暗夜黑、月耀白、晴空蓝、熔岩红 4 种常规配色。除常规版本外，华硕还带来了 &quot;Demon1&quot; 联名款的龙鳞 2 Ace Mini。其拥有渐变淡紫色涂装、&quot;Demon1&quot;" data-title="华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，&quot;Demon1&quot; 联名款同步亮相" data-date="11-14 22:40" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 22:40</span>
+          <span class="news-item-title">华硕 ROG 带来龙鳞 2 Ace Mini 鼠标，"Demon1" 联名款同步亮相</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，华硕 (ASUS) 今日公布了鼠标新品 ROG 龙鳞 (Harpe) 2 Ace Mini</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/golf/news/12040/13612201/dp-world-tour-championship-eugenio-chacarra-edges-back-ahead-of-rory-mcilroy-in-race-to-dubai-battle-ahead-of-final-day" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在第三轮比赛中表现出色后，尤金尼奥·查卡拉（Eugenio Chacarra）不仅希望在DP世界巡回锦标赛上阻止罗里·麦克罗伊（Rory McIlroy）赢得迪拜争霸赛的胜利，而且还希望取得更多成就。" data-title="Chacarra reveals plan for &#39;dream&#39; win over McIlroy and &#39;Dubai double&#39;" data-date="11-14 22:35" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-14 20:45</span>
-          <span class="news-item-title">威尔士对阵新西兰直播！主队在6分钟内两次达阵，令全黑队措手不及</span>
-          <span class="news-item-title-en">Wales vs New Zealand LIVE! Hosts stun All Blacks with two tries inside six minutes</span>
+          <span class="news-item-date">11-14 22:35</span>
+          <span class="news-item-title">查卡拉透露了战胜麦克罗伊和“迪拜双冠”的“梦想”计划</span>
+          <span class="news-item-title-en">Chacarra reveals plan for 'dream' win over McIlroy and 'Dubai double'</span>
+          <span class="news-value-point">💡 在第三轮比赛中表现出色后，尤金尼奥·查卡拉（Eugenio Chacarra）不仅希望在DP世界巡回锦标赛上阻止罗里·麦克罗伊（Rory McI…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/darts/live-blog/12040/13611907/grand-slam-of-darts-leg-by-leg-highlights-scores-from-wolverhampton-with-stephen-bunting-luke-littler-and-luke-humphries-in-action" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Grand Slam of Darts LIVE! Bunting, Aspinall headline opening Saturday" data-title="Grand Slam of Darts LIVE! Bunting, Aspinall headline opening Saturday" data-date="11-14 20:45" data-source="天空体育">
+        <a class="news-item" href="https://www.ithome.com/1/027/241.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日，美国境内及往返美国的航班已有超过 3300 架次被取消。截至美国东部时间 14 日 6 时 15 分（IT之家注：北京时间 14 日 19 时 15 分），达美航空已取消当日计划航班的 19%，联合航空取消了 16%，美国航空则取消了 14%。美国联邦航空管理局 13 日发布全美地面停飞令，暂停国内机场航班起飞超过 4 个小时，导致上万架次航班延误或取消。美官方表示，航班大规模停飞的原因仍在调查中，但可能由设备老旧带来的通信故障引发。相关阅读：《美国突发全国性航班停飞，欧洲航空安全组织暂停成员国赴" data-title="受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消" data-date="11-14 22:25" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-14 20:45</span>
-          <span class="news-item-title">镖神大赛直播！邦廷、阿斯皮诺尔领衔周六揭幕战</span>
-          <span class="news-item-title-en">Grand Slam of Darts LIVE! Bunting, Aspinall headline opening Saturday</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 22:25</span>
+          <span class="news-item-title">受空管系统故障影响，11 月 14 日美国仍有超 3300 架次航班被取消</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，据央视新闻报道，当地时间 11 月 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空…</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10732158.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网绍兴11月14日电(项菁)王羲之、陆游、王阳明、鲁迅……浙江绍兴历代名士相关遗迹点，被一张手绘导览图串珠成链。“有了这张图，我对绍兴文化有了更深入的了解，也让这次研学体验更充实。”游客王朝受访时说。" data-title="串联陆游、鲁迅等名人古迹 浙江绍兴循图Citywalk引游人" data-date="11-14 20:41" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/027/240.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。IT之家注：HWA 由 AMG 创始人汉斯 · 维尔纳 · 奥夫雷希特创办，脱胎于 AMG，长期负责奔驰的赛车项目，这其中就包括德国房车大师赛（DTM）。双方据称希望打造一款性能前所未有、足以载入汽车史册的车型。新车的具体形式仍未确定，既有可能是全新的旗舰车型，也有可能是小米现有两款车型（SU7/YU7）的极致性能版。▲ 现款小米 SU7 Ultra过去几周，多辆采用更激进设计的 SU7 Ultra 测试车现身纽博格林赛道。该媒体分析称，不排除小米已在开发更侧重赛道性能的 SU7 Ultr" data-title="曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车" data-date="11-14 22:20" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 20:41</span>
-          <span class="news-item-title">串联陆游、鲁迅等名人古迹 浙江绍兴循图Citywalk引游人</span>
-          <span class="news-value-point">💡 中新网绍兴11月14日电(项菁)王羲之、陆游、王阳明、鲁迅……浙江绍兴历代名士相关遗迹点，被一张手绘导览图串珠成链</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10732155.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网银川11月14日电 (记者 李佩珊)由宁夏图书馆主办的“国风雅韵·阅见宁夏”文旅市集14日在银川一处商圈举办。作为“阅游宁夏”全民阅读文旅融合服务项目重要板块，活动将阅读推广、非遗体验、传统技艺引入商业综合体，为市民打造集阅读、手作、演艺、闯关打卡于一体的沉浸式国风文化体验现场。" data-title="“国风雅韵·阅见宁夏”文旅市集开集 市民沉浸式感受国风盛宴" data-date="11-14 20:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 20:40</span>
-          <span class="news-item-title">“国风雅韵·阅见宁夏”文旅市集开集 市民沉浸式感受国风盛宴</span>
-          <span class="news-value-point">💡 中新网银川11月14日电 (记者 李佩珊)由宁夏图书馆主办的“国风雅韵·阅见宁夏”文旅市集14日在银川一处商圈举办</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10732154.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网北京11月14日电 (记者 应妮)“凝眸对望——中荷女性艺术家沙龙”日前在北京大学举行。两国女性艺术家们就东西方视角下的艺术观念与情感、女性身份对创作的影响及未来可能、AI时代艺术与艺术家的价值等话题展开深入交流。" data-title="中荷女性艺术家在“凝眸对望”中对话交流" data-date="11-14 20:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 20:39</span>
-          <span class="news-item-title">中荷女性艺术家在“凝眸对望”中对话交流</span>
-          <span class="news-value-point">💡 中新网北京11月14日电 (记者 应妮)“凝眸对望——中荷女性艺术家沙龙”日前在北京大学举行</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-14 22:20</span>
+          <span class="news-item-title">曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车</span>
+          <span class="news-value-point">💡 IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密…</span>
         </a>
   </div>
 </div>
@@ -645,4 +625,4 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-14 22:24（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-15 02:21（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>

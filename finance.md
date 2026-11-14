@@ -12,7 +12,7 @@ title: 股票财经
   <span class="news-meta-item">⚡ 核心赛道透视</span>
   <span class="news-meta-item">📰 每日财经资讯</span>
   <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 2026-11-14 22:24（北京时间）</span>
+  <span class="news-meta-item">🕐 页面生成于 2026-11-15 02:21（北京时间）</span>
 </div>
 
 <!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
@@ -493,7 +493,7 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">2 条精选资讯</span>
     </div>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网安塔利亚11月14日电(记者 魏园 陈溯)当地时间11月13日，联合国秘书长安东尼奥·古特雷斯在COP31新闻发布会上接受中国新闻社记者提问时，特别肯定中国在可再生能源领域付出的巨大努力及取得的进展，并呼吁各国落实气候承诺。" data-title="从承诺到行动：COP31上的中国答卷" data-date="11-14 21:44" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -501,89 +501,11 @@ title: 股票财经
           <span class="news-item-date">11-14 21:44</span>
           <span class="news-item-title">从承诺到行动：COP31上的中国答卷</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/229.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，据彭博社报道，当地时间 13 日，美国政府新设的“超级智能工作组”在白宫开会，建议联邦机构放宽网络安全事件的问责政策，鼓励 AI 企业主动报告重大安全事件。一名不愿具名的政府官员透露，工作组认为，过去处理网络安全事件时采用的监管处罚标准可能不再适用，甚至会让企业不敢分享重要的安全信息。工作组因此敦促各机构，未来 12 个月内应限制企业因安全事件承担的监管责任，并考虑进一步延长期限。此次政策建议意味着工作组的立场发生转变，从此前倾向于依法处罚开发不安全产品的企业，改为通过减轻责任鼓励 AI 开发商报告安全事件。就在上个月，工作组还警告开发商，必须报告并解决安全事件，否则可能面临尚未明确的处罚。据IT之家了解，“超级智能工作组”于今年 9 月底成立。此前，一系列" data-title="白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件" data-date="11-14 21:03" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 21:03</span>
-          <span class="news-item-title">白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/227.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，因在未经意大利用户单独授权、也未充分告知用户的情况下，通过 Android 版 Facebook 应用读取手机中保存的照片、视频及附带的元数据，意大利数据保护局今天（14 日）对 Meta 开出 8.05 亿欧元（IT之家注：现汇率约合 59.36 亿元人民币）罚单。意大利数据保护局声明指出，此次处罚针对的是 Facebook 于 2023 年开始提供的“浏览 Facebook 时获取相册推荐”功能。用户浏览 Facebook 期间，该功能会自动推荐手机相册中的照片和视频，作为发帖素材。2025 年 7 月，意大利数据保护局接到博尔扎诺消费者与用户保护中心举报后展开调查，并对该功能进行了技术分析。相关阅读：《Meta 因转载使用新闻摘要，被欧盟法院判决向意大" data-title="Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚" data-date="11-14 20:42" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 20:42</span>
-          <span class="news-item-title">Facebook 擅自读取意大利用户相册，Meta 被处以 8.05 亿欧元重罚</span>
-        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位即将领导众议院预算委员会的议员概述了民主党为迫使特朗普总统就降低生活成本的经济一揽子计划进行谈判而采取的各种方案。" data-title="Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda" data-date="11-14 18:01" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">11-14 18:01</span>
           <span class="news-item-title">Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10732023.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月14日电 综合消息：亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在深圳举行。多家外媒报道指出，APEC深圳会议为不同规模的经济体在分歧中寻求共识提供机会，各方期待借此进一步接入区域贸易与投资议程，拓展务实合作空间。" data-title="（深圳APEC）外媒聚焦深圳APEC会议周：共识为桥  务实为要" data-date="11-14 16:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 16:05</span>
-          <span class="news-item-title">（深圳APEC）外媒聚焦深圳APEC会议周：共识为桥  务实为要</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/162.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，据共同社报道，日本大阪市 13 日就该市在线行政系统的邮件发送服务表示，该服务用户的约 108 万条邮箱地址遭泄露。提供服务的 arara 公司遭遇了非法访问。据悉，未确认到姓名和个人编号信息外泄。大阪市称，2 日接到了委托 arara 发送邮件的在线行政系统运营商报告称可能发生了信息泄露。经调查发现，7 至 10 月期间由系统发送邮件的收件人邮箱地址已外泄。IT之家获悉，大阪市 13 日还表示，获得“优惠商品券”业务订单的企业也使用 arara 服务，受到了非法访问的影响。据悉，邮件发送服务用户的约 3.4 万条邮箱地址、参与商户的约 1.5 万条邮箱地址外泄。市长横山英幸道歉，并呼吁收到可疑邮件后不要打开。" data-title="日本大阪市行政系统用户约 108 万条邮箱地址外泄，市长道歉" data-date="11-14 15:54" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 15:54</span>
-          <span class="news-item-title">日本大阪市行政系统用户约 108 万条邮箱地址外泄，市长道歉</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/159.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，全球首富埃隆 · 马斯克（Elon Musk）今天（11 月 14 日）在 X 平台发布推文，回应科技博主 @MKBHD 关于“Cybercab 每月 299 美元（IT之家注：现汇率约合 1,999 元人民币）的订阅费用过高”情况，认为合理价格应该在 115 美元（现汇率约合 768.8 元人民币）左右。IT之家今天报道，特斯拉开始向部分个人用户开放 Cybercab 购买渠道，起售价为 29,990 美元（现汇率约合 20 万元人民币），首批车辆预计于 12 月交付。按照现有购买安排，符合资格的用户需支付 1,000 美元（现汇率约合 6,685 元人民币）订购定金，且定金不可退还。而本次最值得争议的点，在于车主需要加购 Autonomy Subscri" data-title="299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右" data-date="11-14 15:46" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 15:46</span>
-          <span class="news-item-title">299 美元月费约为 1% 车价：马斯克回应 Cybercab 自动驾驶订阅费太高，应在 115 美元左右</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/156.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 14 日消息，微软今天（14 日）通报称，截至协调世界时 13 日 16 时 10 分（IT之家注：北京时间 11 月 14 日 0 时 10 分），面向个人用户的产品和服务已全面恢复，Microsoft 365 企业服务也出现了持续恢复的迹象。对于企业服务故障，微软仍在监测此次事件期间积压的邮件，尚未确认问题完全解决。微软在服务状态页面的更新中指出：“考虑到此次事件造成的严重影响，我们将延长监测时间，确保不需要采取进一步的补救措施。”相关阅读：《堪比蓝屏“灭霸”事件：微软 2026 最严重宕机重创全球金融业，交易员被迫改用传真》《Outlook 等服务故障期间征集 AI 技巧，微软推文变成网友吐槽现场》《微软就全球服务中断致歉：底层问题已解决，与网络攻击无关》" data-title="微软确认消费者产品服务已恢复，企业服务仍在监控" data-date="11-14 15:38" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-14 15:38</span>
-          <span class="news-item-title">微软确认消费者产品服务已恢复，企业服务仍在监控</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-14/10731994.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="据日本方面13日消息，多名相关人士透露，日本政府已开始协调，考虑将2027至2031财年防卫费总额定在60万亿日元，约合2.5万亿人民币。这一数字远高于2023至2027财年的43万亿日元。" data-title="日本未来五年防卫预算或增至60万亿日元" data-date="11-14 14:36" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 14:36</span>
-          <span class="news-item-title">日本未来五年防卫预算或增至60万亿日元</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10731993.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="“一个人只能有一个故乡，湟源就是我的故乡。”这是95岁的美国老人柏大卫时常说的一句话。柏大卫一岁随父母从美国来到中国青海省湟源县，在那里度过整个少年时代，他跟小伙伴们一起爬山、在河里“打搅洗”，吃“熬熬”，说得一口地道的湟源方言。离开湟源后他依然惦念故土，省吃俭用，数十年间筹措捐赠总价值约600万元人民币的医疗设备，守护家乡人民的健康，还为当地孩子争取外教课程。如今，他年事已高难以回乡，他说，虽然我是美国公民，但是我的心，一直在湟源。" data-title="面孔丨此心归处是湟源" data-date="11-14 14:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 14:33</span>
-          <span class="news-item-title">面孔丨此心归处是湟源</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-14/10731958.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网天津11月14日电 (记者 江莹)13日，天津市数据局局长邓光华在市政府新闻办举行的新闻发布会上表示，天津将依托全新智慧城市建设规划，以数智赋能城市治理现代化，全面提升城市服务、治理、产业发展智能化水平。" data-title="天津锚定“大城智管”  2030年建成全域智慧治理新格局" data-date="11-14 13:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 13:35</span>
-          <span class="news-item-title">天津锚定“大城智管”  2030年建成全域智慧治理新格局</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-14/10731949.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网汕头11月14日电 (孙秋霞 冯建奎)在汕头市濠江区达濠渔港新产业集聚与综合体验区，澄澈的濠江水顺着港湾岸线婉转流淌，港池堤岸整齐坚固，渔船静静泊于码头，几栋造型灵动的白色楼宇沿着岸线错落而立。" data-title="汕头对低效闲置用地实施改造 盐碱滩蝶变“城市中央田园”" data-date="11-14 13:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 13:34</span>
-          <span class="news-item-title">汕头对低效闲置用地实施改造 盐碱滩蝶变“城市中央田园”</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普总统对达成核协议表现得并不急迫，因此美国政府似乎正转向一场长期的经济施压运动。" data-title="Trump Signals New Strategy on Iran: A Waiting Game" data-date="11-14 02:20" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-14 02:20</span>
-          <span class="news-item-title">Trump Signals New Strategy on Iran: A Waiting Game</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/992.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，据彭博社今天（13 日）深夜报道，微软旗下主要软件服务的恢复工作取得进展。这场大规模故障导致全球多地政府机构、金融交易员和企业业务陷入瘫痪。微软在纽约时间 13 日上午 9 时许（IT之家注：对应北京时间 22 时）发布的通报确认，服务运行情况有所改善，积压邮件数量大幅减少，接近正常水平。但 20 多款产品和服务仍可能出现错误。时间来到当地时间今天上午，用户连续第二天遭遇会议邀请无法送达、网页无响应等问题。微软以往的服务故障很少持续数小时以上。自当地时间 12 日下午故障发生以来，微软几乎每小时都会公布修复进展，包括排查系统故障、将用户流量转移至其他服务器等措施。虽然期间几次出现恢复迹象，但服务状况很快再次恶化。故障原因尚未查明。微软称，部分服务器的一个核心" data-title="大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展" data-date="11-13 23:38" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 23:38</span>
-          <span class="news-item-title">大规模故障殃及全球多地多行业，微软确认主要软件服务恢复工作已取得进展</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/026/990.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 13 日消息，当地时间 13 日，联合国气候大会期间，联合国开发计划署署长亚历山大 · 德克罗接受法新社采访时指出，立即采取行动应对厄尔尼诺现象造成的严重影响，所需费用仅为推迟行动的一半。如何筹措资金应对厄尔尼诺现象带来的挑战，是本届大会争论最激烈的议题之一。德克罗说：“如果现在采取行动，应对厄尔尼诺现象需要 360 亿美元（IT之家注：现汇率约合 2,406.63 亿元人民币）。如果什么都不做，代价就会达到 730 亿美元（现汇率约合 4,880.1 亿元人民币），差不多翻一番。所以问题就在于，我们是要未雨绸缪、帮助民众，还是等到后果出现再来承担？”厄尔尼诺现象每隔 2 至 7 年发生一次，通常从春季开始导致太平洋部分海域水温升高，并在随后几个月显著改变全球各地的风向、" data-title="联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍" data-date="11-13 23:21" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-13 23:21</span>
-          <span class="news-item-title">联合国开发计划署：现在就该采取行动应对厄尔尼诺，否则成本会翻倍</span>
         </a>
   </div>
 </div>
@@ -598,4 +520,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-14 22:24（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 2026-11-15 02:21（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
