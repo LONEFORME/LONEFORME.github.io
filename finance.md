@@ -437,8 +437,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/027/456.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 15 日消息，磷光发光拥有显著高于荧光发光的内量子效率，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。▲ 10.95&quot; 平板电脑屏幕OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异，蓝光的磷光化一直是一大难题，相关技术的商业化直到近两年才有较为显著的进展。▲ 6.36&quot; 智能手机屏幕而在本年度的企业全球显示生态大会上，TCL 华星展示了覆盖智能手机、平板电脑、微相机 3 大形态的蓝色磷光敏化荧光 (PSF) 产品。其在蓝光器件中引入敏化剂，将三重态激子能量高效传递给蓝光发光体。针对蓝光磷光化的现实困难，TCL 华星自主开展 MIX 混合主体的配比设计，并结合 PSF 体系优化，提升蓝色发光效率；同时持续推进 MIX-BH 与" data-title="TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态" data-date="11-15 22:16" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-15 22:16</span>
+          <span class="news-item-title">TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-15/10732469.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社金边11月15日电(张安琪 张堰林 杨强)第20届法语国家组织峰会当地时间15日在柬埔寨首都金边开幕。峰会以“重新投资和平，促进共同繁荣与可持续稳定”为主题，数十位各国领导人及国际组织负责人出席。" data-title="第20届法语国家组织峰会在柬埔寨举办" data-date="11-15 20:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-15 20:36</span>
+          <span class="news-item-title">第20届法语国家组织峰会在柬埔寨举办</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-15/10732417.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉11月15日电(记者 周璟)第49届东盟峰会15日在菲律宾首都马尼拉开幕。东盟各国领导人将围绕能源安全、粮食安全及经济合作等议题深入交流，探讨加强区域协作、应对共同挑战的举措。" data-title="第49届东盟峰会在菲律宾马尼拉开幕" data-date="11-15 18:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-15 18:12</span>
+          <span class="news-item-title">第49届东盟峰会在菲律宾马尼拉开幕</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-15/10732330.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月15日电 (记者 刘文文)15日在深圳举行的2026年亚太经合组织(APEC)工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，12位APEC经济体领导人将出席APEC工商领导人峰会。" data-title="（深圳APEC）12位APEC经济体领导人将出席APEC工商领导人峰会" data-date="11-15 16:10" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -469,18 +487,6 @@ title: 股票财经
           <span class="news-item-date">11-15 09:24</span>
           <span class="news-item-title">南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-14/10732197.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网安塔利亚11月14日电(记者 魏园 陈溯)当地时间11月13日，联合国秘书长安东尼奥·古特雷斯在COP31新闻发布会上接受中国新闻社记者提问时，特别肯定中国在可再生能源领域付出的巨大努力及取得的进展，并呼吁各国落实气候承诺。" data-title="从承诺到行动：COP31上的中国答卷" data-date="11-14 21:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-14 21:44</span>
-          <span class="news-item-title">从承诺到行动：COP31上的中国答卷</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位即将领导众议院预算委员会的议员概述了民主党为迫使特朗普总统就降低生活成本的经济一揽子计划进行谈判而采取的各种方案。" data-title="Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda" data-date="11-14 18:01" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-14 18:01</span>
-          <span class="news-item-title">Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda</span>
-        </a>
   </div>
 </div>
 
@@ -494,4 +500,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-15 16:32（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-15 22:54（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
