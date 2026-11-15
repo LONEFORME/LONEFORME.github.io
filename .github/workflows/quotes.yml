@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: quotes
+  group: news-digest
   cancel-in-progress: false
 
 jobs:
@@ -35,13 +35,13 @@ jobs:
 
       - name: 有变化才提交
         run: |
-          if git diff --quiet -- finance.md; then
+          if git diff --quiet -- finance.md assets/data/market-history.json; then
             echo "行情无变化，跳过提交"
             exit 0
           fi
           git config user.name "quotes-bot"
           git config user.email "quotes-bot@loneforme.github.io"
-          git add finance.md
+          git add finance.md assets/data/market-history.json
           NOW_BJ=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
           git commit -m "行情刷新 ${NOW_BJ}"
           git pull --rebase origin main || true

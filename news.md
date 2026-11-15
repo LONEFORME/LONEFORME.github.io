@@ -7,25 +7,23 @@ title: 热点新闻
   <div class="news-title-row">
     <div>
       <h1 class="news-main-title">📰 热点新闻速览</h1>
-      <p class="news-main-desc">每日聚合全球英超足球、前沿科技与国际时政焦点（电脑端悬浮即览深度特稿 · 手机端自适应浏览）</p>
+      <p class="news-main-desc">时政国际、AI 与芯片、足球及综合资讯</p>
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
       <span>2026-11-15 02:21 抓取更新</span>
     </div>
   </div>
-
   <div class="news-search-bar">
     <svg class="news-search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-    <input type="text" id="news-search-input" class="news-search-input" placeholder="🔍 实时搜索今日全天新闻（输入关键词、球队、公司、人物、信源）..." oninput="onNewsSearch(this.value)">
+    <input type="search" id="news-search-input" class="news-search-input" aria-label="搜索新闻" placeholder="搜索标题、摘要、人物或信源" oninput="onNewsSearch(this.value)">
     <span id="news-search-count" class="news-search-count"></span>
   </div>
-
   <div class="news-nav-composite">
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">49</span>
+        <span class="channel-count">51</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
@@ -37,7 +35,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">4</span>
+        <span class="channel-count">6</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -47,7 +45,6 @@ title: 热点新闻
         <span>🌐 媒体信源</span>
       </button>
     </div>
-
     <a href="{{ "/archive" | relative_url }}" class="archive-btn-compact" title="翻阅往期历史档案">
       <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
       <span>往期归档</span>
@@ -56,11 +53,11 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">49</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">51</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
-  <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · IT之家×8</span><span class="ov-label">TOP 信源</span></div>
-  <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
+  <div class="ov-item"><span class="ov-num">4</span><span class="ov-label">覆盖频道</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · Tom's Hardware×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-note">按来源聚合 · 最近 24 小时精选</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
@@ -81,21 +78,21 @@ title: 热点新闻
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
         <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
       </div>
-      <p class="hero-sub-title">The AI graveyard: a running list of projects and startups that didn’t make it</p>
+      <p class="hero-sub-title">人工智能墓地：未成功完成的项目和初创公司的运行列表</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/boxing/news/12040/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播。" data-title="McKenna to defend world title live on Sky Sports on December 4" data-date="11-15 00:50" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/news/12040/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="面对世界上最出色的球队，托马斯·图赫尔的防守决策将是关键。而他需要做出很多决定。" data-title="A new No 1? How to stop Lamine Yamal? Tuchel&#39;s selection issues" data-date="11-15 00:02" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">McKenna to defend world title live on Sky Sports on December 4</p>
+      <p class="hero-sub-title">新的头号球星？如何阻止拉明·亚马尔？图赫尔的选人问题</p>
     </a>
     <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/14/us/faa-groundstop-flights-restarting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="由于数百架飞机不在位，机组人员也已下班，因此重启该国的飞行系统并非易事。" data-title="Here’s Why It Could Take Days for Flights to Return to Normal" data-date="11-15 01:46" data-source="纽约时报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
       </div>
-      <p class="hero-sub-title">Here’s Why It Could Take Days for Flights to Return to Normal</p>
+      <p class="hero-sub-title">以下是航班恢复正常可能需要数天的原因</p>
     </a>
   </div>
 </div>
@@ -339,15 +336,22 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">4 条</span>
+      <span class="news-category-count">6 条</span>
     </div>
-        <a class="news-item" href="https://www.skysports.com/boxing/news/12040/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播。" data-title="McKenna to defend world title live on Sky Sports on December 4" data-date="11-15 00:50" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="面对世界上最出色的球队，托马斯·图赫尔的防守决策将是关键。而他需要做出很多决定。" data-title="A new No 1? How to stop Lamine Yamal? Tuchel&#39;s selection issues" data-date="11-15 00:02" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-15 00:50</span>
-          <span class="news-item-title">麦肯纳将于 12 月 4 日在 Sky Sports 直播中捍卫世界冠军头衔</span>
-          <span class="news-item-title-en">McKenna to defend world title live on Sky Sports on December 4</span>
-          <span class="news-value-point">💡 阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播</span>
+          <span class="news-item-date">11-15 00:02</span>
+          <span class="news-item-title">新的头号球星？如何阻止拉明·亚马尔？图赫尔的选人问题</span>
+          <span class="news-item-title-en">A new No 1? How to stop Lamine Yamal? Tuchel's selection issues</span>
+          <span class="news-value-point">💡 面对世界上最出色的球队，托马斯·图赫尔的防守决策将是关键</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/norway-vs-wales/live/554107" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Nusa breaks Wales&#39; resistance in Oslo LIVE!" data-title="Nusa breaks Wales&#39; resistance in Oslo LIVE!" data-date="11-14 23:30" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-14 23:30</span>
+          <span class="news-item-title">努萨在奥斯陆打破威尔士的防线，直播中！</span>
+          <span class="news-item-title-en">Nusa breaks Wales' resistance in Oslo LIVE!</span>
         </a>
         <a class="news-item" href="https://www.skysports.com/football/manchester-united-women-vs-crystal-palace-women/report/575822" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联以 2-0 的压倒性优势战胜水晶宫，升至英超女足联赛第四名，玛雅·勒·蒂西耶在她的第 150 场俱乐部出场中以一记精彩的射门庆祝。" data-title="Le Tissier hits stunner to mark milestone in Man Utd win" data-date="11-14 18:54" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -373,6 +377,14 @@ title: 热点新闻
           <span class="news-item-title-en">Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?</span>
           <span class="news-value-point">💡 曼联球迷可以对新任主教练毛里西奥·波切蒂诺抱有怎样的期望</span>
         </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13611965/man-utd-transfer-news-como-star-nico-paz-emerges-as-target-ahead-of-summer-transfer-window-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周六报纸的热门报道和转移谣言..." data-title="Papers: Man Utd eyeing move for Como star Paz" data-date="11-14 06:51" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-14 06:51</span>
+          <span class="news-item-title">报纸：曼联有意引进科莫球星帕斯</span>
+          <span class="news-item-title-en">Papers: Man Utd eyeing move for Como star Paz</span>
+          <span class="news-value-point">💡 周六报纸的热门报道和转移谣言...</span>
+        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -395,6 +407,14 @@ title: 热点新闻
           <span class="news-item-title">更换旧铜线的工程导致美国联邦航空管理局（FAA）下达地面停飞令</span>
           <span class="news-item-title-en">Work to replace old copper wire led to the FAA’s ground stop</span>
           <span class="news-value-point">💡 交通部长肖恩·达菲（Sean Duffy）在今天的新闻发布会上表示，周五美国联邦航空管理局（FAA）下令的全国性地面停飞与一项工程有关，该工程是…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/boxing/news/12040/13612036/aaron-mckenna-to-defend-ibf-middleweight-world-title-against-jevgenijs-aleksejevs-live-on-sky-sports-on-december-4" target="_blank" rel="noopener" data-cat="zonghe" data-summary="阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播。" data-title="McKenna to defend world title live on Sky Sports on December 4" data-date="11-15 00:50" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-15 00:50</span>
+          <span class="news-item-title">麦肯纳将于 12 月 4 日在 Sky Sports 直播中捍卫世界冠军头衔</span>
+          <span class="news-item-title-en">McKenna to defend world title live on Sky Sports on December 4</span>
+          <span class="news-value-point">💡 阿伦·麦肯纳将于12月4日（星期五）捍卫他的中量级世界冠军头衔，比赛将在天空体育频道（Sky Sports）现场直播</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="近几个月来，美国联邦航空管理局的老化空中交通管制基础设施发生了数次造成中断的故障，而官员们一直在努力进行升级。" data-title="Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System" data-date="11-15 00:36" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
@@ -420,14 +440,6 @@ title: 热点新闻
           <span class="news-item-title-en">Meetmebythesea gives McManus a first Paddy Power Gold Cup</span>
           <span class="news-value-point">💡 本·保林（Ben Pauling）的Meetmebythesea再次展现出对切尔滕纳姆赛场的喜爱，并为马主JP·麦克马纳斯（JP McManus…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13612238/spain-vs-england-james-trafford-set-to-replace-jordan-pickford-as-goalkeeper-and-how-does-thomas-tuchel-stop-lamine-yamal" target="_blank" rel="noopener" data-cat="zonghe" data-summary="面对世界上最出色的球队，托马斯·图赫尔的防守决策将是关键。而他需要做出很多决定。" data-title="A new No 1? How to stop Lamine Yamal? Tuchel&#39;s selection issues" data-date="11-15 00:02" data-source="天空体育">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-15 00:02</span>
-          <span class="news-item-title">新的头号球星？如何阻止拉明·亚马尔？图赫尔的选人问题</span>
-          <span class="news-item-title-en">A new No 1? How to stop Lamine Yamal? Tuchel's selection issues</span>
-          <span class="news-value-point">💡 面对世界上最出色的球队，托马斯·图赫尔的防守决策将是关键</span>
-        </a>
         <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今天，我们将重点关注一项鲜有讨论的技术，它在将这个视觉效果丰富、细节密集的虚拟世界带到硬件资源更为有限的系统方面发挥着同样重要的作用：旨在减少 RAM 使用量的存储技术。" data-title="We tested the RAM-saving storage tech in Gears of War: E-Day" data-date="11-14 23:30" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
@@ -435,13 +447,6 @@ title: 热点新闻
           <span class="news-item-title">我们在《战争机器：E日》中测试了节省内存的存储技术</span>
           <span class="news-item-title-en">We tested the RAM-saving storage tech in Gears of War: E-Day</span>
           <span class="news-value-point">💡 今天，我们将重点关注一项鲜有讨论的技术，它在将这个视觉效果丰富、细节密集的虚拟世界带到硬件资源更为有限的系统方面发挥着同样重要的作用：旨在减少 …</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/norway-vs-wales/live/554107" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Nusa breaks Wales&#39; resistance in Oslo LIVE!" data-title="Nusa breaks Wales&#39; resistance in Oslo LIVE!" data-date="11-14 23:30" data-source="天空体育">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-14 23:30</span>
-          <span class="news-item-title">努萨在奥斯陆打破威尔士的防线，直播中！</span>
-          <span class="news-item-title-en">Nusa breaks Wales' resistance in Oslo LIVE!</span>
         </a>
         <a class="news-item" href="https://www.ithome.com/1/027/246.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 14 日消息，美国 CBS 电视台交通记者克里斯 · 范 · 克利夫在 X 平台发文称，收到一位美国政府高级官员的消息：导致全美航班地面停飞的故障设备已被查明并隔离。克利夫援引官员的话说，美国联邦航空管理局（FAA）认为，故障仅涉及一种“特定型号”的 20 年历史老路由器。“（系统）基本上是被负载压垮了，不过具体原因尚不清楚。”初步信息显示，路由器过载后开始传输不同步的数据，造成空管人员的语音通信线路出现杂音，还可能导致显示屏闪烁或黑屏，与 2025 年纽瓦克自由国际机场发生的故障类似。据IT之家此前报道，当地时间 14 日，航班追踪网站 FlightAware 的数据显示，在 13 日空管系统出现通信故障、导致全美所有飞机停飞后，14 日，美国境内及往返美国的航班已有超" data-title="导致全美航班停飞的“罪魁祸首”找到了？FAA 调查指向 20 年历史路由器" data-date="11-14 23:06" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
@@ -494,135 +499,17 @@ title: 热点新闻
           <span class="news-item-title">曝小米与“AMG 之父”创办的 HWA 秘密合作，希望打造“载入史册”新车</span>
           <span class="news-value-point">💡 IT之家 11 月 14 日消息，当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密…</span>
         </a>
+        <a class="news-item" href="https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这款以太网电缆解绞工具可以将安装 RJ45 连接器所需的时间缩短一半。" data-title="Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables" data-date="11-14 22:20" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-14 22:20</span>
+          <span class="news-item-title">在面临一项需要 5 万根定制 Cat6 电缆的工程后，承包商将一台密尔沃基 Hackzall 改造成了一台便携式以太网电缆绞线分离器。</span>
+          <span class="news-item-title-en">Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables</span>
+          <span class="news-value-point">💡 这款以太网电缆解绞工具可以将安装 RJ45 连接器所需的时间缩短一半</span>
+        </a>
   </div>
 </div>
-
-<script>
-const NEWS_COLLAPSE_LIMIT = 10;
-
-function applyNewsCollapse(forceExpand) {
-  document.querySelectorAll('.news-category').forEach(cat => {
-    const items = cat.querySelectorAll('.news-item');
-    let btn = cat.querySelector('.news-expand-btn');
-    if (items.length <= NEWS_COLLAPSE_LIMIT) {
-      cat.removeAttribute('data-collapse');
-      if (btn) btn.remove();
-      return;
-    }
-    if (!btn) {
-      btn = document.createElement('button');
-      btn.type = 'button';
-      btn.className = 'news-expand-btn';
-      cat.appendChild(btn);
-      btn.addEventListener('click', () => {
-        const collapsed = cat.getAttribute('data-collapse') === '1';
-        const next = collapsed ? '0' : '1';
-        cat.setAttribute('data-collapse', next);
-        const total = cat.querySelectorAll('.news-item').length;
-        btn.textContent = next === '1'
-          ? `展开其余 ${total - NEWS_COLLAPSE_LIMIT} 条（共 ${total} 条）`
-          : '收起列表';
-      });
-    }
-    if (forceExpand) {
-      cat.setAttribute('data-collapse', '0');
-      btn.style.display = 'none';
-      btn.textContent = '收起列表';
-    } else {
-      if (cat.getAttribute('data-collapse') !== '0') {
-        cat.setAttribute('data-collapse', '1');
-      }
-      btn.style.display = '';
-      const total = items.length;
-      const collapsed = cat.getAttribute('data-collapse') === '1';
-      btn.textContent = collapsed
-        ? `展开其余 ${total - NEWS_COLLAPSE_LIMIT} 条（共 ${total} 条）`
-        : '收起列表';
-    }
-  });
-}
-
-function restoreNewsCollapse() {
-  applyNewsCollapse(false);
-}
-
-function onNewsSearch(query) {
-  query = (query || '').trim().toLowerCase();
-  const terms = query.split(/\s+/).filter(Boolean);
-  const items = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
-  let matched = 0;
-
-  if (!terms.length) {
-    if (typeof filterNewsChannel === 'function') {
-      const activeBtn = document.querySelector('.channel-btn.active');
-      const channel = activeBtn ? (activeBtn.getAttribute('onclick') || '').match(/'([^']+)'/)?.[1] || 'all' : 'all';
-      filterNewsChannel(channel, activeBtn);
-    } else {
-      items.forEach(el => el.style.display = '');
-      document.querySelectorAll('.news-category').forEach(cat => cat.style.display = '');
-    }
-    restoreNewsCollapse();
-    const countEl = document.getElementById('news-search-count');
-    if (countEl) countEl.innerText = '';
-    return;
-  }
-
-  applyNewsCollapse(true);
-  items.forEach(el => {
-    const title = (el.getAttribute('data-title') || el.innerText || '').toLowerCase();
-    const summary = (el.getAttribute('data-summary') || '').toLowerCase();
-    const source = (el.getAttribute('data-source') || '').toLowerCase();
-    const cat = (el.getAttribute('data-cat') || '').toLowerCase();
-    const date = (el.getAttribute('data-date') || '').toLowerCase();
-    const searchTarget = title + ' ' + summary + ' ' + source + ' ' + cat + ' ' + date;
-    const isMatch = terms.every(t => searchTarget.includes(t));
-    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'grid' : 'block') : 'none';
-    if (isMatch) matched++;
-  });
-
-  document.querySelectorAll('.news-category').forEach(cat => {
-    const visibleChildren = cat.querySelectorAll('.news-item:not([style*="display: none"])');
-    cat.style.display = visibleChildren.length > 0 ? 'block' : 'none';
-  });
-
-  const countEl = document.getElementById('news-search-count');
-  if (countEl) {
-    countEl.innerText = `🔍 找到 ${matched} 条`;
-  }
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-  applyNewsCollapse(false);
-  const readKey = 'loneforme_read_news';
-  let readLinks = [];
-  try {
-    readLinks = JSON.parse(localStorage.getItem(readKey) || '[]');
-  } catch(e) {}
-
-  document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card').forEach(el => {
-    const link = el.getAttribute('href');
-    if (readLinks.includes(link)) {
-      el.classList.add('news-read-card');
-    }
-    el.addEventListener('click', () => {
-      if (link && !readLinks.includes(link)) {
-        readLinks.push(link);
-        if (readLinks.length > 300) readLinks = readLinks.slice(-300);
-        try { localStorage.setItem(readKey, JSON.stringify(readLinks)); } catch(e) {}
-        el.classList.add('news-read-card');
-      }
-    });
-  });
-});
-</script>
-<style>
-.news-read-card {
-  opacity: 0.62 !important;
-}
-.news-read-card .news-item-title, .news-read-card .hero-featured-title, .news-read-card .hero-sub-title {
-  color: var(--color-muted, #888) !important;
-}
-</style>
+<script defer src="{{ "/assets/js/news-feed.js" | relative_url }}"></script>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-15 02:21（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">抓取更新于 2026-11-15 02:21（北京时间）· 最近 24 小时精选动态 · 往期请查阅历史归档</p>

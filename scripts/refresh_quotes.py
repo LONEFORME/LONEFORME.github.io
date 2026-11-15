@@ -25,6 +25,11 @@ FINANCE = Path("finance.md")
 
 
 def build_block() -> str:
+    from market_history import refresh
+    try:
+        refresh()
+    except Exception as exc:
+        print(f"[quotes] K 线刷新失败，保留旧数据：{exc}")
     indices = nd.fetch_all_market_indices()
     ticker = nd.build_finance_ticker_html(indices)
     script = nd.build_finance_live_script()

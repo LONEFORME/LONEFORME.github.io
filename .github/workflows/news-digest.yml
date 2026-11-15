@@ -37,7 +37,7 @@ jobs:
         run: |
           git config user.name "news-digest[bot]"
           git config user.email "news-digest@loneforme.github.io"
-          git add news.md finance.md archive/ requirements.txt
+          git add news.md finance.md archive/ requirements.txt assets/data/market-history.json
           NOW_BJ=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')
           if ! git diff --cached --quiet; then
             git commit -m "自动更新新闻与财经摘要 ${NOW_BJ}"

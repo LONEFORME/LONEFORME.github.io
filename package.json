@@ -7,13 +7,22 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "build:viewer-assets": "vite build --config vite.viewer.config.mjs",
+    "build:market-assets": "vite build --config vite.market.config.mjs",
+    "dev:site": "node scripts/preview-site.mjs",
     "preview": "vitepress preview"
   },
   "devDependencies": {
+    "gray-matter": "4.0.3",
+    "liquidjs": "10.24.0",
+    "markdown-it": "14.1.0",
     "markdown-it-mathjax3": "^5.2.0",
     "three": "0.160.0",
     "vite": "5.4.14",
     "vitepress": "^1.6.4",
     "vue": "^3.5.13"
+  },
+  "dependencies": {
+    "lightweight-charts": "5.0.9",
+    "lucide": "0.468.0"
   }
 }

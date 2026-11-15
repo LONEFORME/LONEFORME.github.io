@@ -309,21 +309,21 @@ SECTIONS_CONFIG = [
 
 # ===== 财经页面配置 =====
 MARKET_INDICES = [
-    {"name": "上证指数", "code": "sh000001", "flag": "🇨🇳", "tag": "000001.SH", "desc": "震荡筑底中枢"},
-    {"name": "深证成指", "code": "sz399001", "flag": "🇨🇳", "tag": "399001.SZ", "desc": "成长与制造共振"},
-    {"name": "创业板指", "code": "sz399006", "flag": "🇨🇳", "tag": "399006.SZ", "desc": "新能源 & 医药领跑"},
-    {"name": "科创50", "code": "sh000688", "flag": "🇨🇳", "tag": "000688.SH", "desc": "AI算力与先进制程"},
-    {"name": "恒生科技", "code": "hkHSTECH", "flag": "🇭🇰", "tag": "HSTECH", "desc": "互联网平台回购加码"},
-    {"name": "纳斯达克100", "code": "gb_ndx", "flag": "🇺🇸", "tag": "NDX", "desc": "科技巨头财报韧性"},
-    {"name": "美元/离岸人民币", "code": "fx_susdcnh", "flag": "💱", "tag": "USD/CNH", "desc": "人民币汇率稳健调升"},
-    {"name": "伦敦现货黄金", "code": "hf_XAU", "flag": "🪙", "tag": "XAU/USD", "desc": "央行购金与全球避险"},
+    {"name": "上证指数", "code": "sh000001", "flag": "🇨🇳", "tag": "000001.SH", "desc": "上海证券市场"},
+    {"name": "深证成指", "code": "sz399001", "flag": "🇨🇳", "tag": "399001.SZ", "desc": "深圳证券市场"},
+    {"name": "创业板指", "code": "sz399006", "flag": "🇨🇳", "tag": "399006.SZ", "desc": "创业板市场"},
+    {"name": "科创50", "code": "sh000688", "flag": "🇨🇳", "tag": "000688.SH", "desc": "科创板核心指数"},
+    {"name": "恒生科技", "code": "hkHSTECH", "flag": "🇭🇰", "tag": "HSTECH", "desc": "香港科技股指数"},
+    {"name": "纳斯达克100", "code": "gb_ndx", "flag": "🇺🇸", "tag": "NDX", "desc": "纳斯达克市场"},
+    {"name": "美元/离岸人民币", "code": "fx_susdcnh", "flag": "💱", "tag": "USD/CNH", "desc": "美元兑离岸人民币"},
+    {"name": "伦敦现货黄金", "code": "hf_XAU", "flag": "🪙", "tag": "XAU/USD", "desc": "美元 / 金衡盎司"},
     {"name": "国内现货黄金", "code": "gds_AUTD", "flag": "🪙", "tag": "Au(T+D)", "desc": "上海黄金交易所基准"},
     {"name": "恒生指数", "code": "hkHSI", "flag": "🇭🇰", "tag": "HSI", "desc": "港股基准大盘"},
     {"name": "道琼斯工业指数", "code": "int_dji", "flag": "🇺🇸", "tag": "DJIA", "desc": "美股蓝筹风向标"},
     {"name": "富时100", "code": "int_ftse", "flag": "🇬🇧", "tag": "FTSE", "desc": "欧洲市场开盘参照"},
     {"name": "日经225", "code": "int_nikkei", "flag": "🇯🇵", "tag": "N225", "desc": "亚太早盘情绪指标"},
     {"name": "标普500", "code": "int_sp500", "flag": "🇺🇸", "tag": "SPX", "desc": "美股大盘核心基准"},
-    {"name": "布伦特原油", "code": "hf_OIL", "flag": "🛢️", "tag": "OIL/USD", "desc": "全球大宗商品之母"},
+    {"name": "布伦特原油", "code": "hf_OIL", "flag": "🛢️", "tag": "OIL/USD", "desc": "美元 / 桶"},
 ]
 
 # ===== 浏览器端实时行情映射（东方财富 secid）=====
@@ -354,23 +354,6 @@ HOT_SECTORS = [
     {"name": "具身智能 & 智能网联车", "icon": "🚗", "tags": ["端到端智驾", "激光雷达", "行星滚柱丝杠", "六维力传感器"]},
     {"name": "高股息红利与底仓资产", "icon": "🛡️", "tags": ["国有大行", "水电公用", "高股息煤炭", "中字头基建"]},
 ]
-
-DEFAULT_INDICES = {
-    "上证指数": {"current": 3128.60, "change": 15.0, "change_pct": 0.48},
-    "深证成指": {"current": 10480.25, "change": 64.5, "change_pct": 0.62},
-    "创业板指": {"current": 2130.80, "change": 22.1, "change_pct": 1.05},
-    "科创50": {"current": 920.45, "change": 12.6, "change_pct": 1.38},
-    "恒生科技": {"current": 4250.30, "change": 47.2, "change_pct": 1.12},
-    "纳斯达克100": {"current": 19750.80, "change": 166.5, "change_pct": 0.85},
-    "美元/离岸人民币": {"current": 6.7854, "change": -0.0051, "change_pct": -0.075},
-    "伦敦现货黄金": {"current": 4473.95, "change": 0.96, "change_pct": 0.02},
-    "国内现货黄金": {"current": 967.07, "change": 9.97, "change_pct": 1.04},
-    "恒生指数": {"current": 23972.29, "change": -640.98, "change_pct": -2.60},
-    "道琼斯工业指数": {"current": 46247.29, "change": 299.97, "change_pct": 0.65},
-    "富时100": {"current": 9284.83, "change": 70.85, "change_pct": 0.77},
-    "日经225": {"current": 44946.64, "change": -408.35, "change_pct": -0.90},
-}
-
 
 def fetch_sina_quote(code):
     """从新浪财经获取单只股票/指数行情（带重试）"""
@@ -459,15 +442,12 @@ def fetch_sina_quote(code):
 
 
 def fetch_all_market_indices():
-    """获取所有股指数据，失败的用默认值"""
+    """获取行情快照；失败时显示不可用，避免将固定数字当作报价。"""
     results = []
     for idx in MARKET_INDICES:
         log(f"  [财经] 获取 {idx['name']}...")
         quote = fetch_sina_quote(idx["code"])
-        trend = fetch_history_trend(idx)
         if quote and quote["current"] > 0:
-            if trend and quote["current"] > 0 and abs(trend[-1] - quote["current"]) / max(quote["current"], 1) < 0.02:
-                trend[-1] = quote["current"]  # 用实时价校正最后一根收盘
             results.append({
                 **idx,
                 "current": quote["current"],
@@ -476,17 +456,17 @@ def fetch_all_market_indices():
                 "is_up": quote["change"] >= 0,
                 "source": "实时",
                 "quote_time": quote.get("quote_time", ""),
-                "trend": trend
+                "trend": []
             })
         else:
-            d = DEFAULT_INDICES.get(idx["name"], {"current": 0, "change": 0, "change_pct": 0})
+            d = {"current": 0, "change": 0, "change_pct": 0}
             results.append({
                 **idx,
                 "current": d["current"],
                 "change": d["change"],
                 "change_pct": d["change_pct"],
                 "is_up": d["change"] >= 0,
-                "source": "参考",
+                "source": "不可用",
                 "quote_time": "",
                 "trend": []
             })
@@ -1009,13 +989,13 @@ def fetch_rss(url, source_name, timeout=20):
 
 # ===== 细分领域关键词定义 =====
 FOOTBALL_KEYWORDS = [
-    "英超", "转会", "足球", "bbc 英超", "天空体育", "卫报", "阿森纳", "曼城", "利物浦", "曼联",
+    "英超", "转会", "足球", "阿森纳", "曼城", "利物浦", "曼联",
     "切尔西", "热刺", "皇马", "巴萨", "拜仁", "尤文", "国米", "米兰", "巴黎圣日耳曼", "大巴黎", "多特", "西甲",
     "意甲", "德甲", "法甲", "欧冠", "欧联", "世界杯", "亚冠", "中超", "足球赛", "足协杯", "点球", "任意球", "角球", "越位",
     "arsenal", "man city", "manchester", "liverpool", "chelsea", "tottenham", "spurs",
     "konsa", "villa", "reijnders", "rashford", "cherif", "garlick",
-    "cricket", "football", "premier league", "transfer", "signing", "striker", "midfielder",
-    "defender", "goalkeeper", "manager", "fifa", "uefa"
+    "football", "premier league", "striker", "midfielder",
+    "defender", "goalkeeper", "fifa", "uefa"
 ]
 
 OTHER_SPORTS_KEYWORDS = [
@@ -1130,6 +1110,10 @@ def classify_item(item):
         return "junk"
 
     # 0.1 URL 路径强先验规则（官方媒体层级路由）
+    if re.search(r"/(football|soccer)(/|[?#]|$)", link):
+        return "zuqiu"
+    if re.search(r"/(boxing|cricket|golf|tennis|rugby|nba|nfl|f1)(/|[?#]|$)", link):
+        return "zonghe"
     if "/ty/" in link:
         if any(kw in text for kw in FOOTBALL_KEYWORDS):
             return "zuqiu"
@@ -1140,7 +1124,8 @@ def classify_item(item):
 
     # 1. 足球 / 英超 / 转会（特征明确，优先提取）
     for kw in FOOTBALL_KEYWORDS:
-        if kw in text:
+        if (re.search(r"(?<![a-z])" + re.escape(kw) + r"(?![a-z])", text)
+                if kw.isascii() else kw in text):
             return "zuqiu"
 
     # 2. 其它所有体育竞技运动（羽毛球、乒乓球、篮球、网球、田径、游泳等，严格归入综合，彻底阻断进入时政）
@@ -1348,9 +1333,9 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
     overview_html = f'''<div class="news-overview-bar">
   <div class="ov-item"><span class="ov-num">{total_count}</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">{len(unique_sources)}</span><span class="ov-label">独立信源</span></div>
-  <div class="ov-item"><span class="ov-num">{len(SECTIONS_CONFIG)}</span><span class="ov-label">覆盖频道</span></div>
+  <div class="ov-item"><span class="ov-num">{sum(bool(categorized_map.get(sec["id"])) for sec in SECTIONS_CONFIG)}</span><span class="ov-label">覆盖频道</span></div>
   <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">{top_srcs_text}</span><span class="ov-label">TOP 信源</span></div>
-  <div class="ov-note">信源交叉印证 · 数据每 3~8 小时自动聚合更新</div>
+  <div class="ov-note">按来源聚合 · 最近 24 小时精选</div>
 </div>
 '''
     update_badge = f"{date_only} 今日更新" if not crawled_time else f"{crawled_time} 抓取更新"
@@ -1360,7 +1345,7 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
   <div class="news-title-row">
     <div>
       <h1 class="news-main-title">📰 热点新闻速览</h1>
-      <p class="news-main-desc">每日聚合全球英超足球、前沿科技与国际时政焦点（电脑端悬浮即览深度特稿 · 手机端自适应浏览）</p>
+      <p class="news-main-desc">时政国际、AI 与芯片、足球及综合资讯</p>
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
@@ -1370,7 +1355,7 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
 
   <div class="news-search-bar">
     <svg class="news-search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-    <input type="text" id="news-search-input" class="news-search-input" placeholder="🔍 实时搜索今日全天新闻（输入关键词、球队、公司、人物、信源）..." oninput="onNewsSearch(this.value)">
+    <input type="search" id="news-search-input" class="news-search-input" aria-label="搜索新闻" placeholder="搜索标题、摘要、人物或信源" oninput="onNewsSearch(this.value)">
     <span id="news-search-count" class="news-search-count"></span>
   </div>
 
@@ -1489,14 +1474,15 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
                 s_sum = _esc(s_item.get("summary") or s_item["title"])
                 s_title = _esc(s_item["title"])
                 s_date = _format_item_time(s_item)
-                s_cat = s_item.get("cat_id", "keji")
+                s_cat = next((sec["id"] for sec in SECTIONS_CONFIG
+                              if s_item in categorized_map.get(sec["id"], [])), "zonghe")
                 s_tag_label = _get_tag_label(s_cat)
                 hero_html += f'    <a class="hero-sub-card" href="{s_item["link"]}" target="_blank" rel="noopener" data-cat="{s_cat}" data-summary="{s_sum}" data-title="{s_title}" data-date="{s_date}" data-source="{s_item["source"]}">\n'
                 hero_html += f'      <div class="hero-sub-meta">\n'
                 hero_html += f'        <span class="news-cat-tag cat-{s_cat}">{s_tag_label}</span>\n'
                 hero_html += f'        <span class="source-badge {source_to_css(s_item["source"])}">{source_to_flag(s_item["source"])} {s_item["source"]}</span>\n'
                 hero_html += f'      </div>\n'
-                hero_html += f'      <p class="hero-sub-title">{s_item["title"]}</p>\n'
+                hero_html += f'      <p class="hero-sub-title">{s_item.get("title_zh") or s_item["title"]}</p>\n'
                 hero_html += f'    </a>\n'
             hero_html += '  </div>\n'
         hero_html += '</div>\n'
@@ -1541,151 +1527,22 @@ def build_page_html(categorized_map, date_only, crawled_time=""):
         grid_html += f'  </div>\n'
     grid_html += '</div>\n'
 
-    # 4. 客户端交互脚本（即时搜索 + 已读记忆 + 超长列表默认收起）
-    client_script = '''
-<script>
-const NEWS_COLLAPSE_LIMIT = 10;
-
-function applyNewsCollapse(forceExpand) {
-  document.querySelectorAll('.news-category').forEach(cat => {
-    const items = cat.querySelectorAll('.news-item');
-    let btn = cat.querySelector('.news-expand-btn');
-    if (items.length <= NEWS_COLLAPSE_LIMIT) {
-      cat.removeAttribute('data-collapse');
-      if (btn) btn.remove();
-      return;
-    }
-    if (!btn) {
-      btn = document.createElement('button');
-      btn.type = 'button';
-      btn.className = 'news-expand-btn';
-      cat.appendChild(btn);
-      btn.addEventListener('click', () => {
-        const collapsed = cat.getAttribute('data-collapse') === '1';
-        const next = collapsed ? '0' : '1';
-        cat.setAttribute('data-collapse', next);
-        const total = cat.querySelectorAll('.news-item').length;
-        btn.textContent = next === '1'
-          ? `展开其余 ${total - NEWS_COLLAPSE_LIMIT} 条（共 ${total} 条）`
-          : '收起列表';
-      });
-    }
-    if (forceExpand) {
-      cat.setAttribute('data-collapse', '0');
-      btn.style.display = 'none';
-      btn.textContent = '收起列表';
-    } else {
-      if (cat.getAttribute('data-collapse') !== '0') {
-        cat.setAttribute('data-collapse', '1');
-      }
-      btn.style.display = '';
-      const total = items.length;
-      const collapsed = cat.getAttribute('data-collapse') === '1';
-      btn.textContent = collapsed
-        ? `展开其余 ${total - NEWS_COLLAPSE_LIMIT} 条（共 ${total} 条）`
-        : '收起列表';
-    }
-  });
-}
-
-function restoreNewsCollapse() {
-  applyNewsCollapse(false);
-}
-
-function onNewsSearch(query) {
-  query = (query || '').trim().toLowerCase();
-  const terms = query.split(/\\s+/).filter(Boolean);
-  const items = document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card');
-  let matched = 0;
-
-  if (!terms.length) {
-    if (typeof filterNewsChannel === 'function') {
-      const activeBtn = document.querySelector('.channel-btn.active');
-      const channel = activeBtn ? (activeBtn.getAttribute('onclick') || '').match(/'([^']+)'/)?.[1] || 'all' : 'all';
-      filterNewsChannel(channel, activeBtn);
-    } else {
-      items.forEach(el => el.style.display = '');
-      document.querySelectorAll('.news-category').forEach(cat => cat.style.display = '');
-    }
-    restoreNewsCollapse();
-    const countEl = document.getElementById('news-search-count');
-    if (countEl) countEl.innerText = '';
-    return;
-  }
-
-  applyNewsCollapse(true);
-  items.forEach(el => {
-    const title = (el.getAttribute('data-title') || el.innerText || '').toLowerCase();
-    const summary = (el.getAttribute('data-summary') || '').toLowerCase();
-    const source = (el.getAttribute('data-source') || '').toLowerCase();
-    const cat = (el.getAttribute('data-cat') || '').toLowerCase();
-    const date = (el.getAttribute('data-date') || '').toLowerCase();
-    const searchTarget = title + ' ' + summary + ' ' + source + ' ' + cat + ' ' + date;
-    const isMatch = terms.every(t => searchTarget.includes(t));
-    el.style.display = isMatch ? (el.classList.contains('news-item') ? 'grid' : 'block') : 'none';
-    if (isMatch) matched++;
-  });
-
-  document.querySelectorAll('.news-category').forEach(cat => {
-    const visibleChildren = cat.querySelectorAll('.news-item:not([style*="display: none"])');
-    cat.style.display = visibleChildren.length > 0 ? 'block' : 'none';
-  });
-
-  const countEl = document.getElementById('news-search-count');
-  if (countEl) {
-    countEl.innerText = `🔍 找到 ${matched} 条`;
-  }
-}
-
-document.addEventListener('DOMContentLoaded', () => {
-  applyNewsCollapse(false);
-  const readKey = 'loneforme_read_news';
-  let readLinks = [];
-  try {
-    readLinks = JSON.parse(localStorage.getItem(readKey) || '[]');
-  } catch(e) {}
-
-  document.querySelectorAll('.news-item, .hero-featured-card, .hero-sub-card').forEach(el => {
-    const link = el.getAttribute('href');
-    if (readLinks.includes(link)) {
-      el.classList.add('news-read-card');
-    }
-    el.addEventListener('click', () => {
-      if (link && !readLinks.includes(link)) {
-        readLinks.push(link);
-        if (readLinks.length > 300) readLinks = readLinks.slice(-300);
-        try { localStorage.setItem(readKey, JSON.stringify(readLinks)); } catch(e) {}
-        el.classList.add('news-read-card');
-      }
-    });
-  });
-});
-</script>
-<style>
-.news-read-card {
-  opacity: 0.62 !important;
-}
-.news-read-card .news-item-title, .news-read-card .hero-featured-title, .news-read-card .hero-sub-title {
-  color: var(--color-muted, #888) !important;
-}
-</style>
-'''
-
-    return header_html + overview_html + hero_html + grid_html + client_script
+    client_script = '<script defer src="{{ "/assets/js/news-feed.js" | relative_url }}"></script>'
+    content = header_html + overview_html + hero_html + grid_html + client_script
+    return "\n".join(line for line in content.splitlines() if line.strip()) + "\n"
 
 
 def build_finance_ticker_html(indices):
     """生成股指看板 HTML"""
     html = '<div class="finance-ticker-grid">\n'
     for idx in indices:
-        sparkline_html = build_sparkline_svg(idx.get("trend") or [], idx["is_up"])
         price_class = "ticker-up" if idx["is_up"] else "ticker-down"
         change_class = "up" if idx["is_up"] else "down"
         arrow = "▲" if idx["is_up"] else "▼"
         change_sign = "+" if idx["is_up"] else ""
         if idx["name"] == "美元/离岸人民币":
             price_str = format_number(idx["current"], 4)
-            change_str = f"{change_sign}{idx['change']*100:.0f} bp"
+            change_str = f"{change_sign}{idx['change']*10000:.0f} bp"
         elif idx["name"] == "伦敦现货黄金":
             price_str = f'${format_number(idx["current"], 2)} <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span>'
             change_str = f"{change_sign}{idx['change']:.2f} ({change_sign}{idx['change_pct']:.2f}%)"
@@ -1703,6 +1560,12 @@ def build_finance_ticker_html(indices):
         if idx.get("tcode"):
             live_attrs = (f' data-tcode="{idx["tcode"]}" data-fmt="{idx.get("fmt", "idx")}"'
                           f' data-unit="{idx.get("unit", "")}"')
+        chart_button = ""
+        if idx["code"] in {"sh000001", "sz399001", "sz399006", "sh000688", "hkHSTECH", "hkHSI"}:
+            chart_button = (f'<button type="button" class="ticker-select" data-symbol="{idx["code"]}"'
+                            f' aria-label="查看{idx["name"]} K 线" aria-pressed="false">查看 K 线 →</button>')
+        if idx.get("source") == "不可用":
+            price_str, change_str, arrow = "—", "暂无行情", ""
         html += f'''  <div class="ticker-card"{live_attrs}>
     <div class="ticker-header">
       <span class="ticker-name">{idx["flag"]} {idx["name"]}</span>
@@ -1712,32 +1575,28 @@ def build_finance_ticker_html(indices):
       <span class="ticker-price {price_class}">{price_str}</span>
       <span class="ticker-change {change_class}">{arrow} {change_str}</span>
     </div>
-    <div class="ticker-sparkline-box">{sparkline_html if sparkline_html else '<span class="sparkline-empty">📈 趋势数据累积中（每 3~8 小时自动记录）</span>'}</div>
+    {chart_button}
     <div class="ticker-footer">
       <span>{idx["desc"]}</span>
       {source_badge}
     </div>
-    <div class="ticker-quote-time">{("🕒 快照 " + idx["quote_time"] + "（非实时）") if idx.get("quote_time") else "🕒 数据为最近收盘/参考值"}</div>
+    <div class="ticker-quote-time">{("🕒 快照 " + idx["quote_time"] + "（非实时）") if idx.get("quote_time") else "🕒 快照 · 源时间未提供"}</div>
   </div>
 '''
     html += '</div>\n'
-    return html
+    return "\n".join(line for line in html.splitlines() if line.strip()) + "\n"
 
 
 def build_finance_sectors_html():
-    """生成热门赛道 HTML（资金流向用每日固定的参考值）"""
-    import random
-    random.seed(datetime.now().day)
+    """产业主题索引；没有资金流数据时不展示估算数字。"""
     html = '<div class="finance-sector-grid">\n'
     for sector in HOT_SECTORS:
-        flow = round(random.uniform(15, 55), 1)
         tags_html = "".join(f'      <span class="sector-tag-chip">{tag}</span>\n' for tag in sector["tags"])
         html += f'''  <div class="sector-card">
     <div class="sector-title-row">
       <span class="sector-title">{sector["icon"]} {sector["name"]}</span>
-      <span class="sector-flow-badge">+{flow} 亿</span>
     </div>
-    <p class="sector-desc">基于近期产业政策与市场热点的资金流向参考，实际数据以交易所公布为准。</p>
+    <p class="sector-desc">产业主题观察</p>
     <div class="sector-tags">
 {tags_html}    </div>
   </div>
@@ -1807,11 +1666,11 @@ def build_finance_live_script():
     if (f.length < 6) return null;
     var price = parseFloat(f[3]), prev = parseFloat(f[4]);
     if (!isFinite(price)) return null;
-    var t = '';
-    for (var i = f.length - 1; i > 20; i--) {
-      if (/^20\d{12}$/.test(f[i])) { t = f[i]; break; }   // 只认 20YYMMDDhhmmss
-    }
-    return { price: price, pct: prev > 0 ? (price - prev) / prev * 100 : 0, chg: price - prev, time: t };
+    // Field 30 is the timestamp. Other numeric fields can resemble a date.
+    var t = f[30] || '';
+    if (!/^20\d{12}$/.test(t) && !/^20\d{2}[-/]\d{2}[-/]\d{2} \d{2}:\d{2}:\d{2}$/.test(t)) t = '';
+    if (price <= 0 || !isFinite(prev) || prev <= 0) return null;
+    return { price: price, pct: (price - prev) / prev * 100, chg: price - prev, time: t };
   }
 
   // 外盘现货/期货格式：现价,涨跌幅%,买,卖,最高,最低,HH:MM:SS,昨收,今开,...
@@ -1819,7 +1678,7 @@ def build_finance_live_script():
     var f = raw.split(',');
     if (f.length < 8) return null;
     var price = parseFloat(f[0]), pct = parseFloat(f[1]), prev = parseFloat(f[7]);
-    if (!isFinite(price)) return null;
+    if (!isFinite(price) || price <= 0) return null;
     return { price: price, pct: isFinite(pct) ? pct : 0, chg: isFinite(prev) ? price - prev : 0, time: f[6] || '' };
   }
 
@@ -1848,13 +1707,14 @@ def build_finance_live_script():
     if (tEl) {
       var hhmmss = '';
       if (/^20\d{12}$/.test(q.time)) {
-        hhmmss = q.time.slice(8, 10) + ':' + q.time.slice(10, 12) + ':' + q.time.slice(12, 14);
+        hhmmss = q.time.slice(0, 4) + '-' + q.time.slice(4, 6) + '-' + q.time.slice(6, 8) + ' '
+               + q.time.slice(8, 10) + ':' + q.time.slice(10, 12) + ':' + q.time.slice(12, 14);
       } else if (q.time) {
         hhmmss = q.time;
       }
       if (hhmmss) {
         // 数据源时间按北京时间换算，超过 3 分钟就说明已收盘或延迟
-        var stale = false;
+        var stale = true;
         if (/^20\d{12}$/.test(q.time)) {
           var t = Date.UTC(+q.time.slice(0, 4), +q.time.slice(4, 6) - 1, +q.time.slice(6, 8),
                            +q.time.slice(8, 10) - 8, +q.time.slice(10, 12), +q.time.slice(12, 14)) / 1000;
@@ -1866,13 +1726,13 @@ def build_finance_live_script():
           var t2 = Date.UTC(n.getUTCFullYear(), n.getUTCMonth(), n.getUTCDate(), hh - 8, mi, se) / 1000;
           stale = Math.abs(Date.now() / 1000 - t2) > 600;
         }
-        tEl.textContent = (stale ? '\ud83d\udd52 行情时间 ' : '\ud83d\udd52 实时 ') + hhmmss;
+        tEl.textContent = '\ud83d\udd52 行情时间 ' + hhmmss
+          + (/^20\d{12}$/.test(q.time) ? (stale ? '（延迟/已收盘）' : '') : '（源时区）');
       } else {
-        var now = new Date();
-        tEl.textContent = '\ud83d\udd52 刷新于 ' + pad(now.getHours()) + ':' + pad(now.getMinutes()) + ':' + pad(now.getSeconds());
+        tEl.textContent = '\ud83d\udd52 已获取行情，源时间未知';
       }
     }
-    card.setAttribute('data-live', '1');
+    card.setAttribute('data-live', q.time && !stale ? '1' : '0');
   }
 
   function apply() {
@@ -1891,7 +1751,8 @@ def build_finance_live_script():
     el.charset = 'gbk';
     el.src = API + cards.map(function (c) { return c.getAttribute('data-tcode'); }).join(',')
            + '&_=' + Date.now();
-    el.onload = apply;
+    el.onload = function () { apply(); el.remove(); };
+    el.onerror = function () { el.remove(); };
     document.head.appendChild(el);
   }
 
@@ -1908,6 +1769,11 @@ def build_finance_live_script():
 def generate_finance_page(finance_items, date_str, date_only):
     """生成完整的财经页面"""
     log("[财经] 开始生成财经页面...")
+    from market_history import refresh
+    try:
+        refresh()
+    except Exception as exc:
+        log(f"[财经] K 线刷新失败，保留已有历史文件: {exc}")
     indices = fetch_all_market_indices()
     log(f"[财经] 获取 {len(indices)} 个股指数据")
 
@@ -1917,16 +1783,12 @@ def generate_finance_page(finance_items, date_str, date_only):
     history = [h for h in history if not str(h.get("ts", "")).startswith(now_key)]
     history.append({
         "ts": date_str,
-        "values": {idx["name"]: idx["current"] for idx in indices}
+        "values": {idx["name"]: idx["current"] for idx in indices if idx["current"] > 0}
     })
     save_finance_history(history)
     hist_len = len(history)
     log(f"[财经] 历史快照累计 {hist_len} 个点")
 
-    # 为非 A 股卡附加自积累趋势（≥2 个点才有走势）
-    for idx in indices:
-        if "trend" not in idx:
-            idx["trend"] = [h["values"].get(idx["name"]) for h in history if h["values"].get(idx["name"]) is not None][-30:]
     ticker_html = build_finance_ticker_html(indices)
     live_script = build_finance_live_script()
     sectors_html = build_finance_sectors_html()
@@ -1937,46 +1799,16 @@ title: 股票财经
 ---
 
 <h1>📈 股票与宏观财经看板</h1>
-<p class="page-subtitle">全球主要股指追踪 · A股/港股/美股核心资产 · 主力板块资金流向 · 每日宏观财经资讯聚合与深度研报</p>
+<p class="page-subtitle">全球市场快照 · A 股与港股 K 线 · 宏观财经资讯</p>
 
-<div class="news-meta-bar">
-  <span class="news-meta-item">📊 全球市场指数</span>
-  <span class="news-meta-item">🔥 主力资金流向</span>
-  <span class="news-meta-item">⚡ 核心赛道透视</span>
-  <span class="news-meta-item">📰 每日财经资讯</span>
-  <span class="news-meta-item">💡 悬浮即览深度简述</span>
-  <span class="news-meta-item">🕐 页面生成于 {date_str}（北京时间）</span>
-</div>
-
-<!-- ================= 0. TradingView 官方全球行情跑马灯组件 ================= -->
-<div class="tradingview-widget-container" style="margin: 20px 0 28px; border-radius: 10px; overflow: hidden; border: 1px solid var(--color-border); box-shadow: var(--shadow-sm);">
-  <div class="tradingview-widget-container__widget"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
-  {{
-  "symbols": [
-    {{ "proName": "FOREXCOM:SPXUSD", "title": "S&P 500" }},
-    {{ "proName": "FOREXCOM:NSXUSD", "title": "Nasdaq 100" }},
-    {{ "proName": "FOREXCOM:DJI", "title": "Dow Jones" }},
-    {{ "proName": "INDEX:HSI", "title": "恒生指数" }},
-    {{ "proName": "FX_IDC:USDCNH", "title": "USD/CNH" }},
-    {{ "proName": "TVC:GOLD", "title": "Gold" }},
-    {{ "proName": "TVC:UKOIL", "title": "Brent Oil" }}
-  ],
-  "showSymbolLogo": true,
-  "isTransparent": true,
-  "displayMode": "adaptive",
-  "colorTheme": "dark",
-  "locale": "zh_CN"
-  }}
-  </script>
-</div>
+{{% include market-chart.html %}}
 
 <!-- ================= 1. 全球核心指数行情看板 ================= -->
 <div class="section-header" style="margin-top: 24px;">
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>🌍 全球核心股指 & 宏观资产快照</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">覆盖 {len(indices)} 项市场指标 · <b style="color:#00b86b">绿色时间</b> = 浏览器直连行情刷新，灰色 = 服务端快照</span>
+  <span style="font-size: 12px; color: var(--color-muted);">覆盖 {len(indices)} 项市场指标 · 行情按源时间展示，可能存在延迟</span>
 </div>
 
 <!-- QUOTES:BEGIN -->
@@ -1988,9 +1820,9 @@ title: 股票财经
 <!-- ================= 2. 热门核心赛道与主力资金流向 ================= -->
 <div class="section-header" style="margin-top: 32px;">
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
-    <span>🔥 核心热门主线赛道 & 资金流向透视</span>
+    <span>产业主题观察</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">主力净流入与产业催化（参考值）</span>
+  <span style="font-size: 12px; color: var(--color-muted);">关注领域</span>
 </div>
 
 {sectors_html}
@@ -2000,7 +1832,7 @@ title: 股票财经
   <h2 style="font-size: 18px; margin: 0; display: flex; align-items: center; gap: 8px;">
     <span>📰 每日宏观财经 & 资本市场资讯聚合</span>
   </h2>
-  <span style="font-size: 12px; color: var(--color-muted);">鼠标悬停即可查看深度微型特稿与背景剖析</span>
+  <span style="font-size: 12px; color: var(--color-muted);">宏观经济与资本市场</span>
 </div>
 
 {news_html}
@@ -2014,7 +1846,7 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 {date_str}（北京时间）· 行情由腾讯行情接口在浏览器端实时刷新（60 秒/次），失败时回退服务端快照 · 资金流向为参考估算 · 仅供参考不构成任何投资建议</p>
+<p class="news-updated">🕐 页面生成于 {date_str}（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
 """
     with open("finance.md", "w", encoding="utf-8") as f:
         f.write(page)

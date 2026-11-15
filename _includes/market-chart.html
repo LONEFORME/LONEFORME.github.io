@@ -1,0 +1,51 @@
+<section class="market-workbench" aria-labelledby="market-chart-title"
+         data-history-url="{{ '/assets/data/market-history.json' | relative_url }}">
+  <div class="market-heading">
+    <div>
+      <span class="market-eyebrow">MARKET / 行情研究</span>
+      <h2 id="market-chart-title">市场 K 线</h2>
+    </div>
+    <label class="market-selector-label">品种
+      <select id="market-symbol" aria-label="行情品种">
+        <optgroup label="A 股">
+          <option value="sh000001">上证指数</option>
+          <option value="sz399001">深证成指</option>
+          <option value="sz399006">创业板指</option>
+          <option value="sh000688">科创50</option>
+        </optgroup>
+        <optgroup label="港股">
+          <option value="hkHSTECH">恒生科技</option>
+          <option value="hkHSI">恒生指数</option>
+        </optgroup>
+      </select>
+    </label>
+  </div>
+  <div class="market-toolbar">
+    <div class="market-periods" role="group" aria-label="K 线周期">
+      <button type="button" data-period="hour" aria-pressed="false">小时 K</button>
+      <button type="button" data-period="day" aria-pressed="true">日 K</button>
+      <button type="button" data-period="week" aria-pressed="false">周 K</button>
+      <button type="button" data-period="month" aria-pressed="false">月 K</button>
+    </div>
+    <div class="market-chart-tools">
+      <label><input type="checkbox" id="market-ma" checked> <span class="market-ma5">MA5</span> / <span class="market-ma20">MA20</span></label>
+      <label><input type="checkbox" id="market-volume" checked> <span id="market-volume-label">成交量</span></label>
+      <button type="button" id="market-reset" class="market-icon-button" title="重置视图" aria-label="重置视图">
+        <i data-lucide="maximize"></i>
+      </button>
+      <button type="button" id="market-retry" class="market-icon-button" title="刷新历史行情" aria-label="刷新历史行情">
+        <i data-lucide="refresh-cw"></i>
+      </button>
+    </div>
+  </div>
+  <div class="market-ohlc" id="market-ohlc" aria-live="off">正在加载历史行情…</div>
+  <div class="market-chart-stage">
+    <div id="market-chart" role="img" aria-label="上证指数日 K 线与成交量"></div>
+    <div id="market-chart-empty" role="status" hidden></div>
+  </div>
+  <div class="market-caption">
+    <span id="market-chart-status" role="status" aria-live="polite">正在获取 K 线数据…</span>
+    <span>红涨绿跌 · 北京时间 · <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView Lightweight Charts™</a></span>
+  </div>
+</section>
+<script type="module" src="{{ '/assets/js/market-charts.bundle.js' | relative_url }}"></script>
