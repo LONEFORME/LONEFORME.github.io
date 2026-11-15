@@ -437,7 +437,7 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">3 条精选资讯</span>
     </div>
         <a class="news-item" href="https://www.ithome.com/1/027/456.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 15 日消息，磷光发光拥有显著高于荧光发光的内量子效率，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。▲ 10.95&quot; 平板电脑屏幕OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异，蓝光的磷光化一直是一大难题，相关技术的商业化直到近两年才有较为显著的进展。▲ 6.36&quot; 智能手机屏幕而在本年度的企业全球显示生态大会上，TCL 华星展示了覆盖智能手机、平板电脑、微相机 3 大形态的蓝色磷光敏化荧光 (PSF) 产品。其在蓝光器件中引入敏化剂，将三重态激子能量高效传递给蓝光发光体。针对蓝光磷光化的现实困难，TCL 华星自主开展 MIX 混合主体的配比设计，并结合 PSF 体系优化，提升蓝色发光效率；同时持续推进 MIX-BH 与" data-title="TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态" data-date="11-15 22:16" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -457,36 +457,6 @@ title: 股票财经
           <span class="news-item-date">11-15 18:12</span>
           <span class="news-item-title">第49届东盟峰会在菲律宾马尼拉开幕</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-15/10732330.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月15日电 (记者 刘文文)15日在深圳举行的2026年亚太经合组织(APEC)工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，12位APEC经济体领导人将出席APEC工商领导人峰会。" data-title="（深圳APEC）12位APEC经济体领导人将出席APEC工商领导人峰会" data-date="11-15 16:10" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-15 16:10</span>
-          <span class="news-item-title">（深圳APEC）12位APEC经济体领导人将出席APEC工商领导人峰会</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/372.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 15 日消息，TCL 科技集团高级副总裁、TCL 华星首席执行官赵军接受每日经济新闻采访时谈及内存涨价话题。“内存价格的飙涨，让我们的客户在定价和销量之间产生了巨大的纠结，带来的影响是 OLED 下游的需求受到较大抑制。”但他同时表示，“苦日子可能还得熬，但我们对未来也不完全悲观”。“我们对未来不能一味地乐观，但也没理由一味地悲观。”赵军认为，未来需求还是会有所复苏。对于复苏的变量，他归纳为三条：一是存储价格回归理性；二是 OLED 从中高端往入门级产品渗透；三是过去没有用 OLED 的产品，现在也开始导入，比如车载显示、平板等。此外，苹果布局折叠屏“是一个加速器”—— 他援引机构数据分析，预计 2026 年折叠机市场需求约 2800 万台，2031 年折叠机市场规模预计" data-title="TCL 华星赵军：内存价格飙涨抑制 OLED 屏终端需求，苦日子要熬但不悲观" data-date="11-15 16:06" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-15 16:06</span>
-          <span class="news-item-title">TCL 华星赵军：内存价格飙涨抑制 OLED 屏终端需求，苦日子要熬但不悲观</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/362.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 15 日消息，分析机构 Sensor Tower 现已更新《GTA6》预购销量测算，目前本作预购销量已达到 1,213 万份，预购收入约为 11.8 亿美元（IT之家注：现汇率约合 78.94 亿元人民币）。其中 PlayStation 和 XBOX 平台占比依旧是 75% 和 25%。Take-Two CEO 施特劳斯 · 泽尔尼克此前表示，本作预购表现远超预期，但游戏正式发售后的表现仍有待观察。此外，游戏业界都在期待《GTA6》发售后的商业表现能否突破此前。许多人预计，本作将超越《GTA5》在 2013 年发售时创造的超 10 亿美元（现汇率约合 66.88 亿元人民币）惊人首发纪录。" data-title="Sensor Tower：《GTA6》预购销量突破 1200 万份，收入突破 11.8 亿美元" data-date="11-15 16:01" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-15 16:01</span>
-          <span class="news-item-title">Sensor Tower：《GTA6》预购销量突破 1200 万份，收入突破 11.8 亿美元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/360.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 15 日消息，据科技媒体 TechPower Up 今天报道，美国电商平台 Newegg（新蛋）近期补充了 GeForce RTX 5090 显卡库存。但在自营渠道中，售价最低的技嘉 AORUS RTX 5090 Xtreme Waterforce 要价 6,599 美元（现汇率约合 44,145 元人民币），相比 1,999 美元（现汇率约合 13,373 元人民币）MSRP 高了 3.3 倍。此次补货的 RTX 5090 有华硕、技嘉和微星等品牌的少数商品。所有商品均为新蛋自营，非第三方商家。其中技嘉 AORUS Master ICE 售价 6,759.99 美元（现汇率约合 45,222 元人民币）；微星 Gaming Trio OC、Ventus 3X OC 和" data-title="美国电商平台新蛋补货 RTX 5090 显卡：起售价 6599 美元，是官方建议零售价的三倍多" data-date="11-15 15:56" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-15 15:56</span>
-          <span class="news-item-title">美国电商平台新蛋补货 RTX 5090 显卡：起售价 6599 美元，是官方建议零售价的三倍多</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-15/10732229.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网约翰内斯堡11月15日电 中国驻德班总领馆14日发布公告，提醒中国公民、企业机构加强年末安全防范。" data-title="南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒" data-date="11-15 09:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-15 09:24</span>
-          <span class="news-item-title">南非夸纳省一华人超市遭遇持枪抢劫 中国驻德班总领馆发布安全提醒</span>
-        </a>
   </div>
 </div>
 
@@ -500,4 +470,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-15 22:54（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-16 02:59（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
