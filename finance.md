@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">27,943.74</span>
-      <span class="ticker-change down">▼ -1.22%</span>
+      <span class="ticker-price ticker-down">27,395.47</span>
+      <span class="ticker-change down">▼ -1.96%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-14 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-17 01:18:22（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6681</span>
+      <span class="ticker-price ticker-down">6.6642</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:43:43（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:18:15（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,858.47 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -21.45 (-0.55%)</span>
+      <span class="ticker-price ticker-down">$3,867.61 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -12.31 (-0.32%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:43:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:18:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥829.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -7.70 (-0.92%)</span>
+      <span class="ticker-price ticker-up">¥831.21 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +2.21 (+0.27%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:18:25（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$95.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.42 (-0.44%)</span>
+      <span class="ticker-price ticker-down">$93.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -2.56 (-2.68%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:43:52（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:18:24（非实时）</div>
   </div>
 </div>
 
@@ -437,43 +437,67 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">6 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-16/10732859.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社马尼拉11月16日电#8195;专访：“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥" data-title="“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥" data-date="11-16 16:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-16 16:31</span>
-          <span class="news-item-title">“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/794.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 16 日消息，TrendForce（集邦）今日发布 2026Q3 全球电视出货数据并对后续市场进行预测，认为 2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%。机构指出，电视市场短期内将持续受到来自存储器、显示面板和其它上游零部件的成本压力。终端需求疲弱将成为一种“新常态”。根据其提供的数据，全球电视出货量在 2026Q3 达到 4,794 万台，环比回升 2.8%、同比下滑 3.6%；预计 2026Q4 出货量环比再度增长 8.0%、同比跌幅扩大至 4.0%。▲ 图源：TrendForceLG 电子、小米、TCL 在第三季度表现良好，三星、海信的出货减少也相对有限，五大品牌之外的电视企业则面临更大压力；而从技术角度，高端市场的后一般 Mini L" data-title="TrendForce 预测：2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%" data-date="11-16 16:08" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/028/004.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei&#39;s innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）除了发现欧洲的站点获取成本高得惊人，并提出分布式基站这一方案外，还在与西班牙电信德国公司的一次讨论中提出，把 2G 和 3G 集成到一个基站里。后来，华为与沃达丰合作推出了 SingleRAN 解决方案，把 2G、3G、4G、5G 在物理上集成到同一个基站中。这同样成" data-title="徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位" data-date="11-17 00:23" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-16 16:08</span>
-          <span class="news-item-title">TrendForce 预测：2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%</span>
+          <span class="news-item-date">11-17 00:23</span>
+          <span class="news-item-title">徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-16/10732828.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="从昨天(15日)起，我国北方地区全面开启冬季供暖，煤炭、天然气以及清洁电能等能源供应协同发力，全力保障群众温暖过冬。" data-title="北方开启冬季供暖 各地加强能源保供 迎峰度冬" data-date="11-16 16:06" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026" target="_blank" rel="noopener" data-cat="caijing" data-summary="即使在像我们现在这样的通胀时代，100美元仍然可以买到很多东西……如果您知道去哪里找的话。事实上，这足以买到一件实用且做工精良的东西，但又不会贵到让您感到内疚。" data-title="The Verge’s guide to the best gifts under $100" data-date="11-17 00:00" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-16 16:06</span>
-          <span class="news-item-title">北方开启冬季供暖 各地加强能源保供 迎峰度冬</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 00:00</span>
+          <span class="news-item-title">The Verge’s guide to the best gifts under $100</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/456.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 15 日消息，磷光发光拥有显著高于荧光发光的内量子效率，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。▲ 10.95&quot; 平板电脑屏幕OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异，蓝光的磷光化一直是一大难题，相关技术的商业化直到近两年才有较为显著的进展。▲ 6.36&quot; 智能手机屏幕而在本年度的企业全球显示生态大会上，TCL 华星展示了覆盖智能手机、平板电脑、微相机 3 大形态的蓝色磷光敏化荧光 (PSF) 产品。其在蓝光器件中引入敏化剂，将三重态激子能量高效传递给蓝光发光体。针对蓝光磷光化的现实困难，TCL 华星自主开展 MIX 混合主体的配比设计，并结合 PSF 体系优化，提升蓝色发光效率；同时持续推进 MIX-BH 与" data-title="TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态" data-date="11-15 22:16" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/027/993.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 16 日消息，特斯拉周一宣布，将向位于德国柏林郊外的工厂投资 30 亿欧元（IT之家注：现汇率约合 220.83 亿元人民币），扩大当地生产能力。与此同时，德国本土汽车制造商正面临成本高企、市场需求疲软等压力。特斯拉首席执行官埃隆 · 马斯克（Elon Musk）旗下的电动汽车制造商计划在德国格林海德（Gruenheide）的超级工厂新建一座生产设施。这也是特斯拉目前在欧洲唯一的整车工厂。根据该公司向路透社发送的电子邮件声明，新设施的目标是实现每年最多生产 100 万辆 Cybercab。特斯拉表示，计划在今年年底前为整个项目提交建筑许可申请。新设施预计于 2027 年上半年开工建设，并于 2029 年正式投产。" data-title="特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab" data-date="11-16 23:04" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-15 22:16</span>
-          <span class="news-item-title">TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态</span>
+          <span class="news-item-date">11-16 23:04</span>
+          <span class="news-item-title">特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-15/10732469.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社金边11月15日电(张安琪 张堰林 杨强)第20届法语国家组织峰会当地时间15日在柬埔寨首都金边开幕。峰会以“重新投资和平，促进共同繁荣与可持续稳定”为主题，数十位各国领导人及国际组织负责人出席。" data-title="第20届法语国家组织峰会在柬埔寨举办" data-date="11-15 20:36" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-16/10733142.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社东京11月16日电 (记者 朱晨曦)日本内阁府16日发表的初步统计结果显示，受个人消费下滑影响，扣除物价变动因素，日本2026年第三季度实际国内生产总值(GDP)环比基本持平，按年率计算萎缩0.1%，自2025年第三季度以来再次出现负增长。" data-title="日本2026年三季度GDP再现负增长" data-date="11-16 22:34" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-15 20:36</span>
-          <span class="news-item-title">第20届法语国家组织峰会在柬埔寨举办</span>
+          <span class="news-item-date">11-16 22:34</span>
+          <span class="news-item-title">日本2026年三季度GDP再现负增长</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-15/10732417.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉11月15日电(记者 周璟)第49届东盟峰会15日在菲律宾首都马尼拉开幕。东盟各国领导人将围绕能源安全、粮食安全及经济合作等议题深入交流，探讨加强区域协作、应对共同挑战的举措。" data-title="第49届东盟峰会在菲律宾马尼拉开幕" data-date="11-15 18:12" data-source="中国新闻网">
+        <a class="news-item" href="https://www.ithome.com/1/027/968.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 16 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei&#39;s innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，在他 1993 年入职时期，华为研发团队正攻关数字程控交换机。伴随中国经济高速发展，家庭与办公固话的需求远大于供给。很多年里，装一部电话既难又贵。西方厂商的交换机虽已进入中国，但各家标准互不兼容，每条线路成本约 3,000 元人民币，在当年这是一笔巨款。他表示，这也带来了市场机遇。彼时各大城市周边分布着大量乡镇村落，每个点都建一套完整的" data-title="徐直军回顾华为“发家史”，透露在与西方老牌通信厂商的正面竞争中快速做大了业务" data-date="11-16 22:15" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-16 22:15</span>
+          <span class="news-item-title">徐直军回顾华为“发家史”，透露在与西方老牌通信厂商的正面竞争中快速做大了业务</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-16/10733117.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网宁德11月16日电 (记者 吕巧琴 叶茂)中国共产党宁德市第六次代表大会15日在宁德市开幕。宁德市委书记潘国强代表中共宁德市第五届委员会，向大会作题为《牢记嘱托 勇担使命 为奋力谱写全面建设社会主义现代化国家的宁德篇章而不懈奋斗》的报告。宁德市副市长、代理市长傅藏荣主持。" data-title="五年GDP年均增长8.4% 福建宁德聚力跃升谱写发展新篇" data-date="11-16 22:05" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-15 18:12</span>
-          <span class="news-item-title">第49届东盟峰会在菲律宾马尼拉开幕</span>
+          <span class="news-item-date">11-16 22:05</span>
+          <span class="news-item-title">五年GDP年均增长8.4% 福建宁德聚力跃升谱写发展新篇</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-16/10733084.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月16日电 综合消息：伊朗外交部长阿拉格齐16日呼吁，迫切需要通过区域性对话，建立区域主导的独立安全框架和可靠能源机制，以保障能源流通和稳定供应，减少外部脆弱性。" data-title="伊朗外长呼吁建立区域主导的独立安全框架和可靠能源机制" data-date="11-16 22:03" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-16 22:03</span>
+          <span class="news-item-title">伊朗外长呼吁建立区域主导的独立安全框架和可靠能源机制</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-16/10733070.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网兰州11月16日电 (戴文昌)黄土寒旱塬，曾是甘肃省定西市农耕最难的底色。如今这片十年九旱的陇中大地，不再只靠马铃薯、中药材“土里刨金”，而是循着“千万工程”经验，以产业转型为牵引，推动乡村在生产、人居、治理上实现系统性嬗变。" data-title="寒旱塬上，甘肃定西跳出“土里刨金”谋乡村嬗变" data-date="11-16 21:11" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-16 21:11</span>
+          <span class="news-item-title">寒旱塬上，甘肃定西跳出“土里刨金”谋乡村嬗变</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Dreamteam 已在 13 个国家/地区签约了 100 多家客户，其中一些企业是从成熟的 CRM 系统切换而来。" data-title="Freshworks alums raise $53M to take on Salesforce, HubSpot with AI" data-date="11-16 20:30" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-16 20:30</span>
+          <span class="news-item-title">Freshworks alums raise $53M to take on Salesforce, HubSpot with AI</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/11/510493.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。" data-title="SuperLink2026开启创投行业超级链接时刻，12月北京见" data-date="11-16 15:58" data-source="量子位">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">11-16 15:58</span>
+          <span class="news-item-title">SuperLink2026开启创投行业超级链接时刻，12月北京见</span>
         </a>
   </div>
 </div>
@@ -488,4 +512,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-16 16:42（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-17 01:16（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
