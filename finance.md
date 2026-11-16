@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">27,271.34</span>
-      <span class="ticker-change down">▼ -2.41%</span>
+      <span class="ticker-price ticker-down">27,197.15</span>
+      <span class="ticker-change down">▼ -2.67%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 03:30:24（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-17 06:24:30（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6639</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.6654</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:30:18（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 06:24:42（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,865.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -14.63 (-0.38%)</span>
+      <span class="ticker-price ticker-down">$3,856.24 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -23.68 (-0.61%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:59:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$92.39 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -3.45 (-3.60%)</span>
+      <span class="ticker-price ticker-down">$91.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -4.09 (-4.27%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:30:28（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 06:24:21（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">14 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology." data-title="Bessent Takes Hawkish Turn in White House Debate on China" data-date="11-17 05:25" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-17 05:25</span>
+          <span class="news-item-title">Bessent Takes Hawkish Turn in White House Debate on China</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats" target="_blank" rel="noopener" data-cat="caijing" data-summary="Constellation Energy - America&#39;s largest operator of nuclear power plants - does not share Wall Street&#39;s concerns that the Democrats will slow down data center development. On the company&#39;s third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. &quot;I do think we&#39;ve […]" data-title="Big Nuclear isn’t worried about the Democrats stopping data centers" data-date="11-17 04:29" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 04:29</span>
+          <span class="news-item-title">Big Nuclear isn’t worried about the Democrats stopping data centers</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/" target="_blank" rel="noopener" data-cat="caijing" data-summary="The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry." data-title="FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’" data-date="11-17 01:36" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-17 01:36</span>
+          <span class="news-item-title">FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/009.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露，360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查。截至发稿，360 方面暂未回应。今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。消息人士还透露，除了卜思南涉案外，内部或许还有相关人员被带走调查。IT之家查询获悉，卜思南是 360 集团副总裁、360 集团市场部负责人、360 数字安全集团教育事业部总经理、ISC 品牌主理人。卜思南早期负责集团市场战略、品牌生态建设，后主管产教融合业务，对接数百所院校共建安全产业学院，牵头国家级产教融合共同体；同时主理 ISC.AI 相关生态，推出" data-title="消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查" data-date="11-17 01:16" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 01:16</span>
+          <span class="news-item-title">消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/028/004.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei&#39;s innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）除了发现欧洲的站点获取成本高得惊人，并提出分布式基站这一方案外，还在与西班牙电信德国公司的一次讨论中提出，把 2G 和 3G 集成到一个基站里。后来，华为与沃达丰合作推出了 SingleRAN 解决方案，把 2G、3G、4G、5G 在物理上集成到同一个基站中。这同样成" data-title="徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位" data-date="11-17 00:23" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -512,4 +536,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-17 01:16（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-17 06:23（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>

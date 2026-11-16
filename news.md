@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-17 01:16 抓取更新</span>
+      <span>2026-11-17 06:23 抓取更新</span>
     </div>
   </div>
   <div class="news-search-bar">
@@ -60,43 +60,43 @@ title: 热点新闻
   <div class="ov-item"><span class="ov-num">53</span><span class="ov-label">今日动态</span></div>
   <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">5</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · 纽约时报×8</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · 纽约时报×7</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">按来源聚合 · 最近 24 小时精选</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/11-17/10733161.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间11月16日，波黑新一届主席团在首都萨拉热窝举行宣誓就职典礼。" data-title="波黑新一届主席团成员宣誓就职" data-date="11-17 00:36" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/11-17/10733163.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社德黑兰11月16日电(记者刁慧琳 沙达提)据伊朗伊斯兰共和国广播电视台16日报道，伊中部伊斯法罕省政府安全事务副省长阿克巴尔·萨利希否认当天有关伊斯法罕地区防空系统启动的消息，称在该省领空未发现、也没有出现任何敌方飞行器。" data-title="伊朗官方否认伊斯法罕省启动防空系统" data-date="11-17 05:53" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
         <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 11-17 00:36</span>
+        <span class="hero-featured-date">🕒 11-17 05:53</span>
       </div>
-      <h2 class="hero-featured-title">波黑新一届主席团成员宣誓就职</h2>
+      <h2 class="hero-featured-title">伊朗官方否认伊斯法罕省启动防空系统</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI将嵌入六名Apollo Research评估员，以调查其人工智能模型是否从事颠覆性行为，但对访问和披露的限制引发了对其独立性的质疑。" data-title="OpenAI will embed Apollo researchers to investigate AI subversion" data-date="11-17 01:02" data-source="TechCrunch">
+    <a class="hero-sub-card" href="https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years" target="_blank" rel="noopener" data-cat="keji" data-summary="The Top 500 list records the fewest new entrants in its history amid a massive shift in compute infrastructure investments towards AI factories." data-title="China retains fastest supercomputer in the world crown as AI data centers soak up new hardware" data-date="11-17 06:17" data-source="Tom's Hardware">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+        <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
       </div>
-      <p class="hero-sub-title">OpenAI 将聘请 Apollo 研究人员来调查人工智能颠覆行为</p>
+      <p class="hero-sub-title">China retains fastest supercomputer in the world crown as AI data centers soak up new hardware</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/news/12040/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="水晶宫任命托马斯·弗兰克为新任主教练。" data-title="Frank appointed Crystal Palace manager" data-date="11-17 01:00" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/news/12040/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Declan Rice has verbally agreed terms on a new long-term contract at Arsenal, Sky Sports News can reveal." data-title="Rice verbally agrees new Arsenal contract" data-date="11-17 05:12" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">弗兰克被任命为水晶宫主教练</p>
+      <p class="hero-sub-title">Rice verbally agrees new Arsenal contract</p>
     </a>
-    <a class="hero-sub-card" href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="贝尔福特声称，他的AI销售语音已经能够像最优秀的真人销售人员一样达成交易，他认为AI将在一年内赶上真人销售人员。" data-title="Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’" data-date="11-17 01:10" data-source="TechCrunch">
+    <a class="hero-sub-card" href="https://www.tomshardware.com/gift-guides-seasonal-sales/15-retro-tech-gift-ideas-for-the-nostalgic-gamer-or-builder-in-your-life-old-school-designs-packed-with-modern-hardware-from-game-controllers-to-desk-accessories" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Pick up a retro tech gift for yourself or a loved one this holiday season, from mini PCs to old-school controllers." data-title="15 retro tech gift ideas for the nostalgic gamer or builder in your life" data-date="11-17 06:20" data-source="Tom's Hardware">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+        <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
       </div>
-      <p class="hero-sub-title">乔丹·贝尔福特的新的人工智能语音初创公司Tone希望像“华尔街之狼”一样大卖</p>
+      <p class="hero-sub-title">15 retro tech gift ideas for the nostalgic gamer or builder in your life</p>
     </a>
   </div>
 </div>
@@ -107,6 +107,20 @@ title: 热点新闻
       <span class="news-category-title">时政要闻 & 国际动态</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-17/10733163.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社德黑兰11月16日电(记者刁慧琳 沙达提)据伊朗伊斯兰共和国广播电视台16日报道，伊中部伊斯法罕省政府安全事务副省长阿克巴尔·萨利希否认当天有关伊斯法罕地区防空系统启动的消息，称在该省领空未发现、也没有出现任何敌方飞行器。" data-title="伊朗官方否认伊斯法罕省启动防空系统" data-date="11-17 05:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 05:53</span>
+          <span class="news-item-title">伊朗官方否认伊斯法罕省启动防空系统</span>
+          <span class="news-value-point">💡 新华社德黑兰11月16日电(记者刁慧琳 沙达提)据伊朗伊斯兰共和国广播电视台16日报道，伊中部伊斯法罕省政府安全事务副省长阿克巴尔·萨利希否认当…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733162.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国常驻联合国代表傅聪16日在安理会叙利亚问题公开会上发言，敦促叙过渡政府推进包容治理进程。" data-title="中方敦促推进叙利亚包容治理进程" data-date="11-17 05:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 05:52</span>
+          <span class="news-item-title">中方敦促推进叙利亚包容治理进程</span>
+          <span class="news-value-point">💡 中国常驻联合国代表傅聪16日在安理会叙利亚问题公开会上发言，敦促叙过渡政府推进包容治理进程</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733161.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="当地时间11月16日，波黑新一届主席团在首都萨拉热窝举行宣誓就职典礼。" data-title="波黑新一届主席团成员宣誓就职" data-date="11-17 00:36" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -199,21 +213,6 @@ title: 热点新闻
           <span class="news-item-title">在这里看见未来丨世界目光聚焦中国 亚太同心共赴未来</span>
           <span class="news-value-point">💡 APEC领导人会议周相关活动正在密集展开</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="特朗普总统还将与该地区多国领导人会晤，其中包括澳大利亚总理，后者表示“我们希望看到冲突降级”。" data-title="Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know" data-date="11-16 19:26" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-16 19:26</span>
-          <span class="news-item-title">特朗普的亚洲之行将使他与习近平和普京同席：需要了解的信息</span>
-          <span class="news-item-title-en">Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know</span>
-          <span class="news-value-point">💡 特朗普总统还将与该地区多国领导人会晤，其中包括澳大利亚总理，后者表示“我们希望看到冲突降级”</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="深圳APEC2026到来，特朗普（川普）称将与中俄领袖在深圳会面，中俄确认正协调三方会晤。BBC中文专访APEC执行秘书长讨论敏感议，称对领导人出席保持乐观。" data-title="APEC深圳峰会：中方确认美中俄会晤，日方盼习近平与高市握手" data-date="11-16 09:43" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-16 09:43</span>
-          <span class="news-item-title">APEC深圳峰会：中方确认美中俄会晤，日方盼习近平与高市握手</span>
-          <span class="news-value-point">💡 深圳APEC2026到来，特朗普（川普）称将与中俄领袖在深圳会面，中俄确认正协调三方会晤</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -221,6 +220,105 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/supercomputers/china-retains-fastest-supercomputer-in-the-world-crown-as-ai-data-centers-soak-up-new-hardware-top500-records-fewest-new-systems-in-33-years" target="_blank" rel="noopener" data-cat="keji" data-summary="The Top 500 list records the fewest new entrants in its history amid a massive shift in compute infrastructure investments towards AI factories." data-title="China retains fastest supercomputer in the world crown as AI data centers soak up new hardware" data-date="11-17 06:17" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-17 06:17</span>
+          <span class="news-item-title">China retains fastest supercomputer in the world crown as AI data centers soak up new hardware</span>
+          <span class="news-value-point">💡 The Top 500 list records the fewest new entrants in its history amid a m…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/" target="_blank" rel="noopener" data-cat="keji" data-summary="Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer." data-title="All the questions Nvidia should answer on Tuesday" data-date="11-17 06:03" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-17 06:03</span>
+          <span class="news-item-title">All the questions Nvidia should answer on Tuesday</span>
+          <span class="news-value-point">💡 Nvidia interim CEO and long-time CFO Colette Kress is about to have one …</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/new-us-rules-aim-to-restrict-remote-access-to-ai-servers-and-infrastructure-seeks-to-combat-cloud-rental-workarounds-to-gpu-export-controls" target="_blank" rel="noopener" data-cat="keji" data-summary="The Bureau of Industry and Security has announced a new interim final rule to ensure restrictions on the export of physical AI hardware cannot be bypassed by accessing it remotely in data centers around the world." data-title="New US rules aim to restrict Chinese firms’ remote access to AI servers and infrastructure" data-date="11-17 05:50" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-17 05:50</span>
+          <span class="news-item-title">New US rules aim to restrict Chinese firms’ remote access to AI servers and infrastructure</span>
+          <span class="news-value-point">💡 The Bureau of Industry and Security has announced a new interim final ru…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/supercomputers/researchers-recognize-that-ai-will-never-replace-hpc-says-amd-executive-high-precision-workloads-will-exist-for-a-very-long-time-even-as-ai-usage-expands" target="_blank" rel="noopener" data-cat="keji" data-summary="The emergence of AI has seemingly posed a threat to high-precision FP64 computation, but AMD doesn&#39;t think the HPC world is moving away from those complex calculations in the wake of AI." data-title="Researchers ‘recognize that AI will never replace HPC,’ says AMD executive — high-precision workloads will ‘exist for a very long time’ even as AI usage expands" data-date="11-17 05:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-17 05:30</span>
+          <span class="news-item-title">Researchers ‘recognize that AI will never replace HPC,’ says AMD executive — high-precision workloads will ‘exist for a very long time’ even as AI usage expands</span>
+          <span class="news-value-point">💡 The emergence of AI has seemingly posed a threat to high-precision FP64 …</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/supercomputers/amd-grabs-over-40-percent-of-new-top500-list-for-supercomputers-up-14-percent-since-last-year-new-lux-system-developed-between-amd-and-department-of-energy-debuts-at-no-14-with-epyc-cpus-and-instinct-mi355x-gpus" target="_blank" rel="noopener" data-cat="keji" data-summary="AMD&#39;s Lux supercomputer debuted at position 14 on the new TOP500 list published during SC26. It&#39;s one of two machines AMD is developing as part of a $1 billion deal with the U.S. Department of Energy." data-title="AMD grabs over 40% of new TOP500 list for supercomputers, up 14% since last year" data-date="11-17 05:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-17 05:00</span>
+          <span class="news-item-title">AMD grabs over 40% of new TOP500 list for supercomputers, up 14% since last year</span>
+          <span class="news-value-point">💡 AMD's Lux supercomputer debuted at position 14 on the new TOP500 list pu…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit" target="_blank" rel="noopener" data-cat="keji" data-summary="California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a &quot;dangerous product without proper oversight,&quot; as reported earlier by Reuters. The lawsu" data-title="California sues OpenAI over rogue AI hacking incidents" data-date="11-17 04:46" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 04:46</span>
+          <span class="news-item-title">California sues OpenAI over rogue AI hacking incidents</span>
+          <span class="news-value-point">💡 California is suing OpenAI after its AI agents broke out of their testin…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. &quot;I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,&quot; Altman said today. &quot;I think the home tinkering is great.&quot; […]" data-title="Sam Altman says he wants everyone ‘to have a lot of RAM’" data-date="11-17 04:41" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 04:41</span>
+          <span class="news-item-title">Sam Altman says he wants everyone ‘to have a lot of RAM’</span>
+          <span class="news-value-point">💡 OpenAI CEO Sam Altman is once again addressing his controversial comment…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard" target="_blank" rel="noopener" data-cat="keji" data-summary="Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the" data-title="US data centers now burn more electricity than a midsized country" data-date="11-17 04:27" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 04:27</span>
+          <span class="news-item-title">US data centers now burn more electricity than a midsized country</span>
+          <span class="news-value-point">💡 Fossil fuels are still the biggest source of electricity for hyperscale …</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/" target="_blank" rel="noopener" data-cat="keji" data-summary="The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident" data-title="California state AG sues OpenAI over rogue agent incidents" data-date="11-17 04:07" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-17 04:07</span>
+          <span class="news-item-title">California state AG sues OpenAI over rogue agent incidents</span>
+          <span class="news-value-point">💡 The California lawsuit represents one of the first attempts to hold an A…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/" target="_blank" rel="noopener" data-cat="keji" data-summary="Trump contradicted his own government&#39;s intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy." data-title="Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security" data-date="11-17 03:12" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-17 03:12</span>
+          <span class="news-item-title">Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security</span>
+          <span class="news-value-point">💡 Trump contradicted his own government's intelligence officials, who repo…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/nvidia-announces-rubin-hpc-gpu-with-record-number-of-cuda-cores-at-supercomputing-2026-new-chip-accelerates-agentic-hpc-workloads-arrives-in-2028" target="_blank" rel="noopener" data-cat="keji" data-summary="Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This new GPU will give scientists, engineers, and analysts over 50,000 CUDA cores to speed up agentic HPC workloads when it arrives in 2028." data-title="Nvidia announces Rubin HPC GPU with &#39;record number of CUDA cores&#39; at Supercomputing 2026" data-date="11-17 03:05" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-17 03:05</span>
+          <span class="news-item-title">Nvidia announces Rubin HPC GPU with 'record number of CUDA cores' at Supercomputing 2026</span>
+          <span class="news-value-point">💡 Nvidia took the wraps off its Rubin HPC GPU at Supercomputing 2026. This…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/trump-calls-for-jensen-huang-reinstatement-as-nvidia-ceo-nvidia-board-reportedly-refuses-to-reinstate-disgraced-ceo-due-to-ongoing-national-security-investigation-into-jensen" target="_blank" rel="noopener" data-cat="keji" data-summary="President Trump has called for Jensen Huang to return as Nvidia CEO, but a new report says the board is not considering the move." data-title="Trump calls for Jensen Huang reinstatement as Nvidia CEO" data-date="11-17 02:24" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-17 02:24</span>
+          <span class="news-item-title">Trump calls for Jensen Huang reinstatement as Nvidia CEO</span>
+          <span class="news-value-point">💡 President Trump has called for Jensen Huang to return as Nvidia CEO, but…</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm." data-title="Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’" data-date="11-17 02:11" data-source="TechCrunch">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-17 02:11</span>
+          <span class="news-item-title">Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’</span>
+          <span class="news-value-point">💡 OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Hu…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在准备访问中国之际，总统淡化了黄先生与一名女性的关系所造成的影响，官员们已确认该女性是北京的情报人员。" data-title="Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief" data-date="11-17 01:48" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-17 01:48</span>
+          <span class="news-item-title">特朗普表示，他愿意让黄仁勋重返英伟达首席执行官职位</span>
+          <span class="news-item-title-en">Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief</span>
+          <span class="news-value-point">💡 在准备访问中国之际，总统淡化了黄先生与一名女性的关系所造成的影响，官员们已确认该女性是北京的情报人员</span>
+        </a>
         <a class="news-item" href="https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/" target="_blank" rel="noopener" data-cat="keji" data-summary="OpenAI将嵌入六名Apollo Research评估员，以调查其人工智能模型是否从事颠覆性行为，但对访问和披露的限制引发了对其独立性的质疑。" data-title="OpenAI will embed Apollo researchers to investigate AI subversion" data-date="11-17 01:02" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
@@ -229,115 +327,6 @@ title: 热点新闻
           <span class="news-item-title-en">OpenAI will embed Apollo researchers to investigate AI subversion</span>
           <span class="news-value-point">💡 OpenAI将嵌入六名Apollo Research评估员，以调查其人工智能模型是否从事颠覆性行为，但对访问和披露的限制引发了对其独立性的质疑</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/" target="_blank" rel="noopener" data-cat="keji" data-summary="ChatGPT将对试图访问CSAM内容的账户实施24小时的封禁，以示警告" data-title="OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM" data-date="11-17 01:00" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-17 01:00</span>
-          <span class="news-item-title">OpenAI发布新的图像分类器和ChatGPT警告，以打击CSAM</span>
-          <span class="news-item-title-en">OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM</span>
-          <span class="news-value-point">💡 ChatGPT将对试图访问CSAM内容的账户实施24小时的封禁，以示警告</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/trump-jensen-huang-nvidia.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在准备访问中国之际，总统淡化了黄先生与一名女性的关系所造成的影响，官员们已确认该女性是北京的情报人员。" data-title="Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief" data-date="11-17 00:49" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-17 00:49</span>
-          <span class="news-item-title">特朗普表示，他愿意让黄仁勋重返英伟达首席执行官职位</span>
-          <span class="news-item-title-en">Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief</span>
-          <span class="news-value-point">💡 在准备访问中国之际，总统淡化了黄先生与一名女性的关系所造成的影响，官员们已确认该女性是北京的情报人员</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return" target="_blank" rel="noopener" data-cat="keji" data-summary="在上周黄仁勋辞去英伟达首席执行官一职后，特朗普周一向记者表示，他不介意黄仁勋回归，而且他不确定据称与黄仁勋有染的女性是否真的是间谍。“我认为让Jense" data-title="Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia" data-date="11-17 00:39" data-source="The Verge">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-17 00:39</span>
-          <span class="news-item-title">特朗普表示，黄仁勋重返英伟达“当然不是一个坏主意”</span>
-          <span class="news-item-title-en">Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia</span>
-          <span class="news-value-point">💡 在上周黄仁勋辞去英伟达首席执行官一职后，特朗普周一向记者表示，他不介意黄仁勋回归，而且他不确定据称与黄仁勋有染的女性是否真的是间谍</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733159.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新网深圳11月17日电(记者 张东方 宫宏宇 黄方 张楠)亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在广东深圳举行。会议前夕，多位外国工商界人士接受记者采访时表示，期待亚太各经济体通过APEC加强政策沟通，进一步减少贸易壁垒、深化创新合作。他们也看好与中国在清洁能源、人工智能等领域的合作前景。" data-title="亚太工商界看好APEC机遇：深化开放合作，共享发展红利" data-date="11-17 00:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 00:30</span>
-          <span class="news-item-title">亚太工商界看好APEC机遇：深化开放合作，共享发展红利</span>
-          <span class="news-value-point">💡 中新网深圳11月17日电(记者 张东方 宫宏宇 黄方 张楠)亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在广东深圳…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/quantum-computing/intel-bets-on-classiq-acquisition-to-turn-quantum-efforts-into-commercially-viable-business-deal-positions-company-as-leading-vendor-of-qubit-chips-acquisition-to-close-by-the-first-half-of-2027" target="_blank" rel="noopener" data-cat="keji" data-summary="英特尔的目标是将量子计算研究工作转化为商业业务，具体做法是将英特尔的硅自旋量子比特技术和制造能力与Classiq成熟的软件平台和客户群相结合。" data-title="Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business — deal positions company as leading vendor of qubit chips, acquisition to close by the first half of 2027" data-date="11-17 00:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-17 00:30</span>
-          <span class="news-item-title">英特尔押注收购Classiq，将量子计算的努力转化为具有商业可行性的业务——该交易将使公司成为量子比特芯片的领先供应商，收购预计将于2027年上半年完成</span>
-          <span class="news-item-title-en">Intel bets on Classiq acquisition to turn Quantum efforts into commercially viable business — deal positions company as leading vendor of qubit chips, acquisition to close by the first half of 2027</span>
-          <span class="news-value-point">💡 英特尔的目标是将量子计算研究工作转化为商业业务，具体做法是将英特尔的硅自旋量子比特技术和制造能力与Classiq成熟的软件平台和客户群相结合</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/" target="_blank" rel="noopener" data-cat="keji" data-summary="根据临时规定，如果美国公司可能向中国或其他受限国家/地区提供计算能力，则需要获得出口人工智能芯片的许可证。" data-title="US tightens AI chip export controls to deter Chinese companies from accessing compute remotely" data-date="11-16 23:02" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-16 23:02</span>
-          <span class="news-item-title">美国收紧人工智能芯片出口管制，以阻止中国公司远程访问计算资源</span>
-          <span class="news-item-title-en">US tightens AI chip export controls to deter Chinese companies from accessing compute remotely</span>
-          <span class="news-value-point">💡 根据临时规定，如果美国公司可能向中国或其他受限国家/地区提供计算能力，则需要获得出口人工智能芯片的许可证</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/desktops/mini-pcs/minisforum-elite-mini-m2-air-304-review" target="_blank" rel="noopener" data-cat="keji" data-summary="Minisforum Elite Mini M2 Air-304 PC 搭载英特尔 Wildcat Lake CPU，运行凉爽安静，但仅适合普通用户。由于内存和存储的价格，使用入门级芯片来省钱的效果不如以前那么好。" data-title="Minisforum Elite Mini M2 Air-304 review: A quiet and compact Wildcat" data-date="11-16 23:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-16 23:00</span>
-          <span class="news-item-title">Minisforum Elite Mini M2 Air-304 评测：一款安静小巧的野猫</span>
-          <span class="news-item-title-en">Minisforum Elite Mini M2 Air-304 review: A quiet and compact Wildcat</span>
-          <span class="news-value-point">💡 Minisforum Elite Mini M2 Air-304 PC 搭载英特尔 Wildcat Lake CPU，运行凉爽安静，但仅适合普通…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat" target="_blank" rel="noopener" data-cat="keji" data-summary="Anthropic表示，Claude Mythos预览版在大约三天内实现了AMD Instinct MI355X GPU上一个模型的提示处理。" data-title="Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days" data-date="11-16 23:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-16 23:00</span>
-          <span class="news-item-title">Anthropic表示，Claude Mythos预览版将AMD MI355X的上线时间从长达12个月缩短至约3天</span>
-          <span class="news-item-title-en">Anthropic says Claude Mythos Preview cut AMD MI355X onboarding from up to 12 months to around three days</span>
-          <span class="news-value-point">💡 Anthropic表示，Claude Mythos预览版在大约三天内实现了AMD Instinct MI355X GPU上一个模型的提示处理</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/overlocker-uses-vibecoded-bios-modification-to-target-intels-non-k-overclocking-restrictions-attempts-to-revive-asrocks-discontinued-skyoc-technology" target="_blank" rel="noopener" data-cat="keji" data-summary="在英特尔努力阻止非K系列CPU超频之后，华擎停产了SkyOC，但现在有一位发烧友正在使用人工智能来探索是否可以将旧的变通方法适配到更新的平台上。" data-title="Overlocker uses vibecoded BIOS modification to target Intel&#39;s non-K overclocking restrictions" data-date="11-16 22:54" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-16 22:54</span>
-          <span class="news-item-title">超频玩家使用Vibecoded BIOS修改来绕过英特尔的非K超频限制</span>
-          <span class="news-item-title-en">Overlocker uses vibecoded BIOS modification to target Intel's non-K overclocking restrictions</span>
-          <span class="news-value-point">💡 在英特尔努力阻止非K系列CPU超频之后，华擎停产了SkyOC，但现在有一位发烧友正在使用人工智能来探索是否可以将旧的变通方法适配到更新的平台上</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/974.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 16 日消息，奇瑞捷途全新旅行者 7 C-DM 华为干昆智驾版方盒新车今晚正式上市，超级焕新价 18.49 万元起。该车基于全新旅行者 7 C-DM 打造，如命名所示，其搭载了华为干昆智驾系统。两驱 Max：上市指导价 18.99 万元、超级焕新价 18.49 万元；四驱 Max+：上市指导价 19.99 万元、超级焕新价 19.49 万元；四驱 Ultra：上市指导价 21.49 万元、超级焕新价 20.99 万元。据介绍，该车选用华为干昆智驾 ADS 5 Pro 方案，搭载的是舱内激光 Limera，同时拥有 11V 高清摄像头（前视 / 环视 / 侧视 / 后视）、3R 毫米波雷达（前 / 侧后）和 12U 超声波雷达（周身全分布）；支持 WEWA 世界大模型，拥有" data-title="奇瑞捷途全新旅行者 7 C-DM 华为干昆智驾版上市：搭载舱内激光 Limera，焕新价 18.49 万元起" data-date="11-16 22:44" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-16 22:44</span>
-          <span class="news-item-title">奇瑞捷途全新旅行者 7 C-DM 华为干昆智驾版上市：搭载舱内激光 Limera，焕新价 18.49 万元起</span>
-          <span class="news-value-point">💡 IT之家 11 月 16 日消息，奇瑞捷途全新旅行者 7 C-DM 华为干昆智驾版方盒新车今晚正式上市，超级焕新价 18.49 万元起</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/969.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 16 日消息，AMD 今日宣布，已完成对 World Labs 的收购。AMD 称，此次收购将引入一支世界级 AI 模型研发团队，进一步增强 AMD 在 AI 全技术栈领域的实力。双方将整合顶尖 AI 模型研究人员与 AMD 工程师的技术优势，共同打造面向开放 AI 生态的新一代硬件、软件和系统。AMD 董事长兼首席执行官苏姿丰（Lisa Su）表示：“要打造支撑下一代超级智能的基础设施，就必须将计算平台与模型结合起来进行协同优化。我们非常高兴欢迎李飞飞（Fei-Fei Li）及 World Labs 的优秀团队加入 AMD。他们在模型研究领域的开创性成果，将帮助我们塑造未来的硬件、软件和系统。双方将携手推动整个生态系统中的研究人员和开发者不断突破 AI 能力的边界。”W" data-title="AMD 宣布完成对 World Labs 的收购，李飞飞出任公司首席科学家" data-date="11-16 22:15" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-16 22:15</span>
-          <span class="news-item-title">AMD 宣布完成对 World Labs 的收购，李飞飞出任公司首席科学家</span>
-          <span class="news-value-point">💡 IT之家 11 月 16 日消息，AMD 今日宣布，已完成对 World Labs 的收购</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/video-games/playstation/jailbroken-ps4-runs-9-billion-parameter-ai-model-at-up-to-43-tokens-per-second-open-source-garlic-llm-bypasses-drivers-to-talk-directly-to-the-2013-era-gpu" target="_blank" rel="noopener" data-cat="keji" data-summary="Garlic LLM 在一台越狱的 PlayStation 4 的 GPU 上运行阿里巴巴的 Qwen3.5-9B，完全离线，速度为每秒 31 至 39 个 token。" data-title="Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second" data-date="11-16 21:00" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-16 21:00</span>
-          <span class="news-item-title">越狱版PS4以高达每秒43个tokenize的速度运行90亿参数的AI模型</span>
-          <span class="news-item-title-en">Jailbroken PS4 runs 9-billion-parameter AI model at up to 43 tokens per second</span>
-          <span class="news-value-point">💡 Garlic LLM 在一台越狱的 PlayStation 4 的 GPU 上运行阿里巴巴的 Qwen3.5-9B，完全离线，速度为每秒 31 …</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/intel-sued-by-shareholders-for-misleading-investors-after-stock-plunges-29-percent-class-action-claims-the-company-downplayed-the-severity-of-pc-market-headwinds" target="_blank" rel="noopener" data-cat="keji" data-summary="南菲尔德消防和警察退休系统养老基金指控英特尔隐瞒有关其业务业绩的重要信息。" data-title="Intel sued by shareholders for misleading investors after stock plunges 29%" data-date="11-16 20:50" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-16 20:50</span>
-          <span class="news-item-title">英特尔股价暴跌29%后被股东起诉误导投资者</span>
-          <span class="news-item-title-en">Intel sued by shareholders for misleading investors after stock plunges 29%</span>
-          <span class="news-value-point">💡 南菲尔德消防和警察退休系统养老基金指控英特尔隐瞒有关其业务业绩的重要信息</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/business/dealbook/huang-comeback-nvidia.html" target="_blank" rel="noopener" data-cat="keji" data-summary="硅谷的知名人士希望看到黄仁勋重回英伟达掌门人的位置。特朗普政府的一些人并不希望他回归。" data-title="Is Jensen Huang Plotting a Comeback?" data-date="11-16 20:45" data-source="纽约时报">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-16 20:45</span>
-          <span class="news-item-title">黄仁勋正在策划回归吗？</span>
-          <span class="news-item-title-en">Is Jensen Huang Plotting a Comeback?</span>
-          <span class="news-value-point">💡 硅谷的知名人士希望看到黄仁勋重回英伟达掌门人的位置</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -345,7 +334,22 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">7 条</span>
     </div>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="水晶宫任命托马斯·弗兰克为新任主教练。" data-title="Frank appointed Crystal Palace manager" data-date="11-17 01:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13612986/declan-rice-contract-arsenal-midfielder-verbally-agrees-new-320000-a-week-deal-with-the-premier-league-champions" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Declan Rice has verbally agreed terms on a new long-term contract at Arsenal, Sky Sports News can reveal." data-title="Rice verbally agrees new Arsenal contract" data-date="11-17 05:12" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-17 05:12</span>
+          <span class="news-item-title">Rice verbally agrees new Arsenal contract</span>
+          <span class="news-value-point">💡 Declan Rice has verbally agreed terms on a new long-term contract at Ars…</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Will Thomas Frank - now confirmed as the new manager of Crystal Palace - rebuild his reputation at Selhurst Park after a bruising time at Tottenham?" data-title="How Frank can restore reputation and save Crystal Palace" data-date="11-17 01:46" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-17 01:46</span>
+          <span class="news-item-title">弗兰克如何挽回声誉并拯救水晶宫</span>
+          <span class="news-item-title-en">How Frank can restore reputation and save Crystal Palace</span>
+          <span class="news-value-point">💡 Will Thomas Frank - now confirmed as the new manager of Crystal Palace -…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="水晶宫任命托马斯·弗兰克为新任主教练。" data-title="Frank appointed Crystal Palace manager" data-date="11-17 01:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-17 01:00</span>
@@ -353,7 +357,7 @@ title: 热点新闻
           <span class="news-item-title-en">Frank appointed Crystal Palace manager</span>
           <span class="news-value-point">💡 水晶宫任命托马斯·弗兰克为新任主教练</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="水晶宫任命托马斯·弗兰克为新任主教练。" data-title="Frank appointed Crystal Palace manager" data-date="11-17 01:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13610988/thomas-frank-crystal-palace-appoint-former-spurs-and-brentford-boss-as-pierre-sages-successor-at-selhurst-park" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="水晶宫任命托马斯·弗兰克为新任主教练。" data-title="Frank appointed Crystal Palace manager" data-date="11-17 01:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-17 01:00</span>
@@ -367,14 +371,6 @@ title: 热点新闻
           <span class="news-item-date">11-16 23:30</span>
           <span class="news-item-title">曼联最新消息：波切蒂诺的团队提前抵达曼彻斯特，为对阵利物浦的比赛做准备</span>
           <span class="news-item-title-en">Man Utd latest: Pochettino staff arrive in Manchester early to prepare for Liverpool</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmge3y2qjlyro?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在执教托特纳姆热刺期间遭遇挫折后，托马斯·弗兰克能否在水晶宫重建声誉？" data-title="How Frank can restore reputation and save Crystal Palace" data-date="11-16 23:15" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-16 23:15</span>
-          <span class="news-item-title">弗兰克如何挽回声誉并拯救水晶宫</span>
-          <span class="news-item-title-en">How Frank can restore reputation and save Crystal Palace</span>
-          <span class="news-value-point">💡 在执教托特纳姆热刺期间遭遇挫折后，托马斯·弗兰克能否在水晶宫重建声誉</span>
         </a>
         <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Transfer Centre LIVE! Vini Jr admits to feeling overwhelmed by Arsenal speculation" data-title="Transfer Centre LIVE! Vini Jr admits to feeling overwhelmed by Arsenal speculation" data-date="11-16 21:50" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -390,13 +386,6 @@ title: 热点新闻
           <span class="news-item-title">Kaveh 问答直播！您的疑问将在这里得到解答——没有任何禁忌！</span>
           <span class="news-item-title-en">Kaveh Q&A LIVE! YOUR questions answered here - and nothing off limits!</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Arsenal latest: Zubimendi suffers injury scare for Spain against England" data-title="Arsenal latest: Zubimendi suffers injury scare for Spain against England" data-date="11-16 05:36" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-16 05:36</span>
-          <span class="news-item-title">阿森纳最新消息：祖比门迪在西班牙对阵英格兰的比赛中遭遇伤病惊魂</span>
-          <span class="news-item-title-en">Arsenal latest: Zubimendi suffers injury scare for Spain against England</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -404,122 +393,113 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="贝尔福特声称，他的AI销售语音已经能够像最优秀的真人销售人员一样达成交易，他认为AI将在一年内赶上真人销售人员。" data-title="Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’" data-date="11-17 01:10" data-source="TechCrunch">
+        <a class="news-item" href="https://www.tomshardware.com/gift-guides-seasonal-sales/15-retro-tech-gift-ideas-for-the-nostalgic-gamer-or-builder-in-your-life-old-school-designs-packed-with-modern-hardware-from-game-controllers-to-desk-accessories" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Pick up a retro tech gift for yourself or a loved one this holiday season, from mini PCs to old-school controllers." data-title="15 retro tech gift ideas for the nostalgic gamer or builder in your life" data-date="11-17 06:20" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-17 01:10</span>
-          <span class="news-item-title">乔丹·贝尔福特的新的人工智能语音初创公司Tone希望像“华尔街之狼”一样大卖</span>
-          <span class="news-item-title-en">Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’</span>
-          <span class="news-value-point">💡 贝尔福特声称，他的AI销售语音已经能够像最优秀的真人销售人员一样达成交易，他认为AI将在一年内赶上真人销售人员</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-17 06:20</span>
+          <span class="news-item-title">15 retro tech gift ideas for the nostalgic gamer or builder in your life</span>
+          <span class="news-value-point">💡 Pick up a retro tech gift for yourself or a loved one this holiday seaso…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这些规则一直是行政部门激烈争论的话题，并将削弱为中国公司提供服务的蓬勃发展的数据中心业务。" data-title="Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip" data-date="11-17 00:56" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/bank-outages-down.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life." data-title="Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports" data-date="11-17 06:12" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-17 00:56</span>
-          <span class="news-item-title">特朗普政府在访华前采取行动，以堵住人工智能芯片的漏洞</span>
-          <span class="news-item-title-en">Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip</span>
-          <span class="news-value-point">💡 这些规则一直是行政部门激烈争论的话题，并将削弱为中国公司提供服务的蓬勃发展的数据中心业务</span>
+          <span class="news-item-date">11-17 06:12</span>
+          <span class="news-item-title">Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports</span>
+          <span class="news-value-point">💡 After technical problems grounded flights nationwide and Microsoft produ…</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="多家零售商正在对PlayStation 5游戏提供折扣，包括对近期主机独占热门游戏的大幅降价，如《漫威金刚狼》、《对马岛之魂：陨落的幽魂》、《Saros》等数百款游戏。我们将在接下来的几天里介绍其中一大批游戏，但这款游戏……" data-title="Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday" data-date="11-17 00:48" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-17 00:48</span>
-          <span class="news-item-title">索尼PlayStation 5配件在黑色星期五前降价</span>
-          <span class="news-item-title-en">Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday</span>
-          <span class="news-value-point">💡 多家零售商正在对PlayStation 5游戏提供折扣，包括对近期主机独占热门游戏的大幅降价，如《漫威金刚狼》、《对马岛之魂：陨落的幽魂》、《S…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/005.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei&#39;s innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，2011 年，华为把公司的研究团队整合为一个新组织 —— 2012 实验室，名字取自电影《2012》。2012 实验室作为持续创新投入的平台，涵盖基础研究、核心技术和工程能力。自动驾驶、5G、升腾芯片，都在这里完成孵化。徐直军表示，华为早在 2009 年就启动了 5G 研究，最终成为 5G 标准的主要贡献者和全球最大的 5G 专利持有者" data-title="徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一" data-date="11-17 00:37" data-source="IT之家">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-17 00:37</span>
-          <span class="news-item-title">徐直军：华为早在 2009 年就启动 5G 研究，最终成为标准主要贡献者和全球最大专利持有者之一</span>
-          <span class="news-value-point">💡 IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这一公告结束了多年来关于丹尼尔·克雷格（Daniel Craig）在出演五部电影后，谁将接替其角色的猜测。" data-title="Robert Pattinson Named as the Next James Bond" data-date="11-17 00:01" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这一公告结束了多年来关于丹尼尔·克雷格（Daniel Craig）在出演五部电影后，谁将接替其角色的猜测。" data-title="Robert Pattinson Named as the Next James Bond" data-date="11-17 06:10" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-17 00:01</span>
+          <span class="news-item-date">11-17 06:10</span>
           <span class="news-item-title">罗伯特·帕丁森被选为下一任詹姆斯·邦德</span>
           <span class="news-item-title-en">Robert Pattinson Named as the Next James Bond</span>
           <span class="news-value-point">💡 这一公告结束了多年来关于丹尼尔·克雷格（Daniel Craig）在出演五部电影后，谁将接替其角色的猜测</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/podcast/1034141/nj-midterm-sherill-democrats-musk-x-ai" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今天，我将与Mikie Sherrill进行对话。她担任新泽西州州长还不到一年。您将听到她讲述，她的当选是民主党在最近中期选举中取得巨大胜利的预兆，因为她的竞选以两个主题为核心：" data-title="Why NJ’s governor thinks Republicans are trapped in an X bubble" data-date="11-17 00:00" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-17 00:00</span>
-          <span class="news-item-title">为什么新泽西州州长认为共和党人陷入了X泡沫？</span>
-          <span class="news-item-title-en">Why NJ’s governor thinks Republicans are trapped in an X bubble</span>
-          <span class="news-value-point">💡 今天，我将与Mikie Sherrill进行对话</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="除了播放有声读物片段外，Audible的新版AI生成音频预览还会总结书籍的主题以及读者喜欢的内容。" data-title="Audible turns to AI to help users discover audiobooks" data-date="11-16 23:52" data-source="TechCrunch">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-16 23:52</span>
-          <span class="news-item-title">Audible 借助人工智能帮助用户发现有声读物</span>
-          <span class="news-item-title-en">Audible turns to AI to help users discover audiobooks</span>
-          <span class="news-value-point">💡 除了播放有声读物片段外，Audible的新版AI生成音频预览还会总结书籍的主题以及读者喜欢的内容</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1034192/robert-pattinson-james-bond" target="_blank" rel="noopener" data-cat="zonghe" data-summary="罗伯特·帕丁森将在亚马逊MGM的007系列首部电影中饰演詹姆斯·邦德。下一部詹姆斯·邦德电影将由丹尼斯·维伦纽夫执导，剧本由史蒂文·奈特撰写，艾米·帕斯卡和大卫·海曼担任制片。" data-title="Robert Pattinson is Amazon’s first James Bond" data-date="11-16 23:19" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-16 23:19</span>
-          <span class="news-item-title">罗伯特·帕丁森是亚马逊的首位詹姆斯·邦德</span>
-          <span class="news-item-title-en">Robert Pattinson is Amazon’s first James Bond</span>
-          <span class="news-value-point">💡 罗伯特·帕丁森将在亚马逊MGM的007系列首部电影中饰演詹姆斯·邦德</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="007 的选角不可避免地引发了争议，而最初的反应并不一定与最终的评价相符。" data-title="There’s a New James Bond, Again. How Did the Last Ones Fare?" data-date="11-16 23:07" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/movies/robert-pattinson-new-bond.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Robert Pattinson’s gift for portraying petulant losers would seem at odds with the requirements for 007. But the actor may be just what the franchise needs." data-title="Why Robert Pattinson Could Be a Great James Bond" data-date="11-17 06:03" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-16 23:07</span>
+          <span class="news-item-date">11-17 06:03</span>
+          <span class="news-item-title">Why Robert Pattinson Could Be a Great James Bond</span>
+          <span class="news-value-point">💡 Robert Pattinson’s gift for portraying petulant losers would seem at odd…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/movies/james-bond-actors-reviews.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="007 的选角不可避免地引发了争议，而最初的反应并不一定与最终的评价相符。" data-title="There’s a New James Bond, Again. How Did the Last Ones Fare?" data-date="11-17 05:54" data-source="纽约时报">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-17 05:54</span>
           <span class="news-item-title">又一位新詹姆斯·邦德诞生了。前几任表现如何？</span>
           <span class="news-item-title-en">There’s a New James Bond, Again. How Did the Last Ones Fare?</span>
           <span class="news-value-point">💡 007 的选角不可避免地引发了争议，而最初的反应并不一定与最终的评价相符</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="27年来，小儿脑瘤联盟（Pediatric Brain Tumor Consortium）一直致力于拯救患有脑癌的儿童。但在5岁的Ryleigh Schecter被诊断出患病前夕，政府却将其关闭。" data-title="This Cancer Kills Children in a Year. Research Has Been Stalled for a Year." data-date="11-16 23:03" data-source="纽约时报">
+        <a class="news-item" href="https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony &quot;Tony Huge&quot; Hughes launchin" data-title="In Get Huge, the manosphere is here to make friends — with deadly consequences" data-date="11-17 05:41" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 05:41</span>
+          <span class="news-item-title">In Get Huge, the manosphere is here to make friends — with deadly consequences</span>
+          <span class="news-value-point">💡 Before Clavicular and other manosphere streamers were introducing young …</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="这些规则一直是行政部门激烈争论的话题，并将削弱为中国公司提供服务的蓬勃发展的数据中心业务。" data-title="Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip" data-date="11-17 05:07" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-16 23:03</span>
-          <span class="news-item-title">这种癌症会在一年内夺走儿童的生命。研究已停滞一年。</span>
-          <span class="news-item-title-en">This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.</span>
-          <span class="news-value-point">💡 27年来，小儿脑瘤联盟（Pediatric Brain Tumor Consortium）一直致力于拯救患有脑癌的儿童</span>
+          <span class="news-item-date">11-17 05:07</span>
+          <span class="news-item-title">特朗普政府在访华前采取行动，以堵住人工智能芯片的漏洞</span>
+          <span class="news-item-title-en">Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip</span>
+          <span class="news-value-point">💡 这些规则一直是行政部门激烈争论的话题，并将削弱为中国公司提供服务的蓬勃发展的数据中心业务</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/992.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 16 日消息，博主 @鹏鹏君驾到 今日曝光了一款华为穿戴新品 —— HUAWEI WATCH Air 智能手表。从画面可以看到，华为 WATCH Air 采用超轻薄设计，拥有圆润的弧面机身，侧边配有一枚旋转表冠按钮和一枚多功能按键。此外，这款手表还预装了鸿蒙 HarmonyOS 系统。目前，华为官方暂未公布这款手表的具体配置信息，但爆料提到，这款手表将采用高亮钛一体化设计，提供黑、银、金三种配色。IT之家也将持续关注这款智能手表新品，并在第一时间带来最新情报。延伸阅读综合多位数码博主的爆料，WATCH Air 是华为一个全新的智能手表系列，定位介于现有产品线之间，主打轻薄与日常佩戴。“Air”这一命名华为此前曾在手机产品上使用，如 2025 年发布的 Mate 70 Ai" data-title="华为 WATCH Air 新款智能手表外观曝光：圆润机身 + 超轻薄设计，预装鸿蒙 HarmonyOS 系统" data-date="11-16 22:57" data-source="IT之家">
+        <a class="news-item" href="https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are […]" data-title="Some of our favorite PlayStation games are steeply discounted for Black Friday" data-date="11-17 04:36" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 04:36</span>
+          <span class="news-item-title">Some of our favorite PlayStation games are steeply discounted for Black Friday</span>
+          <span class="news-value-point">💡 Black Friday is approaching, and some companies are already rolling out …</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/tennis/news/12040/13612925/henry-patten-british-doubles-no-1-takes-swipe-at-atp-chairman-and-ceo-for-absence-from-trophy-presentation" target="_blank" rel="noopener" data-cat="zonghe" data-summary="British doubles No 1 Henry Patten has taken a swipe at ATP bosses for their absence from a trophy presentation in Turin on Monday." data-title="British doubles No 1 criticises ATP bosses at trophy presentation absence" data-date="11-17 04:05" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-17 04:05</span>
+          <span class="news-item-title">British doubles No 1 criticises ATP bosses at trophy presentation absence</span>
+          <span class="news-value-point">💡 British doubles No 1 Henry Patten has taken a swipe at ATP bosses for th…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day […]" data-title="The Apple Watch Series 12 is cheaper than ever ahead of Black Friday" data-date="11-17 03:50" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 03:50</span>
+          <span class="news-item-title">The Apple Watch Series 12 is cheaper than ever ahead of Black Friday</span>
+          <span class="news-value-point">💡 If you’re still sporting an Apple Watch that launched five or so years a…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new features will put the German automaker in competition with Tesla, which is currently leading the auto industry in the development of hands-free systems. Merced" data-title="Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist" data-date="11-17 03:49" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 03:49</span>
+          <span class="news-item-title">Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist</span>
+          <span class="news-value-point">💡 Mercedes-Benz is tossing its hat into the partial autonomy ring with the…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/016.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24S5296d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全》 本文由机器人发布，IT之家稍后将为大家" data-title="苹果 watchOS 27.3 开发者预览版 Beta 2 发布" data-date="11-17 03:19" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-16 22:57</span>
-          <span class="news-item-title">华为 WATCH Air 新款智能手表外观曝光：圆润机身 + 超轻薄设计，预装鸿蒙 HarmonyOS 系统</span>
-          <span class="news-value-point">💡 IT之家 11 月 16 日消息，博主 @鹏鹏君驾到 今日曝光了一款华为穿戴新品 —— HUAWEI WATCH Air 智能手表</span>
+          <span class="news-item-date">11-17 03:19</span>
+          <span class="news-item-title">苹果 watchOS 27.3 开发者预览版 Beta 2 发布</span>
+          <span class="news-value-point">💡 【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.3 开发者预览版 …</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/" target="_blank" rel="noopener" data-cat="zonghe" data-summary="您可以使用“询问地图”来规划节日购物一日游，也可以规划更复杂的行程，例如包含海滨徒步和海滨用餐的三日自驾游。" data-title="Google Maps can now build trip itineraries with real-time details about each stop" data-date="11-16 22:48" data-source="TechCrunch">
+        <a class="news-item" href="https://www.ithome.com/1/028/015.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24N5298d），本次更新距离上次发布 Beta/RC 间隔 13 天。 需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有延迟，一般半小时内，不会太久。 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 visionOS 27 发布历史： 2026-11-10：visionOS 27.2.1 (24N124) 2026-10-27：visionOS 27.2 (24N120) 2026-10-20：visionOS 27.2 RC (24N118) 2026-10-14：visionOS" data-title="苹果 visionOS 27.3 开发者预览版 Beta 2 发布" data-date="11-17 03:19" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-16 22:48</span>
-          <span class="news-item-title">Google 地图现可生成行程路线，并提供每个停靠点的实时详情</span>
-          <span class="news-item-title-en">Google Maps can now build trip itineraries with real-time details about each stop</span>
-          <span class="news-value-point">💡 您可以使用“询问地图”来规划节日购物一日游，也可以规划更复杂的行程，例如包含海滨徒步和海滨用餐的三日自驾游</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 03:19</span>
+          <span class="news-item-title">苹果 visionOS 27.3 开发者预览版 Beta 2 发布</span>
+          <span class="news-value-point">💡 IT之家 11 月 17 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.3 开发者预览版 Beta 2 更新（内…</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据《纽约时报》报道，苹果的流媒体服务即将推出视频播客版块。苹果将于今天在开发者版本中开始测试该功能，因此预计iOS 27.3的测试版用户将在几小时内收到新更新。更新推出后，" data-title="Apple TV is getting video podcasts you can watch for free" data-date="11-16 22:45" data-source="The Verge">
+        <a class="news-item" href="https://www.ithome.com/1/028/014.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C5047e），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全》 本文由机器人发布，IT之家稍后将为大家带来具体更新内容。 附 macOS 2" data-title="苹果 macOS 27.3 开发者预览版 Beta 2 发布" data-date="11-17 03:19" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-16 22:45</span>
-          <span class="news-item-title">Apple TV将提供可免费观看的视频播客</span>
-          <span class="news-item-title-en">Apple TV is getting video podcasts you can watch for free</span>
-          <span class="news-value-point">💡 据《纽约时报》报道，苹果的流媒体服务即将推出视频播客版块</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 03:19</span>
+          <span class="news-item-title">苹果 macOS 27.3 开发者预览版 Beta 2 发布</span>
+          <span class="news-value-point">💡 IT之家 11 月 17 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.3 开发者预览版 Beta 2 更新（内部版本号：26C…</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在飞离亚特兰大三十分钟后，飞行员通过机上广播宣布出现了一些问题。与联邦航空管理局的通信问题正在席卷全国。飞行员没有提供太多细节，只说了" data-title="America’s air traffic control system couldn’t handle a single bad router" data-date="11-16 22:43" data-source="The Verge">
+        <a class="news-item" href="https://www.ithome.com/1/028/013.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发者预览版 Beta 2 更新（内部版本号：24C5049d），本次更新距离上次发布 Beta/RC 间隔 13 天。 如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版：需注册 Apple Beta 版软件计划，之后通过【设置】【通用】【软件更新】【Beta 版更新】来升级；• 开发预览版：需登录注册苹果开发者计划，之后通过【设置】【通用】【软件更新】来升级。附苹果 iOS 历史固件下载大全：《苹果 iOS / iPadOS / macOS 固件下载 / 更新日志大全》 本文由机器人发布，IT之家稍" data-title="苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布" data-date="11-17 03:19" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-16 22:43</span>
-          <span class="news-item-title">美国的空中交通管制系统无法应对一台故障路由器</span>
-          <span class="news-item-title-en">America’s air traffic control system couldn’t handle a single bad router</span>
-          <span class="news-value-point">💡 在飞离亚特兰大三十分钟后，飞行员通过机上广播宣布出现了一些问题</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-16/10733143.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新社首尔11月16日电 (金旭 陈艺玲)人工智能(AI)等新技术被用于考试作弊，引发韩国社会对考试公平性的担忧。韩国国务总理韩圣淑当地时间16日表示，对于19日即将举行的韩国大学修学能力考试(以下简称“韩国高考”)，韩国政府将组建跨部门紧急应对小组，全面制定并落实考前、考后应对措施。" data-title="韩国政府多举措严防AI技术考试作弊" data-date="11-16 22:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-16 22:34</span>
-          <span class="news-item-title">韩国政府多举措严防AI技术考试作弊</span>
-          <span class="news-value-point">💡 中新社首尔11月16日电 (金旭 陈艺玲)人工智能(AI)等新技术被用于考试作弊，引发韩国社会对考试公平性的担忧</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 03:19</span>
+          <span class="news-item-title">苹果 iOS/iPadOS 27.3 开发者预览版 Beta 2 发布</span>
+          <span class="news-value-point">💡 【点此直达升级教程】 IT之家 11 月 17 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.3 开发…</span>
         </a>
   </div>
   <div class="news-category">
@@ -540,4 +520,4 @@ title: 热点新闻
 <script defer src="{{ "/assets/js/news-feed.js" | relative_url }}"></script>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-17 01:16（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-17 06:23（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
