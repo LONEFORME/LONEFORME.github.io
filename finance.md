@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,593.58</span>
-      <span class="ticker-change down">▼ -1.12%</span>
+      <span class="ticker-price ticker-down">3,602.57</span>
+      <span class="ticker-change down">▼ -0.87%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-16 14:09:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-16 15:35:57（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">10,694.82</span>
-      <span class="ticker-change down">▼ -2.50%</span>
+      <span class="ticker-price ticker-down">10,690.78</span>
+      <span class="ticker-change down">▼ -2.53%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-16 14:09:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-16 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">2,327.34</span>
-      <span class="ticker-change down">▼ -4.07%</span>
+      <span class="ticker-price ticker-down">2,320.02</span>
+      <span class="ticker-change down">▼ -4.37%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-16 14:09:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-16 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,210.61</span>
-      <span class="ticker-change down">▼ -5.40%</span>
+      <span class="ticker-price ticker-down">1,213.68</span>
+      <span class="ticker-change down">▼ -5.16%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-16 14:09:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-16 15:35:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,826.75</span>
-      <span class="ticker-change up">▲ +0.36%</span>
+      <span class="ticker-price ticker-down">3,801.64</span>
+      <span class="ticker-change down">▼ -0.30%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6702</span>
+      <span class="ticker-price ticker-down">6.6681</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 14:08:58（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 16:43:43（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,851.71 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -28.21 (-0.73%)</span>
+      <span class="ticker-price ticker-down">$3,858.47 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -21.45 (-0.55%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 14:07:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 16:43:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥827.21 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -10.24 (-1.22%)</span>
+      <span class="ticker-price ticker-down">¥829.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -7.70 (-0.92%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 14:08:53（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 15:30:07（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">23,830.88</span>
-      <span class="ticker-change up">▲ +0.82%</span>
+      <span class="ticker-price ticker-up">23,753.84</span>
+      <span class="ticker-change up">▲ +0.49%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$95.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.04 (+0.04%)</span>
+      <span class="ticker-price ticker-down">$95.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.42 (-0.44%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 14:09:10（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 16:43:52（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,26 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">3 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-16/10732859.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="新华社马尼拉11月16日电#8195;专访：“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥" data-title="“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥" data-date="11-16 16:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-16 16:31</span>
+          <span class="news-item-title">“中国发展经验、长期主义理念为亚太经济体提供有益借鉴”——访APEC工商咨询理事会秘书处主任巴西利奥</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/027/794.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 16 日消息，TrendForce（集邦）今日发布 2026Q3 全球电视出货数据并对后续市场进行预测，认为 2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%。机构指出，电视市场短期内将持续受到来自存储器、显示面板和其它上游零部件的成本压力。终端需求疲弱将成为一种“新常态”。根据其提供的数据，全球电视出货量在 2026Q3 达到 4,794 万台，环比回升 2.8%、同比下滑 3.6%；预计 2026Q4 出货量环比再度增长 8.0%、同比跌幅扩大至 4.0%。▲ 图源：TrendForceLG 电子、小米、TCL 在第三季度表现良好，三星、海信的出货减少也相对有限，五大品牌之外的电视企业则面临更大压力；而从技术角度，高端市场的后一般 Mini L" data-title="TrendForce 预测：2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%" data-date="11-16 16:08" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-16 16:08</span>
+          <span class="news-item-title">TrendForce 预测：2026、2027 两年全球电视出货量将分别下降 1.4% 和 1.2%</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-16/10732828.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="从昨天(15日)起，我国北方地区全面开启冬季供暖，煤炭、天然气以及清洁电能等能源供应协同发力，全力保障群众温暖过冬。" data-title="北方开启冬季供暖 各地加强能源保供 迎峰度冬" data-date="11-16 16:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-16 16:06</span>
+          <span class="news-item-title">北方开启冬季供暖 各地加强能源保供 迎峰度冬</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/027/456.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 15 日消息，磷光发光拥有显著高于荧光发光的内量子效率，可改进 OLED 显示的能量利用效率，进而降低功耗、提升峰值亮度。▲ 10.95&quot; 平板电脑屏幕OLED 此前已在红光和绿光器件上实现了磷光发光。然而由于光能量等因素的差异，蓝光的磷光化一直是一大难题，相关技术的商业化直到近两年才有较为显著的进展。▲ 6.36&quot; 智能手机屏幕而在本年度的企业全球显示生态大会上，TCL 华星展示了覆盖智能手机、平板电脑、微相机 3 大形态的蓝色磷光敏化荧光 (PSF) 产品。其在蓝光器件中引入敏化剂，将三重态激子能量高效传递给蓝光发光体。针对蓝光磷光化的现实困难，TCL 华星自主开展 MIX 混合主体的配比设计，并结合 PSF 体系优化，提升蓝色发光效率；同时持续推进 MIX-BH 与" data-title="TCL 华星展示蓝色磷光敏化荧光 OLED 成果，覆盖三大产品形态" data-date="11-15 22:16" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -470,4 +488,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-16 02:59（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-16 16:42（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
