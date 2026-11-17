@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,602.07</span>
-      <span class="ticker-change down">▼ -0.01%</span>
+      <span class="ticker-price ticker-down">3,584.58</span>
+      <span class="ticker-change down">▼ -0.50%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 11:35:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:35:57（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">10,764.89</span>
-      <span class="ticker-change up">▲ +0.69%</span>
+      <span class="ticker-price ticker-down">10,638.52</span>
+      <span class="ticker-change down">▼ -0.49%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 11:35:45（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">2,336.80</span>
-      <span class="ticker-change up">▲ +0.72%</span>
+      <span class="ticker-price ticker-down">2,292.20</span>
+      <span class="ticker-change down">▼ -1.20%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 11:35:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,253.91</span>
-      <span class="ticker-change up">▲ +3.31%</span>
+      <span class="ticker-price ticker-up">1,221.19</span>
+      <span class="ticker-change up">▲ +0.62%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 11:35:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:35:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,780.16</span>
-      <span class="ticker-change down">▼ -0.56%</span>
+      <span class="ticker-price ticker-down">3,766.06</span>
+      <span class="ticker-change down">▼ -0.94%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -105,7 +105,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-17 09:23:20（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6651</span>
+      <span class="ticker-price ticker-up">6.6655</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:41:38（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:52:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,872.85 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +16.61 (+0.43%)</span>
+      <span class="ticker-price ticker-up">$3,866.89 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +10.65 (+0.28%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:41:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:52:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥831.73 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +2.73 (+0.33%)</span>
+      <span class="ticker-price ticker-up">¥832.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +3.00 (+0.36%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:41:19（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 15:29:59（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">23,571.86</span>
-      <span class="ticker-change down">▼ -0.77%</span>
+      <span class="ticker-price ticker-down">23,545.14</span>
+      <span class="ticker-change down">▼ -0.88%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.68 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.76 (-0.82%)</span>
+      <span class="ticker-price ticker-up">$92.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.31 (+0.33%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:39:37（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:52:54（非实时）</div>
   </div>
 </div>
 
@@ -437,21 +437,75 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">14 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="The Treasury secretary who sought to de-escalate tariff wars is taking a tougher approach to exports of sensitive U.S. technology." data-title="Bessent Takes Hawkish Turn in White House Debate on China" data-date="11-17 05:25" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/028/430.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，当地时间 16 日，雷诺集团宣布，计划到 2028 年在法国工厂新增 2000 名员工，以满足不断增长的纯电车型需求，同时通过自愿离职计划削减最多 1000 个白领岗位。法国《回声报》率先披露了这一计划。汽油价格大幅上涨带动欧洲纯电汽车销量激增，雷诺旗下纯电车型需求随之上升，汽车行业的生产布局也需要相应调整。此次裁员将涉及雷诺在法国的所有工业业务，包括质量控制和供应链部门，但生产线工人不受影响。雷诺生产业务直接或间接雇用的员工共 17500 人。今年 6 月，雷诺曾宣布重组工程研发部门，以降低成本、缩短研发周期，并缩小与中国新兴竞争对手之间的差距。此次人员调整是继研发部门重组之后的又一项措施。雷诺集团工业总监蒂埃里 · 沙尔韦指出，商用厢式车和雷诺 5 等纯" data-title="扩招裁员两手抓：雷诺将新增 2000 个生产岗，并裁减至多 1000 个白领岗" data-date="11-17 17:28" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 17:28</span>
+          <span class="news-item-title">扩招裁员两手抓：雷诺将新增 2000 个生产岗，并裁减至多 1000 个白领岗</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/420.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，微博今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告：营业总收入：4.1 亿美元（IT之家注：现汇率约合 27.38 亿元人民币），同比下降 7%归母净利润：2,451.5 万美元（现汇率约合 1.64 亿元人民币），同比下降 88.91%经营现金流：1,020 万美元（现汇率约合 6,812.8 万元人民币）基本每股收益：0.1 美元（现汇率约合 0.67 元人民币）稀释每股收益：0.1 美元（现汇率约合 0.67 元人民币） AI 解读微博 2026 年三财季及前三季度业绩整体低于市场机构预期，营收、归母净利润均不及机构此前给出的一致预测。公司业务与本次财报核心亮点微博是中" data-title="微博 2026 财年第三季度归母净利润 2451.5 万美元，同比下降 88.91%" data-date="11-17 17:28" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 17:28</span>
+          <span class="news-item-title">微博 2026 财年第三季度归母净利润 2451.5 万美元，同比下降 88.91%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/417.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，腾讯音乐今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：2026 财年前三季度营业总收入：257.69 亿元，同比增长 6.22%毛利润：113.18 亿元，同比增长 6.04%毛利率：43.92%，同比下降 0.07 个百分点归母净利润：67.16 亿元，同比下降 24.14%经营现金流：103.96 亿元，同比增长 32.6%基本每股收益：2.16 元，同比下降 25.26%稀释每股收益：2.14 元，同比下降 24.91%资产负债率：34.14%2026 财年第三财季营业总收入：89.41 亿元，同比增长 5.6%" data-title="腾讯音乐 2026 财年前三季度归母净利润 67.16 亿元，同比下降 24.14%" data-date="11-17 17:02" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 17:02</span>
+          <span class="news-item-title">腾讯音乐 2026 财年前三季度归母净利润 67.16 亿元，同比下降 24.14%</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="台湾试图以企业家身份与科技优势扩大能见度，中国则以原则框架维持主导权。APEC作为平台，或许能让双方同时在场，但仍难以消弭两岸在全球外交参与的既有分歧。" data-title="APEC深圳峰会：赖清德派施振荣出席 台湾参会空间再成焦点" data-date="11-17 16:44" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-17 16:44</span>
+          <span class="news-item-title">APEC深圳峰会：赖清德派施振荣出席 台湾参会空间再成焦点</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733525.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月17日电 据“今日俄罗斯”(RT)报道，11月17日，俄罗斯总统特别代表、俄罗斯直接投资基金总裁基里尔·德米特里耶夫在社交平台X上发布了自己此次中国之行的首张照片，宣布抵达深圳，参加亚太经合组织(APEC)相关活动。" data-title="俄总统特别代表抵深后发布首张照片：APEC会议致力于合作与繁荣" data-date="11-17 16:36" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 16:36</span>
+          <span class="news-item-title">俄总统特别代表抵深后发布首张照片：APEC会议致力于合作与繁荣</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-17/10733479.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月17日电 (记者 尹倩芸)来自亚太经合组织(APEC)21个经济体和英国、法国、德国、瑞士等13个域外经济体的2000余位政商界代表17日在深圳参加2026年APEC工商领导人峰会。" data-title="（深圳APEC）2000余位政商界代表参加APEC工商领导人峰会" data-date="11-17 16:13" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 16:13</span>
+          <span class="news-item-title">（深圳APEC）2000余位政商界代表参加APEC工商领导人峰会</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="英国首相在伦敦金融城市长晚宴上向与会人士表示，“我们得到的脱欧结果并没有奏效”。" data-title="欧盟峰会前夕 贝安德称英国脱欧“得不偿失”" data-date="11-17 15:52" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-17 15:52</span>
+          <span class="news-item-title">欧盟峰会前夕 贝安德称英国脱欧“得不偿失”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733390.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月17日电 据美联社报道，当地时间16日，加拿大总理卡尼表示，如果与美国总统特朗普的贸易谈判未能保住北美一体化汽车产业，加拿大可能转向中国汽车制造商寻求合作。" data-title="加总理卡尼：加拿大或寻求与中国等车企合作" data-date="11-17 14:14" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 14:14</span>
+          <span class="news-item-title">加总理卡尼：加拿大或寻求与中国等车企合作</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月份，鞋类价格创下历史新高，原因是各品牌正面临材料成本上涨和关税上调的双重压力。" data-title="Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs" data-date="11-17 13:00" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-17 05:25</span>
+          <span class="news-item-date">11-17 13:00</span>
+          <span class="news-item-title">Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位曾试图缓和关税战的财政部长，正对美国敏感技术的出口采取更强硬的措施。" data-title="Bessent Takes Hawkish Turn in White House Debate on China" data-date="11-17 06:46" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-17 06:46</span>
           <span class="news-item-title">Bessent Takes Hawkish Turn in White House Debate on China</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats" target="_blank" rel="noopener" data-cat="caijing" data-summary="Constellation Energy - America&#39;s largest operator of nuclear power plants - does not share Wall Street&#39;s concerns that the Democrats will slow down data center development. On the company&#39;s third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. &quot;I do think we&#39;ve […]" data-title="Big Nuclear isn’t worried about the Democrats stopping data centers" data-date="11-17 04:29" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国最大的核电站运营商康斯泰利शन能源公司并不认同华尔街的担忧，即民主党将放缓数据中心的发展。在上周的公司第三季度财报电话会议上，首席执行官Joe Dominguez" data-title="Big Nuclear isn’t worried about the Democrats stopping data centers" data-date="11-17 04:29" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
           <span class="news-item-date">11-17 04:29</span>
           <span class="news-item-title">Big Nuclear isn’t worried about the Democrats stopping data centers</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/" target="_blank" rel="noopener" data-cat="caijing" data-summary="The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry." data-title="FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’" data-date="11-17 01:36" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国联邦调查局表示，这款开源黑客工具曾被用于针对美国一家IT巨头和韩国金融业的网络攻击。" data-title="FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’" data-date="11-17 01:36" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
           <span class="news-item-date">11-17 01:36</span>
@@ -475,54 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-17 00:00</span>
           <span class="news-item-title">The Verge’s guide to the best gifts under $100</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/993.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 16 日消息，特斯拉周一宣布，将向位于德国柏林郊外的工厂投资 30 亿欧元（IT之家注：现汇率约合 220.83 亿元人民币），扩大当地生产能力。与此同时，德国本土汽车制造商正面临成本高企、市场需求疲软等压力。特斯拉首席执行官埃隆 · 马斯克（Elon Musk）旗下的电动汽车制造商计划在德国格林海德（Gruenheide）的超级工厂新建一座生产设施。这也是特斯拉目前在欧洲唯一的整车工厂。根据该公司向路透社发送的电子邮件声明，新设施的目标是实现每年最多生产 100 万辆 Cybercab。特斯拉表示，计划在今年年底前为整个项目提交建筑许可申请。新设施预计于 2027 年上半年开工建设，并于 2029 年正式投产。" data-title="特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab" data-date="11-16 23:04" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-16 23:04</span>
-          <span class="news-item-title">特斯拉将投资 30 亿欧元扩建德国工厂，目标年产 100 万辆 Cybercab</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-16/10733142.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社东京11月16日电 (记者 朱晨曦)日本内阁府16日发表的初步统计结果显示，受个人消费下滑影响，扣除物价变动因素，日本2026年第三季度实际国内生产总值(GDP)环比基本持平，按年率计算萎缩0.1%，自2025年第三季度以来再次出现负增长。" data-title="日本2026年三季度GDP再现负增长" data-date="11-16 22:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-16 22:34</span>
-          <span class="news-item-title">日本2026年三季度GDP再现负增长</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/027/968.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 16 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei&#39;s innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，在他 1993 年入职时期，华为研发团队正攻关数字程控交换机。伴随中国经济高速发展，家庭与办公固话的需求远大于供给。很多年里，装一部电话既难又贵。西方厂商的交换机虽已进入中国，但各家标准互不兼容，每条线路成本约 3,000 元人民币，在当年这是一笔巨款。他表示，这也带来了市场机遇。彼时各大城市周边分布着大量乡镇村落，每个点都建一套完整的" data-title="徐直军回顾华为“发家史”，透露在与西方老牌通信厂商的正面竞争中快速做大了业务" data-date="11-16 22:15" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-16 22:15</span>
-          <span class="news-item-title">徐直军回顾华为“发家史”，透露在与西方老牌通信厂商的正面竞争中快速做大了业务</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-16/10733117.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网宁德11月16日电 (记者 吕巧琴 叶茂)中国共产党宁德市第六次代表大会15日在宁德市开幕。宁德市委书记潘国强代表中共宁德市第五届委员会，向大会作题为《牢记嘱托 勇担使命 为奋力谱写全面建设社会主义现代化国家的宁德篇章而不懈奋斗》的报告。宁德市副市长、代理市长傅藏荣主持。" data-title="五年GDP年均增长8.4% 福建宁德聚力跃升谱写发展新篇" data-date="11-16 22:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-16 22:05</span>
-          <span class="news-item-title">五年GDP年均增长8.4% 福建宁德聚力跃升谱写发展新篇</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-16/10733084.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月16日电 综合消息：伊朗外交部长阿拉格齐16日呼吁，迫切需要通过区域性对话，建立区域主导的独立安全框架和可靠能源机制，以保障能源流通和稳定供应，减少外部脆弱性。" data-title="伊朗外长呼吁建立区域主导的独立安全框架和可靠能源机制" data-date="11-16 22:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-16 22:03</span>
-          <span class="news-item-title">伊朗外长呼吁建立区域主导的独立安全框架和可靠能源机制</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-16/10733070.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网兰州11月16日电 (戴文昌)黄土寒旱塬，曾是甘肃省定西市农耕最难的底色。如今这片十年九旱的陇中大地，不再只靠马铃薯、中药材“土里刨金”，而是循着“千万工程”经验，以产业转型为牵引，推动乡村在生产、人居、治理上实现系统性嬗变。" data-title="寒旱塬上，甘肃定西跳出“土里刨金”谋乡村嬗变" data-date="11-16 21:11" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-16 21:11</span>
-          <span class="news-item-title">寒旱塬上，甘肃定西跳出“土里刨金”谋乡村嬗变</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Dreamteam 已在 13 个国家/地区签约了 100 多家客户，其中一些企业是从成熟的 CRM 系统切换而来。" data-title="Freshworks alums raise $53M to take on Salesforce, HubSpot with AI" data-date="11-16 20:30" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-16 20:30</span>
-          <span class="news-item-title">Freshworks alums raise $53M to take on Salesforce, HubSpot with AI</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/510493.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。" data-title="SuperLink2026开启创投行业超级链接时刻，12月北京见" data-date="11-16 15:58" data-source="量子位">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-16 15:58</span>
-          <span class="news-item-title">SuperLink2026开启创投行业超级链接时刻，12月北京见</span>
-        </a>
   </div>
 </div>
 
@@ -536,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-17 06:23（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-17 17:49（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
