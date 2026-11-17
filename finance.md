@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">26,792.50</span>
-      <span class="ticker-change down">▼ -1.49%</span>
+      <span class="ticker-price ticker-down">27,001.78</span>
+      <span class="ticker-change down">▼ -0.72%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-18 01:03:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-18 05:11:07（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6655</span>
+      <span class="ticker-price ticker-up">6.6662</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:02:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:11:02（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,864.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +7.99 (+0.21%)</span>
+      <span class="ticker-price ticker-down">$3,850.45 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -5.79 (-0.15%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:02:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:11:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥830.49 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -1.84 (-0.22%)</span>
+      <span class="ticker-price ticker-down">¥829.86 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -2.47 (-0.30%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:02:51（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:29:56（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$93.31 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.88 (+0.95%)</span>
+      <span class="ticker-price ticker-up">$93.01 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.57 (+0.61%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 01:03:08（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:11:01（非实时）</div>
   </div>
 </div>
 
@@ -439,6 +439,12 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国的新限制措施可能危及数十亿美元的投资，并迫使该地区的国家在华盛顿与北京之间寻求日益艰难的平衡。" data-title="Trump’s New A.I. Chip Rules Rattle Southeast Asia" data-date="11-18 05:04" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-18 05:04</span>
+          <span class="news-item-title">Trump’s New A.I. Chip Rules Rattle Southeast Asia</span>
+        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="柯志恩以“知识蓝”的姿态拉拢中间选民，支持度大幅追贴深耕高雄20年的赖瑞隆，选情咬紧。" data-title="台湾高雄市选战：“知识蓝”柯志恩对决“新潮流”赖瑞隆，国民党有可能复制“韩流”吗？" data-date="11-18 00:25" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -523,12 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-17 16:44</span>
           <span class="news-item-title">APEC深圳峰会：赖清德派施振荣出席 台湾参会空间再成焦点</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="英国首相在伦敦金融城市长晚宴上向与会人士表示，“我们得到的脱欧结果并没有奏效”。" data-title="欧盟峰会前夕 贝安德称英国脱欧“得不偿失”" data-date="11-17 15:52" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-17 15:52</span>
-          <span class="news-item-title">欧盟峰会前夕 贝安德称英国脱欧“得不偿失”</span>
-        </a>
   </div>
 </div>
 
@@ -542,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-18 00:59（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-18 05:08（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
