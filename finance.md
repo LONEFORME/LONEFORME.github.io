@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">26,602.58</span>
-      <span class="ticker-change down">▼ -2.19%</span>
+      <span class="ticker-price ticker-down">26,792.50</span>
+      <span class="ticker-change down">▼ -1.49%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 23:53:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-18 01:03:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6660</span>
+      <span class="ticker-price ticker-up">6.6655</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:53:01（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:02:59（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,877.94 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +21.70 (+0.56%)</span>
+      <span class="ticker-price ticker-up">$3,864.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +7.99 (+0.21%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:52:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:02:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥833.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +0.67 (+0.08%)</span>
+      <span class="ticker-price ticker-down">¥830.49 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.84 (-0.22%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:52:53（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:02:51（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$93.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.70 (+0.75%)</span>
+      <span class="ticker-price ticker-up">$93.31 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.88 (+0.95%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 23:53:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:03:08（非实时）</div>
   </div>
 </div>
 
@@ -439,23 +439,83 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/028/430.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，当地时间 16 日，雷诺集团宣布，计划到 2028 年在法国工厂新增 2000 名员工，以满足不断增长的纯电车型需求，同时通过自愿离职计划削减最多 1000 个白领岗位。法国《回声报》率先披露了这一计划。汽油价格大幅上涨带动欧洲纯电汽车销量激增，雷诺旗下纯电车型需求随之上升，汽车行业的生产布局也需要相应调整。此次裁员将涉及雷诺在法国的所有工业业务，包括质量控制和供应链部门，但生产线工人不受影响。雷诺生产业务直接或间接雇用的员工共 17500 人。今年 6 月，雷诺曾宣布重组工程研发部门，以降低成本、缩短研发周期，并缩小与中国新兴竞争对手之间的差距。此次人员调整是继研发部门重组之后的又一项措施。雷诺集团工业总监蒂埃里 · 沙尔韦指出，商用厢式车和雷诺 5 等纯" data-title="扩招裁员两手抓：雷诺将新增 2000 个生产岗，并裁减至多 1000 个白领岗" data-date="11-17 17:28" data-source="IT之家">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="柯志恩以“知识蓝”的姿态拉拢中间选民，支持度大幅追贴深耕高雄20年的赖瑞隆，选情咬紧。" data-title="台湾高雄市选战：“知识蓝”柯志恩对决“新潮流”赖瑞隆，国民党有可能复制“韩流”吗？" data-date="11-18 00:25" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-17 17:28</span>
-          <span class="news-item-title">扩招裁员两手抓：雷诺将新增 2000 个生产岗，并裁减至多 1000 个白领岗</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-18 00:25</span>
+          <span class="news-item-title">台湾高雄市选战：“知识蓝”柯志恩对决“新潮流”赖瑞隆，国民党有可能复制“韩流”吗？</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/420.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，微博今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告：营业总收入：4.1 亿美元（IT之家注：现汇率约合 27.38 亿元人民币），同比下降 7%归母净利润：2,451.5 万美元（现汇率约合 1.64 亿元人民币），同比下降 88.91%经营现金流：1,020 万美元（现汇率约合 6,812.8 万元人民币）基本每股收益：0.1 美元（现汇率约合 0.67 元人民币）稀释每股收益：0.1 美元（现汇率约合 0.67 元人民币） AI 解读微博 2026 年三财季及前三季度业绩整体低于市场机构预期，营收、归母净利润均不及机构此前给出的一致预测。公司业务与本次财报核心亮点微博是中" data-title="微博 2026 财年第三季度归母净利润 2451.5 万美元，同比下降 88.91%" data-date="11-17 17:28" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/028/564.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 18 日消息，在昨晚的巴黎发布会上，小米 18 Pro 系列手机国际版正式发布，把背屏设计带向海外，售价 1,399 欧元（IT之家注：现汇率约合 10,278 元人民币）起。小米 18 Pro（电池 6000mAh | 骁龙 8E6）12GB+256GB 规格：1,399 欧元（现汇率约合 10,278 元人民币）；12GB+512GB 规格：1,599 欧元（现汇率约合 11,748 元人民币）。小米 18 Pro Max（电池 7050mAh | 骁龙 8EE6）12GB+256GB 规格：1,599 欧元（现汇率约合 11,748 元人民币）；12GB+512GB 规格：1,799 欧元（现汇率约合 13,217 元人民币）；16GB+1TB 规格：2,099 欧" data-title="小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起" data-date="11-18 00:20" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-17 17:28</span>
-          <span class="news-item-title">微博 2026 财年第三季度归母净利润 2451.5 万美元，同比下降 88.91%</span>
+          <span class="news-item-date">11-18 00:20</span>
+          <span class="news-item-title">小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/417.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，腾讯音乐今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：2026 财年前三季度营业总收入：257.69 亿元，同比增长 6.22%毛利润：113.18 亿元，同比增长 6.04%毛利率：43.92%，同比下降 0.07 个百分点归母净利润：67.16 亿元，同比下降 24.14%经营现金流：103.96 亿元，同比增长 32.6%基本每股收益：2.16 元，同比下降 25.26%稀释每股收益：2.14 元，同比下降 24.91%资产负债率：34.14%2026 财年第三财季营业总收入：89.41 亿元，同比增长 5.6%" data-title="腾讯音乐 2026 财年前三季度归母净利润 67.16 亿元，同比下降 24.14%" data-date="11-17 17:02" data-source="IT之家">
+        <a class="news-item" href="https://www.theverge.com/business/1035366/kalshi-stock-trading" target="_blank" rel="noopener" data-cat="caijing" data-summary="据《华尔街日报》和CNBC报道，Kalshi正准备在其平台上提供股票交易服务。据报道，该公司计划利用其收购的经纪商FB Securities推出股票和交易所交易基金，&quot;以" data-title="Kalshi moves into a new kind of gambling: the stock market" data-date="11-17 23:35" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-17 23:35</span>
+          <span class="news-item-title">Kalshi moves into a new kind of gambling: the stock market</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/561.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，据路透社今天（17 日）援引两名知情人士消息称，面对劳动力成本上涨及制造业回流美国带来的成本压力，通用汽车计划到 2028 年，将北美工厂的机器人及其他自动化技术应用规模提高 20%。多名消息人士称，通用汽车同时也在自主研发机器人，并在印第安纳州科科莫工厂进行组装，重点开发用于厂内零部件运输的自主移动机器人。通用汽车去年曾介绍自主研发机器人技术的计划，目前仍同时向外部供应商采购机器人设备。另外两名熟悉通用汽车供应链的人士透露，通用汽车还要求参与新合同竞标的零部件供应商提交自动化方案，并对供应商的自动化水平进行评分，将评分结果作为合同评审的依据之一。通用汽车称，采用自动化技术是为了改善生产安全、提高质量和效率。“随着全球竞争日益激烈，我们会继续运用这些技术，为" data-title="靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%" data-date="11-17 23:12" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-17 17:02</span>
-          <span class="news-item-title">腾讯音乐 2026 财年前三季度归母净利润 67.16 亿元，同比下降 24.14%</span>
+          <span class="news-item-date">11-17 23:12</span>
+          <span class="news-item-title">靠机器人缓解成本压力，通用汽车计划到 2028 年将北美工厂自动化规模提升 20%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/544.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，据路透社报道，索尼在英国赢得了一场索赔近 20 亿英镑（IT之家注：现汇率约合 176.11 亿元人民币）的诉讼。当地时间 17 日，伦敦竞争上诉法庭驳回了全部诉讼请求，认定原告未能证明索尼利用 PlayStation 的垄断地位抬高数字游戏价格，违反竞争法。原告指控，索尼滥用市场支配地位，强制 PlayStation 主机的数字游戏及附加内容只能通过 PlayStation Store 交易，导致数字版游戏比实体版更贵。索尼在庭审中反驳称，公司耗费多年时间、投入数十亿资金打造的一体化游戏平台，在竞争激烈的游戏市场中为消费者带来了益处，任天堂和微软 Xbox 等竞争对手也采用类似的经营模式。该案今年 3 月开庭审理。伦敦竞争上诉法庭作出裁决，认为集体诉讼原告" data-title="索尼赢得英国近 20 亿英镑诉讼：PlayStation 数字游戏定价未被认定违法" data-date="11-17 22:46" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 22:46</span>
+          <span class="news-item-title">索尼赢得英国近 20 亿英镑诉讼：PlayStation 数字游戏定价未被认定违法</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/543.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，比亚迪汽车官方刚刚发布视频，分享了集团董事长兼总裁王传福在 2026 年 APEC 工商领导人峰会上的完整版讲话。面对主持人提问：“可持续发展对于比亚迪来说是什么定位？”王传福直言：“只有可持续发展才能实现长期发展，‘我赢你输’的路子走不远。”王传福表示，地球也是一样，只有可持续环境改善的发展，才能真正让人类持续成长、持续进步。因此，我们在发展的同时，也要改善好我们的环境，要减少二氧化碳的排放。据IT之家今日早些时候报道，王传福还在 APEC 2026 表示，可持续发展是一个全球目标，而中国在这方面做得卓有成效。他提到，过去几年，我国政府在这方面做出了很多贡献。中国的新能源汽车发展到今天如此大的规模，占到全球差不多 2/3 的新能源汽车，新能源汽车的供应链也" data-title="比亚迪王传福：只有可持续发展才能实现长期发展，“我赢你输”的路子走不远" data-date="11-17 22:45" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-17 22:45</span>
+          <span class="news-item-title">比亚迪王传福：只有可持续发展才能实现长期发展，“我赢你输”的路子走不远</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-17/10733788.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="深圳的土地面积在全国中大城市里面几乎是最小的，但它每平方公里单位电力负荷却又是全国最高的。2026年APEC领导人会议期间，重要会场、交通枢纽等场所实现100%绿电供应，这是如何做到的？超大城市能源保供、低碳实践正画出什么样的图景？" data-title="绿电点亮APEC会场 在深圳看见中国式现代化城市样本" data-date="11-17 22:28" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 22:28</span>
+          <span class="news-item-title">绿电点亮APEC会场 在深圳看见中国式现代化城市样本</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-17/10733787.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="亚太经合组织第三十三次领导人非正式会议即将在深圳举行。面对亚太向何处去的时代课题，各方期待中国理念、中国方案再次引领亚太合作航向，汇聚起推动区域发展的强大合力。会场筹备进展如何？本次会议有哪些核心看点？" data-title="APEC与会各经济体领导人将共商亚太发展大计" data-date="11-17 22:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 22:25</span>
+          <span class="news-item-title">APEC与会各经济体领导人将共商亚太发展大计</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733772.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网布鲁塞尔11月17日电 (记者 德永健)欧盟17日发布欧洲经济秋季展望报告，表示受商品出口强劲反弹等因素驱动，今年前三季度欧盟经济增长好于预期。" data-title="欧盟称今年前三季度经济增长好于预期" data-date="11-17 21:46" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 21:46</span>
+          <span class="news-item-title">欧盟称今年前三季度经济增长好于预期</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-17/10733736.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网雄安11月17日电 (李玉素 韩冰)17日，2026知识产权服务万里行“知识产权服务重点产业高质量发展暨科技成果赋智中小企业深度行”活动在河北雄安新区举行。" data-title="2026知识产权服务万里行雄安站活动举办" data-date="11-17 21:25" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 21:25</span>
+          <span class="news-item-title">2026知识产权服务万里行雄安站活动举办</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-17/10733734.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网丽水11月17日电(傅飞扬 朱慧 吴陈芊芊)连日来，浙江省丽水市庆元县百山祖镇斋郎村迎来高山花椰菜集中采收季。田垄间，绿叶簇拥着洁白紧实的花球，村民们弯腰采摘、分拣装筐，忙碌的身影随处可见。" data-title="（乡村行·看振兴）浙江庆元：花椰菜“长成”大产业 留守老人家门口增收" data-date="11-17 21:18" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 21:18</span>
+          <span class="news-item-title">（乡村行·看振兴）浙江庆元：花椰菜“长成”大产业 留守老人家门口增收</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733700.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月17日电 (王茜 李映民)泰国政府17日批准多项税收优惠措施，帮助受泰柬边境冲突及洪灾影响的民众减轻财产损失带来的经济负担。其中，符合条件的个人纳税人可按实际支出抵扣房屋维修费用，最高10万泰铢(约合2.2万元人民币)，车辆维修费用最高可抵扣3万泰铢。" data-title="泰国推出税收优惠措施帮助受边境局势及洪灾影响的民众" data-date="11-17 20:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-17 20:17</span>
+          <span class="news-item-title">泰国推出税收优惠措施帮助受边境局势及洪灾影响的民众</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="公开表达的友好态度与日益增加的贸易和投资限制形成鲜明对比，凸显出这两个经济体之间日益扩大的裂痕。" data-title="As Trump and Xi Mingle, Their Governments Are Arming Up" data-date="11-17 18:03" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-17 18:03</span>
+          <span class="news-item-title">As Trump and Xi Mingle, Their Governments Are Arming Up</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="台湾试图以企业家身份与科技优势扩大能见度，中国则以原则框架维持主导权。APEC作为平台，或许能让双方同时在场，但仍难以消弭两岸在全球外交参与的既有分歧。" data-title="APEC深圳峰会：赖清德派施振荣出席 台湾参会空间再成焦点" data-date="11-17 16:44" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -463,71 +523,11 @@ title: 股票财经
           <span class="news-item-date">11-17 16:44</span>
           <span class="news-item-title">APEC深圳峰会：赖清德派施振荣出席 台湾参会空间再成焦点</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733525.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月17日电 据“今日俄罗斯”(RT)报道，11月17日，俄罗斯总统特别代表、俄罗斯直接投资基金总裁基里尔·德米特里耶夫在社交平台X上发布了自己此次中国之行的首张照片，宣布抵达深圳，参加亚太经合组织(APEC)相关活动。" data-title="俄总统特别代表抵深后发布首张照片：APEC会议致力于合作与繁荣" data-date="11-17 16:36" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 16:36</span>
-          <span class="news-item-title">俄总统特别代表抵深后发布首张照片：APEC会议致力于合作与繁荣</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-17/10733479.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月17日电 (记者 尹倩芸)来自亚太经合组织(APEC)21个经济体和英国、法国、德国、瑞士等13个域外经济体的2000余位政商界代表17日在深圳参加2026年APEC工商领导人峰会。" data-title="（深圳APEC）2000余位政商界代表参加APEC工商领导人峰会" data-date="11-17 16:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 16:13</span>
-          <span class="news-item-title">（深圳APEC）2000余位政商界代表参加APEC工商领导人峰会</span>
-        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c68x0j2r8lkyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="英国首相在伦敦金融城市长晚宴上向与会人士表示，“我们得到的脱欧结果并没有奏效”。" data-title="欧盟峰会前夕 贝安德称英国脱欧“得不偿失”" data-date="11-17 15:52" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-17 15:52</span>
           <span class="news-item-title">欧盟峰会前夕 贝安德称英国脱欧“得不偿失”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733390.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月17日电 据美联社报道，当地时间16日，加拿大总理卡尼表示，如果与美国总统特朗普的贸易谈判未能保住北美一体化汽车产业，加拿大可能转向中国汽车制造商寻求合作。" data-title="加总理卡尼：加拿大或寻求与中国等车企合作" data-date="11-17 14:14" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 14:14</span>
-          <span class="news-item-title">加总理卡尼：加拿大或寻求与中国等车企合作</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/17/business/shoe-prices-inflation-tariffs.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="10月份，鞋类价格创下历史新高，原因是各品牌正面临材料成本上涨和关税上调的双重压力。" data-title="Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs" data-date="11-17 13:00" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-17 13:00</span>
-          <span class="news-item-title">Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位曾试图缓和关税战的财政部长，正对美国敏感技术的出口采取更强硬的措施。" data-title="Bessent Takes Hawkish Turn in White House Debate on China" data-date="11-17 06:46" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-17 06:46</span>
-          <span class="news-item-title">Bessent Takes Hawkish Turn in White House Debate on China</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国最大的核电站运营商康斯泰利शन能源公司并不认同华尔街的担忧，即民主党将放缓数据中心的发展。在上周的公司第三季度财报电话会议上，首席执行官Joe Dominguez" data-title="Big Nuclear isn’t worried about the Democrats stopping data centers" data-date="11-17 04:29" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-17 04:29</span>
-          <span class="news-item-title">Big Nuclear isn’t worried about the Democrats stopping data centers</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国联邦调查局表示，这款开源黑客工具曾被用于针对美国一家IT巨头和韩国金融业的网络攻击。" data-title="FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’" data-date="11-17 01:36" data-source="TechCrunch">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-17 01:36</span>
-          <span class="news-item-title">FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/009.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，综合第一财经、鞭牛士报道，多位消息人士透露，360 副总裁、市场部负责人卜思南因涉嫌职务侵占等案件已在上周一被警方带走调查。截至发稿，360 方面暂未回应。今年 8 月，360 集团宣布，为推进“安全 +AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。消息人士还透露，除了卜思南涉案外，内部或许还有相关人员被带走调查。IT之家查询获悉，卜思南是 360 集团副总裁、360 集团市场部负责人、360 数字安全集团教育事业部总经理、ISC 品牌主理人。卜思南早期负责集团市场战略、品牌生态建设，后主管产教融合业务，对接数百所院校共建安全产业学院，牵头国家级产教融合共同体；同时主理 ISC.AI 相关生态，推出" data-title="消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查" data-date="11-17 01:16" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-17 01:16</span>
-          <span class="news-item-title">消息人士称 360 市场负责人卜思南涉嫌职务侵占已被警方带走调查</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/004.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 17 日消息，华为官方 X 账号分享了副董事长、轮值董事长徐直军发表在美国《时代》杂志的文章《亲历华为创新之路：看见、亲历、引领》（《Inside Huawei&#39;s innovation journey:Seeing it,living it,leading it》）。徐直军在文中以第一人称视角回顾了华为三十多年来的创新历程。据徐直军回忆，余承东（现任华为常务董事、产品投资评审委员会主任、终端 BG 董事长）除了发现欧洲的站点获取成本高得惊人，并提出分布式基站这一方案外，还在与西班牙电信德国公司的一次讨论中提出，把 2G 和 3G 集成到一个基站里。后来，华为与沃达丰合作推出了 SingleRAN 解决方案，把 2G、3G、4G、5G 在物理上集成到同一个基站中。这同样成" data-title="徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位" data-date="11-17 00:23" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-17 00:23</span>
-          <span class="news-item-title">徐直军：分布式基站和 SingleRAN 两个开创性方案，确立了华为在移动通信领域全球领先地位</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026" target="_blank" rel="noopener" data-cat="caijing" data-summary="即使在像我们现在这样的通胀时代，100美元仍然可以买到很多东西……如果您知道去哪里找的话。事实上，这足以买到一件实用且做工精良的东西，但又不会贵到让您感到内疚。" data-title="The Verge’s guide to the best gifts under $100" data-date="11-17 00:00" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-17 00:00</span>
-          <span class="news-item-title">The Verge’s guide to the best gifts under $100</span>
         </a>
   </div>
 </div>
@@ -542,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-17 17:49（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-18 00:59（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
