@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-18 17:21 抓取更新</span>
+      <span>2026-11-19 00:39 抓取更新</span>
     </div>
   </div>
   <div class="news-search-bar">
@@ -23,11 +23,11 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">60</span>
+        <span class="channel-count">55</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">14</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
@@ -35,7 +35,7 @@ title: 热点新闻
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">15</span>
+        <span class="channel-count">11</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -53,46 +53,47 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">60</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">9</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">55</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">4</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×19 · 天空体育×17</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">天空体育×15 · 中国新闻网×10</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">按来源聚合 · 最近 24 小时精选</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gn/2026/11-18/10734214.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社深圳11月18日电(记者马卓言、赵瀚泽)11月18日下午，国家主席习近平在深圳宝安国际机场迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普。" data-title="习近平迎接美国总统特朗普" data-date="11-18 17:12" data-source="中国新闻网">
+  <a class="hero-featured-card" href="https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="经过投票，纽约州众议员哈基姆·杰弗里斯有望成为首位赢得总统继任第二顺位职位的黑人议员。" data-title="Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History" data-date="11-19 00:10" data-source="纽约时报">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-        <span class="hero-featured-date">🕒 11-18 17:12</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="hero-featured-date">🕒 11-19 00:10</span>
       </div>
-      <h2 class="hero-featured-title">习近平迎接美国总统特朗普</h2>
+      <h2 class="hero-featured-title">民主党提名哈基姆·杰弗里斯为众议院议长，创造历史</h2>
+      <div class="hero-featured-title-en">Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History</div>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.ithome.com/1/028/914.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，截至 11 月初，WorkBuddy 日活跃用户数超过 1000 万，日均 Token 调用量超过 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。官方表示，自今年 3 月发布以来，WorkBuddy 已完成 100 多个大版本更新。开放平台上线两个月以来，Buddy 应用已覆盖 55 个专业场景、超 30 个垂直领域，包括金融、法律、医疗、教育、公益、设计、SaaS 等。IT之家获悉，目前 WorkBuddy 企业版已落地 50 多个行业，覆盖中国企业 500 强中的 50%。模型方面，Hy4 flash 上线首日 Token 调用量已突破 50 万亿，创混元系列模型首日调用量新高，并登顶" data-title="腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品" data-date="11-18 16:52" data-source="IT之家">
+    <a class="hero-sub-card" href="https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达创始人兼前首席执行官黄仁勋上周因多起丑闻而辞职，其中包括与一名涉嫌为中国间谍的女子有染。" data-title="OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’" data-date="11-19 00:14" data-source="TechCrunch">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-cn">🇨🇳 IT之家</span>
+        <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
       </div>
-      <p class="hero-sub-title">腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品</p>
+      <p class="hero-sub-title">OpenAI首席执行官萨姆·阿尔特曼表示，“很难想象没有黄仁勋的AI行业”。</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Arsenal latest: Gunners on a contract roll" data-title="Arsenal latest: Gunners on a contract roll" data-date="11-18 17:00" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英超联赛将于周六恢复，水晶宫、桑德兰和曼联目前处于降级区。但现在担心还为时过早吗？" data-title="The tightest survival scrap for years? Why it&#39;s not too early to worry" data-date="11-19 00:09" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">阿森纳最新消息：枪手续约势头正盛</p>
+      <p class="hero-sub-title">多年来最激烈的保级大战？为什么现在担心并不为时过早</p>
     </a>
-    <a class="hero-sub-card" href="https://www.chinanews.com.cn/sh/2026/11-18/10734209.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网台州11月18日电(张益聪)“再见，花街！”近日，浙江台州临海“老食客”心目中承载着烟火记忆的花街小吃夜市，将迁至靖鹰广场靖江里夜市。消息一出，不少民众、游客心生感慨，故地重游。一座小城，缘何如此有人情味和烟火气？" data-title="浙江临海“小城故事”：何以让青年创业“不烧心”" data-date="11-18 17:12" data-source="中国新闻网">
+    <a class="hero-sub-card" href="https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Shelly 今年早些时候推出了售价 28 美元的漏水传感器，该传感器使用电池供电，可轻松运行两年。现在，Shelly 又宣布推出一款配套的智能阀门，您可以将其安装在家中的主水管上，当其中一个传感器检测到漏水时，该阀门会自动关闭水流。" data-title="Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood" data-date="11-19 00:00" data-source="The Verge">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="source-badge source-theverge">🌐 The Verge</span>
       </div>
-      <p class="hero-sub-title">浙江临海“小城故事”：何以让青年创业“不烧心”</p>
+      <p class="hero-sub-title">在漏水演变成洪灾之前，Shelly的新款智能阀门会关闭您家中的水源</p>
     </a>
   </div>
 </div>
@@ -101,57 +102,100 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">14 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734214.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社深圳11月18日电(记者马卓言、赵瀚泽)11月18日下午，国家主席习近平在深圳宝安国际机场迎接来华出席亚太经合组织领导人非正式会议的美国总统特朗普。" data-title="习近平迎接美国总统特朗普" data-date="11-18 17:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:12</span>
-          <span class="news-item-title">习近平迎接美国总统特朗普</span>
-          <span class="news-value-point">💡 新华社深圳11月18日电(记者马卓言、赵瀚泽)11月18日下午，国家主席习近平在深圳宝安国际机场迎接来华出席亚太经合组织领导人非正式会议的美国总…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734175.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月18日电 (记者 王梦瑶)中国邮政18日发行《亚太经合组织第三十三次领导人非正式会议》纪念邮票一套1枚。中国集邮有限公司配合邮票发行，同步推出首日封、邮戳卡、护邮卡和版票折等系列邮品。" data-title="（深圳APEC）《亚太经合组织第三十三次领导人非正式会议》纪念邮票发行" data-date="11-18 17:06" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:06</span>
-          <span class="news-item-title">（深圳APEC）《亚太经合组织第三十三次领导人非正式会议》纪念邮票发行</span>
-          <span class="news-value-point">💡 中新社北京11月18日电 (记者 王梦瑶)中国邮政18日发行《亚太经合组织第三十三次领导人非正式会议》纪念邮票一套1枚</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734161.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月18日电 (记者 张杨彬 张晓曦)国务院台办例行新闻发布会18日在北京举行，发言人陈斌华就台湾各界人士发出“两岸和平倡议”、台湾音乐人罗大佑批评民进党当局钳制言论等近期热点回答记者提问。" data-title="国台办发布会回应“两岸和平倡议”、罗大佑发声等热点" data-date="11-18 16:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 16:58</span>
-          <span class="news-item-title">国台办发布会回应“两岸和平倡议”、罗大佑发声等热点</span>
-          <span class="news-value-point">💡 中新社北京11月18日电 (记者 张杨彬 张晓曦)国务院台办例行新闻发布会18日在北京举行，发言人陈斌华就台湾各界人士发出“两岸和平倡议”、台湾…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734198.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="本周，亚太经合组织(APEC)第三十三次领导人非正式会议将在深圳举行，世界进入“中国时间”。" data-title="日月谭天丨这场举世瞩目的盛会再次让岛内震撼！" data-date="11-18 16:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 16:54</span>
-          <span class="news-item-title">日月谭天丨这场举世瞩目的盛会再次让岛内震撼！</span>
-          <span class="news-value-point">💡 本周，亚太经合组织(APEC)第三十三次领导人非正式会议将在深圳举行，世界进入“中国时间”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734188.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="解放日报 安峥" data-title="APEC“全”观察 | 中国第三次主办APEC，海外舆论聚焦哪三件事？" data-date="11-18 16:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 16:50</span>
-          <span class="news-item-title">APEC“全”观察 | 中国第三次主办APEC，海外舆论聚焦哪三件事？</span>
-          <span class="news-value-point">💡 解放日报 安峥</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734179.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中青报·中青网记者 赵婷婷" data-title="亚太青年眼中的APEC“中国年”" data-date="11-18 16:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 16:48</span>
-          <span class="news-item-title">亚太青年眼中的APEC“中国年”</span>
-          <span class="news-value-point">💡 中青报·中青网记者 赵婷婷</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/18/world/asia/trump-marcos-philippines-fried-chicken-jollibee.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="在马尼拉接待特朗普总统的东道主为这位美国领导人向菲律宾快餐连锁店Jollibee下了深夜订单。" data-title="Trump and Marcos Share a Moment Over Jollibee Fried Chicken" data-date="11-18 16:34" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="经过投票，纽约州众议员哈基姆·杰弗里斯有望成为首位赢得总统继任第二顺位职位的黑人议员。" data-title="Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History" data-date="11-19 00:10" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-18 16:34</span>
-          <span class="news-item-title">特朗普和马科斯一起享用快乐蜂炸鸡</span>
-          <span class="news-item-title-en">Trump and Marcos Share a Moment Over Jollibee Fried Chicken</span>
-          <span class="news-value-point">💡 在马尼拉接待特朗普总统的东道主为这位美国领导人向菲律宾快餐连锁店Jollibee下了深夜订单</span>
+          <span class="news-item-date">11-19 00:10</span>
+          <span class="news-item-title">民主党提名哈基姆·杰弗里斯为众议院议长，创造历史</span>
+          <span class="news-item-title-en">Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History</span>
+          <span class="news-value-point">💡 经过投票，纽约州众议员哈基姆·杰弗里斯有望成为首位赢得总统继任第二顺位职位的黑人议员</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734432.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京11月19日电 (记者 孙自法)直立人是生存年代最长的古人类物种之一，已知在约190万年到10.8万年前分布在整个非洲到欧亚大陆东部。不过，由于此前中国特别是华南地区相关化石记录存在空白，成为古人类演化关键谜题之一，备受关注。" data-title="中国广西新发现直立人化石 将助力破解古人类演化关键谜题" data-date="11-19 00:07" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-19 00:07</span>
+          <span class="news-item-title">中国广西新发现直立人化石 将助力破解古人类演化关键谜题</span>
+          <span class="news-value-point">💡 中新网北京11月19日电 (记者 孙自法)直立人是生存年代最长的古人类物种之一，已知在约190万年到10.8万年前分布在整个非洲到欧亚大陆东部</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734423.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="去餐馆吃家乡菜、进小店给本国车厘子、龙虾“带货”、到大学演讲、和学生互动……" data-title="到大学演讲、给车厘子“带货”、打卡家乡菜……各国领导人在深圳忙不停" data-date="11-18 22:55" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 22:55</span>
+          <span class="news-item-title">到大学演讲、给车厘子“带货”、打卡家乡菜……各国领导人在深圳忙不停</span>
+          <span class="news-value-point">💡 去餐馆吃家乡菜、进小店给本国车厘子、龙虾“带货”、到大学演讲、和学生互动……</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734415.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社深圳11月18日电 (记者 黄钰钦)11月18日晚，中国国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。" data-title="（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会" data-date="11-18 22:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 22:42</span>
+          <span class="news-item-title">（深圳APEC）详讯：习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会</span>
+          <span class="news-value-point">💡 中新社深圳11月18日电 (记者 黄钰钦)11月18日晚，中国国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734419.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网云南大理11月18日电 (记者 韩帅南)记者18日从大理州委宣传部获悉，近日，在云南省大理白族自治州成立70周年之际，一封跨越重洋的贺信从南半球传来。澳大利亚米尔迪拉市市长海伦·希利议员致信，向大理州送上祝贺。" data-title="从墨累河畔到苍山洱海：一封越洋贺信里的大理开放故事" data-date="11-18 22:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 22:38</span>
+          <span class="news-item-title">从墨累河畔到苍山洱海：一封越洋贺信里的大理开放故事</span>
+          <span class="news-value-point">💡 中新网云南大理11月18日电 (记者 韩帅南)记者18日从大理州委宣传部获悉，近日，在云南省大理白族自治州成立70周年之际，一封跨越重洋的贺信从…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734411.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。习近平在祝酒辞中说——" data-title="习近平：看五十年的中国就来深圳" data-date="11-18 22:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 22:33</span>
+          <span class="news-item-title">习近平：看五十年的中国就来深圳</span>
+          <span class="news-value-point">💡 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734403.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。习近平发表祝酒辞指出——" data-title="【和合共生】习言道丨为了建设亚太共同体，我们跨越山海走到一起" data-date="11-18 22:32" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 22:32</span>
+          <span class="news-item-title">【和合共生】习言道丨为了建设亚太共同体，我们跨越山海走到一起</span>
+          <span class="news-value-point">💡 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734405.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾。" data-title="新华图讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会" data-date="11-18 22:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 22:31</span>
+          <span class="news-item-title">新华图讯丨习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会</span>
+          <span class="news-value-point">💡 11月18日晚，国家主席习近平和夫人彭丽媛在深圳国际交流中心举行宴会，欢迎出席亚太经合组织第三十三次领导人非正式会议的来宾</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734388.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社深圳11月18日电 (记者 尹倩芸)11月18日，在深圳举行的2026年亚太经合组织(APEC)工商领导人峰会开幕式上，中国向全球工商界发出一份合作“邀请函”。" data-title="（深圳APEC）中国向全球工商界发出合作“邀请函”" data-date="11-18 22:30" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 22:30</span>
+          <span class="news-item-title">（深圳APEC）中国向全球工商界发出合作“邀请函”</span>
+          <span class="news-value-point">💡 中新社深圳11月18日电 (记者 尹倩芸)11月18日，在深圳举行的2026年亚太经合组织(APEC)工商领导人峰会开幕式上，中国向全球工商界发…</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这是中国自1980年以来，首次有最高领导人亲赴机场迎接外国元首。1980年前，华国锋、毛泽东都有多次赴机场迎接外国领袖的历史。" data-title="APEC深圳峰会：习近平亲赴机场迎接特朗普，46年来首次中国元首接机" data-date="11-18 21:21" data-source="BBC">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-18 21:21</span>
+          <span class="news-item-title">APEC深圳峰会：习近平亲赴机场迎接特朗普，46年来首次中国元首接机</span>
+          <span class="news-value-point">💡 这是中国自1980年以来，首次有最高领导人亲赴机场迎接外国元首</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734335.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网布里斯班11月18日电 (记者 薄雯雯)中昆“旅游+”对话会17日在澳大利亚昆士兰州首府布里斯班举行。与会嘉宾围绕中国与昆士兰州在旅游、教育、体育等领域的合作展开交流。" data-title="中国驻布里斯班总领馆举办中昆“旅游+”对话会" data-date="11-18 20:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 20:33</span>
+          <span class="news-item-title">中国驻布里斯班总领馆举办中昆“旅游+”对话会</span>
+          <span class="news-value-point">💡 中新网布里斯班11月18日电 (记者 薄雯雯)中昆“旅游+”对话会17日在澳大利亚昆士兰州首府布里斯班举行</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734268.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月18日电 阿布扎比消息：当地时间18日，阿联酋阿布扎比国家石油公司旗下的物流与服务公司表示，该公司一艘船只17日晚途经霍尔木兹海峡时遭到袭击，造成11人受伤、1人失踪。" data-title="阿联酋方面称一船只在霍尔木兹海峡遇袭  致11人伤、1人失踪" data-date="11-18 18:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 18:53</span>
+          <span class="news-item-title">阿联酋方面称一船只在霍尔木兹海峡遇袭  致11人伤、1人失踪</span>
+          <span class="news-value-point">💡 中新社北京11月18日电 阿布扎比消息：当地时间18日，阿联酋阿布扎比国家石油公司旗下的物流与服务公司表示，该公司一艘船只17日晚途经霍尔木兹海…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/18/world/asia/trump-imelda-marcos.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="菲律宾总统表示，特朗普总统和菲律宾前第一夫人彼此非常熟悉。" data-title="Trump Briefly Met an Old Friend in Manila: Imelda Marcos" data-date="11-18 17:52" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-18 17:52</span>
+          <span class="news-item-title">特朗普在马尼拉与老友伊梅尔达·马科斯短暂会面</span>
+          <span class="news-item-title-en">Trump Briefly Met an Old Friend in Manila: Imelda Marcos</span>
+          <span class="news-value-point">💡 菲律宾总统表示，特朗普总统和菲律宾前第一夫人彼此非常熟悉</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="麒麟山庄离APEC主会场约30分钟车程，三面环山、一面临水，封闭性和安保条件都很好。它也与习近平的父亲习仲勋有渊源，还接待过已故朝鲜领导人金正日。" data-title="美中俄峰会：为何选在深圳麒麟山庄？习仲勋、金正日都曾下榻" data-date="11-18 16:06" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -160,56 +204,6 @@ title: 热点新闻
           <span class="news-item-title">美中俄峰会：为何选在深圳麒麟山庄？习仲勋、金正日都曾下榻</span>
           <span class="news-value-point">💡 麒麟山庄离APEC主会场约30分钟车程，三面环山、一面临水，封闭性和安保条件都很好</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="玛丽·佩尔托拉击败了连任两届的参议员丹·S·沙利文，成为自2015年以来首位代表该保守派州进入参议院的民主党人。" data-title="Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska" data-date="11-18 15:43" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-18 15:43</span>
-          <span class="news-item-title">随着玛丽·佩尔托拉在阿拉斯加州获胜，民主党人已拿下56个参议院席位</span>
-          <span class="news-item-title-en">Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska</span>
-          <span class="news-value-point">💡 玛丽·佩尔托拉击败了连任两届的参议员丹·S·沙利文，成为自2015年以来首位代表该保守派州进入参议院的民主党人</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734071.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月18日电 据伊朗媒体18日报道，伊朗军方表示，其动用无人机对美军在科威特的阿里·萨利姆空军基地进行了打击。" data-title="伊朗打击美军基地" data-date="11-18 15:08" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 15:08</span>
-          <span class="news-item-title">伊朗打击美军基地</span>
-          <span class="news-value-point">💡 中新网11月18日电 据伊朗媒体18日报道，伊朗军方表示，其动用无人机对美军在科威特的阿里·萨利姆空军基地进行了打击</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734089.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月18日电 据《印度快报》报道，印度外交部17日对一艘悬挂巴拿马国旗的液化石油气运输船16日在霍尔木兹海峡遭袭一事予以谴责。船上24名印度籍人员中，21人已安全撤至阿曼海塞卜，2名船员受伤入院，另有1人失踪。" data-title="霍尔木兹海峡船只遇袭致1名印度籍船员失踪 印度外交部予以谴责" data-date="11-18 14:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 14:55</span>
-          <span class="news-item-title">霍尔木兹海峡船只遇袭致1名印度籍船员失踪 印度外交部予以谴责</span>
-          <span class="news-value-point">💡 中新网11月18日电 据《印度快报》报道，印度外交部17日对一艘悬挂巴拿马国旗的液化石油气运输船16日在霍尔木兹海峡遭袭一事予以谴责</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734017.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京11月18日电 布宜诺斯艾利斯消息：阿根廷外交部当地时间17日发表声明，抗议英国安妮公主在马尔维纳斯群岛(简称马岛，英国称福克兰群岛)和南乔治亚岛开展官方访问。" data-title="阿根廷抗议英国安妮公主在马岛等地开展官方访问" data-date="11-18 14:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 14:18</span>
-          <span class="news-item-title">阿根廷抗议英国安妮公主在马岛等地开展官方访问</span>
-          <span class="news-value-point">💡 中新网北京11月18日电 布宜诺斯艾利斯消息：阿根廷外交部当地时间17日发表声明，抗议英国安妮公主在马尔维纳斯群岛(简称马岛，英国称福克兰群岛)…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10733996.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月18日电 综合报道，11月17日，智利总统卡斯特抵达中国深圳。当天，卡斯特在社交媒体X上发文称，“智利和中国之间有着兄弟般的情谊和相互尊重的历史关系，更重要的是，两国拥有共同发展、共同繁荣的未来。”" data-title="智利总统来华之际发文：智利和中国之间有着“兄弟般的情谊”" data-date="11-18 12:42" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 12:42</span>
-          <span class="news-item-title">智利总统来华之际发文：智利和中国之间有着“兄弟般的情谊”</span>
-          <span class="news-value-point">💡 中新网11月18日电 综合报道，11月17日，智利总统卡斯特抵达中国深圳</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10733995.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月18日电 据俄罗斯卫星通讯社当地时间18日报道，俄罗斯总统普京感谢中方出色主办APEC会议。" data-title="俄媒：普京感谢中方出色主办APEC会议" data-date="11-18 12:40" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 12:40</span>
-          <span class="news-item-title">俄媒：普京感谢中方出色主办APEC会议</span>
-          <span class="news-value-point">💡 中新网11月18日电 据俄罗斯卫星通讯社当地时间18日报道，俄罗斯总统普京感谢中方出色主办APEC会议</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10733993.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月18日电 11月18日凌晨，俄罗斯总统普京乘专机抵达深圳。18日上午，普京在深圳前海国际会议中心出席2026年亚太经合组织工商领导人峰会开幕式，并发表讲话。" data-title="普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”" data-date="11-18 12:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 12:39</span>
-          <span class="news-item-title">普京APEC发表讲话点赞深圳：“充满活力、蓬勃发展，令人印象深刻”</span>
-          <span class="news-value-point">💡 中新网11月18日电 11月18日凌晨，俄罗斯总统普京乘专机抵达深圳</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -217,160 +211,197 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/028/914.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，截至 11 月初，WorkBuddy 日活跃用户数超过 1000 万，日均 Token 调用量超过 100 万亿，成为中国大语言模型日均 Token 用量最高的 AI 产品。官方表示，自今年 3 月发布以来，WorkBuddy 已完成 100 多个大版本更新。开放平台上线两个月以来，Buddy 应用已覆盖 55 个专业场景、超 30 个垂直领域，包括金融、法律、医疗、教育、公益、设计、SaaS 等。IT之家获悉，目前 WorkBuddy 企业版已落地 50 多个行业，覆盖中国企业 500 强中的 50%。模型方面，Hy4 flash 上线首日 Token 调用量已突破 50 万亿，创混元系列模型首日调用量新高，并登顶" data-title="腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品" data-date="11-18 16:52" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-18 16:52</span>
-          <span class="news-item-title">腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品</span>
-          <span class="news-value-point">💡 IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，截至 11 月初，WorkBuddy 日活跃用户数超过 1000 万，…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/913.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，华为官方今日继续揭秘首款“逻辑折叠”技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，今日最新公开了新一代芯片级安全架构的情报。据介绍，麒麟 9050 系列芯片是首批获权威检测的抗量子攻击移动 SoC，也是首个芯片级隐私安全平台，支持 MSP 安全处理器与 eSE 安全芯片双芯协同，并获 CCRC EAL5+ 安全认证。IT之家了解到，麒麟 9050 系列进一步增强了芯片级安全能力，支持后量子密码相关安全功能；此外，它还是首个芯片级隐私安全 SoC 平台，通过移动安全处理器与独立安全芯片协同，可为启动安全、数据安全、隐私保护和通信安全提供底层支撑。值得一提的是，下一代麒麟 2027 芯片已经就绪。华为半导体业务无线终端芯片产品管理部部长徐松余表示，到目" data-title="华为麒麟 9050 系列新一代芯片级安全架构公开：双芯协同，首批获权威检测的抗量子攻击移动 SoC" data-date="11-18 16:46" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-18 16:46</span>
-          <span class="news-item-title">华为麒麟 9050 系列新一代芯片级安全架构公开：双芯协同，首批获权威检测的抗量子攻击移动 SoC</span>
-          <span class="news-value-point">💡 IT之家 11 月 18 日消息，华为官方今日继续揭秘首款“逻辑折叠”技术 τ 芯片 —— 麒麟 9050 系列更多配置信息，今日最新公开了新一…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/912.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，据路透社报道，英伟达（Nvidia）为公司高管和董事购买了保险，以应对证券诉讼可能带来的个人责任风险，但公司自身却没有购买相应保险。这意味着，如果围绕黄仁勋突然辞去 CEO 职务而引发的诉讼最终胜诉，英伟达可能不得不动用现金储备承担相关赔偿。The Insurer 上周六报道称，英伟达为公司高管和董事购买的保险，最高赔付额度达到 9.5 亿美元（IT之家注：现汇率约合 63.46 亿元人民币）。不过，英伟达并未购买通常用于承担公司在证券诉讼中辩护费用、和解金及法院判决赔偿金的企业责任保险。这意味着，如果英伟达董事或高管因未能妥善履行公司监督职责而承担个人法律责任，保险公司可以根据保单条款，支付英伟达无法代为承担的合规和解金或判决赔偿，从而保护相关人员的个人资" data-title="黄仁勋离职风波引发诉讼风险：英伟达高管有保险，公司自身却未投保" data-date="11-18 16:43" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-18 16:43</span>
-          <span class="news-item-title">黄仁勋离职风波引发诉讼风险：英伟达高管有保险，公司自身却未投保</span>
-          <span class="news-value-point">💡 IT之家 11 月 18 日消息，据路透社报道，英伟达（Nvidia）为公司高管和董事购买了保险，以应对证券诉讼可能带来的个人责任风险，但公司自…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/909.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，据《商业内幕》报道，对于黄仁勋离开英伟达会给公司业务带来多大影响，新兴云服务商（或称“新云服务商”） CoreWeave 的 CEO 迈克尔 · 因特拉托尔似乎并不担心。当地时间 17 日，在 Semafor 举办的“硅谷与世界”活动上，因特拉托尔谈及双方的合作关系时显得相当淡定。他认为，英伟达是一家了不起的公司，拥有成千上万名优秀的工程师和员工，这些人仍会与 CoreWeave 保持合作，“每天都有数千名英伟达员工与 CoreWeave 团队协作，处理设备部署、数据中心建设、基础设施网络搭建等工作。这些合作都会继续下去。”主持人接着问，黄仁勋离开英伟达后，CoreWeave 在为数据中心基础设施寻求融资时，是否会感受到他的缺席带来的影响，哪怕只是心理层面的" data-title="CoreWeave CEO 因特拉托尔：黄仁勋离开英伟达，我不担心会影响业务" data-date="11-18 16:28" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-18 16:28</span>
-          <span class="news-item-title">CoreWeave CEO 因特拉托尔：黄仁勋离开英伟达，我不担心会影响业务</span>
-          <span class="news-value-point">💡 IT之家 11 月 18 日消息，据《商业内幕》报道，对于黄仁勋离开英伟达会给公司业务带来多大影响，新兴云服务商（或称“新云服务商”） Core…</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/908.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，黄仁勋突然离职后，许多玩家担心，失去黄仁勋掌舵的英伟达可能会进一步向 AI 业务倾斜，而牺牲游戏显卡业务。爆料人士 Moore&#39;s Law Is Dead（以下简称 MLID）最新披露的一则消息，似乎印证了玩家的担忧：黄仁勋此前曾希望推出一款高端 RTX 5080 显卡，作为给游戏玩家的“安慰”，以弥补 RTX 5090 价格过高、普通玩家难以负担的问题。MLID 在 YouTube 最新一期《Broken Silicon》播客节目中透露了这一消息，他讨论了近期有关 RTX 5080 24GB 显卡可能取消的传闻。据称，由于 GDDR7 显存芯片价格高昂，这款显卡的推出计划可能已经搁浅。MLID 援引一位英伟达内部消息人士的说法称，RTX 5080 24GB" data-title="消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消" data-date="11-18 16:27" data-source="IT之家">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-18 16:27</span>
-          <span class="news-item-title">消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消</span>
-          <span class="news-value-point">💡 IT之家 11 月 18 日消息，黄仁勋突然离职后，许多玩家担心，失去黄仁勋掌舵的英伟达可能会进一步向 AI 业务倾斜，而牺牲游戏显卡业务</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/510916.html" target="_blank" rel="noopener" data-cat="keji" data-summary="近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线" data-title="全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线" data-date="11-18 15:24" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-18 15:24</span>
-          <span class="news-item-title">全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线</span>
-          <span class="news-value-point">💡 近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/510821.html" target="_blank" rel="noopener" data-cat="keji" data-summary="具身全栈玩家" data-title="英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿" data-date="11-18 12:28" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-18 12:28</span>
-          <span class="news-item-title">英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿</span>
-          <span class="news-value-point">💡 具身全栈玩家</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/" target="_blank" rel="noopener" data-cat="keji" data-summary="在过去九个月里，英伟达的私募投资价值几乎翻了两番，这得益于黄仁勋激进的交易策略以及其现有投资组合公司的估值不断攀升。" data-title="Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt" data-date="11-18 09:44" data-source="TechCrunch">
+        <a class="news-item" href="https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达创始人兼前首席执行官黄仁勋上周因多起丑闻而辞职，其中包括与一名涉嫌为中国间谍的女子有染。" data-title="OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’" data-date="11-19 00:14" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-18 09:44</span>
-          <span class="news-item-title">英伟达的初创企业投资额飙升至650亿美元，但黄仁勋的退出使未来的交易蒙上阴影</span>
-          <span class="news-item-title-en">Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt</span>
-          <span class="news-value-point">💡 在过去九个月里，英伟达的私募投资价值几乎翻了两番，这得益于黄仁勋激进的交易策略以及其现有投资组合公司的估值不断攀升</span>
+          <span class="news-item-date">11-19 00:14</span>
+          <span class="news-item-title">OpenAI首席执行官萨姆·阿尔特曼表示，“很难想象没有黄仁勋的AI行业”。</span>
+          <span class="news-item-title-en">OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’</span>
+          <span class="news-value-point">💡 英伟达创始人兼前首席执行官黄仁勋上周因多起丑闻而辞职，其中包括与一名涉嫌为中国间谍的女子有染</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/510726.html" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达公布了老黄离职后的首份财报" data-title="黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑" data-date="11-18 09:03" data-source="量子位">
+        <a class="news-item" href="https://www.tomshardware.com/video-games/console-gaming/gta-vi-runs-at-1440p-on-ps5-and-xbox-series-x-but-just-720p-with-upscaling-on-series-s-rockstar-details-upscaling-technologies-for-launch" target="_blank" rel="noopener" data-cat="keji" data-summary="《GTA VI》将在PlayStation和Xbox主机上以30FPS为目标帧率，Rockstar将在PS5和Xbox Series X上使用其自研的时间抗锯齿解决方案，在PS5 Pro上使用索尼的PSSR 2，在Xbox Series S上使用AMD的FSR 4。" data-title="GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S" data-date="11-19 00:00" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-18 09:03</span>
-          <span class="news-item-title">黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑</span>
-          <span class="news-value-point">💡 英伟达公布了老黄离职后的首份财报</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-19 00:00</span>
+          <span class="news-item-title">《GTA VI》在PS5和Xbox Series X上以1440p运行，但在Series S上仅以720p运行并进行上采样。</span>
+          <span class="news-item-title-en">GTA VI runs at 1440p on PS5 and Xbox Series X, but just 720p with upscaling on Series S</span>
+          <span class="news-value-point">💡 《GTA VI》将在PlayStation和Xbox主机上以30FPS为目标帧率，Rockstar将在PS5和Xbox Series X上使用其…</span>
         </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/510707.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Sol逼近旗舰性能" data-title="GPT-6.2 Astra和Sol王炸双发！3D又危了" data-date="11-18 08:49" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-18 08:49</span>
-          <span class="news-item-title">GPT-6.2 Astra和Sol王炸双发！3D又危了</span>
-          <span class="news-value-point">💡 Sol逼近旗舰性能</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/" target="_blank" rel="noopener" data-cat="keji" data-summary="尽管在声名狼藉的创始人兼首席执行官黄仁勋离职后，Nvidia 陷入了动荡，但该公司预计其创纪录的营收势头不会就此止步。" data-title="Nvidia promises that revenue will keep soaring" data-date="11-18 08:16" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-18 08:16</span>
-          <span class="news-item-title">英伟达承诺收入将持续飙升</span>
-          <span class="news-item-title-en">Nvidia promises that revenue will keep soaring</span>
-          <span class="news-value-point">💡 尽管在声名狼藉的创始人兼首席执行官黄仁勋离职后，Nvidia 陷入了动荡，但该公司预计其创纪录的营收势头不会就此止步</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now" target="_blank" rel="noopener" data-cat="keji" data-summary="微软首席执行官萨蒂亚·纳德拉表示，他相信AGI，至少在谈到人工智能可能会对经济结构带来惊人变化以及政治可能会因此而发生变化时，他相信AGI。“我之所以相信AGI，是因为在经济层面，" data-title="Satya Nadella says he’s AGI" data-date="11-18 07:41" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models" target="_blank" rel="noopener" data-cat="keji" data-summary="今年夏天，OpenAI的AI代理意外黑进了Hugging Face，且早期证据表明其下一代模型能够独立发现并利用安全漏洞，因此OpenAI暂停了其计划中规模最大的前沿训练。9月，Anthropic首席执行官" data-title="Remember the frontier AI pause? Chip companies don’t either" data-date="11-18 23:44" data-source="The Verge">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-18 07:41</span>
-          <span class="news-item-title">萨蒂亚·纳德拉表示，他是AGI</span>
-          <span class="news-item-title-en">Satya Nadella says he’s AGI</span>
-          <span class="news-value-point">💡 微软首席执行官萨蒂亚·纳德拉表示，他相信AGI，至少在谈到人工智能可能会对经济结构带来惊人变化以及政治可能会因此而发生变化时，他相信AGI</span>
+          <span class="news-item-date">11-18 23:44</span>
+          <span class="news-item-title">还记得尖端人工智能暂停吗？芯片公司也不记得了</span>
+          <span class="news-item-title-en">Remember the frontier AI pause? Chip companies don’t either</span>
+          <span class="news-value-point">💡 今年夏天，OpenAI的AI代理意外黑进了Hugging Face，且早期证据表明其下一代模型能够独立发现并利用安全漏洞，因此OpenAI暂停了…</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达的临时首席执行官表示，该公司已停止向中国销售芯片。这会造成多大损失？" data-title="Nvidia is abandoning China after Jensen Huang’s ouster" data-date="11-18 07:37" data-source="TechCrunch">
+        <a class="news-item" href="https://www.ithome.com/1/029/121.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，北京时间今天（18 日）晚间，据美国 CNBC 援引知情人士消息称，Anthropic 考虑扩大 IPO 发行规模，并可能将发行价定在远高于 80 美元（IT之家注：现汇率约合 534.4 元人民币）的水平。当地时间 17 日，Anthropic 结束了认购意向征集，汇总了投资者需求，为登陆纳斯达克做准备。知情人士称，机构投资者的认购意向总额约为 4,000 亿美元（现汇率约合 2.67 万亿元人民币），散户认购意向也接近 1,000 亿美元（现汇率约合 6,679.86 亿元人民币）。不过，这些认购意向并不具有约束力，发行方案仍可能调整。知情人士透露，Anthropic 将在当地时间 18 日下午作出最终决定，预计在当天美股收盘后敲定 IPO 发行价。An" data-title="消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元" data-date="11-18 23:35" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 23:35</span>
+          <span class="news-item-title">消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，北京时间今天（18 日）晚间，据美国 CNBC 援引知情人士消息称，Anthropic 考虑扩大 IPO 发行…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries" target="_blank" rel="noopener" data-cat="keji" data-summary="一份泄露的俄亥俄州法案可能允许数据中心被认定为公共事业，以适用征用权法，从而使公司能够征用私人土地来建造新设施。" data-title="Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law" data-date="11-18 23:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-18 23:30</span>
+          <span class="news-item-title">一份泄露的俄亥俄州法案显示，人工智能数据中心公司可能利用征用权法为其扩建项目征用私人土地。</span>
+          <span class="news-item-title-en">Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law</span>
+          <span class="news-value-point">💡 一份泄露的俄亥俄州法案可能允许数据中心被认定为公共事业，以适用征用权法，从而使公司能够征用私人土地来建造新设施</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能正在加剧医疗卫生系统所面临的威胁，这些系统多年来一直受到黑客的攻击。" data-title="Hospitals Rush to Patch Java Vulnerabilities" data-date="11-18 23:27" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-18 23:27</span>
+          <span class="news-item-title">医院争相修补Java漏洞</span>
+          <span class="news-item-title-en">Hospitals Rush to Patch Java Vulnerabilities</span>
+          <span class="news-value-point">💡 人工智能正在加剧医疗卫生系统所面临的威胁，这些系统多年来一直受到黑客的攻击</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/029/117.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，据蓝鲸汽车从哈啰方面确认，哈啰 Robotaxi 近期完成了一轮内部组织架构调整。原智能车-模型开发、系统方案与评测以及 AI Infra-数据平台等相关团队被整合成立“模型开发与数据闭环部”，由哈啰 CEO 杨磊直接负责。这一部门下设模型开发部与数据闭环部。与此同时，AI 原生车、二代车和量产工程交付的相关业务由 CTO 于乾坤负责。智能车其余部门架构及汇报线保持不变。此前，哈啰 Robotaxi 传出核心算法人才加盟的消息。哈啰方面确认，此前任职于具身智能公司无界动力的李一贤，目前确实已加入了哈啰 Robotaxi。据IT之家此前报道，2025 年 6 月，哈啰宣布进军 Robotaxi 赛道，由哈啰、蚂蚁集团、宁德时代通过旗下投资主体共同发起成立的“造" data-title="哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责" data-date="11-18 23:15" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 23:15</span>
+          <span class="news-item-title">哈啰调整 Robotaxi 组织架构：整合成立“模型开发与数据闭环部”，由 CEO 杨磊直接负责</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，据蓝鲸汽车从哈啰方面确认，哈啰 Robotaxi 近期完成了一轮内部组织架构调整</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/029/116.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 18 日消息，SpaceX CEO 埃隆 · 马斯克出人意料地透露，公司在业务预测中并未考虑来自 OpenAI 的任何收入。此前，OpenAI CEO 萨姆 · 奥尔特曼谈及半导体行业可能重复计算 AI 芯片需求的问题。两人长期以来一直在 OpenAI 的发展定位上存在分歧。奥尔特曼暗示市场可能存在一定程度的产能过剩，马斯克的回应则表明，他认为 AI 应用的市场需求依然强劲。SpaceX 今年早些时候上市时披露，除建设地面数据中心外，公司还计划部署太空算力卫星星座，进军算力基础设施市场。此前，奥尔特曼曾指出，数据中心建设和算力需求可能存在上限，未必能够消化芯片厂商计划提供的全部产能。对此，马斯克 17 日晚间在 X 上作出尖锐回应，如果 OpenAI 的产品无法带动算力需" data-title="马斯克“怒怼”奥尔特曼：SpaceX 预计不会从 OpenAI 处获得任何收入" data-date="11-18 23:09" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 23:09</span>
+          <span class="news-item-title">马斯克“怒怼”奥尔特曼：SpaceX 预计不会从 OpenAI 处获得任何收入</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，SpaceX CEO 埃隆 · 马斯克出人意料地透露，公司在业务预测中并未考虑来自 OpenAI 的任何收入</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/cpus/nvidia-says-its-absurd-to-assume-it-predicted-the-agentic-moment-during-veras-development-product-intuition-helped-drive-cpu-design-superior-memory-bandwidth-will-play-critical-role-in-future-ai-agents-cpu-boss-claims" target="_blank" rel="noopener" data-cat="keji" data-summary="AMD批评英伟达（在较小程度上也批评Arm）声称要打造一款专为智能体AI设计的CPU。英伟达对这种说法提出反驳，而是表示Vera的设计基于“基本原则、产品直觉，以及通常" data-title="Nvidia says it’s ‘absurd’ to assume it predicted the agentic moment during Vera’s development" data-date="11-18 23:00" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-18 23:00</span>
+          <span class="news-item-title">Nvidia 表示，认为其在 Vera 的开发过程中预测到了“智能体时刻”是“荒谬的”</span>
+          <span class="news-item-title-en">Nvidia says it’s ‘absurd’ to assume it predicted the agentic moment during Vera’s development</span>
+          <span class="news-value-point">💡 AMD批评英伟达（在较小程度上也批评Arm）声称要打造一款专为智能体AI设计的CPU</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents" target="_blank" rel="noopener" data-cat="keji" data-summary="5,000 至 6,000 加仑的丙二醇从密西西比州绍瑟文的一家 SpaceXAI 工厂泄漏，随后流入附近的排水沟。州环保官员试图缓解当地居民的担忧，表示不会对他们造成任何风险。" data-title="Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center" data-date="11-18 22:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-18 22:30</span>
+          <span class="news-item-title">埃隆·马斯克的SpaceXAI在密西西比州的人工智能数据中心发生化学品泄漏</span>
+          <span class="news-item-title-en">Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center</span>
+          <span class="news-value-point">💡 5,000 至 6,000 加仑的丙二醇从密西西比州绍瑟文的一家 SpaceXAI 工厂泄漏，随后流入附近的排水沟</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html" target="_blank" rel="noopener" data-cat="keji" data-summary="调查的重点将是特朗普总统、他的家人以及其政府的高级官员，并将包括对商务部长霍华德·卢特尼克（Howard Lutnick）以及与英伟达相关的政策的审查。" data-title="House Democrats Cast Wide Net as They Prepare Trump Investigations" data-date="11-18 22:17" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-18 22:17</span>
+          <span class="news-item-title">众议院民主党人在准备对特朗普的调查时撒下大网</span>
+          <span class="news-item-title-en">House Democrats Cast Wide Net as They Prepare Trump Investigations</span>
+          <span class="news-value-point">💡 调查的重点将是特朗普总统、他的家人以及其政府的高级官员，并将包括对商务部长霍华德·卢特尼克（Howard Lutnick）以及与英伟达相关的政策…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview" target="_blank" rel="noopener" data-cat="keji" data-summary="《模拟城市》和《模拟人生》等传奇系列的缔造者威尔·莱特（Will Wright）正在开发一款新游戏，这款游戏以人工智能为核心。这款以您的记忆为核心的新游戏名为MyMems。与Wright的其他游戏一样，这款游戏听起来野心勃勃，" data-title="Will Wright’s next game uses AI to map your memories" data-date="11-18 22:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-18 22:00</span>
+          <span class="news-item-title">威尔·莱特（Will Wright）的下一款游戏将使用人工智能来映射您的记忆</span>
+          <span class="news-item-title-en">Will Wright’s next game uses AI to map your memories</span>
+          <span class="news-value-point">💡 《模拟城市》和《模拟人生》等传奇系列的缔造者威尔·莱特（Will Wright）正在开发一款新游戏，这款游戏以人工智能为核心</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement" target="_blank" rel="noopener" data-cat="keji" data-summary="尽管英伟达董事会表示无意让前首席执行官黄仁勋重返公司，但据报道，一些董事仍在推动此事。" data-title="Nvidia board faction angling for Jensen Huang return as CEO, report claims" data-date="11-18 21:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-18 21:30</span>
+          <span class="news-item-title">有报道称，英伟达董事会正谋求让黄仁勋重返首席执行官职位</span>
+          <span class="news-item-title-en">Nvidia board faction angling for Jensen Huang return as CEO, report claims</span>
+          <span class="news-value-point">💡 尽管英伟达董事会表示无意让前首席执行官黄仁勋重返公司，但据报道，一些董事仍在推动此事</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/" target="_blank" rel="noopener" data-cat="keji" data-summary="临时首席执行官科莱特·克雷斯（Colette Kress）解释说，如果英伟达为数据中心贷款提供担保，那么只有在Neocould获得独立融资并建成配备英伟达设备的设施后，英伟达才会承担责任。" data-title="Nvidia clarifies when it will — and won’t —keep financing neoclouds" data-date="11-18 21:00" data-source="TechCrunch">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-18 07:37</span>
-          <span class="news-item-title">在黄仁勋被罢免后，英伟达正在放弃中国市场</span>
-          <span class="news-item-title-en">Nvidia is abandoning China after Jensen Huang’s ouster</span>
-          <span class="news-value-point">💡 英伟达的临时首席执行官表示，该公司已停止向中国销售芯片</span>
+          <span class="news-item-date">11-18 21:00</span>
+          <span class="news-item-title">Nvidia澄清了其何时会——以及何时不会——继续为新云提供资金</span>
+          <span class="news-item-title-en">Nvidia clarifies when it will — and won’t —keep financing neoclouds</span>
+          <span class="news-value-point">💡 临时首席执行官科莱特·克雷斯（Colette Kress）解释说，如果英伟达为数据中心贷款提供担保，那么只有在Neocould获得独立融资并建成…</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/" target="_blank" rel="noopener" data-cat="keji" data-summary="尽管黄仁勋突然离职，但英伟达的临时首席执行官重申了其开源人工智能战略，并计划收购Hugging Face。" data-title="Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit" data-date="11-18 07:04" data-source="TechCrunch">
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised" target="_blank" rel="noopener" data-cat="keji" data-summary="英伟达的季度营收飙升至1158亿美元，Vera Rubin实现了创纪录的200亿美元首发，而对供应商和客户的总承诺额攀升至5400亿美元，成本上涨促使公司对2028财年的定价策略进行了调整。" data-title="Nvidia&#39;s revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record" data-date="11-18 21:00" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-18 07:04</span>
-          <span class="news-item-title">英伟达表示，在黄仁勋离任后，其开源人工智能战略仍将保持不变。</span>
-          <span class="news-item-title-en">Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit</span>
-          <span class="news-value-point">💡 尽管黄仁勋突然离职，但英伟达的临时首席执行官重申了其开源人工智能战略，并计划收购Hugging Face</span>
-        </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/" target="_blank" rel="noopener" data-cat="keji" data-summary="这位前首席执行官在上周辞职后提出要重返公司担任最高职位。" data-title="Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO" data-date="11-18 06:42" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-18 06:42</span>
-          <span class="news-item-title">英伟达表示不打算再次任命黄仁勋担任首席执行官</span>
-          <span class="news-item-title-en">Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO</span>
-          <span class="news-value-point">💡 这位前首席执行官在上周辞职后提出要重返公司担任最高职位</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-18 21:00</span>
+          <span class="news-item-title">英伟达营收达1158亿美元，Vera Rubin再创200亿美元新高</span>
+          <span class="news-item-title-en">Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record</span>
+          <span class="news-value-point">💡 英伟达的季度营收飙升至1158亿美元，Vera Rubin实现了创纪录的200亿美元首发，而对供应商和客户的总承诺额攀升至5400亿美元，成本上…</span>
         </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">15 条</span>
+      <span class="news-category-count">11 条</span>
     </div>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Arsenal latest: Gunners on a contract roll" data-title="Arsenal latest: Gunners on a contract roll" data-date="11-18 17:00" data-source="天空体育">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英超联赛将于周六恢复，水晶宫、桑德兰和曼联目前处于降级区。但现在担心还为时过早吗？" data-title="The tightest survival scrap for years? Why it&#39;s not too early to worry" data-date="11-19 00:09" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-19 00:09</span>
+          <span class="news-item-title">多年来最激烈的保级大战？为什么现在担心并不为时过早</span>
+          <span class="news-item-title-en">The tightest survival scrap for years? Why it's not too early to worry</span>
+          <span class="news-value-point">💡 英超联赛将于周六恢复，水晶宫、桑德兰和曼联目前处于降级区</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13613285/alex-scott-arsenal-keen-on-chelsea-and-liverpool-target-with-bournemouth-softening-stance-over-potential-sale" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳是英超联赛中对签约伯恩茅斯和英格兰中场球员亚历克斯·斯科特感兴趣的三大俱乐部之一。" data-title="Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing" data-date="11-18 23:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 17:00</span>
-          <span class="news-item-title">阿森纳最新消息：枪手续约势头正盛</span>
-          <span class="news-item-title-en">Arsenal latest: Gunners on a contract roll</span>
+          <span class="news-item-date">11-18 23:00</span>
+          <span class="news-item-title">阿森纳愿意出售球员，以期在斯科特签约方面击败切尔西和利物浦</span>
+          <span class="news-item-title-en">Arsenal willing to make sales to beat Chelsea and Liverpool to Scott signing</span>
+          <span class="news-value-point">💡 阿森纳是英超联赛中对签约伯恩茅斯和英格兰中场球员亚历克斯·斯科特感兴趣的三大俱乐部之一</span>
         </a>
-        <a class="news-item" href="https://www.theguardian.com/football/2026/nov/18/premier-league-teams-full-backs-opta-analyst" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="近年来，边后卫的角色发生了巨大变化。我们分析了所有20支球队如何看待这一位置。文：Opta分析师重叠。内切。边卫内收。传统。边后卫的角色发生了巨大变化。曾经是防守型球员" data-title="Overlap, underlap or sit back? How Premier League teams use their full" data-date="11-18 16:00" data-source="卫报">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-theathletic">🇬🇧 卫报</span>
-          <span class="news-item-date">11-18 16:00</span>
-          <span class="news-item-title">是重叠、内切还是回撤？英超球队如何使用边后卫</span>
-          <span class="news-item-title-en">Overlap, underlap or sit back? How Premier League teams use their full</span>
-          <span class="news-value-point">💡 近年来，边后卫的角色发生了巨大变化</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man Utd latest: Pochettino set for first day in charge" data-title="Man Utd latest: Pochettino set for first day in charge" data-date="11-18 15:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man Utd latest: Pochettino&#39;s first words as he arrives at Carrington for first time" data-title="Man Utd latest: Pochettino&#39;s first words as he arrives at Carrington for first time" data-date="11-18 23:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 15:00</span>
-          <span class="news-item-title">曼联最新消息：波切蒂诺即将迎来执教首日</span>
-          <span class="news-item-title-en">Man Utd latest: Pochettino set for first day in charge</span>
+          <span class="news-item-date">11-18 23:00</span>
+          <span class="news-item-title">曼联最新消息：波切蒂诺首次抵达卡灵顿训练基地后的首批言论</span>
+          <span class="news-item-title-en">Man Utd latest: Pochettino's first words as he arrives at Carrington for first time</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Transfer Centre LIVE! Get your questions in for today&#39;s SSN transfer special!" data-title="Transfer Centre LIVE! Get your questions in for today&#39;s SSN transfer special!" data-date="11-18 15:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联主教练毛里西奥·波切蒂诺预计将在 1 月转会窗口获得支持，因为俱乐部希望扭转本赛季令人失望的开局。" data-title="Man Utd expected to back Poch in January transfer window" data-date="11-18 20:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 15:00</span>
-          <span class="news-item-title">转会中心直播！为今天的SSN转会特别节目提问吧！</span>
-          <span class="news-item-title-en">Transfer Centre LIVE! Get your questions in for today's SSN transfer special!</span>
+          <span class="news-item-date">11-18 20:00</span>
+          <span class="news-item-title">曼联预计将在 1 月转会窗口为波切蒂诺提供支持</span>
+          <span class="news-item-title-en">Man Utd expected to back Poch in January transfer window</span>
+          <span class="news-value-point">💡 曼联主教练毛里西奥·波切蒂诺预计将在 1 月转会窗口获得支持，因为俱乐部希望扭转本赛季令人失望的开局</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/wales-vs-portugal/report/554136" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在切尔西的佩德罗·内托被罚下场后，威尔士在卡迪夫以 3-2 负于 10 人应战的葡萄牙，结束了欧洲国家联赛的小组赛征程。" data-title="Wales beaten by 10-man Portugal as Neto scores but is sent off" data-date="11-18 05:40" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13613290/transfer-news-your-premier-league-clubs-unfinished-business-ahead-of-january-window" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Your PL club&#39;s &#39;Unfinished Business&#39; revealed ahead of January window" data-title="Your PL club&#39;s &#39;Unfinished Business&#39; revealed ahead of January window" data-date="11-18 20:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 05:40</span>
-          <span class="news-item-title">葡萄牙10人应战击败威尔士，内托进球但被罚下场</span>
-          <span class="news-item-title-en">Wales beaten by 10-man Portugal as Neto scores but is sent off</span>
-          <span class="news-value-point">💡 在切尔西的佩德罗·内托被罚下场后，威尔士在卡迪夫以 3-2 负于 10 人应战的葡萄牙，结束了欧洲国家联赛的小组赛征程</span>
+          <span class="news-item-date">11-18 20:00</span>
+          <span class="news-item-title">英超俱乐部“未竟之事”在1月转会窗口开启前揭晓</span>
+          <span class="news-item-title-en">Your PL club's 'Unfinished Business' revealed ahead of January window</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13613260/man-utd-transfer-news-calvin-bassey-and-jarrad-branthwaite-among-targets-with-mauricio-pochettino-set-to-be-backed-in-january" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联主教练毛里西奥·波切蒂诺预计将在 1 月转会窗口获得支持，因为俱乐部希望扭转本赛季令人失望的开局。" data-title="Man Utd expected to back Poch in January transfer window" data-date="11-18 20:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-18 20:00</span>
+          <span class="news-item-title">曼联预计将在 1 月转会窗口为波切蒂诺提供支持</span>
+          <span class="news-item-title-en">Man Utd expected to back Poch in January transfer window</span>
+          <span class="news-value-point">💡 曼联主教练毛里西奥·波切蒂诺预计将在 1 月转会窗口获得支持，因为俱乐部希望扭转本赛季令人失望的开局</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Spurs latest: &#39;Tottenham were one of three clubs in Poch&#39;s USA exit clause&#39;" data-title="Spurs latest: &#39;Tottenham were one of three clubs in Poch&#39;s USA exit clause&#39;" data-date="11-18 17:47" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-18 17:47</span>
+          <span class="news-item-title">热刺最新消息：“热刺是波切蒂诺美国解约条款中提及的三家俱乐部之一”</span>
+          <span class="news-item-title-en">Spurs latest: 'Tottenham were one of three clubs in Poch's USA exit clause'</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13613499/mauricio-pochettino-incoming-manchester-united-head-coach-calls-for-time-to-topple-manchester-city-ahead-of-old-trafford-arrival" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="当被问及曼城的主导地位时，毛里西奥·波切蒂诺（Mauricio Pochettino）承诺将让曼联再次成为这座城市的霸主，并坚持表示“你们会看到的”。" data-title="Pochettino vows to make Manchester red again" data-date="11-18 17:21" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-18 17:21</span>
+          <span class="news-item-title">波切蒂诺誓言让曼彻斯特再次变红</span>
+          <span class="news-item-title-en">Pochettino vows to make Manchester red again</span>
+          <span class="news-value-point">💡 当被问及曼城的主导地位时，毛里西奥·波切蒂诺（Mauricio Pochettino）承诺将让曼联再次成为这座城市的霸主，并坚持表示“你们会看到…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13613478/premier-league-top-25-players-who-is-the-best-player-in-the-premier-league-right-now" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Top 25 Premier League players... 10 to six REVEALED!" data-title="Top 25 Premier League players... 10 to six REVEALED!" data-date="11-18 15:42" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-18 15:42</span>
+          <span class="news-item-title">英超联赛25大球员……第10至第6名揭晓！</span>
+          <span class="news-item-title-en">Top 25 Premier League players... 10 to six REVEALED!</span>
         </a>
         <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在准备可能转会至皇家马德里之际，小将加布里埃尔发布了告别信息，表示曼联将永远是他故事的一部分。" data-title="Madrid-bound Gabriel posts farewell Man Utd message" data-date="11-18 03:35" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -380,13 +411,6 @@ title: 热点新闻
           <span class="news-item-title-en">Madrid-bound Gabriel posts farewell Man Utd message</span>
           <span class="news-value-point">💡 在准备可能转会至皇家马德里之际，小将加布里埃尔发布了告别信息，表示曼联将永远是他故事的一部分</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/wales-vs-portugal/live/554136" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Wales and Portugal searching for fifth goal in thriller LIVE!" data-title="Wales and Portugal searching for fifth goal in thriller LIVE!" data-date="11-18 02:30" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 02:30</span>
-          <span class="news-item-title">威尔士和葡萄牙在精彩的比赛中争夺第五个进球，正在直播！</span>
-          <span class="news-item-title-en">Wales and Portugal searching for fifth goal in thriller LIVE!</span>
-        </a>
         <a class="news-item" href="https://www.skysports.com/football/news/11661/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="JJ·加布里埃尔宣布他将离开曼联，并期待在皇家马德里开启他的“下一篇章”。" data-title="JJ Gabriel says goodbye to Man Utd with Real Madrid move close" data-date="11-18 02:29" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
@@ -395,61 +419,6 @@ title: 热点新闻
           <span class="news-item-title-en">JJ Gabriel says goodbye to Man Utd with Real Madrid move close</span>
           <span class="news-value-point">💡 JJ·加布里埃尔宣布他将离开曼联，并期待在皇家马德里开启他的“下一篇章”</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="JJ·加布里埃尔宣布他将离开曼联，并期待在皇家马德里开启他的“下一篇章”。" data-title="JJ Gabriel says goodbye to Man Utd with Real Madrid move close" data-date="11-18 02:29" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 02:29</span>
-          <span class="news-item-title">随着皇马转会临近，J.J. 加布里埃尔与曼联告别</span>
-          <span class="news-item-title-en">JJ Gabriel says goodbye to Man Utd with Real Madrid move close</span>
-          <span class="news-value-point">💡 JJ·加布里埃尔宣布他将离开曼联，并期待在皇家马德里开启他的“下一篇章”</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳即将与大卫·拉亚、尤里恩·廷伯和皮耶罗·因卡皮埃敲定新合同。" data-title="Arsenal close to new deals for Raya, Timber and Hincapie" data-date="11-18 00:23" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 00:23</span>
-          <span class="news-item-title">阿森纳即将与拉亚、廷伯和欣卡皮埃达成新合同</span>
-          <span class="news-item-title-en">Arsenal close to new deals for Raya, Timber and Hincapie</span>
-          <span class="news-value-point">💡 阿森纳即将与大卫·拉亚、尤里恩·廷伯和皮耶罗·因卡皮埃敲定新合同</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳即将与大卫·拉亚、尤里恩·廷伯和皮耶罗·因卡皮埃敲定新合同。" data-title="Arsenal close to new deals for Raya, Timber and Hincapie" data-date="11-18 00:23" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 00:23</span>
-          <span class="news-item-title">阿森纳即将与拉亚、廷伯和欣卡皮埃达成新合同</span>
-          <span class="news-item-title-en">Arsenal close to new deals for Raya, Timber and Hincapie</span>
-          <span class="news-value-point">💡 阿森纳即将与大卫·拉亚、尤里恩·廷伯和皮耶罗·因卡皮埃敲定新合同</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="韦恩·鲁尼透露，在他效力曼联的职业生涯中，曾有一段时间他有过自杀的念头。" data-title="Rooney contemplated suicide at ‘lowest point’ of Man Utd career" data-date="11-17 22:36" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-17 22:36</span>
-          <span class="news-item-title">鲁尼在曼联生涯的“最低谷”曾有过自杀念头</span>
-          <span class="news-item-title-en">Rooney contemplated suicide at ‘lowest point’ of Man Utd career</span>
-          <span class="news-value-point">💡 韦恩·鲁尼透露，在他效力曼联的职业生涯中，曾有一段时间他有过自杀的念头</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/12040/13613275/wayne-rooney-says-he-contemplated-suicide-during-lowest-point-of-manchester-united-career" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="韦恩·鲁尼透露，在他效力曼联的职业生涯中，曾有一段时间他有过自杀的念头。" data-title="Rooney contemplated suicide at ‘lowest point’ of Man Utd career" data-date="11-17 22:36" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-17 22:36</span>
-          <span class="news-item-title">鲁尼在曼联生涯的“最低谷”曾有过自杀念头</span>
-          <span class="news-item-title-en">Rooney contemplated suicide at ‘lowest point’ of Man Utd career</span>
-          <span class="news-value-point">💡 韦恩·鲁尼透露，在他效力曼联的职业生涯中，曾有一段时间他有过自杀的念头</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿森纳正与后卫皮耶罗·因卡皮耶就新合同进行深入谈判。" data-title="Hincapie in advanced talks over new Arsenal deal" data-date="11-17 21:09" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-17 21:09</span>
-          <span class="news-item-title">欣卡皮耶正在就与阿森纳的新合同进行深入谈判</span>
-          <span class="news-item-title-en">Hincapie in advanced talks over new Arsenal deal</span>
-          <span class="news-value-point">💡 阿森纳正与后卫皮耶罗·因卡皮耶就新合同进行深入谈判</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Chelsea latest: Henderson says everyone responsible for creating right culture" data-title="Chelsea latest: Henderson says everyone responsible for creating right culture" data-date="11-17 20:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-17 20:00</span>
-          <span class="news-item-title">切尔西最新消息：亨德森表示，每个人都有责任营造正确的文化氛围</span>
-          <span class="news-item-title-en">Chelsea latest: Henderson says everyone responsible for creating right culture</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -457,119 +426,124 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734209.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网台州11月18日电(张益聪)“再见，花街！”近日，浙江台州临海“老食客”心目中承载着烟火记忆的花街小吃夜市，将迁至靖鹰广场靖江里夜市。消息一出，不少民众、游客心生感慨，故地重游。一座小城，缘何如此有人情味和烟火气？" data-title="浙江临海“小城故事”：何以让青年创业“不烧心”" data-date="11-18 17:12" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Shelly 今年早些时候推出了售价 28 美元的漏水传感器，该传感器使用电池供电，可轻松运行两年。现在，Shelly 又宣布推出一款配套的智能阀门，您可以将其安装在家中的主水管上，当其中一个传感器检测到漏水时，该阀门会自动关闭水流。" data-title="Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood" data-date="11-19 00:00" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:12</span>
-          <span class="news-item-title">浙江临海“小城故事”：何以让青年创业“不烧心”</span>
-          <span class="news-value-point">💡 中新网台州11月18日电(张益聪)“再见，花街</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-19 00:00</span>
+          <span class="news-item-title">在漏水演变成洪灾之前，Shelly的新款智能阀门会关闭您家中的水源</span>
+          <span class="news-item-title-en">Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood</span>
+          <span class="news-value-point">💡 Shelly 今年早些时候推出了售价 28 美元的漏水传感器，该传感器使用电池供电，可轻松运行两年</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734172.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网福州11月18日电 (彭莉芳)中国红十字会18日在福建福州举行新闻发布会，揭晓第四届“全国十佳救护员”获评名单。两名因挽救他人生命而牺牲的施救者获评“特别致敬人选”。" data-title="第四届“全国十佳救护员”名单在福州发布" data-date="11-18 17:05" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/tech/1036578/8bitdo-gb-bluetooth-gamepad-wireless-controller-nintendo-gamecube-wavebird" target="_blank" rel="noopener" data-cat="zonghe" data-summary="8BitDo 64是对任天堂64那款不寻常的三握式手柄的宽松翻版，取消了该手柄的中央模拟摇杆。但凭借全新的 GC 蓝牙游戏手柄，8BitDo 在忠实于原版设计方面做得更好。" data-title="8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird" data-date="11-19 00:00" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:05</span>
-          <span class="news-item-title">第四届“全国十佳救护员”名单在福州发布</span>
-          <span class="news-value-point">💡 中新网福州11月18日电 (彭莉芳)中国红十字会18日在福建福州举行新闻发布会，揭晓第四届“全国十佳救护员”获评名单</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-19 00:00</span>
+          <span class="news-item-title">8BitDo的新款游戏手柄对任天堂GameCube的WaveBird进行了现代化改造</span>
+          <span class="news-item-title-en">8BitDo’s new gamepad modernizes the Nintendo GameCube’s WaveBird</span>
+          <span class="news-value-point">💡 8BitDo 64是对任天堂64那款不寻常的三握式手柄的宽松翻版，取消了该手柄的中央模拟摇杆</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734168.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网广西柳州11月18日电(韦莹芸 韦蒙玲 周晓玉)时下，广西柳州市柳江区三都镇油茶果陆续成熟，进入集中采摘期，饱满的油茶果缀满枝头，山间洋溢着丰收的气息。" data-title="（乡村行·看振兴）广西柳江油茶丰收 小果子成富民“金果子”" data-date="11-18 17:05" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:05</span>
-          <span class="news-item-title">（乡村行·看振兴）广西柳江油茶丰收 小果子成富民“金果子”</span>
-          <span class="news-value-point">💡 中新网广西柳州11月18日电(韦莹芸 韦蒙玲 周晓玉)时下，广西柳州市柳江区三都镇油茶果陆续成熟，进入集中采摘期，饱满的油茶果缀满枝头，山间洋溢…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734184.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网厦门11月18日电 (叶艺琳)由中国社会福利与养老服务协会发起并主办的第二届中国银龄合唱大会18日在厦门闽南大戏院开幕。来自全国各地的近2000名银龄歌者齐聚厦门，参加为期5天的合唱展演、合唱快闪、文化考察等活动，充分展现银龄群体正从“被照护者”转变为文化养老的参与者、创造者。" data-title="第二届中国银龄合唱大会在厦门开幕 探索“展演+研学”文化养老新模式" data-date="11-18 17:04" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:04</span>
-          <span class="news-item-title">第二届中国银龄合唱大会在厦门开幕 探索“展演+研学”文化养老新模式</span>
-          <span class="news-value-point">💡 中新网厦门11月18日电 (叶艺琳)由中国社会福利与养老服务协会发起并主办的第二届中国银龄合唱大会18日在厦门闽南大戏院开幕</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734189.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网邵阳11月18日电 (刘剑平 吕伟铭 刘翼)“戴叔叔每个月都来看我，给我送生活费，还会陪我聊天，教我怎么保护自己。”11月17日，在湖南城步苗族自治县金树社区，看到戴方财上门走访，12岁的阳玲(化名)说道。每次上门，戴方财总要先问问她最近学习怎么样，聊聊学校里的趣事，再叮嘱几句生活中的注意事项。" data-title="把爱心种进苗乡山水间 湖南城步公益人的乡土公益路" data-date="11-18 17:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:01</span>
-          <span class="news-item-title">把爱心种进苗乡山水间 湖南城步公益人的乡土公益路</span>
-          <span class="news-value-point">💡 中新网邵阳11月18日电 (刘剑平 吕伟铭 刘翼)“戴叔叔每个月都来看我，给我送生活费，还会陪我聊天，教我怎么保护自己</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734192.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网福建永安11月18日电 (黄中泉 廖金朋)近日，观鸟爱好者刘永生等鸟友在通往位于福建永安的天宝岩国家级自然保护区公路附近的农田里，意外邂逅了一只水鸟。经确认，这正是当地鸟友们心心念念许久的长嘴剑鸻。" data-title="长嘴剑鸻再现福建永安 南北迁徙记录终闭环" data-date="11-18 17:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 17:01</span>
-          <span class="news-item-title">长嘴剑鸻再现福建永安 南北迁徙记录终闭环</span>
-          <span class="news-value-point">💡 中新网福建永安11月18日电 (黄中泉 廖金朋)近日，观鸟爱好者刘永生等鸟友在通往位于福建永安的天宝岩国家级自然保护区公路附近的农田里，意外邂逅…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734164.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网湖北当阳11月18日电 (郭晓莹 陈昕)未来5年，湖北省当阳市将强化文旅赋能，打造更显特色的信义之城和具有海内外影响力的关公文化旅游目的地。这是记者18日从当阳市第十届人民代表大会第一次会议上获知的信息。" data-title="湖北当阳聚力打造关公文化旅游目的地" data-date="11-18 16:58" data-source="中国新闻网">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 16:58</span>
-          <span class="news-item-title">湖北当阳聚力打造关公文化旅游目的地</span>
-          <span class="news-value-point">💡 中新网湖北当阳11月18日电 (郭晓莹 陈昕)未来5年，湖北省当阳市将强化文旅赋能，打造更显特色的信义之城和具有海内外影响力的关公文化旅游目的地</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/cricket/news/12040/13613489/cameron-bancroft-former-australia-batter-releases-explosive-statement-accusing-pat-cummins-and-bowlers-of-sandpaper-knowledge" target="_blank" rel="noopener" data-cat="zonghe" data-summary="尽管澳大利亚队长帕特·坎明斯（Pat Cummins）周五在新闻发布会上否认自己是同谋，但卡梅伦·班克罗夫特（Cameron Bancroft）仍直接指控坎明斯知晓2018年对阵南非时使用砂纸一事。" data-title="&#39;It was cheating&#39; - Bancroft accuses Cummins of sandpaper knowledge" data-date="11-18 16:40" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/golf/news/12040/13613433/cme-group-tour-championship-field-format-prize-money-as-nelly-korda-charley-hull-lottie-woad-battle-for-win-at-lpga-finale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="谁将加冕LPGA巡回赛CME环球锦标赛冠军？谁能阻止内莉·科达夺冠？英国选手查莉·赫尔和洛蒂·沃德能否夺冠？在 Sky Sports 直播的本周 LPGA 巡回赛 2026 赛季总决赛开赛前，我们为您提供最新资讯。" data-title="CME Group Tour Championship: Can Hull and Woad stop Korda?" data-date="11-19 00:00" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 16:40</span>
-          <span class="news-item-title">“这是作弊”——班克罗夫特指责卡明斯知道砂纸一事</span>
-          <span class="news-item-title-en">'It was cheating' - Bancroft accuses Cummins of sandpaper knowledge</span>
-          <span class="news-value-point">💡 尽管澳大利亚队长帕特·坎明斯（Pat Cummins）周五在新闻发布会上否认自己是同谋，但卡梅伦·班克罗夫特（Cameron Bancroft）…</span>
+          <span class="news-item-date">11-19 00:00</span>
+          <span class="news-item-title">CME集团巡回锦标赛：Hull和Woad能阻止Korda吗？</span>
+          <span class="news-item-title-en">CME Group Tour Championship: Can Hull and Woad stop Korda?</span>
+          <span class="news-value-point">💡 谁将加冕LPGA巡回赛CME环球锦标赛冠军</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/028/906.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 18 日消息，奇妙工具箱 11 月 16 日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量在当日 9:22 突破 1 亿台，达成又一里程碑时刻。IT之家注意到，华为开发者官网昨晚更新了存量设备 API 版本使用数量参考，截至 2026 年 11 月 15 日，HarmonyOS 7（API 26.0.0）的设备量占比已达 82.21%，较上一统计周期又出现大幅增长。最新 HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天进行一次更新，开发者可根据占比来为应用合理定义需要兼容的 API 版本）：HarmonyOS 版本API 版本设备量占比7.0.026.0.082.21%6.1.06.1.1(24)12.87%6.1.06.1.0(23)3." data-title="华为鸿蒙系统装机量被曝破亿后，HarmonyOS 7 设备占比突破 82%" data-date="11-18 16:26" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/029/120.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 18 日消息，据界面新闻今日报道，小米创办人、董事长兼 CEO 雷军在 APEC 圆桌会谈的采访中披露未发布新机小米 18 相关信息。这款机型预计 12 月正式发布，硬件层面沿用小米数字标准版小机身，性能、影像、续航、屏幕等实现升级。报道还提到，有消息称新机起售价为 5699 元。据IT之家此前报道，小米 18 标准版手机已通过 3C 认证，相关页面显示会支持 100W 快充。爆料称，小米 18 会搭载骁龙 8 Elite Gen6 处理器、200MP 相机传感器，并配备 7200mAh 电池。目前，官方暂未确认小米 18 标准版配置信息，一切以官方为准。博主 @数码闲聊站 爆料称，小米 18 标准版定价在 6000 元左右，有超大的影像模组，号称屏幕 / 性能 / 影像" data-title="小米 18 标准版手机预计 12 月发布，消息称起售价 5699 元" data-date="11-18 23:34" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-18 16:26</span>
-          <span class="news-item-title">华为鸿蒙系统装机量被曝破亿后，HarmonyOS 7 设备占比突破 82%</span>
-          <span class="news-value-point">💡 IT之家 11 月 18 日消息，奇妙工具箱 11 月 16 日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量在当日 9:22 突破 1…</span>
+          <span class="news-item-date">11-18 23:34</span>
+          <span class="news-item-title">小米 18 标准版手机预计 12 月发布，消息称起售价 5699 元</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，据界面新闻今日报道，小米创办人、董事长兼 CEO 雷军在 APEC 圆桌会谈的采访中披露未发布新机小米 18 …</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c5y4jmvxr9vyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="美国时隔26年失去麻疹消除状态，今年病例达5400例、死亡10人，创1990年代以来新高。“疫苗怀疑论”持续遭到质疑。" data-title="美国今年已10人死于麻疹 26年后失去“麻疹消除状态”" data-date="11-18 16:16" data-source="BBC">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-18 16:16</span>
-          <span class="news-item-title">美国今年已10人死于麻疹 26年后失去“麻疹消除状态”</span>
-          <span class="news-value-point">💡 美国时隔26年失去麻疹消除状态，今年病例达5400例、死亡10人，创1990年代以来新高</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/cricket/live-blog/12040/13612700/australia-vs-england-third-odi-live-latest-cricket-score-and-updates-as-harry-brooks-side-face-mitch-marshs-team-in-series-decider-at-hobart" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Australia&#39;s Renshaw out after twice being dropped as England strike LIVE!" data-title="Australia&#39;s Renshaw out after twice being dropped as England strike LIVE!" data-date="11-18 14:58" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13613649/sober-glory-storms-to-victory-over-old-park-star-on-chase-debut" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在Ffos Las赛马场举行的Golwg Gwendraeth初级障碍赛中，Sober Glory反败为胜，击败了Supreme Novices’ Hurdle赛的冠军Old Park Star，完美地完成了障碍赛首秀。" data-title="Sober Glory storms to victory over Old Park Star on chase debut" data-date="11-18 23:25" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 14:58</span>
-          <span class="news-item-title">澳大利亚的伦肖在被英格兰队两次漏接后出局，直播中！</span>
-          <span class="news-item-title-en">Australia's Renshaw out after twice being dropped as England strike LIVE!</span>
+          <span class="news-item-date">11-18 23:25</span>
+          <span class="news-item-title">Sober Glory在首次追逐赛中势如破竹，战胜Old Park Star夺得胜利</span>
+          <span class="news-item-title-en">Sober Glory storms to victory over Old Park Star on chase debut</span>
+          <span class="news-value-point">💡 在Ffos Las赛马场举行的Golwg Gwendraeth初级障碍赛中，Sober Glory反败为胜，击败了Supreme Novices…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/17/world/asia/tech-outages-cyberattack-hack-rubio.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="国务卿马可·鲁比奥（Marco Rubio）表示，由于人工智能揭示了系统的漏洞，人们急于修补这些系统，这可能是最近空中交通管制、银行和政府机构出现故障的原因。" data-title="Rubio Says Rush to Secure Systems May Be Causing Failures" data-date="11-18 14:46" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/029/119.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 18 日消息，当地时间 17 日，据《纽约时报》报道，美国联邦航空管理局（FAA）宣布，将暂停安装慧与旗下瞻博网络生产的一款路由器。据了解，该设备原本用于美国航空设施的现代化改造，当前被 FAA 认为是 11 月 13 日全美航班暂停起飞的主要原因之一。FAA 不仅叫停了后续安装，还停用了此前部署的 60 多台路由器。美国交通部长肖恩 · 达菲最初将此次大规模停飞归咎于硬件老化，但第二天又透露，故障实际上与美国航空设施的升级改造有关。达菲介绍，事发时，科技公司 L3Harris 的一名承包商工作人员在阿肯色州埃尔多拉多的一处 FAA 设施内，准备将老旧的铜线通信线路更换为光纤，并安装新路由器。但新设备开始向空管系统中的其他路由器大量发送数据，得克萨斯州阿马里洛的另一台路由" data-title="一款路由器故障导致全美航班停飞，FAA 停用 60 余台设备并叫停后续安装" data-date="11-18 23:24" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-18 14:46</span>
-          <span class="news-item-title">鲁比奥表示，仓促部署安全系统可能会导致故障</span>
-          <span class="news-item-title-en">Rubio Says Rush to Secure Systems May Be Causing Failures</span>
-          <span class="news-value-point">💡 国务卿马可·鲁比奥（Marco Rubio）表示，由于人工智能揭示了系统的漏洞，人们急于修补这些系统，这可能是最近空中交通管制、银行和政府机构出…</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 23:24</span>
+          <span class="news-item-title">一款路由器故障导致全美航班停飞，FAA 停用 60 余台设备并叫停后续安装</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，当地时间 17 日，据《纽约时报》报道，美国联邦航空管理局（FAA）宣布，将暂停安装慧与旗下瞻博网络生产的一款…</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/cricket/news/12040/13613446/sandpapergate-usman-khawaja-and-david-warner-question-cricket-australias-new-forum-following-explosive-fallout" target="_blank" rel="noopener" data-cat="zonghe" data-summary="乌斯曼·卡瓦贾（Usman Khawaja）和戴维·华纳（David Warner）对澳大利亚板球协会（Cricket Australia）设立独立论坛以调查“砂纸门”丑闻的决定提出质疑。" data-title="Khawaja and Warner question Cricket Australia’s new Sandpapergate forum" data-date="11-18 14:19" data-source="天空体育">
+        <a class="news-item" href="https://www.ithome.com/1/029/118.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 18 日消息，数毛社（Digital Foundry）发布了两段视频，对《GTA 6》在不同主机上的性能表现进行了详细分析。其中一段重点测试 PlayStation 5 和 PS5 Pro 版本，另一段则针对 Xbox Series X 和 Series S 版本。IT之家注意到，对于 Xbox Series X 版，数毛社给出了相对积极的评价。该版本的表现与标准版 PS5 比较接近，内部渲染分辨率基本维持在 1440p，目标帧率为 30 FPS，不过在场景较为复杂、负载较高时，仍然会出现掉帧。数毛社分析师奥利弗 · 麦肯齐（Oliver Mackenzie）在视频中表示：“《GTA 6》在常规游戏过程中基本能够达到并维持 30 FPS，即使在激烈战斗和快速移动等高负载场" data-title="数毛社实测《GTA 6》Xbox 版：Series X 稳定 30 帧，Series S 掉帧明显" data-date="11-18 23:16" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 23:16</span>
+          <span class="news-item-title">数毛社实测《GTA 6》Xbox 版：Series X 稳定 30 帧，Series S 掉帧明显</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，数毛社（Digital Foundry）发布了两段视频，对《GTA 6》在不同主机上的性能表现进行了详细分析</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/029/115.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 18 日消息，据 tom&#39;s hardware 报道，埃隆 · 马斯克（Elon Musk）旗下的 SpaceXAI（SpaceXSI）在美国密西西比州的 AI 数据中心发生化学品泄漏事件。承包商在连接移动储罐时因软管配置错误，导致用于数据中心液冷散热的传热流体（主要成分为低毒性的抑制型丙二醇水溶液，用于数据中心或发电冷却系统）发生泄漏。部分液体流出厂区并进入附近的排水沟。密西西比州环境质量部（MDEQ）介入了此次 SpaceXAI 设施化学品泄漏事件。经确认，泄漏的丙二醇总量在 5000 至 6000 加仑（IT之家注：约合 18.93 – 22.71 m³）之间。由于泄漏物质在 OSHA 标准下属于非危险混合物，且在自然水体和土壤中降解较快（通常数天至一周内分解），加" data-title="SpaceXAI 在美国密西西比州的 AI 数据中心泄漏约 20m³ 丙二醇" data-date="11-18 23:01" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 23:01</span>
+          <span class="news-item-title">SpaceXAI 在美国密西西比州的 AI 数据中心泄漏约 20m³ 丙二醇</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，据 tom's hardware 报道，埃隆 · 马斯克（Elon Musk）旗下的 SpaceXAI（Spa…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026" target="_blank" rel="noopener" data-cat="zonghe" data-summary="每个人的生活中都有这样一个旅行者。这个人宁愿在14小时的火车上度过，也不愿在安静的周日窝在沙发上。他们会说多种语言，胃口好得像山羊，走到哪里都能交到朋友。无论他们是否是您的同类，" data-title="The Verge’s 2026 holiday gift guide for travelers" data-date="11-18 23:00" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-18 23:00</span>
+          <span class="news-item-title">The Verge 2026 年旅行者假日礼品指南</span>
+          <span class="news-item-title-en">The Verge’s 2026 holiday gift guide for travelers</span>
+          <span class="news-value-point">💡 每个人的生活中都有这样一个旅行者</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor" target="_blank" rel="noopener" data-cat="zonghe" data-summary="据NPR报道，Meta旨在让Instagram对学校更安全的举措源于其增加用户“获取”、“加好友”和“邀请”的努力。作为针对Meta的一系列儿童安全诉讼的一部分，内部文件被披露。" data-title="Instagram’s ‘school safety’ push was also a way to get more teens on the app" data-date="11-18 22:59" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-18 22:59</span>
+          <span class="news-item-title">Instagram的“校园安全”推广也是吸引更多青少年使用该应用程序的一种方式</span>
+          <span class="news-item-title-en">Instagram’s ‘school safety’ push was also a way to get more teens on the app</span>
+          <span class="news-value-point">💡 据NPR报道，Meta旨在让Instagram对学校更安全的举措源于其增加用户“获取”、“加好友”和“邀请”的努力</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/029/114.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 18 日消息，《GTA 6》终于来了，就连一向低调、鲜少公开发言的 R 星联合创始人兼总裁山姆 · 豪瑟，也罕见发表了一份声明，欢迎玩家来到雷奥奈达州，并对玩家表示“无比感激”。豪瑟向外媒 GamesRadar+ 发表的声明提到：“我们从创立之初就相信，游戏可以像其他叙事艺术一样获得认可，成为现代文化不可或缺的一部分，让其中的故事和世界长久留在人们心中。”“本周，GTA 系列重返雷奥奈达州，回到现代的罪恶城。虽然时过境迁，许多事情都变了，但有一点始终如一：我们希望创造超越玩家期待的游戏体验，展现游戏这种媒介究竟能做到什么，以及我们为什么认为游戏如此特别。”据IT之家了解，GTA 系列历代正传作品的执行制作人名单上都有豪瑟的名字。报道指出，作为 R 星创作团队的核心人物，长" data-title="《GTA 6》发售后 R 星总裁山姆 · 豪瑟罕见致谢：愿未来多年与大家同行" data-date="11-18 22:45" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 22:45</span>
+          <span class="news-item-title">《GTA 6》发售后 R 星总裁山姆 · 豪瑟罕见致谢：愿未来多年与大家同行</span>
+          <span class="news-value-point">💡 IT之家 11 月 18 日消息，《GTA 6》终于来了，就连一向低调、鲜少公开发言的 R 星联合创始人兼总裁山姆 · 豪瑟，也罕见发表了一份声…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/watch/video/13613622/watch-sober-glory-slams-rivals-on-chase-debut-at-ffos-las" target="_blank" rel="noopener" data-cat="zonghe" data-summary="备受期待的Supreme 1-2复赛在弗斯拉斯赛马场落下帷幕，Sober Glory以绝对优势胜出。" data-title="WATCH: Sober Glory slams rivals on chase debut" data-date="11-18 22:40" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 14:19</span>
-          <span class="news-item-title">哈瓦加和华纳对澳大利亚板球协会的新“砂纸门”听证会提出质疑</span>
-          <span class="news-item-title-en">Khawaja and Warner question Cricket Australia’s new Sandpapergate forum</span>
-          <span class="news-value-point">💡 乌斯曼·卡瓦贾（Usman Khawaja）和戴维·华纳（David Warner）对澳大利亚板球协会（Cricket Australia）设立…</span>
+          <span class="news-item-date">11-18 22:40</span>
+          <span class="news-item-title">观看：Sober Glory在追逐赛首秀中碾压对手</span>
+          <span class="news-item-title-en">WATCH: Sober Glory slams rivals on chase debut</span>
+          <span class="news-value-point">💡 备受期待的Supreme 1-2复赛在弗斯拉斯赛马场落下帷幕，Sober Glory以绝对优势胜出</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13612907/today-on-sky-sports-racing-supreme-hero-old-park-star-makes-chasing-debut-at-ffos-las" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今天，所有人的目光都将聚焦于弗斯拉斯赛马场，因为老园明星将首次在公众面前越过障碍，与他的顶级对手清醒荣耀一决高下。" data-title="Supreme hero Old Park Star makes chasing debut at Ffos Las" data-date="11-18 14:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/watch/video/13613617/incredible-footage-see-how-ball-swings-in-match-at-heart-of-cameron-bancroft-sandpaper-claims" target="_blank" rel="noopener" data-cat="zonghe" data-summary="卡梅伦·班克罗夫特声称，在2018年与南非的第二场测试赛中，澳大利亚队在以4-28的成绩获胜时使用了砂纸，而视频似乎也证实了这一说法。英格兰南非巡回赛将于12月17日起在Sky Sports上直播。" data-title="The damning footage that supports Bancroft&#39;s explosive new claims" data-date="11-18 22:31" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 14:00</span>
-          <span class="news-item-title">顶级英雄马Old Park Star在弗斯拉斯赛马场首次亮相追逐赛</span>
-          <span class="news-item-title-en">Supreme hero Old Park Star makes chasing debut at Ffos Las</span>
-          <span class="news-value-point">💡 今天，所有人的目光都将聚焦于弗斯拉斯赛马场，因为老园明星将首次在公众面前越过障碍，与他的顶级对手清醒荣耀一决高下</span>
+          <span class="news-item-date">11-18 22:31</span>
+          <span class="news-item-title">支持班克罗夫特爆炸性新主张的 damning 录像</span>
+          <span class="news-item-title-en">The damning footage that supports Bancroft's explosive new claims</span>
+          <span class="news-value-point">💡 卡梅伦·班克罗夫特声称，在2018年与南非的第二场测试赛中，澳大利亚队在以4-28的成绩获胜时使用了砂纸，而视频似乎也证实了这一说法</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13611983/las-vegas-gp-whats-still-to-play-for-over-final-three-races-of-f1-2026-season-with-battles-in-drivers-and-constructors-championships" target="_blank" rel="noopener" data-cat="zonghe" data-summary="2026年F1赛季还剩三场比赛，本周末的拉斯维加斯大奖赛将拉开本赛季最后三连赛的帷幕。" data-title="What&#39;s still to play for in 2026 as F1 hits Vegas?" data-date="11-18 14:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13613606/oscar-piastri-to-serve-grid-penalty-at-las-vegas-gp-as-mclaren-confirm-addition-of-more-upgrades-to-mcl40" target="_blank" rel="noopener" data-cat="zonghe" data-summary="迈凯伦已确认，奥斯卡·皮亚斯特里（Oscar Piastri）将在本周末的拉斯维加斯大奖赛中被罚退10个发车位，因为他将被迫超出本赛季的引擎使用额度。" data-title="Piastri to serve grid penalty at Las Vegas GP" data-date="11-18 22:30" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-18 14:00</span>
-          <span class="news-item-title">2026年F1进军拉斯维加斯，还有哪些看点？</span>
-          <span class="news-item-title-en">What's still to play for in 2026 as F1 hits Vegas?</span>
-          <span class="news-value-point">💡 2026年F1赛季还剩三场比赛，本周末的拉斯维加斯大奖赛将拉开本赛季最后三连赛的帷幕</span>
+          <span class="news-item-date">11-18 22:30</span>
+          <span class="news-item-title">皮亚斯特里将在拉斯维加斯大奖赛中接受发车位处罚</span>
+          <span class="news-item-title-en">Piastri to serve grid penalty at Las Vegas GP</span>
+          <span class="news-value-point">💡 迈凯伦已确认，奥斯卡·皮亚斯特里（Oscar Piastri）将在本周末的拉斯维加斯大奖赛中被罚退10个发车位，因为他将被迫超出本赛季的引擎使用…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/boxing/news/12040/13613615/rico-verhoeven-could-the-kickboxing-superstar-step-in-to-fight-deontay-wilder-on-the-tyson-fury-vs-anthony-joshua-bill" target="_blank" rel="noopener" data-cat="zonghe" data-summary="德昂泰·怀尔德（Deontay Wilder）目前正在为泰森·富里（Tyson Fury）与安东尼·约书亚（Anthony Joshua）对决的垫场赛寻找新的对手。" data-title="Verhoeven to fight Wilder? &#39;He&#39;s always up for a big fight!&#39;" data-date="11-18 22:20" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-18 22:20</span>
+          <span class="news-item-title">Verhoeven将与Wilder对战？“他一直都渴望一场大战！”</span>
+          <span class="news-item-title-en">Verhoeven to fight Wilder? 'He's always up for a big fight!'</span>
+          <span class="news-value-point">💡 德昂泰·怀尔德（Deontay Wilder）目前正在为泰森·富里（Tyson Fury）与安东尼·约书亚（Anthony Joshua）对决的…</span>
         </a>
   </div>
 </div>
 <script defer src="{{ "/assets/js/news-feed.js" | relative_url }}"></script>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-18 17:21（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-19 00:39（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
