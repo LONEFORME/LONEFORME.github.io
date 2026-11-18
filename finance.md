@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">27,033.71</span>
-      <span class="ticker-change up">▲ +0.12%</span>
+      <span class="ticker-price ticker-up">27,090.21</span>
+      <span class="ticker-change up">▲ +0.33%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 04:23:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 04:46:49（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6697</span>
+      <span class="ticker-price ticker-up">6.6690</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:23:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:46:48（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,724.47 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -124.70 (-3.24%)</span>
+      <span class="ticker-price ticker-down">$3,731.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -117.88 (-3.06%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:22:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:46:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.46 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.68 (-1.81%)</span>
+      <span class="ticker-price ticker-down">$91.61 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.53 (-1.64%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:23:06（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:46:49（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="风险投资家兼彼得·蒂尔（Peter Thiel）的追随者吉姆·奥尼尔（Jim O’Neill）面临着两党对&lt;strong&gt;他是否会支持科学&lt;/strong&gt;的担忧。" data-title="Senator Bill Cassidy Blocks Trump Pick to Head Science Agency" data-date="11-19 04:41" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-19 04:41</span>
+          <span class="news-item-title">Senator Bill Cassidy Blocks Trump Pick to Head Science Agency</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734425.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦11月18日电 (记者 欧阳开宇)英国官方18日公布的数据显示，英国10月消费者价格指数(CPI)同比上涨3.6%，较9月3.5%的涨幅小幅抬升，创下一年以来通胀率最高水平。" data-title="英国10月通胀率升至一年来新高" data-date="11-18 23:32" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -500,4 +506,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-19 00:39（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-19 04:45（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
