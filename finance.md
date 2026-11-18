@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,584.58</span>
-      <span class="ticker-change down">▼ -0.50%</span>
+      <span class="ticker-price ticker-up">3,587.83</span>
+      <span class="ticker-change up">▲ +0.09%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:35:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:35:59（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">10,638.52</span>
-      <span class="ticker-change down">▼ -0.49%</span>
+      <span class="ticker-price ticker-up">10,659.41</span>
+      <span class="ticker-change up">▲ +0.20%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:00:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">2,292.20</span>
-      <span class="ticker-change down">▼ -1.20%</span>
+      <span class="ticker-price ticker-up">2,311.62</span>
+      <span class="ticker-change up">▲ +0.85%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:00:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,221.19</span>
-      <span class="ticker-change up">▲ +0.62%</span>
+      <span class="ticker-price ticker-up">1,247.99</span>
+      <span class="ticker-change up">▲ +2.19%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-17 15:35:39（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:35:41（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,766.06</span>
-      <span class="ticker-change down">▼ -0.94%</span>
+      <span class="ticker-price ticker-down">3,736.33</span>
+      <span class="ticker-change down">▼ -0.58%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -105,7 +105,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-18 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-18 09:22:42（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6683</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.6653</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 08:54:12（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:23:28（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,819.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -29.97 (-0.78%)</span>
+      <span class="ticker-price ticker-down">$3,771.19 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -77.98 (-2.03%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 08:54:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:23:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥829.86 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -2.47 (-0.30%)</span>
+      <span class="ticker-price ticker-down">¥810.10 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -22.23 (-2.67%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 15:29:56（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">23,545.14</span>
-      <span class="ticker-change down">▼ -0.88%</span>
+      <span class="ticker-price ticker-down">23,294.75</span>
+      <span class="ticker-change down">▼ -0.91%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$93.55 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +1.11 (+1.20%)</span>
+      <span class="ticker-price ticker-down">$91.69 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.45 (-1.55%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 06:59:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:23:22（非实时）</div>
   </div>
 </div>
 
@@ -439,17 +439,65 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-18/10734177.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆11月18日电 (钟旖)热气腾腾的火锅，是重庆极具辨识度的城市名片，火锅底料则是决定这口麻辣滋味的“灵魂”。" data-title="火锅底料“炒”出“智能风味”  重庆高校团队科研攻关推动产业技术升级" data-date="11-18 17:05" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 17:05</span>
+          <span class="news-item-title">火锅底料“炒”出“智能风味”  重庆高校团队科研攻关推动产业技术升级</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734208.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="11月18日，浙江省杭州市中级人民法院一审公开宣判中国银行股份有限公司原党委委员、副行长林景臻受贿案，对被告人林景臻以受贿罪判处有期徒刑十三年，并处罚金人民币三百万元；对林景臻犯罪所得财物及孳息依法予以追缴，上缴国库。" data-title="中国银行股份有限公司原党委委员、副行长林景臻受贿案一审宣判" data-date="11-18 17:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 17:02</span>
+          <span class="news-item-title">中国银行股份有限公司原党委委员、副行长林景臻受贿案一审宣判</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/915.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 18 日消息，亚马逊创始人杰夫 · 贝索斯认为，大型科技公司已经成了美国新的众矢之的。他批评政客习惯于寻找替罪羊，而不是着手解决经济问题的根源。当地时间 17 日，贝索斯在 Semafor 举办的“Silicon Valley &amp; The World”大会上接受采访时表示，寻找替罪羊是由来已久的政治手法，虽然有利于政治操作，却根本解决不了问题。在贝索斯看来，公众对不同行业的态度一直在变化：律师、华尔街、房东都曾成为批评对象，现在轮到了科技巨头们。他认为，外界将整个科技行业描绘成反派并不符合事实。“房东有时会被塑造成反派，现在轮到大型的科技公司了，整个科技行业都成了反派。但这种形象并不准确，也不符合事实。我认为，科技行业的大多数人只想埋头做好自己的工作，这个行业里并没有多少" data-title="贝索斯：把科技巨头当替罪羊，并不能解决美国经济问题" data-date="11-18 16:56" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 16:56</span>
+          <span class="news-item-title">贝索斯：把科技巨头当替罪羊，并不能解决美国经济问题</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734194.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="11月18日，国务院台办举行例行新闻发布会，有记者问：APEC领导人非正式会议在深圳举行，受到两岸舆论高度关注。“建设亚太共同体，促进共同繁荣”的会议主题受到两岸工商界的普遍认同。大家纷纷表示，两岸应深化合作，台胞台商更要积极拥抱大陆发展机遇，请问对此有何评论？" data-title="APEC领导人非正式会议受两岸关注 国台办：帮助台商台企在大陆更好发展" data-date="11-18 16:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 16:52</span>
+          <span class="news-item-title">APEC领导人非正式会议受两岸关注 国台办：帮助台商台企在大陆更好发展</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/028/910.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 18 日消息，腾讯控股今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告：2026 财年前三季度营业总收入：6085.79 亿元，同比增长 9%毛利润：3456.09 亿元，同比增长 10%毛利率：56.79%，同比增长 0.4 个百分点归母净利润：1777.27 亿元，同比增长 7%经营现金流：1567.13 亿元，同比下降 33.76%基本每股收益：19.697 元，同比增长 8%稀释每股收益：19.354 元，同比增长 8%资产负债率：44.69%2026 财年第三财季营业总收入：2073.36 亿元，同比增长 8%，环比增长 1%" data-title="腾讯控股 2026 年前三季度归母净利润 1777.27 亿元，同比增长 7%" data-date="11-18 16:36" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-18 16:36</span>
+          <span class="news-item-title">腾讯控股 2026 年前三季度归母净利润 1777.27 亿元，同比增长 7%</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734132.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社土耳其安塔利亚11月18日电 (记者 陈溯 王高飞)《联合国气候变化框架公约》第三十一次缔约方大会(COP31)正在土耳其安塔利亚举办。联合国环境规划署(UNEP)气候变化司适应与韧性处负责人米雷·阿塔拉(Mirey Atallah)当地时间17日接受中新社记者专访时表示，中国碳排放管理正在完成从长期以强度约束为主，向逐步建立绝对排放上限刚性约束的关键转型，并建成全球最大的可再生能源体系，为全球其他国家提供了可借鉴经验。" data-title="联合国环境规划署官员：中国气候行动值得全球其他国家借鉴" data-date="11-18 16:24" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 16:24</span>
+          <span class="news-item-title">联合国环境规划署官员：中国气候行动值得全球其他国家借鉴</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734139.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月18日电 亚太经合组织(APEC)第三十三次领导人非正式会议将于11月18日至19日在深圳举行。本次APEC盛会持续引发国际媒体广泛关注。多家外媒认为，中国始终致力于推动亚太走开放合作之路，为世界经济发展带来新机遇，注入新动力。" data-title="外媒聚焦APEC盛会：相约深圳，中国为世界带来新机遇" data-date="11-18 16:20" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-18 16:20</span>
+          <span class="news-item-title">外媒聚焦APEC盛会：相约深圳，中国为世界带来新机遇</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="这位领导人希望亚太经合组织峰会能够展示中国的实力，但他面临着出口方面的担忧，以及一位不可预测的特朗普，后者曾提出与金正恩会晤。" data-title="Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?" data-date="11-18 10:11" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-18 10:11</span>
+          <span class="news-item-title">Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国的新限制措施可能危及数十亿美元的投资，并迫使该地区的国家在华盛顿与北京之间寻求日益艰难的平衡。" data-title="Trump’s New A.I. Chip Rules Rattle Southeast Asia" data-date="11-18 05:04" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">11-18 05:04</span>
           <span class="news-item-title">Trump’s New A.I. Chip Rules Rattle Southeast Asia</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="柯志恩以“知识蓝”的姿态拉拢中间选民，支持度大幅追贴深耕高雄20年的赖瑞隆，选情咬紧。" data-title="台湾高雄市选战：“知识蓝”柯志恩对决“新潮流”赖瑞隆，国民党有可能复制“韩流”吗？" data-date="11-18 00:25" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="柯志恩以“知识蓝”的姿态拉拢中间选民，支持度大幅追贴深耕高雄20年的赖瑞隆，选情咬紧。" data-title="高雄选战“知识蓝”对决“新潮流”，国民党能复制“韩流”吗？" data-date="11-18 00:25" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-18 00:25</span>
-          <span class="news-item-title">台湾高雄市选战：“知识蓝”柯志恩对决“新潮流”赖瑞隆，国民党有可能复制“韩流”吗？</span>
+          <span class="news-item-title">高雄选战“知识蓝”对决“新潮流”，国民党能复制“韩流”吗？</span>
         </a>
         <a class="news-item" href="https://www.ithome.com/1/028/564.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 18 日消息，在昨晚的巴黎发布会上，小米 18 Pro 系列手机国际版正式发布，把背屏设计带向海外，售价 1,399 欧元（IT之家注：现汇率约合 10,278 元人民币）起。小米 18 Pro（电池 6000mAh | 骁龙 8E6）12GB+256GB 规格：1,399 欧元（现汇率约合 10,278 元人民币）；12GB+512GB 规格：1,599 欧元（现汇率约合 11,748 元人民币）。小米 18 Pro Max（电池 7050mAh | 骁龙 8EE6）12GB+256GB 规格：1,599 欧元（现汇率约合 11,748 元人民币）；12GB+512GB 规格：1,799 欧元（现汇率约合 13,217 元人民币）；16GB+1TB 规格：2,099 欧" data-title="小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起" data-date="11-18 00:20" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -481,54 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-17 22:45</span>
           <span class="news-item-title">比亚迪王传福：只有可持续发展才能实现长期发展，“我赢你输”的路子走不远</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-17/10733788.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="深圳的土地面积在全国中大城市里面几乎是最小的，但它每平方公里单位电力负荷却又是全国最高的。2026年APEC领导人会议期间，重要会场、交通枢纽等场所实现100%绿电供应，这是如何做到的？超大城市能源保供、低碳实践正画出什么样的图景？" data-title="绿电点亮APEC会场 在深圳看见中国式现代化城市样本" data-date="11-17 22:28" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 22:28</span>
-          <span class="news-item-title">绿电点亮APEC会场 在深圳看见中国式现代化城市样本</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-17/10733787.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="亚太经合组织第三十三次领导人非正式会议即将在深圳举行。面对亚太向何处去的时代课题，各方期待中国理念、中国方案再次引领亚太合作航向，汇聚起推动区域发展的强大合力。会场筹备进展如何？本次会议有哪些核心看点？" data-title="APEC与会各经济体领导人将共商亚太发展大计" data-date="11-17 22:25" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 22:25</span>
-          <span class="news-item-title">APEC与会各经济体领导人将共商亚太发展大计</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733772.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网布鲁塞尔11月17日电 (记者 德永健)欧盟17日发布欧洲经济秋季展望报告，表示受商品出口强劲反弹等因素驱动，今年前三季度欧盟经济增长好于预期。" data-title="欧盟称今年前三季度经济增长好于预期" data-date="11-17 21:46" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 21:46</span>
-          <span class="news-item-title">欧盟称今年前三季度经济增长好于预期</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-17/10733736.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网雄安11月17日电 (李玉素 韩冰)17日，2026知识产权服务万里行“知识产权服务重点产业高质量发展暨科技成果赋智中小企业深度行”活动在河北雄安新区举行。" data-title="2026知识产权服务万里行雄安站活动举办" data-date="11-17 21:25" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 21:25</span>
-          <span class="news-item-title">2026知识产权服务万里行雄安站活动举办</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-17/10733734.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网丽水11月17日电(傅飞扬 朱慧 吴陈芊芊)连日来，浙江省丽水市庆元县百山祖镇斋郎村迎来高山花椰菜集中采收季。田垄间，绿叶簇拥着洁白紧实的花球，村民们弯腰采摘、分拣装筐，忙碌的身影随处可见。" data-title="（乡村行·看振兴）浙江庆元：花椰菜“长成”大产业 留守老人家门口增收" data-date="11-17 21:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 21:18</span>
-          <span class="news-item-title">（乡村行·看振兴）浙江庆元：花椰菜“长成”大产业 留守老人家门口增收</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-17/10733700.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社曼谷11月17日电 (王茜 李映民)泰国政府17日批准多项税收优惠措施，帮助受泰柬边境冲突及洪灾影响的民众减轻财产损失带来的经济负担。其中，符合条件的个人纳税人可按实际支出抵扣房屋维修费用，最高10万泰铢(约合2.2万元人民币)，车辆维修费用最高可抵扣3万泰铢。" data-title="泰国推出税收优惠措施帮助受边境局势及洪灾影响的民众" data-date="11-17 20:17" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-17 20:17</span>
-          <span class="news-item-title">泰国推出税收优惠措施帮助受边境局势及洪灾影响的民众</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/17/business/trump-xi-meeting-tensions.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="公开表达的友好态度与日益增加的贸易和投资限制形成鲜明对比，凸显出这两个经济体之间日益扩大的裂痕。" data-title="As Trump and Xi Mingle, Their Governments Are Arming Up" data-date="11-17 18:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-17 18:03</span>
-          <span class="news-item-title">As Trump and Xi Mingle, Their Governments Are Arming Up</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="台湾试图以企业家身份与科技优势扩大能见度，中国则以原则框架维持主导权。APEC作为平台，或许能让双方同时在场，但仍难以消弭两岸在全球外交参与的既有分歧。" data-title="APEC深圳峰会：赖清德派施振荣出席 台湾参会空间再成焦点" data-date="11-17 16:44" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-17 16:44</span>
-          <span class="news-item-title">APEC深圳峰会：赖清德派施振荣出席 台湾参会空间再成焦点</span>
-        </a>
   </div>
 </div>
 
@@ -542,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-18 05:08（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-18 17:21（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
