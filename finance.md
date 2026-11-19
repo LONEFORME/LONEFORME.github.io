@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">27,116.26</span>
-      <span class="ticker-change up">▲ +0.42%</span>
+      <span class="ticker-price ticker-up">27,254.56</span>
+      <span class="ticker-change up">▲ +0.51%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 09:24:41（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-20 00:44:39（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6681</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.6929</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:27:28（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:44:38（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,726.13 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +1.46 (+0.04%)</span>
+      <span class="ticker-price ticker-down">$3,688.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -35.97 (-0.97%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:27:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:44:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥802.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -8.17 (-1.01%)</span>
+      <span class="ticker-price ticker-down">¥795.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -6.31 (-0.79%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:44:34（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.83 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.12 (-0.13%)</span>
+      <span class="ticker-price ticker-up">$93.02 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +1.07 (+1.16%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:27:28（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:44:41（非实时）</div>
   </div>
 </div>
 
@@ -437,85 +437,67 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">13 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/029/547.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 19 日消息，大众集团旗下重生的美国汽车制造商 Scout 对即将推出的硬派越野新车 Traveler SUV 寄予厚望。新车计划推出最大功率达 800 马力的增程版，纯电基础版起售价也将低于 6 万美元（IT之家注：现汇率约合 40.1 万元人民币），未来甚至有望为奥迪打造豪华越野 SUV 提供平台。Scout Motors CEO 斯科特 · 基奥近日接受外媒 The Drive 采访时，介绍了新车的定价、性能，以及与大众集团其他品牌共享非承载式车身平台的可能性。Scout 此前的目标是，Traveler 起售价将接近 6 万美元。尽管面临成本上涨、关税和通胀压力，基奥仍坚持这一目标，强调原定价格“百分之百不变”，不加任何选装配置的基础版售价将低于 6 万美元。即使几" data-title="大众确认北美硬派越野 Scout 新车起售低于 6 万美元，满配 10 万美元左右" data-date="11-19 17:26" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-19 17:26</span>
-          <span class="news-item-title">大众确认北美硬派越野 Scout 新车起售低于 6 万美元，满配 10 万美元左右</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/029/545.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 19 日消息，奢侈品制造商 Caviar 现已推出“Most Wanted”（最高通缉）系列高定手机，可选苹果 iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo 和三星 Galaxy Z Fold8 Ultra ，每款机型全球限量 19 台，售价区间为 11,130 至 15,630 美元（IT之家注：现汇率约合 74,357 元至 10.4 万元人民币）。从外形和配色来看，这几台限量版手机显然是致敬了《GTA6》游戏。不过 Caviar 官方并不承认这一点，只是说“以迈阿密为原型打造”。其中，iPhone 18 Pro 和 18 Pro Max 可选粉色的“Neon Vice Edition”（霓虹罪恶）和黑金色的“Gangster" data-title="全球限量 19 台：Caviar 推出《GTA6》系列高定手机，可选苹果 iPhone Duo、三星 Galaxy Z Fold8 Ultra 等" data-date="11-19 17:20" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-19 17:20</span>
-          <span class="news-item-title">全球限量 19 台：Caviar 推出《GTA6》系列高定手机，可选苹果 iPhone Duo、三星 Galaxy Z Fold8 Ultra 等</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-19/10734746.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海11月19日电 (记者 王笈)19日，上海市文化创意产业推进领导小组办公室、中共上海市委宣传部、上海市经济和信息化委员会、上海市文化和旅游局、上海市国有资产监督管理委员会等五部门联合出台《上海市关于推动文化创意产业园区高质量发展的若干措施》(简称“园八条”)，推动文创园区从空间集聚转向生态赋能。" data-title="上海五部门联合印发“园八条” 文创园区迎来新一轮政策利好" data-date="11-19 17:15" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月19日电 亚太经合组织互联互通蓝图19日发布。蓝图强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。" data-title="（深圳APEC）亚太经合组织互联互通蓝图发布" data-date="11-19 23:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 17:15</span>
-          <span class="news-item-title">上海五部门联合印发“园八条” 文创园区迎来新一轮政策利好</span>
+          <span class="news-item-date">11-19 23:57</span>
+          <span class="news-item-title">（深圳APEC）亚太经合组织互联互通蓝图发布</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/029/539.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 19 日消息，据韩媒 Etnews 今天报道，随着 AI 智能眼镜作弊逐渐成为社会问题，韩国安防企业开始研发相关探测设备。据业内消息，韩国两家安防领域企业 K&amp;Us、Gison 正在开发用于查处智能眼镜作弊行为的无线电探测设备。其中，K&amp;Us 计划明年年初完成原型机开发。该设备能够分析蓝牙和 Wi-Fi 信号，识别疑似佩戴智能眼镜的人员。当监考人员打开探测仪并捕捉到可疑信号时，设备便会发出警报。Gison 则计划在现有无线电检测仪的基础上，开发出分析蓝牙、Wi-Fi 和移动数据的软件。该软件将通过增强现实（AR）技术对可疑无线电信号的位置进行可视化处理，帮助监考人员更轻松地找到相关设备。明年上半年，该公司还计划推出一款价格较低、可长期固定安装在考场内的专用设备。另一方面，" data-title="遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪" data-date="11-19 17:01" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-19 17:01</span>
-          <span class="news-item-title">遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="风险投资家兼彼得·蒂尔（Peter Thiel）的追随者吉姆·奥尼尔（Jim O’Neill）面临着两党对&lt;strong&gt;他是否会支持科学&lt;/strong&gt;的担忧。" data-title="Senator Bill Cassidy Blocks Trump Pick to Head Science Agency" data-date="11-19 04:41" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-19 04:41</span>
-          <span class="news-item-title">Senator Bill Cassidy Blocks Trump Pick to Head Science Agency</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734425.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦11月18日电 (记者 欧阳开宇)英国官方18日公布的数据显示，英国10月消费者价格指数(CPI)同比上涨3.6%，较9月3.5%的涨幅小幅抬升，创下一年以来通胀率最高水平。" data-title="英国10月通胀率升至一年来新高" data-date="11-18 23:32" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734981.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月19日电 综合消息：亚太经合组织(APEC)第三十三次领导人非正式会议18日至19日在中国深圳举行。多家外媒聚焦深圳科技创新与城市发展，关注会议释放的开放合作信号，认为维护贸易开放、深化区域合作、推动创新发展，仍是亚太经济体的共同关切。" data-title="（深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识" data-date="11-19 23:45" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 23:32</span>
-          <span class="news-item-title">英国10月通胀率升至一年来新高</span>
+          <span class="news-item-date">11-19 23:45</span>
+          <span class="news-item-title">（深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在加拿大总理本周与中国和菲律宾达成贸易成果之后，两国邻邦将举行双边会晤。" data-title="Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit" data-date="11-18 23:22" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-18 23:22</span>
-          <span class="news-item-title">Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues" target="_blank" rel="noopener" data-cat="caijing" data-summary="此外，去年从Rivian分拆出来的这家出行初创公司又遇到了新的障碍。由于一系列供应链难题以及制造未来主义产品的复杂性，该公司已经在为将首批电动自行车交付给客户而苦苦挣扎。" data-title="Rivian spinoff Also pauses e-bike deliveries over battery and software bugs" data-date="11-18 22:56" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-18 22:56</span>
-          <span class="news-item-title">Rivian spinoff Also pauses e-bike deliveries over battery and software bugs</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-18/10734416.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月18日电 题：中国为何支持成立世界湾区经济合作联盟？" data-title="（深圳APEC）中国为何支持成立世界湾区经济合作联盟？" data-date="11-18 22:42" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734961.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月19日电 2026年亚太经合组织领导人深圳展望19日发布。展望重申，亚太经合组织是区域经济合作的首要平台，将遵循自主自愿、非约束性和协商一致的合作原则，致力于将亚太经合组织打造成一个更加现代、高效、务实的理念孵化器。" data-title="（深圳APEC）2026年亚太经合组织领导人深圳展望发布" data-date="11-19 22:37" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 22:42</span>
-          <span class="news-item-title">（深圳APEC）中国为何支持成立世界湾区经济合作联盟？</span>
+          <span class="news-item-date">11-19 22:37</span>
+          <span class="news-item-title">（深圳APEC）2026年亚太经合组织领导人深圳展望发布</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734303.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月18日电 综合报道，澳大利亚总理阿尔巴尼斯18日在社交媒体发文称，中国是澳大利亚最大的贸易伙伴，他期待在深圳为澳企创造更多机遇。" data-title="澳大利亚总理：中国是澳方最大贸易伙伴，期待在深圳为澳企创造更多机遇" data-date="11-18 19:37" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734948.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月19日电 (记者 刘文文)11月的深圳，入夜微凉，盐田港灯火如昼，一派繁忙景象。作为全球单体规模最大的集装箱码头之一，这里每周有53条直通亚太经合组织(APEC)成员经济体的航线。中国的新能源汽车、照相机由此出海，马来西亚榴莲、智利车厘子跨海而来。在亚太地区，类似的航程每时每刻都在发生。彼此相连，也意味着休戚与共。" data-title="（深圳APEC）以船为喻，中国向亚太发出“同舟之约”" data-date="11-19 22:25" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 19:37</span>
-          <span class="news-item-title">澳大利亚总理：中国是澳方最大贸易伙伴，期待在深圳为澳企创造更多机遇</span>
+          <span class="news-item-date">11-19 22:25</span>
+          <span class="news-item-title">（深圳APEC）以船为喻，中国向亚太发出“同舟之约”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734301.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月18日电 综合报道，新加坡总理黄循财18日在社交媒体上发文称，他到中国深圳出席亚太经济合作组织(APEC)领导人非正式会议，并称期待与有关方展开富有成效的讨论。" data-title="新加坡总理发文称赞深圳的变化令人瞩目，期待在APEC会议与各方交流" data-date="11-18 19:35" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口11月19日电 (贾浪博)琼州海峡智能航运示范工程启动仪式19日在海口举行，标志着琼州海峡智能航运建设迈入实质推进阶段。" data-title="琼州海峡智能航运示范工程在海口启动" data-date="11-19 22:01" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 19:35</span>
-          <span class="news-item-title">新加坡总理发文称赞深圳的变化令人瞩目，期待在APEC会议与各方交流</span>
+          <span class="news-item-date">11-19 22:01</span>
+          <span class="news-item-title">琼州海峡智能航运示范工程在海口启动</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734261.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网土耳其安塔利亚11月18日电 (记者 王高飞 陈溯)《联合国气候变化框架公约》第三十一次缔约方大会(COP31)正在土耳其安塔利亚举行。COP31观察员、全球环境中心(Global Environment Centre，GEC)专家Yannick Matz当地时间17日接受中新社记者专访时表示，中国在绿色金融领域相当活跃，不仅推动绿色金融纳入全球议程，且相关开创性实践“可圈可点”。" data-title="全球环境中心专家：中国绿色金融领域相当活跃，作出开创性实践" data-date="11-18 18:45" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社首尔11月19日电(金旭 林珺)韩国大法院(最高法院)19日就韩国前总统尹锡悦妻子金建希涉嫌操纵股价、收受贿赂等案件作出终审判决，判处其有期徒刑4年，并处罚金5000万韩元(约合人民币25万元)。这是韩国最高法院首次就金建希相关案件作出裁定。" data-title="韩国前第一夫人金建希首案终审被判有期徒刑4年" data-date="11-19 21:54" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 18:45</span>
-          <span class="news-item-title">全球环境中心专家：中国绿色金融领域相当活跃，作出开创性实践</span>
+          <span class="news-item-date">11-19 21:54</span>
+          <span class="news-item-title">韩国前第一夫人金建希首案终审被判有期徒刑4年</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-18/10734252.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社东京11月18日电 (记者 朱晨曦)日本财务省18日公布的贸易统计结果显示，受原油等商品进口成本上涨影响，日本10月贸易逆差达4765亿日元(1美元约合157.84日元)，为连续第6个月出现贸易逆差。" data-title="日本连续第6个月出现贸易逆差" data-date="11-18 18:28" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-19/10734943.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国日报网11月19日电 山河更迭，风雅长存。11月19日，“何以中国·诗词里的千年文脉”网络主题宣传活动于古都西安启幕。纵使时代千帆竞发、科技日新月异，古典诗词始终沉淀着华夏儿女的家国情怀与人生哲思，是镌刻民族风骨的精神根脉。千年长安承唐风诗韵，以全域深耕的文化建设，探寻古典文脉古今赓续的新生之路。" data-title="何以中国｜唐韵润古邑 诗脉续长安" data-date="11-19 21:47" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-18 18:28</span>
-          <span class="news-item-title">日本连续第6个月出现贸易逆差</span>
+          <span class="news-item-date">11-19 21:47</span>
+          <span class="news-item-title">何以中国｜唐韵润古邑 诗脉续长安</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="会后发表的中俄美元首和平宣言显示，三国领导人承诺就“减少核风险、防止核扩散”展开对话，并就联合国改革、能源稳定和国际刑事法院管辖权等议题达成四点共识。" data-title="中美俄“三巨头”峰会结束：涉及乌克兰、伊朗议题，发表和平宣言承诺核对话" data-date="11-19 20:22" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-19 20:22</span>
+          <span class="news-item-title">中美俄“三巨头”峰会结束：涉及乌克兰、伊朗议题，发表和平宣言承诺核对话</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734799.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社首尔11月19日电(记者 金旭)韩国产业通商资源部19日表示，韩国2026年累计出口额初步统计已超过1万亿美元(约合人民币6.7万亿元)，成为继美国、德国和中国之后，全球第四个实现年度出口额突破1万亿美元的国家。" data-title="韩国2026年累计出口额突破1万亿美元大关" data-date="11-19 18:35" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-19 18:35</span>
+          <span class="news-item-title">韩国2026年累计出口额突破1万亿美元大关</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734718.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉11月19日电(记者 周璟)菲律宾大气地球物理天文局表示，菲律宾13个地区18日出现危险级别高温指数，局地高温指数达到44摄氏度。" data-title="菲律宾多地高温指数达危险级别 局地达44摄氏度" data-date="11-19 17:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-19 17:44</span>
+          <span class="news-item-title">菲律宾多地高温指数达危险级别 局地达44摄氏度</span>
         </a>
   </div>
 </div>
@@ -530,4 +512,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-19 17:35（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-20 00:42（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
