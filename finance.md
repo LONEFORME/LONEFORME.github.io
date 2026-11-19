@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,587.83</span>
-      <span class="ticker-change up">▲ +0.09%</span>
+      <span class="ticker-price ticker-down">3,558.21</span>
+      <span class="ticker-change down">▼ -0.83%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:35:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:28:59（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">10,659.41</span>
-      <span class="ticker-change up">▲ +0.20%</span>
+      <span class="ticker-price ticker-down">10,545.39</span>
+      <span class="ticker-change down">▼ -1.07%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:00:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:29:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">2,311.62</span>
-      <span class="ticker-change up">▲ +0.85%</span>
+      <span class="ticker-price ticker-down">2,284.59</span>
+      <span class="ticker-change down">▼ -1.17%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:00:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:29:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,247.99</span>
-      <span class="ticker-change up">▲ +2.19%</span>
+      <span class="ticker-price ticker-down">1,236.37</span>
+      <span class="ticker-change down">▼ -0.93%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-18 15:35:41（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:29:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,736.33</span>
-      <span class="ticker-change down">▼ -0.58%</span>
+      <span class="ticker-price ticker-down">3,652.25</span>
+      <span class="ticker-change down">▼ -2.25%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">27,090.21</span>
-      <span class="ticker-change up">▲ +0.33%</span>
+      <span class="ticker-price ticker-up">27,116.26</span>
+      <span class="ticker-change up">▲ +0.42%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 04:46:49（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 06:30:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6690</span>
-      <span class="ticker-change up">▲ +0 bp</span>
+      <span class="ticker-price ticker-down">6.6666</span>
+      <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:46:48（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 10:28:56（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,731.29 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -117.88 (-3.06%)</span>
+      <span class="ticker-price ticker-up">$3,747.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +22.73 (+0.61%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:46:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 10:28:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥804.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -5.67 (-0.70%)</span>
+      <span class="ticker-price ticker-down">¥805.17 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -5.00 (-0.62%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:29:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 10:29:02（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">23,294.75</span>
-      <span class="ticker-change down">▼ -0.91%</span>
+      <span class="ticker-price ticker-down">22,928.47</span>
+      <span class="ticker-change down">▼ -1.57%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.61 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.53 (-1.64%)</span>
+      <span class="ticker-price ticker-up">$92.24 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.29 (+0.32%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:46:49（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 10:29:09（非实时）</div>
   </div>
 </div>
 
