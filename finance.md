@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,558.21</span>
-      <span class="ticker-change down">▼ -0.83%</span>
+      <span class="ticker-price ticker-down">3,577.62</span>
+      <span class="ticker-change down">▼ -0.28%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:28:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 15:35:57（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">10,545.39</span>
-      <span class="ticker-change down">▼ -1.07%</span>
+      <span class="ticker-price ticker-down">10,583.20</span>
+      <span class="ticker-change down">▼ -0.71%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:29:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">2,284.59</span>
-      <span class="ticker-change down">▼ -1.17%</span>
+      <span class="ticker-price ticker-down">2,293.34</span>
+      <span class="ticker-change down">▼ -0.79%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:29:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,236.37</span>
-      <span class="ticker-change down">▼ -0.93%</span>
+      <span class="ticker-price ticker-up">1,270.78</span>
+      <span class="ticker-change up">▲ +1.83%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 10:29:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 15:35:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,652.25</span>
-      <span class="ticker-change down">▼ -2.25%</span>
+      <span class="ticker-price ticker-down">3,649.14</span>
+      <span class="ticker-change down">▼ -2.33%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -105,7 +105,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-19 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-19 09:24:41（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6666</span>
+      <span class="ticker-price ticker-down">6.6670</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:28:56（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:37:37（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,747.40 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +22.73 (+0.61%)</span>
+      <span class="ticker-price ticker-up">$3,733.92 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +9.25 (+0.25%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:28:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:37:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥805.17 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -5.00 (-0.62%)</span>
+      <span class="ticker-price ticker-down">¥802.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -8.17 (-1.01%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:29:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 15:30:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">22,928.47</span>
-      <span class="ticker-change down">▼ -1.57%</span>
+      <span class="ticker-price ticker-down">22,841.62</span>
+      <span class="ticker-change down">▼ -1.95%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$92.24 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.29 (+0.32%)</span>
+      <span class="ticker-price ticker-down">$91.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.15 (-0.16%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:29:09（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:37:50（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">13 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/029/547.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 19 日消息，大众集团旗下重生的美国汽车制造商 Scout 对即将推出的硬派越野新车 Traveler SUV 寄予厚望。新车计划推出最大功率达 800 马力的增程版，纯电基础版起售价也将低于 6 万美元（IT之家注：现汇率约合 40.1 万元人民币），未来甚至有望为奥迪打造豪华越野 SUV 提供平台。Scout Motors CEO 斯科特 · 基奥近日接受外媒 The Drive 采访时，介绍了新车的定价、性能，以及与大众集团其他品牌共享非承载式车身平台的可能性。Scout 此前的目标是，Traveler 起售价将接近 6 万美元。尽管面临成本上涨、关税和通胀压力，基奥仍坚持这一目标，强调原定价格“百分之百不变”，不加任何选装配置的基础版售价将低于 6 万美元。即使几" data-title="大众确认北美硬派越野 Scout 新车起售低于 6 万美元，满配 10 万美元左右" data-date="11-19 17:26" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-19 17:26</span>
+          <span class="news-item-title">大众确认北美硬派越野 Scout 新车起售低于 6 万美元，满配 10 万美元左右</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/029/545.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 19 日消息，奢侈品制造商 Caviar 现已推出“Most Wanted”（最高通缉）系列高定手机，可选苹果 iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo 和三星 Galaxy Z Fold8 Ultra ，每款机型全球限量 19 台，售价区间为 11,130 至 15,630 美元（IT之家注：现汇率约合 74,357 元至 10.4 万元人民币）。从外形和配色来看，这几台限量版手机显然是致敬了《GTA6》游戏。不过 Caviar 官方并不承认这一点，只是说“以迈阿密为原型打造”。其中，iPhone 18 Pro 和 18 Pro Max 可选粉色的“Neon Vice Edition”（霓虹罪恶）和黑金色的“Gangster" data-title="全球限量 19 台：Caviar 推出《GTA6》系列高定手机，可选苹果 iPhone Duo、三星 Galaxy Z Fold8 Ultra 等" data-date="11-19 17:20" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-19 17:20</span>
+          <span class="news-item-title">全球限量 19 台：Caviar 推出《GTA6》系列高定手机，可选苹果 iPhone Duo、三星 Galaxy Z Fold8 Ultra 等</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-19/10734746.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网上海11月19日电 (记者 王笈)19日，上海市文化创意产业推进领导小组办公室、中共上海市委宣传部、上海市经济和信息化委员会、上海市文化和旅游局、上海市国有资产监督管理委员会等五部门联合出台《上海市关于推动文化创意产业园区高质量发展的若干措施》(简称“园八条”)，推动文创园区从空间集聚转向生态赋能。" data-title="上海五部门联合印发“园八条” 文创园区迎来新一轮政策利好" data-date="11-19 17:15" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-19 17:15</span>
+          <span class="news-item-title">上海五部门联合印发“园八条” 文创园区迎来新一轮政策利好</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/029/539.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 19 日消息，据韩媒 Etnews 今天报道，随着 AI 智能眼镜作弊逐渐成为社会问题，韩国安防企业开始研发相关探测设备。据业内消息，韩国两家安防领域企业 K&amp;Us、Gison 正在开发用于查处智能眼镜作弊行为的无线电探测设备。其中，K&amp;Us 计划明年年初完成原型机开发。该设备能够分析蓝牙和 Wi-Fi 信号，识别疑似佩戴智能眼镜的人员。当监考人员打开探测仪并捕捉到可疑信号时，设备便会发出警报。Gison 则计划在现有无线电检测仪的基础上，开发出分析蓝牙、Wi-Fi 和移动数据的软件。该软件将通过增强现实（AR）技术对可疑无线电信号的位置进行可视化处理，帮助监考人员更轻松地找到相关设备。明年上半年，该公司还计划推出一款价格较低、可长期固定安装在考场内的专用设备。另一方面，" data-title="遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪" data-date="11-19 17:01" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-19 17:01</span>
+          <span class="news-item-title">遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="风险投资家兼彼得·蒂尔（Peter Thiel）的追随者吉姆·奥尼尔（Jim O’Neill）面临着两党对&lt;strong&gt;他是否会支持科学&lt;/strong&gt;的担忧。" data-title="Senator Bill Cassidy Blocks Trump Pick to Head Science Agency" data-date="11-19 04:41" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -506,4 +530,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-19 04:45（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-19 17:35（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
