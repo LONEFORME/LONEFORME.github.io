@@ -1,5 +1,71 @@
 [
   {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "title_zh": "正在发酵的黄仁勋丑闻：时间线",
+    "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "date": "2026-11-20",
+    "published_time": "04:18",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。",
+    "published_dt_iso": "2026-11-20T04:18:49+08:00"
+  },
+  {
+    "title": "Anthropic’s IPO could deliver $156 billion to charity",
+    "title_zh": "Anthropic的IPO可能为慈善事业带来1560亿美元",
+    "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+    "date": "2026-11-20",
+    "published_time": "03:10",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "当股价为95美元时，Frontier Lab的公益基金会、其员工捐款以及公司的配捐总额高达1560亿美元。",
+    "published_dt_iso": "2026-11-20T03:10:45+08:00"
+  },
+  {
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "title_zh": "Google让Gemini能够代您使用Mac",
+    "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "date": "2026-11-20",
+    "published_time": "02:09",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Google 对 Gemini 的最新更新为 Mac 带来了 AI 代理，它可以整理文件、填写表单并处理多步工作流程。",
+    "published_dt_iso": "2026-11-20T02:09:11+08:00"
+  },
+  {
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "title_zh": "据报道，Meta的AI代理Muse正在混淆对话，并可能泄露私人数据",
+    "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "date": "2026-11-20",
+    "published_time": "01:38",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "在其中一些情况下，员工表示Muse显示了他们从未提出的托儿申请、他们从未征询的职业建议、他们从未下过的产品订单以及不属于他们的银行账户余额。",
+    "published_dt_iso": "2026-11-20T01:38:40+08:00"
+  },
+  {
+    "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+    "title_zh": "前阿里巴巴高管的Everful筹集4850万美元，旨在将零售商与中国工厂联系起来",
+    "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+    "date": "2026-11-20",
+    "published_time": "01:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Everful已筹集4850万美元，用于拓展其工厂直采平台，帮助零售商从海外制造商处采购产品。",
+    "published_dt_iso": "2026-11-20T01:00:00+08:00"
+  },
+  {
+    "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+    "title_zh": "Anthropic在纳斯达克交易所上市，股价为111美元，比IPO价格高出33%",
+    "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+    "date": "2026-11-20",
+    "published_time": "00:59",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Anthropic的IPO价格定为83美元，这意味着将筹集超过800亿美元的新资本。",
+    "published_dt_iso": "2026-11-20T00:59:23+08:00"
+  },
+  {
     "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
     "title_zh": "在纳斯达克开市钟声响起之际，Anthropic首席执行官再次承诺稳步推进人工智能发展",
     "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
@@ -20,72 +86,6 @@
     "feed_name": "TechCrunch(AI模型)",
     "summary": "Anthropic在上市之际面临着巨大的算力承诺，但即使Anthropic失去领先地位，其最大的基础设施合作伙伴（包括亚马逊和谷歌）仍可能继续从人工智能中获利。",
     "published_dt_iso": "2026-11-19T22:54:39+08:00"
-  },
-  {
-    "title": "Superhuman pushes its Go assistant everywhere",
-    "title_zh": "Superhuman 将其 Go 助手推广到各个角落",
-    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-    "date": "2026-11-19",
-    "published_time": "22:00",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "Superhuman 正在将 Go 打造成其核心代理，并使其在 Docs 和 Mail 中可用",
-    "published_dt_iso": "2026-11-19T22:00:00+08:00"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-    "title_zh": "微软首席执行官萨蒂亚·纳德拉解释了他为何要求6万名员工离职",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-    "date": "2026-11-19",
-    "published_time": "08:42",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）解释了他为何在10月份向6万名员工提供买断方案，实质上是敦促他们自愿离职，而不是通过另一次大规模裁员来削减员工队伍。简短的答案是人工智能，但不是以",
-    "published_dt_iso": "2026-11-19T08:42:56+08:00"
-  },
-  {
-    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-    "title_zh": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”",
-    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-    "date": "2026-11-19",
-    "published_time": "07:45",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "微软首席执行官淡化了最近的Outlook服务中断事件，同时指出，人工智能既为保障大部分互联世界带来了机遇，也带来了新的挑战。",
-    "published_dt_iso": "2026-11-19T07:45:00+08:00"
-  },
-  {
-    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-    "title_zh": "埃隆·马斯克表示，罢免黄仁勋就像“把迈克尔·乔丹踢出你的球队”",
-    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-    "date": "2026-11-19",
-    "published_time": "07:25",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "“我不认为[黄仁勋]对美国不忠。”马斯克说。",
-    "published_dt_iso": "2026-11-19T07:25:17+08:00"
-  },
-  {
-    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-    "title_zh": "黄仁勋离职后，微软首席执行官萨蒂亚·纳德拉（Satya Nadella）仍对英伟达充满信心",
-    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-    "date": "2026-11-19",
-    "published_time": "07:17",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）对黄仁勋的继任者科莱特·克雷斯（Colette Kress）表示有信心，后者目前担任英伟达的临时首席执行官。",
-    "published_dt_iso": "2026-11-19T07:17:28+08:00"
-  },
-  {
-    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "title_zh": "萨蒂亚·纳德拉预测，人工智能代理将重塑互联网经济",
-    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-    "date": "2026-11-19",
-    "published_time": "06:58",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "微软首席执行官表示，人工智能代理可能会颠覆以广告为驱动的商业模式，迫使亚马逊等公司重新思考如何争夺客户。",
-    "published_dt_iso": "2026-11-19T06:58:11+08:00"
   },
   {
     "title": "Intel continues layoffs with cuts to its IT department, hundreds of employees reportedly affected",
@@ -176,92 +176,92 @@
     "published_dt_iso": "2026-11-19T19:11:29+08:00"
   },
   {
-    "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
-    "title_zh": "微软正在弃用其出色的任务应用，转而使用更差的任务应用",
-    "link": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
+    "title": "Meta’s Muse Charm might cost $300",
+    "title_zh": "Meta 的 Muse 智能眼镜可能售价 300 美元",
+    "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
     "date": "2026-11-20",
-    "published_time": "00:28",
+    "published_time": "04:22",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "2015年，微软收购了一款名为Wunderlist的待办事项应用，传闻收购价格高达2亿美元。Wunderlist的粉丝们担心微软会让他们心爱的应用变得毫无生气、过于商业化，或者更糟的是，把它藏在一些复杂的",
-    "published_dt_iso": "2026-11-20T00:28:12+08:00"
+    "summary": "据《The Information》报道，Meta计划将Muse Charm的售价定为300美元。Muse Charm是一款带屏幕的小型设备，可让您与Muse AI智能助手聊天。首席执行官马克·扎克伯格今年早些时候展示了这款小工具，并表示公司预计将发货。",
+    "published_dt_iso": "2026-11-20T04:22:17+08:00"
   },
   {
-    "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
-    "title_zh": "黑色星期五期间，您只需2.99美元即可订阅Paramount Plus两个月",
-    "link": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+    "title": "Google is putting AI chats right on the homepage",
+    "title_zh": "谷歌正在将AI聊天功能直接置于主页上",
+    "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
     "date": "2026-11-20",
-    "published_time": "00:15",
+    "published_time": "04:05",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "在黑色星期五之前，您只需每月 $2.99 即可订阅 Paramount Plus，前两个月享受此优惠价格。优惠期结束后，您可以取消订阅，也可以按当时的费率自动续订，目前该费率为 $8.99。",
-    "published_dt_iso": "2026-11-20T00:15:01+08:00"
+    "summary": "Google 正在更新其主页，以纳入 AI 搜索功能。在X上的一篇帖子中，谷歌产品副总裁Robby Stein展示了如何打开可折叠的侧边栏，以查看并继续您的AI聊天。根据斯坦分享的GIF图，看起来……",
+    "published_dt_iso": "2026-11-20T04:05:06+08:00"
   },
   {
-    "title": "JPMorgan Chase reveals data breach, but says it’s unrelated to this week’s banking outage",
-    "title_zh": "摩根大通披露数据泄露事件，但表示与本周的银行系统中断无关",
-    "link": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+    "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+    "title_zh": "美国联邦通信委员会（FCC）批准允许监狱屏蔽手机信号的规定",
+    "link": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
     "date": "2026-11-20",
-    "published_time": "00:14",
+    "published_time": "03:40",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "摩根大通表示，其第三方供应商遭遇网络攻击，导致客户姓名和电子邮件地址等营销数据泄露。这一确认是在Cybernews的一篇报道之后发布的，该报道称，一个勒索软件团伙泄露了属于……的电子邮件地址。",
-    "published_dt_iso": "2026-11-20T00:14:23+08:00"
+    "summary": "美国联邦通信委员会（FCC）一致投票通过，允许州立和地方监狱干扰手机信号。FCC在周四的公告中表示，该规定将有助于打击用于在监狱中实施犯罪的“违禁手机大量涌入”现象。",
+    "published_dt_iso": "2026-11-20T03:40:28+08:00"
   },
   {
-    "title": "The Verge’s 2026 fitness and wellness gift guide",
-    "title_zh": "The Verge的2026年健身和健康礼品指南",
-    "link": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
+    "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+    "title_zh": "索尼WH-1000XM5在黑色星期五期间比以往任何时候都便宜",
+    "link": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
     "date": "2026-11-20",
-    "published_time": "00:00",
+    "published_time": "03:35",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "在更加关注自身健康和健身方面，我们都需要一些帮助。节假日为我们提供了许多关注身心健康的理由，而一份好的礼物恰好可以激发新的爱好或支持健康习惯。",
-    "published_dt_iso": "2026-11-20T00:00:00+08:00"
+    "summary": "在我那个年代，“开门抢购”促销活动只在实体零售店进行。但现在，无论您是想在实体店还是网上购物，都可以在黑色星期五之前享受超低价。其中一款引人注目的产品是上一代索尼 WH-1000XM5 降噪耳机。",
+    "published_dt_iso": "2026-11-20T03:35:52+08:00"
   },
   {
-    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
-    "title_zh": "现在，ChatGPT 可以使用实时听写功能为您转录语音",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-    "date": "2026-11-19",
-    "published_time": "23:16",
+    "title": "You can now buy a Steam Machine without getting on a waitlist",
+    "title_zh": "您现在可以购买Steam Machine，无需加入等候名单",
+    "link": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+    "date": "2026-11-20",
+    "published_time": "03:33",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "现在，ChatGPT 可以更快地接收来自麦克风的语音提示，因为实时听写功能可以在您说话时进行转录，而不是等到您完成录音。该功能现已在全球范围内在网页版、桌面版应用的所有ChatGPT套餐中推出，",
-    "published_dt_iso": "2026-11-19T23:16:45+08:00"
+    "summary": "Valve今天宣布了有关Steam Machine供应情况的一些最新消息，其中包括如果您想立即购买一台的好消息，以及由于RAMaggedon（内存危机）而可能出现的未来供应坏消息。好消息是：您现在可以购买512GB的Steam Machine，无需",
+    "published_dt_iso": "2026-11-20T03:33:22+08:00"
   },
   {
-    "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-    "title_zh": "硅谷是如何失去公众支持的，Crooked Media的Jon Favreau为您揭秘",
-    "link": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
-    "date": "2026-11-19",
-    "published_time": "23:00",
+    "title": "Some creators are skeptical of Instagram’s new affiliate program",
+    "title_zh": "一些创作者对 Instagram 的新联盟计划持怀疑态度",
+    "link": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+    "date": "2026-11-20",
+    "published_time": "03:12",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "今天，我将与政治评论员兼 Crooked Media 联合创始人 Jon Favreau 对话。您可能最熟悉的是 Jon 主持的一档名为《Pod Save America》的小节目，这是 Jon 在唐纳德·特朗普当选总统后与一群奥巴马政府的同事一起创办的。",
-    "published_dt_iso": "2026-11-19T23:00:00+08:00"
+    "summary": "多年来，网红们一直在社交媒体上想方设法地寻找与粉丝分享联盟营销链接的变通方案。本月早些时候，Instagram 和亚马逊宣布了一项新的整合，旨在为网红提供便利。",
+    "published_dt_iso": "2026-11-20T03:12:30+08:00"
   },
   {
-    "title": "The Analogue 3D can now update itself over Wi",
-    "title_zh": "Analogue 3D 现在可以通过 Wi-Fi 自行更新",
-    "link": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-    "date": "2026-11-19",
-    "published_time": "22:32",
+    "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+    "title_zh": "Sonos现正推出音箱和条形音箱最高七折优惠",
+    "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+    "date": "2026-11-20",
+    "published_time": "02:33",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "Analogue 一直擅长通过定期固件更新来扩展其游戏机的特性和功能，但安装这些更新始终需要使用存储卡来移动文件。Analogue 现在不再是这样了。",
-    "published_dt_iso": "2026-11-19T22:32:33+08:00"
+    "summary": "Sonos音箱和条形音箱并不算便宜，但幸运的是，该公司的黑色星期五促销活动已经开始，截至11月30日，所有产品都变得更加实惠。最值得一提的是，您可以以史低价入手Arc Ultra条形音箱。",
+    "published_dt_iso": "2026-11-20T02:33:08+08:00"
   },
   {
-    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-    "title_zh": "随着有史以来规模最大的IPO即将到来，Anthropic的“好人”声誉岌岌可危",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-    "date": "2026-11-19",
-    "published_time": "22:25",
+    "title": "Gemini on Mac can now use your computer",
+    "title_zh": "Mac 版 Gemini 现在可以使用您的电脑了",
+    "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+    "date": "2026-11-20",
+    "published_time": "02:21",
     "source": "The Verge",
     "feed_name": "The Verge(科技)",
-    "summary": "今天是Anthropic的一个新起点：经过多年筹备的IPO超越了SpaceX，成为有史以来市值最高的新上市公司，募资额达813亿美元，为其他即将上市的人工智能实验室树立了重要先例。但这不仅仅是财务上的事情。",
-    "published_dt_iso": "2026-11-19T22:25:37+08:00"
+    "summary": "Google 表示，适用于 macOS 的 Gemini 应用现已具备计算机使用功能，这意味着它可以帮助您“在本地文件、桌面应用和网络上完成多步任务”。Google表示，该功能可能有助于加快工作进度等。",
+    "published_dt_iso": "2026-11-20T02:21:13+08:00"
   },
   {
     "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
@@ -352,6 +352,17 @@
     "published_dt_iso": "2026-11-19T08:26:40+08:00"
   },
   {
+    "title": "Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/029/744.htm",
+    "date": "2026-11-20",
+    "published_time": "01:43",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 11 月 20 日消息，Counterpoint Research 2026 年第三季度智能手机市场监测报告显示，欧洲智能手机市场出货量同比下滑 18%，创下超过 13 年以来的最低季度总量。报告指出，上游零部件成本大幅攀升推动终端设备售价上涨，各厂商同步缩减促销力度，叠加宏观经济环境疲软持续压制消费者需求，是本季度欧洲市场大幅下滑的核心原因。IT之家从报告获悉，Counterpoint 副总监 Jan Stryjak 表示，尽管本季度欧洲市场有多款重磅新品发布，但整体经营环境依然严峻。三星推出的“护照级尺寸”Galaxy Z Fold8 是西欧有史以来销量最快的折叠屏机型，但该机型的亮眼表现无法抵消 Galaxy A 系列等中低端产品线的疲软；苹果则发布了品牌首款折叠屏产品 iP",
+    "published_dt_iso": "2026-11-20T01:43:34+08:00"
+  },
+  {
     "title": "Epic 喜加一：《深渊之印》免费领取",
     "title_zh": "",
     "link": "https://www.ithome.com/1/029/710.htm",
@@ -429,15 +440,15 @@
     "published_dt_iso": "2026-11-19T23:05:16+08:00"
   },
   {
-    "title": "吴泳铭：阿里“2032 年全球数据中心规模超 20GW”目标或下调",
-    "title_zh": "",
-    "link": "https://www.ithome.com/1/029/702.htm",
-    "date": "2026-11-19",
-    "published_time": "23:03",
-    "source": "IT之家",
-    "feed_name": "IT之家(数码芯片)",
-    "summary": "IT之家 11 月 19 日消息，据蓝鲸新闻报道，在阿里巴巴今天（19 日）召开的 2027 财年第二季度业绩电话会上，阿里巴巴集团 CEO 吴泳铭表示，全球各个区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。吴泳铭透露，根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20GW 的目标有可能下调，资本开支可能有一定程度降低。同时，阿里将在国产算力及相关供应链上投入更积极，推进整体计划。基于平头哥的算力供应链持续放量节奏，2027 年和 2028 年上半年将是阿里最大的一个持续投资阶段。吴泳铭另表示，对于长期的现金流规划非常有信心。据IT之家此前报道，吴泳铭表示，2027 年和 2028 年，将是中国算力最紧缺的两年。2027 年以后，阿里云的芯片供",
-    "published_dt_iso": "2026-11-19T23:03:58+08:00"
+    "title": "Frank happy to be 'back in the circus' at Palace",
+    "title_zh": "弗兰克很高兴“重返帕拉蒂的舞台”",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cje3900n0vvro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20",
+    "published_time": "04:16",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "托马斯·弗兰克在以水晶宫主帅身份首次出席新闻发布会后表示，很高兴“重回江湖”。",
+    "published_dt_iso": "2026-11-20T04:16:10+08:00"
   },
   {
     "title": "Premier League clubs to cover legal costs if Man City sponsors sue",
@@ -473,6 +484,17 @@
     "published_dt_iso": "2026-11-19T15:14:11+08:00"
   },
   {
+    "title": "Sutton's predictions v world champion boxer Lauren Price",
+    "title_zh": "萨顿的预测与世界冠军拳手劳伦·普莱斯",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-20",
+    "published_time": "02:52",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "BBC体育足球专家克里斯·萨顿（Chris Sutton）将与世界冠军拳击手劳伦·普莱斯（Lauren Price）、BBC读者以及人工智能一较高下，预测本周末英超联赛的赛果。",
+    "published_dt_iso": "2026-11-20T02:52:00+08:00"
+  },
+  {
     "title": "The tightest survival scrap for years? Why it's not too early to worry",
     "title_zh": "多年来最激烈的保级大战？为什么现在担心并不为时过早",
     "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgp36z063o?at_medium=RSS&at_campaign=rss",
@@ -506,114 +528,92 @@
     "published_dt_iso": "2026-11-17T14:15:43+08:00"
   },
   {
-    "title": "Madrid-bound Gabriel posts farewell Man Utd message",
-    "title_zh": "即将加盟皇马的加布里埃尔发布告别曼联的讯息",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-18",
-    "published_time": "03:35",
-    "source": "BBC",
-    "feed_name": "BBC 英超专栏",
-    "summary": "在准备可能转会至皇家马德里之际，小将加布里埃尔发布了告别信息，表示曼联将永远是他故事的一部分。",
-    "published_dt_iso": "2026-11-18T03:35:06+08:00"
+    "title": "FIA to introduce full",
+    "title_zh": "国际汽联将推出全套",
+    "link": "https://www.skysports.com/f1/news/12040/13614150/fia-announce-introduction-of-full-time-f1-stewards-from-2027-ahead-of-las-vegas-grand-prix",
+    "date": "2026-11-20",
+    "published_time": "04:37",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "国际汽联（FIA）宣布，从2027年起将引入全职F1赛事干事，旨在“使决策更加一致”。",
+    "published_dt_iso": "2026-11-20T04:37:00+08:00"
   },
   {
-    "title": "Hincapie in advanced talks over new Arsenal deal",
-    "title_zh": "欣卡皮耶正在就与阿森纳的新合同进行深入谈判",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-17",
-    "published_time": "21:09",
-    "source": "BBC",
-    "feed_name": "BBC 英超专栏",
-    "summary": "阿森纳正与后卫皮耶罗·因卡皮耶就新合同进行深入谈判。",
-    "published_dt_iso": "2026-11-17T21:09:23+08:00"
+    "title": "WCL: Dominant Lyon take the lead at Arsenal through Brand LIVE!",
+    "title_zh": "WCL：里昂占据主导，通过布兰德的进球在阿森纳取得领先！",
+    "link": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/live/578272",
+    "date": "2026-11-20",
+    "published_time": "03:03",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-20T03:03:00+08:00"
   },
   {
-    "title": "Draper hires new coach to work alongside Murray for upcoming season",
-    "title_zh": "德雷珀聘请新教练，与穆雷搭档备战新赛季",
-    "link": "https://www.skysports.com/tennis/live-blog/12040/13523297/jack-draper-tennis-results-next-match-news-ranking-video-and-how-to-watch-on-sky-sports-tennis",
+    "title": "Mardle: The Worlds is now the 'incentive' for Littler",
+    "title_zh": "马德尔：世锦赛现在是利特勒的“激励”",
+    "link": "https://www.skysports.com/darts/news/12040/13613983/the-world-darts-championship-is-now-the-incentive-for-luke-littler-after-grand-slam-of-darts-loss-says-wayne-mardle",
+    "date": "2026-11-20",
+    "published_time": "03:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "在飞镖大满贯赛的16强阶段，卢克·利特勒（Luke Littler）爆冷以10-8不敌杰尔梅恩·瓦蒂梅纳（Jermaine Wattimena）。天空体育飞镖频道的韦恩·马德尔（Wayne Mardle）认为，这位世界排名第一的选手现在必须全力以赴，为世界飞镖锦标赛做好准备。",
+    "published_dt_iso": "2026-11-20T03:00:00+08:00"
+  },
+  {
+    "title": "Grand Slam of Darts LIVE! Van Veen in action as Aspinall wins, Humphries, MVG to come",
+    "title_zh": "镖神大满贯直播！范·文出战，阿斯皮纳尔获胜，汉弗莱斯、MVG即将登场",
+    "link": "https://www.skysports.com/darts/live-blog/12040/13613976/grand-slam-of-darts-commentary-updates-scores-analysis-with-luke-humphries-michael-van-gerwen-nathan-aspinall-in-action",
+    "date": "2026-11-20",
+    "published_time": "02:30",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-20T02:30:00+08:00"
+  },
+  {
+    "title": "PL Predictions: How will your club fare this weekend?",
+    "title_zh": "英超预测：您的俱乐部本周末表现如何？",
+    "link": "https://www.skysports.com/football/news/12040/13611640/premier-league-predictions-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
+    "date": "2026-11-20",
+    "published_time": "02:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "随着英超联赛在国际比赛日后回归，我们的顶级投注专家Lewis Jones（又名Jones Knows）将提供他的分析和投注见解。",
+    "published_dt_iso": "2026-11-20T02:00:00+08:00"
+  },
+  {
+    "title": "Brighton latest: Hurzeler not leaving for a long time, says Bloom",
+    "title_zh": "布莱顿最新消息：布卢姆表示，许策尔不会在很长一段时间内离开",
+    "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "date": "2026-11-20",
+    "published_time": "01:23",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-20T01:23:00+08:00"
+  },
+  {
+    "title": "Spurs latest: 'You only know a tenth of the truth,' says Frank",
+    "title_zh": "热刺最新消息：弗兰克表示：“你只知道十分之一的真相。”",
+    "link": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "date": "2026-11-20",
+    "published_time": "01:20",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-20T01:20:00+08:00"
+  },
+  {
+    "title": "Woods given 'special opportunity' to design new course in Northern Ireland",
+    "title_zh": "伍兹获得“特殊机会”，将在北爱尔兰设计新球场",
+    "link": "https://www.skysports.com/golf/news/12040/13614051/tiger-woods-former-world-no-1-hails-special-opportunity-to-design-new-course-in-northern-ireland-with-tgr-design",
     "date": "2026-11-20",
     "published_time": "00:30",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "",
+    "summary": "Tiger Woods has revealed he will design the first championship-standard links golf course built in Northern Ireland for more than 100 years, describing the project as a \"special opportunity\".",
     "published_dt_iso": "2026-11-20T00:30:00+08:00"
-  },
-  {
-    "title": "Golf leaderboards: LPGA Tour's CME Group Tour Championship and more",
-    "title_zh": "高尔夫排行榜：LPGA巡回赛CME集团巡回锦标赛等",
-    "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
-    "date": "2026-11-20",
-    "published_time": "00:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "来自世界各地的最新高尔夫球赛得分和结果，包括DP世界巡回锦标赛、PGA巡回赛、LPGA巡回赛等。",
-    "published_dt_iso": "2026-11-20T00:00:00+08:00"
-  },
-  {
-    "title": "Rose says Scott will start one of next three games - but not drawn on transfer links",
-    "title_zh": "罗斯表示，斯科特将在接下来的三场比赛中首发一场，但未提及转会传闻",
-    "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-    "date": "2026-11-19",
-    "published_time": "23:55",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "",
-    "published_dt_iso": "2026-11-19T23:55:00+08:00"
-  },
-  {
-    "title": "Leeds latest: 'I’m a bit bored,' jokes Farke after Trafford frenzy",
-    "title_zh": "利兹联最新消息：法尔克在特拉福德的疯狂胜利后开玩笑说：“我有点无聊。”",
-    "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "date": "2026-11-19",
-    "published_time": "23:20",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "",
-    "published_dt_iso": "2026-11-19T23:20:00+08:00"
-  },
-  {
-    "title": "Man Utd announce financial results as revenue and wages rise",
-    "title_zh": "曼联公布财务业绩，营收和薪资均有所增长",
-    "link": "https://www.skysports.com/football/news/12040/13613832/man-utd-latest-financial-results-revealed-as-revenue-and-wages-increase",
-    "date": "2026-11-19",
-    "published_time": "22:35",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "曼联发布了最新的财务业绩，收入和薪资均有所增长。",
-    "published_dt_iso": "2026-11-19T22:35:00+08:00"
-  },
-  {
-    "title": "WBC open door for Canelo to fight Hutchinson for light",
-    "title_zh": "WBC 为“卡内洛”与“哈钦森”争夺轻量级冠军头衔敞开大门",
-    "link": "https://www.skysports.com/boxing/news/12040/13613969/wbc-open-door-for-canelo-alvarez-to-challenge-britains-willy-hutchinson-for-light-heavyweight-world-championship",
-    "date": "2026-11-20",
-    "published_time": "00:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "卡内洛·阿尔瓦雷斯有机会重返轻重量级，向新晋世界冠军威利·哈钦森发起挑战。",
-    "published_dt_iso": "2026-11-20T00:00:00+08:00"
-  },
-  {
-    "title": "Nicholls breaks record for Jumps wins with Warwick triumph",
-    "title_zh": "尼科尔斯在沃里克赛马会上夺冠，打破了障碍赛胜利纪录",
-    "link": "https://www.skysports.com/racing/news/12040/13613988/paul-nicholls-breaks-record-for-national-hunt-wins-after-surpassing-martin-pipes-all-time-tally-with-warwick-triumph",
-    "date": "2026-11-19",
-    "published_time": "21:50",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "保罗·尼科尔斯（Paul Nicholls）在改写纪录册，超越马丁·派普（Martin Pipe）创下的英国驯马师在障碍赛中赢得冠军的历史最高纪录后，感慨这是一段“美妙的旅程”。",
-    "published_dt_iso": "2026-11-19T21:50:00+08:00"
-  },
-  {
-    "title": "Jones: Erasmus overstepped the mark with officials comments",
-    "title_zh": "琼斯：埃拉斯莫斯在官方评论中越界了",
-    "link": "https://www.skysports.com/rugby-union/news/12040/13614004/rassie-erasmus-eddie-jones-says-south-africa-coach-overstepped-the-mark-with-criticism-of-match-officials",
-    "date": "2026-11-19",
-    "published_time": "22:54",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "埃迪·琼斯（Eddie Jones）认为，拉西·埃拉斯莫斯（Rassie Erasmus）对比赛裁判的严厉批评“越界了”，导致这位南非队主教练被禁赛六场。",
-    "published_dt_iso": "2026-11-19T22:54:00+08:00"
   },
   {
     "title": "Premier League talking points: Trial by Anfield as Poch begins Man Utd tenure",
@@ -625,6 +625,17 @@
     "feed_name": "天空体育(英超)",
     "summary": "英超联赛在最近的国际比赛日后回归，在又一个繁忙的周末赛事开始前，天空体育的足球撰稿人对所有主要热点进行了深入分析。",
     "published_dt_iso": "2026-11-19T16:00:00+08:00"
+  },
+  {
+    "title": "PL Predictions: How will your club fare this weekend?",
+    "title_zh": "英超预测：您的俱乐部本周末表现如何？",
+    "link": "https://www.skysports.com/football/news/11661/13611640/premier-league-predictions-jones-knows-best-bets-newcastle-vs-arsenal-liverpool-vs-manchester-united-and-much-more",
+    "date": "2026-11-20",
+    "published_time": "02:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "随着英超联赛在国际比赛日后回归，我们的顶级投注专家Lewis Jones（又名Jones Knows）将提供他的分析和投注见解。",
+    "published_dt_iso": "2026-11-20T02:00:00+08:00"
   },
   {
     "title": "Pochettino vows to 'change things' at Man Utd",
@@ -691,17 +702,6 @@
     "feed_name": "天空体育(英超)",
     "summary": "利物浦主教练安多尼·伊拉奥拉要求在11月的国际比赛日之后再对他的执教表现进行评判。在周日英超联赛中利物浦迎战曼联之前，我们来评估这位巴斯克教练迄今为止在新职位上的表现。",
     "published_dt_iso": "2026-11-19T21:00:00+08:00"
-  },
-  {
-    "title": "Man Utd announce financial results as revenue and wages rise",
-    "title_zh": "曼联公布财务业绩，营收和薪资均有所增长",
-    "link": "https://www.skysports.com/football/news/11661/13613832/man-utd-latest-financial-results-revealed-as-revenue-and-wages-increase",
-    "date": "2026-11-19",
-    "published_time": "22:35",
-    "source": "天空体育",
-    "feed_name": "天空体育(英超)",
-    "summary": "曼联发布了最新的财务业绩，收入和薪资均有所增长。",
-    "published_dt_iso": "2026-11-19T22:35:00+08:00"
   },
   {
     "title": "Premier League clubs vote to increase legal protection for executives",
@@ -792,6 +792,17 @@
     "published_dt_iso": "2026-11-10T00:30:13+08:00"
   },
   {
+    "title": "习近平：大国和则世界安，大国斗则世界乱",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/11-20/10734985.shtml",
+    "date": "2026-11-20",
+    "published_time": "00:13",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "11月19日下午，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。习近平指出——",
+    "published_dt_iso": "2026-11-20T00:13:45+08:00"
+  },
+  {
     "title": "（深圳APEC）亚太经合组织互联互通蓝图发布",
     "title_zh": "",
     "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml",
@@ -867,17 +878,6 @@
     "feed_name": "中国新闻网(时政)",
     "summary": "中新社深圳11月19日电 (记者 刘文文)11月的深圳，入夜微凉，盐田港灯火如昼，一派繁忙景象。作为全球单体规模最大的集装箱码头之一，这里每周有53条直通亚太经合组织(APEC)成员经济体的航线。中国的新能源汽车、照相机由此出海，马来西亚榴莲、智利车厘子跨海而来。在亚太地区，类似的航程每时每刻都在发生。彼此相连，也意味着休戚与共。",
     "published_dt_iso": "2026-11-19T22:25:14+08:00"
-  },
-  {
-    "title": "【和合共生】习言道丨“修昔底德陷阱”绝不是宿命",
-    "title_zh": "",
-    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734952.shtml",
-    "date": "2026-11-19",
-    "published_time": "22:24",
-    "source": "中国新闻网",
-    "feed_name": "中国新闻网(时政)",
-    "summary": "11月19日，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。三国元首围绕“维护世界和平，促进大国关系战略稳定”主题进行深入讨论。习近平指出——",
-    "published_dt_iso": "2026-11-19T22:24:20+08:00"
   },
   {
     "title": "（深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识",
@@ -1232,26 +1232,15 @@
     "published_dt_iso": "2026-11-13T18:39:06+08:00"
   },
   {
-    "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-    "title_zh": "Anthropic的万亿美元首秀是人工智能风险与回报的分水岭时刻",
-    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
-    "date": "2026-11-20",
-    "published_time": "00:39",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "随着技术的迅猛发展，华盛顿的政策制定者一直在努力为可能对工人、企业和经济其他部门造成的冲击做好准备。",
-    "published_dt_iso": "2026-11-20T00:39:36+08:00"
-  },
-  {
     "title": "Dustin Moskovitz, an Early Anthropic Investor, Feels a Bit Uneasy About the IPO",
     "title_zh": "Anthropic 的早期投资者达斯汀·莫斯科维茨（Dustin Moskovitz）对 IPO 感到有些不安",
     "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
-    "date": "2026-11-19",
-    "published_time": "21:28",
+    "date": "2026-11-20",
+    "published_time": "03:30",
     "source": "纽约时报",
     "feed_name": "纽约时报",
     "summary": "Facebook联合创始人达斯汀·莫斯科维茨（Dustin Moskovitz）对Anthropic的早期投资正在获得回报。但这并没有让他感到高兴。",
-    "published_dt_iso": "2026-11-19T21:28:13+08:00"
+    "published_dt_iso": "2026-11-20T03:30:24+08:00"
   },
   {
     "title": "Anthropic Employees Work Hard, but Don’t Expect Them to Play Hard",
@@ -1265,15 +1254,15 @@
     "published_dt_iso": "2026-11-19T20:11:09+08:00"
   },
   {
-    "title": "Trump Greets Putin as ‘My Friend,’ and the Rise of GLP",
-    "title_zh": "特朗普称普京为“我的朋友”，GLP 崛起",
-    "link": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
-    "date": "2026-11-19",
-    "published_time": "19:00",
+    "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+    "title_zh": "",
+    "link": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+    "date": "2026-11-20",
+    "published_time": "03:07",
     "source": "纽约时报",
     "feed_name": "纽约时报",
-    "summary": "此外，还开展了一场严厉的运动，以阻止学生作弊。",
-    "published_dt_iso": "2026-11-19T19:00:07+08:00"
+    "summary": "President Trump called Russia’s leader his “friend” and marveled at China’s warm welcome for his first-ever trilateral summit. But there were no breakthroughs on nuclear control, the war in Ukraine or A.I.",
+    "published_dt_iso": "2026-11-20T03:07:18+08:00"
   },
   {
     "title": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
@@ -1298,6 +1287,17 @@
     "published_dt_iso": "2026-11-19T20:08:19+08:00"
   },
   {
+    "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+    "title_zh": "",
+    "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+    "date": "2026-11-20",
+    "published_time": "02:27",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+    "published_dt_iso": "2026-11-20T02:27:57+08:00"
+  },
+  {
     "title": "Inside a Rohingya Camp After a Genocide Ruling",
     "title_zh": "种族灭绝裁决后的罗兴亚难民营内部情况",
     "link": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
@@ -1318,5 +1318,324 @@
     "feed_name": "纽约时报",
     "summary": "扎莫纳的被抹杀是针对罗兴亚穆斯林的大规模暴力运动的一部分。一家国际法院裁定，缅甸应对这些暴行负责。",
     "published_dt_iso": "2026-11-19T23:40:39+08:00"
+  },
+  {
+    "title": "Superhuman pushes its Go assistant everywhere",
+    "title_zh": "Superhuman 将其 Go 助手推广到各个角落",
+    "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+    "date": "2026-11-19",
+    "published_time": "22:00",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Superhuman 正在将 Go 打造成其核心代理，并使其在 Docs 和 Mail 中可用",
+    "published_dt_iso": "2026-11-19T22:00:00+08:00"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "title_zh": "微软首席执行官萨蒂亚·纳德拉解释了他为何要求6万名员工离职",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+    "date": "2026-11-19",
+    "published_time": "08:42",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）解释了他为何在10月份向6万名员工提供买断方案，实质上是敦促他们自愿离职，而不是通过另一次大规模裁员来削减员工队伍。简短的答案是人工智能，但不是以",
+    "published_dt_iso": "2026-11-19T08:42:56+08:00"
+  },
+  {
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "title_zh": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补”",
+    "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+    "date": "2026-11-19",
+    "published_time": "07:45",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "微软首席执行官淡化了最近的Outlook服务中断事件，同时指出，人工智能既为保障大部分互联世界带来了机遇，也带来了新的挑战。",
+    "published_dt_iso": "2026-11-19T07:45:00+08:00"
+  },
+  {
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "title_zh": "埃隆·马斯克表示，罢免黄仁勋就像“把迈克尔·乔丹踢出你的球队”",
+    "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+    "date": "2026-11-19",
+    "published_time": "07:25",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "“我不认为[黄仁勋]对美国不忠。”马斯克说。",
+    "published_dt_iso": "2026-11-19T07:25:17+08:00"
+  },
+  {
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "title_zh": "黄仁勋离职后，微软首席执行官萨蒂亚·纳德拉（Satya Nadella）仍对英伟达充满信心",
+    "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+    "date": "2026-11-19",
+    "published_time": "07:17",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）对黄仁勋的继任者科莱特·克雷斯（Colette Kress）表示有信心，后者目前担任英伟达的临时首席执行官。",
+    "published_dt_iso": "2026-11-19T07:17:28+08:00"
+  },
+  {
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "title_zh": "萨蒂亚·纳德拉预测，人工智能代理将重塑互联网经济",
+    "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "date": "2026-11-19",
+    "published_time": "06:58",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "微软首席执行官表示，人工智能代理可能会颠覆以广告为驱动的商业模式，迫使亚马逊等公司重新思考如何争夺客户。",
+    "published_dt_iso": "2026-11-19T06:58:11+08:00"
+  },
+  {
+    "title": "Microsoft is killing its great tasks app in favor of its worse tasks app",
+    "title_zh": "微软正在弃用其出色的任务应用，转而使用更差的任务应用",
+    "link": "https://www.theverge.com/tech/1037558/microsoft-to-do-shutdown-planner",
+    "date": "2026-11-20",
+    "published_time": "00:28",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "2015年，微软收购了一款名为Wunderlist的待办事项应用，传闻收购价格高达2亿美元。Wunderlist的粉丝们担心微软会让他们心爱的应用变得毫无生气、过于商业化，或者更糟的是，把它藏在一些复杂的",
+    "published_dt_iso": "2026-11-20T00:28:12+08:00"
+  },
+  {
+    "title": "You can grab two months of Paramount Plus for just $2.99 for Black Friday",
+    "title_zh": "黑色星期五期间，您只需2.99美元即可订阅Paramount Plus两个月",
+    "link": "https://www.theverge.com/gadgets/1036229/paramount-plus-black-friday-deal-2026-sale",
+    "date": "2026-11-20",
+    "published_time": "00:15",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在黑色星期五之前，您只需每月 $2.99 即可订阅 Paramount Plus，前两个月享受此优惠价格。优惠期结束后，您可以取消订阅，也可以按当时的费率自动续订，目前该费率为 $8.99。",
+    "published_dt_iso": "2026-11-20T00:15:01+08:00"
+  },
+  {
+    "title": "JPMorgan Chase reveals data breach, but says it’s unrelated to this week’s banking outage",
+    "title_zh": "摩根大通披露数据泄露事件，但表示与本周的银行系统中断无关",
+    "link": "https://www.theverge.com/tech/1037695/jpmorgan-chase-cyberattack",
+    "date": "2026-11-20",
+    "published_time": "00:14",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "摩根大通表示，其第三方供应商遭遇网络攻击，导致客户姓名和电子邮件地址等营销数据泄露。这一确认是在Cybernews的一篇报道之后发布的，该报道称，一个勒索软件团伙泄露了属于……的电子邮件地址。",
+    "published_dt_iso": "2026-11-20T00:14:23+08:00"
+  },
+  {
+    "title": "The Verge’s 2026 fitness and wellness gift guide",
+    "title_zh": "The Verge的2026年健身和健康礼品指南",
+    "link": "https://www.theverge.com/gadgets/1021241/best-fitness-wellness-gifts-2026",
+    "date": "2026-11-20",
+    "published_time": "00:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "在更加关注自身健康和健身方面，我们都需要一些帮助。节假日为我们提供了许多关注身心健康的理由，而一份好的礼物恰好可以激发新的爱好或支持健康习惯。",
+    "published_dt_iso": "2026-11-20T00:00:00+08:00"
+  },
+  {
+    "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+    "title_zh": "现在，ChatGPT 可以使用实时听写功能为您转录语音",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+    "date": "2026-11-19",
+    "published_time": "23:16",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "现在，ChatGPT 可以更快地接收来自麦克风的语音提示，因为实时听写功能可以在您说话时进行转录，而不是等到您完成录音。该功能现已在全球范围内在网页版、桌面版应用的所有ChatGPT套餐中推出，",
+    "published_dt_iso": "2026-11-19T23:16:45+08:00"
+  },
+  {
+    "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+    "title_zh": "硅谷是如何失去公众支持的，Crooked Media的Jon Favreau为您揭秘",
+    "link": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+    "date": "2026-11-19",
+    "published_time": "23:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今天，我将与政治评论员兼 Crooked Media 联合创始人 Jon Favreau 对话。您可能最熟悉的是 Jon 主持的一档名为《Pod Save America》的小节目，这是 Jon 在唐纳德·特朗普当选总统后与一群奥巴马政府的同事一起创办的。",
+    "published_dt_iso": "2026-11-19T23:00:00+08:00"
+  },
+  {
+    "title": "The Analogue 3D can now update itself over Wi",
+    "title_zh": "Analogue 3D 现在可以通过 Wi-Fi 自行更新",
+    "link": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+    "date": "2026-11-19",
+    "published_time": "22:32",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "Analogue 一直擅长通过定期固件更新来扩展其游戏机的特性和功能，但安装这些更新始终需要使用存储卡来移动文件。Analogue 现在不再是这样了。",
+    "published_dt_iso": "2026-11-19T22:32:33+08:00"
+  },
+  {
+    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+    "title_zh": "随着有史以来规模最大的IPO即将到来，Anthropic的“好人”声誉岌岌可危",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+    "date": "2026-11-19",
+    "published_time": "22:25",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "今天是Anthropic的一个新起点：经过多年筹备的IPO超越了SpaceX，成为有史以来市值最高的新上市公司，募资额达813亿美元，为其他即将上市的人工智能实验室树立了重要先例。但这不仅仅是财务上的事情。",
+    "published_dt_iso": "2026-11-19T22:25:37+08:00"
+  },
+  {
+    "title": "吴泳铭：阿里“2032 年全球数据中心规模超 20GW”目标或下调",
+    "title_zh": "",
+    "link": "https://www.ithome.com/1/029/702.htm",
+    "date": "2026-11-19",
+    "published_time": "23:03",
+    "source": "IT之家",
+    "feed_name": "IT之家(数码芯片)",
+    "summary": "IT之家 11 月 19 日消息，据蓝鲸新闻报道，在阿里巴巴今天（19 日）召开的 2027 财年第二季度业绩电话会上，阿里巴巴集团 CEO 吴泳铭表示，全球各个区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。吴泳铭透露，根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20GW 的目标有可能下调，资本开支可能有一定程度降低。同时，阿里将在国产算力及相关供应链上投入更积极，推进整体计划。基于平头哥的算力供应链持续放量节奏，2027 年和 2028 年上半年将是阿里最大的一个持续投资阶段。吴泳铭另表示，对于长期的现金流规划非常有信心。据IT之家此前报道，吴泳铭表示，2027 年和 2028 年，将是中国算力最紧缺的两年。2027 年以后，阿里云的芯片供",
+    "published_dt_iso": "2026-11-19T23:03:58+08:00"
+  },
+  {
+    "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+    "title_zh": "即将加盟皇马的加布里埃尔发布告别曼联的讯息",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-18",
+    "published_time": "03:35",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "在准备可能转会至皇家马德里之际，小将加布里埃尔发布了告别信息，表示曼联将永远是他故事的一部分。",
+    "published_dt_iso": "2026-11-18T03:35:06+08:00"
+  },
+  {
+    "title": "Hincapie in advanced talks over new Arsenal deal",
+    "title_zh": "欣卡皮耶正在就与阿森纳的新合同进行深入谈判",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6ge39lgyzzzo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-17",
+    "published_time": "21:09",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "阿森纳正与后卫皮耶罗·因卡皮耶就新合同进行深入谈判。",
+    "published_dt_iso": "2026-11-17T21:09:23+08:00"
+  },
+  {
+    "title": "Draper hires new coach to work alongside Murray for upcoming season",
+    "title_zh": "德雷珀聘请新教练，与穆雷搭档备战新赛季",
+    "link": "https://www.skysports.com/tennis/live-blog/12040/13523297/jack-draper-tennis-results-next-match-news-ranking-video-and-how-to-watch-on-sky-sports-tennis",
+    "date": "2026-11-20",
+    "published_time": "00:30",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-20T00:30:00+08:00"
+  },
+  {
+    "title": "Golf leaderboards: LPGA Tour's CME Group Tour Championship and more",
+    "title_zh": "高尔夫排行榜：LPGA巡回赛CME集团巡回锦标赛等",
+    "link": "https://www.skysports.com/golf/news/12040/12950625/golf-leaderboards-pga-tour-lpga-tour-liv-golf-dp-world-tour-ladies-european-tour-major-championships-and-more",
+    "date": "2026-11-20",
+    "published_time": "00:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "来自世界各地的最新高尔夫球赛得分和结果，包括DP世界巡回锦标赛、PGA巡回赛、LPGA巡回赛等。",
+    "published_dt_iso": "2026-11-20T00:00:00+08:00"
+  },
+  {
+    "title": "Rose says Scott will start one of next three games - but not drawn on transfer links",
+    "title_zh": "罗斯表示，斯科特将在接下来的三场比赛中首发一场，但未提及转会传闻",
+    "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "date": "2026-11-19",
+    "published_time": "23:55",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-19T23:55:00+08:00"
+  },
+  {
+    "title": "Leeds latest: 'I’m a bit bored,' jokes Farke after Trafford frenzy",
+    "title_zh": "利兹联最新消息：法尔克在特拉福德的疯狂胜利后开玩笑说：“我有点无聊。”",
+    "link": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "date": "2026-11-19",
+    "published_time": "23:20",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-19T23:20:00+08:00"
+  },
+  {
+    "title": "Man Utd announce financial results as revenue and wages rise",
+    "title_zh": "曼联公布财务业绩，营收和薪资均有所增长",
+    "link": "https://www.skysports.com/football/news/12040/13613832/man-utd-latest-financial-results-revealed-as-revenue-and-wages-increase",
+    "date": "2026-11-19",
+    "published_time": "22:35",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "曼联发布了最新的财务业绩，收入和薪资均有所增长。",
+    "published_dt_iso": "2026-11-19T22:35:00+08:00"
+  },
+  {
+    "title": "WBC open door for Canelo to fight Hutchinson for light",
+    "title_zh": "WBC 为“卡内洛”与“哈钦森”争夺轻量级冠军头衔敞开大门",
+    "link": "https://www.skysports.com/boxing/news/12040/13613969/wbc-open-door-for-canelo-alvarez-to-challenge-britains-willy-hutchinson-for-light-heavyweight-world-championship",
+    "date": "2026-11-20",
+    "published_time": "00:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "卡内洛·阿尔瓦雷斯有机会重返轻重量级，向新晋世界冠军威利·哈钦森发起挑战。",
+    "published_dt_iso": "2026-11-20T00:00:00+08:00"
+  },
+  {
+    "title": "Nicholls breaks record for Jumps wins with Warwick triumph",
+    "title_zh": "尼科尔斯在沃里克赛马会上夺冠，打破了障碍赛胜利纪录",
+    "link": "https://www.skysports.com/racing/news/12040/13613988/paul-nicholls-breaks-record-for-national-hunt-wins-after-surpassing-martin-pipes-all-time-tally-with-warwick-triumph",
+    "date": "2026-11-19",
+    "published_time": "21:50",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "保罗·尼科尔斯（Paul Nicholls）在改写纪录册，超越马丁·派普（Martin Pipe）创下的英国驯马师在障碍赛中赢得冠军的历史最高纪录后，感慨这是一段“美妙的旅程”。",
+    "published_dt_iso": "2026-11-19T21:50:00+08:00"
+  },
+  {
+    "title": "Jones: Erasmus overstepped the mark with officials comments",
+    "title_zh": "琼斯：埃拉斯莫斯在官方评论中越界了",
+    "link": "https://www.skysports.com/rugby-union/news/12040/13614004/rassie-erasmus-eddie-jones-says-south-africa-coach-overstepped-the-mark-with-criticism-of-match-officials",
+    "date": "2026-11-19",
+    "published_time": "22:54",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "埃迪·琼斯（Eddie Jones）认为，拉西·埃拉斯莫斯（Rassie Erasmus）对比赛裁判的严厉批评“越界了”，导致这位南非队主教练被禁赛六场。",
+    "published_dt_iso": "2026-11-19T22:54:00+08:00"
+  },
+  {
+    "title": "Man Utd announce financial results as revenue and wages rise",
+    "title_zh": "曼联公布财务业绩，营收和薪资均有所增长",
+    "link": "https://www.skysports.com/football/news/11661/13613832/man-utd-latest-financial-results-revealed-as-revenue-and-wages-increase",
+    "date": "2026-11-19",
+    "published_time": "22:35",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "曼联发布了最新的财务业绩，收入和薪资均有所增长。",
+    "published_dt_iso": "2026-11-19T22:35:00+08:00"
+  },
+  {
+    "title": "【和合共生】习言道丨“修昔底德陷阱”绝不是宿命",
+    "title_zh": "",
+    "link": "https://www.chinanews.com.cn/gn/2026/11-19/10734952.shtml",
+    "date": "2026-11-19",
+    "published_time": "22:24",
+    "source": "中国新闻网",
+    "feed_name": "中国新闻网(时政)",
+    "summary": "11月19日，国家主席习近平在深圳同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤。三国元首围绕“维护世界和平，促进大国关系战略稳定”主题进行深入讨论。习近平指出——",
+    "published_dt_iso": "2026-11-19T22:24:20+08:00"
+  },
+  {
+    "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
+    "title_zh": "Anthropic的万亿美元首秀是人工智能风险与回报的分水岭时刻",
+    "link": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+    "date": "2026-11-20",
+    "published_time": "00:39",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "随着技术的迅猛发展，华盛顿的政策制定者一直在努力为可能对工人、企业和经济其他部门造成的冲击做好准备。",
+    "published_dt_iso": "2026-11-20T00:39:36+08:00"
+  },
+  {
+    "title": "Trump Greets Putin as ‘My Friend,’ and the Rise of GLP",
+    "title_zh": "特朗普称普京为“我的朋友”，GLP 崛起",
+    "link": "https://www.nytimes.com/2026/11/19/podcasts/the-headlines/trump-putin-glp-1s-for-children.html",
+    "date": "2026-11-19",
+    "published_time": "19:00",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "此外，还开展了一场严厉的运动，以阻止学生作弊。",
+    "published_dt_iso": "2026-11-19T19:00:07+08:00"
   }
 ]

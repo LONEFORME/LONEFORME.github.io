@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">26,571.17</span>
-      <span class="ticker-change down">▼ -2.01%</span>
+      <span class="ticker-price ticker-down">26,579.46</span>
+      <span class="ticker-change down">▼ -1.98%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-20 04:27:12（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-20 04:52:19（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6926</span>
+      <span class="ticker-price ticker-up">6.6927</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:27:09（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:52:12（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,670.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -54.39 (-1.46%)</span>
+      <span class="ticker-price ticker-down">$3,665.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -59.44 (-1.60%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:27:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:52:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$92.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.19 (+0.20%)</span>
+      <span class="ticker-price ticker-up">$92.70 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.75 (+0.81%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 04:27:24（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 04:52:28（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/029/744.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日消息，Counterpoint Research 2026 年第三季度智能手机市场监测报告显示，欧洲智能手机市场出货量同比下滑 18%，创下超过 13 年以来的最低季度总量。报告指出，上游零部件成本大幅攀升推动终端设备售价上涨，各厂商同步缩减促销力度，叠加宏观经济环境疲软持续压制消费者需求，是本季度欧洲市场大幅下滑的核心原因。IT之家从报告获悉，Counterpoint 副总监 Jan Stryjak 表示，尽管本季度欧洲市场有多款重磅新品发布，但整体经营环境依然严峻。三星推出的“护照级尺寸”Galaxy Z Fold8 是西欧有史以来销量最快的折叠屏机型，但该机型的亮眼表现无法抵消 Galaxy A 系列等中低端产品线的疲软；苹果则发布了品牌首款折叠屏产品 iP" data-title="Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低" data-date="11-20 01:43" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-20 01:43</span>
+          <span class="news-item-title">Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月19日电 亚太经合组织互联互通蓝图19日发布。蓝图强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。" data-title="（深圳APEC）亚太经合组织互联互通蓝图发布" data-date="11-19 23:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -512,4 +518,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-20 00:42（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-20 04:50（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
