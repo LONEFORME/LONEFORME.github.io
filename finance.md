@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">26,517.05</span>
-      <span class="ticker-change down">▼ -2.21%</span>
+      <span class="ticker-price ticker-down">25,771.62</span>
+      <span class="ticker-change down">▼ -2.81%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-20 09:19:09（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-21 00:19:50（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6811</span>
+      <span class="ticker-price ticker-down">6.6742</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:20:06（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:19:48（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,585.97 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -39.04 (-1.08%)</span>
+      <span class="ticker-price ticker-down">$3,546.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -78.73 (-2.17%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:20:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:19:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥764.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -38.06 (-4.75%)</span>
+      <span class="ticker-price ticker-down">¥762.71 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.29 (-0.17%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:04（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:30:00（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.75 (-0.81%)</span>
+      <span class="ticker-price ticker-down">$90.84 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.14 (-1.24%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:20:21（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:19:57（非实时）</div>
   </div>
 </div>
 
@@ -437,97 +437,67 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.ithome.com/1/030/125.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日现场消息，在今天的鸿蒙智行享界 V8 及星芒品牌发布会上，北汽集团党委书记、董事长张建勇宣布，华为与北汽战略共同体再次升级。张建勇表示，此次合作聚焦技术产品、专属团队、品质保障、服务体验四大体系全面升级，战略投入将持续加码，助力享界进入体系作战新阶段。IT之家注意到，鸿蒙智行官方刚刚公布了华为北汽战略共同体再升级的详情信息：技术产品升级：强化鸿蒙智行模式合作，享界持续投入专项资金，持续拓宽产品矩阵，推动技术及产品体验升级。专属团队升级：汇聚华为北汽双方优秀人才与专家力量，持续锻造享界事业部专属团队能力，夯实品牌升级组织底座。品质保障升级：享界专属品质保障体系，全链路升级迭代双质检体系，共筑行业领先的高端新能源汽车品质标杆。服务体验升级：在鸿蒙智行整体渠道战略下，持" data-title="华为北汽战略共同体升级详情公布：强化鸿蒙智行模式合作、享界持续投入专项资金" data-date="11-20 16:57" data-source="IT之家">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-20/10735603.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="11月20日晚，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会。新华社记者 黄敬文 摄 新华社北京11月20日电(记者伍岳)11月20日晚，国务院总理李强在北京钓鱼台国宾馆同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会。近30位中澳商会和企业负责人出席。" data-title="李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会" data-date="11-20 23:53" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-20 23:53</span>
+          <span class="news-item-title">李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/275.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日消息，据《财富》杂志今日报道，过去一周，美国接连发生多起技术故障，导致航班停飞、银行交易延误，数百万人无法正常使用电子邮件，暴露出美国基础设施的脆弱性。美国电网同样存在短板，问题出在铜和钢等材料的供应上。约翰斯 · 霍普金斯大学近日在《Cell Reports Sustainability》期刊发表的一项研究显示，美国最早可能在 2027 年就面临电网设备短缺，影响新建电厂和数据中心并网。到 2030 年，变压器和变流器的短缺问题或将进一步恶化。对于企业和普通家庭来说，最直接的影响将是电费上涨、停电更加频繁。参与研究的约翰斯 · 霍普金斯大学副教授尤里 · 德沃尔金与博士生 Boyu Yao 分析了电网设备供应问题。“过去，人们从不担心这些设备的供应。但缺少它们，" data-title="约翰斯 · 霍普金斯大学新研究：美国最早明年就可能面临电网设备短缺" data-date="11-20 23:22" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-20 16:57</span>
-          <span class="news-item-title">华为北汽战略共同体升级详情公布：强化鸿蒙智行模式合作、享界持续投入专项资金</span>
+          <span class="news-item-date">11-20 23:22</span>
+          <span class="news-item-title">约翰斯 · 霍普金斯大学新研究：美国最早明年就可能面临电网设备短缺</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-20/10735331.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网伊斯坦布尔11月20日电(记者 王高飞 魏园)近日，中国新闻社“新闻会客厅”在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间，于伊斯坦布尔举办“中土生态文明与绿色转型对话会”。中土政界、学界、商界代表共话两国生态文明交流与合作。" data-title="土耳其专家阿蒂利：中国将生态保护“义务”变为产业发展“机遇”｜新闻会客厅" data-date="11-20 16:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 16:56</span>
-          <span class="news-item-title">土耳其专家阿蒂利：中国将生态保护“义务”变为产业发展“机遇”｜新闻会客厅</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-20/10735306.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="环球时报 丁雅栀 李炫旻" data-title="【环瞰·APEC中国年】APEC会议现场，企业代表热议“互联互通”" data-date="11-20 16:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 16:33</span>
-          <span class="news-item-title">【环瞰·APEC中国年】APEC会议现场，企业代表热议“互联互通”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735042.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网奥斯陆11月20日电 (记者 马秀秀)挪威创新署贸易与投资部门负责人加尔德·马德森(Gard Madsen)19日在接受记者采访时表示，中国新能源汽车产业发展令人印象深刻。随着中国电动汽车制造商逐渐站稳脚跟，其相较于世界其他地区汽车制造商确实正在获得优势。挪威对电动汽车接受程度很高，是中国汽车品牌拓展欧洲市场的良好选择。" data-title="挪威创新署官员：中国电动汽车制造商正获得竞争优势" data-date="11-20 10:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 10:31</span>
-          <span class="news-item-title">挪威创新署官员：中国电动汽车制造商正获得竞争优势</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735057.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月20日电 11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。随着亚太各经济体领导人和工商界代表齐聚这座中国改革开放的前沿城市，深圳成为国际媒体关注的焦点。" data-title="外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口" data-date="11-20 09:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 09:44</span>
-          <span class="news-item-title">外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/029/744.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日消息，Counterpoint Research 2026 年第三季度智能手机市场监测报告显示，欧洲智能手机市场出货量同比下滑 18%，创下超过 13 年以来的最低季度总量。报告指出，上游零部件成本大幅攀升推动终端设备售价上涨，各厂商同步缩减促销力度，叠加宏观经济环境疲软持续压制消费者需求，是本季度欧洲市场大幅下滑的核心原因。IT之家从报告获悉，Counterpoint 副总监 Jan Stryjak 表示，尽管本季度欧洲市场有多款重磅新品发布，但整体经营环境依然严峻。三星推出的“护照级尺寸”Galaxy Z Fold8 是西欧有史以来销量最快的折叠屏机型，但该机型的亮眼表现无法抵消 Galaxy A 系列等中低端产品线的疲软；苹果则发布了品牌首款折叠屏产品 iP" data-title="Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低" data-date="11-20 01:43" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/030/273.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日消息，AI 热潮引发的内存危机波及几乎所有消费电子产品，Steam Machine 也未能幸免。由于需求旺盛，Valve 直到近期才完成 512GB 版的全部预订订单。目前该版本尚有少量现货，消费者可以直接下单，无需继续排队。好消息之外还有坏消息。Valve 透露，Steam Machine 仍在持续生产，但内存和存储设备的成本正以前所未有的幅度上涨。受此影响，后续还能生产多少台、售价会是多少，都无法给出明确答案，价格也有进一步上涨的可能，更多消息预计将在 2027 年 1 月公布。Steam Machine 上市时，512GB 版和 2TB 版分别定价 1,049 美元（现汇率约合 7,020 元人民币）和 1,349 美元（现汇率约合 9,027 元人民币），" data-title="内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”" data-date="11-20 22:46" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-20 01:43</span>
-          <span class="news-item-title">Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低</span>
+          <span class="news-item-date">11-20 22:46</span>
+          <span class="news-item-title">内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734984.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月19日电 亚太经合组织互联互通蓝图19日发布。蓝图强调，互联互通促进本地区商品、服务、资金和人员流动，有助于密切经济联系、推动长期经济增长；以《2040年亚太经合组织布特拉加亚愿景》为指引，朝着建设开放、活力、强韧、和平的亚太共同体迈进，实现亚太人民和子孙后代的共同繁荣。" data-title="（深圳APEC）亚太经合组织互联互通蓝图发布" data-date="11-19 23:57" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-20/10735538.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月20日电 (记者 国璇)11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。多位APEC成员经济体领导人在不同场合点赞深圳的发展成就，并期待有更多“深圳奇迹”出现，为亚太区域合作注入更多确定性。" data-title="（深圳APEC）“未来在此被设计、测试和建造”" data-date="11-20 22:13" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 23:57</span>
-          <span class="news-item-title">（深圳APEC）亚太经合组织互联互通蓝图发布</span>
+          <span class="news-item-date">11-20 22:13</span>
+          <span class="news-item-title">（深圳APEC）“未来在此被设计、测试和建造”</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734981.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月19日电 综合消息：亚太经合组织(APEC)第三十三次领导人非正式会议18日至19日在中国深圳举行。多家外媒聚焦深圳科技创新与城市发展，关注会议释放的开放合作信号，认为维护贸易开放、深化区域合作、推动创新发展，仍是亚太经济体的共同关切。" data-title="（深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识" data-date="11-19 23:45" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735540.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网巴黎11月20日电 联合国教科文组织在20日世界儿童日之际发布新报告，呼吁加大儿童学前教育投资。" data-title="联合国教科文组织新报告呼吁加大儿童学前教育投资" data-date="11-20 21:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 23:45</span>
-          <span class="news-item-title">（深圳APEC）外媒聚焦APEC：开放合作为亚太发展凝聚共识</span>
+          <span class="news-item-date">11-20 21:56</span>
+          <span class="news-item-title">联合国教科文组织新报告呼吁加大儿童学前教育投资</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734961.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月19日电 2026年亚太经合组织领导人深圳展望19日发布。展望重申，亚太经合组织是区域经济合作的首要平台，将遵循自主自愿、非约束性和协商一致的合作原则，致力于将亚太经合组织打造成一个更加现代、高效、务实的理念孵化器。" data-title="（深圳APEC）2026年亚太经合组织领导人深圳展望发布" data-date="11-19 22:37" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-20/10735552.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川11月20日电 (记者 于晶)11月20日，记者从宁夏枸杞产业发展中心获悉，该中心首次对外发布《2025年“宁夏枸杞”商标维权典型案例》。自2025年以来，该中心联合中宁县枸杞产业发展服务中心持续开展“宁夏枸杞”地理标志证明商标维权专项行动，本次公布9起案例，覆盖线上线下多场景侵权行为，单案最高赔偿金额达3万元。" data-title="宁夏首次发布“宁夏枸杞”商标维权典型案例 多梯度打击商标侵权" data-date="11-20 21:46" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 22:37</span>
-          <span class="news-item-title">（深圳APEC）2026年亚太经合组织领导人深圳展望发布</span>
+          <span class="news-item-date">11-20 21:46</span>
+          <span class="news-item-title">宁夏首次发布“宁夏枸杞”商标维权典型案例 多梯度打击商标侵权</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-19/10734948.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月19日电 (记者 刘文文)11月的深圳，入夜微凉，盐田港灯火如昼，一派繁忙景象。作为全球单体规模最大的集装箱码头之一，这里每周有53条直通亚太经合组织(APEC)成员经济体的航线。中国的新能源汽车、照相机由此出海，马来西亚榴莲、智利车厘子跨海而来。在亚太地区，类似的航程每时每刻都在发生。彼此相连，也意味着休戚与共。" data-title="（深圳APEC）以船为喻，中国向亚太发出“同舟之约”" data-date="11-19 22:25" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-20/10735545.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南昌11月20日电 (记者 吴鹏泉)2026年江西省“讲好商标品牌故事”线下活动20日在位于南昌青云谱区的八大山人纪念馆举行。活动以“山水江西 商标赋能——讲好赣鄱文旅品牌故事”为主题，旨在以商标品牌为纽带，积极探索知识产权与文旅产业深度融合发展新路径。" data-title="知识产权赋能文旅发展 江西擦亮赣鄱文旅品牌" data-date="11-20 21:37" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 22:25</span>
-          <span class="news-item-title">（深圳APEC）以船为喻，中国向亚太发出“同舟之约”</span>
+          <span class="news-item-date">11-20 21:37</span>
+          <span class="news-item-title">知识产权赋能文旅发展 江西擦亮赣鄱文旅品牌</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-19/10734950.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海口11月19日电 (贾浪博)琼州海峡智能航运示范工程启动仪式19日在海口举行，标志着琼州海峡智能航运建设迈入实质推进阶段。" data-title="琼州海峡智能航运示范工程在海口启动" data-date="11-19 22:01" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships" target="_blank" rel="noopener" data-cat="caijing" data-summary="在8月下旬的财报电话会议上，优步首席执行官达拉·科斯罗萨西（Dara Khosrowshahi）对公司与全球自动驾驶出租车领军企业Waymo的“非常牢固”的合作伙伴关系表示乐观。两家公司在多个城市合作多年。" data-title="Why the robots are ditching Uber" data-date="11-20 20:00" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-20 20:00</span>
+          <span class="news-item-title">Why the robots are ditching Uber</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735435.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社东京11月20日电(记者 朱晨曦)日本总务省20日公布的数据显示，10月日本去除生鲜食品后的核心消费价格指数(CPI)同比上升2.2%至102.9，连续62个月同比上涨。" data-title="日本核心CPI连续62个月上涨" data-date="11-20 19:17" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 22:01</span>
-          <span class="news-item-title">琼州海峡智能航运示范工程在海口启动</span>
+          <span class="news-item-date">11-20 19:17</span>
+          <span class="news-item-title">日本核心CPI连续62个月上涨</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734932.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社首尔11月19日电(金旭 林珺)韩国大法院(最高法院)19日就韩国前总统尹锡悦妻子金建希涉嫌操纵股价、收受贿赂等案件作出终审判决，判处其有期徒刑4年，并处罚金5000万韩元(约合人民币25万元)。这是韩国最高法院首次就金建希相关案件作出裁定。" data-title="韩国前第一夫人金建希首案终审被判有期徒刑4年" data-date="11-19 21:54" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735447.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月20日电 日本总务省20日公布的数据显示，剔除生鲜食品后，日本10月核心消费价格指数(CPI)同比上涨2.2%，涨幅连续两个月超过日本央行设定的2%目标水平。日媒指出，截至10月，日本核心CPI已连续62个月同比上涨。" data-title="日本核心CPI连续62个月上涨 民调显示高市应对通胀措施遭质疑" data-date="11-20 19:03" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 21:54</span>
-          <span class="news-item-title">韩国前第一夫人金建希首案终审被判有期徒刑4年</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-19/10734943.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国日报网11月19日电 山河更迭，风雅长存。11月19日，“何以中国·诗词里的千年文脉”网络主题宣传活动于古都西安启幕。纵使时代千帆竞发、科技日新月异，古典诗词始终沉淀着华夏儿女的家国情怀与人生哲思，是镌刻民族风骨的精神根脉。千年长安承唐风诗韵，以全域深耕的文化建设，探寻古典文脉古今赓续的新生之路。" data-title="何以中国｜唐韵润古邑 诗脉续长安" data-date="11-19 21:47" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 21:47</span>
-          <span class="news-item-title">何以中国｜唐韵润古邑 诗脉续长安</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="会后发表的中俄美元首和平宣言显示，三国领导人承诺就“减少核风险、防止核扩散”展开对话，并就联合国改革、能源稳定和国际刑事法院管辖权等议题达成四点共识。" data-title="中美俄“三巨头”峰会结束：涉及乌克兰、伊朗议题，发表和平宣言承诺核对话" data-date="11-19 20:22" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-19 20:22</span>
-          <span class="news-item-title">中美俄“三巨头”峰会结束：涉及乌克兰、伊朗议题，发表和平宣言承诺核对话</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734799.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社首尔11月19日电(记者 金旭)韩国产业通商资源部19日表示，韩国2026年累计出口额初步统计已超过1万亿美元(约合人民币6.7万亿元)，成为继美国、德国和中国之后，全球第四个实现年度出口额突破1万亿美元的国家。" data-title="韩国2026年累计出口额突破1万亿美元大关" data-date="11-19 18:35" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 18:35</span>
-          <span class="news-item-title">韩国2026年累计出口额突破1万亿美元大关</span>
+          <span class="news-item-date">11-20 19:03</span>
+          <span class="news-item-title">日本核心CPI连续62个月上涨 民调显示高市应对通胀措施遭质疑</span>
         </a>
   </div>
 </div>
@@ -542,4 +512,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-20 17:18（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-21 00:17（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
