@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,510.97</span>
-      <span class="ticker-change down">▼ -1.86%</span>
+      <span class="ticker-price ticker-down">3,533.79</span>
+      <span class="ticker-change down">▼ -1.22%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-20 10:14:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-20 15:43:57（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">10,311.02</span>
-      <span class="ticker-change down">▼ -2.57%</span>
+      <span class="ticker-price ticker-down">10,256.39</span>
+      <span class="ticker-change down">▼ -3.09%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-20 10:14:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-20 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">2,232.96</span>
-      <span class="ticker-change down">▼ -2.63%</span>
+      <span class="ticker-price ticker-down">2,212.13</span>
+      <span class="ticker-change down">▼ -3.54%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-20 10:14:03（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-20 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,238.37</span>
-      <span class="ticker-change down">▼ -2.55%</span>
+      <span class="ticker-price ticker-down">1,231.09</span>
+      <span class="ticker-change down">▼ -3.12%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-20 10:14:06（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-20 15:43:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,506.43</span>
-      <span class="ticker-change down">▼ -3.91%</span>
+      <span class="ticker-price ticker-down">3,511.14</span>
+      <span class="ticker-change down">▼ -3.78%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -105,7 +105,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-20 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-20 09:19:09（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6737</span>
+      <span class="ticker-price ticker-down">6.6810</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:13:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:21:18（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,543.66 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -81.35 (-2.24%)</span>
+      <span class="ticker-price ticker-down">$3,582.96 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -42.05 (-1.16%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:14:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:21:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥761.66 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -40.40 (-5.04%)</span>
+      <span class="ticker-price ticker-down">¥764.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -38.06 (-4.75%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:14:07（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 15:30:04（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">22,460.29</span>
-      <span class="ticker-change down">▼ -1.67%</span>
+      <span class="ticker-price ticker-down">22,410.80</span>
+      <span class="ticker-change down">▼ -1.89%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$92.50 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.52 (+0.57%)</span>
+      <span class="ticker-price ticker-down">$90.90 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.08 (-1.17%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:14:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 17:21:30（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/030/125.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日现场消息，在今天的鸿蒙智行享界 V8 及星芒品牌发布会上，北汽集团党委书记、董事长张建勇宣布，华为与北汽战略共同体再次升级。张建勇表示，此次合作聚焦技术产品、专属团队、品质保障、服务体验四大体系全面升级，战略投入将持续加码，助力享界进入体系作战新阶段。IT之家注意到，鸿蒙智行官方刚刚公布了华为北汽战略共同体再升级的详情信息：技术产品升级：强化鸿蒙智行模式合作，享界持续投入专项资金，持续拓宽产品矩阵，推动技术及产品体验升级。专属团队升级：汇聚华为北汽双方优秀人才与专家力量，持续锻造享界事业部专属团队能力，夯实品牌升级组织底座。品质保障升级：享界专属品质保障体系，全链路升级迭代双质检体系，共筑行业领先的高端新能源汽车品质标杆。服务体验升级：在鸿蒙智行整体渠道战略下，持" data-title="华为北汽战略共同体升级详情公布：强化鸿蒙智行模式合作、享界持续投入专项资金" data-date="11-20 16:57" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-20 16:57</span>
+          <span class="news-item-title">华为北汽战略共同体升级详情公布：强化鸿蒙智行模式合作、享界持续投入专项资金</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-20/10735331.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网伊斯坦布尔11月20日电(记者 王高飞 魏园)近日，中国新闻社“新闻会客厅”在《联合国气候变化框架公约》第三十一次缔约方大会(COP31)期间，于伊斯坦布尔举办“中土生态文明与绿色转型对话会”。中土政界、学界、商界代表共话两国生态文明交流与合作。" data-title="土耳其专家阿蒂利：中国将生态保护“义务”变为产业发展“机遇”｜新闻会客厅" data-date="11-20 16:56" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-20 16:56</span>
+          <span class="news-item-title">土耳其专家阿蒂利：中国将生态保护“义务”变为产业发展“机遇”｜新闻会客厅</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-20/10735306.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="环球时报 丁雅栀 李炫旻" data-title="【环瞰·APEC中国年】APEC会议现场，企业代表热议“互联互通”" data-date="11-20 16:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-20 16:33</span>
+          <span class="news-item-title">【环瞰·APEC中国年】APEC会议现场，企业代表热议“互联互通”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735042.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网奥斯陆11月20日电 (记者 马秀秀)挪威创新署贸易与投资部门负责人加尔德·马德森(Gard Madsen)19日在接受记者采访时表示，中国新能源汽车产业发展令人印象深刻。随着中国电动汽车制造商逐渐站稳脚跟，其相较于世界其他地区汽车制造商确实正在获得优势。挪威对电动汽车接受程度很高，是中国汽车品牌拓展欧洲市场的良好选择。" data-title="挪威创新署官员：中国电动汽车制造商正获得竞争优势" data-date="11-20 10:31" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-20 10:31</span>
+          <span class="news-item-title">挪威创新署官员：中国电动汽车制造商正获得竞争优势</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735057.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月20日电 11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。随着亚太各经济体领导人和工商界代表齐聚这座中国改革开放的前沿城市，深圳成为国际媒体关注的焦点。" data-title="外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口" data-date="11-20 09:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-20 09:44</span>
+          <span class="news-item-title">外媒眼中的“现代化奇迹”，APEC深圳会议展现中国开放创新窗口</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/029/744.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日消息，Counterpoint Research 2026 年第三季度智能手机市场监测报告显示，欧洲智能手机市场出货量同比下滑 18%，创下超过 13 年以来的最低季度总量。报告指出，上游零部件成本大幅攀升推动终端设备售价上涨，各厂商同步缩减促销力度，叠加宏观经济环境疲软持续压制消费者需求，是本季度欧洲市场大幅下滑的核心原因。IT之家从报告获悉，Counterpoint 副总监 Jan Stryjak 表示，尽管本季度欧洲市场有多款重磅新品发布，但整体经营环境依然严峻。三星推出的“护照级尺寸”Galaxy Z Fold8 是西欧有史以来销量最快的折叠屏机型，但该机型的亮眼表现无法抵消 Galaxy A 系列等中低端产品线的疲软；苹果则发布了品牌首款折叠屏产品 iP" data-title="Counterpoint：今年 Q3 欧洲智能手机出货同比下滑 18%，创 13 年来多季度新低" data-date="11-20 01:43" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -499,12 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-19 18:35</span>
           <span class="news-item-title">韩国2026年累计出口额突破1万亿美元大关</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-19/10734718.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉11月19日电(记者 周璟)菲律宾大气地球物理天文局表示，菲律宾13个地区18日出现危险级别高温指数，局地高温指数达到44摄氏度。" data-title="菲律宾多地高温指数达危险级别 局地达44摄氏度" data-date="11-19 17:44" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-19 17:44</span>
-          <span class="news-item-title">菲律宾多地高温指数达危险级别 局地达44摄氏度</span>
-        </a>
   </div>
 </div>
 
@@ -518,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-20 04:50（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-20 17:18（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
