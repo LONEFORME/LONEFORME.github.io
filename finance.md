@@ -439,6 +439,54 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/030/505.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，当地时间 20 日，据《华尔街日报》报道，亚马逊对纽约市的一项劳工法案《配送保护法》（又称第 518 号提案）发起了反击。该法案将强制企业直接雇佣送货人员，而不是外包给第三方承包商。不仅如此，亚马逊通过弹出窗口警告客户：如果该法案最终成为法律，每笔订单的配送费用或将涨价 5 美元（IT之家注：现汇率约合 33.5 元人民币）。该法案将改变亚马逊配送司机的实际雇主身份。按照目前的配送模式，在身穿亚马逊马甲、驾驶亚马逊货车，甚至受到亚马逊 AI 摄像头的驾驶行为监控的司机背后，实际的雇主往往是亚马逊旗下配送体系中的小型合作企业，或称配送服务合作伙伴（Delivery Service Partners）。根据纽约市这项法案，亚马逊若想继续在纽约市五大行政区运营配送" data-title="亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元" data-date="11-21 22:18" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-21 22:18</span>
+          <span class="news-item-title">亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/504.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，11 月 20 日，广汽夸克电驱非晶-碳纤维电驱第 10 万套正式量产下线。官方表示，这一里程碑标志着广汽成为全球唯一实现非晶合金车用电驱规模化量产的企业。据介绍，广汽动力总成自主研发团队围绕材料、工艺、结构和控制开展全链路攻关，首创非晶合金定子量产工艺，突破碳纤维高速转子关键技术，让非晶-碳纤维电驱从科研成果转化为可批量交付的车规级产品。夸克电驱 2.0 非晶-碳纤维电驱的核心突破，始于定子与转子两端：定子采用厚度 0.025mm 的非晶合金带材，厚度约为常规超薄硅钢片的五分之一；非晶合金磁导率可达普通硅钢片的 20 至 100 倍，单位铁损低至 5.7W/kg，较极薄硅钢降低约 50%。为实现车规级量产，广汽打通复合、冲压、叠装等成套工艺，非晶铁芯叠压层" data-title="全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶" data-date="11-21 21:53" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-21 21:53</span>
+          <span class="news-item-title">全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-21/10735919.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社南宁11月21日电 (张广权 黄令妍)2026年林木业大会21日在广西南宁举行。大会现场签约一批项目，总金额超400亿元人民币，涵盖浆纸原料林、纸品加工等领域。" data-title="2026年林木业大会在南宁举行 现场签约超400亿元" data-date="11-21 21:51" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-21 21:51</span>
+          <span class="news-item-title">2026年林木业大会在南宁举行 现场签约超400亿元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/479.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，从零开发一套操作系统，即使对经验丰富的工程团队而言也是一项艰巨任务，南非开发者兼企业家德里克 · 佩恩却选择独自承担这项工作。当地时间 20 日，据外媒 TechSpot 报道，佩恩近日公布了面向现代 x86-64 PC 的全新操作系统 ——Impossible OS，其设计借鉴 Windows 11，完全基于开源代码开发。根据项目官方宣言，Impossible OS 的目标是原生运行基于 Win32 API 开发的软件，同时兼容 Linux 二进制程序。佩恩强调，其并非“又一个 Linux 发行版”，而是一套拥有自身底层架构的独立操作系统，包含 Ring 0 内核、UEFI 引导程序和桌面图形界面等核心组件。在兼容性方面，Impossible OS 通过内" data-title="南非开发者宣称独自开发操作系统 Impossible OS：兼容 Win32 和 Linux 二进制程序，两年后见" data-date="11-21 21:32" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-21 21:32</span>
+          <span class="news-item-title">南非开发者宣称独自开发操作系统 Impossible OS：兼容 Win32 和 Linux 二进制程序，两年后见</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/478.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，当地时间 19 日，据 BBC 报道，英国开展了一项保密的网络安全行动，保护各大超市、仓库、餐厅、加油站及体育场馆内数万台冰箱和冷冻柜，防止黑客入侵。据IT之家了解，欧洲近期接连发生多轮网络攻击，数百家门店的数吨食品因此变质，损失达数百万英镑。此前，外界认为英国基本避开了此类黑客攻击，原因是英国制冷行业采用了不同类型的设备。实际上，英国制冷行业也存在一个潜在漏洞，业界一直在加紧修补。10 月下旬，安全研究人员发现一处重大漏洞。一旦被黑客发现，这一漏洞可能给英国造成更加严重的损害。此后，研究人员、IT 团队和英国国家网络安全中心（NCSC）日夜不停地向数十家企业发出警告。为降低黑客发现漏洞并利用漏洞造成破坏的风险，BBC 此前一直没有披露这项大规模、保密的行动" data-title="为抵御黑客攻击，英国秘密发起大规模“冰箱保卫战”" data-date="11-21 21:16" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-21 21:16</span>
+          <span class="news-item-title">为抵御黑客攻击，英国秘密发起大规模“冰箱保卫战”</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/476.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，据新华社报道，11 月 19 日，全国首条超百公里纯氢长输管道 —— 达尔罕茂明安联合旗至包头市区 195 公里氢气长输管道正式启运。该项目入选国家能源局首批能源领域氢能试点项目，标志着我国规模化、长距离纯氢管道输送实现关键突破，推动绿氢“制 — 储 — 输 — 用”全产业链协同发展。IT之家获悉，这条管道在内蒙古包头率先启运，得益于当地“制氢端有资源、用氢端有场景、地理空间高度集约”的独特条件。包头市委副书记、市长孟庆维介绍，包头风光资源富集，新能源装机占比超过火电，依托华电 20 万千瓦风光制氢项目，绿氢年产能达 7800 吨，生产成本较低；作为老工业基地，化工、冶金、燃气、交通等领域对绿氢需求集中；新能源制氢基地在北部达茂旗，主要用氢场景在南部包头市区" data-title="全国首条超百公里纯氢长输管道在内蒙古启运，核准年输氢量 10 万吨" data-date="11-21 21:03" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-21 21:03</span>
+          <span class="news-item-title">全国首条超百公里纯氢长输管道在内蒙古启运，核准年输氢量 10 万吨</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-21/10735890.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杭州11月21日电(林波 孙琳茹)11月20日至22日，首届历史经典产业博览会在浙江杭州举行。博览会以“经典传承 新质兴业”为主题，汇聚丝绸、茶叶、瓷器、中药、酿造、工艺美术等产业，集中展示历史经典产业守正创新、向新发展的丰硕成果。" data-title="首届历史经典产业博览会在杭州举行：有哪些“经典”？" data-date="11-21 20:45" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-21 20:45</span>
+          <span class="news-item-title">首届历史经典产业博览会在杭州举行：有哪些“经典”？</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks" target="_blank" rel="noopener" data-cat="caijing" data-summary="当传统汽车制造商在电动汽车方面踩下刹车时，一家初创公司却踩下了油门。本月早些时候，电动卡车制造商Harbinger在D轮融资中筹集了2.4亿美元，为一段辉煌的时期画上了圆满的句号，这段时期包括一笔价值3亿美元的订单。" data-title="Harbinger is building the unsexy EVs that keep the economy moving" data-date="11-21 20:00" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-21 20:00</span>
+          <span class="news-item-title">Harbinger is building the unsexy EVs that keep the economy moving</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/030/414.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，中国通号今日宣布，中国通号所属低空公司自主研发的 4.9GHz 无蜂窝移动通信基站，正式取得工业和信息化部颁发的电信设备进网许可证，成为国内首款获证的 4.9GHz 无蜂窝移动通信基站。IT之家注：中国铁路通信信号股份有限公司（简称中国通号，CRSC）成立于 2010 年，是国务院国资委监管的中央企业，总部位于北京，主营业务为轨道交通控制系统相关业务。据介绍，移动通信通常采用蜂窝模式，各基站分别划定信号覆盖范围，如同蜂巢般拼接成整张网络。蜂窝网络彼此独立，覆盖范围交界处的信号衰减较快，用户跨小区移动时容易出现切换卡顿，多基站之间资源难以统一调度协同。工业作业、低空飞行、应急救援等场景对网络连续性和稳定性要求高，无蜂窝技术的出现极大满足了信息互联需求。官方表示" data-title="国内首款，中国通号所属低空公司 4.9GHz 无蜂窝基站获证商用" data-date="11-21 16:41" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -456,6 +504,12 @@ title: 股票财经
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
           <span class="news-item-date">11-21 13:43</span>
           <span class="news-item-title">客家青年相聚海南 共谋自贸港发展机遇</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/20/us/politics/baaja-permitting-bill-trump.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="总统的影响无处不在，笼罩着旨在加快推进能源项目建设的两党立法，这些立法正在国会推进。" data-title="It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate" data-date="11-21 11:41" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-21 11:41</span>
+          <span class="news-item-title">It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate</span>
         </a>
         <a class="news-item" href="https://www.nytimes.com/article/stock-market-correction.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="标普500指数较近期高点已下跌超过10%，越过了表明投资者对股市持悲观态度的门槛。" data-title="What Is a Stock Market Correction?" data-date="11-21 06:48" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -475,60 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-20 23:53</span>
           <span class="news-item-title">李强同澳大利亚总理阿尔巴尼斯共同出席第九届中澳工商界首席执行官圆桌会</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/275.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日消息，据《财富》杂志今日报道，过去一周，美国接连发生多起技术故障，导致航班停飞、银行交易延误，数百万人无法正常使用电子邮件，暴露出美国基础设施的脆弱性。美国电网同样存在短板，问题出在铜和钢等材料的供应上。约翰斯 · 霍普金斯大学近日在《Cell Reports Sustainability》期刊发表的一项研究显示，美国最早可能在 2027 年就面临电网设备短缺，影响新建电厂和数据中心并网。到 2030 年，变压器和变流器的短缺问题或将进一步恶化。对于企业和普通家庭来说，最直接的影响将是电费上涨、停电更加频繁。参与研究的约翰斯 · 霍普金斯大学副教授尤里 · 德沃尔金与博士生 Boyu Yao 分析了电网设备供应问题。“过去，人们从不担心这些设备的供应。但缺少它们，" data-title="约翰斯 · 霍普金斯大学新研究：美国最早明年就可能面临电网设备短缺" data-date="11-20 23:22" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-20 23:22</span>
-          <span class="news-item-title">约翰斯 · 霍普金斯大学新研究：美国最早明年就可能面临电网设备短缺</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/273.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 20 日消息，AI 热潮引发的内存危机波及几乎所有消费电子产品，Steam Machine 也未能幸免。由于需求旺盛，Valve 直到近期才完成 512GB 版的全部预订订单。目前该版本尚有少量现货，消费者可以直接下单，无需继续排队。好消息之外还有坏消息。Valve 透露，Steam Machine 仍在持续生产，但内存和存储设备的成本正以前所未有的幅度上涨。受此影响，后续还能生产多少台、售价会是多少，都无法给出明确答案，价格也有进一步上涨的可能，更多消息预计将在 2027 年 1 月公布。Steam Machine 上市时，512GB 版和 2TB 版分别定价 1,049 美元（现汇率约合 7,020 元人民币）和 1,349 美元（现汇率约合 9,027 元人民币），" data-title="内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”" data-date="11-20 22:46" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-20 22:46</span>
-          <span class="news-item-title">内存成本涨幅前所未有，Valve 坦承 Steam Machine 未来售价“无法得知”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-20/10735538.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社深圳11月20日电 (记者 国璇)11月18日至19日，亚太经合组织(APEC)第三十三次领导人非正式会议在深圳举行。多位APEC成员经济体领导人在不同场合点赞深圳的发展成就，并期待有更多“深圳奇迹”出现，为亚太区域合作注入更多确定性。" data-title="（深圳APEC）“未来在此被设计、测试和建造”" data-date="11-20 22:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 22:13</span>
-          <span class="news-item-title">（深圳APEC）“未来在此被设计、测试和建造”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735540.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网巴黎11月20日电 联合国教科文组织在20日世界儿童日之际发布新报告，呼吁加大儿童学前教育投资。" data-title="联合国教科文组织新报告呼吁加大儿童学前教育投资" data-date="11-20 21:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 21:56</span>
-          <span class="news-item-title">联合国教科文组织新报告呼吁加大儿童学前教育投资</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-20/10735552.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网银川11月20日电 (记者 于晶)11月20日，记者从宁夏枸杞产业发展中心获悉，该中心首次对外发布《2025年“宁夏枸杞”商标维权典型案例》。自2025年以来，该中心联合中宁县枸杞产业发展服务中心持续开展“宁夏枸杞”地理标志证明商标维权专项行动，本次公布9起案例，覆盖线上线下多场景侵权行为，单案最高赔偿金额达3万元。" data-title="宁夏首次发布“宁夏枸杞”商标维权典型案例 多梯度打击商标侵权" data-date="11-20 21:46" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 21:46</span>
-          <span class="news-item-title">宁夏首次发布“宁夏枸杞”商标维权典型案例 多梯度打击商标侵权</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-20/10735545.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南昌11月20日电 (记者 吴鹏泉)2026年江西省“讲好商标品牌故事”线下活动20日在位于南昌青云谱区的八大山人纪念馆举行。活动以“山水江西 商标赋能——讲好赣鄱文旅品牌故事”为主题，旨在以商标品牌为纽带，积极探索知识产权与文旅产业深度融合发展新路径。" data-title="知识产权赋能文旅发展 江西擦亮赣鄱文旅品牌" data-date="11-20 21:37" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 21:37</span>
-          <span class="news-item-title">知识产权赋能文旅发展 江西擦亮赣鄱文旅品牌</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships" target="_blank" rel="noopener" data-cat="caijing" data-summary="在8月下旬的财报电话会议上，优步首席执行官达拉·科斯罗萨西（Dara Khosrowshahi）对公司与全球自动驾驶出租车领军企业Waymo的“非常牢固”的合作伙伴关系表示乐观。两家公司在多个城市合作多年。" data-title="Why the robots are ditching Uber" data-date="11-20 20:00" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-20 20:00</span>
-          <span class="news-item-title">Why the robots are ditching Uber</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735435.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社东京11月20日电(记者 朱晨曦)日本总务省20日公布的数据显示，10月日本去除生鲜食品后的核心消费价格指数(CPI)同比上升2.2%至102.9，连续62个月同比上涨。" data-title="日本核心CPI连续62个月上涨" data-date="11-20 19:17" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 19:17</span>
-          <span class="news-item-title">日本核心CPI连续62个月上涨</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-20/10735447.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月20日电 日本总务省20日公布的数据显示，剔除生鲜食品后，日本10月核心消费价格指数(CPI)同比上涨2.2%，涨幅连续两个月超过日本央行设定的2%目标水平。日媒指出，截至10月，日本核心CPI已连续62个月同比上涨。" data-title="日本核心CPI连续62个月上涨 民调显示高市应对通胀措施遭质疑" data-date="11-20 19:03" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-20 19:03</span>
-          <span class="news-item-title">日本核心CPI连续62个月上涨 民调显示高市应对通胀措施遭质疑</span>
-        </a>
   </div>
 </div>
 
@@ -542,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-21 16:54（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-21 23:30（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
