@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6753</span>
+      <span class="ticker-price ticker-up">6.6747</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 02:55:23（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:44:19（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -437,19 +437,13 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">6 条精选资讯</span>
     </div>
         <a class="news-item" href="https://www.ithome.com/1/030/708.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元（IT之家注：现汇率约合 4,016 万元人民币）种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的高压输电线上，直接利用线路充电，并沿着电网移动，前往需要进行测量的地点。”从沿电网开展测量这一用途可以看出，" data-title="Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路" data-date="11-22 20:56" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
           <span class="news-item-date">11-22 20:56</span>
           <span class="news-item-title">Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/707.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，据欧洲汽车新闻报道，雷诺集团首席执行官福兰（Francois Provost）直言，当年未能向时任首席执行官卡洛斯 · 戈恩（Carlos Ghosn）指出其在华销量目标不切实际，是自己职业生涯中最大的失误。福兰于 2025 年 7 月出任雷诺首席执行官，他曾在 2016 年和 2017 年负责该车企在华业务运营。戈恩则于 2005 年至 2019 年 1 月期间担任雷诺集团首席执行官。“我们进入中国市场太晚了。实际上，我们相当于挤上了末班车的最后一节车厢 —— 而且还没买票，”福兰表示。这一表态之所以备受关注，是因为雷诺已于 2020 年退出在华合资企业，如今正吸取当年撤退的教训，将中国业务重塑为工程研发与采购基地，而非终端销售市场。福兰表示，雷诺曾在华推" data-title="雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际" data-date="11-22 20:47" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-22 20:47</span>
-          <span class="news-item-title">雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-22/10736181.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网云南保山11月22日电 (时文枝)11月20日至22日，2026年云南省建设面向南亚东南亚辐射中心体育交流大赛暨边境幸福村体育嘉年华主题活动在保山市举行。活动以云南边境县市和南亚东南亚国家体育交流为载体，串联文体旅商农产业多元业态，以赛事赋能兴边富民。" data-title="云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民" data-date="11-22 20:23" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -475,35 +469,11 @@ title: 股票财经
           <span class="news-item-date">11-22 18:12</span>
           <span class="news-item-title">2026森林合作伙伴关系政策对话首次落地中国</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-22/10736083.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社奥斯陆11月21日电 (记者 马秀秀)初冬的奥斯陆，寒意已至。位于卡尔约翰大街的NIO House里，人头攒动，好不热闹。在近日举行的中国新能源汽车品牌蔚来进入挪威市场五周年特别活动上，当地官员、用户以及合作伙伴等齐聚一堂，共话这一中国汽车品牌在挪威的发展实践。" data-title="从“走出去”到“扎下根”：中国新能源汽车企业的“欧洲经”" data-date="11-22 16:42" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition." data-title="Fact-Checking Stephen Miller, the New White House Chief of Staff" data-date="11-22 18:02" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-22 16:42</span>
-          <span class="news-item-title">从“走出去”到“扎下根”：中国新能源汽车企业的“欧洲经”</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/623.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，制造商 Hidisc 宣布推出一款 Sound Glasses 轻量化蓝牙音频眼镜，该产品搭载蓝牙 6.0 技术、配有开放式扬声器，售价为 3,980 日元（IT之家注：现汇率约合 167.5 元人民币）。与如今功能日益复杂的智能眼镜不同，这款产品没有摄像头、AI 助手等功能，而是专注于提供基础的无线音频体验。其镜腿内置 10mm 扬声器，采用开放式音频设计，支持蓝牙 6.0，但音频编码仅支持标准 SBC 格式。这款眼镜配备触控区，用户可以通过触摸镜腿实现音乐播放、切换曲目和接听电话等操作。产品还具备 IPX5 级防水能力，可以应对日常出汗或意外淋雨等情况。眼镜配备 160mAh 电池，并采用磁吸方式充电，连续播放音乐时间可达 5.5 小时。" data-title="Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元" data-date="11-22 16:39" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-22 16:39</span>
-          <span class="news-item-title">Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/619.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，据韩媒 ETNews 今日报道，业界消息称，三星电子决定明年不推出智能手表 Galaxy Watch 系列新产品。此举打破了自 2018 年推出首款型号以来连续 9 年保持的年度发布惯例，今后的新产品发布周期将调整为两年一更（隔年发布）。此次决定是三星电子移动业务部门近期全力提升盈利能力基调的延续，三星电子在处理器和内存等核心零部件价格飙升的“芯片通胀”浪潮中，正推进全方位的成本削减与产品线优化。多位业界相关人士分析称：“在智能手表市场增长势头放缓的背景下，今年推出的 Galaxy Watch 9 也因成本上升余波导致发售价上涨，市场反响未及预期”，“既然硬件创新已进入成熟期，三星便判断每年推出新产品的方式投入产出比正在下降”。据市场调查机构 Counter" data-title="消息称三星 Galaxy Watch 智能手表改为隔年发布，明年没有新品" data-date="11-22 16:29" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-22 16:29</span>
-          <span class="news-item-title">消息称三星 Galaxy Watch 智能手表改为隔年发布，明年没有新品</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-22/10736035.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着气温持续走低，您家里的暖气热起来了吗？作为我国南方首个核能供热示范工程所在地，浙江嘉兴海盐县本周正式开启供暖。而今年，当地“核能供暖版图”持续扩容，服务范围从居民小区、工业企业，进一步延伸至文旅酒店等，让“零碳暖流”覆盖更多场景。" data-title="“零碳暖流”、AI控温 核能供暖是一种什么样的体验" data-date="11-22 13:41" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-22 13:41</span>
-          <span class="news-item-title">“零碳暖流”、AI控温 核能供暖是一种什么样的体验</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-22/10736018.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社广州11月22日电 (记者 王坚)小鹏汇天22日宣布，其研发的全尺寸全倾转电动飞行汽车A868近日进行倾转过渡试飞并取得成功。此举代表着小鹏汇天成为中国第一家完成全尺寸样机倾转过渡飞行的企业，也意味着中国在该技术领域正式跨入全球第一梯队。" data-title="中国首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功" data-date="11-22 13:23" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-22 13:23</span>
-          <span class="news-item-title">中国首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-22 18:02</span>
+          <span class="news-item-title">Fact-Checking Stephen Miller, the New White House Chief of Staff</span>
         </a>
   </div>
 </div>
@@ -518,4 +488,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-22 23:32（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-23 03:53（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
