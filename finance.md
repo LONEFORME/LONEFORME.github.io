@@ -437,8 +437,44 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">10 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/030/708.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元（IT之家注：现汇率约合 4,016 万元人民币）种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的高压输电线上，直接利用线路充电，并沿着电网移动，前往需要进行测量的地点。”从沿电网开展测量这一用途可以看出，" data-title="Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路" data-date="11-22 20:56" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-22 20:56</span>
+          <span class="news-item-title">Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/707.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，据欧洲汽车新闻报道，雷诺集团首席执行官福兰（Francois Provost）直言，当年未能向时任首席执行官卡洛斯 · 戈恩（Carlos Ghosn）指出其在华销量目标不切实际，是自己职业生涯中最大的失误。福兰于 2025 年 7 月出任雷诺首席执行官，他曾在 2016 年和 2017 年负责该车企在华业务运营。戈恩则于 2005 年至 2019 年 1 月期间担任雷诺集团首席执行官。“我们进入中国市场太晚了。实际上，我们相当于挤上了末班车的最后一节车厢 —— 而且还没买票，”福兰表示。这一表态之所以备受关注，是因为雷诺已于 2020 年退出在华合资企业，如今正吸取当年撤退的教训，将中国业务重塑为工程研发与采购基地，而非终端销售市场。福兰表示，雷诺曾在华推" data-title="雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际" data-date="11-22 20:47" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-22 20:47</span>
+          <span class="news-item-title">雷诺集团 CEO 福兰反思职业生涯最大失误：当年未能指出在华销量目标不切实际</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-22/10736181.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网云南保山11月22日电 (时文枝)11月20日至22日，2026年云南省建设面向南亚东南亚辐射中心体育交流大赛暨边境幸福村体育嘉年华主题活动在保山市举行。活动以云南边境县市和南亚东南亚国家体育交流为载体，串联文体旅商农产业多元业态，以赛事赋能兴边富民。" data-title="云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民" data-date="11-22 20:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-22 20:23</span>
+          <span class="news-item-title">云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-22/10736174.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月22日电 (记者 陈杭)在2026脑机接口大会上，专家学者围绕技术、应用、产业化与治理展开探讨，勾勒出脑机接口从帮助截瘫患者站立行走到“脑联网”的未来图景。" data-title="院士专家北京共论脑机接口未来图景" data-date="11-22 20:16" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-22 20:16</span>
+          <span class="news-item-title">院士专家北京共论脑机接口未来图景</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-22/10736151.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月22日电 综合外媒报道，当地时间20日，美国总统特朗普在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤，这是“多年来最具重大意义”的国际会晤之一。" data-title="特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一" data-date="11-22 19:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-22 19:12</span>
+          <span class="news-item-title">特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-22/10736119.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南宁11月22日电(黄令妍)2026森林合作伙伴关系政策对话21日在广西南宁举行。这是该对话活动首次落地中国，与会代表围绕构建可持续林业产业、提升林业产业的资源基础等全球性议题深入研讨。" data-title="2026森林合作伙伴关系政策对话首次落地中国" data-date="11-22 18:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-22 18:12</span>
+          <span class="news-item-title">2026森林合作伙伴关系政策对话首次落地中国</span>
+        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-22/10736083.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社奥斯陆11月21日电 (记者 马秀秀)初冬的奥斯陆，寒意已至。位于卡尔约翰大街的NIO House里，人头攒动，好不热闹。在近日举行的中国新能源汽车品牌蔚来进入挪威市场五周年特别活动上，当地官员、用户以及合作伙伴等齐聚一堂，共话这一中国汽车品牌在挪威的发展实践。" data-title="从“走出去”到“扎下根”：中国新能源汽车企业的“欧洲经”" data-date="11-22 16:42" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -469,36 +505,6 @@ title: 股票财经
           <span class="news-item-date">11-22 13:23</span>
           <span class="news-item-title">中国首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/505.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，当地时间 20 日，据《华尔街日报》报道，亚马逊对纽约市的一项劳工法案《配送保护法》（又称第 518 号提案）发起了反击。该法案将强制企业直接雇佣送货人员，而不是外包给第三方承包商。不仅如此，亚马逊通过弹出窗口警告客户：如果该法案最终成为法律，每笔订单的配送费用或将涨价 5 美元（IT之家注：现汇率约合 33.5 元人民币）。该法案将改变亚马逊配送司机的实际雇主身份。按照目前的配送模式，在身穿亚马逊马甲、驾驶亚马逊货车，甚至受到亚马逊 AI 摄像头的驾驶行为监控的司机背后，实际的雇主往往是亚马逊旗下配送体系中的小型合作企业，或称配送服务合作伙伴（Delivery Service Partners）。根据纽约市这项法案，亚马逊若想继续在纽约市五大行政区运营配送" data-title="亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元" data-date="11-21 22:18" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-21 22:18</span>
-          <span class="news-item-title">亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/504.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，11 月 20 日，广汽夸克电驱非晶-碳纤维电驱第 10 万套正式量产下线。官方表示，这一里程碑标志着广汽成为全球唯一实现非晶合金车用电驱规模化量产的企业。据介绍，广汽动力总成自主研发团队围绕材料、工艺、结构和控制开展全链路攻关，首创非晶合金定子量产工艺，突破碳纤维高速转子关键技术，让非晶-碳纤维电驱从科研成果转化为可批量交付的车规级产品。夸克电驱 2.0 非晶-碳纤维电驱的核心突破，始于定子与转子两端：定子采用厚度 0.025mm 的非晶合金带材，厚度约为常规超薄硅钢片的五分之一；非晶合金磁导率可达普通硅钢片的 20 至 100 倍，单位铁损低至 5.7W/kg，较极薄硅钢降低约 50%。为实现车规级量产，广汽打通复合、冲压、叠装等成套工艺，非晶铁芯叠压层" data-title="全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶" data-date="11-21 21:53" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-21 21:53</span>
-          <span class="news-item-title">全球唯一实现非晶合金车用电驱规模化量产，广汽夸克电驱非晶</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-21/10735919.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社南宁11月21日电 (张广权 黄令妍)2026年林木业大会21日在广西南宁举行。大会现场签约一批项目，总金额超400亿元人民币，涵盖浆纸原料林、纸品加工等领域。" data-title="2026年林木业大会在南宁举行 现场签约超400亿元" data-date="11-21 21:51" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-21 21:51</span>
-          <span class="news-item-title">2026年林木业大会在南宁举行 现场签约超400亿元</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/479.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，从零开发一套操作系统，即使对经验丰富的工程团队而言也是一项艰巨任务，南非开发者兼企业家德里克 · 佩恩却选择独自承担这项工作。当地时间 20 日，据外媒 TechSpot 报道，佩恩近日公布了面向现代 x86-64 PC 的全新操作系统 ——Impossible OS，其设计借鉴 Windows 11，完全基于开源代码开发。根据项目官方宣言，Impossible OS 的目标是原生运行基于 Win32 API 开发的软件，同时兼容 Linux 二进制程序。佩恩强调，其并非“又一个 Linux 发行版”，而是一套拥有自身底层架构的独立操作系统，包含 Ring 0 内核、UEFI 引导程序和桌面图形界面等核心组件。在兼容性方面，Impossible OS 通过内" data-title="南非开发者宣称独自开发操作系统 Impossible OS：兼容 Win32 和 Linux 二进制程序，两年后见" data-date="11-21 21:32" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-21 21:32</span>
-          <span class="news-item-title">南非开发者宣称独自开发操作系统 Impossible OS：兼容 Win32 和 Linux 二进制程序，两年后见</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-21/10735890.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杭州11月21日电(林波 孙琳茹)11月20日至22日，首届历史经典产业博览会在浙江杭州举行。博览会以“经典传承 新质兴业”为主题，汇聚丝绸、茶叶、瓷器、中药、酿造、工艺美术等产业，集中展示历史经典产业守正创新、向新发展的丰硕成果。" data-title="首届历史经典产业博览会在杭州举行：有哪些“经典”？" data-date="11-21 20:45" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-21 20:45</span>
-          <span class="news-item-title">首届历史经典产业博览会在杭州举行：有哪些“经典”？</span>
-        </a>
   </div>
 </div>
 
@@ -512,4 +518,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-22 16:56（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-22 23:32（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
