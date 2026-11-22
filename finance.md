@@ -437,8 +437,38 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">5 条精选资讯</span>
+      <span class="news-category-count">10 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-22/10736083.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社奥斯陆11月21日电 (记者 马秀秀)初冬的奥斯陆，寒意已至。位于卡尔约翰大街的NIO House里，人头攒动，好不热闹。在近日举行的中国新能源汽车品牌蔚来进入挪威市场五周年特别活动上，当地官员、用户以及合作伙伴等齐聚一堂，共话这一中国汽车品牌在挪威的发展实践。" data-title="从“走出去”到“扎下根”：中国新能源汽车企业的“欧洲经”" data-date="11-22 16:42" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-22 16:42</span>
+          <span class="news-item-title">从“走出去”到“扎下根”：中国新能源汽车企业的“欧洲经”</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/623.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，制造商 Hidisc 宣布推出一款 Sound Glasses 轻量化蓝牙音频眼镜，该产品搭载蓝牙 6.0 技术、配有开放式扬声器，售价为 3,980 日元（IT之家注：现汇率约合 167.5 元人民币）。与如今功能日益复杂的智能眼镜不同，这款产品没有摄像头、AI 助手等功能，而是专注于提供基础的无线音频体验。其镜腿内置 10mm 扬声器，采用开放式音频设计，支持蓝牙 6.0，但音频编码仅支持标准 SBC 格式。这款眼镜配备触控区，用户可以通过触摸镜腿实现音乐播放、切换曲目和接听电话等操作。产品还具备 IPX5 级防水能力，可以应对日常出汗或意外淋雨等情况。眼镜配备 160mAh 电池，并采用磁吸方式充电，连续播放音乐时间可达 5.5 小时。" data-title="Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元" data-date="11-22 16:39" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-22 16:39</span>
+          <span class="news-item-title">Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/030/619.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，据韩媒 ETNews 今日报道，业界消息称，三星电子决定明年不推出智能手表 Galaxy Watch 系列新产品。此举打破了自 2018 年推出首款型号以来连续 9 年保持的年度发布惯例，今后的新产品发布周期将调整为两年一更（隔年发布）。此次决定是三星电子移动业务部门近期全力提升盈利能力基调的延续，三星电子在处理器和内存等核心零部件价格飙升的“芯片通胀”浪潮中，正推进全方位的成本削减与产品线优化。多位业界相关人士分析称：“在智能手表市场增长势头放缓的背景下，今年推出的 Galaxy Watch 9 也因成本上升余波导致发售价上涨，市场反响未及预期”，“既然硬件创新已进入成熟期，三星便判断每年推出新产品的方式投入产出比正在下降”。据市场调查机构 Counter" data-title="消息称三星 Galaxy Watch 智能手表改为隔年发布，明年没有新品" data-date="11-22 16:29" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-22 16:29</span>
+          <span class="news-item-title">消息称三星 Galaxy Watch 智能手表改为隔年发布，明年没有新品</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-22/10736035.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="随着气温持续走低，您家里的暖气热起来了吗？作为我国南方首个核能供热示范工程所在地，浙江嘉兴海盐县本周正式开启供暖。而今年，当地“核能供暖版图”持续扩容，服务范围从居民小区、工业企业，进一步延伸至文旅酒店等，让“零碳暖流”覆盖更多场景。" data-title="“零碳暖流”、AI控温 核能供暖是一种什么样的体验" data-date="11-22 13:41" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-22 13:41</span>
+          <span class="news-item-title">“零碳暖流”、AI控温 核能供暖是一种什么样的体验</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-22/10736018.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社广州11月22日电 (记者 王坚)小鹏汇天22日宣布，其研发的全尺寸全倾转电动飞行汽车A868近日进行倾转过渡试飞并取得成功。此举代表着小鹏汇天成为中国第一家完成全尺寸样机倾转过渡飞行的企业，也意味着中国在该技术领域正式跨入全球第一梯队。" data-title="中国首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功" data-date="11-22 13:23" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-22 13:23</span>
+          <span class="news-item-title">中国首款全尺寸全倾转电动飞行汽车倾转过渡试飞成功</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/030/505.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 21 日消息，当地时间 20 日，据《华尔街日报》报道，亚马逊对纽约市的一项劳工法案《配送保护法》（又称第 518 号提案）发起了反击。该法案将强制企业直接雇佣送货人员，而不是外包给第三方承包商。不仅如此，亚马逊通过弹出窗口警告客户：如果该法案最终成为法律，每笔订单的配送费用或将涨价 5 美元（IT之家注：现汇率约合 33.5 元人民币）。该法案将改变亚马逊配送司机的实际雇主身份。按照目前的配送模式，在身穿亚马逊马甲、驾驶亚马逊货车，甚至受到亚马逊 AI 摄像头的驾驶行为监控的司机背后，实际的雇主往往是亚马逊旗下配送体系中的小型合作企业，或称配送服务合作伙伴（Delivery Service Partners）。根据纽约市这项法案，亚马逊若想继续在纽约市五大行政区运营配送" data-title="亚马逊硬刚纽约拟议《配送保护法》：喊话消费者当心配送费涨价最高 5 美元" data-date="11-21 22:18" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -482,4 +512,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-22 03:34（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-22 16:56（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
