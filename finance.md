@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">25,028.98</span>
-      <span class="ticker-change down">▼ -5.61%</span>
+      <span class="ticker-price ticker-up">26,760.72</span>
+      <span class="ticker-change up">▲ +6.92%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-21 09:18:10（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-24 03:27:22（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6664</span>
+      <span class="ticker-price ticker-down">6.6666</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:13:06（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:27:16（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,616.68 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +82.04 (+2.32%)</span>
+      <span class="ticker-price ticker-up">$3,652.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +117.36 (+3.32%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:13:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:27:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥777.20 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -3.04 (-0.39%)</span>
+      <span class="ticker-price ticker-up">¥785.75 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +5.51 (+0.71%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:13:11（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 02:29:56（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$91.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.15 (-1.24%)</span>
+      <span class="ticker-price ticker-down">$89.25 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -3.32 (-3.59%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:13:16（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 03:27:30（非实时）</div>
   </div>
 </div>
 
@@ -437,73 +437,55 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">11 条精选资讯</span>
+      <span class="news-category-count">8 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-23/10736559.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中国天气网讯 明天(11月24日)晚上，超级月亮将现身夜空。今年12月和明年1月还会各出现一次超级月亮，构成十分罕见的跨年度“三连超级月亮”，届时天空中还会上演“月掩昴星团”天象。中国天气网推出全国赏月指数地图，看看明晚哪里能欣赏到这场月色盛宴。" data-title="三连超级月亮要来了！全国赏月指数地图出炉 看哪里将上演皓月当空" data-date="11-23 17:38" data-source="中国新闻网">
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/stock-up-on-storage-with-4tb-t-force-g50-ssd-at-just-usd0-10-per-gb-entry-level-pcie-4-0-drive-offers-decent-performance-and-lots-of-capacity" target="_blank" rel="noopener" data-cat="caijing" data-summary="Team Group的4TB T-Force G50 Evo有超值优惠，在黑色星期五前将价格降至每GB仅0.10美元。" data-title="Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB" data-date="11-24 02:11" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-23 17:38</span>
-          <span class="news-item-title">三连超级月亮要来了！全国赏月指数地图出炉 看哪里将上演皓月当空</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-24 02:11</span>
+          <span class="news-item-title">Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-23/10736543.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳11月23日电 (记者 赵桂华)11月23日，初冬的沈阳，联东U谷产业园的数字化车间里，智能产线正平稳运转。园区政务服务驿站内，一家装备制造企业的负责人正俯身屏幕前，与工作人员肩并肩逐项核对特种设备登记材料，不到半小时，手续办结。“以前跑大厅，现在下楼就能办，千余项审批不出园。”他抬头笑了笑。" data-title="千余项审批不出园 沈阳“七彩政务”跑出惠企加速度" data-date="11-23 17:35" data-source="中国新闻网">
+        <a class="news-item" href="https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay" target="_blank" rel="noopener" data-cat="caijing" data-summary="Let&#39;s say you&#39;re Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) &quot;terrorized&quot; your employees, a series of indiscretions that led to your ouster from what was once the world&#39;s most valuable company. (The stock price has recently taken […]" data-title="Tech leaders are celebrating Jensen Huang’s return" data-date="11-24 00:14" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-23 17:35</span>
-          <span class="news-item-title">千余项审批不出园 沈阳“七彩政务”跑出惠企加速度</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-24 00:14</span>
+          <span class="news-item-title">Tech leaders are celebrating Jensen Huang’s return</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-23/10736548.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="国务院台湾事务办公室与中国进出口银行23日在京签署《“十五五”时期促进两岸融合发展金融合作协议》。根据协议，中国进出口银行将于“十五五”时期在支持广大台商台企扎根大陆发展、涉台园区建设、大陆企业赴台投资、两岸企业贸易往来、大陆台资企业参与共建“一带一路”等方面加强综合金融服务，提供融资支持。" data-title="国务院台办与中国进出口银行签署“十五五”时期促进两岸融合发展金融合作协议" data-date="11-23 17:19" data-source="中国新闻网">
+        <a class="news-item" href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/" target="_blank" rel="noopener" data-cat="caijing" data-summary="由Salesforce前联席首席执行官Bret Taylor共同创立的企业客户体验公司Sierra周一表示，该公司已在F轮融资中筹集了17.5亿美元。" data-title="Sierra doubles valuation to $30B within six months as demand for AI in CX takes off" data-date="11-23 22:43" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-23 17:19</span>
-          <span class="news-item-title">国务院台办与中国进出口银行签署“十五五”时期促进两岸融合发展金融合作协议</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-23 22:43</span>
+          <span class="news-item-title">Sierra doubles valuation to $30B within six months as demand for AI in CX takes off</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/031/023.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 23 日消息，曾经凭借全键盘手机和 BBM（黑莓即时通信软件）风靡消费市场的黑莓（BlackBerry），早已因智能手机生态系统衰落而转向企业业务。近日，该公司进一步拓展企业安全服务，正式推出面向 Windows 平台的 BlackBerry Access Secure Browser（黑莓安全浏览器）。IT之家注意到，这款基于 Chromium 内核的浏览器将黑莓的数据保护能力引入网页浏览场景，即使用户使用的电脑并未完全纳入企业管理，也能获得相应的安全保护。其与此前推出的 iOS 和 Android 版 BlackBerry Access 共同构成跨平台解决方案，同时取代了旧版 BlackBerry Access 桌面客户端。这款浏览器旨在将自带设备办公（BYOD）模式" data-title="黑莓推出 Windows 安全浏览器：无需接管整台设备，也能保护企业数据" data-date="11-23 17:08" data-source="IT之家">
+        <a class="news-item" href="https://www.ithome.com/1/031/217.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 23 日消息，今日英伟达美股开盘跳涨 32%，市值增加超 1 万亿美元（IT之家注：现汇率约合 6.68 万亿元人民币），总市值重新站上 4 万亿美元（现汇率约合 26.73 万亿元人民币）。英伟达当日宣布，即日起恢复黄仁勋总裁兼首席执行官及董事会成员职务。IT之家注意到，英伟达在新闻稿中称，在与黄仁勋进行一系列讨论和会议后，董事会一致投票决定恢复其职务，董事会随后对黄仁勋的坦诚及其领导英伟达的能力表示满意。“我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，”黄仁勋表示，“我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在此过程中给予的信任与审慎考量。我尤其感谢哈维 · 琼斯（Harvey Jones）作为董事长所展现" data-title="黄仁勋恢复 CEO 职务：英伟达美股开盘大涨 32%，市值增加超 1 万亿美元" data-date="11-23 22:39" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-23 17:08</span>
-          <span class="news-item-title">黑莓推出 Windows 安全浏览器：无需接管整台设备，也能保护企业数据</span>
+          <span class="news-item-date">11-23 22:39</span>
+          <span class="news-item-title">黄仁勋恢复 CEO 职务：英伟达美股开盘大涨 32%，市值增加超 1 万亿美元</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-23/10736492.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月23日电 综合报道，美国总统特朗普当地时间22日在社交平台发文，将近期美股大跌归咎于民主党在中期选举中获胜。" data-title="特朗普回应美股大跌：100%是因为民主党" data-date="11-23 16:39" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-23/10736705.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月23日电 (记者 张杨彬 刘子衿)国务院台湾事务办公室与中国进出口银行23日在北京签署《“十五五”时期促进两岸融合发展金融合作协议》。" data-title="国务院台办与中国进出口银行签署合作协议" data-date="11-23 22:22" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-23 16:39</span>
-          <span class="news-item-title">特朗普回应美股大跌：100%是因为民主党</span>
+          <span class="news-item-date">11-23 22:22</span>
+          <span class="news-item-title">国务院台办与中国进出口银行签署合作协议</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/030/708.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 22 日消息，科技初创公司 Nomadic 本周展示了旗下的 NOMAD 无人机，同时宣布完成 600 万美元（IT之家注：现汇率约合 4,016 万元人民币）种子轮融资。这款四旋翼无人机有一项与其名字相呼应的独特能力：几乎可以一直飞行，无需返回基地。NOMAD 无人机能够停靠在高压输电线上，直接从线路获取电能并为自身充电，随后继续执行下一项任务。此前外界鲜有关于 NOMAD 无人机的消息。Nomadic 表示，公司已经在德国、挪威和美国的实际带电线路上，对这款四旋翼无人机进行了超过 2 万小时的测试。Nomadic 将其概括为：“NOMAD 无人机可以降落在带电的高压输电线上，直接利用线路充电，并沿着电网移动，前往需要进行测量的地点。”从沿电网开展测量这一用途可以看出，" data-title="Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路" data-date="11-22 20:56" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-22 20:56</span>
-          <span class="news-item-title">Nomadic 无人机停高压电线上就能充电，每架可负责监测 25 公里电网线路</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-22/10736181.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网云南保山11月22日电 (时文枝)11月20日至22日，2026年云南省建设面向南亚东南亚辐射中心体育交流大赛暨边境幸福村体育嘉年华主题活动在保山市举行。活动以云南边境县市和南亚东南亚国家体育交流为载体，串联文体旅商农产业多元业态，以赛事赋能兴边富民。" data-title="云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民" data-date="11-22 20:23" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-23/10736698.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月23日电 (记者 张杨彬 刘子衿)“这个额度是我们当初没有料想到的。”重庆新格有色金属有限公司董事长黄耀滨23日在一场签约仪式上谈起今年初的一笔5000万元(人民币，下同)融资。那是这位台商第一次与中国进出口银行“打交道”。" data-title="政策性金融解台企发展之“渴” 台商期待借力拓展海外市场" data-date="11-23 22:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-22 20:23</span>
-          <span class="news-item-title">云南连续四年举办边境幸福村体育嘉年华 以赛事赋能兴边富民</span>
+          <span class="news-item-date">11-23 22:02</span>
+          <span class="news-item-title">政策性金融解台企发展之“渴” 台商期待借力拓展海外市场</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-22/10736174.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月22日电 (记者 陈杭)在2026脑机接口大会上，专家学者围绕技术、应用、产业化与治理展开探讨，勾勒出脑机接口从帮助截瘫患者站立行走到“脑联网”的未来图景。" data-title="院士专家北京共论脑机接口未来图景" data-date="11-22 20:16" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-23/10736687.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网杭州11月23日电 (钱晨菲)杭州市新生代企业家联谊会官方微信公众号近日发文显示，宇树科技股份有限公司董事长、创始人兼CEO王兴兴，已担任杭州市新生代企业家联谊会会长。" data-title="王兴兴担任杭州市新生代企业家联谊会会长" data-date="11-23 21:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-22 20:16</span>
-          <span class="news-item-title">院士专家北京共论脑机接口未来图景</span>
+          <span class="news-item-date">11-23 21:56</span>
+          <span class="news-item-title">王兴兴担任杭州市新生代企业家联谊会会长</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-22/10736151.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月22日电 综合外媒报道，当地时间20日，美国总统特朗普在白宫举行的新闻发布会上表示，日前在中国深圳举行的亚太经合组织领导人非正式会议是一场非常成功的经济会议，美国、中国和俄罗斯三国领导人还举行了首次三方会晤，这是“多年来最具重大意义”的国际会晤之一。" data-title="特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一" data-date="11-22 19:12" data-source="中国新闻网">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-23/10736660.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州11月23日电 (记者 孙秋霞)记者23日从国家税务总局广东省税务局获悉，增值税发票数据显示，今年前三季度，广东省营养和保健品零售、保健辅助治疗器材零售销售收入同比分别增长25.0%、16.6%。依托持续升级的养老需求，基础照护、品质消费、智慧养老等多元业态在广东加快培育，广东银发经济市场活力持续释放。" data-title="今年前三季度广东银发经济市场活力持续释放" data-date="11-23 20:59" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-22 19:12</span>
-          <span class="news-item-title">特朗普点赞中俄美元首会晤气氛“热烈”，是“多年来最具重大意义”的国际会晤之一</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-22/10736119.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南宁11月22日电(黄令妍)2026森林合作伙伴关系政策对话21日在广西南宁举行。这是该对话活动首次落地中国，与会代表围绕构建可持续林业产业、提升林业产业的资源基础等全球性议题深入研讨。" data-title="2026森林合作伙伴关系政策对话首次落地中国" data-date="11-22 18:12" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-22 18:12</span>
-          <span class="news-item-title">2026森林合作伙伴关系政策对话首次落地中国</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="米勒先生曾宣扬过第二届特朗普政府在移民政策、经济和政治反对派方面的一些最恶劣的谎言。" data-title="Fact-Checking Stephen Miller, the New White House Chief of Staff" data-date="11-22 18:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-22 18:02</span>
-          <span class="news-item-title">Fact-Checking Stephen Miller, the New White House Chief of Staff</span>
+          <span class="news-item-date">11-23 20:59</span>
+          <span class="news-item-title">今年前三季度广东银发经济市场活力持续释放</span>
         </a>
   </div>
 </div>
@@ -518,4 +500,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-23 17:55（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-24 03:24（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
