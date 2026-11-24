@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">26,760.72</span>
-      <span class="ticker-change up">▲ +6.92%</span>
+      <span class="ticker-price ticker-up">26,746.10</span>
+      <span class="ticker-change up">▲ +6.86%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-24 03:27:22（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-24 06:30:30（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6666</span>
+      <span class="ticker-price ticker-down">6.6657</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:27:16（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 08:10:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,652.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +117.36 (+3.32%)</span>
+      <span class="ticker-price ticker-down">$3,627.46 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -7.77 (-0.21%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:27:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 08:09:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$89.25 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -3.32 (-3.59%)</span>
+      <span class="ticker-price ticker-down">$86.64 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -3.31 (-3.68%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:27:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 06:59:55（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,14 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">8 条精选资讯</span>
+      <span class="news-category-count">9 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government." data-title="Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist" data-date="11-24 05:25" data-source="TechCrunch">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
+          <span class="news-item-date">11-24 05:25</span>
+          <span class="news-item-title">Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist</span>
+        </a>
         <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/stock-up-on-storage-with-4tb-t-force-g50-ssd-at-just-usd0-10-per-gb-entry-level-pcie-4-0-drive-offers-decent-performance-and-lots-of-capacity" target="_blank" rel="noopener" data-cat="caijing" data-summary="Team Group的4TB T-Force G50 Evo有超值优惠，在黑色星期五前将价格降至每GB仅0.10美元。" data-title="Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB" data-date="11-24 02:11" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
@@ -500,4 +506,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-24 03:24（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-24 08:08（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
