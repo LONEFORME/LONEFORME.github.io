@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,570.03</span>
-      <span class="ticker-change up">▲ +0.88%</span>
+      <span class="ticker-price ticker-up">3,548.37</span>
+      <span class="ticker-change up">▲ +0.27%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-24 10:07:29（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-24 15:35:57（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">10,637.38</span>
-      <span class="ticker-change up">▲ +1.75%</span>
+      <span class="ticker-price ticker-down">10,423.60</span>
+      <span class="ticker-change down">▼ -0.29%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-24 10:07:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-24 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">2,346.25</span>
-      <span class="ticker-change up">▲ +2.90%</span>
+      <span class="ticker-price ticker-down">2,278.99</span>
+      <span class="ticker-change down">▼ -0.05%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-24 10:07:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-24 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">1,276.93</span>
-      <span class="ticker-change up">▲ +3.99%</span>
+      <span class="ticker-price ticker-up">1,250.09</span>
+      <span class="ticker-change up">▲ +1.81%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-24 10:07:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-24 15:35:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,536.83</span>
-      <span class="ticker-change up">▲ +0.82%</span>
+      <span class="ticker-price ticker-down">3,464.52</span>
+      <span class="ticker-change down">▼ -1.24%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -105,7 +105,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-24 06:30:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-24 09:17:52（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6616</span>
+      <span class="ticker-price ticker-down">6.6624</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:07:28（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 19:47:53（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,649.66 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +14.43 (+0.40%)</span>
+      <span class="ticker-price ticker-down">$3,632.88 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -2.35 (-0.06%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:07:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 19:47:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥784.36 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +4.12 (+0.53%)</span>
+      <span class="ticker-price ticker-down">¥777.25 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -2.99 (-0.38%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:01:50（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 15:30:01（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">22,550.02</span>
-      <span class="ticker-change up">▲ +0.74%</span>
+      <span class="ticker-price ticker-down">22,205.65</span>
+      <span class="ticker-change down">▼ -0.80%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$86.42 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.26 (-0.29%)</span>
+      <span class="ticker-price ticker-up">$87.06 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.38 (+0.43%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 10:07:30（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 19:48:07（非实时）</div>
   </div>
 </div>
 
@@ -437,25 +437,67 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">9 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/" target="_blank" rel="noopener" data-cat="caijing" data-summary="Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government." data-title="Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist" data-date="11-24 05:25" data-source="TechCrunch">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-24/10737107.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月24日电 据江西省纪委监委消息：江西省金融控股集团有限公司党委委员、副总经理，江西瑞奇期货有限公司董事长吴晓涉嫌严重违纪违法，主动向组织交代问题，目前正接受江西省纪委监委纪律审查和监察调查。" data-title="江西省金融控股集团有限公司副总经理吴晓接受审查调查" data-date="11-24 19:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-24 19:40</span>
+          <span class="news-item-title">江西省金融控股集团有限公司副总经理吴晓接受审查调查</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-24/10737148.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网沈阳11月24日电 (记者 李𬀪)为深化慈善文化“五进”活动，引导企业履行社会责任，推动慈善文化与企业文化深度融合，助力沈阳慈善事业高质量发展，11月24日，由沈阳市民政局主办的“慈善力量·共识共融”慈善文化进企业活动在沈阳国际软件园举行。" data-title="“慈善力量·共识共融”慈善文化进企业活动在沈阳举办" data-date="11-24 19:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-24 19:39</span>
+          <span class="news-item-title">“慈善力量·共识共融”慈善文化进企业活动在沈阳举办</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-24/10737125.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网漠河11月24日电 题：黑龙江漠河：立足极寒边境禀赋 推动产业联农带农提质增效" data-title="黑龙江漠河：立足极寒边境禀赋 推动产业联农带农提质增效" data-date="11-24 19:37" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-24 19:37</span>
+          <span class="news-item-title">黑龙江漠河：立足极寒边境禀赋 推动产业联农带农提质增效</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-24/10737128.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网哈尔滨11月24日电(记者 王妮娜)24日，记者获悉，黑龙江首届机器人冰雪运动超级联赛暨2027寒地机器人竞技展演大赛(机器人“冰超”)将于2027年1月9日至11日在哈尔滨市举办。组委会即日起面向国内高等院校、机器人科创企业广发邀约，欢迎各单位组队参赛，在极寒冰雪场景下检验机器人技术成果，共探“冰雪+机器人”融合创新路径。" data-title="黑龙江向全国发出邀约 带着机器人来冰城参加“冰超”赛" data-date="11-24 19:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-24 19:29</span>
+          <span class="news-item-title">黑龙江向全国发出邀约 带着机器人来冰城参加“冰超”赛</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/031/810.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 24 日消息，国产开放世界生存建造游戏《异化之境》将于今天稍晚在 Steam 平台开启抢先体验，目前官方已放出游戏试玩 DEMO。该作由机械狂牛工作室独立开发并发行。IT之家附游戏商品页（https://store.steampowered.com/app/5257810/异化之境/?l=schinese&amp;cc=cn）。根据官方介绍，《异化之境》是一款支持单人与在线合作的开放世界生存与机械建造游戏。玩家将穿过神秘传送门，来到核战后的陌生世界，在肩载机器人伙伴陈小拉的协助下采集资源、建造基地、自由拼装机械载具，并驾驶自己的造物探索自然荒野与战争遗迹，追寻特殊能源背后的秘密。游戏核心玩法特色包括：肩载机器人陈小拉：旅途中的重要伙伴，可协助玩家组装机械、搭建房屋、与其他机器人沟" data-title="国产开放世界生存游戏《异化之境》开启抢先体验，提供试玩 DEMO" data-date="11-24 19:14" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-24 19:14</span>
+          <span class="news-item-title">国产开放世界生存游戏《异化之境》开启抢先体验，提供试玩 DEMO</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/11/512411.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="2026年11月27日，2027中国AIoT产业年会暨创新私董会将在深圳柏悦酒店举行" data-title="最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见" data-date="11-24 16:44" data-source="量子位">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">11-24 16:44</span>
+          <span class="news-item-title">最新议程与嘉宾阵容公布！2027中国AIoT产业年会，11月27日深圳见</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/11/512387.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="探讨未来产业布局与结构性新周期下的资产配置机遇。" data-title="叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办" data-date="11-24 16:34" data-source="量子位">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">11-24 16:34</span>
+          <span class="news-item-title">叙事时代丨第20届中国投资年会·有限合伙人峰会在沪成功举办</span>
+        </a>
+        <a class="news-item" href="https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/" target="_blank" rel="noopener" data-cat="caijing" data-summary="除非美国公司获得联邦政府的特别许可，否则Megaspeed（此前由黄馨（Alice Huang）领导）将被禁止与美国公司开展业务。" data-title="Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist" data-date="11-24 05:25" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
           <span class="news-item-date">11-24 05:25</span>
           <span class="news-item-title">Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/23/style/amy-nelson-riveter-amazon-fbi-investigation.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="艾米·纳尔逊（Amy Nelson）是“女老板”时代的女性代言人，她发现自己的家人被亚马逊盯上了，而自己也成为了反企业斗士的新角色。" data-title="Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life." data-date="11-24 03:33" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-24 03:33</span>
+          <span class="news-item-title">Amy Nelson Was a Corporate Feminist Darling. Then a Corporation Upended Her Life.</span>
         </a>
         <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/stock-up-on-storage-with-4tb-t-force-g50-ssd-at-just-usd0-10-per-gb-entry-level-pcie-4-0-drive-offers-decent-performance-and-lots-of-capacity" target="_blank" rel="noopener" data-cat="caijing" data-summary="Team Group的4TB T-Force G50 Evo有超值优惠，在黑色星期五前将价格降至每GB仅0.10美元。" data-title="Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB" data-date="11-24 02:11" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">11-24 02:11</span>
           <span class="news-item-title">Stock up on storage with 4TB T-Force G50 SSD at just $0.10 per GB</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay" target="_blank" rel="noopener" data-cat="caijing" data-summary="Let&#39;s say you&#39;re Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) &quot;terrorized&quot; your employees, a series of indiscretions that led to your ouster from what was once the world&#39;s most valuable company. (The stock price has recently taken […]" data-title="Tech leaders are celebrating Jensen Huang’s return" data-date="11-24 00:14" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-24 00:14</span>
-          <span class="news-item-title">Tech leaders are celebrating Jensen Huang’s return</span>
         </a>
         <a class="news-item" href="https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/" target="_blank" rel="noopener" data-cat="caijing" data-summary="由Salesforce前联席首席执行官Bret Taylor共同创立的企业客户体验公司Sierra周一表示，该公司已在F轮融资中筹集了17.5亿美元。" data-title="Sierra doubles valuation to $30B within six months as demand for AI in CX takes off" data-date="11-23 22:43" data-source="TechCrunch">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -487,12 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-23 21:56</span>
           <span class="news-item-title">王兴兴担任杭州市新生代企业家联谊会会长</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-23/10736660.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州11月23日电 (记者 孙秋霞)记者23日从国家税务总局广东省税务局获悉，增值税发票数据显示，今年前三季度，广东省营养和保健品零售、保健辅助治疗器材零售销售收入同比分别增长25.0%、16.6%。依托持续升级的养老需求，基础照护、品质消费、智慧养老等多元业态在广东加快培育，广东银发经济市场活力持续释放。" data-title="今年前三季度广东银发经济市场活力持续释放" data-date="11-23 20:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-23 20:59</span>
-          <span class="news-item-title">今年前三季度广东银发经济市场活力持续释放</span>
-        </a>
   </div>
 </div>
 
@@ -506,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-24 08:08（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-24 19:43（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
