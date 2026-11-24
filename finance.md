@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">26,203.43</span>
-      <span class="ticker-change down">▼ -2.03%</span>
+      <span class="ticker-price ticker-down">26,214.17</span>
+      <span class="ticker-change down">▼ -1.99%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-25 03:02:24（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-25 06:30:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6654</span>
-      <span class="ticker-change down">▼ -0 bp</span>
+      <span class="ticker-price ticker-up">6.6655</span>
+      <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:02:17（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 06:40:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,555.79 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -79.44 (-2.19%)</span>
+      <span class="ticker-price ticker-down">$3,555.83 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -79.40 (-2.18%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:02:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:58:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$88.28 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +1.60 (+1.85%)</span>
+      <span class="ticker-price ticker-up">$88.34 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +1.66 (+1.91%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:02:31（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 06:31:04（非实时）</div>
   </div>
 </div>
 
@@ -437,8 +437,32 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">3 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial" target="_blank" rel="noopener" data-cat="caijing" data-summary="据NBC新闻和彭博社报道，陪审团已裁定华为窃取美国商业秘密的罪名成立。该判决在纽约的一家联邦法院作出，结束了长达数年的法律诉讼，该诉讼指控这家中国电信巨头窃取商业机密。" data-title="Huawei found guilty of stealing trade secrets" data-date="11-25 06:23" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-25 06:23</span>
+          <span class="news-item-title">Huawei found guilty of stealing trade secrets</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-25/10737277.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社莫斯科11月24日电 俄罗斯总统普京24日主持召开能源发展战略和环境安全委员会会议时表示，针对乌克兰对俄能源基础设施的袭击，俄方必然作出回应。" data-title="普京：乌方袭击俄能源设施必招致俄方回应" data-date="11-25 06:17" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-25 06:17</span>
+          <span class="news-item-title">普京：乌方袭击俄能源设施必招致俄方回应</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/031/901.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，惠普今日发布 2026 财年（2025 年 11 月 1 日～2026 年 10 月 31 日）全年及第四财季（2026 年 8 月 1 日～2026 年 10 月 31 日）报告：2026 财年全年营业总收入：605.27 亿美元（IT之家注：现汇率约合 4042.78 亿元人民币），同比增长 9.5%毛利润：115.96 亿美元（现汇率约合 774.53 亿元人民币）毛利率：19.16%归母净利润：24.25 亿美元（现汇率约合 161.97 亿元人民币），同比下降 4.1%经营现金流：39.76 亿美元（现汇率约合 265.57 亿元人民币），同比增长 7.5%自由现金流：33.3 亿美元（现汇率约合 222.42 亿元人民币），同比增长 13.5%基" data-title="惠普 2026 财年全年归母净利润 24.25 亿美元，同比下降 4.1%" data-date="11-25 05:23" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-25 05:23</span>
+          <span class="news-item-title">惠普 2026 财年全年归母净利润 24.25 亿美元，同比下降 4.1%</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/031/900.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，戴尔今日发布 2027 财年（2026 年 1 月 31 日～2027 年 1 月 29 日）前三季度（2026 年 2 月 1 日～2026 年 10 月 30 日）及第三财季（2026 年 8 月 1 日～2026 年 10 月 30 日）报告：2027 财年前三季度营业总收入：1457.5 亿美元，同比增长 82%毛利润：291.71 亿美元，同比增长 83%毛利率：20%，同比增长 0.1 个百分点归母净利润：132.44 亿美元，同比增长 260%经营现金流：107.65 亿美元，同比增长 65%自由现金流：75.78 亿美元，同比增长 65%基本每股收益：20.6 美元，同比增长 281%稀释每股收益：20.38 美元，同比增长 282%资产负债" data-title="戴尔 2027 财年前三季度归母净利润 132.44 亿美元，同比增长 260%" data-date="11-25 05:13" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-25 05:13</span>
+          <span class="news-item-title">戴尔 2027 财年前三季度归母净利润 132.44 亿美元，同比增长 260%</span>
+        </a>
         <a class="news-item" href="https://www.ithome.com/1/031/895.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8 大折旗舰机正式发布，全系搭载麒麟 9050 Pro 处理器，售价 12,999 元起。此次华为 Mate X8 在屏幕上又有新技术突破。其中，大家最关心的就是折痕水平。根据此前曝光的视频来看，Mate X8 内屏在采用“亮面”设计的情况下，折痕多角度查看处于几乎不可见的状态。而据华为官方数据，Mate X8 内屏平整度对比前代 X7 提升了 90%。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东也在发布会现场揭秘了新机“超平整”内屏的实现原理，总结为四个字 ——“削峰填谷”。余承东表示，传统折叠屏幕，在开合使用时会产生凹凸形变。而华为 Mate X8 首创" data-title="削峰填谷！余承东揭秘华为 Mate X8“超平整”内屏原理，首创磁控展平技术定向修复" data-date="11-25 00:47" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 IT之家</span>
@@ -470,4 +494,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-25 03:00（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-25 06:38（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
