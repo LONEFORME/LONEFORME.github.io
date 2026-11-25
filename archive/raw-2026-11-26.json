@@ -1,7 +1,51 @@
 [
   {
-    "title": "State AGs fight Character AI’s plan to auction off users’ private chats",
-    "title_zh": "各州总检察长反对Character AI拍卖用户私人聊天的计划",
+    "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+    "title_zh": "OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能更快达到使用上限。",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "date": "2026-11-26",
+    "published_time": "04:03",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "OpenAI 将在整个 ChatGPT 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起。",
+    "published_dt_iso": "2026-11-26T04:03:27+08:00"
+  },
+  {
+    "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+    "title_zh": "黄仁勋违反了英伟达的行为准则，他的员工可能不会忘记这一点",
+    "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+    "date": "2026-11-26",
+    "published_time": "03:54",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "大多数行为准则都反映了企业文化。就英伟达而言，这可能会产生后果。",
+    "published_dt_iso": "2026-11-26T03:54:57+08:00"
+  },
+  {
+    "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+    "title_zh": "Anthropic的Dario Amodei称，将人类控制权拱手让给人工智能的指控“荒谬”",
+    "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+    "date": "2026-11-26",
+    "published_time": "03:44",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "尽管领先的人工智能公司正日益实现其自身研究和模型开发的自动化，但Anthropic首席执行官Dario Amodei仍对竞争对手的指责予以回击，后者指责他倾向于将人类的自主权拱手让与人工智能。",
+    "published_dt_iso": "2026-11-26T03:44:24+08:00"
+  },
+  {
+    "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+    "title_zh": "想在这个圣诞节给孩子买一个人工智能玩具吗？在纽约不行",
+    "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+    "date": "2026-11-26",
+    "published_time": "02:11",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "纽约已禁止人工智能聊天机器人玩具五年，因为Common Sense Media的新研究揭示了令人担忧的安全缺陷，包括接触不当内容和对情绪发展的风险。",
+    "published_dt_iso": "2026-11-26T02:11:46+08:00"
+  },
+  {
+    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+    "title_zh": "Character.AI拍卖用户私人聊天的计划受到州总检察长的质疑",
     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
     "date": "2026-11-26",
     "published_time": "01:35",
@@ -44,48 +88,70 @@
     "published_dt_iso": "2026-11-25T21:00:00+08:00"
   },
   {
-    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might",
-    "title_zh": "耶鲁大学的索南菲尔德：英伟达对美国工业实力“有害”",
-    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-    "date": "2026-11-25",
-    "published_time": "08:12",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "耶鲁大学的杰弗里·索南菲尔德（Jeffrey Sonnenfeld）警告称，市场周一欢呼雀跃的事件——即黄仁勋在白宫的支持下重返英伟达担任首席执行官和董事会成员——可能会被证明是一个巨大的错误，使董事们面临因日益增加的诉讼而产生的“历史性”个人责任。",
-    "published_dt_iso": "2026-11-25T08:12:02+08:00"
+    "title": "Razer China partners up with Durex for a limited-edition kit of mousepad and condoms",
+    "title_zh": "雷蛇中国与杜蕾斯合作推出限量版鼠标垫和避孕套套装",
+    "link": "https://www.tomshardware.com/peripherals/razer-china-partners-up-with-durex-for-a-limited-edition-kit-with-a-mousepad-and-condoms-long-lasting-battle-armor-meets-heavy-armored-beetle",
+    "date": "2026-11-26",
+    "published_time": "05:07",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Razer中国与杜蕾斯合作推出限量版鼠标垫和避孕套套装——持久战斗盔甲邂逅重装甲虫",
+    "published_dt_iso": "2026-11-26T05:07:05+08:00"
   },
   {
-    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-    "title_zh": "黄仁勋仍然认为继任计划会造成不必要的层级关系",
-    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-    "date": "2026-11-25",
-    "published_time": "06:27",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "对于一家在过去两周一直在摸索没有创始人会发生什么情况的公司来说，这是一个非同寻常的立场。",
-    "published_dt_iso": "2026-11-25T06:27:52+08:00"
+    "title": "Best USB charger and power bank deals 2026",
+    "title_zh": "2026年USB充电器和充电宝超值优惠",
+    "link": "https://www.tomshardware.com/peripherals/usb/best-usb-charger-and-power-bank-deals-for-black-friday-2026-from-tiny-single-port-smartphone-chargers-to-large-power-banks-for-laptops-weve-found-the-best-deals",
+    "date": "2026-11-26",
+    "published_time": "05:05",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "从单端口15W充电器到25000mAh 220W移动电源，我们找到了一些超值优惠，让您的电子设备始终充满电，随时待命。",
+    "published_dt_iso": "2026-11-26T05:05:22+08:00"
   },
   {
-    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-    "title_zh": "在全体员工大会上，黄仁勋感谢白宫，并表示他正在接受心理治疗",
-    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-    "date": "2026-11-25",
-    "published_time": "05:48",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "英伟达创始人周二向员工道歉，并表示感谢大家给他第二次领导公司的机会。",
-    "published_dt_iso": "2026-11-25T05:48:27+08:00"
+    "title": "Save up to 36% on a some of the best PC speakers we've reviewed",
+    "title_zh": "我们评测过的一些顶级电脑音箱，现可享高达36%的优惠",
+    "link": "https://www.tomshardware.com/speakers/save-up-to-36-percent-on-a-some-of-the-best-pc-speakers-weve-reviewed-deals-starting-at-just-usd26-from-audioengine-creative-edifier-and-more",
+    "date": "2026-11-26",
+    "published_time": "04:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "我们在黑色星期五促销期间测试了一些最出色的电脑音箱，其中包括来自AudioEngine、创新和安桥的音箱。",
+    "published_dt_iso": "2026-11-26T04:30:25+08:00"
   },
   {
-    "title": "Even the best AI agents struggle with everyday life",
-    "title_zh": "即使是最好的 AI 代理也难以应对日常生活",
-    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-    "date": "2026-11-25",
-    "published_time": "05:33",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "随着数以百万计的人开始使用个人人工智能助手，一项新的基准测试表明，即使是最先进的人工智能模型，在不引入潜在新问题的情况下，也很难可靠、安全地完成日常任务。",
-    "published_dt_iso": "2026-11-25T05:33:29+08:00"
+    "title": "RAM price tracking 2026",
+    "title_zh": "2026 年内存价格跟踪",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-lowest-priced-ram-in-2026-price-tracking-on-ddr5-and-ddr4-memory-of-all-capacities",
+    "date": "2026-11-26",
+    "published_time": "04:09",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "查看不同容量的 DDR5 和 DDR4 内存套件的最佳价格。",
+    "published_dt_iso": "2026-11-26T04:09:14+08:00"
+  },
+  {
+    "title": "Here are the best OLED gaming monitor deals you can snag for Black Friday 2026",
+    "title_zh": "以下是您在2026年黑色星期五可以抢购的最佳OLED游戏显示器优惠",
+    "link": "https://www.tomshardware.com/monitors/gaming-monitors/here-are-the-best-oled-gaming-monitor-deals-you-can-snag-for-black-friday-beautiful-monitors-up-to-39-percent-off",
+    "date": "2026-11-26",
+    "published_time": "03:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "OLED游戏显示器目前非常热门，黑色星期五是入手的绝佳时机。",
+    "published_dt_iso": "2026-11-26T03:00:07+08:00"
+  },
+  {
+    "title": "Save on a budget router with prices starting at just $39 — TP-Link Archer AX1450 and Netgear RAX5 Wi-Fi 6 routers go on low sale",
+    "title_zh": "超值优惠路由器，价格低至 39 美元起——TP-Link Archer AX1450 和 Netgear RAX5 Wi-Fi 6 路由器特价促销",
+    "link": "https://www.tomshardware.com/networking/routers/save-on-a-budget-router-with-prices-starting-at-just-usd39-tp-link-archer-ax1450-and-netgear-rax5-wi-fi-6-routers-go-on-low-sale",
+    "date": "2026-11-26",
+    "published_time": "02:54",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "TP-Link Archer AX1450现价仅为39美元",
+    "published_dt_iso": "2026-11-26T02:54:47+08:00"
   },
   {
     "title": "Best Black Friday Nintendo Switch 2 microSD Express card deals 2026",
@@ -106,74 +172,41 @@
     "published_time": "01:45",
     "source": "Tom's Hardware",
     "feed_name": "Tom's Hardware(半导体)",
-    "summary": "TKTK",
+    "summary": "这款 Corsair Vengeance 预组装游戏电脑将 RTX 5090 与英特尔最强大的 Arrow Lake 处理器和 64GB 内存相结合，可满足最苛刻的工作或游戏需求。",
     "published_dt_iso": "2026-11-26T01:45:00+08:00"
   },
   {
-    "title": "The best prebuilt gaming PCs we've seen on sale so far",
-    "title_zh": "迄今为止我们见过的最棒的预装游戏电脑特惠",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/the-best-prebuilt-gaming-pcs-weve-seen-on-sale-so-far-the-four-best-rtx-5090-5070-and-5060-gaming-pcs",
+    "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+    "title_zh": "WhatsApp 的新定时消息功能让您选择合适的发送时间",
+    "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
     "date": "2026-11-26",
-    "published_time": "01:20",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "这些是我们在这个黑色星期五看到的预组装游戏电脑的最佳优惠。",
-    "published_dt_iso": "2026-11-26T01:20:00+08:00"
+    "published_time": "04:31",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "WhatsApp的30亿用户将获得一项Meta称之为最受期待的功能之一，即能够提前为私人对话和群聊安排消息发送。大多数消息平台很早就有这项功能了。",
+    "published_dt_iso": "2026-11-26T04:31:48+08:00"
   },
   {
-    "title": "Best Black Friday gaming chair deals 2026",
-    "title_zh": "2026年黑色星期五最佳游戏椅优惠",
-    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-2026",
+    "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+    "title_zh": "美国环保署报告称，在爱荷华州进行的陆军受控爆破后，空气中铅含量为“零”",
+    "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
     "date": "2026-11-26",
-    "published_time": "01:00",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "适合各种预算、风格和舒适度的游戏椅，尽享黑色星期五超值优惠。用高品质的产品升级您的游戏椅。",
-    "published_dt_iso": "2026-11-26T01:00:30+08:00"
+    "published_time": "03:45",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "美国陆军表示，为防止用于引爆器和雷管的材料储存发生自燃爆炸，今天在爱荷华州陆军弹药厂对超过9,700磅的叠氮化铅进行了受控引爆。",
+    "published_dt_iso": "2026-11-26T03:45:51+08:00"
   },
   {
-    "title": "Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P14 laptops",
-    "title_zh": "享受惊喜优惠，购买搭载全新Nvidia RTX Spark的华硕ProArt P14笔记本电脑，立省200美元",
-    "link": "https://www.tomshardware.com/laptops/save-usd200-with-surprising-deals-on-new-nvidia-rtx-spark-powered-asus-proart-p14-laptops-both-24gb-and-32gb-configurations-are-already-on-sale",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "title_zh": "1Password 数据泄露事件导致客户姓名和电子邮件地址泄露，但未泄露密码",
+    "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
     "date": "2026-11-26",
-    "published_time": "00:58",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "在发布仅一个月后，搭载 RTX Spark 的华硕 ProArt P14 现正以 200 美元的优惠价格发售，包括 24GB 和 32GB 两种配置。",
-    "published_dt_iso": "2026-11-26T00:58:33+08:00"
-  },
-  {
-    "title": "Lawsuit alleges Trump strong",
-    "title_zh": "诉讼指控特朗普强行",
-    "link": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
-    "date": "2026-11-26",
-    "published_time": "00:39",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "显然，总统曾威胁英特尔董事会，如果他们不接受他提出的获得该公司10%股份的要求，将面临“后果”。",
-    "published_dt_iso": "2026-11-26T00:39:23+08:00"
-  },
-  {
-    "title": "Best Black Friday hard drive deals 2026",
-    "title_zh": "2026年黑色星期五最佳硬盘优惠",
-    "link": "https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-2026",
-    "date": "2026-11-26",
-    "published_time": "00:32",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "这些是2026年黑色星期五最超值的硬盘优惠，保证让您在不掏空钱包的情况下扩展电脑的存储空间。我们会不断更新此列表，为您提供所有零售商的最佳优惠。",
-    "published_dt_iso": "2026-11-26T00:32:43+08:00"
-  },
-  {
-    "title": "Best Black Friday Gaming PC Deals 2026",
-    "title_zh": "2026年黑色星期五最佳游戏电脑优惠",
-    "link": "https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals-prebuilts-2026",
-    "date": "2026-11-25",
-    "published_time": "23:45",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "我们收集了黑色星期五最热门的预装游戏台式机优惠。我们会不断更新此列表，提供所有零售商的最佳折扣。",
-    "published_dt_iso": "2026-11-25T23:45:59+08:00"
+    "published_time": "03:10",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "1Password表示，黑客在获得其后端系统的访问权限后窃取了客户姓名和电子邮件地址。据称，此次数据泄露并未导致存储在客户保管库中的密码或其他信息被泄露，但可能会让用户面临网络钓鱼攻击的风险。",
+    "published_dt_iso": "2026-11-26T03:10:15+08:00"
   },
   {
     "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
@@ -229,39 +262,6 @@
     "feed_name": "The Verge(科技)",
     "summary": "在即将于12月8日发布之前，Nothing展示了其即将推出的AI耳机的更多细节。Ear Note耳机可以录制您的通话，而其充电盒可以录制、转录和总结您的对话。与Ear",
     "published_dt_iso": "2026-11-26T00:00:59+08:00"
-  },
-  {
-    "title": "The Verge’s guide to affordable holiday gifts under $25",
-    "title_zh": "The Verge 的实惠节日礼物指南（25 美元以下）",
-    "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-    "date": "2026-11-25",
-    "published_time": "23:00",
-    "source": "The Verge",
-    "feed_name": "The Verge(科技)",
-    "summary": "预算有限的情况下送礼很困难，但限制也能激发一些创造性思维。我们花了很多时间思考（并询问了其他Verge员工）市面上最好的礼物，对我们想出的这些礼物非常满意。对于这份",
-    "published_dt_iso": "2026-11-25T23:00:00+08:00"
-  },
-  {
-    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-    "title_zh": "据报道，亚马逊正在商谈终止Muse AI购物屏蔽事宜",
-    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-    "date": "2026-11-25",
-    "published_time": "22:12",
-    "source": "The Verge",
-    "feed_name": "The Verge(科技)",
-    "summary": "据《财富》杂志报道，亚马逊已就允许Meta的Muse AI代理在其在线平台上购物进行了谈判。据报道，这些讨论可能结束亚马逊对Muse的封禁，其重点在于AI代理推荐的",
-    "published_dt_iso": "2026-11-25T22:12:33+08:00"
-  },
-  {
-    "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
-    "title_zh": "Xteink的口袋式X4 Classic电子阅读器在黑色星期五仅售55美元",
-    "link": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
-    "date": "2026-11-25",
-    "published_time": "22:00",
-    "source": "The Verge",
-    "feed_name": "The Verge(科技)",
-    "summary": "不出所料，我们已经看到各种各样的电子阅读器都有一些实实在在的黑色星期五优惠。从Kobo Libra Colour到上一代Kindle Paperwhite，各种产品都在促销，但如果您想找一款便宜得多的产品，或者小得多的产品，",
-    "published_dt_iso": "2026-11-25T22:00:00+08:00"
   },
   {
     "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
@@ -440,15 +440,26 @@
     "published_dt_iso": "2026-11-25T23:27:52+08:00"
   },
   {
+    "title": "Regulator chief 'has stomach' to face Man City",
+    "title_zh": "监管机构负责人“有胆量”面对曼城",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-26",
+    "published_time": "05:27",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "英格兰足球独立监管机构主席向议员表示，他“有胆量”对曼城采取潜在的行动。",
+    "published_dt_iso": "2026-11-26T05:27:35+08:00"
+  },
+  {
     "title": "Glasner criticises Forest players yet to learn English",
     "title_zh": "格拉斯纳批评诺丁汉森林球员尚未学会英语",
     "link": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
     "date": "2026-11-26",
-    "published_time": "02:00",
+    "published_time": "02:32",
     "source": "BBC",
     "feed_name": "BBC 英超专栏",
     "summary": "诺丁汉森林队主教练奥利弗·格拉斯纳（Oliver Glasner）质疑，为什么他的球队中有些人来英国多年后仍不会说英语。",
-    "published_dt_iso": "2026-11-26T02:00:26+08:00"
+    "published_dt_iso": "2026-11-26T02:32:55+08:00"
   },
   {
     "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
@@ -517,15 +528,59 @@
     "published_dt_iso": "2026-11-23T07:20:16+08:00"
   },
   {
-    "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
-    "title_zh": "“世界上最好的球队也可能以 0-4 落败”——但曼联在安菲尔德是否本应做得更多？",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-23",
-    "published_time": "05:36",
-    "source": "BBC",
-    "feed_name": "BBC 英超专栏",
-    "summary": "毛里西奥·波切蒂诺认为，即使是世界上最好的球队，在曼联的处境下，也可能在利物浦的比赛中丢掉四个球——但红魔在输球时是否本该做得更多？",
-    "published_dt_iso": "2026-11-23T05:36:00+08:00"
+    "title": "Birmingham ease to victory at troubled Burnley LIVE!",
+    "title_zh": "伯明翰轻松战胜陷入困境的伯恩利，直播！",
+    "link": "https://www.skysports.com/football/burnley-vs-birmingham-city/live/560699",
+    "date": "2026-11-26",
+    "published_time": "03:15",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-26T03:15:00+08:00"
+  },
+  {
+    "title": "Strangest goal ever?! Morrison reacts to BIZARRE Bruno goal!",
+    "title_zh": "有史以来最奇怪的进球？！莫里森对布鲁诺的离奇进球做出反应！",
+    "link": "https://www.skysports.com/watch/video/13616555/porting-lisbon-vs-manchester-united-clinton-morrison-reacts-to-bizarre-bruno-fernandes-goal",
+    "date": "2026-11-26",
+    "published_time": "05:14",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "克林顿·莫里森观看了曼联凭借布鲁诺·费尔南德斯的诡异进球以 2-1 战胜里斯本竞技的比赛。",
+    "published_dt_iso": "2026-11-26T05:14:00+08:00"
+  },
+  {
+    "title": "'Where's he going?!' - Morrison reacts to Man Utd double penalty drama!",
+    "title_zh": "“他要去哪里？！“- 莫里森对曼联的两粒点球戏剧性事件做出反应！",
+    "link": "https://www.skysports.com/watch/video/13616547/sporing-lisbon-vs-manchester-united-clinton-morrison-reacts-to-double-penalty-drama",
+    "date": "2026-11-26",
+    "published_time": "04:43",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "克林顿·莫里森对曼联在欧冠与里斯本竞技的比赛中被判的两粒点球发表了看法。",
+    "published_dt_iso": "2026-11-26T04:43:00+08:00"
+  },
+  {
+    "title": "Game over? Liverpool three up at Club Brugge LIVE!",
+    "title_zh": "比赛结束？利物浦在布鲁日俱乐部以三球领先！",
+    "link": "https://www.skysports.com/football/club-brugge-vs-liverpool/live/577679",
+    "date": "2026-11-26",
+    "published_time": "01:58",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-26T01:58:00+08:00"
+  },
+  {
+    "title": "Dubois vs Parker announced for WBO heavyweight title clash",
+    "title_zh": "杜博瓦与帕克将争夺WBO重量级冠军头衔",
+    "link": "https://www.skysports.com/boxing/news/12040/13614342/daniel-dubois-to-fight-joseph-parker-in-wbo-heavyweight-world-championship-clash-in-manchester-on-january-30",
+    "date": "2026-11-26",
+    "published_time": "04:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "丹尼尔·杜布瓦将于 1 月 30 日在曼彻斯特的 Co-op Live 体育馆与约瑟夫·帕克争夺 WBO 重量级世界冠军头衔。",
+    "published_dt_iso": "2026-11-26T04:00:00+08:00"
   },
   {
     "title": "Newbury's Coral Gold Cup: Jamie Lynch's horse",
@@ -559,61 +614,6 @@
     "feed_name": "天空体育(转会中心)",
     "summary": "一项旨在支持遭受家庭暴力和基于性别的暴力的女性的新拳击推广活动将于周六在伦敦的拉德布鲁克大厅（Ladbroke Hall）举行首场赛事。",
     "published_dt_iso": "2026-11-26T01:00:00+08:00"
-  },
-  {
-    "title": "Williams handed penalties after minor breach of cost cap",
-    "title_zh": "威廉姆斯车队因轻微违反成本上限而被处以罚款",
-    "link": "https://www.skysports.com/f1/news/12040/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties",
-    "date": "2026-11-26",
-    "published_time": "00:17",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "威廉姆斯车队因在2025赛季略微超出F1的成本上限，而被处以财务和空气动力学测试处罚。",
-    "published_dt_iso": "2026-11-26T00:17:00+08:00"
-  },
-  {
-    "title": "Hansen ruled out of Ireland's clash with Australia due to injury",
-    "title_zh": "汉森因伤缺席爱尔兰与澳大利亚的比赛",
-    "link": "https://www.skysports.com/rugby-union/news/12040/13616405/ireland-vs-australia-mack-hansen-out-with-injury-as-nick-timoney-replaces-suspended-dan-sheehan-for-nations-championship-clash",
-    "date": "2026-11-26",
-    "published_time": "00:10",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "马克·汉森（Mack Hansen）已确定无缘爱尔兰队本周五在安联体育场与澳大利亚队进行的国家锦标赛决赛首发阵容。",
-    "published_dt_iso": "2026-11-26T00:10:00+08:00"
-  },
-  {
-    "title": "Premier League predictor - play our new game each week!",
-    "title_zh": "英超联赛预测器 - 每周玩我们的新游戏！",
-    "link": "https://www.skysports.com/football/live-blog/12040/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
-    "date": "2026-11-19",
-    "published_time": "00:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "",
-    "published_dt_iso": "2026-11-19T00:00:00+08:00"
-  },
-  {
-    "title": "Walters confident he can win trophy in first season with St Helens",
-    "title_zh": "沃尔特斯有信心在效力圣赫伦斯的第一个赛季就赢得冠军奖杯",
-    "link": "https://www.skysports.com/rugby-league/news/12040/13616342/st-helens-coach-kevin-walters-insists-he-can-win-a-trophy-in-his-first-season-in-charge-and-wants-to-restore-teams-winning-dna",
-    "date": "2026-11-25",
-    "published_time": "23:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "凯文·沃尔特斯（Kevin Walters）认为，在他执教的第一个赛季，他就能带领圣海伦斯队（St Helens）赢得一座奖杯。这位球队的新任主教练阐述了他的雄心壮志，即恢复球队的“胜利基因”。",
-    "published_dt_iso": "2026-11-25T23:00:00+08:00"
-  },
-  {
-    "title": "Do Ferrari need to make Hamilton their No 1 driver?",
-    "title_zh": "法拉利是否需要让汉密尔顿成为他们的头号车手？",
-    "link": "https://www.skysports.com/f1/news/12040/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
-    "date": "2026-11-25",
-    "published_time": "22:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "夏尔·勒克莱尔和刘易斯·汉密尔顿在拉斯维加斯大奖赛上的最新碰撞加剧了对法拉利车队的关注，以及该车队将采取哪些措施来避免这两名车手之间发生更多代价高昂的赛道事故。",
-    "published_dt_iso": "2026-11-25T22:00:00+08:00"
   },
   {
     "title": "Sterling given suspended jail sentence for dangerous driving",
@@ -1144,6 +1144,17 @@
     "published_dt_iso": "2026-11-13T18:39:06+08:00"
   },
   {
+    "title": "Thanksgiving Storm Is Expected to Hit East Coast With Heavy Rain and Flooding",
+    "title_zh": "感恩节风暴预计将袭击东海岸，带来大雨和洪涝",
+    "link": "https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html",
+    "date": "2026-11-26",
+    "published_time": "05:47",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "这场风暴正在海上形成，预计将向内陆移动，穿过北卡罗来纳州，并在感恩节期间向东北方向推进。",
+    "published_dt_iso": "2026-11-26T05:47:54+08:00"
+  },
+  {
     "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
     "title_zh": "特朗普政府以不公平做法为由，宣布对中国、欧盟等实施新关税",
     "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
@@ -1155,17 +1166,6 @@
     "published_dt_iso": "2026-11-25T23:58:36+08:00"
   },
   {
-    "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-    "title_zh": "又一个高通胀数据使美联储继续走在再次加息的道路上",
-    "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
-    "date": "2026-11-25",
-    "published_time": "22:21",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "外界普遍预计美联储将于下月加息。",
-    "published_dt_iso": "2026-11-25T22:21:56+08:00"
-  },
-  {
     "title": "The U.S. Isn’t in a Recession. Try Telling Many Americans That.",
     "title_zh": "美国并未陷入衰退。试试跟很多美国人这么说。",
     "link": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
@@ -1174,7 +1174,271 @@
     "source": "纽约时报",
     "feed_name": "纽约时报",
     "summary": "最新的增长和招聘指标显示经济状况良好。但处境艰难的美国人却感受不到这一点。",
-    "published_dt_iso": "2026-11-26T01:51:24+08:00"
+    "published_dt_iso": "2026-11-26T01:51:25+08:00"
+  },
+  {
+    "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
+    "title_zh": "又一个高通胀数据使美联储继续走在再次加息的道路上",
+    "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+    "date": "2026-11-26",
+    "published_time": "03:13",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "外界普遍预计美联储将于下月加息。",
+    "published_dt_iso": "2026-11-26T03:13:30+08:00"
+  },
+  {
+    "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
+    "title_zh": "投资者对人工智能、关税和通胀感到担忧，股市再次暴跌",
+    "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+    "date": "2026-11-26",
+    "published_time": "05:32",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "英伟达和其他科技公司股价下跌，原因是投资者权衡了全球贸易的发展和利率走势。",
+    "published_dt_iso": "2026-11-26T05:32:42+08:00"
+  },
+  {
+    "title": "After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks",
+    "title_zh": "爱荷华州发生罕见爆炸后，官员和科学家评估放射性尘埃风险",
+    "link": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
+    "date": "2026-11-26",
+    "published_time": "05:17",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "军方和民政当局表示，陆军的行动取得了成功。但检测工作将继续进行，以确保居民免受污染。",
+    "published_dt_iso": "2026-11-26T05:17:18+08:00"
+  },
+  {
+    "title": "Iowa Awaits All-Clear as Tests for Lead Continue",
+    "title_zh": "随着铅含量检测的继续进行，爱荷华州正等待全面解除警报",
+    "link": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-lead-what-next.html",
+    "date": "2026-11-26",
+    "published_time": "05:16",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "官员们需要一些时间来检测空气、水和土壤样本是否受到污染。",
+    "published_dt_iso": "2026-11-26T05:16:07+08:00"
+  },
+  {
+    "title": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
+    "title_zh": "Mamdani在租金冻结诉讼中胜诉房东",
+    "link": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
+    "date": "2026-11-26",
+    "published_time": "05:16",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "曼哈顿的一名法官驳回了房东就租金稳定公寓的租金冻结提起的诉讼，从而使市议员Zohran Mamdani胜诉。",
+    "published_dt_iso": "2026-11-26T05:16:58+08:00"
+  },
+  {
+    "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might",
+    "title_zh": "耶鲁大学的索南菲尔德：英伟达对美国工业实力“有害”",
+    "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+    "date": "2026-11-25",
+    "published_time": "08:12",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "耶鲁大学的杰弗里·索南菲尔德（Jeffrey Sonnenfeld）警告称，市场周一欢呼雀跃的事件——即黄仁勋在白宫的支持下重返英伟达担任首席执行官和董事会成员——可能会被证明是一个巨大的错误，使董事们面临因日益增加的诉讼而产生的“历史性”个人责任。",
+    "published_dt_iso": "2026-11-25T08:12:02+08:00"
+  },
+  {
+    "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+    "title_zh": "黄仁勋仍然认为继任计划会造成不必要的层级关系",
+    "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+    "date": "2026-11-25",
+    "published_time": "06:27",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "对于一家在过去两周一直在摸索没有创始人会发生什么情况的公司来说，这是一个非同寻常的立场。",
+    "published_dt_iso": "2026-11-25T06:27:52+08:00"
+  },
+  {
+    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+    "title_zh": "在全体员工大会上，黄仁勋感谢白宫，并表示他正在接受心理治疗",
+    "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+    "date": "2026-11-25",
+    "published_time": "05:48",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "英伟达创始人周二向员工道歉，并表示感谢大家给他第二次领导公司的机会。",
+    "published_dt_iso": "2026-11-25T05:48:27+08:00"
+  },
+  {
+    "title": "Even the best AI agents struggle with everyday life",
+    "title_zh": "即使是最好的 AI 代理也难以应对日常生活",
+    "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+    "date": "2026-11-25",
+    "published_time": "05:33",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "随着数以百万计的人开始使用个人人工智能助手，一项新的基准测试表明，即使是最先进的人工智能模型，在不引入潜在新问题的情况下，也很难可靠、安全地完成日常任务。",
+    "published_dt_iso": "2026-11-25T05:33:29+08:00"
+  },
+  {
+    "title": "The best prebuilt gaming PCs we've seen on sale so far",
+    "title_zh": "迄今为止我们见过的最棒的预装游戏电脑特惠",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/the-best-prebuilt-gaming-pcs-weve-seen-on-sale-so-far-the-four-best-rtx-5090-5070-and-5060-gaming-pcs",
+    "date": "2026-11-26",
+    "published_time": "01:20",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这些是我们在这个黑色星期五看到的预组装游戏电脑的最佳优惠。",
+    "published_dt_iso": "2026-11-26T01:20:00+08:00"
+  },
+  {
+    "title": "Best Black Friday gaming chair deals 2026",
+    "title_zh": "2026年黑色星期五最佳游戏椅优惠",
+    "link": "https://www.tomshardware.com/peripherals/gaming-chairs/best-gaming-chair-deals-2026",
+    "date": "2026-11-26",
+    "published_time": "01:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "适合各种预算、风格和舒适度的游戏椅，尽享黑色星期五超值优惠。用高品质的产品升级您的游戏椅。",
+    "published_dt_iso": "2026-11-26T01:00:30+08:00"
+  },
+  {
+    "title": "Save $200 with surprising deals on new Nvidia RTX Spark-powered Asus ProArt P14 laptops",
+    "title_zh": "享受惊喜优惠，购买搭载全新Nvidia RTX Spark的华硕ProArt P14笔记本电脑，立省200美元",
+    "link": "https://www.tomshardware.com/laptops/save-usd200-with-surprising-deals-on-new-nvidia-rtx-spark-powered-asus-proart-p14-laptops-both-24gb-and-32gb-configurations-are-already-on-sale",
+    "date": "2026-11-26",
+    "published_time": "00:58",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "在发布仅一个月后，搭载 RTX Spark 的华硕 ProArt P14 现正以 200 美元的优惠价格发售，包括 24GB 和 32GB 两种配置。",
+    "published_dt_iso": "2026-11-26T00:58:33+08:00"
+  },
+  {
+    "title": "Lawsuit alleges Trump strong",
+    "title_zh": "诉讼指控特朗普强行",
+    "link": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
+    "date": "2026-11-26",
+    "published_time": "00:39",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "显然，总统曾威胁英特尔董事会，如果他们不接受他提出的获得该公司10%股份的要求，将面临“后果”。",
+    "published_dt_iso": "2026-11-26T00:39:23+08:00"
+  },
+  {
+    "title": "Best Black Friday hard drive deals 2026",
+    "title_zh": "2026年黑色星期五最佳硬盘优惠",
+    "link": "https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-2026",
+    "date": "2026-11-26",
+    "published_time": "00:32",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "这些是2026年黑色星期五最超值的硬盘优惠，保证让您在不掏空钱包的情况下扩展电脑的存储空间。我们会不断更新此列表，为您提供所有零售商的最佳优惠。",
+    "published_dt_iso": "2026-11-26T00:32:43+08:00"
+  },
+  {
+    "title": "Best Black Friday Gaming PC Deals 2026",
+    "title_zh": "2026年黑色星期五最佳游戏电脑优惠",
+    "link": "https://www.tomshardware.com/desktops/gaming-pcs/best-gaming-pc-deals-prebuilts-2026",
+    "date": "2026-11-25",
+    "published_time": "23:45",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "我们收集了黑色星期五最热门的预装游戏台式机优惠。我们会不断更新此列表，提供所有零售商的最佳折扣。",
+    "published_dt_iso": "2026-11-25T23:45:59+08:00"
+  },
+  {
+    "title": "The Verge’s guide to affordable holiday gifts under $25",
+    "title_zh": "The Verge 的实惠节日礼物指南（25 美元以下）",
+    "link": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+    "date": "2026-11-25",
+    "published_time": "23:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "预算有限的情况下送礼很困难，但限制也能激发一些创造性思维。我们花了很多时间思考（并询问了其他Verge员工）市面上最好的礼物，对我们想出的这些礼物非常满意。对于这份",
+    "published_dt_iso": "2026-11-25T23:00:00+08:00"
+  },
+  {
+    "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+    "title_zh": "据报道，亚马逊正在商谈终止Muse AI购物屏蔽事宜",
+    "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+    "date": "2026-11-25",
+    "published_time": "22:12",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "据《财富》杂志报道，亚马逊已就允许Meta的Muse AI代理在其在线平台上购物进行了谈判。据报道，这些讨论可能结束亚马逊对Muse的封禁，其重点在于AI代理推荐的",
+    "published_dt_iso": "2026-11-25T22:12:33+08:00"
+  },
+  {
+    "title": "Xteink’s pocketable X4 Classic e-reader is down to just $55 for Black Friday",
+    "title_zh": "Xteink的口袋式X4 Classic电子阅读器在黑色星期五仅售55美元",
+    "link": "https://www.theverge.com/gadgets/1040178/xteink-x4-classic-e-reader-black-friday-2026-deal-sale",
+    "date": "2026-11-25",
+    "published_time": "22:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "不出所料，我们已经看到各种各样的电子阅读器都有一些实实在在的黑色星期五优惠。从Kobo Libra Colour到上一代Kindle Paperwhite，各种产品都在促销，但如果您想找一款便宜得多的产品，或者小得多的产品，",
+    "published_dt_iso": "2026-11-25T22:00:00+08:00"
+  },
+  {
+    "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+    "title_zh": "“世界上最好的球队也可能以 0-4 落败”——但曼联在安菲尔德是否本应做得更多？",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-23",
+    "published_time": "05:36",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "毛里西奥·波切蒂诺认为，即使是世界上最好的球队，在曼联的处境下，也可能在利物浦的比赛中丢掉四个球——但红魔在输球时是否本该做得更多？",
+    "published_dt_iso": "2026-11-23T05:36:00+08:00"
+  },
+  {
+    "title": "Williams handed penalties after minor breach of cost cap",
+    "title_zh": "威廉姆斯车队因轻微违反成本上限而被处以罚款",
+    "link": "https://www.skysports.com/f1/news/12040/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties",
+    "date": "2026-11-26",
+    "published_time": "00:17",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "威廉姆斯车队因在2025赛季略微超出F1的成本上限，而被处以财务和空气动力学测试处罚。",
+    "published_dt_iso": "2026-11-26T00:17:00+08:00"
+  },
+  {
+    "title": "Hansen ruled out of Ireland's clash with Australia due to injury",
+    "title_zh": "汉森因伤缺席爱尔兰与澳大利亚的比赛",
+    "link": "https://www.skysports.com/rugby-union/news/12040/13616405/ireland-vs-australia-mack-hansen-out-with-injury-as-nick-timoney-replaces-suspended-dan-sheehan-for-nations-championship-clash",
+    "date": "2026-11-26",
+    "published_time": "00:10",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "马克·汉森（Mack Hansen）已确定无缘爱尔兰队本周五在安联体育场与澳大利亚队进行的国家锦标赛决赛首发阵容。",
+    "published_dt_iso": "2026-11-26T00:10:00+08:00"
+  },
+  {
+    "title": "Premier League predictor - play our new game each week!",
+    "title_zh": "英超联赛预测器 - 每周玩我们的新游戏！",
+    "link": "https://www.skysports.com/football/live-blog/12040/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
+    "date": "2026-11-19",
+    "published_time": "00:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-19T00:00:00+08:00"
+  },
+  {
+    "title": "Walters confident he can win trophy in first season with St Helens",
+    "title_zh": "沃尔特斯有信心在效力圣赫伦斯的第一个赛季就赢得冠军奖杯",
+    "link": "https://www.skysports.com/rugby-league/news/12040/13616342/st-helens-coach-kevin-walters-insists-he-can-win-a-trophy-in-his-first-season-in-charge-and-wants-to-restore-teams-winning-dna",
+    "date": "2026-11-25",
+    "published_time": "23:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "凯文·沃尔特斯（Kevin Walters）认为，在他执教的第一个赛季，他就能带领圣海伦斯队（St Helens）赢得一座奖杯。这位球队的新任主教练阐述了他的雄心壮志，即恢复球队的“胜利基因”。",
+    "published_dt_iso": "2026-11-25T23:00:00+08:00"
+  },
+  {
+    "title": "Do Ferrari need to make Hamilton their No 1 driver?",
+    "title_zh": "法拉利是否需要让汉密尔顿成为他们的头号车手？",
+    "link": "https://www.skysports.com/f1/news/12040/13616299/what-next-for-ferrari-after-charles-leclerc-lewis-hamiltons-latest-collision-with-no-1-driver-and-consequences-up-for-debate",
+    "date": "2026-11-25",
+    "published_time": "22:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "夏尔·勒克莱尔和刘易斯·汉密尔顿在拉斯维加斯大奖赛上的最新碰撞加剧了对法拉利车队的关注，以及该车队将采取哪些措施来避免这两名车手之间发生更多代价高昂的赛道事故。",
+    "published_dt_iso": "2026-11-25T22:00:00+08:00"
   },
   {
     "title": "Corporate Oversight Revs Up as Washington Turns Blue Again",

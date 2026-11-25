@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">26,028.28</span>
-      <span class="ticker-change down">▼ -0.71%</span>
+      <span class="ticker-price ticker-down">26,046.90</span>
+      <span class="ticker-change down">▼ -0.64%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 03:08:02（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-26 05:54:01（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6657</span>
+      <span class="ticker-price ticker-up">6.6674</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:07:55（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:54:01（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,551.04 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -4.79 (-0.13%)</span>
+      <span class="ticker-price ticker-up">$3,581.52 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +25.69 (+0.72%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:07:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:54:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$90.32 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +1.54 (+1.74%)</span>
+      <span class="ticker-price ticker-up">$90.78 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +2.00 (+2.25%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 03:08:08（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:54:11（非实时）</div>
   </div>
 </div>
 
@@ -439,6 +439,12 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="外界普遍预计美联储将于下月加息。" data-title="Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again" data-date="11-26 03:13" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-26 03:13</span>
+          <span class="news-item-title">Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="最新的增长和招聘指标显示经济状况良好。但处境艰难的美国人却感受不到这一点。" data-title="The U.S. Isn’t in a Recession. Try Telling Many Americans That." data-date="11-26 01:51" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -505,12 +511,6 @@ title: 股票财经
           <span class="news-item-date">11-25 23:27</span>
           <span class="news-item-title">德国下调三季度经济增速至0.1%</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="外界普遍预计美联储将于下月加息。" data-title="Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again" data-date="11-25 22:21" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-25 22:21</span>
-          <span class="news-item-title">Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again</span>
-        </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦11月25日电 (记者 欧阳开宇)英国能源监管机构天然气和电力市场办公室25日宣布，受中东地缘冲突持续扰动国际能源供应链、天然气价格走高影响，英国居民能源价格上限将自2027年1月起大幅上调26%，全国约2000万户家庭将面临冬季用能成本显著上涨。" data-title="英国能源限价2027年将大幅上调" data-date="11-25 21:55" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
@@ -542,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-26 02:05（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-26 05:52（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
