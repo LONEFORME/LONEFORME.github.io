@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">3,372.62</span>
-      <span class="ticker-change down">▼ -2.72%</span>
+      <span class="ticker-price ticker-down">3,378.26</span>
+      <span class="ticker-change down">▼ -2.56%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -105,7 +105,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-25 06:30:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-25 09:18:36（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">6.6735</span>
+      <span class="ticker-price ticker-up">6.6768</span>
       <span class="ticker-change up">▲ +0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:15:11（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:38:56（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,523.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -32.69 (-0.92%)</span>
+      <span class="ticker-price ticker-down">$3,531.36 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -24.47 (-0.69%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:15:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:38:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">21,959.97</span>
-      <span class="ticker-change down">▼ -1.17%</span>
+      <span class="ticker-price ticker-down">21,966.01</span>
+      <span class="ticker-change down">▼ -1.14%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$87.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -1.70 (-1.92%)</span>
+      <span class="ticker-price ticker-down">$88.03 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.75 (-0.85%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 16:15:19（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:39:06（非实时）</div>
   </div>
 </div>
 
@@ -437,9 +437,33 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">7 条精选资讯</span>
+      <span class="news-category-count">11 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial" target="_blank" rel="noopener" data-cat="caijing" data-summary="据NBC新闻和彭博社报道，陪审团已裁定华为窃取美国商业秘密的罪名成立。该判决在纽约的一家联邦法院作出，结束了长达数年的法律诉讼，该诉讼指控这家中国电信巨头窃取商业机密。" data-title="Huawei found guilty of stealing trade secrets" data-date="11-25 06:23" data-source="The Verge">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-25/10737671.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广西柳州11月25日电(韦新娜)眼下，在广西柳州市柳江区进德镇龙新村，一场椒香与果香交织的甜蜜邂逅在田间上演，架上收葡萄、架下摘彩椒，让一亩田地收获两份收益，为乡村产业增收开辟新路径。" data-title="（乡村行·看振兴）广西柳江“一棚双收”：葡萄架下彩椒香 立体套种助增收" data-date="11-25 18:15" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-25 18:15</span>
+          <span class="news-item-title">（乡村行·看振兴）广西柳江“一棚双收”：葡萄架下彩椒香 立体套种助增收</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/032/379.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，在昨天下午的 HUAWEI Mate X8 及全场景新品发布会上，华为 Mate X8 大折旗舰机正式发布。华为官方还为这款新机推出了云晰柔光膜，用户在华为授权服务中心可购买更换。关于为何不标配“云晰柔光膜”，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东也给出了解释：大多数人不太喜欢这种柔光膜，因为它（IT之家注：此处预计指 Mate X8）不像平板和 PC，尺寸大、人离得远。手机拿得离人近，柔光这一块牺牲一定的（少量）分辨率，有些人不是很接受，因此我们（华为）没有把它做成标配，只让大家可选。根据规划，云晰柔光膜预计 2027 年 1 月下旬正式上线，支持 HUAWEI Mate X8、Pura X Max（内屏贴膜）。上线后，用户可以前往" data-title="华为余承东解释为何 Mate X8 不标配“云晰柔光膜”：大多数人不喜欢，会少量牺牲分辨率" data-date="11-25 18:02" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-25 18:02</span>
+          <span class="news-item-title">华为余承东解释为何 Mate X8 不标配“云晰柔光膜”：大多数人不喜欢，会少量牺牲分辨率</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-25/10737512.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社悉尼11月25日电 (记者 薄雯雯)澳大利亚统计局25日公布的数据显示，该国10月消费者价格指数(CPI)同比上涨4.9%，高于9月的4.3%，并超出市场预期。" data-title="澳大利亚10月CPI同比上涨4.9%" data-date="11-25 16:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-25 16:44</span>
+          <span class="news-item-title">澳大利亚10月CPI同比上涨4.9%</span>
+        </a>
+        <a class="news-item" href="https://www.qbitai.com/2026/11/512532.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办" data-title="完整议程！第二十一届中国IDC产业年度大典（IDCC2026）" data-date="11-25 16:18" data-source="量子位">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-techcrunch">🧠 量子位</span>
+          <span class="news-item-date">11-25 16:18</span>
+          <span class="news-item-title">完整议程！第二十一届中国IDC产业年度大典（IDCC2026）</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial" target="_blank" rel="noopener" data-cat="caijing" data-summary="正如NBC新闻和彭博社此前报道的那样，陪审团已裁定华为犯有窃取美国商业秘密的罪行。该判决在纽约的一家联邦法院作出，结束了长达数年的法律诉讼，该诉讼指控这家中国电信巨头窃取商业机密。" data-title="Huawei found guilty of stealing trade secrets" data-date="11-25 06:23" data-source="The Verge">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
           <span class="news-item-date">11-25 06:23</span>
@@ -494,4 +518,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-25 06:38（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-25 18:36（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
