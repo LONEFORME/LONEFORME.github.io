@@ -24,14 +24,14 @@ title: 股票财经
       <span class="ticker-code">000001.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,477.70</span>
-      <span class="ticker-change up">▲ +0.04%</span>
+      <span class="ticker-price ticker-up">3,476.88</span>
+      <span class="ticker-change up">▲ +0.01%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000001" aria-label="查看上证指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 11:28:53（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:35:57（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -39,14 +39,14 @@ title: 股票财经
       <span class="ticker-code">399001.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">10,110.70</span>
-      <span class="ticker-change up">▲ +0.24%</span>
+      <span class="ticker-price ticker-down">10,084.04</span>
+      <span class="ticker-change down">▼ -0.02%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399001" aria-label="查看深证成指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>深圳证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 11:28:51（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399006" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -54,14 +54,14 @@ title: 股票财经
       <span class="ticker-code">399006.SZ</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">2,187.76</span>
-      <span class="ticker-change up">▲ +0.19%</span>
+      <span class="ticker-price ticker-up">2,189.82</span>
+      <span class="ticker-change up">▲ +0.29%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sz399006" aria-label="查看创业板指 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>创业板市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 11:28:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:00:03（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sh000688" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -69,14 +69,14 @@ title: 股票财经
       <span class="ticker-code">000688.SH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">1,177.13</span>
-      <span class="ticker-change down">▼ -0.76%</span>
+      <span class="ticker-price ticker-down">1,169.99</span>
+      <span class="ticker-change down">▼ -1.36%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="sh000688" aria-label="查看科创50 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 11:28:54（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:35:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -84,8 +84,8 @@ title: 股票财经
       <span class="ticker-code">HSTECH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">3,488.05</span>
-      <span class="ticker-change up">▲ +3.25%</span>
+      <span class="ticker-price ticker-up">3,417.38</span>
+      <span class="ticker-change up">▲ +1.16%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSTECH" aria-label="查看恒生科技 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6642</span>
+      <span class="ticker-price ticker-down">6.6609</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:28:52（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:08:37（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,579.31 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -9.24 (-0.26%)</span>
+      <span class="ticker-price ticker-down">$3,568.64 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -19.91 (-0.55%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:28:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:08:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥768.22 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +11.32 (+1.50%)</span>
+      <span class="ticker-price ticker-up">¥765.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change up">▲ +8.90 (+1.18%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:28:59（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 15:30:01（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -155,8 +155,8 @@ title: 股票财经
       <span class="ticker-code">HSI</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">22,447.89</span>
-      <span class="ticker-change up">▲ +2.19%</span>
+      <span class="ticker-price ticker-up">22,226.88</span>
+      <span class="ticker-change up">▲ +1.19%</span>
     </div>
     <button type="button" class="ticker-select" data-symbol="hkHSI" aria-label="查看恒生指数 K 线" aria-pressed="false">查看 K 线 →</button>
     <div class="ticker-footer">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$91.11 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.47 (+0.51%)</span>
+      <span class="ticker-price ticker-down">$90.18 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -0.46 (-0.51%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 11:29:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 18:08:44（非实时）</div>
   </div>
 </div>
 
@@ -439,6 +439,66 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats" target="_blank" rel="noopener" data-cat="caijing" data-summary="A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off &quot;the private chat histories of more than 21 million U.S. accounts - […]" data-title="42 state AGs are trying to stop Character.AI from selling users’ chats" data-date="11-26 17:54" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-26 17:54</span>
+          <span class="news-item-title">42 state AGs are trying to stop Character.AI from selling users’ chats</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/032/982.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞全新瑞虎 8 PLUS 完成申报，此外，新车的官图也已公布。作为瑞虎系列的全新车型，全新奇瑞瑞虎 8 PLUS 将于明日开幕的广州车展上正式亮相。外观方面，全新瑞虎 8 PLUS 采用了最新设计语言，配备了大尺寸的直瀑式格栅。侧面配备了传统的机械式门把手，尾部采用贯穿设计的尾灯组，并采用双边共两出排气。本次公示共有两款动力版本车型，分别为汽油版全新瑞虎 8 PLUS 与混合动力版全新瑞虎 8 PLUS SHEV。两款车型均定位多用途乘用车，轴距均为 2850mm，支持 5 座、7 座两种座椅布局，轮胎规格提供 235/55R18、235/50R19、245/45R20 三种选择。IT之" data-title="奇瑞全新瑞虎 8 PLUS 官图公布：全新设计语言，广州车展亮相" data-date="11-26 17:54" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-26 17:54</span>
+          <span class="news-item-title">奇瑞全新瑞虎 8 PLUS 官图公布：全新设计语言，广州车展亮相</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/032/981.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，吉利银河星舰 7 EV / EF 完成申报。IT之家注意到，本次申报共涵盖两款同源车型，分别为吉利银河星舰 7 EV 纯电动版本与吉利银河星舰 7 EF 甲醇插电式混合动力版本，两款车型均由浙江豪情汽车制造有限公司生产，共享相同的车身尺寸与轴距参数。两款车型的长宽高均为 4730mm×1905mm×1675mm，轴距为 2752mm，定位紧凑级新能源 SUV，额定载客人数为 5 人，采用承载式车身结构。动力与储能系统方面，银河星舰 7 EF 甲醇插混版搭载极光湾科技有限公司生产的 BHE15-BFDM 1.5L 发动机，排量 1499ml，额定功率 93kW，最大净功率 90kW，燃料类型" data-title="新款吉利银河星舰 7 EV / EF 申报：甲醇插混与纯电双版本，轴距 2752mm" data-date="11-26 17:47" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-26 17:47</span>
+          <span class="news-item-title">新款吉利银河星舰 7 EV / EF 申报：甲醇插混与纯电双版本，轴距 2752mm</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738231.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京11月26日电 (记者 曾玥)“人大指数”2026年第三季度发布会25日在中国人民大学举行。本次发布会由中国人民大学人文社会科学部主办，以民生福祉与生态文明为主题，集中发布气候适应型城市发展指数、中国银发贡献指数两项研究成果。" data-title="聚焦民生福祉与生态文明 中国人民大学发布两项研究成果" data-date="11-26 17:39" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 17:39</span>
+          <span class="news-item-title">聚焦民生福祉与生态文明 中国人民大学发布两项研究成果</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/032/977.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，新款奇瑞风云 T9 插电式混合动力中型 SUV 完成申报。IT之家注意到，本次申报的奇瑞风云 T9 为插电式混合动力多用途乘用车，车身长宽高分别为 4802mm/1927mm/1766mm，轴距为 2750mm，尺寸明显提升，提供 235/55R19、245/50R20 两种规格轮胎，配备承载式车身结构，最高车速为 180km/h。外观方面，新款风云 T9 采用风云家族化设计，取消大尺寸进气格栅，采用双透镜一体式大灯。车身侧面线条与现款车型保持一致，换装传统样式门把手。动力方面，新车搭载型号为 SQRH4G15 的 1.5T 汽油发动机，由奇瑞汽车股份有限公司生产，排量为 1499ml，额" data-title="新款奇瑞风云 T9 插混中型 SUV 申报：全新外观，尺寸显著提升" data-date="11-26 17:38" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-26 17:38</span>
+          <span class="news-item-title">新款奇瑞风云 T9 插混中型 SUV 申报：全新外观，尺寸显著提升</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/032/976.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，据日本共同社消息，日产汽车拟将中国生产的插电式混合动力汽车（PHV）反向进口至日本，目前正就此展开协调。所谓反向进口，是指日本汽车厂商在海外工厂生产汽车，再运回日本国内销售。日产设想从 2027 年度下半年起，陆续将在华合资企业生产的商用厢式车“NV200”和 SUV“Terrano”出口至日本。受与本土车企竞争加剧影响，日产在中国市场销量持续低迷。日产已提出将研发效率较高的中国打造为出口基地的战略，以提振销量、谋求生存。报道称由于日产目前在日本国内未销售 PHV 车型，通过从中国出口，既能盘活在华产能，也能丰富日本本土的产品阵容。据IT之家此前报道，日产汽车中国区含乘用车和轻型商用车两大事业板块在内的 10 月销量为 22,295 台，同比下降 67.14" data-title="消息称日产将从中国“反向进口”插电式混合动力汽车" data-date="11-26 17:33" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-26 17:33</span>
+          <span class="news-item-title">消息称日产将从中国“反向进口”插电式混合动力汽车</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-26/10738222.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月26日电 据甘肃省纪委监委消息：甘肃金融控股集团有限公司党委书记、董事长赵鹏涉嫌严重违纪违法，目前正接受甘肃省纪委监委纪律审查和监察调查。" data-title="甘肃金融控股集团党委书记、董事长赵鹏接受审查调查" data-date="11-26 17:21" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 17:21</span>
+          <span class="news-item-title">甘肃金融控股集团党委书记、董事长赵鹏接受审查调查</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-26/10738208.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="2026年11月26日，甘肃省兰州市中级人民法院一审公开宣判陕西省西安市人大常委会原党组书记、主任韩松受贿一案，对被告人韩松以受贿罪判处有期徒刑十三年，并处罚金人民币三百万元；追缴在案的受贿所得财物及孳息依法没收，上缴国库。" data-title="获刑十三年 韩松受贿案一审宣判" data-date="11-26 17:01" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 17:01</span>
+          <span class="news-item-title">获刑十三年 韩松受贿案一审宣判</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-26/10738071.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔11月26日电 (金旭 林珺)韩国银行(央行)当地时间26日决定，将基准利率从3.00%上调至3.25%。" data-title="韩国央行将基准利率上调至3.25%" data-date="11-26 15:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 15:02</span>
+          <span class="news-item-title">韩国央行将基准利率上调至3.25%</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent" target="_blank" rel="noopener" data-cat="caijing" data-summary="Last year, Google filed a patent for a system called My Channel that&#39;s designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosit" data-title="Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future" data-date="11-26 05:51" data-source="The Verge">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-26 05:51</span>
+          <span class="news-item-title">Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="外界普遍预计美联储将于下月加息。" data-title="Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again" data-date="11-26 03:13" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -469,66 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-25 23:59</span>
           <span class="news-item-title">奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="最新一轮的升级之际，政府正面临持续的法律障碍，以及即将上任的民主党主导的国会的新一轮审查。" data-title="Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices" data-date="11-25 23:58" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-25 23:58</span>
-          <span class="news-item-title">Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/531.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，北汽 T700 完成申报。本次申报的车型由北京汽车集团越野车有限公司生产，隶属于北京牌，定位为插电式增程混合动力运动型乘用车，车尾分别标注“T700”与“北汽集团”字样。根据外观及动力差异，公示中包含两种版本，整体造型延续方正硬派的方盒子设计语言，配备贯穿式尾灯与银色下护板装饰。IT之家注意到，两种版本的三围尺寸均为长 4973mm、宽 2019mm，轴距同为 3050mm ，额定载客 5 人。基础版本高度为 1930mm，整备质量 2410kg，最高车速 180km/h；高配版本高度略降为 1910mm，整备质量提升至 2700kg，最高车速达到 200km/h，同时可选装牵引专用装置（" data-title="北京汽车 T700 新车申报：1.5T 增程动力、单 / 双电机两种版本" data-date="11-25 23:53" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-25 23:53</span>
-          <span class="news-item-title">北京汽车 T700 新车申报：1.5T 增程动力、单 / 双电机两种版本</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/529.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，零跑 C19 增程版与纯电版完成申报。本次申报的零跑 C19 车身尺寸为长 5128mm、宽 1972mm、高 1770mm（选装配置时为 1765mm），轴距 3000mm，定位中大型 SUV。车尾右侧标注有“C19”字样，左侧为“零跑”中文标识，中部为“LEAPMOTOR”英文标识，采用贯穿式尾灯设计。▲ 零跑 C19 增程版IT之家注意到，零跑 C19 增程版搭载重庆小康动力型号为 L15T 的 1.5T 四缸增程器，排量 1496ml，发动机额定功率 97kW，最大净功率 95kW，系统最高车速 180km/h。增程版采用前后双电机四驱布局，前电机额定功率 65kW、峰值功率 10" data-title="零跑 C19 新车申报：增程 / 纯电双动力，5.1 米长 5/6/7 座中大型 SUV" data-date="11-25 23:35" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-25 23:35</span>
-          <span class="news-item-title">零跑 C19 新车申报：增程 / 纯电双动力，5.1 米长 5/6/7 座中大型 SUV</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/528.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，岚图汽车全新中大型 MPV 岚图梦想家 8 完成申报，涵盖纯电动、插电式混合动力共三款车型。IT之家注意到，本次申报的岚图梦想家 8 车尾带有“梦想家 8”标识，整体采用简约方正的 MPV 车身造型，配备贯穿式尾灯组，后包围下方设有红色反光饰条，整体风格偏向家用与商务兼顾的定位。车身尺寸方面，新车长宽高分别为 5260/2008/1780-1805mm，轴距为 3150mm，采用 7 座布局，轮胎规格提供 255/55R19、255/50R20 两种选择。配置上，新车可选装双色车身、前格栅样式、前格栅饰条、不同轮辋，全系配备 ABS、汽车事件数据记录系统（EDR），并可选装直接供电式 ET" data-title="岚图梦想家 8 申报：纯电 / 插混可选，7 座中大型 MPV" data-date="11-25 23:30" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-25 23:30</span>
-          <span class="news-item-title">岚图梦想家 8 申报：纯电 / 插混可选，7 座中大型 MPV</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/527.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，零跑全新大五座旗舰 SUV DX 完成申报。IT之家注意到，本次申报的零跑 DX 车尾带有 LEAPMOTOR 品牌英文标识与“DX”字样，整体为大五座中大型 SUV 造型，车尾配备贯穿式尾灯组，后包围带有银色防擦护板与红色反光条，整体风格偏稳重旗舰取向。车身尺寸方面，零跑 DX 的长宽高分别为 5151/1999/1775mm（1795mm），轴距为 3110mm，前悬 / 后悬为 950/1091mm，前轮距 1710mm、后轮距 1715mm，接近角 / 离去角均为 18 度，额定载客人数为 5 人，采用承载式车身结构。动力部分，本次申报共包含四款配置版本，其中两款增程版本均搭载极光" data-title="零跑 DX 大五座 SUV 申报：纯电 / 增程可选，轴距 3110mm" data-date="11-25 23:28" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-25 23:28</span>
-          <span class="news-item-title">零跑 DX 大五座 SUV 申报：纯电 / 增程可选，轴距 3110mm</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/526.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，极狐阿尔法 T7 换电版完成申报。本次申报的车型为极狐 (ARCFOX) 阿尔法 T7 换电式纯电动多用途乘用车，由北汽蓝谷麦格纳汽车有限公司生产制造，车辆长宽高分别为 5020mm / 1996mm / 1685mm，轴距为 3040mm，额定载客人数为 5 人，最高车速可达 180km/h。IT之家注意到，动力方面，该车搭载湖南中车时代电驱科技有限公司生产的驱动电机，电机额定功率 73kW，峰值功率 227kW；储能装置为宁德时代供应的磷酸铁锂蓄电池，由宁德时代新能源科技股份有限公司提供单体、宁德时代（江苏）新能源科技有限公司提供总成。值得一提的是，该产品销售时可依据国家相关部门的规定" data-title="极狐阿尔法 T7 换电版申报，搭载 227kW 电机与宁德时代磷酸铁锂电池" data-date="11-25 23:27" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-25 23:27</span>
-          <span class="news-item-title">极狐阿尔法 T7 换电版申报，搭载 227kW 电机与宁德时代磷酸铁锂电池</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-25/10737848.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社柏林11月25日电 (记者 马秀秀)德国联邦统计局25日公布的数据显示，经价格、季节和工作日调整后，2026年第三季度德国国内生产总值环比增长0.1%，较此前公布的初值下调0.1个百分点。" data-title="德国下调三季度经济增速至0.1%" data-date="11-25 23:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-25 23:27</span>
-          <span class="news-item-title">德国下调三季度经济增速至0.1%</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-25/10737822.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社伦敦11月25日电 (记者 欧阳开宇)英国能源监管机构天然气和电力市场办公室25日宣布，受中东地缘冲突持续扰动国际能源供应链、天然气价格走高影响，英国居民能源价格上限将自2027年1月起大幅上调26%，全国约2000万户家庭将面临冬季用能成本显著上涨。" data-title="英国能源限价2027年将大幅上调" data-date="11-25 21:55" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-25 21:55</span>
-          <span class="news-item-title">英国能源限价2027年将大幅上调</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-25/10737832.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社厦门11月25日电 (吴冠标)厦门市发展和改革委员会主任孙建辉25日表示，厦门将深化两岸服务业融合发展，建强两岸区域性金融服务中心，打造台胞休闲旅游、就医康养、居住就业“第一目的地”。" data-title="厦门推进服务业扩能提质 深化两岸融合发展" data-date="11-25 21:53" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-25 21:53</span>
-          <span class="news-item-title">厦门推进服务业扩能提质 深化两岸融合发展</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="新关税将打击美国许多最大的贸易伙伴，包括中国和欧盟。" data-title="美国准备公布对全球贸易伙伴加征新关税的计划" data-date="11-25 20:18" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-25 20:18</span>
-          <span class="news-item-title">美国准备公布对全球贸易伙伴加征新关税的计划</span>
-        </a>
   </div>
 </div>
 
@@ -542,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-26 05:52（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-26 18:07（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
