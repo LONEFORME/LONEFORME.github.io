@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6620</span>
+      <span class="ticker-price ticker-down">6.6614</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:44:55（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:52:42（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,574.24 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -14.31 (-0.40%)</span>
+      <span class="ticker-price ticker-down">$3,567.91 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -20.64 (-0.58%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:45:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:52:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">¥765.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change down">▼ -0.01 (-0.00%)</span>
+      <span class="ticker-price ticker-down">¥764.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -1.78 (-0.23%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:44:53（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:52:26（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$91.30 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.66 (+0.72%)</span>
+      <span class="ticker-price ticker-up">$91.54 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.90 (+0.99%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 00:45:12（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:52:54（非实时）</div>
   </div>
 </div>
 
@@ -437,97 +437,49 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">7 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats" target="_blank" rel="noopener" data-cat="caijing" data-summary="A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off &quot;the private chat histories of more than 21 million U.S. accounts - […]" data-title="42 state AGs are trying to stop Character.AI from selling users’ chats" data-date="11-26 17:54" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-26 17:54</span>
-          <span class="news-item-title">42 state AGs are trying to stop Character.AI from selling users’ chats</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/982.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，奇瑞全新瑞虎 8 PLUS 完成申报，此外，新车的官图也已公布。作为瑞虎系列的全新车型，全新奇瑞瑞虎 8 PLUS 将于明日开幕的广州车展上正式亮相。外观方面，全新瑞虎 8 PLUS 采用了最新设计语言，配备了大尺寸的直瀑式格栅。侧面配备了传统的机械式门把手，尾部采用贯穿设计的尾灯组，并采用双边共两出排气。本次公示共有两款动力版本车型，分别为汽油版全新瑞虎 8 PLUS 与混合动力版全新瑞虎 8 PLUS SHEV。两款车型均定位多用途乘用车，轴距均为 2850mm，支持 5 座、7 座两种座椅布局，轮胎规格提供 235/55R18、235/50R19、245/45R20 三种选择。IT之" data-title="奇瑞全新瑞虎 8 PLUS 官图公布：全新设计语言，广州车展亮相" data-date="11-26 17:54" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-26 17:54</span>
-          <span class="news-item-title">奇瑞全新瑞虎 8 PLUS 官图公布：全新设计语言，广州车展亮相</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/981.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，吉利银河星舰 7 EV / EF 完成申报。IT之家注意到，本次申报共涵盖两款同源车型，分别为吉利银河星舰 7 EV 纯电动版本与吉利银河星舰 7 EF 甲醇插电式混合动力版本，两款车型均由浙江豪情汽车制造有限公司生产，共享相同的车身尺寸与轴距参数。两款车型的长宽高均为 4730mm×1905mm×1675mm，轴距为 2752mm，定位紧凑级新能源 SUV，额定载客人数为 5 人，采用承载式车身结构。动力与储能系统方面，银河星舰 7 EF 甲醇插混版搭载极光湾科技有限公司生产的 BHE15-BFDM 1.5L 发动机，排量 1499ml，额定功率 93kW，最大净功率 90kW，燃料类型" data-title="新款吉利银河星舰 7 EV / EF 申报：甲醇插混与纯电双版本，轴距 2752mm" data-date="11-26 17:47" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-26 17:47</span>
-          <span class="news-item-title">新款吉利银河星舰 7 EV / EF 申报：甲醇插混与纯电双版本，轴距 2752mm</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738231.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网北京11月26日电 (记者 曾玥)“人大指数”2026年第三季度发布会25日在中国人民大学举行。本次发布会由中国人民大学人文社会科学部主办，以民生福祉与生态文明为主题，集中发布气候适应型城市发展指数、中国银发贡献指数两项研究成果。" data-title="聚焦民生福祉与生态文明 中国人民大学发布两项研究成果" data-date="11-26 17:39" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 17:39</span>
-          <span class="news-item-title">聚焦民生福祉与生态文明 中国人民大学发布两项研究成果</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/977.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，新款奇瑞风云 T9 插电式混合动力中型 SUV 完成申报。IT之家注意到，本次申报的奇瑞风云 T9 为插电式混合动力多用途乘用车，车身长宽高分别为 4802mm/1927mm/1766mm，轴距为 2750mm，尺寸明显提升，提供 235/55R19、245/50R20 两种规格轮胎，配备承载式车身结构，最高车速为 180km/h。外观方面，新款风云 T9 采用风云家族化设计，取消大尺寸进气格栅，采用双透镜一体式大灯。车身侧面线条与现款车型保持一致，换装传统样式门把手。动力方面，新车搭载型号为 SQRH4G15 的 1.5T 汽油发动机，由奇瑞汽车股份有限公司生产，排量为 1499ml，额" data-title="新款奇瑞风云 T9 插混中型 SUV 申报：全新外观，尺寸显著提升" data-date="11-26 17:38" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-26 17:38</span>
-          <span class="news-item-title">新款奇瑞风云 T9 插混中型 SUV 申报：全新外观，尺寸显著提升</span>
-        </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/976.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 26 日消息，据日本共同社消息，日产汽车拟将中国生产的插电式混合动力汽车（PHV）反向进口至日本，目前正就此展开协调。所谓反向进口，是指日本汽车厂商在海外工厂生产汽车，再运回日本国内销售。日产设想从 2027 年度下半年起，陆续将在华合资企业生产的商用厢式车“NV200”和 SUV“Terrano”出口至日本。受与本土车企竞争加剧影响，日产在中国市场销量持续低迷。日产已提出将研发效率较高的中国打造为出口基地的战略，以提振销量、谋求生存。报道称由于日产目前在日本国内未销售 PHV 车型，通过从中国出口，既能盘活在华产能，也能丰富日本本土的产品阵容。据IT之家此前报道，日产汽车中国区含乘用车和轻型商用车两大事业板块在内的 10 月销量为 22,295 台，同比下降 67.14" data-title="消息称日产将从中国“反向进口”插电式混合动力汽车" data-date="11-26 17:33" data-source="IT之家">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-26 17:33</span>
-          <span class="news-item-title">消息称日产将从中国“反向进口”插电式混合动力汽车</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-26/10738222.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月26日电 据甘肃省纪委监委消息：甘肃金融控股集团有限公司党委书记、董事长赵鹏涉嫌严重违纪违法，目前正接受甘肃省纪委监委纪律审查和监察调查。" data-title="甘肃金融控股集团党委书记、董事长赵鹏接受审查调查" data-date="11-26 17:21" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 17:21</span>
-          <span class="news-item-title">甘肃金融控股集团党委书记、董事长赵鹏接受审查调查</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-26/10738208.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="2026年11月26日，甘肃省兰州市中级人民法院一审公开宣判陕西省西安市人大常委会原党组书记、主任韩松受贿一案，对被告人韩松以受贿罪判处有期徒刑十三年，并处罚金人民币三百万元；追缴在案的受贿所得财物及孳息依法没收，上缴国库。" data-title="获刑十三年 韩松受贿案一审宣判" data-date="11-26 17:01" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 17:01</span>
-          <span class="news-item-title">获刑十三年 韩松受贿案一审宣判</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-26/10738071.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网首尔11月26日电 (金旭 林珺)韩国银行(央行)当地时间26日决定，将基准利率从3.00%上调至3.25%。" data-title="韩国央行将基准利率上调至3.25%" data-date="11-26 15:02" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 15:02</span>
-          <span class="news-item-title">韩国央行将基准利率上调至3.25%</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent" target="_blank" rel="noopener" data-cat="caijing" data-summary="Last year, Google filed a patent for a system called My Channel that&#39;s designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosit" data-title="Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future" data-date="11-26 05:51" data-source="The Verge">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-26 05:51</span>
-          <span class="news-item-title">Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="外界普遍预计美联储将于下月加息。" data-title="Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again" data-date="11-26 03:13" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普总统向亚洲各地的贸易伙伴发出了一个信号，即他已准备好提高关税。这些贸易伙伴中有许多都依赖于来自美国和中国的贸易与投资。" data-title="Trump’s Latest Tariffs Revive Focus on Pressuring China" data-date="11-27 01:03" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-26 03:13</span>
-          <span class="news-item-title">Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again</span>
+          <span class="news-item-date">11-27 01:03</span>
+          <span class="news-item-title">Trump’s Latest Tariffs Revive Focus on Pressuring China</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="最新的增长和招聘指标显示经济状况良好。但处境艰难的美国人却感受不到这一点。" data-title="The U.S. Isn’t in a Recession. Try Telling Many Americans That." data-date="11-26 01:51" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738456.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网佛山11月26日电(记者 郭军)第七届金刚钻技能大赛总决赛25日至26日在位于广东佛山顺德的美的全球创新中心开赛。来自海内外的293名工程师及100名信息员齐聚赛场，围绕全能精英、高端精英、全屋智能、家用空调等11大细分赛道，展开激烈角逐，以赛砺技，锤炼适配全屋智能时代的家电服务专业队伍。" data-title="逾6万工程师参与金刚钻技能大赛 海外选手首次同台竞技" data-date="11-26 21:59" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-26 01:51</span>
-          <span class="news-item-title">The U.S. Isn’t in a Recession. Try Telling Many Americans That.</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 21:59</span>
+          <span class="news-item-title">逾6万工程师参与金刚钻技能大赛 海外选手首次同台竞技</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026" target="_blank" rel="noopener" data-cat="caijing" data-summary="即使在像我们现在这样的通胀时代，100美元仍然可以买到很多东西……如果您知道去哪里找的话。事实上，这足以买到一件实用且做工精良的东西，但又不会贵到让您感到内疚。" data-title="The Verge’s guide to the best gifts under $100" data-date="11-26 01:00" data-source="The Verge">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738454.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网肇庆11月26日电 题：青皮竹里长出新赛道：广东肇庆广宁竹产业逐步向高附加值跃升" data-title="青皮竹里长出新赛道：广东肇庆广宁竹产业逐步向高附加值跃升" data-date="11-26 21:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-26 01:00</span>
-          <span class="news-item-title">The Verge’s guide to the best gifts under $100</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 21:57</span>
+          <span class="news-item-title">青皮竹里长出新赛道：广东肇庆广宁竹产业逐步向高附加值跃升</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="经过两年的放松监管，由民主党人领导的国会委员会将再次将目光聚焦于美国的企业界。" data-title="Corporate Oversight Revs Up as Washington Turns Blue Again" data-date="11-26 00:43" data-source="纽约时报">
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-26/10738451.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网吉隆坡11月26日电 (记者 刘育英)据马新社26日报道，全球反诈骗联盟(GASA)透露，马来西亚首次被列入亚洲诈骗受害者平均经济损失最高的七个经济体之列，与日本、韩国、新加坡、中国香港及中国台湾等经济体同列。" data-title="马来西亚诈骗受害者人均损失首次位列亚洲前七" data-date="11-26 21:52" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-26 00:43</span>
-          <span class="news-item-title">Corporate Oversight Revs Up as Washington Turns Blue Again</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 21:52</span>
+          <span class="news-item-title">马来西亚诈骗受害者人均损失首次位列亚洲前七</span>
         </a>
-        <a class="news-item" href="https://www.ithome.com/1/032/533.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 25 日消息，奕境汽车品牌总经理曾清林刚刚发文，分享了 70% 和 90% 两组数据：70% 来自工信部。2026 年以来，搭载辅助驾驶功能的乘用车新车，市场渗透率已经达到 70%。这再次印证，新能源上半场是电动化，现在来到了下半场的智能化。随着充电网络的普及和续航的提升，充电和续航对很多朋友来说已经不再是主要焦虑，真正的考题在智驾。90% 这个数据来自华为智能辅助驾驶后台：买了华为智驾车型的车主，90% 以上每天都在用。这个数据在我身上也可以得到验证。我目前开奕境 X9，每天 90% 的路程都是智驾开的。曾清林表示，有的智能辅助驾驶，让用户雨天不敢用、晚上没法用，极端工况更是害怕用，这样的智驾只会给用户添麻烦。问题往往出在感知硬件上。摄像头在夜晚、雨天、小目标面前存在短" data-title="奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案" data-date="11-25 23:59" data-source="IT之家">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738447.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳11月26日电 (记者 王坚)为期三天的第三届节水产业创新发展成果展暨2026环境水务产业科技博览会26日在深圳开幕。展会以“数智融合水润未来”为主题，集中展示节水技术、智慧水务、绿色低碳及成套装备等领域前沿成果，集中发布50多项涉水新技术、新产品，参展企业达115家。" data-title="水务黑科技亮相第三届节水产业创新发展成果展" data-date="11-26 21:50" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 IT之家</span>
-          <span class="news-item-date">11-25 23:59</span>
-          <span class="news-item-title">奕境曾清林：新能源汽车来到智能化下半场，四激光正是面向 L3、一步到位的智驾硬件方案</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 21:50</span>
+          <span class="news-item-title">水务黑科技亮相第三届节水产业创新发展成果展</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-26/10738417.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网柏林11月26日电 第十二届巴伐利亚中国日近日在德国因戈尔施塔特市举办，中国驻慕尼黑总领事邱学军、因市市长科恩出席并致辞，商务部投资促进事务局局长刘民强视频致辞，来自中德两国工商学界代表100余人参加。" data-title="第十二届巴伐利亚中国日在因戈尔施塔特市举办" data-date="11-26 21:26" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-26 21:26</span>
+          <span class="news-item-title">第十二届巴伐利亚中国日在因戈尔施塔特市举办</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm62p52417ywo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国总统财务揭露的审查显示特朗普（川普）的投资组合经常交易Nvidia的股票。" data-title="BBC事实查核：纪录显示，特朗普的账户今年交易了44次Nvidia股票" data-date="11-26 21:23" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-26 21:23</span>
+          <span class="news-item-title">BBC事实查核：纪录显示，特朗普的账户今年交易了44次Nvidia股票</span>
         </a>
   </div>
 </div>
@@ -542,4 +494,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-26 18:07（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-27 01:50（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
