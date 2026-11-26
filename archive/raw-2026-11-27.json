@@ -1,5 +1,16 @@
 [
   {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "title_zh": "",
+    "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "date": "2026-11-27",
+    "published_time": "04:03",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "published_dt_iso": "2026-11-27T04:03:54+08:00"
+  },
+  {
     "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
     "title_zh": "与Anthropic的IPO一样，《侠盗猎车手6》证明了效率为何不是一种美德",
     "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
@@ -77,15 +88,48 @@
     "published_dt_iso": "2026-11-26T01:35:58+08:00"
   },
   {
-    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-    "title_zh": "人工智能数据中心越来越难建，新云正在感受到这一点",
-    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-    "date": "2026-11-25",
-    "published_time": "23:41",
-    "source": "TechCrunch",
-    "feed_name": "TechCrunch(AI模型)",
-    "summary": "⁠Nvidia 已明确表示，在人工智能数据中心即将投入运行之前，它不会提供支持，而此时正值新云公司报告建设延期和债务成本上升。向开发商传达的信息是，土地、电力和竣工的建筑物",
-    "published_dt_iso": "2026-11-25T23:41:43+08:00"
+    "title": "Denny’s touts renewed support for Nvidia CEO Jensen Huang following reinstatement",
+    "title_zh": "",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/dennys-touts-renewed-support-for-nvidia-ceo-jensen-huang-following-reinstatement-says-some-things-you-just-dont-take-off-the-menu",
+    "date": "2026-11-27",
+    "published_time": "05:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Denny's, the diner where Jensen Huang came up with the idea for Nvidia, has posted a 200-word statement to X in which it expressed its delight at his return to Nvidia after he initially resigned and admitted to an affair with a suspected Chinese spy.",
+    "published_dt_iso": "2026-11-27T05:00:00+08:00"
+  },
+  {
+    "title": "Black Friday is the perfect time to pick up a new 3D Printer",
+    "title_zh": "",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/black-friday-is-the-perfect-time-to-pick-up-a-new-3d-printer-these-are-the-best-deals-weve-spotted-so-far",
+    "date": "2026-11-27",
+    "published_time": "03:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Black Friday is the perfect time to find an amazing deal on a new 3D printer. Check out our favorite listings so far.",
+    "published_dt_iso": "2026-11-27T03:30:00+08:00"
+  },
+  {
+    "title": "The best Black Friday soldering iron deals for hobbyists and makers right now",
+    "title_zh": "",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-black-friday-soldering-iron-deals-for-hobbyists-and-makers-right-now-limited-time-sale-discounts-on-digital-irons-premium-solder-and-heat-proof-accessories",
+    "date": "2026-11-27",
+    "published_time": "02:30",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Grab a new soldiering iron or accessories during this Black Friday sales week, with the best recommendations included here.",
+    "published_dt_iso": "2026-11-27T02:30:00+08:00"
+  },
+  {
+    "title": "Two Californian Nvidia AI chip customers are really Chinese",
+    "title_zh": "",
+    "link": "https://www.tomshardware.com/tech-industry/big-tech/two-californian-nvidia-ai-chip-customers-are-really-chinese-owned-companies-used-as-workaround-for-government-export-controls",
+    "date": "2026-11-27",
+    "published_time": "02:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "Nvidia sells its advanced AI chips to two Californian companies with links to Chinese parent companies, including one that has already been blacklisted. Nvidia is only allowed to sell to specific companies, with export controls intended to prevent these chips from falling into the wrong hands in China.",
+    "published_dt_iso": "2026-11-27T02:00:00+08:00"
   },
   {
     "title": "Essential 3D printer maintenance tool deals for Black Friday — save up to 30% on precision tools, lights, snips, and more",
@@ -132,48 +176,26 @@
     "published_dt_iso": "2026-11-27T00:11:07+08:00"
   },
   {
-    "title": "Exploring the Indium phosphide supply chain — the material constraint tightening the optical interconnect bottleneck",
-    "title_zh": "探索磷化铟供应链——加剧光互连瓶颈的材料制约因素",
-    "link": "https://www.tomshardware.com/tech-industry/photonics/inside-the-indium-phosphide-squeeze-and-the-optical-boom-inp-remains-tightly-constrained-as-the-demand-from-ai-puts-the-entire-supply-chain-under-pressure",
+    "title": "Netflix’s coziest show has made a very quiet return",
+    "title_zh": "",
+    "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
     "date": "2026-11-27",
-    "published_time": "00:00",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "人工智能行业向光互连的转变正在使激光器、收发器和共封装光学器件背后的集中性 InP 供应链不堪重负。",
-    "published_dt_iso": "2026-11-27T00:00:00+08:00"
+    "published_time": "05:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-programming, and even games. It makes it easy for some of the best […]",
+    "published_dt_iso": "2026-11-27T05:00:00+08:00"
   },
   {
-    "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
-    "title_zh": "据报道，由于所谓的中国云访问禁令，Nvidia停止向东南亚供应AI GPU。",
-    "link": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+    "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+    "title_zh": "",
+    "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
     "date": "2026-11-27",
-    "published_time": "00:00",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "新加坡、马来西亚、泰国和印度尼西亚的数据中心现在必须获得出口许可证，才能获得Nvidia AI GPU的交付。",
-    "published_dt_iso": "2026-11-27T00:00:00+08:00"
-  },
-  {
-    "title": "Save 21% on this ultra-fast 2TB SanDisk Optimus GX Pro 8100 SSD, now just 17.5 cents per GB",
-    "title_zh": "这款超高速2TB SanDisk Optimus GX Pro 8100固态硬盘现享七九折优惠，每GB仅需17.5美分",
-    "link": "https://www.tomshardware.com/pc-components/ssds/save-21-percent-on-this-ultra-fast-2tb-sandisk-optimus-gx-pro-8100-ssd-now-just-17-5-cents-per-gb-rebranded-sn8100-offers-gen-5-speeds-of-up-to-14-900-mb-s-at-a-record-low-price",
-    "date": "2026-11-26",
-    "published_time": "23:52",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "第5代2TB Sandisk Optimus GX Pro 8100超值优惠，现价仅为349.99美元。",
-    "published_dt_iso": "2026-11-26T23:52:52+08:00"
-  },
-  {
-    "title": "15 tech gadgets that improved my tech life are on sale for less than $50",
-    "title_zh": "15款改善我科技生活的科技小工具正在以不到50美元的价格促销",
-    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/15-tech-gadgets-that-improved-my-tech-life-are-on-sale-for-less-than-usd50-black-friday-pricing-means-some-are-even-under-usd25",
-    "date": "2026-11-26",
-    "published_time": "23:45",
-    "source": "Tom's Hardware",
-    "feed_name": "Tom's Hardware(半导体)",
-    "summary": "从电动螺丝刀到高分辨率网络摄像头，这些都是便宜的游戏规则改变者。",
-    "published_dt_iso": "2026-11-26T23:45:16+08:00"
+    "published_time": "03:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]",
+    "published_dt_iso": "2026-11-27T03:00:00+08:00"
   },
   {
     "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
@@ -240,28 +262,6 @@
     "feed_name": "The Verge(科技)",
     "summary": "《侠盗猎车手6》开发商Rockstar Games的员工将不会组建工会，因为正式承认协议的投票未获通过，只有25%的选票支持组建工会。英国独立工人联盟（IWGB）表示，",
     "published_dt_iso": "2026-11-26T23:55:24+08:00"
-  },
-  {
-    "title": "Why GTA VI’s version of Florida feels so real",
-    "title_zh": "为什么《GTA VI》中的佛罗里达州感觉如此真实？",
-    "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
-    "date": "2026-11-26",
-    "published_time": "23:00",
-    "source": "The Verge",
-    "feed_name": "The Verge(科技)",
-    "summary": "《侠盗猎车手6》之所以如此受欢迎，原因有很多：13年的期待、有代入感的主角和浪漫的故事情节，以及极高的深度。但另一个主要因素是地域感。《GTA》系列无与伦比",
-    "published_dt_iso": "2026-11-26T23:00:00+08:00"
-  },
-  {
-    "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-    "title_zh": "您可以在这里（稍稍）节省《时之笛》重制版的费用",
-    "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
-    "date": "2026-11-26",
-    "published_time": "22:00",
-    "source": "The Verge",
-    "feed_name": "The Verge(科技)",
-    "summary": "许多人的假日愿望清单上都有《塞尔达传说：时之笛》的任天堂Switch 2版。如果您还没有购买，我想和您分享一些针对该游戏实体版和数字版的小优惠，这些优惠虽然不大，但还是值得关注的。",
-    "published_dt_iso": "2026-11-26T22:00:00+08:00"
   },
   {
     "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
@@ -451,6 +451,17 @@
     "published_dt_iso": "2026-11-26T22:56:30+08:00"
   },
   {
+    "title": "Calvert-Lewin signs new Leeds deal until 2029",
+    "title_zh": "",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-27",
+    "published_time": "02:00",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029.",
+    "published_dt_iso": "2026-11-27T02:00:31+08:00"
+  },
+  {
     "title": "Not even making a 12-man bench - what next for Garnacho?",
     "title_zh": "连12人替补名单都进不了——加尔纳乔接下来该怎么办？",
     "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgd5exl0do?at_medium=RSS&at_campaign=rss",
@@ -517,20 +528,9 @@
     "published_dt_iso": "2026-11-26T02:32:55+08:00"
   },
   {
-    "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-    "title_zh": "波切蒂诺带头对尤罗的红牌判罚表示不满",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-11-25",
-    "published_time": "06:05",
-    "source": "BBC",
-    "feed_name": "BBC 英超专栏",
-    "summary": "曼联和毛里西奥·波切蒂诺对VAR裁判约翰·布鲁克斯和裁判主管霍华德·韦伯处理莱尼·约罗红牌的方式感到愤怒。",
-    "published_dt_iso": "2026-11-25T06:05:31+08:00"
-  },
-  {
-    "title": "Europa and Conference League LIVE! Much-changed Bournemouth & Brighton in action",
-    "title_zh": "欧罗巴联赛和欧会杯直播！阵容大变的伯恩茅斯和布莱顿即将出战",
-    "link": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/live/577814",
+    "title": "EL & ECL LIVE! Palace come from behind to lead, Sunderland and Celtic all square",
+    "title_zh": "",
+    "link": "https://www.skysports.com/football/sunderland-vs-jagiellonia-bialystok/live/577827",
     "date": "2026-11-27",
     "published_time": "00:30",
     "source": "天空体育",
@@ -539,81 +539,103 @@
     "published_dt_iso": "2026-11-27T00:30:00+08:00"
   },
   {
-    "title": "Three for the Coral Gold Cup! Sean Boyce's Newbury preview",
-    "title_zh": "珊瑚金杯赛三强！肖恩·博伊斯的新伯里赛前展望",
-    "link": "https://www.skysports.com/watch/video/13616844/three-for-the-coral-gold-cup-sean-boyces-newbury-preview",
-    "date": "2026-11-26",
-    "published_time": "22:18",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "Sky Sports Racing的肖恩·博伊斯（Sean Boyce）挑选了三匹马，在周六于纽伯里举行的激动人心的Coral金杯赛中保持领先。",
-    "published_dt_iso": "2026-11-26T22:18:00+08:00"
-  },
-  {
-    "title": "PL Predictions: How will your club fare this weekend?",
-    "title_zh": "英超预测：您的俱乐部本周末表现如何？",
-    "link": "https://www.skysports.com/football/news/12040/13616076/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
+    "title": "NZ skipper Latham laughs off Pant dominating local cricket under false name",
+    "title_zh": "",
+    "link": "https://www.skysports.com/cricket/news/12040/13616982/new-zealand-vs-india-tom-latham-laughs-off-rishabh-pant-dominating-local-christchurch-cricket-match-under-false-name",
     "date": "2026-11-27",
-    "published_time": "00:00",
+    "published_time": "04:20",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "我们的顶级投注顾问刘易斯·琼斯（又名Jones Knows）提供他对英超联赛的分析和投注见解。",
-    "published_dt_iso": "2026-11-27T00:00:00+08:00"
+    "summary": "New Zealand captain Tom Latham has laughed off India's Rishabh Pant dominating a local Christchurch cricket match under a false name, a day before their second Test.",
+    "published_dt_iso": "2026-11-27T04:20:00+08:00"
   },
   {
-    "title": "Andalucia Costa Del Sol Open de Espana | Day one highlights",
-    "title_zh": "安达卢西亚太阳海岸西班牙公开赛 | 第一天精彩集锦",
-    "link": "https://www.skysports.com/watch/video/13616889/let-andalucia-costa-del-sol-open-de-espana-day-one-highlights",
+    "title": "Eckert: Time to 'close the chapter' on Spygate ahead of Boro reunion",
+    "title_zh": "",
+    "link": "https://www.skysports.com/football/news/12040/13616785/tonda-eckert-southampton-boss-wants-to-close-the-chapter-on-spygate-ahead-of-middlesbrough-reunion",
     "date": "2026-11-27",
-    "published_time": "00:07",
+    "published_time": "03:00",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "西班牙马拉加安达卢西亚太阳海岸公开赛第一天的精彩瞬间。",
-    "published_dt_iso": "2026-11-27T00:07:00+08:00"
+    "summary": "\"I think we've experienced a little bit more in the last 12 months than normal.\"",
+    "published_dt_iso": "2026-11-27T03:00:00+08:00"
   },
   {
-    "title": "Russell: I found Verstappen comments amusing",
-    "title_zh": "拉塞尔：我觉得维斯塔潘的评论很有趣",
-    "link": "https://www.skysports.com/f1/news/12040/13616749/george-russell-admits-feud-with-max-verstappen-is-avoidable-and-unnecessary-ahead-of-qatar-grand-prix",
+    "title": "Taylor and Lewis suffer five straight defeats on Modus Super Series return",
+    "title_zh": "",
+    "link": "https://www.skysports.com/darts/news/12040/13616906/phil-taylor-and-adrian-lewis-suffer-five-straight-defeats-at-modus-super-series-international-pairs",
+    "date": "2026-11-27",
+    "published_time": "00:50",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "Phil 'The Power' Taylor and Adrian Lewis suffered five losses from five matches for England at Thursday's Modus Super Series International Pairs Tournament in Portsmouth.",
+    "published_dt_iso": "2026-11-27T00:50:00+08:00"
+  },
+  {
+    "title": "Bournemouth make European history after coming from behind to beat Celta Vigo",
+    "title_zh": "",
+    "link": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/report/577814",
+    "date": "2026-11-27",
+    "published_time": "04:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "Bournemouth continued their magnificent run of form with a 2-1 victory against Celta Vigo, creating two bits of history in the process.",
+    "published_dt_iso": "2026-11-27T04:00:00+08:00"
+  },
+  {
+    "title": "Leclerc denies having 'No 1 clause' in Ferrari contract",
+    "title_zh": "",
+    "link": "https://www.skysports.com/f1/news/12040/13616753/charles-leclerc-denies-presence-of-no-1-driver-clause-in-ferrari-contract-as-he-and-lewis-hamilton-hold-good-discussions-after-collision",
+    "date": "2026-11-27",
+    "published_time": "02:12",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "Charles Leclerc has strongly denied suggestions he has a No 1 driver clause in his Ferrari contract.",
+    "published_dt_iso": "2026-11-27T02:12:00+08:00"
+  },
+  {
+    "title": "Chelsea Q&A: Are Blues in crisis? What next for Fofana after viral interview?",
+    "title_zh": "",
+    "link": "https://www.skysports.com/football/news/12040/13616881/chelsea-qa-your-questions-answered-on-wesley-fofana-transfers-danny-welbeck-estevao-and-more",
     "date": "2026-11-26",
     "published_time": "23:55",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "乔治·拉塞尔表示，在拉斯维加斯大奖赛上，他和马克斯·维斯塔潘的恩怨再次爆发后，他对维斯塔潘的批评感到“好笑”，但他也承认这场冲突是“可以避免的”。",
+    "summary": "After Chelsea fell to back-to-back losses with a 4-1 humiliation by Leeds at Stamford Bridge last Saturday, Sky Sports News reporter James Savundra examines the latest developments at Stamford Bridge.",
     "published_dt_iso": "2026-11-26T23:55:00+08:00"
   },
   {
-    "title": "'Super stuff!' - Taylor takes first dart at double in his Modus competitive comeback!",
-    "title_zh": "“太棒了！”——泰勒在莫杜斯联赛的复出之战中，第一镖就命中双倍区域！",
-    "link": "https://www.skysports.com/watch/video/13616899/phil-taylor-takes-first-dart-at-double-in-his-modus-competitive-comeback",
+    "title": "Calvert-Lewin signs new Leeds deal",
+    "title_zh": "",
+    "link": "https://www.skysports.com/football/news/12040/13616913/dominic-calvert-lewis-leeds-striker-signs-new-deal-until-2029-with-premier-league-club",
     "date": "2026-11-27",
-    "published_time": "00:28",
+    "published_time": "02:00",
     "source": "天空体育",
     "feed_name": "天空体育(转会中心)",
-    "summary": "菲尔·泰勒在朴茨茅斯的MODUS超级系列赛国际双人赛第4站中，与阿德里安·刘易斯搭档，在复出首场比赛中以一镖命中双倍区，以84分完成收官。",
-    "published_dt_iso": "2026-11-27T00:28:00+08:00"
+    "summary": "Dominic Calvert-Lewin has signed a new deal at Leeds, keeping him at the club until the summer of 2029.",
+    "published_dt_iso": "2026-11-27T02:00:00+08:00"
   },
   {
-    "title": "Palace latest: McNeil says Everton 'were really good' after failed January move",
-    "title_zh": "水晶宫最新消息：麦克尼尔表示，在1月份转会失败后，埃弗顿“表现得非常好”",
-    "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "title": "Chelsea Q&A: Are Blues in crisis? What next for Fofana after viral interview?",
+    "title_zh": "",
+    "link": "https://www.skysports.com/football/news/11661/13616881/chelsea-qa-your-questions-answered-on-wesley-fofana-transfers-danny-welbeck-estevao-and-more",
     "date": "2026-11-26",
-    "published_time": "21:50",
+    "published_time": "23:55",
     "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
+    "feed_name": "天空体育(英超)",
+    "summary": "After Chelsea fell to back-to-back losses with a 4-1 humiliation by Leeds at Stamford Bridge last Saturday, Sky Sports News reporter James Savundra examines the latest developments at Stamford Bridge.",
+    "published_dt_iso": "2026-11-26T23:55:00+08:00"
+  },
+  {
+    "title": "Chelsea latest: Fofana apologised over unauthorised interview, says Alonso",
+    "title_zh": "切尔西最新消息：阿隆索表示，福法纳就未经授权的采访道歉",
+    "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "date": "2026-11-26",
+    "published_time": "22:15",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
     "summary": "",
-    "published_dt_iso": "2026-11-26T21:50:00+08:00"
-  },
-  {
-    "title": "Wrong calls and bad results: Are refs making Man Utd's problems worse?",
-    "title_zh": "误判和糟糕的结果：裁判是否在加剧曼联的问题？",
-    "link": "https://www.skysports.com/football/news/12040/13616790/man-utds-controversial-refereeing-decisions-are-officials-making-mauricio-pochettinos-job-harder",
-    "date": "2026-11-26",
-    "published_time": "20:20",
-    "source": "天空体育",
-    "feed_name": "天空体育(转会中心)",
-    "summary": "毛里西奥·波切蒂诺要想扭转曼联本赛季的颓势，光靠出色的表现还不够——裁判的判罚也必须对他们有利。",
-    "published_dt_iso": "2026-11-26T20:20:00+08:00"
+    "published_dt_iso": "2026-11-26T22:15:00+08:00"
   },
   {
     "title": "Yoro red card: Written reasons for overturned decision revealed",
@@ -638,17 +660,6 @@
     "published_dt_iso": "2026-11-26T20:20:00+08:00"
   },
   {
-    "title": "Premier League predictor - play our new game each week!",
-    "title_zh": "英超联赛预测器 - 每周玩我们的新游戏！",
-    "link": "https://www.skysports.com/football/live-blog/11661/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
-    "date": "2026-11-19",
-    "published_time": "00:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(英超)",
-    "summary": "",
-    "published_dt_iso": "2026-11-19T00:00:00+08:00"
-  },
-  {
     "title": "Man Utd latest: Pochettino baffled by decision to disallow Amad goal",
     "title_zh": "曼联最新消息：波切蒂诺对不认可阿马德进球的判罚感到困惑",
     "link": "https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -658,28 +669,6 @@
     "feed_name": "天空体育(英超)",
     "summary": "",
     "published_dt_iso": "2026-11-26T05:00:00+08:00"
-  },
-  {
-    "title": "Arsenal latest: Merson backs Gyokeres for start against Man City",
-    "title_zh": "阿森纳最新消息：默森支持吉奥克雷斯首发对阵曼城",
-    "link": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "date": "2026-11-26",
-    "published_time": "22:00",
-    "source": "天空体育",
-    "feed_name": "天空体育(英超)",
-    "summary": "",
-    "published_dt_iso": "2026-11-26T22:00:00+08:00"
-  },
-  {
-    "title": "Chelsea latest: Fofana apologised over unauthorised interview, says Alonso",
-    "title_zh": "切尔西最新消息：阿隆索表示，福法纳就未经授权的采访道歉",
-    "link": "https://www.skysports.com/football/live-blog/11661/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "date": "2026-11-26",
-    "published_time": "22:15",
-    "source": "天空体育",
-    "feed_name": "天空体育(英超)",
-    "summary": "",
-    "published_dt_iso": "2026-11-26T22:15:00+08:00"
   },
   {
     "title": "PL Predictions: How will your club fare this weekend?",
@@ -693,15 +682,26 @@
     "published_dt_iso": "2026-11-27T00:00:00+08:00"
   },
   {
-    "title": "Spurs latest: Savio set for several weeks out",
-    "title_zh": "热刺最新消息：萨维奥将缺席数周",
-    "link": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-    "date": "2026-11-27",
-    "published_time": "01:00",
+    "title": "Premier League predictor - play our new game each week!",
+    "title_zh": "英超联赛预测器 - 每周玩我们的新游戏！",
+    "link": "https://www.skysports.com/football/live-blog/11661/13612918/premier-league-predictor-predict-the-fixtures-each-gameweek-generate-your-table-and-share-results",
+    "date": "2026-11-19",
+    "published_time": "00:00",
     "source": "天空体育",
     "feed_name": "天空体育(英超)",
     "summary": "",
-    "published_dt_iso": "2026-11-27T01:00:00+08:00"
+    "published_dt_iso": "2026-11-19T00:00:00+08:00"
+  },
+  {
+    "title": "Calvert-Lewin signs new Leeds deal",
+    "title_zh": "",
+    "link": "https://www.skysports.com/football/news/11661/13616913/dominic-calvert-lewis-leeds-striker-signs-new-deal-until-2029-with-premier-league-club",
+    "date": "2026-11-27",
+    "published_time": "02:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "Dominic Calvert-Lewin has signed a new deal at Leeds, keeping him at the club until the summer of 2029.",
+    "published_dt_iso": "2026-11-27T02:00:00+08:00"
   },
   {
     "title": "纪念孙中山诞辰160周年陇台交流活动在兰州举行",
@@ -1144,6 +1144,17 @@
     "published_dt_iso": "2026-11-17T17:49:49+08:00"
   },
   {
+    "title": "Macy’s Thanksgiving Day Parade Upends Plans and Adds Costs for Marching Bands",
+    "title_zh": "",
+    "link": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
+    "date": "2026-11-27",
+    "published_time": "04:21",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Nine marching bands were set to perform in the Macy’s Thanksgiving Day Parade. The decision to move the event to Saturday posed new logistical challenges for them.",
+    "published_dt_iso": "2026-11-27T04:21:00+08:00"
+  },
+  {
     "title": "Thanksgiving Parade Balloons Are Deflated in New York",
     "title_zh": "纽约感恩节游行气球被放气",
     "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
@@ -1155,17 +1166,6 @@
     "published_dt_iso": "2026-11-26T22:06:46+08:00"
   },
   {
-    "title": "The Thanksgiving Parade Is on a Saturday. Can They Do That?",
-    "title_zh": "感恩节游行在星期六举行。他们能这样做吗？",
-    "link": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
-    "date": "2026-11-26",
-    "published_time": "22:07",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "经过一个多世纪的传承，梅西百货感恩节大游行突然变得灵活起来。当然，这没关系。",
-    "published_dt_iso": "2026-11-26T22:07:50+08:00"
-  },
-  {
     "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
     "title_zh": "有证据表明，陆军早在很久以前就知道爱荷华州存在爆炸风险",
     "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
@@ -1175,6 +1175,270 @@
     "feed_name": "纽约时报",
     "summary": "一年多前，爱荷华州一家工厂就开始努力处置不稳定的爆炸物，但当时并未完成，为周三发生的争议性爆炸埋下了隐患。",
     "published_dt_iso": "2026-11-27T00:50:50+08:00"
+  },
+  {
+    "title": "Democrats Confront a Familiar Question: How Are You Going to Pay for That?",
+    "title_zh": "",
+    "link": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
+    "date": "2026-11-26",
+    "published_time": "22:50",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Many Democratic plans are unlikely to become law under President Trump. But the party is still grappling with the difficult budget math of its agenda.",
+    "published_dt_iso": "2026-11-26T22:50:27+08:00"
+  },
+  {
+    "title": "Trump Administration’s Cuts to SNAP Threaten Free School Meals",
+    "title_zh": "",
+    "link": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
+    "date": "2026-11-26",
+    "published_time": "23:44",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "The Trump administration’s cuts and proposed regulatory changes to the Supplemental Nutrition Assistance Program would have consequences for school lunch and breakfast.",
+    "published_dt_iso": "2026-11-26T23:44:53+08:00"
+  },
+  {
+    "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+    "title_zh": "一些巴西人被高薪诱惑，受骗去为俄罗斯作战",
+    "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+    "date": "2026-11-26",
+    "published_time": "22:01",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "数十名巴西人几乎未经训练就被派往前线，他们说，承诺给他们的高薪最终被证明是虚幻的。",
+    "published_dt_iso": "2026-11-26T22:01:45+08:00"
+  },
+  {
+    "title": "Brazilian Duped Into Fighting for Russia: ‘War Is Hell’",
+    "title_zh": "",
+    "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+    "date": "2026-11-26",
+    "published_time": "23:27",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure. Here is one soldier’s story.",
+    "published_dt_iso": "2026-11-26T23:27:03+08:00"
+  },
+  {
+    "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+    "title_zh": "",
+    "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+    "date": "2026-11-27",
+    "published_time": "05:40",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "Documents released Thursday shed new light on the rushed appointment of Peter Mandelson and his continued ties to Global Counsel, a lobbying group.",
+    "published_dt_iso": "2026-11-27T05:40:09+08:00"
+  },
+  {
+    "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+    "title_zh": "人工智能数据中心越来越难建，新云正在感受到这一点",
+    "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+    "date": "2026-11-25",
+    "published_time": "23:41",
+    "source": "TechCrunch",
+    "feed_name": "TechCrunch(AI模型)",
+    "summary": "⁠Nvidia 已明确表示，在人工智能数据中心即将投入运行之前，它不会提供支持，而此时正值新云公司报告建设延期和债务成本上升。向开发商传达的信息是，土地、电力和竣工的建筑物",
+    "published_dt_iso": "2026-11-25T23:41:43+08:00"
+  },
+  {
+    "title": "Exploring the Indium phosphide supply chain — the material constraint tightening the optical interconnect bottleneck",
+    "title_zh": "探索磷化铟供应链——加剧光互连瓶颈的材料制约因素",
+    "link": "https://www.tomshardware.com/tech-industry/photonics/inside-the-indium-phosphide-squeeze-and-the-optical-boom-inp-remains-tightly-constrained-as-the-demand-from-ai-puts-the-entire-supply-chain-under-pressure",
+    "date": "2026-11-27",
+    "published_time": "00:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "人工智能行业向光互连的转变正在使激光器、收发器和共封装光学器件背后的集中性 InP 供应链不堪重负。",
+    "published_dt_iso": "2026-11-27T00:00:00+08:00"
+  },
+  {
+    "title": "Nvidia stops AI GPU shipments to Southeast Asia amid purported China cloud access ban, report claims",
+    "title_zh": "据报道，由于所谓的中国云访问禁令，Nvidia停止向东南亚供应AI GPU。",
+    "link": "https://www.tomshardware.com/tech-industry/policy/nvidia-stops-ai-gpu-shipments-to-southeast-asia-report-claims-data-centers-in-singapore-other-countries-in-trouble-as-commerce-department-requires-cloud-providers-to-obtain-export-license",
+    "date": "2026-11-27",
+    "published_time": "00:00",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "新加坡、马来西亚、泰国和印度尼西亚的数据中心现在必须获得出口许可证，才能获得Nvidia AI GPU的交付。",
+    "published_dt_iso": "2026-11-27T00:00:00+08:00"
+  },
+  {
+    "title": "Save 21% on this ultra-fast 2TB SanDisk Optimus GX Pro 8100 SSD, now just 17.5 cents per GB",
+    "title_zh": "这款超高速2TB SanDisk Optimus GX Pro 8100固态硬盘现享七九折优惠，每GB仅需17.5美分",
+    "link": "https://www.tomshardware.com/pc-components/ssds/save-21-percent-on-this-ultra-fast-2tb-sandisk-optimus-gx-pro-8100-ssd-now-just-17-5-cents-per-gb-rebranded-sn8100-offers-gen-5-speeds-of-up-to-14-900-mb-s-at-a-record-low-price",
+    "date": "2026-11-26",
+    "published_time": "23:52",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "第5代2TB Sandisk Optimus GX Pro 8100超值优惠，现价仅为349.99美元。",
+    "published_dt_iso": "2026-11-26T23:52:52+08:00"
+  },
+  {
+    "title": "15 tech gadgets that improved my tech life are on sale for less than $50",
+    "title_zh": "15款改善我科技生活的科技小工具正在以不到50美元的价格促销",
+    "link": "https://www.tomshardware.com/gift-guides-seasonal-sales/15-tech-gadgets-that-improved-my-tech-life-are-on-sale-for-less-than-usd50-black-friday-pricing-means-some-are-even-under-usd25",
+    "date": "2026-11-26",
+    "published_time": "23:45",
+    "source": "Tom's Hardware",
+    "feed_name": "Tom's Hardware(半导体)",
+    "summary": "从电动螺丝刀到高分辨率网络摄像头，这些都是便宜的游戏规则改变者。",
+    "published_dt_iso": "2026-11-26T23:45:16+08:00"
+  },
+  {
+    "title": "Why GTA VI’s version of Florida feels so real",
+    "title_zh": "为什么《GTA VI》中的佛罗里达州感觉如此真实？",
+    "link": "https://www.theverge.com/entertainment/1042629/gta-6-city-design",
+    "date": "2026-11-26",
+    "published_time": "23:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "《侠盗猎车手6》之所以如此受欢迎，原因有很多：13年的期待、有代入感的主角和浪漫的故事情节，以及极高的深度。但另一个主要因素是地域感。《GTA》系列无与伦比",
+    "published_dt_iso": "2026-11-26T23:00:00+08:00"
+  },
+  {
+    "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+    "title_zh": "您可以在这里（稍稍）节省《时之笛》重制版的费用",
+    "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+    "date": "2026-11-26",
+    "published_time": "22:00",
+    "source": "The Verge",
+    "feed_name": "The Verge(科技)",
+    "summary": "许多人的假日愿望清单上都有《塞尔达传说：时之笛》的任天堂Switch 2版。如果您还没有购买，我想和您分享一些针对该游戏实体版和数字版的小优惠，这些优惠虽然不大，但还是值得关注的。",
+    "published_dt_iso": "2026-11-26T22:00:00+08:00"
+  },
+  {
+    "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+    "title_zh": "波切蒂诺带头对尤罗的红牌判罚表示不满",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-11-25",
+    "published_time": "06:05",
+    "source": "BBC",
+    "feed_name": "BBC 英超专栏",
+    "summary": "曼联和毛里西奥·波切蒂诺对VAR裁判约翰·布鲁克斯和裁判主管霍华德·韦伯处理莱尼·约罗红牌的方式感到愤怒。",
+    "published_dt_iso": "2026-11-25T06:05:31+08:00"
+  },
+  {
+    "title": "Europa and Conference League LIVE! Much-changed Bournemouth & Brighton in action",
+    "title_zh": "欧罗巴联赛和欧会杯直播！阵容大变的伯恩茅斯和布莱顿即将出战",
+    "link": "https://www.skysports.com/football/celta-vigo-vs-bournemouth/live/577814",
+    "date": "2026-11-27",
+    "published_time": "00:30",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-27T00:30:00+08:00"
+  },
+  {
+    "title": "Three for the Coral Gold Cup! Sean Boyce's Newbury preview",
+    "title_zh": "珊瑚金杯赛三强！肖恩·博伊斯的新伯里赛前展望",
+    "link": "https://www.skysports.com/watch/video/13616844/three-for-the-coral-gold-cup-sean-boyces-newbury-preview",
+    "date": "2026-11-26",
+    "published_time": "22:18",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "Sky Sports Racing的肖恩·博伊斯（Sean Boyce）挑选了三匹马，在周六于纽伯里举行的激动人心的Coral金杯赛中保持领先。",
+    "published_dt_iso": "2026-11-26T22:18:00+08:00"
+  },
+  {
+    "title": "PL Predictions: How will your club fare this weekend?",
+    "title_zh": "英超预测：您的俱乐部本周末表现如何？",
+    "link": "https://www.skysports.com/football/news/12040/13616076/premier-league-predictions-jones-knows-best-bets-nottingham-forest-vs-chelsea-arsenal-vs-manchester-city-and-more",
+    "date": "2026-11-27",
+    "published_time": "00:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "我们的顶级投注顾问刘易斯·琼斯（又名Jones Knows）提供他对英超联赛的分析和投注见解。",
+    "published_dt_iso": "2026-11-27T00:00:00+08:00"
+  },
+  {
+    "title": "Andalucia Costa Del Sol Open de Espana | Day one highlights",
+    "title_zh": "安达卢西亚太阳海岸西班牙公开赛 | 第一天精彩集锦",
+    "link": "https://www.skysports.com/watch/video/13616889/let-andalucia-costa-del-sol-open-de-espana-day-one-highlights",
+    "date": "2026-11-27",
+    "published_time": "00:07",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "西班牙马拉加安达卢西亚太阳海岸公开赛第一天的精彩瞬间。",
+    "published_dt_iso": "2026-11-27T00:07:00+08:00"
+  },
+  {
+    "title": "Russell: I found Verstappen comments amusing",
+    "title_zh": "拉塞尔：我觉得维斯塔潘的评论很有趣",
+    "link": "https://www.skysports.com/f1/news/12040/13616749/george-russell-admits-feud-with-max-verstappen-is-avoidable-and-unnecessary-ahead-of-qatar-grand-prix",
+    "date": "2026-11-26",
+    "published_time": "23:55",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "乔治·拉塞尔表示，在拉斯维加斯大奖赛上，他和马克斯·维斯塔潘的恩怨再次爆发后，他对维斯塔潘的批评感到“好笑”，但他也承认这场冲突是“可以避免的”。",
+    "published_dt_iso": "2026-11-26T23:55:00+08:00"
+  },
+  {
+    "title": "'Super stuff!' - Taylor takes first dart at double in his Modus competitive comeback!",
+    "title_zh": "“太棒了！”——泰勒在莫杜斯联赛的复出之战中，第一镖就命中双倍区域！",
+    "link": "https://www.skysports.com/watch/video/13616899/phil-taylor-takes-first-dart-at-double-in-his-modus-competitive-comeback",
+    "date": "2026-11-27",
+    "published_time": "00:28",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "菲尔·泰勒在朴茨茅斯的MODUS超级系列赛国际双人赛第4站中，与阿德里安·刘易斯搭档，在复出首场比赛中以一镖命中双倍区，以84分完成收官。",
+    "published_dt_iso": "2026-11-27T00:28:00+08:00"
+  },
+  {
+    "title": "Palace latest: McNeil says Everton 'were really good' after failed January move",
+    "title_zh": "水晶宫最新消息：麦克尼尔表示，在1月份转会失败后，埃弗顿“表现得非常好”",
+    "link": "https://www.skysports.com/football/live-blog/12040/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+    "date": "2026-11-26",
+    "published_time": "21:50",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "",
+    "published_dt_iso": "2026-11-26T21:50:00+08:00"
+  },
+  {
+    "title": "Wrong calls and bad results: Are refs making Man Utd's problems worse?",
+    "title_zh": "误判和糟糕的结果：裁判是否在加剧曼联的问题？",
+    "link": "https://www.skysports.com/football/news/12040/13616790/man-utds-controversial-refereeing-decisions-are-officials-making-mauricio-pochettinos-job-harder",
+    "date": "2026-11-26",
+    "published_time": "20:20",
+    "source": "天空体育",
+    "feed_name": "天空体育(转会中心)",
+    "summary": "毛里西奥·波切蒂诺要想扭转曼联本赛季的颓势，光靠出色的表现还不够——裁判的判罚也必须对他们有利。",
+    "published_dt_iso": "2026-11-26T20:20:00+08:00"
+  },
+  {
+    "title": "Arsenal latest: Merson backs Gyokeres for start against Man City",
+    "title_zh": "阿森纳最新消息：默森支持吉奥克雷斯首发对阵曼城",
+    "link": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "date": "2026-11-26",
+    "published_time": "22:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "",
+    "published_dt_iso": "2026-11-26T22:00:00+08:00"
+  },
+  {
+    "title": "Spurs latest: Savio set for several weeks out",
+    "title_zh": "热刺最新消息：萨维奥将缺席数周",
+    "link": "https://www.skysports.com/football/live-blog/11661/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+    "date": "2026-11-27",
+    "published_time": "01:00",
+    "source": "天空体育",
+    "feed_name": "天空体育(英超)",
+    "summary": "",
+    "published_dt_iso": "2026-11-27T01:00:00+08:00"
+  },
+  {
+    "title": "The Thanksgiving Parade Is on a Saturday. Can They Do That?",
+    "title_zh": "感恩节游行在星期六举行。他们能这样做吗？",
+    "link": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
+    "date": "2026-11-26",
+    "published_time": "22:07",
+    "source": "纽约时报",
+    "feed_name": "纽约时报",
+    "summary": "经过一个多世纪的传承，梅西百货感恩节大游行突然变得灵活起来。当然，这没关系。",
+    "published_dt_iso": "2026-11-26T22:07:50+08:00"
   },
   {
     "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
@@ -1219,16 +1483,5 @@
     "feed_name": "纽约时报",
     "summary": "随着中国获得Nvidia先进芯片的机会越来越少，尽管华为与美国竞争对手存在巨大的技术差距，但它对北京来说正变得越来越不可或缺。",
     "published_dt_iso": "2026-11-26T18:01:56+08:00"
-  },
-  {
-    "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
-    "title_zh": "一些巴西人被高薪诱惑，受骗去为俄罗斯作战",
-    "link": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
-    "date": "2026-11-26",
-    "published_time": "22:01",
-    "source": "纽约时报",
-    "feed_name": "纽约时报",
-    "summary": "数十名巴西人几乎未经训练就被派往前线，他们说，承诺给他们的高薪最终被证明是虚幻的。",
-    "published_dt_iso": "2026-11-26T22:01:45+08:00"
   }
 ]
