@@ -31,7 +31,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>上海证券市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:35:57（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:43:57（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="sz399001" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -76,7 +76,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>科创板核心指数</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:35:39（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-26 15:43:39（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSTECH" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6609</span>
+      <span class="ticker-price ticker-down">6.6620</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:08:37（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:44:55（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$3,568.64 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change down">▼ -19.91 (-0.55%)</span>
+      <span class="ticker-price ticker-down">$3,574.24 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change down">▼ -14.31 (-0.40%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:08:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:45:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥765.80 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +8.90 (+1.18%)</span>
+      <span class="ticker-price ticker-down">¥765.77 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -0.01 (-0.00%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:30:01（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:44:53（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">$90.18 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change down">▼ -0.46 (-0.51%)</span>
+      <span class="ticker-price ticker-up">$91.30 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change up">▲ +0.66 (+0.72%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 18:08:44（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 00:45:12（非实时）</div>
   </div>
 </div>
 
