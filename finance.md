@@ -105,7 +105,7 @@ title: 股票财经
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-28 05:03:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-28 05:32:30（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6548</span>
+      <span class="ticker-price ticker-down">6.6552</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 05:03:16（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 05:32:58（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -439,11 +439,11 @@ title: 股票财经
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
       <span class="news-category-count">12 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="A growing part of a brand’s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos." data-title="Black Friday Deals and Holiday Sales Are Big Money for Influencers" data-date="11-27 23:29" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/politics/trump-congressional-investigations-contractors.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="即将上任的民主党多数派已开始在其计划的调查中将矛头指向企业和其他外部人士，但总统已威胁称，如果他们未经其许可就配合调查，他将解雇他们。" data-title="In Democrats vs. Trump, the Loser May Be Federal Contractors" data-date="11-27 23:47" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-27 23:29</span>
-          <span class="news-item-title">Black Friday Deals and Holiday Sales Are Big Money for Influencers</span>
+          <span class="news-item-date">11-27 23:47</span>
+          <span class="news-item-title">In Democrats vs. Trump, the Loser May Be Federal Contractors</span>
         </a>
         <a class="news-item" href="https://www.ithome.com/1/033/770.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 27 日消息，据央视财经报道，11 月 27 日，中国工程院彭先觉院士团队在成都介绍我国原创“Z 箍缩聚变裂变混合堆”供热示范堆工程初步规划。据介绍，Z 箍缩聚变裂变混合堆是我国科学家自主提出的一种将核聚变与核裂变相结合的技术方案。根据规划，工程拟分两个阶段实施，先开展聚变点火和核心工艺验证，再建设面向城市供热、工农业用热等需求的示范堆。IT之家获悉，按照初步规划，2026 年至 2030 年为核心技术攻关验证阶段，相关验证工作将依托由中国工程物理研究院流体物理所承建的“50MA 电磁驱动聚变大科学装置”开展。该装置已获国家发展改革委批复，计划于 2030 年在成都天府新区建成。第二阶段的供热示范堆拟于 2031 年至 2035 年建设，设计聚变功率为 200 兆瓦、热功" data-title="我国自主聚变能源解决方案发布工程初步规划，拟分两个阶段实施" data-date="11-27 22:58" data-source="IT之家">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
@@ -499,7 +499,7 @@ title: 股票财经
           <span class="news-item-date">11-27 21:33</span>
           <span class="news-item-title">大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most." data-title="As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back" data-date="11-27 18:02" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在强劲的消费支出背后，是许多家庭正在做出让钱花在刀刃上的决定，以支付他们最看重的餐饮、旅行和活动。" data-title="As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back" data-date="11-27 18:02" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">11-27 18:02</span>
@@ -524,4 +524,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-28 01:35（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-28 05:29（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>

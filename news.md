@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-28 01:35 抓取更新</span>
+      <span>2026-11-28 05:29 抓取更新</span>
     </div>
   </div>
   <div class="news-search-bar">
@@ -23,11 +23,11 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">55</span>
+        <span class="channel-count">54</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">14</span>
+        <span class="channel-count">13</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
@@ -53,10 +53,10 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">55</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">54</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">7</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">4</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · BBC×9</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · 天空体育×9</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">按来源聚合 · 最近 24 小时精选</div>
 </div>
 <div class="news-hero">
@@ -73,26 +73,26 @@ title: 热点新闻
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.tomshardware.com/desktops/gaming-pcs/ibuypowers-black-friday-offers-net-you-usd650-off-powerful-rtx-5080-prebuilt-pc-stackable-offer-code-can-net-you-a-bargain-bundle-with-a-free-monitor-and-peripherals" target="_blank" rel="noopener" data-cat="keji" data-summary="Prebuilt PC extraordinaires iBuyPower is having a huge Black Friday sale across a whole range of products, including a powerful bundle on an all-AMD Ryzen 9 7800X3D / RX 9070 XT build, which will also net you free bundled extras, including a set of Asus peripherals and a 144Hz FHD MSI gaming monitor, and a total of $650 off an RTX 5080 gaming PC" data-title="iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC" data-date="11-28 01:30" data-source="Tom's Hardware">
+    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been constrained." data-title="With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War" data-date="11-28 02:01" data-source="纽约时报">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
       </div>
-      <p class="hero-sub-title">iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC</p>
+      <p class="hero-sub-title">With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="VOTE: Were Arsenal right to sack Slegers?" data-title="VOTE: Were Arsenal right to sack Slegers?" data-date="11-28 00:35" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-title="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-date="11-28 02:30" data-source="天空体育">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
         <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
       </div>
-      <p class="hero-sub-title">VOTE: Were Arsenal right to sack Slegers?</p>
+      <p class="hero-sub-title">Emegha pulls a goal back for Chelsea at Forest LIVE!</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026" target="_blank" rel="noopener" data-cat="zonghe" data-summary="What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You […]" data-title="Here are the best Black Friday deals you can grab for $30 or less" data-date="11-28 01:30" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas" target="_blank" rel="noopener" data-cat="zonghe" data-summary="过去几周，今年的黑色星期五优惠活动已分批推出，但现在已正式全面开启。您现在可以享受我们所见过的实体店和线上最低价格，购买视频游戏、无线耳机、电视、电子产品等。" data-title="The absolute best Black Friday deals we’ve found (so far)" data-date="11-28 05:09" data-source="The Verge">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
         <span class="source-badge source-theverge">🌐 The Verge</span>
       </div>
-      <p class="hero-sub-title">Here are the best Black Friday deals you can grab for $30 or less</p>
+      <p class="hero-sub-title">我们迄今为止找到的超值黑色星期五优惠</p>
     </a>
   </div>
 </div>
@@ -101,7 +101,7 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">14 条</span>
+      <span class="news-category-count">13 条</span>
     </div>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这场选举将影响蓝绿政治版图，六都选情备受关注，包括台北、新北、桃园、台中、台南、高雄，BBC中文整理各地候选人的简介。" data-title="台湾“九合一”选举：六都市长候选人简介" data-date="11-28 00:04" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -109,13 +109,6 @@ title: 热点新闻
           <span class="news-item-date">11-28 00:04</span>
           <span class="news-item-title">台湾“九合一”选举：六都市长候选人简介</span>
           <span class="news-value-point">💡 这场选举将影响蓝绿政治版图，六都选情备受关注，包括台北、新北、桃园、台中、台南、高雄，BBC中文整理各地候选人的简介</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/politics/trump-congressional-investigations-contractors.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="The incoming Democratic majorities have begun targeting businesses and other outsiders in their planned inquiries, but the president has threatened to fire them if they comply without his permission." data-title="In Democrats vs. Trump, the Loser May Be Federal Contractors" data-date="11-27 23:47" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-27 23:47</span>
-          <span class="news-item-title">In Democrats vs. Trump, the Loser May Be Federal Contractors</span>
-          <span class="news-value-point">💡 The incoming Democratic majorities have begun targeting businesses and o…</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739090.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国共产党江苏省第十五届委员会第一次全体会议11月27日选举信长星为省委书记，刘小涛、范波为省委副书记，当选为省委常委的还有周红波、张文兵、胡立杰(女)、边学文、李耀光、陈忠伟、马士光、沈剑荣、敬健、吴庆文。" data-title="信长星当选中共江苏省委书记" data-date="11-27 22:48" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -131,12 +124,13 @@ title: 热点新闻
           <span class="news-item-title">中国成功发射遥感五十号04星</span>
           <span class="news-value-point">💡 中新社北京11月27日电 (记者 马帅莎)据中国航天科技集团消息，北京时间11月27日21时05分，中国在太原卫星发射中心使用长征六号改运载火箭…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="Will JD Vance and Marco Rubio run? What about Kamala Harris and Alexandria Ocasio-Cortez? And, of course, what role will President Trump play?" data-title="Five Big Questions for the 2028 Presidential Race" data-date="11-27 22:33" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="JD·万斯和马可·鲁比奥会参选吗？卡马拉·哈里斯和亚历山德里亚·奥卡西奥-科尔特斯呢？当然，特朗普总统将扮演什么角色？" data-title="Five Big Questions for the 2028 Presidential Race" data-date="11-27 22:33" data-source="纽约时报">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">11-27 22:33</span>
-          <span class="news-item-title">Five Big Questions for the 2028 Presidential Race</span>
-          <span class="news-value-point">💡 Will JD Vance and Marco Rubio run? What about Kamala Harris and Alexandr…</span>
+          <span class="news-item-title">2028 年总统大选的五个大问题</span>
+          <span class="news-item-title-en">Five Big Questions for the 2028 Presidential Race</span>
+          <span class="news-value-point">💡 JD·万斯和马可·鲁比奥会参选吗</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739073.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网吉隆坡11月27日电 中国驻马来西亚使馆27日举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”。中国驻马来西亚大使姚文出席并作主旨发言，马国会议员、民主行动党顾问陈国伟，巫统最高理事洛克曼，人民公正党副总秘书艾迪，马中友好协会会长马吉德，亚太“一带一路”共策会会长翁诗杰等政党、智库学者及友好团体代表参加。" data-title="中国驻马来西亚使馆举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”" data-date="11-27 21:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
@@ -208,26 +202,28 @@ title: 热点新闻
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
       <span class="news-category-count">14 条</span>
     </div>
-        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/ibuypowers-black-friday-offers-net-you-usd650-off-powerful-rtx-5080-prebuilt-pc-stackable-offer-code-can-net-you-a-bargain-bundle-with-a-free-monitor-and-peripherals" target="_blank" rel="noopener" data-cat="keji" data-summary="Prebuilt PC extraordinaires iBuyPower is having a huge Black Friday sale across a whole range of products, including a powerful bundle on an all-AMD Ryzen 9 7800X3D / RX 9070 XT build, which will also net you free bundled extras, including a set of Asus peripherals and a 144Hz FHD MSI gaming monitor, and a total of $650 off an RTX 5080 gaming PC" data-title="iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC" data-date="11-28 01:30" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been constrained." data-title="With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War" data-date="11-28 02:01" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-28 02:01</span>
+          <span class="news-item-title">With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War</span>
+          <span class="news-value-point">💡 Russian officials see artificial intelligence as a way to solve the coun…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/ibuypowers-black-friday-offers-net-you-usd650-off-powerful-rtx-5080-prebuilt-pc-stackable-offer-code-can-net-you-a-bargain-bundle-with-a-free-monitor-and-peripherals" target="_blank" rel="noopener" data-cat="keji" data-summary="预装电脑领域的佼佼者iBuyPower正在全系列产品上开展一场盛大的黑色星期五促销活动，其中包括一款基于全AMD Ryzen 9 7800X3D/RX 9070 XT配置的强大套装，该套装还将为您提供免费的捆绑赠品，包括一套A" data-title="iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC" data-date="11-28 01:30" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">11-28 01:30</span>
-          <span class="news-item-title">iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC</span>
-          <span class="news-value-point">💡 Prebuilt PC extraordinaires iBuyPower is having a huge Black Friday sale…</span>
+          <span class="news-item-title">iBuyPower的黑色星期五优惠为您带来强大的RTX 5080预装电脑，立减650美元</span>
+          <span class="news-item-title-en">iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC</span>
+          <span class="news-value-point">💡 预装电脑领域的佼佼者iBuyPower正在全系列产品上开展一场盛大的黑色星期五促销活动，其中包括一款基于全AMD Ryzen 9 7800X3D…</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes" target="_blank" rel="noopener" data-cat="keji" data-summary="AI hardware bottlenecks are expanding beyond GPUs to the PCBs underneath them. As AI servers like Rubin Ultra push PCB layers toward 78 layers using denser laminates, drill bits are wearing out 10 times faster than normal, while high-speed signalling stretches the demand for smooth copper foil." data-title="China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes" data-date="11-28 01:00" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes" target="_blank" rel="noopener" data-cat="keji" data-summary="人工智能硬件瓶颈正在从 GPU 扩展到其下方的 PCB。随着 Rubin Ultra 等 AI 服务器使用密度更高的层压板将 PCB 层数推向 78 层，钻头的磨损速度比正常情况快 10 倍，而高速信号传输" data-title="China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes" data-date="11-28 01:00" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
           <span class="news-item-date">11-28 01:00</span>
-          <span class="news-item-title">China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes</span>
-          <span class="news-value-point">💡 AI hardware bottlenecks are expanding beyond GPUs to the PCBs underneath…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/this-usd619-powercolor-radeon-rx-9070-gre-is-the-cheapest-around-this-black-friday-grab-a-great-1080p-or-1440p-gaming-upgrade-for-a-great-price" target="_blank" rel="noopener" data-cat="keji" data-summary="PowerColor&#39;s Radeon RX 9070 GRE is just $619 at Amazon this Black Friday — a rare midrange gaming GPU deal in today&#39;s tough market." data-title="This $619 PowerColor Radeon RX 9070 GRE is the cheapest around this Black Friday" data-date="11-28 00:41" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 00:41</span>
-          <span class="news-item-title">This $619 PowerColor Radeon RX 9070 GRE is the cheapest around this Black Friday</span>
-          <span class="news-value-point">💡 PowerColor's Radeon RX 9070 GRE is just $619 at Amazon this Black Friday…</span>
+          <span class="news-item-title">中国的人工智能硬件推动力正从 GPU 扩展到其下方的 PCB——随着电路板复杂性的激增，北京正竞相垄断铜箔和微钻头的市场。</span>
+          <span class="news-item-title-en">China’s AI hardware push is moving beyond GPUs to the PCBs underneath them — Beijing races to corner the market on copper foil and micro-drill bits as board complexity explodes</span>
+          <span class="news-value-point">💡 人工智能硬件瓶颈正在从 GPU 扩展到其下方的 PCB</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739084.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社福州11月27日电 (叶秋云)于27日在福州市举行的第七届海峡两岸(福州)职工创新创业创造大赛主题日活动上，面向两岸职工的职工创新项目辅导及创新成果转化AI大模型正式上线。" data-title="两岸职工福州同场竞技 项目辅导及成果转化AI大模型上线" data-date="11-27 22:32" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -242,6 +238,14 @@ title: 热点新闻
           <span class="news-item-date">11-27 22:07</span>
           <span class="news-item-title">人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了</span>
           <span class="news-value-point">💡 一支团队在真机上验证的成果，可以成为下一支团队继续开发的起点</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini" target="_blank" rel="noopener" data-cat="keji" data-summary="除了处理我的日程安排外，我希望人工智能还能做一件事：告诉我是否快要错过公交车了。我需要的是一个小工具。它需要告诉我我家附近公交车站的实时到站信息。在手机屏幕上到处点按以打开" data-title="Android’s DIY widgets are a bit of vibe" data-date="11-27 22:00" data-source="The Verge">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-27 22:00</span>
+          <span class="news-item-title">Android的DIY小部件有点意思</span>
+          <span class="news-item-title-en">Android’s DIY widgets are a bit of vibe</span>
+          <span class="news-value-point">💡 除了处理我的日程安排外，我希望人工智能还能做一件事：告诉我是否快要错过公交车了</span>
         </a>
         <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739083.shtml" target="_blank" rel="noopener" data-cat="keji" data-summary="中新社北京11月27日电 (记者 陈杭)2026太空数据中心建设工作推进大会27日在北京举办。会上宣布，太空数据中心在轨技术试验平台上线运行，将面向全国商业航天和人工智能领域，提供模型训练推理、载荷在轨验证等试验机会，为更多创新主体开展太空算力应用提供公共基础设施。" data-title="从在轨测试到开放服务 北京太空算力“朋友圈”扩容" data-date="11-27 21:57" data-source="中国新闻网">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -299,13 +303,6 @@ title: 热点新闻
           <span class="news-item-title">20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩</span>
           <span class="news-value-point">💡 Quickwit查询总耗时降31%，最高降87%</span>
         </a>
-        <a class="news-item" href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/" target="_blank" rel="noopener" data-cat="keji" data-summary="Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China." data-title="Nvidia hits pause on chip shipments to Southeast Asia" data-date="11-27 04:03" data-source="TechCrunch">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🤖 TechCrunch</span>
-          <span class="news-item-date">11-27 04:03</span>
-          <span class="news-item-title">Nvidia hits pause on chip shipments to Southeast Asia</span>
-          <span class="news-value-point">💡 Nvidia has told manufacturing partners to pause server shipments to Mala…</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -313,86 +310,95 @@ title: 热点新闻
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
       <span class="news-category-count">12 条</span>
     </div>
+        <a class="news-item" href="https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-title="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-date="11-28 02:30" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-28 02:30</span>
+          <span class="news-item-title">Emegha pulls a goal back for Chelsea at Forest LIVE!</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Aston Villa boss Unai Emery praises Alejandro Garnacho&#39;s &quot;fantastic attitude&quot; but suggests other players rank ahead of him for selection." data-title="Emery praises Garnacho attitude after Villa selection snub" data-date="11-28 01:42" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 01:42</span>
+          <span class="news-item-title">Emery praises Garnacho attitude after Villa selection snub</span>
+          <span class="news-value-point">💡 Aston Villa boss Unai Emery praises Alejandro Garnacho's "fantastic atti…</span>
+        </a>
         <a class="news-item" href="https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="VOTE: Were Arsenal right to sack Slegers?" data-title="VOTE: Were Arsenal right to sack Slegers?" data-date="11-28 00:35" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-28 00:35</span>
-          <span class="news-item-title">VOTE: Were Arsenal right to sack Slegers?</span>
+          <span class="news-item-title">投票：阿森纳解雇斯莱格斯是否正确？</span>
+          <span class="news-item-title-en">VOTE: Were Arsenal right to sack Slegers?</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Tottenham winger Savio will miss the club&#39;s Christmas fixtures with injury and could be out for up to 80 days, manager Roberto de Zerbi confirms." data-title="Spurs&#39; Savio to miss festive fixtures after injury setback" data-date="11-28 00:05" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cw4gnm4p3zxlo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="主教练罗伯托·德泽尔比证实，热刺边锋萨维奥因伤将错过俱乐部的圣诞赛程，可能休战长达 80 天。" data-title="Spurs&#39; Savio to miss festive fixtures after injury setback" data-date="11-28 00:05" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-28 00:05</span>
-          <span class="news-item-title">Spurs' Savio to miss festive fixtures after injury setback</span>
-          <span class="news-value-point">💡 Tottenham winger Savio will miss the club's Christmas fixtures with inju…</span>
+          <span class="news-item-title">热刺的萨维奥因伤病复发将错过节日期间的比赛</span>
+          <span class="news-item-title-en">Spurs' Savio to miss festive fixtures after injury setback</span>
+          <span class="news-value-point">💡 主教练罗伯托·德泽尔比证实，热刺边锋萨维奥因伤将错过俱乐部的圣诞赛程，可能休战长达 80 天</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester United activate an option on captain Bruno Fernandes&#39; contract, extending it until 2028." data-title="Man Utd trigger Fernandes&#39; one-year contract extension" data-date="11-27 23:08" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联行使了队长布鲁诺·费尔南德斯合同中的续约选项，将其合同延长至 2028 年。" data-title="Man Utd trigger Fernandes&#39; one-year contract extension" data-date="11-27 23:08" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-27 23:08</span>
-          <span class="news-item-title">Man Utd trigger Fernandes' one-year contract extension</span>
-          <span class="news-value-point">💡 Manchester United activate an option on captain Bruno Fernandes' contrac…</span>
+          <span class="news-item-title">曼联启动与费尔南德斯续约一年的条款</span>
+          <span class="news-item-title-en">Man Utd trigger Fernandes' one-year contract extension</span>
+          <span class="news-value-point">💡 曼联行使了队长布鲁诺·费尔南德斯合同中的续约选项，将其合同延长至 2028 年</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Enzo Maresca said Premier League title rivals Manchester City and Arsenal couldn’t be compared after his side&#39;s early-season form raised expectations." data-title="Maresca: You can&#39;t compare Man City and Arsenal" data-date="11-27 22:47" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13617231/arsenal-vs-man-city-enzo-maresca-says-two-teams-cannot-be-compared-due-to-being-in-different-stages-of-project" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="恩佐·马雷斯卡表示，在球队赛季初的表现提升了人们的期望之后，英超联赛的冠军争夺对手曼城和阿森纳无法相提并论。" data-title="Maresca: You can&#39;t compare Man City and Arsenal" data-date="11-27 22:47" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-27 22:47</span>
-          <span class="news-item-title">Maresca: You can't compare Man City and Arsenal</span>
-          <span class="news-value-point">💡 Enzo Maresca said Premier League title rivals Manchester City and Arsena…</span>
+          <span class="news-item-title">马雷斯卡：你不能拿曼城和阿森纳作比较</span>
+          <span class="news-item-title-en">Maresca: You can't compare Man City and Arsenal</span>
+          <span class="news-value-point">💡 恩佐·马雷斯卡表示，在球队赛季初的表现提升了人们的期望之后，英超联赛的冠军争夺对手曼城和阿森纳无法相提并论</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester City&#39;s leaky defence faces one of the most difficult games of the season with a trip to watertight Arsenal, aiming to put right their patchy recent form." data-title="&#39;I am not a magician&#39; - what can Maresca&#39;s Man City learn from watertight Arsenal?" data-date="11-27 22:37" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cknv47dee54zo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼城防守漏洞百出，即将迎来本赛季最艰难的比赛之一，客场挑战防守滴水不漏的阿森纳，力求扭转近期状态不佳的局面。" data-title="&#39;I am not a magician&#39; - what can Maresca&#39;s Man City learn from watertight Arsenal?" data-date="11-27 22:37" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-27 22:37</span>
-          <span class="news-item-title">'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?</span>
-          <span class="news-value-point">💡 Manchester City's leaky defence faces one of the most difficult games of…</span>
+          <span class="news-item-title">“我不是魔术师”——马雷斯卡的曼城能从滴水不漏的阿森纳身上学到什么？</span>
+          <span class="news-item-title-en">'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?</span>
+          <span class="news-value-point">💡 曼城防守漏洞百出，即将迎来本赛季最艰难的比赛之一，客场挑战防守滴水不漏的阿森纳，力求扭转近期状态不佳的局面</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester United have triggered their 12-month option to extend captain Bruno Fernandes&#39; contract." data-title="Man Utd activate Fernandes contract extension clause" data-date="11-27 22:10" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联已启动延长队长布鲁诺·费尔南德斯合同的 12 个月选项。" data-title="Man Utd activate Fernandes contract extension clause" data-date="11-27 22:10" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-27 22:10</span>
-          <span class="news-item-title">Man Utd activate Fernandes contract extension clause</span>
-          <span class="news-value-point">💡 Manchester United have triggered their 12-month option to extend captain…</span>
+          <span class="news-item-title">曼联启动费尔南德斯合同延期条款</span>
+          <span class="news-item-title-en">Man Utd activate Fernandes contract extension clause</span>
+          <span class="news-value-point">💡 曼联已启动延长队长布鲁诺·费尔南德斯合同的 12 个月选项</span>
         </a>
         <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man City latest: &#39;It&#39;s completely normal&#39; - Maresca not panicking over form" data-title="Man City latest: &#39;It&#39;s completely normal&#39; - Maresca not panicking over form" data-date="11-27 21:11" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-27 21:11</span>
-          <span class="news-item-title">Man City latest: 'It's completely normal' - Maresca not panicking over form</span>
+          <span class="news-item-title">曼城最新消息：“这完全正常”——马雷斯卡对球队状态并不感到恐慌</span>
+          <span class="news-item-title-en">Man City latest: 'It's completely normal' - Maresca not panicking over form</span>
         </a>
         <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man Utd latest: Pochettino hits back at criticism" data-title="Man Utd latest: Pochettino hits back at criticism" data-date="11-27 20:03" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-27 20:03</span>
-          <span class="news-item-title">Man Utd latest: Pochettino hits back at criticism</span>
+          <span class="news-item-title">曼联最新消息：波切蒂诺回击批评</span>
+          <span class="news-item-title-en">Man Utd latest: Pochettino hits back at criticism</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/news/articles/c6wy43d3ry12o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="The Newcastle United defender was given a six-month ban at Newcastle Magistrates&#39; Court." data-title="Botman banned from driving for using phone at wheel" data-date="11-27 18:34" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-27 18:34</span>
-          <span class="news-item-title">Botman banned from driving for using phone at wheel</span>
-          <span class="news-value-point">💡 The Newcastle United defender was given a six-month ban at Newcastle Mag…</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="In his latest Sky Sports column, Paul Merson previews a big weekend for Manchester United, before Arsenal take on Manchester City in a huge game live this Sunday." data-title="&#39;Man Utd being relegated would be biggest shock in history... but it won&#39;t happen&#39;" data-date="11-27 17:00" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在最新的《天空体育》专栏中，保罗·默森对曼联本周末的重要赛事进行了前瞻，而阿森纳将在本周日与曼城进行一场备受瞩目的直播比赛。" data-title="&#39;Man Utd being relegated would be biggest shock in history... but it won&#39;t happen&#39;" data-date="11-27 17:00" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-27 17:00</span>
-          <span class="news-item-title">'Man Utd being relegated would be biggest shock in history... but it won't happen'</span>
-          <span class="news-value-point">💡 In his latest Sky Sports column, Paul Merson previews a big weekend for …</span>
+          <span class="news-item-title">“曼联降级将是足球史上最大的震撼……但这不会发生。”</span>
+          <span class="news-item-title-en">'Man Utd being relegated would be biggest shock in history... but it won't happen'</span>
+          <span class="news-value-point">💡 在最新的《天空体育》专栏中，保罗·默森对曼联本周末的重要赛事进行了前瞻，而阿森纳将在本周日与曼城进行一场备受瞩目的直播比赛</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Manchester City&#39;s owners must be forced to sell the club as punishment for breaking financial rules, senior figures at some Premier League clubs tell BBC Sport." data-title="Man City owners should be forced to sell, say clubs" data-date="11-27 14:38" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="一些英超俱乐部的高层人士对BBC体育表示，曼城的老板必须被迫出售俱乐部，以惩罚其违反财务规则的行为。" data-title="Man City owners should be forced to sell, say clubs" data-date="11-27 14:38" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-27 14:38</span>
-          <span class="news-item-title">Man City owners should be forced to sell, say clubs</span>
-          <span class="news-value-point">💡 Manchester City's owners must be forced to sell the club as punishment f…</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="England international Dominic Calvert-Lewin signs a new contract to stay with Leeds United until 2029." data-title="Calvert-Lewin signs new Leeds deal until 2029" data-date="11-27 02:00" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-27 02:00</span>
-          <span class="news-item-title">Calvert-Lewin signs new Leeds deal until 2029</span>
-          <span class="news-value-point">💡 England international Dominic Calvert-Lewin signs a new contract to stay…</span>
+          <span class="news-item-title">多家俱乐部表示，应迫使曼城老板出售球队</span>
+          <span class="news-item-title-en">Man City owners should be forced to sell, say clubs</span>
+          <span class="news-value-point">💡 一些英超俱乐部的高层人士对BBC体育表示，曼城的老板必须被迫出售俱乐部，以惩罚其违反财务规则的行为</span>
         </a>
   </div>
   <div class="news-category">
@@ -401,113 +407,124 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1039645/black-friday-best-cheap-tech-deals-under-30-2026" target="_blank" rel="noopener" data-cat="zonghe" data-summary="What can you get for $30 these days? When it comes to tech, you might be surprised. Even as gadgets get more expensive, $30 can still go a long way, especially on Black Friday. For just $8, for instance, TP-Link’s Tapo smart plug will let you control the Christmas tree lights from your phone. You […]" data-title="Here are the best Black Friday deals you can grab for $30 or less" data-date="11-28 01:30" data-source="The Verge">
+        <a class="news-item" href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas" target="_blank" rel="noopener" data-cat="zonghe" data-summary="过去几周，今年的黑色星期五优惠活动已分批推出，但现在已正式全面开启。您现在可以享受我们所见过的实体店和线上最低价格，购买视频游戏、无线耳机、电视、电子产品等。" data-title="The absolute best Black Friday deals we’ve found (so far)" data-date="11-28 05:09" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 01:30</span>
-          <span class="news-item-title">Here are the best Black Friday deals you can grab for $30 or less</span>
-          <span class="news-value-point">💡 What can you get for $30 these days? When it comes to tech, you might be…</span>
+          <span class="news-item-date">11-28 05:09</span>
+          <span class="news-item-title">我们迄今为止找到的超值黑色星期五优惠</span>
+          <span class="news-item-title-en">The absolute best Black Friday deals we’ve found (so far)</span>
+          <span class="news-value-point">💡 过去几周，今年的黑色星期五优惠活动已分批推出，但现在已正式全面开启</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/laptops/gaming-laptops/the-hyperx-omen-max-16-gaming-laptop-with-a-rtx-5090-and-a-core-i9-ultra-can-be-yours-for-an-amazing-usd1-200-off-highest-end-gear-for-26-percent-off-less-than-a-comparable-desktop-pc" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be yours for just $3,799 — highest-end gear for less price than a comparable desktop" data-title="The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be yours for amazing $1,200 off" data-date="11-28 01:20" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 01:20</span>
-          <span class="news-item-title">The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be yours for amazing $1,200 off</span>
-          <span class="news-value-point">💡 The HyperX Omen Max 16 laptop with a RTX 5090 and a Core i9 Ultra can be…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas" target="_blank" rel="noopener" data-cat="zonghe" data-summary="This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can’t guarantee a deal you’ve had […]" data-title="The absolute best Black Friday deals we’ve found (so far)" data-date="11-28 01:07" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 01:07</span>
-          <span class="news-item-title">The absolute best Black Friday deals we’ve found (so far)</span>
-          <span class="news-value-point">💡 This year’s Black Friday deals have launched in waves over the past seve…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/monitors/gaming-monitors/best-gaming-monitor-deals-oled" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Save big with one of these great Black Friday monitor deals. We’re hard at work updating this list with the best deals across all your favorite big tech retailers." data-title="Best Black Friday gaming monitor deals 2026" data-date="11-28 00:59" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 00:59</span>
-          <span class="news-item-title">Best Black Friday gaming monitor deals 2026</span>
-          <span class="news-value-point">💡 Save big with one of these great Black Friday monitor deals. We’re hard …</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/peripherals/gaming-mice/these-are-the-best-black-friday-gaming-mouse-deals-weve-found-so-far-even-the-newer-generations-are-on-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="We&#39;ve rounded up the best Black Friday deals on gaming mice for every type of gamer — whether you&#39;re looking for ultra-lightweight, tons of buttons, or even modular mice, we&#39;ve got you covered." data-title="These are the best Black Friday gaming mouse deals we&#39;ve found so far" data-date="11-28 00:40" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 00:40</span>
-          <span class="news-item-title">These are the best Black Friday gaming mouse deals we've found so far</span>
-          <span class="news-value-point">💡 We've rounded up the best Black Friday deals on gaming mice for every ty…</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/live-blog/12040/13617151/f1-qatar-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-lusail-international-circuit" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Qatar GP: Antonelli fastest from Russell in second practice LIVE!" data-title="Qatar GP: Antonelli fastest from Russell in second practice LIVE!" data-date="11-28 00:37" data-source="天空体育">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-28 00:37</span>
-          <span class="news-item-title">Qatar GP: Antonelli fastest from Russell in second practice LIVE!</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Black Friday is one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised the cost of some of its most popular gear. Some […]" data-title="The best Black Friday deals on AirPods, MacBooks, and other Apple gear" data-date="11-28 00:30" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 00:30</span>
-          <span class="news-item-title">The best Black Friday deals on AirPods, MacBooks, and other Apple gear</span>
-          <span class="news-value-point">💡 Black Friday is one of the best times of the year to save some cash on a…</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/watch/video/13617264/let-andalucia-costa-del-sol-open-de-espana-day-two-highlights" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Highlights from day two of the Andalucia Costa del Sol Open de Espana in Malaga, Spain." data-title="Spain&#39;s Davalos shines on debut as Huang leads the way in Malaga" data-date="11-28 00:27" data-source="天空体育">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-28 00:27</span>
-          <span class="news-item-title">Spain's Davalos shines on debut as Huang leads the way in Malaga</span>
-          <span class="news-value-point">💡 Highlights from day two of the Andalucia Costa del Sol Open de Espana in…</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/racing/news/12040/13617253/saturday-tips-kap-vert-fancied-to-lift-coral-gold-cup-crown-at-newbury" target="_blank" rel="noopener" data-cat="zonghe" data-summary="With a hugely exciting renewal of the Coral Gold Cup on Saturday, Kate Tracey, Declan Rix and Sam Boswell headed to Newbury for a very special episode of Weekend Winners." data-title="Saturday tips: Kap Vert fancied to lift Coral Gold Cup crown at Newbury" data-date="11-28 00:15" data-source="天空体育">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-28 00:15</span>
-          <span class="news-item-title">Saturday tips: Kap Vert fancied to lift Coral Gold Cup crown at Newbury</span>
-          <span class="news-value-point">💡 With a hugely exciting renewal of the Coral Gold Cup on Saturday, Kate T…</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/laptops/gaming-laptops/these-are-the-best-gaming-laptop-deals-weve-found-this-black-friday-to-suit-all-budgets-save-up-to-usd1-200-off-a-range-of-portable-powerhouses" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Looking to grab yourself a gaming laptop this Black Friday? These are the best deals that we&#39;ve found so far, and you can net up to $1200 off MSRP on a range of systems across all reasonable budgets." data-title="These are the best gaming laptop deals we&#39;ve found this Black Friday to suit all budgets" data-date="11-28 00:12" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 00:12</span>
-          <span class="news-item-title">These are the best gaming laptop deals we've found this Black Friday to suit all budgets</span>
-          <span class="news-value-point">💡 Looking to grab yourself a gaming laptop this Black Friday? These are th…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The storm brought heavy rain and strong winds from Virginia to New York, disrupting travel during the holiday season. Conditions were expected to gradually improve on Friday." data-title="Thanksgiving Storm Leaves Half a Million Without Power on the East Coast" data-date="11-28 00:04" data-source="纽约时报">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/supreme-court-rulings-midterms-voting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="有关投票权、移民和腐败的决定引发了强烈反弹，这有助于提高投票率，推动民主党在国会大选中大获全胜。" data-title="Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them" data-date="11-28 05:08" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-28 00:04</span>
-          <span class="news-item-title">Thanksgiving Storm Leaves Half a Million Without Power on the East Coast</span>
-          <span class="news-value-point">💡 The storm brought heavy rain and strong winds from Virginia to New York,…</span>
+          <span class="news-item-date">11-28 05:08</span>
+          <span class="news-item-title">共和党人欢呼的最高法院裁决最终却让他们吃了大亏</span>
+          <span class="news-item-title-en">Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them</span>
+          <span class="news-value-point">💡 有关投票权、移民和腐败的决定引发了强烈反弹，这有助于提高投票率，推动民主党在国会大选中大获全胜</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/peripherals/gaming-chairs/grab-a-new-secretlab-gaming-chair-or-desk-to-upgrade-your-setup-in-its-black-friday-sale-with-up-to-usd537-off-individual-discounts-and-big-bundle-deals-mean-you-can-score-huge-savings-on-top-models-including-the-titan-evo-and-magnus-pro" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Grab a new gaming chair or desk in this Secretlab Black Friday sale." data-title="Grab a new Secretlab gaming chair or desk to upgrade your setup in its Black Friday sale with up to $537 off" data-date="11-28 00:02" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-returns-to-its-lowest-price-ever-at-amazon-take-your-gpu-on-an-ultrawide-odyssey-for-usd854" target="_blank" rel="noopener" data-cat="zonghe" data-summary="亚马逊正在以854美元的价格销售三星Odyssey G9 G93SC，这是历史新低。这款游戏显示器通常售价超过 1200 美元。" data-title="Samsung&#39;s 49-inch OLED gaming monitor drops to a new low price of $854" data-date="11-28 05:06" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 00:02</span>
-          <span class="news-item-title">Grab a new Secretlab gaming chair or desk to upgrade your setup in its Black Friday sale with up to $537 off</span>
-          <span class="news-value-point">💡 Grab a new gaming chair or desk in this Secretlab Black Friday sale.</span>
+          <span class="news-item-date">11-28 05:06</span>
+          <span class="news-item-title">三星49英寸OLED游戏显示器降至854美元的历史新低</span>
+          <span class="news-item-title-en">Samsung's 49-inch OLED gaming monitor drops to a new low price of $854</span>
+          <span class="news-value-point">💡 亚马逊正在以854美元的价格销售三星Odyssey G9 G93SC，这是历史新低</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/supreme-court-rulings-cheered-by-republicans-wound-up-hurting-them.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Decisions on voting rights, immigration and corruption generated a backlash that helped spur turnout that drove the Democratic sweep of Congress." data-title="Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them" data-date="11-27 23:47" data-source="纽约时报">
+        <a class="news-item" href="https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Akai正通过MPC Sample 1.4固件不断开放其各种音乐制作平台。我最喜欢的（也是最实惠的）MPC采样器已成为氛围编码自定义固件和改装的热门选择。该公司已决定，" data-title="My favorite MPC beat maker is ready for your vibe-coded firmware and effects" data-date="11-28 04:48" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-28 04:48</span>
+          <span class="news-item-title">我最喜爱的 MPC 节拍制作器已准备好迎接您的氛围编码固件和效果</span>
+          <span class="news-item-title-en">My favorite MPC beat maker is ready for your vibe-coded firmware and effects</span>
+          <span class="news-value-point">💡 Akai正通过MPC Sample 1.4固件不断开放其各种音乐制作平台</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/protect-your-pc-console-or-tv-with-a-cyberpower-st900u-ups-for-just-usd99-95-or-17-percent-off-a-complement-of-12-outlets-available-with-surge-protection" target="_blank" rel="noopener" data-cat="zonghe" data-summary="使用 CyberPower ST900U UPS 保护您的电脑、游戏机或电视，仅需 99.95 美元，或享受八折优惠——配备 12 个带浪涌保护的插孔" data-title="Protect your PC, console, or TV with a CyberPower ST900U UPS for just $99.95, or 17% off" data-date="11-28 04:30" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-28 04:30</span>
+          <span class="news-item-title">使用CyberPower ST900U UPS保护您的电脑、游戏机或电视，仅需99.95美元，立享八三折优惠</span>
+          <span class="news-item-title-en">Protect your PC, console, or TV with a CyberPower ST900U UPS for just $99.95, or 17% off</span>
+          <span class="news-value-point">💡 使用 CyberPower ST900U UPS 保护您的电脑、游戏机或电视，仅需 99.95 美元，或享受八折优惠——配备 12 个带浪涌保护…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如果我们的 30 美元以下黑色星期五精选让您渴望以低价购买更多超值小工具，那么您目前可以在亚马逊上以 17.89 美元起的黑色星期五优惠价购买黑色款 Nothing CMF Buds 2A，这比建议零售价低约 11 美元，也是最低价格。" data-title="Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday" data-date="11-28 04:30" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-28 04:30</span>
+          <span class="news-item-title">Nothing的ANC耳机在黑色星期五期间售价不到20美元</span>
+          <span class="news-item-title-en">Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday</span>
+          <span class="news-value-point">💡 如果我们的 30 美元以下黑色星期五精选让您渴望以低价购买更多超值小工具，那么您目前可以在亚马逊上以 17.89 美元起的黑色星期五优惠价购买黑…</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price of $29 each, but have been consistently available for around $24 since Amazon Prime Day in late June. […]" data-title="Apple’s latest AirTags have dropped to just $18 a pop for Black Friday" data-date="11-28 04:30" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-28 04:30</span>
+          <span class="news-item-title">苹果最新款AirTag在黑色星期五降至仅18美元一个</span>
+          <span class="news-item-title-en">Apple’s latest AirTags have dropped to just $18 a pop for Black Friday</span>
+          <span class="news-value-point">💡 If you’re tired of constantly scrounging around for your lost belongings…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13617143/charles-leclerc-seeking-outlier-as-ferrari-mclaren-red-bull-try-to-catch-mercedes-at-qatar-grand-prix" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Charles Leclerc believes an “outlier” has given Mercedes a “massive” advantage at the Qatar Grand Prix, after Kimi Antonelli and George Russell dominated Friday’s practice sessions." data-title="&#39;A bit strange&#39; - Leclerc seeking outlier to catch Mercedes in Qatar" data-date="11-28 04:20" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-28 04:20</span>
+          <span class="news-item-title">'A bit strange' - Leclerc seeking outlier to catch Mercedes in Qatar</span>
+          <span class="news-value-point">💡 Charles Leclerc believes an “outlier” has given Mercedes a “massive” adv…</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/darts/news/12040/13617309/phil-taylor-says-he-is-quitting-competitive-darts-for-good-as-he-and-adrian-lewis-are-knocked-out-of-modus-super-series" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Phil Taylor says he is quitting competitive darts for good and has no plans to come out of retirement again." data-title="Taylor says he is quitting darts for good after comeback" data-date="11-28 04:15" data-source="天空体育">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-28 04:15</span>
+          <span class="news-item-title">Taylor says he is quitting darts for good after comeback</span>
+          <span class="news-value-point">💡 Phil Taylor says he is quitting competitive darts for good and has no pl…</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/get-a-sony-wh-1000-mx5-headset-with-anc-for-only-usd169-99-aural-bliss-for-your-games-and-movies" target="_blank" rel="noopener" data-cat="zonghe" data-summary="仅需169.99美元即可获得带ANC的索尼WH-1000 XM5耳机——为您的游戏和电影带来听觉享受" data-title="Get a Sony WH-1000 XM5 headset with ANC for only $169.99 — aural bliss for your games and movies" data-date="11-28 03:49" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-28 03:49</span>
+          <span class="news-item-title">仅需169.99美元即可获得带ANC的索尼WH-1000 XM5耳机——为您的游戏和电影带来听觉享受</span>
+          <span class="news-item-title-en">Get a Sony WH-1000 XM5 headset with ANC for only $169.99 — aural bliss for your games and movies</span>
+          <span class="news-value-point">💡 仅需169.99美元即可获得带ANC的索尼WH-1000 XM5耳机——为您的游戏和电影带来听觉享受</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don&#39;t upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you are using […]" data-title="You might lose your Oura health data if you’re still using an old Android phone" data-date="11-28 03:44" data-source="The Verge">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-theverge">🌐 The Verge</span>
+          <span class="news-item-date">11-28 03:44</span>
+          <span class="news-item-title">You might lose your Oura health data if you’re still using an old Android phone</span>
+          <span class="news-value-point">💡 Oura will be dropping support for Android 11 on December 8th, 2026, and …</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Ms. Stewart-Cousins, 76, served in the state senate for 20 years." data-title="Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies" data-date="11-28 03:43" data-source="纽约时报">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-27 23:47</span>
-          <span class="news-item-title">Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them</span>
-          <span class="news-value-point">💡 Decisions on voting rights, immigration and corruption generated a backl…</span>
+          <span class="news-item-date">11-28 03:43</span>
+          <span class="news-item-title">Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies</span>
+          <span class="news-value-point">💡 Ms. Stewart-Cousins, 76, served in the state senate for 20 years.</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.99 ($8 off) for Black Friday, which is a new […]" data-title="You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24" data-date="11-27 23:30" data-source="The Verge">
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/get-the-cheapest-rtx-5070-around-this-black-friday-with-gigabytes-usd839-gaming-oc-card-midrange-blackwell-continues-to-shine-with-dlss-4-5-and-dlss-5" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今年黑色星期五想升级到中端RTX 50系列吗？技嘉 Gaming RTX 5070 为您提供大尺寸散热器和炫酷的 RGB 灯效，价格是本周我们见过的最低价。" data-title="Get the cheapest RTX 5070 around this Black Friday with Gigabyte&#39;s $839 Gaming OC card" data-date="11-28 03:38" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-28 03:38</span>
+          <span class="news-item-title">今年黑色星期五，购买技嘉839美元的Gaming OC显卡，享受最优惠的RTX 5070价格</span>
+          <span class="news-item-title-en">Get the cheapest RTX 5070 around this Black Friday with Gigabyte's $839 Gaming OC card</span>
+          <span class="news-value-point">💡 今年黑色星期五想升级到中端RTX 50系列吗</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/this-silicon-power-ssd-is-selling-for-a-stunning-10-cents-per-gb-at-only-usd209-this-is-the-best-2tb-ssd-deal-on-newegg" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在Newegg以每GB 10美分的超值价格入手2TB存储空间。Silicon Power的P34A60是黑色星期五促销期间最超值的固态硬盘之一。" data-title="This Silicon Power SSD is selling for a stunning 10 cents per GB — at only $209, this is the best 2TB SSD deal on Newegg" data-date="11-28 03:35" data-source="Tom's Hardware">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
+          <span class="news-item-date">11-28 03:35</span>
+          <span class="news-item-title">这款Silicon Power固态硬盘的售价令人惊叹，每GB仅10美分——仅需209美元，这是Newegg上最划算的2TB固态硬盘优惠。</span>
+          <span class="news-item-title-en">This Silicon Power SSD is selling for a stunning 10 cents per GB — at only $209, this is the best 2TB SSD deal on Newegg</span>
+          <span class="news-value-point">💡 在Newegg以每GB 10美分的超值价格入手2TB存储空间</span>
+        </a>
+        <a class="news-item" href="https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday" target="_blank" rel="noopener" data-cat="zonghe" data-summary="I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and thermostats see their lowest prices […]" data-title="The best Black Friday deals on smart home gear" data-date="11-28 03:30" data-source="The Verge">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-27 23:30</span>
-          <span class="news-item-title">You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24</span>
-          <span class="news-value-point">💡 If you’re picking up any gifts that require AA batteries, it’s not a bad…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly available for $199 outside major deal events. The best price that we’ve previously seen […]" data-title="Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday" data-date="11-27 23:15" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-27 23:15</span>
-          <span class="news-item-title">Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday</span>
-          <span class="news-value-point">💡 The AirPods Pro 3 are cheaper than ever. Despite receiving an early disc…</span>
+          <span class="news-item-date">11-28 03:30</span>
+          <span class="news-item-title">The best Black Friday deals on smart home gear</span>
+          <span class="news-value-point">💡 I’ve spent my post-turkey haze powering through reams of deals on smart …</span>
         </a>
   </div>
 </div>
 <script defer src="{{ "/assets/js/news-feed.js" | relative_url }}"></script>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-28 01:35（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-28 05:29（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
