@@ -99,13 +99,13 @@ title: 股票财经
       <span class="ticker-code">NDX</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">26,046.90</span>
-      <span class="ticker-change down">▼ -0.64%</span>
+      <span class="ticker-price ticker-up">26,572.13</span>
+      <span class="ticker-change up">▲ +2.02%</span>
     </div>
     <div class="ticker-footer">
       <span>纳斯达克市场</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 2026-11-26 09:16:05（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 2026-11-28 01:36:49（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -113,13 +113,13 @@ title: 股票财经
       <span class="ticker-code">USD/CNH</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-down">6.6548</span>
+      <span class="ticker-price ticker-down">6.6551</span>
       <span class="ticker-change down">▼ -0 bp</span>
     </div>
     <div class="ticker-footer">
       <span>美元兑离岸人民币</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:59:55（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:36:48（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hf_XAU" data-fmt="usd" data-unit="/盎司">
     <div class="ticker-header">
@@ -127,13 +127,13 @@ title: 股票财经
       <span class="ticker-code">XAU/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$3,673.86 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
-      <span class="ticker-change up">▲ +107.60 (+3.02%)</span>
+      <span class="ticker-price ticker-up">$3,638.23 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/盎司</span></span>
+      <span class="ticker-change up">▲ +71.97 (+2.02%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 金衡盎司</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 20:00:00（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:36:00（非实时）</div>
   </div>
   <div class="ticker-card">
     <div class="ticker-header">
@@ -141,13 +141,13 @@ title: 股票财经
       <span class="ticker-code">Au(T+D)</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">¥783.48 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
-      <span class="ticker-change up">▲ +17.70 (+2.31%)</span>
+      <span class="ticker-price ticker-down">¥779.14 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/克</span></span>
+      <span class="ticker-change down">▼ -4.21 (-0.54%)</span>
     </div>
     <div class="ticker-footer">
       <span>上海黄金交易所基准</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 15:29:51（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:36:25（非实时）</div>
   </div>
   <div class="ticker-card" data-tcode="hkHSI" data-fmt="idx" data-unit="">
     <div class="ticker-header">
@@ -226,13 +226,13 @@ title: 股票财经
       <span class="ticker-code">OIL/USD</span>
     </div>
     <div class="ticker-body">
-      <span class="ticker-price ticker-up">$92.00 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
-      <span class="ticker-change up">▲ +0.33 (+0.36%)</span>
+      <span class="ticker-price ticker-down">$90.08 <span style="font-size:12px;font-weight:normal;color:var(--color-muted);">/桶</span></span>
+      <span class="ticker-change down">▼ -1.59 (-1.73%)</span>
     </div>
     <div class="ticker-footer">
       <span>美元 / 桶</span>
     </div>
-    <div class="ticker-quote-time">🕒 快照 19:59:56（非实时）</div>
+    <div class="ticker-quote-time">🕒 快照 01:36:56（非实时）</div>
   </div>
 </div>
 
@@ -437,97 +437,79 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">15 条精选资讯</span>
+      <span class="news-category-count">12 条精选资讯</span>
     </div>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-27/10738897.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网大同11月27日电 (胡健 马静波 丁宏伟)初冬时节，行走在山西省大同市左云县的广袤土地上，粮归仓廪、牛羊成群，塞上大地处处涌动着产业兴旺的勃勃生机。马铃薯、杂粮和牛羊肉，成了塞上左云农民增收的三样“宝”。" data-title="塞上左云：一方水土养出三样“宝”" data-date="11-27 18:02" data-source="中国新闻网">
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/business/influencers-black-friday-deals-holiday-shopping.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="A growing part of a brand’s Black Friday and Cyber Monday marketing strategy rests on paying top dollar for social media influencers to post videos." data-title="Black Friday Deals and Holiday Sales Are Big Money for Influencers" data-date="11-27 23:29" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-27 23:29</span>
+          <span class="news-item-title">Black Friday Deals and Holiday Sales Are Big Money for Influencers</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/770.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 27 日消息，据央视财经报道，11 月 27 日，中国工程院彭先觉院士团队在成都介绍我国原创“Z 箍缩聚变裂变混合堆”供热示范堆工程初步规划。据介绍，Z 箍缩聚变裂变混合堆是我国科学家自主提出的一种将核聚变与核裂变相结合的技术方案。根据规划，工程拟分两个阶段实施，先开展聚变点火和核心工艺验证，再建设面向城市供热、工农业用热等需求的示范堆。IT之家获悉，按照初步规划，2026 年至 2030 年为核心技术攻关验证阶段，相关验证工作将依托由中国工程物理研究院流体物理所承建的“50MA 电磁驱动聚变大科学装置”开展。该装置已获国家发展改革委批复，计划于 2030 年在成都天府新区建成。第二阶段的供热示范堆拟于 2031 年至 2035 年建设，设计聚变功率为 200 兆瓦、热功" data-title="我国自主聚变能源解决方案发布工程初步规划，拟分两个阶段实施" data-date="11-27 22:58" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-27 22:58</span>
+          <span class="news-item-title">我国自主聚变能源解决方案发布工程初步规划，拟分两个阶段实施</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/768.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 27 日消息，广汽集团旗下广汽能源在今日举行的 2026 广州车展上介绍了补能体系建设进展。广汽能源表示，截至 2026 年 11 月，在补能网络建设上，广汽自营充电网络已覆盖 31 个省级行政区、240 个城市，自营充电站达 2563 座、自营充电桩突破 3.3 万根。广汽能源同时透露，公司目标到 2027 年底补能网络覆盖 300 个城市、2030 年构建十万充电终端的生态网。加速在县域、高速沿线及北方高寒地区布局，并推进兆瓦级 10C 超充桩升级。" data-title="广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市" data-date="11-27 22:40" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-27 22:40</span>
+          <span class="news-item-title">广汽能源：目前自营充电站达 2563 座，目标明年底旗下补能网络覆盖 300 个城市</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/767.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 27 日消息，恒大汽车今日在港交所发布公告称，公司于 2026 年 11 月 27 日接获联交所函件，联交所上市委员会已决定根据上市规则第 6.01A (1) 条取消公司上市地位，原因是公司未能于 2026 年 9 月 30 日的复牌截止时间达成所有复牌指引。根据上市规则第 2B 章，恒大汽车有权在除牌决定发出日期起计七个营业日内，将决定提交上市复核委员会复核。若公司决定不申请复核，股份的最后上市日期为 2026 年 12 月 11 日，上市地位将自 2026 年 12 月 14 日上午 9 时起取消。公告称，董事会正征询顾问意见，并考虑是否提出请求，将除牌决定提交上市复核委员会作进一步复核。董事会同时提醒股东及潜在投资者，复核结果并不确定，公司将在适当时候另行公告。恒大" data-title="恒大汽车：香港联交所上市委员会决定取消公司的上市地位，最快 12 月 14 日摘牌" data-date="11-27 22:38" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-27 22:38</span>
+          <span class="news-item-title">恒大汽车：香港联交所上市委员会决定取消公司的上市地位，最快 12 月 14 日摘牌</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/765.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 27 日消息，蔚来创始人、董事长、CEO 李斌在 2026 广州车展上接受每日经济新闻采访时透露，吉利汽车已经在规划和开发相关换电车型。今年是我们运营换电站的第 8 年，基本做好了对外开放的准备。面对换电业务开放合作话题，李斌直言，蔚来现在的换电业务是有限“开放”。“对蔚来来说，建设换电网络并不是加入的企业越多越好，因为我们还是要为用户提供相比其他换电网络更好的体验。”李斌解释称。吉利控股集团董事长李书福曾表示，吉利完全认同换电模式，新能源车电池是会衰减损坏的，但一台车的使用周期不止七八九年，这个矛盾必须找到解决方案，“直接换一块全新电池包，太贵；拆解翻新修复电池，成本同样很高。所以换电，就是解决这个问题。”据IT之家此前报道，9 月 28 日，蔚来与吉利控股集团达成充换" data-title="蔚来李斌：吉利汽车已经在规划和开发相关换电车型" data-date="11-27 22:32" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-27 22:32</span>
+          <span class="news-item-title">蔚来李斌：吉利汽车已经在规划和开发相关换电车型</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/764.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 27 日消息，据新浪科技报道，在 2026 年第三季度业绩会上，美团 CEO 王兴表示，外卖行业在第三季度走到了拐点，主要有三个信号：客单价同比明显回升；低价订单占比环比持续收缩；行业补贴趋于理性，夏季促销季之后这一趋势尤为明显。这些变化都有利于真正具备经营实力的平台。王兴称，我们第三季度的业绩印证了这一点，依托全方位服务与运营能力，我们拿下了夏季旺季需求；用户结构与订单结构进一步改善，用户消费场景更加多元。行业领导地位继续巩固，单位经济模型优势进一步增强，背后是营销效率与运营效率的双重提升。IT之家注意到，美团今日发布 2026 年第三季度业绩报告。三季度，美团实现收入 1156 亿元，同比增长 21.6%；净利润同比由负转正，经调整净利润为 18.5 亿元，去年同期经" data-title="美团 CEO 王兴谈外卖行业拐点：客单价同比明显回升，行业补贴趋于理性" data-date="11-27 22:24" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-27 22:24</span>
+          <span class="news-item-title">美团 CEO 王兴谈外卖行业拐点：客单价同比明显回升，行业补贴趋于理性</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739076.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社北京11月27日电 (刘梦青)中国人民大学经济学院教授王孝松27日在北京表示，深圳APEC会议的举行对推动亚太共同体建设产生深远影响。" data-title="专家：深圳APEC会议对亚太共同体建设影响深远" data-date="11-27 21:54" data-source="中国新闻网">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-27 21:54</span>
+          <span class="news-item-title">专家：深圳APEC会议对亚太共同体建设影响深远</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739065.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆11月27日电 (记者 孙自法)“建立海外知识产权风险监测预警机制”“启动知识产权全要素服务保护线上地图及线下实体店”“聚焦价值变现，把‘知产’变为‘资产’”“搭建沿江知识产权协同转化的长效协同平台”“实现专利转化从点状对接向系统运营升级”“要把长江流域的生态好物产变成增收好产业”……" data-title="知识产权如何助力长江经济带高质量发展？沿江六省市山城“论剑”" data-date="11-27 21:52" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-27 21:52</span>
+          <span class="news-item-title">知识产权如何助力长江经济带高质量发展？沿江六省市山城“论剑”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739049.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社重庆11月27日电 (钟旖 宋紫月)27日在重庆市举办的空天科技创新与产业发展大会上，重庆大学空间太阳能电站实验基地揭牌，这是中国首个空间太阳能电站实验基地。重庆大学“空间能源无线传输双星计划”同步发布，为太空无线供能技术开展真实太空环境在轨试验迈出关键一步。" data-title="中国首个空间太阳能电站实验基地在重庆揭牌" data-date="11-27 21:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-27 21:49</span>
+          <span class="news-item-title">中国首个空间太阳能电站实验基地在重庆揭牌</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-27/10739032.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州11月27日电 (记者 蔡敏婕)2026粤港澳大湾区服务贸易大会(广州)26日至28日在广州举办，本届大会首次设立国际医疗展区，《广东省国际医疗服务指引》在会上正式发布。" data-title="大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南" data-date="11-27 21:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-27 21:33</span>
+          <span class="news-item-title">大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="Within strong consumer spending lie the decisions many families are making to stretch their dollars to cover the meals, trips and activities they value most." data-title="As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back" data-date="11-27 18:02" data-source="纽约时报">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
           <span class="news-item-date">11-27 18:02</span>
-          <span class="news-item-title">塞上左云：一方水土养出三样“宝”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10738875.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月27日电 据浙江大学纪委、浙江省纪委监委消息：浙江大学金融研究院上市公司研究中心原主任(原浙江省政府金融工作办公室党组成员、副主任)包纯田涉嫌严重违纪违法，主动投案，目前正接受中共浙江大学纪律检查委员会纪律审查和浙江省监察委员会监察调查。" data-title="浙江大学金融研究院上市公司研究中心原主任包纯田接受审查调查" data-date="11-27 17:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 17:31</span>
-          <span class="news-item-title">浙江大学金融研究院上市公司研究中心原主任包纯田接受审查调查</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-27/10738864.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网海南洋浦11月27日电(王玉 云舒钰)11月27日，海南中远海运能源运输有限公司所属船舶“连杉湖”轮靠泊海南洋浦港，计划卸载约5.6万吨石脑油。这是该轮自2023年入籍“中国洋浦港”船籍港以来的首次“回家”。" data-title="“中国洋浦港”船籍港集聚效应持续释放" data-date="11-27 17:31" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 17:31</span>
-          <span class="news-item-title">“中国洋浦港”船籍港集聚效应持续释放</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10738872.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网11月27日电 据甘肃省纪委监委消息：日前，经甘肃省委批准，甘肃省纪委监委对甘肃省建设投资(控股)集团有限公司原副总经理李文恩严重违纪违法问题进行了立案审查调查。" data-title="甘肃省建设投资(控股)集团原副总经理李文恩被“双开”" data-date="11-27 17:30" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 17:30</span>
-          <span class="news-item-title">甘肃省建设投资(控股)集团原副总经理李文恩被“双开”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738781.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网雅加达11月27日电 (李志全 魏之强)第141届广交会印度尼西亚推介会26日在雅加达举行。此次活动由中国对外贸易中心和中国驻印尼使馆联合主办，印度中华总商会和印中商务理事会承办。" data-title="第141届广交会印尼推介会在雅加达举行" data-date="11-27 16:25" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 16:25</span>
-          <span class="news-item-title">第141届广交会印尼推介会在雅加达举行</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738750.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社阿斯塔纳11月27日电 (记者 单璐)中国驻哈萨克斯坦大使馆26日在阿斯塔纳举行2026年中哈媒体吹风会。在近两小时的交流中，中国驻哈萨克斯坦大使韩春霖就中哈产业、交通、能源、科技和人文等领域合作回答中哈两国记者提问。" data-title="中国驻哈萨克斯坦大使：中哈合作持续向新领域拓展" data-date="11-27 16:20" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 16:20</span>
-          <span class="news-item-title">中国驻哈萨克斯坦大使：中哈合作持续向新领域拓展</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738680.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社马尼拉11月27日电 (记者 周璟)菲律宾统计局27日公布的数据显示，菲律宾10月贸易逆差扩大至69.5亿美元，创历史新高。当月进出口同比增速均为五年多来最高水平。" data-title="菲律宾10月贸易逆差创历史新高" data-date="11-27 15:27" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 15:27</span>
-          <span class="news-item-title">菲律宾10月贸易逆差创历史新高</span>
+          <span class="news-item-title">As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back</span>
         </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c3j4rw1r4p29o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="面对特朗普首轮关税攻势，世界各国已调整贸易流向，绕过美国的关税壁垒。如今，各国更将目光投向特朗普卸任后的时代。" data-title="为何特朗普新一轮关税的威胁不如以往？" data-date="11-27 12:22" data-source="BBC">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-27 12:22</span>
           <span class="news-item-title">为何特朗普新一轮关税的威胁不如以往？</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="特朗普总统向亚洲各地的贸易伙伴发出了一个信号，即他已准备好提高关税。这些贸易伙伴中有许多都依赖于来自美国和中国的贸易与投资。" data-title="Trump’s Latest Tariffs Revive Focus on Pressuring China" data-date="11-27 01:03" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-27 01:03</span>
-          <span class="news-item-title">Trump’s Latest Tariffs Revive Focus on Pressuring China</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738456.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网佛山11月26日电(记者 郭军)第七届金刚钻技能大赛总决赛25日至26日在位于广东佛山顺德的美的全球创新中心开赛。来自海内外的293名工程师及100名信息员齐聚赛场，围绕全能精英、高端精英、全屋智能、家用空调等11大细分赛道，展开激烈角逐，以赛砺技，锤炼适配全屋智能时代的家电服务专业队伍。" data-title="逾6万工程师参与金刚钻技能大赛 海外选手首次同台竞技" data-date="11-26 21:59" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 21:59</span>
-          <span class="news-item-title">逾6万工程师参与金刚钻技能大赛 海外选手首次同台竞技</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738454.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网肇庆11月26日电 题：青皮竹里长出新赛道：广东肇庆广宁竹产业逐步向高附加值跃升" data-title="青皮竹里长出新赛道：广东肇庆广宁竹产业逐步向高附加值跃升" data-date="11-26 21:57" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 21:57</span>
-          <span class="news-item-title">青皮竹里长出新赛道：广东肇庆广宁竹产业逐步向高附加值跃升</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-26/10738451.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网吉隆坡11月26日电 (记者 刘育英)据马新社26日报道，全球反诈骗联盟(GASA)透露，马来西亚首次被列入亚洲诈骗受害者平均经济损失最高的七个经济体之列，与日本、韩国、新加坡、中国香港及中国台湾等经济体同列。" data-title="马来西亚诈骗受害者人均损失首次位列亚洲前七" data-date="11-26 21:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 21:52</span>
-          <span class="news-item-title">马来西亚诈骗受害者人均损失首次位列亚洲前七</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-26/10738447.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网深圳11月26日电 (记者 王坚)为期三天的第三届节水产业创新发展成果展暨2026环境水务产业科技博览会26日在深圳开幕。展会以“数智融合水润未来”为主题，集中展示节水技术、智慧水务、绿色低碳及成套装备等领域前沿成果，集中发布50多项涉水新技术、新产品，参展企业达115家。" data-title="水务黑科技亮相第三届节水产业创新发展成果展" data-date="11-26 21:50" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 21:50</span>
-          <span class="news-item-title">水务黑科技亮相第三届节水产业创新发展成果展</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-26/10738417.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网柏林11月26日电 第十二届巴伐利亚中国日近日在德国因戈尔施塔特市举办，中国驻慕尼黑总领事邱学军、因市市长科恩出席并致辞，商务部投资促进事务局局长刘民强视频致辞，来自中德两国工商学界代表100余人参加。" data-title="第十二届巴伐利亚中国日在因戈尔施塔特市举办" data-date="11-26 21:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-26 21:26</span>
-          <span class="news-item-title">第十二届巴伐利亚中国日在因戈尔施塔特市举办</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cm62p52417ywo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="美国总统财务揭露的审查显示特朗普（川普）的投资组合经常交易Nvidia的股票。" data-title="BBC事实查核：纪录显示，特朗普的账户今年交易了44次Nvidia股票" data-date="11-26 21:23" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-26 21:23</span>
-          <span class="news-item-title">BBC事实查核：纪录显示，特朗普的账户今年交易了44次Nvidia股票</span>
         </a>
   </div>
 </div>
@@ -542,4 +524,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-27 18:13（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-28 01:35（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
