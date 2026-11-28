@@ -437,8 +437,56 @@ title: 股票财经
     <div class="news-category-header">
       <span class="category-flag">💰</span>
       <span class="news-category-title">宏观经济 · 汇率 · 证券 · 产业深度</span>
-      <span class="news-category-count">12 条精选资讯</span>
+      <span class="news-category-count">15 条精选资讯</span>
     </div>
+        <a class="news-item" href="https://www.ithome.com/1/033/931.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 28 日消息，据界面新闻报道，在 2026 广州车展上，岚图汽车 CEO 蒋焘表示，今年国内车市下滑明显，业界对明年全年的预期相对保守。受补贴退坡影响，明年一季度或有部分需求提前释放；海外出口方面，受关税及法规趋严影响，增量空间亦将受限。总体而言，今明两年汽车行业面临的形势依然严峻，类似变化在手机、家电、光伏产业均有先例。在战略调整方面，蒋焘表示，岚图将从此前“以量为主”转向“量与利润双平衡”。未来将通过保持充足现金流、聚焦盈利车型，让企业健康可持续发展。据IT之家此前报道，岚图汽车 2026 年 10 月交付新车 13030 辆；1-10 月累计交付 128,511 辆，同比增长 13%。工信部本月公布《道路机动车辆生产企业及产品》（第 412 批）目录，岚图被列入该批" data-title="岚图汽车 CEO 蒋焘：明年车市依然严峻，战略从“以量为主”转向“量利双衡”" data-date="11-28 17:18" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 17:18</span>
+          <span class="news-item-title">岚图汽车 CEO 蒋焘：明年车市依然严峻，战略从“以量为主”转向“量利双衡”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-28/10739234.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网曼谷11月28日电(梁峻祥 王茜 李映民)第四届中泰治国理政经验互学互鉴高端对话会27日在曼谷举行。中国外文局副局长于运全，泰国交通部副部长桑佩·汶亚玛尼，泰国国会下议院法院事务、独立机构、检察机关、国有企业、公共机构及基金委员会委员兼顾问阿卡拉德·翁皮塔洛，中国驻泰国大使馆参赞侯佩，亚太智库主任威伦·披差翁帕迪等嘉宾出席并致辞。来自中泰各界代表及青年代表100余人参加活动。" data-title="第四届中泰治国理政经验互学互鉴高端对话会在曼谷举行" data-date="11-28 17:12" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 17:12</span>
+          <span class="news-item-title">第四届中泰治国理政经验互学互鉴高端对话会在曼谷举行</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/929.htm" target="_blank" rel="noopener" data-cat="caijing" data-summary="IT之家 11 月 28 日消息，博主 @未来的学习笔记 今日发文透露，尊界 SUV 将归“X”序列。目前鸿蒙智行在轿车 S 系列和 MPV V 系列是有跨界的产品，但是在 SUV 上，就是专属的系列了。尚界 H 和 Z 系列，享界 G 系列、智界 R 系列、尊界应该就是 X 系列了。这样以后也更容易做好产品矩阵的区分。据IT之家此前报道，博主 @电车总裁 在 11 月 23 日发文透露，鸿蒙智行尊界 SUV 将亮相广州车展，不过该车预计是在“小黑屋”展示，仅部分受邀人士可提前参观。今年 9 月，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东现身合肥鸿蒙智行门店。在接受门店工作人员提问时，余承东表示，这台新车“快了”，明年年初可能就要陆续上市，大概在 2、3 月份。他透露，尊" data-title="消息称鸿蒙智行尊界 SUV 将归“X”序列，更易做好产品矩阵区分" data-date="11-28 17:10" data-source="IT之家">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 17:10</span>
+          <span class="news-item-title">消息称鸿蒙智行尊界 SUV 将归“X”序列，更易做好产品矩阵区分</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-28/10739306.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="石榴云/新疆日报记者 曹华" data-title="“绿围脖”更厚 沙产业生金——环塔克拉玛干沙漠绿色阻沙防护带锁边合龙两周年观察" data-date="11-28 17:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 17:06</span>
+          <span class="news-item-title">“绿围脖”更厚 沙产业生金——环塔克拉玛干沙漠绿色阻沙防护带锁边合龙两周年观察</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-28/10739285.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网南昌11月28日电 (记者 李韵涵)28日，江西省第二届高层次人才创新创业大赛颁奖仪式在南昌举行，本次大赛共评选出一等奖18名、二等奖36名、三等奖90名。" data-title="与产业深度融合 江西省第二届高层次人才创新创业大赛举行" data-date="11-28 16:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:57</span>
+          <span class="news-item-title">与产业深度融合 江西省第二届高层次人才创新创业大赛举行</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/ck0jxz70e4z5o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="台湾“九合一”选举与核能政策公投投票结束，全台1.8万余处投票所随即即场点票。BBC中文紧贴开票进展。" data-title="台湾“九合一”选举与核电公投：开票结果实时更新" data-date="11-28 16:31" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 16:31</span>
+          <span class="news-item-title">台湾“九合一”选举与核电公投：开票结果实时更新</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739226.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网兰州11月28日电 (记者 丁思)“甘肃酒泉市的‘九音桥’、白银市的‘板凳会议’、静宁县的产业型代表家站、古浪县古浪镇的‘红色引领、履职为民’特色代表工作室等等，这些接地气、聚人气的平台载体为代表履职提供了广阔的舞台，有效激发了代表履职的活力。”甘肃省人大常委会党组书记、副主任胡焯指出，甘肃各级人大把搭平台建载体作为践行全过程人民民主、密切代表与人民群众联系的重要抓手和基础工程，在服务中心大局中展现了人大担当作为，充分彰显了全过程人民民主的生命力、感召力和创造力。" data-title="甘肃人大推进全过程人民民主实践 代表履职接地气惠民生" data-date="11-28 15:38" data-source="中国新闻网">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 15:38</span>
+          <span class="news-item-title">甘肃人大推进全过程人民民主实践 代表履职接地气惠民生</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="台湾1965万选民将票选县市长、地方议员、乡镇村里长等将近1.11万名公职人员，同时公投决定日后能源政策。" data-title="台湾“九合一”选举：投票结束 全台各地投票所随即开票" data-date="11-28 08:00" data-source="BBC">
+          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 08:00</span>
+          <span class="news-item-title">台湾“九合一”选举：投票结束 全台各地投票所随即开票</span>
+        </a>
         <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/politics/trump-congressional-investigations-contractors.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="即将上任的民主党多数派已开始在其计划的调查中将矛头指向企业和其他外部人士，但总统已威胁称，如果他们未经其许可就配合调查，他将解雇他们。" data-title="In Democrats vs. Trump, the Loser May Be Federal Contractors" data-date="11-27 23:47" data-source="纽约时报">
           <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
@@ -481,36 +529,6 @@ title: 股票财经
           <span class="news-item-date">11-27 21:54</span>
           <span class="news-item-title">专家：深圳APEC会议对亚太共同体建设影响深远</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739065.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网重庆11月27日电 (记者 孙自法)“建立海外知识产权风险监测预警机制”“启动知识产权全要素服务保护线上地图及线下实体店”“聚焦价值变现，把‘知产’变为‘资产’”“搭建沿江知识产权协同转化的长效协同平台”“实现专利转化从点状对接向系统运营升级”“要把长江流域的生态好物产变成增收好产业”……" data-title="知识产权如何助力长江经济带高质量发展？沿江六省市山城“论剑”" data-date="11-27 21:52" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 21:52</span>
-          <span class="news-item-title">知识产权如何助力长江经济带高质量发展？沿江六省市山城“论剑”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739049.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新社重庆11月27日电 (钟旖 宋紫月)27日在重庆市举办的空天科技创新与产业发展大会上，重庆大学空间太阳能电站实验基地揭牌，这是中国首个空间太阳能电站实验基地。重庆大学“空间能源无线传输双星计划”同步发布，为太空无线供能技术开展真实太空环境在轨试验迈出关键一步。" data-title="中国首个空间太阳能电站实验基地在重庆揭牌" data-date="11-27 21:49" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 21:49</span>
-          <span class="news-item-title">中国首个空间太阳能电站实验基地在重庆揭牌</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-27/10739032.shtml" target="_blank" rel="noopener" data-cat="caijing" data-summary="中新网广州11月27日电 (记者 蔡敏婕)2026粤港澳大湾区服务贸易大会(广州)26日至28日在广州举办，本届大会首次设立国际医疗展区，《广东省国际医疗服务指引》在会上正式发布。" data-title="大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南" data-date="11-27 21:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 21:33</span>
-          <span class="news-item-title">大湾区服贸会首设国际医疗展区 海内外人士到粤就医有指南</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html" target="_blank" rel="noopener" data-cat="caijing" data-summary="在强劲的消费支出背后，是许多家庭正在做出让钱花在刀刃上的决定，以支付他们最看重的餐饮、旅行和活动。" data-title="As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back" data-date="11-27 18:02" data-source="纽约时报">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-27 18:02</span>
-          <span class="news-item-title">As Prices Rise, Americans Are Making Trade-Offs Rather Than Cutting Back</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/c3j4rw1r4p29o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="caijing" data-summary="面对特朗普首轮关税攻势，世界各国已调整贸易流向，绕过美国的关税壁垒。如今，各国更将目光投向特朗普卸任后的时代。" data-title="为何特朗普新一轮关税的威胁不如以往？" data-date="11-27 12:22" data-source="BBC">
-          <span class="news-cat-tag cat-caijing">💰 财经资讯</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-27 12:22</span>
-          <span class="news-item-title">为何特朗普新一轮关税的威胁不如以往？</span>
-        </a>
   </div>
 </div>
 
@@ -524,4 +542,4 @@ title: 股票财经
 
 ---
 
-<p class="news-updated">🕐 页面生成于 2026-11-28 05:29（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>
+<p class="news-updated">🕐 页面生成于 2026-11-28 17:32（北京时间）· 行情每 60 秒尝试刷新，失败时保留页面快照 · K 线按数据源交易周期展示，最新一根可能尚未收盘 · 仅供参考</p>

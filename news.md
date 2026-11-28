@@ -11,7 +11,7 @@ title: 热点新闻
     </div>
     <div class="news-date-tag">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
-      <span>2026-11-28 05:29 抓取更新</span>
+      <span>2026-11-28 17:32 抓取更新</span>
     </div>
   </div>
   <div class="news-search-bar">
@@ -23,19 +23,19 @@ title: 热点新闻
     <div class="news-channel-bar">
       <button class="channel-btn active" onclick="filterNewsChannel('all', this)">
         <span>🌟 全部动态</span>
-        <span class="channel-count">54</span>
+        <span class="channel-count">55</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('shizheng', this)">
         <span>🏛️ 时政与国际</span>
-        <span class="channel-count">13</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('keji', this)">
         <span>🤖 AI模型 & 芯片算力</span>
-        <span class="channel-count">14</span>
+        <span class="channel-count">10</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zuqiu', this)">
         <span>⚽ 英超与足球风云</span>
-        <span class="channel-count">12</span>
+        <span class="channel-count">15</span>
       </button>
       <button class="channel-btn" onclick="filterNewsChannel('zonghe', this)">
         <span>📰 综合与社会</span>
@@ -53,46 +53,46 @@ title: 热点新闻
   </div>
 </div>
 <div class="news-overview-bar">
-  <div class="ov-item"><span class="ov-num">54</span><span class="ov-label">今日动态</span></div>
-  <div class="ov-item"><span class="ov-num">7</span><span class="ov-label">独立信源</span></div>
+  <div class="ov-item"><span class="ov-num">55</span><span class="ov-label">今日动态</span></div>
+  <div class="ov-item"><span class="ov-num">8</span><span class="ov-label">独立信源</span></div>
   <div class="ov-item"><span class="ov-num">4</span><span class="ov-label">覆盖频道</span></div>
-  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×13 · 天空体育×9</span><span class="ov-label">TOP 信源</span></div>
+  <div class="ov-item"><span class="ov-num" style="font-size:13px;line-height:1.5">中国新闻网×21 · BBC×10</span><span class="ov-label">TOP 信源</span></div>
   <div class="ov-note">按来源聚合 · 最近 24 小时精选</div>
 </div>
 <div class="news-hero">
   <div class="news-hero-badge">🔥 今日头条焦点</div>
-  <a class="hero-featured-card" href="https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这场选举将影响蓝绿政治版图，六都选情备受关注，包括台北、新北、桃园、台中、台南、高雄，BBC中文整理各地候选人的简介。" data-title="台湾“九合一”选举：六都市长候选人简介" data-date="11-28 00:04" data-source="BBC">
+  <a class="hero-featured-card" href="https://www.chinanews.com.cn/gj/2026/11-28/10739304.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月28日电 综合报道，日本政府谋求调整核政策等扩军动向持续引发担忧。日媒指出，“无核三原则”绝非一句口号，日本政府应当坚持这一基本国策。另一方面，日本多方批评高市政府推进“再军事化”，警告政府绝不能再次走上错误的道路。" data-title="日本多方呼吁坚持“无核三原则”：绝不能重蹈历史覆辙" data-date="11-28 17:02" data-source="中国新闻网">
     <div class="hero-featured-body">
       <div class="hero-featured-meta">
         <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-        <span class="source-badge source-bbc">🇬🇧 BBC</span>
-        <span class="hero-featured-date">🕒 11-28 00:04</span>
+        <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+        <span class="hero-featured-date">🕒 11-28 17:02</span>
       </div>
-      <h2 class="hero-featured-title">台湾“九合一”选举：六都市长候选人简介</h2>
+      <h2 class="hero-featured-title">日本多方呼吁坚持“无核三原则”：绝不能重蹈历史覆辙</h2>
     </div>
     <span class="hero-featured-arrow">→</span>
   </a>
   <div class="hero-sub-grid">
-    <a class="hero-sub-card" href="https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been constrained." data-title="With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War" data-date="11-28 02:01" data-source="纽约时报">
+    <a class="hero-sub-card" href="https://www.ithome.com/1/033/927.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为《后 AI 时代最重要的问题》的长文，全文约 8000 字。文章发出后，引发全网热议。冯骥在文章开篇提出了一个问题：当人工智能（AI）在生产端大规模取代人类劳动后，整个社会应该如何看待人的价值？他认为，这就是后 AI 时代最重要的问题，没有之一。在他看来，这轮 AI 革命与历次工业革命有两点根本不同：一是“迁徙的高地没了”过去，机器替代的是肌肉与脚力，人从农田退进车间，从流水线退进写字楼，一路往更费脑子的高处搬家，新冒出来的行业往往有着更细的分工，更强的手脑并用。今天算力正面攻占的就是脑力本身，我们身后并没有什么更高一层的“超脑力工种”可供几亿人集体" data-title="《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？" data-date="11-28 16:54" data-source="IT之家">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-        <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+        <span class="source-badge source-cn">🇨🇳 IT之家</span>
       </div>
-      <p class="hero-sub-title">With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War</p>
+      <p class="hero-sub-title">《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？</p>
     </a>
-    <a class="hero-sub-card" href="https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-title="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-date="11-28 02:30" data-source="天空体育">
+    <a class="hero-sub-card" href="https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英超联赛历史上最出色的任意球专家是谁？BBC体育深入研究了各项数据，并评选出了前10名。" data-title="Ranking the Premier League&#39;s ultimate free" data-date="11-28 16:14" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-        <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">Emegha pulls a goal back for Chelsea at Forest LIVE!</p>
+      <p class="hero-sub-title">英超联赛终极自由球员排名</p>
     </a>
-    <a class="hero-sub-card" href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas" target="_blank" rel="noopener" data-cat="zonghe" data-summary="过去几周，今年的黑色星期五优惠活动已分批推出，但现在已正式全面开启。您现在可以享受我们所见过的实体店和线上最低价格，购买视频游戏、无线耳机、电视、电子产品等。" data-title="The absolute best Black Friday deals we’ve found (so far)" data-date="11-28 05:09" data-source="The Verge">
+    <a class="hero-sub-card" href="https://www.bbc.com/zhongwen/articles/cwkgry00vk48o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="BBC中文在台湾“九合一”选举投票结束后进行视像直播，除了专家分析选举结果，亦会在投票站和竞选总部进行现场报道。" data-title="台湾“九合一”选举BBC视像直播" data-date="11-28 17:20" data-source="BBC">
       <div class="hero-sub-meta">
         <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-        <span class="source-badge source-theverge">🌐 The Verge</span>
+        <span class="source-badge source-bbc">🇬🇧 BBC</span>
       </div>
-      <p class="hero-sub-title">我们迄今为止找到的超值黑色星期五优惠</p>
+      <p class="hero-sub-title">台湾“九合一”选举BBC视像直播</p>
     </a>
   </div>
 </div>
@@ -101,8 +101,108 @@ title: 热点新闻
     <div class="news-category-header">
       <span class="category-flag">🏛️</span>
       <span class="news-category-title">时政要闻 & 国际动态</span>
-      <span class="news-category-count">13 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-28/10739304.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月28日电 综合报道，日本政府谋求调整核政策等扩军动向持续引发担忧。日媒指出，“无核三原则”绝非一句口号，日本政府应当坚持这一基本国策。另一方面，日本多方批评高市政府推进“再军事化”，警告政府绝不能再次走上错误的道路。" data-title="日本多方呼吁坚持“无核三原则”：绝不能重蹈历史覆辙" data-date="11-28 17:02" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 17:02</span>
+          <span class="news-item-title">日本多方呼吁坚持“无核三原则”：绝不能重蹈历史覆辙</span>
+          <span class="news-value-point">💡 中新网11月28日电 综合报道，日本政府谋求调整核政策等扩军动向持续引发担忧</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-28/10739301.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据日本方面27日消息，日本长崎市当天召开长崎核爆资料馆运营审议会会议，公布更新版展陈资料，将有关南京大屠杀的展陈解说文案改为“南京事件”。" data-title="日本长崎核爆资料馆启动把南京大屠杀改称“南京事件”" data-date="11-28 16:57" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:57</span>
+          <span class="news-item-title">日本长崎核爆资料馆启动把南京大屠杀改称“南京事件”</span>
+          <span class="news-value-point">💡 据日本方面27日消息，日本长崎市当天召开长崎核爆资料馆运营审议会会议，公布更新版展陈资料，将有关南京大屠杀的展陈解说文案改为“南京事件”</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739295.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京11月28日电 (记者 马帅莎)据中国载人航天工程办公室消息，北京时间11月28日，神舟二十三号和神舟二十四号航天员进行交接仪式，移交了中国空间站的钥匙。根据任务计划安排，首名外籍航天员穆罕默德·齐尚·阿里将乘坐神舟二十三号飞船返回，航天员朱杨柱将留轨完成一年期在轨驻留试验，与指令长汤洪波、航天员武毅共同执行神舟二十四号载人飞行任务。" data-title="神舟二十三号和神舟二十四号航天员完成在轨交接" data-date="11-28 16:48" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:48</span>
+          <span class="news-item-title">神舟二十三号和神舟二十四号航天员完成在轨交接</span>
+          <span class="news-value-point">💡 中新网北京11月28日电 (记者 马帅莎)据中国载人航天工程办公室消息，北京时间11月28日，神舟二十三号和神舟二十四号航天员进行交接仪式，移交…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739286.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社快讯：神舟二十三号和神舟二十四号航天员完成在轨交接。" data-title="神舟二十三号和神舟二十四号航天员完成在轨交接" data-date="11-28 16:40" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:40</span>
+          <span class="news-item-title">神舟二十三号和神舟二十四号航天员完成在轨交接</span>
+          <span class="news-value-point">💡 新华社快讯：神舟二十三号和神舟二十四号航天员完成在轨交接</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739284.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="新华社快讯：神舟二十三号和神舟二十四号航天员在轨交接仪式开始。" data-title="神舟二十三号和神舟二十四号航天员在轨交接仪式开始" data-date="11-28 16:34" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:34</span>
+          <span class="news-item-title">神舟二十三号和神舟二十四号航天员在轨交接仪式开始</span>
+          <span class="news-value-point">💡 新华社快讯：神舟二十三号和神舟二十四号航天员在轨交接仪式开始</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739282.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="石榴云/新疆日报记者 刘翔 郭玲" data-title="2026世界市长对话·乌鲁木齐丨以城为窗，让世界读懂中国新疆" data-date="11-28 16:33" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:33</span>
+          <span class="news-item-title">2026世界市长对话·乌鲁木齐丨以城为窗，让世界读懂中国新疆</span>
+          <span class="news-value-point">💡 石榴云/新疆日报记者 刘翔 郭玲</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739278.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【环球时报报道 记者 樊巍 董凤 李煜 陈鑫】“过去我们常说，中巴友谊比喜马拉雅山还要高；如今，我们可以说这份友谊直上云霄。”11月26日，巴基斯坦规划、发展与特别项目部长阿赫桑·伊克巴尔在巴驻华大使馆对《环球时报》记者表示，自己期盼有朝一日，巴中两国航天员共同登上月球，“让两国国旗一同在月球上飘扬”。此前两天，在酒泉卫星发射中心举行的神舟二十四号载人飞行任务航天员与记者见面会上，阿赫桑·伊克巴尔几乎和在场记者一样忙碌，用手机不停记录这盛大的时刻，并和巴基斯坦官员以现场的“人山人海”为背景拍照留念。" data-title="巴基斯坦官员称中国的独有特质是乐于分享发展成果，更多国家期待共写太空未来" data-date="11-28 16:29" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:29</span>
+          <span class="news-item-title">巴基斯坦官员称中国的独有特质是乐于分享发展成果，更多国家期待共写太空未来</span>
+          <span class="news-value-point">💡 【环球时报报道 记者 樊巍 董凤 李煜 陈鑫】“过去我们常说，中巴友谊比喜马拉雅山还要高</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739253.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="【编者按】" data-title="一只等了90年的碗丨“史诗长征” · 广东篇" data-date="11-28 15:49" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 15:49</span>
+          <span class="news-item-title">一只等了90年的碗丨“史诗长征” · 广东篇</span>
+          <span class="news-value-point">💡 【编者按】</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-28/10739211.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网北京11月28日电 (记者 马帅莎)据中国载人航天工程办公室消息，11月28日，巴基斯坦总理穆罕默德·夏巴兹·谢里夫和巴基斯坦国防军司令兼陆军参谋长赛义德·阿西姆·穆尼尔元帅，在巴基斯坦太空与高层大气研究委员会总部，与在中国空间站执行神舟二十四号载人飞行任务的巴基斯坦航天员穆罕默德·齐尚·阿里进行了天地通话。(完)" data-title="巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话" data-date="11-28 14:06" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 14:06</span>
+          <span class="news-item-title">巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话</span>
+          <span class="news-value-point">💡 中新网北京11月28日电 (记者 马帅莎)据中国载人航天工程办公室消息，11月28日，巴基斯坦总理穆罕默德·夏巴兹·谢里夫和巴基斯坦国防军司令兼…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-28/10739210.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话。" data-title="巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话" data-date="11-28 13:56" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 13:56</span>
+          <span class="news-item-title">巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话</span>
+          <span class="news-value-point">💡 巴基斯坦总理和国防军司令兼陆军参谋长同正在中国空间站执行任务的巴方航天员天地通话</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="76岁的斯图尔特-库辛斯女士在州参议院任职20年。她的突然去世给州内民主党高层留下了领导空缺。" data-title="Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies" data-date="11-28 11:28" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-28 11:28</span>
+          <span class="news-item-title">纽约州参议院首位女性多数党领袖安德里亚·斯图尔特-库辛斯去世</span>
+          <span class="news-item-title-en">Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies</span>
+          <span class="news-value-point">💡 76岁的斯图尔特-库辛斯女士在州参议院任职20年</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-28/10739154.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月28日电 据日本共同社报道，当地时间27日下午，日本静冈县发生一起野猪伤人事件，共造成7人受伤。" data-title="日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”" data-date="11-28 10:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 10:50</span>
+          <span class="news-item-title">日本发生野猪伤人事件致7伤 “野猪撞破玻璃闯入店内”</span>
+          <span class="news-value-point">💡 中新网11月28日电 据日本共同社报道，当地时间27日下午，日本静冈县发生一起野猪伤人事件，共造成7人受伤</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-28/10739125.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月28日电 墨西哥城消息：墨西哥总统辛鲍姆27日在新闻发布会上表示，墨方已就美国毒品管制局在墨西哥开通举报热线一事向美方提出正式抗议。该热线旨在收集有关涉嫌参与毒品贩运人员及墨西哥官员涉嫌腐败的信息。" data-title="墨西哥抗议美国在墨开通举报热线" data-date="11-28 09:59" data-source="中国新闻网">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 09:59</span>
+          <span class="news-item-title">墨西哥抗议美国在墨开通举报热线</span>
+          <span class="news-value-point">💡 中新社北京11月28日电 墨西哥城消息：墨西哥总统辛鲍姆27日在新闻发布会上表示，墨方已就美国毒品管制局在墨西哥开通举报热线一事向美方提出正式抗…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="JD·万斯和马可·鲁比奥会参选吗？卡马拉·哈里斯和亚历山德里亚·奥卡西奥-科尔特斯呢？当然，特朗普总统将扮演什么角色？" data-title="Five Big Questions for the 2028 Presidential Race" data-date="11-28 07:51" data-source="纽约时报">
+          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-28 07:51</span>
+          <span class="news-item-title">2028 年总统大选的五个大问题</span>
+          <span class="news-item-title-en">Five Big Questions for the 2028 Presidential Race</span>
+          <span class="news-value-point">💡 JD·万斯和马可·鲁比奥会参选吗</span>
+        </a>
         <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="这场选举将影响蓝绿政治版图，六都选情备受关注，包括台北、新北、桃园、台中、台南、高雄，BBC中文整理各地候选人的简介。" data-title="台湾“九合一”选举：六都市长候选人简介" data-date="11-28 00:04" data-source="BBC">
           <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
@@ -110,104 +210,35 @@ title: 热点新闻
           <span class="news-item-title">台湾“九合一”选举：六都市长候选人简介</span>
           <span class="news-value-point">💡 这场选举将影响蓝绿政治版图，六都选情备受关注，包括台北、新北、桃园、台中、台南、高雄，BBC中文整理各地候选人的简介</span>
         </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739090.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中国共产党江苏省第十五届委员会第一次全体会议11月27日选举信长星为省委书记，刘小涛、范波为省委副书记，当选为省委常委的还有周红波、张文兵、胡立杰(女)、边学文、李耀光、陈忠伟、马士光、沈剑荣、敬健、吴庆文。" data-title="信长星当选中共江苏省委书记" data-date="11-27 22:48" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 22:48</span>
-          <span class="news-item-title">信长星当选中共江苏省委书记</span>
-          <span class="news-value-point">💡 中国共产党江苏省第十五届委员会第一次全体会议11月27日选举信长星为省委书记，刘小涛、范波为省委副书记，当选为省委常委的还有周红波、张文兵、胡立…</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739085.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月27日电 (记者 马帅莎)据中国航天科技集团消息，北京时间11月27日21时05分，中国在太原卫星发射中心使用长征六号改运载火箭，将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。" data-title="中国成功发射遥感五十号04星" data-date="11-27 22:33" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 22:33</span>
-          <span class="news-item-title">中国成功发射遥感五十号04星</span>
-          <span class="news-value-point">💡 中新社北京11月27日电 (记者 马帅莎)据中国航天科技集团消息，北京时间11月27日21时05分，中国在太原卫星发射中心使用长征六号改运载火箭…</span>
-        </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html" target="_blank" rel="noopener" data-cat="shizheng" data-summary="JD·万斯和马可·鲁比奥会参选吗？卡马拉·哈里斯和亚历山德里亚·奥卡西奥-科尔特斯呢？当然，特朗普总统将扮演什么角色？" data-title="Five Big Questions for the 2028 Presidential Race" data-date="11-27 22:33" data-source="纽约时报">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-27 22:33</span>
-          <span class="news-item-title">2028 年总统大选的五个大问题</span>
-          <span class="news-item-title-en">Five Big Questions for the 2028 Presidential Race</span>
-          <span class="news-value-point">💡 JD·万斯和马可·鲁比奥会参选吗</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-27/10739073.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网吉隆坡11月27日电 中国驻马来西亚使馆27日举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”。中国驻马来西亚大使姚文出席并作主旨发言，马国会议员、民主行动党顾问陈国伟，巫统最高理事洛克曼，人民公正党副总秘书艾迪，马中友好协会会长马吉德，亚太“一带一路”共策会会长翁诗杰等政党、智库学者及友好团体代表参加。" data-title="中国驻马来西亚使馆举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”" data-date="11-27 21:56" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 21:56</span>
-          <span class="news-item-title">中国驻马来西亚使馆举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”</span>
-          <span class="news-value-point">💡 中新网吉隆坡11月27日电 中国驻马来西亚使馆27日举办“读懂中国之治——中国共产党二十届五中全会精神专题座谈会”</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738991.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社马尼拉11月27日电 (记者 周璟)菲律宾副总统莎拉·杜特尔特27日表示，即使面临弹劾审判，她也绝不会主动辞去副总统职务。" data-title="菲律宾副总统莎拉称绝不会因弹劾审判辞职" data-date="11-27 20:26" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 20:26</span>
-          <span class="news-item-title">菲律宾副总统莎拉称绝不会因弹劾审判辞职</span>
-          <span class="news-value-point">💡 中新社马尼拉11月27日电 (记者 周璟)菲律宾副总统莎拉·杜特尔特27日表示，即使面临弹劾审判，她也绝不会主动辞去副总统职务</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738967.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社北京11月27日电 渥太华消息：当地时间26日，呼吁加拿大政府驱逐美国驻加大使皮特·胡克斯特拉的请愿书被提交至加拿大国会众议院。该请愿书由近30万加拿大民众实名联署。" data-title="加拿大近30万民众联名请愿要求驱逐美国大使" data-date="11-27 20:24" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 20:24</span>
-          <span class="news-item-title">加拿大近30万民众联名请愿要求驱逐美国大使</span>
-          <span class="news-value-point">💡 中新社北京11月27日电 渥太华消息：当地时间26日，呼吁加拿大政府驱逐美国驻加大使皮特·胡克斯特拉的请愿书被提交至加拿大国会众议院</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738996.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月27日电 据日本广播协会(NHK)27日报道，日本冲绳县警方以涉嫌非法侵入住宅为由，逮捕了一名驻日美军人员。" data-title="日媒：涉嫌非法侵入住宅，一名驻日美军人员被捕" data-date="11-27 20:13" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 20:13</span>
-          <span class="news-item-title">日媒：涉嫌非法侵入住宅，一名驻日美军人员被捕</span>
-          <span class="news-value-point">💡 中新网11月27日电 据日本广播协会(NHK)27日报道，日本冲绳县警方以涉嫌非法侵入住宅为由，逮捕了一名驻日美军人员</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738962.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="据伊朗方面27日消息，伊朗海军司令沙赫拉姆·伊拉尼当天说，伊朗海军突击队夺回两艘此前被美军劫持的油轮。" data-title="伊朗海军司令称夺回两艘被美军劫持的油轮" data-date="11-27 19:18" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 19:18</span>
-          <span class="news-item-title">伊朗海军司令称夺回两艘被美军劫持的油轮</span>
-          <span class="news-value-point">💡 据伊朗方面27日消息，伊朗海军司令沙赫拉姆·伊拉尼当天说，伊朗海军突击队夺回两艘此前被美军劫持的油轮</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738947.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网11月27日电 据朝中社报道，朝鲜劳动党总书记、国务委员长金正恩11月26日观看了在东平壤大剧院进行的俄罗斯艺术家纪念演出。" data-title="俄艺术家赴朝访问演出 金正恩到场观看并祝贺演出成功" data-date="11-27 18:54" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 18:54</span>
-          <span class="news-item-title">俄艺术家赴朝访问演出 金正恩到场观看并祝贺演出成功</span>
-          <span class="news-value-point">💡 中新网11月27日电 据朝中社报道，朝鲜劳动党总书记、国务委员长金正恩11月26日观看了在东平壤大剧院进行的俄罗斯艺术家纪念演出</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738910.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新网曼谷11月27日电 (王茜 梁峻祥 李映民)泰国正大管理学院27日与泰国中华文化促进会签约，该校授权泰国中华文化促进会在中国开展招生工作。根据合作安排，该协会可联动中国各地相关协会，在不同地区为正大管理学院开展招生。" data-title="泰国文促会携手高校开展教育领域合作" data-date="11-27 18:34" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 18:34</span>
-          <span class="news-item-title">泰国文促会携手高校开展教育领域合作</span>
-          <span class="news-value-point">💡 中新网曼谷11月27日电 (王茜 梁峻祥 李映民)泰国正大管理学院27日与泰国中华文化促进会签约，该校授权泰国中华文化促进会在中国开展招生工作</span>
-        </a>
-        <a class="news-item" href="https://www.chinanews.com.cn/gj/2026/11-27/10738860.shtml" target="_blank" rel="noopener" data-cat="shizheng" data-summary="中新社悉尼11月27日电 (记者 薄雯雯)2026第七届悉尼茶博会27日在澳大利亚悉尼开幕。展会现场，绿茶、红茶、乌龙茶等多种中国传统茶叶受到当地民众欢迎。" data-title="第七届悉尼茶博会开幕 中国茶受青睐" data-date="11-27 17:29" data-source="中国新闻网">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
-          <span class="news-item-date">11-27 17:29</span>
-          <span class="news-item-title">第七届悉尼茶博会开幕 中国茶受青睐</span>
-          <span class="news-value-point">💡 中新社悉尼11月27日电 (记者 薄雯雯)2026第七届悉尼茶博会27日在澳大利亚悉尼开幕</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cx053e8yr348o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="shizheng" data-summary="台湾选举传统中，素有“决战中台湾”一称。江启臣若当选，卢路线将得到选民加持，其在国民党内的声望也有望进一步升高。" data-title="台中市选战：江启臣对决何欣纯，卢秀燕问鼎总统前哨战" data-date="11-27 13:47" data-source="BBC">
-          <span class="news-cat-tag cat-shizheng">🏛️ 时政要闻</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-27 13:47</span>
-          <span class="news-item-title">台中市选战：江启臣对决何欣纯，卢秀燕问鼎总统前哨战</span>
-          <span class="news-value-point">💡 台湾选举传统中，素有“决战中台湾”一称</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">🤖</span>
       <span class="news-category-title">前沿 AI 模型 & 半导体芯片算力 (模型革新 · 芯片巨头动态)</span>
-      <span class="news-category-count">14 条</span>
+      <span class="news-category-count">10 条</span>
     </div>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been constrained." data-title="With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War" data-date="11-28 02:01" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/033/927.htm" target="_blank" rel="noopener" data-cat="keji" data-summary="IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为《后 AI 时代最重要的问题》的长文，全文约 8000 字。文章发出后，引发全网热议。冯骥在文章开篇提出了一个问题：当人工智能（AI）在生产端大规模取代人类劳动后，整个社会应该如何看待人的价值？他认为，这就是后 AI 时代最重要的问题，没有之一。在他看来，这轮 AI 革命与历次工业革命有两点根本不同：一是“迁徙的高地没了”过去，机器替代的是肌肉与脚力，人从农田退进车间，从流水线退进写字楼，一路往更费脑子的高处搬家，新冒出来的行业往往有着更细的分工，更强的手脑并用。今天算力正面攻占的就是脑力本身，我们身后并没有什么更高一层的“超脑力工种”可供几亿人集体" data-title="《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？" data-date="11-28 16:54" data-source="IT之家">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 16:54</span>
+          <span class="news-item-title">《黑神话：悟空》制作人冯骥发 8000 字长文谈“后 AI 时代”：如果有一天没有任何工作需要人了，人该怎么办？</span>
+          <span class="news-value-point">💡 IT之家 11 月 28 日消息，11 月 27 日，游戏科学创始人、《黑神话：悟空》制作人冯骥在其个人公众号“冯骥 Yocar”发表了一篇名为…</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html" target="_blank" rel="noopener" data-cat="keji" data-summary="在一些人所说的争夺人工智能主导权的“赢者通吃”竞赛中，强硬派的警告变得更加紧迫。" data-title="Trump’s Embrace of Xi and Huang Stuns China Critics in Washington" data-date="11-28 13:19" data-source="纽约时报">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
           <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-28 02:01</span>
-          <span class="news-item-title">With Dancing Robots, Russia Projects a Future Shaped by A.I., Not War</span>
-          <span class="news-value-point">💡 Russian officials see artificial intelligence as a way to solve the coun…</span>
+          <span class="news-item-date">11-28 13:19</span>
+          <span class="news-item-title">特朗普对习近平和黄仁勋的拥抱令华盛顿的中国批评者感到震惊</span>
+          <span class="news-item-title-en">Trump’s Embrace of Xi and Huang Stuns China Critics in Washington</span>
+          <span class="news-value-point">💡 在一些人所说的争夺人工智能主导权的“赢者通吃”竞赛中，强硬派的警告变得更加紧迫</span>
+        </a>
+        <a class="news-item" href="https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html" target="_blank" rel="noopener" data-cat="keji" data-summary="俄罗斯官员认为人工智能是解决该国紧迫问题的一种途径。但俄罗斯的技术发展一直受到阻碍。" data-title="Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War" data-date="11-28 05:41" data-source="纽约时报">
+          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
+          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
+          <span class="news-item-date">11-28 05:41</span>
+          <span class="news-item-title">俄罗斯对人工智能的宏大抱负因战争的掣肘而受挫</span>
+          <span class="news-item-title-en">Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War</span>
+          <span class="news-value-point">💡 俄罗斯官员认为人工智能是解决该国紧迫问题的一种途径</span>
         </a>
         <a class="news-item" href="https://www.tomshardware.com/desktops/gaming-pcs/ibuypowers-black-friday-offers-net-you-usd650-off-powerful-rtx-5080-prebuilt-pc-stackable-offer-code-can-net-you-a-bargain-bundle-with-a-free-monitor-and-peripherals" target="_blank" rel="noopener" data-cat="keji" data-summary="预装电脑领域的佼佼者iBuyPower正在全系列产品上开展一场盛大的黑色星期五促销活动，其中包括一款基于全AMD Ryzen 9 7800X3D/RX 9070 XT配置的强大套装，该套装还将为您提供免费的捆绑赠品，包括一套A" data-title="iBuyPower’s Black Friday offers net you $650 off powerful RTX 5080 prebuilt PC" data-date="11-28 01:30" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
@@ -261,67 +292,91 @@ title: 热点新闻
           <span class="news-item-title">特朗普：黄仁勋重返英伟达是件“好事”，他本人也很高兴回归</span>
           <span class="news-value-point">💡 中新网11月27日电 据美国福克斯新闻网27日报道，美国总统特朗普表示，黄仁勋重返英伟达对美国和世界来说都是一件“好事”</span>
         </a>
-        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="keji" data-summary="黄仁勋戏剧性地重返英伟达执行长职位，引发亚洲股市剧烈波动，也暴露出区内经济体高度依赖AI产业及英伟达所带来的风险。" data-title="押注英伟达发展AI，亚洲在黄仁勋复职后前景如何？" data-date="11-27 15:40" data-source="BBC">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-27 15:40</span>
-          <span class="news-item-title">押注英伟达发展AI，亚洲在黄仁勋复职后前景如何？</span>
-          <span class="news-value-point">💡 黄仁勋戏剧性地重返英伟达执行长职位，引发亚洲股市剧烈波动，也暴露出区内经济体高度依赖AI产业及英伟达所带来的风险</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/513305.html" target="_blank" rel="noopener" data-cat="keji" data-summary="网页App双端亮出聊天账单" data-title="DeepSeek APP突然更新账单，网友：要收费了？" data-date="11-27 15:29" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-27 15:29</span>
-          <span class="news-item-title">DeepSeek APP突然更新账单，网友：要收费了？</span>
-          <span class="news-value-point">💡 网页App双端亮出聊天账单</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/513227.html" target="_blank" rel="noopener" data-cat="keji" data-summary="地图能随时修，记忆能跨任务用" data-title="刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑" data-date="11-27 15:01" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-27 15:01</span>
-          <span class="news-item-title">刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑</span>
-          <span class="news-value-point">💡 地图能随时修，记忆能跨任务用</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/513194.html" target="_blank" rel="noopener" data-cat="keji" data-summary="企业需要有用的 AI" data-title="钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间" data-date="11-27 12:05" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-27 12:05</span>
-          <span class="news-item-title">钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间</span>
-          <span class="news-value-point">💡 企业需要有用的 AI</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/513211.html" target="_blank" rel="noopener" data-cat="keji" data-summary="11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0" data-title="蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准" data-date="11-27 12:05" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-27 12:05</span>
-          <span class="news-item-title">蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准</span>
-          <span class="news-value-point">💡 11 月 27 日，蚂蚁灵波科技发布流式三维重建模型 LingBot-Map 2.0</span>
-        </a>
-        <a class="news-item" href="https://www.qbitai.com/2026/11/513163.html" target="_blank" rel="noopener" data-cat="keji" data-summary="Quickwit查询总耗时降31%，最高降87%" data-title="20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩" data-date="11-27 11:53" data-source="量子位">
-          <span class="news-cat-tag cat-keji">🤖 AI & 芯片前沿</span>
-          <span class="source-badge source-techcrunch">🧠 量子位</span>
-          <span class="news-item-date">11-27 11:53</span>
-          <span class="news-item-title">20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩</span>
-          <span class="news-value-point">💡 Quickwit查询总耗时降31%，最高降87%</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
       <span class="category-flag">⚽</span>
       <span class="news-category-title">英超与足球风云 (赛况战术 · 转会焦点)</span>
-      <span class="news-category-count">12 条</span>
+      <span class="news-category-count">15 条</span>
     </div>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cjzx97dz149qo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="英超联赛历史上最出色的任意球专家是谁？BBC体育深入研究了各项数据，并评选出了前10名。" data-title="Ranking the Premier League&#39;s ultimate free" data-date="11-28 16:14" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 16:14</span>
+          <span class="news-item-title">英超联赛终极自由球员排名</span>
+          <span class="news-item-title-en">Ranking the Premier League's ultimate free</span>
+          <span class="news-value-point">💡 英超联赛历史上最出色的任意球专家是谁</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cm3egnw0y0d0o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="帕斯卡尔·格罗斯表示，他父亲对他练习任意球的“尴尬”反应，在他成为如今布莱顿队球员的过程中起到了重要作用。" data-title="How dad&#39;s embarrassment was making of Gross at Brighton" data-date="11-28 15:25" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 15:25</span>
+          <span class="news-item-title">爸爸的尴尬是如何让格罗斯在布莱顿成名的</span>
+          <span class="news-item-title-en">How dad's embarrassment was making of Gross at Brighton</span>
+          <span class="news-value-point">💡 帕斯卡尔·格罗斯表示，他父亲对他练习任意球的“尴尬”反应，在他成为如今布莱顿队球员的过程中起到了重要作用</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/12040/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="哈维·阿隆索在开球前呼吁他的切尔西队回归基本功，然后眼睁睁地看着他们在与诺丁汉森林的比赛中被对手压制并完败，以 2:3 的惨痛比分落败。" data-title="What went wrong for Alonso&#39;s Chelsea at Forest?" data-date="11-28 07:40" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-28 07:40</span>
+          <span class="news-item-title">阿隆索执教的切尔西在诺丁汉森林队身上出了什么问题？</span>
+          <span class="news-item-title-en">What went wrong for Alonso's Chelsea at Forest?</span>
+          <span class="news-value-point">💡 哈维·阿隆索在开球前呼吁他的切尔西队回归基本功，然后眼睁睁地看着他们在与诺丁汉森林的比赛中被对手压制并完败，以 2:3 的惨痛比分落败</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13617391/xabi-alonso-called-for-chelsea-to-get-back-to-fundamentals-before-slipping-to-new-low-at-nottingham-forest" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="哈维·阿隆索在开球前呼吁他的切尔西队回归基本功，然后眼睁睁地看着他们在与诺丁汉森林的比赛中被对手压制并完败，以 2:3 的惨痛比分落败。" data-title="What went wrong for Alonso&#39;s Chelsea at Forest?" data-date="11-28 07:40" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-28 07:40</span>
+          <span class="news-item-title">阿隆索执教的切尔西在诺丁汉森林队身上出了什么问题？</span>
+          <span class="news-item-title-en">What went wrong for Alonso's Chelsea at Forest?</span>
+          <span class="news-value-point">💡 哈维·阿隆索在开球前呼吁他的切尔西队回归基本功，然后眼睁睁地看着他们在与诺丁汉森林的比赛中被对手压制并完败，以 2:3 的惨痛比分落败</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/news/11661/13617280/manchester-united-transfer-news-red-devils-still-in-running-for-comos-nico-paz-paper-talk" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="周六报纸的热门报道和转移谣言..." data-title="Papers: Man Utd in running for Paz, but Champions League key" data-date="11-28 07:00" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-28 07:00</span>
+          <span class="news-item-title">报纸：曼联正在争夺帕斯，但欧冠资格是关键</span>
+          <span class="news-item-title-en">Papers: Man Utd in running for Paz, but Champions League key</span>
+          <span class="news-value-point">💡 周六报纸的热门报道和转移谣言...</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="摩根·吉布斯-怀特梅开二度，诺丁汉森林在城市球场以 3-2 击败切尔西，这是自 1997 年以来的首次。" data-title="Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea" data-date="11-28 05:59" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 05:59</span>
+          <span class="news-item-title">吉布斯-怀特闪耀，福法纳表现不佳——诺丁汉森林对阵切尔西的球员评分</span>
+          <span class="news-item-title-en">Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea</span>
+          <span class="news-value-point">💡 摩根·吉布斯-怀特梅开二度，诺丁汉森林在城市球场以 3-2 击败切尔西，这是自 1997 年以来的首次</span>
+        </a>
+        <a class="news-item" href="https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在诺丁汉森林队在城市球场以 3-2 战胜切尔西的比赛中，摩根·吉布斯-怀特梅开二度，而哈维·阿隆索的危机则进一步加深。" data-title="Forest beat Chelsea to heap pressure on Alonso as Fofana is booed" data-date="11-28 05:45" data-source="天空体育">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
+          <span class="news-item-date">11-28 05:45</span>
+          <span class="news-item-title">诺丁汉森林队击败切尔西队，给阿隆索施加压力，福法纳遭到嘘声</span>
+          <span class="news-item-title-en">Forest beat Chelsea to heap pressure on Alonso as Fofana is booed</span>
+          <span class="news-value-point">💡 在诺丁汉森林队在城市球场以 3-2 战胜切尔西的比赛中，摩根·吉布斯-怀特梅开二度，而哈维·阿隆索的危机则进一步加深</span>
+        </a>
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cmqlqeqd4wg5o?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在切尔西于英超联赛中不敌诺丁汉森林的比赛中，切尔西后卫韦斯利·福法纳因一次有争议的采访而遭到自家球迷的嘘声。" data-title="&#39;You&#39;re not welcome here&#39; - fans turn on Fofana as Chelsea lose again" data-date="11-28 05:31" data-source="BBC">
+          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 05:31</span>
+          <span class="news-item-title">“这里不欢迎你”——切尔西再次失利，球迷对福法纳群起而攻之</span>
+          <span class="news-item-title-en">'You're not welcome here' - fans turn on Fofana as Chelsea lose again</span>
+          <span class="news-value-point">💡 在切尔西于英超联赛中不敌诺丁汉森林的比赛中，切尔西后卫韦斯利·福法纳因一次有争议的采访而遭到自家球迷的嘘声</span>
+        </a>
         <a class="news-item" href="https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-title="Emegha pulls a goal back for Chelsea at Forest LIVE!" data-date="11-28 02:30" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
           <span class="news-item-date">11-28 02:30</span>
-          <span class="news-item-title">Emegha pulls a goal back for Chelsea at Forest LIVE!</span>
+          <span class="news-item-title">埃梅加为切尔西扳回一球，诺丁汉森林直播！</span>
+          <span class="news-item-title-en">Emegha pulls a goal back for Chelsea at Forest LIVE!</span>
         </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Aston Villa boss Unai Emery praises Alejandro Garnacho&#39;s &quot;fantastic attitude&quot; but suggests other players rank ahead of him for selection." data-title="Emery praises Garnacho attitude after Villa selection snub" data-date="11-28 01:42" data-source="BBC">
+        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cwp9d4eg4n2xo?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="阿斯顿维拉主教练乌奈·埃梅里赞扬亚历杭德罗·加尔纳乔的“出色态度”，但表示其他球员在选拔中排在他前面。" data-title="Emery praises Garnacho attitude after Villa selection snub" data-date="11-28 01:42" data-source="BBC">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
           <span class="source-badge source-bbc">🇬🇧 BBC</span>
           <span class="news-item-date">11-28 01:42</span>
-          <span class="news-item-title">Emery praises Garnacho attitude after Villa selection snub</span>
-          <span class="news-value-point">💡 Aston Villa boss Unai Emery praises Alejandro Garnacho's "fantastic atti…</span>
+          <span class="news-item-title">埃梅里在维拉队落选后赞扬加纳乔的态度</span>
+          <span class="news-item-title-en">Emery praises Garnacho attitude after Villa selection snub</span>
+          <span class="news-value-point">💡 阿斯顿维拉主教练乌奈·埃梅里赞扬亚历杭德罗·加尔纳乔的“出色态度”，但表示其他球员在选拔中排在他前面</span>
         </a>
         <a class="news-item" href="https://www.skysports.com/football/live-blog/12040/13208899/wsl-news-transfers-rumours-gossip-and-womens-football-latest" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="VOTE: Were Arsenal right to sack Slegers?" data-title="VOTE: Were Arsenal right to sack Slegers?" data-date="11-28 00:35" data-source="天空体育">
           <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
@@ -362,44 +417,6 @@ title: 热点新闻
           <span class="news-item-title-en">'I am not a magician' - what can Maresca's Man City learn from watertight Arsenal?</span>
           <span class="news-value-point">💡 曼城防守漏洞百出，即将迎来本赛季最艰难的比赛之一，客场挑战防守滴水不漏的阿森纳，力求扭转近期状态不佳的局面</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13617215/bruno-fernandes-man-utd-activate-captains-12-month-option-to-extend-contract-which-now-ends-in-2028" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="曼联已启动延长队长布鲁诺·费尔南德斯合同的 12 个月选项。" data-title="Man Utd activate Fernandes contract extension clause" data-date="11-27 22:10" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-27 22:10</span>
-          <span class="news-item-title">曼联启动费尔南德斯合同延期条款</span>
-          <span class="news-item-title-en">Man Utd activate Fernandes contract extension clause</span>
-          <span class="news-value-point">💡 曼联已启动延长队长布鲁诺·费尔南德斯合同的 12 个月选项</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man City latest: &#39;It&#39;s completely normal&#39; - Maresca not panicking over form" data-title="Man City latest: &#39;It&#39;s completely normal&#39; - Maresca not panicking over form" data-date="11-27 21:11" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-27 21:11</span>
-          <span class="news-item-title">曼城最新消息：“这完全正常”——马雷斯卡对球队状态并不感到恐慌</span>
-          <span class="news-item-title-en">Man City latest: 'It's completely normal' - Maresca not panicking over form</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/live-blog/11661/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="Man Utd latest: Pochettino hits back at criticism" data-title="Man Utd latest: Pochettino hits back at criticism" data-date="11-27 20:03" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-27 20:03</span>
-          <span class="news-item-title">曼联最新消息：波切蒂诺回击批评</span>
-          <span class="news-item-title-en">Man Utd latest: Pochettino hits back at criticism</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/football/news/11661/13616882/man-utd-being-relegated-would-be-the-biggest-shock-in-history-but-it-wont-happen-says-paul-merson" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="在最新的《天空体育》专栏中，保罗·默森对曼联本周末的重要赛事进行了前瞻，而阿森纳将在本周日与曼城进行一场备受瞩目的直播比赛。" data-title="&#39;Man Utd being relegated would be biggest shock in history... but it won&#39;t happen&#39;" data-date="11-27 17:00" data-source="天空体育">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-27 17:00</span>
-          <span class="news-item-title">“曼联降级将是足球史上最大的震撼……但这不会发生。”</span>
-          <span class="news-item-title-en">'Man Utd being relegated would be biggest shock in history... but it won't happen'</span>
-          <span class="news-value-point">💡 在最新的《天空体育》专栏中，保罗·默森对曼联本周末的重要赛事进行了前瞻，而阿森纳将在本周日与曼城进行一场备受瞩目的直播比赛</span>
-        </a>
-        <a class="news-item" href="https://www.bbc.co.uk/sport/football/articles/cwp809d7yp4go?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zuqiu" data-summary="一些英超俱乐部的高层人士对BBC体育表示，曼城的老板必须被迫出售俱乐部，以惩罚其违反财务规则的行为。" data-title="Man City owners should be forced to sell, say clubs" data-date="11-27 14:38" data-source="BBC">
-          <span class="news-cat-tag cat-zuqiu">⚽ 足球专栏</span>
-          <span class="source-badge source-bbc">🇬🇧 BBC</span>
-          <span class="news-item-date">11-27 14:38</span>
-          <span class="news-item-title">多家俱乐部表示，应迫使曼城老板出售球队</span>
-          <span class="news-item-title-en">Man City owners should be forced to sell, say clubs</span>
-          <span class="news-value-point">💡 一些英超俱乐部的高层人士对BBC体育表示，曼城的老板必须被迫出售俱乐部，以惩罚其违反财务规则的行为</span>
-        </a>
   </div>
   <div class="news-category">
     <div class="news-category-header">
@@ -407,124 +424,117 @@ title: 热点新闻
       <span class="news-category-title">综合要闻 & 社会动态 (文化社会 · 环保教育 · 历史人文)</span>
       <span class="news-category-count">15 条</span>
     </div>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas" target="_blank" rel="noopener" data-cat="zonghe" data-summary="过去几周，今年的黑色星期五优惠活动已分批推出，但现在已正式全面开启。您现在可以享受我们所见过的实体店和线上最低价格，购买视频游戏、无线耳机、电视、电子产品等。" data-title="The absolute best Black Friday deals we’ve found (so far)" data-date="11-28 05:09" data-source="The Verge">
+        <a class="news-item" href="https://www.bbc.com/zhongwen/articles/cwkgry00vk48o/trad?at_medium=RSS&at_campaign=rss" target="_blank" rel="noopener" data-cat="zonghe" data-summary="BBC中文在台湾“九合一”选举投票结束后进行视像直播，除了专家分析选举结果，亦会在投票站和竞选总部进行现场报道。" data-title="台湾“九合一”选举BBC视像直播" data-date="11-28 17:20" data-source="BBC">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 05:09</span>
-          <span class="news-item-title">我们迄今为止找到的超值黑色星期五优惠</span>
-          <span class="news-item-title-en">The absolute best Black Friday deals we’ve found (so far)</span>
-          <span class="news-value-point">💡 过去几周，今年的黑色星期五优惠活动已分批推出，但现在已正式全面开启</span>
+          <span class="source-badge source-bbc">🇬🇧 BBC</span>
+          <span class="news-item-date">11-28 17:20</span>
+          <span class="news-item-title">台湾“九合一”选举BBC视像直播</span>
+          <span class="news-value-point">💡 BBC中文在台湾“九合一”选举投票结束后进行视像直播，除了专家分析选举结果，亦会在投票站和竞选总部进行现场报道</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/supreme-court-rulings-midterms-voting.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="有关投票权、移民和腐败的决定引发了强烈反弹，这有助于提高投票率，推动民主党在国会大选中大获全胜。" data-title="Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them" data-date="11-28 05:08" data-source="纽约时报">
+        <a class="news-item" href="https://www.ithome.com/1/033/930.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今日京东自营 AirPods 大促加码，AirPods 5 支持主动降噪，官方定价 999 元，长续航 + 无线充电盒版定价 1149 元。今日 PLUS 国补后低至 789 元起，此优惠限账号：京东 Apple AirPods 5 支持主动降噪国补后 789 元直达链接京东 Apple AirPods 5 搭配无线充电盒 增强续航国补后 917 元直达链接AirPods 京东保价 7 天，一周内下单的 PLUS 会员都可保价哦：点此保价。AirPods Pro 3 定价 1899 元，今日京东 PLUS 国补后 1265 元也是好价：京东 AirPods Pro 第三代搭配 MagSafe 充电盒券后 1265 元直达链接AirPods 5 降噪能力≈ AirPods Pro 第 1 代，" data-title="999 → 789 元：苹果 AirPods 5 降噪耳机京东久违发车" data-date="11-28 17:15" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-28 05:08</span>
-          <span class="news-item-title">共和党人欢呼的最高法院裁决最终却让他们吃了大亏</span>
-          <span class="news-item-title-en">Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them</span>
-          <span class="news-value-point">💡 有关投票权、移民和腐败的决定引发了强烈反弹，这有助于提高投票率，推动民主党在国会大选中大获全胜</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 17:15</span>
+          <span class="news-item-title">999 → 789 元：苹果 AirPods 5 降噪耳机京东久违发车</span>
+          <span class="news-value-point">💡 今日京东自营 AirPods 大促加码，AirPods 5 支持主动降噪，官方定价 999 元，长续航 + 无线充电盒版定价 1149 元</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/monitors/gaming-monitors/samsungs-49-inch-oled-gaming-monitor-returns-to-its-lowest-price-ever-at-amazon-take-your-gpu-on-an-ultrawide-odyssey-for-usd854" target="_blank" rel="noopener" data-cat="zonghe" data-summary="亚马逊正在以854美元的价格销售三星Odyssey G9 G93SC，这是历史新低。这款游戏显示器通常售价超过 1200 美元。" data-title="Samsung&#39;s 49-inch OLED gaming monitor drops to a new low price of $854" data-date="11-28 05:06" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.ithome.com/1/033/928.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 28 日消息，2026 开源鸿蒙技术大会今日在南京举行。此次大会上，上海海思重点介绍了基于开源鸿蒙构建的统一 OS 平台 —— Hi-OHOS。官方表示，重构百亿 IoT 终端，需要一套系统原生的能力：有联接 —— 分布式软总线结合星闪硬总线，兑现设备跨品牌跨品类互联互通；有计算 ——AI 能力内建于系统框架，轻量终端也具备完整 AI 能力；有感知 —— 系统级框架统一适配视觉、声学、IMU 等传感器件，感知数据即插即用，无需逐设备重复开发；有交互 —— 从无屏到小屏再到大屏，分布式协同让交互界面随终端形态弹性伸缩。而开源鸿蒙原生集成了联接、AI、图形等多项能力，是千行百业轻智能升级的 OS 底座。据介绍，该平台将星闪联接、端侧 AI、超高清音视频三大生态能力融入开源鸿蒙" data-title="将星闪联接、端侧 AI、超高清音视频融入开源鸿蒙，上海海思介绍 Hi" data-date="11-28 17:05" data-source="IT之家">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 05:06</span>
-          <span class="news-item-title">三星49英寸OLED游戏显示器降至854美元的历史新低</span>
-          <span class="news-item-title-en">Samsung's 49-inch OLED gaming monitor drops to a new low price of $854</span>
-          <span class="news-value-point">💡 亚马逊正在以854美元的价格销售三星Odyssey G9 G93SC，这是历史新低</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 17:05</span>
+          <span class="news-item-title">将星闪联接、端侧 AI、超高清音视频融入开源鸿蒙，上海海思介绍 Hi</span>
+          <span class="news-value-point">💡 IT之家 11 月 28 日消息，2026 开源鸿蒙技术大会今日在南京举行</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Akai正通过MPC Sample 1.4固件不断开放其各种音乐制作平台。我最喜欢的（也是最实惠的）MPC采样器已成为氛围编码自定义固件和改装的热门选择。该公司已决定，" data-title="My favorite MPC beat maker is ready for your vibe-coded firmware and effects" data-date="11-28 04:48" data-source="The Verge">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-28/10739303.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="【与自然对话】" data-title="通车二十年" data-date="11-28 17:02" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 04:48</span>
-          <span class="news-item-title">我最喜爱的 MPC 节拍制作器已准备好迎接您的氛围编码固件和效果</span>
-          <span class="news-item-title-en">My favorite MPC beat maker is ready for your vibe-coded firmware and effects</span>
-          <span class="news-value-point">💡 Akai正通过MPC Sample 1.4固件不断开放其各种音乐制作平台</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 17:02</span>
+          <span class="news-item-title">通车二十年</span>
+          <span class="news-value-point">💡 【与自然对话】</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/protect-your-pc-console-or-tv-with-a-cyberpower-st900u-ups-for-just-usd99-95-or-17-percent-off-a-complement-of-12-outlets-available-with-surge-protection" target="_blank" rel="noopener" data-cat="zonghe" data-summary="使用 CyberPower ST900U UPS 保护您的电脑、游戏机或电视，仅需 99.95 美元，或享受八折优惠——配备 12 个带浪涌保护的插孔" data-title="Protect your PC, console, or TV with a CyberPower ST900U UPS for just $99.95, or 17% off" data-date="11-28 04:30" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 04:30</span>
-          <span class="news-item-title">使用CyberPower ST900U UPS保护您的电脑、游戏机或电视，仅需99.95美元，立享八三折优惠</span>
-          <span class="news-item-title-en">Protect your PC, console, or TV with a CyberPower ST900U UPS for just $99.95, or 17% off</span>
-          <span class="news-value-point">💡 使用 CyberPower ST900U UPS 保护您的电脑、游戏机或电视，仅需 99.95 美元，或享受八折优惠——配备 12 个带浪涌保护…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="如果我们的 30 美元以下黑色星期五精选让您渴望以低价购买更多超值小工具，那么您目前可以在亚马逊上以 17.89 美元起的黑色星期五优惠价购买黑色款 Nothing CMF Buds 2A，这比建议零售价低约 11 美元，也是最低价格。" data-title="Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday" data-date="11-28 04:30" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 04:30</span>
-          <span class="news-item-title">Nothing的ANC耳机在黑色星期五期间售价不到20美元</span>
-          <span class="news-item-title-en">Nothing’s ANC-equipped earbuds are on sale for less than $20 for Black Friday</span>
-          <span class="news-value-point">💡 如果我们的 30 美元以下黑色星期五精选让您渴望以低价购买更多超值小工具，那么您目前可以在亚马逊上以 17.89 美元起的黑色星期五优惠价购买黑…</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale" target="_blank" rel="noopener" data-cat="zonghe" data-summary="If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price of $29 each, but have been consistently available for around $24 since Amazon Prime Day in late June. […]" data-title="Apple’s latest AirTags have dropped to just $18 a pop for Black Friday" data-date="11-28 04:30" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 04:30</span>
-          <span class="news-item-title">苹果最新款AirTag在黑色星期五降至仅18美元一个</span>
-          <span class="news-item-title-en">Apple’s latest AirTags have dropped to just $18 a pop for Black Friday</span>
-          <span class="news-value-point">💡 If you’re tired of constantly scrounging around for your lost belongings…</span>
-        </a>
-        <a class="news-item" href="https://www.skysports.com/f1/news/12040/13617143/charles-leclerc-seeking-outlier-as-ferrari-mclaren-red-bull-try-to-catch-mercedes-at-qatar-grand-prix" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Charles Leclerc believes an “outlier” has given Mercedes a “massive” advantage at the Qatar Grand Prix, after Kimi Antonelli and George Russell dominated Friday’s practice sessions." data-title="&#39;A bit strange&#39; - Leclerc seeking outlier to catch Mercedes in Qatar" data-date="11-28 04:20" data-source="天空体育">
+        <a class="news-item" href="https://www.skysports.com/snooker/news/12040/13617423/uk-championship-snooker-2026-draw-and-results-ronnie-osullivan-mark-allen-judd-trump-and-mark-williams-among-players-at-york-barbican" target="_blank" rel="noopener" data-cat="zonghe" data-summary="斯诺克赛季的首个“三大赛”赛事——英国锦标赛将于11月28日至12月6日在约克举行，罗尼·奥沙利文是参赛的明星选手之一。" data-title="UK Championship snooker draw and results" data-date="11-28 17:00" data-source="天空体育">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-28 04:20</span>
-          <span class="news-item-title">'A bit strange' - Leclerc seeking outlier to catch Mercedes in Qatar</span>
-          <span class="news-value-point">💡 Charles Leclerc believes an “outlier” has given Mercedes a “massive” adv…</span>
+          <span class="news-item-date">11-28 17:00</span>
+          <span class="news-item-title">英国斯诺克锦标赛抽签和结果</span>
+          <span class="news-item-title-en">UK Championship snooker draw and results</span>
+          <span class="news-value-point">💡 斯诺克赛季的首个“三大赛”赛事——英国锦标赛将于11月28日至12月6日在约克举行，罗尼·奥沙利文是参赛的明星选手之一</span>
         </a>
-        <a class="news-item" href="https://www.skysports.com/darts/news/12040/13617309/phil-taylor-says-he-is-quitting-competitive-darts-for-good-as-he-and-adrian-lewis-are-knocked-out-of-modus-super-series" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Phil Taylor says he is quitting competitive darts for good and has no plans to come out of retirement again." data-title="Taylor says he is quitting darts for good after comeback" data-date="11-28 04:15" data-source="天空体育">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-28/10739300.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="编者按：" data-title="邂逅中国 爱上中国｜指尖捏万象，肯尼亚留学生近距离触摸古老非遗“新脉搏" data-date="11-28 16:56" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-skysports">🏴󠁧󠁢󠁥󠁮󠁧󠁿 天空体育</span>
-          <span class="news-item-date">11-28 04:15</span>
-          <span class="news-item-title">Taylor says he is quitting darts for good after comeback</span>
-          <span class="news-value-point">💡 Phil Taylor says he is quitting competitive darts for good and has no pl…</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:56</span>
+          <span class="news-item-title">邂逅中国 爱上中国｜指尖捏万象，肯尼亚留学生近距离触摸古老非遗“新脉搏</span>
+          <span class="news-value-point">💡 编者按：</span>
         </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/get-a-sony-wh-1000-mx5-headset-with-anc-for-only-usd169-99-aural-bliss-for-your-games-and-movies" target="_blank" rel="noopener" data-cat="zonghe" data-summary="仅需169.99美元即可获得带ANC的索尼WH-1000 XM5耳机——为您的游戏和电影带来听觉享受" data-title="Get a Sony WH-1000 XM5 headset with ANC for only $169.99 — aural bliss for your games and movies" data-date="11-28 03:49" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-28/10739298.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="视频：函博Vlog｜遇见喀什古城：来到这里就是一家人来源：新华社" data-title="函博Vlog｜遇见喀什古城：来到这里就是一家人" data-date="11-28 16:50" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:50</span>
+          <span class="news-item-title">函博Vlog｜遇见喀什古城：来到这里就是一家人</span>
+          <span class="news-value-point">💡 视频：函博Vlog｜遇见喀什古城：来到这里就是一家人来源：新华社</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/926.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 28 日消息，当地时间 27 日，据外媒 insideevs 报道，欧盟纯电动汽车市场正加速增长。10 月新车注册量比 2025 年同期增加约 24000 辆，其中纯电动车就贡献了超过 10.6 万辆的增量。与之形成对比的是，纯汽油车注册量下降近 30%，柴油车也下降了 31%。欧洲汽车制造商协会（ACEA）数据显示，欧盟 10 月共注册 279799 辆纯电动乘用车，同比上涨 61.4%。同期，汽油车注册量为 158970 辆，柴油车为 51177 辆。换句话说，上个月欧盟每新增 3 辆汽油车或柴油车，就有约 4 辆纯电动车上牌。IT之家注：ACEA 将混合动力车型单独统计，搭载汽油或柴油发动机的轻混车型也包含在内。德国和法国是推动这轮增长的主要市场。两国 10 月纯电" data-title="今年 10 月，欧盟纯电动汽车销量超过汽柴油汽车之和" data-date="11-28 16:50" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 16:50</span>
+          <span class="news-item-title">今年 10 月，欧盟纯电动汽车销量超过汽柴油汽车之和</span>
+          <span class="news-value-point">💡 IT之家 11 月 28 日消息，当地时间 27 日，据外媒 insideevs 报道，欧盟纯电动汽车市场正加速增长</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/924.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 28 日消息，据央视新闻报道，北京时间 2026 年 11 月 28 日，神舟二十三号和神舟二十四号航天员进行交接仪式，移交了中国空间站的钥匙。根据任务计划安排，首名外籍航天员穆罕默德 · 齐尚 · 阿里将乘坐神舟二十三号飞船返回，航天员朱杨柱将留轨完成一年期在轨驻留试验，与指令长汤洪波、航天员武毅共同执行神舟二十四号载人飞行任务。截至目前，航天员张志远、黎家盈、穆罕默德 · 齐尚 · 阿里已完成全部既定任务，航天员张志远将担任神舟二十三号返回任务指令长。3 名航天员将于近日搭乘飞船返回东风着陆场，还将带回来自“天宫”的“神秘礼物”。目前，着陆场及各参试系统正在紧锣密鼓做好迎接航天员回家的各项准备。综合IT之家此前报道，北京时间 11 月 25 日 08 时 18 分 5" data-title="神舟二十三号和神舟二十四号航天员完成在轨交接，首名外籍航天员将返回" data-date="11-28 16:50" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 16:50</span>
+          <span class="news-item-title">神舟二十三号和神舟二十四号航天员完成在轨交接，首名外籍航天员将返回</span>
+          <span class="news-value-point">💡 IT之家 11 月 28 日消息，据央视新闻报道，北京时间 2026 年 11 月 28 日，神舟二十三号和神舟二十四号航天员进行交接仪式，移交…</span>
+        </a>
+        <a class="news-item" href="https://www.ithome.com/1/033/923.htm" target="_blank" rel="noopener" data-cat="zonghe" data-summary="IT之家 11 月 28 日消息，永诺今日宣布推出 YN16mm F1.8Z DA DSM Z 卡口 APS-C 画幅广角镜头，该镜头此前已推出索尼 E 卡口版本，新品首发价 1299 元。这款镜头等效全画幅 24mm 焦段，重约 273g；拥有 Fn-A、Fn-B 两个自定义按键；支持控制环操作，可根据使用需求分配光圈、ISO、曝光补偿等功能；搭载 DSM 数控步进电机，对焦响应快、精度高、寻焦动作安静。这款镜头搭载 8 组 10 片光学结构，包含非球面镜片、低色散镜片及超低色散镜片；配合纳米多层镀膜，提升透光率并抑制逆光鬼像与眩光。IT之家附产品规格如下：京东永诺 YN 16mm F1.8Z 半画幅券后 1299 元领 100 元券" data-title="永诺 16mm F1.8 DA DSM APS-C 镜头新增尼康 Z 卡口，1299 元" data-date="11-28 16:49" data-source="IT之家">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 IT之家</span>
+          <span class="news-item-date">11-28 16:49</span>
+          <span class="news-item-title">永诺 16mm F1.8 DA DSM APS-C 镜头新增尼康 Z 卡口，1299 元</span>
+          <span class="news-value-point">💡 IT之家 11 月 28 日消息，永诺今日宣布推出 YN16mm F1.8Z DA DSM Z 卡口 APS-C 画幅广角镜头，该镜头此前已推出…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-28/10739279.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网西安11月28日电 (记者 阿琳娜)由承德市旅游和文化广电局、隆化县人民政府主办，陕西省旅行社协会入境专业委员会、隆化县旅游和文化广电局承办的“承心承意·邀约西安”2026河北承德冬季入境旅游暨隆化县农旅招商宣传推介活动27日在西安举办。" data-title="承心承意邀约西安 承德冬季文旅招商推介亮相古城" data-date="11-28 16:48" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:48</span>
+          <span class="news-item-title">承心承意邀约西安 承德冬季文旅招商推介亮相古城</span>
+          <span class="news-value-point">💡 中新网西安11月28日电 (记者 阿琳娜)由承德市旅游和文化广电局、隆化县人民政府主办，陕西省旅行社协会入境专业委员会、隆化县旅游和文化广电局承…</span>
+        </a>
+        <a class="news-item" href="https://www.chinanews.com.cn/sh/2026/11-28/10739283.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网长沙11月28日电(侯艺华 段珊)11月28日，“长沙银行杯”2026中国研究生创“芯”大赛·EDA精英挑战赛全国总决赛在长沙开幕。" data-title="2026中国研究生创“芯”大赛·EDA精英挑战赛全国总决赛开幕" data-date="11-28 16:44" data-source="中国新闻网">
+          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:44</span>
+          <span class="news-item-title">2026中国研究生创“芯”大赛·EDA精英挑战赛全国总决赛开幕</span>
+          <span class="news-value-point">💡 中新网长沙11月28日电(侯艺华 段珊)11月28日，“长沙银行杯”2026中国研究生创“芯”大赛·EDA精英挑战赛全国总决赛在长沙开幕</span>
+        </a>
+        <a class="news-item" href="https://www.tomshardware.com/live/news/best-black-friday-3d-printer-deals-day-two" target="_blank" rel="noopener" data-cat="zonghe" data-summary="本周末仍可购买的最佳黑色星期五3D打印机优惠。" data-title="Best Black Friday 2026 3D Printer deals live" data-date="11-28 16:22" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 03:49</span>
-          <span class="news-item-title">仅需169.99美元即可获得带ANC的索尼WH-1000 XM5耳机——为您的游戏和电影带来听觉享受</span>
-          <span class="news-item-title-en">Get a Sony WH-1000 XM5 headset with ANC for only $169.99 — aural bliss for your games and movies</span>
-          <span class="news-value-point">💡 仅需169.99美元即可获得带ANC的索尼WH-1000 XM5耳机——为您的游戏和电影带来听觉享受</span>
+          <span class="news-item-date">11-28 16:22</span>
+          <span class="news-item-title">2026年黑色星期五3D打印机超值优惠现已上线</span>
+          <span class="news-item-title-en">Best Black Friday 2026 3D Printer deals live</span>
+          <span class="news-value-point">💡 本周末仍可购买的最佳黑色星期五3D打印机优惠</span>
         </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1044314/oura-ring-health-data-android-11" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Oura will be dropping support for Android 11 on December 8th, 2026, and users may not have access to all of their data if they don&#39;t upgrade to Android 12 or higher before the deadline. The support page now reads: Oura will drop support for Android 11 on December 8, 2026. If you are using […]" data-title="You might lose your Oura health data if you’re still using an old Android phone" data-date="11-28 03:44" data-source="The Verge">
+        <a class="news-item" href="https://www.chinanews.com.cn/gn/2026/11-28/10739257.shtml" target="_blank" rel="noopener" data-cat="zonghe" data-summary="中新网11月28日电 据国家广播电视总局微信公众号消息，为重点治理网络剧、微短剧、网络综艺等网络视听节目不良传播生态问题，今年以来，国家广播电视总局开展了网络视听节目不良传播行为专项治理工作，压紧压实网络视听平台主体责任，指导网络视听平台强化审核把关，对传播侵权盗版、涉暴力恐怖、低俗不良、AI魔改等违规内容的问题予以整改，有效规范网络视听节目传播秩序，促进行业健康发展，持续营造风清气正的网络视听环境。" data-title="广电总局通报网络视听节目不良传播行为治理典型案例" data-date="11-28 16:16" data-source="中国新闻网">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 03:44</span>
-          <span class="news-item-title">You might lose your Oura health data if you’re still using an old Android phone</span>
-          <span class="news-value-point">💡 Oura will be dropping support for Android 11 on December 8th, 2026, and …</span>
+          <span class="source-badge source-cn">🇨🇳 中国新闻网</span>
+          <span class="news-item-date">11-28 16:16</span>
+          <span class="news-item-title">广电总局通报网络视听节目不良传播行为治理典型案例</span>
+          <span class="news-value-point">💡 中新网11月28日电 据国家广播电视总局微信公众号消息，为重点治理网络剧、微短剧、网络综艺等网络视听节目不良传播生态问题，今年以来，国家广播电视…</span>
         </a>
-        <a class="news-item" href="https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html" target="_blank" rel="noopener" data-cat="zonghe" data-summary="Ms. Stewart-Cousins, 76, served in the state senate for 20 years." data-title="Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies" data-date="11-28 03:43" data-source="纽约时报">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-nytimes">🇺🇸 纽约时报</span>
-          <span class="news-item-date">11-28 03:43</span>
-          <span class="news-item-title">Andrea Stewart-Cousins, New York’s First Female Senate Majority Leader, Dies</span>
-          <span class="news-value-point">💡 Ms. Stewart-Cousins, 76, served in the state senate for 20 years.</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/gpus/get-the-cheapest-rtx-5070-around-this-black-friday-with-gigabytes-usd839-gaming-oc-card-midrange-blackwell-continues-to-shine-with-dlss-4-5-and-dlss-5" target="_blank" rel="noopener" data-cat="zonghe" data-summary="今年黑色星期五想升级到中端RTX 50系列吗？技嘉 Gaming RTX 5070 为您提供大尺寸散热器和炫酷的 RGB 灯效，价格是本周我们见过的最低价。" data-title="Get the cheapest RTX 5070 around this Black Friday with Gigabyte&#39;s $839 Gaming OC card" data-date="11-28 03:38" data-source="Tom's Hardware">
+        <a class="news-item" href="https://www.tomshardware.com/live/news/best-black-friday-gaming-laptop-deals-day-two" target="_blank" rel="noopener" data-cat="zonghe" data-summary="本周末，最超值的黑色星期五游戏笔记本电脑优惠仍在继续。" data-title="Best Black Friday Gaming laptop deals live" data-date="11-28 16:01" data-source="Tom's Hardware">
           <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
           <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 03:38</span>
-          <span class="news-item-title">今年黑色星期五，购买技嘉839美元的Gaming OC显卡，享受最优惠的RTX 5070价格</span>
-          <span class="news-item-title-en">Get the cheapest RTX 5070 around this Black Friday with Gigabyte's $839 Gaming OC card</span>
-          <span class="news-value-point">💡 今年黑色星期五想升级到中端RTX 50系列吗</span>
-        </a>
-        <a class="news-item" href="https://www.tomshardware.com/pc-components/ssds/this-silicon-power-ssd-is-selling-for-a-stunning-10-cents-per-gb-at-only-usd209-this-is-the-best-2tb-ssd-deal-on-newegg" target="_blank" rel="noopener" data-cat="zonghe" data-summary="在Newegg以每GB 10美分的超值价格入手2TB存储空间。Silicon Power的P34A60是黑色星期五促销期间最超值的固态硬盘之一。" data-title="This Silicon Power SSD is selling for a stunning 10 cents per GB — at only $209, this is the best 2TB SSD deal on Newegg" data-date="11-28 03:35" data-source="Tom's Hardware">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-tomshardware">⚡ Tom's Hardware</span>
-          <span class="news-item-date">11-28 03:35</span>
-          <span class="news-item-title">这款Silicon Power固态硬盘的售价令人惊叹，每GB仅10美分——仅需209美元，这是Newegg上最划算的2TB固态硬盘优惠。</span>
-          <span class="news-item-title-en">This Silicon Power SSD is selling for a stunning 10 cents per GB — at only $209, this is the best 2TB SSD deal on Newegg</span>
-          <span class="news-value-point">💡 在Newegg以每GB 10美分的超值价格入手2TB存储空间</span>
-        </a>
-        <a class="news-item" href="https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday" target="_blank" rel="noopener" data-cat="zonghe" data-summary="I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and thermostats see their lowest prices […]" data-title="The best Black Friday deals on smart home gear" data-date="11-28 03:30" data-source="The Verge">
-          <span class="news-cat-tag cat-zonghe">📰 综合要闻</span>
-          <span class="source-badge source-theverge">🌐 The Verge</span>
-          <span class="news-item-date">11-28 03:30</span>
-          <span class="news-item-title">The best Black Friday deals on smart home gear</span>
-          <span class="news-value-point">💡 I’ve spent my post-turkey haze powering through reams of deals on smart …</span>
+          <span class="news-item-date">11-28 16:01</span>
+          <span class="news-item-title">超值黑色星期五游戏笔记本电脑优惠上线</span>
+          <span class="news-item-title-en">Best Black Friday Gaming laptop deals live</span>
+          <span class="news-value-point">💡 本周末，最超值的黑色星期五游戏笔记本电脑优惠仍在继续</span>
         </a>
   </div>
 </div>
 <script defer src="{{ "/assets/js/news-feed.js" | relative_url }}"></script>
 
 
-<p class="news-updated">🕐 抓取更新于 2026-11-28 05:29（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
+<p class="news-updated">🕐 抓取更新于 2026-11-28 17:32（北京时间）· 首页展示最近 24 小时精选动态 · 往期请查阅历史归档</p>
